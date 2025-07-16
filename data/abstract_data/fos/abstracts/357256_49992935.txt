@@ -1,0 +1,2 @@
+The multiplication theorem and bases in finite and affine quantum cluster algebras
+We prove a multiplication theorem for quantum cluster algebras of acyclic quivers. The theorem generalizes the multiplication formula for quantum cluster variables in \cite{fanqin}. We apply the formula to construct some $\mathbb{ZP}$-bases in quantum cluster algebras of finite and affine types. Under the specialization $q$ and coefficients to $1$, these bases are the integral bases of cluster algebra of finite and affine types (see \cite{CK1} and \cite{DXX}).

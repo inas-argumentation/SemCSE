@@ -1,0 +1,2 @@
+Supervisory Controller Design to Enforce Reversibility and Liveness in Colored Petri Nets
+Colored Petri net model which is a model of discrete event systems is considered in this work. A supervisory controller which enforces reversibility and liveness simultaneously is presented. Furthermore, the algorithms, written by pseudo-code, are presented for the supervisory controller design. A program is developed to implement these algorithms.

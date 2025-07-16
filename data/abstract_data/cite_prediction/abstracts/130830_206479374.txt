@@ -1,0 +1,2 @@
+Update on the Hybrid Wireless Mesh Protocol of IEEE 802.11s
+HWMP, the default routing protocol of IEEE 802.11s has been revised during the comment resolution of the first letter ballot. The paper gives an update on three areas where major changes have been introduced to HWMP: support for interworking with other networks; revised concept for proactive routing trees to root MPs; and a better aligned extensible path selection framework.

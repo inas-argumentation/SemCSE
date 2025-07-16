@@ -1,0 +1,32 @@
+Efficient multi-angle polarimetric inversion of aerosols and ocean color powered by a deep neural network forward model
+. NASA's Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission, scheduled for
+launch in the timeframe of 2023, will carry a hyperspectral scanning
+radiometer named the Ocean Color Instrument (OCI) and two multi-angle
+polarimeters (MAPs): the UMBC Hyper-Angular Rainbow Polarimeter (HARP2) and the
+SRON Spectro-Polarimeter for Planetary EXploration one (SPEXone). The MAP
+measurements contain rich information on the microphysical properties of
+aerosols and hydrosols and therefore can be used to retrieve accurate aerosol
+properties for complex atmosphere and ocean systems. Most polarimetric aerosol
+retrieval algorithms utilize vector radiative transfer models iteratively in
+an optimization approach, which leads to high computational costs that limit
+their usage in the operational processing of large data volumes acquired by
+the MAP imagers. In this work, we propose a deep neural network (NN) forward
+model to represent the radiative transfer simulation of coupled atmosphere and
+ocean systems for applications to the HARP2 instrument and its
+predecessors. Through the evaluation of synthetic datasets for AirHARP
+(airborne version of HARP2), the NN model achieves a numerical accuracy
+smaller than the instrument uncertainties, with a running time of
+0.01  s in a single CPU core or 1  ms in a GPU. Using the NN as a
+forward model, we built an efficient joint aerosol and ocean color retrieval
+algorithm called FastMAPOL, evolved from the well-validated Multi-Angular
+Polarimetric Ocean coLor (MAPOL) algorithm. Retrievals of aerosol properties
+and water-leaving signals were conducted on both the synthetic data and the
+AirHARP field measurements from the Aerosol Characterization from Polarimeter
+and Lidar (ACEPOL) campaign in 2017. From the validation with the synthetic
+data and the collocated High Spectral Resolution Lidar (HSRL) aerosol
+products, we demonstrated that the aerosol microphysical properties and water-leaving signals can be retrieved efficiently and within acceptable
+error. Comparing to the retrieval speed using a conventional radiative transfer
+forward model, the computational acceleration is 103 times faster with CPU
+or 104 times with GPU processors. The FastMAPOL algorithm can be used to
+operationally process the large volume of polarimetric data acquired by PACE
+and other future Earth-observing satellite missions with similar capabilities.

@@ -1,0 +1,13 @@
+ANALYZING THE RECEIVING OPERATION OF DIFFERENT GRAIN TYPES IN A SINGLE–PIT COUNTRY ELEVATOR
+With the rise of value–added grains and oilseeds, many elevators need to segregate their incoming products into 
+batches of different end–use quality (for example, high oil corn, genetically modified soybeans, high protein wheat), but often 
+they are not designed to handle this task efficiently. The primary challenge is to segregate multiple grain streams during the 
+receiving operation without increasing waiting times for all customers. 
+This study utilized a system simulation model to investigate how queue management could help to improve the performance 
+of a country elevator receiving multiple grain streams with a single unloading pit. In order to maintain the speed of the 
+unloading operation, two queuing methods were investigated: the segregated BATCH versus the traditional FIFO (first–in, 
+first–out) queue service method. A discrete event system simulation model was developed and validated utilizing data 
+collected at a country elevator facility in Indiana. The simulation results showed that the BATCH queue management strategy 
+reduced average waiting times per customer by up to 27% compared to the traditional FIFO queue management strategy when 
+the daily grain receipt was near the maximum receiving capacity of the facility. For receiving rates below 72% capacity, the 
+traditional FIFO service had shorter average waiting times per customer.

@@ -1,0 +1,2 @@
+The use of thermal ir array sensor for indoor fall detection
+This paper presents new approach for unobtrusive indoor fall detection by an IR thermal array sensor. Unlike existing methods that run fall detection at server and require high communication and processing rates, we perform fall detection within the sensor node by a computationally inexpensive algorithm that signals the server only when a fall occurs. Experiments with prototype design show that such formulation provides robust and real-time fall detection even in a noisy environment.

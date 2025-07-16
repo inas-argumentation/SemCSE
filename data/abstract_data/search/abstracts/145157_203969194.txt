@@ -1,0 +1,2 @@
+Study of Microcomputer Control System with Constant Power to Hydraulic System of Modular Machine Tool
+The structures and principles of microcomputer control system of constant power hydraulic system were introduced. The flow chart of the control software was given.The system adopts 8051 microprocessor as the control center, it can adjust output flow of hydraulic system by change of load.The system can export all power and keep required pressure on any position.It has the characteristics of simple structure, high safety and reliability.

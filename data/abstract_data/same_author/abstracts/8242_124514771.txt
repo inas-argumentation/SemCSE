@@ -1,0 +1,2 @@
+Construction of AFLT States by Reflection Method and Recursion Formula
+The AFLT states |P〉Y1,Y2 has reflection symmetry, Sn|P〉Y1,Y2 = | − P〉Y2,Y2, nb = −2P, where S is the screening charge. AFLT state can be constructed using this reflect symmetry. We propose a recursion formula for this construction. The recursion formula is factorized completely.

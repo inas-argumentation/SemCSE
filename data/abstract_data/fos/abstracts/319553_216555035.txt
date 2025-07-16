@@ -1,0 +1,2 @@
+A modern signature scheme with message recovery: Abe-Okamoto signatures with EdDSA elements
+This paper revisits the Abe–Okamoto signature scheme to present a version of their signature scheme augmented with modern best practices, with major influences taken from EdDSA. Implementation guidance is given on how to reuse existing Ed25519 code.

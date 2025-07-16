@@ -1,0 +1,2 @@
+A kinetic model of oxygen regulation of cytochrome production in Escherichia coli.
+Recent experimental work has identified the principal components arrayed by Escherichia coli in its sensing of, and response to, varying levels of oxygen. This apparatus may be leveraged/modified by the metabolic engineer to identify nonuniform oxygen and glucose regimens that deliver better yields than their uniform counterparts. Toward this end we build and analyse a mathematical model that captures the role played by oxygen in the regulation of cytochrome production in E. coli.

@@ -1,0 +1,2 @@
+Reactive visual programs for computer-aided music composition
+We present a new framework for reactive programming in OpenMusic, a visual programming language dedicated to computer-aided music composition. We highlight some characteristics of the programming and computation paradigms, and describe the implementation of a hybrid system merging demand-driven and event-driven evaluation models in this environment.

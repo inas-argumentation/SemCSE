@@ -1,0 +1,2 @@
+The Haskell Refactorer, HaRe, and its API
+We demonstrate the Haskell Refactorer, HaRe, both as an example of a fully-functional tool for a complete (functional) programming language, and to show the API which HaRe provides for building source-level program transformations for Haskell. We comment on the challenges presented by the construction of this and similar tools for language frameworks and processors.

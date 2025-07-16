@@ -1,0 +1,2 @@
+A solid modelling system for robot action planning
+The characteristics of several solid representation schemes are discussed with respect to their possible use in robot action planning systems. The World Modeler (WM), a solid modeler developed by combining the generalized cylinder approach with constructive solid geometry, is presented. An efficient algorithm for computing collision among convex polyhedrons, that utilizes the internal geometric data structure of the World Modeler is explained.<<ETX>>

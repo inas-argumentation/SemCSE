@@ -1,0 +1,2 @@
+A Programming Language for Cognitive Agents Goal Directed 3APL
+This paper presents the specification of a programming language for cognitive agents. This programming language is an extension of 3APL (An Abstract Agent Programming Language) and allows the programmer to implement agents’ mental attitudes like beliefs, goals, plans, and actions, and agents’ reasoning rules by means of which agents can modify their mental attitudes. The formal syntax and semantics of this language is presented as well as a discussion on the deliberation cycle and an example.

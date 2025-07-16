@@ -1,0 +1,2 @@
+Aspect identification and sentiment analysis based on NLP
+This paper proposes method for aspect identification and sentiment analysis. This paper deals with the problem of sentence level. We use semantic syntax tree to extract NP nodes, a method based on slack to identify aspect and mini-support function to narrow aspect; to analyze the sentiment for the aspect we use dictionary-based method. Experimental results show that the proposed approach achieves the state-of-the-art.

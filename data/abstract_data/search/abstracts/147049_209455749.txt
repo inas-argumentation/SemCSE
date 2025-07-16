@@ -1,0 +1,2 @@
+Applications of Structural Equivalence to Subgraph Isomorphism on Multichannel Multigraphs
+Structural Equivalence refers to the ability to exchange two vertices in a graph without changing the structure of the graph. We provide basic definitions and properties applicable to the subgraph isomorphism problem. We show examples of structural equivalence that reduce the size of the search tree for subgraph isomorphism counting and enumeration, applied to multichannel networks.

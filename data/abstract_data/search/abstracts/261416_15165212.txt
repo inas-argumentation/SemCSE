@@ -1,0 +1,2 @@
+The distribution of non commutative Rademacher series
+We give a formula for the tail of the distribution of the non commutative Rademacher series, which generalizes the result that is already available in the commutative case. As a result, we are able to calculate the norm of these series in many rearrangement invariant spaces, generalizing work of Pisier and Rodin and Semyonov.

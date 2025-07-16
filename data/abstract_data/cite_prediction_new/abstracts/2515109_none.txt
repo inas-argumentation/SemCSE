@@ -1,0 +1,2 @@
+Modeling electromechanical properties of ionic polymers
+We present a multi-scale approach to modeling the electro-mechanical behavior of ionic polymers. We start with a detailed elasto-electro-chemical model which allows for finite deformation. We reduce it to one space dimension appropriate for the commonly used sheet configuration, and demonstrate that steady state solutions display an important boundary layer effect. We conclude with a macroscopic model of a strip of ionic-polymer-metal-composite.

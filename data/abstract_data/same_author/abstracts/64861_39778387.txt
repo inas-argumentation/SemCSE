@@ -1,0 +1,2 @@
+The Location and Recognition of Chinese Vehicle License Plates under Complex Backgrounds
+This paper presents the algorithms to locate license plate and recognize the characters on it. These algorithms have three advantages. First, they have strong robustness to against many noises and disturbances. Second, the methods can deal with license plates with different colors. Third, the recognition methods based on artificial neural network are suitable for Chinese characters.

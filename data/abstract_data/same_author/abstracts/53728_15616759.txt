@@ -1,0 +1,2 @@
+A Method to Implement a Denial of Service Protection Base
+Denial of service attack is an attempt from any authorized or unauthorized entity to allocate resources excessively to prevent normal operation of the system. A method will be presented to specify and enforce a resource allocation policy to prevent denial of service attacks. Resource allocation policy can be formally derived from a waiting time policy where maximum acceptable response times for different processes are specified.

@@ -1,0 +1,2 @@
+WEBDAV: IETF Standard for Collaborative Authoring on the Web
+The paper considers how the World Wide Web Distributed Authoring and Versioning (WebDAV) working group is extending HTTP 1.1 to provide a standards-based infrastructure for asynchronous collaborative authoring on the Web. The WebDAV extensions support the use of HTTP for interoperable publishing of a variety of content, providing a common interface to many types of repositories and making the Web analogous to a large-grain, network-accessible file system.

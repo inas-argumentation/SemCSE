@@ -1,0 +1,27 @@
+Use of risk-adjusted change in health status to assess the performance of integrated service networks in the Veterans Health Administration.
+OBJECTIVE
+Health outcome assessments have become an expectation of regulatory and accreditation agencies. We examined whether a clinically credible risk adjustment methodology for the outcome of change in health status can be developed for performance assessment of integrated service networks.
+
+
+STUDY DESIGN
+Longitudinal study.
+
+
+SETTING
+Outpatient.
+
+
+STUDY PARTICIPANTS
+Thirty-one thousand eight hundred and twenty-three patients from 22 Veterans Health Administration (VHA) integrated service networks were followed for 18 months.
+
+
+MAIN MEASURE
+The physical (PCS) and mental (MCS) component scales from the Veterans Rand 36-items Health Survey (VR-36) and mortality. The outcomes were decline in PCS (decline in PCS scores greater than -6.5 points or death) and MCS (decline in MCS scores greater than -7.9 points).
+
+
+RESULTS
+Four thousand three hundred and twenty-eight (13.6%) patients showed a decline in PCS scores greater than -6.5 points, 4322 (13.5%) had a decline in MCS scores by more than -7.9 points, and 1737 died (5.5%). Multivariate logistic regression models were used to adjust for case-mix. The models performed reasonably well in cross-validated tests of discrimination (c-statistics = 0.72 and 0.68 for decline in PCS and MCS, respectively) and calibration. The resulting risk-adjusted rates of decline in PCS and MCS and ranks of the networks differed considerably from unadjusted ratings.
+
+
+CONCLUSION
+It is feasible to develop clinically credible risk adjustment models for the outcomes of decline in PCS and MCS. Without adequate controls for case-mix, we could not determine whether poor patient outcomes reflect poor performance, sicker patients, or other factors. This methodology can help to measure and report the performance of health care systems.

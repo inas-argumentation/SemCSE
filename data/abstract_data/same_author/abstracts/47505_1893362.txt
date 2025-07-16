@@ -1,0 +1,2 @@
+Minimal Tetrahedralizations of a Class of Polyhedra
+Given a simple polyhedron P in the three dimensional Euclidean space, different tetrahedralizations of P may contain different numbers of tetrahedra. The minimal tetrahedralization is a tetrahedralization with the minimum number of tetrahedra. In this paper, we present some properties of the graph of polyhedra. Then we identify a class of polyhedra and show that this kind of polyhedra can be minimally tetrahedralized in O(n2) time.

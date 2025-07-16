@@ -1,0 +1,2 @@
+Some analytical results about a simple reaction-diffusion system for morphogenesis
+SummaryThe reaction-diffusion system considered involves only one nonlinear term and is a gradient system. In a bifurcation analysis for the equilibrium states, the global existence of infinitely many solution branches can be shown by the method of Ljusternik-Schnirelmann. Their stability is studied. Using a Ljapunov functional it can be shown that the solutions of the time-dependent system converge to the equilibrium states.

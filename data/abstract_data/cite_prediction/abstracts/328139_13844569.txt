@@ -1,0 +1,2 @@
+Distributed MAP Inference for Undirected Graphical Models
+Graphical models have widespread uses in information extraction and natural language processing. Recent improvements in approximate inference techniques [1, 2, 3, 4] have allowed exploration of dense models over a large number of variables. These applications include coreference resolution [5, 6], relation extraction [7], and joint inference [8, 9, 10]. But as the graphs grow to web scale, even these inference techniques become infeasible, motivating the need for scalable, parallelizable solutions.

@@ -1,0 +1,2 @@
+A Way to Realize the Integration and Configuration between JBuilder 9.0 and JBoss3.2.1
+A practical way to realize the integration and configuration between JBuilder9.0 and JBoss3.2.1 is proposed in the paper. An example is also offered and details are showed clearly. We can establish a typical J2EE environment by using these two powerful facilities, and improve the efficiency of developing three-tie enterprise software.

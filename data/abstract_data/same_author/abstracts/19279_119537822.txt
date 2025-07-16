@@ -1,0 +1,2 @@
+COMPARISON OF HYDRODYNAMICAL AND EXPERIMENTAL ESTIMATES OF ELLIPTICAL FLOW
+Elliptic flow is easy to compute in hydrodynamics. However experimentally it is obtained in an indirect way. The question we address in this paper (using the hydrodynamical code NeXSPheRIO) is how comparable are these two approaches. We find that there is a disagreement between both methods of 15–30% for η = 0 and 30% for p⊥ = 0.5 GeV.

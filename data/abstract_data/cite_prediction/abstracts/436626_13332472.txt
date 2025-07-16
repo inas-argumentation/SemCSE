@@ -1,0 +1,15 @@
+Can machine-learning improve cardiovascular risk prediction using routine clinical data?
+BACKGROUND
+Current approaches to predict cardiovascular risk fail to identify many people who would benefit from preventive treatment, while others receive unnecessary intervention. Machine-learning offers opportunity to improve accuracy by exploiting complex interactions between risk factors. We assessed whether machine-learning can improve cardiovascular risk prediction.
+
+
+METHODS
+Prospective cohort study using routine clinical data of 378,256 patients from UK family practices, free from cardiovascular disease at outset. Four machine-learning algorithms (random forest, logistic regression, gradient boosting machines, neural networks) were compared to an established algorithm (American College of Cardiology guidelines) to predict first cardiovascular event over 10-years. Predictive accuracy was assessed by area under the 'receiver operating curve' (AUC); and sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV) to predict 7.5% cardiovascular risk (threshold for initiating statins).
+
+
+FINDINGS
+24,970 incident cardiovascular events (6.6%) occurred. Compared to the established risk prediction algorithm (AUC 0.728, 95% CI 0.723-0.735), machine-learning algorithms improved prediction: random forest +1.7% (AUC 0.745, 95% CI 0.739-0.750), logistic regression +3.2% (AUC 0.760, 95% CI 0.755-0.766), gradient boosting +3.3% (AUC 0.761, 95% CI 0.755-0.766), neural networks +3.6% (AUC 0.764, 95% CI 0.759-0.769). The highest achieving (neural networks) algorithm predicted 4,998/7,404 cases (sensitivity 67.5%, PPV 18.4%) and 53,458/75,585 non-cases (specificity 70.7%, NPV 95.7%), correctly predicting 355 (+7.6%) more patients who developed cardiovascular disease compared to the established algorithm.
+
+
+CONCLUSIONS
+Machine-learning significantly improves accuracy of cardiovascular risk prediction, increasing the number of patients identified who could benefit from preventive treatment, while avoiding unnecessary treatment of others.

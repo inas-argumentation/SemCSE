@@ -1,0 +1,15 @@
+Helical Tomotherapy of the breast: can thermoplastic immobilization improve the reproducibility of the treatment setup and the accuracy of the delivered dose?
+PURPOSE
+To evaluate the impact of thermoplastic mask immobilization in the setup reproducibility and delivered dose for Helical Tomotherapy (HT) of the breast/chest wall.
+
+
+METHODS
+16 patients treated with Accuray Hi-Art HT for breast-cancer were considered. Patients were positioned supine with arms extended above the head using Civco Wing Board (WB) system. In 50% of patients an Orfit thermoplastic mask was added in order to improve immobilization. Before each treatment fraction a megavoltage CT (MVCT) scan was taken and registered to the planning CT by experienced medical staff. The impact of thermoplastic mask was investigated analysing MVCT shift-roll data and MVCT dose distribution using Planned Adaptive software.
+
+
+RESULTS
+In the analysed cases, the addition of thermoplastic mask had minor impact on the lateral, longitudinal and roll data distribution. Variance of vertical shifts was significantly reduced in the WB + Orfit group. Van Herk's margins were not affected by addition of thermoplastic immobilization. In both groups, target coverage (V95) and maximum dose (D1) were almost identical to planned values. D1 of organs at risk were not significantly different in the two groups.
+
+
+CONCLUSIONS
+Analysis of shift-roll data shows no improvement in the group of patients immobilized with the addition of thermoplastic mask. Van Herk's margin is quite large (7-10 mm) in both groups evidencing the need to perform daily setup correction. The adapted dose distribution complies well with the planned one, showing that if MVCT is used before each treatment fraction, a 3 mm margin (setup component) for CTVs expansion could be adequate.

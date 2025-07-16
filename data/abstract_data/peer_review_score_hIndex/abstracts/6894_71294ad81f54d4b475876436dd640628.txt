@@ -1,0 +1,26 @@
+Asynchronous SGD without gradient delay for efficient distributed training
+Asynchronous distributed gradient descent algorithms for training of deep neural
+networks are usually considered as inefficient, mainly because of the Gradient delay
+problem. In this paper, we propose a novel asynchronous distributed algorithm
+that tackles this limitation by well-thought-out averaging of model updates, computed
+by workers. The algorithm allows computing gradients along the process
+of gradient merge, thus, reducing or even completely eliminating worker idle time
+due to communication overhead, which is a pitfall of existing asynchronous methods.
+We provide theoretical analysis of the proposed asynchronous algorithm,
+and show its regret bounds. According to our analysis, the crucial parameter for
+keeping high convergence rate is the maximal discrepancy between local parameter
+vectors of any pair of workers. As long as it is kept relatively small, the
+convergence rate of the algorithm is shown to be the same as the one of a sequential
+online learning. Furthermore, in our algorithm, this discrepancy is bounded
+by an expression that involves the staleness parameter of the algorithm, and is
+independent on the number of workers. This is the main differentiator between
+our approach and other solutions, such as Elastic Asynchronous SGD or Downpour
+SGD, in which that maximal discrepancy is bounded by an expression that
+depends on the number of workers, due to gradient delay problem. To demonstrate
+effectiveness of our approach, we conduct a series of experiments on image
+classification task on a cluster with 4 machines, equipped with a commodity communication
+switch and with a single GPU card per machine. Our experiments
+show a linear scaling on 4-machine cluster without sacrificing the test accuracy,
+while eliminating almost completely worker idle time. Since our method allows
+using commodity communication switch, it paves a way for large scale distributed
+training performed on commodity clusters.

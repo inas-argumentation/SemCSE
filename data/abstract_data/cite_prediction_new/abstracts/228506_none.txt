@@ -1,0 +1,2 @@
+Approximation of control laws with distributed delays: a necessary condition for stability
+The implementation of control laws with distributed delays that assign the spectrum of unstable linear multivariable systems with delay in the input requires an approximation of the integral. A necessary condition for stability of the closed-loop system is shown to be the stability of the controller itself. An illustrative multivariable example is given.

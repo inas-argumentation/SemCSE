@@ -1,0 +1,8 @@
+Edge-based scoring and searching method for identifying condition-responsive protein-protein interaction sub-network
+Motivation: Current high-throughput protein–protein interaction (PPI) data do not provide information about the condition(s) under which the interactions occur. Thus, the identification of condition-responsive PPI sub-networks is of great importance for investigating how a living cell adapts to changing environments. 
+ 
+Results: In this article, we propose a novel edge-based scoring and searching approach to extract a PPI sub-network responsive to conditions related to some investigated gene expression profiles. Using this approach, what we constructed is a sub-network connected by the selected edges (interactions), instead of only a set of vertices (proteins) as in previous works. Furthermore, we suggest a systematic approach to evaluate the biological relevance of the identified responsive sub-network by its ability of capturing condition-relevant functional modules. We apply the proposed method to analyze a human prostate cancer dataset and a yeast cell cycle dataset. The results demonstrate that the edge-based method is able to efficiently capture relevant protein interaction behaviors under the investigated conditions. 
+ 
+Contact: guoz@ems.hrbmu.edu.cn 
+ 
+Supplementary information: Supplementary data are available at Bioinformatics online.

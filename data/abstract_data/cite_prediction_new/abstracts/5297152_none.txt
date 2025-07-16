@@ -1,0 +1,2 @@
+A Modification of LambdaMART to Handle Noisy Crowdsourced Assessments
+We consider noisy crowdsourced assessments and their impact on learning-to-rank algorithms. Starting with EM-weighted assessments, we modify LambdaMART in order to use smoothed probabilistic preferences over pairs of documents, directly as input to the ranking algorithm.

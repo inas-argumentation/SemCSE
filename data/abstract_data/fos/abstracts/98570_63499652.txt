@@ -1,0 +1,2 @@
+Research on BIST Testing Method Based on LFSR Reseeding
+LFSR reseeding is a BIST testing method, there exists three testing methods based on LFSR reseeding, includes partial LFSR reseeding, syncopation of some test patterns LFSR reseeding and consistency clock test partial LFSR reseeding, these three testing methods can improve the testing hardware overhead, encoding efficiency and reduce testing times.

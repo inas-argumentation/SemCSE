@@ -1,0 +1,15 @@
+A significant decrease in rectal volume and diameter during prostate IMRT.
+PURPOSE
+To record changes in rectal volume (RV) and diameter (RD) of patients with prostate adenocarcinoma prior to and at an interim period during radiotherapy, which could potentially affect treatment toxicity and tumor control.
+
+
+METHODS
+Three hundred and fifteen patients treated with intensity modulated radiotherapy (IMRT) underwent planning CT scans before radiation and after 45 Gy. For each scan, RV and RD were recorded and compared using a two-tailed paired t-test. Robust linear regression analysis assessed correlation between initial RV and percent RV change.
+
+
+RESULTS
+The mean change in RV was -8.62 cm(3) and in RD was -0.19 cm(3), (p<0.05). A decrease ≥10% in RV and RD was seen in 159 patients (50.5%) and 117 patients (37.1%), respectively. Patients with ≥10% volume change had larger initial RVs than those with <10% decrease, (78.1 vs. 50.8 cm(3), p<0.0001).
+
+
+CONCLUSIONS
+A significant decrease in RV and RD occurs during prostate IMRT delivery. More than half of patients had decreased RV and over a third had decreased RD. This observation is pertinent to prostate localization, planning margins, and implies that dose-volume histogram (DVH) analysis of rectal irradiation based on pre-treatment CT scanning may inaccurately estimate the risk of rectal toxicity when the initial RV is larger than 70 cm(3).

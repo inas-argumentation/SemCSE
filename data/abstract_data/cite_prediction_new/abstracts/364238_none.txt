@@ -1,0 +1,2 @@
+Fundamental Solutions and Functionally Graded Materials
+A fundamental solution (or Green’s function) is a singular solution of a governing partial differential equation (PDE). Such solutions can be constructed easily when the PDE has constant coefficients. They are useful for reducing boundary-value problems to boundary integral equations (BIEs). We begin by describing simple properties of fundamental solutions, and then comment on the use and construction of half-space Green’s functions.

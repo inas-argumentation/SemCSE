@@ -1,0 +1,2 @@
+Landau's necessary density conditions for the Hankel transform
+We will prove an analogue of Landau's necessary conditions [Necessary density conditions for sampling and interpolation of certain entire functions, Acta Math. 117 (1967).] for spaces of functions whose Hankel transform is supported in a measurable subset S of the positive semi-axis. As a special case, necessary density conditions for the existence of Fourier-Bessel frames are obtained.

@@ -1,0 +1,2 @@
+LEAR-INRIA submission for the THUMOS workshop
+This notebook paper describes the submission of the LEAR team from INRIA to the THUMOS workshop in conjunction with ICCV 2013. Our system is based on the recent improvement of dense trajectory feature [14]. After extracting the local features, we apply Fisher vector to integrate them into a compact representation for each video. We also use spatio-temporal pyramids to embed structure information. Finally a linear SVM with one-against-rest is employed for the multi-class action classification problem.

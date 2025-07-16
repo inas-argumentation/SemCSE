@@ -1,0 +1,2 @@
+Chukwa: A large-scale monitoring system
+We describe the design and initial implementation of Chukwa, a data collection system for monitoring and analyzing large distributed systems. Chukwa is built on top of Hadoop, an open source distributed filesystem and MapReduce implementation, and inherits Hadoop’s scalability and robustness. Chukwa also includes a flexible and powerful toolkit for displaying monitoring and analysis results, in order to make the best use of this collected data.

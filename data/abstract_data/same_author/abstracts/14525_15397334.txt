@@ -1,0 +1,2 @@
+Improving the low-lying spectrum of the overlap kernel
+Abstract The action of the overlap-Dirac operator on a vector is typically implemented indirectly through a multi-shift conjugate gradient solver. The compute-time this takes to evaluate depends upon the condition number κ of the matrix that is used as the overlap kernel. We examine the low-lying spectra of various candidate kernels in an effort to optimise κ, thereby speeding up the overlap evaluation.

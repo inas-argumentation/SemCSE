@@ -1,0 +1,2 @@
+Some Monoidal Closed Categories of Stable Domains and Event Structures
+This paper introduces the following new constructions on stable domains and event structures: the tensor product; the linear function space; and the exponential. These give rise to a monoidal closed category of dI-domains and to stable event structures, which can be used to interpret intuitionistic linear logic. Finally, the usefulness of the category of stable event structures for modeling concurrency and its relation to other models are discussed.

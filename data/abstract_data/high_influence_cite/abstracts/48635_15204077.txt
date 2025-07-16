@@ -1,0 +1,11 @@
+A hint to search for metalloproteins in gene banks
+MOTIVATION
+With the advent of genome sequencing, a huge database of protein primary sequences has been accumulating. In parallel, a number of tools to investigate and expand upon this information, e.g. reconstructing and building relationships between protein families and superfamilies, have been developed. Metalloproteins are proteins capable of binding one or more metal ions, which are required for their biological function or for regulation of their activities or for structural purposes. Sometimes, metal binding can be observed in vitro but not be physiologically relevant. At present, there is a lack of specific tools to address the matter of the identification of metalloproteins in databases of gene sequences.
+
+
+RESULTS
+In the present work, an approach exploiting metal-binding patterns (MBPs) of metalloproteins present in the Protein Data Bank to search gene banks for new metalloproteins is presented and applied to copper proteins. Nearly 100 different MBPs have been identified and then used for subsequent applications. The ensemble of sequences of the whole PDB is used to assess the potentiality and limits of the method and to identify levels of confidence for the predictions output by the search. It appears that copper-binding capabilities are identified with a confidence >90% when the percentage of identical amino acids aligned around the MBP by PHI-BLAST is at least 20% with respect to the entire protein domain length. If this percentage is between 10% and 20%, the level of confidence is approximately 50%. Application of the methodology to the entire genome sequences of Pyrococcus furiosus, Escherichia coli, Drosophila melanogaster and Homo sapiens suggests some differentiation between prokaryotes and eukaryotes.
+
+
+SUPPLEMENTARY INFORMATION
+A table reporting statistics on the MBP identified; a list of all hits retrieved for the four organisms considered; a figure showing the number of hits for the four organisms as a function of I(d)(Global).

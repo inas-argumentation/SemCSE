@@ -1,0 +1,15 @@
+A computer vision framework for finger-tapping evaluation in Parkinson's disease
+OBJECTIVES
+The rapid finger-tapping test (RFT) is an important method for clinical evaluation of movement disorders, including Parkinson's disease (PD). In clinical practice, the naked-eye evaluation of RFT results in a coarse judgment of symptom scores. We introduce a novel computer-vision (CV) method for quantification of tapping symptoms through motion analysis of index-fingers. The method is unique as it utilizes facial features to calibrate tapping amplitude for normalization of distance variation between the camera and subject.
+
+
+METHODS
+The study involved 387 video footages of RFT recorded from 13 patients diagnosed with advanced PD. Tapping performance in these videos was rated by two clinicians between the symptom severity levels ('0: normal' to '3: severe') using the unified Parkinson's disease rating scale motor examination of finger-tapping (UPDRS-FT). Another set of recordings in this study consisted of 84 videos of RFT recorded from 6 healthy controls. These videos were processed by a CV algorithm that tracks the index-finger motion between the video-frames to produce a tapping time-series. Different features were computed from this time series to estimate speed, amplitude, rhythm and fatigue in tapping. The features were trained in a support vector machine (1) to categorize the patient group between UPDRS-FT symptom severity levels, and (2) to discriminate between PD patients and healthy controls.
+
+
+RESULTS
+A new representative feature of tapping rhythm, 'cross-correlation between the normalized peaks' showed strong Guttman correlation (μ2=-0.80) with the clinical ratings. The classification of tapping features using the support vector machine classifier and 10-fold cross validation categorized the patient samples between UPDRS-FT levels with an accuracy of 88%. The same classification scheme discriminated between RFT samples of healthy controls and PD patients with an accuracy of 95%.
+
+
+CONCLUSION
+The work supports the feasibility of the approach, which is presumed suitable for PD monitoring in the home environment. The system offers advantages over other technologies (e.g. magnetic sensors, accelerometers, etc.) previously developed for objective assessment of tapping symptoms.

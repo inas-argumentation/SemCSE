@@ -1,0 +1,2 @@
+Ontology-Based Fraud Detection
+One method for detecting fraud is to check for suspicious changes in user behavior. This paper proposes a novel method, built upon ontology and ontology instance similarity. Ontology is now widely used to enable knowledge sharing and reuse, so some personality ontologies can be easily used to present user behavior. By measure the similarity of ontology instances, we can determine whether an account is defrauded. This method lows the data model cost and make the system very adaptive to different applications.

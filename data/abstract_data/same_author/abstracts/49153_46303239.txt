@@ -1,0 +1,2 @@
+Object Orientation in Hierarchical Predicate Transition Nets
+In this paper, an approach of using hierarchical predicate transition nets (HPrTNs in the sequel) for object-oriented specification is proposed. The realization of various object-oriented features (including encapsulation, inheritance, and polymorphism) in HPrTNs is presented and is demonstrated with examples. We believe that the approach can achieve the benefits of the object-oriented methods while maintaining the analyzability of HPrTNs.

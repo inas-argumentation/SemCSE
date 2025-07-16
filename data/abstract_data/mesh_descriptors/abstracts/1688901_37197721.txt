@@ -1,0 +1,15 @@
+A methodology for the analysis of PSA response signatures.
+BACKGROUND AND PURPOSE
+Temporal distributions in PSA levels following therapeutic intervention for prostate cancer are known to contain characteristics prognostic of disease progression. An algorithm was developed for extracting such characteristics, specifically in the context of previous observations following radiotherapy.
+
+
+MATERIAL AND METHODS
+Segmented regression methods were investigated for characterising the 'signatures' in log(PSA) descent patterns between intervention and nadir.
+
+
+RESULTS
+The segmented regression method can automatically identify and parameterise features in a PSA distribution including failure points and doubling time patterns following nadir. The method has previously been applied to the analysis of descent patterns on a large clinical data series (Radiother Oncol 2009;90:382-8). Batch-processing of data using the method for all patients in a clinical trial would establish population parameter values and ranges. Subsequent application to an individual patient's PSA data would determine which resulting prognostic group they fall into.
+
+
+CONCLUSIONS
+As more complete and higher-resolution PSA progression datasets become available, techniques such as presented here will allow flexible definition of the characteristics being examined and rapid extraction of parameters for correlation with clinical progression data.

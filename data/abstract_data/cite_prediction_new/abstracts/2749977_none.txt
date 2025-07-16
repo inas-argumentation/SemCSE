@@ -1,0 +1,2 @@
+A geometric snake model for segmentation of medical imagery
+We employ the new geometric active contour models, previously formulated, for edge detection and segmentation of magnetic resonance imaging (MRI), computed tomography (CT), and ultrasound medical imagery. Our method is based on defining feature-based metrics on a given image which in turn leads to a novel snake paradigm in which the feature of interest may be considered to lie at the bottom of a potential well. Thus, the snake is attracted very quickly and efficiently to the desired feature.

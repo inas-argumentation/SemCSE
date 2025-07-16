@@ -1,0 +1,2 @@
+Digital coherent receiver based on parallel optical sampling
+We propose a coherent receiver scheme exploiting optical sampling to overcome the speed limitations of electronic analog-to-digital converters. Transmission of 56GBd quadrature phase-shift keying signals over 610km standard single-mode fiber and coherent detection with electronic impairment mitigation is demonstrated.

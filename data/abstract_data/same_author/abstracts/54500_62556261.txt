@@ -1,0 +1,2 @@
+An enhanced appearance model for ultrasound image segmentation
+Active appearance model (AAM) had been popular on object segmentation for medical images. However, its performance is not good on ultrasound (US) images. In this paper, we propose an enhanced appearance model which represents the texture by edge structure and reduces the view-dependent feature of US images by a novel data normalization process. In our experiments on general US data, the proposed model shows considerable improvements compared to the original one.

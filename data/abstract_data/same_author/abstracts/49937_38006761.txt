@@ -1,0 +1,2 @@
+Adaptive Bayesian decision model for motion segmentation
+A new method is proposed for modeling of the target and background event based on the classical decision theory using a Bayesian model. The implementation of an adaptive video motion detection system at the existing board level is also addressed using DATACUBE image processing hardware.

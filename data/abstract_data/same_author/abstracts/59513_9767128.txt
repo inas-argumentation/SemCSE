@@ -1,0 +1,2 @@
+A Multi-Pattern Scheduling Algorithm
+In a coarse-grained reconfigurable architecture, the function of resources such as Arithmetic Logic Units (ALU) can be reconfigured at run-time. The traditional scheduling algorithms always assume a fixed resource pattern. In this paper, we propose an efficient scheduling algorithm assuming that different resource patterns are given. The multi-pattern scheduling algorithm is based on the list scheduling algorithm. The complexity of the proposed algorithm is linear in the number of given patterns.

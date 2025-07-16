@@ -1,0 +1,19 @@
+The use of texture-based radiomics CT analysis to predict outcomes in early-stage non-small cell lung cancer treated with stereotactic ablative radiotherapy.
+OBJECTIVE:
+Stereotactic ablative radiotherapy (SABR) is being increasingly used as a non-invasive treatment for early-stage non-small cell lung cancer (NSCLC). A non-invasive method to estimate treatment outcomes in these patients would be valuable, especially since access to tissue specimens is often difficult in these cases.
+
+
+METHODS:
+We developed a method to predict survival following SABR in NSCLC patients using analysis of quantitative image features on pre-treatment CT images. We developed a Cox Lasso model based on two-dimensional Riesz wavelet quantitative texture features on CT scans with the goal of separating patients based on survival.
+
+
+RESULTS:
+The median log-rank p-value for 1000 cross-validations was 0.030. Our model was able to separate patients based upon predicted survival. When we added tumor size into the model, the p-value lost its significance, demonstrating that tumor size is not a key feature in the model but rather decreases significance likely due to the relatively small number of events in the dataset. Furthermore, running the model using Riesz features extracted either from the solid component of the tumor or from the ground glass opacity (GGO) component of the tumor maintained statistical significance. However, the p-value improved when combining features from the solid and the GGO components, demonstrating that there are important data that can be extracted from the entire tumor.
+
+
+CONCLUSIONS:
+The model predicting patient survival following SABR in NSCLC may be useful in future studies by enabling prediction of survival-based outcomes using radiomics features in CT images.
+
+
+ADVANCES IN KNOWLEDGE:
+Quantitative image features from NSCLC nodules on CT images have been found to significantly separate patient populations based on overall survival (p = 0.04). In the long term, a non-invasive method to estimate treatment outcomes in patients undergoing SABR would be valuable, especially since access to tissue specimens is often difficult in these cases.

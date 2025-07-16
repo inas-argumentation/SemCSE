@@ -1,0 +1,2 @@
+A grid infrastructure for mixed bioinformatics data and text mining
+Summary form only given. We present a distributed infrastructure for mixed data and text mining. Our approach is based on extending the discovery net infrastructure, a grid-computing environment for knowledge discovery, to allow end users to construct complex distributed text and data mining workflows. We describe our architecture, data model and visual programming approach and present a number of mixed data text mining examples over biological data.

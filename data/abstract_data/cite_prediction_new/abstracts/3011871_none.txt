@@ -1,0 +1,11 @@
+Effect of age on detecting a loss of balance in a seated whole-body balancing task.
+BACKGROUND
+Most falls are attributed to a loss of balance without a quantitative definition of the term. It has been proposed that a loss of balance is detectable as an unusually large (anomalous) value of the system control error. The hypotheses were tested that age will not affect the detection of control error anomaly, or prediction of the associated compensatory response, in a challenging balancing task.
+
+
+METHODS
+Twenty healthy older adults were asked to sit and balance a chair over its rear legs for as long as possible. The dominant foot's ground reaction force and the chair's sagittal-plane acceleration represented the system input and output, respectively. Control error was the difference between actual and expected acceleration output from a self-identified forward internal model of the system. A control error anomaly was detected once the error crossed a threshold set at three standard deviations (3-Sigma) above the mean of baseline data. Results from five trials were compared to published results in 20 healthy young adults. FINDINGs. A control error anomaly was successfully detected in 91% of 91 older adult trials, statistically similar to the 92% success rate obtained previously in young adults. A response was predicted in 57% of the 77 older adult trials with responses, significantly less than the 92% obtained in the young adult trials (age effect significant: P<0.005).
+
+
+INTERPRETATION
+The condition leading to uncontrolled backward acceleration of the chair was reliably detected in both groups. While the young waited to respond to this condition, older subjects responded prematurely.

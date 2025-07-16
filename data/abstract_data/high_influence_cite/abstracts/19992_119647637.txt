@@ -1,0 +1,2 @@
+Monoids that map onto the Thompson-Higman groups
+A slight modification of the definition of the Thompson-Higman groups Gk,1 and Fk,1 leads to inverse monoids that map onto Gk,1 (respectively Fk,1), and that have interesting properties: they are finitely generated, and residually finite. These inverse monoids are closely related to the suffix expansion of Gk,1 (respectively Fk,1).

@@ -1,0 +1,2 @@
+The Least Witness of a Composite Number
+We consider the problem of finding the least witness of a composite number. If n is a composite number then a number w for which n is not a strong pseudo-prime to the base w is called a witness for n. Let w(n) be the least witness for a composite n. Bach [7] assuming the Generalized Riemann Hypothesis (GRH) showed that w(n) < 2log2 n. In this paper we are interested in obtaining upper bounds for w(n) without assuming the GRH.

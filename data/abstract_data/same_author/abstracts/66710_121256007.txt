@@ -1,0 +1,2 @@
+Volumes of flows
+Si F est un flot non singulier oriente sur une variete de Riemann M, le volume de F est defini comme la mesure a n dimensions du champ vectoriel unite tangent a F, comme une section deT*(M) avec la metrique induite. On montre que, pour une metrique du tore a deux dimensions, et pour une classe d'homotopie des flots sur le tore, il y a un flot lisse unique de volume minimal dans la classe d'homotopie

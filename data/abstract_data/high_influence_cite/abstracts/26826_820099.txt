@@ -1,0 +1,15 @@
+Modeling T-cell activation using gene expression profiling and state-space models
+MOTIVATION
+We have used state-space models to reverse engineer transcriptional networks from highly replicated gene expression profiling time series data obtained from a well-established model of T-cell activation. State space models are a class of dynamic Bayesian networks that assume that the observed measurements depend on some hidden state variables that evolve according to Markovian dynamics. These hidden variables can capture effects that cannot be measured in a gene expression profiling experiment, e.g. genes that have not been included in the microarray, levels of regulatory proteins, the effects of messenger RNA and protein degradation, etc.
+
+
+RESULTS
+Bootstrap confidence intervals are developed for parameters representing 'gene-gene' interactions over time. Our models represent the dynamics of T-cell activation and provide a methodology for the development of rational and experimentally testable hypotheses.
+
+
+AVAILABILITY
+Supplementary data and Matlab computer source code will be made available on the web at the URL given below.
+
+
+SUPPLEMENTARY INFORMATION
+http://public.kgi.edu/~wild/LDS/index.htm

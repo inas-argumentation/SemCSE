@@ -1,0 +1,2 @@
+Strong convergence rates for Markovian representations of fractional Brownian motion
+Fractional Brownian motion can be represented as an integral over a family of Ornstein-Uhlenbeck processes. This representation naturally lends itself to numerical discretizations, which are shown in this paper to have strong convergence rates of arbitrarily high polynomial order. This explains the potential, but also some limitations of such representations as the basis of Monte Carlo schemes for fractional volatility models such as the rough Bergomi model.

@@ -1,0 +1,2 @@
+Secure medical image-sharing mechanism based on visual cryptography in EHR system
+Securely sharing electronic health records (EHR) has attracted attention in medical environment. We discuss critical issues related to EHR-sharing and provide how to share a medical image of EHRs based on visual cryptography(VC) and secret sharing with password of practitioners for convenience in distributed system. Also, our proposal is applied to real system “openEMR” and evaluated in respect of performance and security.

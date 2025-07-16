@@ -1,0 +1,8 @@
+High-contrast algorithm behavior: observation, conjecture, and experimental design
+After extensive experiments with two algorithms, CPLEX and our implementation of all-integer dual simplex, we observed extreme differences between the two on a set of design automation benchmarks. In many cases one of the two would find an optimal solution within seconds while the other timed out at one hour. 
+ 
+We conjecture that this contrast is accounted for by the extent to which the constraint matrix can be made block diagonal via row/column permutations. The actual structure of the matrix without the permutations is not important. 
+ 
+Our conjecture is made more precise in two steps: (a) crossing minimization is used on a derived graph to achieve desirable permutations of rows and columns; and (b) the degree of randomness (lack of structure) is measured using diffusion, a measure that approximates what a human perceives as lack of structure. 
+ 
+Additional experiments on synthetic instances related to the benchmarks add validity to our conjecture. We observe unexpectedly sharp thresholds where, with only slight variation of our measure, the dominance of the algorithms reverses dramatically. The nature of and explanation for this threshold behavior is left for future research as are many other questions. As far as we are aware the approach taken here is unique and, we hope, will inspire other research of its kind.

@@ -1,0 +1,2 @@
+Analysis and Solution of Garbled Characters in JSP
+Aiming at the typical garbled characters phenomenon appearing in JSP teaching and application,analyzes the cause from several aspects such as JSP file and response encoding settings,byte order mark,reading the form data,adding request parameters with jsp:param elements and setting request parameters in hyperlink tag.And presents the appropriate solution is presented.

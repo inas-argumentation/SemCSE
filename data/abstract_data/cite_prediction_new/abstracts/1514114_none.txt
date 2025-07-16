@@ -1,0 +1,2 @@
+2.5D far-field diffraction tomography inversion scheme for GPR that takes into account the planar air-soil interface
+A new 2.5D inversion scheme is derived for fixed-offset ground penetrating radar (GPR) that takes into account the planar air-soil interface. The inversion scheme is based upon the first Born approximation and a far-field approximation of the dyadic Green function for a two-layer medium.

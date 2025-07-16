@@ -1,0 +1,2 @@
+A plug-in technique in nonparametric regression with dependence
+The problem addressed is that of smoothing parameter selection in kernel nonparametric regression in the fixed design regression model with dependent noise. An asymptotic expression of the optimum bandwidth parameter has been obtained in recent studies, where this takes the form h = C 0 n −1/5. This paper proposes to use a plug-in methodology, in order to obtain an optimum estimation of the bandwidth parameter, through preliminary estimation of the unknown value of C 0.

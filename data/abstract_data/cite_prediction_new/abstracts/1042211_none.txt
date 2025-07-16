@@ -1,0 +1,2 @@
+minimum dominating set of queens: A trivial programming exercise?
+minimum dominating set of queens is one of the typical programming exercises of a first year's computer science course. However, little work has been published on the complexity of this problem. We analyse here several algorithms and show that advanced algorithmic techniques may dramatically speed up solving this problem.

@@ -1,0 +1,2 @@
+MPEG-7 video automatic labeling system
+In this demo, we show a novel end-to-end video automatic labeling system, which accepts MPEG-1 sequence inputs and generates MPEG-7 XML metadata files. Detections are based on the prior established anchor models. This system has two parts: model training process and labeling process. They are comprised of seven modules: Shot Segmentation, Region Segmentation, Annotation, Feature Extraction, Model Learning, Classification, and XML Rendering.

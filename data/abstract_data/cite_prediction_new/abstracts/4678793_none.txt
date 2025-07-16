@@ -1,0 +1,2 @@
+Sky observations at L-band with an interference suppressing microwave radiometer
+Radio Frequency Interference (RFI) can adversely impact microwave passive remote sensing measurements, and prohibits passive observations outside protected portions of the radio frequency spectrum. A microwave radiometer including a digital backend with real-time RFI mitigation has been developed to address this issue. In this paper, we describe the radiometer design and its pulse blanking strategy. We also demonstrate the system using the sky as a target of observation.

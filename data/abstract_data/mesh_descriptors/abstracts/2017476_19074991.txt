@@ -1,0 +1,15 @@
+Unsupervised, Statistically Based Systems Biology Approach for Unraveling the Genetics of Complex Traits: A Demonstration with Ethanol Metabolism
+BACKGROUND
+A statistical pipeline was developed and used for determining candidate genes and candidate gene coexpression networks involved in 2 alcohol (i.e., ethanol [EtOH]) metabolism phenotypes, namely alcohol clearance and acetate area under the curve in a recombinant inbred (RI) (HXB/BXH) rat panel. The approach was also used to provide an indication of how EtOH metabolism can impact the normal function of the identified networks.
+
+
+METHODS
+RNA was extracted from alcohol-naïve liver tissue of 30 strains of HXB/BXH RI rats. The reconstructed transcripts were quantitated, and data were used to construct gene coexpression modules and networks. A separate group of rats, comprising the same 30 strains, were injected with EtOH (2 g/kg) for measurement of blood EtOH and acetate levels. These data were used for quantitative trait loci (QTL) analysis of the rate of EtOH disappearance and circulating acetate levels. The analysis pipeline required calculation of the module eigengene values, the correction of these values with EtOH metabolism rates and acetate levels across the rat strains, and the determination of the eigengene QTLs. For a module to be considered a candidate for determining phenotype, the module eigengene values had to have significant correlation with the strain phenotypic values and the module eigengene QTLs had to overlap the phenotypic QTLs.
+
+
+RESULTS
+Of the 658 transcript coexpression modules generated from liver RNA sequencing data, a single module satisfied all criteria for being a candidate for determining the alcohol clearance trait. This module contained 2 alcohol dehydrogenase genes, including the gene whose product was previously shown to be responsible for the majority of alcohol elimination in the rat. This module was also the only module identified as a candidate for influencing circulating acetate levels. This module was also linked to the process of generation and utilization of retinoic acid as related to the autonomous immune response.
+
+
+CONCLUSIONS
+We propose that our analytical pipeline can successfully identify genetic regions and transcripts which predispose a particular phenotype and our analysis provides functional context for coexpression module components.

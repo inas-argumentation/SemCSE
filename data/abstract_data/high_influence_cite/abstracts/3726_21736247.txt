@@ -1,0 +1,2 @@
+The first Hadamard variation of Neumann–Poincaré eigenvalues on the sphere
+The Neumann-Poincare operator on the sphere has $\frac{1}{2(2k+1)}$, $k=0,1,2,\ldots$, as its eigenvalues and the corresponding multiplicity is $2k+1$. We consider the bifurcation of eigenvalues under deformation of domains, and show that Frechet derivative of the sum of the bifurcations is zero. We then discuss the connection of this result with some conjectures regarding the Neumann-Poincare operator.

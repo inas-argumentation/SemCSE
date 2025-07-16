@@ -1,0 +1,2 @@
+Dependability arguments with trusted bases Citation
+An approach is suggested for arguing that a system is dependable. The key idea is to structure the system so that critical requirements are localized in small, reliable subsets of the system’s components called trusted bases. This paper describes an idiom for modeling systems with trusted bases, and a technique for analyzing a dependability argument— the argument that a trusted base is sufficient to establish a requirement. Keywords-dependability; requirements and design; trusted bases; formal modeling and analysis;

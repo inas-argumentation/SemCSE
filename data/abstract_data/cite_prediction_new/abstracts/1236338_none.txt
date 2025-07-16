@@ -1,0 +1,8 @@
+MIP: A New Hybrid Multi-Agent Architecture for the Coordination of a Robot Colony Activities
+In this paper the development and the implementation of one new robotic architecture for the coordination and the planning of a robot colonies in dangerous and unknown environments are outlined. The name of this new architecture is Metaphor of Italian Politics (MIP Architecture). 
+ 
+The structure of this architecture is dynamics. It takes inspiration from the political organizations of the democratic governments, where the leader isn't only one robot but it is constituted by a government of robots. In the MIP architecture the robots team is coordinated by a Prime Minister, a Minister of the Defence and a Minister of Communication while a second group of robots, the Robot Citizens, are the executors of each mission. 
+ 
+The model of the agents is hybrid (reactive and deliberative), so every robot can assume every political position inside this dynamic structure. An election procedure for the government regeneration has been developed in order to avoid the collapse of a mission and improve the robot colony performances. 
+ 
+To validate the effectiveness of the our approach we have developed a framework based on the Mission Lab software developed at the Mobile Robot Lab of the Georgia Institute of Technology.

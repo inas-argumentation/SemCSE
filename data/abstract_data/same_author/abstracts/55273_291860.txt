@@ -1,0 +1,2 @@
+The TSIMMIS Approach to Mediation: Data Models and Languages
+TSIMMIS—The Stanford-IBM Manager of Multiple InformationSources—is a system for integrating information. It offers a datamodel and a common query language that are designed to support thecombining of information from many different sources. It also offerstools for generating automatically the components that are needed tobuild systems for integrating information. In this paper we shalldiscuss the principal architectural features and their rationale.

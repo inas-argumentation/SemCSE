@@ -1,0 +1,2 @@
+Cognitive radio network architecture: part II - trusted network layer structure
+Cognitive radios shall form cognitive radio network (CRN) to complete the packets delivery. As cognitive radio network is a general multihop wireless heterogeneous network, trust becomes a critical factor for network layer functions and network operation. We explore and develop the mathematical framework of trust in CRN, to further develop trusted routing with relevant explorations on network layer and above functions.

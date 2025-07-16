@@ -1,0 +1,2 @@
+A Generalized Forward Recovery Checkpointing Scheme
+We propose a generalized forward recovery checkpointing scheme, with lookahead execution and rollback validation. This method takes advantage of voting and comparison on multiple versions of the executing task. The proposed scheme is evaluated and compared with other existing checkpointing techniques. The processor assignment problem is studied and an optimal processor assignment is identified. Details on how to use this approach for tolerating both software and hardware faults are also discussed.

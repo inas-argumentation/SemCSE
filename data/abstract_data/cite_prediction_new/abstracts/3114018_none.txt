@@ -1,0 +1,2 @@
+Numerical methods for the simulation of a corrosion model with moving oxide layer
+In this paper, we design numerical methods for a PDE system arising in corrosion modeling. This system describes the evolution of a dense oxide layer. It is based on a drift-diffusion system and includes moving boundary equations. The choice of the numerical methods is justified by a stability analysis and by the study of their numerical performance. Finally, numerical experiments with real-life data shows the efficiency of the developed methods.

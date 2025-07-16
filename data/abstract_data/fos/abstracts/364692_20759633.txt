@@ -1,0 +1,15 @@
+MO-D-BRB-06: JUNIOR INVESTIGATOR WINNER - Fast and Accurate Patient Specific Collision Detection for Radiation Therapy.
+PURPOSE
+To develop a fast and generalizable method which can identify all possible hardware collisions specific to a given patient setup before treatment planning.
+
+
+METHODS
+An anthropomorphic phantom placed in a typical breast setup using a wingboard was simulated on a CT scanner and the phantom body contour, table, and gantry geometry were made into polygon meshes using 3D modeling software. In the treatment room, a limited physical search of the collision positive zones was performed using the positioned phantom. A software tool that incorporated a generalized hierarchical bounding box (HBB) collision detection algorithm was developed and used to virtually map out the entire collision space by transforming the positions of the polygonal geometry over a given parameter range.
+
+
+RESULTS
+The geometry containing 47K polygons was mapped over a space of 6480 states with an average transform/collision check of 5.5ms, for a total time of 35.6s on a 3.14GHz dual core computer with 4GB memory. The computed collision space, using receiver operating curve analysis had an accuracy of 96.35%, and a positive predictive value of 91.2%.
+
+
+CONCLUSIONS
+This work demonstrates a framework that can provide a fast and accurate map of the collision free space specific to any patient setup. Differences in physical and simulated collision space is attributed to inaccuracies of the geometrical models used. Future work includes improving the efficiency of the algorithm, enhancing the geometrical models and increasing the dimensions of the search.

@@ -1,0 +1,2 @@
+New Methodologies for SET Characterization and Mitigation in Flash-Based FPGAs
+New single event transient characterization and mitigation techniques unique for nonvolatile field programmable gate arrays (FPGAs) are investigated. Their implementation on a flash-based FPGA and evaluation in-beam show their efficacy with little area overhead but moderately high time penalty for highly scaled technologies.

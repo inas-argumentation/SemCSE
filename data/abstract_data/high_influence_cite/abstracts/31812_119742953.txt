@@ -1,0 +1,13 @@
+Numerical approximation of young-measure solutions to parabolic systems of forward-backward type
+This paper is concerned with the proof of existence and numerical
+ approximation of large-data global-in-time Young measure solutions to
+ initial-boundaryvalue problems for multidimensional nonlinear parabolic
+ systems of forward-backward type of the form ?tu - div(a(Du))+ Bu = F,
+ where B ? Rmxm, Bv?v ? 0 for all v ? Rm, F is an m-component
+ vector-function defined on a bounded open Lipschitz domain ? ? Rn, and a is a
+ locally Lipschitz mapping of the form a(A)= K(A)A, where K: Rmxn ? R. The
+ function a may have unequal lower and upper growth rates; it is not assumed
+ to be monotone, nor is it assumed to be the gradient of a potential. We
+ construct a numerical method for the approximate solution of problems in
+ this class, and we prove its convergence to a Young measure solution of the
+ system.

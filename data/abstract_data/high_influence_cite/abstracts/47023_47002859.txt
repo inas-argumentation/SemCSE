@@ -1,0 +1,2 @@
+On Iteration Improvement for Averaged Expected Cost Control for One-Dimensional Ergodic Diffusions
+The paper is a full version of the short presentation in \cite{amv17}. Ergodic control for one-dimensional controlled diffusion is tackled; both drift and diffusion coefficients may depend on a strategy which is assumed markovian. Ergodic HJB equation is established and existence and uniqueness of its solution is proved, as well as the convergence of the reward improvement algorithm.

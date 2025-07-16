@@ -1,0 +1,2 @@
+Byzantine Agreement , Made Trivial Silvio Micali
+We present a very simple, cryptographic, Byzantine-agreement protocol that, with n = 3t + 1 players, t of which are malicious, halts in expected 9 rounds.

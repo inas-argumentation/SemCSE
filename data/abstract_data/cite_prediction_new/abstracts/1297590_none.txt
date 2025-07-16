@@ -1,0 +1,2 @@
+Reattack of a Certificateless Aggregate Signature Scheme with Constant Pairing Computations
+A new attack against a novel certificateless aggregate signature scheme with constant pairing computations is presented. To enhance security, a new certificateless signature scheme is proposed first. Then a new certificateless aggregate signature scheme with constant pairing computations based on the new certificateless signature scheme is presented. Security analysis shows that the proposed certificateless aggregate signature scheme is provably secured in the random oracle.

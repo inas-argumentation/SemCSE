@@ -1,0 +1,2 @@
+Near Optimal Unconditionally Secure Authentication
+An efficient unconditionally secure authentication scheme with arbitration is presented which is also secure against attacks by the arbiter. Arguments are presented that suggest this scheme is almost optimal with respect to codeword lengths, and when many messages are sent the amount of key data per message approaches, at worst, 1/3 more than the best possible. An improved unconditionally secure authentication scheme without arbitration is also briefly presented.

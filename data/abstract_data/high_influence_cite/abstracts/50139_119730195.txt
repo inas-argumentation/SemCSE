@@ -1,0 +1,2 @@
+Cohomological rigidity of oriented Hantzsche-Wendt manidolds
+By Hantzsche-Wendt manifold (for short HW-manifold) we understand any oriented closed Riemannian manifold of dimension n with a holonomy group (Z_2)^{n-1}. Two HW-manifolds M_1 and M_2 are cohomological rigid if and only if a homeomorphism between M_1 and M_2 is equivalent to an isomorphism of graded rings H^{*}(M_1,F_2) and H^{*}(M_2,F_2). We prove that HW-manifolds are cohomological rigid.

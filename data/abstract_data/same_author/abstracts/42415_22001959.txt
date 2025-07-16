@@ -1,0 +1,6 @@
+A Pinwheel Scheduler for Three Distinct Numbers with a Tight Schedulability Bound
+Abstract. Given a multiset of positive integers 
+ $A=\{a_1,a_2,\ldots,a_n\}$ , the pinwheel problem is to find an infinite sequence over 
+ $\{1,2,\ldots,n\}$ such that there is at least one symbol i within any subsequence of length ai. The density of A is defined as 
+ $\rho(A)=\sum^n_{i=1} (1/a_i)$ . In this paper we limit ourselves to instances composed of three distinct integers. The best scheduler [5] published previously can schedule all instances with a density of less than 0.77. A new and fast scheduling scheme based on spectrum partitioning is presented in this paper which improves the 0.77 result to a new 
+ $\frac{5}{6}\approx 0.83$ density threshold. This scheduler has achieved the tight schedulability bound of this problem.

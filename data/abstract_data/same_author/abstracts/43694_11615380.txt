@@ -1,0 +1,2 @@
+A sigma-delta modulation based BIST scheme for mixed-signal circuits
+In this work, we present the analysis of a built-in self-test (BIST) scheme for mixed-signal circuits that is intended to provide on-chip stimulus generation and response analysis. Based on the sigma-delta modulation principle, the proposed scheme can produce high-quality stimuli and obtain accurate measurements without the need of precise analog circuitry. Numerical simulations are conducted to validate our idea and the results show that the scheme is a promising BIST approach for mixed-signal circuits.

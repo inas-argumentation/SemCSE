@@ -1,0 +1,2 @@
+Topics in multiple-loop regulators and current-mode programming
+Some general considerations about multiple-loop feedback are discussed, and it is concluded that incorporation of a current-programmed power stage into a “new” power stage model is both justified and useful. A new circuit-oriented model of the current feedback path is derived which augments the well-known power stage canonical circuit model.

@@ -1,0 +1,2 @@
+Neutron star properties from an NJL model modified to simulate confinement
+The NJL model has recently been extended with a method to simulate confinement. This leads in mean field approximation to a natural mechanism for the saturation of nuclear matter. We use the model to investigate the equation of state of asymmetric nuclear matter and then use it to compute the properties of neutron stars.

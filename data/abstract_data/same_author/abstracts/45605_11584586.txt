@@ -1,0 +1,2 @@
+Parallel Algorithmic Techniques for Combinatorial Computation
+We have described a number of algorithmic tools that have been found useful in the construction of parallel algorithms; among these are prefix computation, ranking, Euler tours, ear decomposition, and matrix calculations. We have also described some of the applications of these tools, and listed many other applications. These algorithms seem likely to be useful not only in their own right, but also as examples of ways to break up other problems into parts suitable for parallel solution.

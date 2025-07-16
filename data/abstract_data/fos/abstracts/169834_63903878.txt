@@ -1,0 +1,2 @@
+Research on the Data Recorvery Method of Deleted SMS for iPhone
+As a fast, powerful and low resource consumption lightweight database engine, SQLite supports mainstream operating system such as Windows, Linux and UNIX. SQLite is widely used in variety of applications, such as contacts, call records, short message and QQ chat log. Provides an approach to recover deleted SMS by analyzing SQLite file format and addressing way of data records. The results show that the method of data recovery is capable for recovering data text for iPhone.

@@ -1,0 +1,2 @@
+There are no unfilled shells in unrestricted Hartree-Fock theory.
+We prove that in an exact, unrestricted Hartree-Fock calculation each energy level of the Hartree-Fock equation is either completely filled or completely empty. The only assumption needed is that the two-body interaction is—like the Coulomb interaction—repulsive; it could, however, be more complicated than a simple potential; e.g., it could have tensor forces and velocity dependence. In particular, the Hartree-Fock energy levels of atoms and molecules, often called shells, are never partially filled.

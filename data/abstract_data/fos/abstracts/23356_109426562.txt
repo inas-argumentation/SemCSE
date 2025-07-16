@@ -1,0 +1,24 @@
+Retrieval of water vapor using ground-based observations from a prototype ATOMMS active centimeter- and millimeter-wavelength occultation instrument
+. A fundamental goal of satellite weather and climate observations is profiling
+the atmosphere with in situ-like precision and resolution with absolute
+accuracy and unbiased, all-weather, global coverage. While GPS radio
+occultation (RO) has perhaps come closest in terms of profiling the gas state
+from orbit, it does not provide sufficient information to simultaneously
+profile water vapor and temperature. We have been developing the Active
+Temperature, Ozone and Moisture Microwave Spectrometer (ATOMMS) RO system
+that probes the 22 and 183 GHz water vapor absorption lines to
+simultaneously profile temperature and water vapor from the lower troposphere
+to the mesopause. Using an ATOMMS instrument prototype between two
+mountaintops, we have demonstrated its ability to penetrate through water
+vapor, clouds and rain up to optical depths of 17 (7 orders of magnitude
+reduction in signal power) and still isolate the vapor absorption line
+spectrum to retrieve water vapor with a random uncertainty of less than
+1 %. This demonstration represents a key step toward an orbiting ATOMMS
+system for weather, climate and constraining processes. ATOMMS water vapor
+retrievals from orbit will not be biased by climatological or first-guess
+constraints and will be capable of capturing nearly the full range of
+variability through the atmosphere and around the globe, in both clear and
+cloudy conditions, and will therefore greatly improve our understanding and
+analysis of water vapor. This information can be used to improve weather and
+climate models through constraints on and refinement of processes affecting
+and affected by water vapor.

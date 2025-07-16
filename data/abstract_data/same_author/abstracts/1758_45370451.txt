@@ -1,0 +1,2 @@
+Programmable Security for Object-Oriented Systems
+This paper focuses on “programmable security” for object-oriented systems and languages. A primitive distributed object model is used to capture the essence of object behavior and access control schemes. This model can be used to construct virtually any distributed object language or system while supporting a spectrum of decentralized authorization models.

@@ -1,0 +1,15 @@
+Complete sequencing of an IncH plasmid carrying the blaNDM-1, blaCTX-M-15 and qnrB1 genes.
+OBJECTIVES
+To characterize plasmid pNDM-MAR recovered from a Klebsiella pneumoniae isolate of sequence type (ST) 15 from Morocco, carrying the genes encoding the metallo-β-lactamase NDM-1, the extended-spectrum β-lactamase (ESBL) CTX-M-15 and the qnrB1 quinolone resistance determinant.
+
+
+METHODS
+The plasmid DNA sequence was obtained by using the 454-Genome Sequencer FLX procedure on a library constructed from total plasmid DNA obtained from an Escherichia coli J53 transconjugant. Contig assembly and predicted gaps were confirmed and filled by PCR-based gap closure.
+
+
+RESULTS
+Plasmid pNDM-MAR was 267 242 bp long and encoded 177 predicted proteins. It harboured novel replicons and transfer loci, defining a novel plasmid type within the IncH plasmid family. The bla(NDM-1) gene was flanked by genetic elements that are distinct from those observed in other bla(NDM-1)-positive plasmids, including the groES and groEL chaperonin genes. This plasmid harboured the ESBL gene bla(CTX-M-15) together with the quinolone resistance gene qnrB1. In addition, it harboured genes encoding resistance to tellurite, mercury, chloramphenicol and aminoglycosides. Interestingly, pNDM-MAR did not carry any 16S rRNA methylase gene, in contrast to other bla(NDM-1)-positive plasmids.
+
+
+CONCLUSIONS
+This study underlines the diversity of genetic vehicles involved in the spread of the bla(NDM-1) gene. Plasmid pNDM-MAR differed significantly from all known bla(NDM-1)-bearing plasmids. Comparative analysis of the pNDM-MAR sequence identified a novel type of IncH plasmid.

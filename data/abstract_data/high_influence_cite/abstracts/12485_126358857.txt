@@ -1,0 +1,2 @@
+Performance of Gahver-Stehfest Numerical Laplace Inversion Method on Option Pricing Formulas
+In this paper we study the performance of Gahver-Stehfest numerical Laplace inversion method. The method is applied to some simple functions which have analytical Laplace inversion and the option pricing formulas which their analytical inversions are not available. The accuracy and efficiency of the methods for each functions are presented.

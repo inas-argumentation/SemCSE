@@ -1,0 +1,2 @@
+VARIOUS OBJECT RECOGNITION TECHNIQUES FOR COMPUTER VISION
+Object recognition in computer vision is the task of finding a given object in an image or video sequence. The task is monotonous in the dynamic world where the amount of visual information is enormous. This paper addresses some of the techniques available for object recognition for computer vision and their features. The different advantages and drawbacks found for each technique are highlighted. It also discusses the requirements of object recognition algorithms and the challenges ahead to be faced by them.

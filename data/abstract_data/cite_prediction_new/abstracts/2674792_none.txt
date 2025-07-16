@@ -1,0 +1,2 @@
+Use of exchangeable pairs in the analysis of simulations
+The method of exchangeable pairs has emerged as an important tool in proving limit theorems for Poisson, normal and other classical approx- imations. Here the method is used in a simulation context. We estimate tran- sition probabilitites from the simulations and use these to reduce variances. Exchangeable pairs are used as control variates. Finally, a general approximation theorem is developed that can be com- plemented by simulations to provide actual estimates of approximation errors.

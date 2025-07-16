@@ -1,0 +1,2 @@
+The Independence Number of Graphs with a Forbidden Cycle and Ramsey Numbers
+Let k ≥ 5 be a fixed integer and let m = ⌊(k − 1)/2⌋. It is shown that the independence number of a Ck-free graph is at least c1[∑ d(v)1/(m − 1)](m − 1)/m and that, for odd k, the Ramsey number r(Ck, Kn) is at most c2(nm + 1/log n)1/m, where c1 = c1(m) > 0 and c2 = c2(m) > 0.

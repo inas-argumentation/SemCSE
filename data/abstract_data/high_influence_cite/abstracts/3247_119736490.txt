@@ -1,0 +1,2 @@
+Gaussian density estimates for solutions of fully coupled forward‐backward SDEs
+We obtain upper and lower Gaussian density estimates for the law of each component of the solution to a one-dimensional fully coupled forward-backward SDE (FBSDE). Our approach relies on the link between FBSDEs and quasilinear parabolic PDEs, and is fully based on the use of classical results on PDEs rather than on manipulation of FBSDEs, compared to other papers on this topic. This essentially simplifies the analysis.

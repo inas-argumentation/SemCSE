@@ -1,0 +1,2 @@
+Reflections on the INEX structure extraction competition
+After two participations to the INEX competition in the Structure Extraction task, which consists in building navigation tools for digitised books by constructing hyperlinked table of contents from OCR text and layout information, we present in this paper some reflections about this competition regarding its dataset, and its evaluation measure. We point out some issues, and propose some recommendations for improving the groundtruth and the measures.

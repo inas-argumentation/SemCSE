@@ -1,0 +1,2 @@
+Representation of Events in Nerve Nets and Finite Automata
+Abstract To what kinds of events can a McCulloch Pitts nerve net respond by firing a certain neuron? More generally, to what kinds of events can any finite automaton respond by assuming one of certain states? This memorandum is devoted to an elementary exposition of the problems and of results obtained on it during investigations in August 1951.

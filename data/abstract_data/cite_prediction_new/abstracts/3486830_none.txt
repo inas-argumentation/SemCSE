@@ -1,0 +1,2 @@
+A Unifying Approach to Evaluating Block Accesses in Database Organizations
+A nonrecursive discrete density function to compute the probability of retrieving k records from exactly i blocks of a file is introduced here. This function is shown to be equivalent to Siler's recursive one. Furthermore, we prove that Yao's formula is the expected value of our (and Siler's) probability function.

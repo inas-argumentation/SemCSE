@@ -1,0 +1,15 @@
+Bio-inspired Policy Based Management (bioPBM) for Autonomic Communication Systems
+The tremendous development of Internet
+infrastructures as well as communication technologies
+has led to an increase in network management
+complexity. Autonomic control is one way to manage
+complexity. Policy Based Management Systems (PBMS)
+provide a consistent model for decision making using a
+set of abstractions (i.e., to manage the system in a manner
+that is independent from the complexities of low level
+network technologies). In this paper, we develop a
+hierarchical bio-inspired PBMS based on mechanisms for
+organism regulation that supports self-organisation and
+self-management at different levels of the hierarchy. We
+employ this mechanism towards network management of
+autonomic communications systems.

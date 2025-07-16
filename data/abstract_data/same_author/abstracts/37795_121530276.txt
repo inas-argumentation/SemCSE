@@ -1,0 +1,2 @@
+STOCHASTIC DIFFERENTIAL EQUATIONS FOR THE CONTINUOUS SPONTANEOUS LOCALIZATION MODEL
+We extend Vink's method [J. C. Vink, Phys. Rev.A48, 1808 (1993)], developed for an isolated quantum system, to an open quantum system consisting of a free particle interacting with its surrounding through a random potential, which causes the spontaneous localization of its wave function. We then obtain the stochastic differential equations (SDE) underlying its evolution. These SDE help us to observe the effects of the environment upon the movement of the particle.

@@ -1,0 +1,2 @@
+Modulo- N based digital frequency synthesizer with enhanced input frequencies
+With a modulo-N accumulator and a set of reference waveforms, a new architecture of high-performance digital frequency synthesizer is devised. The reference waveforms with the same frequency but different phases are passed through a multiplexer to obtain the maximal frequency with an incrementer. A Gray encoder is designed to eliminate the glitch problem. The performance of the synthesizer is illustrated via timing simulations with the TSMC 0.35μm cell-based process.

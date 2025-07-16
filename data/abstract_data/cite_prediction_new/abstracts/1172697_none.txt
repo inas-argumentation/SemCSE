@@ -1,0 +1,2 @@
+Act: an easy-to-use and dynamically extensible 3D graphics library
+The paper presents Act, an object oriented library for projects from specialized 3D graphics applications to simple interactive educational programs. Act meets the needs of both occasional and expert graphics programmers, offering a high level access to the OpenGL library and additional features including object creation, manipulation, and interaction. An interpreted language allows the Act library to be extended easily and dynamically.

@@ -1,0 +1,2 @@
+Weakly Supervised Instance Segmentation using Deep Learning
+With the advent of deep learning in the fields of computer vision and autonomous driving, one of the major challenges in recent research is to have adequately labeled large datasets. Particularly, for semantic segmentation tasks, it is tedious to generate pixel level annotated data for training deep neural networks. Since datasets with image level or bounding box labels are readily available, it makes sense to utilize them for generating pixel wise labels for new data sets.

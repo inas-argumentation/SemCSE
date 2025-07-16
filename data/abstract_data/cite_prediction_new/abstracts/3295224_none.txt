@@ -1,0 +1,31 @@
+Personalized prediction of first-cycle in vitro fertilization success.
+OBJECTIVE
+To test whether the probability of having a live birth (LB) with the first IVF cycle (C1) can be predicted and personalized for patients in diverse environments.
+
+
+DESIGN
+Retrospective validation of multicenter prediction model.
+
+
+SETTING
+Three university-affiliated outpatient IVF clinics located in different countries.
+
+
+PATIENT(S)
+Using primary models aggregated from >13,000 C1s, we applied the boosted tree method to train a preIVF-diversity model (PreIVF-D) with 1,061 C1s from 2008 to 2009, and validated predicted LB probabilities with an independent dataset comprising 1,058 C1s from 2008 to 2009.
+
+
+INTERVENTION(S)
+None.
+
+
+MAIN OUTCOME MEASURE(S)
+Predictive power, reclassification, receiver operator characteristic analysis, calibration, dynamic range.
+
+
+RESULT(S)
+Overall, with PreIVF-D, 86% of cases had significantly different LB probabilities compared with age control, and more than one-half had higher LB probabilities. Specifically, 42% of patients could have been identified by PreIVF-D to have a personalized predicted success rate >45%, whereas an age-control model could not differentiate them from others. Furthermore, PreIVF-D showed improved predictive power, with 36% improved log-likelihood (or 9.0-fold by log-scale; >1,000-fold linear scale), and prediction errors for subgroups ranged from 0.9% to 3.7%.
+
+
+CONCLUSION(S)
+Validated prediction of personalized LB probabilities from diverse multiple sources identify excellent prognoses in more than one-half of patients.

@@ -1,0 +1,2 @@
+Numerical comparison of iterative methods for solving nonlinear equations
+Abstract In this paper, we suggest some new predictor–corrector type iterative method for solving nonlinear equations by combining the well known Regula Falsi and Newton method. Numerical experiments show that new predictor–corrector type methods perform better than the previously known methods.

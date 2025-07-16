@@ -1,0 +1,2 @@
+Estimation of time delays between unknown colored signals
+A number of papers have been dealing with the problem of estimating the differential delay of an unknown signal impinging on two sensors. Here, the case of L sensors and L sources is considered with L ( L −1) delays to be estimated. The solution resorts to blind multichannel MA identification in the time domain. All delays are estimated independently of each other using a relation between MA coefficients.

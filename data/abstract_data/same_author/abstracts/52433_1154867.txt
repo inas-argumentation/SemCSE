@@ -1,0 +1,2 @@
+Hamilton cycles in random lifts of graphs
+An n-lift of a graph K is a graph with vertex set V(K) × [n], and for each edge (i, j) ∈ E(K) there is a perfect matching between {i} × [n] and {j} × [n]. If these matchings are chosen independently and uniformly at random then we say that we have a random n-lift. We show that there are constants h1, h2 such that if h ≥ h1 then a random n-lift of the complete graph Kh is hamiltonian whp and if h ≥ h2 then a random n-lift of the complete bipartite graph Kh,h is hamiltonian whp.

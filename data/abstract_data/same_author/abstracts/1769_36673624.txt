@@ -1,0 +1,2 @@
+An Environment for Developing Securely Interoperable Heterogeneous Distributed Objects
+The heterogeneity and volatility of open distributed systems make high as­surance security an elusive goal. One solution is to provide developers with tools for designing and implementing robust object systems with verifiable behavior in open environments (Cleaveland et al., 1994). The Meta-Object Operating System Environment (MOOSE) (Hale et al., 1997) is intended to support the development, execution and verification of secure heterogeneous distributed systems.

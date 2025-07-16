@@ -1,0 +1,2 @@
+WISE: A Prototype for Ontology Driven Development of Web Information Systems
+The development of Web Information Systems(WIS) is a hot research topic both in industry and academia. This paper presents a platform for ontology driven WIS development: the Web Information System auto-construction Environment(WISE). The novel features of WISE are: 1) Employing WIS ontology to specify user requirements; 2) Providing graphical tools to support ontology construction; 3) Drawing user interfaces and generating source code automatically from WIS ontology.

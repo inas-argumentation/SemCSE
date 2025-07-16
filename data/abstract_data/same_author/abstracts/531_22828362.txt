@@ -1,0 +1,2 @@
+Construction of low-density parity-check codes by superposition
+This paper presents a superposition method for constructing low-density parity-check (LDPC) codes. Several classes of structured LDPC codes are constructed. Codes in these classes perform well with iterative decoding, and their Tanner graphs have girth at least six.

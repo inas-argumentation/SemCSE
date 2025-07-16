@@ -1,0 +1,2 @@
+Ranging Implementation for IEEE 802.15.4a IR-UWB Systems
+This paper discusses ranging for IEEE 802.15.4a impulse-radio ultra-wideband (IR-UWB) system, especially targeting implementation. The essential capabilities for ranging are the ranging counter and determination of the arrival time of a signal at the receiver, which are implemented in our full-digital coherent IR-UWB system. The ranging measurements verify our design for ranging.

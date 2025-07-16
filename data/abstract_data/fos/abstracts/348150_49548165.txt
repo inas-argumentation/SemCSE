@@ -1,0 +1,2 @@
+On the First Hochschild Cohomology Group of a Cluster-Tilted Algebra
+Given a cluster-tilted algebra B, we study its first Hochschild cohomology group HH1(B) with coefficients in the B-B-bimodule B. If C is a tilted algebra such that B is the relation-extension of C, then we show that if B is tame, then HH1(B) is isomorphic, as a k-vector space, to the direct sum of HH1(C)${\text {HH}}^{1}(C)$ with knB,C$k^{n_{B,C}}$, where nB,C is an invariant linking the bound quivers of B and C. In the representation-finite case, HH1(B) can be read off simply by looking at the quiver of B.

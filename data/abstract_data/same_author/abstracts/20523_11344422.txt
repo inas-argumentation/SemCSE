@@ -1,0 +1,2 @@
+Benefits of joint LIGO-Virgo coincidence searches for burst and inspiral signals
+We examine the benefits of performing a joint LIGO-Virgo search for transient signals. We do this by adding burst and inspiral signals to 24 hours of simulated detector data. We find significant advantages to performing a joint coincidence analysis, above either a LIGO only or Virgo only search. These include an increased detection efficiency, at a fixed false alarm rate, to both burst and inspiral events and an ability to reconstruct the sky location of a signal.

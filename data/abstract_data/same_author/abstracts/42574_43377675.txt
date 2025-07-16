@@ -1,0 +1,2 @@
+Approximating the Medial Axis from the Voronoi Diagram with a Convergence Guarantee
+We show that the medial axis of a surface S ? R3 can be approximated as a subcomplex of the Voronoi diagram of a point sample of S. The subcomplex converges to the true medial axis as the sampling density approaches infinity. Moreover, the subcomplex can be computed in a scale and density independent manner. Experimental results as detailed in a companion paper corroborate our theoretical claims.

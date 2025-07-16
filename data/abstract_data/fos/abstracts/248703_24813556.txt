@@ -1,0 +1,15 @@
+SU-E-T-391: Quantitative Measurement and Modeling of the Variations in Dose Distributions Induced by Cyclic Motion.
+PURPOSE
+To assess by measurement the quantitative variations in dose distributions for different motion patterns. Mathematical modeling of dose variations induced by motion was developed.
+
+
+MATERIALS AND METHODS
+The dose distributions from various plans that included open and intensity-modulated fields were measured using a multiple-diode-array detector (MapCHECK2). The MapCHECK2 phantom was mounted on a mobile platform that moves with adjustable calibrated motion patterns in one-dimension (Y-Axis). For each plan, the dose distributions were measured with MapCHECK2 using different ranges of motion (ROM) from 0-40 mm and a frequency of 15 cycles per minute. Mathematical modeling was developed to predict the variations in the dose distributions and their dependence on the motion parameters.
+
+
+RESULTS
+The central dose remains unchanged and agrees (< 3%) with that for the static phantom. At periphery of dose distributions along the motion direction, hot spots resulted in low dose regions while cold dose spots were induced close to penumbra due to phantom motion. The difference in dose outside the fields increased significantly as the ROM increased where maximal dose reached up to a factor of 5 at ROM = 25 mm. The modeling showed that maximal dose and spread-out position at the edges of the field along motion direction increased linearly with ROM. The dose profile at the edge of field decreased linearly with ROM. The dose distributions from IMRT fields were smeared and optimization features were reduced due to motion.
+
+
+CONCLUSION
+The dose distributions at the edges of the open or IMRT fields varied considerably with motion. Maximal and minimal dose variations, spatial position of maximal dose and dose drop rate in the dose distributions of the mobile phantom were modeled. This modeling provides quantitative characterization of dose variations induced by motion which might be employed in IMRT optimization to compensate of these dose artifacts.

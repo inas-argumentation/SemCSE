@@ -1,0 +1,2 @@
+Using multi-agent systems to represent uncertainty
+The author considers a logical framework for modeling uncertainty, based on the use of possible worlds, that incorporates knowledge, probability, and time. This turns out to be a powerful approach for modeling many problems of interest. He shows how it can be used to give insights into (among other things) several well-known puzzles.

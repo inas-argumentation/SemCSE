@@ -1,0 +1,2 @@
+Defending against Cross-Site Scripting Attacks
+Researchers have proposed multiple solutions to cross-site scripting, but vulnerabilities continue to exist in many Web applications due to developers' lack of understanding of the problem and their unfamiliarity with current defenses' strengths and limitations.

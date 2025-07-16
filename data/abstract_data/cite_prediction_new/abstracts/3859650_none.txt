@@ -1,0 +1,15 @@
+Expression of Genes Involved in Cellular Adhesion and Extracellular Matrix Remodeling Correlates with Poor Survival of Patients with Renal Cancer.
+PURPOSE
+Renal cell carcinoma is the most common highly metastatic kidney malignancy. Adhesion has a crucial role in the metastatic process. TGF (transforming growth factor)-β1 is a pleiotropic cytokine that influences cancerous transformation. We hypothesized that 1) changes in the expression of adhesion related genes may influence survival rate of patients with renal cell carcinoma and 2) TGF-β1 may contribute to changed expression of adhesion related genes.
+
+
+MATERIALS AND METHODS
+Two-step quantitative real-time polymerase chain reaction arrays were used to analyze the expression of adhesion related genes in 77 tumors and matched pair controls. The prognostic significance of genes was evaluated in TCGA (The Cancer Genome Atlas) data on 468 patients with renal cell carcinoma. Quantitative real-time polymerase chain reaction and Western blot were applied for TGF-β1 analysis. TGF-β1 mediated regulation of gene expression was analyzed by TGF-β1 supplementation of Caki-2 cells and quantitative real-time polymerase chain reaction.
+
+
+RESULTS
+The expression of 19 genes related to adhesion and extracellular matrix remodeling was statistically significantly disturbed in renal cell carcinoma compared with controls. The 10-gene expression signature (COL1A1, COL5A1, COL11A1, FN1, ICAM1, ITGAL, ITGAM, ITGB2, THBS2 and TIMP1) correlated with poor survival (HR 2.85, p = 5.7e-10). TGF-β1 expression was 22 times higher in renal cell carcinoma than in controls (p <0.0001). TGF-β1 induced expression of TGFBI, COL1A1, COL5A1, COL8A1, FN1, ITGA5, ITGAM and TIMP1 in a renal cell carcinoma derived cell line.
+
+
+CONCLUSIONS
+Disturbed expression of genes involved in adhesion and extracellular matrix remodeling develops early during renal cell carcinoma carcinogenesis and correlates with poor survival. TGF-β1 contributes to changed expression of extracellular matrix and adhesion related genes. Bioinformatic analysis performed on a broad panel of cancers of nonkidney origin suggests that disturbed expression of genes related to extracellular matrix and adhesion may be a universal feature of cancerous progression.

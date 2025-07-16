@@ -1,0 +1,2 @@
+Generating Sparse 2-spanners
+A k- spanner of a connected graph G=(V, E) is a subgraph G′ consisting of all the vertices of V and a subset of the edges, with the additional property that the distance between any two vertices in G′ is larger than that distance in G by no more than a factor of k. This note concerns the problem of finding the sparsest 2-spanner in a given graph, and presents an approximation algorithm for this problem with approximation ratio log(¦E¦/¦V¦).

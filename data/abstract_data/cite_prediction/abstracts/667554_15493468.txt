@@ -1,0 +1,2 @@
+ISAR - radar imaging of targets with complicated motion
+ISAR imaging is described for general motion of a radar target. ISAR imaging may be seen as a 3D to 2D projection, and the importance of the ISAR image projection plane is stated. For general motion, ISAR images are often smeared when using FFT processing. Time frequency methods are used to analyze such images, and to form sharp images. A given smeared image is shown to be the result of changes both in scale and in the projection plane orientation.

@@ -1,0 +1,2 @@
+Time-fractional thermoelasticity problem for a sphere subjected to the heat flux
+The theory of thermal stresses based on the heat conduction equation with the Caputo time-fractional derivative is used to study central symmetric thermal stresses in a sphere. The solution is obtained using the Laplace transform with respect to time and the finite sin-Fourier integral transform with respect to the radial coordinate. The physical Neumann problem with the prescribed boundary value of the heat flux is considered. Numerical results are illustrated graphically.

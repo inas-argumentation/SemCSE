@@ -1,0 +1,2 @@
+Modern Intrusion Detection Systems
+Intrusion detection systems (IDS) help detect unauthorized activities or intrusions that may compromise the confidentiality, integrity or availability of a resource. This paper presents a general overview of IDSs, the way they are classified and the different algorithms used to detect anomalous activities. It also describes the various approaches and the importance of IDSs in information security.

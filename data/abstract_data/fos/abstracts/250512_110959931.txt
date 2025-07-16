@@ -1,0 +1,14 @@
+Mapping grain sorghum growth and yield variations using airborne multispectral digital imagery.
+Airborne digital imagery is becoming an increasingly important data source for precision agriculture. In this 
+study, airborne digital imagery and yield monitor data were used to map plant growth and yield variability. Color-infrared 
+(CIR) images were acquired from a grain sorghum field five times during the 1998 growing season, and yield 
+monitor data were also collected from the field during harvest. The images were georeferenced and then classified into 
+zones of homogeneous spectral response using unsupervised classification procedures. The images and unsupervised 
+classification maps clearly revealed the consistency and change of plant growth patterns over the growing season. 
+Correlation analyses showed grain yield was significantly related to the individual near-infrared (NIR), red, and green 
+bands of the CIR images and the normalized difference vegetation index (NDVI) for the five dates. Stepwise linear 
+regression was also used to relate yield to the three bands for each of the five dates, and the three images obtained at and 
+after the peak growth produced higher R 2 -values (0.64, 0.66, and 0.61) than the other two early season images (0.39 and 
+0.37). Yield maps generated from the three best images agreed well with a yield map from the yield monitor data. These 
+results demonstrated that airborne digital imagery can be a very useful data source for detecting plant growth and yield 
+variability for precision agriculture.

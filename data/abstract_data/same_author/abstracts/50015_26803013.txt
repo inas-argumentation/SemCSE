@@ -1,0 +1,2 @@
+Jikzi: A New Framework for Secure Publishing
+We present a new way to deal with security policy on the web. Our aim is to let people build integrated publishing and e-commerce services using appropriate, simple and uniform mechanisms. Our goal is a single framework that applies equally to the publication of catalogues, music, software, public key certificates and even old fashioned books. Our prototype framework, Jikzi, supports multiple security policies – even in the same document – with a single transparent markup language.

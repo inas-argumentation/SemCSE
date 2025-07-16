@@ -1,0 +1,2 @@
+Generation of Synthetic Seismograms Using Linear Systems Theory
+: The linear systems theory for elastic wave propagation in a multilayered crust has been extended to time domain solutions. Attenuation is specifically included. This direct domain approach allows the computation of synthetic seismograms for P or SV waveforms incident at an arbitrary angle at the base of the crustal section. To demonstrate the utility of the technique, seismograms are computed for various conditions and comparisons made with teleseismic events recorded in central Alberta. (Author)

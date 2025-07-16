@@ -1,0 +1,2 @@
+Some Considerations on Learning to Explore via Meta-Reinforcement Learning
+We consider the problem of exploration in meta reinforcement learning. Two new meta reinforcement learning algorithms are suggested: E-MAML and ERL2. Results are presented on a novel environment we call 'Krazy World'  and a set of maze environments. We show E-MAML and ERL2 deliver better performance on tasks where exploration is important.

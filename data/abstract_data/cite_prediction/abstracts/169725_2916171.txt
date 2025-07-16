@@ -1,0 +1,2 @@
+Solving the Sports League Scheduling Problem with Tabu Search
+In this paper we present a tabu approach for a version of the Sports League Scheduling Problem. The approach adopted is based on a formulation of the problem as a Constraint Satisfaction Problem (CSP). Tests were carried out on problem instances of up to 40 teams representing 780 integer variables with 780 values per variable. Experimental results show that this approach outperforms some existing methods and is one of the most promising methods for solving problems of this type.

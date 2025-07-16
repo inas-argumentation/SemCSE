@@ -1,0 +1,2 @@
+Understanding Social Welfare Service Patterns Using Sequential Analysis
+Classical exploratory data analysis methods in statistics and many of the earlier KDD methods tend to focus only on basic data types, (interval or categorical data) as the unit of analysis. However, some information cannot be interpreted unless the data is treated as a unit. For example, viewing the data as sequences of sets can reveal useful information that could not be extracted in any other way. Analyzing suitable databases from such a perspective can assist many social scientists in their work.

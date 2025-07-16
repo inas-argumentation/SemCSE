@@ -1,0 +1,2 @@
+Driven Forward Features Selection: A Comparative Study on Neural Networks
+In the field of neural networks, feature selection has been studied for the last ten years and classical as well as original methods have been employed. This paper reviews the efficiency of four approaches to do a driven forward features selection on neural networks . We assess the efficiency of these methods compare to the simple Pearson criterion in case of a regression problem.

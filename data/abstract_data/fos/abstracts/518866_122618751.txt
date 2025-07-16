@@ -1,0 +1,4 @@
+The existence of globally stable equilibria of ecosystems of the generalized Volterra type
+AbstractIn this paper, global asymptotic stability of ecosystems of the generalized Volterra type 
+$$dx_i /dt = x_i \left( {b_{i - } \mathop \sum \limits_{j = 1}^n a_{ij} x_j } \right),{\text{ }}i = 1,...,n,$$
+ is investigated. We obtain the conditions for the existence of a nonnegative and stable equilibrium point of the system by applying a result of linear complementarity theory.The results of this paper show that there exists a class of systems that do not have multiple domains of attractions. This class is defined in terms of the species interactions alone, and does not involve carrying capacities or species net birth rates.

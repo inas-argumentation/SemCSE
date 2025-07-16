@@ -1,0 +1,2 @@
+Linearized constraints in the connection representation: Hamilton-Jacobi solution.
+Newman and Rovelli have used singular Hamilton-Jacobi transformations to reduce the phase space of general relativity in terms of the Ashtekar variables. Their solution of the gauge constraint cannot be inverted and indeed has no Minkowski space limit. Nonetheless, we exhibit an explicit Hamilton-Jacobi solution of all the linearized constraints. The result does not encourage an iterative solution, but it does indicate the origin of the singularity of the Newman-Rovelli result.

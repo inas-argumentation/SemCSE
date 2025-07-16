@@ -1,0 +1,2 @@
+On orbital regular graphs and frobenius graphs
+A graph is called a Frobenius graph if it is a connected orbital graph of a Frobenius group. In this paper, we show first that almost all orbital regular graphs are Frobenius graphs. Then we give a description of Frobenius graphs in terms of a family of (usually smaller) Frobenius graphs which are Cayley graphs for elementary abelian groups. Finally, based on this description, we obtain a formula for calculating the edge-forwarding index of Frobenius graphs.

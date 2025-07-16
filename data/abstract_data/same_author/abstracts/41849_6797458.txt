@@ -1,0 +1,2 @@
+Graphs without K4 and well-quasi-ordering
+Abstract It is proved that given an infinite sequence G 1 , G 2 , G 3 ,…, of series-parallel graphs there are indices i j such that G j contains an induced subgraph contractable onto G i . An example is given showing that for planar graphs the preceding theorem fails.

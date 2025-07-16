@@ -1,0 +1,2 @@
+SCHEDULING ISSUES IN REAL TIME SYSTEMS FOR INDUSTRIAL NETWORK
+One aspect to investigate in the attempt to enhance the support of process control traffic is the local transmission scheduling algorithm used to queue the requests. In the factory automation the correctness of many systems and devices depends not only on the effects of results they produce, but also on the time at which these results are produced. This paper presents one deadline aware scheduling approach to transmit real-time periodic and aperiodic requests and non-real-time requests.

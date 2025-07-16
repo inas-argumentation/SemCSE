@@ -1,0 +1,2 @@
+Generalized Pauli-Villars regularization for undoubled lattice fermions
+A manifestly gauge invariant formulation of chiral theories with fermions on the lattice is developed. It combines SLAC lattice derivative [1–3] and generalized Pauli-Villars regularization [4]. The theory is free of fermion doubling, requires only local gauge invariant counterterms and produces correct results when applied to exactly solvable two-dimensional models.

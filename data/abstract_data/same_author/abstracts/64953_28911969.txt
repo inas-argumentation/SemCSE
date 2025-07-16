@@ -1,0 +1,2 @@
+Compression of nucleic acid and protein sequence data
+This paper describes the application of text compression methods to machine-readable files of nucleic acid and protein sequence data. Two main methods are used to reduce the storage requirements of such files, these being n-gram coding and run-length coding. A Pascal program combining both of these techniques resulted in a compression figure of 74.6% for the GenBank data-base and a program that used only n-gram coding gave a compression figure of 42.8% for the Protein Identification Resource database.

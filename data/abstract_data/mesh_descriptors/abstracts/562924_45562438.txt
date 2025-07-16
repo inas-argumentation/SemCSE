@@ -1,0 +1,15 @@
+Relations between volumetric measures of brain structure and attentional function in spina bifida: utilization of robust statistical approaches.
+OBJECTIVE
+Weak structure-function relations for brain and behavior may stem from problems in estimating these relations in small clinical samples with frequently occurring outliers. In the current project, we focused on the utility of using alternative statistics to estimate these relations.
+
+
+METHOD
+Fifty-four children with spina bifida meningomyelocele performed attention tasks and received MRI of the brain. Using a bootstrap sampling process, the Pearson product-moment correlation was compared with 4 robust correlations: the percentage bend correlation, the Winsorized correlation, the skipped correlation using the Donoho-Gasko median, and the skipped correlation using the minimum volume ellipsoid estimator.
+
+
+RESULTS
+All methods yielded similar estimates of the relations between measures of brain volume and attention performance. The similarity of estimates across correlation methods suggested that the weak structure-function relations previously found in many studies are not readily attributable to the presence of outlying observations and other factors that violate the assumptions behind the Pearson correlation.
+
+
+CONCLUSIONS
+Given the difficulty of assembling large samples for brain-behavior studies, estimating correlations using multiple, robust methods may enhance the statistical conclusion validity of studies yielding small, but often clinically significant, correlations.

@@ -1,0 +1,2 @@
+A numerical investigation for robust stability of fractional-order uncertain systems.
+This study presents numerical methods for robust stability analysis of closed loop control systems with parameter uncertainty. Methods are based on scan sampling of interval characteristic polynomials from the hypercube of parameter space. Exposed-edge polynomial sampling is used to reduce the computational complexity of robust stability analysis. Computer experiments are used for demonstration of the proposed robust stability test procedures.

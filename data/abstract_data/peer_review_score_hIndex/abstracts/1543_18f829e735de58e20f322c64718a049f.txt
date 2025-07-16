@@ -1,0 +1,6 @@
+Difference-Seeking Generative Adversarial Network
+We propose a novel algorithm, Difference-Seeking Generative Adversarial Network (DSGAN), developed from traditional GAN. DSGAN considers the scenario that the training samples of target distribution, $p_{t}$, are difficult to collect.
+
+Suppose there are two distributions  $p_{\bar{d}}$ and $p_{d}$ such that the density of the target distribution can be the differences between the densities of $p_{\bar{d}}$ and $p_{d}$. We show how to learn the target distribution $p_{t}$ only via samples from $p_{d}$ and $p_{\bar{d}}$ (relatively easy to obtain).
+
+DSGAN has the flexibility to produce samples from various target distributions (e.g. the out-of-distribution). Two key applications, semi-supervised learning and adversarial training, are taken as examples to validate the effectiveness of DSGAN. We also provide theoretical analyses about the convergence of DSGAN.

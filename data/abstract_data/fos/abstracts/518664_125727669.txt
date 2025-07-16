@@ -1,0 +1,2 @@
+Testing the difference between spectral densities of two independent periodically correlated (cyclostationary) time series models
+In this work, the asymptotic distribution for the discrete Fourier transform of periodically correlated (PC) processes is applied to test the equality of two PC time series. Then the performance of the proposed method is investigated through the Monte Carlo simulations.

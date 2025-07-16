@@ -1,0 +1,3 @@
+On Linear Programming Duality and Necessary and Sufficient Conditions in Minimax Theory
+Abstract
+In this paper we discuss necessary and sufficient conditions for different minimax results to hold using only linear programming duality and the finite intersection property for compact sets. It turns out that these necessary and sufficient conditions have a clear interpretation within zero-sum game theory. We apply these results to derive necessary and sufficient conditions for strong duality for a general class of optimization problems.

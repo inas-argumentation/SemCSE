@@ -1,0 +1,2 @@
+A Hardware Implementation of the CSP Primitives and its Verification
+A design for a hardware interface that implements CSP-like communication primitives is presented. The design is based on a bus scheme that allows processes to “eavesdrop” on messages not directly addressed to them. A temporal logic specification is given for the network and an outline of a verification proof is sketched.

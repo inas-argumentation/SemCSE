@@ -1,0 +1,2 @@
+Bounded perturbations of dynamics
+If α and α′ are one-parameter automorphism groups of a von Neumann algebraM α′ is said to be a bounded perturbation of α if ∥α′t−αt∥→0 ast→0. We give a complete characterization of the bounded perturbations α′ of α. In particular, we show that if α can be implemented by a strongly continuous one-parameter group with self-adjoint generator (Hamiltonian)H, then α′ can be implemented in the same way and the corresponding HamiltonianH′ can be chosen to be of the formH′=VHV−1+h, whereV is a unitary ofM andh=h*∈M.

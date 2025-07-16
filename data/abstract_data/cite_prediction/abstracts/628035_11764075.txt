@@ -1,0 +1,4 @@
+PiLoc: A self-calibrating participatory indoor localization system
+While location is one of the most important context information in mobile and ubiquitous computing, large-scale deployment of indoor localization system remains elusive.
+ In this work, we propose PiLoc, an indoor localization system that utilizes opportunistically sensed data contributed by users. Our system does not require manual calibration, prior knowledge and infrastructure support. The key novelty of PiLoc is that it merges walking segments annotated with displacement and signal strength information from users to derive a map of walking paths annotated with radio signal strengths.
+ We evaluate PiLoc over 4 different indoor areas. Evaluation shows that our system can achieve an average localization error of 1.5m.

@@ -1,0 +1,15 @@
+Graph-convolutional-network-based interactive prostate segmentation in MR images.
+PURPOSE
+Accurate and robust segmentation of the prostate from magnetic resonance (MR) images is extensively applied in many clinical applications in prostate cancer diagnosis and treatment. The purpose of this study is the development of a robust interactive segmentation method for accurate segmentation of the prostate from MR images.
+
+
+METHODS
+We propose an interactive segmentation method based on a graph convolutional network (GCN) to refine the automatically segmented results. An atrous multiscale convolutional neural network (CNN) encoder is proposed to learn representative features to obtain accurate segmentations. Based on the multiscale feature, a GCN block is presented to predict the prostate contour in both automatic and interactive manners. To preserve the prostate boundary details and effectively train the GCN, a contour matching loss is proposed. The performance of the proposed algorithm was evaluated on 41 in-house MR subjects and 30 PROMISE12 test subjects.
+
+
+RESULTS
+The proposed method yields mean Dice similarity coefficients of 93.8±1.2% and 94.4±1.0% on our in-house and PROMISE12 datasets, respectively. The experimental results show that the proposed method outperforms several state-of-the-art segmentation methods.
+
+
+CONCLUSION
+The proposed interactive segmentation method based on the GCN can accurately segment the prostate from MR images. Our method has a variety of applications in prostate cancer imaging.

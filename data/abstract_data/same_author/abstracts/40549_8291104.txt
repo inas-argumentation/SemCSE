@@ -1,0 +1,2 @@
+An enhanced framework for real-time hair animation
+Maximizing visual effect is a major problem in real-time animation. A real-time hair animation framework was proposed previously by C. K. Koh and Z. Huang (2000, 2001) based on 2D representation and texture mapping. One problem is that it lacks of the volumetric effect due to its 2D nature. This paper presents a technique using the U-shape strip to solve the problem.

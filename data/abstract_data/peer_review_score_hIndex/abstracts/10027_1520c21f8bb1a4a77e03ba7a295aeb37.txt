@@ -1,0 +1,12 @@
+Edge Rewiring Goes Neural: Boosting Network Resilience via Policy Gradient
+Improving the resilience of a network protects the system from natural disasters and malicious attacks.
+This is typically achieved by introducing new edges, which however may reach beyond the maximum number of connections a node could sustain.
+Many studies then resort to the degree-preserving operation of rewiring, which swaps existing edges $AC, BD$ to new edges $AB, CD$.
+A significant line of studies focuses on this technique for theoretical and practical results while leaving three limitations: network utility loss, local optimality, and transductivity. 
+In this paper, we propose ResiNet, a reinforcement learning (RL)-based framework to discover Resilient Network topologies against various disasters and attacks. 
+ResiNet is objective agnostic which allows the utility to be balanced by incorporating it into the objective function.
+The local optimality, typically seen in greedy algorithms, is addressed by casting the cumulative resilience gain into a sequential decision process of step-wise rewiring.
+The transductivity, which refers to the necessity to run a computationally intensive optimization for each input graph, is lifted by our variant of RL with auto-regressive permutation-invariant variable action space.
+ResiNet is armed by our technical innovation, Filtration enhanced GNN (FireGNN), which distinguishes graphs with minor differences.
+It is thus possible for ResiNet to capture local structure changes and adapt its decision among consecutive graphs, which is known to be infeasible for GNN.
+Extensive experiments demonstrate that with a small number of rewiring operations, ResiNet achieves a near-optimal resilience gain on multiple graphs while balancing the utility, with a large margin compared to existing approaches.

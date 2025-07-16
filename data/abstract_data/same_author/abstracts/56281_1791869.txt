@@ -1,0 +1,2 @@
+SpidersRUs: automated development of vertical search engines in different domains and languages
+In this paper we discuss the architecture of a tool designed to help users develop vertical search engines in different domains and different languages. The design of the tool is presented and an evaluation study was conducted, showing that the system is easier to use than other existing tools

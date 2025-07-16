@@ -1,0 +1,2 @@
+On Multiple Operand Addition of Signed Binary Numbers
+Recent application of negabinary number systems in signal processing has evoked the question of the suitability of binary base. Many proposals for multioperand addition of unsigned binary numbers are available in the literature. Here, the addition of two numbers in 2's complement notation-has been extended to n signed summands. The time delay remains the same as that of processing n unsigned numbers. This method shows new promises for its application to signal processing.

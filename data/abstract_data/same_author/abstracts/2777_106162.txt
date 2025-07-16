@@ -1,0 +1,2 @@
+A texture-based tamper detection scheme by fragile watermark
+A texture-based tamper detection scheme by a fragile watermarking technique is proposed in this paper. In comparison with other fragile watermarking schemes, the highlight of our scheme is that it is rather sensitive to malicious tamper such as replacing one's face in the image by another's and at the same time it is insensitive to other legal processing such as lossy JPEG compression and brightness/contrast changes. So it is more suitable for tamper detection in practical use.

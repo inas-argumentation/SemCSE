@@ -1,0 +1,10 @@
+Reduction of Word and Minimal Phrase Candidates for Speech Recognition Based on Phoneme Recognition
+This paper discusses the selection of candidates in speech recognition based on the phoneme recognition. The method is based on the result of phoneme recognition for the part of speech input, for which the segmentation is performed with a high reliability. Using the information concerning the order of the phonemes or phoneme chains, and the information concerning the top and tail phonemes, the candidates are selected. Since only the part for which the segmentation can be performed with a high reliability is used, the candidate reduction has a great effect for the clearly uttered speech, and vice versa. Consequently, the method has the feature that the recognition rate is degraded less by the candidate selection. 
+ 
+ 
+ 
+First, the proposed selection method is introduced into the word recognition. The candidate selection is applied to all words in the dictionary. A recognition experiment was performed for the cases of the word dictionary composed of 643 city names, with 100 city names uttered by 50 examinees as the input. As a result, the word candidates were reduced to 16 percent, maintaining almost the same recognition performance as in the case without candidate reduction. 
+ 
+ 
+ 
+Next, the proposed candidate selection is introduced into the phase recognition. In the method, the location of the phoneme to be rejected is estimated in the candidate selection in the derivation of hypothesis, and based on that result, the syntax tree is back-tracked. An experiment was performed for 235 phrases uttered by 2 examinees. As a result, the phrase candidates were reduced to 21 percent, compared with the case without candidate selection.

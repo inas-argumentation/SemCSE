@@ -1,0 +1,3 @@
+Generalized Lüscher’s formula in multichannel baryon-baryon scattering
+In this paper, L\"uscher's formula is generalized to the case of two spin-$\frac{1}{2}$ particles in two-channel scattering based on Ref. \cite{Li:2012bi}. This is first done in a non-relativistic quantum mechanics model and then generalized to quantum field theory. 
+We show that L\"uscher's formula obtained from these two different methods are equivalent up to terms that are exponentially suppressed in the box size. This formalism can be readily applied to future lattice QCD calculations.

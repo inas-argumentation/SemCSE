@@ -1,0 +1,15 @@
+Emergency medicine resident physicians' perceptions of electronic documentation and workflow: a mixed methods study.
+OBJECTIVE
+To understand emergency department (ED) physicians' use of electronic documentation in order to identify usability and workflow considerations for the design of future ED information system (EDIS) physician documentation modules.
+
+
+METHODS
+We invited emergency medicine resident physicians to participate in a mixed methods study using task analysis and qualitative interviews. Participants completed a simulated, standardized patient encounter in a medical simulation center while documenting in the test environment of a currently used EDIS. We recorded the time on task, type and sequence of tasks performed by the participants (including tasks performed in parallel). We then conducted semi-structured interviews with each participant. We analyzed these qualitative data using the constant comparative method to generate themes.
+
+
+RESULTS
+Eight resident physicians participated. The simulation session averaged 17 minutes and participants spent 11 minutes on average on tasks that included electronic documentation. Participants performed tasks in parallel, such as history taking and electronic documentation. Five of the 8 participants performed a similar workflow sequence during the first part of the session while the remaining three used different workflows. Three themes characterize electronic documentation: (1) physicians report that location and timing of documentation varies based on patient acuity and workload, (2) physicians report a need for features that support improved efficiency; and (3) physicians like viewing available patient data but struggle with integration of the EDIS with other information sources.
+
+
+CONCLUSION
+We confirmed that physicians spend much of their time on documentation (65%) during an ED patient visit. Further, we found that resident physicians did not all use the same workflow and approach even when presented with an identical standardized patient scenario. Future EHR design should consider these varied workflows while trying to optimize efficiency, such as improving integration of clinical data. These findings should be tested quantitatively in a larger, representative study.

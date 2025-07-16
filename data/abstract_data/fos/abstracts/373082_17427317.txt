@@ -1,0 +1,2 @@
+Truncation of Large Shell-Model Eigenproblems by Model Space Partitioning
+A method for solving the shell-model eigenproblem in a severely truncated space, spanned by properly selected correlated states obtained by partitioning the full configuration space, is proposed. The method describes in a practically exact way the low energy spectroscopic properties of nuclei, as exemplified in schematic models. The applicability of the method to heavy nuclei as well in contexts different from the nuclear shell model is stressed

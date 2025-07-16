@@ -1,0 +1,2 @@
+Orchestration of Arrowhead services using IEC 61499: Distributed automation case study
+This paper presents a novel approach to automation of flexible manufacturing systems with mechatronic intelligence and distributed control. The mechatronic intelligence layer is implemented using a combination of wireless sensor/actuator networks with service-oriented architecture, where services are located at the device level, as well as in local and global Clouds following the Arrowhead framework.

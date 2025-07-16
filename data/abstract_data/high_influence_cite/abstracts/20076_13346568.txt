@@ -1,0 +1,2 @@
+Minimal Balanced Triangulations of Sphere Bundles over the Circle
+We determine the minimum number of vertices needed to provide balanced triangulations of $\mathbb{S}^{d-2}$-bundles over $\mathbb{S}^1$. If $d$ is odd and the bundle is orientable, or $d$ is even and the bundle is nonorientable, the minimum number of vertices is $3d$; otherwise, it is $3d+2$. Similar results apply to all balanced simplicial complexes that triangulate homology manifolds with $\beta_1\neq0$ and $\beta_2=0$, where $\beta_i$'s are the Betti numbers, computed with coefficients in $\mathbb{Q}$.

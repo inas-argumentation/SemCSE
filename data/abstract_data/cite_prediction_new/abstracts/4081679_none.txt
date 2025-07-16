@@ -1,0 +1,2 @@
+Model Selection and Adaptation for Biochemical Pathways
+In bioinformatics, biochemical signal pathways can be modeled by many differential equations. It is still an open problem how to fit the huge amount of parameters of the equations to the available data. Here, the approach of systematically obtaining the most appropriate model and learning its parameters is extremely interesting.

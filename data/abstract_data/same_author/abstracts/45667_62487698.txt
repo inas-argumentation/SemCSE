@@ -1,0 +1,2 @@
+The Design and Optimization of SOC Test Solutions
+We propose an integrated technique for extensive optimization of the final test solution for System-on-Chip using Simulated Annealing. The produced results from the technique are a minimized test schedule fulfilling test conflicts under test power constraints and an optimized design of the test access mechanism. We have implemented the proposed algorithm and performed experiments with several benchmarks and industrial designs to show the usefulness and efficiency of our technique.

@@ -1,0 +1,2 @@
+Supporting Evolution in Workflow Definition Languages
+Workflow definition languages are evolving rapidly. However, there is not any agreed-upon standard for such languages. In this paper we address the problem of how to develop a workflow system that is able to cope with the constant changes in these languages. We address the definition aspect of workflow systems by distinguishing between frontend and backend languages. This way, a workflow system can be developed based on the backend language whereas the frontend language can change.

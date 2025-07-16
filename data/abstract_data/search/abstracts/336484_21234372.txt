@@ -1,0 +1,2 @@
+Data Access Control for Multi authority Cloud Storage Systems
+Ciphertext Policy Attribute based Encryption (CP ABE) is one of the most suitable technologies for data access control in cloud storage systems. This paper firstly presents the Attribute based Encryption (ABE) secure deletion and secret sharing schemes. Then we construct a CP ABE model using secret sharing methods to insure its security. At last, we propose an improved scheme on Data Access Control for Multi Authority Cloud Storage Systems DAC MACS to insure the security of the central authority (CA)

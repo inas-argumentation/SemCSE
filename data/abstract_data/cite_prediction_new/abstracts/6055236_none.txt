@@ -1,0 +1,2 @@
+Network Construction Using IEC 61400-25 Protocol in Wind Power Plants
+In recent years, the wind power plants are widely developing as an alternative energy source. In order to provide a uniform communications basis for the monitoring and control of wind power plants, IEC 61400-25 has been developed. This paper describes a Web service based network construction using communication protocol stack which is included in IEC 61400-25-4. This system is necessary to implement remote control systems for wind power plants.

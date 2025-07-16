@@ -1,0 +1,2 @@
+Stabilization of bilinear systems with unstable drift
+A simple and computationally feasible approach to feedback stabilization of a class of bilinear systems with unstable drift is presented. Stabilization is achieved in two stages: a reaching phase, in which the control drives the trajectories to a stable manifold; and a sliding phase, in which states are steered to the origin along an ensemble of stable manifolds. The construction of the control is based on a combination of Lyapunov and Lie algebraic techniques.

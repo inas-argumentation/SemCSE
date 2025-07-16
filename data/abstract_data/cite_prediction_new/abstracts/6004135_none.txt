@@ -1,0 +1,2 @@
+Torsion of Drinfeld modules and equicharacteristic unimodular Galois covers
+We prove that the groups PSL(r,q^d) can be realized F_q(T)-regularly as Galois groups over the purely transcendental field F_q(T)(t_1,...,t_{r-1}) if r is even and r/2 is coprime to q^d-1. The method is to use twisted moduli schemes of Drinfeld modules (a la Shih). If one has sufficient control over modular forms, it can be made into an algorithm to find explicit equations. We do this for PSL(2,q^2) using Drinfeld modular forms.

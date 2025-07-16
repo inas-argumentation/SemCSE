@@ -1,0 +1,11 @@
+Detection of IUPAC and IUPAC-like chemical names
+MOTIVATION
+Chemical compounds like small signal molecules or other biological active chemical substances are an important entity class in life science publications and patents. Several representations and nomenclatures for chemicals like SMILES, InChI, IUPAC or trivial names exist. Only SMILES and InChI names allow a direct structure search, but in biomedical texts trivial names and Iupac like names are used more frequent. While trivial names can be found with a dictionary-based approach and in such a way mapped to their corresponding structures, it is not possible to enumerate all IUPAC names. In this work, we present a new machine learning approach based on conditional random fields (CRF) to find mentions of IUPAC and IUPAC-like names in scientific text as well as its evaluation and the conversion rate with available name-to-structure tools.
+
+
+RESULTS
+We present an IUPAC name recognizer with an F(1) measure of 85.6% on a MEDLINE corpus. The evaluation of different CRF orders and offset conjunction orders demonstrates the importance of these parameters. An evaluation of hand-selected patent sections containing large enumerations and terms with mixed nomenclature shows a good performance on these cases (F(1) measure 81.5%). Remaining recognition problems are to detect correct borders of the typically long terms, especially when occurring in parentheses or enumerations. We demonstrate the scalability of our implementation by providing results from a full MEDLINE run.
+
+
+AVAILABILITY
+We plan to publish the corpora, annotation guideline as well as the conditional random field model as a UIMA component.

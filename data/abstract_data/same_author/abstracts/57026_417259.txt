@@ -1,0 +1,11 @@
+Sample size for gene expression microarray experiments
+MOTIVATION
+Microarray experiments often involve hundreds or thousands of genes. In a typical experiment, only a fraction of genes are expected to be differentially expressed; in addition, the measured intensities among different genes may be correlated. Depending on the experimental objectives, sample size calculations can be based on one of the three specified measures: sensitivity, true discovery and accuracy rates. The sample size problem is formulated as: the number of arrays needed in order to achieve the desired fraction of the specified measure at the desired family-wise power at the given type I error and (standardized) effect size.
+
+
+RESULTS
+We present a general approach for estimating sample size under independent and equally correlated models using binomial and beta-binomial models, respectively. The sample sizes needed for a two-sample z-test are computed; the computed theoretical numbers agree well with the Monte Carlo simulation results. But, under more general correlation structures, the beta-binomial model can underestimate the needed samples by about 1-5 arrays.
+
+
+CONTACT
+jchen@nctr.fda.gov.

@@ -1,0 +1,157 @@
+Lifting a prescribed group of automorphisms of graphs
+<p>In this paper we are interested in lifting a prescribed group of automorphisms of a finite graph via regular covering projections. Let <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal upper Gamma">
+  <mml:semantics>
+    <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+    <mml:annotation encoding="application/x-tex">\Gamma</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> be a finite graph and let <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal upper A normal u normal t left-parenthesis normal upper Gamma right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mrow class="MJX-TeXAtom-ORD">
+        <mml:mi mathvariant="normal">A</mml:mi>
+        <mml:mi mathvariant="normal">u</mml:mi>
+        <mml:mi mathvariant="normal">t</mml:mi>
+      </mml:mrow>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\mathrm {Aut}(\Gamma )</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> be the automorphism group of <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal upper Gamma">
+  <mml:semantics>
+    <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+    <mml:annotation encoding="application/x-tex">\Gamma</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>. It is well known that we can always find a finite graph <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal upper Gamma overTilde">
+  <mml:semantics>
+    <mml:mrow class="MJX-TeXAtom-ORD">
+      <mml:mover>
+        <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+        <mml:mo stretchy="false">~<!-- ~ --></mml:mo>
+      </mml:mover>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\tilde {\Gamma }</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> and a regular covering projection <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal script upper P colon normal upper Gamma overTilde right-arrow normal upper Gamma">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mi mathvariant="normal">℘<!-- ℘ --></mml:mi>
+      <mml:mo>:<!-- : --></mml:mo>
+      <mml:mrow class="MJX-TeXAtom-ORD">
+        <mml:mover>
+          <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+          <mml:mo stretchy="false">~<!-- ~ --></mml:mo>
+        </mml:mover>
+      </mml:mrow>
+      <mml:mo stretchy="false">→<!-- → --></mml:mo>
+      <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\wp \colon \tilde {\Gamma } \to \Gamma</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> such that <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal upper A normal u normal t left-parenthesis normal upper Gamma right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mrow class="MJX-TeXAtom-ORD">
+        <mml:mi mathvariant="normal">A</mml:mi>
+        <mml:mi mathvariant="normal">u</mml:mi>
+        <mml:mi mathvariant="normal">t</mml:mi>
+      </mml:mrow>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\mathrm {Aut}(\Gamma )</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> lifts along <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal script upper P">
+  <mml:semantics>
+    <mml:mi mathvariant="normal">℘<!-- ℘ --></mml:mi>
+    <mml:annotation encoding="application/x-tex">\wp</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>. However, for constructing peculiar examples and in applications it is often important, given a subgroup <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="upper G">
+  <mml:semantics>
+    <mml:mi>G</mml:mi>
+    <mml:annotation encoding="application/x-tex">G</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> of <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal upper A normal u normal t left-parenthesis normal upper Gamma right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mrow class="MJX-TeXAtom-ORD">
+        <mml:mi mathvariant="normal">A</mml:mi>
+        <mml:mi mathvariant="normal">u</mml:mi>
+        <mml:mi mathvariant="normal">t</mml:mi>
+      </mml:mrow>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\mathrm {Aut}(\Gamma )</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>, to find <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal script upper P">
+  <mml:semantics>
+    <mml:mi mathvariant="normal">℘<!-- ℘ --></mml:mi>
+    <mml:annotation encoding="application/x-tex">\wp</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> along which <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="upper G">
+  <mml:semantics>
+    <mml:mi>G</mml:mi>
+    <mml:annotation encoding="application/x-tex">G</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> lifts but no further automorphism of <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal upper Gamma">
+  <mml:semantics>
+    <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+    <mml:annotation encoding="application/x-tex">\Gamma</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> does, or even that <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="normal upper A normal u normal t left-parenthesis normal upper Gamma overTilde right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mrow class="MJX-TeXAtom-ORD">
+        <mml:mi mathvariant="normal">A</mml:mi>
+        <mml:mi mathvariant="normal">u</mml:mi>
+        <mml:mi mathvariant="normal">t</mml:mi>
+      </mml:mrow>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mrow class="MJX-TeXAtom-ORD">
+        <mml:mover>
+          <mml:mi mathvariant="normal">Γ<!-- Γ --></mml:mi>
+          <mml:mo stretchy="false">~<!-- ~ --></mml:mo>
+        </mml:mover>
+      </mml:mrow>
+      <mml:mo stretchy="false">)</mml:mo>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\mathrm {Aut}(\tilde {\Gamma })</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> is the lift of <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="upper G">
+  <mml:semantics>
+    <mml:mi>G</mml:mi>
+    <mml:annotation encoding="application/x-tex">G</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>. In this paper, we address these problems.</p>

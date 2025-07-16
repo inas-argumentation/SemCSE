@@ -1,0 +1,2 @@
+A Tool Integration Framework for Sustainable Embedded Systems Development
+Tool integration in the context of embedded systems development and maintenance is challenging due to such systems' lengthy life cycles and adaptability to process specifications. The iFEST framework provides flexibility in development processes and extends support for long product life cycles.

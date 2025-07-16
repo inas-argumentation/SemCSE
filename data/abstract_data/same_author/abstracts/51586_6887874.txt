@@ -1,0 +1,2 @@
+Feedback arc set in bipartite tournaments is NP-complete
+The Feedback Arc Set problem asks whether it is possible to delete at most k arcs to make a directed graph acyclic. We show that Feedback Arc Set is NP-complete for bipartite tournaments, that is, directed graphs that are orientations of complete bipartite graphs.

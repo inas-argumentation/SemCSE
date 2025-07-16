@@ -1,0 +1,2 @@
+Towards Refining Temporal Specifications into Hybrid Systems
+We propose a formal framework for designing hybrid systems by stepwise refinement. Starting with a specification in hybrid temporal logic, we make successively more transitions explicit until we obtain an executable system.

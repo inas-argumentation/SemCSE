@@ -1,0 +1,2 @@
+A Prototype front end chip for the CMS Resistive Plate Chambers
+A new front-end amplifier-discriminator-monostable integrated circuit for the CMS Resistive Plate Chambers is presented. The aim of the circuit is to amplify current signals, ranging from 20 fC to 20 pC and generate output pulses having rise time as fast as possible for timing purposes. The full custom ASIC was designed and manufactured in the 0.8 μm BiCMOS technology by Austria Mikro Systeme.

@@ -1,0 +1,2 @@
+Behind multiple trapdoors: A cryptographic commitment scheme for establishing secure communications
+This paper introduces a cryptographic commitment using multiple platform groups where the attacker must solve multiple instances of the Discrete Logarithm Problem to break the scheme. The goal is that Alice and Bob establish a secret communication after verifying a finite set of values that have been computed using multiple trapdoor-permutation functions. Moreover, applicable cryptanalytic techniques and procedures that entirely define this scheme are discussed.

@@ -1,0 +1,27 @@
+Homogeneity of Monthly Mean Air Temperature of the United Republic of Tanzania with HOMER
+The long-term climate datasets are widely used in a 
+variety of climate analyses. These datasets, however, have been adversely 
+impacted by inhomogeneities caused by, for example relocations of 
+meteorological station, change of land use cover surrounding the weather 
+stations, substitution of meteorological station, changes of shelters, changes 
+of instrumentation due to its failure or damage, and change of observation 
+hours. If these inhomogeneities are not detected and adjusted properly, the 
+results of climate analyses using these data can be erroneous. In this paper for the first time, monthly mean air temperatures of the United Republic of Tanzania 
+are homogenized by using HOMER software package. This software is one of the 
+most recent homogenization software and exhibited the best results in the 
+comparative analysis performed within the COST Action ES0601 (HOME). Monthly 
+mean minimum (TN) and maximum (TX) air temperatures from 1974 to 
+2012 were used in the analysis. These datasets were obtained from Tanzania 
+Meteorological Agency (TMA). The analysis reveals a larger 
+number of artificial break points in TX (12 breaks) than TN (5 breaks) time 
+series. The homogenization process was assessed by comparing results obtained 
+with Correlation analysis and Principal Component analysis (PCA) of homogenized 
+and non-homogenized datasets. Mann-Kendal non-parametric test was used to 
+estimate the existence, magnitude and statistical significance of potential 
+trends in the homogenized and non-homogenized time series. Correlation analysis 
+reveals stronger correlation in homogenized TX than TN in relation to non-homogenized 
+time series. Results from PCA suggest that the explained variances of the 
+principal components are higher in homogenized TX than TN in relation to 
+non-homogenized time series. Mann-Kendal non-parametric test reveals that the 
+number of statistical significant trend increases higher with 
+homogenized TX (96%) than TN (67%) in relation to non-homogenized datasets.

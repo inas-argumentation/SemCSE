@@ -1,0 +1,15 @@
+Large scale validation of the M5L lung CAD on heterogeneous CT datasets.
+PURPOSE
+M5L, a fully automated computer-aided detection (CAD) system for the detection and segmentation of lung nodules in thoracic computed tomography (CT), is presented and validated on several image datasets.
+
+
+METHODS
+M5L is the combination of two independent subsystems, based on the Channeler Ant Model as a segmentation tool [lung channeler ant model (lungCAM)] and on the voxel-based neural approach. The lungCAM was upgraded with a scan equalization module and a new procedure to recover the nodules connected to other lung structures; its classification module, which makes use of a feed-forward neural network, is based of a small number of features (13), so as to minimize the risk of lacking generalization, which could be possible given the large difference between the size of the training and testing datasets, which contain 94 and 1019 CTs, respectively. The lungCAM (standalone) and M5L (combined) performance was extensively tested on 1043 CT scans from three independent datasets, including a detailed analysis of the full Lung Image Database Consortium/Image Database Resource Initiative database, which is not yet found in literature.
+
+
+RESULTS
+The lungCAM and M5L performance is consistent across the databases, with a sensitivity of about 70% and 80%, respectively, at eight false positive findings per scan, despite the variable annotation criteria and acquisition and reconstruction conditions. A reduced sensitivity is found for subtle nodules and ground glass opacities (GGO) structures. A comparison with other CAD systems is also presented.
+
+
+CONCLUSIONS
+The M5L performance on a large and heterogeneous dataset is stable and satisfactory, although the development of a dedicated module for GGOs detection could further improve it, as well as an iterative optimization of the training procedure. The main aim of the present study was accomplished: M5L results do not deteriorate when increasing the dataset size, making it a candidate for supporting radiologists on large scale screenings and clinical programs.

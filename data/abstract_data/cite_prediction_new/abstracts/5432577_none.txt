@@ -1,0 +1,2 @@
+A Parallel Local Search Algorithm for Euclidean Steiner Tree Problem
+This paper presented a parallel local search algorithm for the Steiner tree problem. The main contribution of this work is the O(n2 log2 n + log n log(n/ log n)) parallel local search algorithm for computing Steiner tree on the Euclidean plane. The algorithm used proximity structures from computational geometry like, Voronoi diagram, Delaunay triangulation, Gabriel graph, and relative neighborhood graphs to compute additional or Steiner points

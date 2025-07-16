@@ -1,0 +1,2 @@
+Polar transform and local positivity for curves
+Using the duality of positive cones, we show that applying the polar transform from convex analysis to local positivity invariants for divisors gives interesting and new local positivity invariants for curves. These new invariants have nice properties similar to those for divisors. In particular, this enables us to give a characterization of the divisorial components of the non-Kahler locus of a big class.

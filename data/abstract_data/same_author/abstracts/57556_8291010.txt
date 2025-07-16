@@ -1,0 +1,2 @@
+Characterizations of Consistent Marked Graphs
+A marked graph is a graph with a + or - sign on each vertex and is called consistent if each cycle has an even number of - signs. This concept is motivated by problems of communication networks and social networks. We present some new characterizations and recognition algorithms for consistent marked graphs.

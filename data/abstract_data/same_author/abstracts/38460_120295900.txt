@@ -1,0 +1,2 @@
+The ATLAS Level-1 Calorimeter Trigger
+The ATLAS Level-1 Calorimeter Trigger uses reduced-granularity information from all the ATLAS calorimeters to search for high transverse-energy electrons, photons, τ leptons and jets, as well as high missing and total transverse energy. The calorimeter trigger electronics has a fixed latency of about 1 μs, using programmable custom-built digital electronics. This paper describes the Calorimeter Trigger hardware, as installed in the ATLAS electronics cavern.

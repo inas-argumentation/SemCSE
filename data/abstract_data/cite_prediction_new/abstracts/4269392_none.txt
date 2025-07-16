@@ -1,0 +1,2 @@
+Robust carrier recovery in polarization division multiplexed receivers
+We present a novel carrier recovery which can track fast and large sinusoidal frequency oscillations of commercially available lasers and efficiently compensate for laser noise. Q gain of 0.8 dB is recorded in offline experiments.

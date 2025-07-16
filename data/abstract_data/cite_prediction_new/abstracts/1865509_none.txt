@@ -1,0 +1,2 @@
+Research on the Method of Torque Distribution of Six-Wheel Rocker-Bogie Lunar Rover
+Torque distribution based on the method of solving static model is not efficient in rough terrain. This paper describes an optimization method and neural network method based on the rover’s static model. Through building the 3D virtual environment, simulation experiment supports the fact that both of them is better than solving static model method, and neural network method more timesaving than optimization method.

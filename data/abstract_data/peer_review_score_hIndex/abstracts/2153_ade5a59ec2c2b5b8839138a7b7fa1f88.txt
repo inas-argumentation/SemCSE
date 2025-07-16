@@ -1,0 +1,5 @@
+Knothe-Rosenblatt transport for Unsupervised Domain Adaptation
+    Unsupervised domain adaptation (UDA) aims at exploiting related but different data sources in order to tackle a common task in a target domain. UDA remains a central yet challenging problem in machine learning.
+    In this paper, we present an approach based on the Knothe-Rosenblatt transport: we exploit autoregressive density estimation algorithms to accurately model the different sources by an autoregressive model using a mixture of Gaussians.
+    Our Knothe-Rosenblatt Domain Adaptation (KRDA) then takes advantage of the triangularity of the autoregressive models to build an explicit mapping of the source samples into the target domain. We show that the transfer map built by KRDA preserves each component quantiles of the observations, hence aligning the representations of the different data sets in the same target domain.
+    Finally, we show that KRDA has state-of-the-art performance on both synthetic and real world UDA problems.

@@ -1,0 +1,2 @@
+Data-Driven Agent-based Modeling of Innovation Diffusion
+We present a novel data-driven agent-based modeling framework to study innovation diffusion. Our first step is to learn a model of individual agent behavior from individual adoption characteristics. We then construct an agent-based simulation with the learned model embedded in artificial agents, and proceed to validate it using a holdout sequence of collective adoption decisions. Finally, we exemplify the proposed method can be used to explore and analyze a broad class of policies aimed at spurring innovation adoption.

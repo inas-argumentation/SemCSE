@@ -1,0 +1,2 @@
+Nonnegative Tensor Factorization for Directional Blind Audio Source Separation
+We augment the nonnegative matrix factorization method for audio source separation with cues about directionality of sound propagation. This improves separation quality greatly and removes the need for training data, but doubles the computation.

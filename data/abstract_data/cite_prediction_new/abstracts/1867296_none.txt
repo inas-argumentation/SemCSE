@@ -1,0 +1,2 @@
+Third-Harmonic Envelope Feedback Method for High-Efficiency Linear Power Amplifiers
+A new low-power feedback structure for a power amplifier (PA) reduces signal distortion while keeping the power efficiency of the PA high. The feedback structure injects the envelope of the third-order harmonics into the input signal. In adopting this method for a class-A amplifier, we obtain over 10% higher efficiency while maintaining the same adjacent channel power ratio (ACPR). The power consumption of additional circuit is 200µW.

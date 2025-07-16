@@ -1,0 +1,2 @@
+Camera Calibration with Two Arbitrary Coplanar Circles
+In this paper, we describe a novel camera calibration method to estimate the extrinsic parameters and the focal length of a camera by using only one single image of two coplanar circles with arbitrary radius.

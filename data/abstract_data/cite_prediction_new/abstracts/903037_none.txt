@@ -1,0 +1,2 @@
+A 92dB-DR 13mW ΔΣ Modulator for Spaceborn Fluxgate Sensors
+A 2-2 cascaded DeltaSigma modulator is adapted for near sensor digitization of the magnetic field measured by a fluxgate sensor. The chip contains three fluxgate channels (13mW each) and one voltage channel (10mW). The fluxgate channels achieve a DR of 92dB for field ranges greater than plusmn2,000nT with 10pT resolution. The chip operates up to 260krad of total ionizing dose. The chip uses 20mm2 in a 0.35mum CMOS process.

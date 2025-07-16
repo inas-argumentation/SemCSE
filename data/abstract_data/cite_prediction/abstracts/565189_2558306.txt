@@ -1,0 +1,2 @@
+Towards A Model Theory for Distributed Representations
+Distributed representations (such as those based on embed-dings) and discrete representations (such as those based on logic) have complementary strengths. We explore one possible approach to combining these two kinds of representations. We present a model theory/semantics for first order logic based on vectors of reals. We describe the model theory , discuss some interesting properties of such a system and present a simple approach to query answering.

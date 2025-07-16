@@ -1,0 +1,2 @@
+Maximum genus of a graph in terms of its embedding properties
+Let G be a graph that is cellularly embedded in the projective plane such that the dual graph is Hamiltonian. Then we prove that G is upper embeddable. In the meantime we also obtain the same result for other general orientable surfaces if the dual graph contains a separating Hamilton circuit.

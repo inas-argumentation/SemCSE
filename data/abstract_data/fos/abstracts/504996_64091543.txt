@@ -1,0 +1,2 @@
+A Double-Direction User Authentication Schemes Aim at Digital Signature
+This paper introduces RSA algorithm and Feige-Fiat-Shami digital agreement.We make use of these two kinds of algorithm to construct a mutual user attestation project.,on which we realize double-direction user authentacation.This project fully embodies the safety of RSA algorithm and the efficiency of Feige-Fiat-Shamir algorithm.Compared to the solely used one algorithm,it strengthens the safety so that it possesses good application value and foreground.

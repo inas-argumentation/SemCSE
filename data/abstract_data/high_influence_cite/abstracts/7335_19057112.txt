@@ -1,0 +1,2 @@
+On Almost Controllability of Dynamical Complex Networks with Noises
+This paper discusses the controllability problem of complex networks. It is shown that almost any weighted complex network with noise on the strength of communication links is controllable in the sense of Kalman controllability. The concept of almost controllability is elaborated by both theoretical discussions and experimental verifications.

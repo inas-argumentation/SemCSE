@@ -1,0 +1,2 @@
+A hardware accelerator for context-based adaptive binary arithmetic decoding in H.264/AVC
+We propose a hardware accelerator for context-based adaptive binary arithmetic decoding (CABAC) in H.264/AVC. We also propose an efficient memory system for easy integration with other components such as motion compensation and IDCT. We develop an efficient finite state machine so that our design can generate one bit every 2 to 3 clock cycles. Experimental result with FPGA prototyping shows that our design is sufficient to decode main profile CIF video streams at 30 fps.

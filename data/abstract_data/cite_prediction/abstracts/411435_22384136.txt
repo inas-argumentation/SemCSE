@@ -1,0 +1,19 @@
+Length of stay predictions: improvements through the use of automated laboratory and comorbidity variables.
+BACKGROUND
+Length of stay (LOS) is a common measure of hospital resource utilization. Most methods for risk-adjusting LOS are limited by the use of only administrative data. Recent studies suggest that adding automated clinical data to these models improves performance.
+
+
+OBJECTIVES
+To evaluate the utility of adding "point of admission" automated laboratory and comorbidity measures-the Laboratory Acute Physiology Score (LAPS) and Comorbidity Point Score (COPS)-to risk adjustment models that are based on administrative data.
+
+
+METHODS
+We performed a retrospective analysis of 155,474 hospitalizations between 2002 and 2005 at 17 Northern California Kaiser Permanente hospitals. We evaluated the benefit of adding LAPS and COPS in linear regression models using full, trimmed, truncated, and log-transformed LOS, as well as in logistic and generalized linear models.
+
+
+RESULTS
+Mean age was 61 +/- 19 years; females represented 55.2% of subjects. The mean LOS was 4.5 +/- 7.7 days; median LOS was 2.8 days (interquartile range, 1.3-5.1 days). Adding LAPS and COPS to the linear regression model improved R by 29% from 0.113 to 0.146. Similar improvements with the inclusion of LAPS and COPS were observed in other regression models. Together, these variables were responsible for >50% of the predictive ability of logistic regression models that identified outliers with longer LOS.
+
+
+CONCLUSIONS
+The inclusion of automated laboratory and comorbidity data improved LOS predictions in all models, underscoring the need for more widespread adoption of comprehensive electronic medical records.

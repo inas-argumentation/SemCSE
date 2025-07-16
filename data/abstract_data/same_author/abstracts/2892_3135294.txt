@@ -1,0 +1,15 @@
+FlexStem: improving predictions of RNA secondary structures with pseudoknots by reducing the search space
+MOTIVATION
+RNA secondary structures with pseudoknots are often predicted by minimizing free energy, which is proved to be NP-hard. Due to kinetic reasons the real RNA secondary structure often has local instead of global minimum free energy. This implies that we may improve the performance of RNA secondary structure prediction by taking kinetics into account and minimize free energy in a local area.
+
+
+RESULT
+we propose a novel algorithm named FlexStem to predict RNA secondary structures with pseudoknots. Still based on MFE criterion, FlexStem adopts comprehensive energy models that allow complex pseudoknots. Unlike classical thermodynamic methods, our approach aims to simulate the RNA folding process by successive addition of maximal stems, reducing the search space while maintaining or even improving the prediction accuracy. This reduced space is constructed by our maximal stem strategy and stem-adding rule induced from elaborate statistical experiments on real RNA secondary structures. The strategy and the rule also reflect the folding characteristic of RNA from a new angle and help compensate for the deficiency of merely relying on MFE in RNA structure prediction. We validate FlexStem by applying it to tRNAs, 5SrRNAs and a large number of pseudoknotted structures and compare it with the well-known algorithms such as RNAfold, PKNOTS, PknotsRG, HotKnots and ILM according to their overall sensitivities and specificities, as well as positive and negative controls on pseudoknots. The results show that FlexStem significantly increases the prediction accuracy through its local search strategy.
+
+
+AVAILABILITY
+Software is available at http://pfind.ict.ac.cn/FlexStem/.
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary data are available at Bioinformatics online.

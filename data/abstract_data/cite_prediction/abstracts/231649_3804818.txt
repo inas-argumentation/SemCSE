@@ -1,0 +1,2 @@
+High Step-Up DC–DC Converter Based on Switched Capacitor and Coupled Inductor
+Due to the relatively low output voltage of photovoltaic (PV) source, a high step-up converter with high efficiency is needed when the PV source is connected to the power grid. A novel high step-up converter based on two switched capacitors and a coupled inductor is proposed in this paper. The operating principle is analyzed and the voltage gain is derived. A 100-W prototype is fabricated in the laboratory to verify the theoretical analysis, and the highest efficiency is 96.4%.

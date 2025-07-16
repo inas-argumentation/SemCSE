@@ -1,0 +1,2 @@
+Iterative solution of some nonlinear differential equations
+We propose an iterative method to solve some non-linear ordinary differential equations. Comparing on the Mathieu, van der Pol and Hill equation of fourth order, we see that this method is much more efficient than the well known methods by Lyapunov or Picard.

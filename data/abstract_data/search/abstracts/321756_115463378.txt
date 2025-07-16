@@ -1,0 +1,2 @@
+The Mystery of Negations
+The main difficulty in proving nontrivial lower bounds on the size of circuits using AND, OR and NOT is the presence of NOT gates we already know how to prove even exponential lower bounds for monotone functions if no NOT gates are allowed.

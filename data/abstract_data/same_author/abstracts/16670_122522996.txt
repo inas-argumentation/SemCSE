@@ -1,0 +1,6 @@
+Dirac fermion in Euclidean metric and theU(1) and strong CP problems
+AbstractIn Euclidean metric the usual description of a Dirac fermion needs two independent Dirac fields for ψ(x) and
+$$\bar \psi (x)$$
+. In the instanton sector this leads to the first option for the fermion path integral which vanishes in the chiral limit due to the zero eigenvalues of the Euclidean Dirac operator. We propose here a novel representation for the conjugate field
+$$\bar \psi (x)$$
+ which depends on ψ(x), has the correct chiral properties, and reproduces all the fermionic Green functions of the Euclidean theory. In the alternative scenario, the chiral limit of FPI coincides with the product of only the non-zero eigenvalues of the singular Dirac operator in instanton sector, and the QCD action is invariant under global chiral rotation. The anomaly term in effective theory conforming to the alternative scenario breaks chiral symmetry spontaneously and solves theU(1)-problem. A chiral phase in quark mass, which is a possible source of CP violation in the first option, does not have any observable effect in the second. The strong CP problem is a legacy of the first option. In the alternative scenario CP invariance is ensured in QCD if Ψ=0.

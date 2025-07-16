@@ -1,0 +1,2 @@
+OVID: Design and Implementation of a Video-Object Database System
+A video-object data model and the design and implementation of a prototype video-object database system named OVID based on the model are described. Notable features of the video-object data model are a mechanism to share common descriptional data among video-objects, called interval-inclusion based inheritance, and operations to composite video-objects. The OVID system offers a browsing/inspection tool called VideoChart, and adhoc query facility called VideoSQL, and a video-object definition tool. >

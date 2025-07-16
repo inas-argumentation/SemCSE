@@ -1,0 +1,2 @@
+MEAD - A Platform for Multidocument Multilingual Text Summarization
+This paper describes the functionality of MEAD, a comprehensive, public domain, open source, multidocument multilingual summarization environment that has been thus far downloaded by more than 500 organizations. MEAD has been used in a variety of summarization applications ranging from summarization for mobile devices to Web page summarization within a search engine and to novelty detection.

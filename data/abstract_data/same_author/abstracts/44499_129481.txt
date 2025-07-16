@@ -1,0 +1,2 @@
+On Multidimensional k-Anonymity with Local Recoding Generalization
+This paper presents the first theoretical study, on using local-recoding generalization (LRG) to compute a k-anonymous table with quality guarantee. First, we prove that it is NP-hard both to find the table with the maximum quality, and to discover a solution with an approximation ratio at most 5/4. Then, we develop an algorithm with good balance between the approximation ratio and time complexity. The quality of our solution is verified by experiments.

@@ -1,0 +1,22 @@
+Exploiting seismic signal and noise in an intracratonic environment to constrain crustal structure and source parameters of infrequent earthquakes
+In many regions of the world characterized by a relatively low rate of seismicity, the determination 
+of local and regional seismic source parameters is often restricted to an analysis of the 
+first onsets of P waves (or first motion analysis) due to incomplete information about Earth 
+structure and the small size of the events. When rare large earthquakes occur in these regions, 
+their waveforms can be used to model Earth structure. This, however, makes the nature of the 
+earthquake source determination problem circular, as source information is mapped as structure. 
+Presented here is one possible remedy to this situation,where through a two-step approach 
+we first constrain Earth structure using data independent of the earthquake of interest. In this 
+study, we focus on a region in Western Australia with low seismicity and minimal instrument 
+coverage and use the CAPRA/LP temporary deployment to demonstrate that reliable structural 
+models of the upper lithosphere can be obtained from an independent collection of teleseismic 
+and ambient noise datasets. Apart from teleseismic receiver functions (RFs), we obtain group 
+velocities from the cross-correlation of ambient noise and phase velocities from the traditional 
+two-station method using carefully selected teleseismic earthquakes and station pairs. Crustal 
+models are then developed through the joint inversion of dispersion data and RFs, and structural 
+Green’s functions are computed from a layered composite model. In the second step of 
+this comprehensive approach, we apply full waveform inversion (three-component body and 
+surface waves) to the 2007 ML = 5.3 Shark Bay,Western Australia, earthquake to estimate its 
+source parameters (seismic moment, focal mechanism, and depth). We conclude that the full 
+waveform inversion analysis provides constraints on the orientation of fault planes superior to 
+a first motion interpretation.

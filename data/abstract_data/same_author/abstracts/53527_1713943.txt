@@ -1,0 +1,2 @@
+Demand-Driven Data Flow Analysis for Communication Optimization
+Exhaustive global array data flow analysis for communication optimization is expensive and considered to be impractical for large programs. This paper proposes a demand-driven analysis approach that reduces the analysis cost by computing only the data flow information related to optimizations. In addition, the analysis cost of our scheme can be effectively managed by trading space for time or compromising precision for time.

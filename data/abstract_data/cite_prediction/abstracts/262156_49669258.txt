@@ -1,0 +1,2 @@
+Vision System for AGI: Problems and Directions
+What frameworks and architectures are necessary to create a vision system for AGI? In this paper, we propose a formal model that states the task of perception within AGI. We show the role of discriminative and generative models in achieving efficient and general solution of this task, thus specifying the task in more detail. We discuss some existing generative and discriminative models and demonstrate their insufficiency for our purposes. Finally, we discuss some architectural dilemmas and open questions.

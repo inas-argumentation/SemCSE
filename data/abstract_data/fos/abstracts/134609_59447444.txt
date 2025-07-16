@@ -1,0 +1,14 @@
+Spatial decay in transient heat conduction for general elongated regions
+Zanaboni's procedure for establishing Saint-Venant's principle is ex- 
+tended to anisotropic homogeneous transient heat conduction on regions 
+that are successively embedded in each other to become indefinitely elon- 
+gated. No further geometrical restrictions are imposed. The boundary 
+of each region is maintained at zero temperature apart from the common 
+surface of intersection which is heated to the same temperature assumed 
+to be of bounded time variation. Heat sources are absent. Subject to 
+these conditions, the thermal energy, supposed bounded in each region, 
+becomes vanishingly small in those parts of the regions suficiently remote 
+from the heated common surface. As with the original treatment, the 
+proof involves certain monotone bounded sequences, and does not depend 
+upon differential inequalities or the maximum principle. A definition is 
+presented of an elongated region.

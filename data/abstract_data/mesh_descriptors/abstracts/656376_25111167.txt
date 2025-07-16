@@ -1,0 +1,15 @@
+Preliminary estimation of minimum target dose in intracavitary radiotherapy for cervical cancer.
+PURPOSE
+In intracavitary radiotherapy (ICRT) for cervical cancer, minimum target dose (Dmin) will pertain to local disease control more directly than will reference point A dose (D(A)). However, ICRT has been performed traditionally without specifying Dmin since the target volume was not identified. We have estimated Dmin retrospectively by identifying tumors using magnetic resonance (MR) images.
+
+
+MATERIALS AND METHODS
+Pre- and posttreatment MR images of 31 patients treated with high-dose-rate ICRT were used. ICRT was performed once weekly at 6.0 Gy DA, and involved 2-5 insertions for each patient, 119 insertions in total. Dmin was calculated arbitrarily simply at the point A level using the tumor width (W(A)) to compare with D(A). W(A) at each insertion was estimated by regression analysis with pre- and posttreatment W(A).
+
+
+RESULTS
+Dmin for each insertion varied from 3.0 to 46.0 Gy, a 16-fold difference. The ratio of total Dmin to total DA for each patient varied from 0.5 to 6.5. Intrapatient Dmin difference between the initial insertion and final insertion varied from 1.1 to 3.4.
+
+
+CONCLUSION
+Preliminary estimation revealed that Dmin varies widely under generic dose prescription. Thorough Dmin specification will be realized when ICRT-applicator insertion is performed under MR imaging.

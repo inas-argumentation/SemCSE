@@ -1,0 +1,6 @@
+Strongly Unforgeable Signatures and Hierarchical Identity-Based Signatures from Lattices without Random Oracles
+We propose a variant of the “bonsai tree” signature scheme, a lattice-based existentially unforgeable signature scheme in the standard model. Our construction offers the same efficiency as the “bonsai tree” scheme but supports the stronger notion of strong unforgeability. Strong unforgeability demands that the adversary is unable to produce a new message-signature pair (m, s), even if he or she is allowed to see a different signature s′ for m. 
+ 
+In particular, we provide the first treeless signature scheme that supports strong unforgeability for the post-quantum era in the standard model. Moreover, we show how to directly implement identity-based, and even hierarchical identity-based, signatures (IBS) in the same strong security model without random oracles. An additional advantage of this direct approach over the usual generic conversion of hierarchical identity-based encryption to IBS is that we can exploit the efficiency of ideal lattices without significantly harming security. 
+ 
+We equip all constructions with strong security proofs based on mild worst-case assumptions on lattices and we also propose concrete security parameters.

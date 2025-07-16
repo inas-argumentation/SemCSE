@@ -1,0 +1,2 @@
+Immune-system inspired approach for decentralized multi-agent control
+This paper contains the first steps towards the development of a fully decentralized system framework. The novel approach that has been taken is derived from the inherent properties of the immune system. An assessment of the proposed control architecture has been performed by comparison with a more typical approach under a search and suppress kind of mission for an unmanned fleet.

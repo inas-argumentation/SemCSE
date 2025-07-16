@@ -1,0 +1,2 @@
+On the Use of Large Intel Xeon Phi Clusters for GEANT4 Based Simulations
+Abstract GEANT4 is the basic software for fast and precise simulation of particle interactions with matter. Along the way towards enabling the execution of GEANT4 based simulations on hybrid High Performance Computing (HPC) architectures with large clusters of Intel Xeon Phi co processors, we study the performance of this software suit on the supercomputer system Avitohol@BAS, Some practical scripts are collected in the supplementary material shown in the appendix.

@@ -1,0 +1,2 @@
+Frequency domain model of the electrical arc and its verification
+The paper presents guidelines for modeling and analyzing models of an electrical arc in the frequency domain. In the first part of the paper the arc models have been reviewed. Finally, the Cassie model, which properly recreates the dynamics of the electrical arc, is discussed. Identification of the model parameters has been done by means of registered data on a real object in the form of an arc-furnace. Difficulties of the frequency model of the arc are also discussed.

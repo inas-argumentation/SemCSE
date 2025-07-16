@@ -1,0 +1,15 @@
+Procedure-based postoperative risk prediction using NSQIP data.
+BACKGROUND
+The National Surgical Quality Improvement Program (NSQIP) has proposed using procedure-based hierarchical models to predict adverse outcomes, but it is not clear whether this approach was used to develop the NSQIP "Surgical Risk Calculator". We therefore wished to demonstrate how procedure-based hierarchical models can be constructed and to describe their results.
+
+
+METHODS
+NSQIP data from 2015 were used to construct statistical models predicting 30-day postoperative mortality and morbidity, using two-level logistic regression with preoperative patient-level variables as fixed effects and procedure-specific codes as a random intercept. Model performance was validated using NSQIP data from 2014.
+
+
+RESULTS
+NSQIP for 2015 contained records for 885,502 patients, of whom 8986 died (1.0%) and 104,836 suffered a complication (11.8%). Complete model specifications and results are presented, including odds ratios for patient-level variable effects and random procedure effects. Most comorbidities were associated with increased morbidity and mortality, but overweight and obesity were associated with lower risk. Odds ratios for individual procedures ranged from 0.117 to 10.85 for mortality and from 0.615 to 8.09 for morbidity. Validation C-statistics were 0.940 for the mortality model and 0.833 for the morbidity model; Brier Scores were 0.0086 and 0.085, respectively. Graphs for 20 quantiles showed good conformity of observed and predicted risk.
+
+
+CONCLUSIONS
+Procedure-based hierarchical logistic regression models of NSQIP outcomes had satisfactory overall performance statistics. Model specifications and results are provided for criticism and improvement, and several possible refinements are suggested.

@@ -1,0 +1,2 @@
+Shannon Information In k-records
+In this article, we present results on the Shannon information (SI) contained in upper(lower) k-record values and associated k-record times. We then establish an interesting relationship between the SI content of a random sample of fixed size, and the SI in the data consisting of sequential maxima. We also consider the information contained in the k-record data from an inverse sampling plan (ISP).

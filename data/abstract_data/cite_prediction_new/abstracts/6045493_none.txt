@@ -1,0 +1,2 @@
+Medical image processing and visualization on heterogenous clusters of symmetric multiprocessors using MPI and POSIX threads
+In this paper we present the design and implementation of a parallel system for interactive segmentation and visualization of three-dimensional medical images which is distributed on a heterogenous cluster of workstations or personal computers. All image processing functions are multithreaded to use the advantages of symmetric multiprocessors. Its platform-independence is achieved using standardized libraries like MPI and POSIX Threads.

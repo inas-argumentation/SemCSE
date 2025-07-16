@@ -1,0 +1,2 @@
+Active haptic perception and control of its fixation
+A computational approach is applied to the problem of controlling fixation of haptic perception during general motion. Estimation of hardness and curvatures of the environment from a single pressure image is shown to be ill-posed, and an active observation is demonstrated making the estimation well-posed. Also proposed is an algorithm for haptic servoing for the active finger-pad to fix its high-resolution region on the surface of contact.

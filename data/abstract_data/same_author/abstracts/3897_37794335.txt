@@ -1,0 +1,2 @@
+Error performance analysis for reliability-based decoding algorithms
+The statistical approach proposed by D. Agrawal and A. Vardy (see IEEE Trans. Inform. Theory, vol.46, pp.60-83, Jan. 2000) to evaluate the error performance of the generalized minimum distance (GMD) decoding is extended to other reliability based decoding algorithms for binary linear block codes, namely Chase-type, combined GMD and Chase-type, and ordered statistic decoding. In all cases, tighter and simpler bounds than previously proposed ones have been obtained with this approach.

@@ -1,0 +1,2 @@
+A Metic and Approach for Fuzzy Ontology Evaluation
+Ontology evaluation becomes very important for the growth of the Semantic Web. During the process of semiautomatic or automatic ontology development, enrichment or population, based on existing ontologies or text corpus we need to determine which of several ontologies would best suit a particular purpose or is the new ontology best from the old one. This aper presents abrief survey of the state of the art in ontology evaluation and proposes the new ontology based approach and metric for ontology evaluation.

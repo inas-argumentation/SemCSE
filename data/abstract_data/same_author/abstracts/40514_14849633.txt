@@ -1,0 +1,2 @@
+A study of Japanese software process practices and a potential for improvement using SOFL
+The goal of this paper is to examine the Japanese experience with the software development process, the challenges they face and how formal engineering methods, in particular SOFL (structured object-oriented formal language), can help overcome these problems. We also recommend additional management tools and documents that can aid organizations in achieving a higher CMM rating through the use of SOFL.

@@ -1,0 +1,2 @@
+Three-term asymptotic expansion: A semi-Markovian random walk with a generalized beta distributed interference of chance
+A semi-Markovian random walk process (X(t)) with a generalized beta distribution of chance is considered. The asymptotic expansions for the first four moments of the ergodic distribution of the process are obtained as E(ζn) → ∞ when the random variable ζn has a generalized beta distribution with parameters (s, S, α, β);  α, β > 1, 0  ⩽ s < S < ∞. Finally, the accuracy of the asymptotic expansions is examined by using the Monte Carlo simulation method.

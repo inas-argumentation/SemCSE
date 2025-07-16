@@ -1,0 +1,2 @@
+Force mapping
+In this paper, a new technique, force mapping, is developed for the representation of surfaces at different levels of detail. A force map records the applied forces and their distributions. By applying these forces on a relatively simple surface and deforming it, a detailed surface is created. This technique can be used for surface compression, reconstruction and editing. As an alternative to displacement mapping, our method benefits from the fact that physical properties are integrated into a geometric surface explicitly

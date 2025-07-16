@@ -1,0 +1,2 @@
+Vector-City Vector Distance Transform
+This paper will examine the current chamfer and vector distance transforms for encoding objects as distance fields. A new vector distance transform is introduced which uses the city-block chamfer distance transform as a basis. Detailed error analysis using real CT data is presented, demonstrating the improved accuracy of the new approach over existing methods. The production of a subvoxel accurate distance field is also demonstrated by employing an improved classification. Distance fields are shown for skull and chess piece datasets.

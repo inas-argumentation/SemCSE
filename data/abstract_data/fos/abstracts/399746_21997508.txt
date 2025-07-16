@@ -1,0 +1,2 @@
+High abstraction level permutational ESD concept analysis
+A simulation approach is presented that allows to handle ESD simulation and analysis on a chip level complexity. In a Monte-Carlo like permutational simulation approach worst case ESD paths are identified. The simulator is embedded in an ESD analysis framework spanning from the chip protection description to an automated virtual HBM test routine with a respective fail reporting interface. The tools capabilities are demonstrated in the ESD analysis of a complex mixed signal design.

@@ -1,0 +1,2 @@
+An Improved Playfair Cipher Cryptographic Substitution Algorithm
+The goal of this research is to find the efficient and most widely used cryptographic algorithms form the history, investigating one of its merits and demerits which have not been modified so far. Perception of cryptography, its techniques such as transposition & substitution and Steganography were discussed. Our main focus is on the Playfair Cipher, its advantages and disadvantages. Finally, we have proposed a few methods to enhance the playfair cipher for more secure and efficient cryptography.

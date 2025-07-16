@@ -1,0 +1,15 @@
+A global Unified Dosimetry Index (gUDI) to evaluate simultaneous integrated boost radiotherapy plans in prostate cancer.
+PURPOSE
+Formulation of a global Unified Dosimetry Index (gUDI) for the evaluation of prostate simultaneous integrated boost Volumetric Modulated Arc Therapy (VMAT by RapidArc) radiotherapy plans.
+
+
+METHODS AND MATERIALS
+Dose coverage, conformity, homogeneity and dose gradient index could be included in the Unified Dosimetry Index (UDI). We developed a global UDI to evaluate treatment plans containing volumes irradiated with different dose prescriptions: Intensity Modulated Radiation Therapy with simultaneous integrated boost (IMRT-SIB) with 2 dose levels (36.25 Gy/5 fz for the whole prostate gland and 37.5 Gy/5 fz for Dominant Intraprostatic Lesion (DIL)). To validate gUDI scoring system, 65 prostate cancer patients were evaluated. Mean (µ) and standard deviations (σ) were calculated for all dosimetry indices and gUDI. Furthermore, gUDI µ and σ were analyzed to compare and classify treatment plans: plans can be ranked as "excellent", "good", "average" or "poor".
+
+
+RESULTS
+Prostate Dose Gradient, Prostate Conformity and DIL Conformity indices had highlighted a major deviation from ideal scores. gUDI index classification showed most of the plans scored as "average" and "good".
+
+
+CONCLUSION
+gUDI score can be a useful tool to quantify treatment plans quality also when volumes with different dose-prescription are treated.

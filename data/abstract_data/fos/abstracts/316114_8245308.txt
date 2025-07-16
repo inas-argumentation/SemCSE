@@ -1,0 +1,15 @@
+Backscatter correction factor for megavoltage photon beam.
+PURPOSE
+For routine clinical dosimetry of photon beams, it is often necessary to know the minimum thickness of backscatter phantom material to ensure that full backscatter condition exists.
+
+
+METHODS
+In case of insufficient backscatter thickness, one can determine the backscatter correction factor, BCF(s,d,t), defined as the ratio of absorbed dose measured on the central-axis of a phantom with backscatter thickness of t to that with full backscatter for square field size s and forward depth d. Measurements were performed in SAD geometry for 6 and 15 MV photon beams using a 0.125 cc thimble chamber for field sizes between 10 × 10 and 30 × 30 cm at depths between d(max) (1.5 cm for 6 MV and 3 cm for 15 MV) and 20 cm.
+
+
+RESULTS
+A convolution method was used to calculate BCF using Monte-Carlo simulated point-spread kernels generated for clinical photon beams for energies between Co-60 and 24 MV. The convolution calculation agrees with the experimental measurements to within 0.8% with the same physical trend. The value of BCF deviates more from 1 for lower energies and larger field sizes. According to our convolution calculation, the minimum BCF occurs at forward depth d(max) and 40 × 40 cm field size, 0.970 for 6 MV and 0.983 for 15 MV.
+
+
+CONCLUSIONS
+The authors concluded that backscatter thickness is 6.0 cm for 6 MV and 4.0 cm for 15 MV for field size up to 10 × 10 cm when BCF = 0.998. If 4 cm backscatter thickness is used, BCF is 0.997 and 0.983 for field size of 10 × 10 and 40 × 40 cm for 6 MV, and is 0.998 and 0.990 for 10 × 10 and 40 × 40 cm for 15 MV, respectively.

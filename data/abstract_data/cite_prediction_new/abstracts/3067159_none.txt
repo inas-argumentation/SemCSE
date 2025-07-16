@@ -1,0 +1,2 @@
+Generic Detection of Multi-Part Objects by High-Level Analysis
+A method is proposed to detect multi-part man-made or natural objects in complex images. It consists in first extracting simple curves and straight lines from the edge map. Then, a search tree is expanded by selecting and ordering the segmented primitives on the basis of generic local and global grouping criteria. The set of partial contours provided by the parallel search are combined into more complex forms. Global scores produce a sorted list of potential object silhouettes.

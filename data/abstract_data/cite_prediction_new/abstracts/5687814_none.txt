@@ -1,0 +1,2 @@
+A wide tuning range Active-RC filter for multi-mode applications
+This paper presents a 6th-order Active-RC filter for multi-mode applications. The filter exploits Butterworth structure with digitally-controlled resistor and capacitor arrays, which is flexible for bandwidth tuning. The chip is fabricated in SMIC 0.13µm CMOS process, occupies an area of 0.83mm2. The measurement results indicate the filter provides a wide tuning range from 400kHz to 20MHz and achieves an IIP3 of +20dBm with 1.2V power supply and the power consumption is 8.16mW.

@@ -1,0 +1,4 @@
+A Unified Approach to the First Derivatives of Graph Polynomials
+A general graph polynomial P(G, x) is introduced. It is proved that 
+ddxP(G,x)= ∑v∈V(G) P(G−v,x) 
+. Special cases of this result are the previously reported first-derivative formulas for a number of graph polynomials: characteristic, matching, independence, clique polynomials, etc.

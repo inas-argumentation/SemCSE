@@ -1,0 +1,2 @@
+Chapter 5 Genetic Algorithms
+Genetic algorithms (GA) like neural networks are biologically inspired and represent a new computational model having its roots in evolutionary sciences. In this chapter, we review the basics of GAs, briefly describe the schema theorem and the building block hypothesis, and describe feature selection based on GAs, as one of the most important applications of GAs.

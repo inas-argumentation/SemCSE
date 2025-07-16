@@ -1,0 +1,7 @@
+ViewDock TDW: high-throughput visualization of virtual screening results
+SUMMARY
+ViewDock TDW is a modification of the pre-existing ViewDock Chimera extension (http://www.cgl.ucsf.edu/chimera/) used to visualize results of virtual screening experiments. By combing TDW hardware and an enhanced ViewDock interface, dozens of ligand-protein complexes are rendered simultaneously to parallelize the analysis of candidate ligands. The ViewDock TDW GUI allows the user to easily and interactively manipulate the molecules on the TDW as an entire set, a selected subset or a single ligand-protein complex and preserves all Chimera functionality.
+
+
+AVAILABILITY AND IMPLEMENTATION
+ViewDock TDW is an open source software; freely available on the web at http://www.tdw-prime.webs.com. Chimera UCSF is also available, free of charge, at http://www.cgl.ucsf.edu/chimera/

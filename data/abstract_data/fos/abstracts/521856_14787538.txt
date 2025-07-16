@@ -1,0 +1,2 @@
+Adverse selection without single crossing: Monotone solutions
+The single-crossing assumption simplifies the analysis of screening models as local incentive compatibility becomes sufficient for global incentive compatibility. If single crossing is violated, global incentive compatibility constraints have to be taken into account. This paper studies monotone solutions in a screening model that allows a one-time violation of single crossing.

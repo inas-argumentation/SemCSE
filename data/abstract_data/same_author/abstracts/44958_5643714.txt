@@ -1,0 +1,2 @@
+On Some Characterisation Problems of Subdomain Testing
+Subdomain testing is a very general approach to the selection of test cases. It captures the characteristics of testing strategies that require the test suite to cover some predefined testing requirements. This paper attempts to characterise precisely the failure distributions for the best and worst case of any given subdomain testing strategy. Our analysis has revealed some crucial factors and principles that affect the effectiveness of subdomain testing strategies.

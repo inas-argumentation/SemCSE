@@ -1,0 +1,2 @@
+Finding a Maximum Matching in a Circular-Arc Graph
+We present an O(n log n) algorithm for finding a maximum matching in a circular-arc graph. The best known algorithm for the same problem in general graphs takes O(√|V||E|) time.

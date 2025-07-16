@@ -1,0 +1,7 @@
+Panoptic 3D Scene Reconstruction From a Single RGB Image
+Richly segmented 3D scene reconstructions are an integral basis for many high-level scene understanding tasks, such as for robotics, motion planning, or augmented reality. 
+Existing works in 3D perception from a single RGB image tend to focus on geometric reconstruction only, or geometric reconstruction with semantic  segmentation or instance segmentation.
+Inspired by 2D panoptic segmentation, we propose to unify the tasks of geometric reconstruction, 3D semantic segmentation, and 3D instance segmentation into the task of panoptic 3D scene reconstruction -- from a single RGB image, predicting the complete geometric reconstruction of the scene in the camera frustum of the image, along with semantic and instance segmentations.
+We propose a new approach for holistic 3D scene understanding from a single RGB image which learns to lift and propagate 2D features from an input image to a 3D volumetric scene representation.
+Our panoptic 3D reconstruction metric evaluates both geometric reconstruction quality as well as panoptic segmentation.
+Our experiments demonstrate that our approach for panoptic 3D scene reconstruction outperforms alternative approaches for this task.

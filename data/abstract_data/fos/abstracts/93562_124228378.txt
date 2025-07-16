@@ -1,0 +1,2 @@
+DISTRIBUTION DENSITY METHOD FOR OPTIMIZATION OF SPACING AND CROSS SECTION OF UNDERGROUND OPENINGS
+A new optimized calculation method in underground opening engineering, distribution density approach, is introduced in this paper. The objective function of the optimized calculation is established by directly using density distribution as design variable. Many practical examples show that this method is effective and computationally efficient. It does away with finite element remeshing during optimized calculation.

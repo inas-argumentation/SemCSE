@@ -1,0 +1,2 @@
+Grover's Quantum Search Algorithm and Free Fermionic Heterotic Models
+Given an efficient and systematic method for generating input sets for free fermionic heterotic model building we consider what the realistic bounds are for a statistical analysis of the free fermionic Landscape with a classical computer. We then consider what kind of improvement could be expected on a quantum computer. We do outline the basic structure of the relevant quantum algorithms, but we do not detail the construction of the oracle which would be involved in the calculations.

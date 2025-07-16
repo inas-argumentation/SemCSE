@@ -1,0 +1,23 @@
+Robustness and Equivariance of Neural Networks
+Neural networks models are known to be vulnerable to geometric transformations
+as well as small pixel-wise perturbations of input. Convolutional Neural Networks
+(CNNs) are translation-equivariant but can be easily fooled using rotations and
+small pixel-wise perturbations. Moreover, CNNs require sufficient translations in
+their training data to achieve translation-invariance. Recent work by Cohen &
+Welling (2016), Worrall et al. (2016), Kondor & Trivedi (2018), Cohen & Welling
+(2017), Marcos et al. (2017), and Esteves et al. (2018) has gone beyond translations,
+and constructed rotation-equivariant or more general group-equivariant
+neural network models. In this paper, we do an extensive empirical study of various
+rotation-equivariant neural network models to understand how effectively they
+learn rotations. This includes Group-equivariant Convolutional Networks (GCNNs)
+by Cohen & Welling (2016), Harmonic Networks (H-Nets) by Worrall et al.
+(2016), Polar Transformer Networks (PTN) by Esteves et al. (2018) and Rotation
+equivariant vector field networks by Marcos et al. (2017). We empirically compare
+the ability of these networks to learn rotations efficiently in terms of their
+number of parameters, sample complexity, rotation augmentation used in training.
+We compare them against each other as well as Standard CNNs. We observe
+that as these rotation-equivariant neural networks learn rotations, they instead become
+more vulnerable to small pixel-wise adversarial attacks, e.g., Fast Gradient
+Sign Method (FGSM) and Projected Gradient Descent (PGD), in comparison with
+Standard CNNs. In other words, robustness to geometric transformations in these
+models comes at the cost of robustness to small pixel-wise perturbations.

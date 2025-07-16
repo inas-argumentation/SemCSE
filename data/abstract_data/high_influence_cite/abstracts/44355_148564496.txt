@@ -1,0 +1,2 @@
+Adaptive wavelet estimations for the derivative of a density in GARCH-type model
+Recently, Rao investigated the estimations for the derivative of a density in GARCH-type model S=σ2Z$S=\sigma ^{2}Z$ over L2$L^{2}$-risk (Commun. Stat., Theory Methods 46:2396–2410, 2017). This paper extends those estimations to Lp$L^{p}$-risk (1≤p<∞$1\leq p<\infty $). In addition, we provide a lower bound for this model, which indicates one of our convergence rates to be nearly-optimal.

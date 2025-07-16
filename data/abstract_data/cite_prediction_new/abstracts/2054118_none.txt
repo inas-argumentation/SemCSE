@@ -1,0 +1,2 @@
+A constrained-dictionary version of LZ78 asymptotically achieves the finite-state compressibility with a distortion measure
+The unrestricted-dictionary type LZ78 universal data-compression algorithm (as well as the LZ77 and LZW versions) achieves asymptotically, as the block-length tends to infinity, the FS compressibility, namely the best compression-ratio that may be achieved by any Information-lossless(IL) block-to-variable finite-state(FS) algorithm, for any infinitely-long individual sequence.

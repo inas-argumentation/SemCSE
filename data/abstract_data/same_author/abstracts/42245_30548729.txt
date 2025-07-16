@@ -1,0 +1,2 @@
+A Class of Stratified Programs in Autoepistemic Logic of Knowledge and Belief
+Przymusinski proposed [11] AELB, the autoepistemic logic of knowledge and belief. The AELB logic is a very powerful and expressive formal system which isomorphically contains various major non-monotonic knowledge representation formalisms and major logic program semantics. Thus AELB can be used as a unifying framework for non-monotonic knowledge representation formalisms, which allows us to compare and better understand different formalizations of common-sense knowledge.

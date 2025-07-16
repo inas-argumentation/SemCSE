@@ -1,0 +1,2 @@
+Intermittent Kalman filtering: Eigenvalue cycles and nonuniform sampling
+We develop the concept of an eigenvalue cycle to completely characterize the critical erasure probability for intermittent Kalman filtering. It is also proved that eigenvalue cycles can be easily broken if the original physical system is considered to be continuous-time - randomly-dithered nonuniform sampling of observations makes the critical erasure probability depend only on the dominant eigenvalue, making it almost surely 1/|λmax|2.

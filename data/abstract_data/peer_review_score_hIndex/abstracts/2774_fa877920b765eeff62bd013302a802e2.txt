@@ -1,0 +1,5 @@
+Predicting subscriber usage: Analyzing multi-dimensional time-series using Convolutional Neural Networks
+Companies operating under the subscription model typically invest significant resources attempting to predict customer's feature usage. These predictions can be used to fuel growth: It may allow these companies to target individual customers -- for example to convert non-paying consumers to begin paying for for enhanced services -- or to identify customers not maximizing their subscription product.
+This assistance can avoid an increase in the churn rate, and for some consumers may increase their usage.
+
+In this work, we develop a deep learning model to predict the product usage of a given consumer, based on historical usage. We adapt a Convolutional Neural Network to time-series data followed by Auxiliary Output, and demonstrate that this enhanced model effectively predicts future change in usage.

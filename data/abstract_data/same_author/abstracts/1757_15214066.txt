@@ -1,0 +1,2 @@
+A genetic algorithm for fragment allocation in a distributed database system
+In this paper we explore the distributed database allocation problem, which is intractable. We also discuss genetic algorithms attd how they have been used successfully to solve combinatorial problems. Our experimental results show the GA to be far superior to the greecly heuristic in obtaining optimal and near optimal fragment placements for the allocation problem with various data sets.

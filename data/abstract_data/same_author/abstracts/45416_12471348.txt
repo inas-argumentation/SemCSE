@@ -1,0 +1,2 @@
+Look-Ahead Architecture Adaptation to Reduce Processor Power Consumption
+An effective approach to reducing processor power consumption is to adaptively activate and deactivate hardware resources. The authors propose a look-ahead scheme that adjusts the processor issue rate triggered by main-memory accesses. This architecture-independent technique is particularly effective for memory-intensive applications. Combined with an existing technique based on IPC values, it also reduces power consumption for computation-intensive applications.

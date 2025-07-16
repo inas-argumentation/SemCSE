@@ -1,0 +1,2 @@
+EmoTxt: A toolkit for emotion recognition from text
+We present EmoTxt, a toolkit for emotion recognition from text, trained and tested on a gold standard of about 9K question, answers, and comments from online interactions. We provide empirical evidence of the performance of EmoTxt. To the best of our knowledge, EmoTxt is the first open-source toolkit supporting both emotion recognition from text and training of custom emotion classification models.

@@ -1,0 +1,15 @@
+Characterization of the interstitial lung diseases via density-based and texture-based analysis of computed tomography images of lung structure and function.
+RATIONALE AND OBJECTIVES
+Efforts to establish a quantitative approach to the computed tomography (CT)-based character ization of the lung parenchyma in interstitial lung disease (including emphysema) has been sought. The accuracy of these tools must be site independent. Multi-detector row CT has remained the gold standard for imaging the lung, and it provides the ability to image both lung structure as well as lung function.
+
+
+MATERIAL AND METHODS
+Imaging is via multi-detector row CT and protocols include careful control of lung volume during scanning. Characterization includes not only anatomic-based measures but also functional measures including regional parameters derived from measures of pulmonary blood flow and ventilation. Image processing includes the automated detection of the lungs, lobes, and airways. The airways provide the road map to the lung parenchyma. Software automatically detects the airways, the airway centerlines, and the branch points, and then automatically labels the airway tree segments with a standardized set of labels, allowing for intersubject as well intrasubject comparisons across time. By warping all lungs to a common atlas, the atlas provides the range of normality for the various parameters provided by CT imaging.
+
+
+RESULTS
+Imaged density and textural changes mark underlying structural changes at the most peripheral regions of the lung. Additionally, texture-based alterations in the parameters of blood flow may provide early evidence of pathologic processes. Imaging of stable xenon gas provides a regional measure of ventilation which, when coupled with measures of flow, provide for a textural analysis regional of ventilation-perfusion matching.
+
+
+CONCLUSION
+With the improved resolution and speed of CT imaging, the patchy nature of regional parenchymal pathology can be imaged as texture of structure and function. With careful control of imaging protocols and the use of objective image analysis methods it is possible to provide site-independent tools for the assessment of interstitial lung disease. There remains a need to validate these methods, which requires interdisciplinary and cross-institutional efforts to gather appropriate data bases of images along with a consensus on appropriate ground truths associated with the images. Furthermore, there is the growing need for scanner manufacturers to focus on not just visually pleasing images, but on quantitatifiably accurate images.

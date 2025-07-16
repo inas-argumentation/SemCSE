@@ -1,0 +1,2 @@
+Congestion Control and Traffic Management in ATM Networks: Recent Advances and a Survey
+Congestion control mechanisms for ATM networks as selected by the ATM Forum traffic management group are described. Reasons behind these selections are explained. In particular, selection criterion for selection between rate-based and credit-based approach and the key points of the debate between these two approaches are presented. The approach that was finally selected and several other schemes that were considered are described.

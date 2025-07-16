@@ -1,0 +1,2 @@
+An Architecture for Bitonic Sorting with Optimal VLSI Performnance
+We propose a class of designs of a new interconnection network, the pleated cube-connected cycles (PCCC), which can impleement stable bitonic sorting of n records of size q in area A = O(q<sup>2</sup>n<sup>2</sup>/T<sup>2</sup>), where T, the computation time, is in the range [¿(q log<sup>2</sup> n), O(q ¿n/(q+ log n))]. Thus, this network is an AT<sup>2,/R</sup>-optimal bitonic sorter in the synchronous VLSI model of computation under the word-local restriction.

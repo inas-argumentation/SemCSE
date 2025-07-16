@@ -1,0 +1,2 @@
+A test suite for magnetohydrodynamical simulations
+We have drawn together in this paper a collection of magnetohydrodynamic (MHD) problems that will provide researchers who have interests in modelling MHD phenomena with a battery of tests (a test suite) for calibrating their numerical algorithms. Use of these tests will provide a common reference for comparison of different numerical MHD algorithms. The test suite includes both one- and two-dimensional problems.

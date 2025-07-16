@@ -1,0 +1,2 @@
+Multivariate Compactly Supported Fundamental Refinable Functions, Duals, and Biorthogonal Wavelets
+In areas of geometric modeling and wavelets, one often needs to construct a compactly supported refinable function φ which has sufficient regularity and which is fundamental for interpolation [that means, φ(0)=1 and φ(α)=0 for all α∈Zs∖{0}].

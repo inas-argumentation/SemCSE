@@ -1,0 +1,2 @@
+A Modification of the T -Method of Multiple Comparisons for a One-Way Layout with Unequal Variances
+Tukey's T-method for simultaneous inference in a one-way layout is extended to situations where heterogeneity of variance prevails. The modified method is based on the distribution of the range of iid Student-t variates. The new procedure is exemplified and a table of critical values is provided for its implementation. A different procedure based on a Bonferroni upper bound is also discussed.

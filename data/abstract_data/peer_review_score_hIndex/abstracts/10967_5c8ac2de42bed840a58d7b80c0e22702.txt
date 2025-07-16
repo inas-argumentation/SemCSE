@@ -1,0 +1,10 @@
+Improved Coresets and Sublinear Algorithms for Power Means in Euclidean Spaces
+In this paper, we consider the problem of finding high dimensional power means: given a set $A$ of $n$ points in $\R^d$, find the point $m$ that minimizes the sum of Euclidean distance, raised to the power $z$, over all input points. Special cases of problem include the well-known Fermat-Weber problem -- or geometric median problem -- where $z = 1$, the mean or centroid where $z=2$, and the Minimum Enclosing Ball problem, where $z = \infty$.
+
+We consider these problem in the big data regime.
+Here, we are interested in sampling as few points as possible such that we can accurately estimate $m$.
+More specifically, we consider sublinear algorithms as well as coresets for these problems.
+Sublinear algorithms have a random query access to the $A$ and the goal is to minimize the number of queries.
+Here, we show that $\tilde{O}(\varepsilon^{-z-3})$ samples are sufficient to achieve a $(1+\varepsilon)$ approximation, generalizing the results from Cohen, Lee, Miller, Pachocki, and Sidford [STOC '16] and Inaba, Katoh, and Imai [SoCG '94] to arbitrary $z$. Moreover, we show that this bound is nearly optimal, as any algorithm requires at least $\Omega(\varepsilon^{-z+1})$ queries to achieve said approximation.
+
+The second contribution are coresets for these problems, where we aim to find find a small, weighted subset of the points which approximate cost of every candidate point $c\in \mathbb{R}^d$ up to a $(1\pm\varepsilon)$ factor. Here, we show that $\tilde{O}(\varepsilon^{-2})$ points are sufficient, improving on the $\tilde{O}(d\varepsilon^{-2})$ bound by Feldman and Langberg [STOC '11] and the $\tilde{O}(\varepsilon^{-4})$ bound by Braverman, Jiang, Krauthgamer, and Wu [SODA 21].

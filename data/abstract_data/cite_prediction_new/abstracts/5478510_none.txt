@@ -1,0 +1,2 @@
+40Gb/s High-Gain Distributed Amplifiers with Cascaded Gain Stages in 0.18/spl mu/m CMOS
+High-gain distributed amplifiers (DA) using cascaded stages as distributed cells are implemented in 0.18mum CMOS technology. Two DAs with 3times3 and 2times4 configurations are demonstrated for 40Gb/s applications. While consuming 250mW from a 2.8V supply, a GBW of up to 394GHz is achieved.

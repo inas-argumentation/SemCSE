@@ -1,0 +1,2 @@
+Extension of k- W Shear-Stress Transport Turbulence Model for Rough-Wall Flows
+We propose a modification to the κ-ω SST turbulence model. Through the modification, the range of applicability of the model is extended to flows involving rough surfaces. The surface roughness is simulated by adjusting the surface value of ω

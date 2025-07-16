@@ -1,0 +1,2 @@
+Genetic Algorithm-Based Redundancy Optimization Problems in Fuzzy Framework
+This article uses a genetic algorithm to solve the series parallel redundancy optimization problem which is in a fuzzy framework. Three nonlinear chance constrained programing models and three goal programing models are formulated based on possibility measure and credibility measure. A fuzzy simulation-based genetic algorithm is then employed to solve these kinds of fuzzy programing. Finally, numerical examples are also given.

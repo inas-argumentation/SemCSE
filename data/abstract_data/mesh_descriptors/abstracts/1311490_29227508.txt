@@ -1,0 +1,15 @@
+Optimizing chemotherapy dose and schedule by Norton-Simon mathematical modeling.
+BACKGROUND
+to hasten and improve anticancer drug development, we created a novel approach to generating and analyzing preclinical dose-scheduling data so as to optimize benefit-to-toxicity ratios.
+
+
+METHODS
+we applied mathematical methods based upon Norton-Simon growth kinetic modeling to tumor-volume data from breast cancer xenografts treated with capecitabine (Xeloda®, Roche) at the conventional schedule of 14 days of treatment followed by a 7-day rest (14-7).
+
+
+RESULTS
+the model predicted that 7 days of treatment followed by a 7-day rest (7-7) would be superior. Subsequent preclinical studies demonstrated that this biweekly capecitabine schedule allowed for safe delivery of higher daily doses, improved tumor response, and prolonged animal survival.
+
+
+CONCLUSIONS
+we demonstrated that the application of Norton-Simon modeling to the design and analysis of preclinical data predicts an improved capecitabine dosing schedule in xenograft models. This method warrants further investigation and application in clinical drug development.

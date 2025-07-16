@@ -1,0 +1,2 @@
+Boot-Strapping a WordNet Using Multiple Existing WordNets
+In this paper we describe the construction of an illustrated Japanese Wordnet. We bootstrap the Wordnet using existing multiple existing wordnets in order to deal with the ambiguity inherent in translation. We illustrate it with pictures from the Open Clip Art Library.

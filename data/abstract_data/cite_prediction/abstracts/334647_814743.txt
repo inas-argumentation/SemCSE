@@ -1,0 +1,2 @@
+Simple model of spiking neurons
+A model is presented that reproduces spiking and bursting behavior of known types of cortical neurons. The model combines the biologically plausibility of Hodgkin-Huxley-type dynamics and the computational efficiency of integrate-and-fire neurons. Using this model, one can simulate tens of thousands of spiking cortical neurons in real time (1 ms resolution) using a desktop PC.

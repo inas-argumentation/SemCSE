@@ -1,0 +1,2 @@
+Content-based recommendation in social tagging systems
+We present and evaluate various content-based recommendation models that make use of user and item profiles defined in terms of weighted lists of social tags. The studied approaches are adaptations of the Vector Space and Okapi BM25 information retrieval models. We empirically compare the recommenders using two datasets obtained from Delicious and Last.fm social systems, in order to analyse the performance of the approaches in scenarios with different domains and tagging behaviours.

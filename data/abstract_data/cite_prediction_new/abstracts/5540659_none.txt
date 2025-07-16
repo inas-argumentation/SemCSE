@@ -1,0 +1,2 @@
+Non-uniform robust global asymptotic stability for discrete-time systems and applications to numerical analysis
+The notion of non-uniform Robust Global Asymptotic Stability (RGAS) presented in this paper generalizes the notion of non-uniform in time RGAS for finiteor infinite-dimensional discrete-time systems. Lyapunov characterizations for this stability notion are provided. The results are applied to finitedimensional discrete-time systems obtained by time discretization of continuous-time systems by the explicit Euler method.

@@ -1,0 +1,2 @@
+Simulation of Long-Range Dependent Traffic and a Simulator of TCP Arrival Traffic
+The long-range dependence of Internet traffic has been experimentally observed. One issue in handling long-range dependent traffic is how to simulate random traffic data with long-range dependence. The authors discuss a correlation-based simulator with a white noise input for generating long-range dependent traffic data. With the real TCP traffic traces, a simulation model of TCP arrival traffic is empirically developed and the experimental results are satisfactory.

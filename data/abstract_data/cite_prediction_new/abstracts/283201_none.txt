@@ -1,0 +1,2 @@
+The effect of introducing a tag node in solving scheduling problems using histogram based sampling algorithms
+We have proposed probabilistic model-building genetic algorithms (PMBGAs) for solving sequence problems using edge histogram-based sampling algorithms (EHBSAs) in a previous paper. In this paper, we explore the effect of introducing a tag node in string representations for solving flow shop scheduling problems with EHBSAs. The results showed EHBSAs using strings with a tag worked better than EHBSAs using strings without a tag node.

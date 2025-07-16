@@ -1,0 +1,2 @@
+Scheduling tasks in multiprocessor systems using evolutionary strategies
+Scheduling tasks in multiprocessor systems is a difficult problem. The paper describes a method based upon evolutionary strategies (using genetic algorithms) to aid in finding good task assignments. The technique is illustrated by scheduling a digital signal processing algorithm on a two processor distributed system.<<ETX>>

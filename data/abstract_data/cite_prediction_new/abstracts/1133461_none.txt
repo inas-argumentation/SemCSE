@@ -1,0 +1,12 @@
+Computing Minimum-Volume Enclosing Axis-Aligned Ellipsoids
+Given a set of points 
+$\mathcal{S}=\{x^{1},\ldots,x^{m}\}\subset \mathbb{R}^{n}$ 
+and ε>0, we propose and analyze an algorithm for the problem of computing a (1+ε)-approximation to the minimum-volume axis-aligned ellipsoid enclosing 
+$\mathcal{S}$
+. We establish that our algorithm is polynomial for fixed ε. In addition, the algorithm returns a small core set 
+$\mathcal{X}\subseteq \mathcal{S}$
+, whose size is independent of the number of points m, with the property that the minimum-volume axis-aligned ellipsoid enclosing 
+$\mathcal{X}$ 
+is a good approximation of the minimum-volume axis-aligned ellipsoid enclosing 
+$\mathcal{S}$
+. Our computational results indicate that the algorithm exhibits significantly better performance than the theoretical worst-case complexity estimate.

@@ -1,0 +1,2 @@
+Quantum-behaved particle swarm optimization based on immune memory and vaccination
+The immune operation based on the regulation of the antibody thickness and vaccination operation in immune system is introduced into Quantum-behaved Particle Swarm Optimization, and then the Quantum-behaved Particle Swarm Optimization with immune operator is proposed in this paper. The results of typical optimization function showed that QPSO with immune operator performs much better than PSO and QPSO without immune operator.

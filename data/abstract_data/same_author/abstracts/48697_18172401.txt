@@ -1,0 +1,2 @@
+SIMPLE Performance Results in ZPL
+This paper presents performance results for ZPL programs running on the Kendall Square Research KSR-2 and the Intel Paragon. Because ZPL is a data parallel language based on the Phase Abstractions programming model, these results complement earlier claims that the Phase Abstractions model can lead to portability across MIMD computers. The ZPL language and selected aspects of the compilation strategy are briefly described, and performance results are compared against hand-coded programs.

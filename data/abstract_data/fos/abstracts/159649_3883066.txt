@@ -1,0 +1,2 @@
+Macromolecular refinement by model morphing using non-atomic parameterizations
+A method is described for the refinement of an electron-density model against a set of structure-factor observations which does not rely on atomic parameters. The effective level of detail in the parameterization can be varied to ensure that the refinement is well determined at any resolution supported by the data.

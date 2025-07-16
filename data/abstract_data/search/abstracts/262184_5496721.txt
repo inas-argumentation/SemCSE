@@ -1,0 +1,2 @@
+Power law shot noise
+The behavior of power law shot noise, for which the associated impulse response functions assume a decaying power law form, is explored. Expressions are obtained for the moments, moment generating functions, amplitude probability density functions, autocorrelation functions, and power spectral densities for a variety of parameters of the process. For certain parameters the power spectral density exhibits 1/f type behavior over a substantial range of frequencies, so that the process serves as a source of 1/f/sup alpha shot noise for alpha in the range 0

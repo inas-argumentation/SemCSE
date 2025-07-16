@@ -1,0 +1,2 @@
+Loss of Significance in Floating Point Subtraction and Addition
+We study the loss of significant βits (Ξbase β digits) in floating point addition or subtraction. To do this, we calculate the conditional probability of a post-arithmetic normalization shift of m βits, given an exponent difference of k βits. The study is done for various bases β, under two different assumptions—that the operands are selected at random from the logarithmic distribution or from the uniform distribution.

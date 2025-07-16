@@ -1,0 +1,2 @@
+Channel Capacity of Multi-input Multi-output System
+This paper discussed the basic capacity limit of transmission on the multi-input multi-output channels. Firstly, the capacity of MIMO channel was calculated under ideal condition, which the channel matrix is independent, complex Gaussian variables; Finally, it is educed that MIMO system can improve the channel capacity greatly by the analysis for a few capacity of fixing coefficient channels.

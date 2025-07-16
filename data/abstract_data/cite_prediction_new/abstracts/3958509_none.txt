@@ -1,0 +1,2 @@
+Improving efficiency of maximizing spread in the flow authority model for large sparse networks
+Based on the Flow Authority model, we propose the VSM (Vector-based Spread Maximization) algorithm that estimates the SSS (Steady-state Spread) objective function for multiple seeds based on SSS values of individual seeds to reduce computation. Based on three real-world large sparse networks, our empirical results indicate that VSM is more effective than two existing algorithms, and two orders of magnitude more efficient than one of them.

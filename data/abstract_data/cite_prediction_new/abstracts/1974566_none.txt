@@ -1,0 +1,2 @@
+Timed Concurrent Constraint Programming: Decidability Results and Their Application to LTL
+The ntcc process calculus is a timed concurrent constraint programming (ccp) model equipped with a first-order linear-temporal logic (LTL) for expressing process specifications. A typical behavioral observation in ccp is the strongest postcondition (sp). The ntcc sp denotes the set of all infinite output sequences that a given process can exhibit. The verification problem is then whether the sequences in the sp of a given process satisfy a given ntcc LTL formula.

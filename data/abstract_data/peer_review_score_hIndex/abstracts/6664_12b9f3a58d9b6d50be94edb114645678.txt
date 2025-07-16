@@ -1,0 +1,7 @@
+Exploring the interpretability of LSTM neural networks over multi-variable data
+In learning a predictive model over multivariate time series consisting of target and exogenous variables, the forecasting performance and interpretability of the model are both essential for deployment and uncovering knowledge behind the data.
+To this end, we propose the interpretable multi-variable LSTM recurrent neural network (IMV-LSTM) capable of providing accurate forecasting as well as both temporal and variable level importance interpretation.
+In particular, IMV-LSTM is equipped with tensorized hidden states and update process, so as to learn variables-wise hidden states. 
+On top of it, we develop a mixture attention mechanism and associated summarization methods to quantify the temporal and variable importance in data. 
+Extensive experiments using real datasets demonstrate the prediction performance and interpretability of IMV-LSTM in comparison to a variety of baselines. 
+It also exhibits the prospect as an end-to-end framework for both forecasting and knowledge extraction over multi-variate data. 

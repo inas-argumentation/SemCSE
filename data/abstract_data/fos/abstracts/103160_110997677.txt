@@ -1,0 +1,2 @@
+An interarrival hyperexponential machine interference with balking and reneging
+The aim of this paper is to treat the analytical solution of the truncated interarrival hyperexponential machine interference queue: H 2 /M/c/m/m with both balking and reneging concepts in case of two branches. We treat the general case for the values of both c and m considering the discipline FIFO. Also, we doduce some special cases.

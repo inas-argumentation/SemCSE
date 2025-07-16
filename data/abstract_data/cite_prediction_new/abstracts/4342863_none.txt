@@ -1,0 +1,2 @@
+On the Locality of Codeword Symbols in Non-Linear Codes
+Consider a possibly non-linear (n,K,d)_q code. Coordinate i has locality r if its value is determined by some r other coordinates. A recent line of work obtained an optimal trade-off between information locality of codes and their redundancy. Further, for linear codes meeting this trade-off, structure theorems were derived. In this work we give a new proof of the locality / redundancy trade-off and generalize structure theorems to non-linear codes.

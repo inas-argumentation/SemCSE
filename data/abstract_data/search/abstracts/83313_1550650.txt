@@ -1,0 +1,2 @@
+A Distributed Behavioral Model Using Neural Fields
+We investigate the use of neural fields for building a distributed behavioral model enabling several agents to move in a flock. No leader is required, and each agent is implemented as an independent element that follows its own behavioral model which is composed of four steering behaviors: separation, cohesion, alignment and obstacle avoidance. The synchronized motion of the flock emerges from combination of those behaviors. The control design will be discussed in theoretical terms, supported by simulation results.

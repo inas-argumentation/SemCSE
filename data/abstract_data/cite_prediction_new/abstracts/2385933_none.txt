@@ -1,0 +1,2 @@
+Joint estimation of the LPC parameters and the multi-pulse excitation
+In this paper, a joint process estimation algorithm is presented that simultaneously estimates the smooth spectral structure of the speech signal and the pulse-like driving function used in Multi-Pulse Linear Predictive Coding (MPLPC). Experimental results indicate that while the resulting excitation function differs from the normal multi-pulse excitation, the difference between the optimized and non-optimized linear predictive coding parameters is minimal in both a subjective and a numerical sense.

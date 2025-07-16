@@ -1,0 +1,2 @@
+Modified Hebbian learning for curve and surface fitting
+A linear neural unit with a modified anti-Hebbian learning rule is shown to be able to optimally fit curves, surfaces, and hypersurfaces by adaptively extracting the minor component (i.e., the counterpart of principal component) of the input data set. The learning rule is analyzed mathematically. The results of computer simulations are given to illustrate that this neural fitting method considerably outperform the commonly used least square fitting method in resisting both normal noise and outlier.

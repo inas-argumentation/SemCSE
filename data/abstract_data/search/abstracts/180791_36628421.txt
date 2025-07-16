@@ -1,0 +1,2 @@
+A simple modular architecture research tool for the identification of signaling domains
+SMART compares query sequences with its databases of domain sequences and multiple alignments while concurrently identifying compositionally biased regions such as signal peptide, transmembrane and coiled coil segments.

@@ -1,0 +1,2 @@
+Correcting A Widespread Error in Unification Algorithms
+The unification of two patterns both containing variables is a ubiquitous operation in logic programming and in many artificial intelligence applications. Thus, many texts present unification algorithms. Unfortunately, at least seven of these presentations are incorrect. The common error occurs when logic variables are represented as binding lists; implementations that destructively update variable cells do not manifest the error. This note gives the examples that uncover the error and presents a correction.

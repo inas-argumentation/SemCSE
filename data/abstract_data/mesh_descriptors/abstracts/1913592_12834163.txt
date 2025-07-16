@@ -1,0 +1,11 @@
+A simple nomogram for early prediction of myocardial reperfusion after pre-hospital thrombolysis.
+AIMS
+To discriminate early ST-segment elevation myocardial infarction (STEMI) presenters at a high probability of successful pre-hospital thrombolysis (PHT) using a simple nomogram based on independent predictors of complete ST resolution.
+
+
+METHODS AND RESULTS
+OPTIMAL was an observational, prospective study undertaken at 79 medical centres in France in patients with STEMI undergoing pre-hospital thrombolysis (PHT) within six hours of symptom onset and coronary angiography within six hours of thrombolysis. The baseline and pre-coronary angiography ECGs of 800 patients were analysed. The main outcome measure was ST segment resolution ≥ 70%. ST resolution was associated with a significant reduction in mortality (1.8% vs. 4.3%; p=0.05). After multivariable logistic regression analysis, five independent predictors of successful myocardial reperfusion were identified: ≤ 1 h between pain onset and thrombolysis (odds ratio [OR] 1.76, 95% confidence interval [CI] 1.18-2.62); body mass index (BMI) <30 kg/m2 (OR 1.74, CI 1.12-2.72); current/previous smoking (OR 1.71, CI 1.21-2.43); non-anterior infarct territory (OR 1.75, CI 1.27-2.41); and maximum amplitude of ST elevation <3 mm (OR 1.83, CI 1.32-2.54). The C-statistic of the model was 0.71 (95% CI 0.67-0.74). Using these five independent factors, a simple nomogram was developed to assess the probability of ST resolution after PHT. This nomogram allows discrimination of probabilities ranging from 13 to 72%.
+
+
+CONCLUSIONS
+This simple nomogram can predict the probability of successful myocardial reperfusion after thrombolysis. This may be useful in the triage of STEMI presenters.

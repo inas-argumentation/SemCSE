@@ -1,0 +1,2 @@
+Improving Generalisation Performance Through Multiobjective Parsimony Enforcement
+This paper describes POPE-GP, a system that makes use of the NSGA-II multiobjective evolutionary algorithm as an alternative, parameter-free technique for eliminating program bloat. We test it on a classification problem and find that while vastly reducing program size, the technique does improve generalisation performance.

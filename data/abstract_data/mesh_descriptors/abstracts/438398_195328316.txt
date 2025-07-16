@@ -1,0 +1,27 @@
+A machine learning approach for predictive models of adverse events following spine surgery.
+BACKGROUND
+Rates of adverse events following spine surgery vary widely by patient-, diagnosis-, and procedure-related factors. It is critical to understand the expected rates of complications and to be able to implement targeted efforts at limiting these events.
+
+
+PURPOSE
+To develop and evaluate a set of predictive models for common adverse events after spine surgery.
+
+
+STUDY DESIGN
+A retrospective cohort study PATIENT SAMPLES: We extracted 345,510 patients from the Truven MarketScan (MKS) and MarketScan Medicaid Databases and 760,724 patients from the Centers for Medicare and Medicaid Services (CMS) Medicare database who underwent spine surgeries between 2009 and 2013.
+
+
+OUTCOME MEASURES
+Overall adverse event (AE) occurrence and types of AE occurrence during the 30-day post-operative follow-up.
+
+
+METHODS
+We applied a least absolute shrinkage and selection operator (LASSO) regularization method and a logistic regression approach for predicting the risks of an overall AE and the top six most commonly observed AEs. Predictors included patient demographics, location of the spine procedure, comorbidities, type of surgery performed, and pre-operative diagnosis.
+
+
+RESULTS
+The median ages of MKS and CMS patients were 49 years and 69, respectively. The most frequent individual AE was a cardiac dysfunction in CMS (10.6%) patients and a pulmonary complication (4.7%) in MKS. The AUC of a prediction model for an overall AE was 0.7. Among the six individual prediction models, the model for predicting the risk of a pulmonary complication showed the greatest accuracy (AUC 0.76), and the range of AUC for these six models was 0.7 and 0.76. Medicaid status was one of the most important factors in predicting the occurrences of AEs; Medicaid recipients had increased odds of AEs by 20-60% compared to non-Medicaid patients (odds ratios: 1.28-1.6; P<10-10). Logistic regression showed higher AUCs than LASSO across these different models.
+
+
+CONCLUSIONS
+We present a set of predictive models for AEs following spine surgery that account for patient-, diagnosis-, and procedure-related factors which can contribute to patient-counseling, accurate risk adjustment, and accurate quality metrics.

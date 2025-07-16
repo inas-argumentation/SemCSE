@@ -1,0 +1,2 @@
+Lattice simulation of ultracold atomic Bose-Fermi mixtures
+Bose-Fermi mixtures have been recently realized and invesitigated in ultracold atomic experiments. We formulate quantum Monte Carlo simulation of Bose-Fermi mixtures on the (3+1)-dimensional lattice. As its first application, we analyze the boson-fermion pair correlation and the phase diagram of the Bose-Einstein condensation.

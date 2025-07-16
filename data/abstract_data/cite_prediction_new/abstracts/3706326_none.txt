@@ -1,0 +1,2 @@
+Every Finite Lattice Can Be Embedded in a Finite Partition Lattice
+We give here a proof of the theorem stated in the title. The theorem was conjectured by P. M. Whitman in [11]. The proof, mostly of combinatorial character, is based on " the regraph power technique" making use of special edge-colored graphs, called regraphs, as construction schemes. We use the proof of Combinatorial Lemma 6.1 by B. Wolk and B. Sands, which is shorter and more elegant than the original one. The list of references is a random collection of papers related to Whitman's conjecture.

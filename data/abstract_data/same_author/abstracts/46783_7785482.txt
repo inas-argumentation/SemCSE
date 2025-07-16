@@ -1,0 +1,2 @@
+Strategies for Migration from C to Java
+With the growing popularity of the Java programming language for both client and server side applications in network centric computing, there is a rising need for programming libraries that can be easily integrated into Java programs. Many mature programming libraries exist for the C programming language. This paper surveys approaches to the migration of C source code to Java and evaluates their usefulness with respect to the integration of the migrated code into Java programs.

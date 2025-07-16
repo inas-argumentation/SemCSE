@@ -1,0 +1,2 @@
+Applying composable security properties to assessment of information systems
+We generalise and extend a composable security property that was developed for the noninterference requirement and used to deal with composition of components linked as a chain. The generalisation enables the property to enforce different security requirements, while the extension enables the property to handle the case where components are connected as a tree. This generalised and extended composable property is then applied to carry out a case study of security analysis of an information system.

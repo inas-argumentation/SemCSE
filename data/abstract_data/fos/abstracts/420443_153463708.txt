@@ -1,0 +1,2 @@
+Interpreting the factor risk premia in the arbitrage pricing theory
+In the arbitrage pricing theory of Ross, assets' expected returns are shown to be approximately linear in the factor loadings of the process generating returns. This note provides a very simple and direct proof of the proposition that the coefficients in this approximate pricing relation can be interpreted as the excess returns on portfolios perfectly correlated with the factors whenever a riskless asset and such “mimicking” portfolios exist.

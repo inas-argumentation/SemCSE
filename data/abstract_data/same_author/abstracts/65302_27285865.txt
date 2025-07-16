@@ -1,0 +1,2 @@
+Rule-Based Semantics for an Extended Lambda-Calculus
+Many implementation techniques proposed for functional languages in the literature are based on lambda-calculus and the theory of combinators [5, 12, 14]. The main advantage of functional languages over the more conventional programming languages is their lack of side-effects which makes their semantics much simpler [2].

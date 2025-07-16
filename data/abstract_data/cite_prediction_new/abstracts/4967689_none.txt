@@ -1,0 +1,2 @@
+Addendum to “Classification of generalized polarized manifolds by their nef values”
+Let (M,E) be a generalized polarized manifold, i.e., a pair of an n-dimensional smooth projective variety and an ample vector bundle E of rank r on M. Let t be the nef value of a polarized manifold (M, det E), i.e., the minimum of the set of real numbers s such that K+s det E is nef; we have tr = 1; (2) n+1-tr< t <= 1.

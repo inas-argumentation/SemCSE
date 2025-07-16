@@ -1,0 +1,2 @@
+Design and testing of high-T/sub c/ Josephson pulse driver using selective SEJs
+We have designed a novel Josephson pulse driver based on SFQ circuits using high-T/sub c/ junction parameters, and fabricated it using selective SEJs. Simulation showed that the output pulse can be stepped up to 2.5 mV, which is 13 times larger amplitude than the input pulse. In the fabricated driver using a microstrip line, two dozen SEJs were integrated with Au resistors and inductors. The driver operated at 77 K with a conversion factor of (1-1.5) at best.<<ETX>>

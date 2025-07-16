@@ -1,0 +1,19 @@
+Global weak solutions for a viscous liquid-gas model with singular pressure law
+We study a viscous two-phase liquid-gas model relevant for well 
+and pipe flow modelling. The gas is assumed to be polytropic 
+whereas the liquid is treated as an incompressible fluid leading 
+to a pressure law which becomes singular when transition to 
+single-phase liquid flow occurs. In order to handle this 
+difficulty we reformulate the model in terms of Lagrangian 
+variables and study the model in a free-boundary setting where the 
+gas and liquid mass are of compact support initially and 
+discontinuous at the boundaries. Then, by applying an appropriate 
+variable transformation, point-wise control on masses can be 
+obtained which guarantees that no single-phase regions will occur 
+when the initial state represents a true mixture of both phases. 
+This paves the way for deriving a global existence result for a 
+class of weak solutions. The result requires that the viscous 
+coefficient depends on the volume fraction in an appropriate 
+manner. By assuming more regularity of the initial fluid velocity 
+a uniqueness result is obtained for an appropriate (smaller) class 
+of weak solutions.

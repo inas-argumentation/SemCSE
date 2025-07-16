@@ -1,0 +1,19 @@
+Automated quantification of stenosis severity on 64-slice CT: a comparison with quantitative coronary angiography.
+OBJECTIVES
+This study sought to demonstrate the feasibility of a dedicated algorithm for automated quantification of stenosis severity on multislice computed tomography in comparison with quantitative coronary angiography (QCA).
+
+
+BACKGROUND
+Limited information is available on quantification of coronary stenosis, and previous attempts using semiautomated approaches have been suboptimal.
+
+
+METHODS
+In patients who had undergone 64-slice computed tomography and invasive coronary angiography, the most severe lesion on QCA was quantified per coronary artery using quantitative coronary computed tomography (QCCTA) software. Additionally, visual grading of stenosis severity using a binary approach (50% stenosis as a cutoff) was performed. Diameter stenosis (percentage) was obtained from detected lumen contours at the minimal lumen area, and corresponding reference diameter values were obtained from an automatic trend analysis of the vessel areas within the artery.
+
+
+RESULTS
+One hundred patients (53 men; 59.8 +/- 8.0 years) were evaluated, and 282 (94%) vessels were analyzed. Good correlations for diameter stenosis were observed for vessel-based (n = 282; r = 0.83; p < 0.01) and patient-based (n = 93; r = 0.86; p < 0.01) analyses. Mean differences between QCCTA and QCA were -3.0% +/- 12.3% and -6.2% +/- 12.4%. Furthermore, good agreement was observed between QCCTA and QCA for semiquantitative assessment of diameter stenosis (accuracy of 95%). Diagnostic accuracy for assessment of > or =50% diameter stenosis was higher using QCCTA compared with visual analysis (95% vs. 87%; p = 0.08). Moreover, a significantly higher positive predictive value was observed with QCCTA when compared with visual analysis (100% vs. 78%; p < 0.05). Although the visual approach showed a reduced diagnostic accuracy for data sets with moderate image quality, QCCTA performed equally well in patients with moderate or good image quality. However, in data sets with good image quality, QCCTA tended to have a reduced sensitivity compared with visual analysis.
+
+
+CONCLUSIONS
+Good correlations were found for quantification of stenosis severity between QCCTA and QCA. QCCTA showed an improved positive predictive value when compared with visual analysis.

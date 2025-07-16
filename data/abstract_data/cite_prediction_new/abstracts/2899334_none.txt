@@ -1,0 +1,2 @@
+Sums of random Hermitian matrices and an inequality by Rudelson
+We give a new, elementary proof of a key inequality used by Rudelson in the derivation of his well-known bound for random sums of rank-one operators. Our approach is based on Ahlswede and Winter's technique for proving operator Chernoff bounds. We also prove a concentration inequality for sums of random matrices of rank one with explicit constants.

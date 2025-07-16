@@ -1,0 +1,2 @@
+Traps and Dangers when Modelling Problems for Genetic Algorithms
+This paper describes the relevant steps when modelling a given problem in order to be attacked by a Genetic Algorithm (GA). As an example for the whole modelling process the cryptanalysis of a generic 3-rotor machine is used. Thereby the authors want to especially highlight the various traps and dangers that might lead to a complete failure of a GAbased approach. Finally a theoretical analysis is given that shows why problems like the used example cannot be solved by Genetic Algorithms sufficiently.

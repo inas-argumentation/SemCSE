@@ -1,0 +1,2 @@
+Correspondence and Translation for Heterogeneous Data
+We presented a specification of the integration of heterogeneous data based on correspondence rules. We showed how a unique specification can served many purposes (including two-way translation) assuming some reasonable restrictions. We claim that the framework and restrictions are acceptable in practice, and in particular one can show that all the document-OODB correspondences/translations of [2, 3] are covered. We are currently working on further substantiating this by more experimentation.

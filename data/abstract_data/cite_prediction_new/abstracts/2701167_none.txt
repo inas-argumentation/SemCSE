@@ -1,0 +1,4 @@
+Integrating Time Constraints into Constraint-Based Configuration Models
+Over the last few years, we have been developing the configuration model ConBaCon, which is based on Constraint Programming over finite domains. The model is sound and suitable for building efficient and flexible systems that fulfill all the requirements of advanced configuration systems. 
+ 
+In this paper, we present model extensions that enable time-extended configuration and reconfiguration problems to be solved: Besides “normal” configuration and reconfiguration problems, the extended model can now also solve problems that contain time-dependent resource avaibilities or supply constraints for the ground components included. The general nature of the model extensions introduced seems to be suitable for integration in other (commercial) constraint-based configuration systems/configurator libraries as well.

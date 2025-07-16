@@ -1,0 +1,2 @@
+n-Tuple Coloring of Planar Graphs with Large Odd Girth
+. The main result of the papzer is that any planar graph with odd girth at least 10k−7 has a homomorphism to the Kneser graph Gk2k+1, i.e. each vertex can be colored with k colors from the set {1,2,…,2k+1} so that adjacent vertices have no colors in common. Thus, for example, if the odd girth of a planar graph is at least 13, then the graph has a homomorphism to G25, also known as the Petersen graph. Other similar results for planar graphs are also obtained with better bounds and additional restrictions.

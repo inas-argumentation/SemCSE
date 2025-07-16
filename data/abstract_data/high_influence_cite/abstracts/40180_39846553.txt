@@ -1,0 +1,23 @@
+Development of an online morbidity, mortality, and near-miss reporting system to identify patterns of adverse events in surgical patients.
+OBJECTIVES
+To design a Web-based system to track adverse and near-miss events, to establish an automated method to identify patterns of events, and to assess the adverse event reporting behavior of physicians.
+
+
+DESIGN
+A Web-based system was designed to collect physician-reported adverse events including weekly Morbidity and Mortality (M&M) entries and anonymous adverse/near-miss events. An automated system was set up to help identify event patterns. Adverse event frequency was compared with hospital databases to assess reporting completeness.
+
+
+SETTING
+A metropolitan tertiary care center.
+
+
+MAIN OUTCOME MEASURES
+Identification of adverse event patterns and completeness of reporting.
+
+
+RESULTS
+From September 2005 to August 2007, 15,524 surgical patients were reported including 957 (6.2%) adverse events and 34 (0.2%) anonymous reports. The automated pattern recognition system helped identify 4 event patterns from M&M reports and 3 patterns from anonymous/near-miss reporting. After multidisciplinary meetings and expert reviews, the patterns were addressed with educational initiatives, correction of systems issues, and/or intensive quality monitoring. Only 25% of complications and 42% of inpatient deaths were reported. A total of 75.2% of adverse events resulting in permanent disability or death were attributed to the nature of the disease. Interventions to improve reporting were largely unsuccessful.
+
+
+CONCLUSIONS
+We have developed a user-friendly Web-based system to track complications and identify patterns of adverse events. Underreporting of adverse events and attributing the complication to the nature of the disease represent a problem in reporting culture among surgeons at our institution. Similar systems should be used by surgery departments, particularly those affiliated with teaching hospitals, to identify quality improvement opportunities.

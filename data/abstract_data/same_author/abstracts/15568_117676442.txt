@@ -1,0 +1,3 @@
+An Ad-Hoc Method for Obtaining chi**2 Values from Unbinned Maximum Likelihood Fits
+A common goal in an experimental physics analysis is to extract information from a reaction with multi-dimensional kinematics. The preferred method for such a task is typically the unbinned maximum likelihood method. In fits using this method, the likelihood is a goodness-of-fit quantity in that it effectively discriminates between available hypotheses; however, it does not provide any information as to how well the best hypothesis describes the data. 
+In this paper, we present an {\em ad-hoc} procedure for obtaining chi**2/n.d.f. values from unbinned maximum likelihood fits. This method does not require binning the data, making it very applicable to multi-dimensional problems.

@@ -1,0 +1,29 @@
+Intercomparison of arctic XH2O observations from three ground-based Fourier transform infrared networks and application for satellite validation
+. In this paper, we compare column-averaged dry-air mole fractions of water
+vapor ( XH2O ) retrievals from the COllaborative Carbon Column
+Observing Network (COCCON) with retrievals from two co-located high-resolution
+Fourier transform infrared (FTIR) spectrometers as references at two boreal
+sites, Kiruna, Sweden, and Sodankyla, Finland, from 6 March 2017 to
+20 September 2019. In the framework of the Network for the Detection
+of Atmospheric Composition Change (NDACC), an FTIR spectrometer is operated at
+Kiruna. The H2O product derived from these observations has been
+generated with the MUlti-platform remote Sensing of Isotopologues
+for investigating the Cycle of Atmospheric water (MUSICA) processor. In
+Sodankyla, a Total Carbon Column Observing Network (TCCON) spectrometer
+is operated, and the official XH2O data as provided by TCCON are used
+for this study. The datasets are in good overall agreement, with COCCON data
+showing a wet bias of ( 49.20±58.61 ) ppm (( 3.33±3.37 ) %,
+ R2=0.9992 ) compared with MUSICA NDACC and ( 56.32±45.63 ) ppm
+(( 3.44±1.77 ) %, R2=0.9997 ) compared with TCCON. Furthermore, the a priori H2O volume mixing ratio (VMR) profiles (MAP) used as a priori information in the TCCON retrievals (also adopted for COCCON
+retrievals) are evaluated with respect to radiosonde (Vaisala RS41) profiles
+at Sodankyla. The MAP and radiosonde profiles show similar shapes and a
+good linear correlation of integrated XH2O , indicating that MAP is a
+reasonable approximation of the true atmospheric state and an appropriate
+choice for the scaling retrieval methods as applied by COCCON and TCCON.
+COCCON shows a reduced dry bias ( −14.96  %) in comparison with TCCON ( −19.08  %) with respect to radiosonde XH2O . Finally, we investigate the quality of satellite data at high latitudes. For
+this purpose, the COCCON XH2O is compared with retrievals from the
+Infrared Atmospheric Sounding Interferometer (IASI) generated with the
+MUSICA processor (MUSICA IASI) and with retrievals from the TROPOspheric
+Monitoring Instrument (TROPOMI). Both paired datasets generally show good
+agreement and similar correlations at the two sites. COCCON measures 4.64 % less XH2O at Kiruna and 3.36 % less at Sodankyla with respect to MUSICA IASI, whereas COCCON measures 9.71 % more XH2O at Kiruna and 7.75 % more at Sodankyla compared with TROPOMI. Our study supports the assumption that COCCON also delivers a
+well-characterized XH2O data product. This emphasizes that this approach might complement the TCCON network with respect to satellite validation efforts. This is the first published study where COCCON XH2O has been compared with MUSICA NDACC and TCCON retrievals and has been used for MUSICA IASI and TROPOMI validation.

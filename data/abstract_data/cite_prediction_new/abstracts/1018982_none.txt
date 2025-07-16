@@ -1,0 +1,2 @@
+A blood glucose simulator for insulin-dosage optimisation
+The application of a prototype simulator, incorporating heuristic rules, for performing insulin-dosage optimisation and generating therapeutic advice is described. Preliminary results of validation work to assess the predictive accuracy and advisory capabilities of the system are provided.

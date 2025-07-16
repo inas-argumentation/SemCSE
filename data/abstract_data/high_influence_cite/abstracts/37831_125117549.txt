@@ -1,0 +1,2 @@
+Path-dependent Ito formulas under (p,q)-variations
+In this work, we establish pathwise functional Itô formulas for nonsmooth functionals of real-valued continuous semimartingales. Under finite (p, q)variation regularity assumptions in the sense of two-dimensional Young integration theory, we establish a pathwise local-time decomposition Ft(Xt) = F0(X0) + ∫ t

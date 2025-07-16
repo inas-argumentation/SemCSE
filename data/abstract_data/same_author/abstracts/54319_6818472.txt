@@ -1,0 +1,2 @@
+Some Practical Problems and Their Influence on Semantics
+This paper offers an assessment of what has been achieved in three decades of work on the semantics of programming languages and pinpoints some practical problems in computing which might stimulate further research. The examples sketched in this paper come from the author's own research on concurrent object oriented languages, from database practice, and from more speculative research on Internet issues.

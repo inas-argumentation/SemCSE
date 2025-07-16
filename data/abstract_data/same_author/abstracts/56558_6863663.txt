@@ -1,0 +1,2 @@
+The Station Location Problem on Two Intersecting Lines
+Abstract The station location problem consists of placing new stations along the railway tracks of an existing network in order to increase the number of users. In this paper we consider the problem for a railway network consisting of two intersecting lines forming an angle α. An approach for solving the problem in polynomial time for sufficiently large angles α is presented.

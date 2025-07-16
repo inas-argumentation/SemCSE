@@ -1,0 +1,2 @@
+Asymmetric all-pay auctions with interdependent valuations
+I show that a unique equilibrium exists in an asymmetric two-player all-pay auction with a discrete signal structure, correlated signals, and interdependent valuations. The proof is constructive, and the construction can be implemented as a computer program and be used to derive comparative statics. I also characterize the set of equilibria when a reserve price is introduced.

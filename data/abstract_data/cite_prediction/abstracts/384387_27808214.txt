@@ -1,0 +1,2 @@
+Drive-By Download Attacks: A Comparative Study
+Malware authors are exploiting browsers in a stealthy manner to distribute infectious code on the Internet. Drive-by download attacks are a prominent attack method in support of this cause. During such attacks, well-designed automated applications called browser exploit packs (BEPs) are deployed on infected servers. The authors' feature-oriented study analyzes the built-in features provided by BEPs used in the successful execution of drive-by downloads.

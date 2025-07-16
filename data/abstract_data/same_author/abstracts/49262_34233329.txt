@@ -1,0 +1,6 @@
+Search Trees with Relaxed Balance and Near-Optimal Height
+We introduce the relaxed k-tree, a search tree with relaxed balance and a height bound, when in balance, of (1 + Ɛ) log2 n + 1, for any Ɛ > 0. The rebalancing work is amortized O(1/Ɛ) per update. This is the first binary search tree with relaxed balance having a height bound better than c ċ log2 n for a fixed constant c. In all previous proposals, the constant is at least 1/ log2 Φ > 1.44, where Φ is the golden ratio. 
+ 
+As a consequence, we can also define a standard (non-relaxed) k-tree with amortized constant rebalancing per update, which is an improvement over the original definition. 
+ 
+Search engines based on main-memory databases with strongly fluctuating workloads are possible applications for this line of work.

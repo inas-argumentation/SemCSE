@@ -1,0 +1,2 @@
+A group of permutations that commute with the discrete Fourier transform
+The authors characterize a potentially useful set of permutation matrices that commute with the Fourier matrix of order n. The set of all such permutation matrices is a group under matrix multiplication, and every element of the group is its own inverse. They study the number of these permutations as a function of the order n/spl lowbar/ of the Fourier matrix and conclude that it is a multiplicative function of n. >

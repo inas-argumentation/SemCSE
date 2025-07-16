@@ -1,0 +1,2 @@
+A Protégé Ontology as the Core Component of a BioSense Message Analysis Framework
+In this paper we describe a prototype application for real time BioSense message analysis and classification using a Protégé public health ontology built on an HL7 Version 3 Restricted Message Information Model (RMIM) and incorporated as the core component of a model driven, services based architecture.

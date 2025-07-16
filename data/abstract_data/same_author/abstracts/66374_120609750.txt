@@ -1,0 +1,2 @@
+Eigenvalues of discontinuous Sturm-Liouville problems with symmetric potentials
+In this paper we consider three examples of discontinuous Sturm-Liouville problems with symmetric potentials. The eigenvalues of the systems were determined using the classical fourth order Runge-Kutta method. These eigenvalues are used to reconstruct the potential function using an algorithm presented in Kobayashi [1, 2]. The results of our numerical experiments are discussed.

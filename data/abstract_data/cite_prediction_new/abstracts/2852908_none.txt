@@ -1,0 +1,2 @@
+SUMMA: scalable universal matrix multiplication algorithm
+In this paper, we give a straight forward, highly efficient, scalable implementation of common matrix multiplication operations. The algorithms are much simpler than previously published methods, yield better performance, and require less work space. MPI implementations are given, as are performance results on the Intel Paragon system.

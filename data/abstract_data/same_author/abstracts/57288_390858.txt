@@ -1,0 +1,2 @@
+On a Conjecture about Trees in Graphs with Large Girth
+The girth of a graph G is the length of a shortest cycle in G. Dobson (1994, Ph. D. dissertation, Louisiana State University, Baton Rouge, LA) conjectured that every graph G with girth at least 2t+1 and minimum degree at least k/t contains every treeT with k edges whose maximum degree does not exceed the minimum degree of G. The conjecture has been proved for t?3. In this paper, we prove Dobson's conjecture.

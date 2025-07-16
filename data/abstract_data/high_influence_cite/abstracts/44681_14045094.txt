@@ -1,0 +1,2 @@
+Blue versus Red: Towards a Model of Distributed Security Attacks
+We develop a two-sided multiplayer model of security in which attackers aim to deny service and defenders strategize to secure their assets. Attackers benefit from the successful compromise of target systems, however, may suffer penalties for increased attack activities. Defenders weigh the force of an attack against the cost of security. We consider security decision-making in tightly and loosely coupled networks and allow defense expenditures in protection and self-insurance technologies.

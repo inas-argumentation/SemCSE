@@ -1,0 +1,2 @@
+Type-Constrained Generics for Z
+We propose an extension to Z whereby generic parameters may have their types partially constrained. Using this mechanism it becomes possible to define in Z much of its own schema calculus and refinement rules.

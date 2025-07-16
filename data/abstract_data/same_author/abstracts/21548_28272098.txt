@@ -1,0 +1,2 @@
+Diffusion over a saddle with a langevin equation
+The diffusion problem over a saddle is studied using a multidimensional Langevin equation. An analytical solution is derived for a quadratic potential and the probability to pass over the barrier deduced. A very simple solution is given for the one-dimensional problem and a general scheme is shown for higher dimensions.

@@ -1,0 +1,2 @@
+Transputer based data acquisition system for the CMD-2 detector☆
+CMD-2 [1] is currently studying e + e − annihilation in the energy range from 0.36 GeV to 1.4 GeV. The planned upgrade [2] of the VEPP-2M collider facility will increase the luminosity of the machine from 5 × 10 30 cm −2 s −1 up to 2 × 10 31 −10 32 . The expected increase in data rates is beyond the capacity of the operational data acquisition system (DAQ) and necessitates the design of a new system.

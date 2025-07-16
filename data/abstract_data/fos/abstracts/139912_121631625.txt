@@ -1,0 +1,2 @@
+A priori estimates for harmonic mappings
+Summary We give a new proof of a well known regularity result for harmonic mappings between Riemannian manifolds due to Giaquinta and Hildebrandt [3]. The proof uses a modification of a method due to L. Caffarelli [2] to show interior and boundary Hölder-continuity of harmonic mappings, whose images lie in a regular ball. In addition a priori estimates are established. We remark here that our proof completely avoids the use of Green´s functions.

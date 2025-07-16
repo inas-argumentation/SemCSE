@@ -1,0 +1,15 @@
+Protein expression in a transformed trabecular meshwork cell line: proteome analysis.
+PURPOSE
+Characterization of the human trabecular meshwork (TM) proteome is hindered by the small mass of intact tissue and the slow growth of cultured cell strains. We have previously characterized a transformed TM cell strain (GTM3) that demonstrates many of the same protein expression and cell signaling systems of nontransformed cell strains. The aim of this study was to initiate a proteomic survey of GTM3 cells as the initial step toward characterization of the complete human TM proteome.
+
+
+METHODS
+GTM3 cells were cultured to confluence, harvested and solubilized in urea/Nonidet. The protein extract (600 mug) was focused in immobilized isoelectric focusing (IEF) strips, separated by 10% SDS PAGE, and visualized with colloidal Coomassie Blue. Spots of interest were excised, destained, and the contained proteins subjected to in-gel reduction, derivatization, and tryptic digestion. Tryptic peptides were extracted and analyzed by electrospray LC/MS/MS. Protein identification was made using the TurboSequest search algorithm and a recent version of the nonredundant human protein database downloaded from the National Center for Biotechnology Information (NCBI).
+
+
+RESULTS
+Eighty-seven (87) primary proteins and 93 variants of these proteins were identified. A website was created (TM proteome) that combines data such as graphic spot location within the gel, peptide sequence, apparent and calculated pI, apparent and calculated mass, percentage of coverage, and protein informatic website links.
+
+
+CONCLUSIONS
+Proteomic analysis of a transformed human TM cell line has been initiated combining preparative two-dimensional PAGE separation, LC/MS/MS analysis of major proteins, and bioinformatic cataloging of the data. Further investigation of data from the transformed cell strain will be used in a comparative fashion for spot identification of analytical proteomic gels of human TM tissue and cultured normal cells. These initial data will form the base from which the characterization of protein expression in the normal and glaucomatous TM can be accomplished.

@@ -1,0 +1,10 @@
+Learning Mixed-Curvature Representations in Product Spaces
+The quality of the representations achieved by embeddings is determined by how well the geometry of the embedding space matches the structure of the data.
+Euclidean space has been the workhorse for embeddings; recently hyperbolic and spherical spaces have gained popularity due to their ability to better embed new types of structured data---such as hierarchical data---but most data is not structured so uniformly.
+We address this problem by proposing learning embeddings in a product manifold combining multiple copies of these model spaces (spherical, hyperbolic, Euclidean), providing a space of heterogeneous curvature suitable for a wide variety of structures.
+We introduce a heuristic to estimate the sectional curvature of graph data and directly determine an appropriate signature---the number of component spaces and their dimensions---of the product manifold.
+Empirically, we jointly learn the curvature and the embedding in the product space via Riemannian optimization.
+We discuss how to define and compute intrinsic quantities such as means---a challenging notion for product manifolds---and provably learnable optimization functions.
+On a range of datasets and reconstruction tasks, our product space embeddings outperform single Euclidean or hyperbolic spaces used in previous works, reducing distortion by 32.55% on a Facebook social network dataset. We learn word embeddings and find that a product of hyperbolic spaces in 50 dimensions consistently improves on baseline Euclidean and hyperbolic embeddings, by 2.6
+points in Spearman rank correlation on similarity tasks
+and 3.4 points on analogy accuracy.

@@ -1,0 +1,2 @@
+A NATURAL VARIATION OF THE STANDARD SECRETARY PROBLEM
+We consider a natural variation of the standard secretary problem: N groups of applicants are to be interviewed sequentially (in groups) by a manager and the manager wants to find a strategy which maximizes the probability of selecting the best applicant. We use the usual backward induction method to find the optimal strategy, which can be easily described and is a natural extension of the solution for the standard secretary problem.

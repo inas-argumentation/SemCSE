@@ -1,0 +1,2 @@
+Learning ontology from Big Data through MongoDB database
+Big Data are collections of data sets so large and complex to process using classical database management tools. NOSQL databases are in the base of storage of Big Data. Learning ontology from these databases will extract their hidden semantics. This paper illustrates an approach to learn ontology from document oriented NOSQL database. We choose to deal with MongoDB. We present main steps of our approach and detail transformation rules.

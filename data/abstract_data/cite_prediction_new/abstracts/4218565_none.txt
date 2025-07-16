@@ -1,0 +1,2 @@
+Hints on Test Data Selection: Help for the Practicing Programmer
+In many cases tests of a program that uncover simple errors are also effective in uncovering much more complex errors. This so-called coupling effect can be used to save work during the testing process.

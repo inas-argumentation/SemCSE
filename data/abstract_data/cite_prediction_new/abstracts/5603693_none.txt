@@ -1,0 +1,2 @@
+A Novel Stacked Design of a LC VCO-Prescaler Combination in Sub-Micron PDSOI CMOS
+The work described in this paper extends the novel idea of stacking circuit blocks in a PDSOI CMOS technology. Two of the most crucial (and yet power hungry) components of a frequency synthesiser, namely a prescaler and VCO, are cascaded in a current-mode fashion with an extended power supply beyond that quoted for the technology. Results show the combination to function at 2GHz with VDD = 6.5V and the circuit stack to sit on a 5mA current source.

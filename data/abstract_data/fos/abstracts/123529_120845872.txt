@@ -1,0 +1,4 @@
+A new type of Littlewood-Paley partition
+AbstractWe define a partition of Z into intervals {Ij} and prove the Littlewood-Paley inequality ‖f‖p≦Cp‖Sf‖p, 2≦p<∞. Heref is a function on [o, 2π) and
+$$Sf = (\sum |\Delta _j |^2 )^{1/2} , \hat \Delta j = \hat f\chi _{Ij} $$
+. This is a new example of a partition having the Littlewood-Paley property since the {Ij} are not of the type obtained by iterating lacunary partitions finitely many times.

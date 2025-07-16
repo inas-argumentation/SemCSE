@@ -1,0 +1,15 @@
+Clinical validation and benchmarking of knowledge-based IMRT and VMAT treatment planning in pelvic anatomy.
+PURPOSE
+The aim of this work was to determine whether a commercial knowledge-based treatment planning (KBP) module can efficiently produce IMRT and VMAT plans in the pelvic region (prostate & cervical cancer), and to assess sensitivity of plan quality to training data and model parameters.
+
+
+METHODS
+Initial benchmarking of KBP was performed using prostate cancer cases. Structures and dose distributions from 40 patients previously treated using a 5-field IMRT technique were used for model training. Two types of model were created: one excluded statistical outliers (as identified by RapidPlan guidelines) and the other had no exclusions. A separate model for cervix uteri cancer cases was subsequently developed using 37 clinical patients treated for cervical cancer using RapidArc™ VMAT, with no exclusions. The resulting models were then used to generate plans for ten patients from each patient group who had not been included in the modelling process. Comparisons of generated RapidPlans with the corresponding clinical plans were carried out to indicate the required modifications to the models. Model parameters were then iteratively adjusted until plan quality converged with that obtained by experienced planners without KBP.
+
+
+RESULTS
+Initial automated model generation settings led to poor conformity, coverage and efficiency compared to clinical plans. Therefore a number of changes to the initial KBP models were required. Before model optimisation, it was found that the PTV coverage was slightly reduced in the superior and inferior directions for RapidPlan compared with clinical plans and therefore PTV parameters were adjusted to improve coverage. OAR doses were similar for both RapidPlan and clinical plans (p>0.05). Excluding outliers had little effect on plan quality (p≫0.05). Manually fixing key optimisation objectives enabled production of clinically acceptable treatment plans without further planner intervention for 9 of 10 prostate test patients and all 10 cervix test patients.
+
+
+CONCLUSIONS
+The Varian RapidPlan™ system was able to produce IMRT & VMAT treatment plans in the pelvis, in a single optimisation, that had comparable sparing and comparable or better conformity than the original clinically acceptable plans. The system allows for better consistency and efficiency in the treatment planning process and has therefore been adopted clinically within our institute with over 100 patients treated.

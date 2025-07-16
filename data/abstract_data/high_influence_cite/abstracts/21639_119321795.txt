@@ -1,0 +1,2 @@
+On vanishing class sizes in finite groups
+Let $G$ be a finite group. An element $g$ of $G$ is called a vanishing element if there exists an irreducible character $\chi$ of $G$ such that $\chi(g) = 0$; in this case, we say that the conjugacy class of $g$ is a vanishing conjugacy class. In this paper, we discuss some arithmetical properties concerning the sizes of the vanishing conjugacy classes in a finite group.

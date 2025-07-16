@@ -1,0 +1,2 @@
+More on geometry of Krein space C-numerical range
+Abstract For n × n complex matrices A, C and H, where H is non-singular Hermitian, the Krein space C-numerical range of A induced by H is the subset of the complex plane given by { Tr ( C U [ * ] A U ) : U − 1 = U [ * ] } with U [ * ] = H − 1 U * H the H-adjoint matrix of U. We revisit several results on the geometry of Krein space C-numerical range of A and in particular we obtain a condition for the Krein space C-numerical range to be a subset of the real line.

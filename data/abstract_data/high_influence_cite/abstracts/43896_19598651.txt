@@ -1,0 +1,15 @@
+Quantification of the changes in the openness of the major temporal arcade in retinal fundus images of preterm infants with plus disease.
+PURPOSE
+We tested the hypothesis that the openness of the major temporal arcade (MTA) changes in the presence of plus disease, by quantification via parabolic modeling of the MTA, as well as measurement of an arcade angle for comparative analysis. Such analysis could assist in the detection and treatment of progressive retinopathy of prematurity.
+
+
+METHODS
+Digital image processing techniques were applied for the detection and modeling of the MTA via a graphical user interface (GUI) to quantify the openness of the MTA. An arcade angle measure, based on a previously proposed method, also was obtained via the GUI for comparative analysis. The statistical significance of the differences between the plus and no-plus cases for each parameter was analyzed using the P value. The area (Az) under the receiver operating characteristic curve was used to assess the diagnostic performance of each feature.
+
+
+RESULTS
+The temporal arcade angle measure and the openness parameter of the parabolic model were used to perform discrimination of plus versus no-plus cases. Using a set of 19 cases with plus and 91 with no plus disease, Az=0.70 was obtained using the results of dual-parabolic modeling in screening for plus disease. The arcade angle measure provided comparable results with Az=0.73.
+
+
+CONCLUSIONS
+Using our proposed image analysis techniques and software, this study demonstrates, for the first time to our knowledge, that the openness of the MTA decreases in the presence of plus disease.

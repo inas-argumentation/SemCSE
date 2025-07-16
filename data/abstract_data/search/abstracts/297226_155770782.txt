@@ -1,0 +1,2 @@
+Functional annotation of orthologous groups by using hierarchical multi label classification
+Background The method of correlating gene occurrence patterns in selected organisms, termed phylogenetic profiling, has proven to be a useful tool in functional genomics [1] The reasoning behind this strategy of elucidating gene function lies in the presumption that genes having been found and lost together during evolution (signalled by their occurrence pattern in the phylogenetic profile) are involved in closely related biological functions.

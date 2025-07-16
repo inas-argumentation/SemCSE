@@ -1,0 +1,15 @@
+Prognostic index score and clinical prediction model of local regional recurrence after mastectomy in breast cancer patients.
+PURPOSE
+To develop clinical prediction models for local regional recurrence (LRR) of breast carcinoma after mastectomy that will be superior to the conventional measures of tumor size and nodal status.
+
+
+METHODS AND MATERIALS
+Clinical information from 1,010 invasive breast cancer patients who had primary modified radical mastectomy formed the database of the training and testing of clinical prognostic and prediction models of LRR. Cox proportional hazards analysis and Bayesian tree analysis were the core methodologies from which these models were built. To generate a prognostic index model, 15 clinical variables were examined for their impact on LRR. Patients were stratified by lymph node involvement (<4 vs. >or =4) and local regional status (recurrent vs. control) and then, within strata, randomly split into training and test data sets of equal size. To establish prediction tree models, 255 patients were selected by the criteria of having had LRR (53 patients) or no evidence of LRR without postmastectomy radiotherapy (PMRT) (202 patients).
+
+
+RESULTS
+With these models, patients can be divided into low-, intermediate-, and high-risk groups on the basis of axillary nodal status, estrogen receptor status, lymphovascular invasion, and age at diagnosis. In the low-risk group, there is no influence of PMRT on either LRR or survival. For intermediate-risk patients, PMRT improves LR control but not metastases-free or overall survival. For the high-risk patients, however, PMRT improves both LR control and metastasis-free and overall survival.
+
+
+CONCLUSION
+The prognostic score and predictive index are useful methods to estimate the risk of LRR in breast cancer patients after mastectomy and for estimating the potential benefits of PMRT. These models provide additional information criteria for selection of patients for PMRT, compared with the traditional selection criteria of nodal status and tumor size.

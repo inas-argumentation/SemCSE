@@ -1,0 +1,2 @@
+Towards autonomous service composition in a grid environment
+Web services are becoming important in applications from electronic commerce to application interoperation. While numerous efforts have focused on service composition, service selection among similar services from multiple providers has not been addressed. Such issue is more serious when services are embraced in Grid platforms, which are usually resource-conscious. Experimental results show that our considerations are valid and our preliminary solution works well in our Globus grid network.

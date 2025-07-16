@@ -1,0 +1,2 @@
+AC analysis of idealized switched-capacitor circuits in spice-compatible programs
+Direct AC analysis of idealized switched-capacitor circuits in Spice-compatible programs is described in the paper. The capacitor is described by a special macro-circuit, whose mathematical model is based on modified z-domain charge equations and on the theory of equivalent signals.

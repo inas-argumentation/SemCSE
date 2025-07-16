@@ -1,0 +1,6 @@
+Enhanced Chosen-Ciphertext Security and Applications
+We introduce and study a new notion of enhanced chosen-ciphertext security ECCA for public-key encryption. Loosely speaking, in the ECCA security experiment, the decryption oracle provided to the adversary is augmented to return not only the output of the decryption algorithm on a queried ciphertext but also of a randomness-recovery algorithm associated to the scheme. Our results mainly concern the case where the randomness-recovery algorithm is efficient. 
+ 
+We provide constructions of ECCA-secure encryption from adaptive trapdoor functions as defined by Kiltz et al.i¾?EUROCRYPT 2010, resulting in ECCA encryption from standard number-theoretic assumptions. We then give two applications of ECCA-secure encryption: 1 We use it as a unifying concept in showing equivalence of adaptive trapdoor functions and tag-based adaptive trapdoor functions, resolving an open question of Kiltz et al. 2 We show that ECCA-secure encryption can be used to securely realize an approach to public-key encryption with non-interactive opening PKENO originally suggested by Damgard and Thorbek EUROCRYPT 2007, resulting in new and practical PKENO schemes quite different from those in prior work. 
+ 
+Our results demonstrate that ECCA security is of both practical and theoretical interest.

@@ -1,0 +1,2 @@
+DC-offset compensation in a bistatic 77GHz-FMCW-radar
+In this paper the necessity for a DC-offset compensation in a bistatic 77GHz-FMCW-radar is discussed. Measurements of DC-offset voltages of a pseudo monostatic system, with two receiver and two transceiver channels, are presented and conclusions for a bistatic application are drawn. Two reasons for DC-offset are differentiated. First, DC-offset due to the characteristics of the radar circuit itself. Second, DC-offset caused by reflections of the near environment of the radar, such as bumpers

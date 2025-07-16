@@ -1,0 +1,2 @@
+Parallel direct SCF and gradient program for workstation clusters
+A parallel direct SCF and gradient program for workstation clusters has been implemented on the basis of the ab initio program package TURBOMOLE. Applications on large molecular systems monitor an appreciable speedup in residence time. © John Wiley & Sons, Inc.

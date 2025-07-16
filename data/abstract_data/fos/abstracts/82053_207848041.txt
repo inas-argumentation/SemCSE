@@ -1,0 +1,2 @@
+Decompositions of Schubert Varieties and Small Resolutions
+We provide a method for gluing (small) resolutions of singularities of Schubert varieties \(X_w\). An explicit isomorphism of \(X_w\) with an (iterated) bundle is constructed when \(w\) has an (iterated) BP decomposition. Combined with the first result this gives many new small resolutions of Schubert varieties. In type A, this can be expressed in terms of pattern avoidance. Also we show resolutions of Schubert varieties constructed quite generally are in fact Gelfand-MacPherson resolutions.

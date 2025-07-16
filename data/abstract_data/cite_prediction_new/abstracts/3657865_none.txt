@@ -1,0 +1,2 @@
+Modeling of the air film pressure for a haptic touch actuator
+In the scope of haptic touch feedback actuators, we discuss the phenomenon of creating the haptic experience by squeezing the air film between the user finger and the actuator. The focus is given in the modeling of the squeeze film effect. An existing analytical model is compared with FEM simulations and early experimental measurements are presented.

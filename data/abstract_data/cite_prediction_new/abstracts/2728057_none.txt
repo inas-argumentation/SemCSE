@@ -1,0 +1,7 @@
+Crude Palm Oil Price Forecasting: Box-Jenkins Approach
+A univariate ARIMA model developed by Box-jenkins was utilised to forecast the short-run 
+monthly price of crude palm oil. The appropriate model for forecasting was found to be (0, 2, 1) 
+(0, 1, 1) 6' This model indicates that the original crude palm oil series is non-stationary and contains 
+some elements of multipliCity, hence inheriting moving average process. The identified ARIMA 
+model induced the data series into a stochastic one, making it a suitable model for forecasting crude 
+palm oil prices in the short term.

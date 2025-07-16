@@ -1,0 +1,2 @@
+Powers of lexsegment ideals with linear resolution
+All powers of lexsegment ideals with linear resolution (equivalently, with linear quotients) have linear quotients with respect to suitable orders of the minimal monomial generators. For a large subclass of the lexsegment ideals the corresponding Rees algebra has a quadratic Gr\"obner basis, thus it is Koszul. We also find other classes of monomial ideals with linear quotients whose powers have linear quotients too.

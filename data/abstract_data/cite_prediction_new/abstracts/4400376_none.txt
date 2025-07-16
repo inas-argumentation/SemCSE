@@ -1,0 +1,2 @@
+Data-aided approach to I/Q mismatch and DC offset compensation in communication receivers
+A digital signal processing technique for compensating both the I/Q mismatch and the DC offset in communication receivers is derived with an emphasis on direct-conversion architectures. The I/Q mismatch and DC offset are estimated in a least-squares sense using a training sequence. Also, a group of training sequences that minimizes the mean square error of the estimate is determined. The advantages of the proposed technique are demonstrated through computer simulation.

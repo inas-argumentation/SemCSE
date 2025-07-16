@@ -1,0 +1,2 @@
+Human Detection of Deceptive Speech
+We report a perception study in which judges attempted to label as deceptive or truthful the recorded interviews of the ColumbiaSRI Colorado Corpus of deceptive speech. In general, judges performed very poorly at the task, scoring on average worse than chance. We use these results to contextualize 'current best' machine learning performance on this corpus. In addition, we report strong findings that suggest that certain personality factors influence the ability of a judge to detect deception in speech.

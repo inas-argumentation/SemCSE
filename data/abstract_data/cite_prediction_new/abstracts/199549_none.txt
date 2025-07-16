@@ -1,0 +1,2 @@
+Multimodal person tracking and attention classification
+The problems of human detection, tracking, and attention recognition can be solved more effectively by integrating multiple sensory modalities, such as vision and range data. We present a system that uses a laser range scanner and a single camera to detect and track people, and to classify their attention relative to a socially interactive robot.

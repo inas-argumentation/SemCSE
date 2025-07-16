@@ -1,0 +1,19 @@
+Additional value of anaerobic threshold in a general mortality prediction model in a urban patient cohort with Chagas cardiomyopathy.
+BACKGROUND
+Anaerobic threshold (AT) is recognized as objective and direct measurement that reflects variations in metabolism of skeletal muscles during exercise. Its prognostic value in heart diseases of non-chagasic etiology is well established. However, the assessment of risk of death in Chagas heart disease is relatively well established by Rassi score. But, the added value that AT can bring to Rassi score has not been studied yet.
+
+
+OBJECTIVES
+To assess whether AT presents additional effect to Rassi score in patients with chronic Chagas' heart disease.
+
+
+METHODS
+Prospective research of dynamic cohort by review of 150 medical records of patients. Were selected for cohort 45 medical records of patients who underwent cardiopulmonary exercise testing between 1996-1997 and followed until September 2015. Data analysis to detect association between studied variables can be seen using a logistic regression model. The suitability of the models was verified using ROC curves and the coefficient of determination R2.
+
+
+RESULTS
+8 patients (17.78%) died by September 2015, with 7 of them (87.5%) from cardiovascular causes, of which 4 (57.14%) were considered on high risk by Rassi score. With Rassi score as independent variable, and death being the outcome, we obtained an area under the curve (AUC)=0.711, with R2=0.214. Instituting AT as independent variable, we found AUC=0.706, with R2=0.078. When we define Rassi score and AT as independent variables, it was obtained AUC=0.800 and R2=0.263.
+
+
+CONCLUSION
+when AT is included in logistic regression, it increases by 5% the explanation (R2) to the death estimation.

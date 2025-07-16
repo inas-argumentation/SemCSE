@@ -1,0 +1,2 @@
+Pipelined Range Reduction for Floating Point Numbers
+This paper presents a new pipelined architecture to deal with range reduction for floating point representation. It is based on Horner's scheme and a look-up table. The overall design has been optimized for a module equal to 2π, which is the most widely used due to trigonometric functions requirements. To ensure an accuracy of one unit in the last place (ULP), a complete error propagation study has been carried out.

@@ -1,0 +1,15 @@
+[Implementation of a community tele-epidemiological surveillance system using information and communication technologies in Paraguay].
+OBJECTIVE
+Report preliminary results of the application of the BONIS system in community tele-epidemiological surveillance in Paraguay.
+
+
+METHODS
+A study of viability and implementation carried out in the Family Health Unit located in Bañado Sur in the city of Asunción by the Paraguay River. The system automatically records personal data and symptoms of individuals who make telephone reports, and suspected cases of dengue are classified and prioritized. This information goes to community agents for follow-up and to specialists in charge of epidemiological surveillance.
+
+
+RESULTS
+From April 2010 to August 2011, 1 028 calls to the system were logged. Of 157 reported cases of fever, home visits were made to 140 (89.2%); of these, fever and headache or body ache were confirmed in 52 (37.1%) cases, and headache or body ache without fever in 58 (41.4%) cases. Community agents referred 49 (35.0%) of them for medical consultation and blood tests, and they took blood samples in the homes of 19; of these, 56 (82.3%) were positive for dengue and 12 (17.4%) for influenza.
+
+
+CONCLUSIONS
+Paraguay has a low-cost community tele-epidemiological surveillance system based on information and communication technologies and open-source software, which is scalable to other health symptoms and disorders of interest. To enable its acceptance and application, education programs should be developed to strengthen the management and promotion of community health.

@@ -1,0 +1,2 @@
+Scale-Free Property for Degrees and Weights in a Preferential Attachment Random Graph Model
+A random graph evolution mechanism is defined. The evolution studied is a combination of the preferential attachment model and the interaction of four vertices. The asymptotic behaviour of the graph is described. It is proved that the graph exhibits a power law degree distribution; in other words, it is scale-free. It turns out that any exponent in can be achieved. The proofs are based on martingale methods.

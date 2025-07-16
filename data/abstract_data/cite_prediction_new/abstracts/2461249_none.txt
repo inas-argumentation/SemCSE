@@ -1,0 +1,2 @@
+Fast algorithms for computing isogenies between elliptic curves
+We survey algorithms for computing isogenies between elliptic curves defined over a field of characteristic either 0 or a large prime. We introduce a new algorithm that computes an isogeny of degree l (l different from the characteristic) in time quasi-linear with respect to l. This is based in particular on fast algorithms for power series expansion of the Weierstrass ℘-function and related functions.

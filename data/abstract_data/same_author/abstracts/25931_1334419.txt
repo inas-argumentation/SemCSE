@@ -1,0 +1,2 @@
+CASTRO: A NEW COMPRESSIBLE ASTROPHYSICAL SOLVER. I. HYDRODYNAMICS AND SELF-GRAVITY
+We present a new code, CASTRO, that solves the multicomponent compressible hydrodynamic equations for astrophysical flows including self-gravity, nuclear reactions, and radiation. CASTRO uses an Eulerian grid and incorporates adaptive mesh refinement (AMR). Our approach to AMR uses a nested hierarchy of logically rectangular grids with simultaneous refinement in both space and time. The radiation component of CASTRO will be described in detail in the next paper, Part II, of this series.

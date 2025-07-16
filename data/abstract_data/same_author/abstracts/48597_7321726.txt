@@ -1,0 +1,2 @@
+A gateway-assisted approach toward QoS adaptations
+We present a gateway-assisted QoS adaptation framework which satisfies high-level QoS application guarantees. We validate this framework via a distributed tracking system and show provisioning of critical QoS guarantees despite the best effort underlying resource management.

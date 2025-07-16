@@ -1,0 +1,2 @@
+Vision-based technique for periodical defect detection in hot steel strips
+This document presents a technique to detect a particularly serious problem: periodical defects. Periodical defects can cause serious damage to steel strips, and so should be corrected as quickly as possible. The technique proposed, which is based on information provided by an artificial vision system, reports on periodical defects detected in one strip before starting to roll the next.

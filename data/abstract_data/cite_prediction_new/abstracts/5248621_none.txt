@@ -1,0 +1,2 @@
+Local transverse feedback linearization for nested sets
+We study a local feedback equivalence problem for a nonlinear control-affine system with two nested, controlled invariant, embedded submanifolds in its state space. The main result of this paper gives necessary and sufficient conditions for (i) the dynamics of the system transversal to the larger submanifold to be linear and controllable and (ii) the system dynamics, restricted to the larger submanifold, and transversal to the smaller submanifold to also be linear and controllable.

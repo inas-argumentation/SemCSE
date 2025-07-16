@@ -1,0 +1,2 @@
+Generic computability, Turing degrees, and asymptotic density
+Generic decidability has been extensively studied in group theory, and we now study it in the context of classical computability theory. A set A of natural numbers is called generically computable if there is a partial computable function that agrees with the characteristic function of A on its domain D, and furthermore D has density 1, that is, lim n→∞ |{k

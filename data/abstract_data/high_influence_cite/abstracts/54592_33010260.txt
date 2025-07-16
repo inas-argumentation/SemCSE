@@ -1,0 +1,2 @@
+Testing a simple polygon for monotonicity optimally in parallel
+The authors show that, in parallel, an n-vertex simple polygon can be tested for monotonicity optimally in O(logn) time using O(n/logn) EREW PRAM processors, and present two different optimal parallel algorithms for solving this problem. Their result leads to an optimal parallel algorithm for triangulating monotone polygons that takes O(logn) time using O(n/logn) EREW PRAM processors.<<ETX>>

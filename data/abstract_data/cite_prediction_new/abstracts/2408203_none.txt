@@ -1,0 +1,2 @@
+A Hybrid Particle Swarm Algorithm for Nonlinear Parameter Estimation
+A hybrid particle swarm optimization algorithm for solving non-linear parameter estimation is proposed, which is based on genetic algorithm. And can increase the diversity of population and make the particles have a definite evolution direction when they are renewed. This improved approach has been tested on some problems commonly used in this paper. The results show that the proposed approach is an efficient and can reach a higher precision.

@@ -1,0 +1,2 @@
+Advection Dominated Flows Around Black Holes in Two Dimensions
+We show the results of two-dimensional, azimuthally symmetricsimulations of advection dominated fluid flows around black holes. Weuse the SPH method, and the α-prescription for the viscosity,including all terms in the stress tensor. We have performedcalculations with 0.001 < α < 0.2 and find strong circulationpatterns in the flow, on spatial scales that depend on the magnitudeof the viscosity.

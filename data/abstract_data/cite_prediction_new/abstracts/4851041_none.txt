@@ -1,0 +1,2 @@
+Study on Cable Based Parallel Manipulator Systems for Subsea Applications
+In this study, ship position optimization is conducted on a redundant cable-driven parallel manipulator (CPM) operating inside deep sea. The workspace of the manipulator is analysed and ship position optimization has been performed to maximize the workspace and stiffness of the manipulator. The optimization is demonstrated with eight and ten ships CPMs. The workspace and stiffness of the manipulator is improved with more number of cables in a CPM.

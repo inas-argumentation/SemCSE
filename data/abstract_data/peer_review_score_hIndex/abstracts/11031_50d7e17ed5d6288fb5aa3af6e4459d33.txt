@@ -1,0 +1,4 @@
+Near-Optimal Lower Bounds For Convex Optimization For All Orders of Smoothness
+We study the complexity of optimizing highly smooth convex functions. For a positive integer $p$, we want to find an $\epsilon$-approximate minimum of a convex function $f$, given oracle access to the function and its first $p$ derivatives, assuming that the $p$th derivative of $f$ is Lipschitz.
+ 
+Recently, three independent research groups (Jiang et al., PLMR 2019; Gasnikov et al., PLMR 2019; Bubeck et al., PLMR 2019) developed a new algorithm that solves this problem with $\widetilde{O}\left(1/\epsilon^{\frac{2}{3p+1}}\right)$ oracle calls for constant $p$. This is known to be optimal (up to log factors) for deterministic algorithms, but known lower bounds for randomized algorithms do not match this bound. We prove a new lower bound that matches this bound (up to log factors), and holds not only for randomized algorithms, but also for quantum algorithms.

@@ -1,0 +1,2 @@
+Fuzzy Feature Correlation based Clustering Algorithm
+With reference to a clustering algorithm based on Kullback-Leibler divergence,a new algorithm using fuzzy theory is proposed to improve performance,which is reduced by the original one due to information lost.Comparison is made by an application system-AGENT designed by the author.

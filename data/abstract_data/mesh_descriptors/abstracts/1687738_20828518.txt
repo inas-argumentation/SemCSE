@@ -1,0 +1,15 @@
+Evaluation of software for registration of contrast-enhanced brain MR images in patients with glioblastoma multiforme.
+OBJECTIVE
+We evaluated commercially available software that rapidly and automatically registers brain MR images on a clinical workstation, and we studied the accuracy of these registrations.
+
+
+SUBJECTS AND METHODS
+Ten patients with a diagnosis of glioblastoma multiforme underwent contrast-enhanced inversion recovery prepared three-dimensional (3D) volumetric spoiled gradient-recalled acquisition in the steady state (SPGR) MR imaging (contiguous 1.5-mm slice thickness, 96-104 slices). After this imaging sequence, each patient was brought out of the head coil into a sitting position and then repositioned in the coil. The inversion recovery prepared 3D SPGR sequence was then repeated. A commercially available software program operating on a clinical workstation was used to automatically register the second inversion recovery prepared SPGR series to the first. The speed of registration was recorded. The accuracy of each registration was estimated by recording the coordinates of eight anatomic landmarks on the registered and reference series and by calculating the mean error among matching landmarks.
+
+
+RESULTS
+In nine of 10 patients, the registration software produced a visually satisfactory registration. In one patient, a second registration was necessary to produce a satisfactory registration. The processing time for each iteration was 48.3 +/- 3.8 sec (mean +/- SD). The mean error in aligning matching anatomic landmarks ranged from 0.67 to 1.41 mm, with an overall mean of 1.18 mm. The largest error among matching landmarks was 2.3 mm.
+
+
+CONCLUSION
+Commercially available registration software can automatically register 3D imaging volumes in less than 1 min. The mean error in registration was approximately equivalent to the dimensions of a single voxel.

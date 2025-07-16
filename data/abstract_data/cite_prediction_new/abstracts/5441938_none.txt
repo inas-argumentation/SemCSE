@@ -1,0 +1,2 @@
+Gait Generation for a Hopping Robot Via Iterative Learning Control Based on Variational Symmetry
+This paper proposes a novel framework to generate optimal gait trajectories for a one-legged hopping robot via iterative learning control. This method generates gait trajectories which are solutions of a class of optimal control problems without using precise knowledge of the plant model. It is expected to produce natural gait movements such as that of a passive walker. Some numerical examples demonstrate the effectiveness of the proposed method.

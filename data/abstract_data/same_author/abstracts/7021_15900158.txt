@@ -1,0 +1,2 @@
+The stability of the O invariant fixed point in three dimensions
+We study the stability of the O(N) fixed point in three dimensions under perturbations of the cubic type. We address this problem in the three cases N = 2,3,4 by using finite-size scaling techniques and high-precision Monte Carlo simulations. It is well known that there is a critical value below which the O(N) fixed point is stable and above which the cubic fixed point becomes the stable one. Whilst we cannot exclude that , as recently claimed, our analysis strongly suggests that coincides with 3.

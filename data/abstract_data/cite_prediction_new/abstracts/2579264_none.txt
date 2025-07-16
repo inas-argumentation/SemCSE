@@ -1,0 +1,2 @@
+Research on improved algorithm of DTW in speech recognition
+The realization of the Dynamic Time Warping is simple and effectively, it obtained the widespread application in the isolate-word speech recognition system. But the traditional DTW algorithm depends much on the accuracy of endpoint detection. In order to reduce the influence and some improved algorithms are put forward, such as the improved endpoint detection, the slacked of start-point and end-point and so on. The rationalization of the proposed algorithms is validated through simulation.

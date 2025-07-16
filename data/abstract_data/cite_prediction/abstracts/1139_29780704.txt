@@ -1,0 +1,2 @@
+Design of UWB filter -antenna with notched band at 5.8GHz
+In this paper, an UWB integrated filter-antenna system with notched band at 5.8 GHz has been presented. The design of the proposed integrated filter-antenna is based on cascading an UWB notched filter with an UWB antenna. The two parts of the system have already been matched to each others. The antenna-filter has a small size (68 × 27mm2). The system bandwidth meets the UWB requirements.

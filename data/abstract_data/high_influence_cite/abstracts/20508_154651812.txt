@@ -1,0 +1,2 @@
+Fixed effects maximum likelihood estimation of a flexibly parametric proportional hazard model with an application to job exits
+We extend the fixed effects maximum likelihood estimator to a proportional hazard model with a flexibly parametric baseline hazard. We use the method to estimate a job duration model for young men, and show that failure to account for unobserved fixed effects causes negative schooling and union effects to be downward biased.

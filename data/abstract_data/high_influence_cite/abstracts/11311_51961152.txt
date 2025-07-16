@@ -1,0 +1,22 @@
+A discrete wavelet spectrum approach for identifying non-monotonic trends in hydroclimate data
+. The hydroclimatic process is changing non-monotonically and
+identifying its trends is a great challenge. Building on the discrete
+wavelet transform theory, we developed a discrete wavelet spectrum (DWS)
+approach for identifying non-monotonic trends in hydroclimate time
+series and evaluating their statistical significance. After validating the
+DWS approach using two typical synthetic time series, we examined annual
+temperature and potential evaporation over China from 1961–2013 and found
+that the DWS approach detected both the “warming” and the “warming
+hiatus” in temperature, and the reversed changes in potential evaporation.
+Further, the identified non-monotonic trends showed stable
+significance when the time series was longer than 30 years or so (i.e. the
+widely defined “climate” timescale). The significance of trends in
+potential evaporation measured at 150 stations in China, with an obvious
+non-monotonic trend, was underestimated and was not detected by the
+Mann–Kendall test. Comparatively, the DWS approach overcame the problem and
+detected those significant non-monotonic trends at 380 stations, which helped
+understand and interpret the spatiotemporal variability in the hydroclimatic
+process. Our results suggest that non-monotonic trends of
+hydroclimate time series and their significance should be carefully
+identified, and the DWS approach proposed has the potential for wide use in
+the hydrological and climate sciences.

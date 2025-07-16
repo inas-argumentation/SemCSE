@@ -1,0 +1,2 @@
+Worst case to Average case reductions for subclasses of P
+For every polynomial q, we present (almost linear time) worst case to average case reductions for a class of problems in \mathcal P\ that are widely conjectured not to be solvable in time q. These classes contain, for example, the problems of counting the number of t cliques in a graph, for any fixed (t\ge 3\

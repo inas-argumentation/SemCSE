@@ -1,0 +1,2 @@
+An Efficient Reduction from Constrained to Unconstrained Maximum Agreement Subtree
+We propose and study the Maximum Constrained Agreement Subtree (MCAST) problem, which is a variant of the classical Maximum Agreement Subtree (MAST) problem. Our problem allows users to apply their domain knowledge to control the construction of the agreement subtrees in order to get better results. We show that the MCAST problem can be reduced to the MAST problem efficiently and thus we have algorithms for MCAST with running times matching the fastest known algorithms for MAST.

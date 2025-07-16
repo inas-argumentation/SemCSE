@@ -1,0 +1,2 @@
+On strong 1-factors and Hamilton weights of cubic graphs
+A 1-factor M of a cubic graph G is strong if |M∩T|=1 for each 3-edge-cut T of G . It is proved in this paper that a cubic graph G has precisely three strong 1-factors if and only if the graph can be obtained from K 4 via a series of △↔Y operations. Consequently, the graph G admits a Hamilton weight and is uniquely edge-3-colorable.

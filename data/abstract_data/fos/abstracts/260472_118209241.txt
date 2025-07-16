@@ -1,0 +1,2 @@
+Geometrization of continuous characters of $\mathbb{Z}_p^\times$
+We define the $p$-adic trace of certain rank-one local systems on the multiplicative group over $p$-adic numbers, using Sekiguchi and Suwa's unification of Kummer and Artin-Schrier-Witt theories. Our main observation is that, for every non-negative integer $n$, the $p$-adic trace defines an isomorphism of abelian groups between local systems whose order divides $(p-1)p^n$ and $\ell$-adic characters of the multiplicative group of $p$-adic integers of depth less than or equal to $n$.

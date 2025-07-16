@@ -1,0 +1,2 @@
+Elastic/Viscoplastic Constitutive Model for Fiber Reinforced Thermoplastic Composites
+A constitutive model to describe the elastic/viscoplastic behavior of fiber-reinforced thermoplastic composites under plane stress conditions is presented. Formulations are given for quasi-static plasticity and time-dependent viscoplasticity. Experimental procedures required to generate the necessary material constants are explained, and the experimental data is compared to the predicted behavior.

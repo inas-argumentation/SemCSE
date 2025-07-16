@@ -1,0 +1,2 @@
+Compact modeling of carrier trapping for accurate prediction of frequency dependent circuit operation
+We have investigated the influence of carrier traps on device characteristics in TFTs. In particular, our focus was given on transient characteristics influenced by carrier trapping during device operations. A compact model for circuit simulation of TFTs has been developed by considering the time constant of the trapping. The model was verified with measured frequency dependent TFT characteristics.

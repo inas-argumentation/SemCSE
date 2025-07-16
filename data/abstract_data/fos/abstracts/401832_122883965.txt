@@ -1,0 +1,2 @@
+Computer simulation of the structural phase transitions in ferroelectrics of barium titanate type
+A molecular-dynamic model of an ABO3 crystal with a perovskite-type structure has been developed, which implements dense packing of soft ions. A large number of different crystalline modifications, including polar ones, can be obtained within this model by insignificant variation in the radii of AandB ions. The model can be used to describe the structural phase transitions occurring with a change in temperature.

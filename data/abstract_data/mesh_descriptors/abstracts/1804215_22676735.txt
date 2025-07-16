@@ -1,0 +1,19 @@
+Identification and segmentation of obscure pectoral muscle in mediolateral oblique mammograms.
+OBJECTIVE
+X-ray mammography is a widely used and reliable method for detecting pre-symptomatic breast cancer. One of the difficulties in automatically computerized mammogram analysis is the presence of pectoral muscles in mediolateral oblique mammograms because the pectoral muscle does not belong to the scope of the breast. The objective of this study is to identify the boundary of obscure pectoral muscle in mediolateral oblique mammograms.
+
+
+METHODS
+Two tentative boundary curves are individually created to be the potential boundaries. To find the first tentative boundary, this study finds local extrema, prunes weak extrema and then determines an appropriate threshold for identifying the brighter tissue, whose edge is considered the first tentative boundary. The second tentative boundary is found by partitioning the breast into several regions, where each local threshold is tuned based on the local intensity. Subsequently, both of these tentative boundaries are used as the reference to create a refined boundary by Hough transform. Then, the refined boundary is partitioned into quadrilateral regions, in which the edge of this boundary is detected. Finally, these reliable edge points are collected to generate the genuine boundary by curve fitting.
+
+
+RESULTS
+The proposed method achieves the least mean square error 4.88 ± 2.47 (mean ± standard deviation) and the least misclassification error rate (MER) with 0.00466 ± 0.00191 in terms of MER.
+
+
+CONCLUSION
+The experimental results indicate that this method performs best and stably in boundary identification of the pectoral muscle.
+
+
+ADVANCES IN KNOWLEDGE
+The proposed method can identify the boundary from obscure pectoral muscle, which has not been solved by the previous studies.

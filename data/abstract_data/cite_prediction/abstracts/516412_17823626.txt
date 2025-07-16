@@ -1,0 +1,2 @@
+Generating Synthetic Data for Text Recognition
+Generating synthetic images is an art which emulates the natural process of image generation in a closest possible manner. In this work, we exploit such a framework for data generation in handwritten domain. We render synthetic data using open source fonts and incorporate data augmentation schemes. As part of this work, we release 9M synthetic handwritten word image corpus which could be useful for training deep network architectures and advancing the performance in handwritten word spotting and recognition tasks.

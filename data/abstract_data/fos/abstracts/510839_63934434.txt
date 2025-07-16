@@ -1,0 +1,2 @@
+The Front and Rear Pointer Design of Circular Queue
+This paper studied Circular Queue this basic data structure, discussed the influence of four settings of the front and rear pointer on EnQueue and DeQueue algorithm pointed out the key problem of writing simple algorithm is the setting of the initial value of the front and rear pointer, summarized the initial value setting and EnQueue and DeQueue algorithms of four types of front and rear pointer setting.

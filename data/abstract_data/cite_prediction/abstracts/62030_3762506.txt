@@ -1,0 +1,15 @@
+Evaluation of the informatician perspective: determining types of research papers preferred by clinicians
+BACKGROUND
+To deliver evidence-based medicine, clinicians often reference resources that are useful to their respective medical practices. Owing to their busy schedules, however, clinicians typically find it challenging to locate these relevant resources out of the rapidly growing number of journals and articles currently being published. The literature-recommender system may provide a possible solution to this issue if the individual needs of clinicians can be identified and applied.
+
+
+METHODS
+We thus collected from the CiteULike website a sample of 96 clinicians and 6,221 scientific articles that they read. We examined the journal distributions, publication types, reading times, and geographic locations. We then compared the distributions of MeSH terms associated with these articles with those of randomly sampled MEDLINE articles using two-sample Z-test and multiple comparison correction, in order to identify the important topics relevant to clinicians.
+
+
+RESULTS
+We determined that the sampled clinicians followed the latest literature in a timely manner and read papers that are considered landmarks in medical research history. They preferred to read scientific discoveries from human experiments instead of molecular-, cellular- or animal-model-based experiments. Furthermore, the country of publication may impact reading preferences, particularly for clinicians from Egypt, India, Norway, Senegal, and South Africa.
+
+
+CONCLUSION
+These findings provide useful guidance for developing personalized literature-recommender systems for clinicians.

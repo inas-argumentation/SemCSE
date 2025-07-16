@@ -1,0 +1,30 @@
+Lagrangian frequency spectra of vertical velocity and vorticity in high-Reynolds-number oceanic turbulence
+Lagrangian properties of oceanic turbulent boundary layers were
+ measured using neutrally buoyant floats. Vertical acceleration was computed from pressure
+ (depth) measured on the floats. An average vertical vorticity was computed from
+ the spin rate of the float. Forms for the Lagrangian frequency spectra of acceleration,
+ ϕ a (ω), and the Lagrangian frequency spectrum of average vorticity are found using
+ dimension analysis. The flow is characterized by a kinetic energy dissipation
+ rate, e, and a large-eddy frequency, ω 0 . The float is characterized by its size. The proposed non-dimensionalization accurately collapses the observed spectra into a
+ common form. The spectra differ from those expected for perfect Lagrangian measurements
+ over a substantial part of the measured frequency range owing to the finite
+ size of the float. Exact theoretical forms for the Lagrangian frequency spectra are
+ derived from the corresponding Eulerian wavenumber spectra and a wavenumber–frequency
+ distribution function used in previous numerical simulations of turbulence.
+ The effect of finite float size is modelled as a spatial average. The observed non-dimensional
+ acceleration and vorticity spectra agree with these theoretical predictions,
+ except for the high-frequency part of the vorticity spectrum, where the details of the
+ float behaviour are important, but inaccurately modelled. A correction to the exact Lagrangian
+ acceleration spectra due to measurement by a finite-sized float is thus
+ obtained. With this correction, a frequency range extending from approximately one decade
+ below ω 0 to approximately one decade into the inertial subrange
+ can be resolved by the data. Overall, the data are consistent with the proposed transformation
+ from the Eulerian wavenumber spectrum to the Lagrangian frequency spectrum. Two
+ parameters, e and ω 0 , are sufficient to describe Lagrangian spectra from
+ several different oceanic turbulent flows. The Lagrangian Kolmogorov constant for acceleration,
+ β a ≡ϕ a /e,
+ has a value between 1 and 2 in a convectively driven boundary layer. The analysis
+ suggests a Lagrangian frequency spectrum for vorticity that is white at all frequencies
+ in the inertial subrange and below, and a Lagrangian frequency spectrum for energy
+ that is white below the large-eddy scale and has a slope of −2 in the inertial
+ subrange.

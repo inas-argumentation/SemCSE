@@ -1,0 +1,15 @@
+[Study on factors influencing DNA sequencing by automatic genetic analyzer].
+OBJECTIVE
+To acquire accurate and successful DNA sequencing in a cost-effective way by ABI3500xl automatic genetic analyzer.
+
+
+METHODS
+BigDye was diluted to 8, 16 and 32 times in PCR product sequencing. Three different methods including CENTRI-SEP kit, BigDye cleaning beads and ethanol-NaAc-EDTA were used to purify the sequencing PCR products.
+
+
+RESULTS
+The results of DNA sequencing were correct when BigDye was diluted up to 16 times. The misreading of nucleic acid bases was found as BigDye was diluted to 32 times. All three purification methods provided acceptable DNA sequencing results. In terms of method for purification of PCR products, the CENTRI-SEP Kit was the most expensive but time-saving (0.5 h), while ethanol-NaAc-EDTA method was the most economical but time-consuming (2 h). The BigDye cleaning beads method was of a suitable purification time (1 h) but not fit for high-throughput DNA sequencing.
+
+
+CONCLUSION
+BigDye should be diluted up to 16 times in DNA sequencing by ABI3500xl DNA analyzer. Although all three purification methods may promise DNA sequencing results with good quality, it is necessary to choose an appropriate one to keep the balance between time and cost on the basis of the lab condition.

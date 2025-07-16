@@ -1,0 +1,2 @@
+A new method for varying adaptive bandwidth selection
+A novel approach is developed to solve a problem of varying bandwidth selection for filtering a signal given with an additive noise. The approach is based on the intersection of confidence intervals (ICI) rule and gives the algorithm, which is simple to implement and adaptive to unknown smoothness of the signal.

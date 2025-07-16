@@ -1,0 +1,2 @@
+Investigation of multiple output operation for switched‐capacitor resonant converters
+A family of switched‐capacitor circuits using two transistors is presented. This family only requires very small inductor for resonance and therefore is suitable for hybridization. It has variable topologies which provide different voltage conversion ratios. Each of the topologies can be merged to produce multiple outputs. This paper investigates the feasibility of this circuit merger technique. Experimental and theoretical analyses are presented. Copyright © 2002 John Wiley & Sons, Ltd.

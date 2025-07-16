@@ -1,0 +1,6 @@
+Flocks of Infinite Hyperbolic Quadrics
+AbstractLet K be a field containing a nonsquare γ and 
+$$F = K\left( {\sqrt \gamma } \right)$$
+a quadratic extension. Let σ denote the unique involutory automorphism of F fixing K pointwise. For every field K such that the nonzero squares of K do not form an index 1 or 2 subgroup of 
+$$\left( {K\left( {\sqrt \gamma } \right)^* } \right)^{\sigma + 1} = K^ - $$
+, a construction is given which produces large numbers of infinite nearfield and non nearfield flocks of an infinite hyperbolic quadric in PG(3,K).

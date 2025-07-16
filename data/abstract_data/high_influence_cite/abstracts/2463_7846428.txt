@@ -1,0 +1,19 @@
+Determinants of life expectancy in the Eastern Mediterranean Region.
+BACKGROUND
+Although the Eastern Mediterranean Region (EMR) healthcare sector has been expanding rapidly, many differences exist across socioeconomic status, clinical practice standards and healthcare systems.
+
+
+OBJECTIVE
+Predict production functions of health by measuring socioeconomic and expenditure factors that impact life expectancy in the EMR.
+
+
+METHODS
+Data from the World Health Organization (WHO) Global Health Observatory and the World Bank were used for this cross-sectional, time-series study spanning 21 nations in the EMR from 1995 to 2010. The primary outcome was life expectancy at birth. Covariates of interest included sociodemographic and health indicators. To both establish and validate appropriate categorization of countries, a cluster analysis was undertaken to group cases by taking selected characteristics into account. A variance-component, multilevel mixed-effects linear model was employed that incorporated a finite, Almon, distributed lag of 5 years and bootstrapping with 5000 simulations to model the production function of life expectancy.
+
+
+RESULTS
+Results of the cluster analysis found four groupings. Clusters 1 and 2, composed of six total countries, generally represented non-industrialized/least developed countries. Clusters 3 and 4, totalling 15 nations, captured more industrialized nations. Overall, gross domestic product (GDP) (P = 0.011), vaccination averages (P = 0.026) and urbanization (P = 0.026), were significant positive predictors of life expectancy. No significant predictors existed for Cluster 1 countries. Among Cluster 2 nations, physician density (P = 0.014) and vaccination averages (P = 0.044) were significant positive predictors. GDP (P = 0.037) and literacy (P = 0.014) were positive significant predictors among Cluster 3 nations. GDP (P = 0.002), health expenditures (P = 0.002) and vaccination averages (P = 0.014) were positive significant predictors in Cluster 4 countries.
+
+
+CONCLUSION
+Predictors of life expectancy differed between non-industrialized and industrialized nations, with the exception of vaccination averages. Non-industrialized/least developed nations were associated with adjusted life expectancies of >14% lower than their industrialized peers. Continued work to address differences in the quality of and access to care in the EMR is required.

@@ -1,0 +1,2 @@
+The Euclidean Algorithm and the Linear Diophantine Equation ax + by = gcd(a, b)
+In this note, we prove that for any positive integers a and b, with d = gcd(a, b), among all integral solutions to the equation ax + by = d, the solution (x0, y0) that is provided by the Euclidean algorithm lies nearest to the origin. In fact, we prove that (x0, y0) lies in the interior of the circle centered at the origin with radius .

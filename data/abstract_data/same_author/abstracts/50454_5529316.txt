@@ -1,0 +1,2 @@
+Mixture models for dynamic statistical pressure snakes
+This paper introduces a new approach to statistical pressure snakes. It uses statistical modeling for both object and background to obtain a more robust pressure model. The Expectation Maximization (EM) algorithm is used to model the data into a Mixture of Gaussians (MoG). Bayesian theory is then employed as a decision making mechanism. Experimental results using the traditional pressure model and the new mixture pressure model demonstrate the effectiveness of the new models.

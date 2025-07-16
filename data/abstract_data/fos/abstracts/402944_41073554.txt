@@ -1,0 +1,19 @@
+Copayments and physicians visits: A panel data study of Swedish regions 2003-2012.
+OBJECTIVE
+This paper analyzes how primary care physician visits are affected by the level of copayment in Sweden.
+
+
+DATA SOURCE
+We use data between the years 2003-2012 from 21 Swedish health care regions that have the mandate to set their own level of copayment. The copayment per visit varies between €10 and €20 for these years and regions.
+
+
+STUDY DESIGN
+Our strategy to identify the causal effect and deal with unobserved endogeneity of price changes on physician visits is based on a panel data model using fixed effects to control for region and time and regional-variation in time trends.
+
+
+PRINCIPAL FINDING
+We cannot reject that the copayment has no statistical or economic effect of significance, and we estimate the "zero effect" with very high precision.
+
+
+CONCLUSION
+In a setting with sub-national regions with autonomy to set co-payments the results points to that the copayment is not an important predictor for the number of health care visits. The result is in line with some previous studies on European data where the range of copayments used tends to be relatively low.

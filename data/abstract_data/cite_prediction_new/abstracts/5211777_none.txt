@@ -1,0 +1,2 @@
+Recovering Orientation of a Textured Planar Surface Using Wavelet Transform
+Shape from texture has received a great deal of attention in the past few decades. This paper analyzes the spectral variations of texture spatial frequencies as a function of orientation and depth of a 3-D planar surface. Based on this relationship we attempt to derive an expression for the extraction of 3-D surface orientation using texture features alone. Using experimentation on simulated texture images, we illustrate the advantage of using 1-D wavelets for this purpose.

@@ -1,0 +1,15 @@
+What are the real rates of postoperative complications: elucidating inconsistencies between administrative and clinical data sources.
+BACKGROUND
+Comparison of quality outcomes generated from administrative and clinical datasets have shown inconsistencies. Understanding this is important because data designed to drive performance improvement are used for public reporting of performance. We examined administrative and clinical data and 2 clinical data sources in 4 surgical morbidity outcomes.
+
+
+STUDY DESIGN
+Patients who underwent operations between January 2009 and May 2010 had outcomes compared for postoperative hemorrhage, respiratory failure, deep vein thrombosis (DVT), and sepsis. Three data sources were examined: administrative (Agency for Healthcare Research and Quality [AHRQ] Patient Safety Indicators [PSIs]), a national clinical registry (National Surgical Quality Improvement Program [NSQIP]), and an institutional clinical registry (Cardiovascular Information Registry [CVIR]). Cohen's Kappa (K) coefficient was used as a measure of agreement between data sources.
+
+
+RESULTS
+For 4,583 patients common to AHRQ and NSQIP, concordance was poor for sepsis (K = 0.07) and hemorrhage (K = 0.14), moderate for respiratory failure (K = 0.30), and better concordance for DVT (K = 0.60). For 7,897 patients common to AHRQ and CVIR, concordance was poor for hemorrhage (K = 0.08), respiratory failure (K = 0.02), and sepsis (K = 0.16), and better for DVT (K = 0.55). For 886 patients common to NSQIP and CVIR, concordance was poor for sepsis (K = 0.054), moderate for hemorrhage (K = 0.27) and respiratory failure (K = 0.4), and better for DVT (K = 0.51).
+
+
+CONCLUSIONS
+We demonstrate considerable discordance between data sources measuring the same postoperative events. The main contributor was difference in definitions, with additional contribution from data collection and management methods. Although any of these sources can be used for their original intent of performance improvement, this study emphasizes the shortcomings of using these sources for grading performance without standardizing definitions, data collection, and management.

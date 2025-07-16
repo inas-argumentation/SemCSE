@@ -1,0 +1,15 @@
+SU-F-R-42: Association of Radiomic and Metabolic Tumor Volumes in Radiation Treatment of Glioblastoma Multiforme.
+PURPOSE
+High-throughput extraction of imaging and metabolomic quantitative features from MRI and MR Spectroscopy Imaging (MRSI) of Glioblastoma Multiforme (GBM) results in tens of variables per patient. In radiotherapy (RT) of GBM, the relevant metabolic tumor volumes (MTVs) are related to aberrant levels of N-acetyl Aspartate (NAA) and Choline (Cho). Corresponding Clinical Target Volumes (CTVs) for RT planning are based on Contrast Enhancing T1-weighted MRI (CE-T1w) and T2-weighted/Fluid Attenuated Inversion Recovery (FLAIR) MRI. The objective is to build a framework for investigation of associations between imaging, CTV, and MTV features better understanding of the underlying information in the CTVs and dependencies between these volumes.
+
+
+METHODS
+Necrotic portions, enhancing lesion and edema were manually contoured on T1w/T2w images for 17 GBM patients. CTVs and MTVs for NAA (MTVNAA ) and Cho (MTVCho ) were constructed. Tumors were scored categorically for ten semantic imaging traits by neuroradiologist. All features were investigated for redundancy. Two-way correlations between imaging and RT/MTV features were visualized as heat maps. Associations between MTVNAA , MTVCho and imaging features were studied using Spearman correlation.
+
+
+RESULTS
+39 imaging features were computed per patient. Half of the imaging traits were replaced with automatically extracted continuous variables. 21 features were extracted from MTVs/CTVs. There were a high number (43) of significant correlations of imaging with CTVs/MTVNAA while very few (10) significant correlations were with CTVs/MTVCho . MTVNAA was found to be closely associated with MRI volumes, MTVCho remains elusive for characterization with imaging.
+
+
+CONCLUSION
+A framework for investigation of co-dependency between MRI and RT/metabolic features is established. A series of semantic imaging traits were replaced with automatically extracted continuous variables. The approach will allow for exploration of relationships between sizes and intersection of imaging features of tumors, RT volumes, metabolite concentrations and comparing those to therapy outcome, quality of life evaluation and overall survival rate. This publication was supported by Grant 10BN03 from Bankhead Coley Cancer Research Program, R01EB000822, R01EB016064, and R01CA172210 from the National Institutes of Health, and Indo-US Science & Technology Forum award #20-2009. Bhaswati Roy received financial assistance from University Grant Commission, New Delhi, India.

@@ -1,0 +1,2 @@
+Oscillation theory for the density of states of high dimensional random operators
+Sturm-Liouville oscillation theory is studied for Jacobi operators with block entries given by covariant operators on an infinite dimensional Hilbert space. It is shown that the integrated density of states of the Jacobi operator is approximated by the winding of the Pruefer phase w.r.t. the trace per unit volume. This rotation number can be interpreted as a spectral flow in a von Neumann algebra with finite trace.

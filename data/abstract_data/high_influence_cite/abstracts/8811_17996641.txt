@@ -1,0 +1,2 @@
+As fast as sound lightweight formal scenario synthesis and verification
+Synthesis and Model Checking are classical techniques for relating scenarios (here, Live Sequence Charts) and state machines, in the context of roundtrip Scenario-based Software Engineering. Unfortunately, current approaches do not scale up very well. To improve on this, we propose to lose some precision as a trade-off to gain efficiency. Usual algorithms are turned into sound ones, which act locally on the specification and deliver results in acceptable time.

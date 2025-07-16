@@ -1,0 +1,2 @@
+Continuous Ramsey Theory on Polish Spaces and Covering the plane by Functions
+We investigate the Ramsey theory of continuous graph-structures on complete, separable metric spaces and apply the results to the problem of covering a plane by functions. Let the homogeneity number hm(c) of a pair-coloring c : (X) 2 ! 2 be the number of c-homogeneous subsets of X needed to cover X. We isolate two continuous pair-colorings on the Cantor space 2 ! , cmin and cmax, which satisfy hm(cmin) hm(cmax) and prove:

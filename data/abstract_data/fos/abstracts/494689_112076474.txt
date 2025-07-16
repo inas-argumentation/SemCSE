@@ -1,0 +1,2 @@
+The Study of Fuzzy Control for the Heat Treatment Electric-furnace
+This paper analyzes the properties of temperature control system of heat treatment electric furnace,showing that a normal controller does not meet the needs of high control accuracy.The electric furnace control model is established base on fuzzy control theory.The simulation shows that it is better than traditional PID controller.

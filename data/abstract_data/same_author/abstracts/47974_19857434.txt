@@ -1,0 +1,2 @@
+Increasing data TLB resilience to transient errors
+This paper first demonstrates that a large fraction of data TLB entries are dead (i.e., not used again before being replaced) for many applications at any given time during execution. Based on this observation, it then proposes two alternate schemes that replicate actively accessed data TLB entries in these dead entries to increase the resilience of the TLB against transient errors.

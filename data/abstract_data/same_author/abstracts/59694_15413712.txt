@@ -1,0 +1,2 @@
+Probabilistic methods in coloring and decomposition problems
+Numerous problems in graph theory and combinatorics can be formulated in terms of the existence of certain colorings of graphs or hypergraphs. Many of these problems can be solved or partially solved by applying probabilistic arguments. In this paper we discuss several examples that illustrate the methods used. This is mainly a survey paper, but it contains some new results as well.

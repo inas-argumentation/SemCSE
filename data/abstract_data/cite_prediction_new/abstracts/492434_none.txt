@@ -1,0 +1,2 @@
+Ground-truth localization using a sequential-update extended Kalman filter
+A ground-truth environment for mobile robot localization is developed. The sequential update extended Kalman filter is employed to fuse data from a Sick Nav200 laser positioning system and multiple onboard sensors to provide highly accurate robot pose estimation. Results are suitable for validation of mapping, localization and kino-dynamic modeling. Experimental work presented covers odometry calibration and system validation.

@@ -1,0 +1,2 @@
+Correlated noise unfolding on a hadronic calorimeter
+The correlated noise component of TileCal, the barrel hadronic calorimeter of the ATLAS experiment at the Large Hadron Collider, is studied and an algorithm is used to parametrize and unfold it from the response of the photomultipliers. It is shown that the correlated noise component can be significantly reduced and mostly removed not only for pedestal runs, but also in the presence of physics signals like minimum bias events in 900 GeV collisions and 7 TeV simulated top quark pair production events.

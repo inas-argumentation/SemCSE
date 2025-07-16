@@ -1,0 +1,2 @@
+A system for automatic Chinese seal imprint verification
+Chinese seal imprint verification by computer is very difficult, but is much needed by the application. An improved method for seal imprint verification based on stroke edge matching combined with image difference analysis is proposed. Experimental results show that the proposed approach is excellent in consistency, reliability and adaptability and is feasible for practical applications.

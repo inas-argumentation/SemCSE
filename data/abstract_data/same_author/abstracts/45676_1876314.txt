@@ -1,0 +1,2 @@
+A 2-Approximation Algorithm for Path Coloring on Trees of Rings
+A tree of rings is an undirected graph obtained from a tree by replacing each node of the tree with a cycle and then contracting the edges of the tree so that two cycles corresponding to the two end-nodes of any edge have precisely one node in common. Given a set of paths on a tree of rings, the routing problem is to color the paths with the smallest number of colors so that any two paths sharing an edge are assigned different colors. We present a 2-approximation algorithm in this paper.

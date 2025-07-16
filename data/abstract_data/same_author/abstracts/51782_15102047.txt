@@ -1,0 +1,2 @@
+Separation of random number generation and resolvability
+We consider the problem of determining when a given source can be used to approximate the output due to any input to a given channel. We provide achievability and converse results for a general source and channel. For the special case of a full-rank discrete memoryless channel we give a stronger converse result than we can give for a general channel.

@@ -1,0 +1,7 @@
+A genetic programming-based approach to the classification of multiclass microarray datasets
+MOTIVATION
+Feature selection approaches have been widely applied to deal with the small sample size problem in the analysis of micro-array datasets. For the multiclass problem, the proposed methods are based on the idea of selecting a gene subset to distinguish all classes. However, it will be more effective to solve a multiclass problem by splitting it into a set of two-class problems and solving each problem with a respective classification system.
+
+
+RESULTS
+We propose a genetic programming (GP)-based approach to analyze multiclass microarray datasets. Unlike the traditional GP, the individual proposed in this article consists of a set of small-scale ensembles, named as sub-ensemble (denoted by SE). Each SE consists of a set of trees. In application, a multiclass problem is divided into a set of two-class problems, each of which is tackled by a SE first. The SEs tackling the respective two-class problems are combined to construct a GP individual, so each individual can deal with a multiclass problem directly. Effective methods are proposed to solve the problems arising in the fusion of SEs, and a greedy algorithm is designed to keep high diversity in SEs. This GP is tested in five datasets. The results show that the proposed method effectively implements the feature selection and classification tasks.

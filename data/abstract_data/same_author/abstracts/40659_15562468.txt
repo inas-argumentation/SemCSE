@@ -1,0 +1,4 @@
+Low discrepancy sets yield approximate min-wise independent permutation families
+Motivated by a problem of filtering near-duplicate Web documents, Broder, Charikar, Frieze and Mitzenmacher defined the following notion of ϵ-approximate min-wise independent permutation families. A multiset F of permutations of {0,1,…,n−1} is such a family if for all K⫅{0,1,…,n−1} and any x∈K, a permutation π chosen uniformly at random from F satisfies 
+|Pr[min{π(K)}=π(x)]−1|K||≤ϵ|K|. 
+We show connections of such families with low discrepancy sets for geometric rectangles, and give explicit constructions of such families F of size nO(logn) for ϵ=1/nΘ(1), improving upon the previously best-known bound of Indyk. We also present polynomial-size constructions when the min-wise condition is required only for |K|≤2O(log2/3n), with ϵ≥2−O(log2/3n).

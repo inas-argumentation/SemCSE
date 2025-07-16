@@ -1,0 +1,2 @@
+Asymptotic behaviour of the four-norms of the polynomial reproducing kernel functions on the sphere
+Abstract. The reproducing kernel functions of the spherical polynomial spaces are defined by Gegenbauer-polynomials. Their four-norm is of interest in the construction of equally spaced points on the sphere, but also by their own. We investigate their asymptotic behaviour as the polynomial degree increases. The essential tool are the linearisation formulae of Rogers and Ramanujan. AMS 1991 Subject Classification Numbers: 33C35, 33C25.

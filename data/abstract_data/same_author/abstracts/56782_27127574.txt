@@ -1,0 +1,2 @@
+Operational Semantics for Positive Relevant Logics Without Distribution
+This paper investigates operational semantics for variouspositive relevant logics without distribution after the work of KitFine in Models for Entailment. To invalidate the law ofdistribution of conjunction over disjunction, we use differenttypes of states to model conjunction and disjunction, respectively.The implication → is interpreted by three operations ⊕ ,⊗ , ⊖, instead of one operation `·' as inFine's work.

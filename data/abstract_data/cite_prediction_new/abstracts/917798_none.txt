@@ -1,0 +1,2 @@
+Investigation on output driver with stacked devices for ESD design window engineering
+This work investigates the ESD robustness of stacked drivers in bulk and SOI technologies. The impact of stacked driver sizing and pre-driver connection is examined in detail using VF-TLP and TLP measurement. It is shown that proper pre-driver configuration can double Vt2, thereby improving I/O's It2.

@@ -1,0 +1,2 @@
+Reducing lattice bases to find small-height values of univariate polynomials
+This paper illustrates, improves, and unifies a variety of previous results on finding divisors in residue classes (Lenstra, Konyagin, Pomerance, Coppersmith, Howgrave-Graham, Nagaraj), divisors in short intervals (Rivest, Shamir, Coppersmith, Howgrave-Graham), modular roots (Hastad, Vallee, Girault, Toffin, Coppersmith, Howgrave-Graham), highpower divisors (Boneh, Durfee, Howgrave-Graham), and codeword errors beyond half distance (Sudan, Guruswami, Goldreich, Ron, Boneh).

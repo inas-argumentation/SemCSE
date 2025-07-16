@@ -1,0 +1,2 @@
+The common basis of the theories of linear cyclic methods and Runge-Kutta methods
+Abstract This contribution is a survey of results on general linear methods. Both classical theories, Dahlquist's theory of multistep methods as well as Butcher's theory of Runge-Kutta methods, are extended in such a way that a common notation and uniform concepts become possible. The distinction between linear and nonlinear methods for ODEs vanishes in favour of a common approach to different types of (composite) linear methods.

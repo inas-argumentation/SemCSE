@@ -1,0 +1,2 @@
+Absorbing Games with a Signalling Structure
+We consider a subclass of two-person zero-sum undiscounted stochastic games called absorbing games. The perfect monitoring assumption is removed. Instead of being informed of his opponent's previous action, each player is informed of a signal that randomly depends on both player's previous actions. The existence of the max min and similarly of the min max is established.

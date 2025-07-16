@@ -1,0 +1,2 @@
+A 23 nW CMOS ultra-low power temperature sensor operational from 0.2 V
+A proportional-to-absolute-temperature (PTAT) current element along with a current controlled oscillator (CCO) operational down to 0.2 V supply enables an ultra-low-power (ULP) temperature sensor. A bit-weighted current mirror (BWCM) architecture resists process-induced variation in the PTAT current. The power consumption is 23nW and the maximum inaccuracy is +1.5/-1.7°C from 0°C to 100°C with a 2-point calibration.

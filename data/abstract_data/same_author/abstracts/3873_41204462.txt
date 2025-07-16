@@ -1,0 +1,2 @@
+Differential trellis decoding of convolutional codes
+This paper investigates the principle of metric differences for trellis decoding of convolutional codes. Based on this differential method, a new algorithm, referred to as differential trellis decoding (DTD), is proposed. DTD offers an alternative to the conventional "add-compare-select" (ACS) method for implementing the Viterbi algorithm.

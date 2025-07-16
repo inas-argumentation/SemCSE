@@ -1,0 +1,23 @@
+Characterization and evaluation of AIRS-based estimates of the deuterium content of water vapor
+Abstract. Single-pixel tropospheric retrievals of HDO and H2O concentrations
+are retrieved from Atmospheric Infrared Sounder (AIRS) radiances using the
+optimal estimation algorithm developed for the Aura Tropospheric Emission
+Spectrometer (TES) project. We evaluate the error characteristics and
+vertical sensitivity of AIRS measurements corresponding to 5 d of TES data
+(or five global surveys) during the Northern Hemisphere summers between 2006
+and 2010 ( ∼600 co-located comparisons per day). We find that the
+retrieval characteristics of the AIRS deuterium content measurements have
+similar vertical resolution in the middle troposphere as TES but with
+slightly less sensitivity in the lowermost troposphere, with a typical
+degrees of freedom (DOFS) in the tropics of 1.5. The calculated measurement
+uncertainty is ∼30  ‰ (parts per
+thousand relative to the deuterium composition of ocean water) for a
+tropospheric average between 750 and 350 hPa, the altitude region where AIRS
+is most sensitive, compared to ∼15  ‰ for the TES data.
+Comparison with the TES data also indicates that the uncertainty of a single
+target AIRS HDO  ∕ H2O measurement is ∼30  ‰.
+Comparison of AIRS and TES data between 30 ∘  S and 50 ∘  N
+indicates that the AIRS data are biased low by ∼ - 2.6  ‰ with a
+latitudinal variation of ∼7.8  ‰. This latitudinal variation is
+consistent with the accuracy of TES data compared to in situ measurements,
+suggesting that both AIRS and TES have similar accuracy.

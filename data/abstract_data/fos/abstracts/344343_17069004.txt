@@ -1,0 +1,2 @@
+Presenting your structures: the CCP4mg molecular-graphics software
+The CCP4 molecular-graphics program now uses the Qt framework to provide a modern look and feel. There are many new features including rendering for publication-quality images and sequence alignment.

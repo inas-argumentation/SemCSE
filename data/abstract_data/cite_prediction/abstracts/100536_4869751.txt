@@ -1,0 +1,2 @@
+Optimization of a Parallel Shoulder Mechanism to Achieve a High-Force, Low-Mass, Robotic-Arm Exoskeleton
+This paper describes a robotic-arm exoskeleton that uses a parallel mechanism inspired by the human forearm to allow naturalistic shoulder movements. The mechanism can produce large forces through a substantial portion of the range of motion (RoM) of the human arm while remaining lightweight. This paper describes the optimization of the exoskeleton's torque capabilities by the modification of the key geometric design parameters.

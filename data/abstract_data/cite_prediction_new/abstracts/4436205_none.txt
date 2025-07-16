@@ -1,0 +1,4 @@
+Improving Efficiency of Finite Plans by Optimal Choice of Input Sets
+Finite plans proved to be an efficient method to steer complex control systems via feedback quantization. Such finite plans can be encoded by finite–length words constructed on suitable alphabets, thus permitting transmission on limited capacity channels. In particular flat systems can be steered computing arbitrarily close approximations of a desired equilibrium in polynomial time. 
+ 
+The paper investigates how the efficiency of planning is affected by the choice of inputs, and provides some results as to optimal performance in terms of accuracy and range. Efficiency is here measured in terms of computational complexity and description length (in number of bits) of finite plans.

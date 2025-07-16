@@ -1,0 +1,2 @@
+Data Analysis and Visualization within the M&#168;obius Modeling Environment
+The Mobius modeling environment is a multiple formalism, multiple-solver framework for discrete-event system analysis. The basis of the framework is an abstract functional interface that defines the interactions between modules. New formalism and solver modules continue to be added to the tool. This paper describes recent additions to Mobius that can loosely be characterized as providing a variety of result analysis and visualization techniques

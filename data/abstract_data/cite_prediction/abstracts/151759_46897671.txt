@@ -1,0 +1,2 @@
+Robust Model Predictive Control for Autonomous Vehicles/Self Driving Cars
+a = scaling factor used in weight tuning β = angle of the current velocity of the center of mass w.r.t. the longitudinal axis of the car lf = length from front wheels to center of mass lr = length from rear wheels to center of mass Ts = sampling time V = speed of the vehicle x = position along x-axis y = position along y-axis ψ = heading angle of the vehicle δf = steering angle of front wheel ‘ = rate change of variable

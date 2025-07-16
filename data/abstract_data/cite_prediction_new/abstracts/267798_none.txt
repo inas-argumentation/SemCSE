@@ -1,0 +1,2 @@
+Multiwavelength NRZ-to-RZ conversion with timing-jitter suppression
+We demonstrate a novel, polarization-insensitive scheme for multiwavelength NRZ-to-RZ conversion at 10 Gb/s rate with significant timing jitter suppression. It utilizes an electroabsorption-modulator based optoelectronic oscillator for high quality clock recovery.

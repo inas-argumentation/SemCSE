@@ -1,0 +1,2 @@
+Hourglasses and Hamilton cycles in 4-connected claw-free graphs
+We show that if G is a 4-connected claw-free graph in which every induced hourglass subgraph S contains two non-adjacent vertices with a common neighbor outside S, then G is hamiltonian. This extends the fact that 4-connected claw-free, hourglass-free graphs are hamiltonian, thus proving a broader special case of a conjecture by Matthews and Sumner. 2005 Wiley Periodicals, Inc. J Graph Theory 48: 267–276, 2005

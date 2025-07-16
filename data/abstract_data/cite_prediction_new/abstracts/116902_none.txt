@@ -1,0 +1,2 @@
+A compact threshold voltage model for the novel high-speed semiconductor device IMOS
+IMOS allows very sharp subthreshold slopes, down to a few mV/dec. A threshold voltage model is proposed in different distribution of surface electric field and in the condition of avalanche breakdown. Model verification is carried out using ISE. Good agreement is obtained between the model's calculations and the simulated results.

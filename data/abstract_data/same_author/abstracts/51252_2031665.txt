@@ -1,0 +1,2 @@
+Tiered Vectors: Efficient Dynamic Arrays for Rank-Based Sequences
+We describe a data structure, the tiered vector, which is an implementation of the Vector ADT that provides O(1-Ɛ) worst case time performance for rank-based retrieval and O(nƐ) amortized time peroformance for rank-based insertion and deletion, for any fixed Ɛ > 0. We also provide results from experiments involving the use of the tiered vector for Ɛ = 1=2 in JDSL, the Data Structures Library in Java.

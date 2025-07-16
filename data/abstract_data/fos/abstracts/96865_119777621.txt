@@ -1,0 +1,2 @@
+Two characterizations of the exponential distribution
+A sequence Xn ≥ 1 of independent and identically distrinbuted random variable with absoiutely continuous cumulative distribution function F ( x ) is considered. X j is a record value of this sequence if .Let X L(n) n≤o with L(0)=1 be the sequence of such record values and Z n,m =X L(n)-X L(m) suppose is the with smallest order statistic in a random sample of size n from F and . Two characterizations of the exponential distribution are given based on the distributional properties of Zn,m and Tk,n.

@@ -1,0 +1,2 @@
+Simulation and experimental verification of a cageless synchronous reluctance motor
+This paper presents mathematical modeling and computer simulation of a synchronous reluctance motor, of which cageless rotor was designed and built to replace an original cage rotor of a 4 pole, 2 hp three-phase induction motor. Two axes dq modeling is employed. Simulation studies are carried out for continuous operation and torque with different loads. Results of test bench of the cageless rotor synchronous reluctance motor are also included.

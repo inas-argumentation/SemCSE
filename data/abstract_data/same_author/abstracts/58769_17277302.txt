@@ -1,0 +1,2 @@
+A Linear Algorithm for Edge-Coloring Partial k-Trees
+Many combinatorial problems can be efficiently solved for partial k-trees. The edge-coloring problem is one of a few combinatorial problems for which no linear-time algorithm has been obtained for partial k-trees. The best known algorithm solves the problem for partial k-trees G in time \(O\left( {n\Delta ^{2^{2\left( {k + 1} \right)} } } \right)\) where n is the number of vertices and Δ is the maximum degree of G. This paper gives a linear algorithm which optimally edge-colors a given partial k-tree for fixed k.

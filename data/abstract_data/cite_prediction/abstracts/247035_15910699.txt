@@ -1,0 +1,2 @@
+Augmented climbing: interacting with projected graphics on a climbing wall
+This paper describes our efforts in developing a novel augmented climbing wall. Our system combines projected graphics on an artificial climbing wall and body tracking using computer vision technology. The system is intended for accelerating motor skill learning or to make monotonous parts of the training fun by adding relevant goals and encouraging social collaboration. We describe six initial prototypes and the feedback obtained from testing them with intermediate and experienced climbers.

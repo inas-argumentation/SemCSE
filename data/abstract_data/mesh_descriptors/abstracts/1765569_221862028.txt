@@ -1,0 +1,15 @@
+Identification of Key circRNAs in Non-Small Cell Lung Cancer.
+BACKGROUND
+Our work aimed to identify the key differentially expressed circular RNAs (circRNAs) (DECs) in non-small cell lung cancer (NSCLC).
+
+
+MATERIALS AND METHODS
+An integrated analysis based on public NSCLC datasets obtained from Gene Expression Omnibus was performed. DECs in NSCLC were subsequently identified. Bioinformatics analyses were utilized for describing the predictable functions of DECs including circRNA-miRNA network construction and pathway enrichment. The diagnostic value of candidate DECs among NSCLC and healthy individuals were preliminarily evaluated in GSE101586, GSEE101684, GSE112214 datasets.
+
+
+RESULTS
+A total of 43 up-regulated and 78 down-regulated DECs in NSCLC were identified. The mTOR signaling pathway, ErbB signaling pathway and cell cycle were significantly enriched from the originated genes of DECs in NSCLC. In the circRNA-miRNA network, hsa-circ-0002702, hsa-circ-0049271, hsa-circ-0009150 and hsa-circ-0053958 had high connectivity with miRNAs, which respectively interacted with 122, 42, 41, and 39 miRNAs. hsa_circ_0003028, hsa_circ_0015278, hsa_circ_0043256, hsa_circ_0049657 and hsa_circ_0074930 could distinguish NSCLC patients from healthy individuals in GSE101586, GSEE101684, GSE112214 datasets.
+
+
+CONCLUSIONS
+DECs including hsa_circ_0003028, hsa_circ_0015278, hsa_circ_0043256, hsa_circ_0049657 and hsa_circ_0074930 had diagnostic value in NSCLC. These DECs might play key roles in NSCLC pathogenesis through the mTOR signaling pathway, ErbB signaling pathway and cell cycle.

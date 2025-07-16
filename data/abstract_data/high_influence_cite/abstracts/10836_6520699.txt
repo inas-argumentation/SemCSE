@@ -1,0 +1,2 @@
+Under-Approximations of Computations in Real Numbers Based on Generalized Affine Arithmetic
+We build a new, implicitly relational abstract domain which gives accurate under-approximations of the set of real values that program variables can take. This statement is demonstrated both on a theoretical basis and on non-trivial numerical examples. It is, we believe, the first non-trivial under-approximating numerical domain in the static analysis literature.

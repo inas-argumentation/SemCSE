@@ -1,0 +1,2 @@
+A Hamiltonian Particle Method for Diffeomorphic Image Registration
+Diffeomorphic image registration, where images are aligned using diffeomorphic warps, is a popular subject for research in medical image analysis. We introduce a novel algorithm for computing diffeomorphic warps that solves the Euler equations on the diffeomorphism group explicitly, based on a discretisation of the Hamiltonian, rather than using an optimiser. The result is an algorithm that is many times faster than those considered previously.

@@ -1,0 +1,2 @@
+Some algorithms for semi-invariants of quivers
+Abstract We present some theorems and algorithms for calculating perpendicular categories and locally semi-simple decompositions. We implemented a computer program TETIVA based on these algorithms and we offer this program for everybody's use.

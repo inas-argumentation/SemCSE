@@ -1,0 +1,2 @@
+Note on Sparse Random Graphs and Cover Graphs
+It is shown in this note that with high probability it is enough to destroy all triangles in order to get a cover graph from a random graph $G_{n,p}$ with $p\le \kappa \log n/n$ for any constant $\kappa 1/8$ then with high probability we need to delete more edges than one from every triangle. Our result has a natural algorithmic interpretation.

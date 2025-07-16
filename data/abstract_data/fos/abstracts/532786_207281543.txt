@@ -1,0 +1,2 @@
+Acquisition of atmospheric extinction profiles by lidar: further notes.
+On construit le profil d'extintion atmospherique dans la bande UV en tenant compte simultanement des composants ozone et aerosols de l'atmosphere. La dependance de la composante de l'aerosol par rapport a la longueur d'onde est injectee dans l'equation du rapport du pouvoir Raman oxygene/azote et permet de separer les deux profils ozone et aerosols. Developpement du profil d'extinction pour differentes altitudes et ses variations suivant la longueur d'onde

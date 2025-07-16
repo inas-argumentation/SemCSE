@@ -1,0 +1,2 @@
+An End-to-End Neural Architecture for Reading Comprehension
+Machine reading comprehension is an on-going area of research in both industry and academia. In this paper, we present an end-to-end model combining elements of state-of-the-art question answering systems trained on the Stanford QuestionAnswering Dataset (SQuAD). Using this architecture, we achieve an F1 of 61.5% and an EM of 48.3%.

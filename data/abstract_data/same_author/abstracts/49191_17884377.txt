@@ -1,0 +1,2 @@
+Converse to the Parter-Wiener theorem: The case of non-trees
+Through a succession of results, it is known that if the graph of an Hermitian matrix A is a tree and if for some index j, @l@?@s(A)@?@s(A(j)), then there is an index i such that the multiplicity of @l in @s(A(i)) is one more than that in A. We exhibit a converse to this result by showing that it is generally true only for trees. In particular, it is shown that the minimum rank of a positive semidefinite matrix with a given graph G is =

@@ -1,0 +1,10 @@
+Evaluating Predictive Distributions: Does Bayesian Deep Learning Work?
+Posterior predictive distributions quantify uncertainties ignored by point estimates.
+This paper introduces \textit{The Neural Testbed}, which provides tools for the systematic evaluation of agents that generate such predictions.
+Crucially, these tools assess not only the quality of marginal predictions per input, but also joint predictions given many inputs.
+Joint distributions are often critical for useful uncertainty quantification, but they have been largely overlooked by the Bayesian deep learning community.
+We benchmark several approaches to uncertainty estimation using a neural-network-based data generating process.
+Our results reveal the importance of evaluation beyond marginal predictions.
+Further, they reconcile sources of confusion in the field, such as why Bayesian deep learning approaches that generate accurate marginal predictions perform poorly in sequential decision tasks, how incorporating priors can be helpful, and what roles epistemic versus aleatoric uncertainty play when evaluating performance.
+We also present experiments on real-world challenge datasets, which show a high correlation with testbed results, and that the importance of evaluating joint predictive distributions carries over to real data.
+As part of this effort, we opensource The Neural Testbed, including all implementations from this paper.

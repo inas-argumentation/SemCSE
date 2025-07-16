@@ -1,0 +1,2 @@
+Reverse mathematics of the finite downwards closed subsets of ordered by inclusion and adjacent Ramsey for fixed dimension
+We show that the well-partial orderedness of the finite downwards closed subsets of $\mathbb{N}^k$ ,ordered by inclusion, is equivalent to the well-foundedness of the ordinal $\omega^{\omega^\omega}$. This was conjectured to be the case by Hatzikiriakou and Simpson. Since we use Friedman's adjacent Ramsey theorem for fixed dimensions in the upper bound, we also give a treatment of the reverse mathematical status of that theorem.

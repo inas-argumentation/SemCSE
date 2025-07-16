@@ -1,0 +1,2 @@
+Worst case simulation of polarisation mode dispersion in long-haul optical transmission
+Dispersion-managed long-haul optical WDM-links operated at high channel-data-rates are ultimately limited in non-regenerated reach due to accumulated ASE-noise and eventually due to polarisation-mode-dispersion (PMD) of the optical fiber material. In this contribution a method is presented that permits a relatively fast assessment of the worst-case performance of optical transmission systems subject to PMD.

@@ -1,0 +1,2 @@
+Bypaths in Tournaments
+Abstract If every arc of a 3-connected tournament T is contained in a cycle of length 3, then every arc of T has a bypath of length k for each k ⩾ 3, unless T is isomorphic to two tournaments, each of which has exactly 8 vertices. This extends the corresponding result for regular tournaments, due to Alspach, Reid and Roselle (1974).

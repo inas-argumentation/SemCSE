@@ -1,0 +1,2 @@
+Recent Advances in Opinion Modeling: Control and Social Influence
+We survey some recent developments on the mathematical modeling of opinion dynamics. After an introduction on opinion modeling through interacting multi-agent systems described by partial differential equations of kinetic type, we focus our attention on two major advancements: optimal control of opinion formation and influence of additional social aspects, like conviction and number of connections in social networks, which modify the agents’ role in the opinion exchange process.

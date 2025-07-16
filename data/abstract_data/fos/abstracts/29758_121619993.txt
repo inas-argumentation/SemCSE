@@ -1,0 +1,2 @@
+Estimation of a Convex Density Contour in Two Dimensions
+If a density in two dimensions has a convex contour containing probability α, the contour may be estimated from a sample by finding the convex polygon of smallest area containing a proportion α of the sample points. An algorithm for finding a particular contour is given that takes O(n 2) space and O(n 3) time for n sample points.

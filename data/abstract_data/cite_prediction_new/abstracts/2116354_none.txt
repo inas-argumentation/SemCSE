@@ -1,0 +1,2 @@
+A Neural Network Approach for the Identification of Micromachined Accelerometers
+The paper presents the identification procedure for a nonlinear accelerometer using a neural network. Simulation results obtained in SPICE and Matlab show good agreement between the behaviour of the sensor over its entire working range and the identification neural network (INN) model.

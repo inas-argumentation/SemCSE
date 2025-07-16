@@ -1,0 +1,15 @@
+SU-E-T-196: Heat Diffusion Modeling for Digital Holographic Interferometry Dosimetry.
+PURPOSE
+We have previously demonstrated that with Digital Holographic Interferometry (DHI) 2D spatial calorimetric measurements of high dose rate radiation sources can be obtained. The impact of heat transfer must be considered when undertaking any form of calorimetric measurement, as the radiation induced temperature distributions are subject to degradation due to heat diffusion. Unaccounted for, this limits the accuracy of the approach especially for long delivery times.
+
+
+METHODS
+3D modelling of the heat diffusion in water was undertaken, and two different approaches developed to account for this effect. The mathematical framework to describe heat diffusion in 3D was applied, with the differential equations solved numerically using an implicit method. The first approach involved the comparison of the DHI measurements to an independent dose model of the source. The model was forward modeled to account for the heat diffusion during irradiation, allowing a direct comparison to validate the measured results. The second approach involved the correction of the measured data directly, by comparing the temperature distribution of two instances and subtracting the effects of heat diffusion of the first distribution from the second instance. This required the use of the Abel transform to approximate the 3D dose distribution from the 2D DHI results, thus limiting the approach to radiation applications possessing cylindrical symmetry.
+
+
+RESULTS
+The first approach resulted in higher accuracy and was more straightforward, but has a major limitation in that the measured results are only able to be utilized in comparison with an independent dose model. The applicability of the second approach is affected by noise in the measurement data and introduces higher uncertainties, but results in higher usability of the final data.
+
+
+CONCLUSION
+Both approaches were implemented, and if used in conjunction would provide the most utility for the interpretation and use of DHI measurements.

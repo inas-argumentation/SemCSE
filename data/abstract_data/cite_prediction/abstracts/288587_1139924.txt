@@ -1,0 +1,5 @@
+CodeTube: Extracting Relevant Fragments from Software Development Video Tutorials
+Nowadays developers heavily rely on sources of informal documentation, including Q&A forums, slides, or video tutorials, the latter being particularly useful to provide introductory notions for a piece of technology. The current practice is that developers have to browse sources individually, which in the case of video tutorials is cumbersome, as they are lengthy and cannot be searched based on their contents.
+ We present CodeTube, a Web-based recommender system that analyzes the contents of video tutorials and is able to provide, given a query, cohesive and self-contained video fragments, along with links to relevant Stack Overflow discussions. CodeTube relies on a combination of textual analysis and image processing applied on video tutorial frames and speech transcripts to split videos into cohesive fragments, index them and identify related Stack Overflow discussions.
+ DEMO URL: http://codetube.inf.usi.ch
+ VIDEO URL: https://youtu.be/yUsUG3g87Dg

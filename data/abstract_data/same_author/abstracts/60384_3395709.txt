@@ -1,0 +1,2 @@
+A note on pancyclism of highly connected graphs
+Jackson and Ordaz conjectured that if the stability number @a(G) of a graph G is no greater than its connectivity @k(G) then G is pancyclic. Applying Ramsey's theorem we prove the pancyclicity of every graph G with @k(G) sufficiently large with respect to @a(G).

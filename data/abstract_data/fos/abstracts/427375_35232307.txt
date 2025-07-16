@@ -1,0 +1,2 @@
+Self-diffusion in sheared colloidal suspensions: violation of fluctuation-dissipation relation.
+Using memory-function formalism we show that in sheared colloidal suspensions the fluctuation-dissipation theorem for self-diffusion, i.e., Einstein's relation between self-diffusion and mobility tensors, is violated and propose a new way to measure this violation in Brownian dynamics simulations. We derive mode-coupling expressions for the tagged particle friction tensor and for an effective, shear-rate dependent temperature.

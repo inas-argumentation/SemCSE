@@ -1,0 +1,2 @@
+Adaptive OCR with limited user feedback
+A methodology is proposed for processing noisy printed documents with limited user feedback. Without the support of ground truth, a specific collection of scanned documents can be processed to extract character templates. The adaptiveness of this approach lies in that the extracted templates are used to train an OCR classifier quickly and with limited user feedback. Experimental results show that this approach is extremely useful for the processing of noisy documents with many touching characters.

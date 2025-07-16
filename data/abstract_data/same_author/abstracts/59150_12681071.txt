@@ -1,0 +1,2 @@
+A Language for Specifying Program Transformations
+A language is described for specifying program transformations, from which programs can be generated to perform the transformations on sequences of code. The main objective of this work has been to develop a language that would allow the user to quickly and easily specify a wide range of transformations for a variety of programming languages. The rationale for the language constructs is given, as well as the details of an implementation which was prototyped using Prolog. Numerous examples of the language usage are provided. >

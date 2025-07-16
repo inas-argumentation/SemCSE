@@ -1,0 +1,14 @@
+Detection of satellite remnants in the Galactic Halo with Gaia– I. The effect of the Galactic background, observational errors and sampling
+We address the problem of identifying remnants of satellite galaxies in the halo of our galaxy with Gaia data. The Gaia astrometric mission offers a unique opportunity to search for and study these remnants using full phase-space information for the halo of our Galaxy. However, the remnants have to be extracted from a very large data set (of the order of 109 stars) in the presence of observational errors and against a background population of Galactic stars. We address this issue through numerical simulations with a view towards timely preparations for the scientific exploitation of the Gaia data. 
+ 
+ 
+ 
+We present a Monte Carlo simulation of the Gaia catalogue with a realistic number of entries. We use a model of the galaxy that includes separate light distributions and kinematics for the bulge, disc and stellar halo components. For practical reasons we exclude the region within Galactic coordinates: −90°≤l≤ 90° and −5°≤b≤ 5°, close to the Galactic plane and centre. Nevertheless, our catalogue contains 3.5 × 108 stars. No interstellar absorption has been modelled, as we limit our study to high Galactic latitudes. 
+ 
+ 
+ 
+We perform tree code 106–body simulations of satellite dwarf galaxies in orbit around a rigid mass model of the Galaxy. We follow the simulations for 1010 yr. The resulting shrinking satellite cores and tidal tails are then added to the Monte Carlo simulation of the Gaia catalogue. To assign photometric properties to the particles we use a Hess diagram for the Solar neighbourhood for Galactic particles, while for the dwarf galaxy particles we use isochrones from the Padova group. When combining the Milky Way and dwarf galaxy models we include the complication that the luminosity function of the satellite is probed at various depths as a function of position along the tidal tails. The combined Galaxy and satellites model is converted to a synthetic Gaia catalogue using a detailed model for the expected astrometric and radial velocity errors, depending on magnitude, colour and sky position of the stars. 
+ 
+ 
+ 
+We explore the feasibility of detecting tidal streams in the halo using the energy versus angular momentum plane. We find that a straightforward search in this plane will be very challenging. The combination of the background population and the observational errors will make it difficult to detect tidal streams as discrete structures in the E–Lz plane. In addition the propagation of observational errors leads to apparent caustic structures in the integrals of motion space that may be mistaken for physical entities. Any practical search strategy will have to use a combination of pre-selection of high-quality data and complementary searches using the photometric data that will be provided by Gaia.

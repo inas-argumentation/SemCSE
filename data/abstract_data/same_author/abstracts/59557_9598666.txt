@@ -1,0 +1,2 @@
+MSPASS: Modal Reasoning by Translation and First-Order Resolution
+mspass is an extension of the first-order theorem prover spass, which can be used as a modal logic theorem prover, a theorem prover for description logics and a theorem prover for the relational calculus.

@@ -1,0 +1,2 @@
+Economically optimal markovian sampling policies for process monitoring
+A variable delay process sampling procedure is considered in a Markov chain structure. The paper extends the basic sampling method given in Arnold (1970). Analytic properties of the process are developed for expected sample size and distribution of the sample size. A primary concern in the paper is the development of an objective function to enhance ability to select optimal sampling policies. The objective function involves cost due to sampling and protection costs for detecting undesirable conditions.

@@ -1,0 +1,2 @@
+A Spatial/Frequency Hybrid Vector Quantizer Based on a Classification in the DCT Domain
+A simple and efficient image vector quantizer (VQ) based on a classification in the DCT domain is presented. Each 8×8 image block is quantized with ordinary VQ (OVQ) or transformed VQ (TVQ), which is determined by the three low-frequency DCT coefficients. Experimental results show that the proposed approach can achieve promising performance.

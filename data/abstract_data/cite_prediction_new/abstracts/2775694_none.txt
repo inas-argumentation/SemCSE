@@ -1,0 +1,12 @@
+Adaptive Anomaly Detection in Transaction-Oriented Networks
+Adaptive algorithms for real-time and proactive detection of network/service anomalies, i.e., soft performance degradations, in transaction-oriented wide area networks (WANs) have been developed. These algorithms (i) adaptively sample and aggregate raw transaction records to compute service-class based traffic intensities, in which potential network anomalies are highlighted; (ii) construct dynamic and service-class based performance thresholds for detecting network and service anomalies; and (iii) perform service-class based and real-time network anomaly detection. These anomaly detection algorithms are implemented as a real-time software system called TRISTAN (
+$$\underline {{\text{Tr}}} $$
+ansaction 
+$$\underline {\text{I}}$$
+n
+$$\underline {{\text{st}}}$$
+antaneous 
+$$\underline {\text{A}} $$
+nomaly 
+$$\underline {\text{N}}$$
+otification), which is deployed in the AT&T Transaction Access Services (TAS) network. The TAS network is a commercially important, high volume (millions of transactions per day), multiple service classes (tens), hybrid telecom and data WAN that services transaction traffic such as credit card transactions in the US and neighboring countries. TRISTAN is demonstrated to be capable of automatically and adaptively detecting network/service anomalies and correctly identifying the corresponding "guilty" service classes in TAS. TRISTAN can detect network/service faults that elude detection by the traditional alarm-based network monitoring systems.

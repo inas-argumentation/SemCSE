@@ -1,0 +1,2 @@
+Multilinear Calderón–Zygmund operators on Hardy spaces, II
+In this note we explain a point left open in the literature of Hardy spaces, namely that for a sufficiently smooth m-linear Calderon–Zygmund operator bounded on a product of Lebesgue spaces we have T ( f 1 , … , f m ) = ∑ i 1 ⋯ ∑ i m λ 1 , i 1 ⋯ λ m , i m T ( a 1 , i 1 , … , a m , i m ) a.e., where a j , i j are H p j atoms, λ j , i j ∈ C , and f j = ∑ i j λ j , i j a j , i j are H p j distributions. In some particular cases the proof is new even when m = 1 .

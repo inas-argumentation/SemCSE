@@ -1,0 +1,2 @@
+Existence of pulses in excitable media with nonlocal coupling
+We prove the existence of fast traveling pulse solutions in excitable media with non-local coupling. Existence results had been known, until now, in the case of local, diffusive coupling and in the case of a discrete medium, with finite-range, non-local coupling. Our approach replaces methods from geometric singular perturbation theory, that had been crucial in previous existence proofs, by a PDE oriented approach, relying on exponential weights, Fredholm theory, and commutator estimates.

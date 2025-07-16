@@ -1,0 +1,2 @@
+A modified CLEAN method and its application to tomographic reconstruction of LISA Galactic binaries
+We consider the reconstruction of the Galactic binary distribution by the tomographic approach proposed by Mohanty, Nayak(PRD, 2005). In this paper we propose a deconvolution method, based on CLEAN, for cleaning the “dirty” maps produced by the tomographic method. We demonstrate that the performance of this method is signficantly better than the standard CLEAN method.

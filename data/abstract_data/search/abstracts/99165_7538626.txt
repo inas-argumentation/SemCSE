@@ -1,0 +1,2 @@
+The MusiNet project: Towards unraveling the full potential of Networked Music Performance systems
+The MusiNet research project aims to provide a comprehensive architecture and a prototype implementation of a complete Networked Music Performance (NMP) system. In this paper we describe the current status of the project, focusing on critical decisions regarding the system's architecture and specifications, the low delay audio and video coding techniques to be employed, the media relay design, and the synchronous and asynchronous collaboration algorithms to be adopted.

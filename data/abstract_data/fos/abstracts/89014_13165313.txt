@@ -1,0 +1,2 @@
+Dissecting the Cow
+The COW, or Console On Wheels, is the primary operator interface to the SLC accelerator control system. A hardware and software description of the COW, a microcomputer based system with a color graphics display output and touch-panel and knob inputs, is given. The ease of development and expandability, due to both the modular nature of the hardware and the multitasking, interrupt driven software running in the COW, are described. Integration of the COW into the SLCNET communications network and SLC Control system is detailed.

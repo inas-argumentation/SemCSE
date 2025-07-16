@@ -1,0 +1,31 @@
+Dependent stressful life events and prior depressive episodes in the prediction of major depression: the problem of causal inference in psychiatric epidemiology.
+CONTEXT
+Most environmental risk factors for psychiatric disorders cannot be studied experimentally, making causal attributions difficult. Can we address this question by using together 2 major methods for causal inference: natural experiments and specialized statistical methods?
+
+
+OBJECTIVE
+To determine the causal relationship between dependent stressful life events (dSLEs) and prior depressive episodes (PDEs) and major depression (MD).
+
+
+DESIGN
+Assessment of risk factors and episodes of MD at interview. Statistical analyses used the co-twin control and propensity score-matching methods.
+
+
+SETTING
+General community.
+
+
+PARTICIPANTS
+Four thousand nine hundred ten male and female twins from the Virginia Adult Twin Study of Psychiatric and Substance Use Disorders.
+
+
+MAIN OUTCOME MEASURE
+Episodes of MD.
+
+
+RESULTS
+We found that dSLEs were strongly associated with risk for MD in female (odds ratio [OR], 5.85) and male (4.55) twins in the entire sample and, at considerably lower levels, in female (2.29) and male (2.19) monozygotic twins discordant for dSLE exposure. A case-control sample matched on propensity score showed a moderate association in female (OR, 1.79) and male (1.53) twins. A PDE strongly predicted risk for MD in female (OR, 3.68) and male (5.20) twins in the entire sample. In monozygotic pairs discordant for exposure, the association was weaker in male (OR, 1.41) and absent in female (1.00) twins. A case-control sample matched on propensity score showed a moderate association between PDE and depressive episodes in male (OR, 1.58) and female twins (1.66).
+
+
+CONCLUSIONS
+Although dSLEs have a modest causal effect on the risk for MD, a large proportion of the observed association is noncausal. The same pattern is seen for PDEs, although the causal impact is somewhat more tenuous. For environmental exposures in psychiatry that cannot be studied experimentally, co-twin control and propensity scoring methods--which have complementary strengths and weaknesses--can provide similar results, suggesting their joint use can help with the critical question of causal inference.

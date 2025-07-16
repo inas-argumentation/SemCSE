@@ -1,0 +1,2 @@
+Regular Expression Search on Compressed Text
+We present an algorithm for searching regular expression matches in compressed text. The algorithm reports the number of matching lines in the uncompressed text in time linear in the size of its compressed version. We define efficient data structures that yield nearly optimal complexity bounds and provide a sequential implementation zearch that requires up to 25% less time than the state of the art.

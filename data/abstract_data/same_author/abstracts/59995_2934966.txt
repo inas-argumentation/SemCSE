@@ -1,0 +1,4 @@
+Formal Verification of the Ricart-Agrawala Algorithm
+This paper presents the first formal verification of the Ricart-Agrawala algorithm RA81. for distributed mutual exclusion of an arbitrary number of nodes. It uses the Temporal Methodology of [MP95a]. We establish both the safety property of mutual exclusion and the liveness property of accessibility. To establish these properties for an arbitrary number of nodes, parameterized proof rules are used as presented in [MP95a] (for safety) and [MP94] (for liveness). A new and efficient notation is introduced to facilitate the presentation of liveness proofs by verification diagrams. 
+ 
+The proofs were carried out using the Stanford Temporal Prover (STEP) [BBC+95], a software package that supports formal verification of temporal specifications of concurrent and reactive systems.

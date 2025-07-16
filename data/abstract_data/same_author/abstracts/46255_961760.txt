@@ -1,0 +1,8 @@
+Revisiting Colored Networks and Privacy Preserving Censorship
+Reliable networks are obviously an important aspect of critical information infrastructures. Dolev-Dwork-Waarts-Yung linked research on reliable point-to-point networks with privacy and authenticity. In their threat model the adversary can only take over a number of nodes bounded by a threshold k. Hirt-Maurer introduced the concept of an adversary structure (i.e. the complement of an access structure). Kumar-Goundan-Srinathan-Rangan and Desmedt-Wang-Burmester generalized Dolev-Dwork-Waarts-Yung scenarios to the case of a general adversary structure. 
+ 
+Burmester-Desmedt introduced a special adversary structure, now called a color based adversary structure. Their argument in favor of their model is that using automated attacks (such as worms), a vulnerability can be exploited on all computers in the network running the same platform (color). In their model the adversary can control all nodes that use up to k different platforms (or colors). 
+ 
+We will demonstrate one of the limitations of their model. Although the family of color based adversary structures has a trivial representation which size grows polynomial in the size of the graph, we will demonstrate in this paper that deciding reliability issues and security issues are co-NP-complete. 
+ 
+In most societies censorship is common. Indeed, for centuries it has often been viewed by authorities as an essential security tool. We apply the computational complexity result to study censorship. Authorities may require network designers to demonstrate the capability to censor the internet. We present a zero-knowledge interactive proof for the case of a color based adversary structure.

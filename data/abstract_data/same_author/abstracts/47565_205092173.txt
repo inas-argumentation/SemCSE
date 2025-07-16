@@ -1,0 +1,2 @@
+CTS Systems and Petri Nets
+The general theory of coordinated table selective substitution systems (cts systems for short) (see Rozenberg (1985)), provides a unifying framework for a considerable number of grammar and automaton models considered in the literature. This paper is mainly devoted to the investigation of a- natural subclass of cts systems (which uses the 'context-free grammar selector' for its memory access) and it turns out that this subclass closely corresponds to the Petri net model of concurrent processes.

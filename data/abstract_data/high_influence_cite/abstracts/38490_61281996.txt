@@ -1,0 +1,2 @@
+A Survey: Static and Dynamic Ranking
+The search engines are an important source of information. They work on mechanism of information retrieval. But the task does not end here. The bulk information retrieved has to be provided to the user as a list such that the best suited information lies at the top and so on. This process is called ranking. This paper is a review on different ranking algorithms broadly classified into static and dynamic ranking techniques. General Terms Information Retrieval, Web Search, Ranking Algorithms.

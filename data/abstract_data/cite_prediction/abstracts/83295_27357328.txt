@@ -1,0 +1,2 @@
+Low cost low loss waveguide-fed patch antenna array for automotive radar system
+This paper presents a low cost high gain patch antenna array for automotive radar applications. A compact wide band (9.6GHz) low loss (0.5dB at 79GHz) micro-strip line to waveguide transition is also proposed for the antenna testing. The proposed antenna has a measured gain of 14.5dBi at 79GHz. The proposed antenna (including the transition) has been fabricated using a single dielectric layer PCB process with a total length of 35mm.

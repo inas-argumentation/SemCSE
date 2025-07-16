@@ -1,0 +1,2 @@
+Identifying Propagation Source in Large Scale Networks
+The global diffusion of epidemics, rumors and computer viruses causes great damage to our society. It is critical to identify the diffusion sources and promptly quarantine them. However, one critical issue of current methods is that they are far are unsuitable for large scale networks due to the computational cost and the complex spatiotemporal diffusion processes. In this chapter, we introduce a community structure based approach to efficiently identify diffusion sources in large networks.

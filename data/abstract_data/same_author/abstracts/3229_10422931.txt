@@ -1,0 +1,2 @@
+Chaos Control of Lorenz System Using Small Gain Theorem
+This paper studies the problem of controlling chaos in Lorenz system. By dividing Lorenz system into two subsystems, the small gain theorem is used to design linear feedback controllers to make the equilibrium points of the controlled system globally asymptotically stable. Thus chaos in Lorenz system disappears under the controller.

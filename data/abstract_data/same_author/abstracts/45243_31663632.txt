@@ -1,0 +1,7 @@
+MACiE: a database of enzyme reaction mechanisms
+SUMMARY
+MACiE (mechanism, annotation and classification in enzymes) is a publicly available web-based database, held in CMLReact (an XML application), that aims to help our understanding of the evolution of enzyme catalytic mechanisms and also to create a classification system which reflects the actual chemical mechanism (catalytic steps) of an enzyme reaction, not only the overall reaction.
+
+
+AVAILABILITY
+http://www-mitchell.ch.cam.ac.uk/macie/.

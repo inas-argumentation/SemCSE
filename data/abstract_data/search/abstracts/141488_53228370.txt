@@ -1,0 +1,2 @@
+On the equivalence between algorithms for Non negative Matrix Factorization and Latent Dirichlet Allocation
+Abstract. LDA (Latent Dirichlet Allocation and NMF (Non negative Matrix Factorization) are two popular techniques to extract topics in a textual document corpus. This paper shows that NMF with KullbackLeibler divergence approximate the LDA model under a uniform Dirichlet prior, therefore the comparative analysis can be useful to elucidate the implementation of variational inference algorithm for LDA.

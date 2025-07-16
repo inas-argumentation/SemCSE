@@ -1,0 +1,19 @@
+A gene-diet interaction-based score predicts response to dietary fat in the Women's Health Initiative.
+BACKGROUND
+Although diet response prediction for cardiometabolic risk factors (CRFs) has been demonstrated using single genetic variants and main-effect genetic risk scores, little investigation has gone into the development of genome-wide diet response scores.
+
+
+OBJECTIVE
+We sought to leverage the multistudy setup of the Women's Health Initiative cohort to generate and test genetic scores for the response of 6 CRFs (BMI, systolic blood pressure, LDL cholesterol, HDL cholesterol, triglycerides, and fasting glucose) to dietary fat.
+
+
+METHODS
+A genome-wide interaction study was undertaken for each CRF in women (n ∼ 9000) not participating in the dietary modification (DM) trial, which focused on the reduction of dietary fat. Genetic scores based on these analyses were developed using a pruning-and-thresholding approach and tested for the prediction of 1-y CRF changes as well as long-term chronic disease development in DM trial participants (n ∼ 5000).
+
+
+RESULTS
+Only 1 of these genetic scores, for LDL cholesterol, predicted changes in the associated CRF. This 1760-variant score explained 3.7% (95% CI: 0.09, 11.9) of the variance in 1-y LDL cholesterol changes in the intervention arm but was unassociated with changes in the control arm. In contrast, a main-effect genetic risk score for LDL cholesterol was not useful for predicting dietary fat response. Further investigation of this score with respect to downstream disease outcomes revealed suggestive differential associations across DM trial arms, especially with respect to coronary heart disease and stroke subtypes.
+
+
+CONCLUSIONS
+These results lay the foundation for the combination of many genome-wide gene-diet interactions for diet response prediction while highlighting the need for further research and larger samples in order to achieve robust biomarkers for use in personalized nutrition.

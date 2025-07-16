@@ -1,0 +1,2 @@
+Capturing Individual and Group Behavior with Wearable Sensors
+We show how to obtain high level descriptions of human behavior in terms of physical activity, speech activity, face-to-face interaction (f2f), physical proximity, and social network attributes from sensor data. We present experimental results that show that it is possible to identify individual personality traits as well as subjective and objective group performance metrics from low level data collected using wearable sensors.

@@ -1,0 +1,4 @@
+Boundedness of total cross-sections in potential scattering
+AbstractIf a spherically symmetric potential belongs to the Rollnik class, i.e., if
+$$I = \frac{1}{{(4\pi )^2 }}\smallint \frac{{|V(x)||V(x')|}}{{|x - x'|^2 }}d^3 xd^3 x'$$
+ is finite, the total cross-section is finite, and an explicit bound on this quantity can be given in terms ofI. We also investigate the case of non-spherically symmetric potentials, and show that ifI is less than unity, the total cross-section averaged over the directions of the incident beam at a given energy is finite.

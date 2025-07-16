@@ -1,0 +1,15 @@
+[Antisense RNA mediated gene silencing of nonessential gene rpsF in Escherichia coli].
+OBJECTIVE
+We explored the cause of cell growth inhibition by antisense RNA mediated nonessential gene silencing of rpsF gene in Escherichia coli.
+
+
+METHODS
+The 41 -230 bp fragment around 5' end of gene rpsF was reversely cloned into antisense expression vector pHN678, which is flanked with a paired-termini. The recombinant plasmid was named pHNF. Then it was transformed into E. coli to produce antisense RNA strain E. coli/pHNF. Antisense RNA expression was induced by isopropyl-beta-D-thiogalactopyranoside (IPTG), the difference of liquid growth phenotype was identified between E. coli/pHNF and the control strain E. coli/pHN678; and gene transcriptional level was measured by Real time RT-PCR.
+
+
+RESULTS
+We obtained one antisense RNA strain targeted rpsF. We found that the reduced growth rate of this strain was positively related to the IPTG concentration. When IPTG was 100 micromol/L, the cell growth was not inhibited whereas the mRNA amount of rpsF had decreased by 36%, and mRNA of essential gene rpsR in the same operon did not decayed. However, when IPTG reached 200 micromol/L, the cell growth was obviously inhibited and rpsR mRNA was reduced by 12%.
+
+
+CONCLUSION
+The essential gene transcription level of rpsR decreases with the nonessential gene silencing of rpsF in the same operon, and leads to the growth inhibition of E. coli/pHNF.

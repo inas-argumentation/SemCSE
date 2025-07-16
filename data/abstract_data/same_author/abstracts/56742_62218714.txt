@@ -1,0 +1,2 @@
+A reconsideration of the recovery block scheme
+The recovery block scheme has been introduced as a method of providing fault tolerance at the software level in a computing system. From the widespread interest that has been expressed in the scheme there appears to be a standard set of questions which are posed about its implementation and utility. This paper presents a brief overview of the recovery block scheme and then examines in detail the issues that these questions raise.

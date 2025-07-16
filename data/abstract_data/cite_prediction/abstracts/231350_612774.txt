@@ -1,0 +1,2 @@
+VNF Placement and Chaining in Distributed Cloud
+This paper presents a model for Virtual Network Function (VNF) placement and chaining across Cloud environments. We propose a new analytical approach for joint VNFs placement and traffic steering for complex service chains and different VNF types. A custom greedy algorithm is also proposed to compare with our solution. Performance evaluation results show that our approach is fast and stable and has a execution time that essentially depends only on the NFV infrastructure size.

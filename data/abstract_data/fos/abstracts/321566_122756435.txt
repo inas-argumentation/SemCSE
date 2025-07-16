@@ -1,0 +1,2 @@
+Approximate statistics of random vector magnitudes
+Simple, rough approximations are presented for the mean and 99% values for random vectors of up to three independent elements. The accuracy of the provided approximate expressions has been investigated with the aid of Monte Carlo simulations involving 15 different combinations of the three statistical parameters. The results of this investigation are discussed.

@@ -1,0 +1,2 @@
+On Order Statistics from Sine Distribution
+We derive closed form expressions for the first two moments of order statistics from the sine distribution. For the higher moments, a recurrence relation is given. We also give a recurrence relation for the product moments. These relations will be useful for moment computations based on ordered data.

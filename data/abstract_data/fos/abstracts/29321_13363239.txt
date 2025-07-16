@@ -1,0 +1,2 @@
+Convergence analysis of the multi-variable filtered-X LMS algorithm with application to active noise control
+Averaging analysis is used to study the asymptotic behavior of the multichannel filtered-X LMS algorithm for the rejection of narrowband and broadband stationary disturbances, a multivariable strictly positive real (SPR) condition on the multi-input multi-output (MIMO) plant model error is shown to be sufficient for convergence.

@@ -1,0 +1,2 @@
+Distributed Concurrency Control in Real-time Cooperative Editing Systems
+Efficient distributed concurrency control is one of the most significant challenges in building real-time cooperative editing systems. In this paper, we focus on the definition and verification of an integrated set of distributed concurrency control schemes based on a novel consistency model for solving three inconsistency problems: divergence, causality-violation, and intention-violation in real-time cooperative editing systems.

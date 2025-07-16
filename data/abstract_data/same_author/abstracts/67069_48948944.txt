@@ -1,0 +1,2 @@
+Existence of periodic solutions of nonlinear differential equations
+The nonlinear differential equation x" = f(t, x(t)), f being 22T-periodic in t, is considered for the existence of 27T-periodic solutions. The equation is reduced to an equivalent system of two Hammerstein equations. The case of nonlinear perturbation at resonance is also discussed.

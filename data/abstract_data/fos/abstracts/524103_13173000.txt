@@ -1,0 +1,15 @@
+Fast intensity-modulated arc therapy based on 2-step beam segmentationa.
+PURPOSE
+Single or few are intensity-modulated arc therapy (IMAT) is intended to be a time saving irradiation method, potentially replacing classical intensity-modulated radiotherapy (IMRT). The aim of this work was to evaluate the quality of different IMAT methods with the potential of fast delivery, which also has the possibility of adapting to the daily shape of the target volume.
+
+
+METHODS
+A planning study was performed. Novel double and triple IMAT techniques based on the geometrical analysis of the target organ at risk geometry (2-step IMAT) were evaluated. They were compared to step and shoot IMRT reference plans generated using direct machine parameter optimization (DMPO). Volumetric arc (VMAT) plans from commercial preclinical software (SMARTARC) were used as an additional benchmark to classify the quality of the novel techniques. Four cases with concave planning target volumes (PTV) with one dominating organ at risk (OAR), viz., the PTV/OAR combination of the ESTRO Quasimodo phantom, breast/lung, spine metastasis/ spinal cord, and prostate/rectum, were used for the study. The composite objective value (COV) and other parameters representing the plan quality were studied.
+
+
+RESULTS
+The novel 2-step IMAT techniques with geometry based segment definition were as good as or better than DMPO and were superior to the SMARTARC VMAT techniques. For the spine metastasis, the quality measured by the COV differed only by 3%, whereas the COV of the 2-step IMAT for the other three cases decreased by a factor of 1.4-2.4 with respect to the reference plans.
+
+
+CONCLUSIONS
+Rotational techniques based on geometrical analysis of the optimization problem (2-step IMAT) provide similar or better plan quality than DMPO or the research version of SMARTARC VMAT variants. The results justify pursuing the goal of fast IMAT adaptation based on 2-step IMAT techniques.

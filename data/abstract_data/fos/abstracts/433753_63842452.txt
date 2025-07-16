@@ -1,0 +1,2 @@
+A Kind of QoS Structure in 4G Based on IP
+4G system is going to be an IP-based convergence network with many heterogeneous structures.This thesis introduces basic scene of 4G,analyzes the flaws of traditional QoS mechanism and then proposes a kind of QoS service system structure based on MRSVP/DiffServ to realize the end-toend QoS guarantee.

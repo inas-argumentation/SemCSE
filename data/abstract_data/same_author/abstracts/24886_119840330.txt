@@ -1,0 +1,4 @@
+Dipole transition matrix elements for certain classes of potential models
+We prove results about vanishing and nonvanishing of radial dipole matrix elements
+$$D_{n,l}^{n',l'} = \left\langle {n',l|r|n,l} \right\rangle $$
+ for certain classes of spherically symmetric potentials. A basic tool is a new sum rule based on Ehrenfest's law and the superposition principle for solutions of the Schrödinger equation.

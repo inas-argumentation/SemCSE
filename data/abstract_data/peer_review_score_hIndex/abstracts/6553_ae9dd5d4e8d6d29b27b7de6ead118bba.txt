@@ -1,0 +1,31 @@
+MANIFOLDNET: A DEEP NEURAL NETWORK FOR MANIFOLD-VALUED DATA
+Developing deep neural networks (DNNs) for manifold-valued data sets
+has gained much interest of late in the deep learning research
+community.  Examples of manifold-valued data include data from
+omnidirectional cameras on automobiles, drones etc., diffusion
+magnetic resonance imaging, elastography and others. In this paper, we
+present a novel theoretical framework for DNNs to cope with
+manifold-valued data inputs.  In doing this generalization, we draw
+parallels to the widely popular convolutional neural networks (CNNs).
+We call our network the ManifoldNet.
+
+As in vector spaces where convolutions are equivalent to computing the
+weighted mean of functions, an analogous definition for
+manifold-valued data can be constructed involving the computation of
+the weighted Fr\'{e}chet Mean (wFM). To this end, we present a
+provably convergent recursive computation of the wFM of the given
+data, where the weights makeup the convolution mask, to be
+learned. Further, we prove that the proposed wFM layer achieves a
+contraction mapping and hence the ManifoldNet does not need the
+additional non-linear ReLU unit used in standard CNNs. Operations such
+as pooling in traditional CNN are no longer necessary in this setting
+since wFM is already a pooling type operation. Analogous to the
+equivariance of convolution in Euclidean space to translations, we
+prove that the wFM is equivariant to the action of the group of
+isometries admitted by the Riemannian manifold on which the data
+reside. This equivariance property facilitates weight sharing within
+the network.  We present experiments, using the ManifoldNet framework,
+to achieve video classification and image reconstruction using an
+auto-encoder+decoder setting. Experimental results demonstrate the
+efficacy of ManifoldNet in the context of classification and
+reconstruction accuracy.

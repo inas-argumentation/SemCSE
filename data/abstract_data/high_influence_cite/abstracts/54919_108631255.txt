@@ -1,0 +1,2 @@
+Performance Analysis of ANN based YCbCr Skin Detection Algorithm
+Skin detection from acquired images has various areas of applications especially in automatic facial and human recognition system. The performance analysis of artificial neural network based –YcbCr skin recognition and three other techniques is evaluated in this work. Results obtained show that the use of YCbCr color model performs better than RGB colour model and the use of artificial neural network further improves the accuracy of the system.

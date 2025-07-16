@@ -1,0 +1,2 @@
+Towards an active schema integration architecture for heterogeneous database systems
+A four-layered architecture is proposed for supporting the propagation of local database semantics (e.g., integrity constraints) to the global level. This propagation enables the derivation of new constraints that could not have been recognized by any one of the local components, and offers the potential for significantly reducing query processing costs in heterogeneous database systems.<<ETX>>

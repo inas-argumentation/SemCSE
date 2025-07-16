@@ -1,0 +1,2 @@
+Radial symmetry for a quasilinear elliptic equation with a critical Sobolev growth and Hardy potential
+We consider weak positive solutions to the critical $p$-Laplace equation with Hardy potential in $\mathbb R^N$ $$-\Delta_p u -\frac{\gamma}{|x|^p} u^{p-1}=u^{p^*-1}$$ where $1<p<N$, $0\le \gamma <\left(\frac{N-p}{p}\right)^p$ and $p^*=\frac{Np}{N-p}$. The main result is to show that all the solutions in $\mathcal D^{1, p}(\mathbb R^N)$ are radial and radially decreasing about the origin.

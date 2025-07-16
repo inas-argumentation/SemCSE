@@ -1,0 +1,2 @@
+Spline collocation for singular integro-differential equations over (0.1)
+SummaryThis paper analyses the convergence of spline collocation methods for singular integro-differential equations over the interval (0.1). As trial functions we utilize smooth polynomial splines the degree of which coincides with the order of the equation. Depending on the choice of collocation points we obtain sufficient and even necessary conditions for the convergence in sobolev norms. We give asymptotic error estimates and some numerical results.

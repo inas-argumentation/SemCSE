@@ -1,0 +1,2 @@
+Image coding using SMVQ with two-level block classifier
+The variable-rate classified side-match vector quantizer (CSMVQ) has been presented as an alternative vector quantizer to the side-match vector quantizer (SMVQ) for low-bit-rate image encoding in recent years. In this paper, a two-level block classifier is used to classify the input vectors, and two different master codebooks are used for generating the state codebooks according to the variance of the input vector. Experimental results prove the effectiveness of the proposed new CSMVQ.

@@ -1,0 +1,2 @@
+Motorway control system for the reduction of pollutant concentrations in local rural areas
+In this work a control system is developed for the limitation of pollutant concentrations of rural areas near motorways. The controlled system is based on the second-order macroscopic model description of the freeway traffic, extended by an emission dispersion model, introduced in [1]. The control of the system is realized by ramp metering, optimized by the nonlinear model predictive control method. Simulation results show a good performance during changing disturbances.

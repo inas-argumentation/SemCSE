@@ -1,0 +1,6 @@
+QCD corrections in Standard Model EFT fits to 
+WZ
+ and 
+WW
+ production
+We study the impact of anomalous gauge boson and fermion couplings on the production of $WZ$ and $W^+W^-$ pairs at the LHC to NLO QCD in the Standard Model effective field theory, including dimension-6 operators. Our results are implemented in a publicly available version of the POWHEG-BOX. We combine our $WZ$ results in the leptonic final state $e\nu \mu^+\mu^-$ with previous $W^+W^-$ results to demonstrate the numerical effects of NLO QCD corrections on the limits on effective couplings derived from ATLAS and CMS $8$ and $13\,$TeV differential measurements. Our study demonstrates the importance of including NLO QCD SMEFT corrections in the $WZ$ analysis, while the effects on $WW$ production are smaller. Finally, we examine the extreme sensitivity of the analysis to the expansion in $1/\Lambda^2$ or $1/\Lambda^4$, where $\Lambda$ is the high energy scale associated with the SMEFT.

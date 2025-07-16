@@ -1,0 +1,2 @@
+Quickly excluding a forest
+Abstract We prove that for every forest F , every graph with no minor isomorphic to F has path-width at most | V ( F )| −2.

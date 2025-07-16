@@ -1,0 +1,15 @@
+Experimental determination of the radial dose distribution in high gradient regions around I192r wires: Comparison of electron paramagnetic resonance imaging, films, and Monte Carlo simulations.
+PURPOSE
+The experimental determination of doses at proximal distances from radioactive sources is difficult because of the steepness of the dose gradient. The goal of this study was to determine the relative radial dose distribution for a low dose rateI192r wire source using electron paramagnetic resonance imaging (EPRI) and to compare the results to those obtained using Gafchromic EBT film dosimetry and Monte Carlo (MC) simulations.
+
+
+METHODS
+Lithium formate and ammonium formate were chosen as the EPR dosimetric materials and were used to form cylindrical phantoms. The dose distribution of the stable radiation-induced free radicals in the lithium formate and ammonium formate phantoms was assessed by EPRI. EBT films were also inserted inside in ammonium formate phantoms for comparison. MC simulation was performed using theMCNP4C2 software code.
+
+
+RESULTS
+The radical signal in irradiated ammonium formate is contained in a single narrow EPR line, with an EPR peak-to-peak linewidth narrower than that of lithium formate (∼0.64 and 1.4 mT, respectively). The spatial resolution of EPR images was enhanced by a factor of 2.3 using ammonium formate compared to lithium formate because its linewidth is about 0.75 mT narrower than that of lithium formate. The EPRI results were consistent to within 1% with those of Gafchromic EBT films and MC simulations at distances from 1.0 to 2.9 mm. The radial dose values obtained by EPRI were about 4% lower at distances from 2.9 to 4.0 mm than those determined by MC simulation and EBT film dosimetry.
+
+
+CONCLUSIONS
+Ammonium formate is a suitable material under certain conditions for use in brachytherapy dosimetry using EPRI. In this study, the authors demonstrated that the EPRI technique allows the estimation of the relative radial dose distribution at short distances for aI192r wire source.

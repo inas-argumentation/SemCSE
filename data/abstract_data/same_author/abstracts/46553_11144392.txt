@@ -1,0 +1,2 @@
+Integration of Photometric Stereo and Shape from Occluding Contours by Fusing Orientation and Depth Data
+In this paper, we have investigated the fusion of surface data obtained by two different surface recovery methods. In particular, we have fused the depth data obtainable by shape from contours and local surface orientation data obtainable by photometric stereo. It has been found that the surface obtained by fusing orientation and depth data is able to yield more precision when compared with the surfaces obtained by either type of data alone.

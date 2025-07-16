@@ -1,0 +1,2 @@
+New dynamic multimode model for external cavity semiconductor lasers
+A new, dynamic, time domain, numerical model for external cavity lasers, based on the transmission line laser model (TLLM) is introduced. This is able to show the evolution of spectra from large signal modulated devices, even when the modulation pulsewidth is less than the external cavity round trip delay. The model is demonstrated using short and long dispersionless cavities. Results in the time and spectral domains are in agreement with those of previous theoretical and experimental work.

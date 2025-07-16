@@ -1,0 +1,15 @@
+Cost-effectiveness of palbociclib in hormone receptor-positive advanced breast cancer
+Background
+Palbociclib (PAL), a novel small-molecule inhibitor of cyclin-dependent kinases 4 and 6 for the treatment of advanced breast cancer, has demonstrated significant efficacy in prolonging progression-free survival when added to existing therapies. Considering the high cost of PAL, we assessed cost-effectiveness of adding PAL to usual care in treatment of advanced breast cancer.
+
+
+Methods
+We developed a discrete event simulation model to simulate time to cancer progression and to compare life time clinical benefit and cost of alternative treatment strategies for patients with metastatic disease from societal perspective. Per approved indication, endocrine treatment naive patients were assigned to PAL plus letrozole (PAL + LET) or letrozole alone (LET). Patients with prior endocrine therapy were assigned to PAL plus fulvestrant (FUL) (PAL + FUL) or FUL alone. The model assumptions were informed based on published clinical trial data and other peer reviewed studies. We carried out one-way and probabilistic sensitivity analyses to assess the robustness of our results to the changes in model assumptions.
+
+
+Results
+In treatment-naive patients, the addition of PAL to LET cost an estimated $768 498 per additional quality-adjusted life-year (QALY) gained. The addition of PAL to FUL in patients with prior endocrine therapy cost an estimated $918 166 per QALY gained. Sensitivity analyses demonstrated adding PAL has a 0% chance of being cost-effectiveness in either patient groups at a willingness-to-pay threshold of $100 000 per QALY.
+
+
+Conclusion
+From a societal perspective, PAL treatment of both patient groups (with and without prior endocrine therapy) is highly unlikely to be cost-effective compared with the usual care in the USA.

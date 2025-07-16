@@ -1,0 +1,2 @@
+On the determination of approximate periodic solutions of some non linear ODE
+We propose a numerical symbolic method for the approximation of periodic solutions of a type of non linear ODE. The efficiency of our method is contrasted with the harmonic balance method and with another one which combines the differential transformation method with Pade approximants on a non trivial example: the relativistic oscillator. It is shown that our method is computationally more reliable.

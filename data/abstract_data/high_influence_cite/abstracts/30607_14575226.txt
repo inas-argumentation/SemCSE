@@ -1,0 +1,2 @@
+Stopping functionals for Gaussian quadrature formulas
+Abstract Gaussian formulas are among the most often used quadrature formulas in practice. In this survey, an overview is given on stopping functionals for Gaussian formulas which are of the same type as quadrature formulas, i.e., linear combinations of function evaluations. In particular, methods based on extended formulas like the important Gauss–Kronrod and Patterson schemes, and methods which are based on Gaussian nodes, are presented and compared.

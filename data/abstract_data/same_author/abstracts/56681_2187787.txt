@@ -1,0 +1,2 @@
+LCLint: a tool for using specifications to check code
+This paper describes LCLint, an efficient and flexible tool that accepts as input programs (written in ANSI C) and various levels of formal specification. Using this information, LCLint reports inconsistencies between a program and its specification. We also describe our experience using LCLint to help understand, document, and re-engineer legacy code.

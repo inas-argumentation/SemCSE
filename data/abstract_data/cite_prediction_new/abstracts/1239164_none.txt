@@ -1,0 +1,2 @@
+Stability analysis for delayed genetic regulatory networks with reaction--diffusion terms
+This paper deals with the problem of asymptotic stability for delayed genetic regulatory networks with reaction--diffusion terms. For three types of boundary conditions, delay-dependent criteria are established by the Lyapunov--Krasovskii functional approach, respectively. The obtained results are expressed in terms of linear matrix inequalities. Numerical examples illustrating the effectiveness of the proposed approach are provided.

@@ -1,0 +1,2 @@
+Modularization and abstraction in logic programming
+In knowledge information processing, the structuring of knowledge and algorithms is one of the key issues. The goal of this work is to introduce the concepts and mechanisms of abstraction, modularization and parameterization into logic programming, which is one of the preliminary steps toward creating a kernel language for fifth generation computer systems.

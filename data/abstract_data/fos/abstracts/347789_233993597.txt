@@ -1,0 +1,23 @@
+Determination of equivalent black carbon mass concentration from aerosol light absorption using variable mass absorption cross section
+. Atmospheric black carbon (BC) is the strongest solar radiative
+absorber in the atmosphere, exerting significant influences on the earth's
+radiation budget. The mass absorption cross section (MAC) is a crucial
+parameter for converting the light absorption coefficient ( σab ) to the
+equivalent BC mass concentration (EBC). Traditional filter-based instruments,
+such as the AE33, use a constant MAC of 7.77 m 2 /g at 880 nm to derive the EBC,
+which may lead to uncertainty in the EBC. In this paper, a new method of
+converting σab to the EBC is proposed by incorporating the
+variations of the MAC attributed to the influences of the aerosol coating state. A Mie
+simulation showed that the MAC varied dramatically with different core sizes and
+shell thicknesses. We compared our new method with the traditional method during
+a field measurement at a site on the North China Plain. The results showed that
+the MAC at 880 nm was smaller (larger) than 7.77 m 2 /g for particles
+smaller (larger) than 280 nm, resulting in an EBC mass size distribution
+derived from the new method that was higher (lower) than the traditional method for
+particles smaller (larger) than 280 nm. The size-integrated EBC derived from the
+new method was 16 % higher than that derived from the traditional method. Sensitivity analysis
+indicated that the uncertainty in the EBC caused by the refractive index (RI) was
+within 35 %, and the imaginary part of the RI had dominant influence on the
+derived EBC. This study emphasizes the necessity to take variations of the MAC
+into account when deriving the EBC from σab and can help constrain
+the uncertainty in EBC measurements.

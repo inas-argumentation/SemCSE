@@ -1,0 +1,2 @@
+A first comparison between LIGO and Virgo inspiral search pipelines
+This paper reports on a project that is the first step the LIGO Scientific Collaboration and the Virgo Collaboration have taken to prepare for a mutual search for inspiral signals. The project involved comparing the analysis pipelines of the two collaborations on data sets prepared by both sides, containing simulated noise and injected events. The ability of the pipelines to detect the injected events was checked, and a first comparison of how the parameters of the events were recovered has been completed.

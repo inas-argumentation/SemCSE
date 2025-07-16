@@ -1,0 +1,2 @@
+The Planar Hamiltonian Circuit Problem is NP-Complete
+We consider the problem of determining whether a planar, cubic, triply-connected graph G has a Hamiltonian circuit. We show that this problem is NP-complete. Hence the Hamiltonian circuit problem for this class of graphs, or any larger class containing all such graphs, is probably computationally intractable.

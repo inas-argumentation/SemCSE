@@ -1,0 +1,2 @@
+PDBSprotEC: a Web-accessible database linking PDB chains to EC numbers via SwissProt
+A mapping between chains in the Protein Databank and Enzyme Classification numbers is invaluable for research into structure-function relationships. Mapping at the chain level is a non-trivial problem and we present an automatically updated Web-server, which provides this link in a queryable form and as a downloadable XML or flat file.

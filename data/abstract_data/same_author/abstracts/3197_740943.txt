@@ -1,0 +1,2 @@
+Fitness calculation approach for nested if-else construct in evolutionary testing
+This poster paper addresses the fitness calculation problem fornested if-else constructs. A new term "optimism level" is incorporated into the fitness function to assess the branch distance of nested branches for a given test data.

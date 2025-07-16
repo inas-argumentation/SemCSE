@@ -1,0 +1,15 @@
+A novel computational framework for simultaneous integration of multiple types of genomic data to identify microRNA-gene regulatory modules
+MOTIVATION
+It is well known that microRNAs (miRNAs) and genes work cooperatively to form the key part of gene regulatory networks. However, the specific functional roles of most miRNAs and their combinatorial effects in cellular processes are still unclear. The availability of multiple types of functional genomic data provides unprecedented opportunities to study the miRNA-gene regulation. A major challenge is how to integrate the diverse genomic data to identify the regulatory modules of miRNAs and genes.
+
+
+RESULTS
+Here we propose an effective data integration framework to identify the miRNA-gene regulatory comodules. The miRNA and gene expression profiles are jointly analyzed in a multiple non-negative matrix factorization framework, and additional network data are simultaneously integrated in a regularized manner. Meanwhile, we employ the sparsity penalties to the variables to achieve modular solutions. The mathematical formulation can be effectively solved by an iterative multiplicative updating algorithm. We apply the proposed method to integrate a set of heterogeneous data sources including the expression profiles of miRNAs and genes on 385 human ovarian cancer samples, computationally predicted miRNA-gene interactions, and gene-gene interactions. We demonstrate that the miRNAs and genes in 69% of the regulatory comodules are significantly associated. Moreover, the comodules are significantly enriched in known functional sets such as miRNA clusters, GO biological processes and KEGG pathways, respectively. Furthermore, many miRNAs and genes in the comodules are related with various cancers including ovarian cancer. Finally, we show that comodules can stratify patients (samples) into groups with significant clinical characteristics.
+
+
+AVAILABILITY
+The program and supplementary materials are available at http://zhoulab.usc.edu/SNMNMF/.
+
+
+CONTACT
+xjzhou@usc.edu; zsh@amss.ac.cn

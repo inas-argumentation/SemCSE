@@ -1,0 +1,15 @@
+Lung cancer incidence in Singapore: ethnic and gender differences.
+OBJECTIVES
+Lung cancer is the leading cause of cancer death in Singapore. We examine trends of lung cancer from 1968 to 2007, explore ethnic and gender-specific incidence rates, and examine period and cohort effects in Chinese and Malays using Age-Period-Cohort (APC) analysis.
+
+
+METHODS
+Aggregated data for cancer incidences and estimated person-years for the period 1968-2007 were obtained from the Singapore Cancer Registry. An APC analysis was performed using a Poisson regression model.
+
+
+RESULTS
+Lung cancer incidence rates were more than two times higher in males compared to females, and also higher in Chinese compared to Malays and Indians. While rates in Chinese men, and, to a lesser extent, Chinese women, had been declining since the early 1980s, rates in Malay men continued to increase. The full APC model described the cancer trend in Chinese males, Chinese females and Malay males, while an age-drift model described the cancer trend in Malay females. Among Chinese males, Chinese females and Malay males, there was no clear pattern to the period curvature effects, although similar cohort curvatures were seen, with positive curvature effects in older cohorts that declined towards zero and negative effects in younger cohorts.
+
+
+CONCLUSION
+There are strong gender and ethnic differences in lung cancer incidence in Singapore. Differences in smoking rates and differential ethnic effects of smoking may explain some but not all of these differences. The similar cohort curvatures suggest that environmental factors in Singapore occurring in the past but no longer present at similar intensity or frequency may explain the positive deviation from a linear trend. Apart from smoking, other environmental factors such as changes in diet, improved sanitation and ventilation, and declines in infectious diseases like tuberculosis may play a role.

@@ -1,0 +1,2 @@
+Analysis of 3D conjugate heat transfers in electronics
+An efficient method for the analysis of real 3D conjugate heat transfer for electronic devices is presented. This methodology is based on the coupling of two software: a conductive software based on the Boundary Element Method (REBECA-3D(R)) and a convective software based on the Volume Finite Method (FLUENT). The methodology is tested on a Multi Chip Module (CPGA224) for which experiments have been performed by the CNRS (French National Center for Scientific Research).

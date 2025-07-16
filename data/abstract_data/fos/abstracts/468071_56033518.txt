@@ -1,0 +1,31 @@
+Considerations for temperature sensor placement on rotary-wing unmanned aircraft systems
+. Integrating sensors with a rotary-wing unmanned aircraft system (rwUAS) can
+introduce several sources of biases and uncertainties if not properly
+accounted for. To maximize the potential for rwUAS to provide reliable
+observations, it is imperative to have an understanding of their strengths
+and limitations under varying environmental conditions. This study focuses on
+the quality of measurements relative to sensor locations on board rwUAS.
+Typically, thermistors require aspiration and proper siting free of heat
+sources to make representative measurements of the atmosphere. In an effort
+to characterize ideal locations for sensor placement, a series of experiments
+were conducted in the homogeneous environment of an indoor chamber with a
+pedestal-mounted rwUAS. A suite of thermistors along with a wind probe were
+mounted inside of a solar shield, which was affixed to a linear actuator arm.
+The actuator arm was configured such that the sensors within the solar shield
+would travel underneath the platform into and out of the propeller wash. The
+actuator arm was displaced horizontally underneath the platform while the
+motors were throttled to 50 %, yielding a time series of temperature and
+wind speed that could be compared to temperatures being collected in the
+ambient environment. Results indicate that temperatures may be biased in the
+order of 0.5–1.0  ∘ C and vary appreciably without aspiration,
+sensors placed close to the tips of the rotors may experience biases due to
+frictional and compressional heating as a result of turbulent fluctuations,
+and sensors in proximity to motors may experience biases approaching
+1  ∘ C. From these trials, it has been determined that sensor
+placement underneath a propeller on an rwUAS a distance of one quarter the
+length of the propeller from the tip is most likely to be minimally impacted
+from influences of turbulence and motor, compressional, and frictional
+heating while still maintaining adequate airflow. When opting to use rotor
+wash as a means for sensor aspiration, the user must be cognizant of these
+potential sources of platform-induced heating when determining sensor
+location.

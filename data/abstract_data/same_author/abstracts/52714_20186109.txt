@@ -1,0 +1,2 @@
+Balanced information inequalities
+In this correspondence, we are interested in linear information inequalities, both discrete and continuous ones. We show that every discrete information inequality is associated with a "balanced" information inequality and a set of "residual weights." To prove the inequality, it is necessary and sufficient to prove that its "balanced" version is valid and all its residual weights are nonnegative. For a continuous information inequality, we prove that it is valid if and only if its discrete counterpart is balanced and valid.

@@ -1,0 +1,5 @@
+A Deep Learning Approach for Joint Video Frame and Reward Prediction in Atari Games
+Reinforcement learning is concerned with learning to interact with environments that are initially unknown. State-of-the-art reinforcement learning approaches, such as DQN, are model-free and learn to act effectively across a wide range of environments such as Atari games, but require huge amounts of data. Model-based techniques are more data-efficient, but need to acquire explicit knowledge about the environment dynamics or the reward structure. 
+
+In this paper we take a step towards using model-based techniques in environments with high-dimensional visual state space when system dynamics and the reward structure are both unknown and need to be learned, by demonstrating that it is possible to learn both jointly.
+Empirical evaluation on five Atari games demonstrate accurate cumulative reward prediction of up to 200 frames. We consider these positive results as opening up important directions for model-based RL in complex, initially unknown environments.

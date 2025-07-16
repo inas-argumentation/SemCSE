@@ -1,0 +1,2 @@
+Compensation of thermal defocusing by a three-element adaptive corrector
+A numerical simulation of a slow adaptive optical system is reported. It is suggested that the wavefront of a beam can be controlled by a phase corrector with three degrees of freedom: the angle of inclination of the beam and two focusing radii along mutually perpendicular directions. Various algorithms for the control of the corrector coordinates are considered and a study is made of the effectiveness of suppression of thermal defocusing in a moving nonlinear medium.

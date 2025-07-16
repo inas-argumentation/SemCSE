@@ -1,0 +1,2 @@
+XParent: an efficient RDBMS-Based XML database system
+Presents, XParent, an XML document management system built on top of RDBMS. It is based on an efficient, model-mapping-based approach that uses a fixed database schema to store any XML documents without assistance of DTD. The visual query interface of XParent provides both expressive power for professionals and user friendliness for naive users. The proposed multi-level query translation scheme makes it possible to develop a generic XML application that supports multiple XML query languages and mapping schemas.

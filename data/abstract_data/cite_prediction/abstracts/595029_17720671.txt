@@ -1,0 +1,2 @@
+FFT-Based BP Decoding of General LDPC Codes Over Abelian Groups
+We introduce a wide class of low-density parity-check (LDPC) codes, large enough to include LDPC codes over finite fields, rings, or groups, as well as some nonlinear codes. A belief-propagation decoding procedure with the same complexity as for the decoding of LDPC codes over finite fields is also presented. Moreover, an encoding procedure is developed

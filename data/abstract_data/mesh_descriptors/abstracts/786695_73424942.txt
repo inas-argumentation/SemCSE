@@ -1,0 +1,15 @@
+Application of a directional palladium‐103 brachytherapy device on a curved surface
+PURPOSE
+The directional planar palladium-103 LDR device (CivaSheet TM ) may be used for intraoperative implantation at the interface between the tumor site and healthy tissue. Its dosimetric properties have been studied in the ideal case of application on a flat surface. The dosimetric impact of implanting this highly directional device on a curved surface that may be encountered in clinical treatments is analyzed.
+
+
+METHODS
+CivaSheet is designed as an array of directional palladium-103 sources (CivaDots). From the postoperative computed tomography (CT) scans of three patients, the shape of each implanted CivaSheet was reconstructed. In order to obtain a realistic estimate of the distribution of curvatures, the mean radius of curvature at the location of each CivaDot was calculated. A Monte Carlo simulation (FLUKA) of a single CivaDot was designed, based upon published geometry and material specifications. Both the radial dose function analog and the two-dimensional anisotropy function analog for the CivaDot were validated in comparison with film measurements and benchmarked to published Monte Carlo data. A value for the dose-rate constant Λ = 0.587(19) cGy/h/U for a CivaDot source in water was calculated as well. Knowledge of the dose distribution in the vicinity of each source allowed the dose at any point around CivaSheets of different curvatures and orientations to be calculated.
+
+
+RESULTS
+The local radius of curvature was found to be primarily between 2 and 8 cm in all three patient implants. On the unshielded side of an inward-facing curved CivaSheet implant of radius 2 cm, the calculated dose at 0.5 cm depth exceeded the prescribed dose by ∼20%, while on the shielded side the dose increased by a factor of two, thus compromising the shielding efficiency of the original design. On the unshielded side of an outward-facing curved implant, the dose at 0.5 cm depth decreased by ∼20%.
+
+
+CONCLUSIONS
+When tumor bed curvature can be estimated from the preplanning CT scan, the results from this study provide quantitative guide for modifying the source strength to achieve the desired clinical results. In many intraoperative cases, however, accurate preplanning based on surface curvature may not be practical. In such situations, knowledge of the dosimetric impact of the surface curvature provides motivation for avoiding implantation geometries that can lead to either over/underdosing the target, or excess dose to healthy tissue.

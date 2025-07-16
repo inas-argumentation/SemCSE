@@ -1,0 +1,4 @@
+Implementation of Parallel Numerical Algorithms Using Hierarchically Tiled Arrays
+In this paper, we describe our experience in writing parallel numerical algorithms using Hierarchically Tiled Arrays (HTAs). HTAs are classes of objects that encapsulate parallelism. HTAs allow the construction of single-threaded parallel programs where a master process distributes tasks to be executed by a collection of servers holding the components (tiles) of the HTAs. 
+ 
+The tiled and recursive nature of HTAs facilitates the development of algorithms with a high degree of parallelism as well as locality. We have implemented HTAs as a MATLABTM toolbox, overloading conventional operators and array functions such that HTA operations appear to the programmer as extensions of MATLABTM. We have successfully used it to write some widely used parallel numerical programs. The resulting programs are easier to understand and maintain than their MPI counterparts.

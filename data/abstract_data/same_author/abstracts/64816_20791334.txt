@@ -1,0 +1,2 @@
+Modeling Power Supply Noise in Delay Testing
+Excessive power supply noise during test can cause overkill. This article discusses two models for supply noise in delay testing and their application to test compaction. The proposed noise models avoid complicated power network analysis, making them much faster than existing power noise analysis tools. can cause performance degradation and

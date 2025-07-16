@@ -1,0 +1,2 @@
+Efficient Parallel Evaluation of Straight-Line Code and Arithmetic Circuits
+A new parallel algorithm is given to evaluate a straight-line program. The algorithm evaluates a program over a commutative semi-ring R of degree d and size n in time $O((\log n)(\log nd))$ using $M(n)$ processors, where $M(n)$ is the number of processors required for multiplying $n \times n$ matrices over the semi-ring R in $O(\log n)$ time.

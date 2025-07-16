@@ -1,0 +1,2 @@
+Maximum matchings in sparse random graphs: Karp-Sipser revisited
+We study the average performance of a simple greedy algorithm for nding a matching in a sparse random graph G n;c=n , where c > 0 is constant. The algorithm was rst proposed by Karp and Sipser 12]. We give signiicantly improved estimates of the errors made by the algorithm. For the sub-critical case where c < e we show that the algorithm nds a maximum matching with high probability. If c > e then with high probability the algorithm produces a matching which is within n 1=5+o(1) of maximum size.

@@ -1,0 +1,2 @@
+On the Number of Birch Partitions
+Birch and Tverberg partitions are closely related concepts from discrete geometry. We show two properties for the number of Birch partitions: Evenness and a lower bound. This implies the first nontrivial lower bound for the number of Tverberg partitions that holds for arbitrary q, where q is the number of partition blocks. The proofs are based on direct arguments and do not use the equivariant method from topological combinatorics.

@@ -1,0 +1,2 @@
+Bayesian inference in regression with Pearson disturbances
+In this paper we propose new estimation techniques in connection with regression models whose errors have distributions which are members of the celebrated Pearson’s system. Efficient MCMC procedures are proposed in the context of likelihood—based inference. The new techniques are applied to four major currencies.

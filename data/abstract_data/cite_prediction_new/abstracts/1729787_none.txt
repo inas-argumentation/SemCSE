@@ -1,0 +1,2 @@
+Approximating the Riemann-Stieltjes integral by a trapezoidal quadrature rule with applications
+In this paper we provide sharp bounds for the error in approximating the Riemann-Stieltjes integral @!"a^bf(t)du(t) by the trapezoidal rule f(a)+f(b)[email protected]?[u(b)-u(a)] under various assumptions for the integrand f and the integrator u for which the above integral exists. Applications for continuous functions of selfadjoint operators in Hilbert spaces are provided as well.

@@ -1,0 +1,4 @@
+Minimizing Metadata Access Latency in Wide Area Networked File Systems
+Traditional network file systems, like NFS, do not extend to wide-area due to low bandwidth and high network latency. We present WireFS, a Wide Area File System, which enables delegation of metadata management to nodes at client sites (homes). The home of a file stores the most recent copy of the file, serializes all updates, and streams updates to the central file server. WireFS uses access history to migrate the home of a file to the client site which accesses the file most frequently. 
+ 
+We formulate the home migration problem as an integer programming problem, and present two algorithms: a dynamic programming approach to find the optimal solution, and a non-optimal but more efficient greedy algorithm. We show through extensive simulations that even in the WAN setting, access latency over WireFS is comparable to NFS performance in the LAN setting; the migration overhead is also marginal.

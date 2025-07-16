@@ -1,0 +1,15 @@
+Inflammation biomarkers and mortality prediction in patients with type 2 diabetes (ZODIAC-27).
+BACKGROUND
+C-reactive protein (CRP), procalcitonin (PCT) and pro-adrenomedullin (MR-proADM) are inflammation markers associated with long-term mortality risk. We compared the associations and predictive capacities of CRP, PCT and MR-proADM with cardiovascular and all-cause mortality in patients with type 2 diabetes.
+
+
+METHODS
+This study included primary care treated patients with type 2 diabetes participating in the ZODIAC cohort study. A total of 1005 out of 1688 patients (60%) had complete baseline variables. Baseline CRP, PCT and MR-proADM were assessed in relation to cardiovascular and all-cause mortality with Cox proportional hazard analyses. Hazard Ratios (HR) were adjusted for age, gender, BMI, smoking, systolic blood pressure, cholesterol-HDL ratio, duration of diabetes, HbA1c, history of cardiovascular diseases, albumin-creatinine ratio and creatinine. Risk prediction capabilities were assessed with Harrell's C statistics and proportion of explained variance (R(2)).
+
+
+RESULTS
+After a median follow-up of 11 years, 472 (47%) of 1005 patients had died. The likelihood ratio test showed that CRP and MR-proADM significantly improved prediction in cardiovascular mortality [HRs 1.20 (95%CI 1.09-1.33) and 1.56 (95%CI 1.06-2.30)] and in all-cause mortality [HRs 1.10 (95%CI: 1.03-1.18) and 1.31 (95%CI 1.02-1.69)]. Harrell's C values and R(2) measures showed slightly improved discrimination for cardiovascular mortality in patients without macrovascular disease (C: 0.80 to 0.81; R(2): 0.50 to 0.52) and MR-proADM (C: 0.80 to 0.82; R(2): 0.50 to 0.52).
+
+
+CONCLUSIONS
+CRP and MR-proADM, but not PCT, were independently associated with cardiovascular and all-cause mortality. In patients without macrovascular diseases, CRP and MR-proADM slightly improved discrimination, in absolute sense, of patients at risk for cardiovascular mortality.

@@ -1,0 +1,2 @@
+An Overview of the Scala Programming Language
+Scala fuses object-oriented and functional programming in a statically typed programming language. It is aimed at the construction of components and component systems. This paper gives an overview of the Scala language for readers who are familar with programming methods and programming language design.

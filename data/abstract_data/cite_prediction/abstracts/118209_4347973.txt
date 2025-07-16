@@ -1,0 +1,2 @@
+Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding
+Conflict-Based Search (CBS) and its enhancements are among the strongest algorithms for the multi-agent pathfinding problem. However, existing variants of CBS do not use any heuristics that estimate future work. In this paper, we introduce different admissible heuristics for CBS by aggregating cardinal conflicts among agents. In our experiments, CBS with these heuristics outperforms previous state-of-theart CBS variants by up to a factor of five.

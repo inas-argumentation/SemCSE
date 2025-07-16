@@ -1,0 +1,8 @@
+Monotonicity of Quantum Ground State Energies: Bosonic Atoms and Stars
+The N-dependence of the non-relativistic bosonic ground state energy ℰB(N) is studied for quantum N-body systems with either Coulomb or Newton interactions. The Coulomb systems are “bosonic atoms,” with their nucleus fixed, and it is shown that 
+$\mathcal {E}_{{C}}^{{B}}(N)/\mathcal {P}_{{C}}(N)$ 
+grows monotonically in N>1, where ℘C(N)=N2(N−1). The Newton systems are “bosonic stars,” and it is shown that when the Bosons are centrally attracted to a fixed gravitational “grain” of mass M>0, and N>2, then 
+$\mathcal {E}_{{N}}^{{B}}(N;M)/\mathcal {P}_{\!{N}}(N)$ 
+grows monotonically in N, where ℘N(N)=N(N−1)(N−2); in the translation-invariant problem (M=0), it is shown that when N>1 then 
+$\mathcal {E}_{{N}}^{{B}}(N;0)/\mathcal {P}_{{C}}(N)$ 
+grows monotonically in N, with ℘C(N) from the Coulomb problem. Some applications of the new monotonicity results are discussed.

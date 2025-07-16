@@ -1,0 +1,15 @@
+Multienergy element‐resolved cone beam CT (MEER‐CBCT) realized on a conventional CBCT platform
+PURPOSE
+Cone beam CT (CBCT) has been widely used in radiation therapy. However, its main application is still to acquire anatomical information for patient positioning. This study proposes a multienergy element-resolved (MEER) CBCT framework that employs energy-resolved data acquisition on a conventional CBCT platform and then simultaneously reconstructs images of x-ray attenuation coefficients, electron density relative to water (rED), and elemental composition (EC) to support advanced applications.
+
+
+METHODS
+The MEER-CBCT framework is realized on a Varian TrueBeam CBCT platform using a kVp-switching scanning scheme. A simultaneous image reconstruction and elemental decomposition model is formulated as an optimization problem. The objective function uses a least square term to enforce fidelity between x-ray attenuation coefficients and projection measurements. Spatial regularization is introduced via sparsity under a tight wavelet-frame transform. Consistency is imposed among rED, EC, and attenuation coefficients and inherently serves as a regularization term along the energy direction. The EC is further constrained by a sparse combination of ECs in a dictionary containing tissues commonly existing in humans. The optimization problem is solved by a novel alternating-direction minimization scheme. The MEER-CBCT framework was tested in a simulation study using an NCAT phantom and an experimental study using a Gammex phantom.
+
+
+RESULTS
+MEER-CBCT framework was successfully realized on a clinical Varian TrueBeam onboard CBCT platform with three energy channels of 80, 100, and 120 kVp. In the simulation study, the attenuation coefficient image achieved a structural similarity index of 0.98, compared to 0.61 for the image reconstructed by the conventional conjugate gradient least square (CGLS) algorithm, primarily because of reduction in artifacts. In the experimental study, the attenuation image obtained a contrast-to-noise ratio ≥60, much higher than that of CGLS results (~16) because of noise reduction. The median errors in rED and EC were 0.5% and 1.4% in the simulation study and 1.4% and 2.3% in the experimental study.
+
+
+CONCLUSION
+We proposed a novel MEER-CBCT framework realized on a clinical CBCT platform. Simulation and experimental studies demonstrated its capability to simultaneously reconstruct x-ray attenuation coefficient, rED, and EC images accurately.

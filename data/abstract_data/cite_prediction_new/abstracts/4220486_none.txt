@@ -1,0 +1,2 @@
+Asymptotic formulae for implied volatility in the Heston model
+In this paper, we prove an approximate formula expressed in terms of elementary functions for the implied volatility in the Heston model. The formula consists of the constant and first-order terms in the large maturity expansion of the implied volatility function. The proof is based on saddlepoint methods and classical properties of holomorphic functions.

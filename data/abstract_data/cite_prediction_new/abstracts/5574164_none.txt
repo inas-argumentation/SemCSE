@@ -1,0 +1,2 @@
+APPLICATIONS OF MAX ALGEBRA TO DIAGONAL SCALING OF MATRICES
+Results are proven on an inequality in maxalgebra and applied to theorems on the diagonal similarity scaling of matrices. Thus the set of all solutions to several scaling problems is obtained. Also introduced is the "full term rank" scaling of a matrixto a matrixwith prescribed row and column maxima with the additional requirement that all the maxima are attained at entries each from a different row and column. An algorithm which finds such a scaling when it exists is given.

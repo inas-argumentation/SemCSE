@@ -1,0 +1,10 @@
+Multistage Indexing for Speeding Prolog Executions
+In a previous article we proposed a new and efficient indexing technique that utilizes all the functors in the clause-heads and the goal. The salient feature of this technique is that the selected clause-head unifies (modulo nonlinearity) with the goal. As a consequence, our technique results in sharper discrimination, fewer choice points and reduced backtracking. 
+ 
+ 
+ 
+A naive and direct implementation of our indexing algorithms considerably slowed down the execution speeds of a wide range of programs typically seen in practice. This is because it handled deep and shallow terms, terms with few indexable arguments, small and large procedures uniformly. To beneficially extend the applicability of our algorithms we need mechanisms that are ‘sensitive’ to term structures and size and complexity of procedures. We accomplish this in the v-ALS compiler by carefully decomposing our indexing process into multiple stages. The operations performed by these stages increase in complexity ranging from first argument indexing to unification (modulo nonlinearity). Further the indexing process can be terminated at any stage if it is not beneficial to continue further. 
+ 
+ 
+ 
+We have now completed the design and implementation of v-ALS. Using it we have enhanced the performance of a broad range of programs typically encountered in practice. Our experience strongly suggests that indexing based on unification (modulo nonlinearity) is a viable idea in practice and that a broad spectrum of useful programs can realize all of its benefits.

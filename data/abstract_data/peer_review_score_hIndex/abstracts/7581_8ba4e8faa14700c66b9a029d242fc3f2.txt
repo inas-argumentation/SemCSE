@@ -1,0 +1,7 @@
+Iterative temporal differencing with fixed random feedback alignment support spike-time dependent plasticity in vanilla backpropagation for deep learning
+In vanilla backpropagation (VBP), activation function matters considerably in terms of non-linearity and differentiability.
+Vanishing gradient has been an important problem related to the bad choice of activation function in deep learning (DL).
+This work shows that a differentiable activation function is not necessary any more for error backpropagation. 
+The derivative of the activation function can be replaced by an iterative temporal differencing (ITD) using fixed random feedback weight alignment (FBA).
+Using FBA with ITD, we can transform the VBP into a more biologically plausible approach for learning deep neural network architectures.
+We don't claim that ITD works completely the same as the spike-time dependent plasticity (STDP) in our brain but this work can be a step toward the integration of STDP-based error backpropagation in deep learning.

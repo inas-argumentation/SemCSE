@@ -1,0 +1,10 @@
+Mind Change Complexity of Learning Logic Programs
+The present paper motivates the study of mind change complexity for learning minimal models of length-bounded logic programs. It establishes ordinal mind change complexity bounds for learnability of these classes both from positive facts and from positive and negative facts. 
+ 
+Building on Angluin's notion of finite thickness and Wright's work on finite elasticity, Shinohara defined the property of bounded finite thickness to give a sufficient condition for learnability of indexed families of computable languages from positive data. This paper shows that an effective version of Shinohara's notion of bounded finite thickness gives sufficient conditions for learnability with ordinal mind change bound, both in the context of learnability from positive data and for learnability from complete (both positive and negative) data. 
+ 
+More precisely, it is shown that if a language defining framework yields a uniformly decidable family of languages and has effective bounded finite thickness, then for each natural number m > 0, the class of languages defined by formal systems of length ≤ m: 
+ 
+- is identifiable in the limit from positive data with a mind change bound of ωm; - is identifiable in the limit from both positive and negative data with an ordinal mind change bound of ω × m. 
+ 
+The above sufficient conditions are employed to give an ordinal mind change bound for learnability of minimal models of various classes of length-bounded Prolog programs, including Shapiro's linear programs, Arimura and Shinohara's depth-bounded linearly-covering programs, and Krishna Rao's depth-bounded linearly-moded programs. It is also noted that the bound for learning from positive data is tight for the example classes considered.

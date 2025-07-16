@@ -1,0 +1,2 @@
+A policy improvement type algorithm for solving zero sum two person stochastic games of perfect information
+Abstract. We give a policy improvement type algorithm to locate an optimal pure stationary strategy for discounted stochastic games with perfect information. A graph theoretic motivation for our algorithm is presented as well.

@@ -1,0 +1,6 @@
+Efficient Modeling of An Anatomy-Based Face and Fast 3D Facial Expression Synthesis
+This paper presents new methods for efficient modeling and animation of an hierarchical facial model that conforms to the human face anatomy for realistic and fast 3D facial expression synthesis. The facial model has a skin–muscle–skull structure. The deformable skin model directly simulates the nonlinear visco-elastic behavior of soft tissue and effectively prevents model collapse. The construction of facial muscles is achieved by using an efficient muscle mapping approach. Based on a cylindrical projection of the texture-mapped facial surface and wire-frame skin and skull meshes, this approach ensures different muscles to be located at the anatomically correct positions between the skin and skull layers. For computational efficiency, we devise an adaptive simulation algorithm which uses either a semi-implicit integration scheme or a quasi-static solver to compute the relaxation by traversing the designed data structures in a breadth-first order. The algorithm runs in real-time and has successfully synthesized realistic facial expressions. 
+ 
+ 
+ 
+ACM CSS: I.3.5 Computer Graphics: Computational Geometry and Object Modelling—physically based modelling; I.3.7 Computer Graphics: Three-Dimensional Graphics and Realism—animation;

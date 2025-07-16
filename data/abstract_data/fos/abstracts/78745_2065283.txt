@@ -1,0 +1,2 @@
+Contracts versus salaries in matching: A general result
+It is shown that a matching market with contracts may be embedded into a matching market with salaries under weaker assumptions on preferences than substitutability. In particular, the result applies to the recently studied problem of cadet-to-branch matching. As an application of the embedding result, a new class of mechanisms for matching markets with contracts is defined that generalize the firm-proposing deferred acceptance algorithm to the case where firms have unilaterally substitutable preferences.

@@ -1,0 +1,2 @@
+A Self-Calibrated On-chip Phase-Noise-Measurement Circuit with -75dBc Single-Tone Sensitivity at 100kHz Offset
+An on-chip phase-noise-measurement circuit with single-tone measurement sensitivity of -75dBc at 100kHz offset from carrier is presented. The circuit uses a delay-line and mixer frequency discriminator and can operate up to 2GHz input frequency. This module does not rely on a reference clock and, with on-line self calibration, its accuracy is stabilized across gate-delay variations.

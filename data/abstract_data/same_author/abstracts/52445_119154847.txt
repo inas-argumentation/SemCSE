@@ -1,0 +1,2 @@
+How many random edges make a dense graph hamiltonian
+This paper investigates the number of random edges required to add to an arbitrary dense graph in order to make the resulting graph hamiltonian with high probability. Adding $\Theta(n)$ random edges is both necessary and sufficient to ensure this for all such dense graphs. If, however, the original graph contains no large independent set, then many fewer random edges are required. We prove a similar result for directed graphs.

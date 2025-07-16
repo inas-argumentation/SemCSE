@@ -1,0 +1,2 @@
+ON QUOTIENTS OF AFFINE SUPERSCHEMES OVER FINITE SUPERGROUPS
+We consider an affine superscheme X over a field K, of characteristic that is different from 2, together with an action of a finite supergroup G on it. We prove that if G acts freely on X, then the sheaf quotient $\widetilde{X/G}$ (with respect to fppf topology) is again an affine superscheme Y, where K[Y] ≃ K[X]G. Besides, K[X] is a finitely presented progenerator as a K[X]G-module.

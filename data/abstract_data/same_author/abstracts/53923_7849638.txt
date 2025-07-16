@@ -1,0 +1,2 @@
+Edge-fault-tolerant edge-bipancyclicity of hypercubes
+In this paper, we consider the problem embedding a cycle into the hypercube Q"n with existence of faulty edges and show that for any edge subset F of Q"n with |F|==4 and all edges in F are not incident with the same vertex. This result improves some known results.

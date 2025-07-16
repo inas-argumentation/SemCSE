@@ -1,0 +1,11 @@
+A tractable probabilistic model for Affymetrix probe-level analysis across multiple chips
+MOTIVATION
+Affymetrix GeneChip arrays are currently the most widely used microarray technology. Many summarization methods have been developed to provide gene expression levels from Affymetrix probe-level data. Most of the currently popular methods do not provide a measure of uncertainty for the expression level of each gene. The use of probabilistic models can overcome this limitation. A full hierarchical Bayesian approach requires the use of computationally intensive MCMC methods that are impractical for large datasets. An alternative computationally efficient probabilistic model, mgMOS, uses Gamma distributions to model specific and non-specific binding with a latent variable to capture variations in probe affinity. Although promising, the main limitations of this model are that it does not use information from multiple chips and does not account for specific binding to the mismatch (MM) probes.
+
+
+RESULTS
+We extend mgMOS to model the binding affinity of probe-pairs across multiple chips and to capture the effect of specific binding to MM probes. The new model, multi-mgMOS, provides improved accuracy, as demonstrated on some bench-mark datasets and a real time-course dataset, and is much more computationally efficient than a competing hierarchical Bayesian approach that requires MCMC sampling. We demonstrate how the probabilistic model can be used to estimate credibility intervals for expression levels and their log-ratios between conditions.
+
+
+AVAILABILITY
+Both mgMOS and the new model multi-mgMOS have been implemented in an R package, which is available at http://www.bioinf.man.ac.uk/resources/puma.

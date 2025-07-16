@@ -1,0 +1,2 @@
+Uniformization theorems: Between Yamabe and Paneitz
+This paper is devoted to several existence results for a generalized version of the Yamabe problem. First, we prove the remaining global cases for the range of powers $\gamma\in (0,1)$ for the generalized Yamabe problem introduced by Gonzalez and Qing. Second, building on a new approach by Case and Chang for this problem, we prove that this Yamabe problem is solvable in the Poincar\'{e}-Einstein case for $\gamma\in (1,\min\{2,n/2\})$ provided the associated fractional GJMS operator satisfies the strong maximum principle.

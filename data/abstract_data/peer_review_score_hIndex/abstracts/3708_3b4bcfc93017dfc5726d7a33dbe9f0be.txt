@@ -1,0 +1,10 @@
+On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training
+Adversarial training is a popular method to robustify models against adversarial attacks.
+However, it exhibits much more severe overfitting than training on clean inputs.
+In this work, we investigate this phenomenon from the perspective of training instances, i.e., training input-target pairs.
+To this end, we provide a quantitative and model-agnostic metric measuring the difficulty of an instance in the training set and analyze the model's behavior on instances of different difficulty levels.
+This lets us show that the decay in generalization performance of adversarial training is a result of the model's attempt to fit hard adversarial instances.
+We theoretically verify our observations for both linear and general nonlinear models, proving that models trained on hard instances have worse generalization performance than ones trained on easy instances.
+In addition, this gap in generalization performance is larger in adversarial training.
+Finally, we investigate solutions to mitigating adversarial overfitting in several scenarios, including when relying on fast adversarial training and in the context of fine-tuning a pretrained model with additional data.
+Our results demonstrate adaptively using training data can improve model's robustness.

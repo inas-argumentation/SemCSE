@@ -1,0 +1,2 @@
+On Behavior of Solvable Ideals of Lie Algebras Under Outer Derivations
+Let L be a finite dimensional Lie algebra over a field F. It is well known that the solvable radical S(L) of the algebra L is a characteristic ideal of L if char F = 0, and there are counterexamples to this statement in case char F = p > 0. We prove that the sum S(L) of all solvable ideals of a Lie algebra L (not necessarily finite dimensional) is a characteristic ideal of L in the following cases: 1) char F = 0; 2) S(L) is solvable and its derived length is less than log2 p.

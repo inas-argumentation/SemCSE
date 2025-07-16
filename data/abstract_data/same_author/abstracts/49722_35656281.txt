@@ -1,0 +1,2 @@
+A generalization of Fan's condition for Hamiltonicity, pancyclicity, and Hamiltonian connectedness
+A weakened version of Fan's condition for Hamiltonicity is shown to be sufficient for a 2-connected graph to be pancyclic (with a few exceptions). Also, a similar condition is shown to be sufficient for a 3-connected graph to be Hamiltonian-connected. These results generalize the earlier work of Benhocine and Wodja (1987).

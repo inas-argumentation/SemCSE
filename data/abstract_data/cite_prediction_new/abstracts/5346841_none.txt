@@ -1,0 +1,2 @@
+A Measurement-Based Power Consumption Simulator for Bluetooth Modules
+Bluetooth modules are increasingly used in pervasive portable electronic items. In this paper, a flexible measurement-based power model for Bluetooth devices is proposed. This model has been used to implement a software simulator to estimate the average power consumption of Bluetooth modules under real operating conditions. The correctness of the assumptions underlying the model has experimentally been proven. In addition, the effect of measurement uncertainty is analyzed.

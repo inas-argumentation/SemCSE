@@ -1,0 +1,2 @@
+Real-Time Distribution of Time-Dependant Tasks in Heterogeneous Environments
+In this paper we present a new approach to distribute tasks connected by causal dependencies within a heterogeneous environment, e.g. several resources communicating with each other or a processor grid. Our approach uses an artificial hormone system for task distribution which is able to meet real-time constraints. Several enhancements of the artificial hormone system are made such as partial suppressing of tasks and distributed task termination.

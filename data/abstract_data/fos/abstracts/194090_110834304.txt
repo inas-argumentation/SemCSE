@@ -1,0 +1,2 @@
+Probabilistic analysis of a two-unit system with ‘start-up process time’ and imperfect switch
+In this paper a two-unit warm standby system with ‘start-up process time’ for the repair facility and the imperfect switch is studied. The life time of a unit while online is a arbitrarily distributed random variable (r.v.) and all the other random variables involved have a Markovian nature. Identifying suitable regeneration points, the steady state availability A ∞ and mean Time to system failure (MTSF) are obtained explicitely.

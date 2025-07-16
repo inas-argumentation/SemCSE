@@ -1,0 +1,15 @@
+Measurement and calibration of noise bias in weak lensing galaxy shape estimation
+Weak gravitational lensing has the potential to constrain cosmological parameters to high 
+precision. However, as shown by the Shear Testing Programmes and Gravitational lensing 
+Accuracy Testing challenges, measuring galaxy shears is a non-trivial task: various methods 
+introduce different systematic biases which have to be accounted for. We investigate how 
+pixel noise on the image affects the bias on shear estimates from a maximum likelihood 
+forward model-fitting approach using a sum of co-elliptical Sersic profiles, in complement 
+to the theoretical approach of an associated paper. We evaluate the bias using a simple but 
+realistic galaxy model and find that the effects of noise alone can cause biases of the order of 
+1–10 per cent on measured shears, which is significant for current and future lensing surveys. 
+We evaluate a simulation-based calibration method to create a bias model as a function of 
+galaxy properties and observing conditions. This model is then used to correct the simulated 
+measurements. We demonstrate that, for the simple case in which the correct range of galaxy 
+models is used in the fit, the calibration method can reduce noise bias to the level required for 
+estimating cosmic shear in upcoming lensing surveys.

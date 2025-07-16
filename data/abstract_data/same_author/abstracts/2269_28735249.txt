@@ -1,0 +1,2 @@
+On Monotonic Strategies for Learning r.e. Languages
+Overgeneralization is a major issue in identification of grammars for formal languages from positive data. Different formulations of monotonic strategies have been proposed to address this problem and recently there has been a flurry of activity investigating such strategies in the context of indexed families of recursive languages.

@@ -1,0 +1,2 @@
+T-spline simplification and local refinement
+A typical NURBS surface model has a large percentage of superfluous control points that significantly interfere with the design process. This paper presents an algorithm for eliminating such superfluous control points, producing a T-spline. The algorithm can remove substantially more control points than competing methods such as B-spline wavelet decomposition. The paper also presents a new T-spline local refinement algorithm and answers two fundamental open questions on T-spline theory.

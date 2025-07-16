@@ -1,0 +1,15 @@
+[Prokaryotic expression, purification and identification of NY-ESO-1/GST fusion protein in E.coli].
+AIM
+To construct an expression plasmid for NY-ESO-1 gene and identify the expression of recombinant protein NY-ESO-1/GST in E.coli.
+
+
+METHODS
+NY-ESO-1 segment was amplified from the testis cDNA library by RT-PCR and cloned into the prokaryotic expression vector pGEX4T-1 downstream tagged by GST to construct the expression plasmid pGEX-4T1-NY-ESO-1. The recombinant vector was transformed to BL21 (DE3) and NY-ESO-1/GST fusion protein was induced expression by IPTG. The protein was purified by urea elution and identified by SDS-PAGE and Western blotting.
+
+
+RESULTS
+The NY-ESO-1 segment was successfully amplified and its sequence was identical with that published in GenBank. The BL21 (DE3) pLysS containing the pGEX-4T1-NY-ESO-1 expressed a M(r); 44 000 fusion protein under the induction of IPTG. The purity of the protein was 90%. Western blotting proved that NY-ESO-1/GST had a specific reaction with anti-GST mAb.
+
+
+CONCLUSION
+The prokaryotic expression vector of NY-ESO-1 has been constructed and the fusion protein NY-ESO-1/GST of high purity is successfully expressed.

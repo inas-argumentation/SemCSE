@@ -1,0 +1,2 @@
+Security Flaws in Several Group Signatures Proposed by Popescu
+In resent years, Popescu et al. proposed several group signature schemes in [8, 9, 10, 11] that based on the Okamoto-Shiraishi assumption. Their schemes are claimed to be secure. However, we identify several security flaws in their schemes and then show that these schemes are all insecure. By exploiting those flaws, anybody (not necessarily a group member) can forge valid group signatures on arbitrary messages of his/her choice. In other words, these schemes are universally forgeable.

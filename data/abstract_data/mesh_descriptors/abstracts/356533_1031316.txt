@@ -1,0 +1,15 @@
+Development and validation of a prioritization rule for obtaining an immediate 12-lead electrocardiogram in the emergency department to identify ST-elevation myocardial infarction.
+BACKGROUND
+Current guidelines recommend an immediate (eg, <10 minutes) 12-lead electrocardiogram (ECG) to identify ST-elevation myocardial infarction (STEMI) among patients presenting to the emergency department (ED) with chest pain. Yet, one third of all patients with myocardial infarction do not have chest pain. Our objective was to develop a practical approach to identify patients, especially those without chest pain, who require an immediate ECG in the ED to identify STEMI.
+
+
+METHODS
+An ECG prioritization rule was derived and validated using classification and regression tree analysis among >3 million ED visits to 107 EDs from 2007 to 2008.
+
+
+RESULTS
+The final study population included 3,575,178 ED patient visits; of these, 6,464 (0.18%) were diagnosed with STEMI. Overall, 1,413 (21.9%) of patients with STEMI did not present to the ED with chest pain. Major predictors of those requiring an immediate ECG in the ED included age ≥30 years with chest pain; age ≥50 years with shortness of breath, altered mental status, upper extremity pain, syncope, or generalized weakness; and those with age ≥80 years with abdominal pain or nausea/vomiting. When the ECG prioritization rule was applied to a validation sample, it had a sensitivity of 91.9% (95% CI 90.9%-92.8%) for STEMI and a negative predictive value 99.98% (95% CI 99.98%-99.98%).
+
+
+CONCLUSION
+A simple ECG prioritization rule based on age and presenting symptoms in the ED can identify patients during triage who are at high risk for STEMI and therefore should receive an immediate 12-lead ECG, often before they are seen by a physician.

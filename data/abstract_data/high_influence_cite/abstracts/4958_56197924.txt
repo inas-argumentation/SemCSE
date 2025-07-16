@@ -1,0 +1,2 @@
+Generalized Harnack inequality for semilinear elliptic equations
+This paper is concerned with semilinear equations in divergence form \[ \diver(A(x)Du) = f(u) \] where $f :\R \to [0,\infty)$ is nondecreasing. We prove a sharp Harnack type inequality for nonnegative solutions which is closely connected to the classical Keller-Osserman condition for the existence of entire solutions.

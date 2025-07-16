@@ -1,0 +1,2 @@
+A note on the computation of the extrema of Young's modulus for hexagonal materials: An approach by planar tensor invariants
+A simple method to obtain the highest and lowest Young's modulus for a material of the hexagonal class is presented. It is based upon the use of tensor invariants of plane anisotropic elasticity; in fact, the cylindrical symmetry of the elastic tensor allows for transforming the 3D original problem into a planar one, with a considerable simplification.

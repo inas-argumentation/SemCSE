@@ -1,0 +1,2 @@
+Review of Basic Semiconductor and pn Junction Theory
+This chapter reviews some of the basics of semiconductor theory that are necessary for an understanding of the development of the device models which follows. Also reviewed is pn junction theory as its behavior is basic to the operation of transistors. The review is brief and covers only those topics which have direct relevance to MOS VLSI circuits. For more exhaustive treatments, the reader is referred to textbooks on the subject [1] [12]

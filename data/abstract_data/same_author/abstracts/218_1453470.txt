@@ -1,0 +1,2 @@
+Towards an authentication middleware to support ubiquitous Web access
+This extended abstract reports our on-going work on the design and development of a flexible multifactor authentication middleware to support secure, finegrained and ubiquitous data access through Web services.

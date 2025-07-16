@@ -1,0 +1,2 @@
+Algorithmically Generated Domain Detection and Malware Family Classification
+In this paper, we compare the performance of several machine learning based approaches for the tasks of detecting algorithmically generated malicious domains and the categorization of domains according to their malware family. The datasets used for model comparison were provided by the shared task on Detecting Malicious Domain names (DMD 2018). Our models ranked first for two out of the four test datasets provided in the competition.

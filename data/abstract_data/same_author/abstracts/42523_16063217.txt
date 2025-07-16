@@ -1,0 +1,2 @@
+Dynamic Bit-width Adaptation in DCT: Image Quality versus Computation Energy Trade-off
+We present a dynamic bit-width adaptation scheme in DCT applications for efficient trade-off between image quality and computation energy. Based on sensitivity differences of 64 DCT coefficients, various operand bit-widths are used for different frequency components to reduce computation energy in DCT operation. Numerical results show that our DCT architecture can achieve power savings ranging from 36 % to 75% compared to normal operation

@@ -1,0 +1,22 @@
+Estimating observation and model error variances using multiple data sets
+. In this paper we show how multiple data sets, including observations and
+models, can be combined using the “three-cornered hat” (3CH) method to
+estimate vertical profiles of the errors of each system. Using data from
+2007, we estimate the error variances of radio occultation (RO), radiosondes,
+ERA-Interim, and Global Forecast System (GFS) model data sets at four radiosonde locations in the
+tropics and subtropics. A key assumption is the neglect of error covariances
+among the different data sets, and we examine the consequences of this
+assumption on the resulting error estimates. Our results show that different
+combinations of the four data sets yield similar relative and specific
+humidity, temperature, and refractivity error variance profiles at the four
+stations, and these estimates are consistent with previous estimates where
+available. These results thus indicate that the correlations of the errors
+among all data sets are small and the 3CH method yields realistic error
+variance profiles. The estimated error variances of the ERA-Interim data set
+are smallest, a reasonable result considering the excellent model and data
+assimilation system and assimilation of high-quality observations. For the
+four locations studied, RO has smaller error variances than radiosondes, in
+agreement with previous studies. Part of the larger error variance of the
+radiosondes is associated with representativeness differences because
+radiosondes are point measurements, while the other data sets represent
+horizontal averages over scales of ∼  100 km.

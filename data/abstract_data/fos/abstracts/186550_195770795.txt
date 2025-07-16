@@ -1,0 +1,15 @@
+Insufficient slow-flow suppression mimicking aneurysm wall enhancement in magnetic resonance vessel wall imaging: a phantom study.
+OBJECTIVE
+MR vessel wall imaging (VWI) is increasingly performed in clinical settings to support treatment decision-making regarding intracranial aneurysms. Aneurysm wall enhancement after contrast agent injection is expected to be related to aneurysm instability and rupture status. However, the authors hypothesize that slow-flow artifacts mimic aneurysm wall enhancement. Therefore, in this phantom study they assess the effect of slow flow on wall-like enhancement by using different MR VWI techniques.
+
+
+METHODS
+The authors developed an MR-compatible aneurysm phantom model, which was connected to a pump to enable pulsatile inflow conditions. For VWI, 3D turbo spin echo sequences-both with and without motion-sensitized driven equilibrium (MSDE) and delay alternating with nutation for tailored excitation (DANTE) preparation pulses-were performed using a 3-T MR scanner. VWI was acquired both before and after Gd contrast agent administration by using two different pulsatile inflow conditions (2.5 ml/sec peak flow at 77 and 48 beats per minute). The intraluminal signal intensity along the aneurysm wall was analyzed to assess the performance of slow-flow suppression.
+
+
+RESULTS
+The authors observed wall-like enhancement after contrast agent injection, especially in low pump rate settings. Preparation pulses, in particular the DANTE technique, improved the performance of slow-flow suppression.
+
+
+CONCLUSIONS
+Near-wall slow flow mimics wall enhancement in VWI protocols. Therefore, VWI should be carefully interpreted. Preparation pulses improve slow-flow suppression, and therefore the authors encourage further development and clinical implementation of these techniques.

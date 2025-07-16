@@ -1,0 +1,19 @@
+The impact of provider volume on the outcomes after surgery for lumbar spinal stenosis.
+BACKGROUND
+Investigation into the provider volume-outcomes association for patients undergoing spine surgery has been limited.
+
+
+OBJECTIVE
+To examine the impact of surgeon and hospital volume on the outcomes after decompression with or without fusion for lumbar spinal stenosis.
+
+
+METHODS
+Data from the Nationwide Inpatient Sample (2005-2008) were retrospectively extracted. Multivariate logistic regression analyses were performed to calculate the adjusted odds of in-hospital mortality and the development of a postoperative complication with increasing surgeon or hospital volume. Provider volume was evaluated continuously and categorically, divided by percentiles into quintiles. Very-low-volume surgeons performed < 15 procedures over 4 years. All analyses were adjusted for differences in patient age, sex, comorbidities, and primary payer, as well as hospital bed size, teaching status, and location (urban vs rural).
+
+
+RESULTS
+A total of 48,971 admissions were examined. In-hospital mortality did not differ significantly with increasing provider volume. When examined continuously, greater surgeon volume was associated with a significantly lower adjusted odds of developing a complication (odds ratio, 0.72; 95% confidence interval, 0.65-0.78; P < .001). Patients who underwent surgery by very-low-volume surgeons (odds ratio, 1.38; 95% confidence interval, 1.19-1.60; P = .001), but not those treated by low-, medium-, or high-volume surgeons, had a significantly higher complication rate compared with those who underwent surgery by very high-volume surgeons. After adjustment for surgeon volume, hospital volume was not significantly associated with in-hospital mortality or complications.
+
+
+CONCLUSION
+In this nationwide study, patients treated by very-low-volume surgeons had a significantly higher complication rate compared with those treated by very high-volume surgeons.

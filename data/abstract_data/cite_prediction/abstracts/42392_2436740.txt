@@ -1,0 +1,2 @@
+Implementation of Path Planning using Genetic Algorithms on Mobile Robots
+This paper presents the implementation of a genetic algorithm based path planning on RoboCup's small-size league robots. The algorithm is adjusted to the resource constraints of micro controllers that are used in embedded environments. Because path planning on mobile robots is a continuous process, the path planning runs until the robot arrives its destination. Hereby, the path is updated to environmental changes, such as moving obstacles.

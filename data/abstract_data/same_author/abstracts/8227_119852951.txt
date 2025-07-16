@@ -1,0 +1,4 @@
+On the link between strong and weak coupling expansions for the SU(2) lattice gauge theory
+The intermediate region between the strong and weak coupling expansions of SU(2) lattice gauge theory is analyzed by inverting the strong coupling series of the average plaquette energy Ep(J). 
+ 
+Taking into account the weak coupling behaviour too, we get Pade approximants for J(Ep) valid in the whole physical region. The zeros of pJ/pEp are mapped into singularities of Ep(J); they occur for complex values of J and give rise to a peak in the specific heat in fair agreement with the Monte Carlo simulation data. The variable Ep is further used to analyze the strong coupling expansions for the roughening indicator, the string tension and the mass gap.

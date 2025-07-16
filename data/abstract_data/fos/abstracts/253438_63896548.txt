@@ -1,0 +1,2 @@
+A New Image Segmentation Approach by Integration of Thresholding and Regiongrowing
+Firstly,this paper analyzes some segmentation difficulties about the images in poorly illuminated environment.Secondly,a novel image segmentation approach by integration of thresholding and region-growing is proposed.The experiments show that the new approach is suitable to segment not only some simple images but also some complex images taken under non-uniform illumination.

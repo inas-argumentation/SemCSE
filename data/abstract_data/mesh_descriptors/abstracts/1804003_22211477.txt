@@ -1,0 +1,2 @@
+A Wiener-type neuronal model in the presence of exponential refractoriness
+An instantaneous return process in the presence of random refractoriness for Wiener model of single neuron activity is considered. The case of exponential distributed refractoriness is analyzed and expressions for output distributions and interspike intervals density are obtained in closed form. A computational study is performed to elucidate the role played by the model parameters in affecting the firing probabilities and the interspike distribution.

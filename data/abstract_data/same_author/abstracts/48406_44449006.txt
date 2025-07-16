@@ -1,0 +1,2 @@
+Online and semi-online scheduling of two machines under a grade of service provision
+We consider the online scheduling of two machines under a grade of service (GoS) provision and its semi-online variant where the total processing time is known. Respectively for the online and semi-online problems, we develop algorithms with competitive ratios of 53 and 32 which are shown to be optimal.

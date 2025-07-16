@@ -1,0 +1,8 @@
+Comparing MapReduce and Pipeline Implementations for Counting Triangles
+A generalized method to define the Divide & Conquer paradigm in order to have processors acting on its own data and scheduled in a 
+parallel fashion. MapReduce is a programming model that follows this paradigm, and allows for the definition of efficient solutions by both decomposing a problem into steps on subsets of the input data 
+and combining the results of each step to produce final results. Albeit used for the implementation of a wide variety of computational problems, MapReduce performance can be negatively affected 
+whenever the replication factor grows or the size of the input is larger than the resources available at each processor. In this paper we show an alternative approach to implement the Divide & Conquer 
+paradigm, named pipeline. The main features of pipeline are illustrated on a parallel implementation of the well-known problem of counting triangles in a graph. This problem is especially interesting either when the input graph does not fit in memory or is dynamically generated. To evaluate the properties of pipeline, a dynamic pipeline of processes and an ad-hoc version of MapReduce are implemented in the language Go, exploiting its ability to deal with channels and spawned processes. 
+An empirical evaluation is conducted on graphs of different sizes and densities. Observed results suggest that pipeline allows for the implementation of an efficient solution of the problem of counting 
+triangles in a graph, particularly, in dense and large graphs, drastically reducing the execution time with respect to the MapReduce implementation.

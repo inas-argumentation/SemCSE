@@ -1,0 +1,2 @@
+Biaccessiblility in quadratic Julia sets I: The locally-connected case
+Let $f:z\mapsto z^2+c$ be a quadratic polynomial whose Julia set $J$ is locally-connected of the set of biaccessible points in $J$ is zero except when $f(z)=z^2-2$ is the Chebyshev quadratic polynomial for which the corresponding measure is one.

@@ -1,0 +1,15 @@
+A comprehensive protocol for chemical analysis of flame combustion emissions by secondary ion mass spectrometry.
+RATIONALE
+Time-of-flight secondary ion mass spectrometry (TOF-SIMS) is used to provide detailed information on the surface chemical composition of soot. An analytical protocol is proposed and tested on a laboratory flame, and the results are compared with our previous measurements provided by two-step laser mass spectrometry (L2MS).
+
+
+METHODS
+This work details: (1) the development of a dedicated apparatus to sample combustion products from atmospheric flames and deposit them on substrates suitable for TOF-SIMS analysis; (2) the choice of the deposition substrate and the material of the sampling line, and their effect on the mass spectra; (3) a method to separate the contributions of soot and condensable gas based on impact deposition; and finally (4) post-acquisition data processing.
+
+
+RESULTS
+Compounds produced during flame combustion are detected on the surface of different deposition substrates and attributed a molecular formula based on mass defect analysis. Silicon and titanium wafers perform similarly, while the surface roughness of glass microfiber filters results in a reduced mass resolution. The mass spectra obtained from the analysis of different locations of the deposits obtained by impaction show characteristic patterns that are attributed to soot/condensable gas.
+
+
+CONCLUSIONS
+A working method for the analysis of soot samples and the extraction of useful data from mass spectra is proposed. This protocol should help to avoid common experimental issues like sample contamination, while optimizing the setup performance by maximizing the achievable mass resolution.

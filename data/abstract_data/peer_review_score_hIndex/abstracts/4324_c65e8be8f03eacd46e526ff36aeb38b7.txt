@@ -1,0 +1,8 @@
+Pseudosaccades: A simple ensemble scheme for improving classification performance of deep nets
+We describe a simple ensemble approach that, unlike conventional ensembles,
+uses multiple random data sketches (‘pseudosaccades’) rather than multiple classifiers
+to improve classification performance. Using this simple, but novel, approach
+we obtain statistically significant improvements in classification performance on
+AlexNet, GoogLeNet, ResNet-50 and ResNet-152 baselines on Imagenet data –
+e.g. of the order of 0.3% to 0.6% in Top-1 accuracy and similar improvements in
+Top-k accuracy – essentially nearly for free.

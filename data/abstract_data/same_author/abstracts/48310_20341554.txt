@@ -1,0 +1,2 @@
+On greedy heuristics for steiner minimum trees
+We disprove a conjecture of Shor and Smith on a greedy heuristic for the Steiner minimum tree by showing that the length ratio between the Steiner minimum tree and the greedy tree constructed by their method for the same set of points can be arbitrarily close to√3/2. We also propose a new conjecture.

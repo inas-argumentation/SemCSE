@@ -1,0 +1,15 @@
+Estimating the effect of medication adherence on health outcomes among patients with type 2 diabetes--an application of marginal structural models.
+OBJECTIVE
+We applied marginal structural models (MSMs) to estimate the effects of medication adherence with hypoglycemics on reducing the risk of microvascular complications in type 2 diabetic patients.
+
+
+METHODS
+A retrospective longitudinal cohort study for type 2 diabetes patients was conducted using the California Medicaid claims database (1995-2002). Medication adherence and multiple time-varying confounders were measured quarterly over a maximum of 7.5 years follow-up. Cox regression models and MSMs results on the effect of compliance were compared.
+
+
+RESULTS
+Of 4708 eligible patients, 2644 (56.2%) experienced microvascular complications during the follow-up period. After controlling for baseline covariates, standard Cox models estimated that adherence was associated with increased risk of complication with hazard ratio (HR) of 1.09 (95% confidence interval (CI): 1.00, 1.18). With adjustment of time-varying confounders as exogenous variables, the HR was 0.96 (0.88, 1.04). Using the MSM technique, the HR was 0.76 (95% bootstrap CI: 0.60, 0.92), indicating a significant benefit of medication adherence with hypoglycemics on the reduction of microvascular complications. This result contrasts with the negative results obtained in the hazard model, and is more consistent with prior clinical trial results
+
+
+CONCLUSION
+Unlike conventional models, MSMs estimated that higher medication adherence may result in reduced risk of microvascular complications among patients with type 2 diabetes.

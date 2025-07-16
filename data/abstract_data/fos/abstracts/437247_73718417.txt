@@ -1,0 +1,2 @@
+Asymptotic estimate of variance with applications to stochastic differential equations arises in mathematical neuroscience
+Matrix representation of a limit of variance for circular process is given. It is shown that the variance is asymptotically measured by the decrease in spectral energy in one step of a Markov chain. Then we apply this result to a stochastic differential equation with parametric noise (which arises in mathematical neuroscience) and demonstrate how the results can be used to analyze propagation of a signal in sound mechanism.

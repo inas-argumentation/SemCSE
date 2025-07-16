@@ -1,0 +1,2 @@
+Semantic AutoSuggest for Electronic Health Records
+In traditional Electronic Health Record (EHR) applications, medical information is provided in free text fields resulting in ambiguities in the use of medical vocabulary. This paper presents a semantic AutoSuggest service that supports consultants entering free-text medical information while at the same time normalizing the medical vocabulary used. For this, several medical ontologies are semantically integrated. Particular focus is on usability, optimizing the relevance of suggested terms as well as supporting diversity.

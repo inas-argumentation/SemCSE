@@ -1,0 +1,5 @@
+Large Families of Optimal Two-Dimensional Optical Orthogonal Codes
+Nine new 2-D OOCs are presented here, all sharing the common feature of a code size that is much larger in relation to the number of time slots than those of constructions appearing previously in the literature. Each of these constructions is either optimal or asymptotically optimal with respect to either the original Johnson bound or else a non-binary version of the Johnson bound introduced in this paper. 
+The first 5 codes are constructed using polynomials over finite fields - the first construction is optimal while the remaining 4 are asymptotically optimal. The next two codes are constructed using rational functions in place of polynomials and these are asymptotically optimal. The last two codes, also asymptotically optimal, are constructed by composing two of the above codes with a constant weight binary code. 
+Also presented, is a three-dimensional OOC that exploits the polarization dimension. 
+Finally, phase-encoded optical CDMA is considered and construction of two efficient codes are provided.

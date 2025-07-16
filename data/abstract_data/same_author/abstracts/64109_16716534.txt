@@ -1,0 +1,2 @@
+A π/4-shifted differential 8PSSK modulation for high data rate WBAN system
+This paper proposes a new modulation scheme for high data rate WBAN in-body communication systems. We propose a π/4-shifted differential 8-PSSK scheme that includes its architectures for the transmitter and receiver. Simulation results are presented in terms of performance, modulation options and frequency tolerance.

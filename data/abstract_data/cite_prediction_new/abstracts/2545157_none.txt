@@ -1,0 +1,2 @@
+Benchmarking High Performance Architectures with Natural Language Processing Algorithms
+Natural Language Processing algorithms are resource demanding, especially when tuning toinflective language like Polish is needed. The paper presents time and memory requirementsof part of speech tagging and clustering algorithms applied to two corpora of the Polishlanguage. The algorithms are benchmarked on three high performance platforms of differentarchitectures. Additionally sequential versions and OpenMP implementations of clusteringalgorithms were compared.

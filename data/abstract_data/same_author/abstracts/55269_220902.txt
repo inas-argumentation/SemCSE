@@ -1,0 +1,2 @@
+MedMaker: a mediation system based on declarative specifications
+Mediators are used for integration of heterogeneous information sources. We present a system for declaratively specifying mediators. It is targeted for integration of sources with unstructured or semi-structured data and/or sources with changing schemas. We illustrate the main features of the Mediator Specification Language (MSL), show how they facilitate integration, and describe the implementation of the system that interprets the MSL specifications.

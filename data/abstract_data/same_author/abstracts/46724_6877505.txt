@@ -1,0 +1,2 @@
+An Algorithm for SAT Above the Threshold
+We study algorithms for finding satisfying assignments of randomly generated 3-SAT formula. In particular, we consider distributions of highly constrained formulas (that is, “above the threshold” formulas) restricted to satisfiable instances. We obtain positive algorithmic results, showing that such formulas can be solved in low exponential time.

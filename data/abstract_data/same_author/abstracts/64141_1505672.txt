@@ -1,0 +1,2 @@
+Towards the verification and validation of online learning systems: general framework and applications
+Online adaptive systems cannot be certified using traditional testing and proving methods, because these methods rely on assumptions that do not hold for such systems. In this paper, we discuss a framework for reasoning about online adaptive systems, and see how this framework can be used to perform the verification of these systems. In addition to the framework, we present some preliminary results on concrete neural network models.

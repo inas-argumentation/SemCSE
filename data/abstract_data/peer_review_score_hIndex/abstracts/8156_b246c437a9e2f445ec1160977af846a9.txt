@@ -1,0 +1,6 @@
+HC-Net: Memory-based Incremental Dual-Network System for Continual learning
+Training a neural network for a classification task typically assumes that the data to train are given from the beginning.
+However, in the real world, additional data accumulate gradually and the model requires additional training without accessing the old training data. This usually leads to the catastrophic forgetting problem which is inevitable for the traditional training methodology of neural networks.
+In this paper, we propose a memory-based continual learning method that is able to learn additional tasks while retaining the performance of previously learned tasks.
+Composed of two complementary networks, the Hippocampus-Net (H-Net) and the Cortex-Net (C-Net), our model estimates the index of the corresponding task for an input sample and utilizes a particular portion of itself with the estimated index.
+The C-Net guarantees no degradation in the performance of the previously learned tasks and the H-Net shows high confidence in finding the origin of an input sample.

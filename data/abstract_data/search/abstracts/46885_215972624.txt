@@ -1,0 +1,2 @@
+Identity based chameleon hashing and signatures without key exposure
+The notion of chameleon hash function without key exposure plays an important role in designing secure chameleon signatures. However, all of the existing key exposure free chameleon hash schemes ar.

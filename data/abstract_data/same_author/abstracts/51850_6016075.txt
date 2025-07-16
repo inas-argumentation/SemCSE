@@ -1,0 +1,2 @@
+Concept-based component libraries and optimizing compilers
+This paper discusses concept lattices and some of their applications in component library development and compiler optimizations. Ongoing work on concept-based user-extensible simplification (type-based optimizer generators) and library transformations is first reviewed, then a new application--categorization of algorithms via precise descriptions of their performance characteristics--is outlined, with Standard Template Library and Boost Graph Library algorithm concept lattices as example.

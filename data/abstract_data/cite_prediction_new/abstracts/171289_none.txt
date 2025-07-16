@@ -1,0 +1,2 @@
+Solution to the “high” frequency breakdown in EFIE
+We demonstrate, both theoretically and numerically, that the EFIE solution at breakdown frequencies can be a full-wave solution for which static and quasi-static assumptions are invalid, especially in multiscale problems that span many orders of magnitude difference in geometrical scales. We present a fast method to find the solution to the original fullwave RWG-based EFIE at an arbitrary breakdown frequency, whether high or low. Numerical experiments have validated the proposed method.

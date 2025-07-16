@@ -1,0 +1,2 @@
+Integration, verification and layout of a complex multimedia SOC
+We present our experience of designing a single-chip controller for an advanced digital still camera from specification all the way to mass production. The process involves collaboration with camera system designer, IP vendors, EDA vendors, silicon wafer foundry, package and testing houses, and camera maker. We also co-work with academic research groups to develop a JPEG codec IP and memory BIST and SOC testing methodology. We cover the problems encountered, our solutions, and lessons learned.

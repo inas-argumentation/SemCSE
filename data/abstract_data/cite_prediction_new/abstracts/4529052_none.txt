@@ -1,0 +1,19 @@
+A novel technique for quantitative bedside monitoring of neurovascular coupling
+BACKGROUND
+There is no current method for continuous quantification of neurovascular coupling (NVC) in spontaneous brain activity. To fill this void, we propose a novel method to quantify NVC using electroencephalogram (EEG) and near-infrared spectroscopy (NIRS) data.
+
+
+NEW METHOD
+Since EEG and NIRS measure physiologic changes occurring at different time scales, we bring them into a common dynamical time frame (DTF). To achieve this, we partition both signals into one-second epochs and calculate the standard deviation of the EEG and the average value of the NIRS for each epoch. We then quantify the NVC by calculating spectral coherence between the two signals in the DTF. The resulting NVC will have a low resolution with all of its content localized below 1Hz.
+
+
+RESULTS
+After validating this framework on simulated data, we applied this approach to EEG and NIRS signals collected from four term infants undergoing therapeutic hypothermia for neonatal encephalopathy. Two of these infants showed no evidence of structural brain injury, and the other two died during the course of the therapy. The intact survivors showed emergence of NVC during hypothermia and/or after rewarming. In contrast, the two critically ill infants, who subsequently died, lacked this feature.
+
+
+COMPARISON WITH EXISTING METHODS
+Existing methods quantify NVC by averaging neurovascular signals based on certain events (for example seizure) in the EEG activity, whereas our approach quantifies coupling between spontaneous background EEG and NIRS.
+
+
+CONCLUSION
+Real-time continuous monitoring of NVC may be a promising physiologic signal for cerebral monitoring in future.

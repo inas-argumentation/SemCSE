@@ -1,0 +1,2 @@
+Finding the Contour of a Union of Iso-Oriented Rectangles
+Abstract Let R 1 ,…, R m be rectangles on the plane with sides parallel to the coordinate axes. An algorithm is described for finding the contour of F = R 1 ∪ … ∪ R m in O(m log m + p log ( 2m 2 p )) time, where p is the number of edges in the contour. This is O ( m 2 ) in the general case, and O ( m log m ) when F is without holes (then p ≤ 8 m − 4); both of these performances are optimal.

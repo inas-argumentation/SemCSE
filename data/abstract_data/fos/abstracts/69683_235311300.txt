@@ -1,0 +1,48 @@
+Version 4 CALIPSO Imaging Infrared Radiometer ice and liquid water cloud microphysical properties – Part I: The retrieval algorithms
+. Following the release of the version 4 Cloud-Aerosol Lidar with Orthogonal
+Polarization (CALIOP) data products from the Cloud-Aerosol Lidar and
+Infrared Pathfinder Satellite Observations (CALIPSO) mission, a new version
+(version 4; V4) of the CALIPSO Imaging Infrared Radiometer (IIR) Level 2 data
+products has been developed. The IIR Level 2 data products include cloud
+effective emissivities and cloud microphysical properties such as effective
+diameter and ice or liquid water path estimates. Dedicated retrievals for
+water clouds were added in V4, taking advantage of the high sensitivity of
+the IIR retrieval technique to small particle sizes. This paper (Part I)
+describes the improvements in the V4 algorithms compared to those used in
+the version 3 (V3) release, while results will be presented in a companion
+(Part II) paper. The IIR Level 2 algorithm has been modified in the V4 data
+release to improve the accuracy of the retrievals in clouds of very small
+(close to 0) and very large (close to 1) effective emissivities. To reduce
+biases at very small emissivities that were made evident in V3, the
+radiative transfer model used to compute clear-sky brightness temperatures
+over oceans has been updated and tuned for the simulations using Modern-Era Retrospective analysis for Research and
+Applications version 2 (MERRA-2)
+data to match IIR observations in clear-sky conditions. Furthermore, the
+clear-sky mask has been refined compared to V3 by taking advantage of
+additional information now available in the V4 CALIOP 5 km layer products
+used as an input to the IIR algorithm. After sea surface emissivity
+adjustments, observed and computed brightness temperatures differ by less
+than ±0.2  K at night for the three IIR channels centered at 08.65,
+10.6, and 12.05  µ m, and inter-channel biases are reduced from several
+tens of Kelvin in V3 to less than 0.1 K in V4. We have also improved
+retrievals in ice clouds having large emissivity by refining the
+determination of the radiative temperature needed for emissivity
+computation. The initial V3 estimate, namely the cloud centroid temperature
+derived from CALIOP, is corrected using a parameterized function of
+temperature difference between cloud base and top altitudes, cloud
+absorption optical depth, and CALIOP multiple scattering correction factor.
+As shown in Part II, this improvement reduces the low biases at large
+optical depths that were seen in V3 and increases the number of retrievals.
+As in V3, the IIR microphysical retrievals use the concept of microphysical
+indices applied to the pairs of IIR channels at 12.05 and 10.6  µ m
+and at 12.05 and 08.65  µ m. The V4 algorithm uses ice look-up
+tables (LUTs) built using two ice habit models from the recent “TAMUice2016” database, namely the single-hexagonal-column model and the eight-element
+column aggregate model, from which bulk properties are synthesized using a
+gamma size distribution. Four sets of effective diameters derived from a
+second approach are also reported in V4. Here, the LUTs are analytical
+functions relating microphysical index applied to IIR channels 12.05 and
+10.6  µ m and effective diameter as derived from in situ
+measurements at tropical and midlatitudes during the Tropical Composition,
+Cloud, and Climate Coupling (TC4) and Small Particles in Cirrus
+Science and Operations Plan (SPARTICUS)
+field experiments.

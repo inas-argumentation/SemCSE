@@ -1,0 +1,2 @@
+Analysis of a CSMA/CD-Based Protocol with Dynamic Segmentation
+An approximate performance analysis of CSMA/CD-based protocol capable of dynamic network segmentation is presented. This protocol, Segnet, was previuosly studied using simulation and shown to perform better than CSMA/CD. In this paper, analytical results on the throughput and mean packet transfer delay of a slotted, non-persistent Segnet are obtained. These are shown to agree well with the simulation results.

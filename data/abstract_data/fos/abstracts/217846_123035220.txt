@@ -1,0 +1,2 @@
+On a strengthening of the indifference zone approach to a generalized selection goal
+The problem of selecting s out of k given compounts which contains at least c of the t best ones is considered. In the case of underlying distribution families with location or scale parameter it is shown that the indiffence zone approach can be strengthened to confidence statements for the parameters of the selected components. These confidence statements are valid over the entire parameter space without decreasing the infimum of the probability of a correct selection.

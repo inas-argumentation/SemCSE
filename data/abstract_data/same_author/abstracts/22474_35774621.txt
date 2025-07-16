@@ -1,0 +1,2 @@
+Many-body approximations in the sd-shell "sandbox"
+A new theoretical approach is presented that combines the Hartree-Fock variational scheme with the exact solution of the pairing problem in the finite orbital space. Using this formulation in the sd-space as an example, we show that the exact pairing significantly improves the results for the ground state energy.

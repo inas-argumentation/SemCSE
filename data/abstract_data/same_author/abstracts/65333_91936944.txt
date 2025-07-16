@@ -1,0 +1,8 @@
+Equazioni Alle Derivate Parziali Singolari
+1. Lo scopo di queste conferenze e quello di passare in rassegna alcuni risultati recentemente ottenuti nella teoria delle equazioni del tipo 
+ 
+$$ \frac{{\partial ^2 u}} {{\partial y^2 }} + \frac{k} {y}\frac{{\partial u}} {{\partial y}} + \times u = 0 $$ 
+ 
+(1.1) 
+ 
+con u = u(x1,x2,…,xm,y) = u(x,y); x = (x1,x2,…,xm); m = 1,2,…;−∞< k < +∞, e dove X indica un operatore del 2° ordine dipendente solo da x, Tale equazione e singolare per la presenza del coefficiente ky−1 che diventa infinito per y=0.

@@ -1,0 +1,2 @@
+On the numerical integration of oscillatory problems with multistep codes
+In this paper we present a simple way to construct multistep codes specially designed for the numerical integration of oscillatory problems introducing a simple modification in classical multistep methods. We show the behaviour of the new algorithms by means of the numerical integration of two problems. The new methods are competitive when compared with classical codes and when comparing with special codes.

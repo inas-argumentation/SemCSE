@@ -1,0 +1,2 @@
+Algorithm designed for image inpainting based on decomposition and fractal
+An image inpainting algorithm based on fractal and image decomposition is proposed in this paper. The image is decomposition into two element structure and texture, which are processed respectively according to their characteristic, structure element is inpainted by CDD (Curvature-Drive Diffusions) algorithm. And texture element is filled by fractal parametexperiment results show that the proposed algorithm provides a better visual effect, especially for large block.

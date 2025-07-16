@@ -1,0 +1,9 @@
+Excursions into Algebra and Combinatorics at q = 0
+We explore combinatorics associated with the degenerate Hecke algebra at $q=0$,
+ obtaining a formula for a system of orthogonal idempotents, and also exploring various
+ pattern avoidance results. Generalizing constructions for the 0-Hecke algebra, we explore
+ the representation theory of $\JJ$-trivial monoids. We then discuss two-tensors of crystal
+ bases for $U_q(\tilde{\mathfrak{sl}_2})$, establishing a complementary result to one of
+ Bandlow, Schilling, and Thi #x27;ery on affine crystals arising from promotion operators.
+ Finally, we give a computer implementation of Stembridge's local axioms for simply-laced
+ crystal bases.

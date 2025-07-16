@@ -1,0 +1,2 @@
+Breaking Another Quasigroup-Based Cryptographic Scheme
+In their paper “A Quasigroup Based Random Number Generator for Resource Constrained Environments”, the authors Matthew Battey and Abhishek Parakh propose the pseudo random number generator LOQG PRNG 256. We show several highly efficient attacks on LOQG PRNG 256.

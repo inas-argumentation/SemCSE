@@ -1,0 +1,2 @@
+Comparison of Instances Seletion Algorithms I. Algorithms Survey
+Several methods were proposed to reduce the number of instances (vectors) in the learning set. Some of them extract only bad vectors while others try to remove as many instances as possible without significant degradation of the reduced dataset for learning. Several strategies to shrink training sets are compared here using different neural and machine learning classification algorithms. In part II (the accompanying paper) results on benchmarks databases have been presented.

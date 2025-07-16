@@ -1,0 +1,5 @@
+Training Invertible Linear Layers through Rank-One Perturbations
+Many types of neural network layers rely on matrix properties such as invertibility or orthogonality.
+Retaining such properties during optimization with gradient-based stochastic optimizers is a challenging task, which is usually addressed by either reparameterization of the affected parameters or by directly optimizing on the manifold.
+This work presents a novel approach for training invertible linear layers. In lieu of directly optimizing
+the network parameters, we train rank-one perturbations and add them to the actual weight matrices infrequently. This P$^{4}$Inv update allows keeping track of inverses and determinants without ever explicitly computing them. We show how such invertible blocks improve the mixing and thus the mode separation of the resulting normalizing flows. Furthermore, we outline how the P$^4$ concept can be utilized to retain properties other than invertibility.

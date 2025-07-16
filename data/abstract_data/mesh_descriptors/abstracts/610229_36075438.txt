@@ -1,0 +1,2 @@
+Introducing a 4th dimension to protein-protein docking.
+A three-step model (diffusion, conformer selection, and induced fit) is proposed to describe molecular recognition processes, merging previous theories of protein association (Grunberg et al., 2004, this issue of Structure ). The model was arrived at by docking ensembles of structures.

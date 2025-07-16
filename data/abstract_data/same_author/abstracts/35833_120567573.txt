@@ -1,0 +1,2 @@
+Canonical Stochastic Quantization
+On propose une quantification stochastique canonique en introduisant l'equation de Langevin d'impulsion π(x,t). On obtient la methode de moyenne de Gibbs comme une consequence de cette quantification stochastique canonique

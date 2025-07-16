@@ -1,0 +1,2 @@
+The Data Structrue Trie and Its Appliation Research
+Many computer applications involve managing the large set of strings. It is very important to select a good data structure in order to get efficiency. In this paper,we briefly analyze several data structures for strings set. In particular we analyze the feature of three kinds of trie and give the applying methed by the example of IP address lookup.

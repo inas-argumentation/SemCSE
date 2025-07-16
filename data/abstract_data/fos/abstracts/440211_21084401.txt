@@ -1,0 +1,15 @@
+SU-E-T-401: Evaluation of Initial Setup Accuracy and Intra-Fraction Motion for Spine SBRT Using Stereotactic Body Frames.
+PURPOSE
+Quantify initial setup accuracy and intra-fraction motion using stereotactic body frames (SBF) for spine SBRT.
+
+
+METHODS
+10 patients (11 sites, 31 fractions) treated with spine SBRT using SBF immobilization were evaluated for initial setup accuracy and intra-fraction motion. Either the commercial Elekta SBF or an in-house developed SBF (BHS-SBF) were used. The BHS-SBF uses the same setup/immobilization principle as the Elekta but with increased interior space and couch indexing. Both frames include sidewalls to conform the vac-loc rigidly to the patient's sides. All patients were setup using the Brainlab ExacTrac system which includes IR and stereoscopic kV x-ray based positioning. Patients were initially positioned in the frame using skin tattoos then shifted to treatment isocenter based on IR markers affixed to the frame with known geometry relative to isocenter. kV imaging was acquired and automatic 6-D bony fusion performed. Resulting translations and rotations give the initial setup accuracy. Calculated shifts and rotations were performed using a robotic couch and verification imaging acquired. The imaging/fusion process was repeated multiple times during treatment providing intra-fraction motion data.
+
+
+RESULTS
+Mean initial setup error in the VRT, LNG and LAT directions was 0.1+/-3.0 mm (0.1+/-0.6 deg), 0.5+/-5.2 mm (0.1+/-1.1 deg) and -0.3+/- 3.7 mm (0.4+/-0.8 deg) respectively. Mean 3-D error magnitude was 6.6 mm with a 95% certainty of 11.2 mm. Mean intra-fraction shifts observed in the VRT, LNG and LAT directions were -0.1+/-0.4 mm, -0.1+/-0.4 mm and 0.1+/-0.3 mm respectively. Mean 3-D intra-fraction shift magnitude was 0.6 mm with a 95% certainty of 1.4 mm. No significant difference was observed between the SBFs.
+
+
+CONCLUSIONS
+Patient positioning is not sufficiently reproducible with the evaluated SBF to allow non-image guided treatment. However, provided image guidance is used for patient positioning, these frames provide excellent immobilization which is on par with mask based cranial radiosurgery.

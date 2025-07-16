@@ -1,0 +1,2 @@
+Application of a dual unscented Kalman filter for simultaneous state and parameter estimation in problems of surface‐atmosphere exchange
+A dual unscented Kalman filter (UKF) was used to assimilate net CO2 exchange (NEE) data measured over a spruce-hemlock forest at the Howland AmeriFlux site in Maine, USA, into a simple physiological model for the purpose of filling gaps in an eddy flux time series. In addition to filling gaps in the measurement record, the UKF approach provides continuous estimates of model parameters and uncertainty.

@@ -1,0 +1,8 @@
+Mathematical relationships between scoring parameters in capped tendering
+Mathematical relationships between Scoring Parameters can be used in Economic Scoring Formulas (ESF) in tendering to distribute the score among bidders in the economic part of a proposal. 
+ 
+Each contracting authority must set an ESF when publishing tender specifications and the strategy of each bidder will differ depending on the ESF selected and the weight of the overall proposal scoring. 
+ 
+This paper introduces the various mathematical relationships and density distributions that describe and inter-relate not only the main Scoring Parameters but the main Forecasting Parameters in any capped tender (those whose price is upper-limited). 
+ 
+Forecasting Parameters, as variables that can be known in advance before the deadline of a tender is reached, together with Scoring Parameters constitute the basis of a future Bid Tender Forecasting Model.

@@ -1,0 +1,2 @@
+The Catalog Archive Server Database Management System
+The multiterabyte Sloan Digital Sky Survey's (SDSS's) catalog data is stored in a commercial relational database management system with SQL query access and a built-in query optimizer. The SDSS catalog archive server adds advanced data mining features to the DBMS to provide fast online access to the data.

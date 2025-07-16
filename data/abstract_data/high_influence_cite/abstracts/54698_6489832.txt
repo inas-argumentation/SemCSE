@@ -1,0 +1,2 @@
+Cubic edge-transitive graphs of order 2p3
+Let p be a prime. It was shown by Folkman (J. Combin. Theory 3 (1967) 215) that a regular edge-transitive graph of order 2p or 2p^2 is necessarily vertex-transitive. In this paper an extension of his result in the case of cubic graphs is given. It is proved that, with the exception of the Gray graph on 54 vertices, every cubic edge-transitive graph of order 2p^3 is vertex-transitive.

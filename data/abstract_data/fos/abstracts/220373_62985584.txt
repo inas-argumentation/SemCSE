@@ -1,0 +1,2 @@
+Approach Research of Machine Learning in Hierarchy Classification
+By the analysis of the hierarchy structure for the famous web site Yahoo. This paper introduces a technique of machine learning for document classifier based on the hierarchy structure for Yahoo. We automatically build the background knowledge for every domain of the classitier using this hierarchy learning algorithm.

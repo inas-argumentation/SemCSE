@@ -1,0 +1,6 @@
+Ramsey problem on multiplicities of complete subgraphs in nearly quasirandom graphs
+Letkt(G) be the number of cliques of ordert in the graphG. For a graphG withn vertices let
+$$c_t (G) = \frac{{k_t (G) + k_t (\bar G)}}{{\left( {\begin{array}{*{20}c} n \\ t \\ \end{array} } \right)}}$$
+. Letct(n)=Min{ct(G)∶∇G∇=n} and let
+$$c_t = \mathop {\lim }\limits_{n \to \infty } c_t (n)$$
+. An old conjecture of Erdös [2], related to Ramsey's theorem states thatct=21-(t/2). Recently it was shown to be false by A. Thomason [12]. It is known thatct(G)≈21-(t/2) wheneverG is a pseudorandom graph. Pseudorandom graphs — the graphs “which behave like random graphs” — were inroduced and studied in [1] and [13]. The aim of this paper is to show that fort=4,ct(G)≥21-(t/2) ifG is a graph arising from pseudorandom by a small perturbation.

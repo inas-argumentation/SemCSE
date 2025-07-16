@@ -1,0 +1,2 @@
+Unconstrained nonlinear optimization of a distributed SWE model using MODIS and in situ measurements over the French Alps
+In this paper we propose the optimization of the snow sub-model of MORDOR using MODIS and in situ measurements for the case study of the Serre-Ponçon reservoir (one of the largest artificial lakes in Western Europe) on the Durance River in the French Alps. We consider the problem of optimizing the snow model as an unconstrained nonlinear optimization problem.

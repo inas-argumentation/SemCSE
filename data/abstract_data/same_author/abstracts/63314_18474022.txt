@@ -1,0 +1,2 @@
+Express Virtual Channels with Capacitively Driven Global Links
+Networks on chip must deliver high bandwidth at low latencies while keeping within a tight power envelope. Using express virtual channels for flow control improves energy-delay throughput by letting packets bypass intermediate routers, but EVCS have key limitations. Nochi (NoC with hybrid interconnect) overcomes these limitations by transporting data payloads and control information on separate planes, optimized for bandwidth and latency respectively.

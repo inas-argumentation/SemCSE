@@ -1,0 +1,2 @@
+A new proof of the independence ratio of triangle-free cubic graphs
+Abstract Staton proved that every triangle-free graph on n vertices with maximum degree 3 has an independent set of size at least 5 n /14. A simpler proof was found by Jones. We give a yet simpler proof, and use it to design a linear-time algorithm to find such an independent set.

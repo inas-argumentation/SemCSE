@@ -1,0 +1,2 @@
+Application of Shell Element Method to 3-D Finite-Element Computation of the Force on One Body in Contact With Others
+A general formulation of nodal virtual work force computation for three-dimensional finite-element analysis is presented. For problems with objects touching each other, a special shell element is used and its implementation methodology is presented. It is noted that additional surface integration is needed when volume integration changes to surface integration. Numerical results are compared and validated using their corresponding analytical solutions.

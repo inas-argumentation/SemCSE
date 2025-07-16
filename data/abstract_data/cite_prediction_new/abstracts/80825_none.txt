@@ -1,0 +1,2 @@
+Time-domain modeling of emission-gated electron guns
+Modeling of emission-gated electron guns used on inductive output tubes (IOTs) will be presented. The simulations are performed with the time-domain module of the NRL / SAIC electron gun and collector code MICHELLE, with RF electric and magnetic fields imported from the HFSS electromagnetic solver.

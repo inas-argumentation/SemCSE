@@ -1,0 +1,15 @@
+Population pharmacokinetics of abacavir in infants, toddlers and children.
+AIMS
+To characterize the pharmacokinetics of abacavir in infants, toddlers and children and to assess the influence of covariates on drug disposition across these populations.
+
+
+METHODS
+Abacavir concentration data from three clinical studies in human immunodeficiency virus-infected children (n = 69) were used for model building. The children received either a weight-normalized dose of 16 mg kg(-1) day(-1) or the World Health Organization recommended dose based on weight bands. A population pharmacokinetic analysis was performed using nonlinear mixed effects modelling VI. The influence of age, gender, bodyweight and formulation was evaluated. The final model was selected according to graphical and statistical criteria.
+
+
+RESULTS
+A two-compartmental model with first-order absorption and first-order elimination best described the pharmacokinetics of abacavir. Bodyweight was identified as significant covariate influencing the apparent oral clearance and volume of distribution. Predicted steady-state maximal plasma concentration and area under the concentration-time curve from 0 to 12 h of the standard twice daily regimen were 2.5 mg l(-1) and 6.1 mg h l(-1) for toddlers and infants, and 3.6 mg l(-1) and 8.7 mg h l(-1) for children, respectively. Model-based predictions showed that equivalent systemic exposure was achieved after once and twice daily dosing regimens. There were no pharmacokinetic differences between the two formulations (tablet and solution). The model demonstrated good predictive performance for dosing prediction in individual patients and, as such, can be used to support therapeutic drug monitoring in conjunction with sparse sampling.
+
+
+CONCLUSIONS
+The disposition of abacavir in children appears to be affected only by differences in size, irrespective of the patient's age. Maturation processes of abacavir metabolism in younger infants should be evaluated in further studies to demonstrate the potential impact of ontogeny.

@@ -1,0 +1,2 @@
+Robust Stability of Interval Delayed Neural Networks
+Recently, there are several papers discussing global robust stability of the equilibrium point for the interval delayed neural networks. However, we find these criteria are not accurate. In this paper, based on Linear Matrix Inequality (LMI) technique, we propose an algorithm to determine in which region the interval delayed system is globally robust stabile. This approach is much more powerful than the criteria given in previous papers. We also give a numerical example to illustrate the viability of our algorithm.

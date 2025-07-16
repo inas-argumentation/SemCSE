@@ -1,0 +1,2 @@
+Hierarchical Learning in Stochastic Domains: Preliminary Results
+This paper presents the HDG learning algorithm, which uses a hierarchical decomposition of the state space to make learning to achieve goals more efficient with a small penalty in path quality. Special care must be taken when performing hierarchical planning and learning in stochastic domains, because macro-operators cannot be executed ballistically. The HDG algorithm, which is a descendent of Watkins’ Q-learning algorithm, is described here and preliminary empirical results are presented.

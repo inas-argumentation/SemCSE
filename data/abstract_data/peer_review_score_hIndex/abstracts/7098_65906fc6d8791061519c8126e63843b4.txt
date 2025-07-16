@@ -1,0 +1,19 @@
+Model Specialization for Inference Via End-to-End Distillation, Pruning, and Cascades
+The availability of general-purpose reference and benchmark datasets such as
+ImageNet have spurred the development of general-purpose popular reference
+model architectures and pre-trained weights. However, in practice, neural net-
+works are often employed to perform specific, more restrictive tasks, that are
+narrower in scope and complexity. Thus, simply fine-tuning or transfer learn-
+ing from a general-purpose network inherits a large computational cost that may
+not be necessary for a given task. In this work, we investigate the potential for
+model specialization, or reducing a model’s computational footprint by leverag-
+ing task-specific knowledge, such as a restricted inference distribution. We study
+three methods for model specialization—1) task-aware distillation, 2) task-aware
+pruning, and 3) specialized model cascades—and evaluate their performance on
+a range of classification tasks. Moreover, for the first time, we investigate how
+these techniques complement one another, enabling up to 5× speedups with no
+loss in accuracy and 9.8× speedups while remaining within 2.5% of a highly ac-
+curate ResNet on specialized image classification tasks. These results suggest that
+simple and easy-to-implement specialization procedures may benefit a large num-
+ber practical applications in which the representational power of general-purpose
+networks need not be inherited.

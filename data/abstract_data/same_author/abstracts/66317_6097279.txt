@@ -1,0 +1,2 @@
+On the small sieve. I. Sifting by primes
+The main object of the paper is to prove that if P is a set of primes with sum of reciprocals ≤K, then the number of natural numbers up to x, divisible by no element of P, is ≥cx, where c is a positive constant depending only on K. A lower estimate is given for c and a similar result is achieved in the case when the condition of primality is substituted by the weaker condition that any m elements of the sifting set are coprime.

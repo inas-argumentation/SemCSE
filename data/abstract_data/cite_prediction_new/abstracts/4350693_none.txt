@@ -1,0 +1,2 @@
+An embedded system for observing the stages of lung cancer in non-invasive way
+An embedded device has been developed for observing stages of lung cancer. This device is based on bio-electrical impedance analysis from which reactant component has been measured to detect the stage of lung cancer. The result shows that the value of phase angle has been found very low typically below 4.5 degree from the reactant component for the patient who are in III and IV stages of lung cancer.

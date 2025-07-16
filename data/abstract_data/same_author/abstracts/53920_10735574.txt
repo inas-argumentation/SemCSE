@@ -1,0 +1,2 @@
+Forwarding indices of folded n-cubes
+For a given connected graph G of order n, a routing R is a set of n(n - 1) elementary paths specified for every ordered pair of vertices in G. The vertex (resp. edge) forwarding index of a graph is the maximum number of paths of R passing through any vertex (resp. edge) in the graph. In this paper, the authors determine the vertex and the edge forwarding indices of a folded n-cube as (n-1)2n-1 +1-((n+l)/2) (n ⌊n+1/2⌋) and 2n-(n,⌊n+1/2⌋),respectively.

@@ -1,0 +1,27 @@
+Molecular-targeted first-line therapy for advanced gastric cancer.
+BACKGROUND
+Gastric cancer is the fifth most common cancer and third leading cause of cancer-related deaths worldwide. Complete resection of the whole tumor remains the only approach to treat this malignant disease. Since gastric cancer is usually asymptomatic in its early stages, many people are diagnosed at an advanced stage when the tumor is inoperable. In addition, because other conventional treatments (radiotherapy and chemotherapy) have only modest efficacy for those with advanced/metastatic gastric cancer, the prognosis in such cases is poor. Recently, trials have provided some promising results regarding molecular-targeted therapy, raising the possibility that the development of these agents could be a fruitful approach. However, the benefit of molecular-targeted therapy for advanced gastric cancer remains inconclusive.
+
+
+OBJECTIVES
+To evaluate the efficacy and safety of molecular-targeted therapy , either alone or in combination with chemotherapy, in people with advanced gastric cancer.
+
+
+SEARCH METHODS
+We searched the following databases (from inception to December 2015): the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and CINAHL. In addition, we searched the reference lists of included trials and contacted experts in the field.
+
+
+SELECTION CRITERIA
+We searched for randomized controlled trials (RCTs) in adults (aged 18 years or older) with histologically-confirmed advanced adenocarcinoma of the stomach/gastro-esophageal junction. Trials of participants with esophageal adenocarcinoma were also considered to be eligible. The eligible trials should aim to evaluate the effects of molecular-targeted agents on participants' prognosis.
+
+
+DATA COLLECTION AND ANALYSIS
+Two review authors independently performed selection of eligible trials, assessment of trial quality, and data extraction. We used methods of survival analysis and expressed the intervention effect as a hazard ratio (HR) when pooling time-to-event data, and calculated the odds ratio (OR) for dichotomous data and mean differences (MDs) for continuous data, with 95% confidence intervals (CI).
+
+
+MAIN RESULTS
+We included 11 studies randomizing 4014 participants to molecular-targeted therapy plus conventional chemotherapy or chemotherapy alone. Five were at low risk of bias, and we considered the risk of bias in the other six studies to be high, mainly due to their open-label design. All identified studies reported data regarding survival. We found low-quality evidence that molecular-targeted may have a small effect on mortality (HR 0.92, 95% CI 0.80 to 1.05, 10 studies) compared with conventional chemotherapy alone. Similarly, it may have little effect on progression-free survival when compared with conventional chemotherapy alone (HR 0.90, 95% CI 0.78 to 1.04, 11 studies; low-quality evidence). We did not find evidence from subgroup analysis that survival outcomes differed by type of molecular-targeted agent (EGFR- or VEGF-targeting agents) or tumor type, meaning that we were unable to explain the variation in effect across the studies by the presence or absence of prognostic biomarkers or type of molecular-targeted agent. From 11 eligible trials, we were able to use data from 3723 participants with measurable tumors. We found low-quality evidence that molecular-targeted therapy may increase tumor response (OR 1.24, 95% CI 1.00 to 1.55, low-quality evidence). Data from one small trial were too limited to determine the effect of treatment on quality of life (very low-quality evidence). The addition of targeted therapy to chemotherapy probably increases the risk of adverse events (OR 2.23, 95% CI 1.27 to 3.92, 5 trials, 2290 participants, moderate-quality evidence) and severe adverse event (OR 1.19, 95% CI 1.03 to 1.37, 8 trials, 3800 participants), compared with receiving chemotherapy alone.
+
+
+AUTHORS' CONCLUSIONS
+There is uncertainty about the effect of adding targeted therapy to chemotherapy on survival outcomes in people with advanced gastric cancer, with very little information on its impact on quality of life. There is more certain evidence of increased risk of adverse events and serious adverse events. The main limitation of the evidence for survival outcomes was inconsistency of effects across the studies, which we could not explain by prespecified subgroups in terms of the type of therapy or tumor type. Ongoing studies in this area are small and unlikely to improve our understanding of the effects of targeted therapy, and larger studies are needed.

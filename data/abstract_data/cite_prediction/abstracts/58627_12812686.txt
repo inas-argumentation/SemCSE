@@ -1,0 +1,11 @@
+Cell-Surface Marker Signatures for the Isolation of Neural Stem Cells, Glia and Neurons Derived from Human Pluripotent Stem Cells
+BACKGROUND
+Neural induction of human pluripotent stem cells often yields heterogeneous cell populations that can hamper quantitative and comparative analyses. There is a need for improved differentiation and enrichment procedures that generate highly pure populations of neural stem cells (NSC), glia and neurons. One way to address this problem is to identify cell-surface signatures that enable the isolation of these cell types from heterogeneous cell populations by fluorescence activated cell sorting (FACS).
+
+
+METHODOLOGY/PRINCIPAL FINDINGS
+We performed an unbiased FACS- and image-based immunophenotyping analysis using 190 antibodies to cell surface markers on naïve human embryonic stem cells (hESC) and cell derivatives from neural differentiation cultures. From this analysis we identified prospective cell surface signatures for the isolation of NSC, glia and neurons. We isolated a population of NSC that was CD184(+)/CD271(-)/CD44(-)/CD24(+) from neural induction cultures of hESC and human induced pluripotent stem cells (hiPSC). Sorted NSC could be propagated for many passages and could differentiate to mixed cultures of neurons and glia in vitro and in vivo. A population of neurons that was CD184(-)/CD44(-)/CD15(LOW)/CD24(+) and a population of glia that was CD184(+)/CD44(+) were subsequently purified from cultures of differentiating NSC. Purified neurons were viable, expressed mature and subtype-specific neuronal markers, and could fire action potentials. Purified glia were mitotic and could mature to GFAP-expressing astrocytes in vitro and in vivo.
+
+
+CONCLUSIONS/SIGNIFICANCE
+These findings illustrate the utility of immunophenotyping screens for the identification of cell surface signatures of neural cells derived from human pluripotent stem cells. These signatures can be used for isolating highly pure populations of viable NSC, glia and neurons by FACS. The methods described here will enable downstream studies that require consistent and defined neural cell populations.

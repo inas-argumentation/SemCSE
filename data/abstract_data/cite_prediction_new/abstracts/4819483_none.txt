@@ -1,0 +1,2 @@
+Threshold improvement of low-density lattice codes via spatial coupling
+Spatially-coupled low-density lattice codes (LDLC) are constructed using protographs. By using Monte Carlo density evolution with single-Gaussian messages, we observe that the threshold of the spatially-coupled LDLC is within 0.22 dB of capacity of the unconstrained power channel. This is in contrast with a 0.5 dB noise threshold for the conventional LDLC construction.

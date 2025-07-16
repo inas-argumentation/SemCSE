@@ -1,0 +1,2 @@
+Robust linear receivers for space-time block coded multiple-access MIMO wireless systems
+The problem of joint space-time decoding and interference rejection in multiple-access MIMO wireless communication systems is considered in the case of erroneous or limited channel state information (CSI) at the receiver. Linear beamforming-type techniques that have an improved robustness in such an imperfect CSI case are proposed.

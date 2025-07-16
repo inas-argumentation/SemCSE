@@ -1,0 +1,2 @@
+Blind deconvolution by using phase spectral constraints and natural gradient
+A new natural gradient-based algorithm for a blind deconvolution of blurred images is proposed. In the proposed algorithm, phase spectral constraint condition is newly introduced, and a natural gradient descent method on an amplitude spectrum is applied. The effectiveness of the proposed algorithm is confirmed by comparing with the conventional method.

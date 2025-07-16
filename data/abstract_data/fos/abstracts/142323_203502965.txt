@@ -1,0 +1,19 @@
+Cloud fraction determined by thermal infrared and visible all-sky cameras
+. The thermal infrared cloud camera (IRCCAM) is a prototype instrument
+that determines cloud fraction continuously during daytime and
+night-time using measurements of the absolute thermal sky radiance
+distributions in the 8–14  µm wavelength range in conjunction with
+clear-sky radiative transfer modelling. Over a time period of 2 years, the
+fractional cloud coverage obtained by the IRCCAM is compared with two
+commercial cameras (Mobotix Q24M and Schreder VIS-J1006) sensitive in the
+visible spectrum, as well as with the automated partial cloud amount
+detection algorithm (APCADA) using pyrgeometer data. Over the 2-year period,
+the cloud fractions determined by the IRCCAM and the visible all-sky cameras
+are consistent to within 2 oktas (0.25 cloud fraction) for 90 % of the
+data set during the day, while for day- and night-time data the comparison
+with the APCADA algorithm yields an agreement of 80 %. These results are
+independent of cloud types with the exception of thin cirrus clouds, which
+are not detected as consistently by the current cloud algorithm of the
+IRCCAM. The measured absolute sky radiance distributions also provide the
+potential for future applications by being combined with ancillary
+meteorological data from radiosondes and ceilometers.

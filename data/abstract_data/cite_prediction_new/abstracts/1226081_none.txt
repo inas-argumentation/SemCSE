@@ -1,0 +1,2 @@
+The analysis of categorical case-control data subject to nonignorable nonresponse.
+In analyzing partially observed categorical case-control data, Williamson and Haber (1994, Biometrics 50, 194-203) assumed ignorable nonresponse. We reanalyzed the data allowing for nonignorable nonresponse while explicitly incorporating case-control sampling.

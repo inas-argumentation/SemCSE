@@ -1,0 +1,2 @@
+Instability of FIFO at arbitrarily low rates in the adversarial queuing model
+We study the stability of the commonly used packet forwarding protocol, FIFO (First In First Out), in the adversarial queuing model. We prove that FIFO can become unstable, i.e., lead to unbounded buffer-occupancies and queuing delays, at arbitrarily low injection rates. In order to demonstrate instability at rate r, we use a network of size polynomial in 1/r.

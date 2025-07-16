@@ -1,0 +1,2 @@
+Matching system and component behaviour in MIMOLA synthesis tools
+This paper discusses the selection of available components during high-level synthesis. The author stresses the importance of describing the behaviour of available components in a language which is readable for the designer. This behaviour is internally represented by implications. This concept is the key for formal reasoning about the component's capabilities. Alternative functions and sequential and concurrent cooperation of components can be easily described.<<ETX>>

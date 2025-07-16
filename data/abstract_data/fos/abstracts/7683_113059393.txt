@@ -1,0 +1,2 @@
+On Cutoff Rates of BICM System over Gaussian and Fading Channels
+This paper analyzes the cutoff rate of a bitinterleave coded-modulation and coherent detected system,based on different modulation schemes and over both Gaussian and frequency nonselective Rayleigh fading channels.Simulation results demonstrate that this rate is different depending on whether the channel state information is available or not for transmitter and receiver.The results can be a reference for further system design.

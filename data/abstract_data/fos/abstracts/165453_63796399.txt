@@ -1,0 +1,2 @@
+Design of a CET Net-Examination System Based on Object Technology
+Through analysing the features of net-examination and the advantages of object technology, we bring up the model using the object technology to design the examination system.Taking CET test as an example, the paper describes the process of analysing and modeling with object technology,and gives in detail the methods for object extraction and object interaction. Based on these, the design and implementation of a software for automatic CET net-examin-ation is introduced.

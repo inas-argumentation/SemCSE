@@ -1,0 +1,2 @@
+A New Approach to Salt-and-Pepper Noise Removal for Color Image
+This paper presents a new filter by the combination of Progressive Switching Median (PSM) and Vector Median Filter (VMF). Based on the impulse noise detection, the proposed filter can remove salt-and-pepper noises for color images while preserving the image details well. Experimental results show that the proposed filter achieves better than PSM or VMF used alone.

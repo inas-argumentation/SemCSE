@@ -1,0 +1,19 @@
+HykGene: a hybrid approach for selecting marker genes for phenotype classification using microarray gene expression data
+MOTIVATION
+Recent studies have shown that microarray gene expression data are useful for phenotype classification of many diseases. A major problem in this classification is that the number of features (genes) greatly exceeds the number of instances (tissue samples). It has been shown that selecting a small set of informative genes can lead to improved classification accuracy. Many approaches have been proposed for this gene selection problem. Most of the previous gene ranking methods typically select 50-200 top-ranked genes and these genes are often highly correlated. Our goal is to select a small set of non-redundant marker genes that are most relevant for the classification task.
+
+
+RESULTS
+To achieve this goal, we developed a novel hybrid approach that combines gene ranking and clustering analysis. In this approach, we first applied feature filtering algorithms to select a set of top-ranked genes, and then applied hierarchical clustering on these genes to generate a dendrogram. Finally, the dendrogram was analyzed by a sweep-line algorithm and marker genes are selected by collapsing dense clusters. Empirical study using three public datasets shows that our approach is capable of selecting relatively few marker genes while offering the same or better leave-one-out cross-validation accuracy compared with approaches that use top-ranked genes directly for classification.
+
+
+AVAILABILITY
+The HykGene software is freely available at http://www.cs.dartmouth.edu/~wyh/software.htm
+
+
+CONTACT
+wyh@cs.dartmouth.edu
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary material is available from http://www.cs.dartmouth.edu/~wyh/hykgene/supplement/index.htm.

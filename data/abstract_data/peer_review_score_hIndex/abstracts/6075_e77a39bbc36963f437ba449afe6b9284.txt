@@ -1,0 +1,8 @@
+Divide and Conquer with Neural Networks
+We consider the learning of algorithmic tasks by mere observation of input-output pairs. 
+Rather than studying this as a black-box discrete regression problem with no assumption whatsoever 
+on the input-output mapping, we concentrate on tasks that are amenable to the principle of divide and conquer, and study what are its implications in terms of learning. 
+
+This principle creates a powerful inductive bias that we exploit with neural architectures that are defined recursively, by learning two scale-invariant atomic operators: how to split a given input into two disjoint sets, and how to merge two partially solved tasks into a larger partial solution. The scale invariance creates parameter sharing across all stages of the architecture, and the dynamic design creates architectures whose complexity can be tuned in a differentiable manner.
+
+As a result, our model is trained by backpropagation not only to minimize the errors at the output, but also to do so as efficiently as possible, by enforcing shallower computation graphs. Moreover, thanks to the scale invariance, the model can be trained only with only input/output pairs, removing the need to know oracle intermediate split and merge decisions. As it turns out, accuracy and complexity are not independent qualities, and we verify empirically that when the learnt complexity matches the underlying complexity of the task, this results in higher accuracy and better generalization in two paradigmatic problems: sorting and finding planar convex hulls.

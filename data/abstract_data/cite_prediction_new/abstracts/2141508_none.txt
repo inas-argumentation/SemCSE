@@ -1,0 +1,19 @@
+An Ensemble Approach for Record Matching in Data Linkage
+OBJECTIVES
+To develop and test an optimal ensemble configuration of two complementary probabilistic data matching techniques namely Fellegi-Sunter (FS) and Jaro-Wrinkler (JW) with the goal of improving record matching accuracy.
+
+
+METHODS
+Experiments and comparative analyses were carried out to compare matching performance amongst the ensemble configurations combining FS and JW against the two techniques independently.
+
+
+RESULTS
+Our results show that an improvement can be achieved when FS technique is applied to the remaining unsure and unmatched records after the JW technique has been applied.
+
+
+DISCUSSION
+Whilst all data matching techniques rely on the quality of a diverse set of demographic data, FS technique focuses on the aggregating matching accuracy from a number of useful variables and JW looks closer into matching the data content (spelling in this case) of each field. Hence, these two techniques are shown to be complementary. In addition, the sequence of applying these two techniques is critical.
+
+
+CONCLUSION
+We have demonstrated a useful ensemble approach that has potential to improve data matching accuracy, particularly when the number of demographic variables is limited. This ensemble technique is particularly useful when there are multiple acceptable spellings in the fields, such as names and addresses.

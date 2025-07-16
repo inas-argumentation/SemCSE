@@ -1,0 +1,2 @@
+Design of low-noise CMOS MEMS accelerometer with techniques for thermal stability and stable DC biasing
+An integrated high-sensitivity CMOS MEMS capacitive accelerometer with thermal stability has been designed and demonstrated in this work. Issue of obtaining stable DC bias at input terminals is particularly addressed. Sensitivity of 595 mV/g is achieved in the accelerometer and the overall noise floor is 50 µg/√Hz, which corresponds to an effective capacitance noise floor of 0.024 aF/√Hz. The zero-g thermal variation is as low as 1.68 mg/°C.

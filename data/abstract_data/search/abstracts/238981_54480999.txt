@@ -1,0 +1,2 @@
+Strong edge coloring for planar graphs with large girth
+Abstract A strong edge coloring of a graph G V E is a partition of its edge set E into induced matchings. Let G be a connected planar graph with girth k 26 and maximum degree D We show that either G is isomorphic to a subgraph of a very special D regular graph with girth k or G has a strong edge coloring using at most 2 D 12 D 2 k colors.

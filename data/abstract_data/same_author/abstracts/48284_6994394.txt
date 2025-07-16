@@ -1,0 +1,2 @@
+The Hamiltonian property of generalized de Bruijn digraphs
+It has been shown that the generalized de Bruijn digraphs G B ( n , d ) and the Imase-Itoh digraphs G I ( n , d ) have Hamiltonian circuits of gcd ( n , d ) > 1. For gcd ( n , d ) = 1 the problem remains open except for d = 1 and 2. In this paper we give a unified proof for all d ≥ 3 that both G B ( n , d ) and G I ( n , d ) have Hamiltonian circuits.

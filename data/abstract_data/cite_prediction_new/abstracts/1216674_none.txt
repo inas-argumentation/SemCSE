@@ -1,0 +1,2 @@
+Regular languages definable by Lindström quantifiers
+In our main result, we establish a formal connection between Lindstrom quantifiers with respect to regular languages and the double semidirect product of finite monoids with a distinguished set of generators. We use this correspondence to characterize the expressive power of Lindstrom quantifiers associated with a class of regular languages.

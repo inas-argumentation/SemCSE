@@ -1,0 +1,4 @@
+Deductive Data Mining
+In ICDM02 the Foundation on Data Mining and Discovery Workshop [3], we have proposed that data mining is a procedure that transforms (extracts or discovers from) data into patterns/knowledge: Schematically 
+ 
+$$ DM:Patterns \Leftarrow Data, or KD:Knowledge \Leftarrow Data $$

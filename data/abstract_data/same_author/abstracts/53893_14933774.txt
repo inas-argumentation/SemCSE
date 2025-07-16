@@ -1,0 +1,2 @@
+Using a Network of Workstations to Enhance Database Query Processing Performance
+Query processing in database systems may be improved by applying parallel processing techniques. One reason for improving query response time is to support the increased number queries when databases are made accessible from the Internet.

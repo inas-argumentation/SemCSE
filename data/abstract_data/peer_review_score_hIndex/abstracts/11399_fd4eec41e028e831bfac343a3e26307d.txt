@@ -1,0 +1,12 @@
+Exploring Forensic Dental Identification with Deep Learning
+Dental forensic identification targets to identify persons with dental traces.
+The task is vital for the investigation of criminal scenes and mass disasters because of the resistance of dental structures and the wide-existence of dental imaging. 
+However, no widely accepted automated solution is available for this labour-costly task. 
+In this work, we pioneer to study deep learning for dental forensic identification based on panoramic radiographs. 
+We construct a comprehensive benchmark with various dental variations that can adequately reflect the difficulties of the task. 
+By considering the task's unique challenges, we propose FoID, a deep learning method featured by: (\textit{i}) clinical-inspired attention localization, (\textit{ii}) domain-specific augmentations that enable instance discriminative learning, and (\textit{iii}) transformer-based self-attention mechanism that dynamically reasons the relative importance of attentions. 
+We show that FoID can outperform traditional approaches by at least \textbf{22.98\%} in terms of Rank-1 accuracy, and outperform strong CNN baselines by at least \textbf{10.50\%} in terms of mean Average Precision (mAP). 
+Moreover, extensive ablation studies verify the effectiveness of each building blocks of FoID. 
+Our work can be a first step towards the automated system for forensic identification among large-scale multi-site databases. 
+Also, the proposed techniques, \textit{e.g.}, self-attention mechanism, can also be meaningful for other identification tasks, \textit{e.g.}, pedestrian re-identification.
+Related data and codes can be found at \href{https://github.com/liangyuandg/FoID}{https://github.com/liangyuandg/FoID}. 

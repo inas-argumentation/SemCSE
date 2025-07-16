@@ -1,0 +1,2 @@
+Lyapunov functions for ℒ2 and input-to-state stability in a class of quantized control systems
+ℒ2 and input-to-state stability (ISS) properties of a class of linear quantized control systems are considered. The quantized control system differs slightly from the ones considered in the literature previously. A recently proposed hybrid modeling framework and corresponding Lyapunov analysis tools are used to calculate the finite gains of the closed loop system.

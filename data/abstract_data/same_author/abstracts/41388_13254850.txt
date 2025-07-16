@@ -1,0 +1,2 @@
+Profile guided management of code partitions for embedded systems
+Researchers have proposed to divide embedded applications into code partitions and to download partitions on demand from a wireless code server to enable a diverse set of applications for very tightly constrained embedded systems. This paper describes a new approach for managing the request and storage of code partitions and we explore the benefits of our scheme.

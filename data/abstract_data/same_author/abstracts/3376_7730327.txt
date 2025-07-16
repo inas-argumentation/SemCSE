@@ -1,0 +1,2 @@
+Guest Editors' Introduction: Securing the Domain Name System
+Virtually every Internet application relies on the Domain Name System, but security wasn't a major goal of its original design. The result is several critical vulnerabilities, reviewed in this introduction to a special issue on DNS security. To address the security challenges, the community developed the DNS Security Extensions (DNSSEC), which are undergoing deployment. The articles in this special issue summarize key aspects of how to deploy DNSSEC at authoritative servers, resolvers, and public key learning.

@@ -1,0 +1,15 @@
+Volumetric modulated arc therapy: planning and evaluation for prostate cancer cases.
+PURPOSE
+To develop an optimization method using volumetric modulated arc therapy (VMAT) and evaluate VMAT plans relative to the standard intensity-modulated radiotherapy (IMRT) approach in prostate cancer.
+
+
+METHODS AND MATERIALS
+A single gantry rotation was modeled using 177 equispaced beams. Multileaf collimator apertures and dose rates were optimized with respect to gantry angle subject to dose-volume-based objectives. Our VMAT implementation used conjugate gradient descent to optimize dose rate, and stochastic sampling to find optimal multileaf collimator leaf positions. A treatment planning study of 11 prostate cancer patients with a prescription dose of 86.4 Gy was performed to compare VMAT with a standard five-field IMRT approach. Plan evaluation statistics included the percentage of planning target volume (PTV) receiving 95% of prescribed dose (V95), dose to 95% of PTV (D95), mean PTV dose, tumor control probability, and dosimetric endpoints of normal organs, whereas monitor unit (MU) and delivery time were used to assess delivery efficiency.
+
+
+RESULTS
+Patient-averaged PTV V95, D95, mean dose, and tumor control probability in VMAT plans were 96%, 82.6 Gy, 88.5 Gy, and 0.920, respectively, vs. 97%, 84.0 Gy, 88.9 Gy, and 0.929 in IMRT plans. All critical structure dose requirements were met. The VMAT plans presented better rectal wall sparing, with a reduction of 1.5% in normal tissue complication probability. An advantage of VMAT plans was that the average number of MUs (290 MU) was less than for IMRT plans (642 MU).
+
+
+CONCLUSION
+The VMAT technique can reduce beam on time by up to 55% while maintaining dosimetric quality comparable to that of the standard IMRT approach.

@@ -1,0 +1,2 @@
+Monte Carlo simulation of diagnostic x-ray scatter.
+A Monte Carlo method was developed and implemented to simulate x-ray photon transport. Simulations consisted of a pencil beam of monoenergetic photons with energies from 50 to 110 keV incident on water and aluminum slabs. The dependence of scatter fraction and multiple scattering on x-ray energy, scatterer thickness, and material is reported in both number and energy fluence. The average energy of scattered photons reaching the detector plane is also reported. Comparisons are made to previous x-ray scatter computations.

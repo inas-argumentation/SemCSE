@@ -1,0 +1,2 @@
+Investigating Invariant Pattern Recognition Using a Flexible Development Environment
+Scene is a flexible system in which users can produce monolithic systems or "unix style" piped systems consisting of a number of components each providing one operation. They can also use either of the two standalone systems provided. The software has been developed on a Sun 3/50 system miming SunOS 3.5. It is written in C and, apart from the display and device specific functions, would be easily portable to other BSD Unix systems.

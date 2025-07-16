@@ -1,0 +1,2 @@
+Summary of Security Test Methods Based on Fault Injection
+Software security testing is the process of validating the software securtiy level and identify the potential security flaws,it's a important ways to ensure the security of software,and the fault injection testing of software security is a very important way.Discusses the method of thesimulated fault injection and prototype fault injection.

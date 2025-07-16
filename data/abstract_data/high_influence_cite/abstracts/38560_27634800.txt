@@ -1,0 +1,2 @@
+On the omega-language expressive power of extended Petri nets
+In this paper, we study the expressive power of several monotonic extensions of Petri nets. We compare the expressive power of Petri nets, Petri nets extended with non-blocking arcs and Petri nets extended with transfer arcs, in terms of ω-languages. We show that the hierarchy of expressive powers of those models is strict. To prove these results, we propose original techniques that rely on well-quasi orderings and monotonicity properties.

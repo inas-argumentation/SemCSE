@@ -1,0 +1,2 @@
+Analysis and optimization of power line coupling circuit for CENELEC-PLC Modem
+This paper deals with modeling, characterization and optimization of the analog front end (AFE) of a narrow band CENELEC power line communications modem. This study focuses on main lines and modem's AFE modeling to define analytical formulation of Modem insertion losses and line attenuations as functions of PLC modem coupling circuit's parameters. Experimental results of defined design review confirmed insertion losses reduction and PLC modem robustness and sensitivity improvement.

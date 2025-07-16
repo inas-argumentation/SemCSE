@@ -1,0 +1,5 @@
+Lefschetz numbers and geometry of operators in W*-modules
+The main goal of the present paper is to generalize the results of~\cite{TroLNM,TroBoch} in the following way: To be able to define $K_0(A)\o\C$-valued Lefschetz numbers of the first type of an endomorphism $V$ on a C*-elliptic complex one usually assumes that $V=T_g$ for some representation $T_g$ of a compact group $G$ on the C*-elliptic complex. We try to refuse this restriction in the present paper. The price to pay for this is twofold: 
+(i) $ $ We have to define Lefschetz numbers valued in some larger group as $K_0(A)\o\C$. 
+(ii) We have to deal with W*-algebras instead of general unital C*-algebras. 
+To obtain these results we have got a number of by-product facts on the theory of Hilbert W*- and C*-modules and on bounded module operators on them which are of independent interest.

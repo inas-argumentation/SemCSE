@@ -1,0 +1,2 @@
+Energy stable schemes for Cahn-Hilliard phase-field model of two-phase incompressible flows
+Numerical approximations of Cahn-Hilliard phase-field model for the two-phase incompressible flows are considered in this paper. Several efficient and energy stable time discretization schemes for the coupled nonlinear Cahn-Hilliard phase-field system for both the matched density case and the variable density case are constructed, and are shown to satisfy discrete energy laws which are analogous to the continuous energy laws.

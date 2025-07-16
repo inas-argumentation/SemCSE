@@ -1,0 +1,15 @@
+A model to simulate day-to-day variations in rectum shape.
+PURPOSE
+To develop a model that predicts possible rectum configurations that can occur during radiotherapy of prostate cancer on the basis of a planning CT scan and patient group data.
+
+
+MATERIALS AND METHODS
+We used a stochastic shape description model with a limited number of parameters (area, area difference, and curvature) on a slice-by-slice basis to simulate rectum motion. The probability distributions of the chosen parameters were obtained from a group of 9 reference patients, who each received 15-17 repeat CT scans. We used a Monte Carlo technique to generate different rectum configurations from the probability distributions. We verified the model by comparing dose-wall histograms (DWHs) of the originally delineated rectal contours and simulated rectums for a three-field treatment technique with a prescription dose of 78 Gy. The 15-17 sets of rectal contours of each patient are regarded as the golden standard and provide a good estimate of the actual dose received during the treatment. We determined the equivalent uniform dose (EUD) for a quantitative comparison between the actual dose, the dose predicted on the basis of the simulations, and the dose predicted on the basis of a single planning CT scan.
+
+
+RESULTS
+The simulated rectum configurations yield a better estimate of the actual dose in the rectal wall than the rectum in the planning CT scan alone. The differences between the EUD based on the planning CT scan and the actual EUD ranged between -1.1 Gy and 2.1 Gy, with respect to a mean actual EUD of 69.8 Gy. This range is smaller for the EUD based on the simulated rectums, namely -0.4 Gy to 0.6 Gy. Furthermore, the simulation generates a set of rectum configurations that provides an estimate of the variation in DWHs during the course of the treatment. This estimate can be used in addition to the DWH of the planning CT scan in the analysis of gastrointestinal toxicity.
+
+
+CONCLUSIONS
+To simulate rectum shapes, we have developed a model that can be used in addition to the information available in the planning CT scan in the analysis of the received dose to the rectal wall during radiotherapy of prostate cancer.

@@ -1,0 +1,2 @@
+Chiral symmetry breaking in (2+1) dimensional QED
+Abstract We study dynamical mass generation in QED in (2+1) dimensions using Hamiltonian lattice methods. We use staggered fermions, and perform simulations with explicit dynamical fermions in the chiral limit. We demonstrate that a recently developed method to reduce the fermion sign problem can successfully be applied to this problem. Our results are in agreement with both the strong coupling expansion and with Euclidean lattice simulations.

@@ -1,0 +1,2 @@
+On the Treewidth of NK Landscapes
+The concepts of treewidth and tree-decomposition on graphs generalize those of the trees. It is well established that when restricted to instances with a bounded treewidth, many NP hard problems can be solved polynomially. In this paper, we study the treewidth of the NK landscape models. We show that the NK landscape model with adjacent neighborhoods has a constant treewidth, and prove that for k ≥ 2, the treewidth of the NK landscape model with random neighborhoods asymptotically grows with the problem size n.

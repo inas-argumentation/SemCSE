@@ -1,0 +1,2 @@
+An empirical analysis of machine learning models for automated essay grading
+9 Background. Automated Essay Scoring (AES) is an area which falls at the intersection of computing and linguistics. AES systems conduct a linguistic analysis of a given essay or prose and then estimates the writing skill or the essay quality in the form a numeric score or a letter grade. AES systems are useful for the school, university and testing company community for efficiently and effectively scaling the task of grading a large number of essays. 10

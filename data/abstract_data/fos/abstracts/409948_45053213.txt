@@ -1,0 +1,2 @@
+Microcontroller-based servo for two-crystal X-ray monochromators.
+Microcontrollers have become increasingly easy to incorporate into instruments as the architectures and support tools have developed. The PIC series is particularly easy to use, and this paper describes a controller used to stabilize the output of a two-crystal X-ray monochromator at a given offset from its peak intensity position, as such monochromators are generally used.

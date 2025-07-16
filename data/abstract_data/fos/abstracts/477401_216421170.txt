@@ -1,0 +1,38 @@
+Spatial distribution of cloud droplet size properties from Airborne Hyper-Angular Rainbow Polarimeter (AirHARP) measurements
+. The global variability of clouds and their interactions
+with aerosol and radiation make them one of our largest sources of
+uncertainty related to global radiative forcing. The droplet size
+distribution (DSD) of clouds is an excellent proxy that connects cloud
+microphysical properties with radiative impacts on our climate. However,
+traditional radiometric instruments are information-limited in their DSD
+retrievals. Radiometric sensors can infer droplet effective radius directly
+but not the distribution width, which is an important parameter tied to the
+growth of a cloud field and to the onset of precipitation. DSD heterogeneity
+hidden inside large pixels, a lack of angular information, and the absence of
+polarization limit the amount of information these retrievals can provide.
+Next-generation instruments that can measure at narrow resolutions with multiple
+view angles on the same pixel, a broad swath, and sensitivity to
+the intensity and polarization of light are best situated to retrieve DSDs at
+the pixel level and over a wide spatial field. The Airborne Hyper-Angular
+Rainbow Polarimeter (HARP) is a wide-field-of-view imaging polarimeter
+instrument designed by the University of Maryland, Baltimore County (UMBC),
+for retrievals of cloud droplet size distribution properties over a wide
+swath, at narrow resolution, and at up to 60 unique, co-located view zenith
+angles in the 670  nm channel. The cloud droplet effective radius (CDR) and
+variance (CDV) of a unimodal gamma size distribution are inferred
+simultaneously by matching measurement to Mie polarized phase functions. For
+all targets with appropriate geometry, a retrieval is possible, and
+unprecedented spatial maps of CDR and CDV are made for cloud fields that
+stretch both across the swath and along the entirety of a flight
+observation. During the NASA Lake Michigan Ozone Study (LMOS) aircraft
+campaign in May–June 2017, the Airborne HARP (AirHARP) instrument observed
+a heterogeneous stratocumulus cloud field along the solar principal plane.
+Our retrievals from this dataset show that cloud DSD heterogeneity can occur
+at the 200  m scale, much smaller than the 1–2  km resolution of most spaceborne
+sensors. This heterogeneity at the sub-pixel level can create artificial
+broadening of the DSD in retrievals made at resolutions on the order of 0.5
+to 1  km . This study, which uses the AirHARP instrument and its data as a
+proxy for upcoming HARP CubeSat and HARP2 spaceborne instruments,
+demonstrates the viability of the HARP concept to make cloud measurements at
+scales of individual clouds, with global coverage, and in a low-cost,
+compact CubeSat-sized payload.

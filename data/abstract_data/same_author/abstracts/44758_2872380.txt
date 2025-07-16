@@ -1,0 +1,23 @@
+Building Edge-Failure Resilient Networks
+AbstractWe consider the design of resilient networks that are fault tolerant
+ against link failures. Resilience against link failures can be built
+ into the network by providing backup paths, which are used in
+ the eventuality of an edge failure occurring on a primary path in the
+ network. We consider several network design problems in this context;
+ these problems are motivated by the requirements of current high-speed
+ optical networks. In all the following problems the objective is to
+ provide resilience in networks while minimizing the cost incurred.
+ The main problem under consideration in this paper is that of backup
+ allocation: this problem takes as its input an already provisioned 
+ primary network and a parameter k, and allocates backup capacity 
+ on the edges of the underlying network so that all the demand can be 
+ routed even in the presence of k edge failures. We also consider a 
+ variant of this problem where the primary network has a tree topology, 
+ and it is required that the restored network retains a tree topology. 
+ We then address the problem of simultaneous primary and backup
+ allocation: we are given specifications of the traffic to be
+ handled, and the goal is to provision both the primary as well as
+ the backup network. Finally, we investigate a single-commodity
+ problem motivated by a pragmatic scenario in which the primary
+ network is not known in advance and demands between source--sink
+ pairs arrive online.

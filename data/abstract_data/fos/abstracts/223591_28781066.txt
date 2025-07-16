@@ -1,0 +1,2 @@
+Holey fiber design for single-polarization single-mode guidance.
+We propose a holey fiber design to achieve single-polarization single-mode (SPSM) guidance. The photonic crystal fiber (PCF) has a triangular-lattice with elliptical airholes in the microstructured cladding and circular airholes in the core. The SPSM guidance can be obtained by designing the PCF structure such that the fundamental space-filling mode (FSM) of the core region is positioned between the indices of the two nondegenerate orthogonally polarized FSMs of the microstructured cladding.

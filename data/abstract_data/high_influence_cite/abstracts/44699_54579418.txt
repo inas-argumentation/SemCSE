@@ -1,0 +1,14 @@
+Level-set topology optimization with many linear buckling constraints using an efficient and robust eigensolver
+Linear buckling c onstraints are important in structural topology optimization for obtaining designs that can 
+support the required loads without failure. During the optimization process, the critical buckling eigenmode 
+can change; this poses a challenge to gradient-based optimization and can require the computation of a large 
+number of linear buckling eigenmodes. This is potentially both computationally difﬁcult to achieve and pro- 
+hibitively expensive. In this paper, we motivate the need for a large number of linear buckling modes and 
+show how several features of the block Jacobi conjugate gradient (BJCG) eigenvalue method, including opti- 
+mal shift estimates, the reuse of eigenvectors, adaptive eigenvector tolerances and multiple shifts, can be used 
+to efﬁciently and robustly compute a large number of buckling eigenmodes. This paper also introduces linear 
+buckling constraints for level-set topology optimization. In our approach, the velocity function is deﬁned as 
+a weighted sum of the shape sensitivities for the objective and constraint functions. The weights are found 
+by solving an optimization sub-problem to reduce the mass while maintaining feasibility of the buckling 
+constraints. The effectiveness of this approach in combination with the BJCG method is demonstrated using 
+a 3D optimization problem

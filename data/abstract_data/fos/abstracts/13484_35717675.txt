@@ -1,0 +1,2 @@
+A family of methods for solving nonlinear equations
+We present a family of methods for solving nonlinear equations. Some well-known classical methods and their modifications belong to our family, for example Newton, Potra-Ptak, Chebyshev, Halley and Ostrowski's methods. Convergence analysis shows that our family contains methods of convergence order from 2 to 4. All our fourth order methods are optimal in terms of the Kung and Traub conjecture. Several examples are presented and compared.

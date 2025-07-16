@@ -1,0 +1,15 @@
+The first implementation of IMRT technique for head & neck and prostate cancer patients in public sector in Greece: feasibility, treatment planning and dose delivery verification using the delta(4PT) Pre-Treatment volumetric quality assurance system.
+PURPOSE
+Intensity Modulated Radiation Therapy (IMRT) is nowadays the treatment of choice, in terms of technique, for either head & neck or prostate cancer. With this paper, we are sharing our experience for the first inplementation of IMRT planning in the public sector in Greece, and especially in the Aretaieion University Hospital of Athens.
+
+
+METHODS
+From May 2013 until January 2014 four prostate and four head & neck cancer patients were evaluated in the present study. We used the ONCENTRA IMRT treatment planning with a step and shoot technique in a SIEMENS ONCORE Linac. The dose verification method used was based on the delta4(PT) Pre-Treatment volumetric quality assurance system, by Scadidos.
+
+
+RESULTS
+In all cases, the Relative Standard Deviation between the prescribed and the calculated average dose received by the target volume was less than 5%, while the γ-index was more than 90%. The acute toxicity was low and equivalent to published data with IMRT technique.
+
+
+CONCLUSION
+In conclusion, the first implementation of IMRT technique in the Medical School of Athens was feasible and safe as well as in terms of dose verification. The IMRT technique is already in clinical use and further results with long term radiation induced toxicity will be reported.

@@ -1,0 +1,15 @@
+CRISPR/Cas9 cleavage efficiency regression through boosting algorithms and Markov sequence profiling
+Motivation
+CRISPR/Cas9 system is a widely used genome editing tool. A prediction problem of great interests for this system is: how to select optimal single-guide RNAs (sgRNAs), such that its cleavage efficiency is high meanwhile the off-target effect is low.
+
+
+Results
+This work proposed a two-step averaging method (TSAM) for the regression of cleavage efficiencies of a set of sgRNAs by averaging the predicted efficiency scores of a boosting algorithm and those by a support vector machine (SVM). We also proposed to use profiled Markov properties as novel features to capture the global characteristics of sgRNAs. These new features are combined with the outstanding features ranked by the boosting algorithm for the training of the SVM regressor. TSAM improved the mean Spearman correlation coefficiencies comparing with the state-of-the-art performance on benchmark datasets containing thousands of human, mouse and zebrafish sgRNAs. Our method can be also converted to make binary distinctions between efficient and inefficient sgRNAs with superior performance to the existing methods. The analysis reveals that highly efficient sgRNAs have lower melting temperature at the middle of the spacer, cut at 5'-end closer parts of the genome and contain more 'A' but less 'G' comparing with inefficient ones. Comprehensive further analysis also demonstrates that our tool can predict an sgRNA's cutting efficiency with consistently good performance no matter it is expressed from an U6 promoter in cells or from a T7 promoter in vitro.
+
+
+Availability and implementation
+Online tool is available at http://www.aai-bioinfo.com/CRISPR/. Python and Matlab source codes are freely available at https://github.com/penn-hui/TSAM.
+
+
+Supplementary information
+Supplementary data are available at Bioinformatics online.

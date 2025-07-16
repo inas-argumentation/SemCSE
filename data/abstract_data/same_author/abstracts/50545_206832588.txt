@@ -1,0 +1,2 @@
+Optimization problems from feature testing of communication protocols
+In feature testing of communication protocols, we want to construct a minimal number of tests with a desirable fault coverage. We model the protocols by extended finite state machines and reduce the test generation process to optimization problems on graphs. We study efficient algorithms and their complexity. We report experimental results on real systems, including Personal HandyPhone System, a 5ESS based ISDN wireless system, and 5ESS Intelligent Network Application Protocol.

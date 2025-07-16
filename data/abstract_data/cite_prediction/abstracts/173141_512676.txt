@@ -1,0 +1,2 @@
+Multi-view 3D Models from Single Images with a Convolutional Network
+[1] Kulkarni, T. D., Whitney , W. F., Kohli, P., Tenenbaum, J.: Deep convolutional inverse graphics network. NIPS 2015. [2] Dosovitskiy, A., Springenberg, J. T., Brox, T.: Learning to generate chairs with convolutional neural networks. CVPR 2015. [3] Yang, J., Reed, S. E., Yang, M. H., Lee, H.: Weakly-supervised disentangling with recurrent transformations for 3D view synthesis. NIPS 2015. The network was trained on renderings of synthetic 3D models.

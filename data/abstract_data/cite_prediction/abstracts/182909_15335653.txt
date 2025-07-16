@@ -1,0 +1,2 @@
+Model Comparison : A Key Challenge for Transformation Testing and Version Control in Model Driven Software Development
+As models and model transformations are elevated to first-class artifacts within the software development process, there is an increasing need to introduce core software engineering principles into modeling activities. In this position paper, we identify model comparison algorithms as a key toward addressing best practices associated with model transformation testing and version control of models.

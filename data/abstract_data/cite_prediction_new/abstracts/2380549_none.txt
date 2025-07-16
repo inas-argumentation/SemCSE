@@ -1,0 +1,2 @@
+Backend dielectric chip reliability simulator for complex interconnect geometries
+Backend dielectric breakdown degrades the reliability of circuits. We present test data and a methodology to estimate chip lifetime due to backend dielectric breakdown. Our methodology incorporates failures due to parallel tracks, the width effect, and field enhancement due to line ends. The impact of line ends has been found to be very significant experimentally, and it is demonstrated that this component can dominate the failure rate of the chip due to dielectric breakdown.

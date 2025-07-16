@@ -1,0 +1,2 @@
+The trace class conjecture without the K-finiteness assumption
+Let G be the group of real points of a reductive algebraic ℚ-group satisfying the same assumptions as in [5], Chapter I, and let Γ be a discrete subgroup of G. Let RΓ be the right regular representation of G in L2(Γ\G). We prove in this Note that, for any integrable rapidly decreasing function ƒ on G, the restriction of RΓ(ƒ) to the discrete spectrum of RΓ is a trace class operator.

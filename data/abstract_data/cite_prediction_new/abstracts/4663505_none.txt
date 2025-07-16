@@ -1,0 +1,2 @@
+A direct sampling multi-channel receiver for DOCSIS 3.0 in 65nm CMOS
+This paper presents a fully integrated direct sampling receiver for DOCSIS 3.0, consisting of a time-interleaved ADC, a digital multi-channel selection filter, and a PLL. The receiver can simultaneously receive 4 streams from arbitrary RF frequencies between 48 and 1002MHz and output these in a 13.5MS/s digital IQ format or at a low-IF through integrated DACs. It consumes 980mW from a split 1.2/1.3/1.6V supply when receiving 4 channels and occupies 16.8mm2 in 65nm CMOS.

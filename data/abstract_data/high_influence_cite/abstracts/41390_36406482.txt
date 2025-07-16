@@ -1,0 +1,2 @@
+Rainbow perfect matchings in r-partite graph structures
+Abstract A matching M in an edge–colored (hyper)graph is rainbow if each pair of edges in M have distinct colors. We extend the result of Erdős and Spencer on the existence of rainbow perfect matchings in the complete bipartite graph K n , n to complete bipartite multigraphs, dense regular bipartite graphs and complete r-partite r-uniform hypergraphs. The proof of the results use the Lopsided version of the Local Lovasz Lemma.

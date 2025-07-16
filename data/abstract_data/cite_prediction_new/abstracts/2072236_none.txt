@@ -1,0 +1,2 @@
+Survey On Diagnosis Of Brain Hemorrhage By Using Artificial Neural Network
+Brain hemorrhage is bleeding in or around the brain tissues caused due to ruptured artery, which is a form of stroke known as hemorrhagic stroke. CT scan enables the accurate diagnosis of brain hemorrhage. The aim of this project is to help radiologist as well as medical students in diagnosis of brain hemorrhage in more refined manner by feeding CT images & identify the type of brain hemorrhage using watershed algorithm along with artificial neural network (ANN).

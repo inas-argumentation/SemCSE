@@ -1,0 +1,2 @@
+An incremental learning classifier for remote sensing images
+An incremental learning classifier based on RBF neural networks is presented. The proposed classifier relies on an incremental learning technique that allows the periodical acquisition of new knowledge when new training sets became available, without suffering a significant loss of the existing one. Such a characteristic renders the presented classifier a promising tool for the monitoring of extended geographical areas in a regular basis.

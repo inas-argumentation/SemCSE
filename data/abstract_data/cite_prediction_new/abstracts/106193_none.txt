@@ -1,0 +1,2 @@
+A syntactic characterization of perfect recall in extensive games
+We provide a syntactic characterization of the property of perfect recall in extensive games. The language we use is basic temporal logic with the addition of a knowledge operator for every player.

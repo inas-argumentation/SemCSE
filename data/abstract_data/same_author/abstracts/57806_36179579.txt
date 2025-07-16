@@ -1,0 +1,2 @@
+A Simple Randomized Parallel Algorithm for List-Ranking
+In this paper we give a simple parallel algorithm for the list-ranking problem. The algorithm is a randomized O(log n) time, n/log n processor algorithm for an EREW PRAM. The algorithm is substantially simpler than other optimal algorithms for list-ranking.

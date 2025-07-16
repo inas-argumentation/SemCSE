@@ -1,0 +1,2 @@
+Mining additions of method calls in ArgoUML
+In this paper we refine the classical co-change to the addition of method calls. We use this concept to find usage patterns and to identify cross-cutting concerns for ArgoUML.

@@ -1,0 +1,2 @@
+Nonlinear analysis and control of a reaction wheel-based 3D inverted pendulum
+This paper presents the nonlinear analysis and control design of the Cubli, a reaction wheel-based 3D inverted pendulum. Using the concept of generalized momenta, the key properties of a reaction wheel-based 3D inverted pendulum are compared to the properties of a 1D case in order to come up with a relatively simple and intuitive nonlinear controller. Finally, the proposed controller is implemented on the Cubli, and the experimental results are presented.

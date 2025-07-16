@@ -1,0 +1,2 @@
+Predicting trend in the next-day market by Hierarchical Hidden Markov Model
+The prediction of stock market movements represents a key component in developing winning trading strategies. Forecasting can have different time horizon. In this paper we focus our attention to very short term, and we develop a model able to predict market trends with a horizon of few days ahead. Based on Hierarchical Hidden Markov Model, our approach has been tested against the Indian stock market index (Nifty), and experimental results are presented and discussed.

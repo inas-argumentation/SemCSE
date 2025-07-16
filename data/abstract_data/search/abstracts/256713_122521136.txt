@@ -1,0 +1,2 @@
+A Comment on Ridge Regression. Biased Estimation for Non Orthogonal Problems
+In a recent issue of Technometrics, Hoer1 and Kennard [l] presented a comprehensive discussion of the problem of biased estimation in multiple regression that fits into the general linear hypothesis model of full rank. An alternative characterization of the form of the biased estimator has been presented in this note, and an "existence theorem" proven indicating that there exists a k such that the biased estimation based on the proposed characterization would still lead to increased accuracy.

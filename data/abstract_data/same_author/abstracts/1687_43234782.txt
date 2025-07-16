@@ -1,0 +1,2 @@
+Implementing P Systems Parallelism by Means of GPUs
+Software development for Membrane Computing is growing up yielding new applications. Nowadays, the efficiency of P systems simulators have become a critical point when working with instances of large size. The newest generation of GPUs (Graphics Processing Units) provide a massively parallel framework to compute general purpose computations. We present GPUs as an alternative to obtain better performance in the simulation of P systems and we illustrate it by giving a solution to the N-Queens problem as an example.

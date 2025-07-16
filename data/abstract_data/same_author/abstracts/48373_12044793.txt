@@ -1,0 +1,2 @@
+Edge-disjoint spanning trees and depth-first search
+SummaryThis paper presents an algorithm for finding two edge-disjoint spanning trees rooted at a fixed vertex of a directed graph. The algorithm uses depthfirst search and an efficient method for computing disjoint set unions. It requires O (eα(e, n)) time and O(e) space to analyze a graph with n vertices and e edges, where α (e, n) is a very slowly growing function related to a functional inverse of Ackermann's function.

@@ -1,0 +1,2 @@
+Optimal Motion Planning for Robust Sensorless Part Orientation
+Part orientation is a necessary first step for many machining and manipulation tasks. We investigate a sensorless method for steering a sphere in its 5D state space despite model perturbations that scale the sphere diameter by an unknown but bounded constant. The controllers we investigate consist of motion paths. We demonstrate solutions to this problem under two actuators, then show how this method can be extended to control schemes requiring no actuators.

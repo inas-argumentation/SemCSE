@@ -1,0 +1,2 @@
+Adaptive Sampling for Monte Carlo Global Illumination Using Tsallis Entropy
+Adaptive sampling is an interesting tool to eliminate noise, which is one of the main problems of Monte Carlo global illumination algorithms. We investigate the Tsallis entropy to do adaptive sampling. Implementation results show that adaptive sampling based on Tsallis entropy consistently outperforms the counterpart based on Shannon entropy.

@@ -1,0 +1,7 @@
+Divide-and-Conquer Monte Carlo Tree Search
+Standard planners for sequential decision making (including Monte Carlo planning, tree search, dynamic programming, etc.) are constrained by an implicit sequential planning assumption: The order in which a plan is constructed is the same in which it is executed.
+We consider alternatives to this assumption for the class of goal-directed Reinforcement Learning (RL) problems.
+Instead of an environment transition model, we assume an imperfect, goal-directed policy.
+This low-level policy can be improved by a plan, consisting of an appropriate sequence of sub-goals that guide it from the start to the goal state. We propose a planning algorithm, Divide-and-Conquer Monte Carlo Tree Search (DC-MCTS), for approximating the optimal plan by means of proposing intermediate sub-goals which hierarchically partition the initial tasks into simpler ones that are then solved independently and recursively. The algorithm critically makes use of a learned sub-goal proposal for finding appropriate partitions trees of new tasks based on prior experience.
+Different strategies for learning sub-goal proposals give rise to different planning strategies that strictly generalize sequential planning.
+We show that this algorithmic flexibility over planning order leads to improved results in navigation tasks in grid-worlds as well as in challenging continuous control environments.

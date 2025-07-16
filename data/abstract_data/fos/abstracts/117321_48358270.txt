@@ -1,0 +1,38 @@
+Neural network cloud top pressure and height for MODIS
+. Cloud top height retrieval from
+imager instruments is important for nowcasting and for satellite climate data
+records. A neural network approach for cloud top height retrieval from the
+imager instrument MODIS (Moderate Resolution Imaging Spectroradiometer) is
+presented. The neural networks are trained using cloud top layer pressure
+data from the CALIOP (Cloud-Aerosol Lidar with Orthogonal Polarization)
+dataset. Results are compared with two operational reference algorithms for cloud top
+height: the MODIS Collection 6 Level 2 height product and the cloud top
+temperature and height algorithm in the 2014 version of the NWC SAF (EUMETSAT
+(European Organization for the Exploitation of Meteorological Satellites)
+Satellite Application Facility on Support to Nowcasting and Very Short Range
+Forecasting) PPS (Polar Platform System). All three techniques are evaluated
+using both CALIOP and CPR (Cloud Profiling Radar for CloudSat
+(CLOUD SATellite)) height. Instruments like AVHRR (Advanced Very High Resolution Radiometer) and VIIRS
+(Visible Infrared Imaging Radiometer Suite) contain fewer channels useful for
+cloud top height retrievals than MODIS, therefore several different neural
+networks are investigated to test how infrared channel selection influences
+retrieval performance. Also a network with only channels available for the
+AVHRR1 instrument is trained and evaluated. To examine the contribution of
+different variables, networks with fewer variables are trained. It is shown
+that variables containing imager information for neighboring pixels are very
+important. The error distributions of the involved cloud top height algorithms are found
+to be non-Gaussian. Different descriptive statistic measures are presented
+and it is exemplified that bias and SD (standard deviation) can be misleading
+for non-Gaussian distributions. The median and mode are found to better
+describe the tendency of the error distributions and IQR (interquartile
+range) and MAE (mean absolute
+error) are found to give the most useful information of the spread of the
+errors. For all descriptive statistics presented MAE, IQR, RMSE (root mean square
+error), SD, mode, median, bias and percentage of absolute errors above 0.25,
+0.5, 1 and 2  km the neural network perform better than the reference
+algorithms both validated with CALIOP and CPR (CloudSat). The neural networks
+using the brightness temperatures at 11 and 12  µ m show at least
+32  % (or 623  m ) lower MAE compared to the two operational
+reference algorithms when validating with CALIOP height. Validation with CPR
+(CloudSat) height gives at least 25  % (or 430  m ) reduction
+of MAE.

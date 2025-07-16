@@ -1,0 +1,2 @@
+Practical application of IDEF1 as a database development tool
+This paper describes the IDEF1 information modeling technique, its key concepts, modeling approach, rules, and graphical notation. A step-by-step example is presented, which illustrates use of IDEFl as a conceptual database development tool. The example demonstrates the four phases of IDEFl model development, concentrating on the modeling process and its application to a typical information modeling problem. The paper also discusses aspects of conceptual database development that IDEFl does not support.

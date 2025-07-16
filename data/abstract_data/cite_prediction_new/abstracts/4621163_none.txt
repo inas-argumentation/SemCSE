@@ -1,0 +1,2 @@
+On the Hermite expansions of functions from Hardy class
+Considering functions $ f $ on $ \R^n $ for which both $ f $ and $ \hat{f} $ are bounded by the Gaussian $ e^{-{1/2}a|x|^2}, 0 < a < 1 $ we show that their Fourier-Hermite coefficients have exponential decay. Optimal decay is obtained for $ O(n)-$finite functions thus extending the one dimensional result of Vemuri.

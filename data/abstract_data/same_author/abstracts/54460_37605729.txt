@@ -1,0 +1,2 @@
+Circular chromatic numbers of a class of distance graphs
+Suppose m,k,s are positive integers with m>sk. Let D"m","k","s denote the set {1,2,...,m}@?{k,2k,...,sk}. The distance graph G(Z,D"m","k","s) has as vertex set all integers Z and edges connecting i and j whenever |i-j|@?D"m","k","s. This paper determines the circular chromatic number of all the distance graphs G(Z,D"m","k","s).

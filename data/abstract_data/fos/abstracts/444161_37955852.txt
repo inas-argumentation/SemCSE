@@ -1,0 +1,15 @@
+SU-D-500-07: Evaluation of the Spatial Resolution of Proton/carbon Computed Tomography Using Modulation Transfer Function.
+PURPOSE
+To characterize the modulation transfer function (MTF) of proton/carbon computed tomography using Geant4 Monte Carlo simulations. To assess the spatial resolution of proton/carbon computed tomography (pCT/cCT).
+
+
+METHODS
+A cylindrical water (1.0 g/cm3) phantom was specifically modeled with a length of 20 cm and a diameter of 20 cm. Its inserts were composed of bone and lung tissue each with two different densities: bone (1.58 g/cm3), bone (1.29 g/cm3), lung (0.6 g/cm3), and lung (0.3 g/cm3). These inserts were modeled as 10 cm × 16 mm × 8 mm boxes located in the center of the water phantom. The energy of the beams were tested at 230 MeV and 330 MeV for protons and at 430 MeV per nucleon for carbon. The contrast-to-noise (CNR) ratio was evaluated along a line-of-interest (LOI) across each water-bone/water-lung interface in order to ultimately characterize the spatial resolution by the 10% point of the modulation transfer function (MTF10% or MTF10) in units of line-pairs per mm (lp/mm).
+
+
+RESULTS
+The MTF was generated for interfaces of water-bone(1.58 g/cm3), water-bone(1.29 g/cm3), water-lung(0.6 g/cm3), and water-lung(0.3 g/cm3). Preliminary results indicate that, at 330 MeV, pCT can distinguish the above interfaces at 2.2 lp/mm, 2.5 lp/mm, 2.3 lp/mm and 2.5 lp/mm. These values are consistent with a previous study done for proton/carbon radiography [1], in which the average resolution was 2.3 lp/mm for bone and 2.4 lp/mm for lung.
+
+
+CONCLUSION
+The sub-millimeter resolution of pCT offers clinicians a potential tool in specific tumor diagnostics (such as in lung cancer), patient-setup for daily proton therapy, the reduction of absorbed dose relative to photon imaging, and the reduction of range uncertainties in proton/carbon therapy.

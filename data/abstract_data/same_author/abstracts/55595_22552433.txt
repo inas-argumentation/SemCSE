@@ -1,0 +1,2 @@
+Relational Algebra Machine GRACE
+Most of the data base machines proposed so far which adopts a filter processor as their basic unit show poor performance for the heavy load operation such as join and projection etc., while they can process the light load operations such as selection and update for which a full scan of a file suffices. These machines which incorporates n processors takes it O(N*M/n) time to execute join of two relations whose cardinalities are N and M respectively.

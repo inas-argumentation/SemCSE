@@ -1,0 +1,13 @@
+Heterogeneous Bitwidth Binarization in Convolutional Neural Networks
+Recent work has shown that performing inference with fast, very-low-bitwidth
+(e.g., 1 to 2 bits) representations of values in models can yield surprisingly accurate
+results. However, although 2-bit approximated networks have been shown to
+be quite accurate, 1 bit approximations, which are twice as fast, have restrictively
+low accuracy. We propose a method to train models whose weights are a mixture
+of bitwidths, that allows us to more finely tune the accuracy/speed trade-off. We
+present the “middle-out” criterion for determining the bitwidth for each value, and
+show how to integrate it into training models with a desired mixture of bitwidths.
+We evaluate several architectures and binarization techniques on the ImageNet
+dataset. We show that our heterogeneous bitwidth approximation achieves superlinear
+scaling of accuracy with bitwidth. Using an average of only 1.4 bits, we are
+able to outperform state-of-the-art 2-bit architectures.

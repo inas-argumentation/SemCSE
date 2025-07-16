@@ -1,0 +1,2 @@
+Unintegrated parton distributions
+We describe how to calculate the parton distributions ${f}_{a}{(x,k}_{t}^{2},{\ensuremath{\mu}}^{2}),$ unintegrated over the parton transverse momentum ${k}_{t},$ from auxiliary functions ${h}_{a}{(x,k}_{t}^{2}),$ which satisfy single-scale evolution equations. The formalism embodies both DGLAP and BFKL contributions, and accounts for the angular ordering which comes from coherence effects in gluon emission. We check that the unintegrated distributions give the measured values of the deep inelastic structure function ${F}_{2}{(x,Q}^{2}).$

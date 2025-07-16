@@ -1,0 +1,2 @@
+Towards Perspective-Free Object Counting with Deep Learning
+METHOD MAE MSD RODRIGUEZ ET AL. 655.7 697.8 LEMPITSKY ET AL. 493.4 487.1 ZHANG ET AL. 467.0 498.5 IDREES ET AL. 419.5 541.6 ZHANG ET AL. 377.6 509.1 CCNN 488.67 646.68 HYDRA 2S 333.73 425.26 HYDRA 3S 465.73 371.84 The Hydra model uses a pyramid of input patches cropped from the center of the target patch to provide multiscale information to the network. The counting by regression model with deep learning

@@ -1,0 +1,2 @@
+Challenges in evolving controllers for physical robots
+This paper discusses the feasibility of applying evolutionary methods to automatically generating controllers for physical mobile robots. We overview the state of the art in the field, describe some of the main approaches, discuss the key challenges, unanswered problems, and some promising directions.

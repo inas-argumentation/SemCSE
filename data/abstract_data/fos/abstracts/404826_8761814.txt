@@ -1,0 +1,11 @@
+SU-E-T-460: Comparison of Proton and IMRT Planning for Head and Neck Cancer.
+PURPOSE
+A retrospective study comparing proton and intensity-modulated radiation therapy (IMRT) for head and neck cancer METHODS: This study consists of six H&N cancer patients that underwent proton as well as IMRT planning. Patients analyzed had unilateral target volumes, one had prior RT. 3D-conformal proton therapy (3D-CPT) plans with multiple field uniform scanning were generated for delivery on the inclined beam line. IMRT was planned using fixed field sliding window. Final plan evaluations were performed by a radiation oncologist and a physicist. Metrics for comparison included tumor coverage, organ sparing with respect to spinal cord, brainstem, parotids, submandibulars, oral cavity, larynx, brachial plexus, cochleas, normal brain tissue, and skin using relevant indices for these structures. Dose volume histograms were generated as well as a qualitative comparison of isodose distributions between the two modalities. Planning and treatment delivery times were compared.
+
+
+RESULTS
+Results showed that IMRT plans offered better conformality in the high dose region as demonstrated by the conformality index for each plan. Ipsilateral cochlea, submandibular gland, and skin doses were lower with IMRT than proton therapy. There was significant sparing of larynx, oral cavity, and brainstem with proton therapy compared to IMRT. This translated into direct patient benefit with no evidence of hoarseness, mucositis, or nausea. Contralateral parotid and submandibular glands were equally spared. IMRT had shorter planning/parts fabrication and treatment times which needs to be taken into account when deciding modality.
+
+
+CONCLUSION
+Sparing of clinically significant normal tissue structures such as oral cavity and larynx for unilateral H&N cancers was seen with 3D-CPT versus IMRT. However, this is at the expense of less conformality at the high dose region and higher skin dose. Future studies are needed with full gantry systems and pencil beam scanning as these deliveries would be expected to further improve conformality and normal tissue sparing.

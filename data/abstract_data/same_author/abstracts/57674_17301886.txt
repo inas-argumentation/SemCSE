@@ -1,0 +1,3 @@
+An analysis of discontinuous Galerkin methods for elliptic problems
+Abstract
+We study global and local behaviors for three kinds of discontinuous Galerkin schemes for elliptic equations of second order. We particularly investigate several a posteriori error estimations for the discontinuous Galerkin schemes. These theoretical results are applied to develop local/parallel and adaptive finite element methods, based on the discontinuous Galerkin methods.

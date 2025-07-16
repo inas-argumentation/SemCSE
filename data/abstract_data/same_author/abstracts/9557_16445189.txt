@@ -1,0 +1,2 @@
+Chern-Simons number diffusion and hard thermal loops on the lattice
+We develop a discrete lattice implementation of the hard thermal loop effective action by the method of added auxiliary fields. We use the resulting model to measure the sphaleron rate (topological susceptibility) of Yang-Mills theory at weak coupling. Our results give parametric behavior in accord with the arguments of Arnold, Son, and Yaffe, and are in quantitative agreement with the results of Moors, Hu, and Muller.

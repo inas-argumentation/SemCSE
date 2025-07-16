@@ -1,0 +1,2 @@
+The Dense k -Subgraph Problem
+Abstract. This paper considers the problem of computing the dense k -vertex subgraph of a given graph, namely, the subgraph with the most edges. An approximation algorithm is developed for the problem, with approximation ratio O(nδ) , for some δ < 1/3 .

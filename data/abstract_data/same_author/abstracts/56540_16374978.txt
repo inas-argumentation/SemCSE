@@ -1,0 +1,11 @@
+Improved centroids estimation for the nearest shrunken centroid classifier
+MOTIVATION
+The nearest shrunken centroid (NSC) method has been successfully applied in many DNA-microarray classification problems. The NSC uses 'shrunken' centroids as prototypes for each class and identifies subsets of genes that best characterize each class. Classification is then made to the nearest (shrunken) centroid. The NSC is very easy to implement and very easy to interpret, however, it has drawbacks.
+
+
+RESULTS
+We show that the NSC method can be interpreted in the framework of LASSO regression. Based on that, we consider two new methods, adaptive L(infinity)-norm penalized NSC (ALP-NSC) and adaptive hierarchically penalized NSC (AHP-NSC), with two different penalty functions for microarray classification, which improve over the NSC. Unlike the L(1)-norm penalty used in LASSO, the penalty terms that we consider make use of the fact that parameters belonging to one gene should be treated as a natural group. Numerical results indicate that the two new methods tend to remove irrelevant genes more effectively and provide better classification results than the L(1)-norm approach.
+
+
+AVAILABILITY
+R code for the ALP-NSC and the AHP-NSC algorithms are available from authors upon request.

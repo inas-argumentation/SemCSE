@@ -1,0 +1,4 @@
+Shorter Regular Expressions from Finite-State Automata
+We consider the use of state elimination to construct shorter regular expressions from finite-state automata. Although state elimination is an intuitive method for computing regular expressions from finite-state automata, the resulting regular expressions are often very long and complicated. We examine the minimization of finite-state automata to obtain shorter expressions first. Then, we introduce vertical chopping based on bridge states and horizontal chopping based on the structural properties of given finite-state automata. We prove that we should not eliminate bridge states until we eliminate all non-bridge states to obtain shorter regular expressions. In addition, we suggest heuristics for state elimination that lead to shorter regular expressions based on vertical chopping and horizontal chopping. 
+ 
+Note that we have omitted almost all proofs in this preliminary version.

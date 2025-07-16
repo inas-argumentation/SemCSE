@@ -1,0 +1,2 @@
+Capturing practical natural language transformations
+We study automata for capturing the transformations in practical natural language processing (NLP) systems, especially those that translate between human languages. For several variations of finite-state string and tree transducers, we survey answers to formal questions about their expressiveness, modularity, teachability, and generalization. We conclude that no formal device yet captures everything that is desirable, and we point to future research.

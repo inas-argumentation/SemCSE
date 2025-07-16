@@ -1,0 +1,2 @@
+Corrected Entropy Values for Spanning Trees in Lattices
+Shrock and Wu have given numerical values for the exponential growth rate of the number of spanning trees in Euclidean lattices. In particular, they suggested that this rate may be exactly equal to 2 for the 4-dimensional hypercubic lattice. We give a new technique for numerical evaluation that gives more accurate values and, in particular, disproves this suggestion. §

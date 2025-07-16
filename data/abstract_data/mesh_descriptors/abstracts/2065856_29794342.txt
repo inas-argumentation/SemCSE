@@ -1,0 +1,15 @@
+Comprehensive computational assessment of blood flow characteristics of left ventricle based on in-vivo MRI in presence of artificial myocardial infarction.
+BACKGROUND
+Understanding the effects of cardiac diseases on the heart's functionality which is the purpose of many biomedical researches, directly affects the diagnostic and therapeutic methods. Myocardial infarction (MI) is a common complication of cardiac ischemia, however, the impact of MI on the left ventricle (LV) flow patterns has not been widely considered by computational fluid dynamics studies thus far.
+
+
+METHODS
+In this study, we present an insightful numerical method that creates an artificial MI on an image-based fluid-structure interactional model of normal LV to investigate its influence on the flow in comparison with the normal case. Seventeen different models were developed to evaluate the effects of location, percentage, myocardial material properties and dilation size of MI on the LV's performance, area strain, wall displacement, pressure-volume loop, wall shear stress and velocity field.
+
+
+RESULTS
+The results show that MI considerably changes blood flow features which are fully dependent on MI parameters. For the case of constant MI location, the effect of a decrease of infarcted myocardium stiffness, increase of dilation size and increase of MI percentage are mostly similar. Although the location differences of MI under other constant conditions have similar impact on the ejection fraction, they also lead to dissimilar variations in the LV flow pattern and other indicators.
+
+
+CONCLUSIONS
+The presented model showed a capable computational method for investigating various mechanical MI conditions with respect to cardiac flow pattern. The perspective of this model development seems to be an applicable tool for MI clinical diagnosis and prediction of complications related to MI.

@@ -1,0 +1,2 @@
+A General Purpose Reasoner for Abstraction
+The goal of the work described in this paper is the development of a system, called ABSFOL, which allows the user to state declaratively abstractions and to use them according to the desired control strategy. ABSFOL has been successfully tested on many examples. So far we have failed to find an interesting abstraction whose implementation requires a major programming effort.

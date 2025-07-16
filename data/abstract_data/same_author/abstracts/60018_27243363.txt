@@ -1,0 +1,2 @@
+Algorithmic Verification of Linear Temporal Logic Specifications
+In this methodological paper we present a coherent framework for symbolic model checking verification of linear-time temporal logic (ltl) properties of reactive systems, taking full fairness into consideration. We use the computational model of a fair Kripke structure (fks) which takes into account both justice (weak fairness) and compassion (strong fairness). The approach presented here reduces the model checking problem into the question of whether a given FKS is feasible (i.e. has at least one computation).

@@ -1,0 +1,15 @@
+Determination of uranium isotope ratios using a liquid sampling atmospheric pressure glow discharge/Orbitrap mass spectrometer system.
+RATIONALE
+The field of highly accurate and precise isotope ratio analysis, for use in nonproliferation, has been dominated by thermal ionization and inductively coupled plasma mass spectrometry. While these techniques are considered the gold standard for isotope ratio analysis, a downsized instrument capable of accurately and precisely measuring uranium (U) isotope ratios is desirable for field studies or in laboratories with limited infrastructure.
+
+
+METHODS
+The developed system interfaces the liquid sampling, an atmospheric pressure glow discharge (LS-APGD) ion source, with a high-resolution Exactive Orbitrap mass spectrometer. With this experimental setup certified U isotope standards and unknown samples were analyzed. The accuracy and precision of the system were then determined.
+
+
+RESULTS
+The LS-APGD/Exactive instrument measured a certified reference material of natural U (235 U/238 U = 0.007261) with a 235 U/238 U ratio of 0.007065 and a % relative standard uncertainty of 0.082, meeting the International Target Values for the destructive analysis of U. In addition, when three unknowns were measured and these measurements were compared with the results from an ICP multi-collector instrument, there were no statistical differences between the two instruments.
+
+
+CONCLUSIONS
+The LS-APGD/Orbitrap system, while still in the preliminary stages of development, offers highly accurate and precise isotope ratio results that suggest a potential paradigm shift in the world of isotope ratio analysis. Furthermore, the portability of the LS-APGD as an elemental ion source, combined with the small size and smaller operating demands of the Orbitrap, suggests that the instrumentation is capable of being field-deployable.

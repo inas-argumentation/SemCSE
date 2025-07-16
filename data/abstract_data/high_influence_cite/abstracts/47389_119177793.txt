@@ -1,0 +1,2 @@
+Dispersion for the Schr ¨ odinger equation on networks
+In this paper we consider the Schr\"odinger equation on a network formed by a tree with the last generation of edges formed by infinite strips. We give an explicit description of the solution of the linear Schr\"odinger equation with constant coefficients. This allows us to prove dispersive estimates, which in turn are useful for solving the nonlinear Schr\"odinger equation. The proof extends also to the laminar case of positive step-function coefficients having a finite number of discontinuities.

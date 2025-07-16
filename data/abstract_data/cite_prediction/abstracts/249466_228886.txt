@@ -1,0 +1,2 @@
+Using an Intermediate Skeleton and Inverse Kinematics for Motion Retargeting
+In this paper , we presenta new methodfor solving the Motion Retargeting Problem,by usingan intermediate skeleton.Thisallowsus to convert movementsbetweenhierarchically andgeometricallydifferentcharacters. An InverseKinematicsengineis thenusedto enforceCartesianconstraintswhile stayingascloseaspossibleto the capturedmotion.

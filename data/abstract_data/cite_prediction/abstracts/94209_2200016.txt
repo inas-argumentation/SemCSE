@@ -1,0 +1,2 @@
+3D modelling and simulation of a crawler robot in ROS/Gazebo
+Modelling and animation of crawler UGV's caterpillars is a complicated task, which has not been completely resolved in ROS/Gazebo simulators. In this paper, we proposed an approximation of track-terrain interaction of a crawler UGV, perform modelling and simulation of Russian crawler robot "Engineer" within ROS/Gazebo and visualize its motion in ROS/RViz software. Finally, we test the proposed model in heterogeneous robot group navigation scenario within uncertain Gazebo environment.

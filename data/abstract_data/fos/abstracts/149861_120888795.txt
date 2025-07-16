@@ -1,0 +1,2 @@
+A note on the common location parameter of several exponential populations
+The problem of estimation of an unknown common location parameter of several exponential populations with unknown and possibly unequal scale parameters is considered. A wide class of estimators, including both a modified maximum likelihood estimator (MLE), and the uniformly minimum variance unbiased estimator (Umvue) proposed by ghosh and razmpour(1984), is obtained under a class of convex loss functions.

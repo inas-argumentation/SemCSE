@@ -1,0 +1,2 @@
+Monitoring setup of Prague T2 site
+Quality monitoring is a crucial part in struggle for reliability of every Tier 2 site. We present a solution based on Nagios installation in Prague. Our solution includes both third party and in-house developed add-ons and plug-ins. We focus on integrating results from grid-wise monitoring tools (such as SAM or Gstat) at one place (our Nagios instance). We also present an automated way to generate configuration files for Nagios from local database of hardware and services.

@@ -1,0 +1,8 @@
+Efficient Timed Reachability Analysis Using Clock Difference Diagrams
+One of the major problems in applying automatic verification tools to industrial-size systems is the excessive amount of memory required during the state-space exploration of a model. In the setting of real-time, this problem of state-explosion requires extra attention as information must be kept not only on the discrete control structure but also on the values of continuous clock variables. 
+ 
+In this paper, we exploit Clock Difference Diagrams, CDD's, a BDD-like data-structure for representing and effectively manipulating certain nonconvex subsets of the Euclidean space, notably those encountered during verification of timed automata. 
+ 
+A version of the real-time verification tool Uppaal using CDD's as a compact data-structure for storing explored symbolic states has been implemented. Our experimental results demonstrate significant spacesavings: for eight industrial examples, the savings are in average 42% with moderate increase in runtime. 
+ 
+We further report on how the symbolic state-space exploration itself may be carried out using CDD's.

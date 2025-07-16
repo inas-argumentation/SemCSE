@@ -1,0 +1,2 @@
+Memory access problems in block cyclic reduction on vector computers
+In the present paper, modifications of block cyclic reduction are introduced by which the often significant memory access problems of this method on vector computers can be drastically reduced. The modifications are discussed in the context of an interval arithmetic application, as interval methods are particularly sensitive to several aspects of memory access. A comparison of computation times from several numerical tests is included.

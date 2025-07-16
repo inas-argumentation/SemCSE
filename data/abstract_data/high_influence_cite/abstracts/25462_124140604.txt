@@ -1,0 +1,2 @@
+Boundary Element Modeling Of Curved Wire Antenna Configurations
+The paper deals with an analysis of curved wire antennas. The formulation is based on the Pocklington integro-differential equations for curved wires which is solved via the Galerkin-Bubnov scheme of the Indirect Boundary Element method (GB-IBEM). Some illustrative computational examples related to thin wire loop antenna and various helical antenna types are given in the paper.

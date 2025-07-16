@@ -1,0 +1,6 @@
+A Deep HST Search for Escaping Lyman Continuum Flux at z~1.3: Evidence for an Evolving Ionizing Emissivity
+We have obtained deep Hubble Space Telescope far-UV images of 15 starburst galaxies at z ~ 1.3 in the GOODS fields to search for escaping Lyman continuum (LyC) photons. These are the deepest far-UV images (m_(AB) = 28.7, 3σ, 1" diameter) over this large an area (4.83 arcmin^2) and provide some of the best escape fraction constraints 
+for any galaxies at any redshift. We do not detect any individual galaxies, with 3σ limits to the LyC (~700 A) 
+flux 50–149 times fainter (in f_ν) than the rest-frame UV (1500 A) continuum fluxes. Correcting for the mean 
+intergalactic medium (IGM) attenuation (factor ~2), as well as an intrinsic stellar Lyman break (factor ~3), these 
+limits translate to relative escape fraction limits of f_(esc,rel) 4 and reionization of the IGM at z > 6.

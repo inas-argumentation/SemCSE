@@ -1,0 +1,2 @@
+A numerical optimal control approach to the design of an optical fibre-based evanescent field sensor
+This paper presents an application of numerical optimization via dynamic programming in the design of a refractive index profile for an optical fibre-based evanescent field sensor. The designed sensor delivers approximately 15% of the total propagating electromagnetic field power to the surrounding environment for sensing purposes, representing a substantial improvement over previous ad-hoc designs delivering at most 9% (Gibson et al. , 2001).

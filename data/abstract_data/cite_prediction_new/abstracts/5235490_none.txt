@@ -1,0 +1,2 @@
+Surrogate-Based MOEA/D for Electric Motor Design With Scarce Function Evaluations
+This paper proposes a surrogate-assisted multiobjective evolutionary algorithm based on decomposition (sMOEA/D) for the design of electric motors. The idea is to improve the surrogate gradually during the optimization. Simulation results show that the proposed method is competitive with state-of-the-art multiobjective optimization algorithms needing only a small number of function evaluations.

@@ -1,0 +1,15 @@
+Remote monitoring of cardiorespiratory signals from a hovering unmanned aerial vehicle
+BACKGROUND
+Remote physiological measurement might be very useful for biomedical diagnostics and monitoring. This study presents an efficient method for remotely measuring heart rate and respiratory rate from video captured by a hovering unmanned aerial vehicle (UVA). The proposed method estimates heart rate and respiratory rate based on the acquired signals obtained from video-photoplethysmography that are synchronous with cardiorespiratory activity.
+
+
+METHODS
+Since the PPG signal is highly affected by the noise variations (illumination variations, subject's motions and camera movement), we have used advanced signal processing techniques, including complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN) and canonical correlation analysis (CCA) to remove noise under these assumptions.
+
+
+RESULTS
+To evaluate the performance and effectiveness of the proposed method, a set of experiments were performed on 15 healthy volunteers in a front-facing position involving motion resulting from both the subject and the UAV under different scenarios and different lighting conditions.
+
+
+CONCLUSION
+The experimental results demonstrated that the proposed system with and without the magnification process achieves robust and accurate readings and have significant correlations compared to a standard pulse oximeter and Piezo respiratory belt. Also, the squared correlation coefficient, root mean square error, and mean error rate yielded by the proposed method with and without the magnification process were significantly better than the state-of-the-art methodologies, including independent component analysis (ICA) and principal component analysis (PCA).

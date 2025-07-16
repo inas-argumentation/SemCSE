@@ -1,0 +1,2 @@
+Radial projections along chains
+We state strong Marstrand properties for two related families of fractals in Heisenberg groups $\mathcal{H}^d$: limit sets of Schottky groups in good position, and attractors of self-similar IFS enjoying the open set condition in the quotient $\mathcal{H}^d/Z$. For such a fractal $X$, we show that the dimension of $\pi_x X$ does not depend on $x \in \mathcal{H}^d$, where $\pi_x$ denotes the radial projection along chains passing through $x$. This follows from a local entropy averages argument due to Hochman and Shmerkin.

@@ -1,0 +1,2 @@
+Numerical simulations of feedback control of magnetic field perturbations in JET tokamak
+The control of internal helical magnetic field perturbations in a JET tokamak is analyzed by numerical simulations based on non-linear plasma model. A realistic dynamic model of actuators, transducers and digital adaptive controller used in experiments has been implemented. Optimal parameters of the control system are determined from the comparison of the model with the observed dynamics of the complete control system.

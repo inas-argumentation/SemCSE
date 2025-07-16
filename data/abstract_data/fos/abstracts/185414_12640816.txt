@@ -1,0 +1,3 @@
+Low-Complexity Cryptographic Hash Functions
+Cryptographic hash functions are efficiently computable functions that shrink a long input into a shorter output while achieving some of the useful security properties of a random function. 
+The most common type of such hash functions is collision resistant hash functions (CRH), which prevent an efficient attacker from finding a pair of inputs on which the function has the same output.

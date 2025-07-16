@@ -1,0 +1,2 @@
+A New Technique for Fast Number Comparison in the Residue Number System
+A technique for number comparison in the residue number system is presented, and its theoretical validity is proved. The proposed solution is based on using a diagonal function to obtain a magnitude order of the numbers. In a first approach the function is computed using a suitable extra modulus. In the final implementation of the technique the extra modulus has been inserted in the set of moduli of the residue system, avoiding redundancy. The technique is compared with other approaches. >

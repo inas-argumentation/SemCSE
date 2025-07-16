@@ -1,0 +1,2 @@
+Using Self Organizing Feature Maps to Acquire Knowledge about Visitor Behavior in a Web Site
+When a user visits a web site, important information concerning his/her preferences and behavior is stored implicitly in the associated log files. This information can be revealed by using data mining techniques and can be used in order to improve both, content and structure of the respective web site.

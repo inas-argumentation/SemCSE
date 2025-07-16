@@ -1,0 +1,2 @@
+On the realization of circuit-independent nonautonomous pulse-excited chaotic oscillator circuits
+The aim of this paper is to present a simple circuit design method for realizing a nonautonomous chaotic oscillator given a second-order sinusoidal oscillator with two capacitors. The proposed method relies on applying a periodic pulse train, as an exciting source, and the addition of a signum-type nonlinear transconductor to the given sinusoidal oscillator. Experimental results of designed circuits are shown.

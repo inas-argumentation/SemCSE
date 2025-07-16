@@ -1,0 +1,15 @@
+Evaluation of linear accelerator gating with real-time electromagnetic tracking.
+PURPOSE
+Intrafraction organ motion can produce dosimetric errors in radiotherapy. Commonly, the linear accelerator is gated using real-time breathing phase obtained by way of external sensors. However, the external anatomy does not always correlate well with the internal position. We examined a beam gating technique using signals from implanted wireless transponders that provided real-time feedback on the tumor location without an imaging dose to the patient.
+
+
+METHODS AND MATERIALS
+An interface was developed between Calypso Medical's four-dimensional electromagnetic tracking system and a Varian Trilogy linear accelerator. A film phantom was mounted on a motion platform programmed with lung motion trajectories. Deliveries were performed when the beam was gated according to the signal from the wireless transponders. The dosimetric advantages of beam gating and the system latencies were quantified.
+
+
+RESULTS
+Beam gating using on internal position monitoring provided up to a twofold increase in the dose gradients. The percentage of points failing to be within +/-10 cGy of the planned dose (maximal dose, approximately 200 cGy) was 3.4% for gating and 32.1% for no intervention in the presence of motion. The mean latencies between the transponder position and linear accelerator modulation were 75.0 +/-12.7 ms for beam on and 65.1 +/- 12.9 ms for beam off.
+
+
+CONCLUSION
+We have presented the results from a novel method for gating the linear accelerator using trackable wireless internal fiducial markers without the use of ionizing radiation for imaging. The latencies observed were suitable for gating using electromagnetic fiducial markers, which results in dosimetric improvements for irradiation in the presence of motion.

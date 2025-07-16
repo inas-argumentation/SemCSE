@@ -1,0 +1,2 @@
+Using mixed-integer programming to solve power grid blackout problems
+We consider optimization problems related to the prevention of large-scale cascading blackouts in power transmission networks subject to multiple scenarios of externally caused damage. We present computation with networks with up to 600 nodes and 827 edges, and many thousands of damage scenarios.

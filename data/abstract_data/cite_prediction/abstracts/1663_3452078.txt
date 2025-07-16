@@ -1,0 +1,2 @@
+Camera calibration from video of a walking human
+A self-calibration method to estimate a camera's intrinsic and extrinsic parameters from vertical line segments of the same height is presented. An algorithm to obtain the needed line segments by detecting the head and feet positions of a walking human in his leg-crossing phases is described. Experimental results show that the method is accurate and robust with respect to various viewing angles and subjects

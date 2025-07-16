@@ -1,0 +1,2 @@
+Design procedure for two-stage CMOS operational amplifiers employing current buffer
+The design procedure of the two-stage CMOS operational amplifiers employing Miller capacitor in conjunction with the common-gate current buffer is presented. Unlike the previously reported design strategy of the opamp of this type, which results in the opamp with a pair of nondominant complex conjugate poles and a finite zero, the proposed procedure is based upon the design strategy that results in the opamp with only one dominant pole. Design example of the proposed procedure is given.

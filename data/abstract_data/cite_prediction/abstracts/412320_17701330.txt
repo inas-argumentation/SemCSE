@@ -1,0 +1,2 @@
+Analysis of Aloha Protocols for Underwater Acoustic Sensor Networks
+In this paper, we present a study on Aloha and Slotted Aloha protocols for Underwater Sensor Networks (UWSN). Such simple random access protocols allow sensor nodes to communicate in UWSN. We present a simple mathematical analysis as well as simulations to show the performance of Aloha and Slotted Aloha in the acoustic environment. Our results show that long propagation delay of acoustic signals prohibits the coordination among nodes (e.g., slotted methods), and thus, it does not yield any performance gain.

@@ -1,0 +1,8 @@
+Approximate Nearest Neighbor Queries Revisited
+Abstract. This paper proposes new methods to answer approximate nearest neighbor queries on a set of n points in d -dimensional Euclidean space. For any fixed constant d , a data structure with O(
+$\varepsilon$(1-d)/2n log n) preprocessing time and O(
+$\varepsilon$(1-d)/2log n) query time achieves an approximation factor 1+
+$\varepsilon$ for any given 0 < 
+$\varepsilon$ < 1; a variant reduces the 
+$\varepsilon$ -dependence by a factor of 
+$\varepsilon$-1/2 . For any arbitrary d , a data structure with O(d2n log n) preprocessing time and O(d2log n) query time achieves an approximation factor O(d3/2) . Applications to various proximity problems are discussed.

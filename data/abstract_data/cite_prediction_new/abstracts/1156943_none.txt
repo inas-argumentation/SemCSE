@@ -1,0 +1,2 @@
+Service Oriented Architecture for Remote Sensing Satellite Telemetry Data Implemented on Grid Computing
+This paper illustrates how a grid computing architecture and a service oriented architecture (SOA) will accelerate telemetry (TM) data processing and make flexible TM data analysis service. Moreover, this paper will articulate grid computational and data resources management, tacking a TM system as a case study from the Egyptian space program (ESP). General Terms Modeling, distributed computing

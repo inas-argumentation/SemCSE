@@ -1,0 +1,2 @@
+Multirate System Performance Evaluation using Singular Value Analysis
+The scope of this paper is to present a new approach to developing meaningful criteria for evaluating the performance of a feedback multirate digital control system and to investigate sampling interval selection based upon the application of the powerful tools of singular value analysis and robust control theory.

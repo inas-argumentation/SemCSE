@@ -1,0 +1,2 @@
+Computation of Replicated Exercise Prices by Using Positive Bases
+A procedure is provided for computing the replicated exercise prices of a given portfolio. We highlight a matrix-based framework for analyzing option replication. The new matrix formulation allows the development of efficient computational methods in order to determine the replicated exercise prices of a given portfolio by using the theory of positive bases in vector lattices.

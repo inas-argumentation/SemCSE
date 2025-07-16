@@ -1,0 +1,2 @@
+Nonlinear State Feedback Controller Design and Stability Analysis Based on a Discrete Dynamic Fuzzy model
+Based on the dynamic fuzzy model, which represent the plant, a nonlinear state feedback controller design method was presented. And the stability of the closed loop was analyzed. A sufficient condition which guarantees the stability was obtained. The method presented was tested by a simulation example. The results show the efficiency of the new method

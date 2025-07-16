@@ -1,0 +1,2 @@
+Privacy Guarantees through Distributed Constraint Satisfaction
+The reason for using distributed constraint satisfaction algorithms is often to allow agents to find a solution while revealing as little as possible about their variables and constraints. So far, most algorithms for DisCSP do not guarantee privacy of this information. This paper describes some simple techniques that can be used with DisCSP algorithms such as DPOP, and provide sensible privacy guarantees based on the distributed solving process without sacrificing its efficiency.

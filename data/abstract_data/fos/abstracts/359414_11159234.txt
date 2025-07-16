@@ -1,0 +1,2 @@
+Cryptanalysis of a Universally Verifiable Efficient Re-encryption Mixnet
+We study the heuristically secure mix-net proposed by Puiggali and Guasch (EVOTE 2010). We present practical attacks on both correctness and privacy for some sets of parameters of the scheme. Although our attacks only allow us to replace a few inputs, or to break the privacy of a few voters, this shows that the scheme can not be proven secure.

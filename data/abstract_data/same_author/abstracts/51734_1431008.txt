@@ -1,0 +1,2 @@
+Polynomial time synthesis of Byzantine agreement
+We present a polynomial time algorithm for automatic synthesis of fault-tolerant distributed programs, starting from fault-intolerant versions of those programs. Since this synthesis problem is known to be NP-hard, our algorithm relies on heuristics to reduce the complexity. We demonstrate that our algorithm is able to synthesize an agreement program that tolerates a Byzantine fault.

@@ -1,0 +1,2 @@
+A Sufficient Condition for Deadlock-Free Adaptive Routing in Mesh Networks
+Deadlock remains a central problem in interconnection network. In this paper, we establish a new theory of deadlock-free flow control for k-ary, n-cube mesh network, which enables the use of any minimal-path adaptive routing algorithms while avoiding deadlock. We prove that the proposed flow control algorithm is a sufficient condition for deadlock freedom in any minimal path, adaptive routing algorithms on k-ary, n-cube mesh network.

@@ -1,0 +1,4 @@
+Key Exchange Using Passwords and Long Keys
+We propose a new model for key exchange (KE) based on a combination of different types of keys. In our setting, servers exchange keys with clients, who memorize short passwords and carry (stealable) storage cards containing long (cryptographic) keys. Our setting is a generalization of that of Halevi and Krawczyk [16] (HK), where clients have a password and the public key of the server. 
+ 
+We point out a subtle flaw in the protocols of HK and demonstrate a practical attack on them, resulting in a full password compromise. We give a definition of security of KE in our (and thus also in the HK) setting and discuss many related subtleties. We define and discuss protection against denial of access attacks, which is not possible in any of the previous KE models that use passwords. Finally, we give a very simple and efficient protocol satisfying all our requirements.

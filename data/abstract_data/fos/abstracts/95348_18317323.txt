@@ -1,0 +1,2 @@
+A smooth and differentiable bulk-solvent model for macromolecular diffraction
+A new method for modeling the bulk solvent in macromolecular diffraction data based on Babinet’s principle is presented. The proposed models offer the advantage of differentiability with respect to atomic coordinates.

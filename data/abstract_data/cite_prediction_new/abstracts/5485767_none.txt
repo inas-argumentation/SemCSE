@@ -1,0 +1,2 @@
+Energy saving for induction motor control by extremum seeking
+Energy saving is a concern of increasing importance in the operation of electrical drives and has become a primary motivation to equip pumps and fans with inverters, that allow speed operation away from the nominal set point. The present paper underlines the merits of extremum seeking, a popular adaptive control method, for online optimization of energy efficiency by adapting the flux to the motor speed. The benefits of the method are illustrated experimentally on a commercially available inverter.

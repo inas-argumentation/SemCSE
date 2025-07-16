@@ -1,0 +1,19 @@
+Primary care provider adherence to an alert for intensification of diabetes blood pressure medications before and after the addition of a “chart closure” hard stop
+Objective
+To evaluate provider responses to a narrowly targeted "Best Practice Advisory" (BPA) alert for the intensification of blood pressure medications for persons with diabetes before and after implementation of a "chart closure" hard stop, which is non-interruptive but demands an action or dismissal before the chart can be closed.
+
+
+Materials and Methods
+We designed a BPA that fired alerts within an electronic health record (EHR) system during outpatient encounters for patients with diabetes when they had elevated blood pressures and were not on angiotensin receptor blocking medications. The BPA alerts were implemented in eight primary care practices within UCLA Health. We compared data on provider responses to the alerts before and after implementing a "chart closure" hard stop, and we conducted chart reviews to adjudicate each alert's appropriateness.
+
+
+Results
+Providers responded to alerts more often after the "chart closure" hard stop was implemented (P < .001). Among 284 alert firings over 16 months, we judged 107 (37.7%) to be clinically unnecessary or inappropriate based on chart review. Among the remainder, which represent clear opportunities for treatment, providers ordered the indicated medication more often (41% vs 75%) after the "chart closure" hard stop was implemented (P = .001).
+
+
+Discussion
+The BPA alerts for diabetes and blood pressure control achieved relatively high specificity. The "chart closure" hard stop improved provider attention to the alerts and was effective at getting patients treated when they needed it.
+
+
+Conclusion
+Targeting specific omitted medication classes can produce relatively specific alerts that may reduce alert fatigue, and using a "chart closure" hard stop may prompt providers to take action without excessively disrupting their workflow.

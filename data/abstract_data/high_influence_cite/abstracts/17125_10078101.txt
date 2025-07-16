@@ -1,0 +1,2 @@
+Automated Discovery of Compositions of Services Described with Separate Ontologies
+We present a matchmaking system that exploits ontology-based (OWL-S) service descriptions to discover service compositions capable of satisfying a client request. Efficiency is achieved by pre-computing off-line a (hyper)graph that represents the functional dependencies among different (sub)services. The notion of Semantic Field [1] is employed to cross different ontologies.

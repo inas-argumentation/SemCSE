@@ -1,0 +1,2 @@
+Cross lingual Word Embeddings beyond Zero shot Machine Translation
+We explore the transferability of a multilingual neural machine translation model to unseen languages when the transfer is grounded solely on the cross lingual word embeddings. Our experimental results show that the translation knowledge can transfer weakly to other languages and that the degree of transferability depends on the languages' relatedness. We also discuss the limiting aspects of the multilingual architectures that cause weak translation transfer and suggest how to mitigate the limitations.

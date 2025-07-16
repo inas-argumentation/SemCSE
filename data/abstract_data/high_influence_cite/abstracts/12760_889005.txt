@@ -1,0 +1,2 @@
+A facial reduction algorithm for finding sparse SOS representations
+The facial reduction algorithm reduces the size of the positive semidefinite cone in SDP. The elimination method for a sparse SOS polynomial [M. Kojima, S. Kim, H. Waki, Sparsity in sums of squares of polynomials, Math. Program. 103 (2005) 45-62] removes monomials which do not appear in any SOS representations. In this paper, we establish a relationship between a facial reduction algorithm and the elimination method for a sparse SOS polynomial.

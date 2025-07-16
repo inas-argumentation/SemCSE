@@ -1,0 +1,2 @@
+Deep-inelastic structure functions in the MIT bag model.
+Deep-inelastic structure functions are calculated from a Peierls-Yoccoz-projected MIT bag wave function. The calculation yields quark distribution functions that have the correct support as a function of Bjorken x. These functions are evolved to ${Q}^{2}$=15 ${\mathrm{GeV}}^{2}$ using QCD perturbation theory, where they are shown to disagree with experiment. Possible improvements are discussed.

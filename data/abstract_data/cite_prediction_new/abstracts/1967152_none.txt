@@ -1,0 +1,2 @@
+Feature Representation for Online Signature Verification
+Biometrics systems have been used in a wide range of applications and have improved people authentication. Signature verification is one of the most common biometric methods with techniques that employ various specifications of a signature. Recently, deep learning has achieved great success in many fields, such as image, sounds and text processing. In this paper, deep learning method has been used for feature extraction and feature selection.

@@ -1,0 +1,2 @@
+Hadron Energy Resolution of the ICAL Detector
+Energy of hadronic shower inside Iron Calorimeter Detector has been calibrated using single pion events. Total hit multiplicity is taken into account for calibrating the energy. GEANT4 has been used for the simulation.

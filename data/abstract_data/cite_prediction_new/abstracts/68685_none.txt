@@ -1,0 +1,2 @@
+Joint estimation of sound source location and noise covariance in spatially colored noise
+In this paper, sound source localization in spatially colored noise such as room reverberation is discussed. Two iterative algorithms for jointly estimating signal source parameters and noise covariance are proposed. Experimental results show that the estimation of noise covariance improves the spatial resolution of source localization.

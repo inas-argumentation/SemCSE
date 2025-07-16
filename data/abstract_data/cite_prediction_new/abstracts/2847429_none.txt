@@ -1,0 +1,2 @@
+A 0.8V, 88dB Dual-Channel Audio /spl Delta//spl Sigma/ DAC with Headphone Driver
+A 0.8V 3rd-order DeltaSigma DAC with headphone driver is presented. The circuit requires only one opamp per channel, shared by the internal DAC, the FIR and 2nd-order Sallen-Key low-pass filter, as well as by the headphone driver. The prototype IC implemented in a 0.35mum CMOS process achieved 88dB dynamic range (DR), while consuming 2.6mW from a 0.8V supply

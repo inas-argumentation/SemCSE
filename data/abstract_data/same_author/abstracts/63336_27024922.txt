@@ -1,0 +1,2 @@
+An inverse model for the most uniform problem
+In this paper, we consider a kind of inverse model for the most uniform problem. This model has some practical background. It is shown that the model can be solved in polynomial time whenever an associated min-sum problem can be solved in polynomial time.

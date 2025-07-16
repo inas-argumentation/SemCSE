@@ -1,0 +1,2 @@
+Capacity competition of make-to-order firms
+Two make-to-order firms, each modelled as a single-server queue, compete for a common stream of (potential) customers by setting their service capacities (rates) and service prices. Each customer maximizes her expected return by getting service from a firm or by balking. We completely characterize the Nash equilibrium of the competition.

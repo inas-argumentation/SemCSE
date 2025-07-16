@@ -1,0 +1,2 @@
+Two stage sign tests that allow first stage acceptance and rejection
+One sided two stage sign tests that allow for both first stage acceptance and rejection of the null hypothesis are presented. The decision constants are selected so that the power curve of the two stage test matches the power curve of the usual sign test at three specified points. These tests are compared with two stages sign tests recently presented by Colton and McPherson (1976) which allow only first stage rejection of the null hypothesis.

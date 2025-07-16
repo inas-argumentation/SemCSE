@@ -1,0 +1,2 @@
+Synchronization of chaos in non-identical parametrically excited systems
+In this paper, we investigate the synchronization of chaotic systems consisting of non-identical parametrically excited oscillators. The active control technique is employed to design control functions based on Lyapunov stability theory and Routh–Hurwitz criteria so as to achieve global chaos synchronization between a parametrically excited gyroscope and each of the parametrically excited pendulum and Duffing oscillator. Numerical simulations are implemented to verify the results.

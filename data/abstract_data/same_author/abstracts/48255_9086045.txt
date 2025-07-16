@@ -1,0 +1,2 @@
+The distributed program reliability analysis on star topologies
+We show that computing distributed program reliability on the star distributed computing system is NP-hard. We develop a polynomially solvable case to compute distributed program reliability when some additional file distribution is restricted on the star topology. We also propose a polynomial time algorithm for computing distributed program reliability with an approximate solution when the star topology is not satisfied with the additional file distribution.

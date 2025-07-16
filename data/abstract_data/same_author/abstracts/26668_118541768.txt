@@ -1,0 +1,2 @@
+Boundary terms, spinors and Kerr/CFT
+A bstractSimilarly as in AdS/CFT, the requirement that the action for spinors be stationary for solutions to the Dirac equation with fixed boundary conditions determines the form of the boundary term that needs to be added to the standard Dirac action in Kerr/CFT. We determine this boundary term and make use of it to calculate the two-point function for spinor fields in Kerr/CFT. This two-point function agrees with the correlator of a two dimensional relativistic conformal field theory.

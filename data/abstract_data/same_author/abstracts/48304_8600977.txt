@@ -1,0 +1,2 @@
+Optimal preemptive semi-online scheduling on two uniform processors
+We investigate a preemptive semi-online scheduling problem. Jobs with sizes within a certain range [1, r] (r≥1 ) arrive one by one to be scheduled on two uniform parallel processors with speed 1 and s≥1, respectively. The objective is to minimize makespan. We characterize the optimal competitive ratio as a function of both s and r by devising a deterministic on-line scheduling algorithm along with a matching lower bound, which also holds for randomized algorithms.

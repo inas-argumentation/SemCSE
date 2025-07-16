@@ -1,0 +1,11 @@
+A semiparametric approach for marker gene selection based on gene expression data
+MOTIVATION
+Identification of differentially expressed genes is a major issue in gene expression data analysis and selection of marker genes is critical in tumor classification using gene expression data. In this paper, we propose a semiparametric two-sample test to identify both differentially expressed genes and select marker genes for sample classification.
+
+
+RESULTS
+A simulation study shows that the proposed method is more robust and powerful than the methods, generally used such as t-tests and non-parametric rank-sum tests, when the sample size is small. Cross-validation shows that the sample classification based on genes selected using this semiparametric method has lower misclassification rates.
+
+
+CONTACT
+hongyu.zhao@yale.edu.

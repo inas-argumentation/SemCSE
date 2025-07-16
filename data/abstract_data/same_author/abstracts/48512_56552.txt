@@ -1,0 +1,2 @@
+Buffer Requirements For TCP/IP Over ABR
+We study the buffering requirements for zero cell loss for TCP over ABR. We show that the maximum buffers required at the switch is proportional to the maximum round trip time (RTT) of all VCs through the link. The number of round-trips depends upon the the switch algorithm used. With our ERICA [erica-final] switch algorithm, we find that the buffering required is independent of the number of TCP sources. We substantiate our arguments with simulation results.

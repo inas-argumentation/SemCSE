@@ -1,0 +1,2 @@
+Research and Application of Server Push Technology Based on Pushlet
+Introduces the conception of Comet in Web application,analyzes and compares four major technologies of achieving server push.The long connection way based on Iframe is better.And makes a detailed analysis about Comet that is based on Pushlet,points out the main technology about the application of the Comet based on Pushlet.

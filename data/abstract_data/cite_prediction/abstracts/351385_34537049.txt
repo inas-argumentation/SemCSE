@@ -1,0 +1,2 @@
+ON THE USE OF REDUNDANCY IN SUCCESSIVE APPROXIMATION A / D CONVERTERS
+In practical realizations of sequential (or pipelined) A/D converters, some form of redundancy is typically employed to help absorb imperfections in the underlying circuits. The purpose of this paper is to review the various ways in which redundancy has been used in successive approximating register (SAR) ADCs, and to connect findings from the information theory community to ideas that drive modern hardware realizations. Keywords— A/D conversion, redundancy, successive approximation, beta expansion

@@ -1,0 +1,2 @@
+Laplacian Eigenspaces, Horocycles and Neuron Models on Hyperbolic Spaces
+We use hyperbolic Poisson kernel to construct the horocycle neuron model on hyperbolic spaces, which is a spectral generalization of the classical neuron model. We prove a universal approximation theorem for horocycle neurons. As a corollary, this theorem leads to a state-of-the-art result on the expressivity of neurons of the hyperbolic MLR. Our experiments get state-of-the-art results on the Poincare-embedding tree classification task and the two-dimensional visualization of images.

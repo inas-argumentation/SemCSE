@@ -1,0 +1,2 @@
+REAL-TIME FACIAL FEATURE TRACKING USING AN ACTIVE MODEL WITH FAST IMAGE WARPING
+In this paper our system for face and facial feature tracking using an active model is described. The focus of the paper is on image warping methods for achieving realtime performance, in order to show that it is possible to implement a real-time model based coding system on consumer hardware.

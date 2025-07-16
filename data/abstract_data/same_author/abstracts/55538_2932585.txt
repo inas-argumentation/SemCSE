@@ -1,0 +1,2 @@
+A Granular Computing Approach to Machine Learning
+The key to granular computing is to make use of granules in problem solving. Classification is one of the well studied problems in machine learning and data mining as it involves of discovery knowledge from large databases. We presents a granular computing view to classification problems and propose a granular computing approach to classification in this paper. The ID3 [8] and PRISM [2] algorithma are studied and extended to granular computing algorithm.

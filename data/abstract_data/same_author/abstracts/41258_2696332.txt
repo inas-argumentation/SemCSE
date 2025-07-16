@@ -1,0 +1,7 @@
+A boosting approach for motif modeling using ChIP-chip data
+MOTIVATION
+Building an accurate binding model for a transcription factor (TF) is essential to differentiate its true binding targets from those spurious ones. This is an important step toward understanding gene regulation.
+
+
+RESULTS
+This paper describes a boosting approach to modeling TF-DNA binding. Different from the widely used weight matrix model, which predicts TF-DNA binding based on a linear combination of position-specific contributions, our approach builds a TF binding classifier by combining a set of weight matrix based classifiers, thus yielding a non-linear binding decision rule. The proposed approach was applied to the ChIP-chip data of Saccharomyces cerevisiae. When compared with the weight matrix method, our new approach showed significant improvements on the specificity in a majority of cases.

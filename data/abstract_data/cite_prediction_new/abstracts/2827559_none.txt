@@ -1,0 +1,2 @@
+Comparison of Maximum Likelihood and GAN-based training of Real NVPs
+We train a generator by maximum likelihood and we also train the same generator architecture by Wasserstein GAN. We then compare the generated samples, exact log-probability densities and approximate Wasserstein distances. We show that an independent critic trained to approximate Wasserstein distance between the validation set and the generator distribution helps detect overfitting. Finally, we use ideas from the one-shot learning literature to develop a novel fast learning critic.

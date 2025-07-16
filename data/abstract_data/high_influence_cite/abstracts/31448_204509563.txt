@@ -1,0 +1,2 @@
+The Novikov conjecture and extensions of coarsely embeddable groups
+Let $1 \to N \to G \to G/N \to 1$ be a short exact sequence of countable discrete groups and let $B$ be any $G$-$C^*$-algebra. In this paper, we show that the strong Novikov conjecture with coefficients in $B$ holds for such a group $G$ when the normal subgroup $N$ and the quotient group $G/N$ are coarsely embeddable into Hilbert spaces. As a result, the group $G$ satisfies the Novikov conjecture under the same hypothesis on $N$ and $G/N$.

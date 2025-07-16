@@ -1,0 +1,15 @@
+Thoracic Vertebral Body Irradiation Contributes to Acute Hematologic Toxicity During Chemoradiation Therapy for Non-Small Cell Lung Cancer.
+PURPOSE
+To determine the relationships between radiation doses to the thoracic bone marrow and declines in blood cell counts in non-small cell lung cancer (NSCLC) patients treated with chemoradiation therapy (CRT).
+
+
+METHODS AND MATERIALS
+We included 52 patients with NSCLC treated with definitive concurrent carboplatin-paclitaxel and RT. Dose-volume histogram (DVH) parameters for the thoracic vertebrae (TV), sternum, scapulae, clavicles, and ribs were assessed for associations with changes in blood counts during the course of CRT. Linear and logistic regression analyses were performed to identify associations between hematologic nadirs and DVH parameters. A DVH parameter of Vx was the percentage of the total organ volume exceeding x radiation dose.
+
+
+RESULTS
+Grade ≥ 3 hematologic toxicity including neutropenia developed in 21% (n=11), leukopenia in 42% (n=22), anemia in 6% (n=3), and throbocytopenia in 2% (n=1) of patients. Greater RT dose to the TV was associated with higher risk of grade ≥ 3 leukopenia across multiple DVH parameters, including TV V20 (TVV) (odds ratio [OR] 1.06; P=.025), TVV30 (OR 1.07; P=.013), and mean vertebral dose (MVD) (OR 1.13; P=.026). On multiple regression analysis, TVV30 (β = -0.004; P=.018) and TVV20 (β = -0.003; P=.048) were associated with white blood cell nadir. Additional bone marrow sites (scapulae, clavicles, and ribs) did not affect hematologic toxicity. A 20% chance of grade ≥ 3 leukopenia was associated with a MVD of 13.5 Gy and a TTV30 of 28%. Cutoff values to avoid grade ≥ 3 leukopenia were MVD ≤ 23.9 Gy, TVV20 ≤ 56.0%, and TVV30 ≤ 52.1%.
+
+
+CONCLUSIONS
+Hematologic toxicity is associated with greater RT doses to the TV during CRT for NSCLC. Sparing of the TV using advanced radiation techniques may improve tolerance of CRT and result in improved tolerance of concurrent chemotherapy.

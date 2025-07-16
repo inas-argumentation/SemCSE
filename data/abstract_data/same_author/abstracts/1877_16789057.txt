@@ -1,0 +1,2 @@
+Assessment of the Java programming language for use in high integrity systems
+This paper sets a goal of investigating the use of Java in the development of high integrity systems. Based on previous studies, guidelines, and standards, we develop 23 criteria that are used for the following assessment of Java. A summary of the assessment is provided before we go on to review a few existing subsets of the language.

@@ -1,0 +1,2 @@
+Dynamics of games and genes: Discrete versus continuous time
+It is shown that in the classical model of population genetics (Fisher-Wright-Haldane, discrete or continuous version) every solution p(t) converges to equilibrium for t → ∞. For related models of evolutionary games (with non-symmetric matrices) it is shown that the transformation that describes the dynamics is a diffeomorphism (in particular one-to-one).

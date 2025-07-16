@@ -1,0 +1,2 @@
+Bayesian Methods for Neural Networks and Related Models
+Models such as feed-forward neural networks and certain other structures investigated in the computer science literature are not amenable to closed-form Bayesian analysis. The paper reviews the various approaches taken to overcome this difficulty, involving the use of Gaussian approximations, Markov chain Monte Carlo simulation routines and a class of non-Gaussian but “deterministic” approximations called variational approximations.

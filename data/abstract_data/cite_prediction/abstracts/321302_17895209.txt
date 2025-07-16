@@ -1,0 +1,2 @@
+Measure of Tessellation Quality of Voronoï Meshes
+This article introduces a measure of the quality of Voronoï tessellations resulting from various mesh generators. Mathematical models of a number of mesh generators are given. A main result in this work is the identification of those mesh generators that produce the highest quality Voronoï tessellations. Examples illustrating the application of the quality measure are given in comparing Voronoï tessellations of digital images.

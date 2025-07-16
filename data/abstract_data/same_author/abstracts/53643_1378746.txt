@@ -1,0 +1,2 @@
+Migration to web services oriented architecture: a case study
+The rapid emerging of web-services technology is dramatically changing the scenario of web application design and development. This paper presents a web-services oriented architecture. As a case study, the paper reports on an on-going project on the design and development of a pass-through authentication web-services for on-line electronic payment applications. This is a first step towards an electronic payment web-service.

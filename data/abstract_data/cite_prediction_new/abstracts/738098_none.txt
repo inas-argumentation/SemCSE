@@ -1,0 +1,2 @@
+Design and analysis of a hierarchical clock distribution system for synchronous standard cell/macrocell VLSI
+The authors describe the synchronous clock distribution problem in VLSI and techniques for its solution. In particular, the advantages and disadvantages of a hierarchical design technique for minimizing clock skew within a VLSI circuit are discussed. In addition, a model for clock distribution networks which considers the effects of distributed interconnect impedances on clock skew is described.

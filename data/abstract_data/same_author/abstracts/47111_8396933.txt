@@ -1,0 +1,2 @@
+Hierarchical morse complexes for piecewise linear 2-manifolds
+We present algorithms for constructing a hierarchy of increasingly coa rse Morse complexes that decompose a piecewise linear 2-manifold. While Morse complexes are defined only in the smooth category, we extend the construction to the piecewise linear category by ensuring structural integrity and simulating differentiability. We then simplify Morse complexes by cancelling pairs of critical points in order of increasing persistence.

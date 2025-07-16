@@ -1,0 +1,2 @@
+On the Complements of Partial k-Trees
+We introduce new techniques for studying the structure of partial k-trees. In particular, we show that the complements of partial k-trees provide an intuitively-appealing characterization of partial k-tree obstructions. We use this characterization to obtain a lower bound of 2Ω(k log k) on the number of obstructions, significantly improving the previously best-known bound of 2Ω(√k). Our techniques have the added advantage of being considerably simpler than those of previous authors.

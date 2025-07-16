@@ -1,0 +1,2 @@
+The System Test of the GK in the H.323System
+In this paper we introduce the multimedia exchanging system based the H.323protocol and the main function module GK.Then we inrtoduce the way of software system test.Next we design the method to test GK.At last,we give an example using VISUAL TEST to test software.

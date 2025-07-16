@@ -1,0 +1,2 @@
+Liapunov exponents and the reversibility of molecular dynamics algorithms
+Abstract We study the phenomenon of lack of reversibility in molecular dynamics algorithms for the case of Wilson's lattice QCD. We demonstrate that the classical equations of motion that are employed in these algorithms are chaotic in nature. The leading Liapunov exponent is determined in a range of coupling parameters. We consider the consequences of the breakdown of reversibility due to round-off errors.

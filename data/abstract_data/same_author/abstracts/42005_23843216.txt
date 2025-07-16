@@ -1,0 +1,2 @@
+An Algorithm for Dynamic Data Allocation in Distributed Systems
+We propose a practical algorithm that changes the replication scheme of an object (i.e. the processors which store a replica of the object) dynamically, as the read-write pattern of the object changes in the network. The algorithm is based on the primary copy method, it preserves 1-copy-serializability, and it is distributed.

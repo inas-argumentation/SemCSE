@@ -1,0 +1,2 @@
+Reliable Computation of Equilibrium States and Bifurcations in Nonlinear Dynamics
+A problem of frequent interest in the analysis of nonlinear ODE models is the location of equilibrium states and bifurcations. Interval-Newton techniques are explored for identifying, with certainty, all equilibrium states and all codimension-1 and codimension-2 bifurcations of interest within specified model parameter intervals. The methodology is demonstrated using a tritrophic food chain in a chemostat (Canale's model), and a modification thereof.

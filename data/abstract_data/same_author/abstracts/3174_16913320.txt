@@ -1,0 +1,8 @@
+Continuity Properties of Equilibria in Some Fisher and Arrow-Debreu Market Models
+Following up on the work of Megiddo and Vazirani [10], who determined continuity properties of equilibrium prices and allocations for perhaps the simplest market model, Fisher's linear case, we do the same for: 
+ 
+ 
+Fisher's model with piecewise-linear, concave utilities 
+Fisher's model with spending constraint utilities 
+Arrow-Debreu's model with linear utilities 
+Eisenberg-Gale markets.

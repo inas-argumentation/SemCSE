@@ -1,0 +1,15 @@
+An Iterated loop matching approach to the prediction of RNA secondary structures with pseudoknots
+MOTIVATION
+Pseudoknots have generally been excluded from the prediction of RNA secondary structures due to its difficulty in modeling. Although, several dynamic programming algorithms exist for the prediction of pseudoknots using thermodynamic approaches, they are neither reliable nor efficient. On the other hand, comparative methods are more reliable, but are often done in an ad hoc manner and require expert intervention. Maximum weighted matching, an algorithm for pseudoknot prediction with comparative analysis, suffers from low-prediction accuracy in many cases.
+
+
+RESULTS
+Here we present an algorithm, iterated loop matching, for reliably and efficiently predicting RNA secondary structures including pseudoknots. The method can utilize either thermodynamic or comparative information or both, thus is able to predict pseudoknots for both aligned and individual sequences. We have tested the algorithm on a number of RNA families. Using 8-12 homologous sequences, the algorithm correctly identifies more than 90% of base-pairs for short sequences and 80% overall. It correctly predicts nearly all pseudoknots and produces very few spurious base-pairs for sequences without pseudoknots. Comparisons show that our algorithm is both more sensitive and more specific than the maximum weighted matching method. In addition, our algorithm has high-prediction accuracy on individual sequences, comparable with the PKNOTS algorithm, while using much less computational resources.
+
+
+AVAILABILITY
+The program has been implemented in ANSI C and is freely available for academic use at http://www.cse.wustl.edu/~zhang/projects/rna/ilm/
+
+
+SUPPLEMENTARY INFORMATION
+http://www.cse.wustl.edu/~zhang/projects/rna/ilm/

@@ -1,0 +1,2 @@
+Extremal graph characterization from the bounds of the spectral radius of weighted graphs
+We consider weighted graphs, where the edge weights are positive definite matrices. The eigenvalues of a graph are the eigenvalues of its adjacency matrix. We obtain a lower bound and an upper bound on the spectral radius of the adjacency matrix of weighted graphs and characterize graphs for which the bounds are attained.

@@ -1,0 +1,2 @@
+A decision-theoretic approach to variable selection in discriminant analysis
+In discriminant analysis it is often desirable to find a small subset of the variables that were measured on the individuals of known origin, to be used for classifying individuals of unknown origin. In this paper a Bayesian approach to variable selection is used that includes an additional subset of variables for future classification if the additional measurement costs for this subsst are lower than the resulting reduction in expected misclassification costs.

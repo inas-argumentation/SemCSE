@@ -1,0 +1,2 @@
+Experiments on pattern recognition using invariant Fourier-Mellin descriptors.
+Image descriptors based on the circular-Fourier-radial-Mellin transform are used for position-, rotation-, scale-, and intensity-invariant multiclass pattern recognition. The orders of the radial moments and of the circular harmonics are chosen to obtain an efficient image description. The first-order radial moments of three circular harmonics are sufficient to obtain a satisfactory recognition performance. The influence of additive noise is investigated. Experimental results are shown.

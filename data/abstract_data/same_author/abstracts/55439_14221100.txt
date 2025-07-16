@@ -1,0 +1,8 @@
+Graph Treewidth and Geometric Thickness Parameters
+Consider a drawing of a graph G in the plane such that crossing edges are coloured differently. The minimum number of colours, taken over all drawings of G, is the classical graph parameter thicknessθ(G). By restricting the edges to be straight, we obtain the geometric thickness${\bar\theta}$(G). By further restricting the vertices to be in convex position, we obtain the book thicknessbt(G). This paper studies the relationship between these parameters and the treewidth of G. Let $\theta({\mathcal T}_{k}) / {\bar\theta}({\mathcal T}_{k}) / {\tt bt}({\mathcal T}_{k})$denote the maximum thickness / geometric thickness / book thickness of a graph with treewidth at most k. We prove that: 
+ 
+– $\theta({\mathcal T}_{k})={\bar\theta}({\mathcal T}_{k}) = \lceil k/2 \rceil$, and 
+ 
+– ${\tt bt}({\mathcal T}_{k}) = k$for k≤2, and ${\tt bt}({\mathcal T}_{k}) = k+1$for k≥3. 
+ 
+The first result says that the lower bound for thickness can be matched by an upper bound, even in the more restrictive geometric setting. The second result disproves the conjecture of Ganley and Heath [Discrete Appl. Math. 2001] that ${\tt bt}({\mathcal T}_{k}) = k$for all k. Analogous results are proved for outerthickness, arboricity, and star-arboricity.

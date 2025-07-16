@@ -1,0 +1,2 @@
+Alternating eulerian trails with prescribed degrees in two edge-colored complete graphs
+Let K"n be the complete graph with vertex set {v"1, v"2, ..., v"n} and let g=(g"1, ..., g"n) be a sequence of positive integers. Color each edge of this K"n red or blue. In this paper necessary and sufficient conditions are given which guarantee the existence of a connected spanning subgraph F in K"n (as colored) with both red degree and blue degree in F at vertex v"1 equal to g"i. When each g"i = 1 this answers a question of Erdos proved in this special case in [1].

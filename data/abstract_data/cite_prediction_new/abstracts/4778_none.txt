@@ -1,0 +1,2 @@
+Creating Streamribbons Based on Mass Conservative Streamlines
+Streamribbon is used to visualize the rotation of the fluid flow. The rotation of flow is useful in fluid mechanics,engineering and geophysics. This paper introduces the construction technique of streamribbon using the streamline which is generated based on the law of mass conservation. The accuracy of constructed streamribbons is shown through two examples.

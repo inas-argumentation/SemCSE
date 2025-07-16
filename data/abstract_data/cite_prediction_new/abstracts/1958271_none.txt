@@ -1,0 +1,2 @@
+Attenuation of optical strip waveguides with rough sidewalls
+We investigate the effect of sidewall roughness on high-contrast optical strip waveguides. The dependence of attenuation on the magnitude and correlation length of the sidewall roughness, as well as on the mode polarisation, is simulated numerically using a wavelet-based FDTD algorithm implemented on a parallel cluster. Sample devices have been characterized.

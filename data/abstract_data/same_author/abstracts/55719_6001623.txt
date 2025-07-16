@@ -1,0 +1,7 @@
+A segment alignment approach to protein comparison
+MOTIVATION
+Local structure segments (LSSs) are small structural units shared by unrelated proteins. They are extensively used in protein structure comparison, and predicted LSSs (PLSSs) are used very successfully in ab initio folding simulations. However, predicted or real LSSs are rarely exploited by protein sequence comparison programs that are based on position-by-position alignments.
+
+
+RESULTS
+We developed a SEgment Alignment algorithm (SEA) to compare proteins described as a collection of predicted local structure segments (PLSSs), which is equivalent to an unweighted graph (network). Any specific structure, real or predicted corresponds to a specific path in this network. SEA then uses a network matching approach to find two most similar paths in networks representing two proteins. SEA explores the uncertainty and diversity of predicted local structure information to search for a globally optimal solution. It simultaneously solves two related problems: the alignment of two proteins and the local structure prediction for each of them. On a benchmark of protein pairs with low sequence similarity, we show that application of the SEA algorithm improves alignment quality as compared to FFAS profile-profile alignment, and in some cases SEA alignments can match the structural alignments, a feat previously impossible for any sequence based alignment methods.

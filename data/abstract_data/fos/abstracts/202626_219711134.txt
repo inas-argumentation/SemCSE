@@ -1,0 +1,2 @@
+Anonymous IBE From Quadratic Residue With Fast Encryption
+We develop two variants of Cocks’ identity-based encryption. One variant has faster encryption which is as efficient as RSA encryption. The other variant makes the first variant anonymous under suitable complexity assumptions, while its decryption efficiency is about twice lower than the first one. Both the variants have ciphertext expansion twice larger than the original Cocks’ identity-based encryption.

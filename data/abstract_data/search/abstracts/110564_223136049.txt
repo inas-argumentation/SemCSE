@@ -1,0 +1,2 @@
+Learning state space trajectories in recurrent neural networks
+Many neural network learning procedures compute gradients of the errors on the output layer of units after they have settled to their final values. We describe a procedure for finding E/wij, where

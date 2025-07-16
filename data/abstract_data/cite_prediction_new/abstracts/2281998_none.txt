@@ -1,0 +1,2 @@
+A classification-based elephant flow detection method using application round on SDN environments
+We propose in this paper a classification-based elephant flow detection method for SDN environments. The proposed elephant flow detection method consists of two classifiers running on the switch and the controller, respectively. For better performance, the concept of application round is used to build the classifier running on the controller. Experimental results show that our elephant flow detection method is able to obtain high recall and F-measure.

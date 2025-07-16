@@ -1,0 +1,2 @@
+Accurate Large-Signal Modeling of AlGaN-GaN HEMT Including Trapping and Self-Heating Induced Dispersion
+An accurate large-signal model for AlGaN-GaN HEMT is presented. This model is derived from a distributed small-signal model that efficiently describes the physics of the device. An improved drain current model accounts for trapping and self-heating effects is implemented. The model shows very good results for simulating the high-power operation of a 8times125mum gate width AlGaN-GaN HEMT even beyond the 1-dB gain compression point

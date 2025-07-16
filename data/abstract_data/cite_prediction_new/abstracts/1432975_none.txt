@@ -1,0 +1,2 @@
+A Non-Parametric Option Pricing Model: Theory and Empirical Evidence
+In this paper, we propose an empirically-based, non-parametric option pricing model to evaluate S&P 500 index options. Given the fact that the model is derived under the real measure, an equilibrium asset pricing model, instead of no-arbitrage, must be assumed. Using the histogram of past S&P 500 index returns, we find that most of the volatility smile documented in the literature disappears.

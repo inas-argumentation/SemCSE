@@ -1,0 +1,2 @@
+Pure strategy nash equilibria with continuous objectives
+This paper looks at the question of the existence of a pure strategy Nash equilibrium if the assumption of quasi-concavity of objective functions is dropped. The analysis focuses on the space of reaction correspondences of firms. It is shown that for an open and dense subset of this space, there does not exist a Nash equilibrium. This is shown to imply that in the space of continuous objective functions, an open and dense subset does not have a Nash equilibrium.

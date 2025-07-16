@@ -1,0 +1,2 @@
+Global Lyapunov Analysis of Multistable Nonlinear Systems
+A new type of stability is introduced and its equivalent Lyapunov characterization is presented. The problem of global stability for the compact set composed of all invariant solutions of a nonlinear system (several equilibriums, for instance) is studied. Such a problem statement allows us to analyze global stability properties for multistable systems. It is shown that several well-known multistable systems satisfy this new stability property.

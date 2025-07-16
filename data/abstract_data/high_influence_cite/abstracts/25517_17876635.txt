@@ -1,0 +1,2 @@
+Composite planar coverings of graphs
+We shall prove that a connected graph G is projective-planar if and only if it has a 2n-fold planar connected covering obtained as a composition of an n-fold covering and a double covering for some n>=1 and show that every planar regular covering of a nonplanar graph is such a composite covering.

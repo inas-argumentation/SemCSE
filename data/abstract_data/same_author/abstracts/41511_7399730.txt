@@ -1,0 +1,2 @@
+An Almost Linear Time 2.8334-Approximation Algorithm for the Disc Covering Problem
+The disc covering problem asks to cover a set of points on the plane with a minimum number of fix-sized discs. We develop an O(n(logn)2(loglogn)2) deterministic time 2.8334-approximation algorithm for this problem. Previous approximation algorithms [7,3,6], when used to achieve the same approximation ratio for the disc covering problem, will have much higher time complexity than our algorithms.

@@ -1,0 +1,15 @@
+Utility of 19F MRS detection of the hypoxic cell marker EF5 to assess cellular hypoxia in solid tumors.
+BACKGROUND AND PURPOSE
+The present studies were undertaken to determine whether 19F MRS could be used to quantify the binding of the pentafluorinated derivative of etanidazole (EF5) in hypoxic cells of solid tumors.
+
+
+MATERIALS AND METHODS
+A 4.7 T imaging magnet was used for the in situ and in vitro evaluation of EF5 signals. In order to develop a better understanding of these NMR measurements the characteristics of parent, reduced unbound, and reduced bound EF5 signals were examined in vitro using a 12 T spectrometer.
+
+
+RESULTS
+In situ data acquired using a 4.7 T imaging magnet, showed retention of EF5 signals in KHT sarcomas that was absent in muscles for 6 h after EF5 injection. In vitro studies showed no difference in the NMR detectable signal of parent and reduced unbound EF5. T2 values determined using parent EF5 samples revealed a T2 time of 675 ms. In contrast, EF5 bound to KHT tumor cells gave rise to signals of low intensity, broad line widths, and T2 relaxation times of less than 30 ms. When the same samples were analyzed using the 4.7 T imaging magnet, the CF3 and CF2 fluorine peaks were readily identifiable in the parent EF5 sample but no fluorine signal could be detected from EF5 bound to KHT tumor cells.
+
+
+CONCLUSION
+The inability to resolve bound EF5 metabolites even at high field strengths (12 T), coupled with the short T2 relaxation times of the bound EF5, and the limits of detection of the in situ applied imaging magnet (4.7 T), meant that hypoxic cells could not be quantified in tumors using the 19F MRS technique. In situ 19F MRS measurements of EF5 signals (parent/reduced unbound) may reflect conditions of tumor physiology and thus indicate the extent of tumor hypoxia but they are not capable of resolving the cellular oxygenation status of the tumor cells.

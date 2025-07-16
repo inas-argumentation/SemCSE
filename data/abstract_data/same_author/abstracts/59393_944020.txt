@@ -1,0 +1,2 @@
+An Effective Branch-and-Bound Algorithm to Solve the k-Longest Common Subsequence Problem
+In this paper, we study the Longest Common Subsequence problem of multiple sequences. Because the problem is NP-hard, we devise an effective Branch-and-Bound algorithm to solve the problem. Results of extensive computational experiments show our method to be effective not only on randomly generated benchmark instances2, but also on real-world protein sequence instances.

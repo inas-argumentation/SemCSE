@@ -1,0 +1,2 @@
+A Type Specialisation Tutorial
+The essence of partial evaluation is beautifully simple: we just take a program, together with values of some of its inputs; we perform the operations that depend only on known inputs, build a new program from the other operations, and finally obtain a residual program which solves the same problem as the original for a subclass of the cases. Work by Neil Jones and his group over the past decade and a half has demonstrated just how powerful this simple idea really is.

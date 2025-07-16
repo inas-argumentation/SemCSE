@@ -1,0 +1,2 @@
+Improved loop expansion for the effective potential of coupled boson-fermion systems at finite temperature and density
+The effective potential V(phi) of a scalar field theory coupled to fermions is undefined near phi = 0 if the scalar field has a spontaneously broken symmetry. This shows up in a loop expansion as an imaginary part in V(phi) which persists to all temperatures and densities, even when the symmetry is restored. This paper presents a modification of the loop expansion which yields a real V(phi) whenever the one-loop fermion corrections restore the symmetry.

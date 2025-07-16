@@ -1,0 +1,2 @@
+Behavior Analysis of Object-Oriented Databases: Method Structure, Execution Trees, and Reachability (Extended Abstract)
+A theoretical model for analyzing the behavior of method execution in object-oriented databases (OODBs) is introduced and used to study issues of reachability, nontermination, and well-typedness in the context of restricted classes of OODBs.

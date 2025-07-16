@@ -1,0 +1,2 @@
+Linear-Time Approximation Schemes for Scheduling Malleable Parallel Tasks
+A malleable parallel task is one whose execution time is a function of the number of (identical) processors alloted to it. We study the problem of scheduling a set of nindependent malleable tasks on a fixed number of parallel processors, and propose an approximation scheme that for any fixed ε > 0 , computes in O(n)time a non-preemptive schedule of length at most (1+ε)times the optimum.

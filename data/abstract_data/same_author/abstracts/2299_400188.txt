@@ -1,0 +1,10 @@
+Finite Identification of Functions by Teams with Success Ratio 1\over2 and Above
+Consider a scenario in which an algorithmic machine, M, is being fed the graph of a computable function ƒ. M is said to finitely identify ƒ just in case, after inspecting a finite portion of the graph of ƒ, it emits its first conjecture, which is a program for ƒ, and it never abandons this conjecture thereafter. A team of machines is a multiset of such machines. A team is said to be successful just in case each member of some nonempty subset, of predetermined size, of the team is successful, The ratio of the number of machines required to be successful to the size of the team is referred to as the success ratio of the team. The present paper investigates the finite identification of computable functions by teams of learning machines. The results presented complete the picture for teams with success ratio 12 and greater. It is shown that at success ratio 12, introducing redundancy in the team can result in increased learning power. In particular, it is established that larger collections of functions can be learned by employing teams of 4 machines and requiring at least 2 to be successful than by employing teams of 2 machines and requiring at least 1 to be successful. Surprisingly, it is also shown that introducing further redundancy at success ratio 12 does not yield any extra learning power. In particular, it is shown that the collections of functions that can be finitely identified by a team of 2m machines requiring at least m to be successful is the same as: 
+• 
+the collections of functions that can be finitely identified by a team of 4 machines requiring at least 2 to be successful, if is even, and 
+ 
+• 
+the collections of functions that can be identified by a team of 2 machines requiring at least 1 to be successful, if is odd. 
+ 
+ 
+These latter results require development of sophisticated simulation techniques.

@@ -1,0 +1,14 @@
+Convolutional CRFs for Semantic Segmentation
+For the challenging semantic image segmentation task the best performing models
+have traditionally combined the structured modelling capabilities of Conditional
+Random Fields (CRFs) with the feature extraction power of CNNs. In more recent
+works however, CRF post-processing has fallen out of favour. We argue that this
+is mainly due to the slow training and inference speeds of CRFs, as well as the
+difficulty of learning the internal CRF parameters. To overcome both issues we
+propose to add the assumption of conditional independence to the framework of
+fully-connected CRFs. This allows us to reformulate the inference in terms of
+convolutions, which can be implemented highly efficiently on GPUs.Doing so
+speeds up inference and training by two orders of magnitude. All parameters of
+the convolutional CRFs can easily be optimized using backpropagation. Towards
+the goal of facilitating further CRF research we have made our implementations
+publicly available.

@@ -1,0 +1,4 @@
+Subgraph Join: Efficient Processing Subgraph Queries on Graph-Structured XML Document
+The information in many applications can be naturally represented as graph-structured XML document. Structural query on graph structured XML document matches the subgraph of graph structured XML document on some given schema. The query processing of graph-structured XML document brings new challenges. 
+ 
+In this paper, for the processing of subgraph query, we design a subgraph join algorithm based on reachability coding. Using efficient data structure, subgraph join algorithm can process subgraph query with various structures efficiently.

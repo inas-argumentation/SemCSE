@@ -1,0 +1,11 @@
+Structural comparisons among the short-chain helical cytokines.
+BACKGROUND
+Cytokines and growth factors are soluble proteins that regulate the development and activities of many cell types. One group of these proteins have structures based on a four-helix bundle, though this similarity is not apparent from amino acid sequence comparisons. An understanding of how diverse sequences can adopt the same fold would be useful for recognizing and aligning distant homologs and for applying structural information gained from one protein to other sequences.
+
+
+RESULTS
+We have approached this problem by comparing the five known structures which adopt a granulocyte-macrophage colony-stimulating factor (GM-CSF)-like, or short-chain fold: interleukin (IL)-4, GM-CSF, IL-2, IL-5, and macrophage colony-stimulating factor. The comparison reveals a common structural framework of five segments including 31 inner-core and 30 largely exposed residues. Buried polar interactions found in each protein illustrate how complementary substitutions maintain protein stability and may help specify unique core packing. A profile based on the known structures is not sufficient to guarantee accurate amino acid sequence alignments with other family members. Comparisons of the conserved short-chain framework with growth hormone define the optimal structural alignment.
+
+
+CONCLUSIONS
+Our results are useful for extrapolating functional results among the short-chain cytokines and growth hormone, and provide a foundation for similar characterization of other subfamilies. These results also show that the placement of polar residues at different buried positions in each protein complicates sequence comparisons, and they document a challenging test case for methods aimed at recognizing and aligning distant homologs.

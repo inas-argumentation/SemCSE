@@ -1,0 +1,2 @@
+jSymbolic: A Feature Extractor for MIDI Files
+A library of 160 high-level features is presented along with jSymbolic, a software package that extracts these features from MIDI files. jSymbolic is intended both as a platform for developing new features as well as a tool for providing features to data mining software that can be used to automatically classify music or evaluate musical similarity.

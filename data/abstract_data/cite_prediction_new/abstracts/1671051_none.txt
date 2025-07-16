@@ -1,0 +1,7 @@
+Background correction for cDNA microarray images using the TV+L1 model
+MOTIVATION
+Background correction is an important preprocess in cDNA microarray data analysis. A variety of methods have been used for this purpose. However, many kinds of backgrounds, especially inhomogeneous ones, cannot be estimated correctly using any of the existing methods. In this paper, we propose the use of the TV+L1 model, which minimizes the total variation (TV) of the image subject to an L1-fidelity term, to correct background bias. We demonstrate its advantages over the existing methods by both analytically discussing its properties and numerically comparing it with morphological opening.
+
+
+RESULTS
+Experimental results on both synthetic data and real microarray images demonstrate that the TV+L1 model gives the restored intensity that is closer to the true data than morphological opening. As a result, this method can serve an important role in the preprocessing of cDNA microarray data.

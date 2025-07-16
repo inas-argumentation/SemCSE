@@ -1,0 +1,2 @@
+Calculation of discrete relaxation modulus andcreep compliance in rheology
+M untz theorems from classical approximation theory are used to lay the mathematical foundation for the discrete spectral representations of the relaxation modulus and creep compliance. Algorithms that can automatically generate nonnegative discrete relaxation and retardation strength are formulated by using the nonnegative least square method.

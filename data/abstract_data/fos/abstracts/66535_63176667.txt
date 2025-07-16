@@ -1,0 +1,2 @@
+Design and Implementation on None-Paper-Based Examination System of the Computer Culture Basis
+This paper introduces the functions and key techniques of an Examination-System of the computer culture basis,which can perform the functions of item bank maintenance,test paper generation,on-line testing,automatic marking,item analysis and testing affairs administration etc.Particularly in this paper,the author discusses the methodology of Office document automatic marking based on VBA,and the application of XML technology to a test system.

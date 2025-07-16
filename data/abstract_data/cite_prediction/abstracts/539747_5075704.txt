@@ -1,0 +1,2 @@
+Attending to Characters in Neural Sequence Labeling Models
+•Sequence of tokens mapped to word embeddings. •Bidirectional LSTM builds context-dependent representations for each word. •A small feedforward layer encourages generalisation. •Conditional Random Field (CRF) at the top outputs the most optimal label sequence for the sentence. •Unable to model unseen words, learns poor representations for infrequent words, and unable to capture character-level patterns.

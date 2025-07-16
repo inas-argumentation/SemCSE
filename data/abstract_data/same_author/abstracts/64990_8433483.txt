@@ -1,0 +1,2 @@
+Dissimilarity-Based Algorithms for Selecting Structurally Diverse Sets of Compounds
+This paper commences with a brief introduction to modern techniques for the computational analysis of molecular diversity and the design of combinatorial libraries. It then reviews dissimilarity-based algorithms for the selection of structurally diverse sets of compounds in chemical databases. Procedures are described for selecting a diverse subset of an entire database, and for selecting diverse combinatorial libraries using both reagent-based and product-based selection.

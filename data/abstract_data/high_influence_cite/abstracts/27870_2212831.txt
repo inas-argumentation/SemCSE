@@ -1,0 +1,19 @@
+Estimating the sample size required to detect an arterial spin labelling magnetic resonance imaging perfusion abnormality in voxel-wise group analyses
+BACKGROUND
+Voxel-based analyses are pervasive across the range of neuroimaging techniques. In the case of perfusion imaging using arterial spin labelling (ASL), a low signal-to-noise technique, there is a tradeoff between the contrast-to-noise required to detect a perfusion abnormality and its spatial localisation. In exploratory studies, the use of an a priori region of interest (ROI), which has the benefit of averaging multiple voxels, may not be justified. Thus the question considered in this study pertains to the sample size that is required to detect a voxel-level perfusion difference between groups and two algorithms are considered.
+
+
+NEW METHOD
+Empirical 3T ASL data were acquired from 25 older adults and simulations were performed based on the group template cerebral blood flow (CBF) images. General linear model (GLM) and permutation-based algorithms were tested for their ability to detect a predefined hypoperfused ROI. Simulation parameters included: inter and intra-subject variability, degree of hypoperfusion and sample size. The true positive rate was used as a measure of sensitivity.
+
+
+RESULTS
+For a modest group perfusion difference, i.e., 10%, 37 participants per group were required when using the permutation-based algorithm, whereas 20 participants were required for the GLM-based algorithm.
+
+
+COMPARISON WITH EXISTING METHODS
+This study advances the perfusion power calculation literature by considering a voxel-wise analysis with correction for multiple comparison.
+
+
+CONCLUSIONS
+The sample size requirement to detect group differences decreased exponentially in proportion to increased degree of hypoperfusion. In addition, sensitivity to detect a perfusion abnormality was influenced by the choice of algorithm.

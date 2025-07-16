@@ -1,0 +1,4 @@
+LIMIT THEOREMS FOR STANDARDIZED PARTIAL SUMS OF WEAKLY EXCHANGEABLE ARRAYS
+summary 
+ 
+A symmetric array of random variables is weakly exchangeable if, when the same arbitrary permutation is applied to rows and columns, the joint distribution remains the same. We consider the asymptotic distribution of the standardized sums of the elements of the upper left hand corner of the partitioned array, generalizing results on U-statistics. In general, the asymptotic distribution is normal, but if the array is first standardized by subtracting row and column means, then it is a linear form in a normal variable and independent squares of normal variables with coefficients depending on the limits of the eigenvalues of the array.

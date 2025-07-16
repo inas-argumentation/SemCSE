@@ -1,0 +1,2 @@
+Lapped multiple bases algorithms for still image compression without blocking effect
+We describe a system for still image compression that uses several transform sets in a multiple bases realization algorithm. Our algorithms reduce the number of encoded transform coefficients 20% beyond DCT-only compression. We extend these algorithms to use several newly developed lapped orthogonal transform (LOT) bases, resulting in useful algorithms for low bit rate (high compression) operation without blocking effect.

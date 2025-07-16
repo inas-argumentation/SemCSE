@@ -1,0 +1,11 @@
+Implementation of a hypertension clinic using a streamlined treatment algorithm.
+PURPOSE
+The implementation of a pharmacist-managed clinic based on the Simplified Treatment Intervention to Control Hypertension (STITCH) algorithm is described, with insights on physician acceptance and implementation challenges.
+
+
+SUMMARY
+After a medical records review indicating gaps in the follow-up care of emergency department (ED) patients found to have elevated blood pressures (BPs), the ED of a large public hospital sought to create a "bridge" to ongoing primary care by applying a modified version of the STITCH algorithm, which aims to address compliance barriers to adequate BP control through a streamlined stepped-care approach derived from national consensus guidelines. Following the guidelines of the STITCH algorithm, the goals of the clinic implemented in this project were to (1) coordinate initial pharmacotherapy, (2) monitor patients pending their first primary care clinic appointment, (3) assess for potential antihypertensive-related complications, and (4) provide comprehensive and ongoing patient education. Physician support for the clinic (staffed by one pharmacist one day weekly) was cultivated through both broad and individually targeted education to allay concerns about initiating BP-lowering therapy in the ED setting, especially given patients' typical one- to six-month wait time for a primary care clinic appointment. Early experience at the clinic indicated increased physician willingness to initiate hypertension treatment in the ED due to the availability of appropriate follow-up services within a shorter time frame (about two weeks).
+
+
+CONCLUSION
+One hospital's experience suggests that a hypertension-focused clinic using a streamlined treatment algorithm can serve as a bridge from urgent care to ongoing primary care, facilitating adequate BP control in a transient, low-income patient population.

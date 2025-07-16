@@ -1,0 +1,2 @@
+Covering a hypergraph of subgraphs
+Let G be a tree and let H be a collection of subgraphs of G, each having at most d connected components. Let v(H) denote the maximum number of members of H no two of which share a common vertex, and let τ(H) denote the minimum cardinality of a set of vertices of G that intersects all members of H. It is shown that τ(H) ≤ 2d2v(H). A similar, more general result is proved replacing the assumption that G is a tree by the assumption that it has a bounded tree-width. These improve and extend results of various researchers.

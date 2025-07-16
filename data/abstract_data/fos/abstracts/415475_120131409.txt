@@ -1,0 +1,2 @@
+Optimum repair limit policies with a cost constraint
+In this paper, we discuss the optimum repair limit policies with a cost constraint for continuous and discrete distributions, respectively. We apply the expected total discounted cost with a discount rate as a criterion, and obtain the optimum policies which minimize it. We show that, under certain conditions, there exist finite and unique optimum policies for continuous and discrete distributions, respectively.

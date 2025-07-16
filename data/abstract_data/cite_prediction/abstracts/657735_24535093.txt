@@ -1,0 +1,15 @@
+Interactions Among Working Memory, Reinforcement Learning, and Effort in Value-Based Choice: A New Paradigm and Selective Deficits in Schizophrenia
+BACKGROUND
+When studying learning, researchers directly observe only the participants' choices, which are often assumed to arise from a unitary learning process. However, a number of separable systems, such as working memory (WM) and reinforcement learning (RL), contribute simultaneously to human learning. Identifying each system's contributions is essential for mapping the neural substrates contributing in parallel to behavior; computational modeling can help to design tasks that allow such a separable identification of processes and infer their contributions in individuals.
+
+
+METHODS
+We present a new experimental protocol that separately identifies the contributions of RL and WM to learning, is sensitive to parametric variations in both, and allows us to investigate whether the processes interact. In experiments 1 and 2, we tested this protocol with healthy young adults (n = 29 and n = 52, respectively). In experiment 3, we used it to investigate learning deficits in medicated individuals with schizophrenia (n = 49 patients, n = 32 control subjects).
+
+
+RESULTS
+Experiments 1 and 2 established WM and RL contributions to learning, as evidenced by parametric modulations of choice by load and delay and reward history, respectively. They also showed interactions between WM and RL, where RL was enhanced under high WM load. Moreover, we observed a cost of mental effort when controlling for reinforcement history: participants preferred stimuli they encountered under low WM load. Experiment 3 revealed selective deficits in WM contributions and preserved RL value learning in individuals with schizophrenia compared with control subjects.
+
+
+CONCLUSIONS
+Computational approaches allow us to disentangle contributions of multiple systems to learning and, consequently, to further our understanding of psychiatric diseases.

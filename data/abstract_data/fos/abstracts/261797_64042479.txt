@@ -1,0 +1,2 @@
+Design and Implementation of Authentication Scheme for Mobile Node Handoff Based on Mobile IPv6
+Mobile IPv6 keeps mobile node communication when it moves between different sub network,but it brings some new security problems synchronously.This paper first expatiated the conception and principle of MIPv6 and authentication,and analyzed the main security problem when mobile node roams in Internet based on IPv6,and then proposed an authentication scheme of EAP+RADIUS.At the end of this paper it proved effective by testing.

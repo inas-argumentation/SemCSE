@@ -1,0 +1,22 @@
+GF(2n) Bit-Parallel Squarer Using Generalized Polynomial Basis For a New Class of Irreducible Pentanomials
+Explicit formulae and complexities of bit-parallel GF(2
+ n 
+) squarers for a new class of irreducible pentanomials
+ x n 
++
+ x n-1 
++
+ x k 
++
+ x 
++ 1, where
+ n 
+is odd and 1 <;
+ k 
+<; (
+ n - 
+1)/2 are presented. The squarer is based on the generalised polynomial basis of GF(2
+ n 
+). Its gate delay matches the best results, whereas its XOR gate complexity is
+ n 
++ 1, which is only about two thirds of the current best results.

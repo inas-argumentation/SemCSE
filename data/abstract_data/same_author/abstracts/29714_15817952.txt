@@ -1,0 +1,2 @@
+Four jet production in e+ e- annihilation at next-to-leading order
+Abstract We present a partonic Monte Carlo event generator that can be used for calculating the group independent kinematical functions of any infrared safe four-jet observable at next-to-leading order accuracy. As an example, we calculate the differential distribution of the Π1 and Π4 Fox-Wolfram moments. We find large K factors (K > 2). The effect of the radiative correction is to increase the overall normalization, but not to reduce the renormalization scale dependence significantly.

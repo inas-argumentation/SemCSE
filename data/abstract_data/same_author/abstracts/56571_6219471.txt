@@ -1,0 +1,4 @@
+On the Hardness of Recognizing Bundles in Time Table Graphs
+In a cooperation with the national German railway company, we construct a directed graph from a set of train time tables where train stations correspond to vertices, and where pairs of consecutive stops of trains correspond to edges. We consider the problem of locating vertices of this time table graph that intuitively correspond to train stations where the underlying railroad network branches into several directions, and that induce a partition of the edge set into bundles. 
+ 
+We formulate this problem as a graph theoretic optimization problem, and show for two versions of the problem that they are NP-hard. For the first version we show that it is even NP-complete to decide whether any other solution besides the trivial one exists.

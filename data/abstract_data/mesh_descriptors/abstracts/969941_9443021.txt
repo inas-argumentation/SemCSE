@@ -1,0 +1,2 @@
+An analysis of Stein's model for stochastic neuronal excitation
+Stein's model of stochastic neuronal excitation is a realistic, yet simplified, construction incorporating important measurable parameters from neurophysiology. One of the principle difficulties with the application of this model lies in solving the delay partial and ordinary differential equations that form the mathematical expression of the model. For the case of excitation only, we present some effective methods of calculating various aspects of the model including the interspike interval distribution.

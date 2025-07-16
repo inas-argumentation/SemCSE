@@ -1,0 +1,2 @@
+ON THE BEHAVIOUR NEAR THE BOUNDARY OF SOLUTIONS OF QUASILINEAR EQUATIONS
+Solutions of the Dirichletproblem for quasilinear equations of the type div {IVu| ~ 2 « V u } = f are considered. Upper und lower bounds are given for the asymptotic behaviour of the solution and its gradient near boundary points satisfying an exterior cone condition. The estimates are established by means of a nonlinear eigenvalue problem. AMS-Classification: 35J65, 35J70, 35B05, 35B65

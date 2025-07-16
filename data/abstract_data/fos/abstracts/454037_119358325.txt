@@ -1,0 +1,2 @@
+An empirical bayes estimate of multinomial probabilities
+This paper deals with the prblem of estimating simultaneously the parameters (Cell probabilities) of m ≤ 2 independent multinomial distributions, with respect to a quadratic loss functions. An empirical Bayes estimator is proposed which is shown to have smaller risk than the maximum likelihood estimator for sufficiently large values of mq, where q is a measure of the average diversity of the given multinomial populations. Some numerical results are given on the performance of the proposed estimator.

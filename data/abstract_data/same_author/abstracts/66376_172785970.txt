@@ -1,0 +1,8 @@
+Über die Darstellung vollständiger offener Flächen durch konforme Metriken
+Bekanntlich kann jede genugend regulare zweidimensionale Riemannsche Mannigfaltigkeit (abstrakte Flache) M im Kleinen konform in die Ebene abgebildet werden. Es existieren also lokale isotherme Parameter (x,y), in welchen das Linienelement die Form 
+ 
+$$d{S^2} = {e^{2u\left( {x,y} \right)}}\left( {d{x^2} + d{y^2}} \right) = {e^{2u\left( x \right)}}{\left| {dz} \right|^2}$$ 
+ 
+(1) 
+ 
+(z = x + iy) annimmt.

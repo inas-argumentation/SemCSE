@@ -1,0 +1,2 @@
+On simulation of first-order auto-regressive processes with near Laplace marginals
+The focus of this paper is the modeling of a class of stationary non-Gaussian auto-regressive processes that often find applications in statistical signal processing. We propose a general simulation procedure for constructing a time series model with a near-Laplace marginal distributions. Our approach is based on a class of Monte Carlo rejection algorithms. A theoretical analysis of the average complexity of the proposed algorithms for simulating the time series model is included.

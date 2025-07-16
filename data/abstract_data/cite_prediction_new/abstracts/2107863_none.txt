@@ -1,0 +1,2 @@
+Combining Convolutional Neural Networks and LSTMs for Segmentation-Free OCR
+We present a novel end-to-end trainable OCR system combining a CNN for feature extraction with 1-D LSTMs for sequence modeling. We present results on English and Arabic handwriting data, and on English machine print data, showing state-of-the-art performance. We believe that our method is simpler than existing 2D LSTM models, and will make it easier to use techniques borrowed from CNN research in computer vision to improve OCR performance.

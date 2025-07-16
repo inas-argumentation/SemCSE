@@ -1,0 +1,2 @@
+Invited Talk: U Net Convolutional Networks for Biomedical Image Segmentation
+In the last years, deep convolutional networks have outperformed the state of the art in many visual recognition tasks. A central challenge for its wide adoption in the bio medical imaging field is the limited amount of annotated training images. In this talk, I will present our u net for biomedical image segmentation. The architecture consists of an analysis path and a synthesis path with additional shortcut connections.

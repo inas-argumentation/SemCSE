@@ -1,0 +1,2 @@
+Origin of high on-state current for dopant-segregated schottky MOSFET
+The origin of the on-state current (Ion) difference between dopant-segregated Schottky (DSS) source/drain MOSFET and conventional MOSFET with 20nm channel length is investigated by device simulation. The simulation results coincide well with the published experimental result. It is revealed that the not-fully-depleted dopant-segregated layer leads to a severe DIBL effect which contributes to the Ion enhancement for DSS MOSFET.

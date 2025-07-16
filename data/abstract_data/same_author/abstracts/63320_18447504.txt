@@ -1,0 +1,2 @@
+A Test Data Generation Tool for Unit Testing of C Programs
+This paper describes a prototype tool, called SimC, which automatically generates test data for unit testing of C programs. The tool symbolically simulates the execution of the given program. It simulates pointer operations precisely. This makes it capable of generating test data for programs involving pointer and structure operations. Experiments on real-world programs including the GNU coreutils are presented. Some trade-offs of simulation schemes are also discussed

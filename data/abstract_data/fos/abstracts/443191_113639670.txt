@@ -1,0 +1,2 @@
+FPS Game Design and Implementation Based on Unity3D
+This paper describes the planning process of a first person shooter game (FPS in short), including game scenario design, playing method design, game passed condition, the enemy AI intelligent system logic design and energy system design. Meanwhile the main implementation technologies of the game are introduced here by the mainstream Unity3D engine. Practice shows that a picture lifelike realism, movements’ smooth game works can be efficiently made using the unity3D engine.

@@ -1,0 +1,2 @@
+Photometric Stereo via Computer Screen Lighting for Real-time Surface Reconstruction
+We introduce a method which uses the light emitted by a computer screen to illuminate an object such as a human face from multiple directions, simultaneously capturing images with a webcam in order to perform photometric stereo. Dominant eigenvectors of the captured images provide surface normals, which are integrated into a 3D surface using Gauss-Seidel relaxation. The system runs at 10 frames per second on a consumer laptop computer.

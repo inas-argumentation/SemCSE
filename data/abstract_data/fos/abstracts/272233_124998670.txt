@@ -1,0 +1,2 @@
+Shrinkage estimation of P(Y < X) in the exponential distribution mixing with exponential distribution
+ABSTRACT The problem of estimation of R = P(Y < X) have been used in the paper. Let X has exponential distribution mixing with exponential distribution with parameters β and θ and Y independently of X has exponential distribution with parameter λ. By using a prior guess or estimate R0, different shrinkage estimators of R are derived. Then the performance of the estimators are discussed. Finally, we compare these results with Baklizei and Dayyeh (2003) approaches.

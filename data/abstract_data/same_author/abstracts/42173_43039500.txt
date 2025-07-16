@@ -1,0 +1,2 @@
+A Linear Time Algorithm for Isomorphism of Graphs of Bounded Average Genus
+Recent progress in topological graph theory has shown potential applicability of average genus to graph isomorphism testing. The present paper describes an initial effort at combining topological invariants with combinatorial analysis to design efficient graph isomorphism algorithms. In particular, a linear time algorithm for isomorphism of graphs of bounded average genus is presented.

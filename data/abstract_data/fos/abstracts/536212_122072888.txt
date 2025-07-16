@@ -1,0 +1,2 @@
+P-values for the multi-sample kolmogorov-smirnov test using the expanded bonferroni appoximation
+Birnbaum and Hall (1960) introduced a natural statistic for a k-sample generlization of the Kolomogorov-Smirnov test. Using an expansion of Bonferroni's Inequality, this paper determines approximate p-values for the Birnbaum and Hall statistic up to ten samples. This approximation is found to be very accurate under most circumstances. The statistic is also generalized to unequal sample sizes. An example of its use is presented.

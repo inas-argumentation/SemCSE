@@ -1,0 +1,2 @@
+On cost-optimal merge of two intransitive sorted sequences
+We consider the problem of merging two intransitive sorted sequences, that is, to generate a sorted total order without the transitive property. A parallel merging algorithm is proposed under the EREW PRAM model. This algorithm has a run time of O(log2 n) using O(n/ log2 n) processors (i.e., this algorithm is costoptimal). Design an algorithm that is cost-optimal in the strong sense is still an open problem.

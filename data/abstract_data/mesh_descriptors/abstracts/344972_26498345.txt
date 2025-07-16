@@ -1,0 +1,2 @@
+Levinthal's paradox.
+Levinthal's paradox is that finding the native folded state of a protein by a random search among all possible configurations can take an enormously long time. Yet proteins can fold in seconds or less. Mathematical analysis of a simple model shows that a small and physically reasonable energy bias against locally unfavorable configurations, of the order of a few kT, can reduce Levinthal's time to a biologically significant size.

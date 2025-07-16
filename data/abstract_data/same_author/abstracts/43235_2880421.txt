@@ -1,0 +1,11 @@
+SST: an algorithm for finding near-exact sequence matches in time proportional to the logarithm of the database size
+MOTIVATION
+Searches for near exact sequence matches are performed frequently in large-scale sequencing projects and in comparative genomics. The time and cost of performing these large-scale sequence-similarity searches is prohibitive using even the fastest of the extant algorithms. Faster algorithms are desired.
+
+
+RESULTS
+We have developed an algorithm, called SST (Sequence Search Tree), that searches a database of DNA sequences for near-exact matches, in time proportional to the logarithm of the database size n. In SST, we partition each sequence into fragments of fixed length called 'windows' using multiple offsets. Each window is mapped into a vector of dimension 4(k) which contains the frequency of occurrence of its component k-tuples, with k a parameter typically in the range 4-6. Then we create a tree-structured index of the windows in vector space, with tree-structured vector quantization (TSVQ). We identify the nearest neighbors of a query sequence by partitioning the query into windows and searching the tree-structured index for nearest-neighbor windows in the database. When the tree is balanced this yields an O(logn) complexity for the search. This complexity was observed in our computations. SST is most effective for applications in which the target sequences show a high degree of similarity to the query sequence, such as assembling shotgun sequences or matching ESTs to genomic sequence. The algorithm is also an effective filtration method. Specifically, it can be used as a preprocessing step for other search methods to reduce the complexity of searching one large database against another. For the problem of identifying overlapping fragments in the assembly of 120 000 fragments from a 1.5 megabase genomic sequence, SST is 15 times faster than BLAST when we consider both building and searching the tree. For searching alone (i.e. after building the tree index), SST 27 times faster than BLAST.
+
+
+AVAILABILITY
+Request from the authors.

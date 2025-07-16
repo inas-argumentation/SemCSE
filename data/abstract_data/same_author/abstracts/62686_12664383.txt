@@ -1,0 +1,2 @@
+Secure Profile Management in Smart Home Networks
+Currently, middleware for smart home networks with embedded and mobile devices are in the focus of several investigations. In this paper, we propose a middleware for secure management of device and user profiles by integrating a profile database with a generic authentication scheme for an X.509 enabled ticket management in the context of the OSGi framework. After the introduction of the individual system components and their interaction, we also discuss potential system attacks

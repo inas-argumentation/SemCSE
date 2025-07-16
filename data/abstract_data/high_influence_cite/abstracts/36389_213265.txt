@@ -1,0 +1,15 @@
+Combining phylogenetic motif discovery and motif clustering to predict co-regulated genes
+MOTIVATION
+We present a sequence-based framework and algorithm PHYLOCLUS for predicting co-regulated genes. In our approach, de novo discovery methods are used to find motifs conserved by evolution and then a Bayesian hierarchical clustering model is used to cluster these motifs, thereby grouping together genes that are putatively co-regulated. Our clustering procedure allows both the number of clusters and the motif width within each cluster to be unknown.
+
+
+RESULTS
+We use our framework to predict co-regulated genes in the bacterium Bacillus subtilis using six other closely related bacterial species. Our predicted motifs and gene clusters are validated using several external sources and significant clusters are examined in detail. An extension to the discovery and clustering of two-block motifs can be used for inference about synergistic binding relationships between transcription factors.
+
+
+AVAILABILITY
+Software and Supplementary Materials can be downloaded at http://stat.wharton.upenn.edu/~stjensen/research/phyloclus.html or http://www.fas.harvard.edu/~junliu/phyloclus.html
+
+
+CONTACT
+stjensen@wharton.upenn.edu.

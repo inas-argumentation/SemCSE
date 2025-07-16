@@ -1,0 +1,2 @@
+Estimation of autoregressive models with epsilon-skew-normal innovations
+A non-Gaussian autoregressive model with epsilon-skew-normal innovations is introduced. Moments and maximum likelihood estimators of the parameters are proposed and their limit distributions are derived. Monte Carlo simulation results are analysed and the model is fitted to a real time series.

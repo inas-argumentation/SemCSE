@@ -1,0 +1,2 @@
+On construction of a BioGrid platform for parallel bioinformatics applications
+In this paper, we report on implementing an experimental distributed computing application for bioinformatics consisting of basic high-performance computing environments (Grid and PC Cluster systems), multiple interfaces at user portals that provide useful graphical interfaces to enable biologists who are not IT specialists to benefit directly from the use of high-performance technology.

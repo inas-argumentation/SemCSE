@@ -1,0 +1,2 @@
+Toward Ideal On-Chip Communication Using Express Virtual Channels
+Current on-chip networks use a packet-switched design with a complex router at every hop, which imposes significant communication energy, delay, and throughput overhead. we propose reducing energy and delay, and increasing throughput, using express virtual channels. packets traveling along these virtual express lanes, which connect distant nodes in the network, bypass intermediate routers, significantly reducing router overhead.

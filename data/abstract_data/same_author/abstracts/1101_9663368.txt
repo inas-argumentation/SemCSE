@@ -1,0 +1,2 @@
+Parallel database systems: the future of database processing or a passing fad?
+The concept of parallel database machines consisting of exotic hardware has been replaced by a fairly conventional shared-nothing hardware base along with a highly parallel dataflow software architecture. Such a design provides speedup and scaleup in processing relational database queries. This paper reviews the techniques used by such systems, and surveys current commercial and research systems.

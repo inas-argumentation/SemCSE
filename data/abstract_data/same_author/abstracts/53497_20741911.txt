@@ -1,0 +1,2 @@
+Reconfigurable architecture for autonomous self-repair
+Fault-tolerant systems typically require expensive additional resources (spare pins, columns, and chips) and external control for reconfiguration. We introduce an effective, low-cost repair solution in which originally unused blocks and routing resources replace faulty parts. In addition, the proposed reconfiguration hardware allows autonomous repair, that is, the system does not require external intervention for recovery.

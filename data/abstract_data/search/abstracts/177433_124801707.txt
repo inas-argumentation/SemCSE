@@ -1,0 +1,2 @@
+On the evaluation of suboptimal strategies for families of alternative bandit processes
+Families of alternative bandit processes have been used as models for problems in a variety of areas. Optimal strategies for these decision processes are determined by dynamic allocation indices. These indices are here shown to play an important role in the evaluation of suboptimal strategies. BANDIT PROBLEM; DYNAMIC ALLOCATION INDEX; GITTINS INDEX; MARKOV DECISION PROCESS; SUBOPTIMAL STRATEGIES

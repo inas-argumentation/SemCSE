@@ -1,0 +1,15 @@
+Addition of internal electrodes is beneficial for focused bioimpedance measurements in the lung.
+OBJECTIVE
+Bioimpedance measurements such as bioimpedance spectroscopy (BIS) or electrical impedance tomography (EIT) are used in many biomedical applications. While BIS measures and analyzes the impedance in a frequency range at constant electrode positions, EIT aims to reconstruct images of the conductivity distribution from multiple measurements at different electrode positions. Our aim is to add spatial information to tetrapolar BIS measurements by using electrode positions that focus measurements on desired regions of interest. In this paper, we aim to investigate, whether internal electrodes that can be integrated into breathing or gastroesophageal tubes, can improve the local sensitivity of bioimpedance spectroscopy measurements.
+
+
+APPROACH
+We present the results of a simulation study, in which we investigated more than 4 M different electrode configurations on their ability to monitor specific regions of interest (ROI) in the lung. Based on the sensitivity, which describes the impact of a conductivity change on the measured impedance, we define three main criteria which we use to evaluate our simulation results: the selectivity [Formula: see text], which describes the impact of a conductivity change inside the region of interest compared to a conductivity change outside the ROI; the homogeneity [Formula: see text], which describes the distribution of the sensitivity inside the ROI; and the absolute impedance contribution ratio [Formula: see text], which describes the contribution of the ROI to the measured impedance.
+
+
+MAIN RESULTS
+Depending on the region of interest, electrode configurations using internal electrodes are between 9.8 % and 90 % better with respect to these criteria than configurations using external electrodes only.
+
+
+SIGNIFICANCE
+The combination of internal and external electrodes improves the focusing ability of tetrapolar impedance measurements on specific lung regions, which may be especially beneficial for lung monitoring in intensive care.

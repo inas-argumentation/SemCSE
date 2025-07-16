@@ -1,0 +1,2 @@
+A model for reverse short channel effects in MOSFETs
+A model for reverse short channel effects of the threshold voltage is presented by adding two separate n regions around the source and drain regions of a p channel MOSFET. Two dimensional simulations with MEDICI of this modified p channel MOSFET verifies this model. Experimental evidence of the reverse short channel effects is also found. The errors inherent to the method for extracting the threshold voltage are shown not to be responsible for the reverse short channel effects.

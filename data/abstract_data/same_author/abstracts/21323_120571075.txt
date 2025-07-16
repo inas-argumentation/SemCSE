@@ -1,0 +1,4 @@
+Local properties of equilibrium states and the particle spectrum in quantum field theory
+It is shown that in a quantum field theory describing free, scalar particles with masses mi, i∈ℕ there exist locally normal equilibrium states with finite energy density for all temperature β>0 if and only if 
+$$\Sigma _{i = 1}^\infty {\text{ e}}^{ - \beta m_i } < \infty $$
+. This result lends support to the conjecture that the nuclearity criterion proposed by Buchholz and Wichmann is sensitive to the thermodynamical properties of field-theoretic models.

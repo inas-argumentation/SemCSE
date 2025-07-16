@@ -1,0 +1,2 @@
+An implicit degree condition for long cycles in 2-connected graphs
+Let id ( v ) denote the implicit degree of a vertex v . In this work we prove that: If G is a 2-connected graph with max { id ( u ) , id ( v ) } ≥ c / 2 for each pair of nonadjacent vertices u and v that are vertices of an induced claw or an induced modified claw of G , then G contains either a Hamilton cycle or a cycle of length at least c . This extends several previous results on the existence of long cycles in graphs.

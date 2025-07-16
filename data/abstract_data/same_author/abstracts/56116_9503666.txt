@@ -1,0 +1,2 @@
+Relational separation logic
+In this paper, we present a Hoare-style logic for specifying and verifying how two pointer programs are related. Our logic lifts the main features of separation logic, from an assertion to a relation, and from a property about a single program to a relationship between two programs. We show the strength of the logic, by proving that the Schorr-Waite graph marking algorithm is equivalent to the depth-first traversal.

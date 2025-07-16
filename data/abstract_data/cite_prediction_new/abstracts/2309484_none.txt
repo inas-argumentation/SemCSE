@@ -1,0 +1,15 @@
+Memory effects in vibrated granular systems:
+Response properties in the generalized random sequential adsorption model
+.We investigate, by numerical simulation, the dynamical response of a granular
+system to an abrupt change in shaking intensity within the framework of the
+reversible random sequential adsorption models. We analyse the two-dimensional
+lattice model in which, in addition to the adsorption-desorption process, there
+is diffusion of the adsorbed particles on the surface. Our model reproduces
+qualitatively the densification kinetics and the memory effects of vibrated
+granular materials. An interpretation of the simulation results is provided by
+the analysis of the insertion probability function. The importance of the
+diffusional relaxation is discussed. We conclude that a complex time-evolution
+of the density could be explained as a consequence of the variation of the
+diffusion rate during the compaction. We study the nonequilibrium
+time-dependent density-density autocorrelation function and show that the model
+displays out-of-equilibrium dynamical effects such as aging.

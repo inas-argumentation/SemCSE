@@ -1,0 +1,2 @@
+A Few of the Most Popular Models for Heterogeneous Parallel Programming
+In this paper we consider the problem of programming for heterogeneous computer systems consist of CPUs and various accelerating devices such as GPUs. We introduce a few of the most popular models for heterogeneous parallel programming, including OpenCL (Open Computing Language), CUDA (Compute Unified Device Architecture), OpenACC, OpenHMPP (Hybrid Multicore Parallel Programming), C++ AMP (accelerated massive parallelism), HPL (Heterogeneous Programming Library), etc.

@@ -1,0 +1,2 @@
+Representations induced from the ladder and cuspidal representations of classical p-adic groups.
+Let $G_n$ denote either the group $Sp(2n, F)$ or $SO(2n+1, F)$ over a non-archimedean local field $F$. We determine the composition series of representations of $G_n$ induced from the ladder and cuspidal representations such that the minimal exponent in the cuspidal support of the ladder representation is greater or equal $\frac{1}{2}$.

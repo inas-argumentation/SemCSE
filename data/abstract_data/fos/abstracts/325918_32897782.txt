@@ -1,0 +1,2 @@
+General Saddlepoint Approximations of Marginal Densities and Tail Probabilities
+Saddlepoint approximations of marginal densities and tail probabilities of general nonlinear statistics are derived. These are based on the expansion of the statistic up to the second order. Their accuracy is shown in a variety of examples, including logit and probit models and rank estimators for regression.

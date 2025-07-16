@@ -1,0 +1,2 @@
+The Number of Positions Starting a Square in Binary Words
+We consider the number $\sigma(w)$ of positions that do not start a square in binary words $w$. Letting $\sigma(n)$ denote the maximum of $\sigma(w)$ for length $|w|=n$, we show that $\lim \sigma(n)/n = 15/31$.

@@ -1,0 +1,15 @@
+Noninvasive eye localization in ocular proton therapy through optical eye tracking: A proof of concept.
+PURPOSE
+Over the last four decades, Ocular Proton Therapy has been successfully used to treat patients affected by intraocular lesions. For this, treatment geometry verification is routinely performed using radiographic images to align a configuration of fiducial radiopaque markers implanted on the sclera outer surface. This paper describes the clinical application of an alternative approach based on optical eye tracking for three-dimensional noninvasive and automatic eye localization. An experimental protocol was designed to validate the optical-based eye referencing against both radiographic imaging system and the clinically used EYEPLAN treatment planning system.
+
+
+METHODS
+The eye tracking system (ETS) was installed in the OPTIS 2 treatment room at PSI to acquire eye motions during the treatment of nine patients. The pupil position and the cornea curvature center were localized by segmenting the pupil contour and corneal light reflections on the images acquired by a pair of calibrated optical cameras. After calibration of the ETS, a direct comparison of radiopaque markers position, and consequentially eye position and orientation, provided by the ETS, radiographs and EYEPLAN was performed.
+
+
+RESULTS
+Nineteen out of thirty total monitored fractions were excluded from the study due to poor visibility of corneal reflection, resulting in a success rate of acquisition of 37%. For these data, overall median agreement between ETS-based and x-ray-based markers position assessment were 0.29 mm and 0.94° for translations and rotations, respectively. Small discrepancies were also measured in the eye center estimates of the ETS and EYEPLAN. Conversely, variations in measured eye orientation were higher, with interquartile range (IQR) between 4.39° and 7.58°. Nonetheless, dosimetric evaluation of the consequence of ETS uncertainties showed that the target volume would still be covered by more than 95% of the dose in all cases.
+
+
+CONCLUSION
+An ETS was successfully installed in a clinical ocular proton therapy treatment room and used to monitor eye position and orientation in a clinical scenario. First results show the potential of such a system as an eye localization device. However, the low success rate prevents straightforward clinical application and needs further improvements aimed at increasing corneal reflection visibility.

@@ -1,0 +1,2 @@
+A modified method for jiles-atherton hysteresis model and its application in numerical simulation of devices involving magnetic materials
+A modified method, which combines chaos optimization method and simulated annealing algorithm, is proposed to calculate the Jiles-Atherton (J-A) model parameters. The new method is validated by comparing its computation results with measurement data. Then, the validated J-A model is used in numerical modeling of a transformer, and the numerical results are found to be in good agreement with measurement data.

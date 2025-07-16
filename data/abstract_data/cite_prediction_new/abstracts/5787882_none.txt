@@ -1,0 +1,2 @@
+Self-overlapping curves: Analysis and applications
+When a disk in 2D is stretched arbitrarily with possible self-overlaps, without twisting it, its boundary forms a complex curve known as a self-overlapping curve. The mapping between the disk and its deformed self, also called an immersion of the disk, is useful in many applications like shape morphing and curve interpretation. Given a self-overlapping curve, an algorithm for computing its immersion is presented, which has an average time complexity quadratic in the number of points on the curve.

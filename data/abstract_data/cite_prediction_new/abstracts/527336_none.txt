@@ -1,0 +1,2 @@
+What vs. How of Visual Modeling: The Arrow Logic of Graphic Notations
+The goal of the paper is to explicate some universal logic underlying various notational systems used in visual modeling. The idea is to treat the notational diversity as the diversity of visualizations of the same basic specificational format. It is argued that the task can be well approached in the arrow-diagram logic framework where specifications are directed graphs carrying a structure of diagram predicates and operations.

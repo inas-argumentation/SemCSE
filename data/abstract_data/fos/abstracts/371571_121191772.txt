@@ -1,0 +1,2 @@
+Completely feasible and continuous implementation of the Lindahl correspondence with a message space of minimal dimension
+This paper deals mainly with the problem of designing mechanisms whose Nash allocations coincide with the Lindahl allocations. It goes beyond the previously existing literature in that it uses outcome functions that are individually feasible, balanced, and continuous, and further, has a message space of minimal dimension and thus is informationally efficient.

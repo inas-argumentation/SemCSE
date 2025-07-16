@@ -1,0 +1,2 @@
+Detection of Double-Compression in JPEG Images for Applications in Steganography
+This paper presents a method for the detection of double JPEG compression and a maximum-likelihood estimator of the primary quality factor. These methods are essential for construction of accurate targeted and blind steganalysis methods for JPEG images. The proposed methods use support vector machine classifiers with feature vectors formed by histograms of low-frequency discrete cosine transformation coefficients. The performance of the algorithms is compared to selected prior art.

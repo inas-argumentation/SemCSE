@@ -1,0 +1,2 @@
+Shot noise in frustrated single-electron arrays
+We have carried out numerical simulations of shot noise in two-dimensional arrays of single-electron islands with random background charges. The results show that in contrast with the one-dimensional arrays, at low currents the current noise is strongly colored, and its spectral density levels off at very low frequencies. The Fano factor F may be much larger than unity, due to the remnants of single-electron/hole avalanches. However, even very small thermal fluctuations reduce F below 1 for almost any bias.

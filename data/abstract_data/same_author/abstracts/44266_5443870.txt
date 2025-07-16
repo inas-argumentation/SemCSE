@@ -1,0 +1,2 @@
+A Characterization of Inherent Stereo Ambiguities
+The complete set of measurements that could ever be used by a stereo algorithm is the plenoptic function or light field. We give a concise characterization of when the lightfield of a Lambertian scene uniquely determines its shape, and, conversely, when stereo is inherently ambiguous. We show that stereo computed from the complete light-field is ambiguous if and only if the scene is radiating light of a constant intensity (and color) over an extended region.

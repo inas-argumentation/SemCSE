@@ -1,0 +1,18 @@
+Limiting behavior of asymptotically flat gravitational fields
+Couch and Torrence suggest that the vacuum Einstein equations admit a larger class of asymptotically flat solutions than those exhibiting the peeling property. Starting with the assumption that
+$$\Psi _0  = O(r^{ - 2 - \varepsilon _0 } )$$
+, (d/dr)
+$$\Psi _0  = O(r^{ - 3 - \varepsilon _0 } )$$
+ and (δ/δxA)
+$$\Psi _1  = O(r^{ - 2 - \varepsilon _0 } )$$
+, wherexA (A = 2, 3) are angular coordinates, they show that
+$$\Psi _1  = O(r^{ - 2 - \varepsilon _1 } )$$
+, where ε1⩽ 2 and ε1<ε0;
+$$< \varepsilon _0 ;\Psi _2  = O(r^{ - 2 - \varepsilon _2 } )$$
+, where ε2 ⩽ 1 and ε1< ε1; and Ψ4 and Ψ3 peel as they would under the stronger peeling conditions. The Winicour-Tamburino energy-momentun and angular momentum integrals for these solutions, in general, diverge. In fact, since Couch and Torrence determine only the radial dependence of the solution, it is not clear that the solutions are well defined. We find that the stronger assumption
+$$\Psi _0  = O(r^{ - 3 - \varepsilon _0 } )$$
+, (d/dr)
+$$\Psi _0  = O(r^{ - 4 - \varepsilon _0 } )$$
+, and (δ/δxA)
+$$\Psi _0  = O(r^{ - 3 - \varepsilon _0 } )$$
+ does result in well-defined solutions for which both the energy-momentum and angular momentum intergrals are not only finite but result in the same expressions as are obtained for peeling space-times. This assumption appears to be the minimal assumption that is necessary for investigating outgoing radiation at null infinity.

@@ -1,0 +1,2 @@
+Towards a documentation maturity model
+This paper presents preliminary work towards a maturity model for system documentation. The Documentation Maturity Model (DMM) is specifically targeted towards assessing the quality of documentation used in aiding program understanding. Software engineers and technical writers produce such documentation during regular product development lifecycles. The documentation can also be recreated after the fact via reverse engineering. The DMM has both process and product components; this paper focuses on the product quality aspects.

@@ -1,0 +1,2 @@
+Inversion of Cycle Index Sum Relations for 2- and 3-Connected Graphs
+Abstract Algebraic inversion of cycle index sum relations is employed to derive new algorithms for counting unlabeled 2-connected graphs, homeomorphically irreducible 2-connected graphs, and 3-connected graphs. The new algorithms are significantly more efficient than earlier ones, both asymptotically and for modest values of the order. Tables of computed results are included.

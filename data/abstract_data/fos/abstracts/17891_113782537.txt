@@ -1,0 +1,7 @@
+Robust Adaptive Structural Control
+A new robust adaptive structural control design methodology is developed 
+and presented which treats modeling uncertainties and limitations of control 
+devices. Furthermore, no restriction is imposed on the structural models and 
+the nature of the control devices so that the proposed method is very general. A 
+simple linear single degree-of-freedom numerical example is presented to illustrate 
+this approach.

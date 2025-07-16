@@ -1,0 +1,2 @@
+Security Issues in Online Social Networks
+This article surveys the current state of security issues and available defense mechanisms regarding popular online social networks. It covers a wide variety of attacks and the corresponding defense mechanisms, if available. The authors organize these attacks into four categories - privacy breaches, viral marketing, network structural attacks, and malware attacks - and focus primarily on privacy concerns. They offer an in-depth discussion of each category and analyze the connections among the different security issues involved.

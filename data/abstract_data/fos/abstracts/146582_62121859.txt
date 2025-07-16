@@ -1,0 +1,2 @@
+Problem of statistical inference for heavy traffic in M/M/1 queue
+In this paper, the upper bounds for waiting time distribution in M/M/I queue under heavy traffic assumption are compared with those based on statistical estimation procedures. Simulation studies indicate that the results based on statistical estimation procedures perform better.

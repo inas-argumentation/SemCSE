@@ -1,0 +1,2 @@
+Understanding Satirical Articles Using Common-Sense
+Automatic satire detection is a subtle text classification task, for machines and at times, even for humans. In this paper we argue that satire detection should be approached using common-sense inferences, rather than traditional word classification methods. We present a highly structured latent variable model capturing the required inferences. The model abstracts over the specific entities appearing in the articles, grouping them into generalized categories thus allowing the model to adapt to previously unseen situations.

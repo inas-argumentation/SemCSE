@@ -1,0 +1,2 @@
+Tetrahedrizing Point Sets in Three Dimensions
+This paper offers combinatorial results on extremum problems concerning the number of tetrahedra in a tetrahedrization of n points in general position in three dimensions, i.e. such that no four points are co-planar, It also presents an algorithm that in O(n log n) time constructs a tetrahedrization of a set of n points consisting of at most 3n-11 tetrahedra.

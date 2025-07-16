@@ -1,0 +1,2 @@
+Maximal and Minimal Vertex-Critical Graphs of Diameter Two
+A graph is vertex-critical if deleting any vertex increases its diameter. We construct, for each??5 except?=6, a vertex-critical graph of diameter two on?vertices with at least 12?2?2?3/2+c1?edges, wherec1is some constant. We show that such a graph contains at most 12?2?(2/2)?3/2+c2?edges, wherec2is some constant. We also construct, for each??5 except?=6, a vertex-critical graph of diameter two on?vertices with at most 12 (5??12) edges. We show that such a graph must contain at least 12 (5??29) edges.

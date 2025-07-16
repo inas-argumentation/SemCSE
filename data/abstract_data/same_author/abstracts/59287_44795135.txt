@@ -1,0 +1,2 @@
+VLODS: a VLSI object oriented database system
+Abstract This paper proposes an efficient object oriented data model for VLSI databases. The salient features of the data model and its advantages have been explained. Based on this data model, ODS, an object oriented database system has been implemented. A query language (VDDL) for VLSI database access and design description has been proposed.

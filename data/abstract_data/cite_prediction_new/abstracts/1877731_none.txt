@@ -1,0 +1,2 @@
+Generalized Correlativity of Median Filtering Operator on Signals
+The generalized correlativity of input signal and output signal of a stack filtering operator is defined and used for numerously measuring these filtering operators's behavior in removing noise in signals. We show that under the criterion of the generalized correlativity, of stack filtering operators the median filtering operator is optimal, which implies that this filtering operator possesses better filtering behavior than the others.

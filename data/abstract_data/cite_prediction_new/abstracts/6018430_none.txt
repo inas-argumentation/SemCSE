@@ -1,0 +1,2 @@
+A low power AES-GCM authenticated encryption core in 65nm SOTB CMOS process
+This paper presents a low power AES-GCM authenticated encryption IP core which combines an improved four-parallel architecture, an advanced 65nm SOTB CMOS technology and a low complexity clock gating technique. As a result, the power consumption of the proposed AES-GCM core is only 8.9mW which is lower than other AES-GCM IP cores presented in literature. The detail implementation results are also presented and discussed.

@@ -1,0 +1,15 @@
+EBIC: an evolutionary-based parallel biclustering algorithm for pattern discovery
+Motivation
+Biclustering algorithms are commonly used for gene expression data analysis. However, accurate identification of meaningful structures is very challenging and state-of-the-art methods are incapable of discovering with high accuracy different patterns of high biological relevance.
+
+
+Results
+In this paper, a novel biclustering algorithm based on evolutionary computation, a sub-field of artificial intelligence, is introduced. The method called EBIC aims to detect order-preserving patterns in complex data. EBIC is capable of discovering multiple complex patterns with unprecedented accuracy in real gene expression datasets. It is also one of the very few biclustering methods designed for parallel environments with multiple graphics processing units. We demonstrate that EBIC greatly outperforms state-of-the-art biclustering methods, in terms of recovery and relevance, on both synthetic and genetic datasets. EBIC also yields results over 12 times faster than the most accurate reference algorithms.
+
+
+Availability and implementation
+EBIC source code is available on GitHub at https://github.com/EpistasisLab/ebic.
+
+
+Supplementary information
+Supplementary data are available at Bioinformatics online.

@@ -1,0 +1,2 @@
+Passivity Based Control for the “Boost Converter-Inverter-DC Motor” System
+This work presents a regulation control for the “DC/DC Boost converterinverterDC motor” system. Such a control is designed via the Exact Regulation Error Dynamics Passive Output Feedback (EREDPOF). The control validation is carried out through numerical simulations using Matlab-simulink, achieving a satisfactory performance.

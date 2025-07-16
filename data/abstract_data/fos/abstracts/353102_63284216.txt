@@ -1,0 +1,2 @@
+Application of K-means Clustering Algorithm Based on Particle Swarm Optimization in Image Classification
+This paper proposes a new image classification algorithm of cluster analysis based on particle swarm optimization.The new image classification algorithm has been applied to MRI images to illustrate its applicability.The experimental results show that the proposed algorithm not only avoids the local optima,but also has greater searching capability than particle swarm optimization.

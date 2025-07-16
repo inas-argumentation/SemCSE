@@ -1,0 +1,2 @@
+Computer display control and interaction using eye‐gaze
+Innovative systems for user‐computer interaction based on the user's eye‐gaze behavior have important implications for various applications. Examples include user navigation in large images, typical of astronomy or medicine, and user selection and viewing of multiple video streams. Typically, a web environment is used for these applications. System latency must be negligible, while system obtrusiveness must be small. This paper describes the implementation and initial experimentation on such an innovative system.

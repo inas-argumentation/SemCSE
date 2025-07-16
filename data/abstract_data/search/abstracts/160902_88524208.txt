@@ -1,0 +1,2 @@
+Spatial blind source separation
+Recently a blind source separation model was suggested for spatial data together with an estimator based on the simultaneous diagonalisation of two scatter matrices. The asymptotic properties of this estimator are derived here and a new estimator, based on the joint diagonalisation of more than two scatter matrices, is proposed. The asymptotic properties and merits of the novel estimator are verified in simulation studies. A real data example illustrates the method.

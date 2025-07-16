@@ -1,0 +1,2 @@
+The Characteristic Initial Value Problem in General Relativity
+A new approach to the numerical solution of Einstein’s Equations based on the characteristic initial value problem is outlined. Because this approach requires integration through caustics and up to singularities, this topic is described and some novel finite-differencing techniques are introduced for integrating up to singularities of non-linear differential equations. Finally some preliminary results from this new approach are presented.

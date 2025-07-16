@@ -1,0 +1,2 @@
+Optimal stopping of a killed exponentially growing process
+We consider a finite horizon optimal stopping problem with a gain function equal to the call option’s. The value of the underlying process grows exponentially until a Poisson process jumps for the first time, at which the process jumps to zero and stays there forever. As applications of this model we consider valuing real options and options written on the stock of a start-up company.

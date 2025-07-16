@@ -1,0 +1,2 @@
+Modified Range-Doppler Algorithm for Space-Surface BSAR imaging
+This paper reports progress in the development of an image formation algorithm suitable for space-surface bistatic synthetic aperture radar (SS-BSAR). An overview of the proposed algorithm in its current stage of development, a modification of the standard range-Doppler algorithm (RDA) is provided and some first experimental bistatic results obtained using the algorithm are presented

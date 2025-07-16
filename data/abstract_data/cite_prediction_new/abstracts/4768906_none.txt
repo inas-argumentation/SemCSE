@@ -1,0 +1,2 @@
+Some thoughts on a model of touch-sensitive surfaces
+Interactive surfaces employ a variety of touch sensing technologies and implementations. Each of these offers unique strengths and limitations. An important metric for touch-sensitive surfaces is their tracking performance. This poster abstract presents some thoughts on a generic model of touch sensors and touch-sensitive surfaces. In it, a sensor is characterized by its range/precision dependency. This may allow to compare different touch-sensitive surfaces and predict performance of new sensor systems.

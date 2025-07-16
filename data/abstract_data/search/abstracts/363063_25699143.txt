@@ -1,0 +1,2 @@
+Structure from stereo a review
+The authors review major recent developments in establishing stereo correspondence for the extraction of the 3D structure of a scene. Broad categories of stereo algorithms are identified on the basis of differences in imaging geometry, matching primitives, and the computational structure used. The performance of these stereo techniques on various classes of test images is reviewed, and possible directions of future research are indicated.

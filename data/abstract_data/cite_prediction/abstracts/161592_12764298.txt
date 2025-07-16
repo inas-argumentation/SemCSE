@@ -1,0 +1,15 @@
+Phase lag index: assessment of functional connectivity from multi channel EEG and MEG with diminished bias from common sources.
+OBJECTIVE
+To address the problem of volume conduction and active reference electrodes in the assessment of functional connectivity, we propose a novel measure to quantify phase synchronization, the phase lag index (PLI), and compare its performance to the well-known phase coherence (PC), and to the imaginary component of coherency (IC).
+
+
+METHODS
+The PLI is a measure of the asymmetry of the distribution of phase differences between two signals. The performance of PLI, PC, and IC was examined in (i) a model of 64 globally coupled oscillators, (ii) an EEG with an absence seizure, (iii) an EEG data set of 15 Alzheimer patients and 13 control subjects, and (iv) two MEG data sets.
+
+
+RESULTS
+PLI and PC were more sensitive than IC to increasing levels of true synchronization in the model. PC and IC were influenced stronger than PLI by spurious correlations because of common sources. All measures detected changes in synchronization during the absence seizure. In contrast to PC, PLI and IC were barely changed by the choice of different montages. PLI and IC were superior to PC in detecting changes in beta band connectivity in AD patients. Finally, PLI and IC revealed a different spatial pattern of functional connectivity in MEG data than PC.
+
+
+CONCLUSION
+The PLI performed at least as well as the PC in detecting true changes in synchronization in model and real data but, at the same token and like-wise the IC, it was much less affected by the influence of common sources and active reference electrodes.

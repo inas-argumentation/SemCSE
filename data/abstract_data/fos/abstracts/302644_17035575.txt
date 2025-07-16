@@ -1,0 +1,2 @@
+Modeling the behavior of amorphous oxide thin film transistors before and after bias stress
+In this work we present a procedure for modeling the characteristics of amorphous oxide semiconductor TFTs, including the hump observed in the transfer characteristics after DC stress. It is based on the Universal Method and Extraction Procedure, UMEM, previously applied to other types of TFTs. The compact model and extraction procedure allows determining basic device parameters, which can be used to study the device behavior.

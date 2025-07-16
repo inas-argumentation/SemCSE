@@ -1,0 +1,15 @@
+Predictive gamma passing rate for three-dimensional dose verification with finite detector elements via improved dose uncertainty potential accumulation model.
+PURPOSE
+We aim to develop a method to predict the gamma passing rate (GPR) of a three-dimensional (3D) dose distribution measured by the Delta4 detector system using the dose uncertainty potential (DUP) accumulation model.
+
+
+METHODS
+Sixty head-and-neck intensity-modulated radiation therapy (IMRT) treatment plans were created in the XiO treatment planning system. All plans were created using nine step-and-shoot beams of the ONCOR linear accelerator. Verification plans were created and measured by the Delta4 system. The planar DUP (pDUP) manifesting on a field edge was generated from the segmental aperture shape with a Gaussian folding on the beam's-eye view. The DUP at each voxel (u) was calculated by projecting the pDUP on the Delta4 phantom with its attenuation considered. The learning model (LM), an average GPR as a function of the DUP, was approximated by an exponential function aGPR(u) = e-qu to compensate for the low statistics of the learning data due to a finite number of the detectors. The coefficient q was optimized to ensure that the difference between the measured and predicted GPRs (dGPR) was minimized. The standard deviation (SD) of the dGPR was evaluated for the optimized LM.
+
+
+RESULTS
+It was confirmed that the coefficient q was larger for tighter tolerance. This result corresponds to the expectation that the attenuation of the aGPR(u) will be large for tighter tolerance. The pGPR and mGPR were observed to be proportional for all tolerances investigated. The SD of dGPR was 2.3, 4.1, and 6.7% for tolerances of 3%/3 mm, 3%/2 mm, 2%/2 mm, respectively.
+
+
+CONCLUSION
+The DUP-based predicting method of the GPR was extended to 3D by introducing DUP attenuation and an optimized analytical LM to compensate for the low statistics of the learning data due to a finite number of detector elements. The precision of the predicted GPR is expected to be improved by improving the LM and by involving other metrics.

@@ -1,0 +1,2 @@
+The Hodge theory of character varieties
+This is a report on joint work with T. Hausel and L. Migliorini, where we prove, for each of the groups GL(2,C), PGL(2,C), SL(2,C), that the non-Abelian Hodge theorem identifies the weight filtration on the cohomology of the character variety with the perverse Leray filtration on the cohomology of the domain of the Hitchin map. We review the decomposition theorem, N\^go's support theorem, the geometric description of the perverse filtration and the sub-additivity of the Leray filtration with respect to the cup product.

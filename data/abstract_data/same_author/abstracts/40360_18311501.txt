@@ -1,0 +1,2 @@
+TACO -- Dynamic Distributed Collections with Templates and Topologies
+High-level data-parallel programming with distributed object sets eases many aspects of parallel programming. In this paper we describe the design and implementation of Taco, a template library that provides higher-order operations on polymorphic regular and irregular distributed object sets by means of reusable topology classes and C++ function templates.

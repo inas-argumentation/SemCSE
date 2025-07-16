@@ -1,0 +1,2 @@
+An Accurate Bandgap-Based Power-on-Detector in 14-nm CMOS Technology
+A novel power-on-detector (POD) circuit is reported in 14-nm technology. This POD has a sigma accuracy of 12 mV, including process, voltage, and temperature variations with a power of 496 μW and an area of 0.02 mm2. The POD uses an open-loop offset-cancelled bandgap-based circuit to achieve this high accuracy. It is also capable of detecting two operating voltages simultaneously and can measure the digital VCC power-up at supply levels lower than the diode voltage.

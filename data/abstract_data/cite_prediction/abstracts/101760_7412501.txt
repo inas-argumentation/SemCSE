@@ -1,0 +1,2 @@
+Building RDF Ontologies from Semi-Structured Legal Documents
+The increasing interest in the context of e-government requires intelligent techniques for legal information and knowledge management. In this paper we describe a system that, given a number of legal paper documents, automatically transforms them into suitable RDF statements, using several ontological and linguistic knowledge levels. Although we describe a general methodology for a number of application domains, our system is particularly suitable for the notary realm.

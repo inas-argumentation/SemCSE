@@ -1,0 +1,2 @@
+Prediction of cerebral stroke using an expert system
+An expert system of cerebral stroke prediction (ESCSP) has been developed. The ESCSP is a Windows supported software based on Bayes formula applied for determination of probability of stroke as well as for estimation of a risk for different types of blood circulation disturbances (ischemic or hemorrhagic stroke). The prediction is possible according to three sets of risk factors: 15, 25 and 52. The study of patients with different types of cerebral stroke has demonstrated high accuracy of the developed ESCSP software.

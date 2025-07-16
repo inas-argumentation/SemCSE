@@ -1,0 +1,2 @@
+Tagged One-Time Signatures: Tight Security and Optimal Tag Size
+We present an efficient structure-preserving tagged one-time signature scheme with tight security reductions to the decision-linear assumption. Our scheme features short tags consisting of a single group element and gives rise to the currently most efficient structure-preserving signature scheme based on the decision-liner assumption with constant-size signatures of only 14 group elements, where the record-so-far was 17 elements.

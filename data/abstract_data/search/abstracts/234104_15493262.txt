@@ -1,0 +1,2 @@
+Toward Integrating Cognitive Linguistics and Cognitive Language Processing
+We present a system to comprehend natural language that combines cognitive linguistics with known properties of human language processing. It is built on Embodied Construction Grammar (ECG) and the Soar cognitive architecture. Its core is a novel grounded semantic parser. Experiments show the system produces actionable meanings and fulfills ten cognitive criteria we set out.

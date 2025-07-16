@@ -1,0 +1,2 @@
+Heat kernel asymptotic expansions for the Heisenberg sub-Laplacian and the Grushin operator
+The sub-Laplacian on the Heisenberg group and the Grushin operator are typical examples of sub-elliptic operators. Their heat kernels are both given in the form of Laplace-type integrals. By using Laplace's method, the method of stationary phase and the method of steepest descent, we derive the small-time asymptotic expansions for these heat kernels, which are related to the geodesic structure of the induced geometries.

@@ -1,0 +1,6 @@
+Improved Garbled Circuit Building Blocks and Applications to Auctions and Computing Minima
+We consider generic Garbled Circuit (GC)-based techniques for Secure Function Evaluation (SFE) in the semi-honest model. 
+ 
+We describe efficient GC constructions for addition, subtraction, multiplication, and comparison functions. Our circuits for subtraction and comparison are approximately two times smaller (in terms of garbled tables) than previous constructions. This implies corresponding computation and communication improvements in SFE of functions using our efficient building blocks. The techniques rely on recently proposed "free XOR" GC technique. 
+ 
+Further, we present concrete and detailed improved GC protocols for the problem of secure integer comparison, and related problems of auctions, minimum selection, and minimal distance. Performance improvement comes both from building on our efficient basic blocks and several problem-specific GC optimizations. We provide precise cost evaluation of our constructions, which serves as a baseline for future protocols.

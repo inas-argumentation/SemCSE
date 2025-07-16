@@ -1,0 +1,2 @@
+A Framework for Campus Web System Using Web Service Architecture based on XML/SOAP
+This article aims to apply the idea of XML-based Web service to develop campus information system.By comparing Web service system to the traditional Web application system and EAI,this article analyzes the difference between them and brings out a new framework for campus Web service system that can be used for future campus information system development.

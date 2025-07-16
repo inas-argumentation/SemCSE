@@ -1,0 +1,2 @@
+Sublogarithmic Deterministic Selection on Arrays with a Reconfigurable Optical Bus
+The linear array with a reconfigurable pipelined bus system (LARPBS) is a newly introduced parallel computational model, where processors are connected by a reconfigurable optical bus. In this paper, we show that the selection problem can be solved on the LARPBS model deterministically in O((loglogN)/sup 2// log log log N) time. To our best knowledge, this is the best deterministic selection algorithm on any model with a reconfigurable optical bus.

@@ -1,0 +1,2 @@
+Incorporation Of Fuzzy Preferences Into Evolutionary Multiobjective Optimization
+A method for incorporating fuzzy preferences into evolutionary multiobjective optimization is proposed. Fuzzy preferences are converted into interval-based weights instead of single-valued crisp weights. The weight intervals are combined with the evolutionary dynamic weighted aggregation to obtain the preferred Pareto-optimal solutions.

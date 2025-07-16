@@ -1,0 +1,2 @@
+A note on approximations and convergence in distribution for spearman's rank correlation coefficient
+The convergence of the exact distribution of Spearman's Correlation Coefficient to normality is examined for n-9 to 18. Seven recommended approximations are examined for accuracy to the exact distribution and some recommendations are made.

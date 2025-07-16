@@ -1,0 +1,2 @@
+Empirical Bayes modeling , computation , and accuracy
+This article is intended as an expositional overview of empirical Bayes modeling methodology, presented in a simplified framework that reduces technical difficulties. The two principal empirical Bayes approaches, called f -modeling and g-modeling here, are described and compared. A series of computational formulas are developed to assess the frequentist accuracy of empirical Bayes applications. Several examples, both artificial and genuine, show the strengths and limitations of the two methodologies.

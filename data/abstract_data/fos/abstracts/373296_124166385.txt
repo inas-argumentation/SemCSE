@@ -1,0 +1,2 @@
+Simulation of magnetohydrodynamics for plasma jetting on wire pinch
+For a deeper understanding of the physical process of plasma jetting on wire the one dimension magnetohydrodynamics simulation code under Lagrangian coordinates is used. It is detailed that the axial Al wire heated by shock wave expends after collision and finally pinches on the axis. A large value of current rate of rise is got on the axial wire according to our calculations. The resultant pinch according to our calculation outputs more Xray energy and higher power.

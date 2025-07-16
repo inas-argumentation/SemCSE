@@ -1,0 +1,2 @@
+FLUTE: fast lookup table based wirelength estimation technique
+Wirelength estimation is an important tool to guide the design optimization process in early design stages. In this paper, we present a wirelength estimation technique called FLUTE. Our technique is based on pre-computed lookup table to make wirelength estimation very fast and very accurate for low degree nets. We show experimentally that for FLUTE, RMST, and HPWL, the average error in wirelength are 0.72%, 4.23%, and -8.71%, respectively, and the normalized runtime are 1, 1.24, and 0.16, respectively.

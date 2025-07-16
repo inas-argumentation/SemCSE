@@ -1,0 +1,2 @@
+Towards the Algorithmic Detection of Artistic Style
+The artistic style of a painting can be sensed by the average observer, but algorithmically detecting a painting's style is a difficult problem. We propose a novel method for detecting the artistic style of a painting that is motivated by the neural style algorithm of Gatys et. al. and is competitive with other recent algorithmic approaches to artistic style detection.

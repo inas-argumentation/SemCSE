@@ -1,0 +1,2 @@
+Change detection for aggregate objects with aliasing
+Object oriented systems often need to detect when objects have changed. Due to aggregation and aliasing, programmers must explicitly identify changes to objects in most object oriented systems. We describe a program monitoring technique which takes account of aggregation and aliasing, and which can be used to detect changes automatically. Automatic change detection can simplify programming and design, so producing more reliable systems with less effort.

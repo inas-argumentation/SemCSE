@@ -1,0 +1,2 @@
+A BPSK demodulator circuit using an anti-parallel synchronization loop
+A novel anti-parallel loop carrier synchronization method for BPSK demodulation is proposed and demonstrated. The method contains an anti-parallel dual loop, which locks the carrier by its upper loop and lower loop alternately, according to the data bits contained in the received BPSK signal. Simulation and experimental results are shown along with BER performance.

@@ -1,0 +1,2 @@
+Interpolation of Density Matrices and Matrix-Valued Measures: The Unbalanced Case
+In this note, we propose an unbalanced version of the quantum mechanical version of optimal mass transport that was based on the Lindblad equation. We formulate a natural interpolation framework between density matrices and matrix-valued measures via a quantum mechanical formulation of Fisher-Rao information and the matricial Wasserstein distance.

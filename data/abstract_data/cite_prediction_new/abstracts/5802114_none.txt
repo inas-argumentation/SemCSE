@@ -1,0 +1,2 @@
+3D classification of crossroads from multiple aerial images using conditional random fields
+We apply Conditional Random Fields for the classification of scenes containing crossroads, using a simple appearance-based model in combination with a probabilistic model of the co-occurrence of class labels at neighbouring image sites. We use multiple overlap aerial images to derive a digital surface model and a true orthophoto without dynamic objects such as cars. An evaluation on an urban data set of aerial images delivers promising results.

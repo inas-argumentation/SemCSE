@@ -1,0 +1,2 @@
+A Novel Technique for Computing Negabinary Squares
+A novel technique for computing squares of negabinary numbers is described in this correspondence. The basic principle is to use an arithmetic algorithm normally utilized for the square-root operation. Asuitable recursive combinations are shown to reduce the problem of obtaining the square of "n" bit number to the addition of [n/3] operands and the change of sign in the last step is shown to be helpful in reducing the hardware. One way for further improvement is also suggested.

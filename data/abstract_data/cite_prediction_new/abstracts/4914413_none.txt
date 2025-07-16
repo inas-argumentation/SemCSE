@@ -1,0 +1,2 @@
+Performance improvement of MHN-enhanced uplink with frequency offset compensation
+This paper proposes an uplink frequency offset compensation scheme for the millimeter-wave (mmWave) based mobile hotspot network that provides a wireless backhaul link of high-speed railway communications. We designed new uplink control and shared channels to mitigate Doppler effects and also proved that the proposed automatic frequency control (AFC) scheme employing the newly designed uplink channels showes better block error rate performances than the original channel structures.

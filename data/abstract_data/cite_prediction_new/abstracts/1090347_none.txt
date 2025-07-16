@@ -1,0 +1,2 @@
+Emotion-Based Attention Shift in Autonomous Agents
+We present three mechanisms of attention shift for autonomous agents within the framework of the SALT model of memory [5]: activationbased attention shift, attention shift by event-driven emotion and attention shift by anticipation-driven emotion. The three mechanisms rely on automatically computed properties of memory (as opposed to deliberative processes).

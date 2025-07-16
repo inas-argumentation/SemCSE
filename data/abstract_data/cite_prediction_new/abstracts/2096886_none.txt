@@ -1,0 +1,2 @@
+On the Complexity of Approximation and Online Scheduling Problems with Applications to Optical Networks
+We present scheduling problems that stem from optical networks, and discuss their complexity. We present lower bounds and inapproximability results for several optimization problems. They include offline and online scenarios, and concern problems that optimize the use of components in the optical networks, specifically Add-Drop Multiplexers ADMs and regenerators.

@@ -1,0 +1,2 @@
+Review of Deposited Dose Calculation Methods Using Ray Tracing Approximations
+Deposited dose values calculated, from two ray tracing methods are compared to 3D Monte Carlo Adjoint (reverse) results, for both simple and complex geometries. Results are analyzed, ray tracing accuracy discussed, and hardness assurance modification proposed.

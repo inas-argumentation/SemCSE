@@ -1,0 +1,2 @@
+Business-Oriented Virtualization of Web Services A Case Study
+In addition to enabling controlled sharing and isolation, the virtualization mechanism can help to provide users a single image, and to realize a more abstract and uniform view from a set of fine-grained, heterogeneous and un-ordered instances. The paper explores ways of business-oriented service abstraction, Web service virtualization, presents a practical approach and discusses the effects thereof in an e-science environment for bioinformatics research.

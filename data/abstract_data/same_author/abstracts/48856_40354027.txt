@@ -1,0 +1,2 @@
+Minimal trees of given search number
+Abstract A recurrence relation and asymptotic estimate for the number of minimal trees of given search number are derived. In addition, a language for describing these trees and structures within them is developed. Their automorphisms groups are also discussed.

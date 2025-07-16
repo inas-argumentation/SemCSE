@@ -1,0 +1,2 @@
+Hybrid-based Arabic single-document text summarization approach using genatic algorithm
+Text summarization is one of the most paramount applications of the field of natural language processing. This paper presents a Hybrid-based Single-document Extractive Arabic Text Summarization approach based on Genetic Algorithm. The proposed summarization approach was evaluated using EASC corpus, and ROUGE evaluation method to determine the accuracy of the proposed approach. The result showed that our method outperformed many state-of-the art methods.

@@ -1,0 +1,2 @@
+Analog neural network for support vector machine learning
+An analog neural network for support vector machine learning is proposed, based on a partially dual formulation of the quadratic programming problem. It results in a simpler circuit implementation with respect to existing neural solutions for the same application. The effectiveness of the proposed network is shown through some computer simulations concerning benchmark problems

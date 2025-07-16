@@ -1,0 +1,2 @@
+The Permanent Rank of a Matrix
+Define the perrank of a matrixAto be the size of the largest square submatrix ofAwith nonzero permanent. Motivated in part by the Alon?Jaeger?Tarsi Conjecture [3], we prove several results on perranks..

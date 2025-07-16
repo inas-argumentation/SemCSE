@@ -1,0 +1,2 @@
+A modified Maxwell-Eucken equation for calculating the thermal conductivity of two-component solutions or mixtures
+Resume L'equation de Maxwell-Eucken presente une anomalie parce que les deux formes de l'equation donnent des resultats numeriques differents pour la conductivite thermique d'un melange a deux composantes ou d'une solution. L'auteur a elimine cette anomalie en introduisant un terme supplementaire fonction du rapport des conductivites thermiques des composantes.

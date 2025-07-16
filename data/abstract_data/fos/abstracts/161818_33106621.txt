@@ -1,0 +1,15 @@
+Collimator angle influence on dose distribution optimization for vertebral metastases using volumetric modulated arc therapya).
+PURPOSE
+The cylindrical symmetry of vertebrae favors the use of volumetric modulated arc therapy in generating a dose "hole" on the center of the vertebrae limiting the dose to the spinal cord. The authors have evaluated if collimator angle is a significant parameter for dose distribution optimization in vertebral metastases.
+
+
+METHODS
+Three patients with one-three vertebrae involved were considered. Twenty-one differently optimized plans (nine single-arc and 12 double-arc plans) were performed, testing various collimator angle positions. Clinical target volume was defined as the whole vertebrae, excluding the spinal cord canal. The planning target volume (PTV) was defined asCTV+5mm. Dose prescription was 5×4Gy2 with normalization to PTV mean dose. The dose at 1cm3 of spinal cord was limited to 11.5Gy.
+
+
+RESULTS
+The best plans in terms of target coverage and spinal cord sparing were achieved by two arcs and Arc1-80° and Arc2-280° collimator angles for all the cases considered (i.e., leaf travel parallel to the spinal cord primary orientation). If one arc is used, only 80° reached the objectives.
+
+
+CONCLUSIONS
+This study demonstrated the role of collimation rotation for the vertebrae metastasis irradiation, with the leaf travel parallel to the spinal cord primary orientation to be better than other solutions. Thus, optimal choice of collimator angle increases the optimization freedom to shape a desired dose distribution.

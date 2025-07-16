@@ -1,0 +1,15 @@
+Theoretic impact of infarct compliance on left ventricular function.
+BACKGROUND
+After coronary occlusion, the infarct region loses contractile function immediately and then undergoes a progressive healing process. This causes complex and time-dependent changes in infarct material properties that have not been well described experimentally. We used a theoretic approach to assess how infarct compliance effects left ventricular (LV) size and function after myocardial infarction.
+
+
+METHODS
+We used a closed-loop lumped-parameter model of the ovine cardiovascular system developed to study the effect of infarct size and compliance on cardiovascular function. The time-varying LV function was partitioned into infarct and noninfarct regions where the parameters of each could be adjusted separately. The model incorporated an adaptive compensatory mechanism to maintain stroke volume by varying the total blood volume.
+
+
+RESULTS
+For the preinfarction heart, the model produced pressure, volume, and functional results that were consistent with normal values for large animals. When infarcts of progressively larger size (5% to 25%) were introduced and stroke volume adaptation was permitted, the model produced pressure, volume, and functional results that were consistent with postinfarction values measured experimentally in large animals. Infarct size was held at 20% as infarct compliance decreased from 7 to 1 mL/mm Hg. This stiffening of the infarct resulted in reduced LV end-diastolic volume (200 to 60 mL), increased ejection fraction (0.10 to 0.30), and reduced LV end-diastolic pressure (14 to 5 mm Hg). Estimated LV oxygen consumption was also improved in the stiffer infracts.
+
+
+CONCLUSION
+Stiffer infarcts are associated with less LV dilatation, reduced filling pressures and better global LV function.

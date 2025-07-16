@@ -1,0 +1,2 @@
+NCTPlan application for neutron capture therapy dosimetric planning at MEPhI nuclear research reactor.
+The results of modeling of two therapeutic beams HEC-1 and HEC-4 at the NRNU "MEPhI" research nuclear reactor exploitable for preclinical treatments are reported. The exact models of the beams are constructed as an input to the NCTPlan code used for planning Neutron Capture Therapy (NCT) procedure. The computations are purposed to improve the accuracy of prediction of a dose absorbed in tissue with the account of all components of radiation.

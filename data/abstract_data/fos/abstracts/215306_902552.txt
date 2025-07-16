@@ -1,0 +1,2 @@
+New design of recursive Wiener fixed-lag smoother in linear discrete-time stochastic systems
+This paper newly designs the Wiener fixed-lag smoother and filter using covariance information in linear discrete-time stochastic systems. The estimators require the information of the observation matrix, the system matrix for the state variable, related with the signal, the cross-variance function of the state variable with the observed value and the variance of the white observation noise. It is assumed that the signal is observed with additive white noise.

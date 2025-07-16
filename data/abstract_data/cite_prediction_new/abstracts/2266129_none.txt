@@ -1,0 +1,4 @@
+Response to Comment on Vassy et al. Polygenic Type 2 Diabetes Prediction at the Limit of Common Variant Detection. Diabetes 2014;63:2172–2182
+Abbasi et al. (1) raise excellent points about the current and future states of type 2 diabetes risk prediction. Two issues in particular are worth consideration.
+
+First, our clinical and polygenic prediction models do not include time-varying assessments of known risk factors such as BMI and fasting glucose (2). Abbasi et al. are correct that doing so would likely improve the models’ predictive accuracy. Instead, we patterned our models on what is more common …

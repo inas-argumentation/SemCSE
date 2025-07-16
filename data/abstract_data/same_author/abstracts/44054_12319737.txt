@@ -1,0 +1,2 @@
+Granulation Based Image Texture Recognition
+Granular computing as an enabling technology and as such it cuts across a broad spectrum of disciplines and becomes important to many areas of applications. In this paper, we present our model of information granulation that is more suitable to image recognition. Then, we construct an image granule framework and present a granulation based image texture recognition algorithm. We compare our algorithm with some other algorithms and the results show that our algorithm is effective and efficient.

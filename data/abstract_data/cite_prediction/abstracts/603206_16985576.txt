@@ -1,0 +1,2 @@
+Efficient integration of inertial observations into visual SLAM without initialization
+The use of accelerometer and gyro observations in a visual SLAM implementation is beneficial especially in high dynamic situations. The downside of using inertial is that traditionally high prediction rates are required as observations are provided at high sample rates. An accurate orientation and velocity estimate must also be maintained at all times in order to integrate the inertial observations and correct for the effect of gravity.

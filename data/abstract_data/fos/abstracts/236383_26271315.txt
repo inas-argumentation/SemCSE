@@ -1,0 +1,2 @@
+Single-step calculation of the MTF from the ERF.
+A method is presented whereby the modulation transfer function can be calculated directly from the edge response function without having to find the line spread function as an intermediate step.

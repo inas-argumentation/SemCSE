@@ -1,0 +1,2 @@
+Bernstein-Gelfand-Gelfand resolutions and the constructible $t$-structure
+We consider analogues of the Bernstein-Gelfand-Gelfand resolution in a highest weight category $\mathscr{P}$. We prove the resulting category of complexes is a chain-level lift of the heart of the constructible $t$-structure on its bounded derived category $D^b(\mathscr{P})$. In particular, an object admits a Bernstein-Gelfand-Gelfand resolution if and only if a certain $\operatorname{Ext}$ vanishing with costandard objects holds. These results appear to be new even for Category $\mathscr{O}$.

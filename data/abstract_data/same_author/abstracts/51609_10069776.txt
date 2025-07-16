@@ -1,0 +1,26 @@
+Automated Generation of Search Tree Algorithms for Hard Graph
+Modification Problems
+Abstract
+We present a framework for an automated 
+generation of exact search tree algorithms for NP-hard problems.
+The purpose of our approach is twofold—rapid development and 
+improved upper bounds. 
+Many search tree algorithms for various problems
+in the literature are based on complicated
+case distinctions. Our approach may lead to a much 
+simpler process of developing and analyzing these algorithms.
+Moreover, using the sheer computing power of machines it may also 
+lead to improved upper bounds on
+search tree sizes (i.e., faster exact solving algorithms) in comparison
+with previously developed “hand-made” search trees.
+Among others, such an example is given with the NP-complete 
+Cluster Editing problem (also known as Correlation
+Clustering on complete unweighted graphs), which asks for the minimum
+number of edge additions and deletions to create a graph which is a
+disjoint union of cliques. The
+hand-made search tree
+for Cluster Editing
+had worst-case size O(2.27k), which now is improved to 
+O(1.92k) due to our new method.
+(Herein, k denotes the number of edge modifications allowed.)
+

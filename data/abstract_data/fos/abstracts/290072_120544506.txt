@@ -1,0 +1,2 @@
+Exact tests for matched pairs: studies with covariates
+In prospective or retrospective studies with matched pairs one often wishes to control for covariates other than those used in the matching process.Large sample procedures assuming a logistic model are available for this problem.The present paper presents some exact permutation tests which are uniformly most powerful unbiased within a large class of tests.

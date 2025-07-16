@@ -1,0 +1,2 @@
+XML-based information mediation for digital libraries
+We demonstrate a prototype distributed architecture for a digital library, using technology being developed under the MIX Project at the San Diego Supercomputer Center (SDSC) and the University of California, San Diego. The architecture is based on XML-based modeling of metadata; use of an XML query language, and associated mediator middleware, to query distributed metadata sources; and the use of a storage system middleware to access distributed, archived data sets.

@@ -1,0 +1,27 @@
+New Optimal Tame Towers of Function Fields over Small Finite Fields
+Ihara [11] introduced the quantity A(q) = limsupg→∞ N q (g)/g where N q (g) is the maximum number of rational places of a function field with genus g and with the finite field F q as the full field of constants. Drinfeld and Vladut [2] showed that A(q) ≤ √q - 1. It was also shown by Ihara [11], and Tsfasman, Vladut and Zink [17] in special cases, that A(q)= √ q - 1 when q is a square. When q is not a square, the exact value of A(q) is currently unknown. While the problem of finding A(q) in this case is an interesting problem in its own right, much motivation comes from implications in asymptotic results in coding theory. Essentially there are three approaches to finding lower bounds for A(q): class field towers [15], modular curves [11], [17], [3], [4]and explicit towers (that is, given explicitly in terms of generators and relations) of function fields. For applications to coding theory though, explicit towers are needed. In [6], a tower of function fields over Fq is defined to be a sequence F = (F 1, F 2, F 3,.. ) of function fields F i , having the following properties: 
+ 
+(i) 
+ 
+F1 ⊆F2 ⊆ F3 ⊆.... 
+ 
+ 
+ 
+ 
+(ii) 
+ 
+For each n ≥ 1, the extension F n+1/ F n is separable of degree [F n+1: F n ] > 1. 
+ 
+ 
+ 
+ 
+(iii) 
+ 
+the genus g(F j ) > 1 for some j ≥ 1. 
+ 
+ 
+ 
+ 
+(iv) 
+ 
+F q is the full field of constants of each F n .

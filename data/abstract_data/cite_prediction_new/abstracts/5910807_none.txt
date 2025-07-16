@@ -1,0 +1,2 @@
+Reputation Cascade Model over Social Connections in Online Social Networks
+Reputation is turning to be one of the most important concerns in online social networks. Users in such environments extend their activity area with respect to the possible updates on their reputation level. In this paper, we propose a probabilistic model of reputation cascade through the network. This model helps users to select the best possible choice of interaction. Furthermore, we also provide a game theoretic approach to analyze the model.

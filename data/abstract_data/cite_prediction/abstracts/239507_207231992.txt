@@ -1,0 +1,2 @@
+Real-time sensor data streams
+Today's observation streams of large numbers of geographically distributed sensors in geosensor networks arrive continuously at powerful servers, and users are interested in analyzing the sensor data streams in real-time. This article investigates challenges in data management that arise when massive real-time data streams become available and discusses different data management technologies for managing and analyzing real-time sensor data streams.

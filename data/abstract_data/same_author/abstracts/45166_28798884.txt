@@ -1,0 +1,2 @@
+Linear and Integer Programming Techniques for Cooperative Games
+Let Γ = (N, v) be a cooperative game with the player set N and value function v : 2N → R. A solution of the game is in the core if no subset of players could gain advantage by breaking away from the grand coalition of all players. This paper surveys theoretical results on the cores for some cooperative game models. These results proved that the linear program duality characterization of the core is a very powerful tool. We will focus on linear and integer programming techniques applied in this area.

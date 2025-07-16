@@ -1,0 +1,2 @@
+Checking probabilistic noninterference using JOANA
+JOANA is a tool for software security analysis, checking up to 100 kLOC of full multi-threaded Java. JOANA is based on sophisticated program analysis techniques and thus very precise. It includes a new algorithm guaranteeing probabilistic noninterference, named RLSOD. JOANA needs few annotations and has a nice GUI. The tool is open source and was applied in several case studies. The article presents an overview of JOANA and its underlying technology.

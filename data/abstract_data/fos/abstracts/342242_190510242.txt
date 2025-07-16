@@ -1,0 +1,15 @@
+Experimental study of humidity effect on charge measurement of reference ionization chambers in clinical high-energy photon beams.
+PURPOSE
+In the practice code of dosimetry, humidity effect is assumed to be constant as far as the measurements are performed in the relative humidity (RH) range of (20-80) %; thus, the humidity effect can be ignored with a dose uncertainty of 0.15%. This assumption is based on the previous experimental results by Niatel and Guiho. Rogers and Ross calculated the stopping power ratio of humid air and dry air for high-energy electron beams by using a Monte Carlo code. They demonstrate that the W value, the mean energy required to create an ion pair in air, is independent of the beam quality when the air is dry, and that the traditional humidity correction can be used also for high-energy photon and electron beams; however, this was only a computational study. In the present study, we measured the humidity correction of Farmer-type ionization chambers in high-energy photon beams and determined the W values of humid air using the calculated energy deposition of humid air with a Monte Carlo code. Further, we proposed an analytical expression to determine a practical humidity correction for an ionization chamber as a function of absolute humidity.
+
+
+METHOD
+Experiments were carried out using a clinical linear accelerator (linac, Elekta Precise) at the National Metrology Institute of Japan (NMIJ). A shield box was constructed downstream of the linac and connected to an air processor, which maintained the temperature around 22 °C and controlled the humidity in the range of (10-70) % inside the box. We prepared two Farmer-type ionization chambers: PTW 30013 and Exradin A19. Each ionization chamber was placed inside the box and irradiated with 6-, 10-, and 15-MV high-energy photon beams from the clinical linac. The energy deposition to the humid air inside the ionization chamber was calculated using the Electron Gamma Shower Version 5 (EGS5) code system.
+
+
+RESULTS
+Stabilization for the humidity of the ionization chamber was completed within 3 h. The polarity and ion recombination corrections did not show any change in the humidity range studied. The measured humidity correction and the evaluated W values of humid air in high-energy photon beams were in good agreement with those by Rogers in TG-21 and by Niatel in the range of RH (10-70) %.
+
+
+CONCLUSION
+Humidity correction of ionization chambers in high-energy photon beams from the clinical linac was determined experimentally. Using the analytical expression for the energy depositions by EGS5, the analytical expression for the W values was also derived. This article is protected by copyright. All rights reserved.

@@ -1,0 +1,2 @@
+Analysis of Distributed System Development Mode Based on COM/DCOM
+Analyzes the distributed computing architecture and principle based on COM/DCOM in de-tails,and puts forward some implement methods of COM/DCOM components and 3-tierclient/server application,illustrates these ideas by a 3-tier client/server application based on DCOM components.

@@ -1,0 +1,7 @@
+Scaling up accurate phylogenetic reconstruction from gene-order data
+MOTIVATION
+Phylogenetic reconstruction from gene-order data has attracted increasing attention from both biologists and computer scientists over the last few years. Methods used in reconstruction include distance-based methods (such as neighbor-joining), parsimony methods using sequence-based encodings, Bayesian approaches, and direct optimization. The latter, pioneered by Sankoff and extended by us with the software suite GRAPPA, is the most accurate approach, but cannot handle more than about 15 genomes of limited size (e.g. organelles).
+
+
+RESULTS
+We report here on our successful efforts to scale up direct optimization through a two-step approach: the first step decomposes the dataset into smaller pieces and runs the direct optimization (GRAPPA) on the smaller pieces, while the second step builds a tree from the results obtained on the smaller pieces. We used the sophisticated disk-covering method (DCM) pioneered by Warnow and her group, suitably modified to take into account the computational limitations of GRAPPA. We find that DCM-GRAPPA scales gracefully to at least 1000 genomes of a few hundred genes each and retains surprisingly high accuracy throughout the range: in our experiments, the topological error rate rarely exceeded a few percent. Thus, reconstruction based on gene-order data can now be accomplished with high accuracy on datasets of significant size.

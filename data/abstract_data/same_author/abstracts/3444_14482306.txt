@@ -1,0 +1,2 @@
+New procedures to identify redundant stuck-at faults and removal of redundant logic
+We present new procedures for identifying redundant stuck-at faults including multiple line stuck-at faults on the branches of fan-out stems. The methods proposed include new procedures to identify stuck-at faults that are simultaneously redundant thus allowing simultaneous removal of logic associated with several redundant faults. Experimental results on benchmark as well as industrial circuits are also presented to demonstrate the effectiveness of the proposed methods.

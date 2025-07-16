@@ -1,0 +1,2 @@
+On Two Parameters for Denoising With Non-Local Means
+Non-local means (NLM) provides a very efficient procedure to denoise digital images. We study the influence of two important parameters on this algorithm: the size of the searching window and the weight given to the central patch. We verify numerically the common knowledge that the searching zone can be advantageously limited and we propose an efficient modification of the central weight based on the Stein's unbiased risk estimate principle.

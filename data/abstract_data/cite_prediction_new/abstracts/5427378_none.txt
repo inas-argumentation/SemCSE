@@ -1,0 +1,6 @@
+An Evaluation Resource for Geographic Information Retrieval
+In this paper we present an evaluation resource for geographic information retrieval developed within the Cross Language Evaluation 
+Forum (CLEF). The GeoCLEF track is dedicated to the evaluation of geographic information retrieval systems. The resource 
+encompasses more than 600,000 documents, 75 topics so far, and more than 100,000 relevance judgments for these topics. Geographic 
+information retrieval requires an evaluation resource which represents realistic information needs and which is geographically 
+challenging. Some experimental results and analysis are reported.

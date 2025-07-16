@@ -1,0 +1,2 @@
+Adaptive hard disk power management on personal computers
+Dynamic power management can be effective for designing low-power systems. In many systems, requests are clustered into sessions. This paper proposes an adaptive algorithm that can predict session lengths and shut down components between sessions to save power. Compared to other approaches, simulations show that this algorithm can reduce power consumption in hard disks with less impact on performance or reliability.

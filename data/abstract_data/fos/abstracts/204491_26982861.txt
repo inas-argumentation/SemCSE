@@ -1,0 +1,2 @@
+Optimization of gate poly TAB size and reliability on short channel pMOSFET
+In this report, the effective gate tab size on pMOSFET to reduce HEIP degradation was investigated. As a result, the effects of tab size of STI edge have been studied and we could propose a design guide taking into account both reliability and process margin as a part of the design for reliability (DFR).

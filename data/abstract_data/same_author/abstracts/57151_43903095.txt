@@ -1,0 +1,2 @@
+Robot Convergence via Center-of-Gravity Algorithms
+Consider a group of N robots aiming to converge towards a single point. The robots cannot communicate, and their only input is obtained by visual sensors. A natural algorithm for the problem is based on requiring each robot to move towards the robots’ center of gravity. The paper proves the correctness of the center-of-gravity algorithm in the semi-synchronous model for any number of robots, and its correctness in the fully asynchronous model for two robots.

@@ -1,0 +1,2 @@
+Bayesian finite mixtures: a note on prior specification and posterior computation
+A new method for the computation of the posterior distribution of the number k of components in a finite mixture is presented. Two aspects of prior specification are also studied: an argument is made for the use of a Poisson(1) distribution as the prior for k; and methods are given for the selection of hyperparameter values in the mixture of normals model, with natural conjugate priors on the components parameters.

@@ -1,0 +1,2 @@
+On the Accuracy of the Gaussian Approximation for the Evaluation of Nonlinear Effects in OFDM Signals
+The almost Gaussian nature of OFDM (Orthogonal Frequency Division Multiplexing) signals with high number of subcarriers is widely employed to characterize nonlinearly distorted OFDM signals and to evaluate the corresponding performance. In this paper we study the accuracy of the Gaussian approach when evaluating nonlinear effects in OFDM signals with finite number of subcarriers, showing the strengths and limitations of this approach.

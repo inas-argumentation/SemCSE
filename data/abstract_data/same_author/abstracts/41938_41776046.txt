@@ -1,0 +1,2 @@
+A Node Cooperative ARQ Scheme for Wireless Ad-Hoc Networks
+We propose a Node Cooperative Automatic Repeat reQuest (ARQ) scheme for wireless ad-hoc networks to combat the effects of channel fading on the performance of link layer retransmission scheme. The proposed scheme is inspired by the idea of cooperative diversity. Simulation results are given to demonstrate the significant throughput gain, even when the quality of channel between the communicating nodes is poor.

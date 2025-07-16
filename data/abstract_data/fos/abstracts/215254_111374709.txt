@@ -1,0 +1,2 @@
+Global solvability and exponential stability in one-dimensional nonlinear thermoelasticity
+We are mainly concerned with the Dirichlet initial boundary value problem in one-dimensional nonlinear thermoelasticity. It is proved that if the initial data are close to the equilibrium then the problem admits a unique, global, smooth solution. Moreover, as time tends to infinity, the solution is exponentially stable. As a corollary we also obtain the existence of periodic solutions for small, periodic righthand sides.

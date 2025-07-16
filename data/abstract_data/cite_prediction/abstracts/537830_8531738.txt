@@ -1,0 +1,2 @@
+Pixel-Oriented Visualization of Change in Social Networks
+We propose a new approach to visualize social networks. Most common network visualizations rely on graph drawing. While without doubt useful, graphs suffer from limitations like cluttering and important patterns may not be realized especially when networks change over time. Our approach adapts pixel-oriented visualization techniques to social networks as an addition to traditional graph visualizations. The visualization is exemplified using social networks based on corporate wikis.

@@ -1,0 +1,2 @@
+Dataset Issues in Object Recognition
+Appropriate datasets are required at all stages of object recognition research, including learning visual models of object and scene categories, detecting and localizing instances of these models in images, and evaluating the performance of recognition algorithms. Current datasets are lacking in several respects, and this paper discusses some of the lessons learned from existing efforts, as well as innovative ways to obtain very large and diverse annotated datasets. It also suggests a few criteria for gathering future datasets.

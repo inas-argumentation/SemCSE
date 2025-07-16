@@ -1,0 +1,15 @@
+Racial differences in spatial patterns for poor glycemic control in the Southeastern United States.
+PURPOSE
+Evidence consistently shows poor outcomes in racial minorities, but there is limited understanding of differences that are explained by spatial variation. The goal of this analysis was to examine contribution of spatial patterns on disparities in diabetes outcomes in the Southeastern United States.
+
+
+METHODS
+Data on 64,022 non-Hispanic black (NHB) and non-Hispanic white (NHW) veterans with diabetes living in Georgia, Alabama, and South Carolina were analyzed for 2014. Hemoglobin A1c (HbA1c) was categorized as controlled (less than 8%) and uncontrolled (greater than or equal to 8%). Logistic regression was used to understand the additional explanatory capability of spatial random effects over covariates such as demographics, service connectedness, and comorbidities. Data aggregated at the county level were used to identify hotspots in distribution of uncontrolled HbA1c and tested using local Moran's I test.
+
+
+RESULTS
+Overall percent uncontrolled HbA1c was 36.5% (40.8% in NHB and 33.4% in NHW). In unadjusted analyses, NHB had 37% higher odds of uncontrolled HbA1c (odds ratio [OR]: 1.37, 95% confidence interval, 1.32, 1.41). After adjusting for demographics and comorbidities, the OR decreased to 1.09 but remained significant (95% confidence interval, 1.05, 1.13). The OR further decreased after incorporating spatial effects (OR: 1.07, 95% confidence interval, 1.03, 1.11) but remained statistically significant. Hotspots of high HbA1c were detected, and spatial patterns differed across racial groups.
+
+
+CONCLUSIONS
+Differences in spatial patterns in glycemic control exists between NHB and NHW veterans with type 2 diabetes. Incorporating spatial effects helps explain more of the disparity in uncontrolled HbA1c than adjusting only for demographics and comorbidities, but significant differences in uncontrolled HbA1c remained.

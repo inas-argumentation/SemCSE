@@ -1,0 +1,2 @@
+Multiple Ising models coupled to 2-d gravity: a CSD analysis
+We simulate single and multiple Ising models coupled to 2-d gravity and we measure critical slowing down (CSD) with the standard methods. We find that the Swendsen-Wang and Wolff cluster algorithms do not eliminate CSD. We interpret the result as an effect of the mesh dynamics.

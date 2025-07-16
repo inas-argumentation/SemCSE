@@ -1,0 +1,2 @@
+Measuring the conformity of distributions to Benford's law
+Abstract We propose a new approach to explore Benford’s law. We take the uniform interpretation of Benford’s law and relax the modulus to define a range of Benford-like characteristics. We then show all fat-tailed distributions approximately satisfy Benford’s law. Our theory shows Benford’s law is a natural property of Riemannian sums for continuous probability densities. Our simulations corroborate this connection.

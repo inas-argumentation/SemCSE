@@ -1,0 +1,2 @@
+The ATLAS high level trigger ATM testbed
+This paper describes an implementation of the High Level Trigger for the ATLAS experiment on a large testbed based on a 32 node switch attached to data sources, event processing units, supervisor modules and interface to the level-1 trigger. We describe the functionality of each component and investigate its performance. We show the operation of the complete system and outline future activities.

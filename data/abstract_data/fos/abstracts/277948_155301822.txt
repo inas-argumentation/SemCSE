@@ -1,0 +1,2 @@
+Independence test in high-dimension using distance correlation and power enhancement technique
+This paper is concerned with independence test in high-dimension. A new test statistic is proposed with two terms: one is based on the modified distance correlation statistic, the other is constructed to enhance the power under sparse alternatives. Asymptotic properties of the test statistic are discussed under some regular conditions. The finite-sample simulations exhibit its superiority over some existing procedures. Finally, a real data example illustrates the proposed test.

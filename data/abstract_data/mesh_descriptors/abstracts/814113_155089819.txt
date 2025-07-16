@@ -1,0 +1,15 @@
+Development and validation of a nomogram to predict lymphedema following axillary surgery and radiotherapy in women with breast cancer from the NCIC CTG MA.20 randomized trial.
+PURPOSE
+Regional nodal irradiation for women with breast cancer is known to be an important risk factor for the development of upper extremity lymphedema, but tools to accurately predict lymphedema risks for individual patients are lacking. This study sought to develop and validate a nomogram to predict lymphedema risk following axillary surgery and radiotherapy in women with breast cancer.
+
+
+METHODS
+Data from 1,832 women accrued on the MA.20 trial between March 2000 and February 2007 were used to create a prognostic model with National Cancer Institute Common Toxicity Criteria Version 2.0 grade 2 or higher lymphedema as the primary end point. Multivariable logistic regression estimated model performance. External validation was performed on data from a single large academic cancer center (N=785).
+
+
+RESULTS
+In the MA.20 trial cohort, three risk factors were predictive of lymphedema risk: BMI (adjusted odds ratio 1.05 per unit BMI; 95% CI, 1.03 to 1.08, p<0.001), extent of axillary surgery (adjusted odds radio for 8-11 lymph nodes removed, 3.28; 95% CI, 1.53 to 7.89, p=0.004; 12-15 lymph nodes, 4.04; 95% CI, 1.76 to 10.26, p=0.002, ≥16 nodes, 5.08; 95% CI, 2.26 to 12.70, p<0.001), and extent of nodal irradiation (adjusted odds radio for limited, 1.66; 95% CI, 1.08 to 2.56, p=0.02; for extensive, 2.31; 95% CI, 1.28 to 4.10, p=0.004). A nomogram was created from these data that predicted lymphedema risk with reasonable accuracy confirmed by both internal (concordance index, 0.69; 95% CI 0.64 to 0.74) and external validation (concordance index, 0.71; 95% CI 0.66 to 0.76).
+
+
+CONCLUSIONS
+The nomogram created from the MA.20 randomized trial data utilizing clinical information may be useful for lymphedema screening and risk stratification for therapeutic intervention trials.

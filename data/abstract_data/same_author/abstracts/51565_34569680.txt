@@ -1,0 +1,8 @@
+Can Software Implemented Fault-Injection Be Used on Real-Time Systems?
+Software Implemented Fault Injection (SWIFI) is a well-established technique for fault injection, but with a significant drawback for Real-Time Systems: intrusiveness, also known as "probe effect". In fact, for most fault models, additional code has to be run on the same processor that executes the application. The danger lies in some deadlines being missed as a consequence of that overhead. 
+ 
+This paper identifies the sources of intrusiveness, and discusses the procedures to measure it. The question of what level of intrusiveness can be considered acceptable is also addressed. 
+ 
+A Pentium version of an existing SWIFI tool (Xception), developed with no real-time considerations in mind, was tested on a system composed by off-the-shelf (COTS) components (a standard PC with a Pentium processor and a commercial real-time multitasking kernel). Data collected using this platform shows that the intrusiveness can be quite significant. 
+ 
+A technique called "Routine Specialization" is proposed to lower that overhead. Results obtained from a "real-time-oriented" injector (RT-Xception) taken from the same system, show a very significant improvement. A comparison with data from other authors shows that with this change SWIFI becomes a viable technique for a wide range of real-time applications.

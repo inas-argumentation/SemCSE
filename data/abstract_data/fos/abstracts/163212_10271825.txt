@@ -1,0 +1,15 @@
+Expected treatment dose construction and adaptive inverse planning optimization: implementation for offline head and neck cancer adaptive radiotherapy.
+PURPOSE
+To construct expected treatment dose for adaptive inverse planning optimization, and evaluate it on head and neck (h&n) cancer adaptive treatment modification.
+
+
+METHODS
+Adaptive inverse planning engine was developed and integrated in our in-house adaptive treatment control system. The adaptive inverse planning engine includes an expected treatment dose constructed using the daily cone beam (CB) CT images in its objective and constrains. Feasibility of the adaptive inverse planning optimization was evaluated retrospectively using daily CBCT images obtained from the image guided IMRT treatment of 19 h&n cancer patients. Adaptive treatment modification strategies with respect to the time and the number of adaptive inverse planning optimization during the treatment course were evaluated using the cumulative treatment dose in organs of interest constructed using all daily CBCT images.
+
+
+RESULTS
+Expected treatment dose was constructed to include both the delivered dose, to date, and the estimated dose for the remaining treatment during the adaptive treatment course. It was used in treatment evaluation, as well as in constructing the objective and constraints for adaptive inverse planning optimization. The optimization engine is feasible to perform planning optimization based on preassigned treatment modification schedule. Compared to the conventional IMRT, the adaptive treatment for h&n cancer illustrated clear dose-volume improvement for all critical normal organs. The dose-volume reductions of right and left parotid glands, spine cord, brain stem and mandible were (17 ± 6)%, (14 ± 6)%, (11 ± 6)%, (12 ± 8)%, and (5 ± 3)% respectively with the single adaptive modification performed after the second treatment week; (24 ± 6)%, (22 ± 8)%, (21 ± 5)%, (19 ± 8)%, and (10 ± 6)% with three weekly modifications; and (28 ± 5)%, (25 ± 9)%, (26 ± 5)%, (24 ± 8)%, and (15 ± 9)% with five weekly modifications.
+
+
+CONCLUSIONS
+Adaptive treatment modification can be implemented including the expected treatment dose in the adaptive inverse planning optimization. The retrospective evaluation results demonstrate that utilizing the weekly adaptive inverse planning optimization, the dose distribution of h&n cancer treatment can be largely improved.

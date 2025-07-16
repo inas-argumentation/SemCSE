@@ -1,0 +1,2 @@
+tmvtnorm: A Package for the Truncated Multivariate Normal Distribution
+In this article we present tmvtnorm, an R package implementation for the truncated multivariate normal distribution. We consider random number generation with rejection and Gibbs sampling, computation of marginal densities as well as computation of the mean and covariance of the truncated variables. This contribution brings together latest research in this field and provides useful methods for both scholars and practitioners when working with truncated normal variables.

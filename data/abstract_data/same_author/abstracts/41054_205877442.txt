@@ -1,0 +1,2 @@
+On distinct distance sets in a graph
+A distinct distance set (DD set) for a graph G is a vertex subset of G with the property that for vbSvb = s, we have (2s) distinct distances of the pairs of vertices in S.In this article, it is shown that(a) For 6 ? k ? 18 there exists a tree T with DD(T) = k and dm(T) = LB(k) < B1(Kk), where LB(k) is the smallest value L for which there are positive integers A and B with A+B=k, A2+B2??L2?, AB??L2?.(b) For k ? 10, the minimum order of a tree T with DD(T) = k is B1(Kk), which is the order of the corresponding Colomb ruler for k.

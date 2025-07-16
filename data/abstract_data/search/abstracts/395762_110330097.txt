@@ -1,0 +1,2 @@
+Gmsh: A 3 D finite element mesh generator with built in pre and post processing facilities
+Gmsh is an open source 3 D finite element grid generator with a build in CAD engine and post processor. Its design goal is to provide a fast, light and user friendly meshing tool with parametric input and advanced visualization capabilities. This paper presents the overall philosophy, the main design choices and some of the original algorithms implemented in Gmsh. Copyright (C) 2009 John Wiley Sons, Ltd.

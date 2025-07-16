@@ -1,0 +1,3 @@
+JAUNE: Justified And Unified Neural language Evaluation
+We review the limitations of BLEU and ROUGE -- the most popular metrics used to assess reference summaries against hypothesis summaries, and introduce JAUNE:  a set of criteria for what a good metric should behave like and propose concrete ways to use recent Transformers-based Language Models to assess reference summaries against hypothesis summaries.
+

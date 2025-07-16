@@ -1,0 +1,2 @@
+Voice quality evaluation of recent open source codecs
+• Averaged frequency responses at different 16, and 24 kHz. External sampling rate does not tell the internal sampling rate. • Supported signal bandwidth depends on bitrate, but no documentation exists bandwidths were found out expirementally • We tested 32kHz sampling with 16ms frame length. There is also 8 ms lookahead. • The results show that bitrates below 32 kbit/s are not useable for voice applications.The voice quality is much worse than with SILK or bitrates shown in steady state

@@ -1,0 +1,2 @@
+Segmentation and classification of meetings using multiple information streams
+We present a meeting recorder infrastructure used to record and annotate events that occur in meetings. Multiple data streams are recorded and analyzed in order to infer a higher-level state of the group's activities. We describe the hardware and software systems used to capture people's activities as well as the methods used to characterize them.

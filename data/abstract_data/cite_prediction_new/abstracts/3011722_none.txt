@@ -1,0 +1,2 @@
+Accurate BER estimation for coherent optical transmission systems
+We propose a bit error rate (BER) estimation technique based on the analysis of the statistical distribution of the constellation points after electronic equalization. The method is successfully tested in presence of linear transmission impairments by both numerical simulations and experimental measurements.

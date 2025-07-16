@@ -1,0 +1,4 @@
+Using the SPARK Toolset for Showing the Absence of Run-Time Errors in Safety-Critical Software
+This paper reports the results of a study into the effectiveness of the SPARK toolset for showing the absence of run-time errors in safety-critical Ada software. In particular, the toolset is examined to determine how effective it is in finding run-time errors in a SPARK program, and how much of the process of proving freedom from run-time errors can be performed automatically. The study identifies areas where automatic run-time checks are not so effective and, where possible, gives recommendations about the design of the software so that the toolset is as effective as possible in automatically proving absence of run-time errors. 
+ 
+The results will be of interest to anyone contemplating the use of the SPARK toolset for ensuring the absence of run-time errors, both as guidance in planning the effort required, and for practical advice on making the best use of the toolset.

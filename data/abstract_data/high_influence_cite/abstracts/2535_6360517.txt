@@ -1,0 +1,2 @@
+Dividing Genetic Computation Method for Robust Receding Horizon Control Design
+A new robust Receding Horizon Control (RHC) design approach for the sampled-data systems is proposed. The approach is based on a dividing genetic computation of minimax optimization for a robust finite receding horizon control problem. Numerical example is given to show the effectiveness of the proposed method.

@@ -1,0 +1,2 @@
+The Mumford-Shah digital filter pair (MS-DFP) and applications
+We present a novel coupled filter pair for denoising, segmentation, and inpainting, based on the well known Mumford-Shah image model. Our self-contained digital extension to a general graph domain makes it possible to cheaply and universally benefit from this conventionally expensive yet very powerful image model.

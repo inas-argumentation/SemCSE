@@ -1,0 +1,21 @@
+Smartphone pressure data: quality control and impact on atmospheric analysis
+. Smartphones are increasingly being equipped with
+atmospheric measurement sensors providing huge auxiliary resources for
+global observations. Although China has the highest number of cell phone
+users, there is little research on whether these measurements provide useful
+information for atmospheric research. Here, for the first time, we present
+the global spatial and temporal variation in smartphone pressure
+measurements collected in 2016 from the Moji Weather app. The data have an
+irregular spatiotemporal distribution with a high density in urban areas, a
+maximum in summer and two daily peaks corresponding to rush hours. With the
+dense dataset, we have developed a new bias-correction method based on a
+machine-learning approach without requiring users' personal information,
+which is shown to reduce the bias of pressure observation substantially. The
+potential application of the high-density smartphone data in cities is
+illustrated by a case study of a hailstorm that occurred in Beijing in which
+high-resolution gridded pressure analysis is produced. It is shown that the
+dense smartphone pressure analysis during the storm can provide detailed
+information about fine-scale convective structure and decrease errors from
+an analysis based on surface meteorological-station measurements. This study
+demonstrates the potential value of smartphone data and suggests some future
+research needs for their use in atmospheric science.

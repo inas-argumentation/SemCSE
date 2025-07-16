@@ -1,0 +1,2 @@
+Policy-based coordination in joint human-agent activity
+In this paper, we outline an approach to policy-based coordination in joint human-agent activity. The approach is grounded in a theory of joint activity originally developed in the context of discourse, and now applied to the broader realm of human-agent interaction. We have been gradually implementing selected aspects of policy-based coordination within the KAoS services framework and have been developing a body of examples that guide additional testing of these ideas through detailed studies of work practice.

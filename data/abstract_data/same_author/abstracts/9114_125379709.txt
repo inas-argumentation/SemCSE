@@ -1,0 +1,2 @@
+A FORTRAN PROGRAM FOR ESTIMATING RESIDUAL RADIATION LEVELS IN HIGH-ENERGY CHARGED-PARTICLE ACCELERATORS
+A FORTRAN II program is described for utilizing cross section data for spallation products to obtain an estimate of the residual radiation from the bombardment of materials with high-energy particles. The program listing is included, together with sample input and output. (auth)

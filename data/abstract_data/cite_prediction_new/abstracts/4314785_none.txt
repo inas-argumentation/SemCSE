@@ -1,0 +1,2 @@
+Ad-hoc radio network of cluster architecture with backup node
+In an ad-hoc radio network of cluster architecture the connections between two adjacent clustering heads are significantly affected by shadowing since a high spot antenna can not be usually expected for each head. The use of a backup node is suggested to support the connection failure of clustering head in shadowing channel and its performance is investigated using computer simulations. The simulation result shows that its use brings the less average delay and high arrival rate to destination node.

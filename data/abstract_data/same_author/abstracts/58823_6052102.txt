@@ -1,0 +1,2 @@
+Edge-Coloring and f-Coloring for Various Classes of Graphs
+In an ordinary edge-coloring of a graph G=(V, E) each color appears at each vertex v e V at most once. An f-coloring is a generalized coloring in which each color appears at each vertex v e V at most f(v) times. This paper gives efficient sequential and parallel algorithms which find ordinary edge-colorings and f-colorings for various classes of graphs such as bipartite graphs, planar graphs, graphs of fixed genus, partial k-trees, s-degenerate graphs, graphs of fixed arboricity etc.

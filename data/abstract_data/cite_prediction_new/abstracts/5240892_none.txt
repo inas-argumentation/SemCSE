@@ -1,0 +1,2 @@
+On Combining One-Class Classifiers for Image Database Retrieval
+In image retrieval systems, images can be represented by single feature vectors or by clouds of points. A cloud of points offers a more flexible description but suffers from class overlap. We propose a novel approach for describing clouds of points based on support vector data description (SVDD). We show that combining SVDD-based classifiers improves the retrieval precision. We investigate the performance of the proposed retrieval technique on a database of 368 texture images and compare it to other methods.

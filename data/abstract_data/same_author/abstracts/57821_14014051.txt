@@ -1,0 +1,2 @@
+Speaker segmentation for browsing recorded audio
+Audio recording is an easy way to capture the content of meetings, group discussions, or conversations. However the sequential nature of the media makes good indexing essential to the effective use of the recorded audio. One kind of index is speaker identity. We describe a system which automatically divides a multi-speaker recording into speaker segments and displays this information graphically. The tool allows a user to easily access the parts of a recording where given people are talking.

@@ -1,0 +1,6 @@
+Survival in the Wild: Robust Group Key Agreement in Wide-Area Networks
+Group key agreement (GKA) allows a set of players to establish a shared secret and thus bootstrap secure group communication. GKA is very useful in many types of peer group scenarios and applications. Since all GKA protocols involve multiple rounds, robustness to player failures is important and desirable. A robust group key agreement (RGKA) protocol runs to completion even if some players fail during protocol execution. 
+ 
+Previous work yielded constant-round RGKA protocols suitable for the LAN setting, assuming players are homogeneous, failure probability is uniform and player failures are independent. However, in a more general wide-area network (WAN) environment, heterogeneous hardware/software and communication facilities can cause wide variations in failure probability among players. Moreover, congestion and communication equipment failures can result in correlated failures among subsets of GKA players. 
+ 
+In this paper, we construct the first RGKA protocol that supports players with different failure probabilities, spread across any LAN/WAN combination, while also allowing for correlated failures among subgroups of players. The proposed protocol is efficient (2 rounds) and provably secure. We evaluate its robustness and performance both analytically and via simulations.

@@ -1,0 +1,2 @@
+Characteristic modes of time-variable linear differential systems
+The characteristic modes of time-variable linear SISO systems can be defined by using suitable linear transformations that change the realization of the system to a form, which generates the modes of the system. The stability of the system can be investigated by means of the transformation.

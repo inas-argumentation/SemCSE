@@ -1,0 +1,2 @@
+Regular Mesh Construction Algorithms using Regular Handles
+This paper presents our recent theoretical results on high genus modeling. We introduce a new concept called regular handles. Using regular handles it is possible to increase genus without increasing the number of vertices. Using regular handles a wide variety of mesh structures can be constructed. One of the usages of regular handles is to construct families of regular meshes, which is useful to create a wide variety of high genus mesh structures

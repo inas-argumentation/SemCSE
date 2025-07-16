@@ -1,0 +1,2 @@
+Bounding cubic-triple product Selmer groups of elliptic curves
+Let $E$ be a modular elliptic curve over a totally real cubic field. We have a cubic-triple product motive over $\mathbb{Q}$ constructed from $E$ through multiplicative induction; it is of rank $8$. We show that, under certain assumptions on $E$, the non-vanishing of the central critical value of the $L$-function attached to the motive implies that the dimension of the associated Bloch-Kato Selmer group is $0$.

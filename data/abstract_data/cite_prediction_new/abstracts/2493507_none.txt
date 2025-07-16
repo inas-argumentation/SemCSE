@@ -1,0 +1,2 @@
+COMPLEX MULTIPLICATION REDUCTION IN FFT PROCESSORS
+The number of multiplications has been used as a key metrics for comparing FFT algorithms since it has a large impact on the execution time and total power consumption. In this paper, we present a 16-point FFT Butterfly PE, which reduces the multiplicative complexity by using real, constant multiplications. A 1024-point FFT processor has been implemented using 16-point and 4-point Butterfly PEs and simulation result shows that it significantly reduces the power consumption.

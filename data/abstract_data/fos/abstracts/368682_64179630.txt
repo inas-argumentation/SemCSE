@@ -1,0 +1,2 @@
+Design and Implementation of Adult Education Grade Management System Based on ASP
+Designs a management system of students' scores for colleges and universities.It adopts ASP+Access which based on the B/S mode.This system consists of graphic user's interface module,administrator subsystem,teacher subsystem,students subsystem and system maintenance and other modules.And it can realize the functions such as online course selection,course management,the score records into,student result inquiry,and so on.

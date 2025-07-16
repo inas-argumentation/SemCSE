@@ -1,0 +1,2 @@
+Comments on a paper by T.C. Chen and I.T. Ho
+Tien Chi Chen and Irving T. Ho in their paper “Storage-Efficient Representation of Decimal Data” [1] present a scheme for the compression of numbers stored in binary coded decimal (BCD) form. Their compression scheme involves coding two or three digits at a time in seven bit or ten bit fields and requires only permutations, deletions, and insertions for coding and decoding. We would like to briefly present some alternatives to their compression method and to discuss the relative advantages of these other methods.

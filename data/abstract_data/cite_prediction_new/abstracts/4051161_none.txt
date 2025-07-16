@@ -1,0 +1,2 @@
+Algorithms and control structures for industrial robots TX90 model
+The present paper proposes some algorithms and control structures for TX 90 Staubli industrial robot. Are described and simulated different control structures using PID, PI and PD controllers. The behavior of the system is analyzed in all control structures in order to select the best structure.

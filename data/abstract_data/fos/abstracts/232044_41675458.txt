@@ -1,0 +1,15 @@
+SU-E-T-627: An Optimal Treatment Planning Scheme for Breast IMRT.
+PURPOSE
+To ensure dose coverage at shallow depth and to reduce breathing effect during adjuvant radiotherapy for breast cancer patients, by using optimal treatment planning.
+
+
+METHODS
+When treating the breast or chest wall with tangential fields, low energy beams should be used as much as possible to ensure dose coverage to the target volume at shallow depth close to the skin, provided that the dose variation within the target volume is clinically acceptable. When using a hybrid plan, namely a plan that consists of open beams and IMRT segments, the weightings of open beams should be set as high as possible to minimize breathing effect in the skin region during IMRT delivery. Based on these two considerations, a treatment planning scheme is proposed to assign optimal weightings to low and high energy open beams as well as to IMRT segments. Delivery of the IMRT segments in the hybrid plans was verified by using a MapCheck device attached to a motion simulation table.
+
+
+RESULTS
+Compared with 3DCRT plans and non-optimal hybrid plans, i.e. plans with non-optimized weightings, the optimal hybrid plans demonstrated better dose uniformity, conformity and coverage of the target, especially at shallow depth close to the skin. As to the verification of the delivery of the IMRT segments in the hybrid plans, when breathing was shallow, the pass rate of gamma-test (3%/3mm and 10% threshold) was greater than 95% for both optimal and non-optimal plans; however, when breathing was deep, the pass rate was about 95% for optimal plans and 91% for non-optimal plans.
+
+
+CONCLUSION
+Our optimal hybrid planning can effectively improve the quality of treatment plans in terms of improving dose uniformity (including adequate dose coverage at shallow depth close to the skin and avoidance of cold/hot spots at beam junction) and minimizing breathing effect.

@@ -1,0 +1,2 @@
+Nonlinearly constrained discrete-time optimal-control problems
+We consider a class of constrained discrete-time optimal-control problems. We use the discrete version of the control-parametrization concept together with a simple constraint transcription to devise a computational algorithm for solving this class of problems. Convergence analysis is given to support this numerical approach. For illustration, three nontrivial optimal-control problems are solved using it.

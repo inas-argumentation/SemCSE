@@ -1,0 +1,2 @@
+Natural Creation
+Objects must be created throughout object-oriented programs. Programming languages provide special facilities to create and initialize objects, and creational design patterns allow these facilities to be used more flexibly. The Natural Creation pattern describes how these facilities can be used to create objects in ways that model the natural semantics of the program's underlying domain. By applying the Natural Creation pattern, programs and designs can be made more simple, more general, and easier to understand.

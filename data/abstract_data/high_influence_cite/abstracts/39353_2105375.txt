@@ -1,0 +1,11 @@
+The correlation error and finite-size correction in an ungapped sequence alignment
+MOTIVATION
+The BLAST program for comparing two sequences assumes independent sequences in its random model. The resulting random alignment matrices have correlations across their diagonals. Analytic formulas for the BLAST p-value essentially neglect these correlations and are equivalent to a random model with independent diagonals. Progress on the independent diagonals model has been surprisingly rapid, but the practical magnitude of the correlations it neglects remains unknown. In addition, BLAST uses a finite-size correction that is particularly important when either of the sequences being compared is short. Several formulas for the finite-size correction have now been given, but the corresponding errors in the BLAST p-values have not been quantified. As the lengths of compared sequences tend to infinity, it is also theoretically unknown whether the neglected correlations vanish faster than the finite-size correction.
+
+
+RESULTS
+Because we required certain analytic formulas, our study restricted its computer experiments to ungapped sequence alignment. We expect some of our conclusions to extend qualitatively to gapped sequence alignment, however. With this caveat, the finite-size correction appeared to vanish faster than the neglected correlations. Although the finite-size correction underestimated the BLAST p-value, it improved the approximation substantially for all but very short sequences. In practice, the Altschul-Gish finite-size correction was superior to Spouge's. The independent diagonals model was always within a factor of 2 of the true BLAST p-value, although fitting p-value parameters from it probably is unwise.
+
+
+CONTACT
+spouge@ncbi.nlm.nih.gov

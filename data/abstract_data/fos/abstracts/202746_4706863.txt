@@ -1,0 +1,2 @@
+A plug-in approach to maximising precision at the top and recall at the top
+For information retrieval and binary classification, we show that precision at the top (or precision at k) and recall at the top (or recall at k) are maximised by thresholding the posterior probability of the positive class. This finding is a consequence of a result on constrained minimisation of the cost-sensitive expected classification error which generalises an earlier related result from the literature.

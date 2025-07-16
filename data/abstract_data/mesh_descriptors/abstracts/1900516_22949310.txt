@@ -1,0 +1,15 @@
+A semiparametric approach to estimate rapid lung function decline in cystic fibrosis.
+PURPOSE
+Detecting the onset of rapid lung function decline is important to reduce mortality rates in cystic fibrosis (CF) and other lung diseases. The most common approach is conventional linear mixed modeling-estimating a population-level slope of lung function decline and using random effects to address serial correlation-but this ignores nonlinear features of disease progression and distinct sources of variability. The purpose of this article was to estimate patient-specific timing and degree of rapid decline while appropriately characterizing natural progression and variation in CF.
+
+
+METHODS
+We propose longitudinal semiparametric mixed modeling and contrast it with the conventional approach, which restricts lung function (measured as forced expiratory volume in 1 second as a percentage of predicted, FEV1%) to linear decline. Each approach is applied to clinical encounter data from the United States CF Foundation Patient Registry.
+
+
+RESULTS
+Timing and degree of rapid FEV1% decline vary across patients and as a function of key covariates. Patients experience maximal FEV1% loss by early adulthood more severe than indicated by conventional slope analysis.
+
+
+CONCLUSIONS
+Semiparametric mixed modeling provides a means to estimate patient-specific changes in CF disease progression and may be used to inform prognostic decisions in chronic care settings and clinical studies.

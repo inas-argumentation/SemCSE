@@ -1,0 +1,2 @@
+RAMPING CONTROL OF HLS STORAGE RING
+HLS (Hefei Light Source) is a second generation synchrotron radiation source. After injection into the storage ring at an energy of 200MeV, the electrons will be ramped to 800MeV. During ramping, the magnetic fields of the bend, quadrapole and sextapole magnets are ramped up synchronously to keep the working point of the storage ring unchanged. This process is carefully controlled by the HLS control system, which is built using EPICS. Several measures are taken to insure the synchronization and linearity of the ramping.

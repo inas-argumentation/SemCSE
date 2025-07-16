@@ -1,0 +1,2 @@
+Self-similar solutions and Besov spaces for semi-linear Schrödinger and wave equations
+We prove that the initial value problem for the semi-linear Schrödinger and wave equations is well-posed in the Besov space Ḃ n 2 − 2 p ,∞ 2 (Rn), when the nonlinearity is of type u, for p ∈ N. This allows us to obtain self-similar solutions, as well as to recover previously known results for the solutions under weaker smallness assumptions on the data.

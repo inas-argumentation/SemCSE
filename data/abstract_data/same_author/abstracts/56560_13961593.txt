@@ -1,0 +1,2 @@
+Proofs of Security for the Unix Password Hashing Algorithm
+We give the first proof of security for the full Unix password hashing algorithm (rather than of a simplified variant). Our results show that it is very good at extracting almost all of the available strength from the underlying cryptographic primitive and provide good reason for confidence in the Unix construction.

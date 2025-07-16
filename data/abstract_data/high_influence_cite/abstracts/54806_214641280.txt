@@ -1,0 +1,3 @@
+Improved lower bound on the dimension of the EU council's voting rules
+Kurz and Napel (2015) proved that the voting system of the EU council (based on the 2014 population data) cannot be represented as the intersection of six weighted games, i.e., its dimension is at least 7. This set a new record for real-world voting rules and the authors posed the exact determination as a challenge. Recently, Chen, Cheung, and Ng (2019) showed that the dimension is at most 24. 
+We provide the first improved lower bound and show that the dimension is at least 8.

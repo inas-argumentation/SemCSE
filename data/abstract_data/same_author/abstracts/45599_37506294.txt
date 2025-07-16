@@ -1,0 +1,2 @@
+On 3-pushdown graphs with large separators
+For an integers letls(n), thes-iterated logarithm function, be defined inductively:l0(n)=n,ls+1(n)=log2 (l2(n)) fors≧0. We show that for every fixeds and alln large enough, there is ann-vertex 3-pushdown graph whose smallest separator contains at leastΩ(n/ls(n)) vertices.

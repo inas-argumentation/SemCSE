@@ -1,0 +1,2 @@
+Efficient maxima-finding algorithms for random planar samples
+We collect major known algorithms in the literature for finding the maxima of multi-dimensional points and provide a simple classification. Several new algorithms are proposed. In particular, we give a new maxima-finding algorithm with expected complexity n+O(√n\log n) when the input is a sequence of points uniformly chosen at random from general planar regions. We also give a sequential algorithm, very efficient for practical purposes.

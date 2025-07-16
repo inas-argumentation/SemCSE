@@ -1,0 +1,2 @@
+Active learning for detecting a spectrally variable subject in color infrared imagery
+To classify Egeria densa, Brazilian waterweed, in scan-digitized color infrared aerial photographs, we are developing an interactive computer system based on data-mining techniques with active learning capabilities. Key components of the system are: feature extraction, automatic classification, active learning, and experimental evaluation.

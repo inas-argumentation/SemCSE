@@ -1,0 +1,2 @@
+Immune Multi-agent Active Defense Model for Network Intrusion
+Inspired by the immune theory and multi-agent systems, an immune multi-agent active defense model for network intrusion is established. The concept of immune agent is introduced. While its logical structure and running mechanism are established. The method which uses antibody concentration to quantitatively describe the degree of intrusion danger is presented. The proposed model implements a multi-layer and distributed active defense mechanism for network intrusion, and it is a new way to the network security.

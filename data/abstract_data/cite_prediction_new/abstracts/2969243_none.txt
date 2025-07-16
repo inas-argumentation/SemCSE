@@ -1,0 +1,2 @@
+An improved sufficient condition for robust /spl lscr//sub /spl infin//-stability of systems with repeated perturbations
+This paper presents a new sufficient condition for robust /spl lscr//sub /spl infin//-stability of discrete-time systems with structured, repeated, linear time-varying, and induced /spl lscr//sub /spl infin//-norm bounded perturbations. The novel sufficient stability condition, which can be interpreted in terms of an augmented scaled small gain theorem, is shown to be less conservative than previous techniques.

@@ -1,0 +1,2 @@
+An optimal algorithm for finding the minimum cardinality dominating set on permutation graphs
+Abstract Given a permutation graph G with its corresponding permutation π, we present an algorithm for finding a minimum cardinality dominating set for G. Our algorithm runs in O(n) time in amortized sense where n is the number of vertices in G. Hence, it is optimal. The best previous result is an O (n log log n) algorithm.

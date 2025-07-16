@@ -1,0 +1,2 @@
+A simple and elementary proof of the Karush–Kuhn–Tucker theorem for inequality-constrained optimization
+We present an elementary proof of the Karush–Kuhn–Tucker Theorem for the problem with nonlinear inequality constraints and linear equality constraints. Most proofs in the literature rely on advanced optimization concepts such as linear programming duality, the convex separation theorem, or a theorem of the alternative for systems of linear inequalities. By contrast, the proof given here uses only basic facts from linear algebra and the definition of differentiability.

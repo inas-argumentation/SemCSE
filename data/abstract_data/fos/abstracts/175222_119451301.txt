@@ -1,0 +1,2 @@
+On discrete boundary value problems arising in transport phenomena
+For the discrete boundary value problems arising in transport processes we provide comparison results. These results are used to develop monotone iterative methods for the construction of the maximal and minimal solutions in a sector. The advantage of this technique is that the successive approximations are the solutions of the initial and terminal value problems. Numerical illustration showing the sharpness as well the importance of the obtained results is also included.

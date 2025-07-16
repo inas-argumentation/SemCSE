@@ -1,0 +1,2 @@
+Tight Bound on Johnson's Algorithm for Maximum Satisfiability
+We present new techniques that give a more thorough analysis on Johnson's classical algorithm for the Maximum Satisfiability problem. In contrast to the common belief for two decades that Johnson's Algorithm has performance ratio 1/2, we show that the performance ratio is 2/3 and that this bound is tight. Moreover, we show that simple generalizations of Johnson's algorithm do not improve the performance ratio bound 2/3.

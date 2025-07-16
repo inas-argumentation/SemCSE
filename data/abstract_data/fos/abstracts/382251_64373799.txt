@@ -1,0 +1,2 @@
+Use Memory Buffer to Store and Re-Show Remote Bitmap
+It's a basic function to snap and re-show remote image in some software such as Network Realtime Monitor System.Instead of using file for image's buffer and exchange,this article uses memory buffer directly to create Device Independent Bitmap(DIB)and send it in remote workstation,and show the image in console the same way.In the end the author provides some function written with VB language.

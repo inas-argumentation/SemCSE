@@ -1,0 +1,2 @@
+Data compression issues with pattern matching in historical data
+It is a common practice in the process industries to compress plant data before it is archived. However, compression may alter the data in a manner that makes it di fficult to extract useful information from it. In this paper we evaluate the effectiveness of a new pattern matching technique 1 for applications involving compressed historical data. We also compare several data compression methods with regard to e ffici ncy, data reconstruction, and suitability for pattern matching applications.

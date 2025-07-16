@@ -1,0 +1,15 @@
+Network pharmacology-based prediction of the active ingredients and potential targets of Chinese herbal Radix Curcumae formula for application to cardiovascular disease.
+ETHNOPHARMACOLOGY RELEVANCE
+Cardiovascular and cerebrovascular diseases (CCVD), an abnormal function of the heart, brain or blood vessels, are the biggest cause of deaths worldwide. Traditional Chinese medicine (TCM) holds a great promise for preventing such diseases in an integrative and holistic way. However, its systems-level characterization of drug-target associations is still unknown.
+
+
+METHODS
+Here, we have constructed a computational approach by combining chemical predictors based on chemical structure, chemogenomics data linking compounds with pharmacological information, and a system biology functional data analysis and network reconstruction method.
+
+
+RESULTS
+The pharmacological system generated 58 bioactive ingredients from the Chinese herbal Radix Curcumae formula, and predicted 32 potential targets related to the CCVD. The results indicates that Radix Curcumae share the most common targets with Fructus Gardeniae (15), while less common targets with Moschus and Borneolum (8 and 1, respectively). Further integrated network shows that Radix Curcumae represents the principal component for the prevention of CCVD, and other three medicines serve as adjuvant ones to assist the effects of the principal component, which together probably display synergistic actions.
+
+
+CONCLUSIONS
+Our work successfully explains the mechanism of efficiency of Radix Curcumae formula for the prevention of CCVD, and meanwhile, predicts the potential targets of the Chinese medicines, which facilitates to elucidate the compatible mechanism of the complex prescription, i.e., "jun-chen-zuo-shi", and provides basis for an alternative approach to investigate novel TCM formula on the network pharmacology level.

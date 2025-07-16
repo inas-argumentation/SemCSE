@@ -1,0 +1,2 @@
+A 9-Bit 6.3GHz 2.5W Quadrature Direct Digital Synthesizer MMIC
+This paper describes a 9-bit, 6.3GHz low power quadrature DDS implemented in a 0.18mum SiGe BiCMOS technology. With a 9-bit accumulator and two sine-weighted DACs, this DDS is capable of generating quadrature sinusoidal waveforms up to 3.15GHz. The quadrature DDS MMIC occupies an active area of 2.3x2.5mm2 and consumes a total 2.5W power.

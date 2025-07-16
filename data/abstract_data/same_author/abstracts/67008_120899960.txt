@@ -1,0 +1,2 @@
+Least Squares Regression When the Independent Variable Follows an ARIMA Process
+In the regression model yt = α + βxt + ut where the disturbances ut may be autocorrelated and xt follows an ARIMA(p, 1, q) process, it is shown that the asymptotic distributions of the ordinary and generalized least squares estimates of β are identical.

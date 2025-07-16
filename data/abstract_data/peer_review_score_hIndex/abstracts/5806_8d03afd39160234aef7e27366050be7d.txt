@@ -1,0 +1,2 @@
+Learning a Neural-network-based Representation for Open Set Recognition
+In this paper, we present a neural network based representation for addressing the open set recognition problem. In this representation instances from the same class are close to each other while instances from different classes are further apart, resulting in statistically significant improvement when compared to other approaches on three datasets from two different domains.   

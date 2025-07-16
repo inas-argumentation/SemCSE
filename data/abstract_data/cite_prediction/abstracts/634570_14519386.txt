@@ -1,0 +1,2 @@
+Poster : Android Collusive Data Leaks with Flow-sensitive DIALDroid Dataset
+We present DIALDroid, a scalable and accurate tool for analyzing inter-app Inter-Component Communication (ICC) among Android apps, which outperforms current stateof-the-art ICC analysis tools. Using DIALDroid, we performed the first large-scale detection of collusive and vulnerable apps based on inter-app ICC data flows among 110,150 real-world apps and identified key security insights.

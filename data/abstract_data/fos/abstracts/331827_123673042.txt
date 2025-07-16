@@ -1,0 +1,2 @@
+A robust procedure for testing the equality of mean vectors of two bivariate populations with unequal covariance matrices
+A robust test is developed for testing equality of the mean vectors of two bivariate (multivariate) populations when the variance-covariance matrices are not necessarily equal. The test is an extension of the univariate robust test given by Tiku and Singh (1981).

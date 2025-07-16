@@ -1,0 +1,2 @@
+ILK: Machine learning of semantic relations with shallow features and almost no data
+This paper summarizes our approach to the Semeval 2007 shared task on "Classification of Semantic Relations between Nominals" Our overall strategy is to develop machine learning classifiers making use of a few easily computable and effective features, selected independently for each classifier in wrapper experiments. We train two types of classifiers for each of the seven relations: with and without WordNet information.

@@ -1,0 +1,16 @@
+To Learn Effective Features: Understanding the Task-Specific Adaptation of MAML
+Meta learning, an effective way for learning unseen tasks with few samples, is an important research
+area in machine learning.
+Model Agnostic Meta-Learning~(MAML)~(\cite{finn2017model}) is one of the most well-known gradient-based meta learning algorithms, that learns
+the meta-initialization through the inner and outer optimization loop.
+The inner loop is to perform fast adaptation in several gradient update steps with the support datapoints, 
+while the outer loop to generalize the updated model to the query datapoints.
+Recently, it has been argued that instead of rapid learning and adaptation, the learned meta-initialization through MAML
+has already absorbed the high-quality features prior, where the task-specific head at training 
+facilitates the feature learning.
+In this work, we investigate the impact of the task-specific adaptation of MAML and discuss the general formula for
+other gradient-based and metric-based meta-learning approaches.
+From our analysis, we further devise the Random Decision Planes~(RDP) algorithm to find a suitable linear classifier
+without any gradient descent step and the Meta Contrastive Learning~(MCL) algorithm to exploit the inter-samples relationship
+instead of the expensive inner-loop adaptation. 
+We conduct sufficient experiments on various datasets to explore our proposed algorithms.

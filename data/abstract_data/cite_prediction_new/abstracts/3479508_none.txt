@@ -1,0 +1,39 @@
+Vision only pose estimation andscene reconstruction on airborne platforms
+We aim to demonstrate unaided visual 3D pose estimation 
+and map reconstruction using both monocular and stereo vision 
+techniques. To date, our work has focused on collecting data 
+from Unmanned Aerial Vehicles, which generates a number 
+of significant issues specific to the application. Such issues 
+include scene reconstruction degeneracy from planar data, poor 
+structure initialisation for monocular schemes and difficult 3D 
+reconstruction due to high feature covariance. 
+Most modern Visual Odometry (VO) and related SLAM 
+systems make use of a number of sensors to inform pose and 
+map generation, including laser range-finders, radar, inertial 
+units and vision [1]. By fusing sensor inputs, the advantages and 
+deficiencies of each sensor type can be handled in an efficient 
+manner. However, many of these sensors are costly and each 
+adds to the complexity of such robotic systems. With continual 
+advances in the abilities, small size, passivity and low cost of 
+visual sensors along with the dense, information rich data that 
+they provide our research focuses on the use of unaided vision 
+to generate pose estimates and maps from robotic platforms. We 
+propose that highly accurate (�5cm) dense 3D reconstructions 
+of large scale environments can be obtained in addition to the 
+localisation of the platform described in other work [2]. 
+Using images taken from cameras, our algorithm simultaneously 
+generates an initial visual odometry estimate and scene 
+reconstruction from visible features, then passes this estimate 
+to a bundle-adjustment routine to optimise the solution. From 
+this optimised scene structure and the original images, we aim 
+to create a detailed, textured reconstruction of the scene. 
+By applying such techniques to a unique airborne scenario, 
+we hope to expose new robotic applications of SLAM techniques. 
+The ability to obtain highly accurate 3D measurements 
+of an environment at a low cost is critical in a number of 
+agricultural and urban monitoring situations. We focus on cameras 
+as such sensors are small, cheap and light-weight and can 
+therefore be deployed in smaller aerial vehicles. This, coupled 
+with the ability of small aerial vehicles to fly near to the ground 
+in a controlled fashion, will assist in increasing the effective 
+resolution of the reconstructed maps.

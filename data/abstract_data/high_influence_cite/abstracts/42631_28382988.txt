@@ -1,0 +1,2 @@
+Significance of Softmax-Based Features in Comparison to Distance Metric Learning-Based Features
+End-to-end distance metric learning (DML) has been applied to obtain features useful in many computer vision tasks. However, these DML studies have not provided equitable comparisons between features extracted from DML-based networks and softmax-based networks. In this paper, we present objective comparisons between these two approaches under the same network architecture.

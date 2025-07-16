@@ -1,0 +1,15 @@
+Effects of breast-air and breast-lung interfaces on the dose rate at the planning target volume of a MammoSite® catheter for Yb-169 and Ir-192 HDR sources.
+PURPOSE
+To study the effects of the breast-air and breast-lung interfaces on the absorbed dose within the planning target volume (PTV) of a MammoSite® balloon dose delivery system as well as the effect of contrast material on the dose rate in the PTV.
+
+
+METHODS
+The Monte CarloMCNP5 code was used to simulate dose rate in the PTV of a 2 cm radius MammoSite® balloon dose delivery system. The simulations were carried out using an average female chest phantom (AFCP) and a semi-infinite water phantom for both Yb-169 and Ir-192 high dose rate sources for brachytherapy application. Gastrografin was introduced at varying concentrations to study the effect of contrast material on the dose rate in the PTV.
+
+
+RESULTS
+The effect of the density of the materials surrounding the MammoSite® balloon containing 0% contrast material on the calculated dose rate at different radial distances in the PTV was demonstrated. Within the PTV, the ratio of the calculated dose rate for the AFCP and the semi-infinite water phantom for the point closest to the breast-air interface (90°) is less than that for the point closest to the breast-lung interface (270°) by 11.4% and 4% for the HDR sources of Yb-169 and Ir-192, respectively. When contrast material was introduced into the 2 cm radius MammoSite® balloon at varying concentrations, (5%, 10%, 15%, and 20%), the dose rate in the AFCP at 3.0 cm radial distance at 90° was decreased by as much as 14.8% and 6.2% for Yb-169 and Ir-192, respectively, when compared to that of the semi-infinite water phantom with contrast concentrations of 5%, 10%, 15%, and 20%, respectively.
+
+
+CONCLUSIONS
+Commercially available software used to calculate dose rate in the PTV of a MammoSite® balloon needs to account for patient anatomy and density of surrounding materials in the dosimetry analyses in order to avoid patient underdose.

@@ -1,0 +1,2 @@
+TSNet - A Distributed Architecture for Time Series Analysis
+This paper describes an infrastructure (TSNet) which can be used by geographically separated research groups to develop algorithms for the abstraction of complex time series data. The framework was specifically designed for the kinds of abstractions required for the application of clinical guidelines within intensive care.

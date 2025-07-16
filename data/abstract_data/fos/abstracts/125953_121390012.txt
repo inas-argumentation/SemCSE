@@ -1,0 +1,2 @@
+On the distributions of the inner distance functions in the multivariate normal populations with unequal covariance matrices
+The sample distance functions between an observation and a population were deduced by the likelihood procedures for discrimination problem in the case of several normal populations with unequal covariance matrices(1986). The present paper gives the exact MGFs of the distance functions for the case that the observation and the sample come from the same population and the limiting distributions of the distance functions by using the MCFs.

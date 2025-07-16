@@ -1,0 +1,13 @@
+Drawing Planar Graphs Symmetrically, II: Biconnected Planar Graphs
+Symmetry is one of the most important aesthetic criteria in graph
+drawing because it reveals the structure in the graph. This paper
+discusses symmetric drawings of biconnected planar graphs. More
+specifically, we discuss geometric automorphisms, that is,
+automorphisms of a graph G that can be represented as symmetries
+of a drawing of G. Finding geometric automorphisms is the first
+and most difficult step in constructing symmetric drawings of
+graphs. The problem of determining whether a given graph has a
+non-trivial geometric automorphism is NP-complete for general
+graphs. In this paper we present a linear time algorithm for
+finding planar geometric automorphisms of biconnected planar
+graphs. A drawing algorithm is also discussed.

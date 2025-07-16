@@ -1,0 +1,2 @@
+Largest Empty Square Queries in Rectilinear Polygons
+Given a rectilinear polygon P and a point \(p \in P\), what is a largest axis-parallel square in P that contains p? This question arises in VLSI design from physical limitations of manufacturing processes. Related problems with disks instead of squares and point sets instead of polygons have been studied previously.

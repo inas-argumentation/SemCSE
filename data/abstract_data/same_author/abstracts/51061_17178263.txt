@@ -1,0 +1,2 @@
+Accurate fault modeling and fault simulation of resistive bridges
+This paper presents accurate fault models, an accurate fault simulation technique, and a new fault coverage metric for resistive bridging faults in gate level combinational circuits at nominal and reduced power supply voltages. We show that some faults have unusual behavior, which has been observed in practice. On the ISCAS85 benchmark circuits we show that a zeroohm bridge fault model can be quite optimistic in terms of coverage of voltage-testable bridging faults.

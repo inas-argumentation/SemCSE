@@ -1,0 +1,2 @@
+Constrained regularized image restoration using projection on a set of regularized solutions
+This article addresses a problem of constrained regularized image restoration. A consistent approach to the solution of this problem is based on minimizing the Tikhonov's (1977) regularizing functional subject to a set of constraints. It is demonstrated that a set of regularized solutions resulting from minimization of Tikhonov's functional is closed and convex and a projection operator on this set is derived.

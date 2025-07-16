@@ -1,0 +1,2 @@
+Cluster Analysis of Named Entities
+This paper presents a statistics-based and language independent unsupervised approach for clustering possible named entities. We describe and motivate the features and statistical filters used by our clustering process. Using the Model-Based Clustering Analysis software we obtained different clusters of named entities. The method was applied to Bulgarian and English. For some clusters, precision is close to 100%; this helps human validation and saves time. Other clusters still need further refinement.

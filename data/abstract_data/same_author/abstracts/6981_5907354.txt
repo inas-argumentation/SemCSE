@@ -1,0 +1,2 @@
+String effects in SU(2) lattice gauge theory
+Abstract We discuss the effective string picture for the confining regime of lattice gauge theories at zero and finite temperature. We present results of extensive Monte Carlo simulations - performed with the Luscher and Weisz algorithm - for SU(2) Yang-Mills theory in 2+1 dimensions. We also address the issue of “string universality” by comparing our results with those obtained in other lattice gauge theories.

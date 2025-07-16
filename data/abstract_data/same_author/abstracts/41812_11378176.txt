@@ -1,0 +1,2 @@
+Minimal bricks
+A brick is a 3-connected graph such that the graph obtained from it by deleting any two distinct vertices has a perfect matching. A brick is minimal if for every edge e the deletion of e results in a graph that is not a brick. We prove a generation theorem for minimal bricks and two corollaries: (1) for n ≥ 5, every minimal brick on 2n vertices has at most 5n - 7 edges, and (2) every minimal brick has at least three vertices of degree three.

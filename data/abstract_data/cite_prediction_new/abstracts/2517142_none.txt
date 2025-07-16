@@ -1,0 +1,15 @@
+Radiation therapy with unflattened photon beams: dosimetric accuracy of advanced dose calculation algorithms.
+PURPOSE
+To compare the dosimetric accuracy of advanced dose calculation algorithms for flattened (FF) and unflattened (FFF) photon beams.
+
+
+MATERIAL AND METHODS
+We compared the enhanced collapsed cone (eCC) algorithm implemented in OncentraMasterplan and the XVMC (MC) code in Monaco. Test plans were created for 10MV FF and FFF beams. Single beam tests were delivered to radiochromic films positioned within a solid water phantom and evaluated with 1D γ-index analysis. Conformal plans were verified with ion chambers in an anthropomorphic thorax phantom. IMRT plans were applied to the Delta4 system and evaluated with γ-criteria of 3% and 3mm.
+
+
+RESULTS
+1D γ-index evaluation revealed significantly lower (p<0.05) average γ(mean)-values of 0.46±0.22 for MC calculated FFF profiles compared to average values of 0.53±0.27 detected for FF beams. Respective values for eCC were 0.42±0.27/0.38±0.26 (FF/FFF). When considering off-axis profiles separately, we found significantly reduced average γ(mean)-values for FFF and both algorithms (MC: 0.55±24 vs. 0.45±0.21, eCC: 0.41±0.24 vs. 0.35±0.22). No significant differences were detected on-axis. Absolute dosimetry in the anthropomorphic phantom revealed superior results for MC based dose calculation, with mean deviations of 0.8±0.8/0.0±1.0% compared to -0.1±1.7/-0.5±0.1.7% (FF/FFF) for the eCC algorithm. IMRT plans showed similar results for both linac modes.
+
+
+CONCLUSIONS
+The dose calculation accuracy for unflattened beams was found to be at least as high as for flattened beams. The slightly improved dose calculation accuracy observed for off-axis profiles for single FFF beams did not directly translate into better verification results for composite IMRT plans.

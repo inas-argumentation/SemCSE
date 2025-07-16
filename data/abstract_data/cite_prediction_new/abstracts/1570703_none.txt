@@ -1,0 +1,2 @@
+Optimality Analysis of Sensor-Target Geometries in Passive Localization: Part 1 - Bearing-Only Localization
+In this paper we characterize the relative sensor-target geometry for bearing-only localization in R2. We analyze the geometry in terms of the Cramer-Rao inequality and the corresponding Fisher information matrix, aiming to characterize and state explicit results in terms of the potential localization performance. In particular, a number of interesting results are rigorously derived which highlight erroneous assumptions often made in the existing literature.

@@ -1,0 +1,2 @@
+Deep Learning as Feature Encoding for Emotion Recognition
+Deep learning is popular as an end-to-end framework extracting the prominent features and performing the classification also. In this paper, we extensively investigate deep networks as an alternate to feature encoding technique of lowlevel descriptors for emotion recognition on the benchmark EmoDB dataset. Fusion performance with such obtained encoded features with other available features is also investigated. Highest performance to date in the literature is observed.

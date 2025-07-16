@@ -1,0 +1,2 @@
+On the Quickest Path Problem
+Abstract Let N be an input network and σ be the amount of data to be transmitted. We present an O( mn 2 ) time algorithm that finds all-pairs quickest paths, for a given value of σ, and show that the quickest path between any two nodes for any value of σ can be found in O(log m ) time, provided O( mn 2 ) preprocessing time is spent.

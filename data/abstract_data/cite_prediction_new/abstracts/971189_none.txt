@@ -1,0 +1,2 @@
+On Distributed Resource Handling: Dining, Drinking and Mobile Philosophers
+Resource allocation is an essential class of problems, which includes many fundamental concurrency control problems. A signi cant amount of research has been devoted to the group of these problems, which share a common part in their name: philosophers (dining, drinking, mobile,...) We survey some of the main developments in this eld.

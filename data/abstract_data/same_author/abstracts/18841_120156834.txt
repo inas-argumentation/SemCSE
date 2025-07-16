@@ -1,0 +1,2 @@
+Dynamical properties of the hybrid Monte Carlo algorithm
+Some aspects of the dynamical critical behaviour of the Hybrid Monte Carlo algorithm are reported. Studies with the two-dimensional XY model and U(1) pure gauge theory reveal that the algorithm can be tuned to yield z ≈ 1 at a critical point. We emphasise the importance of using long trajectories of random length. Barrier penetration takes exponential time.

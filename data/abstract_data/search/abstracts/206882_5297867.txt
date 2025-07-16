@@ -1,0 +1,2 @@
+Differential Evolution A Simple and Efficient Heuristic for global Optimization over Continuous Spaces
+A new heuristic approach for minimizing possiblynonlinear and non differentiable continuous spacefunctions is presented. By means of an extensivetestbed it is demonstrated that the new methodconverges faster and with more certainty than manyother acclaimed global optimization methods. The newmethod requires few control variables, is robust, easyto use, and lends itself very well to parallelcomputation.

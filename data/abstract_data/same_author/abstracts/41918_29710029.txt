@@ -1,0 +1,2 @@
+Covering convex sets with non-overlapping polygons
+We prove that given n ⩾3 convex, compact, and pairwise disjoint sets in the plane, they may be covered with n non-overlapping convex polygons with a total of not more than 6 n −9 sides, and with not more than 3 n −6 distinct slopes. Furthermore, we construct sets that require 6 n −9 sides and 3 n −6 slopes for n ⩾3. The upper bound on the number of slopes implies a new bound on a recently studied transversal problem.

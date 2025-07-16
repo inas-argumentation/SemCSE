@@ -1,0 +1,2 @@
+Using FPGA for real time power monitoring in a NIALM system
+This paper will discuss about the design of a Non Intrusive Application Load Monitoring (NIALM) system using hardware parallel computing in Field Programmable Gate Array (FPGA). This approach relies on the use of Matlab Simulink, Xilinx System Generator, ModelSim and Xilinx EDK to archive the design of FPGA as part of the proposed NIALM system.

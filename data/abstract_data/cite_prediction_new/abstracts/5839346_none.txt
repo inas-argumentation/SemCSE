@@ -1,0 +1,15 @@
+Comparison of diagnosis of early retinal lesions of diabetic retinopathy between a computer system and human experts.
+OBJECTIVE
+To investigate whether a computer vision system is comparable with humans in detecting early retinal lesions of diabetic retinopathy using color fundus photographs.
+
+
+METHODS
+A computer system has been developed using image processing and pattern recognition techniques to detect early lesions of diabetic retinopathy (hemorrhages and microaneurysms, hard exudates, and cotton-wool spots). Color fundus photographs obtained from American Indians in Oklahoma were used in developing and testing the system. A set of 369 color fundus slides were used to train the computer system using 3 diagnostic categories: lesions present, questionable, or absent (Y/Q/N). A different set of 428 slides were used to test and evaluate the system, and its diagnostic results were compared with those of 2 human experts-the grader at the University of Wisconsin Fundus Photograph Reading Center (Madison) and a general ophthalmologist. The experiments included comparisons using 3 (Y/Q/N) and 2 diagnostic categories (Y/N) (questionable cases excluded in the latter).
+
+
+RESULTS
+In the training phase, the agreement rates, sensitivity, and specificity in detecting the 3 lesions between the retinal specialist and the computer system were all above 90%. The kappa statistics were high (0.75-0.97), indicating excellent agreement between the specialist and the computer system. In the testing phase, the results obtained between the computer system and human experts were consistent with those of the training phase, and they were comparable with those between the human experts.
+
+
+CONCLUSIONS
+The performance of the computer vision system in diagnosing early retinal lesions was comparable with that of human experts. Therefore, this mobile, electronically easily accessible, and noninvasive computer system, could become a mass screening tool and a clinical aid in diagnosing early lesions of diabetic retinopathy.

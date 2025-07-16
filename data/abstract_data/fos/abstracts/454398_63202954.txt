@@ -1,0 +1,2 @@
+SKoorde:an Efficient P2P Model Based on de Bruijn Graph
+Koorde is a constant-degree distributed hash table(DHT) based on Chord and de Bruijn graph,but its logical routing mechanism should be improved,moreover,the mismatch between the overlay and physical network becomes an obstacle to construct an efficient P2P system.Proposes a more efficient routing approach in order to reduce the routing hops and the latency,in which considers shortest-path routing and the feature of IP address.The experimental result shows that the routing performance of Koorde is improved.

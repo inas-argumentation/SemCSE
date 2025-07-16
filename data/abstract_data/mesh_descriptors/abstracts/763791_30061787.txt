@@ -1,0 +1,11 @@
+Image processing can cause some malignant soft-tissue lesions to be missed in digital mammography images.
+AIM
+To investigate the effect of image processing on cancer detection in mammography.
+
+
+METHODS AND MATERIALS
+An observer study was performed using 349 digital mammography images of women with normal breasts, calcification clusters, or soft-tissue lesions including 191 subtle cancers. Images underwent two types of processing: FlavourA (standard) and FlavourB (added enhancement). Six observers located features in the breast they suspected to be cancerous (4,188 observations). Data were analysed using jackknife alternative free-response receiver operating characteristic (JAFROC) analysis. Characteristics of the cancers detected with each image processing type were investigated.
+
+
+RESULTS
+For calcifications, the JAFROC figure of merit (FOM) was equal to 0.86 for both types of image processing. For soft-tissue lesions, the JAFROC FOM were better for FlavourA (0.81) than FlavourB (0.78); this difference was significant (p=0.001). Using FlavourA a greater number of cancers of all grades and sizes were detected than with FlavourB. FlavourA improved soft-tissue lesion detection in denser breasts (p=0.04 when volumetric density was over 7.5%) CONCLUSIONS: The detection of malignant soft-tissue lesions (which were primarily invasive) was significantly better with FlavourA than FlavourB image processing. This is despite FlavourB having a higher contrast appearance often preferred by radiologists. It is important that clinical choice of image processing is based on objective measures.

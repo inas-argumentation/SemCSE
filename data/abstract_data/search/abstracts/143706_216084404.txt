@@ -1,0 +1,2 @@
+Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides
+This prognostic study evaluates the performance and generalizability of a deep neural network trained on data from a single institution for classification of colorectal polyps on histopathologic slide images.

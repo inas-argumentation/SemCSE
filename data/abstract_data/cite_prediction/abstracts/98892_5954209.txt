@@ -1,0 +1,2 @@
+System on Chip Coprocessors for High Speed Image Feature Detection and Matching
+Successful establishing of point correspondences between consecutive image frames is important in tasks such as visual odometry, structure from motion or simultaneous localization and mapping. In this paper, we describe the architecture of the compact, energy-efficient dedicated hardware processors, enabling fast feature detection and matching.

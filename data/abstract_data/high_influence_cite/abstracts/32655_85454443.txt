@@ -1,0 +1,2 @@
+Examples of infinite direct sums of spectral triples
+We study two ways of summing an infinite family of noncommutative spectral triples. First, we propose a definition of the integration of spectral triples and give an example using algebras of Toeplitz operators acting on weighted Bergman spaces over the unit ball of C n . Secondly, we construct a spectral triple associated to a general polygonal self-similar set in C using algebras of Toeplitz operators on Hardy spaces. In this case, we show that we can recover the Hausdorff dimension of the fractal set.

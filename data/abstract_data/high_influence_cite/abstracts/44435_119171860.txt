@@ -1,0 +1,2 @@
+Energy identity for approximate harmonic maps from surfaces to general targets
+Abstract Let u n be a sequence of mappings from a closed Riemannian surface M to a general Riemannian manifold N. If u n satisfies sup n ⁡ ( ‖ ∇ u n ‖ L 2 ( M ) + ‖ τ ( u n ) ‖ L p ( M ) ) ≤ Λ for some  p > 1 , where τ ( u n ) is the tension field of u n , then the so called energy identity and neckless property hold during blowing up. This result is sharp by Parker's example, where the tension fields of the mappings from Riemannian surface are bounded in L 1 ( M ) but the energy identity fails.

@@ -1,0 +1,2 @@
+Sharp bounds on the expectations of L-statistics expressed in the Gini mean difference units
+We describe a method of calculating sharp lower and upper bounds on the expectations of arbitrary, properly centered L-statistics expressed in the Gini mean difference units of the original i.i.d. observations. Precise values of bounds are derived for the single-order statistics, their differences, and some examples of L-estimators. We also present the families of discrete distributions which attain the bounds, possibly in the limit.

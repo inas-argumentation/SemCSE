@@ -1,0 +1,2 @@
+Reinforcement learning with Marr
+To many, the poster child for David Marr's famous three levels of scientific inquiry is reinforcement learning-a computational theory of reward optimization, which readily prescribes algorithmic solutions that evidence striking resemblance to signals found in the brain, suggesting a straightforward neural implementation. Here we review questions that remain open at each level of analysis, concluding that the path forward to their resolution calls for inspiration across levels, rather than a focus on mutual constraints.

@@ -1,0 +1,2 @@
+Circumventing the Slater conundrum in countably infinite linear programs
+Duality results on countably infinite linear programs are scarce. Subspaces that admit an interior point, which is a sufficient condition for a zero duality gap, yield a dual where the constraints cannot be expressed using the ordinary transpose of the primal constraint matrix. Subspaces that permit a dual with this transpose do not admit an interior point. This difficulty has stumped researchers for a few decades; it has recently been called the Slater conundrum. We find a way around this hurdle.

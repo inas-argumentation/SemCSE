@@ -1,0 +1,19 @@
+Patient Similarity in Prediction Models Based on Health Data: A Scoping Review
+BACKGROUND
+Physicians and health policy makers are required to make predictions during their decision making in various medical problems. Many advances have been made in predictive modeling toward outcome prediction, but these innovations target an average patient and are insufficiently adjustable for individual patients. One developing idea in this field is individualized predictive analytics based on patient similarity. The goal of this approach is to identify patients who are similar to an index patient and derive insights from the records of similar patients to provide personalized predictions..
+
+
+OBJECTIVE
+The aim is to summarize and review published studies describing computer-based approaches for predicting patients' future health status based on health data and patient similarity, identify gaps, and provide a starting point for related future research.
+
+
+METHODS
+The method involved (1) conducting the review by performing automated searches in Scopus, PubMed, and ISI Web of Science, selecting relevant studies by first screening titles and abstracts then analyzing full-texts, and (2) documenting by extracting publication details and information on context, predictors, missing data, modeling algorithm, outcome, and evaluation methods into a matrix table, synthesizing data, and reporting results.
+
+
+RESULTS
+After duplicate removal, 1339 articles were screened in abstracts and titles and 67 were selected for full-text review. In total, 22 articles met the inclusion criteria. Within included articles, hospitals were the main source of data (n=10). Cardiovascular disease (n=7) and diabetes (n=4) were the dominant patient diseases. Most studies (n=18) used neighborhood-based approaches in devising prediction models. Two studies showed that patient similarity-based modeling outperformed population-based predictive methods.
+
+
+CONCLUSIONS
+Interest in patient similarity-based predictive modeling for diagnosis and prognosis has been growing. In addition to raw/coded health data, wavelet transform and term frequency-inverse document frequency methods were employed to extract predictors. Selecting predictors with potential to highlight special cases and defining new patient similarity metrics were among the gaps identified in the existing literature that provide starting points for future work. Patient status prediction models based on patient similarity and health data offer exciting potential for personalizing and ultimately improving health care, leading to better patient outcomes.

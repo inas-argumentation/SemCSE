@@ -1,0 +1,2 @@
+Identification of business forms using relationships between adjacent frames
+This paper proposes a method of using relationships between adjacent frames to identify business forms. First, we use the relations between adjacent frames in the business form to represent each form as two graphs. We then convert these graphs to two 1-D strings, which are used to perform matching. This approach enables forms to be identified quickly, and it places no restrictions on the layout of the business forms.

@@ -1,0 +1,2 @@
+Using planning techniques to provide feedback in interactive learning environments
+A scheme for domain and task representation in an interactive learning environment is described. The approach, based on recent enhancements to a classic AI planning formulation, enables suitable feedback to be incorporated economically into tutors for a range of procedural domains. The method is applied to the problem of simulating the operation of a video cassette recorder and representing tasks within this domain.<<ETX>>

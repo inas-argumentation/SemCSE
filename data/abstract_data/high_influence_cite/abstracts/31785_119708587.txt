@@ -1,0 +1,2 @@
+Constructing Embeddings and Isomorphisms of Finite Abstract Semigroups
+We present a search algorithm for constructing embeddings and deciding isomorphisms of semigroups, working with their multiplication tables. The algorithm is used for enumerating diagram semigroups up to isomorphism and for finding minimal degree representations.

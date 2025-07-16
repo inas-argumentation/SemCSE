@@ -1,0 +1,19 @@
+The geometry of mixed-mode oscillations in the Olsen model for peroxidase-oxidase reaction
+We study the organization of mixed-mode oscillations (MMOs) in the 
+Olsen model for the peroxidase-oxidase reaction, which is a 
+four-dimensional system with multiple time scales. A numerical 
+continuation study shows that the MMOs appear as families in a 
+complicated bifurcation structure that involves many regions of 
+multistability. We show that the small-amplitude oscillations of the 
+MMOs arise from the slow passage through a (delayed) Hopf bifurcation 
+of a three-dimensional fast subsystem, while large-amplitude 
+excursions are associated with a global reinjection mechanism. To 
+characterize these two key components of MMO dynamics geometrically we 
+consider attracting and repelling slow manifolds in phase space. More 
+specifically, these objects are surfaces that are defined and computed 
+as one-parameter families of stable and unstable manifolds of saddle 
+equilibria of the fast subsystem. The attracting and repelling slow 
+manifolds interact near the Hopf bifurcation, but also explain the 
+geometry of the global reinjection mechanism. Their intersection gives 
+rise to canard-like orbits that organize the spiralling nature of the 
+MMOs.

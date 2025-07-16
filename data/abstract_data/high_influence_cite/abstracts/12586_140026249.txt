@@ -1,0 +1,15 @@
+Layerwise monitoring of electron beam melting via backscatter electron detection
+Purpose
+The purpose of this study is the introduction and validation of a new technique for process monitoring during electron beam melting (EBM).
+
+
+Design/methodology/approach
+In this study, a backscatter electron detector inside the building chamber is used for image acquisition during EBM process. By systematic variation of process parameters, the ability of displaying different topographies, especially pores, is investigated. The results are evaluated in terms of porosity and compared with optical microscopy and X-ray computed tomography.
+
+
+Findings
+The method is capable of detecting major flaws (e.g. pores) and gives information about the quality of the resulting component.
+
+
+Originality/value
+Image acquisition by evaluating backscatter electrons during EBM process is a new approach in process monitoring which avoids disadvantages restricting previously investigated techniques.

@@ -1,0 +1,2 @@
+Enhancement of backscattered intensity for a bistatic lidar operating in atmospheric turbulence.
+The extended Huygens-Fresnel formulation is used to calculate the enhanced backscattered intensity as a function of the off-axis receiver distance for a bistatic lidar operating in atmospheric turbulence. The result is simple and compact and allows the regime where there is significant enhancement to be readily identified. In addition, the result depends only on the logamplitude covariance, which implies that the enhancement is due to incoherent turbulence perturbation effects.

@@ -1,0 +1,2 @@
+Approximation Algorithms for Disjoint Paths and Related Routing and Packing Problems
+Given a network and a set of connection requests on it, we consider the maximum edge-disjoint paths and related generalizations and routing problems that arise in assigning paths for these requests. We present improved approximation algorithms and/or integrality gaps for all problems considered; the central theme of this work is the underlying multicommodity flow relaxation. Applications of these techniques to approximating families of packing integer programs are also presented.

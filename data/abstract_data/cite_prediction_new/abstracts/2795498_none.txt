@@ -1,0 +1,2 @@
+The CLaRK System Tools XML-based Corpora Development
+CLaRK is an XML-based software system for corpora development. It incorporates several technologies: XML technology; Unicode; Regular Cascaded Grammars; Constraints over XML Documents. The basic components of the system are: a tagger, a concordancer, an extractor, a grammar processor, a constraint engine.

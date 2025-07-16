@@ -1,0 +1,2 @@
+An Overview of Quadtrees, Octrees, and Related Hierarchical Data Structures
+An overview of hierarchical data structures for representing images, such as the quadtree and octree, is presented. They are based on the principle of recursive decomposition. The emphasis is on the representation of data used in applications in computer graphics, computer-aided design, robotics, computer vision, and cartography. There is a greater emphasis on region data (i.e., 2-dimensional shapes) and to a lesser extent on point, line, and 3-dimensional data.

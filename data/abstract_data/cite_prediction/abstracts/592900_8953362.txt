@@ -1,0 +1,2 @@
+Demonstration of 300 Mbit/s free space optical link with commercial visible LED
+Recently, we have introduced a method to improve modulation rate of a light emitting diode (LED) by using simple 2-cascaded Schottky diodes-capacitance current-shaping circuit. In this work, we demonstrate a high-speed free space optical link with a commercial 660 nm LED and a PIN (Si) photodiode. The system achieves an error-free data transmission at the rate of 300 Mbit/s over 11 m using on-off keying non-return-to-zero modulation.

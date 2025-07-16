@@ -1,0 +1,2 @@
+2D-LDA: A statistical linear discriminant analysis for image matrix
+This paper proposes an innovative algorithm named 2D-LDA, which directly extracts the proper features from image matrices based on Fisher s Linear Discriminant Analysis. We experimentally compare 2D-LDA to other feature extraction methods, such as 2D-PCA, Eigenfaces and Fisherfaces. And 2D-LDA achieves the best performance. 2004 Elsevier B.V. All rights reserved.

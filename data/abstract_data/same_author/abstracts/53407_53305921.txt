@@ -1,0 +1,8 @@
+Substring selection for biomedical document classification
+Motivation: Attribute selection is a critical step in development of document classification systems. As a standard practice, words are stemmed and the most informative ones are used as attributes in classification. Owing to high complexity of biomedical terminology, general-purpose stemming algorithms are often conservative and could also remove informative stems. This can lead to accuracy reduction, especially when the number of labeled documents is small. To address this issue, we propose an algorithm that omits stemming and, instead, uses the most discriminative substrings as attributes. 
+ 
+Results: The approach was tested on five annotated sets of abstracts from iProLINK that report on the experimental evidence about five types of protein post-translational modifications. The experiments showed that Naive Bayes and support vector machine classifiers perform consistently better [with area under the ROC curve (AUC) accuracy in range 0.92--0.97] when using the proposed attribute selection than when using attributes obtained by the Porter stemmer algorithm (AUC in 0.86--0.93 range). The proposed approach is particularly useful when labeled datasets are small. 
+ 
+Contact: vucetic@ist.temple.edu 
+ 
+Supplementary Information: The supplementary data are available from www.ist.temple.edu/PIRsupplement

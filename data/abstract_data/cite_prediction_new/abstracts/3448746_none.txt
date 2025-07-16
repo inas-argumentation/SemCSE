@@ -1,0 +1,2 @@
+The SAGE Guideline Modeling: Motivation and Methodology
+The SAGE (Standards-Based Sharable Active Guideline Environment) project is a collaboration among research groups at six institutions in the US. The ultimate goal of the project is to create an infrastructure that will allow execution of standards-based clinical practice guidelines across heterogeneous clinical information systems. This paper describes the design goals of the SAGE guideline model in the context of the technological infrastructure and guideline modeling methodology that the project is developing.

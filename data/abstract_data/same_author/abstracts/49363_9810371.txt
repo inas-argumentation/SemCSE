@@ -1,0 +1,2 @@
+The edge-face choosability of plane graphs
+A plane graph G is said to be k-edge-face choosable if, for every list L of colors satisfying |L(x)|=k for every edge and face x, there exists a coloring which assigns to each edge and each face a color from its list so that any adjacent or incident elements receive different colors. We prove that every plane graph G with maximum degree Δ(G) is (Δ(G)+3)-edge-face choosable.

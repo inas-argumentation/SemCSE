@@ -1,0 +1,2 @@
+CUNIT: A Semantic Role Labeling System for Modern Standard Arabic
+In this paper, we present a system for Arabic semantic role labeling (SRL) based on SVMs and standard features. The system is evaluated on the released SEMEVAL 2007 development and test data. The results show an Fβ=1 score of 94.06 on argument boundary detection and an overall Fβ=1 score of 81.43 on the complete semantic role labeling task using gold parse trees.

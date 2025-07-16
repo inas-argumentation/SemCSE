@@ -1,0 +1,2 @@
+An Approach to Robust and Fast Locating Lip Motion
+In this paper, we present a novel approach to robust and fast locating lip motion. Firstly, the fisher transform with constraints is presented to enhance the lip region in a face image. Secondly, two distribution characteristics of the lip in human face space are proposed to increase the accuracy and and real-time implementation performance of lip locating. Experiments with 2000 images show that this approach can satisfy requirements not only in real-time performance but also in reliability and accuracy.

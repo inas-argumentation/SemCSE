@@ -1,0 +1,15 @@
+Panel of serum biomarkers for the diagnosis of lung cancer.
+PURPOSE
+Currently, a blood test for lung cancer does not exist. Serum biomarkers that could aid clinicians in making case management decisions would be enormously valuable. We used two proteomic platforms and a literature search to select candidate serum markers for the diagnosis of lung cancer.
+
+
+METHODS
+We initially assayed six serum proteins, four discovered by proteomics and two previously known to be cancer associated, on a training set of sera from 100 patients (50 with a new diagnosis of lung cancer and 50 age- and sex-matched controls). Classification and Regression Tree (CART) analysis selected a panel of four markers that most efficiently predicted which patients had lung cancer. An independent, blinded validation set of sera from 97 patients (49 lung cancer patients and 48 matched controls) determined the accuracy of the four markers to predict which patients had lung cancer.
+
+
+RESULTS
+Four serum proteins-carcinoembryonic antigen, retinol binding protein, alpha1-antitrypsin, and squamous cell carcinoma antigen-were collectively found to correctly classify the majority of lung cancer and control patients in the training set (sensitivity, 89.3%; specificity, 84.7%). These markers also accurately classified patients in the independent validation set (sensitivity, 77.8%; specificity, 75.4%). Remarkably, 90% of patients who fell into any one of three groupings in the CART analysis had lung cancer.
+
+
+CONCLUSION
+This panel of four serum proteins is valuable in suggesting the diagnosis of lung cancer. These data may be useful for treating patients with an indeterminate pulmonary lesion, and potentially in predicting individuals at high risk for lung cancer.

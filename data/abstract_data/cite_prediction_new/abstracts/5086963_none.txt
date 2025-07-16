@@ -1,0 +1,2 @@
+On limit cycles of monotone functions with symmetric connection graph
+We study the length of the limit cycles of discrete monotone functions with symmetric connection graph. We construct a family of monotone functions such that the limit cycles are of maximum possible length, which is exponential in the number of variables. Furthermore, we prove for the class of monotone functions with more than two states and connection graph equal to a caterpillar that the length of the limit cycles is at most two. Finally, we give some exclusion results in arbitrary trees.

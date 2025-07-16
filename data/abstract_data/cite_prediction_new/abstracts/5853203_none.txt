@@ -1,0 +1,2 @@
+Evaluationof Jiles-Atherton Hystersis model’s parameters using mix of simplex method and simulated annealing method
+A mix of simplex algorithm and simulated annealing method to evaluate the Jiles-Atherton (JA) hysteresis modelpsilas parameter set is proposed in this paper. It is cost less time in evaluating the parameter set of Jiles-Atherton hysteresis model by this method. And during the search performance, the local extreme value can be avoided effectively. The curve which calculated using the obtained parameter set is well agreed to the measured curve by experiment.

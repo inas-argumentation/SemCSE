@@ -1,0 +1,2 @@
+Design and Realization of Human Resource System base on EJB
+This paper Describes the relations between human resource subsystem and the other subsystem in ERP the system architecture the solving technique realization. With 4 tiered B / S software architecture based on EJB / Web and design method of software component this paper implements a distributed human resources management system in terms of the demand for constituting a distribute system. It emphasizes some practical technologies on the human resource subsystem.

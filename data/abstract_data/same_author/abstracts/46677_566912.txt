@@ -1,0 +1,2 @@
+Diffusion approximations for Kumar-Seidman network under a priority service discipline
+Unlike for a single-class queueing network, diffusion approximations for a multiclass queueing network may not exist under the heavy traffic condition. In this paper, we derive a necessary and sufficient condition for the existence of the diffusion approximation for a four-class two-station multiclass queueing network (known as Kumar-Seidman network) under a priority service discipline.

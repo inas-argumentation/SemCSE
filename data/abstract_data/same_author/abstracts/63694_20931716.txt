@@ -1,0 +1,2 @@
+Develop a compiler in Java for a compiler design course
+The authors' Compiler Design course at Bridgewater State College implemented a translator for a small language using Java. The project was broken into five assignments that included a language definition, extension of this language, a lexical analyzer, a recursive descent parser, and finally a code generator that generated Jasmin assembly language code for the JVM (Java Virtual Machine).

@@ -1,0 +1,2 @@
+Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire
+We develop a calculus for lazy functional programming based on recursion operators associated with data type definitions. For these operators we derive various algebraic laws that are useful in deriving and manipulating programs. We shall show that all example Functions in Bird and Wadler's "Introduction to Functional Programming" can be expressed using these operators.

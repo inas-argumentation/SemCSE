@@ -1,0 +1,2 @@
+A new stochastic mixed Liu estimator in linear regression model
+To overcome multicollinearity, a new stochastic mixed Liu estimator is presented and its efficiency is considered. We also compare the proposed estimators in the sense of matrix mean squared error criteria. Finally a numerical example and a simulation study are given to show the performance of the estimators.

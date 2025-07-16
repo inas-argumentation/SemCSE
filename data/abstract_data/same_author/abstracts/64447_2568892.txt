@@ -1,0 +1,2 @@
+Traffic Adaptive MAC Protocol for Wireless Sensor Network
+In this paper, we propose TA-MAC, a traffic load adaptive Medium Access Control protocol for wireless sensor network. TA-MAC modified the contention window mechanism of S-MAC. It adjusts the initial contention window according to the current traffic load to reduce the collision probability and employs a fast backoff scheme to reduce the time for idle listening during backoff procedure, which both reduce the energy consumption. Simulation results show that TA-MAC outperforms S-MAC.

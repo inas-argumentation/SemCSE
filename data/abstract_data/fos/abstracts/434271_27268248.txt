@@ -1,0 +1,15 @@
+SU-E-T-570: Improvement to the Histogram Analysis in Radiation Therapy (HART): An Open Source Software System for the Multi-Dimensional Dose- Volume Histogram Analysis in Digital Image Communication in Medicine - Radiation Therapy (DICOM-RT) Treatment Plans.
+PURPOSE
+Histogram Analysis in Radiation Therapy (HART) is an efficient and accurate dose-volume histogram (DVH) computational tool in radiotherapy research. Several applications of the program have been presented previously (J Appl Clin Med Phys 11(1): 3013, 2010; Med Phys 38(6), p.3678, 2011) for the Radiation Therapy Oncology Group (RTOG) users. The program has been further developed to incorporate various types of DVH analysis features to support the research using DICOM-RT plans. The main objective of this work was to present the improvement and compatibility of the program for the DICOM-RT plans.
+
+
+METHODS AND MATERIALS
+MATLAB based codes were primarily designed to read and write a simpler HART format from the standard DICOM-RT data objects exported from the Xio treatment planning system (CMS Inc., St. Louis, MO). This format employed an optimal polynomial fitting technique to interpolate the co-ordinates of the contours in the regions-of-interest. The format was efficient for the (a) precise extraction of the cumulative DVH (cDVH) and spatial DVH (sDVH; x-,y-, and z-DVHs respectively) data- statistics, (b) universal-plan indices evaluation, (c) biological modeling based outcome analyses (BMOA), (d) radiobiological dose-response modeling, and (e) physical parameterization modules. The fundamental DVH statistics were validated using the DVH statistics extracted from the Computational Environment for Radiotherapy Research program.
+
+
+RESULTS
+HART offers various types of DVH computational functionalities, several plan evaluation and radiobiological outcome analysis modules in a user- friendly software package for the RTOG and DICOM-RT planners. The cDVH and BMOA modules were found to be the most applicable features for the global researchers.
+
+
+CONCLUSIONS
+HART is a novel and universal multi-dimensional DVH analysis tool for the radiation therapy research. We further expect to develop HART for the space-time DVH analysis and proton therapy applications. The software is available online (http://www2.uic.edu/∼apyaku1) for the radiotherapy research. This work was partially supported by NIH-NIDCD grant.

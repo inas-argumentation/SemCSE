@@ -1,0 +1,2 @@
+Modeling and analyzing applications with domain-specific languages by reflective rewriting: a case study
+In this paper, we propose to model and analyze applications with domain-specific languages by reflection. We argue that both tasks can be significantly simplified by using a reflective modeling language. To make our arguments, we model and analyze a model checker in the reflective language Maude. The simplicity of our methodology suggests our methodology is useful for such applications.

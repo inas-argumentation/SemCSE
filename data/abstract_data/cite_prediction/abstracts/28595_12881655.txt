@@ -1,0 +1,2 @@
+Measuring the Impact of Spelling Errors on the Quality of Machine Translation
+In this paper we show how different types of spelling errors influence the quality of machine translation. We also propose a method to evaluate the impact of spelling errors correction on translation quality without expensive manual work of providing reference translations.

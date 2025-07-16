@@ -1,0 +1,2 @@
+A Real Time Virtual Dressing Room Application using Kinect
+We introduce a virtual dressing room application using the Microsoft Kinect sensor. We extract the user from the video stream by using depth and user label data provided by the Kinect sensor, register the cloth model with the Kinect skeletal tracking data, and detect skin to adjust the order of layers. We report an average percentage of overlap between the user and the cloth models of 83.97%.

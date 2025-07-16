@@ -1,0 +1,2 @@
+Moment maps and Galois orbits for SIC-POVMs
+The equations that define covariant SIC-POVMs are interpreted in terms of moment maps. Attention is focussed on orbits of a cyclic subgroup of a maximal torus and their images in the moment polytope. In the SIC case, these images lie in an intersection of quadrics, which we describe explicitly. We then develop the conjectural relationships with number field theory by describing the structure of Galois orbits of overlap phases.

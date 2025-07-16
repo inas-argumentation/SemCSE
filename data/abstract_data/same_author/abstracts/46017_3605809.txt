@@ -1,0 +1,2 @@
+Performance evaluation for energy efficient topologic control in ad hoc wireless networks
+Minimizing total energy to keep an ad hoc wireless network symmetrically connected is an NP-hard problem. Recently, several greedy approximations have been proposed, based on k-restricted decompositions of the network. Their performance ratios are established through estimations of the least upper bound ρk for the ratio between total powers of best possible k-restricted decomposition and the optimal solution. In this paper, we determine the exact value of ρk for all k.

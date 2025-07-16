@@ -1,0 +1,15 @@
+Optimization and implementation of the wavelet based algorithms for embedded biomedical signal processing
+Existing biomedical wavelet based applications exceed the computational, 
+ memory and consumption resources of low-complexity embedded systems. In order 
+ to make such systems capable to use wavelet transforms, optimization and 
+ implementation techniques are proposed. The Real Time QRS Detector and 
+ “De-noising” Filter are developed and implemented in 16-bit fixed point 
+ microcontroller achieving 800 Hz sampling rate, occupation of less than 500 
+ bytes of data memory, 99.06% detection accuracy, and 1 mW power consumption. 
+ By evaluation of the obtained results it is found that the proposed 
+ techniques render negligible degradation in detection accuracy of -0.41% and 
+ SNR of -2.8%, behind 2-4 times faster calculation, 2 times less memory usage 
+ and 5% energy saving. The same approach can be applied with other signals 
+ where the embedded implementation of wavelets can be beneficial. [Projekat 
+ Ministarstva nauke Republike Srbije, br. III-41007: Application of Biomedical 
+ Engineering in Preclinical and Clinical Practice]

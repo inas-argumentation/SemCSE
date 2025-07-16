@@ -1,0 +1,2 @@
+Entropies of compact strictly convex projective manifolds
+Let M be a compact manifold of dimension n with a strictly convex projective structure. We consider the geodesic flow of the Hilbert metric on it, which is known to be Anosov. We prove that its topological entropy is less than n-1, with equality if and only if the structure is Riemannian, that is hyperbolic. As a corollary, we get that the volume entropy of a divisible strictly convex set is less than n-1, with equality if and only if it is an ellipsoid.

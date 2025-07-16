@@ -1,0 +1,27 @@
+Normative data for a user-friendly paradigm for pattern electroretinogram recording.
+PURPOSE
+To provide normative data for a user-friendly paradigm for the pattern electroretinogram (PERG) optimized for glaucoma screening (PERGLA).
+
+
+DESIGN
+Prospective nonrandomized case series.
+
+
+PARTICIPANTS
+Ninety-three normal subjects ranging in age between 22 and 85 years.
+
+
+METHODS
+A circular black-white grating of 25 degrees visual angle, reversing 16.28 times per second, was presented on a television monitor placed inside a Ganzfeld bowl. The PERG was recorded simultaneously from both eyes with undilated pupils by means of skin cup electrodes taped over the lower eyelids. Reference electrodes were taped on the ipsilateral temples. Electrophysiologic signals were conventionally amplified, filtered, and digitized. Six hundred artifact-free repetitions were averaged. The response component at the reversal frequency was isolated automatically by digital Fourier transforms and was expressed as a deviation from the age-corrected average. The procedure took approximately 4 minutes.
+
+
+MAIN OUTCOME MEASURES
+Pattern electroretinogram amplitude ( micro V) and phase (pi rad); response variability (coefficient of variation [CV] = standard deviation [SD] / mean x 100) of amplitude and phase of 2 partial averages that build up the PERG waveform; amplitude ( micro V) of background noise waveform, obtained by multiplying alternate sweeps by +1 and -1; and interocular asymmetry (CV of amplitude and phase of the PERG of the 2 eyes).
+
+
+RESULTS
+On average, the PERG has a signal-to-noise ratio of more than 13:1. The CVs of intrasession and intersession variabilities in amplitude and phase are lower than 10% and 2%, respectively, and do not depend on the operator. The CV of interocular asymmetries in amplitude and phase are 9.8+/-8.8% and 1.5+/-1.4%, respectively. The PERG amplitude and phase decrease with age. Residuals of linear regression lines have normal distribution, with an SD of 0.1 log units for amplitude and 0.019 log units for phase. Age-corrected confidence limits (P<0.05) are defined as +/-2 SD of residuals.
+
+
+CONCLUSIONS
+The PERGLA paradigm yields responses as reliable as the best previously reported using standard protocols. The ease of execution and interpretation of results of PERGLA indicate a potential value for objective screening and follow-up of glaucoma.

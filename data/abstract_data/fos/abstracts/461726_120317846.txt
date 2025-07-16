@@ -1,0 +1,2 @@
+Radius problems in the class SL*
+Let SL^* denote the class of all analytic functions f in the unit disc U with the normalization f(0)=f^'(0)-1=0 and satisfying the conditionzf^'(z)/f(z)^2-1<1,z@?U,thus zf^'(z)/f(z) is in the interior of the right half of the lemniscate of Bernoulli (x^2+y^2)^2-2(x^2-y^2)=0. The relations between SL^* and others classes geometrically defined are considered. The radii of @a-convexity, of @a-starlikeness (and some of others) of f@?SL^* are determined.

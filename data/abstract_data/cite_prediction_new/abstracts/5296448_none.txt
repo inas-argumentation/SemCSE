@@ -1,0 +1,2 @@
+Exact closed form expressions for error probabilities in M-ary FSK frequency hopping multiple-access communications over Rayleigh fading channels
+We derive the exact closed form expression for symbol error probabilities in slow frequency hopping multiple-access spread spectrum communications employing MFSK modulation schemes. The new expression is easy to compute and permits signal levels to be unequal or randomly distributed. However, it is exact only in the case of synchronous hopping and the Rayleigh fading channel.

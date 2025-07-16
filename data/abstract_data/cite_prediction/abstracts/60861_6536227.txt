@@ -1,0 +1,2 @@
+Nintendo Super Smash Bros. Melee: An "Untouchable" Agent
+Nintendo’s Super Smash Bros. Melee fighting game can be emulated on modern hardware allowing us to inspect internal memory states, such as character positions. We created an AI that avoids being hit by training using these internal memory states and outputting controller button presses. After training on a month’s worth of Melee matches, our best agent learned to avoid the toughest AI built into the game for a full minute 74.6% of the time.

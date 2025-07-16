@@ -1,0 +1,2 @@
+Towards Building Open Knowledge Base From Programming Question-Answering Communities
+In this paper, we propose the first system, so-called Open Programming Knowledge Extraction (OPKE), to automatically extract knowledge from programming Question-Answering (QA) communities. OPKE is the first step of building a programming-centric knowledge base. Data mining and Natural Language Processing techniques are leveraged to identify duplicate questions and construct structured information. Preliminary evaluation shows the effectiveness of OPKE.

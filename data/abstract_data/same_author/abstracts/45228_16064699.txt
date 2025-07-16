@@ -1,0 +1,2 @@
+Minimum-link watchman tours
+We consider the problem of computing a watchman route in a polygon with holes. We show that the problem of finding a minimum-link watchman route is NP-complete, even if the holes are all convex. The proof is based on showing that the related problem of finding a minimum-link tour on a set of points in the plane is NP-complete. We provide a provably good approximation algorithm that achieves an approximation factor of O(log n ).

@@ -1,0 +1,6 @@
+Lines Avoiding Unit Balls in Three Dimensions
+Abstract Let B be a set of n unit balls
+ in ℝ3. We show that the combinatorial complexity of the
+ space of lines in ℝ3 that avoid all the balls of B is O(n3+ε), for any ε > 0. This result has connections to
+ problems in visibility, ray shooting, motion planning, and
+ geometric optimization.

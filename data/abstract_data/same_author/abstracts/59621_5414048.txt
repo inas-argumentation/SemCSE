@@ -1,0 +1,2 @@
+Exponents of vertex-transitive digraphs
+Abstract A digraph D is primitive if, for some positive integer r, there is a u → v walk of length r for every pair u , v of vertices of D. The minimum such r is called the exponent of D, denoted exp( D ). We prove that if a primitive digraph D of order n is an Abelian Cayley digraph with degree k ⩾4, then exp (D)⩽ max 5, n ⌈k/2⌉ −1 . If we assume only that the primitive digraph D is vertex-transitive, then we are able to prove that exp (D)⩽ n k n k +1 . Finally, we make a conjecture on the exponents of all regular primitive digraphs.

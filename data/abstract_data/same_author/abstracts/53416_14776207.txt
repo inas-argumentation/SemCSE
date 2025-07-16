@@ -1,0 +1,7 @@
+BioThesaurus: a web-based thesaurus of protein and gene names
+UNLABELLED
+BioThesaurus is a web-based system designed to map a comprehensive collection of protein and gene names to protein entries in the UniProt Knowledgebase. Currently covering more than two million proteins, BioThesaurus consists of over 2.8 million names extracted from multiple molecular biological databases according to the database cross-references in iProClass. The BioThesaurus web site allows the retrieval of synonymous names of given protein entries and the identification of protein entries sharing the same names.
+
+
+AVAILABILITY
+BioThesaurus is accessible for online searching at http://pir.georgetown.edu/iprolink/biothesaurus

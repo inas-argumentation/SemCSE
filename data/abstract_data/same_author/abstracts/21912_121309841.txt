@@ -1,0 +1,2 @@
+Particles and scaling for lattice fields and Ising models
+The conjectured inequality γ(6)≦0 leads to the existence of ϕd4 fields and the scaling (continuum) limit ford-dimensional Ising models. Assuming γ(6)≦0 and Lorentz covariance of this construction, we show that ford≧6 these ϕd4 fields are free fields unless the field strength renormalizationZ−1 diverges. Let λ be the bare charge and ε the lattice spacing. Under the same assumptions (γ(6)≦0, Lorentz covariance andd≧6) we show that if λε4−d is bounded as ε→0, thenZ−1 is bounded and the limit field is free.

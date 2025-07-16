@@ -1,0 +1,2 @@
+Stability of networks and protocols in the adversarial queueing model for packet routing
+The adversarial queueing theory model for packet routing was suggested by Borodin et al. We give a complete and simple characterization of all networks that are universally stable in this model. We show that a specific greedy protocol, SIS (Shortest In System), is stable against a large class of stochastic adversaries. New applications such as multicast packet scheduling and job scheduling with precedence constraints xsare suggested for the adversarial model.

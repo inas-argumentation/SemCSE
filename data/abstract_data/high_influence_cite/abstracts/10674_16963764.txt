@@ -1,0 +1,2 @@
+A Note on the Grammatical Inference Problem for Even Linear Languages
+This note introduces subclasses of even linear languages for which there exist inference algorithms using positive samples only.

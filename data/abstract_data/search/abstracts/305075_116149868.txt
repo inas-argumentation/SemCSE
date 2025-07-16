@@ -1,0 +1,2 @@
+The RIP for Random Matrices with Complex Gaussian Entries
+In this paper, we show that complex Gaussian random matrix satisfies the restricted isometric property (RIP) with overwhelming probability. We also show that for compressive sensing (CS) applications, complex Gaussian random matrix outperforms its real number equivalent in the sense that it requires fewer measurements for exact recovery of sparse signals. Numerical results confirm our analysis.

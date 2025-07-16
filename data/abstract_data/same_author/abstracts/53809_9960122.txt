@@ -1,0 +1,4 @@
+Dynamic Zone-Balancing of Topology-Aware Peer-to-Peer Networks
+Building a topology-aware peer-to-peer overlay network can bring many advantages, such as providing locality-aware connectivity and reducing routing path length. While its benefits on performance have been recognized, an uneven overlay zone distribution has emerged. Recent work has shown that topology-aware neighbor selection during construction can aggravate the unbalance of zone distribution while it reduces routing path length. The imbalance in zone sizes may lead to performance decrease and an unfair load distribution. 
+ 
+In this paper, we present an even topology-aware peer-to-peer network based on De Bruijn Graph by developing a dynamic zone-balancing approach.

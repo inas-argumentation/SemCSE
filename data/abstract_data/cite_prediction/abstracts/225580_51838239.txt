@@ -1,0 +1,2 @@
+Improve the Quality of Important Sentences for Automatic Text Summarization
+There are sixteen known methods for automatic text summarization. In our study we will use Natural language processing NLP within hybrid approach that will improve the quality of important sentences selection by thickening sentence score along with reducing the number of long sentences that would be included in the final summarization. The based approach which is used in the algorithm is Term Occurrences.

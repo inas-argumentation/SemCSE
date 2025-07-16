@@ -1,0 +1,2 @@
+Error Instability in Floating Gate Flash Memories Exposed to TID
+We discuss new experimental results on the post-radiation annealing of Floating Gate errors in Flash memories with both NAND and NOR architecture. We investigate the dependence of annealing on the program level, linking the reduction in the number of Floating Gate errors to the evolution of the threshold voltage of each single cell. To understand the underlying physics we also discuss how temperature affects the number of Floating Gate errors.

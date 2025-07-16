@@ -1,0 +1,2 @@
+A review and quantitative comparison of methods for kinect calibration
+To utilize the full potential of RGB-D devices, calibration must be performed to determine the intrinsic and extrinsic parameters of the color and depth sensors and to reduce lens and depth distortion. After doing so, the depth pixels can be mapped to color pixels and both data streams can be simultaneously utilized. This work presents an overview and quantitative comparison of RGB-D calibration techniques and examines how the resolution and number of images affects calibration.

@@ -1,0 +1,2 @@
+Biased discriminant analysis: Evaluation of the optimum probability of misclassification
+This article extends the work of DiPillo (1976) on the Biased Minimum x2 Rule. The optimum value of k (the biasing factor) Is determined and the true probability of misclassification is found. The proportion improvements reported in the 1976 paper are shown to be conservative. Some suggestions for algorithms to determine the optimal value of k are presented.

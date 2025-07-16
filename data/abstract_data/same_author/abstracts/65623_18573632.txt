@@ -1,0 +1,2 @@
+On approximate approximations using Gaussian kernels
+This paper discusses quasi-interpolation and interpolation with Gaussians. Estimates are obtained showing a high-order approximation up to some saturation error negligible in numerical applications. The construction of local high-order quasi-interpolation formulas is given.

@@ -1,0 +1,2 @@
+Weighted Domination of Cocomparability Graphs
+It is shown in this paper that the weighted domination problem and its two variants, the weighted connected domination and weighted total domination problems are NP-complete on cocomparability graphs when arbitrary integer vertex weights are allowed and all of them can be solved in polynomial time if vertex weights are integers and less than or equal to a constant c. Besides, an O(¦V¦2) algorithm is given for the weighted independent perfect domination problem of a cocomparability graph G=(V, E).

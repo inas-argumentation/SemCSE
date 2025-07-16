@@ -1,0 +1,3 @@
+Design and Research of Subprogram-First Cache
+Based on the phenomena that subprograms and interrupt service routines are frequently called and visited, 
+the paper advances a new cache mapping method-Subprogram firstly, proves the advantages of the new method which can be applied through setting a "Subprogram Special Area" for subprograms only comparing to the traditional ones using rigorous mathematics reasoning in imaginary viitual machines and finally discusses the significant factors concerning the advantages.

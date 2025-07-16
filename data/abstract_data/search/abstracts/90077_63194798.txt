@@ -1,0 +1,2 @@
+Pumping station automation control and monitor system based on S7 300 and MODBUS TCP/IP protocol
+Introduction a pumping station automation control monitor system combine of S7 300 module ,MODBUS TCP/IP proto col,its system structure,software design.Focus on communication hardware and software.

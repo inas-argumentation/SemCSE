@@ -1,0 +1,2 @@
+A FAST ELITIST MULTIOBJECTIVE GENETIC ALGORITHM: NSGA-II
+NSGA ( [5]) is a popular non-domination based genetic algorithm for multiobjective optimization. It is a very effective algorithm but has been generally criticized for its computational complexity, lack of elitism and for choosing the optimal parameter value for sharing parameter σshare. A modified version, NSGAII ( [3]) was developed, which has a better sorting algorithm , incorporates elitism and no sharing parameter needs to be chosen a priori. NSGA-II is discussed in detail in this.

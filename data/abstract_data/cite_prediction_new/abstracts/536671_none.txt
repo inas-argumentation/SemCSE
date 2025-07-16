@@ -1,0 +1,2 @@
+Security Policy Conflicts in Service-oriented Systems
+This paper considers methods for knowledge exploitation in security policies for Service-Oriented Architecture (SOA) environments, discovering the modality conflicts in particular. Two algorithms for discovering SOA-specific modality conflicts are proposed. First, a trivial (ad-hoc) approach is presented and further extended by the improved algorithm which offers lower time complexity. The formal verification of the proposal is followed by experimental results confirming the expected supremacy of the improved algorithm.

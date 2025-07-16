@@ -1,0 +1,2 @@
+A comparison between grounded and floating shield inductors for mmW VCOs
+A floating-shield inductor implemented in CMOS process is compared with a conventional patterned ground shield inductor for the implementation of a LC voltage controlled oscillator (VCO) operating at mmW frequencies. In this work it is shown how the floating-shield inductor achieves higher quality factor and provides a better isolation for substrate-coupled high-frequency interferences.

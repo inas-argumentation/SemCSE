@@ -1,0 +1,2 @@
+Monitoring Depth of Anaesthesia Using Auditory Evoked Potential and Bispectrum
+In this study, two methods. Auditory evoked potential (AEP) and bispectrum, based on EEG signal processing are employed in monitoring depth of anaesthesia. Auditory evoked potential is obtained using wavelet analysis in order to achieve a fast extraction. Both AEP and bispectrum methods show good relativity with the depth of anaesthesia. Besides, both methods are integrated in a software developed on a personal computer to help those non-specialists to apply the results easily.

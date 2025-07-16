@@ -1,0 +1,2 @@
+Water monitoring system using arduino with labview
+In the many part of the word, availability of potable water is an issue as it is contaminated, there are basic qualitative observations that quickly determine if water is not safe to consume. To prevent the pollution, first part is to detect that pollutant. This system is to develop, implement, monitor and control some parameter of water such as pH level, temperature, turbidity. In this system low cost sensors are used to control and monitor the parameters. Arduino UNO interface with LabVIEW.

@@ -1,0 +1,36 @@
+Advancements in the Aerosol Robotic Network (AERONET) Version 3 database – automated near-real-time quality control algorithm with improved cloud screening for Sun photometer aerosol optical depth (AOD) measurements
+. The Aerosol Robotic Network (AERONET) has provided highly
+accurate, ground-truth measurements of the aerosol optical depth (AOD) using
+Cimel Electronique Sun–sky radiometers for more than 25 years. In Version 2 (V2)
+of the AERONET database, the near-real-time AOD was semiautomatically
+quality controlled utilizing mainly cloud-screening methodology, while
+additional AOD data contaminated by clouds or affected by instrument
+anomalies were removed manually before attaining quality-assured status
+(Level 2.0). The large growth in the number of AERONET sites over the past
+25 years resulted in significant burden to the manual quality control of millions
+of measurements in a consistent manner. The AERONET Version 3 (V3) algorithm
+provides fully automatic cloud screening and instrument anomaly quality
+controls. All of these new algorithm updates apply to near-real-time data as
+well as post-field-deployment processed data, and AERONET reprocessed the
+database in 2018. A full algorithm redevelopment provided the opportunity to
+improve data inputs and corrections such as unique filter-specific
+temperature characterizations for all visible and near-infrared wavelengths,
+updated gaseous and water vapor absorption coefficients, and ancillary data
+sets. The Level 2.0 AOD quality-assured data set is now available within a
+month after post-field calibration, reducing the lag time from up to several
+months. Near-real-time estimated uncertainty is determined using data
+qualified as V3 Level 2.0 AOD and considering the difference between the AOD
+computed with the pre-field calibration and AOD computed with pre-field and
+post-field calibration. This assessment provides a near-real-time
+uncertainty estimate for which average differences of AOD suggest a +0.02  bias
+and one sigma uncertainty of 0.02, spectrally, but the bias and uncertainty
+can be significantly larger for specific instrument deployments. Long-term
+monthly averages analyzed for the entire V3 and V2 databases produced
+average differences (V3–V2) of  + 0.002 with a ± 0.02 SD (standard
+deviation), yet monthly averages calculated using time-matched observations
+in both databases were analyzed to compute an average difference of  −0.002 
+with a ±0.004  SD. The high statistical agreement in
+multiyear monthly averaged AOD validates the advanced automatic data
+quality control algorithms and suggests that migrating research to the
+V3 database will corroborate most V2 research conclusions and likely lead to
+more accurate results in some cases.

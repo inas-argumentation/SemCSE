@@ -1,0 +1,2 @@
+Using the inspiral program to search for gravitational waves from low-mass binary inspiral
+The INSPIRAL program is the LIGO Scientific Collaboration's computational engine for the search for gravitational waves from binary neutron stars and sub-solar mass black holes. We describe how this program, which makes use of the FINDCHIRP algorithm, is integrated into a sophisticated data analysis pipeline that was used in the search for low-mass binary inspirals in data taken during the second LIGO science run.

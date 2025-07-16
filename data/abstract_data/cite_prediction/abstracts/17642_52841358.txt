@@ -1,0 +1,2 @@
+One Intelligent Agent to Rule Them All Bachelor Thesis
+In this work, we explore the possibility of training agents which are able to show intelligent behaviour in many different scenarios. We present the effectiveness of different machine learning algorithms in the StarCraft II Learning Environment [1] and their performance in different scenarios and compare them. In the end, we recreate DeepMind’s FullyConv Agent with slightly better results.

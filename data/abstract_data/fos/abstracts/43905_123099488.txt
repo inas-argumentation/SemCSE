@@ -1,0 +1,2 @@
+A functional approach to estimating finite population distribution functions
+Existing estimators of a finite population distribution function that utilize auxiliary information are often constructed by a point wise argument. As a result, these estimators are not always monotone. We adopt a functional approach to the problem and propose two estimators based on compositions of functions. Asymptotic variance formulae are derived for the proposed es-timators. Comparisons are made with existing estimators in a simulation study using three natural populations.

@@ -1,0 +1,2 @@
+DP with Successive Approximation for Solving Hydropower Unit Commitment Problem
+The outflow allocation among the hydropower units is an important non-l inear optimization problem in the hydroplant economical operation. In this paper , a DP with successive approximation method is designed for solving the hydropow er unit commitment problem. The algorithm can effectively reduce the number of s tate variables, and converge to the optimal solution. With a case study, the mod el is tested reasonable, and method feasible and efficient.

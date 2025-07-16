@@ -1,0 +1,3 @@
+Analysis of a new class of rational RBF expansions
+
+ We propose a new method, namely an eigen-rational kernel-based scheme, for multivariate interpolation via mesh-free methods. It consists of a fractional radial basis function (RBF) expansion, with the denominator depending on the eigenvector associated to the largest eigenvalue of the kernel matrix. Classical bounds in terms of Lebesgue constants and convergence rates with respect to the mesh size of the eigen-rational interpolant are indeed comparable with those of classical kernel-based methods. However, the proposed approach takes advantage of rescaling the classical RBF expansion providing more robust approximations. Theoretical analysis, numerical experiments and applications support our findings.

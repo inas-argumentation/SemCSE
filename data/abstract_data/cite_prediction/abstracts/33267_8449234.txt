@@ -1,0 +1,2 @@
+Identification of Photovoltaic Source Models
+This paper presents a photovoltaic (PV) model estimation method from the PV module data. The model is based on a single-diode model of a PV cell. The cell model of a module is extended to estimate the parameters of arrays. The variation of the parameters with change in temperature and irradiance is also studied. Finally, estimation of the maximum power point from the estimated parameters under varying environmental conditions is presented.

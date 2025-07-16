@@ -1,0 +1,18 @@
+Learning Abstract Models for Long-Horizon Exploration
+In high-dimensional reinforcement learning settings with sparse rewards, performing
+effective exploration to even obtain any reward signal is an open challenge.
+While model-based approaches hold promise of better exploration via planning, it
+is extremely difficult to learn a reliable enough Markov Decision Process (MDP)
+in high dimensions (e.g., over 10^100 states). In this paper, we propose learning
+an abstract MDP over a much smaller number of states (e.g., 10^5), which we can
+plan over for effective exploration. We assume we have an abstraction function
+that maps concrete states (e.g., raw pixels) to abstract states (e.g., agent position,
+ignoring other objects). In our approach, a manager maintains an abstract
+MDP over a subset of the abstract states, which grows monotonically through targeted
+exploration (possible due to the abstract MDP). Concurrently, we learn a
+worker policy to travel between abstract states; the worker deals with the messiness
+of concrete states and presents a clean abstraction to the manager. On three of
+the hardest games from the Arcade Learning Environment (Montezuma's,
+Pitfall!, and Private Eye), our approach outperforms the previous
+state-of-the-art by over a factor of 2 in each game. In Pitfall!, our approach is
+the first to achieve superhuman performance without demonstrations.

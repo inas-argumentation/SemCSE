@@ -1,0 +1,2 @@
+Note on the problem of heat conduction in a semi-infinite hollow cylinder
+In a recent article1 C. J. Tranter determined the heat conduction in a semiinfinite cylinder, in the non-steady case, by means of a combination of a Fourier transform and a Laplace transform. Tranter's problem, and generalizations of it involving more complicated boundary conditions, may be solved by a method which was employed in an earlier paper2 and involves one Laplace transform only. Let us consider the following generalization of Tranter's problem:

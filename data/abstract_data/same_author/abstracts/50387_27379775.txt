@@ -1,0 +1,2 @@
+Convergence of a New Decomposition Algorithm for Support Vector Machines
+Decomposition methods is the main way for solving support vector machines (SVMs) with large data sets. In this paper a new decomposition algorithm is proposed, and its convergence is also proved.

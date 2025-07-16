@@ -1,0 +1,11 @@
+Predictive, structure-based model of amino acid recognition by nonribosomal peptide synthetase adenylation domains.
+BACKGROUND
+Nonribosomal peptide synthetases (NRPSs) are large modular proteins that selectively bind, activate and condense amino acids in an ordered manner. Substrate recognition and activation occurs by reaction with ATP within the adenylation (A) domain of each module. Recently, the crystal structure of the A domain from the gramicidin synthetase (GrsA) with L-phenylalanine and adenosine monophosphate bound has been determined.
+
+
+RESULTS
+Critical residues in all known NRPS A domains have been identified that align with eight binding-pocket residues in the GrsA A domain and define sets of remarkably conserved recognition templates. Phylogenetic relationships among these sets and the likely specificity determinants for polar and nonpolar amino acids were determined in light of extensive published biochemical data for these enzymes. The binding specificity of greater than 80% of the known NRPS A domains has been correlated with more than 30 amino acid substrates.
+
+
+CONCLUSIONS
+The analysis presented allows the specificity of A domains of unknown function (e.g. from polymerase chain reaction amplification or genome sequencing) to be predicted. Furthermore, it provides a rational framework for altering of A domain specificity by site-directed mutagenesis, which has significant potential for engineering the biosynthesis of novel natural products.

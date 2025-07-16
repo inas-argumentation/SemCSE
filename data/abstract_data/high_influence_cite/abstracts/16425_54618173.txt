@@ -1,0 +1,2 @@
+Godunov-type methods for two-component magnetohydrodynamic equations
+This paper is concerned with a numerical solutions of two-component magnetohydrodynamic equations. While a hyperbolic system of wave equations admits a shock solution as a result of the selenoidality condition the MHD equations are not strictly hyperbolic. As a consequence of that these equations require special numerical treatment. An application of a resulting numerical code to a problem of solar wind interaction with the ionosphere of the planet Venus is presented.

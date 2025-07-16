@@ -1,0 +1,4 @@
+Long Cycles Passing Through a Specified Edge in 3-Connected Graphs
+Abstract. In this paper we prove that if G is a 3-connected noncomplete graph of order n satisfying that the degree sum of any two vertices with distance 2 is not less than m, then either there exists a cycle containing e of length at least min{n,m} for any edge e of G, or 
+or 
+where l=2(n−3)/(m−4). The result improves a theorem in [3] and a theorem in [4], respectively.

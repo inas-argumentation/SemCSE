@@ -1,0 +1,2 @@
+Algebraic Theories for Contextual Pre-nets
+The algebraic models of computation for contextual nets that have been proposed in the literature either rely on a non-free monoid of objects, or introduce too many fictitious behaviors that must be somewhat filtered out. In this paper, we exploit partial membership equational logic to define a suitable theory of models, where the meaningful concurrent computations can be selected by means of membership predicates.

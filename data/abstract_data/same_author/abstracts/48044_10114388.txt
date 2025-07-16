@@ -1,0 +1,2 @@
+O(1) Time Algorithm on BSR for Constructing a Binary Search Tree with Best Frequencies
+Constructing a binary search tree of n nodes with best frequencies needs Ω(n log n) time on RAM, and Ω(log n) time on n-processor EREW, CREW, or CRCW PRAM. In this paper, we propose an O(1) time algorithm on n-processor BSR PRAM for the problem, which is the first constant time solution to the problem on any model of computation.

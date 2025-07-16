@@ -1,0 +1,2 @@
+A biclustering approach for crowd judgment analysis
+Collection of multiple annotations from the crowd workers is useful for diverse applications. In this paper, the problem of obtaining the final judgment from such crowd-based annotations has been addressed in an unsupervised way using a biclustering-based approach. Results on multiple datasets show that the proposed approach is competitively better than others, without even using the entire dataset.

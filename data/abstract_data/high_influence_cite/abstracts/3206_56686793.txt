@@ -1,0 +1,37 @@
+Modeling geo-homopholy in online social networks for population distribution projection
+Purpose 
+ 
+ 
+ 
+ 
+Projecting the population distribution in geographical regions is important for many applications such as launching marketing campaigns or enhancing the public safety in certain densely populated areas. Conventional studies require the collection of people’s trajectory data through offline means, which is limited in terms of cost and data availability. The wide use of online social network (OSN) apps over smartphones has provided the opportunities of devising a lightweight approach of conducting the study using the online data of smartphone apps. This paper aims to reveal the relationship between the online social networks and the offline communities, as well as to project the population distribution by modeling geo-homophily in the online social networks. 
+ 
+ 
+ 
+ 
+Design/methodology/approach 
+ 
+ 
+ 
+ 
+In this paper, the authors propose the concept of geo-homophily in OSNs to determine how much the data of an OSN can help project the population distribution in a given division of geographical regions. Specifically, the authors establish a three-layered theoretic framework that first maps the online message diffusion among friends in the OSN to the offline population distribution over a given division of regions via a Dirichlet process and then projects the floating population across the regions. 
+ 
+ 
+ 
+ 
+Findings 
+ 
+ 
+ 
+ 
+By experiments over large-scale OSN data sets, the authors show that the proposed prediction models have a high prediction accuracy in characterizing the process of how the population distribution forms and how the floating population changes over time. 
+ 
+ 
+ 
+ 
+Originality/value 
+ 
+ 
+ 
+ 
+This paper tries to project population distribution by modeling geo-homophily in OSNs.

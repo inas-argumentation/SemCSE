@@ -1,0 +1,2 @@
+Interference elimination of electrocardiogram signals using IIR multiple notch filters
+This study exploits a computationally efficient least-squares algorithm for designing multiple notch filters that can be applied to cancel the power line interference in electrocardiogram signal. The simulation results verify that proposed filter design framework achieves preferable performance for the preprocessing of electrocardiogram signal.

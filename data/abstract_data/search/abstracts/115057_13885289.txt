@@ -1,0 +1,2 @@
+Finding overlapping communities in multiplex networks
+We define an approach to identify overlapping communities in multiplex networks, extending the popular clique percolation method for simple graphs. The extension requires to rethink the basic concepts on which the clique percolation algorithm is based, including cliques and clique adjacency, to allow the presence of multiple types of edges.

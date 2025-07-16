@@ -1,0 +1,2 @@
+Parallel Mining of Association Rules
+We consider the problem of mining association rules on a shared-nothing multiprocessor. We present three algorithms that explore a spectrum of trade-oos between computation, communication, memory usage, synchronization, and the use of problem-speciic information. The best algorithm exhibits near perfect scaleup behavior, yet requires only minimal overhead compared to the current best serial algorithm.

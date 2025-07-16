@@ -1,0 +1,2 @@
+Monitoring Process Mean and Variability with One Double EWMA Chart
+In this article, we extend the single Max-EWMA chart to a single double EWMA chart, called the Max-DEWMA chart. The statistics of the Max-DEWMA chart are based on the maximum of the absolute values of the two DEWMA statistics, one controlling the mean while the other the variance. We show that the Max-DEWMA chart performs better than the Max-EWMA chart in detecting small and moderate shifts in the mean and/or variance.

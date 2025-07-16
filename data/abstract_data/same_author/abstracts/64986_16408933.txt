@@ -1,0 +1,11 @@
+Protein Structures and Information Extraction from Biological Texts: The PASTA System
+MOTIVATION
+The rapid increase in volume of protein structure literature means useful information may be hidden or lost in the published literature and the process of finding relevant material, sometimes the rate-determining factor in new research, may be arduous and slow.
+
+
+RESULTS
+We describe the Protein Active Site Template Acquisition (PASTA) system, which addresses these problems by performing automatic extraction of information relating to the roles of specific amino acid residues in protein molecules from online scientific articles and abstracts. Both the terminology recognition and extraction capabilities of the system have been extensively evaluated against manually annotated data and the results compare favourably with state-of-the-art results obtained in less challenging domains. PASTA is the first information extraction (IE) system developed for the protein structure domain and one of the most thoroughly evaluated IE system operating on biological scientific text to date.
+
+
+AVAILABILITY
+PASTA makes its extraction results available via a browser-based front end: http://www.dcs.shef.ac.uk/nlp/pasta/. The evaluation resources (manually annotated corpora) are also available through the website: http://www.dcs.shef.ac.uk/nlp/pasta/results.html.

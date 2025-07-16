@@ -1,0 +1,2 @@
+Searching with a Forbidden Lie Pattern in Responses
+We studied the problem of searching for an unknown in a finite set, with a forbidden lie pattern in responses. We systematically studied all possible forbidden patterns, and showed that search is feasible only for the patterns 0, 1 01 and 10. We also presented worst case optimal search algorithms for these four cases.

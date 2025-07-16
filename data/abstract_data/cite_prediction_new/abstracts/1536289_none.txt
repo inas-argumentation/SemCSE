@@ -1,0 +1,2 @@
+A New Approach of Pitch Detection Based on Morphology Filter and Wavelet Transform
+This paper proposes a new pitch detection method with the combination of morphology filter and wavelet transform. Before detection, a pre-process based on morphology filter is performed to remove the noise. Then the pitch is detected by wavelet transform. Experiments show that this method can realize pitch period calculation accurately and has a better robustness.

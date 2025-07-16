@@ -1,0 +1,8 @@
+A Postprocessing Technique for Improved Harmonic/Percussion Separation for Polyphonic Music
+In this paper we propose a postprocessing technique for a 
+spectrogram diffusion based harmonic/percussion decom- 
+position algorithm. The proposed technique removes har- 
+monic instrument leakages in the percussion enhanced out- 
+puts of the baseline algorithm. The technique uses median 
+filtering and an adaptive detection of percussive segments 
+in subbands followed by piecewise signal reconstruction using envelope properties to ensure that percussion is enhanced while harmonic leakages are suppressed. A new binary mask is created for the percussion signal which upon applying on the original signal improves harmonic versus percussion separation. We compare our algorithm with two recent techniques and show that on a database of polyphonic Indian music, the postprocessing algorithm improves the harmonic versus percussion decomposition significantly.

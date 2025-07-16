@@ -1,0 +1,5 @@
+Uncertainty Prediction for Deep Sequential Regression Using Meta Models
+Generating high quality uncertainty estimates for sequential regression, particularly deep recurrent networks, remains a challenging and open problem.
+Existing approaches often make restrictive assumptions (such as stationarity) yet still perform poorly in practice, particularly in presence of real world non-stationary signals and drift. 
+This paper describes a flexible method that can generate symmetric and asymmetric uncertainty estimates,  makes no assumptions about stationarity, and outperforms competitive baselines on both drift and non drift scenarios.
+This work helps make sequential regression more effective and practical for use in real-world applications, and is a powerful new addition to the modeling toolbox for sequential uncertainty quantification in general.

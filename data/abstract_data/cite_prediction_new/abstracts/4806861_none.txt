@@ -1,0 +1,5 @@
+Using algebraic reconstruction in computed tomography
+Spectral Computed Tomography (spectral CT) is a newly emerging, medical imaging modality. It extends CT by acquiring multiple datasets over different x-ray energy bins. As the x-ray absorption of materials is energy dependent, the energy bins together provide significantly more information about the composition of the subject.
+ To exploit the full potential of spectral CT, there are many new image processing challenges for reconstruction, material decomposition, and visualization.
+ This paper details the preliminary work completed before a spectral reconstruction algorithm may be developed. A small application called mART was created which implements a Simultaneous Algebraic Reconstruction Technique (SART). The algorithm SART will be extended for spectral reconstruction in the near future.
+ We show that mART already produces reconstructions of superior quality to Octopus CT® which is the commercial software adopted by the MARS team. In addition, ideas for developing a spectral reconstruction algorithm are discussed.

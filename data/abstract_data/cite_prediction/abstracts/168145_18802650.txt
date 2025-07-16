@@ -1,0 +1,2 @@
+Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture
+This article reports on experiences and lessons learned during incremental migration and architectural refactoring of a commercial mobile back end as a service to microservices architecture. It explains how the researchers adopted DevOps and how this facilitated a smooth migration.

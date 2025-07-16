@@ -1,0 +1,2 @@
+Lower Bounds for Embedding into Distributions over Excluded Minor Graph Families
+It was shown recently by Fakcharoenphol et al. [7] that arbitrary finite metrics can be embedded into distributions over tree metrics with distortion O(log n). It is also known that this bound is tight since there are expander graphs which cannot be embedded into distributions over trees with better than Ω(log n) distortion.

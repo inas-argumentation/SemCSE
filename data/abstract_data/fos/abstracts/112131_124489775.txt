@@ -1,0 +1,2 @@
+Ultra-wideband receiving characteristics of TEM horn
+In this paper,the finite-difference time-domain (FDTD) and the discrete fast Fourier transform (DFFT) methods are adopted to calculate the transfer function and the sensitivity of TEM horn of various length and flare angle. The max relative error and the relative average deviation are used to analyze the ultra-wideband receiving characteristics. The results provide a basis to design a ultra-wideband receiving TEM horn.

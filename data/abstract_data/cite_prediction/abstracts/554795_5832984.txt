@@ -1,0 +1,2 @@
+When do changes induce fixes?
+As a software system evolves, programmers make changes that sometimes cause problems. We analyze CVS archives for fix-inducing changes---changes that lead to problems, indicated by fixes. We show how to automatically locate fix-inducing changes by linking a version archive (such as CVS) to a bug database (such as BUGZILLA). In a first investigation of the MOZILLA and ECLIPSE history, it turns out that fix-inducing changes show distinct patterns with respect to their size and the day of week they were applied.

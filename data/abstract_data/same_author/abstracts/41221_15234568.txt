@@ -1,0 +1,2 @@
+Demonstrating Dynamic Configuration and Execution of Web Processes
+Web processes are next generation workflows on the web, created using Web services. In this paper we demonstrate the METEOR-S Configuration and Execution Environment (MCEE) system. It will illustrate the capabilities of the system to a) Discover partners b) Optimize partner selection using constraint analysis, c) Perform interaction protocol and data mediation. A graphical execution monitor to monitor the various phases of execution will be used to demonstrate various aspects of the system.

@@ -1,0 +1,15 @@
+Age-specific spatio-temporal patterns of female breast cancer mortality in Spain (1975-2005).
+PURPOSE
+In recent decades, a decline in breast cancer mortality has been observed across Europe, and also in Spain. Our objective is to assess the spatio-temporal pattern during the period 1975-2005 by specific age groups (<45, 45-64, ≥65) in the Spanish provinces.
+
+
+METHODS
+For each age group, a spatio-temporal P-spline model with a B-spline basis is used to smooth the mortality risks. Smoothing is carried out in three dimensions: longitude, latitude, and time, allowing for a different time evolution of both spatial components. The age-specific decline is calculated as the maximum of the estimated curve in each province. A confidence band for each curve is also provided.
+
+
+RESULTS
+For the first age group (<45), the decline in the different provinces is observed between 1986 and 1991. For women aged between 45 to 64 years, the change occurs between 1990 and 1993. For the third age group (≥65), change points range from 1992 to 2000, unlike Malaga and Cadiz where the change has not been observed in the studied period. Northern and some Mediterranean provinces are the areas with higher mortality risks for all the age groups.
+
+
+CONCLUSIONS
+A different behavior for breast cancer mortality risks is observed for different provinces among the age specific groups. The decline of mortality is delayed for the oldest age group. Province differences in the implementation of screening programs could explain some of the observed differences.

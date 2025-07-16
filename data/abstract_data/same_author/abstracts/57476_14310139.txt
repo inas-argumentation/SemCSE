@@ -1,0 +1,2 @@
+G-wire: A livewire segmentation algorithm based on a generalized graph formulation
+A novel livewire algorithm for image segmentation is proposed. Based on a generalized graph formulation, our algorithm incorporates the internal energy of the boundary curve while preserving the principle of optimality, resulting in better segmentation results in noisy images.

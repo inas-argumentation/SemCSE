@@ -1,0 +1,2 @@
+LIGO End-to-End simulation Program
+A time-domain simulation program has been developed to provide an accurate description of interferometric gravitational wave detectors. This is being utilized to build a model of LIGO with the aim of aiding in the shakedown and integration of the interferometer subsystems, and ultimately the optimization of detector sensitivity.

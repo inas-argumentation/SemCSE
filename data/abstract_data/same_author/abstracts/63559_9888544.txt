@@ -1,0 +1,2 @@
+A Simple Algorithm for Merging Two Disjoint Linearly-Ordered Sets
+In this paper we present a new algorithm for merging two linearly ordered sets which requires substantially fewer comparisons than the commonly used tape merge or binary insertion algorithms. Bounds on the difference between the number of comparisons required by this algorithm and the information theory lower bounds are derived. Results from a computer implementation of the new algorithm are given and compared with a similar implementation of the tape merge algorithm.

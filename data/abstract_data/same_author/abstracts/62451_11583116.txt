@@ -1,0 +1,2 @@
+Moth plume-tracing derived algorithm for identifying chemical source in near-shore ocean environments
+This paper derives a single chemical sensor based algorithm from the moth-inspired chemical plume strategies for identifying plume sources in fluid-advected environments. We evaluate the algorithm performance using a simulated plume with significant meander and filament intermittency. The in- water test runs demonstrated the algorithm effective and robust to the variation of near-shore ocean environments.

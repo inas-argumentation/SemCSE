@@ -1,0 +1,2 @@
+Coding and Driving Circuit of LED Display in Singlechip System
+LED display is widely used in singlechip system,which it can distinctly show the state and result of the system.Discusses several new solutions of LED display circuit,compares the advantages and shortcomings of all solutions,introduces the principle and application of special display chip MAX7219,and also designates that the special coding and driving chips have great value in display application of singlechip system.

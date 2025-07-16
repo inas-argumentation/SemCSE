@@ -1,0 +1,2 @@
+Maximal Monotone Operators and the Proximal Point Algorithm
+In a finite dimensional Euclidean space, we study the convergence of a proximal point method to a solution of the inclusion induced by a maximal monotone operator, under the presence of computational errors. The convergence of the method is established for nonsummable computational errors. We show that the proximal point method generates a good approximate solution, if the sequence of computational errors is bounded from above by a constant.

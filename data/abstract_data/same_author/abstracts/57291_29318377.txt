@@ -1,0 +1,2 @@
+A note on a conjecture about cycles with many incident chords
+Given positive integers n and k, let gk(n ) denote the maximum number of edges of a graph on n vertices that does not contain a cycle with k chords incident to a vertex on the cycle. Bollobás conjectured as an exercise in [2, p. 398, Problem 13] that there exists a function n(k ) such that gk (n ) 1⁄4 (kþ1)n (kþ1) for all n n (k ). Using an old result of Bondy [3], we prove the conjecture, showing that n (k) 3k þ 3. 2004 Wiley Periodicals, Inc. J Graph Theory 46: 180–182, 2004

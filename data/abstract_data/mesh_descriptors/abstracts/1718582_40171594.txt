@@ -1,0 +1,2 @@
+Codon preference and primary sequence structure in protein-coding regions.
+The stochastic complexity of a data base of 365 protein-coding regions is analysed. When the primary sequence is modeled as a spatially homogeneous Markov source, the fit to observed codon preference is very poor. The situation improves substantially when a non-homogeneous model is used. Some implications for the estimation of species phylogeny and substitution rates are discussed.

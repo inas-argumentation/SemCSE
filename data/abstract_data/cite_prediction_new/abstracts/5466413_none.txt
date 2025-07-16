@@ -1,0 +1,2 @@
+About Conditions for Finite-Time Consensus in Linear Dynamic Systems
+This paper formalizes the consensus for linear dynamic systems in a linear algebraic generic context. Basically, the consensus is understood as the ability of achievement of a prescribed finite- time common error in-between each pair of components of the consensus signal.

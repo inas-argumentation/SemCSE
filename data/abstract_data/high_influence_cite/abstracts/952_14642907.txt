@@ -1,0 +1,5 @@
+Finitely presented residually free groups
+We establish a general criterion for the finite presentability of subdirect products of groups and use this to characterize finitely presented residually free groups. We prove that, for all $n\in\mathbb{N}$, a residually free group is of type ${\rm{FP}}_n$ if and only if it is of type ${\rm{F}}_n$. 
+New families of subdirect products of free groups are constructed, including the first examples of finitely presented subgroups that are neither ${\rm{FP}}_\infty$ nor of Stallings-Bieri type. The template for these examples leads to a more constructive characterization of finitely presented residually free groups up to commensurability. 
+We show that the class of finitely presented residually free groups is recursively enumerable and present a reduction of the isomorphism problem. A new algorithm is described which, given a finite presentation of a residually free group, constructs a canonical embedding into a direct product of finitely many limit groups. 
+The (multiple) conjugacy and membership problems for finitely presented subgroups of residually free groups are solved.

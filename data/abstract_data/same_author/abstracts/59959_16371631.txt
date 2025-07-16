@@ -1,0 +1,2 @@
+Validating the Translation of an Industrial Optimizing Compiler
+The paper presents an approach to the translation validation of an optimizing compiler which translates synchronous C programs into machine code programs. Being synchronous means that both source and target programs are loop free. This enables representation of each of these programs by a single state transformer, and verification of the translation correctness is based on comparison of the source and target state transformers. The approach has been implemented on a tool called MCVT which is also described.

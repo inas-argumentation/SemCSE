@@ -1,0 +1,2 @@
+The management of big data tables based on Oracle partition technology
+With the development of information technology, more and more Large-scale application systems appear. Business data is expanding step by step, and the big data tables including hundreds of G-level or T-level storage capacities are gradually increasing, which will bring some difficulties in database management and the performance degradation of business system. Oracle provides tables and indexes partition technology which can improve database management and the business performance of the system.

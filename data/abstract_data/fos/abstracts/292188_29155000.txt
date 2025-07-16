@@ -1,0 +1,15 @@
+Gender‐Specific Effects of Selection for Drinking in the Dark on the Network Roles of Coding and Noncoding RNAs
+BACKGROUND
+Transcriptional differences between heterogeneous stock mice and high drinking-in-the-dark selected mouse lines have previously been described based on microarray technology coupled with network-based analysis. The network changes were reproducible in 2 independent selections and largely confined to 2 distinct network modules; in contrast, differential expression appeared more specific to each selected line. This study extends these results by utilizing RNA-Seq technology, allowing evaluation of the relationship between genetic risk and transcription of noncoding RNA (ncRNA); we additionally evaluate sex-specific transcriptional effects of selection.
+
+
+METHODS
+Naïve mice (N = 24/group and sex) were utilized for gene expression analysis in the ventral striatum; the transcriptome was sequenced with the Illumina HiSeq platform. Differential gene expression and the weighted gene co-expression network analysis were implemented largely as described elsewhere, resulting in the identification of genes that change expression level or (co)variance structure.
+
+
+RESULTS
+Across both sexes, we detect selection effects on the extracellular matrix and synaptic signaling, although the identity of individual genes varies. A majority of nc RNAs cluster in a single module of relatively low density in both the male and female network. The most strongly differentially expressed transcript in both sexes was Gm22513, a small nuclear RNA with unknown function. Associated with selection, we also found a number of network hubs that change edge strength and connectivity. At the individual gene level, there are many sex-specific effects; however, at the annotation level, results are more concordant.
+
+
+CONCLUSIONS
+In addition to demonstrating sex-specific effects of selection on the transcriptome, the data point to the involvement of extracellular matrix genes as being associated with the binge drinking phenotype.

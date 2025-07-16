@@ -1,0 +1,2 @@
+Quantum key distribution system using dual-threshold homodyne detection
+In this work we present the principles of a flexible quantum key distribution (QKD) system using quadrature-phase-shift-keying (QPSK) base and symbol encoding and dual-threshold balanced homodyne detection (BHD) scheme. We give its security proofs and we compare its performance experimentally with a photon counting detection scheme.

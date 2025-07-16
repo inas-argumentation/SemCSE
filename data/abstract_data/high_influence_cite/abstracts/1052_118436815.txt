@@ -1,0 +1,3 @@
+Large global-in-time solutions of the parabolic-parabolic Keller-Segel system on the plane
+As it is well known, the parabolic-elliptic Keller-Segel system of chemotaxis on the plane has global-in-time regular nonnegative solutions with total mass below the critical value $8\pi$. Solutions with mass above $8\pi$ blow up in a finite time. We show that the case of the parabolic-parabolic Keller-Segel is different: each mass may lead to a global-in-time-solution, even if the initial data is a finite signed measure. 
+These solutions need not be unique, even if we limit ourselves to nonnegative solutions.

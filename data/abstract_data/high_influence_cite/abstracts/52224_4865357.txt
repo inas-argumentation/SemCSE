@@ -1,0 +1,11 @@
+COPII Coat Composition Is Actively Regulated by Luminal Cargo Maturation
+BACKGROUND
+Export from the ER is an essential process driven by the COPII coat, which forms vesicles at ER exit sites (ERESs) to transport mature secretory proteins to the Golgi. Although the basic mechanism of COPII assembly is known, how COPII machinery is regulated to meet varying cellular secretory demands is unclear.
+
+
+RESULTS
+Here, we report a specialized COPII system that is actively recruited by luminal cargo maturation. Glycosylphosphatidylinositol-anchored proteins (GPI-APs) are luminal secretory proteins anchored to the membrane by the glycolipid GPI. After protein attachment in the ER lumen, lipid and glycan parts of the GPI anchor are remodeled. In yeast, GPI-lipid remodeling concentrates GPI-APs into specific ERESs. We found that GPI-glycan remodeling induces subsequent recruitment of the specialized ER export machinery that enables vesicle formation from these specific ERESs. First, the transmembrane cargo receptor p24 complex binds GPI-APs as a lectin by recognizing the remodeled GPI-glycan. Binding of remodeled cargo induces the p24 complex to recruit the COPII subtype Lst1p, specifically required for GPI-AP ER export.
+
+
+CONCLUSIONS
+Our results show that COPII coat recruitment by cargo receptors is not constitutive but instead is actively regulated by binding of mature ligands. Therefore, we reveal a novel functional link between luminal cargo maturation and COPII vesicle budding, providing a mechanism to adjust specialized COPII vesicle production to the amount and quality of their luminal cargos that are ready for ER exit. This helps to understand how the ER export machinery adapts to different needs for luminal cargo secretion.

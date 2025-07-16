@@ -1,0 +1,2 @@
+Approximating Uniform Triangular Meshes in Polygons
+Given a convex polygon P in the plane and a positive integer n, we consider the problem of generating a length-uniform triangular mesh for the interior of P using n Steiner points. More specifically, we want to find both a set S n of n points inside P, and a triangulation of P using S n , with respect to the following minimization criteria: (1) ratio of the maximum edge length to the minimum one, (2) maximum edge length, and (3) maximum triangle perimeter.

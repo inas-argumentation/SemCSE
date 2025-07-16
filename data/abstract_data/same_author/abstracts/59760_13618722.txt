@@ -1,0 +1,2 @@
+Low-bit-rate video coding using dense motion field and uncovered background prediction
+It is well known that accurate dense motion field can improve the video coding efficiency. This paper presents a novel Markov random field (MRF) model that estimates both the dense motion and uncovered background fields in image sequences, and the application of these estimates in H.263-based video coding framework.

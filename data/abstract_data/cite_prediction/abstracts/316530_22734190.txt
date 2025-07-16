@@ -1,0 +1,15 @@
+ConoSurf: Open‐source 3D scanning system based on a conoscopic holography device for acquiring surgical surfaces
+BACKGROUND
+A difficulty in computer-assisted interventions is acquiring the patient's anatomy intraoperatively. Standard modalities have several limitations: low image quality (ultrasound), radiation exposure (computed tomography) or high costs (magnetic resonance imaging). An alternative approach uses a tracked pointer; however, the pointer causes tissue deformation and requires sterilizing. Recent proposals, utilizing a tracked conoscopic holography device, have shown promising results without the previously mentioned drawbacks.
+
+
+METHODS
+We have developed an open-source software system that enables real-time surface scanning using a conoscopic holography device and a wide variety of tracking systems, integrated into pre-existing and well-supported software solutions.
+
+
+RESULTS
+The mean target registration error of point measurements was 1.46 mm. For a quick guidance scan, surface reconstruction improved the surface registration error compared with point-set registration.
+
+
+CONCLUSIONS
+We have presented a system enabling real-time surface scanning using a tracked conoscopic holography device. Results show that it can be useful for acquiring the patient's anatomy during surgery.

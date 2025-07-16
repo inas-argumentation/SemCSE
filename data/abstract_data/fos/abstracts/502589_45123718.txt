@@ -1,0 +1,2 @@
+[Improvement on Saunders' method for computing pharmacokinetic parameters].
+An improved Saunders method for computing pharmacokinetic parameters for two-compartment model for extravenous administration based on the systematic screening of initial estimated values, was developed. A new BASIC program PKPⅡ (2), which can be run on a.microcomputer, was presented. The advantages of this method were confirmed by practical use.

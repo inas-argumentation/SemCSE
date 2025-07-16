@@ -1,0 +1,2 @@
+Comparative Evaluation of Anomaly Detection Techniques for Sequence Data
+We present a comparative evaluation of a large number of anomaly detection techniques on a variety of publicly available as well as artificially generated data sets. Many of these are existing techniques while some are slight variants and/or adaptations of traditional anomaly detection techniques to sequence data.

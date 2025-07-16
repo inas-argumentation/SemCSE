@@ -1,0 +1,2 @@
+A 4  $\times$  4 Ridge Substrate Integrated Waveguide (RSIW) Slot Array Antenna
+The waveguide slot array antenna is known to suffer from a very limited frequency bandwidth, which becomes even more serious in substrate-integrated-waveguide (SIW)-based design because of its reduced waveguide height. In this work, a 4 x 4 slot array antenna based on ridge SIW (RSIW) and T-type folded SIW (TFSIW) techniques is proposed, and an 8.8% bandwidth is easily achieved. The proposed antenna structure is then fabricated. Measured results are well consistent with simulated ones.

@@ -1,0 +1,2 @@
+ARTICLES: Optimal detector of laser radiation pulses transmitted by a turbulent atmosphere
+An analysis is made of the reception of optical signals transmitted by a turbulent atmosphere. A rule for optimal reception of such pulses is obtained in the case when the operation of an optical detector is limited by thermal noise. Numerical modeling on a computer is used to compare optimal and nonoptimal detectors. The results of such modeling demonstrate that an optimal detector can ensure a much lower probability of false reception than a nonoptimal one.

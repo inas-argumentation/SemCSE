@@ -1,0 +1,2 @@
+A Fuzzy-Logical Approach for Integrating Multi-Agent Estimators
+This paper proposes a novel approach for integrating estimations from multiple agents. The approach is based on the fuzzy set theory. However, compared to existing fuzzy logical methods that use fuzzy if-then rules, this method is based on solving an over-determined fuzzy equation system. The result is either a global inconsistency message or the consistent core of the equation system. We demonstrate the approach with data from an actual case study undertaken by a German automotive manufacturer.

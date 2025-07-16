@@ -1,0 +1,10 @@
+Cardiovascular networks: systems-based approaches to cardiovascular disease.
+“If there is any area in which a network thinking could trigger a revolution, I believe that biology is it.” 
+
+— Albert Laszlo Barabasi 1
+
+Traditional biological and biochemical studies deal with relatively few components, allowing intuitive reasoning to guide hypotheses and experiments. For example, a popular experimental protocol in cardiovascular research is to examine gene functions through the use of transgenic or gene-targeted mice. Although clearly informative, it is becoming increasingly clear that such studies alone are not sufficient to explain complex processes such as arrhythmias, heart failure, and atherogenesis. Even a basic behavior, the action potential of a cardiomyocyte, requires the coordinated actions of >20 different ion transporters and channels.2 Perturbing proteins individually will help establish their functions, but it will not provide a full understanding of how they function together (quantitatively, temporally, and spatially). For this, a more global analysis, in which the activities of all of the relevant proteins are tracked over time and then integrated into a quantitative mathematical model, is required to provide a deeper level of understanding of cardiomyocyte dynamics.
+
+A new branch of biology, called systems biology, seeks to identify the components of complex systems and to model their dynamic interactions.3 The approach arose in large part as a result of new technical and analytical developments. The Human Genome Project provided a biological “parts list,” and technologies such as massively parallel DNA sequencing, expression microarrays, and tandem mass spectrometric analyses of proteins and metabolites have made high-throughput analysis of biological systems feasible. To deal with the data explosion, novel statistical and other mathematical modeling approaches are being developed.
+
+Basically, systems-based approaches involve 4 steps. The first is to define the system to be examined (eg, a cardiomyocyte). The second is to identify the components of the system (eg, the set …

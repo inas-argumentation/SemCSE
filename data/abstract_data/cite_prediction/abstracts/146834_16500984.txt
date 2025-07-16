@@ -1,0 +1,2 @@
+Low-Power CMOS Equalizer Design for 20-Gb/s Systems
+The power consumption of wireline circuits has become increasingly more critical as the pin count and data rate rise. This paper describes a power scaling methodology and a new half-rate speculative architecture for decision-feedback equalizers (DFEs) to relax the speed-power trade-offs. Designed in 90-nm CMOS technology, a 20-Gb/s prototype consisting of a linear equalizer and a one-tap DFE compensates for the loss of an 18-in FR4 trace while drawing 40 mW from a 1-V supply.

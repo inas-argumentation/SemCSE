@@ -1,0 +1,2 @@
+Stability and stabilization of discrete systems with multiplicative noise
+In this paper we consider the problem of the stabilization of unstable stochastic difference systems by the addition of multiplicative noise. We illustrate the possibilities of stabilization by uniformly and normally distributed multiplicative noises. Then we present different approaches to the problem of finding sufficient conditions for stability and finally, address the optimal estimation problem and multiplicative noise control using estimated state values.

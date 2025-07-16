@@ -1,0 +1,2 @@
+One-Out-of-Many Proofs: Or How to Leak a Secret and Spend a Coin
+We construct a 3-move public coin special honest verifier zero-knowledge proof, a so-called Sigma-protocol, for a list of commitments having at least one commitment that opens to 0. It is not required for the prover to know openings of the other commitments. The proof system is efficient, in particular in terms of communication requiring only the transmission of a logarithmic number of commitments.

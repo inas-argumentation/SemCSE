@@ -1,0 +1,2 @@
+Digital Mosaic Frameworks - An Overview
+Art often provides valuable hints for technological innovations especially in the field of Image Processing and Computer Graphics. In this paper we survey in a unified framework several methods to transform raster input images into good quality mosaics. For each of the major different approaches in literature the paper reports a short description and a discussion of the most relevant issues. To complete the survey comparisons among the different techniques both in terms of visual quality and computational complexity are provided.

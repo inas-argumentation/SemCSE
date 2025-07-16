@@ -1,0 +1,15 @@
+SU-F-I-50: Finite Element-Based Deformable Image Registration of Lung and Heart.
+PURPOSE
+Photodynamic therapy (PDT) is used after surgical resection to treat the microscopic disease for malignant pleural mesothelioma and to increase survival rates. Although accurate light delivery is imperative to PDT efficacy, the deformation of the pleural volume during the surgery impacts the delivered light dose. To facilitate treatment planning, we use a finite-element-based (FEM) deformable image registration to quantify the anatomical variation of lung and heart volumes between CT pre-(or post-) surgery and surface contours obtained during PDT using an infrared camera-based navigation system (NDI).
+
+
+METHODS
+NDI is used during PDT to obtain the information of the cumulative light fluence on every cavity surface point that is being treated. A wand, comprised of a modified endotrachial tube filled with Intralipid and an optical fiber inside the tube, is used to deliver the light during PDT. The position of the treatment is tracked using an attachment with nine reflective passive markers that are seen by the NDI system. Then, the position points are plotted as three-dimensional volume of the pleural cavity using Matlab and Meshlab. A series of computed tomography (CT) scans of the lungs and heart, in the same patient, are also acquired before and after the surgery. The NDI and CT contours are imported into COMSOL Multiphysics, where the FEM-based deformable image registration is obtained. The NDI and CT contours acquired during and post-PDT are considered as the reference, and the Pre-PDT CT contours are used as the target, which will be deformed.
+
+
+RESULTS
+Anatomical variation of the lung and heart volumes, taken at different times from different imaging devices, was determined by using our model. The resulting three-dimensional deformation map along x, y and z-axes was obtained.
+
+
+CONCLUSION
+Our model fuses images acquired by different modalities and provides insights into the variation in anatomical structures over time.

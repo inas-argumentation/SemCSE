@@ -1,0 +1,2 @@
+Double-Boost DC to DC Converter
+In this paper a new boost topology is proposed. The circuit is similar with two parallel boost DC-to-DC converters, but the two inductors are charged in parallel and release energy in series, thus enhancing the voltage boost ratio. After a short analysis of the circuit, a comparative study with other classic boost converter (single boost and two-cascade) is presented. The simulation results show a net improvement of the boost ratio for the new proposed topology.

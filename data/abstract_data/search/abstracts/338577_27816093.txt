@@ -1,0 +1,2 @@
+Unsupervised Text Segmentation for Automated Error Reduction
+Challenging the assumption that traditional whitespace/punctuation based tokenisation is the best solution for any NLP application, I propose an alternative approach to segmenting text into processable units. The proposed approach is nearly knowledge free, in that it does not rely on language dependent, man made resources. The text segmentation approach is applied to the task of automated error reduction in texts with high noise. The results are compared to conventional tokenisation.

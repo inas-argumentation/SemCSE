@@ -1,0 +1,2 @@
+On the reachability set of automaton counter machines
+Properties of automaton counter machines are considered. The set of reachability states of any automaton one-counter machine is proved to be a semilinear set. An algorithm for constructing this set is described. In addition, the reachability sets of any reversal-bounded automaton counter machine and any flat automaton counter machine are also semilinear.

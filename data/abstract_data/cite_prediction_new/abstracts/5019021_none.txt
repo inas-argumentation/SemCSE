@@ -1,0 +1,2 @@
+A hybrid evolutionary algorithm for gait generation of Sony legged robots
+This paper presents a hybrid evolutionary algorithm (EA) for developing locomotion gait of Sony legged robots. The selection of EA parameters such as the population size and recombination methods is made to be flexible and strive towards optimal performance autonomously. An interactive software environment with an overhead CCD camera is used to evaluate the performance of the generated gaits. The experimental results are given to show that the stable and fast gaits have been achieved.

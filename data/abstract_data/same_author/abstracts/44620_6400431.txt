@@ -1,0 +1,4 @@
+Applying rough sets to market timing decisions
+A lot of research has been done to predict economic development. The problem studied here is about the stock prediction for use of investors. More specifically, the stock market's movements will be analyzed and predicted. We wish to retrieve knowledge that could guide investors on when to buy and sell. 
+ 
+Through a detailed case study on trading S&P 500 index, rough sets is shown to be an applicable and effective tool to achieve this goal. Some problems concerning time series transformation, indicator selection, trading system building in real implementation are also discussed.

@@ -1,0 +1,2 @@
+A Markov-Chain Monte Carlo Approach to Simultaneous Localization and Mapping
+A Markov-chain Monte Carlo based algorithm is provided to solve the Simultaneous localization and mapping (SLAM) problem with general dynamics and observation model under open-loop control and provided that the map-representation is finite dimensional. To our knowledge this is the first provably consistent yet (close-to) practical solution to this problem. The superiority of our algorithm over alternative SLAM algorithms is demonstrated in a difficult loop closing situation.

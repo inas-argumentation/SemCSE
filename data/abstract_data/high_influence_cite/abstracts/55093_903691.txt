@@ -1,0 +1,2 @@
+Finite-Time Consensus Using Stochastic Matrices With Positive Diagonals
+We discuss the possibility of reaching consensus in finite time using only linear iterations, with the additional restrictions that the update matrices must be stochastic with positive diagonals and consistent with a given graph structure. We show that finite-time average consensus can always be achieved for connected undirected graphs. For directed graphs, we show some necessary conditions for finite-time consensus, including strong connectivity and the presence of a simple cycle of even length.

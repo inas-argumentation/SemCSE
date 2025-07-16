@@ -1,0 +1,2 @@
+The extended tanh method for solving systems of nonlinear wave equations
+The extended tanh method with a computerized symbolic computation is used for constructing the traveling wave solutions of coupled nonlinear equations arising in physics. The obtained solutions include solitons, kinks and plane periodic solutions. The applied method will be used to solve the generalized coupled Hirota Satsuma KdV equation.

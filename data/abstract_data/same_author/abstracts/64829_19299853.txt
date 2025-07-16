@@ -1,0 +1,2 @@
+An Algorithm for Calculating Process Similarity to Cluster Open-Source Process Designs
+This paper proposes an algorithm for calculating process similarity in order to cluster process designs. A weighted graph is introduced for comparing processes in the intermediate form. The graph similarity is the weighted sum of similarity between sets of services and sets of service links that can be calculated based on the service similarity. The evaluation and application of the algorithm is discussed at the end of this paper.

@@ -1,0 +1,2 @@
+Improved Cryptanalysis of Rijndael
+We improve the best attack on Rijndael reduced to 6 rounds from complexity 272 to 244. We also present the first known attacks on 7- and 8-round Rijndael. The attacks on 8-round Rijndael work for 192- bit and 256-bit keys. Finally, we discuss the key schedule of Rijndael and describe a related-key attack that can break 9-round Rijndael with 256-bit keys.

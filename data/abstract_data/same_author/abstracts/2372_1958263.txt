@@ -1,0 +1,2 @@
+On zone-balancing of peer-to-peer networks: analysis of random node join
+Balancing peer-to-peer graphs, including zone-size distributions, has recently become an important topic of peer-to-peer (P2P) research [1], [2], [6], [19], [31], [36]. To bring analytical understanding into the various peer-join mechanisms, we study how zone-balancing decisions made during the initial sampling of the peer space affect the resulting zone sizes and derive several asymptotic results for the maximum and minimum zone sizes that hold with high probability.

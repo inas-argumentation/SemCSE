@@ -1,0 +1,2 @@
+On problems and conjectures on adjointly equivalent graphs
+For a graph G, let h(G,x) denote its adjoint polynomial and @b(G) denote the minimum real root of h(G,x). Two graphs H and G are said to be adjointly equivalent if h(H,x)=h(G,x). Let F"1={G|@b(G)>-4} and F"2={G|@b(G)>=-4}. In this paper, we give a necessary and sufficient condition for two graphs H and G in F"i to be adjointly equivalent, where i=1,2. We also solve some problems and conjectures proposed by Dong et al. (Discrete Math. 258 (2002) 303-321).

@@ -1,0 +1,2 @@
+Some Analytical Results for a Two‐Product Newsboy Problem
+A recent Decision Sciences paper considered maximizing the probability of achieving a profit target in a two-product newsboy problem. Numerical solutions to this problem revealed some intriguing properties, but the authors were unable to analytically explain many of their results. This paper presents an analytical solution procedure to this problem for the case of uniformly distributed demands. The analytical structure reveals more intriguing properties and these properties are proven and explained.

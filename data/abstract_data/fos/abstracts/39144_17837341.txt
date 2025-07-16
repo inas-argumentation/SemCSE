@@ -1,0 +1,2 @@
+An accelerated iterative method for computing weighted Moore-Penrose inverse
+The goal of this paper is to present an accelerated iterative method for computing weighted Moore-Penrose inverse. Analysis of convergence is included to show that the proposed scheme has sixth-order convergence. Using a proper initial matrix, a sequence of iterates will be produced, which is convergent to the weighted Moore-Penrose inverse. Numerical experiments are reported to show the efficiency of the new method.

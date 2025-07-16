@@ -1,0 +1,2 @@
+A Description Logic Primer
+This paper provides a self-contained first introduction to d escription logics (DLs). The main concepts and features are explained with examples before syntax and semantics of the DL SROIQ are defined in detail. Additional sections review lightweight DL languages, discuss the relationship to the OWL Web Ontology Language and give pointers to further reading.

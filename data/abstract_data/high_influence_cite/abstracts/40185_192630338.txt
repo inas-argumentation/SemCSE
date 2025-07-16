@@ -1,0 +1,30 @@
+LSCE-FFNN-v1: a two-step neural network model for the reconstruction of surface ocean pCO2 over the global ocean
+. A new feed-forward neural network (FFNN) model is presented to reconstruct surface ocean partial pressure of carbon dioxide (pCO2) over the
+global ocean. The model consists of two steps: (1) the reconstruction of
+pCO2 climatology, and (2) the reconstruction of
+pCO2 anomalies with respect to the climatology. For the
+first step, a gridded climatology was used as the target, along with sea
+surface salinity (SSS), sea surface temperature (SST), sea surface height
+(SSH), chlorophyll a (Chl a), mixed layer depth (MLD), as well as latitude and longitude as
+predictors. For the second step, data from the Surface Ocean CO2
+Atlas (SOCAT) provided the target. The same set of predictors was used during
+step (2) augmented by their anomalies. During each step, the FFNN model
+reconstructs the nonlinear relationships between pCO2 and
+the ocean predictors. It provides monthly surface ocean pCO2
+distributions on a 1∘×1∘ grid for the period from
+2001 to 2016. Global ocean pCO2 was reconstructed with
+satisfying accuracy compared with independent observational data from SOCAT.
+However, errors were larger in regions with poor data coverage (e.g., the
+Indian Ocean, the Southern Ocean and the subpolar Pacific). The model
+captured the strong interannual variability of surface ocean
+pCO2 with reasonable skill over the equatorial Pacific
+associated with ENSO (the El Niño–Southern Oscillation). Our model was
+compared to three pCO2 mapping methods that participated in
+the Surface Ocean pCO2 Mapping intercomparison (SOCOM)
+initiative. We found a good agreement in seasonal and interannual variability
+between the models over the global ocean. However, important differences
+still exist at the regional scale, especially in the Southern Hemisphere and,
+in particular, in the southern Pacific and the Indian Ocean, as these regions
+suffer from poor data coverage. Large regional uncertainties in reconstructed
+surface ocean pCO2 and sea–air CO2 fluxes have a
+strong influence on global estimates of CO2 fluxes and trends.

@@ -1,0 +1,2 @@
+The Exit Place of Brownian Motion in the Complement of a Horn
+Consider the domain lying outside a horn. We determine asymptotics of the logarithm of the chance that Brownian motion in the domain has a large exit place. For a certain class of horns, the behavior is given explicitly in terms of the geometry of the domain. We show that for some horns the behavior depends on the dimension, whereas for other horns, it does not. Analytically, the result is equivalent to estimating the harmonic measure of the part of the domain lying outside a cylinder with large diameter.

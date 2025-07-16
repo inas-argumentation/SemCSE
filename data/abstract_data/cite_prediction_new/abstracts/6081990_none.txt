@@ -1,0 +1,2 @@
+Perfect Bayesian implementation when the planner is a player
+The paper contributes to the perfect Bayesian implementation problem when the planner selects an outcome after agents send a signal profile. In our problem, the planner always selects the outcomes that maximize her expected utility, given her posterior belief about the state. The paper explicitly models the problem and shows a full characterization of SCF set that can be perfect Bayesian implemented in FGP equilibrium.

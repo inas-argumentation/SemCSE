@@ -1,0 +1,2 @@
+Distinctive Image Features from Scale Invariant Keypoints
+The Scale Invariant Feature Transform (or SIFT) algorithm is a highly robust method to extract and consequently match distinctive invariant features from images. These features can then be used to reliably match objects in diering images. The algorithm was rst proposed by Lowe [12] and further developed to increase performance resulting in the classic paper [13] that served as foundation for SIFT which has played an important role in robotic and machine vision in the past decade.

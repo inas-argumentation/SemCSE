@@ -1,0 +1,31 @@
+Effects of Estrogen Receptor and Human Epidermal Growth Factor Receptor-2 Levels on the Efficacy of Trastuzumab: A Secondary Analysis of the HERA Trial.
+IMPORTANCE
+A number of studies suggest that response to antihuman epidermal growth factor receptor-2 (currently known as ERBB2, butreferred to asHER2 in this study) agents differs by estrogen receptor (ER) level status. The clinical relevance of this is unknown.
+
+
+OBJECTIVE
+To determine the magnitude of trastuzumab benefit according to quantitative levels of ER and HER2 in the HERceptin Adjuvant (HERA) trial.
+
+
+DESIGN, SETTING, AND PARTICIPANTS
+The HERA trial was an international, multicenter, randomized trial that included 5099 patients with early-stage HER2-positive breast cancer, randomized between 2001 and 2005 to receive either no trastuzumab or trastuzumab, after adjuvant chemotherapy. This is a secondary analysis of the HERA study. Local ER immunohistochemical (IHC) analyses, HER2 fluorescence in situ hybridization (FISH) ratio, and copy number results were available for 3037 patients (59.6%) randomized to observation and trastuzumab (1 or 2 years) (cohort 1). Transcript levels of ESR1 and HER2 genes were available for 615 patients (12.1%) (cohort 2).
+
+
+INTERVENTIONS
+Patients were randomized to receive either no trastuzumab or 1 year vs 2 years of trastuzumab. Endocrine therapy was given to patients with hormone receptor-positive disease as per local guidelines.
+
+
+MAIN OUTCOMES AND MEASURES
+Disease-free survival (DFS) and overall survival (OS) were the primary and secondary end points in the intent-to-treat population (ITT). Analyses adjusting for crossover (censored and inverse probability weighted [IPW]) were also performed. Interactions among treatment, ER status, and HER2 amplification using predefined cutoffs were assessed in Cox proportional hazards regression models.
+
+
+RESULTS
+Median follow-up time was 8 years. Levels of FISH and HER2 copy numbers were significantly higher in ER-negative patients (P < .001). In cohort 1, for DFS and OS, a significant treatment effect was found for all ER, IHC, and FISH levels, except for the ER-positive/HER2 low FISH ratio (≥2 to <5) group (DFS: 3-way ITT Pvalue for interaction = .07; censored = .02; IPW = .03; OS ITT Pvalue for interaction = .007; censored = .04; IPW = .03). In cohort 2, consistent with cohort 1, a significant predictive effect of the ESR1 gene for both end points was also observed (DFS Pvalue for interaction = .06; OS = .02), indicating that breast cancers with higher ESR1 levels also derive less benefit from trastuzumab.
+
+
+CONCLUSIONS AND RELEVANCE
+Patients with HER2-positive breast cancers that are ER-positive by IHC analyses with low FISH ratio (≥2 to <5), or with higher ESR1 levels derive significantly less benefit from adjuvant trastuzumab after chemotherapy. These data may explain heterogeneity in response to anti-HER2 agents in HER2-positive, ER-positive breast cancers as some may be more luminal-like than HER2 driven.
+
+
+TRIAL REGISTRATION
+clinicaltrials.gov Identifier: NCT00045032.

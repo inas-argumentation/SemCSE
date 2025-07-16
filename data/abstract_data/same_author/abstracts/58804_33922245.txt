@@ -1,0 +1,2 @@
+A Linear Algorithm for Edge-Coloring Series-Parallel Multigraphs
+Many combinatorial problems can be efficiently solved for series?parallel multigraphs. However, the edge-coloring problem of finding the minimum number of colors required for edge-coloring given graphs is one of a few well-known combinatorial problems for which no efficient algorithms have been obtained for series?parallel multigraphs. This paper gives a linear algorithm for the problem on series?parallel multigraphs.

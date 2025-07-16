@@ -1,0 +1,2 @@
+Estimation et optimisation de la consommation des mémoires
+This paper gives an overview of memory power and area estimation at high level of ion. First, we introduce different techniques of memory size and power estimation are presented. Finally, we show how memory can be optimized at high level to reduce power and area cost of memory unit.

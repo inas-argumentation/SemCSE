@@ -1,0 +1,2 @@
+Quality optimisation of software architectures and design specifications
+This special issue of the Journal of Systems and Software presents novel software architecture optimisation frameworks. The majority of the approaches consider the problem of optimising conflicting quality attributes simultaneously. Other approaches focus on effectively searching for better software architectures by either using smart problem-dependent heuristics or by combining the expression power of ADLs with architecture optimisation.

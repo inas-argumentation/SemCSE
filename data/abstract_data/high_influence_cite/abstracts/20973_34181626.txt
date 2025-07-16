@@ -1,0 +1,15 @@
+Incorporating Functional Genomic Information to Enhance Polygenic Signal and Identify Variants Involved in Gene‐by‐Environment Interaction for Young Adult Alcohol Problems
+BACKGROUND
+Characterizing aggregate genetic risk for alcohol misuse and identifying variants involved in gene-by-environment (G × E) interaction effects has so far been a major challenge. We hypothesized that functional genomic information could be used to enhance detection of polygenic signal underlying alcohol misuse and to prioritize identification of single nucleotide polymorphisms (SNPs) most likely to exhibit G × E effects.
+
+
+METHODS
+We examined these questions in the young adult FinnTwin12 sample (n = 1,170). We used genomewide association estimates from an independent sample to derive 2 types of polygenic scores for alcohol problems in FinnTwin12. Genomewide polygenic scores included all SNPs surpassing a designated p-value threshold. DNase polygenic scores were a subset of the genomewide polygenic scores including only variants in DNase I hypersensitive sites (DHSs), which are open chromatin marks likely to index regions with a regulatory function. We conducted parallel analyses using height as a nonpsychiatric model phenotype to evaluate the consistency of effects. For the G × E analyses, we examined whether SNPs in DHSs were overrepresented among SNPs demonstrating significant G × E effects in an interaction between romantic relationship status and intoxication frequency.
+
+
+RESULTS
+Contrary to our expectations, we found that DNase polygenic scores were not more strongly predictive of alcohol problems than conventional polygenic scores. However, variants in DNase polygenic scores had per-SNP effects that were up to 1.4 times larger than variants in conventional polygenic scores. This same pattern of effects was also observed in supplementary analyses with height. In G × E models, SNPs in DHSs were modestly overrepresented among SNPs with significant interaction effects for intoxication frequency.
+
+
+CONCLUSIONS
+These findings highlight the potential utility of integrating functional genomic annotation information to increase the signal-to-noise ratio in polygenic scores and identify genetic variants that may be most susceptible to environmental modification.

@@ -1,0 +1,2 @@
+A survey of video datasets for crowd density estimation
+Crowd density analysis is very imperative for intellectual video surveillance to help in management and control of crowds for safety. In recent years, more and more datasets dedicated to crowd density estimation, crowd analysis and anomaly detection in crowded scenes have been created. The use of these dataset allows us to compare different crowd density estimation methods with the same input data. The survey introduced in this paper compares different crowd datasets for crowd density estimation methods.

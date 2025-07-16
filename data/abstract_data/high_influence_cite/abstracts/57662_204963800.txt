@@ -1,0 +1,2 @@
+Exclusion sets in the S-type eigenvalue localization sets for tensors
+In this paper, we break the index set N into disjoint subsets S and its complement, and propose two S-type exclusion sets that all the eigenvalues do not belong to them. Furthermore, we establish new S-type eigenvalue inclusion sets, which can reduce computations and obtain more accurate numerical results. At the same time, we give two criteria for identifying nonsingular tensors. Finally, new S-type eigenvalue inclusion sets are shown to be sharper than existing results via two examples.

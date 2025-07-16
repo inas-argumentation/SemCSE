@@ -1,0 +1,2 @@
+Parametric Duality and Kernelization: Lower Bounds and Upper Bounds on Kernel Size
+We develop new techniques to derive lower bounds on the kernel size for certain parameterized problems. For example, we show that unless $\mathcal{P}$=$\mathcal{NP}$, planar vertex cover does not have a problem kernel of size smaller than 4k/3, and planar independent set and planar dominating set do not have kernels of size smaller than 2k. We derive an upper bound of 67k on the problem kernel for planar dominating set improving the previous 335k upper bound by Alber et al.

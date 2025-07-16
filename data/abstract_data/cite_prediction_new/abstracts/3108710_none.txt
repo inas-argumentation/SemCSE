@@ -1,0 +1,19 @@
+Ionization fraction and the enhanced sulfur chemistry in Barnard 1.
+CONTEXT
+Barnard B1b has revealed as one of the most interesting globules from the chemical and dynamical point of view. It presents a rich molecular chemistry characterized by large abundances of deuterated and complex molecules. Furthermore, it hosts an extremely young Class 0 object and one candidate to First Hydrostatic Core (FHSC) proving the youth of this star forming region.
+
+
+AIMS
+Our aim is to determine the cosmic ray ionization rate, [Formula: see text], and the depletion factors in this extremely young star forming region. These parameteres determine the dynamical evolution of the core.
+
+
+METHODS
+We carried out a spectral survey towards Barnard 1b as part of the IRAM Large program ASAI using the IRAM 30-m telescope at Pico Veleta (Spain). This provided a very complete inventory of neutral and ionic C-, N- and S- bearing species with, up to our knowledge, the first secure detections of the deuterated ions DCS+ and DOCO+. We use a state-of-the-art pseudo-time-dependent gas-phase chemical model that includes the ortho and para forms of [Formula: see text] and [Formula: see text] to determine the local value of the cosmic ray ionization rate and the depletion factors.
+
+
+RESULTS
+Our model assumes n(H2)=105 cm-3 and T k =12 K, as derived from our previous works. The observational data are well fitted with ζH2 between 3×10-17 s-1 and 10-16 s-1, and the following elemental abundances: O/H=3 10-5, N/H=6.4-8 10-5, C/H=1.7 10-5 and S/H between 6.0 10-7 and 1.0 10-6. The large number of neutral/protonated species detected, allows us to derive the elemental abundances and cosmic ray ionization rate simultaneously. Elemental depletions are estimated to be ~10 for C and O, ~1 for N and ~25 for S.
+
+
+CONCLUSIONS
+Barnard B1b presents similar depletions of C and O than those measured in pre-stellar cores. The depletion of sulfur is higher than that of C and O but not as extreme as in cold cores. In fact, it is similar to the values found in some bipolar outflows, hot cores and photon-dominated regions. Several scenarios are discussed to account for these peculiar abundances. We propose that it is the consequence of the initial conditions (important outflows and enhanced UV fields in the surroundings) and a rapid collapse (~0.1 Myr) that permits to maintain most S- and N-bearing species in gas phase to great optical depths. The interaction of the compact outflow associated with B1b-S with the surrounding material could enhance the abundances of S-bearing molecules, as well.

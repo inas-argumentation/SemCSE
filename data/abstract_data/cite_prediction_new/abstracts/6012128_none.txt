@@ -1,0 +1,2 @@
+Simulation studies of Negative Bias Temperature Instability in FinFETs using two-stage model
+In this paper, we investigated the effect of Negative Bias Temperature Instability (NBTI) in FinFET devices. For the simulation studies, we used the two-stage model - an NBTI model, which describes accurately the behaviour of devices during stress and relax phase of NBTI. The effect of stress bias, initial concentration of oxygen vacancy precursors and temperature on NBTI degradation in FinFETs are analysed.

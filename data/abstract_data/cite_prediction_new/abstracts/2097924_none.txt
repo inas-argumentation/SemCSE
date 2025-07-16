@@ -1,0 +1,4 @@
+Sum of squares method for sensor network localization
+We formulate the sensor network localization problem as finding the global minimizer of a quartic polynomial. Then sum of squares (SOS) relaxations can be applied to solve it. However, the general SOS relaxations are too expensive to implement for large problems. Exploiting the special features of this polynomial, we propose a new structured SOS relaxation, and discuss its various properties. When distances are given exactly, this SOS relaxation often returns true sensor locations. At each step of interior point methods solving this SOS relaxation, the complexity is 
+$\mathcal{O}(n^{3})$
+, where n is the number of sensors. When the distances have small perturbations, we show that the sensor locations given by this SOS relaxation are accurate within a constant factor of the perturbation error under some technical assumptions. The performance of this SOS relaxation is tested on some randomly generated problems.

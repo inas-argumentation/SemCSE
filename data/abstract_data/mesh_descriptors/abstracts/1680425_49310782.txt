@@ -1,0 +1,15 @@
+Quantitative simulation of extracellular single unit recording from the surface of cortex.
+OBJECTIVE
+Neural recording is important for a wide variety of clinical applications. Until recently, recording from the surface of the brain, even when using micro-electrocorticography (μECoG) arrays, was not thought to enable recording from individual neurons. Recent results suggest that when the surface electrode contact size is sufficiently small, it may be possible to record single neurons from the brain's surface. In this study, we use computational techniques to investigate the ability of surface electrodes to record the activity of single neurons.
+
+
+APPROACH
+The computational model included the rat head, μECoG electrode, two existing multi-compartmental neuron models, and a novel multi-compartmental neuron model derived from patch clamp experiments in layer 1 of the cortex.
+
+
+MAIN RESULTS
+Using these models, we reproduced single neuron recordings from μECoG arrays, and elucidated their possible source. The model resembles the experimental data when spikes originate from layer 1 neurons that are less than 60 μm from the cortical surface. We further used the model to explore the design space for surface electrodes. Although this model does not include biological or thermal noise, the results indicate the electrode contact area should be 100 μm2 or smaller to maintain a detectable waveform amplitude. Furthermore, the model shows the width of lateral insulation could be reduced, which may reduce scar formation, while retaining 95% of signal amplitude.
+
+
+SIGNIFICANCE
+Overall, the model suggests single-unit surface recording is limited to neurons in layer 1 and further improvement in electrode design is needed.

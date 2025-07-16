@@ -1,0 +1,2 @@
+Increasing the Similarity of EOL Form Interpretations
+Ordinary interpretations of EOL forms permit the omission of productions and the replacement of different occurrences of the same symbol in a production by different symbols. This drastically weakens the relation between the structure of an interpretation and its underlying EOL form. We claim that by using the notion of X -uniformity and cc -interpretation this drawback can be overcome.

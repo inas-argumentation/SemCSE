@@ -1,0 +1,2 @@
+Integrating Image Clustering and Codebook Learning
+Inference and Learning • Variational inference: use a variational distribution to approximate the posterior of latent variables. • Optimize the variational lower bound using EM algorithm: in E step, estimate the variational variables; in M step, learn model parameters. • Seamlessly couple two layers of GMMs. • GMM in the first layer is used for clustering. Image clustering and codebook learning are closely related and mutually beneficial.

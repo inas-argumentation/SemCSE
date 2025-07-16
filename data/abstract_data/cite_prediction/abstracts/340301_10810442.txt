@@ -1,0 +1,2 @@
+Ultra-wideband multi-section power divider on suspended stripline
+In this paper, a design method of an ultra-wideband multi-section power divider on suspended stripline (SSL) is presented. A clear design guideline for ultra-wideband power dividers is provided. As a design example, a 10-section SSL power divider is implemented. The fabricated divider exhibits the minimum insertion loss of 0.3 dB, the maximum insertion loss of 1.5 dB from 1 to 19 GHz. The measured VSWR is typically 1.40:1, and the isolation between output-port is typically 20 dB.

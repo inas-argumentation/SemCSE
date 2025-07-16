@@ -1,0 +1,2 @@
+High rate large dynamic range analog circuitry and digitizers for fast calorimetry
+This paper describes the issues encountered in the design of a large dynamic range digitizer for calorimetry. A gain switching technology developed for the liquid krypton calorimeter of the NA48 CP-violation experiment at CERN is described in detail. 14 bit dynamic range and better than 300 ps time resolution were achieved in beam tests with an 8 channel prototype. A mixed analog/digital ASIC has been developed. A 13500 channel system is being produced which will be put into operation in 1996.

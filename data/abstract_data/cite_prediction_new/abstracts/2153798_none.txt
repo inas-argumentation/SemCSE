@@ -1,0 +1,2 @@
+A full-wave approach to the modeling of discontinuities of real conductors in planar lossy lines for MMIC applications
+We present a full-wave approach to the analysis of discontinuities of real conductors in planar lines, where conductor losses, as well as their finite thickness, are rigorously taken into account. The computational load is quite independent of the number of the dielectric layers composing the substrate, making the model particularly suitable to the analysis of discontinuities in MMIC circuits.

@@ -1,0 +1,2 @@
+Local Grayvalue Invariants for Image Retrieval
+This paper addresses the problem of retrieving images from large image databases. The method is based on local grayvalue invariants which are computed at automatically detected interest points. A voting algorithm and semilocal constraints make retrieval possible. Indexing allows for efficient retrieval from a database of more than 1,000 images. Experimental results show correct retrieval in the case of partial visibility, similarity transformations, extraneous features, and small perspective deformations.

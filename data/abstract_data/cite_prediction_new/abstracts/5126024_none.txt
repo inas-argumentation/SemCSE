@@ -1,0 +1,2 @@
+Building simple models: A case study with decision trees
+Building correctly-sized models is a central challenge for induction algorithms. Many approaches to decision tree induction fail this challenge. Under a broad range of circumstances, these approaches exhibit a nearly linear relationship between training set size and tree size, even after accuracy has ceased to increase. These algorithms fail to adjust for the statistical effects of comparing multiple subtrees. Adjusting for these effects produces trees with little or no excess structure.

@@ -1,0 +1,2 @@
+Holmes: an intelligent system to support software product line development
+Holmes is a software product line tool that supports all core activities of software product line analysis and development. Holmes integrates its tools using a blackboard architecture based on a Linda tuple space. A novel feature is the use of a critiquing system to provide semantic support. This is demonstrated with an example.

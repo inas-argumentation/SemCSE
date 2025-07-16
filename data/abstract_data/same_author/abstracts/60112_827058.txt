@@ -1,0 +1,2 @@
+Auto-construction of a live thesaurus from search term logs for interactive Web search (poster session)
+The purpose of this paper is to present an on-going research that is intended to construct a live thesaurus directly from search term logs of real-world search engines. Such a thesaurus designed can contain representative search terms, their frequency in use, the corresponding subject categories, the associated and relevant terms, and the hot visiting Web sites/pages the search terms may reach.

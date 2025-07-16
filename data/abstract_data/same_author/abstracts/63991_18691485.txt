@@ -1,0 +1,2 @@
+Automatic Self-Reconfiguration of System-on-Chip Peripherals
+A technique is presented which allows an FPGA-based reconfigurable system-on-chip to automatically and dynamically load hardware peripheral controllers and software device drivers depending on the system's automated identification of peripheral boards which are connected to the FPGA. The technique loads peripheral detection modules into peripheral controller slots at system startup, and after these modules identify the peripheral, the correct hardware controllers and software drivers are loaded.

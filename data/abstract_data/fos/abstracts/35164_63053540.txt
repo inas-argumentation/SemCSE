@@ -1,0 +1,2 @@
+Analysis and Design of Universities HR Management System Based on Integration of Information Systems
+Analyzes the certain insufficient of existing personnel management information system,and proposes the goal of the human resource management information system,and proposes that using the integration of the information systems to realize the system.Designs the logical model and the function modules of the system,discusses the information systems integration technology which has been used to realize the system,such as SOA and data warehouse.

@@ -1,0 +1,3 @@
+Security in Container-Based Virtualization through vTPM
+Cloud computing is a wide-spread technology that enables the enterprises to provide services to their customers with a lower cost, higher performance, better availability and scalability. However, privacy and security in cloud computing has always been a major challenge to service providers and a concern to its users. Trusted computing has led its way in securing the cloud computing and virtualized environment, during the past decades.
+ In this paper, first we study virtualized trusted platform modules and integration of vTPM in hypervisor-based virtualization. Then we propose two architectural solutions for integrating the vTPM in container-based virtualization model.

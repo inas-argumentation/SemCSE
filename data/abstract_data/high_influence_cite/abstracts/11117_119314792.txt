@@ -1,0 +1,10 @@
+Quenched asymptotics for Brownian motion of renormalized Poisson potential and for the related parabolic Anderson models
+Let Bs be a d-dimensional Brownian motion and ω(dx) be an independent Poisson field on Rd. The almost sure asymptotics for the logarithmic moment generating function 
+ 
+logE0exp{±θ∫t0V¯¯¯¯(Bs)ds}(t→∞) 
+ 
+are investigated in connection with the renormalized Poisson potential of the form 
+ 
+V¯¯¯¯(x)=∫Rd1|y−x|p[ω(dy)−dy],x∈Rd. 
+ 
+The investigation is motivated by some practical problems arising from the models of Brownian motion in random media and from the parabolic Anderson models.

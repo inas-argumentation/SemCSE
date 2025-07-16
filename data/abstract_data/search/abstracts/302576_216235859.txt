@@ -1,0 +1,2 @@
+An alternative Z score measure for downside bank insolvency risk
+We derive a Z score measure reflecting downside bank insolvency risk, drawing on a Chebyshev inequality in terms of the lower semivariance. As then illustrated empirically for US banks, this may provide a useful alternative, or robustness check, to the more commonly used Z score measure based on the standard Chebyshev inequality.

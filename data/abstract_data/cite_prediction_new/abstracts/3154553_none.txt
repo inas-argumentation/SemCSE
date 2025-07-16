@@ -1,0 +1,2 @@
+An O(n) Algorithm for Finding an Optimal Position with Relative Distances in an Evolutionary Tree
+An O( n ) algorithm for finding an optimal position with relative distances in an evolutionary tree is presented in this paper. The optimality of position is defined by minimum incremental distance under L ∝ -norm. The algorithm can also be used to solve similar problems with alternative criteria, such as L 1 -norm or minimum tree size.

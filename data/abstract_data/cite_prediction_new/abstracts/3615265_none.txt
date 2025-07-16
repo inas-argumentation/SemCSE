@@ -1,0 +1,2 @@
+Hemispherical Projection for Progressive Radiosity Calculation on Massively Parallel Architectures
+This paper describes a massively parallel implementation of the progressive radiosity algorithm. Our algorithm is based on an hemispherical projection approach, which provides an accurate form factor approximation. As the projection plane is mapped onto a processor mesh, we propose different techniques decreasing computation time by reducing as much as possible processor inactivity. This approach successfully handles large sets of form factor sampling elements.

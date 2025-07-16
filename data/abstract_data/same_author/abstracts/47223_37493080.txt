@@ -1,0 +1,2 @@
+Area&#8212;Time Optimal VLSI Circuits for Convolution
+A family of VLSI circuits is presented to perform open convolution, i.e., polynomial multiplication. The circuits are all based on a recursive construction and are therefore particularly well adapted to automated design. All the circuits presented are optimal with respect to the area–time2 tradeoff, and, depending on the degree of paralleism or pipeline, they range from a compact but slow convolver to a large but very fast convolver.

@@ -1,0 +1,2 @@
+Non-singular solutions of two-point problems, with multiple changes of sign in the nonlinearity
+We prove that positive solutions of the two-point boundary value problem u′′(x) + λf(u(x)) = 0, for −1 < x < 1, u(−1) = u(1) = 0, satisfying maxu = u(0) > γ, are non-singular, provided that f(u) is predominantly negative for u ∈ (0, γ], and superlinear for u > γ. This result adds a solution curve without turns to whatever is known about the solution set for u(0) ∈ (0, γ). In particular, we combine it with the well-known cases of parabola-like, or S-shaped solution curves.

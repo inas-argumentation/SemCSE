@@ -1,0 +1,8 @@
+Domain Adaptation for Deep Reinforcement Learning in Visually Distinct Games
+Many deep reinforcement learning approaches use graphical state representations,
+this means visually distinct games that share the same underlying structure cannot
+effectively share knowledge. This paper outlines a new approach for learning
+underlying game state embeddings irrespective of the visual rendering of the game
+state. We utilise approaches from multi-task learning and domain adaption in
+order to place visually distinct game states on a shared embedding manifold. We
+present our results in the context of deep reinforcement learning agents.

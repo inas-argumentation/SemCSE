@@ -1,0 +1,11 @@
+Accurate anchoring alignment of divergent sequences
+MOTIVATION
+Obtaining high quality alignments of divergent homologous sequences for cross-species sequence comparison remains a challenge.
+
+
+RESULTS
+We propose a novel pairwise sequence alignment algorithm, ACANA (ACcurate ANchoring Alignment), for aligning biological sequences at both local and global levels. Like many fast heuristic methods, ACANA uses an anchoring strategy. However, unlike others, ACANA uses a Smith-Waterman-like dynamic programming algorithm to recursively identify near-optimal regions as anchors for a global alignment. Performance evaluations using a simulated benchmark dataset and real promoter sequences suggest that ACANA is accurate and consistent, especially for divergent sequences. Specifically, we use a simulated benchmark dataset to show that ACANA has the highest sensitivity to align constrained functional sites compared to BLASTZ, CHAOS and DIALIGN for local alignment and compared to AVID, ClustalW, DIALIGN and LAGAN for global alignment. Applied to 6007 pairs of human-mouse orthologous promoter sequences, ACANA identified the largest number of conserved regions (defined as over 70% identity over 100 bp) compared to AVID, ClustalW, DIALIGN and LAGAN. In addition, the average length of conserved region identified by ACANA was the longest. Thus, we suggest that ACANA is a useful tool for identifying functional elements in cross-species sequence analysis, such as predicting transcription factor binding sites in non-coding DNA.
+
+
+AVAILABILITY
+ACANA software and test sequence data are publicly available at http://BioMedEmpire.org/

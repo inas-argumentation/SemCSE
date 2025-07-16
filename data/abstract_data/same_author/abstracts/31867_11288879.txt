@@ -1,0 +1,14 @@
+Critical exponents and equation of state of the three-dimensional Heisenberg universality class
+We improve the theoretical estimates of the critical exponents for the 
+three-dimensional Heisenberg universality class. We find gamma=1.3960(9), 
+nu=0.7112(5), eta=0.0375(5), alpha=-0.1336(15), beta=0.3689(3), and 
+delta=4.783(3). We consider an improved lattice phi^4 Hamiltonian with 
+suppressed leading scaling corrections. Our results are obtained by combining 
+Monte Carlo simulations based on finite-size scaling methods and 
+high-temperature expansions. The critical exponents are computed from 
+high-temperature expansions specialized to the phi^4 improved model. By the 
+same technique we determine the coefficients of the small-magnetization 
+expansion of the equation of state. This expansion is extended analytically by 
+means of approximate parametric representations, obtaining the equation of 
+state in the whole critical region. We also determine a number of universal 
+amplitude ratios.

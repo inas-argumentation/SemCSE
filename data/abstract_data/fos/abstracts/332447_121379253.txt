@@ -1,0 +1,8 @@
+Asymptotic behavior of integrals connected with spectral functions for hypoelliptic operators
+In the first part of this paper are considered real polynomialsP(ζ), ζ∈Rn, complete and nondegenerate in the sense that there is a set of (even) multi-indices αj,j=1,...,N, such that, for |ζ|>K, ζ real,
+$$cP(\xi ) \leqslant \sum {\xi ^{\alpha j} }  \leqslant CP(\xi ).$$
+ (See V. P. Mihailov,Soviet Math. Dokl. 164 (1965), MR 32: 6047).It is then proved by an explicit computation, for every given even multi-index γ, that there are a real number θ>0 and an integerr, 0≤r<n, depending only on γ and {α1}, and such that
+$$\int {\xi ^\gamma  } \exp \{  - tP(\xi )\} d\xi  - K\gamma (P)t^{ - \theta } \left| {\log t} \right|^\gamma  (1 + o(1))$$
+ as t→+0. A Tauberian argument then leads to an asymptotic estimate of the integral
+$$e_0^{(\beta ,\beta )} (\lambda ,0) = \int {{}_{P(\xi  \leqslant \lambda )}\xi ^{2\beta } d\xi ,} $$
+, wheree0(β, β) is a derivative of a certain spectral function. Less explicit results for a larger class of polynomials were given by N. Nilsson,Ark. f. Mat. 5 (1965). In the second part of the paper, the explicit computations are extended to the larger class considered by Nilsson but under the restrictionn=2.

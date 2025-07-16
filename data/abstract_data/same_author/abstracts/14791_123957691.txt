@@ -1,0 +1,2 @@
+Study on a Cellmap for the Reconstruction of Cosmic Ray Tracks in Drift Chamber
+Taking L3 Cosmics experiment (L3 + C) as an example, we discussed a new Cellmap to reconstruct the hit in drift chamber of magnetic spectrometer for the very inclined comic-ray tracks, and compared the reconstruction results with the standard Cellmap of L3 + C. It shows that, for the very inclined cosmic-ray tracks, the new Cellmap can reconstruct more hits than the standard Cellmap, and the distribution of chi(2) of track reconstruction is also improved.

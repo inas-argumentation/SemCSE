@@ -1,0 +1,2 @@
+Breaking network security based on synchronized chaos
+Very recently, the use of chaos synchronization as a means of masking information data in a network has been proposed. Although it is claimed that the security breach is not possible and that the proposed encryption approach can be used to secure communications over Internet, we prove that these claims are unfounded, breaking the cryptosystem in different ways.

@@ -1,0 +1,40 @@
+Nocturnal aerosol optical depth measurements with modified sky radiometer POM-02 using the moon as a light source
+. The majority of aerosol data are obtained from daytime measurements, and
+there are few datasets available for studying nighttime aerosol
+characteristics. In order to estimate the aerosol optical depth (AOD) and
+the precipitable water vapor (PWV) during the nighttime using the moon as a
+light source, a sky radiometer (POM-02, Prede Ltd., Japan) was modified. The
+amplifier was adjusted so that POM-02 could measure lower levels of input
+irradiance. In order to track the moon based on the calculated values, a
+simplified formula was incorporated into the firmware. A new position sensor
+with a four-quadrant detector to adjust the tracking of the Sun and moon was
+also developed. The calibration constant, which is the sensor output for the
+extraterrestrial solar and lunar irradiance at the mean Earth–Sun distance,
+was determined by using the Langley method. The measurements for the Langley
+calibration were conducted at the National Oceanic and Atmospheric
+Administration/Mauna Loa Observatory (NOAA/MLO) from 28 September 2017 to
+7 November 2017. By assuming that the correct reflectance is proportional to the
+reflectance estimated by the Robotic Lunar Observatory (ROLO) irradiance
+model, the calibration constant for the lunar direct irradiance was
+successfully determined using the Langley method. The ratio of the
+calibration constant for the moon to that of the Sun was often greater than
+1; the value of the ratio was 0.95 to 1.18 in the visible and near-infrared
+wavelength regions. This indicates that the ROLO model often underestimates
+the reflectance. In addition, this ratio depended on the phase angle. In
+this study, this ratio was approximated by a quadratic equation of the phase
+angle. By using this approximation, the reflectance of the moon can be
+calculated to within an accuracy of 1 % or less. In order to validate the estimates of the AOD and PWV, continuous
+measurements with POM-02 were conducted at the Japan Meteorological
+Agency/Meteorological Research Institute (JMA/MRI) from January 2018 to May 2018,
+and the AOD and PWV were estimated. The results were compared with the
+AOD and PWV obtained by independent methods. The AOD was compared with that
+estimated by the National Institute for Environmental Studies (NIES) High
+Spectral Resolution Lidar measurements (wavelength: 532 nm), and the PWV was
+compared with the PWV obtained from a radiosonde and the Global Positioning
+System. In addition, the continuity of the AOD (PWV) before and after
+sunrise and sunset in Tsukuba was examined, and the AOD (PWV) of AERONET and
+that of POM-02 at MLO were compared. In the results, the daytime and
+nighttime AOD (PWV) measurements are shown to be statistically almost
+equivalent. The AODs (PWVs) during the daytime and nighttime for POM-02 are
+presumed to have the same degree of precision and accuracy within the
+measurement uncertainty.

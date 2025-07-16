@@ -1,0 +1,2 @@
+A Glitch-Free Time-to-Digital Converter Architecture Based on Gray Code (特集 電子回路関連技術)
+A glitch-free time-to-digital converter (TDC) based on Gray code is presented. This architecture can reduce hardware, power consumption, as well as chip area significantly compared to a flash type TDC, while keeping comparable performance and glitch-free characteristics. Its proof-of-concept prototype was implemented on FPGA, and the simulation and measurement results validate the effectiveness of the proposed architecture.

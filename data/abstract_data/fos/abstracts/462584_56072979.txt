@@ -1,0 +1,30 @@
+Collocation mismatch uncertainties in satellite aerosol retrieval validation
+. Satellite-based aerosol products are routinely validated against
+ground-based reference data, usually obtained from sun photometer networks
+such as AERONET (AEROsol RObotic NETwork). In a typical validation exercise a
+spatial sample of the instantaneous satellite data is compared against a
+temporal sample of the point-like ground-based data. The observations do not
+correspond to exactly the same column of the atmosphere at the same time, and
+the representativeness of the reference data depends on the spatiotemporal
+variability of the aerosol properties in the samples. The associated
+uncertainty is known as the collocation mismatch uncertainty (CMU). The
+validation results depend on the sampling parameters. While small samples
+involve less variability, they are more sensitive to the inevitable noise in
+the measurement data. In this paper we study systematically the effect of the
+sampling parameters in the validation of AATSR (Advanced Along-Track Scanning
+Radiometer) aerosol optical depth (AOD) product against AERONET data and the
+associated collocation mismatch uncertainty. To this end, we study the
+spatial AOD variability in the satellite data, compare it against the
+corresponding values obtained from densely located AERONET sites, and assess
+the possible reasons for observed differences. We find that the spatial AOD variability in the satellite data is
+approximately 2 times larger than in the ground-based data, and the spatial
+variability correlates only weakly with that of AERONET for short distances.
+We interpreted that only half of the variability in the satellite data is due
+to the natural variability in the AOD, and the rest is noise due to retrieval
+errors. However, for larger distances ( ∼  0.5 ∘ ) the correlation is
+improved as the noise is averaged out, and the day-to-day changes in regional
+AOD variability are well captured. Furthermore, we assess the usefulness of
+the spatial variability of the satellite AOD data as an estimate of CMU by
+comparing the retrieval errors to the total uncertainty estimates including
+the CMU in the validation. We find that accounting for CMU increases the
+fraction of consistent observations.

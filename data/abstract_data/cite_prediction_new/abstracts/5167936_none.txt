@@ -1,0 +1,2 @@
+Adaptive random access and resource allocation scheme based on traffic load in HiperLAN type2 system
+The MAC protocol of HiperLAN type2 is based on TDMA/TDD and provides access control and resource allocation schemes. We propose a scheme that provides adaptive random access and efficient resource allocation according to the traffic load for HiperLAN type2, by using access probability. The analysis and simulation results show that the proposed scheme performs better than the conventional scheme and supports priority services easily.

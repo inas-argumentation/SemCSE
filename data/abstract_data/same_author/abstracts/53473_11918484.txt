@@ -1,0 +1,2 @@
+Automatic configuration generation for FPGA interconnect testing
+We present a new automatic test configuration generation technique for manufacturing testing of interconnect network of SRAM-based FPGA architectures. The technique guarantees detection of open and bridging faults in all wiring channels and programmable switches in the interconnects. Only 8 test configurations are required to achieve 100% coverage of stuck-open, stuck-closed, open and bridging faults in the interconnects of Xilinx Virtex FPGAs.

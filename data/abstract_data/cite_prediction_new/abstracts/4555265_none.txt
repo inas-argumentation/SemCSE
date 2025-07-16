@@ -1,0 +1,2 @@
+SonarBeat: Sonar Phase for Breathing Beat Monitoring with Smartphones
+Vital sign (e.g., breathing rate) monitoring has become increasingly more important because it offers useful clues of medical conditions such as sleep disorders or anomalies. It is necessary to provide contact-free, easy deployment, and long-term vital sign monitoring for healthcare. In this demo, we present SonarBeat to leverage a phase based active sonar to monitor breathing rates with smartphones.

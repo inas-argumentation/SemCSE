@@ -1,0 +1,2 @@
+Comparison of structural formalisms for modeling large Markov models
+Summary form only given. Stochastic automata networks and generalized stochastic Petri nets are the main formalisms used to model complex Markov systems in a structured "Kronecker" approach. We compare them on a suite of examples using two tools, PEPS and SMART.

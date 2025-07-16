@@ -1,0 +1,39 @@
+Single-cell gene expression analysis reveals diversity among human spermatogonia
+STUDY QUESTION
+Is the molecular profile of human spermatogonia homogeneous or heterogeneous when analysed at the single-cell level?
+
+
+SUMMARY ANSWER
+Heterogeneous expression profiles may be a key characteristic of human spermatogonia, supporting the existence of a heterogeneous stem cell population.
+
+
+WHAT IS KNOWN ALREADY
+Despite the fact that many studies have sought to identify specific markers for human spermatogonia, the molecular fingerprint of these cells remains hitherto unknown.
+
+
+STUDY DESIGN, SIZE, DURATION
+Testicular tissues from patients with spermatogonial arrest (arrest, n = 1) and with qualitatively normal spermatogenesis (normal, n = 7) were selected from a pool of 179 consecutively obtained biopsies. Gene expression analyses of cell populations and single-cells (n = 105) were performed. Two OCT4-positive individual cells were selected for global transcriptional capture using shallow RNA-seq. Finally, expression of four candidate markers was assessed by immunohistochemistry.
+
+
+PARTICIPANTS/MATERIALS, SETTING, METHODS
+Histological analysis and blood hormone measurements for LH, FSH and testosterone were performed prior to testicular sample selection. Following enzymatic digestion of testicular tissues, differential plating and subsequent micromanipulation of individual cells was employed to enrich and isolate human spermatogonia, respectively. Endpoint analyses were qPCR analysis of cell populations and individual cells, shallow RNA-seq and immunohistochemical analyses.
+
+
+MAIN RESULTS AND THE ROLE OF CHANCE
+Unexpectedly, single-cell expression data from the arrest patient (20 cells) showed heterogeneous expression profiles. Also, from patients with normal spermatogenesis, heterogeneous expression patterns of undifferentiated (OCT4, UTF1 and MAGE A4) and differentiated marker genes (BOLL and PRM2) were obtained within each spermatogonia cluster (13 clusters with 85 cells). Shallow RNA-seq analysis of individual human spermatogonia was validated, and a spermatogonia-specific heterogeneous protein expression of selected candidate markers (DDX5, TSPY1, EEF1A1 and NGN3) was demonstrated.
+
+
+LIMITATIONS, REASONS FOR CAUTION
+The heterogeneity of human spermatogonia at the RNA and protein levels is a snapshot. To further assess the functional meaning of this heterogeneity and the dynamics of stem cell populations, approaches need to be developed to facilitate the repeated analysis of individual cells.
+
+
+WIDER IMPLICATIONS OF THE FINDINGS
+Our data suggest that heterogeneous expression profiles may be a key characteristic of human spermatogonia, supporting the model of a heterogeneous stem cell population. Future studies will assess the dynamics of spermatogonial populations in fertile and infertile patients.
+
+
+LARGE SCALE DATA
+RNA-seq data is published in the GEO database: GSE91063.
+
+
+STUDY FUNDING/COMPETING INTEREST(S)
+This work was supported by the Max Planck Society and the Deutsche Forschungsgemeinschaft DFG-Research Unit FOR 1041 Germ Cell Potential (grant numbers SCHO 340/7-1, SCHL394/11-2). The authors declare that there is no conflict of interest.

@@ -1,0 +1,15 @@
+The effect of the American Joint Committee on Cancer eighth edition on breast cancer staging and prognostication.
+INTRODUCTION
+Breast cancer staging has been developed to quantify prognosis and guide treatment. The American Joint Committee on Cancer eighth edition manual (AJCC8) departed from traditional anatomic staging by incorporating biological factors such as grade, hormone and HER2 receptor status into a novel prognostic staging model. The aim of this study was to externally validate AJCC8 prognostic staging.
+
+
+METHODS
+This retrospective cohort investigated patients diagnosed between 2010 and 2013 at the McGill University Health Center. Patients were classified using both anatomic and prognostic staging systems according AJCC8. Overall survival analysis using a multivariate Cox-proportional hazard model was performed and model accuracy was evaluated using the Harrell concordance index (C-index) and Akaike Information Criterion (AIC).
+
+
+RESULTS
+The cohort included 1703 women. Anatomic and prognostic stage assignments displayed discrepancies for 46.2% of patients, where 38.8% were downstaged and 7.5% were upstaged with prognostic staging. Patients with anatomic stages IB, IIA, IIB, IIIA and IIIC had high rates of downstaging (64.6-96.5%), as opposed to anatomic stages IA and IIIB where 93.1% and 75.0% of patients stage remained unchanged, respectively. The prognostic stage displayed increased prognostic accuracy with respect to overall survival, where the C-index was significantly higher compared to anatomic staging (0.810 vs 0.799, p < 0.05). In addition, prognostic staging displayed an improved model fit with a lower AIC (983.9) compared to anatomic staging (995.2).
+
+
+CONCLUSION
+Prognostic and anatomic staging differ in their classification of patients, where prognostic staging displays improved accuracy, supporting its use in informing patient prognosis and guiding treatment decisions.

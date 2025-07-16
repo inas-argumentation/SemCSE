@@ -1,0 +1,10 @@
+When high-performing models behave poorly in practice: periodic sampling can help
+Training a deep neural network (DNN) for breast cancer detection from medical images suffers from the (hopefully) low prevalence of the pathology.
+For a sensible amount of positive cases, images must be collected from numerous places resulting in large heterogeneous datasets with different acquisition devices, populations, cancer incidences.
+Without precaution, this heterogeneity may result in a DNN biased by latent variables a priori independent of the pathology.
+This may be dramatic if this DNN is used inside a software to help radiologists to detect cancers.
+This work mitigates this issue by acting on how mini-batches for Stochastic Gradient Descent (SGD) algorithms are constructed.
+The dataset is divided into homogeneous subsets sharing some attributes (\textit{e.g.} acquisition device, source) called Data Segments (DSs).
+Batches are built by sampling each DS periodically with a frequency proportional to the rarest label in the DS and by simultaneously preserving an overall balance between positive and negative labels within the batch.
+Periodic sampling is compared to balanced sampling (equal amount of labels within a batch, independently of DS) and to balanced sampling within DS (equal amount of labels within a batch and each DS).
+We show, on breast cancer prediction from mammography images of various devices and origins, that periodic sampling leads to better generalization than other sampling strategies.

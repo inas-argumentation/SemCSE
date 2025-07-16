@@ -1,0 +1,2 @@
+Design and analysis of BLDC motor for aerospace application using FEM
+In this paper, a 3 phase 16 pole, 1500 rpm surface mounted inner rotor radial BLDC motor for aerospace industry is designed and analysed using the finite element method (FEM). BLDC motors are still classified as special motors. Analysis of these motors are a tedious task due to lack of analysing tools and the opportunities available for the developed motor. Analytical calculations to obtain the motor parameters are verified using Opera 18 R2 simulations and ensures a high value of accuracy and efficiency.

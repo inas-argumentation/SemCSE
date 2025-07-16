@@ -1,0 +1,2 @@
+Parallel Reconfigurable Operator for Genomic Sequence Comparison: Architecture and Performance Analyses
+This document describes a parallel genomic sequence comparison operator for reconfigurable platforms. It has been implemented for speeding up the time consuming parts of the IRISA-TBLASTN program designed for comparing full genomes with large protein banks. Speed-up ranging from 25 to 200 has been measured on real genomic data.

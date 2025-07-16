@@ -1,0 +1,24 @@
+Mid-IR spectrometer for mobile, real-time urban NO 2 measurements
+Abstract. Detailed knowledge about the urban NO2 concentration field
+is a key element for obtaining accurate pollution
+maps and individual exposure estimates. These are required for improving the understanding of the impact of ambient
+ NO2 on human health and for related air quality measures. However, city-scale NO2 concentration maps
+with high spatio-temporal resolution are still lacking, mainly due to the difficulty of accurate measurement of
+ NO2 at the required sub-ppb level precision. We contribute to close this gap through the development of
+a compact instrument based on mid-infrared laser absorption spectroscopy. Leveraging recent advances in infrared laser
+and detection technology and a novel circular absorption cell, we demonstrate the feasibility and robustness of this
+technique for demanding mobile applications. A fully autonomous quantum cascade laser absorption spectrometer (QCLAS) has
+been successfully deployed on a tram, performing long-term and real-time concentration measurements of NO2 in
+the city of Zurich (Switzerland). For ambient NO2 concentrations, the instrument demonstrated a precision of
+0.23  ppb at one second time resolution and of 0.03  ppb after 200  s averaging. Whilst the combined
+uncertainty estimated for the retrieved spectroscopic values was less than 5 %, laboratory intercomparison
+measurements with standard CLD instruments revealed a systematic NO2 wall loss of about 10 % within the
+laser spectrometer. For the field campaign, the QCLAS has been referenced to a CLD using urban atmospheric air, despite
+the potential cross sensitivity of CLD to other nitrogen containing compounds. However, this approach allowed a direct
+comparison and continuous validation of the spectroscopic data to measurements at regulatory air quality monitoring (AQM)
+stations along the tram-line. The analysis of the recorded high-resolution time series allowed us to gain more detailed
+insights into the spatio-temporal concentration distribution of NO2 in an urban environment. Furthermore, our
+results demonstrate that for reliable city-scale concentration maps a larger data set and better spatial coverage is
+needed, e.g., by deploying more mobile and stationary instruments to account for mainly two shortcomings of the current
+approach: (i) limited residence time close to sources with large short-term NO2 variations, and
+(ii) insufficient representativeness of the tram tracks for the complex urban environment.

@@ -1,0 +1,10 @@
+Scaling and asymptotic scaling in two-dimensional CPN−1 models
+Two-dimensional $CP^{N-1}$ models are investigated by Monte Carlo methods on 
+the lattice, for values of $N$ ranging from 2 to 21. Scaling and rotation 
+invariance are studied by comparing different definitions of correlation length 
+$\xi$. Several lattice formulations are compared and shown to enjoy scaling for 
+$\xi$ as small as $2.5$. Asymptotic scaling is investigated using as bare 
+coupling constant both the usual $\beta$ and $\beta_E$ (related to the internal 
+energy); the latter is shown to improve asymptotic scaling properties. Studies 
+of finite size effects show their $N$-dependence to be highly non-trivial, due 
+to the increasing radius of the $\bar z z$ bound states at large $N$.

@@ -1,0 +1,2 @@
+Results of a New Passive RF Stabilizing System
+The method developed at the Milan AVF Cyclotron for stabilizing the RF accelerating voltage is a passive network where the desired stabilization is achieved by a dummy resistive load connected to the Dee and driven by the RF voltage amplitude. A small amount of the power is extracted from the Dee through a capacitive coupling and feeds the plates of two tubes operating in push-pull mode.

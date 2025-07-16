@@ -1,0 +1,11 @@
+ARFI shear-wave elastography with simulation of acute urinary tract obstruction in an ex vivo porcine kidney model.
+METHODS
+A total of 20 heparinized pig kidneys were investigated at 10 intrapelvic hydrostatic pressure steps (0-90 mmHg). SWE (ARFI; Virtual TouchTM IQ, Siemens) measurements were taken at three different measuring regions and in two measuring sequences using a linear ultrasonography probe (9L4, Siemens). Median values of 10 shear-wave speed (SWS) measurements were calculated for each pressure step. Logarithmic transformed median SWS values were analyzed in a linear mixed model.
+
+
+RESULTS
+SWS increased significantly with increasing intrapelvic pressure. Median SWS for all kidneys in both measuring sequences and all measuring regions was 1.47 m/s (interquartile range [IQR], 0.38 m/s) at 0 mmHg, 1.94 m/s (IQR, 0.42 m/s) at 30 mmHg, 2.07 m/s (IQR, 0.43 m/s) at 60 mmHg, 2.24 m/s (IQR, 0.49 m/s) at 90 mmHg. The correlation between pelvic pressure increase and median SWS values for the central parenchyma was significantly higher compared with the peripheral parenchyma.
+
+
+CONCLUSION
+Acutely increased renal pelvic pressure correlates with increasing SWS values in ARFI elastography in an ex vivo porcine kidney model.

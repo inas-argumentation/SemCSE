@@ -1,0 +1,2 @@
+A 0.6GHz to 2GHz Digital PLL with Wide Tracking Range
+A digital PLL employing an adaptive tracking technique and a novel frequency acquisition scheme achieves a wide tracking range and fast frequency acquisition. The test chip fabricated in a 0.13 mum CMOS process operates from 0.6 GHz to 2 GHz and achieves better than plusmn3200 ppm frequency tracking range when the reference clock is modulated with a 1 MHz sine wave.

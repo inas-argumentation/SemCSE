@@ -1,0 +1,2 @@
+Geometric particle swarm optimization for the sudoku puzzle
+Geometric particle swarm optimization (GPSO) is a recentlyintroduced generalization of traditional particle swarm optimization(PSO) that applies to all combinatorial spaces. The aim of thispaper is to demonstrate the applicability of GPSO to non-trivialcombinatorial spaces. The Sudoku puzzle is a perfect candidate totest new algorithmic ideas because it is entertaining andinstructive as well as a non-trivial constrained combinatorialproblem. We apply GPSO to solve the sudoku puzzle.

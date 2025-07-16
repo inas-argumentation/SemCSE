@@ -1,0 +1,11 @@
+AN AUTONOMOUS FOREST ROBOT THAT USES A HIERARCHICAL, FUZZY LOGIC CONTROLLER
+This article presents a hierarchical fuzzy logic controller that arbitrates recommendations from lower-level 
+modules in order to autonomously guide a robot down forest trails. This robot would be used to move logs or trees from where 
+they are cut to a location where they could be further processed or loaded onto trucks. The lower-level modules contribute 
+recommendations derived from lower-level tasks or behaviors. Each lower-level module provides its own recommendation 
+based on its limited perception of the environment. A fuzzy quality measure is used by the hierarchical controller to determine 
+how best to fuse the individual control recommendations of lower-level modules. The quality measure provides an approximate 
+determination of the value of each lower-level module recommendation. These quality measures, as well as other fuzzy sets 
+used in the controller, were defined with a set of parameters. A computer simulation was used to tune subsets of the fuzzy set 
+parameters to improve the performance of the controller. After these parameters were tuned, they were used in the fuzzy logic 
+controller, which was tested in a vehicle. The results of these vehicle tests are also discussed in the article.

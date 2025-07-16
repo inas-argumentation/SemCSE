@@ -1,0 +1,2 @@
+C-Strategy: A Dynamic Adaptive Strategy for the CLONALG Algorithm
+The control of parameters during the execution of bio-inspired algorithms is an open research area. In this paper, we propose a new parameter control strategy for the immune algorithm CLONALG. Our approach is based on reinforcement learning ideas. We focus our attention on controlling the number of clones. Our approach provides an efficient and low cost adaptive technique for parameter control. We use instances of the Travelling Salesman Problem. The results obtained are very encouraging.

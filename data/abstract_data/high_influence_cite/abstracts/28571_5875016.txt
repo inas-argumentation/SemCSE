@@ -1,0 +1,2 @@
+ALEXANDER INVARIANTS OF COMPLEX HYPERPLANE ARRANGEMENTS
+LetA be an arrangement of n complex hyperplanes. The funda- mental group of the complement of A is determined by a braid monodromy homomorphism, fi : Fs ! Pn. Using the Gassner representation of the pure braid group, we flnd an explicit presentation for the Alexander invariant ofA. From this presentation, we obtain combinatorial lower bounds for the ranks of the Chen groups ofA. We also provide a combinatorial criterion for when these lower bounds are attained.

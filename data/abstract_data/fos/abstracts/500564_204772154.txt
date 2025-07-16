@@ -1,0 +1,2 @@
+Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS
+We present a methodology to construct preprocessing zkSNARKs where the structured reference string (SRS) is universal and updatable. This exploits a novel use of holography [Babai et al., STOC 1991], where fast verification is achieved provided the statement being checked is given in encoded form.

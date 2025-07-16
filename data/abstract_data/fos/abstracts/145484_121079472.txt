@@ -1,0 +1,2 @@
+Bayes and minimax estimators for two-stage sampling from a finite population under measurement error models
+We consider Bayes and Minimax estimates of population mean in sampling from a finite population in two-stages using simple random sampling without replacement at each stage, when the true values of the characteristic cannot be observed but only the values mixed with some measurement errors are observed. Minimax values of sample sizes have been found in case of equal-sized clusters and equal-sized second stage samples.

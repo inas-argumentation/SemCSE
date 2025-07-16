@@ -1,0 +1,2 @@
+A Markov-Chain Monte-Carlo Approach to Musical Audio Segmentation
+This paper describes a method for automatically segmenting and labelling sections in recordings of musical audio. We incorporate the user's expectations for segment duration as an explicit prior probability distribution in a Bayesian framework, and demonstrate experimentally that this method can produce accurate labelled segmentations for popular music

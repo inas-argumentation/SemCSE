@@ -1,0 +1,2 @@
+An A(oo)-structure on the cohomology ring of the symmetric group Sp with coefficients in Fp
+Let p be a prime. Let FpSp be the group algebra of the symmetric group over the finite field Fp with |Fp|=p$. Let Fp be the trivial FpSp-module. We present a projective resolution PRes Fp of the module Fp and equip the Yoneda algebra Ext(Fp,Fp) with an A(oo)-structure such that Ext(Fp,Fp) becomes a minimal model of the dg-algebra Hom(PRes Fp, PRes Fp).

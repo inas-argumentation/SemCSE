@@ -1,0 +1,2 @@
+VLSI functional testing using critical path traces at hardware description language level
+A new approach for testing VLSI circuits is presented. Through backward critical path tracing, a test and all faults detectable by the test are generated simultaneously. Therefore, the expensive fault simulation is completely eliminated. We present a critical path test generation procedure for digital systems described by hardware description language (HDL). A multiplication circuit described by a HDL is utilized for demonstrating the test generation method.

@@ -1,0 +1,2 @@
+Constraint likelihood method: generalization for colored noise.
+We present a method for detection and reconstruction of gravitational wave signals with a network of interferometric detectors. The method is based on the constraint maximization of the likelihood ratio functional. We discribe the method for the cases of white and colored detector noise.

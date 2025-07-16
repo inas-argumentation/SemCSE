@@ -1,0 +1,2 @@
+Asymptotic Efficiency of Two Nonparametric Competitors of Wilcoxon's Two Sample Test
+Abstract Wilcoxon's signed rank test and a test based on the uniform minimum variance unbiased estimator of P(X 1 + X 2 < Y 1 + Y 2) are considered as competitors of the Mann-Whitney-Wilcoxon (U) test. The criteria used to compare the tests are Bahadur and Pitman efficiency. For pure translation alternatives U is superior, but both tests compare favorably with respect to U for certain contamination alternatives.

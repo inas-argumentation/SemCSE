@@ -1,0 +1,11 @@
+Efficient computation of close lower and upper bounds on the minimum number of recombinations in biological sequence evolution
+MOTIVATION
+We are interested in studying the evolution of DNA single nucleotide polymorphism sequences which have undergone (meiotic) recombination. For a given set of sequences, computing the minimum number of recombinations needed to explain the sequences (with one mutation per site) is a standard question of interest, but it has been shown to be NP-hard, and previous algorithms that compute it exactly work either only on very small datasets or on problems with special structure.
+
+
+RESULTS
+In this paper, we present efficient, practical methods for computing both upper and lower bounds on the minimum number of needed recombinations, and for constructing evolutionary histories that explain the input sequences. We study in detail the efficiency and accuracy of these algorithms on both simulated and real data sets. The algorithms produce very close upper and lower bounds, which match exactly in a surprisingly wide range of data. Thus, with the use of new, very effective lower bounding methods and an efficient algorithm for computing upper bounds, this approach allows the efficient, exact computation of the minimum number of needed recombinations, with high frequency in a large range of data. When upper and lower bounds match, evolutionary histories found by our algorithm correspond to the most parsimonious histories.
+
+
+AVAILABILITY
+HapBound and SHRUB, programs implementing the new algorithms discussed in this paper, are available at http://wwwcsif.cs.ucdavis.edu/~gusfield/lu.html

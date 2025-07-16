@@ -1,0 +1,2 @@
+Isometric path numbers of graphs
+An isometric path between two vertices in a graph G is a shortest path joining them. The isometric path number of G, denoted by ip(G), is the minimum number of isometric paths needed to cover all vertices of G. In this paper, we determine exact values of isometric path numbers of complete r-partite graphs and Cartesian products of 2 or 3 complete graphs.

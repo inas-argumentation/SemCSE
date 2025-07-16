@@ -1,0 +1,2 @@
+Prediction limit estimation for neural network models
+A novel method for estimation of prediction limits for global and local approximating neural networks is presented. The method partitions the input space using self-organizing feature maps to introduce the concept of local neighborhoods, and calculates limits that indicate the extent to which one can rely on predictions for making future decisions.

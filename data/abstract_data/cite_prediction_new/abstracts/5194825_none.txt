@@ -1,0 +1,2 @@
+A new concordance measure for risk prediction models in external validation settings
+Concordance measures are frequently used for assessing the discriminative ability of risk prediction models. The interpretation of estimated concordance at external validation is difficult if the case‐mix differs from the model development setting. We aimed to develop a concordance measure that provides insight into the influence of case‐mix heterogeneity and is robust to censoring of time‐to‐event data.

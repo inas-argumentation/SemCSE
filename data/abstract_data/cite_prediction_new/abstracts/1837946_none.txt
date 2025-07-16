@@ -1,0 +1,2 @@
+Dominating 2-broadcast in graphs: complexity, bounds and extremal graphs
+Limited dominating broadcasts were proposed as a variant of dominating broadcasts, where the broadcast function is upper bounded. As a natural extension of domination, we consider dominating $2$-broadcasts along with the associated parameter, the dominating $2$-broadcast number. We prove that computing the dominating $2$-broadcast number is a NP-complete problem, but can be achieved in linear time for trees. We also give an upper bound for this parameter, that is tight for graphs as large as desired.

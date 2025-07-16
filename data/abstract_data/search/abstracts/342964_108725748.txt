@@ -1,0 +1,2 @@
+Flight Dynamics, Flutter, and Active Flutter Suppression Analyses of a Flexible Flying Wing Research Drone
+Included is a presentation given by David Schmidt of Schmidt and Associates at the Aerospace Flutter and Dynamics Council (AFDC) spring 2015 meeting at NASA Ames Research Center. This presentation discussed the Flight Dynamics approach to modeling flexible vehicles and the Identically Located Acceleration and Force (ILAF) control law synthesis. Results for the Lockheed Martin Free Flight Aeroelastic Demonstrator (FFAD) vehicle were shown.

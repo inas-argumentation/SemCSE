@@ -1,0 +1,15 @@
+Long Noncoding RNA CPR (Cardiomyocyte Proliferation Regulator) Regulates Cardiomyocyte Proliferation and Cardiac Repair.
+BACKGROUND
+The adult mammalian cardiomyocytes lose their proliferative capacity, which is responsible for cardiac dysfunction and heart failure following injury. The molecular mechanisms underlying the attenuation of adult cardiomyocyte proliferation remain largely unknown. Because long noncoding RNAs (lncRNAs) have a critical role in the development of cardiovascular problems, we investigated whether lncRNAs have any role in the regulation of cardiomyocyte proliferation and cardiac repair.
+
+
+METHODS
+Using bioinformatics and initial analysis, we identified an lncRNA, named CPR (cardiomyocyte proliferation regulator), that has a potential regulatory role in cardiomyocyte proliferation. For in vivo experiments, we generated CPR knockout and cardiac-specific CPR-overexpressing mice. In isolated cardiomyocytes, we used adenovirus for silencing (CPR-small interfering RNA) or overexpressing CPR. To investigate the mechanisms of CPR function in cardiomyocyte proliferation, we performed various analyses including quantitative reverse transcription-polymerase chain reaction, Western blot, histology, cardiac function (by echocardiography), transcriptome analyses (microarray assay), RNA pull-down assay, and chromatin immunoprecipitation assay.
+
+
+RESULTS
+CPR level is comparatively higher in the adult heart than in the fetal stage. The silencing of CPR significantly increased cardiomyocyte proliferation in postnatal and adult hearts. Moreover, CPR deletion restored the heart function after myocardial injury, which was evident from increased cardiomyocyte proliferation, improvement of myocardial function, and reduced scar formation. In contrast, the neonatal cardiomyocyte proliferation and cardiac regeneration were remarkably suppressed in CPR-overexpressing mice or adeno-associated virus serotype 9-CPR-overexpressing heart. These results indicate that CPR acts as a negative regulator of cardiomyocyte proliferation and regeneration. Next, we found that CPR targets minichromosome maintenance 3, an initiator of DNA replication and cell cycle progression, to suppress cardiomyocyte proliferation. CPR silenced minichromosome maintenance 3 expression through directly interacting and recruiting DNMT3A to its promoter cysteine-phosphate-guanine sites, as evident from decreased minichromosome maintenance 3 promoter methylation and increased minichromosome maintenance 3 expression in CPR knocked-down cardiomyocytes and CPR knockout mouse heart. These results were confirmed in CPR-overexpressing cardiomyocytes and CPR-overexpressing mouse heart.
+
+
+CONCLUSIONS
+Together, our findings identified that CPR is a suppressor of cardiomyocyte proliferation and indicated that lncRNAs take part in the regulation of cardiomyocyte proliferation and cardiac repair. Our study provides an lncRNA-based therapeutic strategy for effective cardiac repair and regeneration.

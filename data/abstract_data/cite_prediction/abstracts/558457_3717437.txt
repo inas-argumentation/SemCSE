@@ -1,0 +1,2 @@
+Cryptography for Network Security: Failures, Successes and Challenges
+This article discusses the state of the art of cryptographic algorithms as deployed for securing computing networks. While it has been argued that the design of efficient cryptographic algorithms is the “easy” part of securing a large scale network, it seems that very often security problems are identified in algorithms and their implementations. This article discusses the state of the art for a broad range of cryptographic algorithms that are used in networking applications.

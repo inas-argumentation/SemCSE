@@ -1,0 +1,7 @@
+HapBlock: haplotype block partitioning and tag SNP selection software using a set of dynamic programming algorithms
+UNLABELLED
+Recent studies have revealed that linkage disequilibrium (LD) patterns vary across the human genome with some regions of high LD interspersed with regions of low LD. Such LD patterns make it possible to select a set of single nucleotide polymorphism (SNPs; tag SNPs) for genome-wide association studies. We have developed a suite of computer programs to analyze the block-like LD patterns and to select the corresponding tag SNPs. Compared to other programs for haplotype block partitioning and tag SNP selection, our program has several notable features. First, the dynamic programming algorithms implemented are guaranteed to find the block partition with minimum number of tag SNPs for the given criteria of blocks and tag SNPs. Second, both haplotype data and genotype data from unrelated individuals and/or from general pedigrees can be analyzed. Third, several existing measures/criteria for haplotype block partitioning and tag SNP selection have been implemented in the program. Finally, the programs provide flexibility to include specific SNPs (e.g. non-synonymous SNPs) as tag SNPs.
+
+
+AVAILABILITY
+The HapBlock program and its supplemental documents can be downloaded from the website http://www.cmb.usc.edu/~msms/HapBlock.

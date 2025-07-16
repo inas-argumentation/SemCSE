@@ -1,0 +1,2 @@
+On the discretization of singular systems
+This note proposes two new discretization methods. The proposed sampled systemsare described in terms of the Markov parameters of the system and therefore theproposed methods are easily implemented. The methodology we use is a zero-order holddiscretization for the input and ﬁrst-order approximation of its derivatives.Keywords: discretization; singular systems; implicit systems; sampled systems; zero-orderhold; ﬁrst-order hold; Markov parameters.

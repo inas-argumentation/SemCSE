@@ -1,0 +1,2 @@
+Fast gossiping with short unreliable messages
+Abstract Each of n nodes of a communication network has a piece of information (gossip) which should be made known to all other nodes. Gossiping is done by sending letters. In a unit of time each node can either send one letter to a neighbor or receive one such letter, containing one gossip currently known to the sender. Letters reach their destinations with constant probability 0

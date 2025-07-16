@@ -1,0 +1,18 @@
+MODELLING THE IMPACTS OF NEW UK FUTURE WEATHER DATA ON A SCHOOL BUILDING
+To investigate the impact of the new UK Climate 
+Projections on building performance, a primary 
+school building has been simulated with help of a 
+dynamic building performance simulation package 
+(EnergyPlus Version 6) using 4 sets of future test 
+reference year data which were produced by the UK 
+Chartered Institution of Building Services Engineers, 
+Exeter University, Manchester University and 
+Northumbria University respectively. 
+Indoor operative temperatures, heating and cooling 
+energy demand of the sample building at three 
+locations (Edinburgh, Manchester and London) under 
+future climate conditions (time slices: 2020s 2030s, 
+2050s and 2080s; carbon emission scenarios: low, 
+medium and high) were calculated to compare the 
+impacts of four sets of future weather data on 
+building performance.

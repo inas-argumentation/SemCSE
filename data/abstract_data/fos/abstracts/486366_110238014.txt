@@ -1,0 +1,15 @@
+Soil electrical conductivity as a covariate to improve the efficiency of field experiments
+An accurate comparison of treatment means over a range of conditions is a primary objective of most field 
+experiments. The spatial variability of soil properties, including soil texture and moisture, can have adverse effects on the 
+accuracy and efficiency of field trials. Apparent soil profile electrical conductivity (ECa) has been shown to be a useful 
+indicator of soil variability. Compared to conventional soil sampling, measurements of ECa are rapid and inexpensive. In this 
+study, soil ECa was used as a covariate in evaluating the effect of manure application on soil phosphorus (P) concentration. 
+Compared to a standard analysis of variance (ANOVA), an analysis of covariance (ANCOVA) with soil ECa as a covariate 
+reduced standard errors for treatment means and thereby improved the accuracy of estimates of P concentrations for both 
+manure application treatment means and aeration tool tine disturbance position means within treatments. For example, the 
+standard error for tine disturbance position means from ANOVA was equal to 11.0, while the standard error with ECa as a 
+covariate was equal to 6.6. Different conclusions were drawn regarding treatment effects with and without ECa as a covariate. 
+For example, an ANOVA-based conclusion was that the control (no manure) treatment was not different from the 
+surface-applied manure treatment. The ANCOVA-based conclusion was that only in soils with low ECa values were the two 
+treatments not different. In soils with medium and high ECa values, the control treatment had a significantly lower P 
+concentration.

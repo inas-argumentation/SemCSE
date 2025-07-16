@@ -1,0 +1,2 @@
+A public key cryptosystem and a signature scheme based on discrete logarithms
+A new signature scheme is proposed, together with an implementation of the Diffie-Hellman key distribution scheme that achieves a public key cryptosystem. The security of both systems relies on the difficulty of computing discrete logarithms over finite fields.

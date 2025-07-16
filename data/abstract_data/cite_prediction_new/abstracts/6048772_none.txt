@@ -1,0 +1,15 @@
+Characterization of microRNA transcriptome in tumor, adjacent, and normal tissues of lung squamous cell carcinoma.
+OBJECTIVES
+MicroRNAs are a class of regulatory molecules involved in a wide variety of biological processes, including growth, development, and apoptosis. Given the widespread roles of microRNAs in biological processes, understanding their different expression profiles in normal, adjacent, and tumor tissues will provide insights into the consequences of aberrant expression.
+
+
+METHODS
+With the use of next-generation deep sequencing technology, microRNA profiles in 3 pooled samples from normal, adjacent, and tumor tissues of 19 patients with lung squamous cell carcinoma were characterized comprehensively. Quantitative polymerase chain reaction was used to verify the primary findings in another 38 lung squamous cell carcinoma tumor samples. In situ hybridization also was performed for validation.
+
+
+RESULTS
+A total of 368, 306, and 231 known microRNAs were identified from tumor, adjacent, and normal pooled samples, respectively, of which 40, 44, and 26 microRNAs displayed dysregulation with 2-fold or greater change in 3 compared groups of tumor versus normal, tumor versus adjacent, and adjacent versus normal, respectively. Sequencing data also showed that some coexpressed microRNAs displayed a pattern of progressive dysregulation. Some of the microRNAs exhibited consistent changes; among them, miR-425-5p and miR-218-5p were confirmed by quantitative polymerase chain reaction and in situ hybridization, and proved that the microRNA expression levels were closely related to tumor stages and sizes. It is suggested that some microRNAs, such as miR-425 and miR-183, might be a driver for tumor formation, growth, and progression to higher staging, whereas others, such as miR-218, might behave as a tumor suppressor in lung cancer. Functional annotation analysis indicated that the proteoglycan pathway in cancer and mitogen-activated protein kinase, Wnt, PI3K-Akt, and transforming growth factor-beta signaling pathways might be involved in the pathogenesis of lung squamous cell carcinoma.
+
+
+CONCLUSIONS
+This study describes the use of deep sequencing for comprehensive profiling of microRNAs in lung squamous cell carcinoma. The identified microRNA signatures may provide biomarkers for early detection, subclassification, and potential therapeutic targets of lung squamous cell carcinoma. This study also provides some insights into the molecular mechanism underlying the development and progression of lung squamous cell carcinoma, which may prove helpful for early diagnosis and treatment of the disease.

@@ -1,0 +1,2 @@
+Self-balancing robot implementing the inverted pendulum concept
+The inverted pendulum is a classic automation problem that has numerous theoretical approaches as well as a multitude of practical applications. The current paper explores the challenges and identified solutions in implementing a small scale robot for didactical and show-room applications, considering specific mechanical and complexity constrains limitations. The proposed model is validated by a hardware implementation, while different practical PID tuning methods are discusses and reached results presented.

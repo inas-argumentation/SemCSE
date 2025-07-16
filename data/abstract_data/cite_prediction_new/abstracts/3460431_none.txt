@@ -1,0 +1,2 @@
+Spatial test filters for dynamic model large‐eddy simulation with finite elements
+In this article we will develop spatial filters required in the dynamic model of small-scale turbulent fluid motions in large-eddy simulation with finite elements. The characterization of these finite element filters is crucial because it is seen to have an impact on incompressible Navier-Stokes simulation results.

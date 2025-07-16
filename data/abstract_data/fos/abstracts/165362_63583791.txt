@@ -1,0 +1,2 @@
+Research on Web Application Framework Based on .NET Platform
+Designs a reusable enterprise application framework COMNET which is based on .NET technology, and gives detailed implementation program.COMNET is composed of three parts: the view layer based on MVC pattern, the layer of common data access, common exception handing module. It not only can be applied to Web application, but also can be applied to WinForm application.

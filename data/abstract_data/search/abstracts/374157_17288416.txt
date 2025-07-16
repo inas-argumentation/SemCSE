@@ -1,0 +1,2 @@
+OFDM with reduced peak to average power ratio by optimum combination of partial transmit sequences
+The authors propose a very effective and flexible peak power reduction scheme for orthogonal frequency division multiplexing (OFDM) with almost vanishing redundancy. This new method works with arbitrary numbers of subcarriers and unconstrained signal sets. The core of the proposal is to combine partial transmit sequences (PTS) to minimise the peak to average power ratio distortion.

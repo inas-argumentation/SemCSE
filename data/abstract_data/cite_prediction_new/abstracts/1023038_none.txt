@@ -1,0 +1,2 @@
+Comparing program comprehension of physically and virtually separated concerns
+It is common believe that separating source code along concerns or features improves program comprehension of source code. However, empirical evidence is mostly missing. In this paper, we design a controlled experiment to evaluate that believe for feature-oriented programming based on maintenance tasks with human participants. We validate our experiment with a pilot study, which already preliminarily confirms that students use different strategies to complete maintenance tasks.

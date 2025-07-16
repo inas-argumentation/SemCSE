@@ -1,0 +1,2 @@
+Compliant encryption scheme for JPEG 2000 image code streams
+An efficient secure encryption scheme for JPEG 2000 code streams is proposed. The scheme does not introduce superfluous JPEG 2000 markers in the protected code stream and protects all the information of an image contained in a JPEG 2000 packet body. It can work with any standard ciphers to encrypt the stream data in sequence and is computationally efficient and memory saving.

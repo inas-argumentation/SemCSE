@@ -1,0 +1,12 @@
+Morphotactics in an information-based model of realisational morphology
+In most recent work, Crysmann and Bonami (2012) suggest to reconcile the insights of
+inferential-realisational morphology (Anderson, 1992; Stump, 2001; Brown and Hippisley, 2012) with
+the full typology of variable morphotactics: situations where the expression of analogous feature
+sets can appear in various positions in the string. The authors proposed to account for these facts
+by importing, into HPSG, a variant of Paradigm Function Morphology (Stump, 2001) where realisation
+rules are doubly indexed for linear position and paradigmatic opposition. In this paper we first
+introduce more empirical challenges for theories of morphotactics that neither PFM nor the reformist
+approach of Crysmann and Bonami (2012) can accommodate. We then argue for a reappraisal of methods
+for morph introduction, and propose a new approach that replaces stipulation of classes of
+paradigmatic opposition with a general distinction between expression and conditioning (Carstairs,
+1987; Noyer, 1992) which greatly expands the scope of Pāṇini’s Principle.

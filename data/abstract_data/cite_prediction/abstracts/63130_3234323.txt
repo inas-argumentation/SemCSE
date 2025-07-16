@@ -1,0 +1,2 @@
+Peak-Piloted Deep Network for Facial Expression Recognition
+In this work, we present a novel peak-piloted deep network (PPDN) that uses a sample with peak expression (easy sample) to supervise the intermediate feature responses for a sample of non-peak expression (hard sample) of the same type and from the same subject. The expression evolving process from nonpeak expression to peak expression can thus be implicitly embedded in the network to achieve the invariance to expression intensities.

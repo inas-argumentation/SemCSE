@@ -1,0 +1,15 @@
+A deep learning method for classifying mammographic breast density categories.
+PURPOSE
+Mammographic breast density is an established risk marker for breast cancer and is visually assessed by radiologists in routine mammogram image reading, using four qualitative Breast Imaging and Reporting Data System (BI-RADS) breast density categories. It is particularly difficult for radiologists to consistently distinguish the two most common and most variably assigned BI-RADS categories, i.e., "scattered density" and "heterogeneously dense". The aim of this work was to investigate a deep learning-based breast density classifier to consistently distinguish these two categories, aiming at providing a potential computerized tool to assist radiologists in assigning a BI-RADS category in current clinical workflow.
+
+
+METHODS
+In this study, we constructed a convolutional neural network (CNN)-based model coupled with a large (i.e., 22,000 images) digital mammogram imaging dataset to evaluate the classification performance between the two aforementioned breast density categories. All images were collected from a cohort of 1,427 women who underwent standard digital mammography screening from 2005 to 2016 at our institution. The truths of the density categories were based on standard clinical assessment made by board-certified breast imaging radiologists. Effects of direct training from scratch solely using digital mammogram images and transfer learning of a pretrained model on a large nonmedical imaging dataset were evaluated for the specific task of breast density classification. In order to measure the classification performance, the CNN classifier was also tested on a refined version of the mammogram image dataset by removing some potentially inaccurately labeled images. Receiver operating characteristic (ROC) curves and the area under the curve (AUC) were used to measure the accuracy of the classifier.
+
+
+RESULTS
+The AUC was 0.9421 when the CNN-model was trained from scratch on our own mammogram images, and the accuracy increased gradually along with an increased size of training samples. Using the pretrained model followed by a fine-tuning process with as few as 500 mammogram images led to an AUC of 0.9265. After removing the potentially inaccurately labeled images, AUC was increased to 0.9882 and 0.9857 for without and with the pretrained model, respectively, both significantly higher (P < 0.001) than when using the full imaging dataset.
+
+
+CONCLUSIONS
+Our study demonstrated high classification accuracies between two difficult to distinguish breast density categories that are routinely assessed by radiologists. We anticipate that our approach will help enhance current clinical assessment of breast density and better support consistent density notification to patients in breast cancer screening.

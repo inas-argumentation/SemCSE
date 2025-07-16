@@ -1,0 +1,2 @@
+Feature Selection via Discretization
+Discretization can turn numeric attributes into discrete ones. Feature selection can eliminate some irrelevant and/or redundant attributes. Chi2 is a simple and general algorithm that uses the /spl chi//sup 2/ statistic to discretize numeric attributes repeatedly until some inconsistencies are found in the data. It achieves feature selection via discretization. It can handle mixed attributes, work with multiclass data, and remove irrelevant and redundant attributes.

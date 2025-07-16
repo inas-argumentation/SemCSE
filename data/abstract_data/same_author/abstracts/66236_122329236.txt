@@ -1,0 +1,2 @@
+Polyhedral functions and multiparametric linear programming
+In a linear programming problem with a vector parameter appearing on the right-hand side, the minimum value of the objective is a polyhedral function of this parameter. We show how different characterizations of a polyhedral function correspond to different ways of solving the right-hand side multiparameteric linear programming problem.

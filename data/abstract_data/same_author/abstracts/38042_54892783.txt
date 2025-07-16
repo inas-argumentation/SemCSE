@@ -1,0 +1,2 @@
+APPLICATION OF PCS IN NSRL CONTROL SYSTEM
+The upgrade of the National Synchrotron Radiation Laboratory (NSRL) control system is currently being implemented using EPICS (Experimental Physics and Industrial Control System). For cost saving purposes, we use a large number of PCs. PCs play a dominant role as I/O controllers (IOCs) and device controllers in the new control system. In this paper, the application of PCs in the NSRL control system is described.

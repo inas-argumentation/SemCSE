@@ -1,0 +1,2 @@
+Making assumptions in the automated derivation
+This paper proposes a mechanism to integrate conditional proof, which is an important proof technique in deductive logic, into logic programming to enhance the power of deduction. Concentrating on two existing resolution strategies--SLD-resolution and PT-resolution, it analyses the necessity and feasibility of the integration, and formulates the procedure.

@@ -1,0 +1,2 @@
+Case study of differential-GPS safety integrity performance on Qinghai-Tibet railway line
+At the design stage of GPS (Global Positioning System), there is no provision of real-time integrity information for the standard positioning service (SPS). Meanwhile the precise positioning service (PPS) provides signal in space (SIS) integrity as “lower than 1 × 10−5 probability per hour”. Because PPS access to WAGE (Wide Area GPS Enhancements) rapid ephemeris updates and corrections. But only SPS is available for civilian applications.

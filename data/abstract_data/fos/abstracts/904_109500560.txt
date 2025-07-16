@@ -1,0 +1,2 @@
+An interactive visual interface for FASTBUS diagnostics
+Complex instruments that are not used regularly, such as diagnostic devices, are often avoided or inefficiently used because of the startup effort required to figure out how to apply them. To solve this problem, a visual interface has been developed for the SLACFASTBUS Snoop module. This interface is based on the Macintosh computer's standard human interface, using menus, dialogs, and graphics to indicate quickly the range of possibilities and allow easy setup and manipulation of the Snoop module's powerful features. >

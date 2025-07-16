@@ -1,0 +1,2 @@
+Uniqueness of equilibrium in directed search models
+We study a decentralized trading model as in [7], where a finite number of heterogeneous capacity-constrained sellers compete for a finite number of homogeneous buyers, by posting prices. This “directed search” model is known to admit symmetric equilibria; yet, uniqueness has proved elusive. This study makes two contributions: a substantive contribution is to establish uniqueness of symmetric equilibrium; a methodological contribution is to develop a tool based on directional derivatives to characterize equilibrium.

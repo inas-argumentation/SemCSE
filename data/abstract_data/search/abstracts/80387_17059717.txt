@@ -1,0 +1,2 @@
+An Introduction to Synthetic Aperture Radar (SAR)
+This paper outlines basic principle of Synthetic Aperture Radar (SAR) Matched filter approaches for processing the received data and pulse compression technique are presented. Besides the SAR radar equation, the linear frequency modulation (LFM) waveform and matched filter response are also discussed. Finally the system design consideration of various parameters and aspects are also highlighted.

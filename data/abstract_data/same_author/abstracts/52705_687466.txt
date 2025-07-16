@@ -1,0 +1,12 @@
+Placing Relay Nodes for Intra-Domain Path Diversity
+Meeyoung Cha and Sue Moon are supported by Korea 
+Science and Engineering Foundation through Advanced Information 
+Technology Research Center (AITrc). Chong-Dae Park 
+is supported by Brain Korea 21 Project through the school 
+of information technology in KAIST. Part of this work was 
+done while Meeyoung Cha was visiting DIMACS (Center for 
+Discrete Mathematics and Theoretical Computer Science). We 
+thank Joel Gottlieb for help with ISP data, and Lun Li for 
+providing the HOT topology used in our simulation. We thank 
+Jennifer Rexford and anonymous reviewers for providing us 
+valuable comments.

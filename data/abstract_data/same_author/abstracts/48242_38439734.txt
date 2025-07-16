@@ -1,0 +1,2 @@
+Generating labeled planar graphs uniformly at random
+We present a deterministic polynomial time algorithm to sample a labeled planar graph uniformly at random. Our approach uses recursive formulae for the exact number of labeled planar graphs with n vertices and m edges, based on a decomposition into 1-, 2-, and 3-connected components. We can then use known sampling algorithms and counting formulae for 3-connected planar graphs.

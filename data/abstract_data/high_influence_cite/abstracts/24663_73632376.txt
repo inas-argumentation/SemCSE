@@ -1,0 +1,2 @@
+A Faber–Krahn inequality for solutions of Schrödinger’s equation
+Abstract We consider nontrivial solutions of − Δ u ( x ) = V ( x ) u ( x ) , where u ≡ 0 on the boundary of a bounded open region D ⊂ R n , and V ( x ) ∈ L ∞ ( D ) . We prove a sharp relationship between ‖ V ‖ ∞ and the measure of D , which generalizes the well-known Faber–Krahn theorem. We also prove some geometric properties of the zero sets of the solution of the Schrodinger equation − Δ u ( x ) = V ( x ) u ( x ) .

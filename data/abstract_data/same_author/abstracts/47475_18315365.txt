@@ -1,0 +1,2 @@
+Towards a theory of collaborative multimedia
+We develop a theory of media objects, and present optimal algorithms for collaborative synthesis of media objects. We then extend the algorithms to incorporate quality constraints (such as image size) as well as distribution across multiple nodes. The theoretical model is validated by an experimental implementation that supports the theoretical results.

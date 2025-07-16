@@ -1,0 +1,2 @@
+The reachability and related decision problems for monadic and semi-constructor TRSs
+This paper shows that reachability is undecidable for confluent monadic and semi-constructor TRSs, and that joinability and confluence are undecidable for monadic and semi-constructor TRSs. Here, a TRS is monadic if the height of the right-hand side of each rewrite rule is at most 1, and is semi-constructor if all defined symbols appearing in the right-hand side of each rewrite rule occur only in its ground subterms.

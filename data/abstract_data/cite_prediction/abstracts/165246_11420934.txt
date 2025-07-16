@@ -1,0 +1,2 @@
+Attribute Learning in Large-Scale Datasets
+We consider the task of learning visual connections between object categories using the ImageNet dataset, which is a large-scale dataset ontology containing more than 15 thousand object classes. We want to discover visual relationships between the classes that are currently missing (such as similar colors or shapes or textures). In this work we learn 20 visual attributes and use them both in a zero-shot transfer learning experiment as well as to make visual connections between semantically unrelated object categories.

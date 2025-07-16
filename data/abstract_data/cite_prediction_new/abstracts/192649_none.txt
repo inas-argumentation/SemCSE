@@ -1,0 +1,2 @@
+A problem of Linnik for elliptic curves and mean-value estimates for automorphic representations
+and the (weaker) conjecture n q for all ε > 0 is known as Vinogradov’s conjecture. Linnik’s technique makes it possible to prove that the number of exceptions to these conjectures is extremely small. For example, let N(Q, α) be the number of primitive characters χ of modulusq 6 Q such that χ(n) = 1 for all n 6 (log Q), (n,q) = 1, α > 1 being given; then from the largesieve inequality for Dirichlet characters, we can derive N(Q, α) Q2/α+ε (1)

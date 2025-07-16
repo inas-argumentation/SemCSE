@@ -1,0 +1,15 @@
+A feasibility study to use machine learning as an inversion algorithm for aerosol profile and property retrieval from multi-axis differential absorption spectroscopy measurements
+Abstract. In this study, we explore a new approach based on machine learning
+(ML) for deriving aerosol extinction coefficient profiles, single-scattering
+albedo and asymmetry parameter at 360 nm from a single multi-axis differential optical absorption spectroscopy (MAX-DOAS) sky scan.
+Our method relies on a multi-output sequence-to-sequence model combining
+convolutional neural networks (CNNs) for feature extraction and long
+short-term memory networks (LSTMs) for profile prediction. The model was
+trained and evaluated using data simulated by Vector Linearized Discrete Ordinate Radiative Transfer (VLIDORT) v2.7, which contains
+1 459 200 unique mappings. From the simulations, 75 % were randomly selected for training and the remaining 25 % for validation. The overall error of
+estimated aerosol properties (1) for total aerosol optical depth (AOD) is - 1.4 ± 10.1  %,
+(2) for the single-scattering albedo is 0.1±3.6  %, and (3) for the asymmetry
+factor is - 0.1 ± 2.1  %. The resulting model is capable of
+retrieving aerosol extinction coefficient profiles with degrading accuracy
+as a function of height. The uncertainty due to the randomness in ML
+training is also discussed.

@@ -1,0 +1,15 @@
+A new program for highly reproducible automatic evaluation of the substantia nigra from transcranial sonographic images.
+AIMS
+Recent studies report increased echogenicity of the substantia nigra (SN) in patients with Parkinson's disease (PD) using transcranial sonography (TCS). However, the main limitation to TCS is its dependence on the sonographer's experience. Experimental software for quantitative evaluation of the echogenic SN area was thus developed by us. The aim of this study was to test the reliability of the data using developed B-Mode Assist software in patients with parkinsonism and in healthy volunteers.
+
+
+METHODS
+The SN was imaged from the right temporal bone window in mesencephalic plane using TCS. DICOM images of SN were saved, converted into JPEG format, encoded and processed. Two observers performed 3 automatic evaluations of the SN area (measurements of SN area in each gray scale intensity inside the region of interest) by counting the standard deviation of all 6 measurements using developed software. The average value of all 3 measurements of each observer was used for computing Cohen's kappa coefficient to determine inter-observer correlations. Cohen's kappa coefficients as an intra-observer correlation for observer 1 and observer 2 were counted from the first 2 measurements of both observers.
+
+
+RESULTS
+In total, 92 images were evaluated using this software. The mean of the standard deviations was 3.87; Cohen's kappa for intra-observer agreement of two observers were 0.947, and 0.943, resp.; Cohen's kappa for inter-observers agreement was 0.880. The agreement between visual and automatic detection of SN pathology was in 97.8% images. The sensitivity, specificity, positive and negative predictive values of automatic measurement were 100, 96.2, 95.1, 100%, resp.
+
+
+CONCLUSIONS
+The results show very reliable measurement of SN features using designed application with "almost perfect" inter-observer and intra-observer agreements.

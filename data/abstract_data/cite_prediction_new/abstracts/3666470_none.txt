@@ -1,0 +1,2 @@
+Definable groups for dependent and 2-dependent theories
+Let T be a (first order complete) dependent theory, C a kappa-saturated model of T and G a definable subgroup which is abelian. Among subgroups of bounded index which are the union of < kappa type definable subsets there is a minimal one, i.e. their intersection has bounded index. In fact, the bound is <= 2^{|T|} . We then deal with 2-dependent theories, a wider class of first order theories.

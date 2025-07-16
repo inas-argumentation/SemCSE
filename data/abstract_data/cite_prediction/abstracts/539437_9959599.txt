@@ -1,0 +1,2 @@
+On the huge benefit of decisive moves in Monte-Carlo Tree Search algorithms
+Monte-Carlo Tree Search (MCTS) algorithms, including upper confidence Bounds (UCT), have very good results in the most difficult board games, in particular the game of Go. More recently these methods have been successfully introduce in the games of Hex and Havannah. In this paper we will define decisive and anti-decisive moves and show their low computational overhead and high efficiency in MCTS.

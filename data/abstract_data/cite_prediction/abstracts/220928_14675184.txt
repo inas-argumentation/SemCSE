@@ -1,0 +1,2 @@
+A Vector Model for Type-Theoretical Semantics
+Vector models of distributional semantics can be viewed as a geometric interpretation of a fragment of dependent type theory. By extending to a bigger fragment to include the dependent product we achieve a significant increase in expressive power of vector models, which allows for an implementation of contextual adaptation of word meanings in the compositional set-

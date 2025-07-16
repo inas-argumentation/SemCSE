@@ -1,0 +1,2 @@
+Computing the normal forms of matrices depending on parameters
+We consider in this paper an algorithm for the exact computation of the Frobenius, Jordan and Arnold's form of matrices depending holomorphically on parameters. The problem originates from the problem of formal resolution of a first order system of differential equations depending on parameter. We have implemented this algorithm in Macsyma.

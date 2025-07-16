@@ -1,0 +1,2 @@
+An amplitude and covariance matrix estimator for signals in colored Gaussian noise
+We show that by considering the estimation of the amplitudes of sinusoids in colored, Gaussian noise as a joint amplitude and noise covariance matrix estimation problem, we obtain an iterative estimator that has the Capon spectral estimator as a special case. The estimator is also closely related to the amplitude and phase estimator (APES). In experiments, the proposed joint estimator in most cases outperforms Capon and APES.

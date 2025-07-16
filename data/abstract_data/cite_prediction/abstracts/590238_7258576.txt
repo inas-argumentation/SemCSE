@@ -1,0 +1,2 @@
+Image segmentation using minimum cross-entropy thresholding
+Entropy-based image thresholding is an important concept in the area of image processing. Pal (1996) proposed a minimum cross-entropy thresholding method based on Gaussian distribution. Our new method is derived from Pal method that segment images using minimum cross-entropy thresholding based on Gamma distribution and can handle bi-modal and multimodal images. Our method is tested by using Synthetic Aperture Radar (SAR) images and it gives reliable results for bimodal and multimodal images.

@@ -1,0 +1,2 @@
+Vision-Based Multi-UAV Position Estimation Localization Based on Blob Features for Exploration Missions
+This paper describes a method for vision-based unmanned aerial vehicle (UAV) motion estimation from multiple planar homographies. The paper also describes the determination of the relative displacement between different UAVs employing techniques for blob feature extraction and matching. It then presents and shows experimental results of the application of the proposed technique to multi-UAV detection of forest fires

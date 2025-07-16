@@ -1,0 +1,11 @@
+A novel method for automatic functional annotation of proteins
+MOTIVATION
+To cope with the increasing amount of sequence data, reliable automatic annotation tools are required. The TrEMBL database contains together with SWISS-PROT nearly all publicly available protein sequences, but in contrast to SWISS-PROT only limited functional annotation. To improve this situation, we had to develop a method of automatic annotation that produces highly reliable functional prediction using the language and the syntax of SWISS-PROT.
+
+
+RESULTS
+An algorithm was developed and successfully used for the automatic annotation of a testset of unknown proteins. The predicted information included description, function, catalytic activity, cofactors, pathway, subcellular location, quaternary structure, similarity to other protein, active sites, and keywords. The algorithm showed a low coverage (10%), but a high specificity and reliability.
+
+
+AVAILABILITY
+The results can be obtained by anonymous ftp from ftp.ebi.ac.uk/pub/databases/sp_tr_nrdb. The source code is available on request from the authors.

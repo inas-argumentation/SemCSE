@@ -1,0 +1,2 @@
+Generating and Applying Rules for Interval Valued Fuzzy Observations
+One of the objectives of intelligent data engineering and automated learning is to develop algorithms that learn the environment, generate rules, and take possible courses of actions. In this paper, we report our work on how to generate and apply such rules with a rule matrix model. Since the environments can be interval valued and rules often fuzzy, we further study how to obtain and apply rules for interval valued fuzzy observations.

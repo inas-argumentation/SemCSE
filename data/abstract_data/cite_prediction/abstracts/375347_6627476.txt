@@ -1,0 +1,2 @@
+The Option-Critic Architecture
+We first studied the behavior of the intra-option policy gradient algorithm when the initiation sets and subgoals are fixed by hand. In this case, options terminate with probability 0.9 in a hallway state and four of its incoming neighboring states. We chose to parametrize the intra-option policies using the softmax distribution with a one-hot encoding of state-action pairs as basis functions. Learning both intra-option policies and terminations

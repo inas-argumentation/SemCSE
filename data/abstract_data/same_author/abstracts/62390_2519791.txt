@@ -1,0 +1,2 @@
+First-Order Continuous-Time Sigma-Delta Modulator
+This paper presents the design of a first-order continuous-time sigma-delta modulator. It can accept input signal bandwidth of 10 kHz with oversampling ratio of 250. The modulator operates at 1.8 V supply voltage and uses 0.18 mum CMOS technology. It achieves a level of 60 dB SNR

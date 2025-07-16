@@ -1,0 +1,18 @@
+A Modal-Based Derivation of Transient Pressure Distribution Along the Tyre-Road Contact
+The two-dimensional, frictional tyre-road contact interaction
+is investigated. A transient contact algorithm
+is developed, consisting of an analytical belt
+model, a non linear sidewall structure and a discretized
+viscoelastic tread foundation. The relationship
+between the magnitude/shape of the predicted
+two-dimensional pressure distribution and the corresponding
+belt deformation is identified. The effect of
+vertical load and the role of sidewall non linearity are
+highlighted. The modal expansion/reduction method
+is proposed for the increase of the computational efficiency
+and the effect of the degree of reduction on
+the simulation accuracy is presented. The qualitative
+results are physically explained through the participation
+of certain modes in the equilibrium solution, offering
+directions for the application of the modal reduction
+method in shear force oriented tyre models.

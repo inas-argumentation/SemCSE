@@ -1,0 +1,15 @@
+Long noncoding RNA CRNDE promotes non-small cell lung cancer progression via sponging microRNA-338-3p.
+BACKGROUND
+The long noncoding RNA colorectal neoplasia differentially expressed (CRNDE) was reported to be involved in the initiation and development of multiple cancers. However, the detailed biological role of CRNDE in non-small cell lung cancer (NSCLC) remains largely unclear. Herein, we aimed to explore the biological function and underlying molecular mechanism of CRNDE in NSCLC.
+
+
+MATERIALS AND METHODS
+Quantitative real-time polymerase chain reaction (qRT-PCR) was employed to detect the expression of CRNDE in NSCLC tissues and cell lines. Cell counting kit-8 (CCK-8), colony formation, flow cytometry, wound-healing, and transwell invasion assays were applied to detect cell proliferation, colony formation, cycle arrest progression, migration and invasion, respectively. Novel targets of CRNDE were selected with bioinformatics software and were confirmed using luciferase reporter and RNA immunoprecipitation assays. To detect the role of CRNDE in vivo tumorigenesis, tumor xenografts were created.
+
+
+RESULTS
+CRNDE expression is remarkably upregulated in NSCLC tissues and cell lines. Upregulated CRNDE expression was positively associated with advanced tumor-node-metastasis (TNM) stage, lymph node metastasis and poor overall survival of patients with NSCLC. Function assays demonstrated that knockdown of CRNDE significantly inhibited NSCLC cell proliferation, colony formation, migration and invasionin vitro, and decreased the xenograft tumor volume and weight in vitro. We uncovered that miR-338-3p is a downstream target of CRNDE and that miR-338-3p inhibition partially reversed the CRNDE depletion-mediated inhibitory effect on cell proliferation, colony formation, migration and invasion in NSCLC cells.
+
+
+CONCLUSION
+These findings indicated that CRNDE functions as an oncogene that exerts important regulatory roles in NSCLC progression via sponging miR-338-3p.

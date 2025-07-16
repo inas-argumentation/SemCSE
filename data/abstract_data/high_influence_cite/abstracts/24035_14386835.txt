@@ -1,0 +1,2 @@
+Exponential stability of uncertain dynamic systems including state delay
+In this letter, the exponential stability of uncertain time-delay systems is investigated. Based on the Lyapunov method, a novel stability criterion has been derived in terms of matrix inequalities which can be easily solved using efficient convex optimization algorithms. Two numerical examples are included to show the effectiveness of the proposed method.

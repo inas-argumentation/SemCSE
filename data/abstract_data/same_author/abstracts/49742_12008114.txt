@@ -1,0 +1,2 @@
+Weak Clique-Covering Cycles and Paths
+In this paper, we investigate the sufficient conditions for a graph to contain a cycle (path) C such that G − V (C) is a disjoint union of cliques. In particular, sufficient conditions involving degree sum and neighborhood union are obtained.

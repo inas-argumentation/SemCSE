@@ -1,0 +1,8 @@
+Powers of layers for image-to-image translation
+We propose a simple architecture to address unpaired image-to-image  translation tasks: style or class transfer, denoising, deblurring, deblocking, etc. 
+We start from an image autoencoder architecture with fixed weights. 
+For each task we learn a residual block operating in the latent space, which is iteratively called until the target domain is reached. 
+A specific training schedule is required to alleviate the exponentiation effect of the iterations. 
+At test time, it offers several advantages: the number of weight parameters is limited and the compositional design allows one to modulate the strength of the transformation with the number of iterations. 
+This is useful, for instance, when the type or amount of noise to suppress is not known in advance.  
+Experimentally, we show that the performance of our model is comparable or better than CycleGAN and Nice-GAN with fewer parameters.

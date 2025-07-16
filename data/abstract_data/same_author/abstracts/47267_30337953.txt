@@ -1,0 +1,2 @@
+Parallel Batched Planar Point Location on the CCC
+We show that the more general batched point-location task can be carried out on the cube-connected-cycle (CCC) architecture in time O(log 2 N) with O(N log N) processors, or in time O(log 3 N) with O(N) processors

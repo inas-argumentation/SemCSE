@@ -1,0 +1,10 @@
+A Modular Fully-lazy Lambda Lifter in HASKELL
+An important step in many compilers for functional languages is lambda lifting. In his thesis, Hughes showed that by doing lambda lifting in a particular way, a useful property called full laziness can be preserved. Full laziness has been seen as intertwined with lambda lifting ever since. 
+ 
+ 
+ 
+We show that, on the contrary, full laziness can be regarded as a completely separate process to lambda lifting, thus making it easy to use different lambda lifters following a full-laziness transformation, or to use the full-laziness transformation in compilers which do not require lambda lifting. 
+ 
+ 
+ 
+On the way, we present the complete code for our modular fully-lazy lambda lifter, written in the HASKELL functional programming language.

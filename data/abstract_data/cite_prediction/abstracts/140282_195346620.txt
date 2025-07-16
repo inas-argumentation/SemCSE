@@ -1,0 +1,2 @@
+A SeqGAN for Polyphonic Music Generation
+We propose an application of SeqGAN, generative adversarial networks for discrete sequence generation, for creating polyphonic musical sequences. Instead of monophonic melody generation suggested in the original work, we present an efficient representation of polyphony MIDI file that captures chords and melodies with dynamic timings simultaneously. The network can create sequences that are musically coherent. We also report that careful tuning of reinforcement learning signals of the model are crucial for general application.

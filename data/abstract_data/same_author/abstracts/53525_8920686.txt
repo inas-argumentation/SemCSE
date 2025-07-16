@@ -1,0 +1,2 @@
+Population Sizing Based on Landscape Feature
+Population size for EvolutionaryAlgorithms is usually an empirical parameter. We study the population size from aspects of fitness landscapes' ruggedness and Probably Approximately Correct (PAC) learning theory.

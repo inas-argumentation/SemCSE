@@ -1,0 +1,2 @@
+Minimum detectable signal for spectrogram displays
+Automatic detection criteria are not generally appropriate for displays where decisions are made by a human operator. However, it is shown that the Lawson-Uhlenbeck (1965) deflection criterion continues to be a useful predictor of the minimum detectable signal (MDS) for displays and simplifies the relationship between automatic and display detection performance. >

@@ -1,0 +1,2 @@
+An Approach to Debugging Grid or Web Services
+In this paper, we first introduce some issues that are encountered in building a service debugger and briefly describe our approach to addressing them. Next, we outline some debugging modes and components of a simple composite debugger. Then, we mainly describe its message-based front-end and back-end, which are a co-existing, self-identifying, and non- intrusive. Finally, we preset some experimental results of our latest prototype.

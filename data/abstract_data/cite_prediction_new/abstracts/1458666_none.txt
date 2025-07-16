@@ -1,0 +1,4 @@
+Useful Templates and Iterated Template-Guided DNA Recombination in Ciliates
+The family of stichotrichous ciliates contains several single-celled organisms 
+possessing a unique genetic mechanism: the ability to descramble genes which exist in a scrambled state in their genomes. We continue the theoretical investigation of the iterated template-guided recombination operation. This operation is suggested by
+the recombination of DNA strands based on template guides proposed by Prescott, Ehrenfeucht and Rozenberg. A variety of results is demonstrated including a study of computational power, characterizations and other abstract properties, such as a "pumping lemma". The notion of a useful template is defined and forms a critical basis for much of the results demonstrated in the paper. The main result shows that every full AFL is closed under iterated template-guided recombination with regular templates.

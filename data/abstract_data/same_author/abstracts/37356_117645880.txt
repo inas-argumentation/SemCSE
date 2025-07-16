@@ -1,0 +1,2 @@
+Numerical Calculation of the Phase Space Density for the Strong‐Strong Beam‐Beam Interaction
+We developed a parallel code to calculate the evolution of the 4D phase space density of two colliding beams, which are coupled via the collective strong‐strong beam‐beam interaction, in the absence of diffusion and damping, using the Perron‐Frobenius (PF) operator technique.

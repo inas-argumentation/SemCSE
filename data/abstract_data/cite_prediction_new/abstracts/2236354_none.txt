@@ -1,0 +1,2 @@
+A predictive call admission control in packet radio networks
+We propose a new adaptive and predictive measurement-based fair call admission control policy. The objective of a new admission policy is to reduce computation overhead and rapidly re-allocate resources to meet desired quality of service (QoS) demands. With numerical analysis, we evaluate QoS constraints by using queuing model which is described by a two-dimensional continuous-time Markov chain. By comparing results of analytical model with one of event-driven simulation, we validate the accuracy.

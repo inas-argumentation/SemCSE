@@ -1,0 +1,2 @@
+On connectivity of consecutive-d digraphs
+The concept of a consecutive-d digraph was proposed by Du, Hsu and Hwang as a generalization of de Bruijn digraphs, Kautz digraphs, and their generalizations given by Imase and Itoh and Reddy, Pradhan and Kuhl. In this paper, we determine the connectivity of consecutive-d digraphs and study how to modify consecutive-d digraphs to reach maximum connectivity. Our results will generalize and improve several existing results on the connectivity of de Bruijn digraphs, Kautz digraphs and Imase-Itoh digraphs.

@@ -1,0 +1,2 @@
+The linear heat equation with highly oscillating potential
+In this paper we consider the following initial value problem: {∂u/∂t = -Hu + V(x)u in R N × (0,T), u(x,0) = u 0 (x) ≥ 0 on R N × {t = 0}, where H = -Δ - β/|x| 2 sin (1/|x| α ) and 0 ≤ V ∈ L 1 loc (R N ). Nonexistence of positive solutions is analyzed.

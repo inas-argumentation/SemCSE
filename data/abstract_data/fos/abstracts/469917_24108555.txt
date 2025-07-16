@@ -1,0 +1,15 @@
+Multiple scattering of 13 and 20 MeV electrons by thin foils: a Monte Carlo study with GEANT, Geant4, and PENELOPE.
+PURPOSE
+In this work, recent results from experiments and simulations (with EGSnrc) performed by Ross et al. [Med. Phys. 35, 4121-4131 (2008)] on electron scattering by foils of different materials and thicknesses are compared to those obtained using several Monte Carlo codes.
+
+
+METHODS
+Three codes have been used: GEANT (version 3.21), Geant4 (version 9.1, patch03), and PENELOPE (version 2006). In the case of PENELOPE, mixed and fully detailed simulations have been carried out.
+
+
+RESULTS
+Transverse dose distributions in air have been obtained in order to compare with measurements. The detailed PENELOPE simulations show excellent agreement with experiment. The calculations performed with GEANT and PENELOPE (mixed) agree with experiment within 3% except for the Be foil. In the case of Geant4, the distributions are 5% narrower compared to the experimental ones, though the agreement is very good for the Be foil. Transverse dose distribution in water obtained with PENELOPE (mixed) is 4% wider than those calculated by Ross et al. using EGSnrc and is 1% narrower than the transverse dose distributions in air, as considered in the experiment.
+
+
+CONCLUSIONS
+All the codes give a reasonable agreement (within 5%) with the experimental results for all the material and thicknesses studied.

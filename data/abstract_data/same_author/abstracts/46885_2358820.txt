@@ -1,0 +1,2 @@
+Subscription Propagation and Content-Based Routing with Delivery Guarantees
+Subscription propagation enables efficient content-based routing in publish/subscribe systems and is a challenging problem when it is required to support reliable delivery in networks with redundant routes. We have designed a generic model and a highly-asynchronous algorithm accomplishing these goals. Existing algorithms can be interpreted as different encodings and optimizations of the generic algorithm and hence their correctness can be derived from the generic algorithm.

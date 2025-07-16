@@ -1,0 +1,15 @@
+Oxaliplatin sensitizes human colon cancer cells to TRAIL through JNK-dependent phosphorylation of Bcl-xL.
+BACKGROUND & AIMS
+Oxaliplatin sensitizes drug-resistant colon cancer cell lines to tumor necrosis factor-related apoptosis inducing ligand (TRAIL), a death receptor ligand that is selective for cancer cells. We investigated the molecular mechanisms by which oxaliplatin sensitizes cancer cells to TRAIL-induced apoptosis.
+
+
+METHODS
+We incubated the colon cancer cell lines HT29 and V9P, which are resistant to TRAIL, with TRAIL or with oxaliplatin for 2 hours, followed by TRAIL. Annexin V staining was used to measure apoptosis; RNA silencing and immunoblot experiments were used to study the roles of apoptosis-related proteins. Site-directed mutagenesis experiments were used to determine requirements for phosphorylation of Bcl-xL; co-immunoprecipitation experiments were used to analyze the interactions among Bcl-xL, Bax, and Bak, and activation of Bax.
+
+
+RESULTS
+Oxaliplatin-induced sensitivity to TRAIL required activation of the mitochondrial apoptotic pathway; reduced expression of Bax, Bak, and caspase-9, and stable overexpression of Bcl-xL, reduced TRAIL-induced death of cells incubated with oxaliplatin. Mitochondrial priming was induced in cells that were sensitized by oxaliplatin and required signaling via c-Jun N-terminal kinase and phosphorylation of Bcl-xL. Mimicking constitutive phosphorylation of Bcl-xL by site-directed mutagenesis at serine 62 restored sensitivity of cells to TRAIL. Co-immunoprecipitation experiments showed that oxaliplatin-induced phosphorylation of Bcl-xL disrupted its ability to sequestrate Bax, allowing Bax to interact with Bak to induce TRAIL-mediated apoptosis.
+
+
+CONCLUSIONS
+Oxaliplatin facilitates TRAIL-induced apoptosis in colon cancer cells by activating c-Jun N-terminal kinase signaling and phosphorylation of Bcl-xL. Oxaliplatin-induced sensitivity to TRAIL might be developed as an approach to cancer therapy.

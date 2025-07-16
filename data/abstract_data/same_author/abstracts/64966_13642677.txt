@@ -1,0 +1,2 @@
+Graph-Theoretic Techniques for Macromolecular Docking
+We propose a solution to the problem of docking two macromolecules. We represent each of two proteins as a set of potential hydrogen bond donors and acceptors and use a clique-detection algorithm to find maximally complementary sets of donor/acceptor pairs. Preliminary results are presented which demonstrate the feasibility of the method.

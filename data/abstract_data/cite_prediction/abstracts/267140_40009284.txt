@@ -1,0 +1,2 @@
+HFTools - An open source python package for microwave engineering
+This paper presents HFTools an open source python package for microwave engineering. The focus of the development of the package at this time is fundamental tools, e.g. file IO, dataset object, array object, and multiport object. The basic HFTools package contains tools for reading data files in several common formats, e.g. touchstone, mdif, and citi. The package also contains tools for conversion of multi-port parameters. The paper presents the capabilities of the package by a series of short examples.

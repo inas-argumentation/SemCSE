@@ -1,0 +1,2 @@
+Research on Parallel Quantum Key Search of Block Cipher
+Block cipher has some advantages such as fast,easy to achieve standardization and ease of hardware and software.It has the most extensive application in the computer communication and information system security.This article presents a parallel quantum key search model of block cipher,based on the combination of Grover search algorithm and classical parallel search ideas.Then we put forward the circuit design of corresponding quantum black-box of the typical block cipher.Finally we give a brief performance analysis.

@@ -1,0 +1,2 @@
+Stochastic Optimal Growth with a Non-Compact State Space
+This paper studies the stability of a stochastic optimal growth economy introduced by Brock and Mirman [J. Econ. Theory 4 (1972)] by utilizing stochastic monotonicity in a dynamic system. The construction of two boundary distributions leads to a new method of studying systems with non-compact state space. The paper shows the existence of a unique invariant distribution. It also shows the equivalence between the stability and the uniqueness of the invariant distribution in this dynamic system.

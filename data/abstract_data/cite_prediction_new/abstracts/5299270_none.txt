@@ -1,0 +1,2 @@
+Markov Precision: Modelling User Behaviour over Rank and Time
+We propose a family of new evaluation measures, called Markov Precision (MP), which exploits continuous-time and discrete-time Markov chains and we conduct a thorough experimental evaluation providing also an example of calibration of its time parameters.

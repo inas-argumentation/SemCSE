@@ -1,0 +1,2 @@
+Microcanonical lattice gas model for nuclear disassembly
+Microcanonical calculations are no more difficult to implement than canonical calculations in the lattice gas model. We report calculations for a few observables where we compare microcanonical model results with canonical model results.

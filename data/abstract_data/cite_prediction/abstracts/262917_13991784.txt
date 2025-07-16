@@ -1,0 +1,2 @@
+Private Data Analysis via Output Perturbation - A Rigorous Approach to Constructing Sanitizers and Privacy Preserving Algorithms
+We describe output perturbation techniques that allow for a provable, rigorous sense of individual privacy. Examples where the techniques are effective span from basic statistical computations to sophisticated machine learning algorithms.

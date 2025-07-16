@@ -1,0 +1,2 @@
+Linearization Small Deviation Model of Active Front End Rectifier
+The article describes a linearization small deviation model of an active front end rectifier (AFE) The linearization allows to get a block diagram for calculation of the proportional and integral current controller and DC voltage coefficients. The proposed linearization small deviation method demonstrated simplicity and ease of use and can be recommended in a practice to set the AFE control system parameters.

@@ -1,0 +1,2 @@
+Scattered data interpolation: tests of some methods
+Absract. This paper is concerned with the evaluation of methods for scattered data interpolation and some of the results of the tests when applied to a number of methods. The process involves evaluation of the methods in terms of timing, storage, accuracy, visual pleasantness of the surface, and ease of implementation. To indicate the flavor of the type of results obtained, we give a summary table and representative perspective plots of several surfaces.

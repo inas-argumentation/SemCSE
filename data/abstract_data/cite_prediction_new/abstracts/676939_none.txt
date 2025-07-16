@@ -1,0 +1,2 @@
+A strongly strict negative-imaginary lemma for non-minimal linear systems
+A state-space characterization is given for strongly strict negative-imaginary systems. It facilitates both robust analysis and synthesis methods for interconnected negative-imaginary systems. Numerical advantages are achieved by avoiding a non-convex rank constraint, a non-strict inequality condition and a minimality assumption present in previous literature.

@@ -1,0 +1,19 @@
+[The risk of cancer in inhabitants of Weurt, the Netherlands].
+OBJECTIVE
+To analyze the risk of cancer in the population of Weurt, a village near Nijmegen, the Netherlands, using long-term data (13 years).
+
+
+DESIGN
+Cluster analysis.
+
+
+METHOD
+Anonymous data on newly diagnosed cases of cancer in the years 1989-2001 were obtained from the regional cancer registry. The region had about 1 million inhabitants and 263 postal code areas. The Dutch Central Statistical Office (Statistics Netherlands) provided age- and sex-specific population data for each postal code area. Ratios of observed and expected numbers of cancer cases were calculated (uncorrected standardized mortality ratio; SMR). A Bayesian analysis with a random effects model with spatial correlation was used to adjust the SMRs for cancer incidence in neighbouring postal code areas.
+
+
+RESULTS
+In the years 1989-2001, a total number of 167 cases of cancer (97 in males and 70 in females) were diagnosed in Weurt. The number of cancers in the entire area was 58,126. In Weurt the adjusted SMR for all cancers was 1.18 (95% CI: 0.95-1.44) in males and 1.10 (95% CI: 0.86-1.39) in females. For lung cancer the adjusted SMR was 1.35 (95% CI: 0.88-1.94) in males and 1.00 (95% CI: 0.29-2.13) in females. None of the other types of cancer showed a statistically significant increase in incidence in Weurt.
+
+
+CONCLUSIONS
+Although based on relatively small numbers of diagnosed cancers, these results are not suggestive of a real cancer cluster in Weurt. Lung cancer incidence was slightly increased in males and not in females, which may indicate that chance, lifestyle or occupational factors were more obvious causes than environmental factors. In general, it is advised to be reluctant to perform cluster analyses. Such analyses may only be valuable if specific hypotheses regarding causes of specific types of cancer are present.

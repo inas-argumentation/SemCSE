@@ -1,0 +1,2 @@
+A construction of codes with linearity from two linear codes
+Let 𝔽p$\mathbb {F}_{p}$ be a finite field, where p is a prime. This paper presents a new construction of a code C$\mathcal C$ over 𝔽p2$\mathbb {F}_{p^{2}}$ from two linear codes over 𝔽p$\mathbb {F}_{p}$, which has 𝔽p$\mathbb {F}_{p}$-linearity and its minimum distance is equal to its minimum nonzero weight. Based on our construction, we shall determine the weight enumerators of some codes defined by quadratic bent functions and simplex codes. It will be shown that these codes have a few nonzero weights.

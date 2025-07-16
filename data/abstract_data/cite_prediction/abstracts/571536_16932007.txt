@@ -1,0 +1,2 @@
+Applying reinforcement learning to Tetris
+This paper investigates the possible application of reinforcement learning to Tetris. The author investigates the background of Tetris, and qualifies it in a mathematical context. The author discusses reinforcement learning, and considers historically successful applications of it. Finally the author discusses considerations surrounding implementation.

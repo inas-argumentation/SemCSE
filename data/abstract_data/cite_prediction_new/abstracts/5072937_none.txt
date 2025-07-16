@@ -1,0 +1,2 @@
+Homogeneous Lyapunov functions and necessary conditions for stabilization
+We provide necessary conditions for the stabilization of nonlinear control systems with the additional requirement that a time-invarianthomogeneous Lyapunov function exists for the closed-loop system.

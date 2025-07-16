@@ -1,0 +1,2 @@
+From Implicit Specifications to Explicit Designs in Reactive System Development
+In this paper we describe how the RSDS method can be used as a bridge between implicit Z-style specifications of reactive systems, and explicit B AMN designs of these systems. We define the translation from RSDS to B and verify its correctness. We also define controller decomposition techniques, and a translation to SMV.

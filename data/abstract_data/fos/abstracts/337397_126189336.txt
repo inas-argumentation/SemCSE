@@ -1,0 +1,2 @@
+Comparing reconstruction algorithms for the 2D optoacoustic tomography of biological tissues
+Three types of reconstruction algorithms for the optoacoustic tomography of biological tissues, based on delay-and-sum beam-forming, Fourier transform, and time reversal, are proposed. The comparison, based on both numerical and experimental data, shows the advantages of the delay-and-sum beam-forming method, which ensures acceptable computation time and improved quality of the reconstructed image.

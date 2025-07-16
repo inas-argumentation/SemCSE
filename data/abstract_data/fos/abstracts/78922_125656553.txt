@@ -1,0 +1,2 @@
+Computational Fluid Dynamics Study of Benchmark Supercritical Wing at Flutter Condition
+This paper presents a numerical study of the Benchmark Supercritical Wing at flutter condition, which was performed as a part of the AIAA Aeroelastic Prediction Workshop II. The primary purpose is the evaluation of the time-synchronization effect on the convergence of the coupled computational fluid dynamics/computational structural mechanics process. The proposed methodology was then used to predict the flutter boundary for the range of Mach numbers.

@@ -1,0 +1,15 @@
+Four-dimensional cone-beam computed tomography and digital tomosynthesis reconstructions using respiratory signals extracted from transcutaneously inserted metal markers for liver SBRT.
+PURPOSE
+Respiration-induced intrafraction target motion is a concern in liver cancer radiotherapy, especially in stereotactic body radiotherapy (SBRT), and therefore, verification of its motion is necessary. An effective means to localize the liver cancer is to insert metal fiducial markers to or near the tumor with simultaneous imaging using cone-beam computed tomography (CBCT). Utilizing the fiducial markers, the authors have demonstrated a method to generate breath-induced motion signal of liver for reconstructing 4D digital tomosynthesis (4DDTS) and 4DCBCT images based on phasewise and/or amplitudewise sorting of projection data.
+
+
+METHODS
+The marker extraction algorithm is based on template matching of a prior known marker image and has been coded to optimally extract marker positions in CBCT projections from the On-Board Imager (Varian Medical Systems, Palo Alto, CA). To validate the algorithm, multiple projection images of moving thorax phantom and five patient cases were examined. Upon extraction of the motion signals from the markers, 4D image sorting and image reconstructions were subsequently performed. In the case of incomplete signals due to projections with missing markers, the authors have implemented signal profiling to replace the missing portion.
+
+
+RESULTS
+The proposed marker extraction algorithm was shown to be very robust and accurate in the phantom and patient cases examined. The maximum discrepancy of the algorithm predicted marker location versus operator selected location was < 1.2 mm, with the overall average of 0.51 +/- 0.15 mm, for 500 projections. The resulting 4DDTS and 4DCBCT images showed clear reduction in motion-induced blur of the markers and the anatomy for an effective image guidance. The signal profiling method was useful in replacing missing signals.
+
+
+CONCLUSIONS
+The authors have successfully demonstrated that motion tracking of fiducial markers and the subsequent 4D reconstruction of CBCT and DTS are possible. Due to the significant reduction in motion-induced image blur, it is anticipated that such technology will be useful in image-guided liver SBRT treatments.

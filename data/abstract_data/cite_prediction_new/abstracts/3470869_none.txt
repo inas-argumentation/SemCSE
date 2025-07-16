@@ -1,0 +1,2 @@
+Experimental end-to-end demonstration of shared N:1 dual homed protection in long reach PON and SDN-controlled core
+We demonstrate fast restoration of PON services with a dual-homed, shared-OLT protection mechanism. Using the SDN-controlled pan-European GEANT core network, we demonstrate PON protection and end-to-end service restoration times within 40ms and 155ms respectively.

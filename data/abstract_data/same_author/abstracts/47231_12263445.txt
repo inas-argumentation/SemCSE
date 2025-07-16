@@ -1,0 +1,2 @@
+Approximation algorithms for convex hulls
+The problem of constructing the convex hull of a finite point set in a Euclidean space arises in many applications. In this paper we study a set of algorithms for constructing approximate convex hulls. We show that an E-approximate hull of N points in the plane can be constructed in O(n + I/e) time. The planar algorithm has been implemented and is very fast on point sets that arise in practice. The method can be generalized to compute hulls of point sets in higher dimensional spaces. CR

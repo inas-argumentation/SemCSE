@@ -1,0 +1,2 @@
+From polynomial matrices to markov parameters and back: Theory and numerical algorithms
+We consider polynomial matrix representations of MIMO linear systems and their connection to Markov parameters. Specifically, we consider polynomial matrix models in an arbitrary operator ρ, and develop theory and numerical algorithms for transforming polynomial matrix models into Markov parameter models, and vice versa. We also provide numerical examples to illustrate the proposed algorithms.

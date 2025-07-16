@@ -1,0 +1,2 @@
+Some decomposable codes: the |a+x|b+x|a+b+x| construction
+Codes with decomposable structure allow the use of multistage decoding procedures to achieve suboptimum bounded-distance error performance with reduced decoding complexity. This correspondence presents some new decomposable codes, including a class of distance-8 codes, that are constructed based on the |a+x|b+x|a+b+x| construction method. Some existing best codes are shown to be decomposable and hence can be decoded with multistage decoding.

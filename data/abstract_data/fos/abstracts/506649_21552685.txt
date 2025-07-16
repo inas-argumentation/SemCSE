@@ -1,0 +1,15 @@
+SU-E-CAMPUS-T-05: Validation of High-Resolution 3D Patient QA for Proton Pencil Beam Scanning and IMPT by Polymer Gel Dosimetry.
+PURPOSE
+Validation of high-resolution 3D patient QA for proton pencil beam scanning and IMPT by polymer gel dosimetry.
+
+
+METHODS
+Four BANG3Pro polymer gel dosimeters (manufactured by MGS Research Inc, Madison, CT) were used for patient QA at the Robert's Proton Therapy Center (RPTC, Philadelphia, PA). All dosimeters were sealed in identical thin-wall Pyrex glass spheres. Each dosimeter contained a set of markers for 3D registration purposes. The dosimeters were mounted in a consistent and reproducible manner using a custom build holder. Two proton pencil beam scanning plans were designed using Varian Eclipse™ treatment planning system: 1) A two-field intensity modulated proton therapy (IMPT) plan and 2) one single field uniform dose (SFUD) plan. The IMPT fields were evaluated as a composite plan and individual fields, the SFUD plan was delivered as a single field plan.Laser CT scanning was performed using the manufacturer's OCTOPUS-IQ axial transmission laser CT scanner using a 1 mm slice thickness. 3D registration, analysis, and OD/cm to absorbed dose calibrations were perfomed using DICOM RT-Dose and CT files, and software developed by the manufacturer. 3D delta index, a metric equivalent to the gamma tool, was used for dose comparison.
+
+
+RESULTS
+Very good agreement with single IMPT fields and with SFUD was obtained. Composite IMPT fields had a less satisfactory agreement. The single fields had 3D delta index passing rates (3% dose difference, 3 mm DTA) of 98.98% and 94.91%. The composite 3D delta index passing rate was 80.80%. The SFUD passing rate was 93.77%. Required shifts of the dose distributions were less than 4 mm.
+
+
+CONCLUSION
+A formulation of the BANG3Pro polymer gel dosimeter, suitable for 3D QA of proton patient plans is established and validated. Likewise, the mailed QA analysis service provided by the manufacturer is a practical option when required resources are unavailable. We fully disclose that the subject of this research regards a production of MGS Research, Inc.

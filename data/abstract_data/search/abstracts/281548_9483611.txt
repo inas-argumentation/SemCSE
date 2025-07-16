@@ -1,0 +1,2 @@
+Public Key Cryptosystems Based on Composite Degree Residuosity Classes
+This paper investigates a novel computational problem, namely the Composite Residuosity Class Problem, and its applications to public key cryptography. We propose a new trapdoor mechanism and derive from this technique three encryption schemes a trapdoor permutation and two homomorphic probabilistic encryption schemes computationally comparable to RSA. Our cryptosystems, based on usual modular arithmetics, are provably secure under appropriate assumptions in the standard model.

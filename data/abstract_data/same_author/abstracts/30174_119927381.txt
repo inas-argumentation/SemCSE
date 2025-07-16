@@ -1,0 +1,4 @@
+Superheated superconducting granule device: detection of minimum ionizing particles
+We present the first efficiency measurement of a superheated superconducting granule (SSG) detector irradiated with minimum ionizing particles (mips). The SSG device is a solenoid readout coil filled with tin granules (22 μm average diameter) embedded (16% volume filling factor) in a good thermal conductor varnish cooled down to T = 490 mK. 
+ 
+It is shown that a 2 mm thick detector is close to 100% efficient (1σ over the electronic noise) to mips. The probability of a mip to hit at least one granule, sensitive to an energy deposition of 16 keV or more over the detector length, is approximately 100%. Only 10% of the granules in the detector were sensitive to mips because of the finite granule size distribution and the phase transition smearing observed with this sample.

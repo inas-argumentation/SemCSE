@@ -1,0 +1,2 @@
+Unramifiedness of weight one Hilbert Hecke algebras
+We prove that the Galois pseudo-representation valued in the mod p^n parallel weight 1 Hecke algebra for GL(2) over a totally real number field F is unramified at a place above p if p-1 does not divide the ramification index at that place. A novel geometric ingredient is the construction and study, in the case when p ramifies in F, of generalised Theta-operators using Reduzzi-Xiao's generalised Hasse invariants, including especially an injectivity criterion in terms of minimal weights.

@@ -1,0 +1,2 @@
+OXYGENE: a platform for the development of interoperable geographic applications and Web services
+We present the OXYGENE platform, implemented at the COGIT laboratory of IGN (the French NMA). It allows for the development of interoperable geographic applications based on ISO/OGC specifications and aims at deploying researches undertaken at the IGN as "true" processing Web services.

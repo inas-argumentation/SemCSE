@@ -1,0 +1,2 @@
+Optimization of the gain curve of the InGaN blue light laser diode
+A laser diode(LD) structure is simulated by the Poisson, drift-diffusion, and Schrodinger equation solver and the Hemholtz equation solver. The gain curve has been optimized by optimizing the comparisons for different numbers of quantum well(QW), different indium composition in the QW and different size of the guiding layer.

@@ -1,0 +1,2 @@
+Bayesian model selection for life time data under type II censoring
+This paper considers the Bayesian model selection problem in life-time models using type-II censored data. In particular, the intrinsic Bayes factors are calculated for log-normal, exponential, and Weibull lifetime models using noninformative priors under type-II censoring. Numerical examples are given to illustrate our results.

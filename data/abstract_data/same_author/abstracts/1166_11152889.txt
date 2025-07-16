@@ -1,0 +1,2 @@
+Formal properties of PA-matching
+We consider the PA-matching operation, used in DNA computing, as a formal operation on strings and languages. We investigate the closure of various families of languages under this operation, representations of recursively enumerable languages and decision problems. We also consider the dual operation of overlapping strings. All closure properties of families in the Chomksy hierarchy under both non-iterated and iterated PA-matching and overlapping operations are settled.

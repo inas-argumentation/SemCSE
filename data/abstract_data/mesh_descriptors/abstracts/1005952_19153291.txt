@@ -1,0 +1,15 @@
+Tumor growth modeling: Parameter estimation with Maximum Likelihood methods
+BACKGROUND & OBJECTIVE
+In this work, we focus on estimating the parameters of the widely used Gompertz tumor growth model, based on measurements of the tumor's volume. Being able to accurately describe the dynamics of tumor growth on an individual basis is very important both for growth prediction and designing personalized, optimal therapy schemes (e.g. when using model predictive control).
+
+
+METHODS
+Our analysis aims to compute both the growth rate and the carrying capacity of the Gompertz function, along with the characteristics of the additive Gaussian process and measurement noise of the system. Three methods based on Maximum Likelihood estimation are proposed. The first utilizes an assumption regarding the measurement noise that simplifies the problem, the second combines the Extended Kalman Filter and Maximum Likelihood estimation, and the third is a nonstandard exact form of Maximum Likelihood estimation, where numerical integration is used to approximate the likelihood of the measurements, along with a novel way to reduce the required computations.
+
+
+RESULTS
+Synthetic data were used in order to perform extensive simulations aiming to compare the methods' effectiveness, with respect to the accuracy of the estimation. The proposed methods are able to estimate the growth dynamics, even when the noise characteristics are not estimated accurately. Another very important finding is that the methods perform best in the case that corresponds to the problem needed to be solved when dealing with experimental data.
+
+
+CONCLUSION
+Using nonstandard, problem specific techniques can improve the estimation accuracy and best exploit the available data.

@@ -1,0 +1,2 @@
+Computer investigations of the three-dimensional Ising model
+We have been studying the three-dimensional Ising model using some finite-size scaling ideas. The simulation is done by a fast microcanonical method. Here we present our results for the critical exponentsν andα.

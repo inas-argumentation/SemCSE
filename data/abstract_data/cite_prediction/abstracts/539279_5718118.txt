@@ -1,0 +1,2 @@
+Status report: specifying javascript with ML
+The Ecma TC39-TG1 working group is using ML as the specification language for the next generation of JavaScript, the popular programming language for browser-based web applications. This "definitional interpreter" serves many purposes: a high-level and readable specification language, an executable and testable specification, a reference implementation, and an aid in driving the design process. We describe the design and specification of JavaScript and our experience so far using Standard ML for this purpose.

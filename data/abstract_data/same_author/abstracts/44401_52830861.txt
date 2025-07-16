@@ -1,0 +1,2 @@
+A Coarse-Grained Parallel Algorithm for Maximal Cliques in Circle Graphs
+We present a parallel algorithm for generating the maximal cliques of a circle graph with n vertices and m edges. We consider the Coarse-Grained Multicomputer Model (CGM) and show that the proposed algorithm requires O(log p) communication rounds, where p is the number of processors, independent of n. The main contribution is the use of a new technique based on the unrestricted depth search for the design of CGM algorithms.

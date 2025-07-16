@@ -1,0 +1,2 @@
+Common-cause failure analysis of a parallel system with warm standby
+This paper presents the reliability analysis of a two identical unit parallel system with a warm standby subject to common-cause failures. The expressions and plots of system reliability, availability, mean time to failure and variance of time to failure of the system are presented. A general formular for the system steady-state availability is developed when failed system repair times are gamma distributed.

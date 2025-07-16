@@ -1,0 +1,2 @@
+On the ergodicity of geodesic flows on surfaces without focal points
+In this article, we study the ergodicity of the geodesic flows on surfaces with no focal points. Let $M$ be a smooth connected and closed surface equipped with a $C^\infty$ Riemannian metric $g$, whose genus $\mathfrak{g} \geq 2$. Suppose that $(M,g)$ has no focal points. We prove that the geodesic flow on the unit tangent bundle of $M$ is ergodic with respect to the Liouville measure, under the assumption that the set of points on $M$ with negative curvature has at most finitely many connected components.

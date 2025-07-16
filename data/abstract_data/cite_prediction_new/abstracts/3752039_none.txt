@@ -1,0 +1,2 @@
+A new block exact affine projection algorithm [acoustic echo cancellation system example]
+A block affine projection algorithm that it is mathematically equivalent to a recently proposed Gauss-Seidel pseudo affine projection (GS-PAP) algorithm is proposed. A partitioning method is applied to the original sample-by-sample algorithm. It is shown that the derived algorithm has better convergence, tracking abilities and much reduced complexity compared to the NLMS algorithm. Its application in an acoustic echo cancellation system is investigated.

@@ -1,0 +1,2 @@
+Strata-Gem: risk assessment through mission modeling
+Strata-Gem utilizes mission trees to perform risk assessments by linking an organization's objectives to the IT assets that implement them. Critical states are identified which indicate goals that a potential attacker can achieve to prevent each asset from completing its objectives. Those goals are then used as states to drive attack and fault tree analysis to determine the likelihood of an attack. This provides a quantitative risk measurement to be calculated for each asset, objective, and the overall organization.

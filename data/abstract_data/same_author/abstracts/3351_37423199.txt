@@ -1,0 +1,9 @@
+How to Confirm Cryptosystems Security: The Original Merkle-Damgård Is Still Alive!
+At Crypto 2005, Coron et al. showed that Merkle-Damgard hash function (MDHF) with a fixed input length random oracle is not indifferentiable from a random oracle RO due to the extension attack. Namely MDHF does not behave like RO. This result implies that there exists some cryptosystem secure in the RO model but insecure under MDHF. However, this does not imply that no cryptosystem is secure under MDHF. This fact motivates us to establish a criteria methodology for confirming cryptosystems security under MDHF. 
+ 
+In this paper, we confirm cryptosystems security by using the following approach: 1 Find a variant, $\widetilde{\mathsf{RO}}$, of RO which leaks the information needed to realize the extension attack. 
+ 1 Prove that MDHF is indifferentiable from $\widetilde{\mathsf{RO}}$. 
+ 1 Prove cryptosystems security in the $\widetilde{\mathsf{RO}}$ model. 
+ From the indifferentiability framework, a cryptosystem secure in the $\widetilde{\mathsf{RO}}$ model is also secure under MDHF. Thus we concentrate on finding $\widetilde{\mathsf{RO}}$, which is weaker than RO. 
+ 
+We propose the Traceable Random Oracle (TRO) which leaks enough information to permit the extension attack. By using TRO, we can easily confirm the security of OAEP and variants of OAEP. However, there are several practical cryptosystems whose security cannot be confirmed by TRO (e.g. RSA-KEM). This is because TRO leaks information that is irrelevant to the extension attack. Therefore, we propose another $\widetilde{\mathsf{RO}}$, the Extension Attack Simulatable Random Oracle, ERO, that leaks just the information needed for the extension attack. Fortunately, ERO is necessary and sufficient to confirm the security of cryptosystems under MDHF. This means that the security of any cryptosystem under MDHF is equivalent to that under the ERO model. We prove that RSA-KEM is secure in the ERO model.

@@ -1,0 +1,13 @@
+Pricing Virtual Paths with Quality-of-Service Guarantees as Bundle Derivatives
+We describe a model of a communication network that allows 
+us to price complex network services as financial derivative contracts 
+based on the spot price of the capacity in individual routers. We 
+prove a theorem of a Girsanov transform that is useful for pricing 
+linear derivatives on underlying assets, which can be used to price 
+many complex network services, and it is used to price an option that 
+gives access to one of several virtual channels between two network 
+nodes, during a specified future time interval. We give the continuous 
+time hedging strategy, for which the option price is independent of 
+the service providers attitude towards risk. The option price contains 
+the density function of a sum of lognormal variables, which has to be 
+evaluated numerically.

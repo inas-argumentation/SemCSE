@@ -1,0 +1,2 @@
+Zero-Shot Recognition via Structured Prediction
+• Test-time: For each image feature , identify max scoring source descriptor from a collection of (unseen) classes, and label the test image using the label of the source descriptor. This Paper : Transductive Zero-Shot Recognition • Problem: projection domain shift between source and target data leads to ZSR degradation. • Solution: Model domain shift as small distortion in predicted cluster centers based on seen classes. Then solve a structured matching problem to improve alignment between source and target domain.

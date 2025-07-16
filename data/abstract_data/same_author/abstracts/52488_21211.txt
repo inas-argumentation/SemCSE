@@ -1,0 +1,2 @@
+Random Minimum Length Spanning Trees in Regular Graphs
+r-regular n-vertex graph G with random independent edge lengths, each uniformly distributed on (0, 1). Let mst(G) be the expected length of a minimum spanning tree. We show that mst(G) can be estimated quite accurately under two distinct circumstances. Firstly, if r is large and G has a modest edge expansion property then , where . Secondly, if G has large girth then there exists an explicitly defined constant such that . We find in particular that .

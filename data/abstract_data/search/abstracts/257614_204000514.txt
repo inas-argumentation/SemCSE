@@ -1,0 +1,2 @@
+Cascadic multigrid methods combined with sixth order compact scheme for poisson equation
+Based on the extrapolation theory and a sixth order compact difference scheme, new extrapolation interpolation operator and extrapolation cascadic multigrid methods for two dimensional Poisson equation are presented. The new extrapolation interpolation operator is used to provide a better initial value on refined grid. The convergence of the new methods are given. Numerical experiments are shown to illustrate that the new methods have higher accuracy and efficiency.

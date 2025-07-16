@@ -1,0 +1,15 @@
+Automated discovery of 3D motifs for protein function annotation
+MOTIVATION
+Function inference from structure is facilitated by the use of patterns of residues (3D motifs), normally identified by expert knowledge, that correlate with function. As an alternative to often limited expert knowledge, we use machine-learning techniques to identify patterns of 3-10 residues that maximize function prediction. This approach allows us to test the assumption that residues that provide function are the most informative for predicting function.
+
+
+RESULTS
+We apply our method, GASPS, to the haloacid dehalogenase, enolase, amidohydrolase and crotonase superfamilies and to the serine proteases. The motifs found by GASPS are as good at function prediction as 3D motifs based on expert knowledge. The GASPS motifs with the greatest ability to predict protein function consist mainly of known functional residues. However, several residues with no known functional role are equally predictive. For four groups, we show that the predictive power of our 3D motifs is comparable with or better than approaches that use the entire fold (Combinatorial-Extension) or sequence profiles (PSI-BLAST).
+
+
+AVAILABILITY
+Source code is freely available for academic use by contacting the authors.
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary data are available at Bioinformatics online.

@@ -1,0 +1,2 @@
+Minimizing air consumption of pneumatic actuators in mobile robots
+This paper introduces a new control method for pneumatic actuators, called "Proportional Position and Stiffness (PPS)" controller. The PPS method provides both position and stiffness control for a robot joint driven by a pneumatic cylinder with four ON-OFF valves. In addition, the proposed control system consumes much less compressed air than comparable strategies. These features make the PPS method highly suitable to application in mobile robots.

@@ -1,0 +1,2 @@
+A Survey of Procedural Methods for Terrain Modelling ∗
+Procedural methods are a promising but underused alternative to manual content creation. Commonly heard drawbacks are the randomness of and the lack of control over the output and the absence of integrated solutions, although more recent publications increasingly address these issues. This paper surveys procedural methods applied to terrain modelling, evalating realism of their output, performance and control users can exert over the procedure

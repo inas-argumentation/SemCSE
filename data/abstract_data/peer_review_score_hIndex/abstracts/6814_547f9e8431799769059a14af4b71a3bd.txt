@@ -1,0 +1,12 @@
+Differentiable Canonical Correlation Analysis
+Canonical Correlation Analysis (CCA) computes maximally-correlated 
+linear projections of two modalities. We propose Differentiable CCA, a 
+formulation of CCA that can be cast as a layer within a multi-view 
+neural network. Unlike Deep CCA, an earlier extension of CCA to 
+nonlinear projections, our formulation enables gradient flow through the 
+computation of the CCA projection matrices, and free choice of the final 
+optimization target. We show the effectiveness of this approach in 
+cross-modality retrieval experiments on two public image-to-text 
+datasets, surpassing both Deep CCA and a multi-view network with 
+freely-learned projections. We assume that Differentiable CCA could be a 
+useful building block for many multi-modality tasks.

@@ -1,0 +1,15 @@
+SU-E-T-15: Small and Nonstandard Photon Field Dosimetry Characterization Using Monte Carlo Methods.
+PURPOSE
+To quantify uncertainty reduction in small photon field dosimetry through characterization of ionization chambers and calibration conditions using detailed Monte Carlo methods benchmarked against NIST-traceable measurements.
+
+
+METHODS
+Phase space profiles were obtained using detailed EGSnrc Monte Carlo models for a Varian 6 MV photon linear accelerator, and a NIST-traceable cobalt-60 teletherapy unit. The responses of a farmer-type ionization chamber, two micro-ionization chambers, and one scanning-type ionization chamber were simulated in multiple calibration conditions. Calibration conditions included static field sizes ranging from (10×10) cm squared to (0.5×0.5) cm squared for the 6 MV and cobalt-60 beam qualities and an additional dynamic IMRT plan for the 6 MV beam quality. Calibration conditions also consisted of ionization chambers placed in a standard water phantom and in a specially designed acrylic phantom. Tolerance limits on the calibration conditions were investigated. All models were benchmarked against measured beam quality data, including ionization chamber beam quality correction factors for the standard absorbed dose to water cobalt-60 calibration coefficient.
+
+
+RESULTS
+The majority of the simulated small field response values fell within the uncertainty of the measured values. A database was created for several proposed small field calibration conditions to provide comparisons with the Co-60 standard reference conditions. The database includes the small field calibration conditions' beam quality correction factors, tolerances, and dose calibration uncertainties.
+
+
+CONCLUSIONS
+The characterization of multiple calibration conditions provided an improved understanding of how the cobalt-60 ionization chamber absorbed dose to water calibration coefficient from an ADCL can optimally be applied to small and nonstandard field calibrations to reduce the associated dose uncertainty. The developed methodology will contribute to future research of other small field radiotherapy modalities. The resulting database provides support for future recommendations on the implementation of small and non-standard field calibration protocols.

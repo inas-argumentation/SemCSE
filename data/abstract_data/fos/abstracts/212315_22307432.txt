@@ -1,0 +1,15 @@
+SU-F-T-295: MLCs Performance and Patient-Specific IMRT QA Using Log File Analysis.
+PURPOSE
+To analyze the performance of the multi-leaf collimators (MLCs) from the log files recorded during the intensity modulated radiotherapy (IMRT) treatment and to construct the relative fluence maps and do the gamma analysis to compare the planned and executed MLCs movement.
+
+
+METHODS
+We developed a program to extract and analyze the data from dynamic log files (dynalog files) generated from sliding window IMRT delivery treatments. The program extracts the planned and executed (actual or delivered) MLCs movement, calculates and compares the relative planned and executed fluences. The fluence maps were used to perform the gamma analysis (with 3% dose difference and 3 mm distance to agreement) for 3 IMR patients. We compared our gamma analysis results with those obtained from portal dose image prediction (PDIP) algorithm performed using the EPID.
+
+
+RESULTS
+For 3 different IMRT patient treatments, the maximum difference between the planned and the executed MCLs positions was 1.2 mm. The gamma analysis results of the planned and delivered fluences were in good agreement with the gamma analysis from portal dosimetry. The maximum difference for number of pixels passing the gamma criteria (3%/3mm) was 0.19% with respect to portal dosimetry results.
+
+
+CONCLUSION
+MLC log files can be used to verify the performance of the MLCs. Patientspecific IMRT QA based on MLC movement log files gives similar results to EPID dosimetry results. This promising method for patient-specific IMRT QA is fast, does not require dose measurements in a phantom, can be done before the treatment and for every fraction, and significantly reduces the IMRT workload. The author would like to thank King Fahd University of petroleum and Minerals for the support.

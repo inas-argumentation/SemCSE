@@ -1,0 +1,2 @@
+The variational problem and background fields in renormalization group method for lattice gauge theories
+We consider the action of a lattice gauge theory on a space of regular gauge field configurations with fixed averages, and we prove that there exists a minimum of this action. The minimum is unique up to gauge transformations. This minimal configuration is called a background field, and it serves as a basis of an expansion and perturbative methods.

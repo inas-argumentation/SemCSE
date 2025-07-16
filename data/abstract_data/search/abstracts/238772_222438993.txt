@@ -1,0 +1,2 @@
+Probabilistic planning via heuristic forward search and weighted model counting
+We present a new algorithm for probabilistic planning with no observability. Our algorithm, called Probabilistic FF, extends the heuristic forward searchmachinery of Conformant FF to problems with

@@ -1,0 +1,2 @@
+Data processing method for the computer support cooperative design of drilling fluid based on extended marking language (XML)
+The characteristics of the data in drilling fluid design and the requirements of the computer support cooperative design of drilling fluid are analyzed. And based on the analyses, it is proposed that the integration and transmission of heterogeneous data in the computer support cooperative design of drilling fluid is finished by XML. The architecture of the system is presented. The conversion of drilling fluid database into XML is described.

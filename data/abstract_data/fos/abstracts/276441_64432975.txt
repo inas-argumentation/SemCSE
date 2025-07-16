@@ -1,0 +1,2 @@
+Application of Transaction Isolation Level in ADO.NET
+In multi-user application that is based on database,transactions subsequent error is a common problem can be solved by using transaction isolation,simulates transactions subsequent in SQL Server 2005,and begets some errors,uses isolation-level to solve this problem in ADO.NET,gives the advises about how to use transactions and isolation-level.

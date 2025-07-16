@@ -1,0 +1,2 @@
+Global W 2 , δ estimates for a type of singular fully nonlinear elliptic equations
+We obtain global W 2,δ estimates for a type of singular fully nonlinear elliptic equations where the right hand side term belongs to L∞. The main idea of the proof is to slide paraboloids from below and above to touch the solution of the equation, and then to estimate the low bound of the measure of the set of contact points by the measure of the set of vertex points.

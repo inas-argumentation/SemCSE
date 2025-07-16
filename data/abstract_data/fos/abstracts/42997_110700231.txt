@@ -1,0 +1,2 @@
+Switch failure in a two-unit standby redundant system
+Abstract In this paper we study the effect of imperfect switching on a two-unit standby redundant system, in which each unit works in three different modes (normal, partial failure and total failure) when the failure time distributions are exponential with different means and the repair times are arbitrarily distributed. Several reliability characteristics of interest to system designers as well as operations managers have been evaluated and particular cases are shown to corroborate earlier results.

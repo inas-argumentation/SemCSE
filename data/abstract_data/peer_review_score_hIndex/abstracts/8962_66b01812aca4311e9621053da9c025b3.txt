@@ -1,0 +1,7 @@
+Meta-Model-Based Meta-Policy Optimization
+Model-based reinforcement learning (MBRL) has been applied to meta-learning settings and has demonstrated its high sample efficiency. 
+However, in previous MBRL for meta-learning settings, policies are optimized via rollouts that fully rely on a predictive model of an environment. 
+Thus, its performance in a real environment tends to degrade when the predictive model is inaccurate. 
+In this paper, we prove that performance degradation can be suppressed by using branched meta-rollouts. 
+On the basis of this theoretical analysis, we propose Meta-Model-based Meta-Policy Optimization (M3PO), in which the branched meta-rollouts are used for policy optimization. 
+We demonstrate that M3PO outperforms existing meta reinforcement learning methods in continuous-control benchmarks. 

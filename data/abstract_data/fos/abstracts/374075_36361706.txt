@@ -1,0 +1,2 @@
+Techniques of Microprocessor Testing and SEU-Rate Prediction
+Several different approaches have been used in the past to assess the vulnerability of microprocessors to SEU. In this paper we discuss the advantages and disadvantages of each of these test methods, and address the question of how the microprocessor test results can be used to estimate upset rate in space. Finally, as an application of the above techniques, we present the test results and predicted upset rates in synchronous orbit for a selected group of microprocessors.

@@ -1,0 +1,2 @@
+On Local Solutions of the Celis--Dennis--Tapia Subproblem
+We discuss the distribution of the local solutions of the Celis--Dennis--Tapia (CDT) subproblem, which appears in some trust region algorithms for nonlinear optimization. We also give some examples to show the differences between the CDT subproblem and the single-ball-constraint subproblem. These results show that the complexity of the CDT subproblem does not depend on the complexity of the structure of the dual plane. Thus they provide the possibility to search for the global minimizer in the dual plane.

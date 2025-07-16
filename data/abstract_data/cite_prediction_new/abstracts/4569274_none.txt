@@ -1,0 +1,2 @@
+Design and implementation of an ultra high precision parametric mismatch measurement system
+The availability of pairs of identical (matched) circuit elements is essential for many analogue electronic circuits. The paper describes a parametric mismatch characterization approach that can assess parametric mismatch fluctuation levels down to tens of ppm for high performance BJTs. This performance is almost two orders of magnitude better than any BJT mismatch measurement approach reported so far.

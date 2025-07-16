@@ -1,0 +1,2 @@
+Domain-retargetable reverse engineering
+A user programmable approach to reverse engineering is described. The approach uses a scripting language that enables users to write their own routines for these activities, making the system domain-retargetable. The environment supported by this programmable approach subsumes existing reverse engineering systems by being able to simulate facets of each one and provides a smooth transition from semi-automatic to automatic reverse engineering.<<ETX>>

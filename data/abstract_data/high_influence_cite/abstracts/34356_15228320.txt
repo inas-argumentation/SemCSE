@@ -1,0 +1,11 @@
+Regulation of Response Properties and Operating Range of the AFD Thermosensory Neurons by cGMP Signaling
+BACKGROUND
+The neuronal mechanisms that encode specific stimulus features in order to elicit defined behavioral responses are poorly understood. C. elegans forms a memory of its cultivation temperature (T(c)) and exhibits distinct behaviors in different temperature ranges relative to T(c). In particular, C. elegans tracks isotherms only in a narrow temperature band near T(c). T(c) memory is in part encoded by the threshold of responsiveness (T∗(AFD)) of the AFD thermosensory neuron pair to temperature stimuli. However, because AFD thermosensory responses appear to be similar at all examined temperatures above T∗(AFD), the mechanisms that generate specific behaviors in defined temperature ranges remain to be determined.
+
+
+RESULTS
+Here, we show that the AFD neurons respond to the sinusoidal variations in thermal stimuli followed by animals during isothermal tracking (IT) behavior only in a narrow temperature range near T(c). We find that mutations in the AFD-expressed gcy-8 receptor guanylyl cyclase (rGC) gene result in defects in the execution of IT behavior and are associated with defects in the responses of the AFD neurons to oscillating thermal stimuli. In contrast, mutations in the gcy-18 or gcy-23 rGCs alter the temperature range in which IT behavior is exhibited. Alteration of intracellular cGMP levels via rGC mutations or addition of cGMP analogs shift the lower and upper ranges of the temperature range of IT behavior in part via alteration in T∗(AFD).
+
+
+CONCLUSIONS
+Our observations provide insights into the mechanisms by which a single sensory neuron type encodes features of a given stimulus to generate different behaviors in defined zones.

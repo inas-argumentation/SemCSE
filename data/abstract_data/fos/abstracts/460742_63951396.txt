@@ -1,0 +1,2 @@
+Analysis of the Main Factors Affecting Oracle Qurey Efficiency
+Discusses the main factors affecting query efficiency in Oracle database,including using index,SQL writing method,statistics data,and gives quantitative analysis by using large amounts of test data.These results can give validate references in executing query operations.

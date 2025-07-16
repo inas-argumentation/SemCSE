@@ -1,0 +1,2 @@
+Jet trimming
+Initial state radiation, multiple interactions, and event pileup can contaminate jets and degrade event reconstruction. Here we introduce a procedure, jet trimming, designed to mitigate these sources of contamination in jets initiated by light partons. This procedure is complimentary to existing methods developed for boosted heavy particles. We find that jet trimming can achieve significant improvements in event reconstruction, especially at high energy/luminosity hadron colliders like the LHC.

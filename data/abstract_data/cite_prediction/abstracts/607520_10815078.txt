@@ -1,0 +1,2 @@
+Free for All! Assessing User Data Exposure to Advertising Libraries on Android
+• We have modeled an opportunistic ad library that aggressively collects targeted data from Android devices. • We demonstrate that the access channels considered are realistic. • We have designed a reliable and extensible framework that can be leveraged to assess user data exposure by an app to a library. Classifier Age Marital Status Sex P(%) R(%) P(%) R(%) P(%) R(%) Random Forest 88.6 88.6 95.0 93.8 93.8 92.9

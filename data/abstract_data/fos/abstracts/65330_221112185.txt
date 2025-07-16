@@ -1,0 +1,2 @@
+Picard groups for blocks with normal defect groups and linear source bimodules
+It is an open problem as to whether any bimodule inducing a Morita auto-equivalence of a block must have endopermutation source. We prove that, for blocks $b$ with normal defect groups in odd characteristic, a stronger result holds, namely that all such bimodules have linear source. We also prove the analogous result in characteristic $2$, provided that the defect group is of a specific, slightly restrictive, form.

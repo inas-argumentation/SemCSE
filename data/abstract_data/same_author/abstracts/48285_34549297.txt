@@ -1,0 +1,2 @@
+Steiner minimal trees for regular polygons
+Fifty years ago Jarnik and Kössler showed that a Steiner minimal tree for the vertices of a regularn-gon contains Steiner points for 3 ≤n≤5 and contains no Steiner point forn=6 andn≥13. We complete the story by showing that the case for 7≤n≤12 is the same asn≥13. We also show that the set ofn equally spaced points yields the longest Steiner minimal tree among all sets ofn cocircular points on a given circle.

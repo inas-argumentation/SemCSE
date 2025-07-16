@@ -1,0 +1,2 @@
+On the well-posedness of the inviscid SQG equation
+In this paper we consider the inviscid SQG equation on the Sobolev spaces $H^s(\R^2)$, $s > 2$. Using a geometric approach we show that for any $T > 0$ the corresponding solution map, $\theta(0) \mapsto \theta(T)$, is nowhere locally uniformly continuous.

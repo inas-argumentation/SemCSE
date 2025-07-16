@@ -1,0 +1,19 @@
+Whole-brain resting-state functional connectivity identified major depressive disorder: A multivariate pattern analysis in two independent samples.
+BACKGROUND
+there has been a recent increase in the use of connectome-based multivariate pattern analysis (MVPA) of resting-state functional magnetic resonance imaging (fMRI) data aimed at distinguishing patients with major depressive disorder (MDD) from healthy controls (HCs). However, the validity of this method needs to be confirmed in independent samples.
+
+
+METHOD
+we used resting-state fMRI to explore whole-brain functional connectivity (FC) patterns characteristic of MDD and to confirm the effectiveness of MVPA in distinguishing MDD versus HC groups in two independent samples. The first sample set included 29 MDD patients and 33 HCs and second sample set included 46 MDD patients and 57 HCs.
+
+
+RESULTS
+for the first sample, we obtained a correct classification rate of 91.9% with a sensitivity of 89.6% and specificity of 93.9%. For the second sample, we observed a correct classification rate of 86.4% with a sensitivity of 84.8% and specificity of 87.7%. With both samples, we found that the majority of consensus FCs used for MDD identification were located in the salience network, default mode network, the cerebellum, visual cortical areas, and the affective network.
+
+
+LIMITATION
+we did not analyze potential structural differences between the groups.
+
+
+CONCLUSION
+results suggest that whole-brain FC patterns can be used to differentiate depressed patients from HCs and provide evidence for the potential use of connectome-based MVPA as a complementary tool in the clinical diagnosis of MDD.

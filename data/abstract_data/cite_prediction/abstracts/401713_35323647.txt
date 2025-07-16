@@ -1,0 +1,2 @@
+19.7 A 79GHz binary phase-modulated continuous-wave radar transceiver with TX-to-RX spillover cancellation in 28nm CMOS
+The demand for inexpensive and ubiquitous accurate motion-detection sensors for road safety, smart homes and robotics justifies the interest in single-chip mm-Wave radars: a high carrier frequency allows for a high angular resolution in a compact multi-antenna system and a wide bandwidth allows fora high depth resolution. With the objective of single-chip radar systems, CMOS is the natural candidate to replace SiGe as a leading technology [1-6].

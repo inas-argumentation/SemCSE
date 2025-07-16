@@ -1,0 +1,2 @@
+Query Expansion based on Local Distributional Thesauri
+This work proposes and evaluates an approach to query expansion in Information Retrieval based on Local Context Analysis using a Distributional Semantic Representation. In general, the approach performed better compared to that of query expansion using non-distributional, local or global techniques, running over datasets of different application domains.

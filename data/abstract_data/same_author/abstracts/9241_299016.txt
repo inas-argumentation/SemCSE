@@ -1,0 +1,2 @@
+Bunch compressor for beam-based alignment
+Misalignments in the main linac of future linear colliders can lead to significant emittance growth. Beam-based alignment algorithms, such as Dispersion Free Steering (DFS), are necessary to mitigate these effects. We study how to use the bunch compressor to create the off-energy beams necessary to DFS and discuss the effectiveness of this method.

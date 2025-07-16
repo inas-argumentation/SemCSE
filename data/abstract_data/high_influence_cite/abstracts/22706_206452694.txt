@@ -1,0 +1,15 @@
+Breast density quantification using magnetic resonance imaging (MRI) with bias field correction: a postmortem study.
+PURPOSE
+Quantification of breast density based on three-dimensional breast MRI may provide useful information for the early detection of breast cancer. However, the field inhomogeneity can severely challenge the computerized image segmentation process. In this work, the effect of the bias field in breast density quantification has been investigated with a postmortem study.
+
+
+METHODS
+T1-weighted images of 20 pairs of postmortem breasts were acquired on a 1.5 T breast MRI scanner. Two computer-assisted algorithms were used to quantify the volumetric breast density. First, standard fuzzy c-means (FCM) clustering was used on raw images with the bias field present. Then, the coherent local intensity clustering (CLIC) method estimated and corrected the bias field during the iterative tissue segmentation process. Finally, FCM clustering was performed on the bias-field-corrected images produced by CLIC method. The left-right correlation for breasts in the same pair was studied for both segmentation algorithms to evaluate the precision of the tissue classification. Finally, the breast densities measured with the three methods were compared to the gold standard tissue compositions obtained from chemical analysis. The linear correlation coefficient, Pearson's r, was used to evaluate the two image segmentation algorithms and the effect of bias field.
+
+
+RESULTS
+The CLIC method successfully corrected the intensity inhomogeneity induced by the bias field. In left-right comparisons, the CLIC method significantly improved the slope and the correlation coefficient of the linear fitting for the glandular volume estimation. The left-right breast density correlation was also increased from 0.93 to 0.98. When compared with the percent fibroglandular volume (%FGV) from chemical analysis, results after bias field correction from both the CLIC the FCM algorithms showed improved linear correlation. As a result, the Pearson's r increased from 0.86 to 0.92 with the bias field correction.
+
+
+CONCLUSIONS
+The investigated CLIC method significantly increased the precision and accuracy of breast density quantification using breast MRI images by effectively correcting the bias field. It is expected that a fully automated computerized algorithm for breast density quantification may have great potential in clinical MRI applications.

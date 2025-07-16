@@ -1,0 +1,2 @@
+Model in the Loop and Software in the Loop Testing of Closed Loop Automotive Software with Arttest
+In this paper, we present Arttest, a tool for functional testing of block diagrams developed with MATLAB/Simulink. We introduce testing concepts for closed loop tests of automotive software on model and software level, the integration of the concepts into a signal specification language and correspondent tool support. Furthermore, we show the applicability of the concepts and the test execution automation based on an example for model in the loop and software in the loop tests.

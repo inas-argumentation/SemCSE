@@ -1,0 +1,2 @@
+Morse-smale complexes for piecewise linear 3-manifolds
+We define the Morse-Smale complex of a Morse function over a 3-manifold as the overlay of the descending and ascending manifolds of all critical points. In the generic case, its 3-dimensional cells are shaped like crystals and are separated by quadrangular faces. In this paper, we give a combinatorial algorithm for constructing such complexes for piecewise linear data.

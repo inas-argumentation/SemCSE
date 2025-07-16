@@ -1,0 +1,2 @@
+Transfer learning for Bag-of-Visual words approach to NBI endoscopic image classification
+We address a problem of endoscopic image classification taken by different (e.g., old and new) endoscopies. Our proposed method formulates the problem as a constraint optimization that estimates a linear transformation between feature vectors (or Bag-of-Visual words histograms) in a framework of transfer learning. Experimental results show that the proposed method works much better than the case without feature transformation.

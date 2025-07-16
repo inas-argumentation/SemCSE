@@ -1,0 +1,2 @@
+Power Defaults
+We present a spectrum of default logics, using powerdomains to encode default constraints. The resulting nonmonotonic entailment relations all satisfy the law of reasoning by cases. This result is a consequence of two general theorems valid for any Scott domain: the Dichotomy Theorem and the Extension Splitting Theorem. We briefly indicate that for propositional logic, the complexity of entailment is complete for co-NP(3).

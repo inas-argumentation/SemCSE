@@ -1,0 +1,2 @@
+On error estimates of the projection methods for the Navier-Stokes equations: Second-order schemes
+We present in this paper a rigorous error analysis of several projection schemes for the approximation of the unsteady incompressible Navier-Stokes equations. The error analysis is accomplished by interpreting the respective projection schemes as second-order time discretizations of a perturbed system which approximates the Navier-Stokes equations. Numerical results in agreement with the error analysis are also presented.

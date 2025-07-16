@@ -1,0 +1,2 @@
+An end-faithful spanning tree counterexample
+We find an infinitely-connected graph in which every spanning tree has a 2-way infinite path. This disproves Halin's well-known `end-faithful spanning tree? conjecture, and also disproves a recent conjecture of ?ira?.

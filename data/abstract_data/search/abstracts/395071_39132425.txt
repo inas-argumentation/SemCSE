@@ -1,0 +1,2 @@
+First Steps Towards Coverage Based Sentence Alignment
+In this paper, we introduce a coverage based scoring function that discriminates between parallel and non parallel sentences. When plugged into Bleualign, a state of the art sentence aligner, our function improves both precision and recall of alignments over the originally proposed BLEU score. Furthermore, since our scoring function uses Moses phrase tables directly we avoid the need to translate the texts to be aligned, which is time consuming and a potential source of alignment errors.

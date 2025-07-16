@@ -1,0 +1,2 @@
+A new fourth order Newton type method for solution of system of nonlinear equations
+In this paper we suggest a series of iterative schemes for solution of nonlinear equations. We have derived these schemes using Adomian Decomposition Technique developed by Adomian in 1980s 22. The methods we suggest have good efficiency and important thing is that these methods are of practical importance. The fourth order convergence of the method is proved and few examples are presented to illustrate the methods.

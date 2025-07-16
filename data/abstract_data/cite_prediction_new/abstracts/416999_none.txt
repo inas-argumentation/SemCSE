@@ -1,0 +1,2 @@
+Multi-resolution Traffic Simulation for Large-Scale High-Fidelity Evaluation of VANET Applications
+This paper presents an approach for coupling traffic simulators of different resolutions in order to conduct virtual evaluations of advanced driver assistance systems based on vehicular ad hoc networks that are both large scale and a high fidelity. The emphasis is put on the need for such an attempt to satisfy the constraint of performing simulations in real time. Both the methods to accomplish this as well as the resulting performance are described.

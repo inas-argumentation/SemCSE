@@ -1,0 +1,2 @@
+Packings and coverings of the complete directed multigraph with 3- and 4-circuits
+Abstract Let λDK v denote the complete directed multigraph with v vertices, where any two distinct vertices x and y are joined by λ arcs ( x , y ) and λ arcs ( y , x ). By a k -circuit we mean a directed cycle of length k . In this paper, we consider the problem of finding maximal packings and minimal coverings of λDK v with k -circuits. In particular, we completely determine the packing number and covering number for the cases k = 3 and 4.

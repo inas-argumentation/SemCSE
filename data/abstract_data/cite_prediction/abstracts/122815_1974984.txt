@@ -1,0 +1,2 @@
+A Categorization Scheme for Semantic Web Search Engines
+Semantic web search engines are evolving and many prototype systems and some implementation have been developed. However, there are some different views on what a semantic search engine should do. In this paper, a categorization scheme for semantic web search engines are introduced and elaborated. For each category, its components are described according to a proposed general architecture and various approaches employed in these components are discussed. We also propose some factors to evaluate systems in each category.

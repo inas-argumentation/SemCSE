@@ -1,0 +1,2 @@
+Market-Based Resource Allocation for Information-Collection Scenarios
+Dynamic decentralized resource allocation for information-collection can play a critical role in emergency scenarios. We explore two simplified scenarios for information-collection, and define market games for allocating resources to interdependent tasks. Experiments with a market game for disaster-response illustrate our general methodology for analyzing strategic interactions in such an environment.

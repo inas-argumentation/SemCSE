@@ -1,0 +1,15 @@
+A preliminary study of the role of modulated electron beams in intensity modulated radiotherapy, using automated beam orientation and modality selection.
+PURPOSE
+To develop an algorithm for optimal beam arrangement selection in intensity-modulated radiotherapy (IMRT) of mixed photon and electron beams. To apply this algorithm to study the utility of modulated electron beams in the context of IMRT planning.
+
+
+METHODS AND MATERIALS
+The optimization algorithm selects, for a user-specified number of beams, the optimal IMRT arrangement (beam orientations, and photon/electron modality for each orientation) using a novel fast heuristic intensity modulation procedure. The algorithm was employed to select optimal beam arrangements for breast (two, four, and six axial beams) and head-and-neck (three, four, five, and seven nonaxial beams) cases.
+
+
+RESULTS
+For the two cases, increasing the number of selected beams: (1) increased the number of electron beams for the breast case, but not more than one electron beam was selected for the head-and-neck case; (2) decreased critical structure doses for both cases; and (3) decreased target homogeneity for the breast case, but improved it for the head-and-neck case.
+
+
+CONCLUSIONS
+In the two cases analyzed using the selection algorithm, the primary role of modulated electrons differs based on treatment site-normal tissue dose reduction in breast and target homogeneity improvement in head and neck. Although this preliminary study with two cases appears to suggest that the role of intensity-modulated electrons differs based on treatment site, further investigation of large numbers of cases and varied treatment sites are required to establish a definitive conclusion.

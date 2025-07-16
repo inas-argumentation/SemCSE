@@ -1,0 +1,2 @@
+Dynamic programming and the computation of economic injury levels for crop disease control
+We explain how dynamic programming can be used to determine the optimal solutions to models for crop disease control. In many cases, these solutions are the sets of dynamic economic injury levels that make management of the diseases more efficient. Three different models of yellow rust and cereal aphids on wheat are solved with dynamic programming to demonstrate its advantages and limitations.

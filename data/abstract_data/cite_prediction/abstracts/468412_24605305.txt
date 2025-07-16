@@ -1,0 +1,15 @@
+Polytomous logistic regression analysis could be applied more often in diagnostic research.
+OBJECTIVE
+Physicians commonly consider the presence of all differential diagnoses simultaneously. Polytomous logistic regression modeling allows for simultaneous estimation of the probability of multiple diagnoses. We discuss and (empirically) illustrate the value of this method for diagnostic research.
+
+
+STUDY DESIGN AND SETTING
+We used data from a study on the diagnosis of residual retroperitoneal mass histology in patients presenting with nonseminomatous testicular germ cell tumor. The differential diagnoses include benign tissue, mature teratoma, and viable cancer. Probabilities of each diagnosis were estimated with a polytomous logistic regression model and compared with the probabilities estimated from two consecutive dichotomous logistic regression models.
+
+
+RESULTS
+We provide interpretations of the odds ratios derived from the polytomous regression model and present a simple score chart to facilitate calculation of predicted probabilities from the polytomous model. For both modeling methods, we show the calibration plots and receiver operating characteristics curve (ROC) areas comparing each diagnostic outcome category with the other two. The ROC areas for benign tissue, mature teratoma, and viable cancer were similar for both modeling methods, 0.83 (95% confidence interval [CI]=0.80-0.85) vs. 0.83 (95% CI=0.80-0.85), 0.78 (95% CI=0.75-0.81) vs. 0.78 (95% CI=0.75-0.81), and 0.66 (95% CI=0.61-0.71) vs. 0.64 (95% CI=0.59-0.69), for polytomous and dichotomous regression models, respectively.
+
+
+CONCLUSION
+Polytomous logistic regression is a useful technique to simultaneously model predicted probabilities of multiple diagnostic outcome categories. The performance of a polytomous prediction model can be assessed similarly to a dichotomous logistic regression model, and predictions by a polytomous model can be made with a user-friendly method. Because the simultaneous consideration of the presence of multiple (differential) conditions serves clinical practice better than consideration of the presence of only one target condition, polytomous logistic regression could be applied more often in diagnostic research.

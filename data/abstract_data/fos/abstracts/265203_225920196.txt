@@ -1,0 +1,2 @@
+On the Pricing of Call-Put Parities of Asian Options by Reduced Differential Transform Algorithm
+The key aim of the paper is to show that how the efficiently the Reduced Differential Transform Algorithm (RDTA) can be employed to price the exotic financial options. In this paper we have computed the exact solution of the parabolic partial differential equation governing the dynamics of put-call parity in the mathematical theory of Asian options, by means of RDTA.

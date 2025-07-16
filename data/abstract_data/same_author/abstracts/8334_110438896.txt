@@ -1,0 +1,2 @@
+Delay line readout of anode planes in proportional chambers
+Simple delay lines have been developed for reading out active anode wire locations in multiwire proportional chambers. Anode wire positions are read out using commercial fast logic and time digitization apparatus with no special electronics required.

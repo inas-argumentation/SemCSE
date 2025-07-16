@@ -1,0 +1,2 @@
+Study on novel control strategy in matrix converter motor system
+In order to solve the problem of the industrial application of Matrix Converter (MC), the Matrix Converter Motor System (MCMS) is proposed. The control strategies of MCMS are studied based on the control of MC and the motor. The effects of voltage vector and direct torque control are analyzed. The new ameliorated control strategy is proposed.

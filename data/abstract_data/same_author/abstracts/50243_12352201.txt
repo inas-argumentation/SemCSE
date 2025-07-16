@@ -1,0 +1,2 @@
+Tight Lower Bound for the State Complexity of Shuffle of Regular Languages
+The upper bound for the state complexity of the shuffle of two regular languages is 2mn -1. We prove that this bound can be reached for some (not necessarily complete) deterministic finite automata with, respectively, m and n states. Our construction uses an alphabet of size 5.

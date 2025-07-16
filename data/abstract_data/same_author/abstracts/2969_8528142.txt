@@ -1,0 +1,2 @@
+A regularized simultaneous autoregressive model for texture classification
+In this paper, we present a new method for texture classification which we call the regularized simultaneous autoregressive method (RSAR). The regularization technique is introduced. With the technique, the new algorithm RSAR outperforms the traditional algorithm in texture classification. Particularly, our new algorithm is useful for extracting texture from the image which is coarse or contains too much noise.

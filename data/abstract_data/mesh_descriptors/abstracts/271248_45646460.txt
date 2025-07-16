@@ -1,0 +1,15 @@
+Application of computer-aided diagnosis (CAD) in MR-mammography (MRM): do we really need whole lesion time curve distribution analysis?
+RATIONALE AND OBJECTIVES
+The identification of the most suspect enhancing part of a lesion is regarded as a major diagnostic criterion in dynamic magnetic resonance mammography. Computer-aided diagnosis (CAD) software allows the semi-automatic analysis of the kinetic characteristics of complete enhancing lesions, providing additional information about lesion vasculature. The diagnostic value of this information has not yet been quantified.
+
+
+MATERIALS AND METHODS
+Consecutive patients from routine diagnostic studies (1.5 T, 0.1 mmol gadopentetate dimeglumine, dynamic gradient-echo sequences at 1-minute intervals) were analyzed prospectively using CAD. Dynamic sequences were processed and reduced to a parametric map. Curve types were classified by initial signal increase (not significant, intermediate, and strong) and the delayed time course of signal intensity (continuous, plateau, and washout). Lesion enhancement was measured using CAD. The most suspect curve, the curve-type distribution percentage, and combined dynamic data were compared. Statistical analysis included logistic regression analysis and receiver-operating characteristic analysis.
+
+
+RESULTS
+Fifty-one patients with 46 malignant and 44 benign lesions were enrolled. On receiver-operating characteristic analysis, the most suspect curve showed diagnostic accuracy of 76.7 +/- 5%. In comparison, the curve-type distribution percentage demonstrated accuracy of 80.2 +/- 4.9%. Combined dynamic data had the highest diagnostic accuracy (84.3 +/- 4.2%). These differences did not achieve statistical significance. With appropriate cutoff values, sensitivity and specificity, respectively, were found to be 80.4% and 72.7% for the most suspect curve, 76.1% and 83.6% for the curve-type distribution percentage, and 78.3% and 84.5% for both parameters.
+
+
+CONCLUSIONS
+The integration of whole-lesion dynamic data tends to improve specificity. However, no statistical significance backs up this finding.

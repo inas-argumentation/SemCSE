@@ -1,0 +1,2 @@
+Editing and Imputation for Quantitative Survey Data
+This article develops a three-stage strategy for cleaning survey data with missing and outlying values: (a) detection of outlying cases, (b) detection of outlying values within outlying cases, and (c) imputation of likely values for missing and/or outlying and edited values. Methodological tools include distance measures, graphical procedures, and maximum likelihood and robust estimation for incomplete multivariate normal data. Data from the Annual Survey of Manufactures (ASM) are used to illustrate the method.

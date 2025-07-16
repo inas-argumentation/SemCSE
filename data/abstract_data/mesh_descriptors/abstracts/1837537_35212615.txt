@@ -1,0 +1,15 @@
+Development of play-the-winner design: weighting and accumulation of information.
+BACKGROUND
+Play-the-Winner (PTW) design was compared with Weighted-Play-the-Winner (WPW) design with regard to sensitivity to discriminate between treatments.
+
+
+METHODS
+In total, 231 patients undergoing digestive surgery were included in a PTW study comparing safety of enoxaparin and dextran-70 in the prevention of venous thrombo-embolism. In the PTW model each patient was classified as a 'winner' or 'loser'. The treatment was changed when a patient was classified as 'loser', otherwise the same treatment was continued for the next patient. The study was performed by using a PTW design, but with all assessments needed for a WPW simulation. In the WPW design, a 'loser score' was calculated for each patient and summarized to a 'loser index' for consecutive patients given the same treatment. When this index exceeded a predefined value, treatment was changed and the 'loser index' set to zero. The WPW model with inheritance (WPWI) is identical to WPW, except that the overload of 'loser index' from the previous sequence with the same treatment was used as the starting value for the next.
+
+
+RESULTS
+The PTW study revealed superiority of enoxaparin. This was enforced in the WPW model and further increased by WPWI.
+
+
+CONCLUSION
+Changing from the PTW to WPW design and further to WPWI increased the sensitivity of the model, but at the same time the complexity of the design.

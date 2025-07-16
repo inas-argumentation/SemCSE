@@ -1,0 +1,15 @@
+SU-E-T-78: Fast and Efficient Dosimetry for the Cyberknife's Imaging System.
+PURPOSE
+A key component of the CyberKnife System (Accuray Inc., Sunnyvale, CA) is its ceiling-mounted stereoscopic kV imaging system. Accurate treatment delivery requires optimal performance of this system. With hundreds of images acquired per treatment, the ability to accurately account for imaging dose becomes important. Considering the importance and the frequency of these images, maintaining a proper imaging QA program is a vital, though often-overlooked aspect of a clinic's robotic radiosurgery program. With the imaging system being comprised of two separate tube-imager sets, measuring beam characteristics separately, and in a clinical imaging mode, poses a limitation of most dosimetry systems. Even when exposures are delivered in serial, most dosimetry systems cannot record, reset, and restart in-time for measurement of the next beam pulse. This study demonstrates the capabilities of the MagicMax kV Dosimetry System (IBA Dosimetry GmbH, Schwarzenbruck) for performing CK imaging QA; taking advantage of its high-speed and automation to perform a complete, efficient, and accurate QA on each tube-imager set of the stereoscopic pair.
+
+
+METHODS
+The detector is placed on a 7.5mm-thick aluminum slab (providing backscatter) at the approximate intersection of beam axes. A 12-measurement queue was designed and delivered in clinical mode. This queue included variances in tube voltage and exposure time, and identical exposures for reproducibility tests. In each measurement, each tube-imager system pulsed serially; the patient-right tube exposing its imager immediately followed by the patient-left tube.
+
+
+RESULTS
+With a single detector position, no post-setup room entry, and in approximately five minutes, the MagicMax was able to separately analyze kVp accuracy and dose for five kVp settings, timer accuracy for three timer settings, beam quality, and output reproducibility for both tube-imager sets.
+
+
+CONCLUSION
+The MagicMax is well-suited for performing QA on the CK imaging system, providing a means for quickly, efficiently, and separately measuring both imagers.

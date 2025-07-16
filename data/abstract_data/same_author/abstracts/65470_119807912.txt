@@ -1,0 +1,2 @@
+Type constants and (q, 2)-summing norms defined byn vectors
+Forq≧2, the (q, 2)-summing norm of an operator of rankn can be computed, up to a constantcq, by an appropriate choice of at mostn vectors. A corresponding statement is true for the Gaussian type and cotype constants ofn-dimensional spaces.

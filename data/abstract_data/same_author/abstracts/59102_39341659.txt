@@ -1,0 +1,2 @@
+Stream Conversion to Support Interactive Video Playout
+Interactive playout of MPEG-encoded video entails new ways of handling data. Transforming the standard MPEG stream to a local form at the player device enables efficient interactive playout even when available buffer space is constrained. A stream conversion scheme that encodes P frames as I frames after decompression and playout of each P frame eliminates extra memory needs, making P-I conversion a cost effective solution.

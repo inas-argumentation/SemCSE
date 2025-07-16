@@ -1,0 +1,2 @@
+On the relationship between the integer and continuous solutions of convex programs
+A bound is obtained in this note for the distance between the integer and real solutions to convex quadratic programs. This bound is a function of the condition number of the Hessian matrix. We further extend this proximity result to convex programs and mixed-integer convex programs. We also show that this bound is achievable in certain situations and the distance between the integer and continuous minimizers may tend to infinity.

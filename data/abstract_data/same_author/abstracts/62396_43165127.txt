@@ -1,0 +1,2 @@
+A passivity-based analysis for decentralized integral controllability
+The property of decentralized integral controllability (DIC) is related to the concept of passivity in this note. A sufficient condition for DIC is proposed based on the passivity theorem and a computational method for testing DIC is presented.

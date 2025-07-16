@@ -1,0 +1,11 @@
+A Gaussian mixture method for specific differential phase retrieval at X-band frequency
+Abstract. The specific differential phase Kdp is one of the most important polarimetric radar variables, but the variance σ2(Kdp) ,
+regarding the errors in the calculation of the range derivative of the differential phase shift Φdp , is not well characterized due to the lack of
+a data generation model. This paper presents a probabilistic method based on the Gaussian mixture model for Kdp estimation at
+X-band frequency. The Gaussian mixture method can not only estimate the expected values of Kdp by differentiating the expected values
+of Φdp , but also obtain σ2(Kdp) from the product of the square of the first derivative of Kdp and the variance of Φdp .
+Additionally, the ambiguous phase and backscattering differential phase shift are corrected via the mixture model.
+The method is qualitatively evaluated with a convective event of a bow echo observed by the X-band dual-polarization radar in the University of Missouri.
+It is concluded that Kdp estimates are highly consistent with the gradients of Φdp in the leading edge of the bow echo,
+and large σ2(Kdp) occurs with high variation of Kdp . Furthermore, the performance is quantitatively assessed by 2-year radar–gauge data, and the results are compared to linear regression model. It is clear that Kdp -based rain amounts have good agreement with the rain gauge data,
+while the Gaussian mixture method gives improvements over the linear regression model, particularly for far ranges.

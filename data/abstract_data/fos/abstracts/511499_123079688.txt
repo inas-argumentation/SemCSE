@@ -1,0 +1,2 @@
+Distribution of linear combination of exponential variates
+The exact distribution of a linear combination of n independent negative exponential random variables, when the coefficients of the linear combination are distinct and positive quantities, is well-known. This paper extends the above result to the general case, namely when the coefficients are arbitrary real numbers, positive or negative, distinct or coincident.

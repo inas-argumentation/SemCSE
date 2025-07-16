@@ -1,0 +1,2 @@
+The resolution of a Hartmanis conjecture
+Building on the recent breakthrough by M. Ogihara (1995), we resolve a conjecture made by J. Hartmanis (1978) regarding the (non) existence of sparse sets complete for P under logspace many-one reductions. We show that if there exists a sparse hard set for P under logspace many-one reductions, then P=LOGSPACE. We further prove that if P has a sparse hard set under many-one reductions computable in NC/sup 1/, then P collapses to NC/sup 1/.

@@ -1,0 +1,2 @@
+Cardinal Recognizing Infinite Time Turing Machines
+We introduce a model of infinitary computation which enhances the infinite time Turing machine model slightly but in a natural way by giving the machines the capability of detecting cardinal stages of computation. The computational strength with respect to ITTMs is determined to be precisely that of the strong halting problem and the nature of the new characteristic ordinals (clockable, writable, etc. is explored.

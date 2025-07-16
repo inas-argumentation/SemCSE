@@ -1,0 +1,2 @@
+Robustness analysis for MIMO systems with unstructured uncertainties
+This paper studies the relationship between the structured singular value and the Nyquist robust stability margin as applied to uncertain MIMO systems. The two stability criteria are evaluated for an open-loop unstable chemical reactor plant that has two inputs and two outputs. This numerical analysis gives an empirical demonstration of the relationship between the two stability margins and further research is targeted towards obtaining an analytical expression for some general classes of uncertainties.

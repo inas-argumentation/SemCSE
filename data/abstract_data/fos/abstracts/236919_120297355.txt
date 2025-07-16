@@ -1,0 +1,2 @@
+Asymptotic Properties of the Maximum Quasi-Likelihood Estimator in Quasi-Likelihood Nonlinear Models
+Quasi-likelihood nonlinear models (QLNM) are a further extension of generalized linear models by only specifying the expectation and variance functions of the response variable. In this article, some mild regularity conditions are proposed. These regularity conditions, respectively, assure the existence, strong consistency, and the asymptotic normality of the maximum quasi-likelihood estimator (MQLE) in QLNM.

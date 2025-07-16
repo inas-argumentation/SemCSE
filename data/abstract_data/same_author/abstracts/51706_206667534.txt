@@ -1,0 +1,2 @@
+Discrete (set) derivatives and "algebraic" fuzzy logic operations
+We propose a new way to generalize logical operations from the discrete classical logic to a continuous fuzzy logic, namely we propose to define derivatives for the discrete case, and then to use these derivatives to derive the continuous operations. We show that this natural approach leads to "algebraic" fuzzy operations a/spl middot/b and a+b-a/spl middot/b.

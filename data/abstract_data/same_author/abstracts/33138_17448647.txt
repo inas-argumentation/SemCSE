@@ -1,0 +1,2 @@
+Cooling, physical scales and the vacuum structure of Y-M theories
+Abstract We present a cooling method controlled by a physical cooling radius that defines a scale below which fluctuations are smoothed out while leaving physics unchanged at all larger scales. This method can be generally used as a gauge invariant low pass filter to extract the physics from noisy MC configurations. Here we apply this method to study topological properties of lattice gauge theories where it allows to retain instanton-anti-instanton pairs.

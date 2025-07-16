@@ -1,0 +1,6 @@
+On the Indifferentiability of Key-Alternating Ciphers
+The Advanced Encryption Standard (AES) is the most widely used block cipher. The high level structure of AES can be viewed as a (10-round) key-alternating cipher, where a t-round key-alternating cipher KA t consists of a small number t of fixed permutations P i on n bits, separated by key addition: 
+ 
+$$ \text{KA}_t(K,m)= k_t\oplus P_t(\dots k_2\oplus P_2(k_1\oplus P_1(k_0 \oplus m))\dots), $$ 
+ 
+where (k0,…,k t ) are obtained from the master key K using some key derivation function.

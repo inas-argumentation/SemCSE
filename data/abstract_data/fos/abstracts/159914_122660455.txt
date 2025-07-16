@@ -1,0 +1,2 @@
+Estimating the mean of an inverse gaussian distribution with known coefficient of variation
+An estimation problem of the mean μ-of an inverse Gaussian distribution I (μ, a-2 μ) with known coe-f-ficient of variation a is treated as a decision problem with loss functions which are invariant under scale changes. A class of Bayes estimators is proposed. It is shown that the equivariant estimators are minimax.

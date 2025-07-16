@@ -1,0 +1,2 @@
+Research on SIP Protocol Testing and Testing Tools
+This paper discussed the technical background in SIP performance testing.Based on the general research of SIP performance testing methods and testing tools,designed a new testing tool's work mode and media transporting mechanism,puts forward a new solution of codec coding/decoding and can support large numbers of media stream simultaneously.This new SIP performance testing tool reflects the whole performance of the tested system more accurately,and makes the test results more reliable.

@@ -1,0 +1,2 @@
+On Finite Alphabets and Infinite Bases III: Simulation
+This paper studies the (in)equational theory of simulation preorder and equivalence over the process algebra BCCSP. We prove that in the presence of a finite alphabet with at least two actions, the (in)equational theory of BCCSP modulo simulation preorder or equivalence does not have a finite basis. In contrast, in the presence of an alphabet that is infinite or a singleton, the equational theory for simulation equivalence does have a finite basis.

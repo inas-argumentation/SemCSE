@@ -1,0 +1,2 @@
+A model of HIV/AIDS with staged progression and amelioration.
+An epidemic model with multiple stages of infection is studied. The model allows for infected individuals to move from advanced stages of infection back to less advanced stages of infection. A threshold parameter which determines the local stability of the disease free equilibrium is found and interpreted. Under conditions on the parameters, global stability is demonstrated using techniques involving compound matrices.

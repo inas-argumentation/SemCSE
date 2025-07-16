@@ -1,0 +1,39 @@
+Comparisons of bispectral and polarimetric retrievals of marine boundary layer cloud microphysics: case studies using a LES–satellite retrieval simulator
+. Many passive remote-sensing techniques have been
+developed to retrieve cloud microphysical properties from satellite-based
+sensors, with the most common approaches being the bispectral and
+polarimetric techniques. These two vastly different retrieval techniques
+have been implemented for a variety of polar-orbiting and geostationary
+satellite platforms, providing global climatological data sets. Prior
+instrument comparison studies have shown that there are systematic
+differences between the droplet size retrieval products (effective radius)
+of bispectral (e.g., MODIS, Moderate Resolution Imaging Spectroradiometer)
+and polarimetric (e.g., POLDER, Polarization and Directionality of Earth's
+Reflectances) instruments. However, intercomparisons of airborne bispectral
+and polarimetric instruments have yielded results that do not appear to be
+systematically biased relative to one another. Diagnosing this discrepancy
+is complicated, because it is often difficult for instrument intercomparison
+studies to isolate differences between retrieval technique sensitivities and
+specific instrumental differences such as calibration and atmospheric
+correction. In addition to these technical differences the polarimetric
+retrieval is also sensitive to the dispersion of the droplet size
+distribution (effective variance), which could influence the interpretation
+of the droplet size retrieval. To avoid these instrument-dependent
+complications, this study makes use of a cloud remote-sensing retrieval
+simulator. Created by coupling a large-eddy simulation (LES) cloud model
+with a 1-D radiative transfer model, the simulator serves as a test bed for
+understanding differences between bispectral and polarimetric retrievals.
+With the help of this simulator we can not only compare the two techniques
+to one another (retrieval intercomparison) but also validate retrievals
+directly against the LES cloud properties. Using the satellite retrieval
+simulator, we are able to verify that at high spatial resolution (50 m) the
+bispectral and polarimetric retrievals are highly correlated with one
+another within expected observational uncertainties. The relatively small
+systematic biases at high spatial resolution can be attributed to different
+sensitivity limitations of the two retrievals. In contrast, a systematic
+difference between the two retrievals emerges at coarser resolution. This
+bias largely stems from differences related to sensitivity of the two
+retrievals to unresolved inhomogeneities in effective variance and optical
+thickness. The influence of coarse angular resolution is found to increase
+uncertainty in the polarimetric retrieval but generally maintains a
+constant mean value.

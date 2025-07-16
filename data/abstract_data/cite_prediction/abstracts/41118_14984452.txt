@@ -1,0 +1,2 @@
+Recommender System for Social Networks
+In this paper, an online news recommender system for the popular social network, Facebook, is described. This system provides daily newsletters for communities on Facebook. The system fetches the news articles and filters them based on the community description to prepare the daily news digest. Explicit survey feedback from the users show that most users found the application useful and easy to use. They also indicated that they could get some community specific articles that they would not have got otherwise.

@@ -1,0 +1,2 @@
+Dynamic power management using data buffers
+This paper presents a method to reduce energy consumption by inserting data buffers. The method determines whether power can be reduced by inserting a buffer between two components and periodically turning off one of them. This method calculates the length of the period and the required buffer size to achieve the optimal energy savings. Our approach can be applied to any applications whose data arrival and departure rates are different and known in advance.

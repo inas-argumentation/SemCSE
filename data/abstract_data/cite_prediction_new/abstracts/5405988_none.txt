@@ -1,0 +1,15 @@
+Lessons learnt from the development of the Patient Safety Incidents Reporting an Learning System for the Spanish National Health System: SiNASP.
+OBJECTIVE
+To describe the development process and characteristics of a patient safety incidents reporting system to be implemented in the Spanish National Health System, based on the context and the needs of the different stakeholders.
+
+
+DESIGN
+Literature review and analysis of most relevant reporting systems, identification of more than 100 stakeholder's (patients, professionals, regional governments representatives) expectations and requirements, analysis of the legal context, consensus of taxonomy, development of the software and pilot test.
+
+
+RESULTS
+Patient Safety Events Reporting and Learning system (Sistema de Notificación y Aprendizajepara la Seguridad del Paciente, SiNASP) is a generic reporting system for all types of incidents related to patient safety, voluntary, confidential, non punitive, anonymous or nominative with anonimization, system oriented, with local analysis of cases and based on the WHO International Classification for Patient Safety. The electronic program has an on-line form for reporting, a software to manage the incidents and improvement plans, and a scoreboard with process indicators to monitor the system.
+
+
+CONCLUSIONS
+The reporting system has been designed to respond to the needs and expectations identified by the stakeholders, taking into account the lessons learned from the previous notification systems, the characteristics of the National Health System and the existing legal context. The development process presented and the characteristics of the system provide a comprehensive framework that can be used for future deployments of similar patient safety systems.

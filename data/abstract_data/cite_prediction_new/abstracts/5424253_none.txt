@@ -1,0 +1,11 @@
+Quantifying coronary artery calcification from a contrast-enhanced cardiac computed tomography angiography study.
+AIMS
+We sought to quantify coronary artery calcium (CAC) using a single contrast-enhanced cardiac computed tomography angiography (CCTA) study. CCTA has been successfully used for the assessment of coronary artery stenoses, whereas non-contrast ECG-gated computed tomography (Standard-CAC) is commonly performed to quantify CAC. Thus each scan individually contributes to the total radiation dose.
+
+
+METHODS RESULTS
+Patients who underwent both Standard-CAC and CCTA scans were identified. Standard-CAC images were scored using the Agatston method. CCTA scans were scored for CAC (CCTA-CAC), whereby CAC was defined as plaque with attenuation 2 SD above the mean attenuation value of the ascending aorta (HU(aorta)). The correlation between Standard-CAC and CCTA-CAC was determined with the slope used to derive a correction factor for the conversion of CCTA-CAC results to a Standard-CAC Agatston score (AS). To test applicability, the correction factor was assessed in a separate validation cohort of similar demographics. From April 2011 to June 2012, a derivation cohort of 92 patients was identified and analysed. An additional 47 patients were identified for the validation cohort. Correlation between Standard-CAC and CCTA-CAC was excellent (r = 0.96). The slope (y = 2.74 × CCTA-CAC score) derived correction factor from the derivation cohort was used to adjust CCTA-CAC derived scores to an AS (CCTA-CAC(corrected) = 2.74 × CCTA-CAC). The correction factor was applied to the validation cohort CCTA-CAC results with excellent agreement between CCTA-CAC(corrected) and Standard-CAC (kappa = 0.93).
+
+
+CONCLUSIONS
+Quantification of CAC from a single contrast-enhanced CCTA scan is feasible and correlates well with Standard-CAC. Larger, multicentre studies are needed to validate the universal applicability of CAC quantified using CCTA.

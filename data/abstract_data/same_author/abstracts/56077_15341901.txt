@@ -1,0 +1,2 @@
+A relation between the Characteristic Generators of a linear code and its dual
+It was conjectured by Koetter and Vardy that if the k characteristic generators of a linear code C are linearly independent, then the corresponding n-k characteristic generators of the dual code C/sup /spl perp// are also linearly independent. In this correspondence, we prove that the conjecture is true for self-dual codes and cyclic codes.

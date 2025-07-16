@@ -1,0 +1,2 @@
+Design-oriented simulation of the Photon Detection Efficiency and temporal response of Single Photon Avalanche Diodes
+We present a physically-based model aimed at calculating the photon detection efficiency (PDE) and the temporal response of a single-photon avalanche diode (SPAD) with a given structure. A comparison between simulation and experimental results is also reported in order to confirm the model accuracy.

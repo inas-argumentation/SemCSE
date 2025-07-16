@@ -1,0 +1,2 @@
+Circular Colouring and Orientation of Graphs
+This paper proves that if a graph G has an orientation D such that for each cycle C with d|C| (mod k) ∈ {1,2 ..... 2d- 1} we have |C|/|C+|≤k/d and |c|/|c-|≤k/d,then G has a (k,d)-colouring and hence χc(G) ≤ k/d. This is a generalization of a result of Tuza (J. Combin. Theory Ser. B 55 (1992), 236-243) concerning the vertex colouring of a graph, and is also a strengthening of a result of Goddyn et al. (J. Graph Theory 28 (1998), 155-161) concerning the relation between orientation and circular chromatic number of a graph.

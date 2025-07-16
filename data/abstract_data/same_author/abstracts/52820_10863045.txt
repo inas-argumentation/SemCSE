@@ -1,0 +1,4 @@
+Information Agents for Mobile and Embedded Devices
+The pervasive computing environments of the near future will involve the interactions, coordination and cooperation of numerous, casually accessible, and often invisible computing devices. These devices, whether carried on our person or embedded in our homes, businesses and classrooms, will connect via wireless and wired links to one another and to the global networking infrastructure. The result will be a networking milieu with a new level of openness. The localized and dynamic nature of their interactions raises many new issues that draw on and challenge the disciplines of agents, distributed systems, and security. This paper describes recent work by the UMBC Ebiquity research group which addresses some of these issues. 
+ 
+This research was supported in part by the NIST Advanced Technology Program, DARPA contract F30602-97-1-0215, and NSF grants CCR0070802 and IIS9875433.

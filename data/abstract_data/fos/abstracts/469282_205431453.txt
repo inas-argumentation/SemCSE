@@ -1,0 +1,2 @@
+Weighted G-Drazin inverses and a new pre-order on rectangular matrices
+This paper deals with weighted G-Drazin inverses, which is a new class of matrices introduced to extend (to the rectangular case) G-Drazin inverses recently considered by Wang and Liu for square matrices. First, we define and characterize weighted G-Drazin inverses. Next, we consider a new pre-order defined on complex rectangular matrices based on weighted G-Drazin inverses. Finally, we characterize this pre-order and relate it to the minus partial order and to the weighted Drazin pre-order.

@@ -1,0 +1,2 @@
+Symbolic/numeric steady-state contingency analysis of electric power systems
+This panel presentation discusses the development of a symbolic numeric steady state power flow model suitable for fast and comprehensive contingency analysis. The model uses sparse polynomial presentations of the branch outages. Results are presented for the IEEE 118 and the IEEE 300 test system.

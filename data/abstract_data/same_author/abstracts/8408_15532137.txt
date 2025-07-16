@@ -1,0 +1,2 @@
+Quasi-sparse eigenvector diagonalization and stochastic error correction
+Abstract We briefly review the diagonalization of quantum Hamiltonians using the quasi-sparse eigenvector (QSE) method. We also introduce the technique of stochastic error correction, which systematically removes the truncation error of the QSE result by stochastically sampling the contribution of the remaining basis states.

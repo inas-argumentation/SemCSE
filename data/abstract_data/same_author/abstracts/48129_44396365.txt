@@ -1,0 +1,2 @@
+Specification-based data reduction in dimensional data warehouses
+Presents a powerful and easy-to-use technique for aggregation-based data reduction that enables the gradual change of the data from being detailed to being increasingly aggregated. The technique enables huge storage gains while retaining the data that is essential to the users, and it preserves the ability to query original and reduced data in an integrated manner.

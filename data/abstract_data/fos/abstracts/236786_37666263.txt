@@ -1,0 +1,2 @@
+Poincare-Lighthill and linear-time-scales methods for linear perturbation problems
+For a class of multidimensional linear perturbation problems of considerable significance in applications, the Poincare-Lighthill technique is shown to give first-order expansion terms which grow unbounded relative to the leading term (secular behavior), while the method of linear time scales leads to well-behaved expansion terms. A solvable example is introduced for comparison with the exact solution.

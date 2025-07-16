@@ -1,0 +1,2 @@
+Finite element approach to continuous potential games
+The concept of potential games was proposed for the first time by Rosenthal in 1973 [1] The seminal study by Monderer and Shapley [2] presented systematic investigation and fundamental results for this kind of games. Some of its recent developments can be found in [3] Because of some nice properties, potential games have been applied to many control and optimization problems, for instance the existence of Nash equilibria [4] and game theoretic control [5]

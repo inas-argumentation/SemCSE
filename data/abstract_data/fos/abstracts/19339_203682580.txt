@@ -1,0 +1,2 @@
+Effective MAC Layer Channel Contention Mechanism for 802.11 Wireless Network
+Based on DCF(distributed coordination function) scheme in IEEE802.11 standard. This paper proposed a simple and effective wireless LAN MAC (medium access control) mechanism called PBCR(partial backoff contention resolution). Both analytical model and simulation result of PBCR was presented,which showed that PBCR improve the performance significantly,e.g.throughput,fairness index, and average delay.

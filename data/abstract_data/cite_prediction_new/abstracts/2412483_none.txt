@@ -1,0 +1,19 @@
+Regulation network analysis in the esophageal squamous cell carcinoma.
+BACKGROUND
+The incidence of esophageal squamous cell carcinoma (ESCC) has high regional selectivity. The molecular mechanisms of ESCC are complex and involve multiple oncogenes, tumor suppressor genes, receptor tyrosine kinases, cytoplasmic enzymes, and tumor interstitial elements.
+
+
+AIM
+Here we used bioinformatics to obtain some important genes and pathways involved in ESCC.
+
+
+MATERIALS AND METHODS
+In this article, we did Affymetrix microarray data collection from three big databases, and then selected all the differentially expressed genes (DEGs) according to some principles. On this basis, we carried out regulation network analysis and pathway enrichment analysis, obtaining ESCC related regulation network analysis, after which we selected significant pathways on regulation network and established TF-pathway regulation network.
+
+
+RESULTS
+In the transcription factors (TFs) regulation network we found SP1, E2F1, USF2 and SP3 form a local network which suggested that these TFs might play a more important role in ESCC. Some key pathways were also identified, such as P53 signaling pathway, melanoma and prostate cancer pathways.
+
+
+CONCLUSIONS
+The identification of crucial molecular pathways involved in ESCC would ultimately improve therapeutic effects and facilitate the development of new treatment strategies.

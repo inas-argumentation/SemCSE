@@ -1,0 +1,2 @@
+A hybrid method for calculation of Ruelle–Pollicott resonances
+We present a numerical method for calculation of Ruelle–Pollicott resonances of dynamical systems. It constructs an effective coarse-grained propagator by considering the correlations of multiple observables over multiple time steps. The method is compared to the usual approaches to the example of the perturbed cat map and is shown to be numerically efficient and robust.

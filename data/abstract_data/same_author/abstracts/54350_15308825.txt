@@ -1,0 +1,2 @@
+Scientific Decisions which Characterize VDM
+The formal description and development method known as VDM has been used extensively, its specification language is now an ISO standard, and it has influenced other specification languages. The origins of VDM are normally placed in language description or semantics but it is probably best known in the wider arena of formal methods for (general) program specification and design. This paper sets out a personal view of some of the key technical decisions which characterize the Vienna Development Method.

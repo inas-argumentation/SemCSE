@@ -1,0 +1,2 @@
+Neighborhood unions and cyclability of graphs
+A graph G is said to be cyclable if for each orientation G of G, there exists a set S of vertices such that reversing all the arcs of G with one end in S results in a hamiltonian digraph. Let G be a 3-connected graph of order n ≥ 36. In this paper, we show that if for any three independent vertices x1, x2 and x3, |N(x1) ∪ N(x2)| + |N(x2) ∪ N(x3)| + |N(x3) ∪ N(x1)| ≥ 2n+1, then G is cyclable.

@@ -1,0 +1,2 @@
+On cloud-antichains and related configurations
+Abstract We introduce the concept of a cloud-antichain, which is a natural generalization of antichains in partially ordered sets, and solve some seemingly basic extrenal problems for them. Following the discovery of our identity (in[1]) we found the ‘missing term’, which converts Bollobas' inequality into an identity. It immediately yields the uniqueness in the Sperner Theorem for unrelated chains of subsets, which are an example of a cloud-antichain.

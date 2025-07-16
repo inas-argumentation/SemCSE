@@ -1,0 +1,15 @@
+Deep Learning in Mammography: Diagnostic Accuracy of a Multipurpose Image Analysis Software in the Detection of Breast Cancer.
+OBJECTIVES
+The aim of this study was to evaluate the diagnostic accuracy of a multipurpose image analysis software based on deep learning with artificial neural networks for the detection of breast cancer in an independent, dual-center mammography data set.
+
+
+MATERIALS AND METHODS
+In this retrospective, Health Insurance Portability and Accountability Act-compliant study, all patients undergoing mammography in 2012 at our institution were reviewed (n = 3228). All of their prior and follow-up mammographies from a time span of 7 years (2008-2015) were considered as a reference for clinical diagnosis. After applying exclusion criteria (missing reference standard, prior procedures or therapies), patients with the first diagnosis of a malignoma or borderline lesion were selected (n = 143). Histology or clinical long-term follow-up served as reference standard. In a first step, a breast density-and age-matched control cohort was selected (n = 143) from the remaining patients with more than 2 years follow-up (n = 1003). The neural network was trained with this data set. From the publicly available Breast Cancer Digital Repository data set, patients with cancer and a matched control cohort were selected (n = 35 × 2). The performance of the trained neural network was also tested with this external data set. Three radiologists (3, 5, and 10 years of experience) evaluated the test data set. In a second step, the neural network was trained with all cases from January to September and tested with cases from October to December 2012 (screening-like cohort). The radiologists also evaluated this second test data set. The areas under the receiver operating characteristic curve between readers and the neural network were compared. A Bonferroni-corrected P value of less than 0.016 was considered statistically significant.
+
+
+RESULTS
+Mean age of patients with lesion was 59.6 years (range, 35-88 years) and in controls, 59.1 years (35-83 years). Breast density distribution (A/B/C/D) was 21/59/42/21 and 22/60/41/20, respectively. Histologic diagnoses were invasive ductal carcinoma in 90, ductal in situ carcinoma in 13, invasive lobular carcinoma in 13, mucinous carcinoma in 3, and borderline lesion in 12 patients. In the first step, the area under the receiver operating characteristic curve of the trained neural network was 0.81 and comparable on the test cases 0.79 (P = 0.63). One of the radiologists showed almost equal performance (0.83, P = 0.17), whereas 2 were significantly better (0.91 and 0.94, P < 0.016). In the second step, performance of the neural network (0.82) was not significantly different from the human performance (0.77-0.87, P > 0.016); however, radiologists were consistently less sensitive and more specific than the neural network.
+
+
+CONCLUSIONS
+Current state-of-the-art artificial neural networks for general image analysis are able to detect cancer in mammographies with similar accuracy to radiologists, even in a screening-like cohort with low breast cancer prevalence.

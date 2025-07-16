@@ -1,0 +1,7 @@
+On the Chromatic Number of the Visibility Graph of a Set of Points in the Plane
+AbstractThe visibility graph V(P) of a point set P \subseteq R2 has vertex set P, such that two points v,w ∈ P are adjacent whenever there is no other point
+in P on the line segment between v and w. We study the chromatic number of
+V(P). We characterise the 2- and 3-chromatic visibility graphs. It is an open
+problem whether the chromatic number of a visibility graph is bounded by its clique
+number. Our main result is a super-polynomial lower bound on the chromatic number
+(in terms of the clique number).

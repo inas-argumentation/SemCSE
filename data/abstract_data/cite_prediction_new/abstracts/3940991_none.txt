@@ -1,0 +1,2 @@
+Performance evaluation of an ozone generator using a phase shift PWM full bridge inverter
+This paper proposes an ozone generator using a phase shift PWM full bridge inverter. The advantage of the proposed system is capable of varying ozone gas level by varying frequency of the converter whilst the output voltage is kept to be constant. In order to obtain such condition, the pulse width of the output voltage is varied. The gate signals are controlled by a microcontroller. The performance evaluation of the proposed system is given.

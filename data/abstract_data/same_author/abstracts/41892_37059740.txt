@@ -1,0 +1,2 @@
+Realization of an Arbitrary Permutation on a Hypercube
+We present an explicit combinatorial algorithm for constructing a 2-realization for any given permutation on a circuit-switched d-dimensional hypercube (d-cube) such that the total number of directed edges used in the realization (counting every repetition) is bounded by d2d, the total number of directed edges in the d-cube. As a corollary, this result implies a (2d−3) step realization on a packet-switched d-cube (d⩾3).

@@ -1,0 +1,2 @@
+Scaling test of fermion actions in the Schwinger model
+We discuss the scaling behaviour of different fermion actions in dynamical simulations of the 2-dimensional massive Schwinger model. We have chosen Wilson, hypercube, twisted mass and overlap fermion actions. As physical observables, the pion mass and the scalar condensate are computed for the above mentioned actions at a number of coupling values and fermion masses. We also discuss possibilities to simulate overlap fermions dynamically avoiding problems with low-lying eigenvalues of the overlap kernel.

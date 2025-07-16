@@ -1,0 +1,2 @@
+Model-based specification and execution of embedded real-time systems
+This paper proposes a methodology for an executable UML 2.0 subset based on State Transition Diagrams (STDs) and Sequence Diagrams (SD) that covers interrupts, exceptions, and timeouts. In this a UML Virtual Machine (UVM) as the run-time environment for complete executable specifications based on that executable UML subset. Such specifications are compiled to binary programs consisting of data structures (STDs) and bytecode (SDs).

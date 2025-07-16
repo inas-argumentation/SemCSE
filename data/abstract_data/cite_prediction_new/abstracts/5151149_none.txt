@@ -1,0 +1,2 @@
+Optimal asymptotical tracking via output feedback for a linear system with multiplicative noise
+This paper studies optimal tracking via output feedback for a SISO linear feedback discrete-time system with multiplicative noise in its control input channel. Such multiplicative noise can be used to model random packet loss in a fading channel. Optimal mean-square control in tracking unit step reference signal is formulated and solved. It is shown that this optimal control design problem is an eigenvalue problem (EVP). The optimal design algorithm is developed.

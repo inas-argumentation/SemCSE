@@ -1,0 +1,2 @@
+A Theory of Qualified Types
+• The ability to include local constraints as part of the type of an object. This enables the definition and use of polymorphic overloaded values within a program. ∗An earlier version of this paper was presented at the European Symposium on Programming, Rennes, France, February 1992 and appears in the conference proceedings published in Springer Verlag LNCS Volume 582. †Address from September 1992: Yale University, Department of Computer Science, P.O. Box 2158 Yale Station, New Haven, Connecticut 06520-2158, USA.

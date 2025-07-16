@@ -1,0 +1,2 @@
+Density of Carmichael numbers with three prime factors
+We get an upper bound of O(x 5/14+o(1) ) on the number of Carmichael numbers ≤ x with exactly three prime factors.

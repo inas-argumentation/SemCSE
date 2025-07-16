@@ -1,0 +1,2 @@
+COMMIT-P1WP3: A Co-occurrence Based Approach to Aspect-Level Sentiment Analysis
+In this paper, the crucial ingredients for our submission to SemEval-2014 Task 4 “Aspect Level Sentiment Analysis” are discussed. We present a simple aspect detection algorithm, a co-occurrence based method for category detection and a dictionary based sentiment classification algorithm. The dictionary for the latter is based on co-occurrences as well. The failure analysis and related work section focus mainly on the category detection method as it is most distinctive for our work.

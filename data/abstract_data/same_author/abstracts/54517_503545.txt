@@ -1,0 +1,2 @@
+Privacy-preserving clustering with distributed EM mixture modeling
+Privacy and security considerations can prevent sharing of data, derailing data mining projects. Distributed knowledge discovery can alleviate this problem. We present a technique that uses EM mixture modeling to perform clustering on distributed data. This method controls data sharing, preventing disclosure of individual data items or any results that can be traced to an individual site.

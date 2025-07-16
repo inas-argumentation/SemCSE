@@ -1,0 +1,3 @@
+ON THE HARDNESS OF APPROXIMATING MULTICUT AND SPARSEST-CUT
+.We show that the Multicut, Sparsest-Cut, and Min-2CNF ≡ Deletion problems are NP-hard to approximate within every constant factor, assuming the Unique Games Conjecture of Khot (2002). A quantitatively stronger version of the conjecture implies an inapproximability factor of
+$$\Omega(\sqrt{\log \log n}).$$

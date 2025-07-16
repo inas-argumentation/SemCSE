@@ -1,0 +1,2 @@
+Data hiding in digital binary image
+This paper proposes a new method to embed data in binary images, including scanned text, figures and signatures. The method manipulates "flippable" pixels and uses shuffling to embed a significant amount of data without causing noticeable artifacts. The extraction of the hidden data does not require the original image. Potential applications include detecting unauthorized use of a digitized signature and authenticating binary documents.

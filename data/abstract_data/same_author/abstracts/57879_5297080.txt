@@ -1,0 +1,2 @@
+A framework for efficient minimum distance computations
+We present a framework for minimum distance computations that allows efficient solution of minimum distance queries on a variety of surface representations, including sculptured surfaces. The framework depends on geometric reasoning rather than numerical methods and can be implemented straightforwardly. We demonstrate performance that compares favorably to other polygonal methods and is faster than reported results for other methods on sculptured surfaces.

@@ -1,0 +1,2 @@
+A Gradient-Based Comparison Measure for Visual analysis of Multifield Data
+We introduce a multifield comparison measure for scalar fields that helps in studying relations between them. The comparison measure is insensitive to noise in the scalar fields and to noise in their gradients. Further, it can be computed robustly and efficiently. Results from the visual analysis of various data sets from climate science and combustion applications demonstrate the effective use of the measure.

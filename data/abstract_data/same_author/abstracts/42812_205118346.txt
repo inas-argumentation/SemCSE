@@ -1,0 +1,6 @@
+Coding for Write-Efficient Memory
+We introduce write-efficient memories (WEM) as a new model for storing and updating information on a rewritable medium. There is a cost ϕ: X × X → R∞ assigned to changes of letters. A collection of subsets C = {Ci: 1 ≤ i ≤ M} of Xn is an (n, M, D) WEM code, if Ci ∩ Cj = ⊘ for all i ≠ j and if 
+Dmax= maxl⩽i,j⩽MxnϵCjYnϵC1 max min ∑j=1nϕ(xt, yt)⩽D 
+. Dmax is called the maximal correction cost with respect to the given cost function. The performance of a code C can also be measured by two parameters, namely, the maximal cost per letter dC = n−1Dmax and the rate of the size rC = n−1 log M. The rate achievable with a maximal per letter cost d is thus 
+R(d)=supc:dc⩽drc 
+. This is the most basic quantity (the storage capacity) of a WEM (Xn, ϕn)n = 1∞. We give a characterization of this and related quantities.

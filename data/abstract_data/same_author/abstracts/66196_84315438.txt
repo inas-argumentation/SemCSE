@@ -1,0 +1,2 @@
+The Jordan Curve‐type Theorems for the Funnel in 2‐dimensional Semiflows
+We investigate “the past” of a nonstationary point x in a semiflow π: ℝ+ x MM on a 2-manifold M. In a natural way there are defined two boundary trajectories Ta and Tb; by the funnel we mean F(x) ={y:π(t, y) =x for some t} and we put D(x) ≈F(x)\(Ta∪Tb). We show that if x is not a point of negative unicity, then D(x) is homeomorphic to ℝ2. Also, if T is a nonboundary trajectory through x, then D(x)\T has two components for a regular point x and D(x)\T has two or three components for a periodic point x.

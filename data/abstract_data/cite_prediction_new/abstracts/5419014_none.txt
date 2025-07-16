@@ -1,0 +1,2 @@
+Hardware / software co-design of particle filter in grid based Fast-SLAM algorithm
+A hardware/software co-design based on system on a chip method for particle filter in a grid based Fast-SLAM algorithm is presented in this work. By giving more emphasis on those steps of the algorithm that requires intensive computations, hardware blocks are design in order to speed up the computational time and interfaced with a central Microblaze soft core processing core. The proposed hardware/software resulted in an improvement in the overall execution time of the algorithm.

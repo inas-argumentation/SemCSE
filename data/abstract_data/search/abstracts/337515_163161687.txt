@@ -1,0 +1,2 @@
+Image classification method based on improved bag of words model
+Image classification is one of the basic problems of image analysis and understanding. An improved SIFT algorithm is proposed for BoW model, which includes feature extraction and generation of visual dictionary. Caltech 256 database and Caltech 101 database are used for experiment to test the classification accuracy of proposed scheme. The experiment results show that the proposed scheme has higher classification accuracy than BoW model based on SIFT.

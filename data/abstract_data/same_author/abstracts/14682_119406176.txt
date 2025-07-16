@@ -1,0 +1,2 @@
+The fuzzy disc: A review
+In this talk we present a matrix approximation to the algebra of functions on the disc and define a fuzzy approximation to the Laplacian with Dirichlet boundary conditions. A basis for the NC algebra is introduced in terms of the eigenfunctions of the fuzzy Laplacian, which are seen to converge to the eigenfunctions of the ordinary Laplacian on the disc, that is, the Bessel functions.

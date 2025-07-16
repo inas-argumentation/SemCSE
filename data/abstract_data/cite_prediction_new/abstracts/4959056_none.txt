@@ -1,0 +1,2 @@
+Knowledge Base Relation Detection via Multi-View Matching
+Relation detection is a core component for Knowledge Base Question Answering (KBQA). In this paper, we propose a KB relation detection model via multi-view matching which utilizes more useful information extracted from question and KB. The matching inside each view is through multiple perspectives to compare two input texts thoroughly. All these components are designed in an end-to-end trainable neural network model. Experiments on SimpleQuestions and WebQSP yield state-of-the-art results.

@@ -1,0 +1,2 @@
+The hadronic interaction model EPOS
+EPOS is a sophisticated multiple scattering approach based on partons and Pomerons (parton ladders), with special emphasis on high parton densities. The latter aspect, particularly important in proton-nucleus or nucleus-nucleus collisions, is taken care of via an effective treatment of Pomeron-Pomeron interactions, referred to as parton ladder splitting. In addition, collective effects are introduced after separating the high density central core from the peripheral corona. EPOS is the successor of the NEXUS model.

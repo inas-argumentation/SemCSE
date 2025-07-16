@@ -1,0 +1,2 @@
+A lattice Boltzmann model for elliptic equations with variable coefficient
+A lattice Boltzmann model is proposed to solve elliptic equations with variable coefficient. Compared with the previous model, the present model is a more effective solver to the ellipse equation with variable coefficient, and the ellipse equation is exactly recovered to order O ( e 2 ) . The relaxation time τ is not fixed and is determined by the coefficient of the equation. The limited numerical results show that the present model is valid for ellipse equations.

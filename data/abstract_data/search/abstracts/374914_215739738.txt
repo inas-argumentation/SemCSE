@@ -1,0 +1,2 @@
+Design of Class AB Power Amplifier using GaN HEMT Technology
+In this paper, design methodology of 10W wideband power amplifier using GaN HEMT technology at operating frequency of 2.4GHz is presented. Load pull simulation is carried out in order to find the optimum source/load impedance of the transistor. The designed amplifier design is evaluated for both small and large signal measurement and it is found out to be in good agreement. The designed PA shows linear gain of 16.097dB. For an input power of 27dBm, the measured output power is 42.023dBm and PAE is 59.065%

@@ -1,0 +1,22 @@
+Boundary-layer water vapor profiling using differential absorption radar
+. Remote sensing of water vapor in the presence of clouds and precipitation
+constitutes an important observational gap in the global observing system. We
+present ground-based measurements using a new radar instrument operating near
+the 183 GHz H2O line for profiling water vapor inside of
+planetary-boundary-layer clouds, and develop an error model and inversion
+algorithm for the profile retrieval. The measurement technique exploits the
+strong frequency dependence of the radar beam attenuation, or differential
+absorption, on the low-frequency flank of the water line in conjunction with
+the radar's ranging capability to acquire range-resolved humidity
+information. By comparing the measured differential absorption coefficient
+with a millimeter-wave propagation model, we retrieve humidity profiles with
+200 m resolution and typical statistical uncertainty of 0.6 g m −3 out
+to around 2 km. This value for humidity uncertainty corresponds to
+measurements in the high-SNR (signal-to-noise ratio) limit, and is specific to the frequency band
+used. The measured spectral variation of the differential absorption
+coefficient shows good agreement with the model, supporting both the
+measurement method assumptions and the measurement error model. By performing
+the retrieval analysis on statistically independent data sets corresponding
+to the same observed scene, we demonstrate the reproducibility of the
+measurement. An important trade-off inherent to the measurement method
+between retrieved humidity precision and profile resolution is discussed.

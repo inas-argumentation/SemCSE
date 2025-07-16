@@ -1,0 +1,15 @@
+Diffusion-weighted MRI for differentiating Wilms tumor from neuroblastoma.
+PURPOSE
+Wilms tumor (WT) and neuroblastoma (NB) are the most common pediatric abdominal malignant neoplasms of the kidney and adrenal gland. Differentiating them from each other is essential since their treatments are different. Here, we aimed to show the diffusion characteristics of WT and NB for differentiation.
+
+
+METHODS
+Diffusion-weighted imaging (DWI) of 17 histopathologically diagnosed lesions (10 NB and 7 WT in 8 female and 9 male patients) was evaluated retrospectively. The apparent diffusion coefficient (ADC) value for each tumor was calculated using region-of-interest (ROI) measurements by two observers. The mean ADC values were compared, and receiver operating characteristics (ROC) curve analysis was performed. Intraclass correlation was evaluated for the reliability of ADC measurement.
+
+
+RESULTS
+The mean ADC values measured by two observers were 0.787±0.09 ×10-3 mm2/s and 0.768±0.08 ×10-3 mm2/s for WT, and 0.524±0.16 ×10-3 mm2/s and 0.529±0.16 ×10-3 mm2/s for NB, respectively (P = 0.006 and P = 0.011). Intraclass correlation coefficient was 0.955. Utilizing ROC curve analysis, a cutoff ADC value of ≤0.645 ×10-3 mm2/s was obtained to differentiate NB from WT.
+
+
+CONCLUSION
+ADC values of NBs were significantly lower than WT with a perfect interobserver agreement. We suggest that DWI may have a role in differentiating the two tumors.

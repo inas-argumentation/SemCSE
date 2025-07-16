@@ -1,0 +1,2 @@
+TF Boosted Trees: A scalable TensorFlow based framework for gradient boosting
+TF Boosted Trees (TFBT) is a new open-sourced frame-work for the distributed training of gradient boosted trees. It is based on TensorFlow, and its distinguishing features include a novel architecture, automatic loss differentiation, layer-by-layer boosting that results in smaller ensembles and faster prediction, principled multi-class handling, and a number of regularization techniques to prevent overfitting.

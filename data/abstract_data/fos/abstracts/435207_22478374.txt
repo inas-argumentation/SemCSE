@@ -1,0 +1,15 @@
+Estimating local noise power spectrum from a few FBP-reconstructed CT scans.
+PURPOSE
+Traditional ways to estimate 2D CT noise power spectrum (NPS) involve an ensemble average of the power spectrums of many noisy scans. When only a few scans are available, regions of interest are often extracted from different locations to obtain sufficient samples to estimate the NPS. Using image samples from different locations ignores the nonstationarity of CT noise and thus cannot accurately characterize its local properties. The purpose of this work is to develop a method to estimate local NPS using only a few fan-beam CT scans.
+
+
+METHODS
+As a result of FBP reconstruction, the CT NPS has the same radial profile shape for all projection angles, with the magnitude varying with the noise level in the raw data measurement. This allows a 2D CT NPS to be factored into products of a 1D angular and a 1D radial function in polar coordinates. The polar separability of CT NPS greatly reduces the data requirement for estimating the NPS. The authors use this property and derive a radial NPS estimation method: in brief, the radial profile shape is estimated from a traditional NPS based on image samples extracted at multiple locations. The amplitudes are estimated by fitting the traditional local NPS to the estimated radial profile shape. The estimated radial profile shape and amplitudes are then combined to form a final estimate of the local NPS. We evaluate the accuracy of the radial NPS method and compared it to traditional NPS methods in terms of normalized mean squared error (NMSE) and signal detectability index.
+
+
+RESULTS
+For both simulated and real CT data sets, the local NPS estimated with no more than six scans using the radial NPS method was very close to the reference NPS, according to the metrics of NMSE and detectability index. Even with only two scans, the radial NPS method was able to achieve a fairly good accuracy. Compared to those estimated using traditional NPS methods, the accuracy improvement was substantial when a few scans were available.
+
+
+CONCLUSIONS
+The radial NPS method was shown to be accurate and efficient in estimating the local NPS of FBP-reconstructed 2D CT images. It presents strong advantages over traditional NPS methods when the number of scans is limited and can be extended to estimate the in-plane NPS of cone-beam CT and multislice helical CT scans.

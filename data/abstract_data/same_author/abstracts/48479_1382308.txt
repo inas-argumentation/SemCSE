@@ -1,0 +1,2 @@
+Towards a theory of normalization for multimedia databases
+We present a theory of normalization for multimedia databases. We introduce new types of functional dependencies between different types of media data. Thus, the definition of functional dependency is based upon a specific technology used to detect semantic relationships between complex data types, which need to be compared through approximate matching paradigms.

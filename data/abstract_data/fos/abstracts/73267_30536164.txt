@@ -1,0 +1,2 @@
+UV EPROM Erasure in Flash X-Ray and Co60 Total Dose Environments
+UV EPROMs are extremely sensitive to transient x-ray erasure with failures (i.e., partial or complete program loss) at ¿ 108 R/sec. The devices can be reprogrammed but reprogramming is usually accomplished out of the system; therefore, the system has failed when the EPROM program is disturbed. The UV EPROMs fail to total dose exposure, Co60, at levels similar to NMOS dynamic RAMs, i.e., 1500-5000 Rads (Si).

@@ -1,0 +1,15 @@
+Analysis of length of hospital stay using electronic health records: A statistical and data mining approach
+BACKGROUND
+The length of stay (LOS) is an important indicator of the efficiency of hospital management. Reduction in the number of inpatient days results in decreased risk of infection and medication side effects, improvement in the quality of treatment, and increased hospital profit with more efficient bed management. The purpose of this study was to determine which factors are associated with length of hospital stay, based on electronic health records, in order to manage hospital stay more efficiently.
+
+
+MATERIALS AND METHODS
+Research subjects were retrieved from a database of patients admitted to a tertiary general university hospital in South Korea between January and December 2013. Patients were analyzed according to the following three categories: descriptive and exploratory analysis, process pattern analysis using process mining techniques, and statistical analysis and prediction of LOS.
+
+
+RESULTS
+Overall, 55% (25,228) of inpatients were discharged within 4 days. The department of rehabilitation medicine (RH) had the highest average LOS at 15.9 days. Of all the conditions diagnosed over 250 times, diagnoses of I63.8 (cerebral infarction, middle cerebral artery), I63.9 (infarction of middle cerebral artery territory) and I21.9 (myocardial infarction) were associated with the longest average hospital stay and high standard deviation. Patients with these conditions were also more likely to be transferred to the RH department for rehabilitation. A range of variables, such as transfer, discharge delay time, operation frequency, frequency of diagnosis, severity, bed grade, and insurance type was significantly correlated with the LOS.
+
+
+CONCLUSIONS
+Accurate understanding of the factors associating with the LOS and progressive improvements in processing and monitoring may allow more efficient management of the LOS of inpatients.

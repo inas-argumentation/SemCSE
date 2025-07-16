@@ -1,0 +1,2 @@
+Improvement to AKS algorithm
+We propose to verify the AKS algorithm identities not for sequential integers, but for integers which are sequentially squared. In that case a number of elements, for which the identities are valid, doubles.

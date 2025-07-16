@@ -1,0 +1,15 @@
+Frequency-dependent characterisation of impedance changes during epileptiform activity in a rat model of epilepsy.
+OBJECTIVE
+Electrical impedance tomography (EIT) can be used to image impedance changes associated with epileptiform activity and so holds therapeutic potential for improving presurgical localisation of the ictal onset zone in patients with treatment-resistant epilepsy. There are two principal impedance changes which occur during seizures that may be imaged with EIT: (a) a fast, transient impedance decrease over milliseconds due to hypersynchronous neuronal depolarisation in individual ictal discharges; and (b) a larger, slow impedance increase caused by cell swelling over the course of the seizure. The magnitude of these signals is highly dependent on the carrier frequency of applied current used for obtaining impedance measurements. The purpose of this work was to characterise the frequency response of the fast and slow impedance changes during epileptiform activity.
+
+
+APPROACH
+Seizures were induced in anaesthetised rats by electrically stimulating the cerebral cortex. During each seizure, impedance measurements were obtained by delivering 50 µA, through two electrodes on an epicortical array, at one of 20 frequencies in the 1-10 kHz range. Recordings were demodulated to determine the magnitude of fast and slow impedance responses at each frequency.
+
+
+MAIN RESULTS
+The fast impedance change during averaged ictal discharges reached a maximal amplitude and signal-to-noise ratio (SNR) of  -0.36%  ±  0.05% and 50.2  ±  11.3, respectively, at 1355 Hz. At this frequency, the slow impedance change had an amplitude of 4.61%  ±  1.32% and an SNR of 545  ±  125, which did not significantly change across frequency (p  >  0.01).
+
+
+SIGNIFICANCE
+We conclude that the optimal frequency for imaging epileptiform activity is 1355 Hz, which maximises the SNR of fast neural changes whilst enabling simultaneous measurement of slow changes. These findings will inform future investigations aimed at imaging epilepsy in subcortical brain structures, where SNR is considerably reduced, and those using parallel, multi-frequency EIT.

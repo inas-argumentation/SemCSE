@@ -1,0 +1,2 @@
+On a measure of dependence based on fisher's information matrix
+A class of measures of dependence between two random vectors is defined, in terms of the canonical correlations obtained from Fisher's information matrix. Some basic properties are proved for this class of measures. Examples are given to illustrate that the class gives good measures, under normal models. Interesting measures are also arise for bivariate models where the correlation coefficient does not exist for some values of the parameters of the model.

@@ -1,0 +1,2 @@
+Approximation and fixed-parameter algorithms for consecutive ones submatrix problems
+We develop an algorithmically useful refinement of a forbidden submatrix characterization of 0/1-matrices fulfilling the Consecutive Ones Property (C1P). This characterization finds applications in new polynomial-time approximation algorithms and fixed-parameter tractability results for the NP-hard problem to delete a minimum number of rows or columns from a 0/1-matrix such that the remaining submatrix has the C1P.

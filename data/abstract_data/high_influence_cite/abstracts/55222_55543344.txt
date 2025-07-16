@@ -1,0 +1,2 @@
+A Viscoelastic VOF-PROST Code for the Study of Drop Deformation
+A volume of fluid method is developed with a parabolic representation of the interface for the surface tension force (VOFPROST). This three-dimensional transient code is extended to treat viscoelastic liquids with the Oldroyd-B constitutive equation. Simulations of deformation for a Newtonian drop in a viscoelastic medium under shear are reported.

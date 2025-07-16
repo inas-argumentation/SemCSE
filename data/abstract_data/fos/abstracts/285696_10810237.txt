@@ -1,0 +1,15 @@
+From the limits of the classical model of sensitometric curves to a realistic model based on the percolation theory for GafChromic EBT films.
+PURPOSE
+Modern radiotherapy uses complex treatments that necessitate more complex quality assurance procedures. As a continuous medium, GafChromic EBT films offer suitable features for such verification. However, its sensitometric curve is not fully understood in terms of classical theoretical models. In fact, measured optical densities and those predicted by the classical models differ significantly. This difference increases systematically with wider dose ranges. Thus, achieving the accuracy required for intensity-modulated radiotherapy (IMRT) by classical methods is not possible, plecluding their use. As a result, experimental parametrizations, such as polynomial fits, are replacing phenomenological expressions in modern investigations. This article focuses on identifying new theoretical ways to describe sensitometric curves and on evaluating the quality of fit for experimental data based on four proposed models.
+
+
+METHODS
+A whole mathematical formalism starting with a geometrical version of the classical theory is used to develop new expressions for the sensitometric curves. General results from the percolation theory are also used. A flat-bed-scanner-based method was chosen for the film analysis. Different tests were performed, such as consistency of the numeric results for the proposed model and double examination using data from independent researchers.
+
+
+RESULTS
+Results show that the percolation-theory-based model provides the best theoretical explanation for the sensitometric behavior of GafChromic films. The different sizes of active centers or monomer crystals of the film are the basis of this model, allowing acquisition of information about the internal structure of the films. Values for the mean size of the active centers were obtained in accordance with technical specifications. In this model, the dynamics of the interaction between the active centers of GafChromic film and radiation is also characterized by means of its interaction cross-section value.
+
+
+CONCLUSIONS
+The percolation model fulfills the accuracy requirements for quality-control procedures when large ranges of doses are used and offers a physical explanation for the film response.

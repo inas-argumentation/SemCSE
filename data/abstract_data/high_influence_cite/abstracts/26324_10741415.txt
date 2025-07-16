@@ -1,0 +1,15 @@
+Spatial repolarization heterogeneity and survival in Chagas disease.
+OBJECTIVES
+We investigated if cardiac spatial repolarization heterogeneity might be associated with an increased risk of death in patients with chronic Chagas disease.
+
+
+METHODS
+Repolarization heterogeneity was assessed using the V-index, a recently introduced metric founded on a biophysical model of the ECG. This metric provides an estimate of the standard deviation of the repolarization times across the heart. We analyzed 113 patients (aged 21- 67 years) enrolled between 1998 and 1999 who had a known serological status showing positive reactions to Trypanosoma cruzi. Fourteen subjects died during a 10-year follow-up period.
+
+
+RESULTS
+The V-index was significantly lower in survivor (S) than in non-survivor (NS) subjects (S: 31.2 ± 13.3 ms vs NS: 41.2 ± 18.6 ms, single-tail t-test: p = 0.009, single-tail Wilcoxon rank sum test: p = 0.029). A V-index larger than 36.3 ms was related to a significantly higher risk of death in a univariate Cox proportional-hazards analysis (hazard ratio, HR = 5.34, p = 0.0046). In addition, V-index > 36.3 ms retained its prognostic value in a multivariate Cox proportional-hazards analysis after adjustment for other three clinical variables (left ventricular ejection factor < 0.50, QRS duration > 133 ms, ventricular tachycardia during stress testing or 24 hours Holter) and for T-wave amplitude variability > 30 μV, even using shrinkage, a statistical procedure that protects against over-fitting due to small sample size.
+
+
+CONCLUSIONS
+The study showed that an increased dispersion of repolarization times in patients with Chagas disease, as measured by the V-index, is significantly correlated with the risk of death in a univariate survival analysis. The V-index captures prognostic information not immediately available from the analysis of other established risk factors.

@@ -1,0 +1,2 @@
+Optimistic Crash Recovery without Changing Application Messages
+We present an optimistic crash recovery technique without any communication overhead during normal operations of the distributed system. Our technique does not append any information to the application messages, it does not suffer from the domino effect, and each processor rolls back at most once during recovery. We present three distributed rollback algorithms, their complexities, and correctness proofs. Their performances are measured through extensive simulations.

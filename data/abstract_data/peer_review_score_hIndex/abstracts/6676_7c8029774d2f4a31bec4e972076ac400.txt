@@ -1,0 +1,8 @@
+A Proposed Hierarchy of Deep Learning Tasks
+As the pace of deep learning innovation accelerates, it becomes increasingly important to organize the space of problems by relative difficultly.  Looking to other fields for inspiration, we see analogies to the Chomsky Hierarchy in computational linguistics and time and space complexity in theoretical computer science.
+
+As a complement to prior theoretical work on the data and computational requirements of learning, this paper presents an empirical approach. We introduce a methodology for measuring validation error scaling with data and model size and test tasks in natural language, vision, and speech domains. We find that power-law validation error scaling exists across a breadth of factors and that model size scales sublinearly with data size, suggesting that simple learning theoretic models offer insights into the scaling behavior of realistic deep learning settings, and providing a new perspective on how to organize the space of  problems. 
+
+We measure the power-law exponent---the "steepness" of the learning curve---and propose using this metric to sort problems by degree of difficulty.  There is no data like more data, but some tasks are more effective at taking advantage of more data.  Those that are more effective are easier on the proposed scale. 
+
+Using this approach, we can observe that studied tasks in speech and vision domains scale faster than those in the natural language domain, offering insight into the observation that progress in these areas has proceeded more rapidly than in natural language.

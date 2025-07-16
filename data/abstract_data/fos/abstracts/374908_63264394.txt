@@ -1,0 +1,2 @@
+Research and Implement of Grid-Based Cooperative Geographic Plotting System
+Based on Geographic Information System, CoGIS is a cooperative working platform. CoGIS aims at providing environment for the geography-scattered users to accomplishment collaboratively and coordinately certain tasks. Based on the architecture of CoGIS, presents the mechanism of the system. The session management module, implemented by grid service, supports the cooperative applications effectively, which is scalable, reliable and agile.

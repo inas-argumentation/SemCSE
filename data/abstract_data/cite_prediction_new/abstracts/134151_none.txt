@@ -1,0 +1,2 @@
+ANOMALOUS DIFFUSION AT PERCOLATION THRESHOLD IN HIGH DIMENSIONS ON 1018 SITES
+Using an inverse of the standard linear congruential random number generator, large randomly occupied lattices can be visited by a random walker without having to determine the occupation status of every lattice site in advance. In seven dimensions, at the percolation threshold with L7 sites and L≤420, we confirm the expected time-dependence of the end-to-end distance (including the corrections to the asymptotic behavior).

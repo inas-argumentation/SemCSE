@@ -1,0 +1,4 @@
+Following the traces: : An introduction to conjoint measurement without transitivity and additivity
+This paper presents a self-contained introduction to a general conjoint measurement framework for the analysis of nontransitive and/or incomplete binary relations on product sets. It is based on the use of several kinds of marginal traces on coordinates induced by the binary relation. 
+ 
+This framework leads to defining three general families of models depending on the kind of trace that they use. Contrary to most conjoint measurement models, these models do not involve an addition operation. This allows for a simple axiomatic analysis at the cost of very weak uniqueness results.

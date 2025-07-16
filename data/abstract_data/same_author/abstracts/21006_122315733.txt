@@ -1,0 +1,2 @@
+Coordinates problem of Hawking radiation derivation in a Kerr–Newman black hole using Hamilton–Jacobi equation
+Hawking radiation from a Kerr–Newman black hole is investigated using Hamilton–Jacobi method more deeply. A direct computation will lead to a wrong result via Hamilton–Jacobi method. However, when the well-behaved Painleve coordinate system and Eddington coordinate system are considered, we can get the correct result. The reason of the discrepancy between naive coordinate and well-behaved coordinates is also discussed.

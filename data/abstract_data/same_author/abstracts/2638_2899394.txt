@@ -1,0 +1,2 @@
+An Improved Fixed-Parameter Algorithm for Vertex Cover
+The Vertex Cover problem asks, for input consisting of a graph G on n vertices, and a positive integer k, whether there is a set of k vertices such that every edge of G is incident with at least one of these vertices. We give an algorithm for this problem that runs in time O(kn + (1.324718)kk2). In particular, this gives an O((1.324718)nn2) algorithm to find the minimum vertex cover in the graph.

@@ -1,0 +1,12 @@
+Wireless Sensor Network Routing Based on Sensors Grouping
+Due to the limited communication range of WSN, the 
+sensor is unable to establish direct connection to the data collection station, 
+therefore the collaborative work of nodes is highly necessary. The data routing 
+is one of the most fundamental processes exploring how to transmit data from 
+the sensing field to the data collection station via the least possible number 
+of intermediate nodes. This 
+paper addresses the problem of data routing based on the sensors grouping; it 
+provides a deep insight on how to divide the sensors of a network into separate 
+independent groups, and how to organize these independent groups in order to 
+make them work collaboratively and accomplish the process of data routing 
+within the network.

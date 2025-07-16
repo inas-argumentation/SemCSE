@@ -1,0 +1,15 @@
+Does EuroSCORE predict length of stay and specific postoperative complications after cardiac surgery?
+OBJECTIVE
+To evaluate the performance of EuroSCORE in the prediction of in-hospital postoperative length of stay and specific major postoperative complications after cardiac surgery.
+
+
+METHODS
+Data on 5051 consecutive patients (isolated [74.4%] or combined coronary artery bypass grafting [11.1%], valve surgery [12.0%] and thoracic aortic surgery [2.5%]) were prospectively collected. The EuroSCORE model (standard and logistic) was used to predict in-hospital mortality, 3-month mortality, prolonged length of stay (>12 days) and major postoperative complications (intraoperative stroke, stroke over 24 h, postoperative myocardial infarction, deep sternal wound infection, re-exploration for bleeding, sepsis and/or endocarditis, gastrointestinal complications, postoperative renal failure and respiratory failure). A C statistic (or the area under the receiver operating characteristic curve) was used to test the discrimination of the EuroSCORE. The calibration of the model was assessed by the Hosmer-Lemeshow goodness-of-fit statistic.
+
+
+RESULTS
+In-hospital mortality was 3.9% and 16.1% of patients had one or more major complications. Standard EuroSCORE showed very good discriminatory ability and good calibration in predicting in-hospital mortality (C statistic: 0.76, Hosmer-Lemeshow: P=0.449) and postoperative renal failure (C statistic: 0.79, Hosmer-Lemeshow: P=0.089) and good discriminatory ability in predicting sepsis and/or endocarditis (C statistic: 0.74, Hosmer-Lemeshow: P=0.653), 3-month mortality (C statistic: 0.73, Hosmer-Lemeshow: P=0.097), prolonged length of stay (C statistic: 0.71, Hosmer-Lemeshow: P=0.051) and respiratory failure (C statistic: 0.71, Hosmer-Lemeshow: P=0.714). There were no differences in terms of the discriminatory ability in predicting these outcomes between standard and logistic EuroSCORE. However, logistic EuroSCORE showed no calibration (Hosmer-Lemeshow: P<0.05) except for sepsis and/or endocarditis (Hosmer-Lemeshow: P=0.078). EuroSCORE was unable to predict other major complications such as intraoperative stroke, stroke over 24 h, postoperative myocardial infarction, deep sternal wound infection, gastrointestinal complications and re-exploration for bleeding.
+
+
+CONCLUSIONS
+EuroSCORE can be used to predict not only in-hospital mortality, for which it was originally designed, but also 3-month mortality, prolonged length of stay and specific postoperative complications such as renal failure, sepsis and/or endocarditis and respiratory failure in the whole context of cardiac surgery. These outcomes can be predicted accurately using the standard EuroSCORE which is very simple and easy in its calculation.

@@ -1,0 +1,2 @@
+A Fast Algorithm for the Sound Projection Using Multiple Sources
+An algorithm for the sound projection using multiple sources is presented. The source strength vector is obtained by using a fast estimation approach instead of the conventional eigenvalue decomposition (EVD) method. The computation load is therefore greatly reduced, which makes the algorithm more efficient in practical applications.

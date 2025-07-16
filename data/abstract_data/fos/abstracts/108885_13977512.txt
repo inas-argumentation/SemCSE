@@ -1,0 +1,2 @@
+Very Large Conferences on the Internet: The Internet Multimedia Conferencing Architecture
+In this paper we provide an overview of multimedia conferencing on the Internet. The protocols mentioned are all specified elsewhere as Internet-Drafts or RFCs. Each RFC gives details of the protocol itself, how it works and what it does. This document attempts to provide the reader with an overview of how the components fit together and of some of the assumptions made, as well as some statement of direction for those components still in a nascent stage.

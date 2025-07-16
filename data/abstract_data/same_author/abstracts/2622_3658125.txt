@@ -1,0 +1,11 @@
+PFRES: protein fold classification by using evolutionary information and predicted secondary structure
+MOTIVATION
+The number of protein families has been estimated to be as small as 1000. Recent study shows that the growth in discovery of novel structures that are deposited into PDB and the related rate of increase of SCOP categories are slowing down. This indicates that the protein structure space will be soon covered and thus we may be able to derive most of remaining structures by using the known folding patterns. Present tertiary structure prediction methods behave well when a homologous structure is predicted, but give poorer results when no homologous templates are available. At the same time, some proteins that share twilight-zone sequence identity can form similar folds. Therefore, determination of structural similarity without sequence similarity would be beneficial for prediction of tertiary structures.
+
+
+RESULTS
+The proposed PFRES method for automated protein fold classification from low identity (<35%) sequences obtains 66.4% and 68.4% accuracy for two test sets, respectively. PFRES obtains 6.3-12.4% higher accuracy than the existing methods. The prediction accuracy of PFRES is shown to be statistically significantly better than the accuracy of competing methods. Our method adopts a carefully designed, ensemble-based classifier, and a novel, compact and custom-designed feature representation that includes nearly 90% less features than the representation of the most accurate competing method (36 versus 283). The proposed representation combines evolutionary information by using the PSI-BLAST profile-based composition vector and information extracted from the secondary structure predicted with PSI-PRED.
+
+
+AVAILABILITY
+The method is freely available from the authors upon request.

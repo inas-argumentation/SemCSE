@@ -1,0 +1,2 @@
+A comparison of two LMS constrained optimal array structures
+A comparison of two different array processing structures is presented. Both are shown to belong to the least mean square (LMS) constrained class. A proof is presented which shows that these structures yield identical overall processors.

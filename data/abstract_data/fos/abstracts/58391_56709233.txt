@@ -1,0 +1,2 @@
+Design and Implementation of SMS-Based Wireless Remote Monitoring Centre
+This paper presents a SMS-based wireless remote monitoring system for uncared-for device's remote sensing and remote control.At first,the article presents the network organization of this monitoring system,then introduces the design of the monitoring centre,at last,expounds the design and implementation of the software for this monitoring centre.This system can be used for many fields as a basic mode.

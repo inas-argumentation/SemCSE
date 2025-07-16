@@ -1,0 +1,2 @@
+Modified Quaternion Newton Methods
+We revisit the quaternion Newton method for computing roots of a class of quaternion valued functions and propose modified algorithms for finding multiple roots of simple polynomials. We illustrate the performance of these new methods by presenting several numerical experiments.

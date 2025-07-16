@@ -1,0 +1,5 @@
+A Theoretical and Empirical Model of the Generalization Error under Time-Varying Learning Rate
+Stochastic gradient descent is commonly employed as the most principled optimization algorithm for deep learning, and the dependence of the generalization error of neural networks on the given hyperparameters is crucial. 
+However, the case in which the batch size and learning rate vary with time has not yet been analyzed, nor the dependence of them on the generalization error as a functional form for both the constant and time-varying cases has been expressed. 
+In this study, we analyze the generalization bound for the time-varying case by applying PAC-Bayes and experimentally show that the theoretical functional form for the batch size and learning rate approximates the generalization error well for both cases. 
+We also experimentally show that hyperparameter optimization based on the proposed model outperforms the existing libraries.

@@ -1,0 +1,10 @@
+Guiding Representation Learning in Deep Generative Models with Policy Gradients
+Variational Auto Encoder (VAE) provide an efficient latent space representation of complex data distributions which is learned in an unsupervised fashion.
+Using such a representation as input to Reinforcement Learning (RL) approaches may reduce learning time, enable domain transfer or improve interpretability of the model.
+However, current state-of-the-art approaches that combine VAE with RL fail at learning good performing policies on certain RL domains.
+Typically, the VAE is pre-trained in isolation and may omit the embedding of task-relevant features due to insufficiencies of its loss.
+As a result, the RL approach can not successfully maximize the reward on these domains.
+Therefore, this paper investigates the issues of joint training approaches and explores incorporation of policy gradients from RL into the VAE's latent space to find a task-specific latent space representation.
+We show that using pre-trained representations can lead to policies being unable to learn any rewarding behaviour in these environments.
+Subsequently, we introduce two types of models which overcome this deficiency by using policy gradients to learn the representation.
+Thereby the models are able to embed features into its representation that are crucial for performance on the RL task but would not have been learned with previous methods.

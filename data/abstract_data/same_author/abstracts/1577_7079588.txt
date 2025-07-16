@@ -1,0 +1,2 @@
+Fine-grained processing of CVS archives with APFEL
+In this paper, we present the APFEL plug-in that collects fine-grained changes from version archives in a database. APFEL is built upon the Eclipse infrastructure for CVS and Java. In order to describe changes, APFEL uses tokens such as method calls, exceptions, and variable usages. We demonstrate the usefulness of APFEL's database with several case studies.

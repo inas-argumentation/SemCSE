@@ -1,0 +1,2 @@
+ACP/R3000 processors in data acquisition systems
+ACP/R3000-processor-based data-acquisition systems for high-energy physics are described. This VMEbus-compatible processor board, with a computational power equivalent to 15 VAX 11/780s or better, contains 8 Mb of memory for event buffering and has a high-speed secondary bus that allow data gathering from front-end electronics. The ACPR3000 processor, the ACP/XBUS, the software support for the processor, and applications of the systems are discussed. >

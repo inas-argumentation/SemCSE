@@ -1,0 +1,2 @@
+Running coupling constant and correlation length from Wilson loops
+We consider a definition of the QCD running coupling constant α ( μ ) related to Wilson loops of size r × t with arbitrary fixed t/r . The schemes defined by these couplings are very close to the M S ¯ scheme for all values of t/r ; in the t/r → ∞ limit, the “qq force” scheme is recovered. We propose a definition of correlation length, also related to Wilson loops, which can be applied to the Monte Carlo evaluation of α ( μ ) up to very large momentum scales by use of finite-size scaling techniques.

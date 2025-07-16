@@ -1,0 +1,2 @@
+2 0 M ay 2 00 6 On Taylor dispersion in oscillatory channel flows
+We revisit Taylor dispersion in oscillatory flows at zero Reynolds number, giving an alternative method of calculating the Taylor dispersivity that is easier to use with computer algebra packages to obtain exact expressions. We consider the effect of out-of-phase oscillatory shear and Poiseuille flow, and show that the resulting Taylor dispersivity is independent of the phase difference. We also determine exact expressions for several examples of oscillatory power-law fluid flows.

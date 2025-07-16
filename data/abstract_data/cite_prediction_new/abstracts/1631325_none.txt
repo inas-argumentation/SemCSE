@@ -1,0 +1,19 @@
+VarMixt: efficient variance modelling for the differential analysis of replicated gene expression data
+MOTIVATION
+Identifying differentially regulated genes in experiments comparing two experimental conditions is often a key step in the microarray data analysis process. Many different approaches and methodological developments have been put forward, yet the question remains open.
+
+
+RESULTS
+Varmixt is a powerful and efficient novel methodology for this task. It is based on a flexible and realistic variance modelling strategy. It compares favourably with other popular techniques (standard t-test, SAM and Cyber-T). The relevance of the approach is demonstrated with real-world and simulated datasets. The analysis strategy was successfully applied to both a 'two-colour' cDNA microarray and an Affymetrix Genechip. Strong control of false positive and false negative rates is proven in large simulation studies.
+
+
+AVAILABILITY
+The R package is freely available at http://www.inapg.inra.fr/ens_rech/mathinfo/recherche/mathematique/outil.html
+
+
+CONTACT
+delmar@inapg.inra.fr
+
+
+SUPPLEMENTARY INFORMATION
+http://www.inapg.inra.fr/ens_rech/mathinfo/recherche/mathematique/outil.html.

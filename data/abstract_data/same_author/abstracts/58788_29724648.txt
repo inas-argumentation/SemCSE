@@ -1,0 +1,2 @@
+Algorithms for Finding f-Colorings of Partial k-Trees
+In an ordinary edge-coloring of a graph G=(V, E) each color appears at each vertex v ∈ V at most once. An f-coloring is a generalized edge-coloring in which each color appears at each vertex v ∈ V at most f(v) times, where f(v) is a positive integer assigned to v. This paper gives a linear-time sequential algorithm and an optimal parallel algorithm which find an f-coloring of a givenpartial k-tree with the minimum number of colors.

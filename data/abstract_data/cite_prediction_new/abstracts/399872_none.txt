@@ -1,0 +1,2 @@
+Cellular Neural Networks modeling of tsunami waves
+In this paper CNN modeling of tsunami waves is presented. Two models are studied: two-component Camassa-Holm type equation is studied and generalized KdV equation. For these cases CNN models are constructed and traveling wave solutions are obtained theoretically and via simulations. New type of traveling wave solutions are introduced - peak type, called peakon. Discussion and example of tsunami waves are provided at the end of the paper.

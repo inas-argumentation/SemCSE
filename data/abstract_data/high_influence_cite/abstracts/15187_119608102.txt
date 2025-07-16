@@ -1,0 +1,2 @@
+Lower bounds of the minimum eigenvalue for $M$-matrices
+Some monotone increasing sequences of the lower bounds for the minimum eigenvalue of $M$-matrices are given. It is proved that these sequences are convergent and improve some existing results. Numerical examples show that these sequences are more accurate than some existing results and could reach the true value of the minimum eigenvalue in some cases.

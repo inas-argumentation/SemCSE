@@ -1,0 +1,2 @@
+Modeling the Forensics Process
+Most forensic models focus on the investigative process and its different phases and are characterized by a rather informal and intuitive approach. This paper proposes an abstract model of the digital forensic model based on a new flow-based specification methodology. It is shown in examples that the method can uniformly specify the forensic process in various phases and across roles. It also provides more exact description where “things” (e.g., information, evidence) are separated into different streams of flow.

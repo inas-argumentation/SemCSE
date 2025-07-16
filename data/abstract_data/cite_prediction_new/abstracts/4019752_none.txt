@@ -1,0 +1,2 @@
+Texture segmentation using modulated wavelet transform
+The wavelet (packet) transform has been widely used for texture analysis; however, the extracted features of similar textures with symmetric orientations are indistinguishable. Motivated by the AM-FM representation, the so called modulated wavelet (packet) transform that can be implemented efficiently by the conventional pyramid (tree) structured algorithms is developed. The performance of this new transform is demonstrated on the segmentation of Brodatz textures and an aerial image of San Francisco.

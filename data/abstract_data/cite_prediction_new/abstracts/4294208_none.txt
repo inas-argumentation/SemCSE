@@ -1,0 +1,51 @@
+Using Twitter to engage with customers: a data mining approach
+Purpose 
+ 
+ 
+ 
+– The purpose of this paper is to explore customer engagement in Twitter via data mining. 
+ 
+ 
+ 
+ 
+Design/methodology/approach 
+ 
+ 
+ 
+– This study’s intended contributions are twofold: to find a clear connection among customer engagement, presumption, and Web 2.0 in a context of service-dominant (S-D) logic; and to identify social networks created by prosumers. To this end, the study employed data mining techniques. Tweets about IKEA were used as a sample. The resulting algorithm based on 300 tweets was applied to 4,000 tweets to identify the patterns of electronic word-of-mouth (eWOM). 
+ 
+ 
+ 
+ 
+Findings 
+ 
+ 
+ 
+– Social networks created in IKEA’s tweets consist of three forms of eWOM: objective statements, subjective statements, and knowledge sharing. Most objective statements are disseminated from satisfied or neutral customers, while subjective statements are disseminated from dissatisfied or neutral customers. Satisfied customers mainly carry out knowledge sharing, which seems to reflect presumption behavior. 
+ 
+ 
+ 
+ 
+Research limitations/implications 
+ 
+ 
+ 
+– This study provides partial evidence of customer engagement and presumption in IKEA’s tweets. The results indicate that there are three forms of eWOM in the networks: objective statements, subjective statements, and knowledge sharing. It seems that IKEA successfully engaged customers in knowledge sharing, while negative opinions were mainly disseminated in a limited circle. 
+ 
+ 
+ 
+ 
+Practical implications 
+ 
+ 
+ 
+– Firms should make more of an effort to identify prosumers via data mining, since these networks are hidden behind “self-proclaimed” followers. Prosumers differ from opinion leaders, since they actively participate in product development. Thus, firms should seek prosumers in order to more closely fit their products to consumer needs. As a practical strategy, firms could employ celebrities for promotional purposes and use them as a platform to convert their followers to prosumers. In addition, firms are encouraged to make public how they resolve problematic customer complaints so that customers can feel they are a part of firms’ service development. 
+ 
+ 
+ 
+ 
+Originality/value 
+ 
+ 
+ 
+– Theoretically, the study makes unique contributions by offering a synergic framework of S-D logic and Web 2.0. The conceptual framework collectively relates customer engagement, presumption, and Web 2.0 to social networks. In addition, the idea of examining social networks based on different forms of eWOM has seldom been touched in the literature. Methodologically, the study employed seven algorithms to choose the most robust model, which was later applied to 4,000 tweets.

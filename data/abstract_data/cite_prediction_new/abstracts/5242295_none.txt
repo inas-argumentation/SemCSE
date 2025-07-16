@@ -1,0 +1,2 @@
+Mechanisms of Emergent Computation in Cellular Automata
+We introduce a class of embedded-particle models for describing the emergent computational strategies observed in cellular automata (CAs) that were evolved for performing certain computational tasks. The models are evaluated by comparing their estimated performances with the actual performances of the CAs they model. The results show, via a close quantitative agreement, that the embedded-particle framework captures the main information processing mechanisms of the emergent computation that arise in these evolved CAs.

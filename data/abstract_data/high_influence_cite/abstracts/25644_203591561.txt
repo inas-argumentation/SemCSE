@@ -1,0 +1,2 @@
+SIMEX estimation in parametric modal regression with measurement error
+For a class of parametric modal regression models with measurement error, a simulation extrapolation estimation procedure is proposed in this paper for estimating the modal regression coefficients. Large sample properties of the proposed estimation procedure, including the consistency and asymptotic normality, are thoroughly investigated. Simulation studies are conducted to evaluate its robustness to potential outliers and the effectiveness in reducing the bias caused by the measurement error.

@@ -1,0 +1,2 @@
+Light Beam Range Finders
+This chapter covers the subject of Lidar (Light Detection And Ranging) which is a kind of radar that uses a laser beam instead of radio waves. The most significant advantage of lidar over microwave radar is the narrow beam spread. Typically, a lidar beam spreads to 30 cm in diameter at distance of 300 m, while an X band microwave radar with a 30 \times 30 cm2 aperture horn antenna spreads to 60 m at the same distance.

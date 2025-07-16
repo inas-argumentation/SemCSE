@@ -1,0 +1,2 @@
+Dynamic alternative routing with local protection paths in MPLS networks
+MPLS is a core technology for nowadays and future networks, and must meet the needs of real-time applications for which network survivability is critical. Dynamic alternative routing has already been proposed several times to increase MPLS network performance. In this paper, a proposal of a protection scheme to be used with dynamic alternative routing is presented and its performance is evaluated through a simulation study.

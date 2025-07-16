@@ -1,0 +1,33 @@
+Maximum entropy principle and power-law tailed distributions
+AbstractIn ordinary statistical mechanics the Boltzmann-Shannon
+entropy is related to the Maxwell-Bolzmann distribution
+pi by means of a twofold link. The first link is differential and
+is offered by the Jaynes Maximum Entropy Principle. Indeed, the
+Maxwell-Boltzmann distribution is obtained by maximizing the Boltzmann-Shannon entropy under
+proper constraints. The second link is algebraic and imposes that
+both the entropy and the distribution must be expressed in
+terms of the same function in direct and inverse form. Indeed, the
+Maxwell-Boltzmann distribution pi is expressed in terms of the exponential
+function, while the Boltzmann-Shannon entropy is defined as the mean value of
+-ln (pi).
+In generalized statistical mechanics the second link is customarily
+relaxed. Of course, the generalized exponential function defining
+the probability distribution function after inversion, produces a
+generalized logarithm Λ(pi). But, in general, the mean value
+of -Λ(pi) is not the entropy of the system. Here we
+reconsider the question first posed in [Phys. Rev. E 66,
+056125 (2002) and 72, 036108 (2005)], if and how is it
+possible to select generalized statistical theories in which the
+above mentioned twofold link between entropy and the distribution
+function continues to hold, such as in the case of ordinary
+statistical mechanics.
+Within this scenario, apart from the standard
+logarithmic-exponential functions that define ordinary statistical
+mechanics, there emerge other new couples of direct-inverse
+functions, i.e. generalized logarithms Λ(x) and generalized
+exponentials Λ-1(x), defining coherent and
+self-consistent generalized statistical theories. Interestingly, all
+these theories preserve the main features of ordinary statistical
+mechanics, and predict distribution functions presenting power-law
+tails. Furthermore, the obtained generalized entropies are both
+thermodynamically and Lesche stable.

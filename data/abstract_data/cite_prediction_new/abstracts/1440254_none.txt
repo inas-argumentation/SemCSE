@@ -1,0 +1,2 @@
+Consistency of a recursive nearest neighbor regression function estimate
+Let (X, Y) be an d - -valued random vector and let (X1, Y1),...,(XN, YN) be a random sample drawn from its distribution. Divide the data sequence into disjoint blocks of length l1, ..., ln, find the nearest neighbor to X in each block and call the corresponding couple (Xi*, Yi*). It is shown that the estimate mn(X) = [Sigma]i = 1n wniYi*/[Sigma]i = 1n wni of m(X) = E{YX} satisfies E{mn(X) - m(X)p} 0 (p >= 1) whenever E{Yp}

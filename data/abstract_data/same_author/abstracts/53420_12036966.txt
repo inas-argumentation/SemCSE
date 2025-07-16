@@ -1,0 +1,7 @@
+Literature mining and database annotation of protein phosphorylation using a rule-based system
+MOTIVATION
+A large volume of experimental data on protein phosphorylation is buried in the fast-growing PubMed literature. While of great value, such information is limited in databases owing to the laborious process of literature-based curation. Computational literature mining holds promise to facilitate database curation.
+
+
+RESULTS
+A rule-based system, RLIMS-P (Rule-based LIterature Mining System for Protein Phosphorylation), was used to extract protein phosphorylation information from MEDLINE abstracts. An annotation-tagged literature corpus developed at PIR was used to evaluate the system for finding phosphorylation papers and extracting phosphorylation objects (kinases, substrates and sites) from abstracts. RLIMS-P achieved a precision and recall of 91.4 and 96.4% for paper retrieval, and of 97.9 and 88.0% for extraction of substrates and sites. Coupling the high recall for paper retrieval and high precision for information extraction, RLIMS-P facilitates literature mining and database annotation of protein phosphorylation.

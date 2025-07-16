@@ -1,0 +1,2 @@
+Mapping the Intel Last-Level Cache
+Modern Intel processors use an undisclosed hash function to map memory lines into last-level cache slices. In this work we develop a technique for reverse-engineering the hash function. We apply the technique to a 6-core Intel processor and demonstrate that knowledge of this hash function can facilitate cache-based side channel attacks, reducing the amount of work required for profiling the cache by three orders of magnitude. We also show how using the hash function we can double the number of colours used for page-colouring techniques.

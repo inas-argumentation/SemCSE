@@ -1,0 +1,2 @@
+Feedback stabilization of the Schlögl model by LQG-balanced truncation
+A finite-dimensional dynamic compensator for the Schlögl model is designed. The equation of interest is a parabolic partial differential equation with cubic reaction term. Based on model reduction methods for linear infinite-dimensional control systems, a finite-dimensional linear compensator is obtained and shown to be locally stabilizing the original nonlinear problem. Theoretical results are confirmed by a numerical example.

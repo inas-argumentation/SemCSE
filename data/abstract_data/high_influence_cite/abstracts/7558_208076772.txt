@@ -1,0 +1,2 @@
+The Boundedness of the Ornstein-Uhlenbeck semigroup on variable Lebesgue spaces with respect to the Gaussian measure
+The main result of this work is the proof of the boundedness of the Ornstein-Uhlenbeck semigroup $ \{T_t \}_{t\geq 0} $ in $ {\mathbb R}^d $ on Gaussian variable Lebesgue spaces under a condition of regularity on $p(\cdot)$ following previous papers by E. Dalmaso R. Scotto and S. Perez. As a consequence of this result, we obtain the boundedness of Poisson-Hermite semigroup and the boundedness of the Gaussian Bessel potentials of order $\beta> 0$.

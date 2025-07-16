@@ -1,0 +1,15 @@
+Radiation dose from single-heartbeat coronary CT angiography performed with a 320-detector row volume scanner.
+PURPOSE
+To determine radiation doses from coronary computed tomographic (CT) angiography performed by using a 320-detector row volume scanner and evaluate how the effective dose depends on scan mode and the calculation method used.
+
+
+MATERIALS AND METHODS
+Radiation doses from coronary CT angiography performed by using a volume scanner were determined by using metal-oxide-semiconductor field-effect transistor detectors positioned in an anthropomorphic phantom physically and radiographically simulating a male or female human. Organ and effective doses were determined for six scan modes, including both 64-row helical and 280-row volume scans. Effective doses were compared with estimates based on the method most commonly used in clinical literature: multiplying dose-length product (DLP) by a general conversion coefficient (0.017 or 0.014 mSv.mGy(-1).cm(-1)), determined from Monte Carlo simulations of chest CT by using single-section scanners and previous tissue-weighting factors.
+
+
+RESULTS
+Effective dose was reduced by up to 91% with volume scanning relative to helical scanning, with similar image noise. Effective dose, determined by using International Commission on Radiological Protection publication 103 tissue-weighting factors, was 8.2 mSv, using volume scanning with exposure permitting a wide reconstruction window, 5.8 mSv with optimized exposure and 4.4 mSv for optimized 100-kVp scanning. Estimating effective dose with a chest conversion coefficient resulted in a dose as low as 1.8 mSv, substantially underestimating effective dose for both volume and helical coronary CT angiography.
+
+
+CONCLUSION
+Volume scanning markedly decreases coronary CT angiography radiation doses compared with those at helical scanning. When conversion coefficients are used to estimate effective dose from DLP, they should be appropriate for the scanner and scan mode used and reflect current tissue-weighting factors. (c) RSNA, 2010.

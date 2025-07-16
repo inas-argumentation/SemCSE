@@ -1,0 +1,2 @@
+Grid Embedding of 4-Connected Plane Graphs
+A straight line grid embedding of a plane graph G is a drawing of G such that the vertices are drawn at grid points and the edges are drawn as non-intersecting straight line segments. In this paper, we show that, if a 4-connected plane graph G has at least 4 vertices on its exterior face, then G can be embedded on a grid of size W×H such that W+H≤n, W≤(n+3)/2 and H≤2(n−1)/3, where n is the number of vertices of G. Such an embedding can be computed in linear time.

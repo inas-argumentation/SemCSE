@@ -1,0 +1,19 @@
+EMG contamination of EEG: spectral and topographical characteristics
+OBJECTIVE
+Electromyogram (EMG) contamination is often a problem in electroencephalogram (EEG) recording, particularly, for those applications such as EEG-based brain-computer interfaces that rely on automated measurements of EEG features. As an essential prelude to developing methods for recognizing and eliminating EMG contamination of EEG, this study defines the spectral and topographical characteristics of frontalis and temporalis muscle EMG over the entire scalp. It describes both average data and the range of individual differences.
+
+
+METHODS
+In 25 healthy adults, signals from 64 scalp and 4 facial locations were recorded during relaxation and during defined (15, 30, or 70% of maximum) contractions of frontalis or temporalis muscles.
+
+
+RESULTS
+In the average data, EMG had a broad frequency distribution from 0 to >200 Hz. Amplitude was greatest at 20-30 Hz frontally and 40-80 Hz temporally. Temporalis spectra also showed a smaller peak around 20 Hz. These spectral components attenuated and broadened centrally. Even with weak (15%) contraction, EMG was detectable (P<0.001) near the vertex at frequencies >12 Hz in the average data and >8 Hz in some individuals.
+
+
+CONCLUSIONS
+Frontalis or temporalis muscle EMG recorded from the scalp has spectral and topographical features that vary substantially across individuals. EMG spectra often have peaks in the beta frequency range that resemble EEG beta peaks.
+
+
+SIGNIFICANCE
+While EMG contamination is greatest at the periphery of the scalp near the active muscles, even weak contractions can produce EMG that obscures or mimics EEG alpha, mu, or beta rhythms over the entire scalp. Recognition and elimination of this contamination is likely to require recording from an appropriate set of peripheral scalp locations.

@@ -1,0 +1,23 @@
+A novel index of elevated risk of inpatient hospital admission immediately following outpatient surgery.
+HYPOTHESIS
+Patients with increasing comorbidities are at increased risk of admission to an inpatient facility after outpatient surgery.
+
+
+DESIGN AND SETTING
+Data from operations performed in hospital-based and freestanding ambulatory surgery centers in New York during 1997 were obtained under the Agency for Healthcare Research and Quality's Healthcare Cost and Utilization Project.
+
+
+PATIENTS
+Of the 783 558 patients eligible for inclusion in this study, 4351 were discharged directly for short-term hospitalization (1:180), and 19 died (1:41 240). We performed a split-half analysis by randomly assigning the study sample to an analysis half for estimation or a holdout half for testing.
+
+
+MAIN OUTCOME MEASURES
+We developed an outpatient surgery admission index from independent predictors of immediate hospital admission using the following point values: 65 years or older (1), operating time longer than 120 minutes (1), cardiac diagnoses (1), peripheral vascular disease (1), cerebrovascular disease (1), malignancy (1), seropositive findings for human immunodeficiency virus (1), and regional (1) or general anesthesia (2).
+
+
+RESULTS
+Increasing scores were associated with higher odds of admission relative to scores of 0 or 1. For scores of 4 or higher, the odds ratio was 31.96 (95% confidence interval, 26.29-38.86), and 2.8% of these patients were discharged to the hospital. For the holdout half of the data set, scores of 4 or higher had an odds ratio of 34.62 (95% confidence interval, 28.55-41.97).
+
+
+CONCLUSION
+The proposed outpatient surgery admission index provides an evidence-based guide to assist clinicians and the health care systems in which they work in identifying patients at higher risk of immediate hospital admission.

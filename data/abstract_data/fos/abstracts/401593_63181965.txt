@@ -1,0 +1,2 @@
+Study of Embedded BACnet's Real-Time Scheduling Strategy on μC/OS-IIOperating System
+The paper introduced the real-time schedule strategy of embedded BACnet gateway, which was based on real-time operating system μC/OS-II Using extended rate monotonic(ERM) algorithm's schedulability test, and it proved BACnet gateway can adopt ERM algorithm to realize the real-time schedule of multi-task. Actually, ERM algorithm's feasibility is validated by the test of embedded BACnet gataway.

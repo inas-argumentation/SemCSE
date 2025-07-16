@@ -1,0 +1,2 @@
+MIMO Performance of Realistic UE Antennas in LTE Scenarios at 750 MHz
+Multiple-input-multiple-output (MIMO) is a technique to achieve high data rates in mobile communication networks. Simulations are performed at both the antenna level and Long-Term Evolution (LTE) system level to assess the performance of realistic handheld devices with dual antennas at 750 MHz. It is shown that MIMO works very well and gives substantial performance gain in user devices with a quarter-wavelength antenna separation.

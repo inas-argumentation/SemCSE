@@ -1,0 +1,15 @@
+Diagnostic performance of multiparametric MRI parameters for Gleason score and cellularity metrics of prostate cancer in different zones: a quantitative comparison.
+AIM
+To compare the diagnostic performance of multiparametric MRI (mpMRI) parameters for Gleason score (GS) and cellularity metrics of prostate cancer (PCa) in the peripheral zone (PZ) and transition zone (TZ) separately.
+
+
+MATERIALS AND METHODS
+In total, 225 PCa patients with preoperative mpMRI and whole-mount pathological sections were enrolled retrospectively. Detection rates of index lesions (highest GS or largest dimension) and clinically significant PCa (csPCa) were evaluated. Tumour-to-muscle ratio and skewness of T2 signal intensity, average apparent diffusion coefficient (ADCmean) and 10th percentile ADC (ADC10%) were derived and correlation with GS was performed with Spearman's correlation coefficient (ρ), while effectiveness in differentiating GS 6 from GS ≥7 was compared with receiver operating characteristic (ROC) analysis. Moreover, correlation of cellularity metrics with mpMRI parameters was evaluated with Pearson's correlation coefficient (r).
+
+
+RESULTS
+In total, 398 lesions were identified, with 87.1% (196/225) index lesions and 86.8% (249/287) csPCa detected. Compared to T2 parameters, ADC parameters, especially ADCmean, correlated better with GS (maximal ρ: -0.58 versus -0.33, p=0.011) and yielded significantly higher area under the curve (AUC) in differentiating GS 6 from GS ≥7 (maximal AUC: 0.854 versus 0.731, p=0.020) among PZ lesions. Moreover, ADCmean demonstrated significantly moderate correlation with the nuclear-to-cytoplasmic ratio and nuclear fraction (r=-0.403 and -0.514, p<0.001); however, for TZ lesions, all parameters demonstrated poor correlation with GS and cellularity metrics.
+
+
+CONCLUSION
+mpMRI could effectively detect index and csPCa lesions. ADC parameters, especially ADCmean, correlated better with GS and cellularity metrics than T2 in PZ, while all parameters demonstrated poor performance within TZ lesions.

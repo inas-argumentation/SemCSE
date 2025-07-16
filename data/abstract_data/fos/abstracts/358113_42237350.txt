@@ -1,0 +1,2 @@
+More on the Kronecker Structured Covariance Matrix
+In this article, the multivariate normal distribution with a Kronecker product structured covariance matrix is studied. Particularly focused is the estimation of a Kronecker structured covariance matrix of order three, the so called double separable covariance matrix. The suggested estimation generalizes the procedure proposed by Srivastava et al. (2008) for a separable covariance matrix. The restrictions imposed by separability and double separability are also discussed.

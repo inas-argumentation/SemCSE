@@ -1,0 +1,2 @@
+A distribution free method of detecting outliers in regression
+Distribution free methods are provided for detecting outliers. The techniques are based on the bootstrap distribution of the predicted residuals (Cook & Weisberg)(1982) page 33). Several well known examples are used to illustrate the procedures.

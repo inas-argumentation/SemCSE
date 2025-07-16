@@ -1,0 +1,11 @@
+Einops: Clear and Reliable Tensor Manipulations with Einstein-like Notation
+Tensor computations underlie modern scientific computing and deep learning.
+A number of tensor frameworks emerged varying in execution model, hardware support, memory management, model definition, etc.
+However, tensor operations in all frameworks follow the same paradigm.
+Recent neural network architectures demonstrate demand for higher expressiveness of tensor operations.
+The current paradigm is not suited to write readable, reliable, or easy-to-modify code for multidimensional tensor manipulations. 
+Moreover, some commonly used operations do not provide sufficient checks and can break a tensor structure.
+These mistakes are elusive as no tools or tests can detect them.
+Independently, API discrepancies complicate code transfer between frameworks.
+We propose einops notation: a uniform and generic way to manipulate tensor structure, that significantly improves code readability and flexibility by focusing on the structure of input and output tensors.
+We implement einops notation in a Python package that efficiently supports multiple widely used frameworks and provides framework-independent minimalist API for tensor manipulations.

@@ -1,0 +1,2 @@
+Detection of airborne compact sources in infra-red scenes using syntactic pattern recognition
+Syntactic pattern recognition methods are used to locate airborne objects appearing as compact sources within maritime infra-red images whilst ignoring background features. This gives better performance, and is less computationally demanding, than methods employing linear matched filters.

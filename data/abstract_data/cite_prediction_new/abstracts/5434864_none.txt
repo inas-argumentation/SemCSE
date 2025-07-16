@@ -1,0 +1,2 @@
+When does the list-coloring function of a graph equal its chromatic polynomial
+Let G be a connected graph with n vertices and m edges. Using Whitney's broken cycle theorem, we prove that if k > m − 1 ln ⁡ ( 1 + 2 ) ≈ 1.135 ( m − 1 ) then for every k -list assignment L of G , the number of L -colorings of G is at least that of ordinary k -colorings of G . This improves previous results of Donner (1992) and Thomassen (2009), who proved the result for k sufficiently large and k > n 10 , respectively.

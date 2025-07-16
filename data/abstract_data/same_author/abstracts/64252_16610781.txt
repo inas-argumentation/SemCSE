@@ -1,0 +1,2 @@
+Self-adaptive Population Size Adjustment for Genetic Algorithms
+Variable population sizing techniques are rarely considered in the theory of Genetic Algorithms. This paper discusses a new variant of adaptive population sizing for this class of Evolutionary Algorithms. The basic idea is to adapt the actual population size depending on the actual ease or difficulty of the algorithm in its ultimate goal to generate new child chromosomes that outperform their parents.

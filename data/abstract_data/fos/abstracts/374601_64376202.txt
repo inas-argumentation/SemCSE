@@ -1,0 +1,2 @@
+Implementation of User Login System Based on ASP Technology
+Web browsing on the Internet when the user's login interface can be seen everywhere,in order to prevent illegal user login and destroy sites,general sites are set up user login system to verify the identity of the user,this can effectively prevent unauthorized users visit the Website to improve the security of the site.Taking ASP technology development of the "user login system" as an example,describes the design concept,implementation,data security and so on.

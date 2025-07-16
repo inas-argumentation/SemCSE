@@ -1,0 +1,2 @@
+A Scalable 6-to-18GHz Concurrent Dual-Band Quad-Beam Phased-Array Receiver in CMOS
+This paper describes the general architecture and the signal-path behavior of a CMOS programmable phased-array receiver element that simultaneously operates at two frequencies between 6 and 18GHz (a tritave) while forming four independently controlled beams.

@@ -1,0 +1,2 @@
+Architectural and System Design Issues in Holonic Manufacturing Systems
+This paper describes research based on the HMS or Holonic Manufacturing Systems concept, which was elaborated in the IMS Test Case N° 5. First, the paper discusses the HMS paradigm. Second, it presents a number of fundamental properties of complex adaptive systems. Third, examples demonstrate how the insights of the previous section have an impact on the design and architecture of distributed manufacturing systems and their components.

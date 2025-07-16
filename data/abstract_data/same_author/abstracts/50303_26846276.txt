@@ -1,0 +1,2 @@
+Hierarchical representation of digitized curves through dominant point detection
+Hierarchical data structures play a key role in representation of spatial data. This paper proposes an algorithm for constructing hierarchical representations of digitized curves based on the dominant points of the curve. The comparison of the proposed scheme with the other hierarchical representation schemes viz. Arc Tree and Strip Tree reveals that the proposed algorithm is generally better than the Arc Tree and compares well with the Strip Tree scheme.

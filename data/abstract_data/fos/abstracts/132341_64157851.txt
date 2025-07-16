@@ -1,0 +1,2 @@
+Research and Implement of MIS-Based User Permission Management
+On the basis of the requirement of the user permission management,briefly introduces the thinking of the RABC,introduces the realization process of permission management by a actual company project in details,mainly discusses the authority management framework and database design and the problems of how to generated menu dynamically,puts forward security problems which should be paid to and solutions.Practices show that this method can enhances the security and maintainability of management information system.

@@ -1,0 +1,8 @@
+Concurrently Non-malleable Black-Box Zero Knowledge in the Bare Public-Key Model
+In this paper we study the possibility of reducing the setup assumptions under which concurrent non-malleable zero knowledge protocol can be realized. A natural model choice is the bare public-key (BPK) model of [6], a model with very minimal setup assumptions. Our main contribution is to show in this model the following about constant-round concurrent non-malleable black-box zero-knowledge arguments. 
+They can be constructed from any one-way function for any language in $\mathcal{NP}$. Here, our construction takes 5 rounds, and we can reduce it to a 4-round (round-optimal) argument under existence of one-way permutations. 
+Under number-theoretic assumptions, they admit a time-efficient instantiation for some specific $\mathcal{NP}$ languages (e.g., all languages having efficient Σ protocols, for which we can implement our construction using only $\mathcal{O}(1)$ modular exponentiations). 
+ 
+ 
+ 
+Compared to the non-black-box construction in a concurrent work of [OPV, ICALP 2008] in this model, our protocol (even the construction from one-way function) is significantly more time- and round-efficient and can be based on more general assumptions.

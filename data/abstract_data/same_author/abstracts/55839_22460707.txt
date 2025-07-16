@@ -1,0 +1,2 @@
+Genetic Programming for Image Recognition: An LGP Approach
+This paper describes a linear genetic programming approach to multi-class image recognition problems. A new fitness function is introduced to approximate the true feature space. The results show that this approach outperforms the basic tree based genetic programming approach on all the tasks investigated here and that the programs evolved by this approach are easier to interpret. The investigation on the extra registers and program length results in heuristic guidelines for initially setting system parameters.

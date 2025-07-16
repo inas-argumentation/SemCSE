@@ -1,0 +1,2 @@
+Dispersion analysis of anisotropic inhomogeneous waveguides using compact 2D FDTD
+A new compact two dimensional FDTD for the dispersion analysis of guided wave structures, a traditionally three dimensional task, is proposed. To prove the validity of this method, the results for a boxed microstrip line on a sapphire substrate are presented and compared with available results.

@@ -1,0 +1,2 @@
+On a Class of Preconditioning Methods for Dense Linear Systems from Boundary Elements
+In this paper we discuss several sparse-matrix-based preconditioners suitable for preconditioning dense linear systems of boundary element equations. All preconditioners involve only O(n) nonzeros. We provide a framework for constructing operator-splitting-based preconditioners and use it to analyze a class of sparse preconditioners. For singular integral equations, a more efficient preconditioner is proposed that has a band-2 structure.

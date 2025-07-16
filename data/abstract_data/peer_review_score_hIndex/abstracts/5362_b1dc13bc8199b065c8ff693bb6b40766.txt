@@ -1,0 +1,5 @@
+Learning Approximate Distribution-Sensitive Data Structures
+We present a computational model of mental representations as data-structures which are distribution sensitive, i.e., which exploit non-uniformity in their usage patterns to reduce time or space complexity.
+Abstract data types equipped with axiomatic specifications specify classes of concrete data structures with equivalent logical behavior.
+We extend this formalism to distribution-sensitive data structures with the concept of a probabilistic axiomatic specification, which is implemented by a concrete data structure only with some probability.
+We employ a number of approximations to synthesize several distribution-sensitive data structures from probabilistic specification as deep neural networks, such as a stack, queue, natural number, set, and binary tree.

@@ -1,0 +1,2 @@
+Transportation bid analysis optimization with shipper input
+This paper extends carrier assignment models used in bid analysis for transportation procurement to incorporate shipper business considerations. These include restricting carrier numbers, favoring incumbents and performance considerations. We provide representative models and develop solutions for these which include the use of metaheuristics. Experimentation shows that our algorithms work well.

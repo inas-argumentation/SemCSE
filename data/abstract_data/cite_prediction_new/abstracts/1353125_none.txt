@@ -1,0 +1,6 @@
+The Two-Edge Connectivity Survivable Network Problem in Planar Graphs
+Consider the following problem: given a graph with edge-weightsand a subset Qof vertices, find a minimum-weight subgraphin which there are two edge-disjoint paths connecting every pair ofvertices in Q. The problem is a failure-resilient analogof the Steiner tree problem, and arises in telecommunicationsapplications. A more general formulation, also employed intelecommunications optimization, assigns a number (orrequirement) rve{0,1,2} to each vertex vin the graph; for each pairu,vof vertices, the solution network is requiredto contain min{ru,rv} edge-disjointu-to-vpaths. 
+ 
+We address the problem in planar graphs, considering a popularrelaxation in which the solution is allowed to use multiple copiesof the input-graph edges (paying separately for each copy). Theproblem is SNP-hard in general graphs and NP-hard in planar graphs.We give the first polynomial-time approximation scheme in planargraphs. The running time is O(nlogn). 
+ 
+Under the additional restriction that the requirements are in{0,2} for vertices on the boundary of a single face of a planargraph, we give a linear-time algorithm to find the optimalsolution.

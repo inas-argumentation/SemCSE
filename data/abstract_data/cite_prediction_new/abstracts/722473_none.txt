@@ -1,0 +1,2 @@
+Law of large numbers for the possibilistic mean value
+A law of large numbers for the possibilistic mean value of a variable in a possibility space is presented. An example shows that the convergence in distribution (under a definition involving the possibilistic mean value) of the sample average to a variable with a certain distribution cannot be replaced, in general, by convergence either almost surely or in necessity. Even so, the usual presentation of the law of large numbers as a statement that holds ‘in necessity’ follows from this result.

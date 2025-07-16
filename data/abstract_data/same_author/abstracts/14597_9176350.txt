@@ -1,0 +1,2 @@
+Inference on inspiral signals using LISA MLDC data
+In this paper, we describe a Bayesian inference framework for the analysis of data obtained by LISA. We set up a model for binary inspiral signals as defined for the Mock LISA Data Challenge 1.2 (MLDC), and implemented a Markov chain Monte Carlo (MCMC) algorithm to facilitate exploration and integration of the posterior distribution over the nine-dimensional parameter space. Here, we present intermediate results showing how, using this method, information about the nine parameters can be extracted from the data.

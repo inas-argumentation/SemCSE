@@ -1,0 +1,2 @@
+A distributed surveillance task using miniature robots
+We present experimental results from a distributed surveillance task in which multiple miniature robots (called Scouts) automatically position themselves in an area and watch for motion. We discuss how the limited communication bandwidth affects how the robots accomplish their task.

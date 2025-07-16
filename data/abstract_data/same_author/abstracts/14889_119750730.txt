@@ -1,0 +1,4 @@
+Level 1 WZW superselection sectors
+AbstractThe superselection structure of the Wess-Zumino-Witten theory based on the affine Lie algebra
+$$\widehat{so}(N)$$
+ at level one is investigated for arbitraryN. By making use of the free fermion representation of the affine algebra, the endomorphisms which represent the superselection sectors on the observable algebra can be constructed as endomorphisms of the underlying Majorana algebra. These endomorphisms do not close on the chiral algebra of the theory, but we are able to obtain a larger algebra on which the endomorphisms close. The composition of equivalence classes of the endomorphisms reproduces the WZW fusion rules.

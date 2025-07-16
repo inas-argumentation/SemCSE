@@ -1,0 +1,2 @@
+A Scheme of Software Reconstruction base on MPI and SoftEther
+In this paper, we discuss the shortcomings of a kind of software on databases inquiring and data passing in the Internet. Then find out the way to improve them and put it into practice basing on MPI and SoftEther. At last the paper tries to analyze the feasibility and ability of this way.

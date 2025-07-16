@@ -1,0 +1,2 @@
+RLS Wiener estimators from observations with multiple and random delays in linear discrete-time stochastic systems
+This paper designs a new recursive least-squares (RLS) Wiener fixed-point smoother and filter from randomly delayed observed values by multiple sampling times in linear discrete-time stochastic systems. The actual observed value is generated in terms of the observed values [email protected]?(k-(j-1)) with the probability p"j(k),1=

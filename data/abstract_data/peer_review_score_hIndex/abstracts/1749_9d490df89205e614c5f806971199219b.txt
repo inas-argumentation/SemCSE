@@ -1,0 +1,9 @@
+A Study of Aggregation of Long Time-series Input for LSTM Neural Networks
+Time series forecasting is the process of using time series data to create a prediction model. 
+Long-short term memory (LSTM) models are the state-of-the-art for time-series forecasting.
+However, LSTMs can handle limited length input mostly since when the samples enter the model in sequence, 
+the oldest samples need to propagate through the LSTM cells self loop for each new sample and thus their data diminishes in this process.
+
+This limits the length of the history that can be used in the training for each time epoch. The common way of handling this problem is by partitioning time records to uniform intervals, averaging each interval, and feeding the LSTM with rather short sequences, but each represents data from a longer history. 
+    
+In this paper, we show that this common data aggregation method is far from optimal. We generalize the method of partitioning the data, and suggest an Exponential partitioning. We show that non-uniformly partitioning, and especially Exponential partitioning improves LSTM accuracy, significantly. Using other aggregation functions (such as median or maximum) are shown to further improve the accuracy. Overall, using 7 public datasets we show an improvement in accuracy by 6% to 27%. 

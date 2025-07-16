@@ -1,0 +1,2 @@
+FSK demodulation using an adaptive recursive digital filter
+A second-order adaptive recursive digital filter is used for frequency-shift keying (FSK) demodulation. Explicit formulas are derived for the noise variance in the frequency detector, and optimum transmitter carrier frequencies and detector threshold frequencies are calculated. A formula for the adaptation time is derived and the error probability is found. Computer simulations verify the derived results.

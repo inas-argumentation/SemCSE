@@ -1,0 +1,2 @@
+Piecewise linear density estimation for sampled data
+Nonparametric density estimation is considered for a discretely observed stationary continuous-time process. For each of three given time sampling procedures either random or deterministic, we establish that histograms and frequency polygons can reach the same optimal L2-rates as in the independent and identically distributed case. Moreover, thanks to a suitable “high frequency” sampling design, these rates are derived together with a minimized time of observation depending on the regularity of sample paths.

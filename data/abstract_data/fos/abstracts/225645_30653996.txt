@@ -1,0 +1,2 @@
+A qualitative model for aggregation and diffusion of $$\beta $$-amyloid in Alzheimer’s disease
+In this paper we present a mathematical model for the aggregation and diffusion of A$$\beta $$ amyloid in the brain affected by Alzheimer’s disease, at the early stage of the disease. The model is based on a classical discrete Smoluchowski aggregation equation modified to take diffusion into account. We also describe a numerical scheme and discuss the results of the simulations in the light of the recent biomedical literature.

@@ -1,0 +1,2 @@
+Estimating Tangent and Normal Cones Without Calculus
+We study simple estimates of the tangent and normal cones to a set with a nonsmooth boundary. We seek estimates that are robust relative to the base point and that depend only on collections of nearby points known to lie inside and outside of the set.

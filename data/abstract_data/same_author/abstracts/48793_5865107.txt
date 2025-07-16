@@ -1,0 +1,2 @@
+Design and implementation of a reusable software tool with application
+This paper describes the design and implementation of a software tool that can be reused for an empirical validation experiment of several commonly used software metrics in object-oriented environments. A detailed description of the steps of the potential validation experiment is provided. An overview of the software metrics considered and the required implementation of the test data to be used in the proposed experiment are also presented.

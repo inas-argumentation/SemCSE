@@ -1,0 +1,2 @@
+Weaknesses of a dynamic ID-based remote user authentication scheme
+The security of a password authentication scheme using smart cards proposed by Khan et al. is analysed. Four kinds of weakness are presented in different scenarios. The analyses show that the scheme is insecure for practical application.

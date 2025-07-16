@@ -1,0 +1,2 @@
+Rigi: A Visualization Environment for Reverse Engineering
+The Rigi reverse engineering system provides tNo contrasting approaches for presenting software structures in its graph editor. The first displays the structures through multiple, individual NindoNs. The second (neNer) approach, Simple Hierarchical MultiPerspective (SHriMP) views, employs fisheye views of nested graphs. We compare and contrast these tNo interfaces for visualizing software graphs, and provide results from user experiments.

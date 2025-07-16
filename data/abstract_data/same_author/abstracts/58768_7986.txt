@@ -1,0 +1,2 @@
+A Parallel Algorithm for Edge-Coloring Partial k-Trees
+Many combinatorial problems can be efficiently solved for partial k-trees (graphs of treewidth bounded by k). The edge-coloring problem is one of the well-known combinatorial problems for which no NC algorithms have been obtained for partial k-trees. This paper gives an optimal and first NC parallel algorithm which finds an edge-coloring of a given partial k-tree using a minimum number of colors.

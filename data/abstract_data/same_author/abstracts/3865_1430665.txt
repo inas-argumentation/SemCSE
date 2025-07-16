@@ -1,0 +1,2 @@
+New constructions of quasi-cyclic LDPC codes based on special classes of BIDBs for the AWGN and binary erasure channels
+This paper presents new methods for efficiently constructing encodable quasi-cyclic low-density parity-check (LDPC) codes based on special balanced incomplete block designs (BIBDs). Codes constructed perform well over both the additive white Gaussian noise (AWGN) and binary erasure channels with iterative decoding.

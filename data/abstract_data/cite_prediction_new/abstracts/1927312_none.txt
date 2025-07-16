@@ -1,0 +1,2 @@
+Transducer design simulation using finite element method
+The fast development of computer power and computational algorithms has made it possible to design complex transducers and arrays using computer simulation. Practical example are given here for transducer modeling using 3-D finite element method (FEM) instead of the traditional 1-D equivalent circuit models. The merits and deficiencies of the frequency domain and time domain FEM formulations also are analyzed.

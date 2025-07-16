@@ -1,0 +1,2 @@
+On the Geometry and the Deformation of Shapes Represented by Piecewise Continuous Bézier Curves with Application to Shape Optimization
+In this work, we develop a framework based on piecewise Bezier curves to plane shapes deformation and we apply it to shape optimization problems. We describe a general setting and some general result to reduce the study of a shape optimization problem to a finite dimensional problem of integration of a special type of vector field. We show a practical problem where this approach leads to efficient algorithms.

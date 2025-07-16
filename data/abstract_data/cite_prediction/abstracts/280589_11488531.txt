@@ -1,0 +1,2 @@
+CS 224 N : Natural Language Processing with Deep Learning Reading Comprehension
+Machine Comprehension is a very interesting task in both natural language processing and artificial intelligent research but extremely challenging. The goal is to enable a machine to understand a given passage and then answer questions related to the passage. In out attempt to implement a neural network architecture for Reading Comprehension, we use the published Stanford Question Answering Dataset (SQuAD) for training our model.

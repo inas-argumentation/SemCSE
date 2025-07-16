@@ -1,0 +1,2 @@
+Notes on the design and analysis of SIMON and SPECK
+In 2011, prompted by potential U.S. government requirements for lightweight ciphers (e.g., SCADA and logistics applications) and concerns that existing cryptographic solutions were unnecessarily restrictive, a team of cryptographic designers was formed within the Information Assurance Research Laboratory of NSA’s Research Directorate, with the goal of designing foundational lightweight cryptographic block ciphers. SIMON and SPECK emerged from that research effort in 2013. See [Age16].

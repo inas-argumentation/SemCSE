@@ -1,0 +1,17 @@
+DEEP ADVERSARIAL FORWARD MODEL
+Learning world dynamics has recently been investigated as a way to make reinforcement
+learning (RL) algorithms to be more sample efficient and interpretable.
+In this paper, we propose to capture an environment dynamics with a novel forward
+model that leverages recent works on adversarial learning and visual control. Such
+a model estimates future observations conditioned on the current ones and other
+input variables such as actions taken by an RL-agent. We focus on image generation
+which is a particularly challenging topic but our method can be adapted to
+other modalities. More precisely, our forward model is trained to produce realistic
+observations of the future while a discriminator model is trained to distinguish
+between real images and the model’s prediction of the future. This approach overcomes
+the need to define an explicit loss function for the forward model which is currently
+used for solving such a class of problem. As a consequence, our learning protocol
+does not have to rely on an explicit distance such as Euclidean distance which
+tends to produce unsatisfactory predictions. To illustrate our method, empirical
+qualitative and quantitative results are presented on a real driving scenario, along
+with qualitative results on Atari game Frostbite.

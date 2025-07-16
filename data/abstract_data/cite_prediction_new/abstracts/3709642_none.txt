@@ -1,0 +1,3 @@
+Action of Coxeter groups on m-harmonic polynomials and KZ equations
+The Matsuo-Cherednik correspondence is an isomorphism from solutions of Knizhnik-Zamolodchikov equations to eigenfunctions of generalized Calogero-Moser systems associated to Coxeter groups G and a multiplicity function m on their root systems. 
+We apply this correspondence to the most degenerate case of zero spectral parameters. The space of eigenfunctions is then the space H_m of m-harmonic polynomials, recently introduced in math-ph/0105014. We compute the Poincare' polynomials for the space H_m and of its isotypical components corresponding to each irreducible representation of the group G. We also give an explicit formula for m-harmonic polynomials of lowest positive degree in the S_n case.

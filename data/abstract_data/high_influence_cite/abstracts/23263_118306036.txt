@@ -1,0 +1,4 @@
+A Jost–Pais-type Reduction of (Modified) Fredholm Determinants for Semi-separable Operators in Infinite Dimensions
+We study the analog of semi-separable integral kernels in \(\mathcal{H}\) of the type 
+ 
+$$K\left( {x,x\prime} \right) = \left\{\begin{array}{lll}{F_1}\left( x \right){G_1}\left( {x\prime} \right),\,\,\,\,a \prec x\prime \prec x \prec b, \\ {F_2}\left( x \right){G_2}\left( {x\prime} \right),\,\,\,\,a \prec x \prec x\prime \prec b,\end{array}\right.$$

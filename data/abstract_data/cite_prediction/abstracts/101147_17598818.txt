@@ -1,0 +1,2 @@
+Analysis of User-generated Content for Improving YouTube Video Recommendation
+Everyday video-sharing websites such as YouTube collect large amounts of new multimedia resources. Comments left by viewers often provide valuable information to describe sentiments, opinions and tastes of users. For this reason, we propose a novel re-ranking approach that takes into consideration that information in order to provide better recommendations of related videos. Early experiments indicate an improvement in the recommendation performance.

@@ -1,0 +1,57 @@
+Modeling disruption in a fresh produce supply chain
+Purpose 
+ 
+ 
+ 
+ 
+The purpose of this paper is to quantify elements that make fresh produce supply chains (FPSCs) vulnerable to disruptions and to quantify the benefits of different disruption-management strategies. 
+ 
+ 
+ 
+ 
+Design/methodology/approach 
+ 
+ 
+ 
+ 
+This paper develops a mathematical model of a disruption in a FPSC and analyzes the relationships among variables. 
+ 
+ 
+ 
+ 
+Findings 
+ 
+ 
+ 
+ 
+The model determines the optimal safety stock as a function of the perishability of the produce, the length of time it takes to find the contamination, the level of demand during the disruption, and the amount of produce that can be rerouted. Applying the model to the 2006 E. coli spinach contamination reveals that the drop in customer demand for fresh spinach plays the largest role in Dole losing sales. 
+ 
+ 
+ 
+ 
+Research limitations/implications 
+ 
+ 
+ 
+ 
+The model includes several parameters that may be difficult to estimate. Future models can incorporate uncertainty that is inherent in supply chain disruptions. 
+ 
+ 
+ 
+ 
+Practical implications 
+ 
+ 
+ 
+ 
+The model in this paper can help a supply chain (SC) manager explore the trade-offs of different disruption-management strategies. For example, a SC manager can determine the value of holding additional safety stock vs trying to improve traceability in the SC. 
+ 
+ 
+ 
+ 
+Originality/value 
+ 
+ 
+ 
+ 
+This paper quantifies and models insights delivered in the qualitative analyses of FPSC disruptions. The theoretical contributions include an analysis of the interaction among safety stock, levels of demand, communication, and traceability parameters in order to help SC managers evaluate different strategies to mitigate the effects of contaminated produce.

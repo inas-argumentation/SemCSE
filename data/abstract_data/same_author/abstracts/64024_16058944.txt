@@ -1,0 +1,2 @@
+Interaction Trust Evaluation in Decentralized Environments
+In decentralized environments, such as P2P, as lack of central management, the trust issue is prominently important for interactions between unfamiliar peers. This paper first presents a probabilistic approach for evaluating the interaction trust of unfamiliar peers according to their interaction history. In addition, after an interaction, peers can evaluate each other and modify the trust status. Based on it, this paper presents an approach for trust value modification after interactions.

@@ -1,0 +1,2 @@
+AAM derived face representations for robust facial action recognition
+In this paper, we present results on experiments employing active appearance model (AAM) derived facial representations, for the task of facial action recognition. Experimental results demonstrate the benefit of AAM-derived representations on a spontaneous AU database containing "real-world" variation. Additionally, we explore a number of normalization methods for these representations which increase facial action recognition performance

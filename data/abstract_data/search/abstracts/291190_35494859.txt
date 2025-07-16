@@ -1,0 +1,2 @@
+Framework for co simulation of signal and power integrity in server systems
+Considerations for comprehensive simulation and analysis of high speed links in complex server systems are discussed in this work. A framework that considers the interactions between multiple signals and the power distribution network is described. In the last section, the nature of the interactions between power and signal domains is analyzed by means of a simplified scenario at board level.

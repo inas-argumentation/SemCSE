@@ -1,0 +1,2 @@
+On bounds for the effective differential Nullstellensatz
+Understanding bounds for the effective differential Nullstellensatz is a central problem in differential algebraic geometry. Recently, several bounds have been obtained using Dicksonian and antichains sequences (with a given growth rate). In the present paper, we make these bounds more explicit and, therefore, more applicable to understanding the computational complexity of the problem, which is essential to designing more efficient algorithms.

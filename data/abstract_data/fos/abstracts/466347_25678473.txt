@@ -1,0 +1,15 @@
+SU-E-J-65: Feasibility Study of Backscatter Imaging for Image-Guided Radiotherapy.
+PURPOSE
+Tracking tumor motion during external beam radiation therapy is a major factor limiting the treatment of lung tumors. Several tracking techniques have been previously reported; however, these are limited to 2D motion, fail to capture image data during treatment delivery (e.g., patient setup imaging), fail to capture motion along the beam axis (MV CineMode), or increase patient dose (kV fluoroscopy). Creating images from radiation that is naturally scattered from the patient during treatment could overcome the limitations of other techniques. This study investigated the feasibility of using photon scatter to create images during external beam radiation delivery.
+
+
+METHODS
+A prototype imager was created using a Trilogy Linac, pinhole collimator, and computed radiography (CR) plate. Two small cylinders (solid water and cerrobend) were placed in the path of a 6MV beam. The collimator/CR plate was placed at 45° and 90° from the gantry head and 2000MU was delivered. Optically-stimulated luminescent (OSLD) detectors were placed on the surface of the CR plate to measure photon dose. Contrast-to-noise ratios (CNR) were calculated for each peg to assess image quality.
+
+
+RESULTS
+At 45°, OSLD dose was 1.3±0.2cGy and the CNRs were 1.5 and 5.3 for water and cerrobend, respectively. OSLD dose increased to 2.6±0.3cGy and CNR increased to 14.8 and 18.3 at 90°. Scatter from the gantry head and the pinhole collimator are the major sources of noise which limit image quality. The measured CNR satisfied the Rose criteria for detectability (CNR > 3-5) for the 90° gantry orientation. Further, scatter imaging should satisfy the Rose criteria if output is reduced from 2000MU to 200MU.
+
+
+CONCLUSIONS
+Preliminary results confirm the feasibility of using scatter imaging for in situ treatment monitoring. Future work will investigate creation of tomosynthesis images and improving image quality using increased shielding and a multi-pinhole collimator.

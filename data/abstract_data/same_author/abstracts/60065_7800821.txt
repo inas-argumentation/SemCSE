@@ -1,0 +1,31 @@
+Simultaneous Optimization via Approximate Majorization for Concave Profits or Convex Costs
+For multicriteria problems and problems with a poorly
+ characterized objective, it is often desirable to approximate simultaneously
+ the optimum solution for a large class of objective functions.
+ We consider two such classes: (1) Maximizing all symmetric concave functions.
+ (2) Minimizing all symmetric convex functions. The first class corresponds to maximizing profit for a resource allocation
+ problem (such as allocation of bandwidths in a computer network). The
+ concavity requirement corresponds to the law of diminishing returns in
+ economics. The second class corresponds to minimizing cost or congestion
+ in a load balancing problem, where the congestion/cost is some convex
+ function of the loads. Informally, a simultaneous α-approximation for either class is a
+ feasible solution that is within a factor α of the optimum for all
+ functions in that class. Clearly, the structure of the feasible set has a
+ significant impact on the best possible α and the computational
+ complexity of finding a solution that achieves (or nearly achieves) this
+ α. We develop a framework and a set of techniques to perform
+ simultaneous optimization for a wide variety of problems. We first relate simultaneous α-approximation for both classes to
+ α-approximate majorization. Then we prove that
+ α-approximately majorized solutions exist for logarithmic values of
+ α for the concave profits case. For both classes, we present a
+ polynomial-time algorithm to find the best α if the set of
+ constraints is a polynomial-sized linear program and discuss several
+ non-trivial applications. These applications include finding a (log
+ n)-majorized solution for multicommodity flow, and finding approximately
+ best α for various forms of load balancing problems. Our
+ techniques can also be applied to produce approximately fair versions of
+ the facility location and bi-criteria network design problems. In
+ addition, we demonstrate interesting connections between distributional
+ load balancing (where the sizes of jobs are drawn from known probability
+ distributions but the actual size is not known at the time of placement)
+ and approximate majorization.

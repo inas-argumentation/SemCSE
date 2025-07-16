@@ -1,0 +1,2 @@
+Sift-flow registration for facial expression analysis using Gabor wavelets
+Within the affective computing research field, researchers are still facing a big challenge to establish techniques to recognize human emotions from video sequences, since human affective behavior is subtle and multimodal. Automated systems try to build a mapping between the continuous emotion space and a set of discrete expression categories (e.g. happiness, sadness). Since facial expression may vary differently across humans, designing a general expression model is the most challenging problem.

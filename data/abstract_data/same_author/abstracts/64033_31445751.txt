@@ -1,0 +1,2 @@
+Quality of trust for social trust path selection in complex social networks
+In online social networks, there are usually many social trust paths between agents. Thus, a challenging problem is which social trust path is the optimal one that can yield the most trustworthy evaluation result. In this paper, we present a new complex social network structure and propose a new concept, Quality of Trust (QoT), for social trust path selection in complex social networks.

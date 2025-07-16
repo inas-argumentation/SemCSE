@@ -1,0 +1,3 @@
+A Formula for Type III Sums of Squares
+Type III methods were introduced by SAS to address difficulties in dummy-variable models for effects of multiple factors and covariates. They are widely used in practice; they are the default method in several statistical computing packages. Type III sums of squares (SSs) are defined by a set of instructions; an explicit mathematical formulation does not seem to exist. 
+An explicit formulation is derived in this paper. It is used to illustrate Type III SSs and their properties in the two-factor ANOVA model.

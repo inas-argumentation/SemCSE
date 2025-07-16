@@ -1,0 +1,2 @@
+Caching personalized and database-related dynamic Web pages
+In this paper, we use Web session objects and database-related dynamic Web cache to implement the dynamic Web cache system in Tomcat Web server. We show how to build the dependency between dynamic Web pages and the underlying database fields and session objects. Our experimental results show that Tomcat with proposed dynamic Web cache can increase the stability of web server and improves Web server throughput by up to 290%

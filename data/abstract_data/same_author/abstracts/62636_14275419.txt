@@ -1,0 +1,4 @@
+Aspects of Adaptivity in P2P Information Retrieval
+Peer-to-Peer networks are comprised of multiple independently administered computers (peers) that cooperate via a common protocol in order to achieve a goal common to the peers. Helping the user find relevant information in a P2P network is the subject of the field of Peer-to-Peer IR. 
+ 
+In order to be successful, a P2P-IR system needs to be adaptive in several respects. It has to adapt both to the user and to its environment. Within this article we detail the motivations and challenges of P2P-IR, as well as the ways in which P2P-IR systems adapt and where improvement is needed in order to achieve adaptive multimedia retrieval.

@@ -1,0 +1,15 @@
+Characterization of prostate cancer with MR spectroscopic imaging and diffusion-weighted imaging at 3 Tesla.
+PURPOSE
+To retrospectively measure metabolic ratios and apparent diffusion coefficient (ADC) values from 3-Tesla MR spectroscopic imaging (MRSI) and diffusion-weighted imaging (DWI) in benign and malignant peripheral zone (PZ) prostate tissue, assess the parameters' associations with malignancy, and develop and test rules for classifying benign and malignant PZ tissue using whole-mount step-section pathology as the reference standard.
+
+
+METHODS
+This HIPAA-compliant, IRB-approved study included 67 men (median age, 61 years; range, 41-74 years) with biopsy-proven prostate cancer who underwent preoperative 3 T endorectal multiparametric MRI and had ≥1 PZ lesion >0.1 cm3 at whole-mount histopathology. In benign and malignant PZ regions identified from pathology, voxel-based choline/citrate, polyamines/choline, polyamines/creatine, and (choline + polyamines + creatine)/citrate ratios were averaged, as were ADC values. Patients were randomly split into training and test sets; rules for separating benign from malignant regions were generated with classification and regression tree (CART) analysis and assessed on the test set for sensitivity and specificity. Odds ratios (OR) were evaluated using generalized estimating equations.
+
+
+RESULTS
+CART analysis of all parameters identified only ADC and (choline + polyamines + creatine)/citrate as significant predictors of cancer. Sensitivity and specificity, respectively, were 0.81 and 0.82 with MRSI-derived, 0.98 and 0.51 with DWI-derived, and 0.79 and 0.90 with MRSI + DWI-derived classification rules. Areas under the curves (AUC) in the test set were 0.93 (0.87-0.97) with ADC, 0.82 (0.72-0.91) with MRSI, and 0.96 (0.92-0.99) with MRSI + ADC.
+
+
+CONCLUSION
+We developed statistically-based rules for identifying PZ cancer using 3-Tesla MRSI, DWI, and MRSI + DWI and demonstrated the potential value of MRSI + DWI.

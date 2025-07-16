@@ -1,0 +1,2 @@
+A meothod for multi-target range and velocity detection in automotive FMCW radar
+FMCW(Frequency Modulation Continuous Wave) radar has many useful applications but a serious problems can occur in multi-target situations. Range-velocity processing should suppress so-called ghost targets and detect missing targets presented by beat frequency shift with Doppler frequency. In this paper, a new method is proposed for effective identification of the correct pairs of beat frequencies received from real targets.

@@ -1,0 +1,2 @@
+An O(n log n)-Time Algorithm for the Maximum Constrained Agreement Subtree Problem for Binary Trees
+This paper introduces the maximum constrained agreement subtree problem, which is a generalization of the classical maximum agreement subtree problem This new problem is motivated by the understood constraint when we compare the evolutionary trees We give an O(n log n)-time algorithm for solving the problem when the input trees are binary The time complexity of our algorithm matches the fastest known algorithm for the maximum agreement subtree problem for binary trees.

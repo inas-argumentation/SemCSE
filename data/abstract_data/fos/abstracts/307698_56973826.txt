@@ -1,0 +1,2 @@
+Schema Algebra in Integration of Deep Web Database Query Interface and Its Applications
+The first big challenge to integrate Web Databases is to integrate their query interfaces.From the view of database,every interface equals a schema.In order to integrate these schemas,establishes a L-tree model called schema,and gives the definition and operations of schema,which we called schema algebra.Our application with schema algebra manifested that it can be well apply with interface integration of Web database with same or relative themes.

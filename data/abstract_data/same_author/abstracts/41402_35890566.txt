@@ -1,0 +1,2 @@
+On Isomorphisms of Minimal Cayley Graphs and Digraphs
+. A Cayley graph or digraph Cay(G,S) is called a CI-graph of G if, for any T⊂G, Cay(G,S)≅Cay(G,T) if and only if Sσ=T for some σ∈Aut(G). The aim of this paper is to characterize finite abelian groups for which all minimal Cayley graphs and digraphs are CI-graphs.

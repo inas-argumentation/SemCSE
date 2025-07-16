@@ -1,0 +1,2 @@
+Comparison of Niblack inspired binarization methods for ancient documents
+In this paper, we present a new sliding window based l ocal thresholding technique ‘NICK’ and give a detail ed comparison of some existing sliding-window based thresho lding algorithms with our method. The proposed method aims at achieving better binarization results, specificall y, for ancient document images. NICK has been inspired from the Niblack’s binarization method and exhibits its robustn e s and effectiveness when evaluated on low quality an cient document images.

@@ -1,0 +1,2 @@
+Fusing Time-of-Flight Depth and Color for Real-Time Segmentation and Tracking
+We present an improved framework for real-time segmentation and tracking by fusing depth and RGB color data. We are able to solve common problems seen in tracking and segmentation of RGB images, such as occlusions, fast motion, and objects of similar color. Our proposed real-time mean shift based algorithm outperforms the current state of the art and is significantly better in difficult scenarios.

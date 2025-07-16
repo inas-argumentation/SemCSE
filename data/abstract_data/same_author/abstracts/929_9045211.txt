@@ -1,0 +1,2 @@
+Using Fuzzy Dependency-Guided Attribute Grouping in Feature Selection
+Feature selection has become a vital step in many machine learning techniques due to their inability to handle high dimensional descriptions of input features. This paper demonstrates the applicability of fuzzy-rough attribute reduction and fuzzy dependencies to the problem of learning classifiers, resulting in simpler rules with little loss in classification accuracy.

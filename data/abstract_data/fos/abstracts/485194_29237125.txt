@@ -1,0 +1,15 @@
+Improved image quality in digital mammography with image processing.
+PURPOSE
+The effect of image processing, specifically Bayesian image estimation (BIE), on digital mammographic images is studied. BIE is an iterative, nonlinear statistical estimation technique that has previously been used in chest radiography to reduce image scatter content and improve the contrast-to-noise ratio (CNR). We adapt this technique to digital mammography and examine its effect.
+
+
+METHODS/MATERIALS
+Images of the American College of Radiologists (ACR) breast phantom were acquired on a calibrated digital mammography system at a normal mammographic exposure both with and without a grid. An iterative Bayesian estimation algorithm was formulated and used to process the images acquired without a grid. Quantitative scatter fractions were measured and compared for the image acquired with the grid, the image acquired without the grid, and the image acquired without the grid and processed by the Bayesian algorithm. CNR values were also computed for the four visible masses in the ACR phantom before and after processing and compared to a grid.
+
+
+RESULTS
+Initial images acquired without an antiscatter grid had scatter fractions of 0.46. Processing this image with BIE reduced the scatter content to under 0.04. In comparison, the image acquired with a grid had scatter of 0.19. BIE processing accounted for CNR improvements from 29% to 219% for the masses seen in the ACR phantom as compared to the unprocessed image. Visibility of the four masses in the phantom was improved.
+
+
+CONCLUSIONS
+Bayesian image estimation can be used with digital mammography to reduce scatter fractions. This technique is very useful as it can reduce scatter content effectively without introducing any adverse effects, such as grid line aliasing. Bayesian processing can also increase image CNR, which may potentially increase the visualization of subtle masses. Preliminary work shows an improvement in CNR to values greater than that provided by a standard grid.

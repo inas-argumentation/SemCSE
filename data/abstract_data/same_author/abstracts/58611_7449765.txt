@@ -1,0 +1,2 @@
+Meeting the Deadline: Why, When and How
+This paper defines a possible semantics for deadline obligations. Also, we make explicit several choices to be made in defining the semantics of deadline obligations. We characterize deontic deadline operators in CTL, minimally extended with propositional violation constants. The advantage of this reduction approach is that formal reasoning can be performed in CTL.

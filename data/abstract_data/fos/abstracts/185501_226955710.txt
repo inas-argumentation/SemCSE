@@ -1,0 +1,5 @@
+Quantum Period Finding against Symmetric Primitives in Practice
+We present the first complete implementation of the offline Simon's algorithm, and estimate its cost to attack the MAC Chaskey, the block cipher PRINCE and the NIST lightweight candidate AEAD scheme Elephant. 
+These attacks require a reasonable amount of qubits, comparable to the number of qubits required to break RSA-2048. They are faster than other collision algorithms, and the attacks against PRINCE and Chaskey are the most efficient known to date. As Elephant has a key smaller than its state size, the algorithm is less efficient and ends up more expensive than exhaustive search. 
+We also propose an optimized quantum circuit for boolean linear algebra as well as complete reversible implementations of PRINCE, Chaskey, spongent and Keccak which are of independent interest for quantum cryptanalysis. 
+We stress that our attacks could be applied in the future against today's communications, and recommend caution when choosing symmetric constructions for cases where long-term security is expected.

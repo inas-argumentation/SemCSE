@@ -1,0 +1,2 @@
+Design and Implementation of Blind Equalization Algorithm for Multiband CAP Modulation in High Speed and High Spectral Efficiency Optical Data Link
+A 102 Gbit/s short range optical data link for inter datacenter interconnect using MultiCAP and CMA_DDLMS algorithm is proposed and demonstrated. The results show that MultiCAP signal in inter datacenter interconnect system can be transmitted over 40 km SSMF with BER below FEC threshold of 7%

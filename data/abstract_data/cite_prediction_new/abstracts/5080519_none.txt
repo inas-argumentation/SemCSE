@@ -1,0 +1,2 @@
+Automatic Recovery of the Left Ventricular Blood Pool in Cardiac Cine MR Images
+We present a method for automatic localization and rough segmentation of the left ventricle blood pool in cardiac cine magnetic resonance images. The method first detects the whole heart using time-based Fourier analysis. It then segments the left ventricle blood pool by grouping connected components across slices using isoperimetric clustering. The system was tested on 253 datasets and failed in only 2 cases.

@@ -1,0 +1,2 @@
+A Multi-task Approach to Learning Multilingual Representations
+Highlights IUses both monolingual and bilingual parallel corpora to learn multilingual embeddings IBiLSTM layer to contextualize word embeddings ITrained end-to-end I Shows competitive performance in a standard cross-lingual document classification task using limited resources ICan capture the similarity between words in different languages even if they are not present in the bilingual corpora (see Figure 3)

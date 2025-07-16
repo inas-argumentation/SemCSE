@@ -1,0 +1,2 @@
+Particle 密度を用いた Multi-Objective Particle Swarm Optimization
+This paper proposes a Multi-Objective Particle Swarm Optimization (MOPSO) with particle density. In the proposed method, density of particles around every Pareto solution is calculated and a Pareto solution with low particle density is selected as gbest which is a best position visited thus far by all of the particles. Then, it is validated through a simulation with a Multi-Objective 0/1 knapsack problem comparing to the sigma method which is the conventional to select gbest.

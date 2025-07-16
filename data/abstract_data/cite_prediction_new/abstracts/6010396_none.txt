@@ -1,0 +1,2 @@
+Approaches for reducing power consumption of the high-resolution pipelined analog-to-digital converters
+In this paper techniques for reducing power consumption of the high-resolution ADC are discussed. The main requirements for DC gain and capacitor mismatch of 2.5-bit multiplying digital-to-analog converter (MDAC) are defined. Simulation results in MATLAB demonstrate dynamic and static performances of a 12-bit 2.5-bit/stage pipelined ADCs depending on capacitor mismatch and op-amp DC gain of the stage.

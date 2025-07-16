@@ -1,0 +1,2 @@
+A Structure Tensor Approach for 3D Image Skeletonization: Applications in Protein Secondary Structure Analysis
+We present an approach for three-dimensional (3D) image skeletonization, based on the local structure tensor idea. Two major types of features are addressed: helical and planar. Accordingly, we also discussed how the skeletonization approach is successfully applied to the protein secondary structure analysis, including the alpha-helix (helical type) and beta-sheet (planar type) identifications.

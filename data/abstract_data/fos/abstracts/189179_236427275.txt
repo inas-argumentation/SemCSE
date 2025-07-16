@@ -1,0 +1,22 @@
+Retrieval algorithm for the column CO2 mixing ratio from pulsed multi-wavelength lidar measurements
+. The retrieval algorithm for CO 2 column mixing ratio from
+measurements of a pulsed multi-wavelength integrated path differential
+absorption (IPDA) lidar is described. The lidar samples the shape of the
+1572.33 nm CO 2 absorption line at multiple wavelengths. The algorithm
+uses a least-squares fit between the CO 2 line shape computed from a
+layered atmosphere model and that sampled by the lidar. In addition to the
+column-average CO 2 dry-air mole fraction (XCO 2 ), several other
+parameters are also solved simultaneously from the fit. These include the
+Doppler shift at the received laser signal wavelength, the product of the
+surface reflectivity and atmospheric transmission, and a linear trend in the
+lidar receiver's spectral response. The algorithm can also be used to solve
+for the average water vapor mixing ratio, which produces a secondary
+absorption in the wings of the CO 2 absorption line under humid
+conditions. The least-squares fit is linearized about the expected XCO 2 
+value, which allows the use of a standard linear least-squares fitting method
+and software tools. The standard deviation of the retrieved XCO 2 is
+obtained from the covariance matrix of the fit. The averaging kernel is also
+provided similarly to that used for passive trace-gas column measurements.
+Examples are presented of using the algorithm to retrieve XCO 2 from
+measurements of the NASA Goddard airborne CO 2 Sounder lidar that were
+made at constant altitude and during spiral-down profile maneuvers.

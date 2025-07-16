@@ -1,0 +1,2 @@
+High-Level Synthesis: Introduction to the Scheduling Problem
+The scheduling problem — one of the central tasks in high-level synthesis — is the problem of determining the order in which the operations in the behavioral description will execute. This tutorial introduces the scheduling problem, and describes four scheduling algorithms commonly used today to solve those problems.

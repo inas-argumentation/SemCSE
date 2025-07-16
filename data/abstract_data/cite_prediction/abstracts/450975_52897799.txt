@@ -1,0 +1,2 @@
+Automatic Irrigation System with Data Log Creation
+Water being a crucial resource should be judiciously used, especially when it comes to agriculture. It has been seen that right amount of water helps the farmer to have a good yield and the quality is also better. The paper proposes a technique to automate the irrigation system using Arduino Mega 2560 along with GSM 800L which is controlled through a mobile application module and create a log of the sensor data collected from the field on a webpage.

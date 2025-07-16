@@ -1,0 +1,28 @@
+Exploiting Visual Similarities for Ontology Alignment
+Ontology alignment is the process where two different ontologies that usually describe similar domains are 
+ 
+âalignedâ, i.e. a set of correspondences between their entities, regarding semantic equivalence, is determined. 
+ 
+In order to identify these correspondences several methods and metrics that measure semantic equivalence 
+ 
+have been proposed in literature. The most common features that these metrics employ are string-, lexical- 
+ 
+, structure- and semantic-based similarities for which several approaches have been developed. However, 
+ 
+what hasnât been investigated is the usage of visual-based features for determining entity similarity in cases 
+ 
+where images are associated with concepts. Nowadays the existence of several resources (e.g. ImageNet) 
+ 
+that map lexical concepts onto images allows for exploiting visual similarities for this purpose. In this paper, 
+ 
+a novel approach for ontology matching based on visual similarity is presented. Each ontological entity is 
+ 
+associated with sets of images, retrieved through ImageNet or web-based search, and state of the art visual 
+ 
+feature extraction, clustering and indexing for computing the similarity between entities is employed. An 
+ 
+adaptation of a popular Wordnet-based matching algorithm to exploit the visual similarity is also proposed. 
+ 
+Our method is compared with traditional metrics against a standard ontology alignment benchmark dataset 
+ 
+and demonstrates promising results.

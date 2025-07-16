@@ -1,0 +1,2 @@
+Modifications of Machine Translation Evaluation Metrics by Using Word Embeddings
+Traditional machine translation evaluation metrics such as BLEU and WER have been widely used, but these metrics have poor correlations with human judgements because they badly represent word similarity and impose strict identity matching. In this paper, we propose some modifications to the traditional measures based on word embeddings for these two metrics. The evaluation results show that our modifications significantly improve their correlation with human judgements.

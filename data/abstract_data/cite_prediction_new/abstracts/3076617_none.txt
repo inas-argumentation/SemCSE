@@ -1,0 +1,2 @@
+Mathematical properties of a semi-classical signal analysis method: Noisy signal case
+Recently, a new signal analysis method based on a semi-classical approach has been proposed [1]. The main idea in this method is to interpret a signal as a potential of a Schrodinger operator and then to use the discrete spectrum of this operator to analyze the signal. In this paper, we are interested in a mathematical analysis of this method in discrete case considering noisy signals.

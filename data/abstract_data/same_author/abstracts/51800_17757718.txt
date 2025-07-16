@@ -1,0 +1,2 @@
+Composition by Colimit and Formal Software Development
+Goguen emphasized long ago that colimits are how to compose systems [7]. This paper corroborates and elaborates Goguen’s vision by presenting a variety of situations in which colimits can be mechanically applied to support software development by refinement. We illustrate the use of colimits to support automated datatype refinement, algorithm design, aspect weaving, and security policy enforcement.

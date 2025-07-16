@@ -1,0 +1,25 @@
+Localized random projections challenge benchmarks for bio-plausible deep learning
+Similar to models of brain-like computation, artificial deep neural networks rely
+on distributed coding, parallel processing and plastic synaptic weights. Training
+deep neural networks with the error-backpropagation algorithm, however, is
+considered bio-implausible. An appealing alternative to training deep neural networks
+is to use one or a few hidden layers with fixed random weights or trained
+with an unsupervised, local learning rule and train a single readout layer with a
+supervised, local learning rule. We find that a network of leaky-integrate-andfire
+neurons with fixed random, localized receptive fields in the hidden layer and
+spike timing dependent plasticity to train the readout layer achieves 98.1% test
+accuracy on MNIST, which is close to the optimal result achievable with error-backpropagation
+in non-convolutional networks of rate neurons with one hidden
+layer. To support the design choices of the spiking network, we systematically
+compare the classification performance of rate networks with a single hidden
+layer, where the weights of this layer are either random and fixed, trained with
+unsupervised Principal Component Analysis or Sparse Coding, or trained with
+the backpropagation algorithm. This comparison revealed, first, that unsupervised
+learning does not lead to better performance than fixed random projections for
+large hidden layers on digit classification (MNIST) and object recognition (CIFAR10);
+second, networks with random projections and localized receptive fields
+perform significantly better than networks with all-to-all connectivity and almost
+reach the performance of networks trained with the backpropagation algorithm.
+The performance of these simple random projection networks is comparable to
+most current models of bio-plausible deep learning and thus provides an interesting
+benchmark for future approaches.

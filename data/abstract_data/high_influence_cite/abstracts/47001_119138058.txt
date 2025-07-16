@@ -1,0 +1,4 @@
+Regularity and fast escaping points of entire functions
+Let $f$ be a transcendental entire function. The fast escaping set $A(f)$, various regularity conditions on the growth of the maximum modulus of $f$, and also, more recently, the quite fast escaping set $Q(f)$ have all been used to make progress on fundamental questions concerning the iteration of $f$. In this paper we establish new relationships between these three concepts. 
+We prove that a certain weak regularity condition is necessary and sufficient for $Q(f)=A(f)$ and give examples of functions for which $Q(f)\neq A(f)$. 
+We also apply a result of Beurling that relates the size of the minimum modulus of $f$ to the growth of its maximum modulus in order to establish that a stronger regularity condition called log-regularity holds for a large class of functions, in particular for functions in the Eremenko-Lyubich class ${\mathcal B}$.

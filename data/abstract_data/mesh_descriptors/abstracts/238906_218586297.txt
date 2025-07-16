@@ -1,0 +1,15 @@
+Transitioning to Full Field Digital Mammography in Nova Scotia: Using Interrupted Time Series Methods to Study the Impact of Technology Change on Mammography Volumes.
+BACKGROUND
+Over the past decade, mammography has transitioned from film to digital media with promises of increased productivity and time savings. Between 2007 and 2010 in Nova Scotia, 10 mammography sites transitioned from analog to digital, providing a natural experiment to evaluate the transition (full-field digital mammography) on mammography with respect to changes in throughput volumes in a "real-world" setting.
+
+
+METHODS
+Study data consisted of aggregate, monthly, site-specific counts of screening and diagnostic mammograms for the period 2006 to 2014, which were obtained from an information system that supports central booking, clinical reporting, and patient management for all breast imaging in Nova Scotia. A multigroup interrupted time series design using segmented regression with site-month data assessed pre-to post-transition changes in screening throughput volumes and the proportion of diagnostic mammograms performed.
+
+
+RESULTS
+The overall mean monthly number of mammograms per machine per full-time equivalent increased by 17% from 192.9 (95% confidence interval: 182.7-203.1) to 225.7 (95% CI 218.3-233.0); however, there was marked heterogeneity across these sites. A pooled analysis for all sites revealed that there was no statistically significantly change in the proportion of diagnostic mammograms performed after transition.
+
+
+CONCLUSIONS
+Increases in throughput volumes were observed only in some sites, suggesting unmeasured site-specific factors may have limited the potential for improvement. Interrupted time series methods are an appropriate and meaningful approach for evaluating technology and procedure changes in diagnostic imaging.

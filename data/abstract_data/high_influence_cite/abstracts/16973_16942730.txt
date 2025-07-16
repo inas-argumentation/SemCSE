@@ -1,0 +1,2 @@
+Maximum Likelihood Detection of Symbolic Dynamics in Communication Systems with Chaos Shift Keying
+Thepaperdescribestheapplicationof the Viterbi algorithm in the implmentationof a maximum likelihood receiverin a chaoscommunication scheme. The Viterbi decoderis constructedbased on a symbolicstate representationof the transmitter’s chaosgenerator. The presentedsimulationresultsshowthat theclassicalBinary PhaseShift Keying (BPSK)modulationschemecan be slightly outperformedthisway.

@@ -1,0 +1,2 @@
+A novel modular adder for one thousand bits and more using fast carry chains of modern FPGAs
+In this paper a novel, low-latency family of high-radix Parallel Prefix Network adders and modular adders has been proposed. This family efficiently takes advantage of fast carry chains of modern FPGAs. The implementation results reveal that these adders have great potential for efficient implementation of modular addition with the long integers used in various public key cryptography schemes.

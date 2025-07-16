@@ -1,0 +1,2 @@
+Scheduling Algorithms
+Besides scheduling problems for single and parallel machines and shop scheduling problems, this book covers advanced models involving due dates, sequence dependent changeover times and batching. Discussion also extends to multiprocessor task scheduling and problems with multi purpose machines. Among the methods used to solve these problems are linear programming, dynamic programming, branch and bound algorithms, and local search heuristics. The text goes on to summarize complexity results for different classes of deterministic scheduling problems.

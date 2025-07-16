@@ -1,0 +1,2 @@
+Reconstruction of sculpture from uncalibrated image profiles
+Profiles of a sculpture provide rich information about its geometry, and can be used for model reconstruction under known camera motion. By exploiting correspondences induced by epipolar tangents on the profiles, a successful solution to motion estimation has been developed for the case of circular motion. Arbitrary general views can then be incorporated to refine the model built from circular motion.

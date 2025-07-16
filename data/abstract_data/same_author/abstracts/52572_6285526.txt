@@ -1,0 +1,2 @@
+A configuration management system supporting component-based software development
+Component-based software development has been viewed as an emerging paradigm of software development. This paper analyzes the requirements of configuration management in component-based development process. Based on the analysis, a prototype configuration management system is proposed to meet the requirements. An example of using the system is also given.

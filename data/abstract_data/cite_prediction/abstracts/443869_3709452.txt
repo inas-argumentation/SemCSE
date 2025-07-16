@@ -1,0 +1,2 @@
+An Overview of Robust Subspace Recovery
+This paper will serve as an introduction to the body of work on robust subspace recovery. Robust subspace recovery involves finding an underlying low-dimensional subspace in a data set that is possibly corrupted with outliers. While this problem is easy to state, it has been difficult to develop optimal algorithms due to its underlying nonconvexity. This work emphasizes advantages and disadvantages of proposed approaches and unsolved problems in the area.

@@ -1,0 +1,2 @@
+Typing Aberrance in Signal Transduction
+We have developed a calculus, called Ipi, for describing the aberrance in biological models. Our approach extends the traditional pi calculus to handle aberrant process in the signal transduction. In this paper we propose a typing system that replaces the tag system of Ipi calculus. It is shown that the typing system is equal to the tag system in terms of the expressive power.

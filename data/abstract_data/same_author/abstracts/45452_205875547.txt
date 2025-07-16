@@ -1,0 +1,2 @@
+The hamiltonicity of bipartite graphs involving neighborhood unions
+Let G = (X,Y) be a 2-connected balanced bipartite graph with |X| = |Y| = n. In this paper, we prove that if |N(x1) ∪ N(x2)| + |N(y1) ∪ N(y2)| ≥ n+2 for any {x1, x2} ⊆ X and {y1, y2} ⊆ Y, then G is hamiltonian except when G is a special graph on 8 or on 12 vertices.

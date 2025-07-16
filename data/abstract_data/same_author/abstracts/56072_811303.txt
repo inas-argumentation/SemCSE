@@ -1,0 +1,2 @@
+An Efficient Permutation-Based Parallel Range-Join Algorithm on N-Dimensional Torus Computers
+This paper proposes a parallel algorithm to compute the range-join of two relations on N-dimensional torus computers. The algorithm efficiently permutes all subsets of one relation to each processor in turn, where they are joined with the subset of the other relation at that processor using a local range-join algorithm. The analysis shows that the torus algorithm is more efficient than a previous algorithm for N-dimensional mesh computers.

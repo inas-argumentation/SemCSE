@@ -1,0 +1,2 @@
+The waiting time distribution for a TDMA model with a finite buffer
+Detailed analytic formulas for the density and probability distribution of the waiting time in a TDMA model with a finite buffer is obtained. On successive intervals of length equal to the duration of a slot, the density is expressed as (infinite) linear combinations of beta densities with positive coefficients. A recursive scheme, obtained by a matrix-analytic derivation, allows for the highly efficient computations of the coefficient sequences.

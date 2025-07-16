@@ -1,0 +1,2 @@
+Optimizing Advisor Network Size in a Personalized Trust-Modelling Framework for Multi-agent Systems
+Zhang [1] has recently proposed a novel trust-based framework for systems including electronic commerce This system relies on a model of the trustworthiness of advisors (other buyers offering advice to the current buyer) which incorporates estimates of each advisor's private and public reputations Users create a social network of trusted advisors, and sellers will offer better rewards to satisfy trusted advisors and thus build their own reputations.

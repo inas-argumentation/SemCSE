@@ -1,0 +1,2 @@
+Thermal operators in Ising percolation
+We discuss a new cluster representation for the internal energy and the specific heat of the d -dimensional Ising model, obtained by studying the percolation mapping of an Ising model with an arbitrary set of antiferromagnetic links. Such a representation relates the thermal operators to the topological properties of the Fortuin-Kasteleyn (FK) clusters of Ising percolation and is a powerful tool to get new exact relations on the topological structure of FK clusters of the Ising model defined on an arbitrary graph.

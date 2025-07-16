@@ -1,0 +1,19 @@
+STANDARDIZED ASCE PENMAN-MONTEITH: IMPACT OF SUM-OF-HOURLY VS. 24-HOUR TIMESTEP COMPUTATIONS AT REFERENCE WEATHER STATION SITES
+The standardized ASCE Penman-Monteith (ASCE-PM) model was used to estimate grass-reference evapotranspiration 
+(ETo) over a range of climates at seven locations based on hourly and 24 h weather data. Hourly ETo computations 
+were summed over 24 h periods and reported as sum-of-hourly (SOH). The SOH ASCE-PM ETo values (ETo,h,ASCE) were 
+compared with the 24 h timestep ASCE-PM ETo values (ETo,d) and SOH ETo values using the FAO Paper 56 Penman-Monteith 
+(FAO56-PM) method (ETo,h,FAO). The ETo,h,ASCE values were used as the basis for comparison. The ETo,d estimated higher 
+than ETo,h,ASCE at all locations except one, and agreement between the computational timesteps was best in humid regions. 
+The greatest differences between ETo,d and ETo,h,ASCE were in locations where strong, dry, hot winds cause advective increases 
+in ETo. Three locations showed considerable signs of advection. Some of the differences between the timesteps was attributed 
+to uncertainties in predicting soil heat flux and to the difficulty of ETo,d to effectively account for abrupt diurnal changes in 
+wind speed, air temperature, and vapor pressure deficit. The ETo,h,FAO values correlated well with ETo,h,ASCE values (r2 > 
+0.997), but estimated lower than ETo,h,ASCE at all locations by 5% to 8%. This was due to the impact of higher surface 
+resistance during daytime periods. Summing the ETo values over a weekly, monthly, or annual basis generally reduced the 
+differences between ETo,d and ETo,h,ASCE. The differences suggest that using ETo,d rather than ETo,h,ASCE would result in 
+underestimation or overestimation of ETo. Summing the ETo,d values over multiple days and longer periods for peak ETo 
+months resulted in inconsistent differences between the two timesteps. The results suggest a potential improvement in accuracy 
+when using the standardized ASCE-PM procedure applied hourly rather than daily. The hourly application helps to account 
+for abrupt changes in atmospheric conditions on ETo estimation in advective and other environments when hourly climate 
+data are available.

@@ -1,0 +1,2 @@
+1-Bit unit-cell for transmitarray applications in Ka-band
+We report here the design and performance of an active unit-cell for transmitarray applications in Ka-band. With the proposed structure based on two PIN diodes, the phase of the transmitted wave can be selected between 0° and 180° (i.e. 1 bit of phase quantization) states. The numerical results show a minimum insertion loss of 0.9 dB and 9-10% 2-dB transmission bandwidth. The proposed design can be used as a building block of reconfigurable transmit-arrays with electronic beam-steering and beam-forming capabilities.

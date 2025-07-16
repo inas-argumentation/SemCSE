@@ -1,0 +1,2 @@
+Simple generic ways to estimate radar performance and tolerable interference levels
+A generic way of estimating the radar cross section of radar targets is introduced, which can be used to make simple estimates of radar performance. This approach is complemented by simple ways of approximating the detection performance of a well designed radar and estimates of the resolution to which an operator can detect changes in the performance of a radar.

@@ -1,0 +1,4 @@
+A comparative benchmark of large objects in relational databases
+Originally Binary Large Objects (BLOBs) in databases were conceived as a means to capture any large data (whatever large meant at the time of writing) which, for whatever reason, cannot or should not be modeled relationally. Today we find images, movies, XML, formatted documents, and many more data types stored in database BLOBs. A particular challenge obviously is moving such large units of data as fast as possible, hence performance benchmarks are of interest.
+ However, while extensive evaluations have been undertaken for a variety of SQL workloads, BLOBs have not been the target of thorough benchmarking up to now. TPC and SPC-2 standards do not address BLOB benchmarking either.
+ We present a comparative BLOB benchmark of the leading commercial and open-source systems available under Unix/Linux. Commercial DBMSs are anonymized, open-source DBMSs benchmarked are PostgreSQL and MySQL.

@@ -1,0 +1,11 @@
+Mining ChIP-chip data for transcription factor and cofactor binding sites
+MOTIVATION
+Identification of single motifs and motif pairs that can be used to predict transcription factor localization in ChIP-chip data, and gene expression in tissue-specific microarray data.
+
+
+RESULTS
+We describe methodology to identify de novo individual and interacting pairs of binding site motifs from ChIP-chip data, using an algorithm that integrates localization data directly into the motif discovery process. We combine matrix-enumeration based motif discovery with multivariate regression to evaluate candidate motifs and identify motif interactions. When applied to the HNF localization data in liver and pancreatic islets, our methods produce motifs that are either novel or improved known motifs. All motif pairs identified to predict localization are further evaluated according to how well they predict expression in liver and islets and according to how conserved are the relative positions of their occurrences. We find that interaction models of HNF1 and CDP motifs provide excellent prediction of both HNF1 localization and gene expression in liver. Our results demonstrate that ChIP-chip data can be used to identify interacting binding site motifs.
+
+
+AVAILABILITY
+Motif discovery programs and analysis tools are available on request from the authors.

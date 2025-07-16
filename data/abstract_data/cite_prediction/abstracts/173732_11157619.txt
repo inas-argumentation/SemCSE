@@ -1,0 +1,2 @@
+A Tool for Automated iptables Firewall Analysis
+We describe ITVal, a tool that enables the efficient analysis of an iptables-based firewall. The underlying basis of ITVal is a library for the efficient manipulation of multi-way decision diagrams. We represent iptables rule sets and queries about the firewall defined by those rule sets as multi-way decision diagrams, and determine answers for the queries by manipulating the diagrams. In addition to discussing the design and implementation of ITVal, we describe how it can be used to detect and correct common firewall errors.

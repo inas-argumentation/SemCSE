@@ -1,0 +1,2 @@
+Pyramidal algorithms for iconic indexing
+We introduce algorithms for symbolic picture matching on a pyramidal architecture. The algorithms are written in a Pascal-like language extended with high level pyramidal control structures. The time complexicty has been calculated by considering no overlapping among the execution phase of the host computer and those of the single layers of the pyramid. We can also use the pyramidal architecture to generate the iconic index of a symbolic picture

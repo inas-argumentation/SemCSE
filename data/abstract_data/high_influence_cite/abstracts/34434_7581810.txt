@@ -1,0 +1,52 @@
+Stage‐Structured Infection Transmission and a Spatial Epidemic: A Model for Lyme Disease
+A greater understanding of the rate at which emerging disease advances spatially has both ecological and applied significance. Analyzing the spread of vector‐borne disease can be relatively complex when the vector's acquisition of a pathogen and subsequent transmission to a host occur in different life stages. A contemporary example is Lyme disease. A long‐lived tick vector acquires infection during the larval blood meal and transmits it as a nymph. We present a reaction‐diffusion model for the ecological dynamics governing the velocity of the current epidemic's spread. We find that the equilibrium density of infectious tick nymphs (hence the risk of human disease) can depend on density‐independent survival interacting with biotic effects on the tick’s stage structure. The local risk of infection reaches a maximum at an intermediate level of adult tick mortality and at an intermediate rate of juvenile tick attacks on mammalian hosts. If the juvenile tick attack rate is low, an increase generates both a greater density of infectious nymphs and an increased spatial velocity. However, if the juvenile attack rate is relatively high, nymph density may decline while the epidemic’s velocity still increases. Velocities of simulated two‐dimensional epidemics correlate with the model pathogen’s basic reproductive number (
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$$R_{0}$$
+\end{document} ), but calculating 
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$$R_{0}$$
+\end{document} involves parameters of both host infection dynamics and the vector’s stage‐structured dynamics.

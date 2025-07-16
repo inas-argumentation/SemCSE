@@ -1,0 +1,7 @@
+HTHquery: a method for detecting DNA-binding proteins with a helix-turn-helix structural motif
+SUMMARY
+HTHquery is a web-based service to determine if a protein structure has a helix-turn-helix structural motif which could bind to DNA. It is based on a similarity with a set of structural templates, the accessibility of a putative structural motif and a positive electrostatic potential in the neighbourhood of the putative motif. A set of scores are computed, based on each template, using a linear predictor. From the training set used, the predictor has a true positive rate of 83.5% and a false positive rate of 0.8%. The emphasis for the website is on providing a straightforward interface which can be easily used by a bench-based scientist.
+
+
+AVAILABILITY
+HTHquery is implemented using a set of Perl scripts and C program and can be accessed freely on the website http://www.ebi.ac.uk/thornton-srv/databases/HTHquery.

@@ -1,0 +1,2 @@
+A variable depth search branching
+We introduce a variable depth search branching, an extension to the local branching for solving Mixed-Integer Programs. Two strategies are assessed, a best improvement strategy and a first improvement strategy. The extensive computational assessment evidences a significant improvement over the local branching for both strategies.

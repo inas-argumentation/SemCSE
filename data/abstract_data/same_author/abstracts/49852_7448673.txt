@@ -1,0 +1,7 @@
+Simple rules underlying gene expression profiles of more than six subtypes of acute lymphoblastic leukemia (ALL) patients
+MOTIVATIONS AND RESULTS
+For classifying gene expression profiles or other types of medical data, simple rules are preferable to non-linear distance or kernel functions. This is because rules may help us understand more about the application in addition to performing an accurate classification. In this paper, we discover novel rules that describe the gene expression profiles of more than six subtypes of acute lymphoblastic leukemia (ALL) patients. We also introduce a new classifier, named PCL, to make effective use of the rules. PCL is accurate and can handle multiple parallel classifications. We evaluate this method by classifying 327 heterogeneous ALL samples. Our test error rate is competitive to that of support vector machines, and it is 71% better than C4.5, 50% better than Naive Bayes, and 43% better than k-nearest neighbour. Experimental results on another independent data sets are also presented to show the strength of our method.
+
+
+AVAILABILITY
+Under http://sdmc.lit.org.sg/GEDatasets/, click on Supplementary Information.

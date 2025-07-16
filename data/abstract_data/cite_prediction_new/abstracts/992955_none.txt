@@ -1,0 +1,16 @@
+Joint Longitudinal and Survival-cure Modelswith Constrained Parameters in TumourXenograft Experiments
+In tumour xenograft experiments, treatment regimens are ad-
+ministered and the tumour volume of each individual is measured repeatedly
+over time. Survival data are recorded due to the death of some individuals
+during the observation time period. Also, cure data are observed due to a
+portion of individuals who are completely cured in the experiments. When
+modelling these data, certain constraints have to be imposed on the param-
+eters in the models to account for the intrinsic growth of the tumour in the
+absence of treatment. Also, the likely inherent association of longitudinal
+and survival-cure data has to be taken into account in order to obtain unbi-
+ased estimators of parameters. In this paper, we propose such models for the
+joint modelling of longitudinal and survival-cure data arising in xenograft experiments. Estimators of parameters in the joint models are obtained us-
+ing a Markov chain Monte Carlo approach. Real data analysis of a xenograft
+experiment is carried out and simulation studies are also conducted, show-
+ing that the proposed joint modelling approach outperforms the separate
+modelling methods in the sense of mean squared errors.

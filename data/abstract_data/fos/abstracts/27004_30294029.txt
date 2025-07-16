@@ -1,0 +1,15 @@
+TH-C-BRD-11: Robustness of Pencil Beam Scanning Proton Therapy for Pelvic Cancer Under Anatomical Changes.
+PURPOSE
+Pencil beam scanning (PBS) proton therapy provides excellent dosimetric benefits in pelvic cancer treatment, yet day-to-day anatomical variations in pelvic region tend to cause range uncertainties. This study evaluates the dosimetric robustness under anatomical changes for three PBS intensity-modulated proton therapy (IMPT), IMPT using worstcase robust optimization (thereafter 'Robust IMPT'), and single-field uniform dose (SFUD), in cervical cancer treatment.
+
+
+METHODS
+IMPT, Robust IMPT, and SFUD plans using the same beam directions and the same prescription (Rx) were generated on computed tomography (CT) images acquired on the simulation day. The dose from each plan was then recomputed on CT images acquired in subsequent two to five weeks using the same protocol. The weekly CTs were registered to the planning CT based on bony anatomy. Target coverage was considered adequate on each weekly CT if dose to 99% of the internal target volume (D_ITV99%) reached at least 95% of the Rx dose. Statistical analysis was then performed on the 21 weekly CT images available for the 7 enrolled patients.
+
+
+RESULTS
+Statistically, IMPT was unable to maintain target coverage (mean D_ITV99% = 90.5% Rx, p = 0.004), and SFUD was able to maintain target coverage (mean D_ITV99% = 98.0% Rx, p = 0.0064), in the weeks following simulation. Robust IMPT was able to improve the robustness of IMPT significantly (p < 0.0001), though its maintenance of target coverage was not statistically significant by the 95% Rx criteria (mean D_ITV99% = 96.0%, p = 0.1677).
+
+
+CONCLUSION
+During the multi-week treatment course with anatomical variations, SFUD is robust in terms of maintaining target coverage while IMPT is not. The worst-case optimized Robust IMPT, assuming ±3.5% range uncertainties, improves the robustness of IMPT under anatomical changes significantly, even though it was not designed to account for anatomical changes by mechanism.

@@ -1,0 +1,2 @@
+Intelligent trading using support vector regression and multilayer perceptrons optimized with genetic algorithms
+This paper proposes an intelligent trading system using support vector regression optimized by genetic algorithms (SVR-GA) and multilayer perceptron optimized with GA (MLP-GA). Experimental results show that both approaches outperform conventional trading systems without prediction and a recent fuzzy trading system in terms of final equity and maximum drawdown for Hong Kong Hang Seng stock index.

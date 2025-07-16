@@ -1,0 +1,2 @@
+Feasibility of IDDQ Tests for Shorts in Deep Submicron ICs
+Quiescent supply current(IDDQ) in deep submicron ICs is derived by circuit simulation and feasibility of IDDQ tests is examined for short defects in ICs fabricated with 0.18㎛ CMOS process. The results show that IDDQ of each gate depends on input logic values and that shorts can be detected by IDDQ testing if some process variations are small.

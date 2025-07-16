@@ -1,0 +1,19 @@
+InterEvScore: a novel coarse-grained interface scoring function using a multi-body statistical potential coupled to evolution
+MOTIVATION
+Structural prediction of protein interactions currently remains a challenging but fundamental goal. In particular, progress in scoring functions is critical for the efficient discrimination of near-native interfaces among large sets of decoys. Many functions have been developed using knowledge-based potentials, but few make use of multi-body interactions or evolutionary information, although multi-residue interactions are crucial for protein-protein binding and protein interfaces undergo significant selection pressure to maintain their interactions.
+
+
+RESULTS
+This article presents InterEvScore, a novel scoring function using a coarse-grained statistical potential including two- and three-body interactions, which provides each residue with the opportunity to contribute in its most favorable local structural environment. Combination of this potential with evolutionary information considerably improves scoring results on the 54 test cases from the widely used protein docking benchmark for which evolutionary information can be collected. We analyze how our way to include evolutionary information gradually increases the discriminative power of InterEvScore. Comparison with several previously published scoring functions (ZDOCK, ZRANK and SPIDER) shows the significant progress brought by InterEvScore.
+
+
+AVAILABILITY
+http://biodev.cea.fr/interevol/interevscore
+
+
+CONTACT
+guerois@cea.fr
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary data are available at Bioinformatics online.

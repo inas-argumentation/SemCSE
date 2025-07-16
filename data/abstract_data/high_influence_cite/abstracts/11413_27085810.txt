@@ -1,0 +1,2 @@
+Flip-distance between α-orientations of graphs embedded on plane and sphere ∗
+Felsner introduced a cycle reversal, namely the ‘flip’ reversal, for α-orientations (i.e., each vertex admits a prescribed out-degree) of a graph G embedded on the plane and further proved that the set of all the α-orientations of G carries a distributive lattice with respect to the flip reversals. In this paper, we give an explicit formula for the minimum number of flips needed to transform one α-orientation into another for graphs embedded on the plane or sphere, respectively.

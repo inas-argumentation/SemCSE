@@ -1,0 +1,6 @@
+A concentration function estimate and intersective sets from matrices
+We give several sufficient conditions on an infinite integer matrix (dij) for the set R = {Σij∈α, i>jdij: α ⊂ ℕ, |α| < ∞} to be a density intersective set, including the cases dnj = jn(1 + O(1/n1+ε)) and 
+$0 < d_{nj} = o(\sqrt {n/\log n} )$
+. For the latter, a concentration function estimate that is of independent interest is applied to sums of sequences of 2-valued random variables whose means may grow as 
+$\sqrt {n/\log n} $
+.

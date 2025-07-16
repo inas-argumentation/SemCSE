@@ -1,0 +1,2 @@
+A new Jacobi-like method for joint diagonalization of arbitrary non-defective matrices
+This paper addresses the problem of joint diagonalization of a set of matrices. A new Jacobi-Like method that has the advantages of computational efficiency and of generality is presented. The proposed algorithm brings the general matrices into normal ones and performs a joint diagonalization by a combination of unitary and shears (non-unitary) transformations. It is based on the iterative minimization of an appropriate cost function using generalized Jacobi rotation matrices.

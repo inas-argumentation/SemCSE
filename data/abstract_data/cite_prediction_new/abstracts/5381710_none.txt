@@ -1,0 +1,2 @@
+New digital closed-loop processor for a fiber-optic gyroscope
+An all-digital closed-loop (ADCL) signal processor is developed for optically open-loop fiber-optic gyroscope. The processor is designed to provide high performance of more than 30 bits of phase resolution over 2/spl pi/ and unlimited measurement range. The random walk of the processor was measured to be about 0.57 /spl mu/rad/Hz/sup 1/2/.

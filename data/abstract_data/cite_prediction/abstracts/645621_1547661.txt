@@ -1,0 +1,2 @@
+Soil Property Prediction: An Extreme Learning Machine Approach
+In this paper, we propose a method for predicting functional properties of soil samples from a number of measurable spatial and spectral features of those samples. Our method is based on Savitzky-Golay filter for preprocessing and a relatively recent evolution of single hiddenlayer feed-forward network (SLFN) learning technique called extreme learning machine (ELM) for prediction. We tested our method with Africa Soil Property Prediction dataset, and observed that the results were promising.

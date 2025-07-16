@@ -1,0 +1,2 @@
+Design and control of antagonistic robot joint with Twisted String Actuators
+In this paper, antagonistic robot joint which uses the Twisted String Actuator is developed. One axis robot joint is antagonistically driven by two Twisted String Actuators. This paper introduces the robot joint design and the performance of one axis robot. The position control is performed for antagonistic robot joint. The non-linearity of wire twist model causes the internal locking problem. The proposed position control algorithm and experiment results are presented.

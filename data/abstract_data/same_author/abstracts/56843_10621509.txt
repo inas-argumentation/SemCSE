@@ -1,0 +1,2 @@
+A Study of Chinese Web Characteristics and Their Implications on Web Search
+We postulate that, due to linguistics and cultures, there are differences in the Web structure and the content of the Web documents of various languages. In this work, we design experiments to study the characteristics of the Chinese Web, and compare them to that of the English Web. We also examine whether these differences in Web characteristics, if identified, have an impact on the effectiveness of existing Web searching and mining algorithms

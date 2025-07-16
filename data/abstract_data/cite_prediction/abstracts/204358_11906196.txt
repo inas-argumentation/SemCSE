@@ -1,0 +1,2 @@
+Woda 2003 Icse Workshop on Dynamic Analysis Table of Contents Program Analysis: a Hierarchy
+Program analysis tools are based on four reasoning techniques: (1) deduction from code to concrete runs, (2) observation of concrete runs, (3) induction from observations into abstractions, and (4) experimentation to find causes for specific effects. These techniques form a hierarchy, where each technique can make use of lower levels, and where each technique induces capabilities and limits of the associated tools.

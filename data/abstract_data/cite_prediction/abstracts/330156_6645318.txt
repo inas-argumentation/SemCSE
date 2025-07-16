@@ -1,0 +1,2 @@
+Feature Selection and Composition Using PyOracle
+A system is described which uses the Audio Oracle algorithm for music analysis and machine improvisation. Some improvements on previous Factor Oracle-based systems are presented, including automatic model calibration based on measures from Music Information Dynamics, facilities for compositional structuring and automation, and an audio-based query mode which uses the input signal to influence the output of the generative

@@ -1,0 +1,15 @@
+Support vector machine approach for protein subcellular localization prediction
+MOTIVATION
+Subcellular localization is a key functional characteristic of proteins. A fully automatic and reliable prediction system for protein subcellular localization is needed, especially for the analysis of large-scale genome sequences.
+
+
+RESULTS
+In this paper, Support Vector Machine has been introduced to predict the subcellular localization of proteins from their amino acid compositions. The total prediction accuracies reach 91.4% for three subcellular locations in prokaryotic organisms and 79.4% for four locations in eukaryotic organisms. Predictions by our approach are robust to errors in the protein N-terminal sequences. This new approach provides superior prediction performance compared with existing algorithms based on amino acid composition and can be a complementary method to other existing methods based on sorting signals.
+
+
+AVAILABILITY
+A web server implementing the prediction method is available at http://www.bioinfo.tsinghua.edu.cn/SubLoc/.
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary material is available at http://www.bioinfo.tsinghua.edu.cn/SubLoc/.

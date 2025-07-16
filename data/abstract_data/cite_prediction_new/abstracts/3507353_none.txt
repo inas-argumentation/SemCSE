@@ -1,0 +1,2 @@
+A novel modulation strategy for integrating digital sub-channels within a PAL/PAL plus signal
+This paper presents an original methodology which facilitates the modulation of digital signals within the active video portion of a conventional analogue PAL/PALplus television signal. The resultant crosstalk distortion errors which ensue are analysed and a model postulated that enables optimization of a number of important system parameters. It is also shown that applying this model enables a balancing of subjective quality with data-rate.

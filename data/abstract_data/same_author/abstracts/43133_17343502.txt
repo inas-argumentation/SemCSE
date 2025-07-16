@@ -1,0 +1,2 @@
+IAMC architecture and prototyping: a progress report
+Internet Accessible Mathematical Computation (IAMC) is a distributed framework to supply mathematical computing powers over the Internet. Presented are conceptual and experimental work on the IAMC architecture, a client prototype (Dragonfly), client GUI, a server prototype (Starfish), the Mathematical Computation Protocol (MCP), mathematical data encoding, and the external compute engine interface.

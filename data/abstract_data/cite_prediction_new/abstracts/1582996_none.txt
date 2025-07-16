@@ -1,0 +1,2 @@
+Lowpass biquad parameters tuning in log-domain filtering
+This paper proposes an implementation of a second order lowpass filter using log-domain building blocks. These blocks have the ELIN structure derived from the Tow-Thomas biquad using the LIN-ELIN transformation. The designed filter has easily tunable parameters by varying bias currents from inside the building blocks. In order to evaluate this implementation, the frequency characteristics, the group delay and the unit step response for different filter performances are plotted and compared.

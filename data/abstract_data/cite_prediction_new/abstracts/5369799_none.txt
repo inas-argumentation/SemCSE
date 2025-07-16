@@ -1,0 +1,2 @@
+Computation schemes for splitting fields of polynomials
+In this article, we present new results about the computation of a general shape of a triangular basis generating the splitting ideal of an irreducible polynomial given with the permutation representation of its Galois group G. We provide some theoretical results and a new general algorithm based on the study of the non redundant bases of permutation groups. These new results deeply increase the efficiency of the computation of the splitting field of a polynomial.

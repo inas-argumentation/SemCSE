@@ -1,0 +1,2 @@
+Conservative Algorithms for Parallel and Sequential Integer Sorting
+We present a conservative CRCW parallel algorithm for integer sorting. This algorithm sorts n integers from {0, 1, ..., m−1} in time O(n log log min(m,n)/p + log n) using p processors. The simulation of our parallel algorithm on the sequential machine yields a sequential algorithm for integer sorting which sorts n integers from {0, 1, ..., m−1} in time O(n min(log log n, log log m/log n)).

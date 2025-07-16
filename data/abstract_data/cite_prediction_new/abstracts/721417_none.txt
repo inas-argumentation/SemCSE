@@ -1,0 +1,2 @@
+Discretization of the viscous dissipation term with the MAC scheme
+We propose a discretization for the MAC scheme of the viscous dissipation term τ(u) : Δu (where τ(u) stands for the shear stress tensor associated to the velocity field u), which is suitable to obtain an unconditionally stable scheme for the compressible Navier-Stokes equations. It is also shown, in some model cases, to ensure the strong convergence in L1 of the dissipation term.

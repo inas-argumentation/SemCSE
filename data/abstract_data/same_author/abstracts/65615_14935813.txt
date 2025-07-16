@@ -1,0 +1,6 @@
+Boundary element discretization
+of Poincar\'e--Steklov operators
+Summary.
+The construction of a discretization of Poincar\'e--Steklov operators with the
+boundary element method is given providing the same mapping properties as the
+finite element discretization of these operators.

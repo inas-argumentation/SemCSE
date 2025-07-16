@@ -1,0 +1,2 @@
+Research on Fingerprint Image Enhancement Algorithm Based on Improved Gabor Filter
+Improves the Gabor filter, the improved algorithm uses partial characteristic associate with it's four neighbors' partial connection characteristic of fingerprint image and also uses fixed frequency to replace complex frequency computation. Experiment indicates that the improved Gabor filter algorithm not only strengthens the fingerprint image information, but also accelerates the processing speed.

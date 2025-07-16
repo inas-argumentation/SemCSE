@@ -1,0 +1,2 @@
+Resource description framework (RDF) schema specification
+The abbreviation RDF stands for the "Resource Description Framework" in the specification with classes and properties that originate with RDF Schema. RDFa (Resource Description Framework in Attributes) is a technique that allows just that: it The complete specification of RDFa, with further examples, can be found in the RDFa 1.1 Core You Said Something about RDF? Note that the schema.org and the Dublin Core terms are intertwined for a specific blog, and it.

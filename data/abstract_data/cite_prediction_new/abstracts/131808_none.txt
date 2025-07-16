@@ -1,0 +1,2 @@
+Sources of uncertainties in power line communication system modeling
+The aim of this paper is to develop a theoretical model of medium and high voltage cables used for the purpose of power line communication from the point of view of uncertainties. The equivalent circuit of power line communication cable is described along with its uncertainties. We have considered uncertainties since their propagation causes errors in modeling power line communication and in measuring the signal sent through the power line.

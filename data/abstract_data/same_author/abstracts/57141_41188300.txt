@@ -1,0 +1,6 @@
+A Strengthened Algorithm for Temporal Reasoning about Plans
+Allen's interval algebra has been shown to be useful for representing plans. We present a strengthened algorithm for temporal reasoning about plans, which improves on straightforward applications of the existing reasoning algorithms for the algebra. This is made possible by viewing plans as both temporal networks and hierarchical structures. The temporal network view allows us to check for inconsistencies as well as propagate the effects of new temporal constraints, whereas the hierarchical view helps us to get the strengthened results by taking into account the dependency relationships between actions. 
+ 
+ 
+ 
+We further apply our algorithm to the process of plan recognition through the analysis of natural language input. We show that such an application has two useful effects: the temporal relations derived from the natural language input can be used as constraints to reduce the number of candidate plans, and the derived constraints can be made more specific by combining them with the prestored constraints in the plans being recognized.

@@ -1,0 +1,15 @@
+Molecular modeling of mu opioid receptor and its interaction with ohmefentanyl.
+AIM
+To build up the structure model of mu opioid receptor, then combined with the receptor model, to investigate the action mechanism of ohmefentanyl on the receptor.
+
+
+METHODS
+Using the three-dimensional structure of bacteriorhodopsin as a template, we constructed mu opioid receptor model on computer. Ohmefentanyl was then docked into the supposed receptor binding sites.
+
+
+RESULTS
+A good ligand-receptor interaction model was achieved. The possible binding sites were found to be Asp147 and His319. The protonated N atom of ohmefentanyl form potent electrostatic and hydrogen-bonding interactions with residue Asp147 of the receptor, the O atom of the carbonyl group form weak electrostatic and hydrogen-bonding interactions with residue His319, and the two phenyl groups form pi-pi interactions with some aryl residues of the receptor around ligand.
+
+
+CONCLUSION
+The ligand-receptor interaction model should be helpful for rational design of novel analgesic.

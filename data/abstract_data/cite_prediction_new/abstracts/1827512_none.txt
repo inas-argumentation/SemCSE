@@ -1,0 +1,2 @@
+Simulation-Based Verification of Cardiac Pacemakers With Guaranteed Coverage
+The testing of medical devices poses numerous challenges due to continuous interactions between the physical processes and the cyber components. This paper highlights the main challenges for the design and verification of pacemakers and describes a framework based on discrepancy functions for investigating and validating the time-bounded safety properties as well as determining the safe ranges for the system parameters.

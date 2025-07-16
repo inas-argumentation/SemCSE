@@ -1,0 +1,2 @@
+XBR-tree: An New Spatial Index Structure base on Quad-tree
+One of the main research issues of great interest is the efficient tracking of mobile objects that enables the effective answering of spatiotemporal queries. In this paper, we consider the organization of a moving object database by quadtree based structures. In this context, we adapt an indexing method, called XBR trees, to support range queries about the history of trajectories of moving objects.

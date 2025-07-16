@@ -1,0 +1,2 @@
+Detecting Structural Similarities between XML Documents
+In this paper we propose a technique for detecting the similarity in the structure of XML documents. The technique is based on the idea of representing the structure of an XML document as a time series in which each occurrence of a tag corresponds to a given impulse. By analyzing the frequencies of the corresponding Fourier transform, we can hence state the degree of similarity between documents. The efficiency and effectiveness of this approach are compelling when compared with traditional ones.

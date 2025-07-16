@@ -1,0 +1,2 @@
+Research on Job Scheduling Algorithm
+Job management is an important issue of the operating systems,meanwhile,it is also important issue of many practical applications.Discusses two algorithms for job management in operating systems,that is FCFS algorithm and short job first algorithm.Used as the evaluation criteria,based on the average turnaround time.We prove that short job first algorithm is better than FCFS algorithm.

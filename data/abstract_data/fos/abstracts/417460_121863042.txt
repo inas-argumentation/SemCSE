@@ -1,0 +1,2 @@
+Nonparametric Estimation for a Scale-Change with Censored Observations
+Nonparametric point and interval estimators of the ratio of two scale parameters are given for arbitrarily right-censored data based on the idea of Hodges and Lehmann (1963). These estimators are defined in terms of rank test statistics for testing the equality of two survival distributions. The asymptotic properties and efficiencies of estimators corresponding to the tests studied by Gill (1980) are investigated.

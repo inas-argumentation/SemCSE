@@ -1,0 +1,2 @@
+Automatic Malware Detection Using Deep Learning Based on Static Analysis
+Malware detection is an important challenge in the field of information security. The paper proposes a novel method using deep learning based on static analysis. Deep learning has stronger nonlinear expression ability than shallow learning, so it has received much attention from scholar and manufacturers. We use static analysis to extract the malware features are mapped into the input of deep learning. The experiments show that the method is suitable for detecting malware.

@@ -1,0 +1,2 @@
+6D Relocalisation for RGBD Cameras Using Synthetic View Regression
+With the advent of real-time dense scene reconstruction from handheld RGBD cameras [1], one key aspect to enable robust operation is the ability to relocalise in a previously mapped environment or after loss of measurement. Tasks such as operating on a workspace, where moving objects and occlusions are likely, require a recovery competence in order to be useful. For RGBD cameras, this must also include the ability to relocalise in areas with reduced visual texture.

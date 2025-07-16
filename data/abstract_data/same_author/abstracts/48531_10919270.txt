@@ -1,0 +1,2 @@
+Source Behavior for ATM ABR Traffic Management: An Explanation
+The available bit rate (ABR) service has been developed to support data applications over asynchronous transfer mode (ATM) networks. The network continuously monitors its traffic and provides feedback to the source end systems. This article explains the rules that the sources have to follow to achieve a fair and efficient allocation of network resources.

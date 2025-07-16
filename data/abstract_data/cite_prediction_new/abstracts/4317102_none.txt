@@ -1,0 +1,2 @@
+Decorrelation of the Topological Charge in Tempered Simulations of Full QCD
+The improvement of simulations of QCD with dynamical Wilson fermions by combining the Hybrid Monte Carlo algorithm with parallel tempering is studied. As an indicator for decorrelation the topological charge is used.

@@ -1,0 +1,2 @@
+Analysis of transformer-based resonator quality factor and bandwidth and the implications to VCOs
+This paper studies how the reflected impedance impacts the quality factor and noise performance of transformer-based resonators. The analysis shows that in oscillators employing transformer-based resonators, the improved noise performance does not primarily come from an increase in Q, but instead from a decrease in the bandwidth of the resonator as compared to that of an equivalent inductor-based resonator.

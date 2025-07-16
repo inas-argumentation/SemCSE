@@ -1,0 +1,2 @@
+Test generation for ground bounce in internal logic circuitry
+Ground bounce in internal circuitry is becoming an important design validation and test issue. In this paper a new circuit model for ground bounce in internal circuitry is proposed. Based on this model an algorithm for generating test patterns that maximize ground bounce in combinational logic is presented. Our algorithm is also applicable to other test problems such as delay testing in the presence of excessive ground bounce.

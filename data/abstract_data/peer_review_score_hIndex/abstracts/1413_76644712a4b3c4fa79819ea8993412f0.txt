@@ -1,0 +1,20 @@
+Learning to navigate by distilling visual information and natural language instructions
+In this work, we focus on the problem of grounding language by training an agent
+to follow a set of natural language instructions and navigate to a target object
+in a 2D grid environment. The agent receives visual information through raw
+pixels and a natural language instruction telling what task needs to be achieved.
+Other than these two sources of information, our model does not have any prior
+information of both the visual and textual modalities and is end-to-end trainable.
+We develop an attention mechanism for multi-modal fusion of visual and textual
+modalities that allows the agent to learn to complete the navigation tasks and also
+achieve language grounding. Our experimental results show that our attention
+mechanism outperforms the existing multi-modal fusion mechanisms proposed in
+order to solve the above mentioned navigation task. We demonstrate through the
+visualization of attention weights that our model learns to correlate attributes of
+the object referred in the instruction with visual representations and also show
+that the learnt textual representations are semantically meaningful as they follow
+vector arithmetic and are also consistent enough to induce translation between instructions
+in different natural languages. We also show that our model generalizes
+effectively to unseen scenarios and exhibit zero-shot generalization capabilities.
+In order to simulate the above described challenges, we introduce a new 2D environment
+for an agent to jointly learn visual and textual modalities

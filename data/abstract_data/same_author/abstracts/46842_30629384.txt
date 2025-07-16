@@ -1,0 +1,2 @@
+Ordering Unsymmetric Matrices into Bordered Block Diagonal Form for Parallel Processing
+Large, sparse, unsymmetric systems of linear equations appear frequently in areas such as chemical engineering. One way of speeding up the solution of these linear systems is to solve them in parallel by reordering the unsymmetric matrix into a bordered block-diagonal (BBD) form. A multilevel ordering algorithm is presented in this paper. Numerical results of the algorithm are given to demonstrate that this algorithm gives better orderings than existing algorithms.

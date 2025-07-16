@@ -1,0 +1,2 @@
+Superfield integrals in high dimensions
+We present an efficient, covariant, graph-based method to integrate superfields over fermionic spaces of high dimensionality. We illustrate this method with the compu- tation of the most general sixteen-dimensional Majorana-Weyl integral in ten dimensions. Our method has applications to the construction of higher-derivative supergravity actions as well as the computation of string and membrane vertex operator correlators.

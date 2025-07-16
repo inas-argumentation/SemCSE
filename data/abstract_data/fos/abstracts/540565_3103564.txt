@@ -1,0 +1,2 @@
+Explicit irreducible representations of the¶Iwahori–Hecke algebra of Type F4
+:A general method for computing irreducible representations of Weyl groups and Iwahori–Hecke algebras was introduced by the first author in [10]. In that paper the representations of the algebras of types An, Bn, Dn and Gn were computed and it is the purpose of this paper to extend these computations to F4. The main goal here is to compute irreducible representations of the Iwahori–Hecke algebra of type F4 by only using information in the character table of the Weyl group.

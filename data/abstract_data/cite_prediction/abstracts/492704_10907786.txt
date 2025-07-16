@@ -1,0 +1,2 @@
+A Comprehensive Survey on Bengali Phoneme Recognition
+ SUST, ICERIE Abstract: Hidden Markov model based various phoneme recognition methods for Bengali language is reviewed. Automatic phoneme recognition for Bengali language using multilayer neural network is reviewed. Usefulness of multilayer neural network over single layer neural network is discussed. Bangla phonetic feature table construction and enhancement for Bengali speech recognition is also discussed. Comparison among these methods is discussed.

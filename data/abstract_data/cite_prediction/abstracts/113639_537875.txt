@@ -1,0 +1,2 @@
+Information Retrieval Features for Personality Traits
+This paper describes the methods employed to solve the Author Profiling task at PAN-2015. The main goal was to test the use of features derived from Information Retrieval to identify the personality traits of the author of a given text. This paper describes the features, the classification algorithms employed, and how the experiments were run. Also, I provide a comparative analysis of my results compared to those of other groups.

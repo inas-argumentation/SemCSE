@@ -1,0 +1,15 @@
+Distributed biomedical terminology development: from experiments to open process.
+OBJECTIVE
+Can social computing efforts materially alter the distributed creation and maintenance of complex biomedical terminologies and ontologies; a review of distributed authoring history and status.
+
+
+BACKGROUND
+Social computing projects, such as Wikipedia, have dramatically altered the perception and reality of large-scale content projects and the labor required to create and maintain them. Health terminologies have become large, complex, interdependent content artifacts of increasing importance to biomedical research and the communities understanding of biology, medicine, and optimal healthcare practices. The question naturally arises as to whether social computing models and distributed authoring platforms can be applied to the voluntary, distributed authoring of high-quality terminologies and ontologies.
+
+
+METHODS
+An historical review of distributed authoring developments.
+
+
+RESULTS
+The trajectory of description logic-driven authoring tools, group process, and web-based platforms suggests that public distributed authoring is likely feasible and practical; however, no compelling example on the order of Wikipedia is yet extant. Nevertheless, several projects, including the Gene Ontology and the new revision of the International Classification of Disease (ICD-11) hold promise.

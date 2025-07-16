@@ -1,0 +1,2 @@
+Continuous time recurrent neural network designed for KWTA operation
+The paper shows rigorously how to build a KWTA selector from a classical neural Hopfield network in continuous time. The analytical relations between parameters result in a step-by-step accurate and flexible procedure to calculate the amplifiers gain, the processing and the resetting thresholds and the bias current.

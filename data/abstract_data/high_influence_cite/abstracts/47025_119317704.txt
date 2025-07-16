@@ -1,0 +1,3 @@
+On Integral Cohomology of Certain Orbifolds
+
+ The CW-complex structure of certain spaces, such as effective orbifolds, can be too complicated for computational purposes. In this paper we develop the concept of $\mathbf{q}$-CW complex structure on an orbifold, to detect torsion in its integral cohomology. The main result can be applied to well-known classes of orbifolds or algebraic varieties having orbifold singularities, such as toric orbifolds, simplicial toric varieties, torus orbifolds, and weighted Grassmannians.

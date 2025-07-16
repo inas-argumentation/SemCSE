@@ -1,0 +1,2 @@
+Design Patterns of Scalable Cluster System Software
+The design pattern of cluster system software has an important influence on scalability of massive cluster system. The paper presents design patterns of scalable cluster system software, including scalable software topologies and optimized communication modes. These design patterns have been widely applied in Dawning series of supercomputers and some results of performance evaluation show their good scalability

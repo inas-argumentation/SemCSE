@@ -1,0 +1,2 @@
+Application of Stochastic Gradient Descent Technique for Method of Moments
+This paper studies the feasibility of solving matrix equations in the method of moment (MoM) based on the stochastic gradient descent (SGD) technique (SGD MoM) We adopted the optimization techniques in machine learning to solve the matrix equations in MoM. Numerical result demonstrate the feasibility of the proposed method, and its accuracy and efficiency, compared with conventional iterative methods like conjugate gradient(CG) generalized minimal residual algorithm (GMRES) and etc.

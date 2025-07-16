@@ -1,0 +1,15 @@
+Loss of DNA mismatch repair: effects on the rate of mutation to drug resistance.
+BACKGROUND
+The loss of the ability of cells to repair mismatches in double-stranded DNA is a common finding in human tumors. This defect results in genomic instability and in increased resistance to several of the drugs used in cancer chemotherapy. The human colon cancer cell line HCT116 is deficient in DNA mismatch repair (MMR) because of a genetic defect in the hMLH1 gene, which is located on chromosome 3. In this study, we investigated whether MMR-deficient HCT116+chr2 cells (i.e., HCT116 cells into which chromosome 2 has been transferred [as a control]) have a higher rate of mutation to resistance to commonly used chemotherapeutic agents (i.e., cisplatin, doxorubicin, paclitaxel [Taxol], and etoposide) than MMR-proficient HCT116+chr3 cells (i.e., HCT116 cells into which chromosome 3 has been transferred to provide a wild-type copy of the hMLH1 gene).
+
+
+METHODS
+Spontaneous mutation rates were calculated from measurements of the mutant fractions of cells before and after their expansion through a known number of generations (also known as the technique of maximum likelihood estimation). Aliquots of 500000 cells were expanded in culture over a period of 2 weeks, and the mutant fractions were determined both before and after expansion of secondary cultures (each also with an initial 500000 cells) in drug concentrations that produced survival fractions of 0.0002%.
+
+
+RESULTS
+Mutation rates in MMR-proficient and MMR-deficient cells did not differ on exposure to cisplatin, doxorubicin, or paclitaxel; however, the relative mutation rate was 2.4-fold higher in MMR-deficient cells exposed to etoposide (P=.002).
+
+
+CONCLUSION
+These results suggest that genes involved in the control of cellular sensitivity to etoposide are targets for mutation when the loss of MMR destabilizes the genome. Tumors containing large fractions of MMR-deficient cells may demonstrate more rapid emergence of clinical resistance to etoposide.

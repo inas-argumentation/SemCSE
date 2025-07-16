@@ -1,0 +1,2 @@
+Compact and Flexible Resolution of CBT Multicast Key-Distribution
+In an open network such as the Internet, multicast security services typically start with group session-key distribution. Considering scalability for group communication among widely-distributed members, we can find a currently-leading approach based on a CBT (Core-Based Tree) routing protocol, where Group Key Distribution Centers (GKDCs) are dynamically constructed during group-member joining process.

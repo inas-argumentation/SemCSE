@@ -1,0 +1,2 @@
+The Complexity of a Pop-Up Book
+Origami is the centuries-old art of folding paper, and recently, it is investigated as science. In this paper, another hundreds-old art of folding paper, a pop-up book, is studied. A model for the pop-up book design problem is given, and its complexity is investigated. We show that both of the opening book problem and the closing book problem are NP-hard.

@@ -1,0 +1,2 @@
+CyberETL: Towards Visual Debugging Transformations in Data Integration
+we describe the CyberETL system for visual designing and debugging transformations in data integration. CyberETL has some innovative features, such as visual designing of transformations, bi-direction translation between transformations and SQL queries, and lineage-based data comparison and debugging. This enables very robust and fast integration of data in ETL process without the bother and nail-biting of error-prone transformation designing.

@@ -1,0 +1,2 @@
+Meaning Of A Tag: A collaborative approach to bridge the gap between tagging and Linked Data
+This paper introduces MOAT, a lightweight Semantic Web framework that provides a collaborative way to let Web 2.0 content producers give meanings to their tags in a machinereadable way. To achieve this goal, this approach relies on Linked Data principles, using URIs from existing resources to define these meanings. That way, users can create interlinked RDF data and let their content enter the Semantic Web, while solving some limits of free-tagging at the same time.

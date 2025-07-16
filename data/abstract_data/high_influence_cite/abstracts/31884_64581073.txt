@@ -1,0 +1,2 @@
+Linking Combinatorial and Classical Dynamics: Conley Index and Morse Decompositions
+We prove that every combinatorial dynamical system in the sense of Forman, defined on a family of simplices of a simplicial complex, gives rise to a multivalued dynamical system  F on the geometric realization of the simplicial complex. Moreover, F may be chosen in such a way that the isolated invariant sets, Conley indices, Morse decompositions and Conley–Morse graphs of the combinatorial vector field give rise to isomorphic objects in the multivalued map case.

@@ -1,0 +1,2 @@
+A Note on the Alternating Direction Method of Multipliers
+We consider the linearly constrained separable convex programming, whose objective function is separable into m individual convex functions without coupled variables. The alternating direction method of multipliers has been well studied in the literature for the special case m=2, while it remains open whether its convergence can be extended to the general case m>=3. This note shows the global convergence of this extension when the involved functions are further assumed to be strongly convex.

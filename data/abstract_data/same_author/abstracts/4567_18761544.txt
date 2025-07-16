@@ -1,0 +1,2 @@
+Study of top-quark reconstruction with LCD Fast Simulation
+We report the study of top-quark reconstruction in $e^+e^- \to t\bar{t}$ events at a 500 GeV linear collider using the LCD Fast Simulator. The final states of 6 jets as well as 4 jets and lepton are used. In order to reconstruct the jets, the performance of charged and neutral cluster separation are studied. We compare top-quark reconstruction for the LCD Small and LCD Large detectors, including the effect of varying the calorimeter granularity.

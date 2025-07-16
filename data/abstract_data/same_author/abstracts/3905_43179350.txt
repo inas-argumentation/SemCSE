@@ -1,0 +1,2 @@
+Mining Positive Associations of Urban Criminal Activities Using Hierarchical Crime Hot Spots
+We present a framework for discovering positive associations in urban crime datasets using hierarchical clustering and an association test based on a hybrid minimum bounding circle and average bounding circle approach. We justify the virtue of our framework by comparing its computational speed and quality of associations using real crime datasets.

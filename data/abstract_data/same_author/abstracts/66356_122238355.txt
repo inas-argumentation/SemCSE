@@ -1,0 +1,2 @@
+Standard orbit factors and entropy-free Vershik equivalence
+1. Let ${\bf r}=(r_1,r_2,\dots)$ be a sequence of integers greater than one. Then every ${\bf r}$-adic reverse filtration has a maximal standard orbit factor. 2. For ‘entropy-free’ ${\bf r}$, $a\geqq 0$, and any free action $A$ of the group $G=(Z/r_1Z)+(Z/r_2Z)+\dotsb$, there is a free ergodic action $A'$ of $G$ with $h(A')=a$ and such that the reverse filtration produced by $A'$ is isomorphic to that produced by $A$.

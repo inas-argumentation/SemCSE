@@ -1,0 +1,15 @@
+Implantation of Responsive Neurostimulation for Epilepsy Using Intraoperative Computed Tomography: Technical Nuances and Accuracy Assessment.
+INTRODUCTION
+Implantation of responsive neurostimulation (RNS) system has been previously discussed in the literature but there is a paucity of data on target accuracy and the use of intraoperative imaging. We describe our experience with 8 patients using intraoperative computed tomography (iCT) during implantation of the NeuroPace RNS system.
+
+
+METHODS
+A frame-based system was used. CT images were obtained and merged with preoperative magnetic resonance imaging and metabolic imaging studies to calculate target coordinates. An occipital entry point with a trajectory parallel to the hippocampus was planned. The leads were placed in the parahippocampal white matter circuitry. iCT images were obtained for immediate confirmation of lead accuracy. Images were computationally merged and superimposed on the magnetic resonance images and final coordinates of the distal contact were compared with the intended target. Targeting error was calculated in each axis as well as Euclidean distance. Preoperative and postoperative seizure frequency per month was used to evaluate outcomes.
+
+
+RESULTS
+Fifteen occipitotemporal leads were placed in 8 patients. The vector error means in the x, y, and z planes were 0.57 mm ± 0.44 mm, 0.71 mm ± 0.84 mm, and 2.23 mm ± 1.43 mm, respectively. The mean Euclidean distance error was 2.63 mm ± 1.32 mm. The z axis was found to have a significantly higher error [F2,42 = 12.955; P = 0.001] when compared with the x or y axes. The median preoperative and postoperative seizure frequency per month was 3.4 and 0.78 seizures, respectively.
+
+
+CONCLUSIONS
+Frame-based stereotactic implantation of the NeuroPace RNS system using iCT is feasible and allows for intraoperative target accuracy confirmation and correction.

@@ -1,0 +1,15 @@
+Comparison of Heart-Rate-Variability Recording With Smartphone Photoplethysmography, Polar H7 Chest Strap, and Electrocardiography.
+PURPOSE
+To establish the validity of smartphone photoplethysmography (PPG) and heart-rate sensor in the measurement of heart-rate variability (HRV).
+
+
+METHODS
+29 healthy subjects were measured at rest during 5 min of guided breathing and normal breathing using smartphone PPG, a heart-rate chest strap, and electrocardiography (ECG). The root mean sum of the squared differences between R-R intervals (rMSSD) was determined from each device.
+
+
+RESULTS
+Compared to ECG, the technical error of estimate (TEE) was acceptable for all conditions (average TEE CV% [90% CI] = 6.35 [5.13; 8.5]). When assessed as a standardized difference, all differences were deemed "trivial" (average standard difference [90% CI] = 0.10 [0.08; 0.13]). Both PPG- and heart-rate-sensor-derived measures had almost perfect correlations with ECG (R = 1.00 [0.99; 1.00]).
+
+
+CONCLUSION
+Both PPG and heart-rate sensors provide an acceptable agreement for the measurement of rMSSD when compared with ECG. Smartphone PPG technology may be a preferred method of HRV data collection for athletes due to its practicality and ease of use in the field.

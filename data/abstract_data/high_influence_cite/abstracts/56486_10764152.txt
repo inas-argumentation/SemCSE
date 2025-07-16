@@ -1,0 +1,2 @@
+Blind restoration of blurred photographs via AR modelling and MCMC
+We propose a new image and blur prior model, based on non-stationary autoregressive (AR) models, and use these to blindly deconvolve blurred photographic images, using the Gibbs sampler. As far as we are aware, this is the first attempt to tackle a real-world blind image deconvolution (BID) problem using Markov chain Monte Carlo (MCMC) methods. We give examples with simulated and real out-of-focus images, which show the state-of-the-art results that the proposed approach provides.

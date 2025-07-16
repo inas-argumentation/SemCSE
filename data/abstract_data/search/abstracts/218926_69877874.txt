@@ -1,0 +1,2 @@
+HMFA: A Hybrid Mutation Base Firefly Algorithm for Travelling Salesman Problem
+The Travelling Salesman Problem (TSP) is one of the major problems in graph theory and also is NP Hard Problem. In this work, by improving the firefly algorithm (MFA) we introduced a new method for solving TSP. The result of the proposed method has compared with the other algorithms such as Firefly algorithm, GA and PSO. The Proposed Method out performs of other algorithms.

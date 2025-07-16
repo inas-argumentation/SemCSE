@@ -1,0 +1,6 @@
+Meta Gradient Boosting Neural Networks
+Meta-optimization is an effective approach that learns a shared set of parameters across tasks for parameter initialization in meta-learning.
+A key challenge for meta-optimization based approaches is to determine whether an initialization condition can be generalized to tasks with diverse distributions to accelerate learning. 
+To address this issue, we design a meta-gradient boosting framework that uses a base learner to learn shared information across tasks and a series of gradient-boosted modules to capture task-specific information to fit diverse distributions.
+We evaluate the proposed model on both regression and classification tasks with multi-mode distributions. 
+The results demonstrate both the effectiveness of our model in modulating task-specific meta-learned priors and its advantages on multi-mode distributions.

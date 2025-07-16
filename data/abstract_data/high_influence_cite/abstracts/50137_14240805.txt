@@ -1,0 +1,2 @@
+A new metric invariant for Banach spaces
+We show that if the Szlenk index of a Banach space X or of its dual is larger than the first infinite ordinal, then the tree of all finite sequences of integers equipped with the hyperbolic distance metrically embeds into X. We show that the converse is true when X is assumed to be reflexive. As an application, we exhibit new classes of Banach spaces that are stable under coarse-Lipschitz embeddings and therefore under uniform homeomorphisms.

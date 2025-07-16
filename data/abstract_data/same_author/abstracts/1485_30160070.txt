@@ -1,0 +1,2 @@
+Using T-Ret System to Improve Incident Report Retrieval
+This papers describes novel research involving the development of Textual CBR techniques and applying them to the problem of Incident Report Retrieval. Incident Report Retrieval is a relatively new research area in the domain of Accident Reporting and Analysis. We describe T-Ret, an Incident Report Retrieval system that incorporates textual CBR techniques and outline preliminary evaluation results.

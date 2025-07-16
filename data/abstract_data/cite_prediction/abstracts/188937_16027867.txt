@@ -1,0 +1,2 @@
+RecSys Challenge 2015: ensemble learning with categorical features
+In this paper, we describe the winning approach for the RecSys Challenge 2015. Our key points are (1) two-stage classification, (2) massive usage of categorical features, (3) strong classifiers built by gradient boosting and (4) threshold optimization based directly on the competition score. We describe our approach and discuss how it can be used to build scalable personalization systems.

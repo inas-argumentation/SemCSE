@@ -1,0 +1,2 @@
+Beyond Finite Domains: The All Different and Global Cardinality Constraints
+We describe how the propagator for the ALL-DIFFERENT constraint can be generalized to prune variables whose domains are not just simple finite integer domains. We show, for example, how it can be used to propagate set, multiset and tuple variables.

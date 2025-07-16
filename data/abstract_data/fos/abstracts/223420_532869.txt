@@ -1,0 +1,15 @@
+SU-E-J-188: Impact of Unexpected Dose Warping with Deformable Image Registration in Lung Cancer.
+PURPOSE
+In our previous study of dose warping validation, four cases in twenty lung SBRT patients shows unexpected result. We clarify the impact of dose warping with a free-downloadable deformable image registration (DIR) program and a commercially-available DIR software program.
+
+
+METHODS
+Our in-house software was implemented with the blockmatching algorithm for rigid registration and the free-form deformation algorithm for non-rigid registration from the NiftyReg. The deformation algorithm implemented in the MIM software was also based on the freeform deformation algorithm. In order to assess the accuracy of dose warping from the two software programs, generalized equivalent uniformed dose (gEUD) of the deformed dose distribution for peak inhale phase was compared with the gEUD of the dose distribution for peak inhale phase base on a assumption that a radiobiological equivalent dose would be stable before and after the deformation. The peak-inhale deformed dose distribution was superimposed on peak-exhale phase CT and structure datasets.
+
+
+RESULTS
+The in-house software shows that the difference of gEUD for the tumor was less than 1% in the previous study. The difference was 21.4% on average in the four cases (Max: 51.2%). In the four cases in the MIM, the result was improved, however was still more than 1% (Average: 7.3%, Max: 24.3%). In the visual evaluation of the case with large gEUD difference, the shape of dose distribution from dose warping was not in nature from the motion of the tumor. The CT images of a case, which have large difference of gEUD, shows that the tumor was surrounded by the structure with the similar CT values, which were the chest wall or the diaphragm.
+
+
+CONCLUSION
+A commissioning test of not only a freedownloadable DIR program but also a commercial software is essential and we should understand pitfalls of dose warping from the DIR.

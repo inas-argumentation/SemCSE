@@ -1,0 +1,2 @@
+Signed Modified Reflected Binary Code
+A signed modified reflected binary (SMRB) code with unique representability of both positive and negative numbers has been proposed in this correspondence. The bit pattern in this code can be defined in a systematic way leading to a simple synchronous up/down counter. Some arithmetic operations for this code have also been considered.

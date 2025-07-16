@@ -1,0 +1,15 @@
+Geometric and dosimetric accuracy of dynamic tumor tracking during volumetric-modulated arc therapy using a gimbal mounted linac.
+PURPOSE
+The aim was to examine the feasibility of a dynamic tumor-tracking volumetric modulated arc therapy (DTT-VMAT) technique using a gimbal-mounted linac and assess its positional, mechanical and dosimetric accuracy.
+
+
+MATERIALS AND METHODS
+DTT-VMAT was performed using a surrogated signal-based technique. The positional tracking accuracy was evaluated as the difference between the predicted and detected target positions for various wave patterns. Mechanical accuracy measurements included gantry, multileaf collimator (MLC) and gimbal positions. The differences between the command and the measured positions were evaluated for various wave patterns. Dosimetric verification was performed using Gafchromic EBT3 films in the benchmark phantom and two clinical cases.
+
+
+RESULTS
+The root mean square error (RMSE) of the positional accuracy was within 0.31 mm. The RMSE of mechanical accuracy was within 0.14° for the gantry, 0.11 ± 0.02 mm for the MLC and 0.13 mm for the gimbal positions. The passing rate of the 3%/3 mm gamma index was greater than 83.3% and 91.2% for the benchmark phantom and two clinical cases, respectively.
+
+
+CONCLUSIONS
+The positional, mechanical and dosimetric accuracy of DTT-VMAT were evaluated. DTT-VMAT with a gimbal-mounted linac had sufficient accuracy and presents a new strategy for treatment of several tumors with respiratory motion.

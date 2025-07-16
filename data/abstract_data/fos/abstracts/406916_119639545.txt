@@ -1,0 +1,4 @@
+Invariant subspaces in Bergman spaces and Hedenmalm's boundary value problem
+A functionG in a Bergman spaceAp, 0<p<∞, in the unit diskD is calledAp-inner if |G|p−1 annihilates all bounded harmonic functions inD. Extending a recent result by Hedenmalm forp=2, we show (Thm. 2) that the unique compactly-supported solution Φ of the problem
+$$\Delta \Phi  = \chi _D (|G|^p  - 1),$$
+ where χD denotes the characteristic function ofD andG is an arbitraryAp-inner function, is continuous inC, and, moreover, has a vanishing normal derivative in a weak sense on the unit circle. This allows us to extend all of Hedenmalm's results concerning the invariant subspaces in the Bergman spaceA2 to a generalAp-setting.

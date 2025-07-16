@@ -1,0 +1,2 @@
+Performance analysis of a cylindric dielectric lens antenna for 77 GHz automotive radar
+This paper introduces a novel dielectric lens antenna configuration for automotive radar applications. A cylindric lens fed by a uniform linear array (ULA) accomplishes elevation beam shaping and simultaneously allows for the application of array signal processing in the azimuth plane. Measured and simulated radiation patterns show a superior performance compared to a conventional antenna concept without lens.

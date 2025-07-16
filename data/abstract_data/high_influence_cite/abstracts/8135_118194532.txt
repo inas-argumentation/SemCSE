@@ -1,0 +1,2 @@
+Internal categories, anafunctors and localisations
+In this article we review the theory of anafunctors introduced by Makkai and Bartels, and show that given a subcanonical site S, one can form a bicategorical localisation of various 2-categories of internal categories or groupoids at weak equivalences using anafunctors as 1-arrows. This unifies a number of proofs throughout the literature, using the fewest assumptions possible on S.

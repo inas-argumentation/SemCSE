@@ -1,0 +1,15 @@
+Radiation dose calculations for CT scans with tube current modulation using the approach to equilibrium function.
+PURPOSE
+The approach to equilibrium function has been used previously to calculate the radiation dose to a shift-invariant medium undergoing CT scans with constant tube current [Li, Zhang, and Liu, Med. Phys. 39, 5347-5352 (2012)]. The authors have adapted this method to CT scans with tube current modulation (TCM).
+
+
+METHODS
+For a scan with variable tube current, the scan range was divided into multiple subscan ranges, each with a nearly constant tube current. Then the dose calculation algorithm presented previously was applied. For a clinical CT scan series that presented tube current per slice, the authors adopted an efficient approach that computed the longitudinal dose distribution for one scan length equal to the slice thickness, which center was at z = 0. The cumulative dose at a specific point was a summation of the contributions from all slices and the overscan.
+
+
+RESULTS
+The dose calculations performed for a total of four constant and variable tube current distributions agreed with the published results of Dixon and Boone [Med. Phys. 40, 111920 (14pp.) (2013)]. For an abdomen/pelvis scan of an anthropomorphic phantom (model ATOM 701-B, CIRS, Inc., VA) on a GE Lightspeed Pro 16 scanner with 120 kV, N × T = 20 mm, pitch = 1.375, z axis current modulation (auto mA), and angular current modulation (smart mA), dose measurements were performed using two lines of optically stimulated luminescence dosimeters, one of which was placed near the phantom center and the other on the surface. Dose calculations were performed on the central and peripheral axes of a cylinder containing water, whose cross-sectional mass was about equal to that of the ATOM phantom in its abdominal region, and the results agreed with the measurements within 28.4%.
+
+
+CONCLUSIONS
+The described method provides an effective approach that takes into account subject size, scan length, and constant or variable tube current to evaluate CT dose to a shift-invariant medium. For a clinical CT scan, dose calculations may be performed with a water-containing cylinder whose cross-sectional mass is equal to that of the subject. This method has the potential to substantially improve evaluations of patient dose from clinical CT scans, compared to CTDIvol, size-specific dose estimate (SSDE), or the dose evaluated for a TCM scan with a constant tube current equal to the average tube current of the TCM scan.

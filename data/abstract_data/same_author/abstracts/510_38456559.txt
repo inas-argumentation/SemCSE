@@ -1,0 +1,2 @@
+Testing Technology of Torsional Vibration Spring Static Stiffness
+The principle and method of testing static stiffness of torsional vibration spring are put forward based on the structure of dual-mass flywheel with torsional vibration spring, and the test bench is designed for these. The testing data is collected by using the PXI-6259 data collection card of National instrument and the data is processed by the LabVIEW software system. The elastic characteristic of the torsional vibration spring is obtained by analyzing the data.

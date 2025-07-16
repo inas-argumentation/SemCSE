@@ -1,0 +1,15 @@
+Reliable navigation registration in cranial and spine surgery based on intraoperative computed tomography.
+OBJECTIVE
+Low registration errors are an important prerequisite for reliable navigation, independent of its use in cranial or spinal surgery. Regardless of whether navigation is used for trajectory alignment in biopsy or implant procedures, or for sophisticated augmented reality applications, all depend on a correct registration of patient space and image space. In contrast to fiducial, landmark, or surface matching-based registration, the application of intraoperative imaging allows user-independent automatic patient registration, which is less error prone. The authors' aim in this paper was to give an overview of their experience using intraoperative CT (iCT) scanning for automatic registration with a focus on registration accuracy and radiation exposure.
+
+
+METHODS
+A total of 645 patients underwent iCT scanning with a 32-slice movable CT scanner in combination with navigation for trajectory alignment in biopsy and implantation procedures (n = 222) and for augmented reality (n = 437) in cranial and spine procedures (347 craniotomies and 42 transsphenoidal, 56 frameless stereotactic, 59 frame-based stereotactic, and 141 spinal procedures). The target registration error was measured using skin fiducials that were not part of the registration procedure. The effective dose was calculated by multiplying the dose length product with conversion factors.
+
+
+RESULTS
+Among all 1281 iCT scans obtained, 1172 were used for automatic patient registration (645 initial registration scans and 527 repeat iCT scans). The overall mean target registration error was 0.86 ± 0.38 mm (± SD) (craniotomy, 0.88 ± 0.39 mm; transsphenoidal, 0.92 ± 0.39 mm; frameless, 0.74 ± 0.39 mm; frame-based, 0.84 ± 0.34 mm; and spinal, 0.80 ± 0.28 mm). Compared with standard diagnostic scans, a distinct reduction of the effective dose could be achieved using low-dose protocols for the initial registration scan with mean effective doses of 0.06 ± 0.04 mSv for cranial, 0.50 ± 0.09 mSv for cervical, 4.12 ± 2.13 mSv for thoracic, and 3.37 ± 0.93 mSv for lumbar scans without impeding registration accuracy.
+
+
+CONCLUSIONS
+Reliable automatic patient registration can be achieved using iCT scanning. Low-dose protocols ensured a low radiation exposure for the patient. Low-dose scanning had no negative effect on navigation accuracy.

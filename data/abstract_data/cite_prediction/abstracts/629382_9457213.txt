@@ -1,0 +1,2 @@
+Salient object detection by composition
+Conventional saliency analysis methods measure the saliency of individual pixels. The resulting saliency map inevitably loses information in the original image and finding salient objects in it is difficult. We propose to detect salient objects by directly measuring the saliency of an image window in the original image and adopt the well established sliding window based object detection paradigm.

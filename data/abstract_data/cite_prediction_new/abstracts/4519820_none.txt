@@ -1,0 +1,19 @@
+Changed profile of microRNAs in acute lung injury induced by cardio-pulmonary bypass and its mechanism involved with SIRT1.
+OBJECTIVE
+Acute lung injury (ALI) is a severe complication for patients undergoing cardiac surgery necessitating cardio-pulmonary bypass (CPB), however, the possible relationship between microRNAs change and ALI induced by CPB is still not completely understood.
+
+
+OBJECTIVE
+the aim of this study is to determine the microRNAs level changes in patients with ALI induced by CPB and its involved mechanism.
+
+
+METHODS
+We collected blood samples from 45 patients and performed microRNA microarray experiments to determine the microRNAs level changes in patients with ALI induced by CPB then the result was verified by quantitative real-time PCR (qRT-PCR). Plasma TNF-α level and respiration parameters including respiration index (RI) and oxygenation index (OI) were measured at five different time points before or after CPB. Meanwhile the correlationship between significantly changed microRNAs and TNF-α level and respiration parameters was analyzed. Further more, we transfected miR-320 mimic and inhibitor into A549 cells and observed the proliferation inhibition and apoptosis change caused by oxygen-glucose deprivation/reperfusion. Finally we using dual-luciferase reporter assay, qRT-PCR and western blot investigated the potential target of miR-320.
+
+
+RESULTS
+The level of miR-320 was higher in CPB caused ALI with the most significance. Correlation analysis found that the level of miR-320 was positively associated with TNF-α and RI (r = 0.649 and 0.564, P < 0.05), but negative correlated with OI (r = -0.638, P < 0.05). In A549 cells, up-regulated miR-320 induced proliferation inhibition and more apoptosis. SIRT1 may be a target of miR-320 and higher miR-320 resulted in lower expression of SIRT both in mRNA and protein level.
+
+
+CONCLUSION
+miR-320 may mediate the ALI after CPB in which alveolar epithelial cells are injured via down-regulating SIRT1.

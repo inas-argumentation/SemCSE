@@ -1,0 +1,19 @@
+High density microelectrode recording predicts span of therapeutic tissue activation volumes in subthalamic deep brain stimulation for Parkinson disease
+BACKGROUND
+Subthalamic deep brain stimulation alleviates motor symptoms of Parkinson disease by activating precise volumes of neural tissue. While electrophysiological and anatomical correlates of clinically effective electrode sites have been described, therapeutic stimulation likely acts through multiple distinct neural populations, necessitating characterization of the full span of tissue activation. Microelectrode recordings have yet to be mapped to therapeutic tissue activation volumes and surveyed for predictive markers.
+
+
+OBJECTIVE
+Combine high-density, broadband microelectrode recordings with detailed computational models of tissue activation to describe and to predict regions of therapeutic tissue activation.
+
+
+METHODS
+Electrophysiological features were extracted from microelectrode recordings along 23 subthalamic deep brain stimulation implants in 16 Parkinson disease patients. These features were mapped in space against tissue activation volumes of therapeutic stimulation, modeled using clinically-determined stimulation programming parameters and fully individualized, atlas-independent anisotropic tissue properties derived from 3T diffusion tensor magnetic resonance images. Logistic LASSO was applied to a training set of 17 implants out of the 23 implants to identify predictors of therapeutic stimulation sites in the microelectrode recording. A support vector machine using these predictors was used to predict therapeutic activation. Performance was validated with a test set of six implants.
+
+
+RESULTS
+Analysis revealed wide variations in the distribution of therapeutic tissue activation across the microelectrode recording-defined subthalamic nucleus. Logistic LASSO applied to the training set identified six oscillatory predictors of therapeutic tissue activation: theta, alpha, beta, high gamma, high frequency oscillations (HFO, 200-400 Hz), and high frequency band (HFB, 500-2000 Hz), in addition to interaction terms: theta x HFB, alpha x beta, beta x HFB, and high gamma x HFO. A support vector classifier using these features predicted therapeutic sites of activation with 64% sensitivity and 82% specificity in the test set, outperforming a beta-only classifier. A probabilistic predictor achieved 0.87 area under the receiver-operator curve with test data.
+
+
+CONCLUSIONS
+Together, these results demonstrate the importance of personalized targeting and validate a set of microelectrode recording signatures to predict therapeutic activation volumes. These features may be used to improve the efficiency of deep brain stimulation programming and highlight specific neural oscillations of physiological importance.

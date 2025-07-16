@@ -1,0 +1,2 @@
+Efficient and Robust Question Answering from Minimal Context over Documents
+[1] Robin Jia, Percy Liang. “Adversarial examples for evaluating reading comprehension systems.” In EMNLP 2017. [2] Caiming Xiong, Victor Zhong, Richard Socher. “DCN+ Mixed objective and deep residual coattention for question answering.” In ICLR 2018. [3] Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes. “Reading wikipedia to answer open-domain questions.” In ACL 2017. Check out more of our work at https://einstein.ai/research Method

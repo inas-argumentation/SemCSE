@@ -1,0 +1,2 @@
+Edge-bipancyclicity of star graphs under edge-fault tolerant
+The star graph S n is one of the most famous interconnection networks. It has been shown by Li [T.-K. Li, Cycle embedding in star graphs with edge faults, Appl. Math. Comput. 167 (2005) 891–900] that S n contains a cycle of length from 6 to n ! when the number of fault edges in the graph does not exceed n  − 3. In this paper, we improve this result by showing that for any edge subset F of S n with ∣ F ∣ ⩽  n  − 3 every edge of S n  −  F lies on a cycle of every even length from 6 to n ! provided n  ⩾ 3.

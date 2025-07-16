@@ -1,0 +1,2 @@
+Personalized Recommendation with Confidence
+This paper presents a personalized recommendation system mining online product reviews, fusing opinions together and providing a ranked order of a set similar products. We define three attributes of opinion summary: opinion coverage, opinion consistency and opinion consensus. Confidence factor is computed based on these attributes. A user specifies the relative importance of each product feature. The quantitive summary reflects the user's preference, the opinion synopsis and the confidence measurement.

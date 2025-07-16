@@ -1,0 +1,5 @@
+Modelling the asset allocation process and the effectiveness of the models through time
+This thesis considers the predictability of asset prices for financial reserving via a cascade style stochastic investment model for the asset classes of cash, equities and 
+fixed interest. Structural breaks occur in 1947 and 1973 but stability since then means that stochastic investment modelling is a feasible proposition. The final model 
+contains four real variables with inflation as the sole exogenous variable. Inflation modelling is both difficult and not critical in a stochastic investment model. Nominal 
+returns are determined from inflation scenarios applied to the real variables. The equations for fixed interest satisfy appropriate diagnostic criteria and produce the features observed in the data. Those for equities are simple but limited. The model is tested with forecasts and scenarios involving different inflation outlooks.

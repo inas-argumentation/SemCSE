@@ -1,0 +1,15 @@
+Multiagent System for Layer Free Network
+We propose a multiagent system that have feedforward networks as its subset 
+while free from layer structure with matrix-vector scheme.
+Deep networks are often compared to the brain neocortex or visual perception system.
+One of the largest difference from human brain is the use of matrix-vector multiplication based on layer architecture.
+It would help understanding the way human brain works
+if we manage to develop good deep network model without the layer architecture while preserving their performance.
+The brain neocortex works as an aggregation of the local level interactions between neurons, 
+which is rather similar to multiagent system consists of autonomous partially observing agents
+than units aligned in column vectors and manipulated by global level algorithm.
+Therefore we suppose that it is an effective approach for developing more biologically plausible model while preserving compatibility with deep networks to alternate units with multiple agents.
+Our method also has advantage in scalability and memory efficiency.
+We reimplemented Stacked Denoising Autoencoder(SDAE) as a concrete instance with our multiagent system and verified its equivalence with the standard SDAE from both theoritical and empirical perspectives.
+Additionary, we also proposed a variant of our multiagent SDAE named "Sparse Connect SDAE",
+and showed its computational advantage with the MNIST dataset.

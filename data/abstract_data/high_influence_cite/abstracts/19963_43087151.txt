@@ -1,0 +1,7 @@
+Point vortices on the sphere: Stability of symmetric relative equilibria
+We describe the linear and nonlinear stability and instability of 
+certain symmetric configurations of point vortices on the sphere forming 
+relative equilibria. These configurations consist of one or two 
+rings, and a ring with one or two polar vortices. Such configurations have 
+dihedral symmetry, and the symmetry is used to block diagonalize the relevant matrices, to distinguish the subspaces on which their eigenvalues need to be calculated, and also to 
+describe the bifurcations that occur as eigenvalues pass through zero.

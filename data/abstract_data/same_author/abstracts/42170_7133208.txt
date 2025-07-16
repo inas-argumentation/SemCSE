@@ -1,0 +1,2 @@
+Statistical Learning Procedure in Loopy Belief Propagation for Probabilistic Image Processing
+We give a fast and practical algorithm for statistical learning hyperparameters from observable data in probabilistic image processing, which is based on Gaussian graphical model and maximum likelihood estimation. Although hyperparameters in the probabilistic model are determined so as to maximize a marginal likelihood, a practical algorithm is described for the EM algorithm with the loopy belief propagation which is one of approximate inference algorithms in artificial intelligence

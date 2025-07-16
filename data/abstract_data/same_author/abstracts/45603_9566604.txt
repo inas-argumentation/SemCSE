@@ -1,0 +1,2 @@
+Speeding up dynamic programming
+A number of important computational problems in molecular biology, geology, speech recognition, and other areas can be expressed as recurrences which have typically been solved with dynamic programming. By using more sophisticated data structures, and by taking advantage of further structure from the applications, the authors speed up the computation of several of these recurrences by one or two orders of magnitude. The algorithms used are simple and practical.<<ETX>>

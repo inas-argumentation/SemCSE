@@ -1,0 +1,2 @@
+Cost functions for mapping DSP algorithms onto multiprocessors
+In this correspondence, we examine several cost functions that have been proposed for automating the mapping of algorithms onto multiprocessors. Through a case study of the recursive least squares problem, we develop improved cost functions. One of these (the Min-Max+Idle cost function) performed better than the others and was applied to the related problem of full QR decomposition. Experiments on an iPSC/860 hypercube confirm that automated mapping can lead to lower execution times than published mappings. >

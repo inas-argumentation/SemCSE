@@ -1,0 +1,2 @@
+Nanophotonic interconnection networks in multicore embedded computing
+We develop a multilayer optical network simulation environment that uniquely captures physical nanoscale silicon photonic device models. The network-on-chip scalability and performance are evaluated in the context of device characteristics and associated energy consumption.

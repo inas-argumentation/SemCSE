@@ -1,0 +1,2 @@
+Dirac Canonical Quantization of Composite Fermions QED
+Composite Fermions QED is quantized by using the Dirac’s canonical formalism for constrained systems. As a strategy, we first work out the constraints (including primary and secondary constraints), combine two first-class constraints, introduce Coulomb gauge and its stationary as gauge conditions, and then quantize, replacing the Dirac brackets with quantum commutators.

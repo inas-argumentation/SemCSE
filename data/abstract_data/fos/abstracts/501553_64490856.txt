@@ -1,0 +1,2 @@
+An Efficient Algorithm of Graphic Trace in Dynamic Geometry
+Graphic iteration is an important function of dynamic geometry software.Analyses the principle of graphic iteration in dynamic geometry,then designs and realizes an efficient algorithm.The experimental comparison shows that the new algorithm has good efficiency.

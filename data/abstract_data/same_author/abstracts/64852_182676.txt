@@ -1,0 +1,11 @@
+Gaining confidence in biological interpretation of the microarray data: the functional consistence of the significant GO categories
+MOTIVATION
+In microarray studies, numerous tools are available for functional enrichment analysis based on GO categories. Most of these tools, due to their requirement of a prior threshold for designating genes as differentially expressed genes (DEGs), are categorized as threshold-dependent methods that often suffer from a major criticism on their changing results with different thresholds.
+
+
+RESULTS
+In the present article, by considering the inherent correlation structure of the GO categories, a continuous measure based on semantic similarity of GO categories is proposed to investigate the functional consistence (or stability) of threshold-dependent methods. The results from several datasets show when simply counting overlapping categories between two groups, the significant category groups selected under different DEG thresholds are seemingly very different. However, based on the semantic similarity measure proposed in this article, the results are rather functionally consistent for a wide range of DEG thresholds. Moreover, we find that the functional consistence of gene lists ranked by SAM metric behaves relatively robust against changing DEG thresholds.
+
+
+AVAILABILITY
+Source code in R is available on request from the authors.

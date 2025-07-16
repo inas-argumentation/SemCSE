@@ -1,0 +1,2 @@
+An Incremental Approach to Model Based Clustering and Segmentation
+Overlapping a series of adaptive simple mathematical models can be used for image segmentation or data clustering. This paper presents model based evolutionary optimisation segmentation algorithms that incrementally include additional features to the model. Several artificially created images and real images are used to demonstrate the ability of the proposed algorithms.

@@ -1,0 +1,2 @@
+Design and Performance of a Multi-Port Robotic Suction Gripper
+This paper presents the mechanical-workings and gripping performance characteristics of a vacuum-based robotic gripper. The gripper uses multiple ports with attached commercial suction cups to grasp objects from a variety of directions using suction power. The valves remain closed until opened by a hinge-based mechanism, in order to eliminate vacuum leakage. The ability for the valves to be actuated mechanically removes the need for an actuator and active control, reducing costs and weight.

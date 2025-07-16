@@ -1,0 +1,2 @@
+Reduced Switching Delay for Networked Music Performance
+Networked Music Performance (NMP), where musicians located in different places perform together in real time via a network, requires extremely low end-to-end delay. As part of an effort to reduce all aspects of NMP delay, we are focusing on the packet processing and replication delay at the centralized node which enables communication between the multiple NMP participants. We propose three approaches to dramatically reduce this delay, based on both hardware and software optimizations.

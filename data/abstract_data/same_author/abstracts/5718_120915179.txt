@@ -1,0 +1,4 @@
+Relativistic string model in a space-time of a constant curvature
+AbstractThe relativistic string model is investigated in a space-time of a constant curvature (de Sitter universe). The fundamental differential quadratic forms of the world surface of the string are considered as the dynamical variables. The coefficients of these forms obey two nonlinear equations
+$$\varphi _{,11} - \varphi _{,22} = e^\varphi \cos \theta + Ke^{ - \varphi } ,\theta _{,11} - \theta _{,22} = e^\varphi \sin \theta .$$
+ The Lax representation for this system is obtained.

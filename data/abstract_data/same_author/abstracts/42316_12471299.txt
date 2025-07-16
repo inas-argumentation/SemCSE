@@ -1,0 +1,11 @@
+Kernels for small molecules and the prediction of mutagenicity, toxicity and anti-cancer activity
+MOTIVATION
+Small molecules play a fundamental role in organic chemistry and biology. They can be used to probe biological systems and to discover new drugs and other useful compounds. As increasing numbers of large datasets of small molecules become available, it is necessary to develop computational methods that can deal with molecules of variable size and structure and predict their physical, chemical and biological properties.
+
+
+RESULTS
+Here we develop several new classes of kernels for small molecules using their 1D, 2D and 3D representations. In 1D, we consider string kernels based on SMILES strings. In 2D, we introduce several similarity kernels based on conventional or generalized fingerprints. Generalized fingerprints are derived by counting in different ways subpaths contained in the graph of bonds, using depth-first searches. In 3D, we consider similarity measures between histograms of pairwise distances between atom classes. These kernels can be computed efficiently and are applied to problems of classification and prediction of mutagenicity, toxicity and anti-cancer activity on three publicly available datasets. The results derived using cross-validation methods are state-of-the-art. Tradeoffs between various kernels are briefly discussed.
+
+
+AVAILABILITY
+Datasets available from http://www.igb.uci.edu/servers/servers.html

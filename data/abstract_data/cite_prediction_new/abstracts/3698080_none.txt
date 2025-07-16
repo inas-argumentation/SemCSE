@@ -1,0 +1,2 @@
+Steinhaus tiling problem and integral quadratic forms
+A lattice L in R n is said to be equivalent to an integral lattice if there exists a real number r such that the dot product of any pair of vectors in rL is an integer. We show that if n ≥ 3 and L is equivalent to an integral lattice, then there is no measurable Steinhaus set for L, a set which no matter how translated and rotated contains exactly one vector in L.

@@ -1,0 +1,2 @@
+kGEM: An EM-based algorithm for local reconstruction of viral quasispecies
+The main challenge in local viral quasispecies reconstruction is to eliminate sequencing errors while preserving the natural heterogeneity of the viral population. This paper presents a new approach to error correction via an expectation maximization (EM) method.

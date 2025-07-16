@@ -1,0 +1,15 @@
+[High level expression of foreign gene via multiple joined operons and a new concept on the restricted constant of total amount of plasmid DNA per cell of Escherichia coli].
+OBJECTIVE
+To examine the feasibility of linking operons in tandem to enhance expression of heterologous genes in Escherichia coli and to clarify the potential control mechanism of the total plasmid DNA amount in each host cell.
+
+
+METHODS
+Two series of expression plasmids, CW11 and CW12, containing 1 to 4 and 1 to 3 heterologous gene operon(s), respectively, were constructed. The molecular size of the CW11 series varied from 5.47 kb to 12.26 kb in 2.25 kb increments. The CW12 series varied from 5.40 kb to 9.72 kb in 2.16 kb increments. Protein expression was analyzed via SDS-PAGE and laser scanning. Plasmid copy number was determined by incorporation with 3H-TdR([3H]-thymidine).
+
+
+RESULTS
+No influence of the tandem-joined operons on host growth and plasmid stability was observed. Upon induction, the desired protein accumulated in the CW11 series were 46.0%, 54.8%, 56.1%, and 60.1% of total cell protein. In the CW12 series, the yields were 33.5%, 44.0%, and 47.1% of total cell protein. With increasing size, however, plasmid copy number decreased. Further calculation showed that the total amount of plasmid DNA per cell is restricted to some extent. There seems exists a mechanism to control the maximum level of total plasmid DNA amount in each host cell.
+
+
+CONCLUSIONS
+Increasing the target gene dosage by tandem linking of operons enhanced the expression level of a desired protein. Although the size (kb) and the copy number of each plasmid are negatively interrelated, it seems that as for certain plasmids, their total DNA amount per cell is a restricted constant for a specific E. coli strain under identical incubation condition.

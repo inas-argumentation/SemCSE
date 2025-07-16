@@ -1,0 +1,16 @@
+Word2net: Deep Representations of Language
+Word embeddings extract semantic features of words from large datasets of text.
+Most embedding methods rely on a log-bilinear model to predict the occurrence
+of a word in a context of other words. Here we propose word2net, a method that
+replaces their linear parametrization with neural networks. For each term in the
+vocabulary, word2net posits a neural network that takes the context as input and
+outputs a probability of occurrence. Further, word2net can use the hierarchical
+organization of its word networks to incorporate additional meta-data, such as
+syntactic features, into the embedding model. For example, we show how to share
+parameters across word networks to develop an embedding model that includes
+part-of-speech information. We study word2net with two datasets, a collection
+of Wikipedia articles and a corpus of U.S. Senate speeches. Quantitatively, we
+found that word2net outperforms popular embedding methods on predicting held-
+out words and that sharing parameters based on part of speech further boosts
+performance. Qualitatively, word2net learns interpretable semantic representations
+and, compared to vector-based methods, better incorporates syntactic information.

@@ -1,0 +1,2 @@
+Creation of maximally entangled photon-number states using optical fiber multiports
+We theoretically demonstrate a method for producing the maximally path-entangled state (1/Sqrt[2]) (|N,0> + exp[iN phi] |0,N>) using intensity-symmetric multiport beamsplitters, single photon inputs, and either photon-counting postselection or conditional measurement. The use of postselection enables successful implementation with non-unit efficiency detectors. We also demonstrate how to make the same state more conveniently by replacing one of the single photon inputs by a coherent state.

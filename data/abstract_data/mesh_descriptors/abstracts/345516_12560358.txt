@@ -1,0 +1,15 @@
+Dosimetric considerations in treating mediastinal disease with mantle fields: characterization of the dose under mantle blocks.
+PURPOSE
+While the rationale for using mantle fields is well understood and the prescription of these fields is straightforward, the underlying complexity of the dose distributions that result is not generally appreciated. This is especially true in the choice of lung block design, which affects the dose to both the target volume as well as to the normal lung tissue. The key to the design of optimal lung blocks is the physician's perception of the complex relationship between the geometric and dosimetric aspects of heavily modified fields, as well as how the physical and anatomical properties of the target volume and the shape of the patient's lungs relate to the images visualized on simulator films.
+
+
+METHODS AND MATERIALS
+Depth doses and cross-beam profiles of blocks ranging in width from 1 cm to 10 cm were taken using an automated beam scanning system. These data were then converted to "shadow fields." The results were compared to open fields of the same size using standard methodology.
+
+
+RESULTS
+Shadow fields behave quite similarly to small, open fields in terms of x-ray-light field congruence, flatness, symmetry, and penumbra. There is a 2-3 mm rim between the edge of the block and the point at which it becomes nominally effective. The dose at the center of a block, which gives the normalization of the shadow fields, is given by a block transmission factor (BTF), which produces results in excellent agreement with measurements over a wide variety of block sizes and tissue depths.
+
+
+CONCLUSION
+The radiation dose under shielding blocks can be considerably higher than expected, and care must be exercised when drawing blocks close to critical structures. The effects of blocks can be described in terms of normalized shadow fields, which behave similar to narrow, open fields, but with a divergence characteristic of their position relative to the radiation source. The normalization value for these fields, which gives the relative dose under the block, can be obtained from a straightforward analytical expression, the BTF.

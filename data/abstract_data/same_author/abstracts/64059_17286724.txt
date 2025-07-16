@@ -1,0 +1,2 @@
+Performance Evaluation of a Two-Processor Scheduling Method for Acyclic SWITCH-less Program Nets
+This paper investigates the usefulness of a new priority list for two-processor scheduling problem of program nets. Firstly, we discuss the weakness of a previously proposed priority list and then introduce a new priority list. Through simulation experiment we show that the new priority list is better than the previous one and can generate the same length of schedules as GA scheduling, which implies the new priority list can generate approximately optimal schedules.

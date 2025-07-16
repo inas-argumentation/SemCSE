@@ -1,0 +1,2 @@
+LOW DIMENSIONAL MANIFOLD MODEL WITH SEMI-LOCAL PATCHES
+Abstract. In this paper we integrate semi-local patches and the weighted graph Laplacian [17] into the framework of the low dimensional manifold model [12]. This approach is much faster than the original LDMM algorithm. The number of iterations is typically reduced from 100 to 10 and the equations in each step are much easier to solve. This new approach is tested in image inpainting and denoising and the results are better than the original LDMM and competitive with state-of-the-art methods.

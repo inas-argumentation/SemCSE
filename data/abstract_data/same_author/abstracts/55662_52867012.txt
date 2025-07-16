@@ -1,0 +1,2 @@
+An Object-Oriented Development Framework for Z
+This paper presents a framework for developing Z specifications in an object-oriented style. Within the framework, object-oriented concepts and design strategies are captured by the application of development operators. The framework also records the history of operator application enabling “classes” to be identified and, hence, the possibility of modular verification and refinement.

@@ -1,0 +1,2 @@
+New algorithms for circuit simulation of device breakdown
+Numerical algorithms that enable extension of device models into avalanche breakdown region without disturbing the convergence of modified nodal-analysis-based circuit simulators are introduced. Details of model implementation into circuit simulators are presented along with applications. In particular, circuit-level simulation of nondestructive electrostatic discharge phenomena is discussed along with the time-step size on the simulation of negative resistance structures. >

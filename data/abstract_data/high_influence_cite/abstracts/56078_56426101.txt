@@ -1,0 +1,2 @@
+Graphs with few paths of prescribed length between any two vertices
+We use a variant of Bukh's random algebraic method to show that for every natural number $k \geq 2$ there exists a natural number $\ell$ such that, for every $n$, there is a graph with $n$ vertices and $\Omega_k(n^{1 + 1/k})$ edges with at most $\ell$ paths of length $k$ between any two vertices. A result of Faudree and Simonovits shows that the bound on the number of edges is tight up to the implied constant.

@@ -1,0 +1,2 @@
+Numerical Simulation Analysis on Casting Technology for Rotor Based on ProCAST
+Taking the rotor castings in 1.5 MW wind power generator as studying object, the 3D model of the rotors was build up by SolidWorks software, and the process scheme of the castings was designed including gating system, feeding system and cooling system. The numerical simulation software ProCAST was used to simulate and analyze the designed process scheme,and based on analysis results, the process scheme was improved to achieve prehope effect.

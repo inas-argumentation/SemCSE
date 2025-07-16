@@ -1,0 +1,2 @@
+Statically Scanning Java Code: Finding Security Vulnerabilities
+Developers and users require some degree of assurance in their applications' security vulnerabilities. The authors have designed a prototype tool, Jslint, to help programmers automatically use existing security knowledge.

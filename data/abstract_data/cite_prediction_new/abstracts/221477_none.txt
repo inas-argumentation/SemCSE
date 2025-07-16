@@ -1,0 +1,2 @@
+Generating Affective Natural Language for Parents of Neonatal Infants
+This paper presents several affective NLG strategies for generating medical texts for parents of pre-term neonates. Initially, these were meant to be personalised according to a model of the recipient's level of stress. However, our evaluation showed that all recipients preferred texts generated with the affective strategies, regardless of predicted stress level.

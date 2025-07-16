@@ -1,0 +1,19 @@
+Characterizing Twitter Discussions About HPV Vaccines Using Topic Modeling and Community Detection
+BACKGROUND
+In public health surveillance, measuring how information enters and spreads through online communities may help us understand geographical variation in decision making associated with poor health outcomes.
+
+
+OBJECTIVE
+Our aim was to evaluate the use of community structure and topic modeling methods as a process for characterizing the clustering of opinions about human papillomavirus (HPV) vaccines on Twitter.
+
+
+METHODS
+The study examined Twitter posts (tweets) collected between October 2013 and October 2015 about HPV vaccines. We tested Latent Dirichlet Allocation and Dirichlet Multinomial Mixture (DMM) models for inferring topics associated with tweets, and community agglomeration (Louvain) and the encoding of random walks (Infomap) methods to detect community structure of the users from their social connections. We examined the alignment between community structure and topics using several common clustering alignment measures and introduced a statistical measure of alignment based on the concentration of specific topics within a small number of communities. Visualizations of the topics and the alignment between topics and communities are presented to support the interpretation of the results in context of public health communication and identification of communities at risk of rejecting the safety and efficacy of HPV vaccines.
+
+
+RESULTS
+We analyzed 285,417 Twitter posts (tweets) about HPV vaccines from 101,519 users connected by 4,387,524 social connections. Examining the alignment between the community structure and the topics of tweets, the results indicated that the Louvain community detection algorithm together with DMM produced consistently higher alignment values and that alignments were generally higher when the number of topics was lower. After applying the Louvain method and DMM with 30 topics and grouping semantically similar topics in a hierarchy, we characterized 163,148 (57.16%) tweets as evidence and advocacy, and 6244 (2.19%) tweets describing personal experiences. Among the 4548 users who posted experiential tweets, 3449 users (75.84%) were found in communities where the majority of tweets were about evidence and advocacy.
+
+
+CONCLUSIONS
+The use of community detection in concert with topic modeling appears to be a useful way to characterize Twitter communities for the purpose of opinion surveillance in public health applications. Our approach may help identify online communities at risk of being influenced by negative opinions about public health interventions such as HPV vaccines.

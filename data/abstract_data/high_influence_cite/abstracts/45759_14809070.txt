@@ -1,0 +1,2 @@
+A degenerate kernel method for eigenvalue problems of non-compact operators with applications in electromagnetism and continuum-of-alleles models
+We consider the eigenvalue problem of certain kind of non-compact linear operators given as the sum of a multiplication and a kernel operator. A degenerate kernel method with piecewise linear interpolation with respect to the second variable is used to approximate eigenvalues. It is shown that the error is of order O(h). A bound for the condition number of this method is obtained. By a numerical example, we confirm the results.

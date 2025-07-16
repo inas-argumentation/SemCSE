@@ -1,0 +1,2 @@
+Convergence of simultaneous perturbation stochastic approximation for nondifferentiable optimization
+We consider simultaneous perturbation stochastic approximation for function minimization. The standard assumption for convergence is that the function be three times differentiable, although weaker assumptions have been used for special cases. However, all work that we are aware of at least requires differentiability. We relax the differentiability requirement and prove convergence using convex analysis.

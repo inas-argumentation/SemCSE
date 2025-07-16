@@ -1,0 +1,22 @@
+A method based on structure-from-motion photogrammetry to generate sub-millimetre-resolution digital elevation models for investigating rock breakdown features
+. We have generated sub-millimetre-resolution DEMs of weathered rock surfaces
+using SfM photogrammetry techniques. We apply a close-range method based on structure-from-motion (SfM)
+photogrammetry in the field and use it to generate
+high-resolution topographic data for weathered boulders and bedrock. The
+method was pilot tested on extensively weathered Triassic Moenkopi sandstone
+outcrops near Meteor Crater in Arizona. Images were taken in the field using
+a consumer-grade DSLR camera and were processed in commercially available
+software to build dense point clouds. The point clouds were registered to a
+local 3-D coordinate system (x, y, z), which was developed using a specially
+designed triangle-coded control target and then exported as digital elevation
+models (DEMs). The accuracy of the DEMs was validated under controlled
+experimental conditions. A number of checkpoints were used to calculate
+errors. We also evaluated the effects of image and camera parameters on the
+accuracy of our DEMs. We report a horizontal error of 0.5 mm and vertical
+error of 0.3 mm in our experiments. Our approach provides a low-cost method
+for obtaining very high-resolution topographic data on weathered rock
+surfaces (area < 10 m2). The results from our case study confirm
+the efficacy of the method at this scale and show that the data acquisition
+equipment is sufficiently robust and portable. This is particularly important
+for field conditions in remote locations or steep terrain where portable and
+efficient methods are required.

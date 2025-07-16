@@ -1,0 +1,2 @@
+Spread Divergences
+For distributions $p$ and $q$ with different support, the divergence $\div{p}{q}$ generally will not exist. We define a spread divergence $\sdiv{p}{q}$ on modified $p$ and $q$ and describe sufficient conditions for the existence of such a divergence. We give examples of using a spread divergence to train implicit generative models, including linear models (Principal Components Analysis and Independent Components Analysis) and non-linear models (Deep Generative Networks).

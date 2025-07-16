@@ -1,0 +1,2 @@
+Universal amplitude ratios in the 2D four-state Potts model
+We present a Monte Carlo study of various universal amplitude ratios of the two-dimensional q =4 Potts model. We simulated the model close to criticality in both phases taking care to keep the systematic errors, due to finite size effects and logarithmic corrections in the scaling functions, under control. Our results are compatible with those recently obtained using the form-factor approach and with the existing low temperature series for the model.

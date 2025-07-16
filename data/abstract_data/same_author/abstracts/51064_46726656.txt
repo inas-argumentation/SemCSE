@@ -1,0 +1,2 @@
+OBL: a formal deduction method for object-oriented systems
+Object Behavior Logic (OBL) is proposed in order to specify object oriented system behavior. An inference engine is introduced for verifying the consistency of the systems based on the specification in OBL. OBL uses the paradigms of state machine to catch the dynamic aspect of object oriented systems in formal specification, plus the features of object oriented concepts such as inheritance, instantiation, and so forth, which separate the unique object oriented techniques from the function oriented techniques.

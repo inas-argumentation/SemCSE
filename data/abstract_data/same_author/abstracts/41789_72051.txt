@@ -1,0 +1,11 @@
+SAGA: a subgraph matching tool for biological graphs
+MOTIVATION
+With the rapid increase in the availability of biological graph datasets, there is a growing need for effective and efficient graph querying methods. Due to the noisy and incomplete characteristics of these datasets, exact graph matching methods have limited use and approximate graph matching methods are required. Unfortunately, existing graph matching methods are too restrictive as they only allow exact or near exact graph matching. This paper presents a novel approximate graph matching technique called SAGA. This technique employs a flexible model for computing graph similarity, which allows for node gaps, node mismatches and graph structural differences. SAGA employs an indexing technique that allows it to efficiently evaluate queries even against large graph datasets.
+
+
+RESULTS
+SAGA has been used to query biological pathways and literature datasets, which has revealed interesting similarities between distinct pathways that cannot be found by existing methods. These matches associate seemingly unrelated biological processes, connect studies in different sub-areas of biomedical research and thus pose hypotheses for new discoveries. SAGA is also orders of magnitude faster than existing methods.
+
+
+AVAILABILITY
+SAGA can be accessed freely via the web at http://www.eecs.umich.edu/saga. Binaries are also freely available at this website.

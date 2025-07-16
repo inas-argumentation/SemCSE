@@ -1,0 +1,19 @@
+High intraoperative inspiratory oxygen fraction and risk of major respiratory complications
+Background
+High inspiratory oxygen fraction ( FIO2 ) may improve tissue oxygenation but also impair pulmonary function. We aimed to assess whether the use of high intraoperative FIO2 increases the risk of major respiratory complications.
+
+
+Methods
+We studied patients undergoing non-cardiothoracic surgery involving mechanical ventilation in this hospital-based registry study. The cases were divided into five groups based on the median FIO2 between intubation and extubation. The primary outcome was a composite of major respiratory complications (re-intubation, respiratory failure, pulmonary oedema, and pneumonia) developed within 7 days after surgery. Secondary outcomes included 30-day mortality. Several predefined covariates were included in a multivariate logistic regression model.
+
+
+Results
+The primary analysis included 73 922 cases, of whom 3035 (4.1%) developed a major respiratory complication within 7 days of surgery. For patients in the high- and low-oxygen groups, the median FIO2 was 0.79 [range 0.64-1.00] and 0.31 [0.16-0.34], respectively. Multivariate logistic regression analysis revealed that the median FIO2 was associated in a dose-dependent manner with increased risk of respiratory complications (adjusted odds ratio for high vs low FIO2 1.99, 95% confidence interval [1.72-2.31], P -value for trend <0.001). This finding was robust in a series of sensitivity analyses including adjustment for intraoperative oxygenation. High median FIO2 was also associated with 30-day mortality (odds ratio for high vs low FIO2 1.97, 95% confidence interval [1.30-2.99], P -value for trend <0.001).
+
+
+Conclusions
+In this analysis of administrative data on file, high intraoperative FIO2 was associated in a dose-dependent manner with major respiratory complications and with 30-day mortality. The effect remained stable in a sensitivity analysis controlled for oxygenation.
+
+
+Clinical trial registration
+NCT02399878.

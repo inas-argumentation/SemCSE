@@ -1,0 +1,2 @@
+Universal fault-tolerant quantum computation in the presence of spontaneous emission and collective dephasing.
+A universal and fault-tolerant scheme for quantum computation is proposed which utilizes a class of error correcting codes that is based on the detection of spontaneous emission (of, e.g., photons, phonons, and ripplons). The scheme is compatible with a number of promising solid-state and quantum-optical proposals for quantum computer implementations, such as quantum dots in cavities, electrons on helium, and trapped ions.

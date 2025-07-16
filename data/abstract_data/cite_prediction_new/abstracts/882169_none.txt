@@ -1,0 +1,2 @@
+Logic Programs with Uncertainty: Neural Computation and Automated Reasoning
+Bilattice-based annotated logic programs (BAPs) form a very general class of programs which can handle uncertainty and conflicting information. We use BAPs to integrate two alternative paradigms of com- putation: specifically, we build learning artificial neural networks which can model iterations of the semantic operator associated with each BAP and introduce sound and complete SLD-resolution for this class of pro- grams.

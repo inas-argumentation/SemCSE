@@ -1,0 +1,2 @@
+Multi-sensor Information Fusion by Query Refinement
+To support the retrieval and fusion of multimedia information from multiple real-time sources and databases, a novel approach for sensor-based query processing is described. The sensor dependency tree is used to facilitate query optimization. Through query refinement one or more sensor may provide feedback information to the other sensors. The approach is also applicable to evolutionary queries that change in time and/or space, depending upon the temporal/spatial coordinates of the query originator.

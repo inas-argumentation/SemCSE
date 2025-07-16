@@ -1,0 +1,11 @@
+An object model and database for functional genomics
+MOTIVATION
+Large-scale functional genomics analysis is now feasible and presents significant challenges in data analysis, storage and querying. Data standards are required to enable the development of public data repositories and to improve data sharing. There is an established data format for microarrays (microarray gene expression markup language, MAGE-ML) and a draft standard for proteomics (PEDRo). We believe that all types of functional genomics experiments should be annotated in a consistent manner, and we hope to open up new ways of comparing multiple datasets used in functional genomics.
+
+
+RESULTS
+We have created a functional genomics experiment object model (FGE-OM), developed from the microarray model, MAGE-OM and two models for proteomics, PEDRo and our own model (Gla-PSI-Glasgow Proposal for the Proteomics Standards Initiative). FGE-OM comprises three namespaces representing (i) the parts of the model common to all functional genomics experiments; (ii) microarray-specific components; and (iii) proteomics-specific components. We believe that FGE-OM should initiate discussion about the contents and structure of the next version of MAGE and the future of proteomics standards. A prototype database called RNA And Protein Abundance Database (RAPAD), based on FGE-OM, has been implemented and populated with data from microbial pathogenesis.
+
+
+AVAILABILITY
+FGE-OM and the RAPAD schema are available from http://www.gusdb.org/fge.html, along with a set of more detailed diagrams. RAPAD can be accessed by registration at the site.

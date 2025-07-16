@@ -1,0 +1,2 @@
+Design and Implement of Test Paper based on the Genetic Algorithms
+Here we give a strategy for creating test papers using the Algorithm of genetics, which applies the knowledge of statistics to choosing item by probability according to the demands of test papers. And keep the chromosome of more large fitness down to next generation, this can avoid the occurrence of prematurity. At last the papers can not only satisfy the needs of creating test papers , but also refuse repetitious item in a paper.

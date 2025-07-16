@@ -1,0 +1,15 @@
+Identification of core genes and potential molecular mechanisms in breast cancer using bioinformatics analysis.
+BACKGROUND
+Breast cancer is the most frequently diagnosed cancer in women worldwide. This study aimed to elucidate the potential key candidate genes and pathways in breast cancer.
+
+
+METHODS
+The gene expression profile dataset GSE65212 was downloaded from GEO database. Differentially expressed genes (DEGs) were obtained by the R Bioconductor packages. The Gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis of DEGs were performed using DAVID database. The protein-protein interaction (PPI) network was then established by STRING and visualized by Cytoscape software. Module analysis of the PPI network was performed by the plug-in Molecular Complex Detection (MCODE). Then, the identified genes were verified by Kaplan-Meier plotter online database and quantitative real-time PCR (qPCR) in breast cancer tissue samples.
+
+
+RESULTS
+A total of 857 differential expressed genes were identified, of which, the upregulated genes were mainly enriched in the cell cycle, while the downregulated genes were mainly enriched in PPAR signaling pathway. Moreover, six hub genes with high degree were identified, including TOP2A, PCNA, CCNB1, CDC20, BIRC5 and CCNA2. Lastly, the Kaplan-Meier plotter online database confirmed that higher expression levels of these hub genes were related to lower overall survival. Experimental validation showed that all six hub genes had the same expression trend as predicted.
+
+
+CONCLUSION
+These results identified key genes, which could be used as a new biomarker for breast cancer diagnosis and treatment.

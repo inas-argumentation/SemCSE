@@ -1,0 +1,2 @@
+A 32-bit RISC Implemented in Enhancement-Mode JFET GaAs
+This paper describes the design of a 32-bit reduced instruction set computer (RISC) implemented in Gallium Arsenide using enhancementmode junction field effect transistors. The microprocessor chip is designed to implement the Stanford MIPS architecture using a four stage pipe. The chip contains 22 registers, a full barrel shifter, a 32-bit ALU and necessary control circuits. The processor is expected to operate with an average throughput rate in excess of 100 million instructions per second.

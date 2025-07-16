@@ -1,0 +1,27 @@
+Kontsevich spaces of rational curves on Fano hypersurfaces
+
+            <jats:p>We investigate the spaces of rational curves on a general hypersurface. In particular, we show that for a general degree <jats:italic>d</jats:italic> hypersurface in <jats:inline-formula id="j_crelle-2016-0027_ineq_9999">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_crelle-2016-0027_eq_0202.png" />
+                     <jats:tex-math>{\mathbb{P}^{n}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula> with <jats:inline-formula id="j_crelle-2016-0027_ineq_9998">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_crelle-2016-0027_eq_0353.png" />
+                     <jats:tex-math>{n\geq d+2}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula>, the space <jats:inline-formula id="j_crelle-2016-0027_ineq_9997">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_crelle-2016-0027_eq_0234.png" />
+                     <jats:tex-math>{\overline{\mathcal{M}}_{0,0}(X,e)}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula> of degree <jats:italic>e</jats:italic> Kontsevich stable maps from a rational curve to <jats:italic>X</jats:italic> is an irreducible local complete intersection stack of dimension <jats:inline-formula id="j_crelle-2016-0027_ineq_9996">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_crelle-2016-0027_eq_0294.png" />
+                     <jats:tex-math>{e(n-d+1)+n-4}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula>. This resolves all but one case of a conjecture of Coskun, Harris and Starr, and also proves that the Gromov–Witten invariants of these hypersurfaces are enumerative.</jats:p>

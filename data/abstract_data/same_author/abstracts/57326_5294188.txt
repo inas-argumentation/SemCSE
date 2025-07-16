@@ -1,0 +1,11 @@
+Method for identifying transcription factor binding sites in yeast
+MOTIVATION
+Identifying transcription factor binding sites (TFBSs) is helpful for understanding the mechanism of transcriptional regulation. The abundance and the diversity of genomic data provide an excellent opportunity for identifying TFBSs. Developing methods to integrate various types of data has become a major trend in this pursuit.
+
+
+RESULTS
+We develop a TFBS identification method, TFBSfinder, which utilizes several data sources, including DNA sequences, phylogenetic information, microarray data and ChIP-chip data. For a TF, TFBSfinder rigorously selects a set of reliable target genes and a set of non-target genes (as a background set) to find overrepresented and conserved motifs in target genes. A new metric for measuring the degree of conservation at a binding site across species and methods for clustering motifs and for inferring position weight matrices are proposed. For synthetic data and yeast cell cycle TFs, TFBSfinder identifies motifs that are highly similar to known consensuses. Moreover, TFBSfinder outperforms well-known methods.
+
+
+AVAILABILITY
+http://cg1.iis.sinica.edu.tw/~TFBSfinder/.

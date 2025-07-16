@@ -1,0 +1,11 @@
+Clinical research informatics and electronic health record data.
+OBJECTIVES
+The goal of this survey is to discuss the impact of the growing availability of electronic health record (EHR) data on the evolving field of Clinical Research Informatics (CRI), which is the union of biomedical research and informatics.
+
+
+RESULTS
+Major challenges for the use of EHR-derived data for research include the lack of standard methods for ensuring that data quality, completeness, and provenance are sufficient to assess the appropriateness of its use for research. Areas that need continued emphasis include methods for integrating data from heterogeneous sources, guidelines (including explicit phenotype definitions) for using these data in both pragmatic clinical trials and observational investigations, strong data governance to better understand and control quality of enterprise data, and promotion of national standards for representing and using clinical data.
+
+
+CONCLUSIONS
+The use of EHR data has become a priority in CRI. Awareness of underlying clinical data collection processes will be essential in order to leverage these data for clinical research and patient care, and will require multi-disciplinary teams representing clinical research, informatics, and healthcare operations. Considerations for the use of EHR data provide a starting point for practical applications and a CRI research agenda, which will be facilitated by CRI's key role in the infrastructure of a learning healthcare system.

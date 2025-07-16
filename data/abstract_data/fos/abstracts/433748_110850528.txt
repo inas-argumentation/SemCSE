@@ -1,0 +1,8 @@
+USE OF A GENETIC ALGORITHM AND MULTI-OBJECTIVE PROGRAMMING FOR CALIBRATION OF A HYDROLOGIC MODEL
+A genetic algorithm was used to calibrate the RUNOFF component of the EPA storm-water management 
+model, SWMM. A multi-objective function was developed which attached user-specified weights to error terms for 
+estimates of peak flow rate, runoff volume, and time of peak. The genetic algorithm proved to be a valuable tool for 
+isolating the neighborhood of the optimal parameter set. A conventional calibration scheme was used whereby the model 
+was first fitted to a low intensity storm which produced runoff from impervious areas only. After parameters for the 
+impervious cover were found, a larger storm was used to determine the variables for pervious land use. The calibrated 
+model was used to simulate two additional storms with good accuracy.

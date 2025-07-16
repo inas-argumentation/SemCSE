@@ -1,0 +1,2 @@
+Use of cross correlation in studying the response of lightly damped structures to random forces.
+This paper describes a method of estimating the frequency response function of a lightly damped single degree-of-freedom system from a truncated measurement of the cross-correlation function of white noise excitation and response. Application to a multidegree-of-freedom system is discussed, and an actual example is given. The method gives an improved estimate of the damping of the predominant modes of the system.

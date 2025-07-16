@@ -1,0 +1,13 @@
+How Important is a Neuron
+The problem of attributing a deep network’s prediction to its input/base features is
+well-studied (cf. Simonyan et al. (2013)). We introduce the notion of conductance
+to extend the notion of attribution to understanding the importance of hidden units.
+Informally, the conductance of a hidden unit of a deep network is the flow of attribution
+via this hidden unit. We can use conductance to understand the importance of
+a hidden unit to the prediction for a specific input, or over a set of inputs. We justify
+conductance in multiple ways via a qualitative comparison with other methods,
+via some axiomatic results, and via an empirical evaluation based on a feature
+selection task. The empirical evaluations are done using the Inception network
+over ImageNet data, and a convolutinal network over text data. In both cases, we
+demonstrate the effectiveness of conductance in identifying interesting insights
+about the internal workings of these networks.

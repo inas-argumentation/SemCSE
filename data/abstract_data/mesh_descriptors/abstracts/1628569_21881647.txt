@@ -1,0 +1,15 @@
+A neural network classifier for cerebral perfusion imaging.
+UNLABELLED
+Artificial neural networks have been applied to a variety of pattern recognition tasks in medical imaging and have been shown to be a powerful classification tool. The potential usefulness to discriminate normal from abnormal cerebral perfusion patterns was investigated.
+
+
+METHODS
+Cerebral perfusion imaging with 99mTc-labeled hexamethylpropyleneimine oxime was performed on 52 normal control subjects, 29 patients with clinically diagnosed Alzheimer's disease (AD) and 25 patients with chronic cocaine polydrug abuse. Each study was registered and scaled to a common anatomic coordinate system, yielding 120 standardized cortical regions. A back-propagation neural network classifier based on regional perfusion was used to classify normal and abnormal perfusion patterns. The neural network was trained to discriminate patients with AD from age-matched normal controls and cocaine polydrug abuse patients from normal controls. The performance of the neural network in these two tasks was evaluated quantitatively by receiver operating characteristic (ROC) analysis using cross-validation.
+
+
+RESULTS
+For patients with AD, the area under the ROC curve was 0.93 +/- 0.04. When testing with the cocaine polydrug abuser data, the area under the ROC curve was 0.89 +/- 0.04.
+
+
+CONCLUSION
+Neural networks provide a potentially useful tool in the decision-making task to discriminate patients with AD and cocaine abuse from normal controls.

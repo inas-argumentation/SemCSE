@@ -1,0 +1,2 @@
+Diffusion and innovation rates for multidimensional neuronal data with large spatial covariances
+The diffusion model has been introduced as a statistical model for processing multidimensional neuronal data. This paper extends estimation procedures for the parameters of this model when spatial covariances are large. The new method is based upon linear regression techniques. It is applied to an optical recording of the auditory cortex of a guinea pig stimulated with pure tone bursts (frequency 14 kHz).

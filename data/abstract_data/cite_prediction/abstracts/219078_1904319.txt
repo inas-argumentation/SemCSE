@@ -1,0 +1,2 @@
+Autonomous local path planning for a mobile robot using a genetic algorithm
+This work presents results of our work in development of a genetic algorithm based path-planning algorithm for local obstacle avoidance (local feasible path) of a mobile robot in a given search space. The method tries to find not only a valid path but also an optimal one. The objectives are to minimize the length of the path and the number of turns. The proposed path-planning method allows a free movement of the robot in any direction so that the path-planner can handle complicated search spaces.

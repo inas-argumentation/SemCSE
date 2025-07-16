@@ -1,0 +1,2 @@
+LARGE DEVIATIONS FOR RENEWAL PROCESSES
+We investigate large deviations for the empirical measure of the forward and backward recurrence time processes associated with a classical renewal process with arbitrary waiting-time distribution. The Donsker-Varadhan theory cannot be applied in this case, and indeed it turns out that the large deviations rate functional differs from the one suggested by such a theory. In particular, a non-strictly convex and non-analytic rate functional is obtained.

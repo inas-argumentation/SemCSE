@@ -1,0 +1,27 @@
+Item response theory: how Mokken scaling can be used in clinical practice.
+AIMS
+To demonstrate the principles and application of Mokken scaling.
+
+
+BACKGROUND
+The history and development of Mokken scaling is described, some examples of applications are given, and some recent development of the method are summarised.
+
+
+DESIGN
+Secondary analysis of data obtained by cross-sectional survey methods, including self-report and observation.
+
+
+METHODS
+Data from the Edinburgh Feeding Evaluation in Dementia scale and the Townsend Functional Ability Scale were analysed using the Mokken scaling procedure within the 'R' statistical package. Specifically, invariant item ordering (the extent to which the order of the items in terms of difficulty was the same for all respondents whatever their total scale score) was studied.
+
+
+RESULTS
+The Edinburgh Feeding Evaluation in Dementia scale and the Townsend Functional Ability Scale showed no violations of invariant item ordering, although only the Townsend Functional Ability Scale showed a medium accuracy.
+
+
+CONCLUSION
+Mokken scaling is an established method for item response theory analysis with wide application in the social sciences. It provides psychometricians with an additional tool in the development of questionnaires and in the study of individuals and their responses to latent traits. Specifically, with regard to the analyses conducted in this study, the Edinburgh Feeding Evaluation in Dementia scale requires further development and study across different levels of severity of dementia and feeding difficulty.
+
+
+RELEVANCE TO CLINICAL PRACTICE
+Good scales are required for assessment in clinical practice and the present paper shows how a relatively recently developed method for analysing Mokken scales can contribute to this. The two scales used as examples for analysis are highly clinically relevant.

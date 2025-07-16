@@ -1,0 +1,2 @@
+Two approaches for the estimation of time-varying amplitude multichirp signals
+This paper addresses the problem of time-varying amplitude multichirp signals parameter estimation. We compare two approaches which require a model for the amplitude. First, we use a basis of time-localized functions associated with Bayesian estimation. Secondly, we use an autoregressive model associated with a mixed high-order ambiguity function/Kalman filter estimation. Results show that both methods are efficient to solve this estimation problem.

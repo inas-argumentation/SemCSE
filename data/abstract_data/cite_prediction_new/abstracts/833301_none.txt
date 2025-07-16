@@ -1,0 +1,2 @@
+Work in progress Featherweight Concurrency in a Portable Assembly Language
+What abstractions should a reusable code generator provide to make it easy for a language implementor to compile a highly concurrent language? The implementation of concurrency is typically tightly interwoven with the code generator and run-time system of the high-level language. Our contribution is to tease out the tricky low-level concurrency mechanisms and to package them in an elegant way, so they can be reused by many front ends.

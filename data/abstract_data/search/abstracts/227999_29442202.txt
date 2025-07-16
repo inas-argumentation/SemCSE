@@ -1,0 +1,2 @@
+Undersea Maneuvering Target Tracking Using Novel Estimation Algorithm
+In underwater scenario, algorithms that assume constant velocity model are suitable for tracking non maneuvering targets but fail if target is maneuvering. The Interacting Multiple Model algorithm is a widely accepted state estimation scheme for solving maneuvering target tracking problems. This paper presents the IMM method of tracking under water maneuvering targets using active sonar measurements. UKF is used throughout the process and the simulation results for two scenarios are presented.

@@ -1,0 +1,6 @@
+Improved Garbled Circuit: Free XOR Gates and Applications
+We present a new garbled circuit construction for two-party secure function evaluation (SFE). In our one-round protocol, XOR gates are evaluated "for free", which results in the corresponding improvement over the best garbled circuit implementations (e.g. Fairplay [19]). 
+ 
+We build permutation networks [26] and Universal Circuits (UC) [25] almost exclusively of XOR gates; this results in a factor of up to 4 improvement (in both computation and communication) of their SFE. We also improve integer addition and equality testing by factor of up to 2. 
+ 
+We rely on the Random Oracle (RO) assumption. Our constructions are proven secure in the semi-honest model.

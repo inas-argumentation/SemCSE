@@ -1,0 +1,2 @@
+Towards Accessible Authoring Tools for Interactive Storytelling
+This contribution presents and discusses Scenejo as an experimental platform for Interactive Digital Storytelling, focusing on the authoring process as initial viewpoint for its development. Special emphasis is on the construction of conversational threads for virtual actors using pattern matching, employing transition graph representations as the main interface for authoring. In the conclusion, the opportunities and challenges of graph structures are discussed.

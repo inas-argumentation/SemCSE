@@ -1,0 +1,15 @@
+MO-F-BRB-02: Macro Monte Carlo for Proton Dose Calculation in Different Materials.
+PURPOSE
+Although the Monte Carlo (MC) method allows accurate dose calculation its usage is limited due to long computing time. In order to gain efficiency, a new macro MC (MMC) technique for proton dose calculations in homogeneous materials has been developed.
+
+
+METHODS
+The macro MC is based on a local to global MC approach. The local simulations using Geant4 consist of mono-energetic proton pencil beams (10 to 250 MeV) impinging perpendicularly on slabs of different thicknesses (1-10 mm) and different materials (water, lung, muscle, adipose, bone). During the local simulation multiple scattering, ionization, elastic and inelastic interactions have been taken into account and the physical characteristics such as lateral displacement and energy loss have been scored for primary and secondary particles. The scored data from appropriate slabs is then used for the stepwise transport of the protons in the MMC simulation while calculating the energy loss along the path between entrance and exit position. Additionally, ions and neutrons are taken into account for the dose calculation. In order to validate the MMC, calculated dose distributions using the MMC transport and Geant4 have been compared for different mono-energetic proton pencil beams impinging on phantoms with different homogeneous materials.
+
+
+RESULTS
+The agreement of calculated integral depth dose curves is better than 1% or 1 mm for all pencil beams and materials considered. For the dose profiles the agreement is within 1% or 1 mm for all energies, depths and materials. The efficiency of MMC is about 200 times higher than for Geant4.
+
+
+CONCLUSIONS
+The dose comparisons demonstrate that the new MMC results in very accurate and efficient dose calculations for proton beams in homogeneous materials. In future, the MMC method will be extended to inhomogeneous situations in order to allow patient dose calculations for proton beams. This work was supported by Varian Medical Systems.

@@ -1,0 +1,2 @@
+A taxonomy of demand uncensoring methods in revenue management
+Revenue management systems rely on customer data, and are thus affected by the absence of registered demand that arises when a product is no longer available. In the present work, we review the uncensoring (or unconstraining) techniques that have been proposed to deal with this issue, and develop a taxonomy based on their respective features. This study will be helpful in identifying the relative merits of these techniques, as well as avenues for future research.

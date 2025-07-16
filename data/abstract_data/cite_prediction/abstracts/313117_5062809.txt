@@ -1,0 +1,2 @@
+A template matching algorithm for high precision positioning
+We propose a novel method for template matching in unconstrained environments. The essence of it is the Multiple Information Matching (MSCE) which combines SSDA, CLD, EHD, a variety of algorithms, a useful, robust and parameter-free similarity measure between two sets of points. Since the SSDA algorithm was easy to influence the image noise and illumination, CLD and EHD are added to make the matching more accurate. Experimental results show that MSCE algorithm is more accurate in matching position.

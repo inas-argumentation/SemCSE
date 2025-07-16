@@ -1,0 +1,2 @@
+Adaptive synchronous control of servo system driven by two motors
+This paper presents study on output tracking and synchronization in dual-motors driving servo systems. An adaptive state feedback control scheme under model reference is developed to ensure the performance of systems; By Lyapunov synthesis approach, adaptive laws are developed for high order non-strict positive real systems with unknown parameters. Study shows that the scheme can effectively ensure the tracking performance and the synchronization between motors.

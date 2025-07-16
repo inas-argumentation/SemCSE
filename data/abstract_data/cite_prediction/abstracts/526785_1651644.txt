@@ -1,0 +1,2 @@
+Light Field Occlusion Removal
+We present a novel method for detecting occlusions and in-painting unknown areas of a light field photograph, based on previous work in obstruction-free photography and light field completion. An initial guess at separating the occluder from the rest of the photograph is computed by aligning backgrounds of the images and using this information to generate an occlusion mask. The masked pixels are then synthesized using a patch-based texture synthesis algorithm, with the median image as the source of each patch.

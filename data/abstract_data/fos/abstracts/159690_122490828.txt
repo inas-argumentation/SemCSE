@@ -1,0 +1,2 @@
+Reduction of non-periodic environmental magnetic noise in MEG measurement by continuously adjusted least squares method
+We developed a signal processing method named CALM (Continuously Adjusted Least squares Method) to reduce the non-periodical low-frequency noise during magnetoencephalography (MEG) measurements. With this method, we have successfully measured motor related cortical fields (MRCF) under daytime heavy urban noise.

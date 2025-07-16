@@ -1,0 +1,2 @@
+Evaluation of stresses in packaged ICs by In situ measurements with an assembly test chip and simulation
+Failures in ICs are more and more related to the whole packaging and less and less to the chip alone. The main problem comes from the mismatch between the different coefficients of thermal expansion which induces thermomechanical stresses and strain within the package. The authors present an assembly test chip (ATC) designed to evaluate thermomechanical stresses inside encapsulated integrated circuits. The experimental results are validated by finite-element simulation.

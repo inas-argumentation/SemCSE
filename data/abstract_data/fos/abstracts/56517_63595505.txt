@@ -1,0 +1,2 @@
+Research of Craniomaxillofacial 3D-Reconstructure and the Algorithm of Mesh Decimation
+We have developed a 3D-reconstructure system for CT slides of craniomaxillofacial. Then this paper presents a new criterion for triangulate process in vertex-removed algorithm. The contrastive experiment shows that this method can improve the speed of decemation process, at the same time, the result has little difference in contrast to previous method's results.

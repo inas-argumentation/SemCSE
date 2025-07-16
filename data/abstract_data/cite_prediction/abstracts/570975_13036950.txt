@@ -1,0 +1,2 @@
+Systematic Polar Coding
+Polar codes were originally introduced as a class of non-systematic linear block codes. This paper gives encoding and decoding methods for systematic polar coding that preserve the low-complexity nature of non-systematic polar coding while guaranteeing the same frame error rate. Simulation results are given to show that systematic polar coding offers significant advantages in terms of bit error rate performance.

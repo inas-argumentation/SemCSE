@@ -1,0 +1,2 @@
+Modular Multiplication and Division Algorithms Based on Continued Fraction Expansion
+In this paper, we provide new methods to generate a class of algorithms computing modular multiplication and division. All these algorithms rely on sequences derived from the Euclidean algorithm for a well chosen input. We then use these sequences as number scales of the Ostrowski number system to construct the result of either the modular multiplication or division.

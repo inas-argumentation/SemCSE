@@ -1,0 +1,2 @@
+Open pattern matching for C++
+Pattern matching is an abstraction mechanism that can greatly simplify source code. We present functional-style pattern matching for C++ implemented as a library, called Mach7. All the patterns are user-definable, can be stored in variables, passed among functions, and allow the use of open class hierarchies. As an example, we implement common patterns used in functional languages.

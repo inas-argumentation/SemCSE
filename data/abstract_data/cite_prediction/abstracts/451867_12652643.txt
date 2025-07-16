@@ -1,0 +1,2 @@
+Time series prediction by using a connectionist network with internal delay lines
+A neural network architecture, which models synapses as Finite Impulse Response (FIR) linear lters, is discussed for use in time series prediction. Analysis and methodology are detailed in the context of the Santa Fe Institute Time Series Prediction Competition. Results of the competition show that the FIR network performed remarkably well on a chaotic laser intensity time series.

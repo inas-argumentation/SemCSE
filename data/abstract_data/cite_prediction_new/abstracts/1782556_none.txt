@@ -1,0 +1,2 @@
+On additive representation functions of finite sets, I (Variation)
+If m ∈ ℕ, ℤm is the additive group of the modulo m residue classes, $$\mathcal{A} \subset \mathbb{Z}_m$$ and n ∈ ℕ, ℤm, then let $$R\left( {\mathcal{A},n} \right)$$ denote the number of solutions of a+a′ = n with $$a,a' \in \mathcal{A}$$. The variation $V(\mathcal{A}) = \mathop {\max }\limits_{n \in \mathbb{Z}_m } |R(\mathcal{A},n + 1) - R(\mathcal{A},n)|$ is estimated in terms of the number of a’s with $$a - 1 \notin \mathcal{A}$$, $$a \in \mathcal{A}$$.

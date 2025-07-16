@@ -1,0 +1,2 @@
+Fast Algorithm to Detecting Runway from High Resolution Remote Sensing Images
+Based on analyzing the structure feature of runway, a fast algorithm to detecting runway from high resolution remote sensing images was presented in this paper. Edge detection with embedded confidence and straight-line-based primitive extraction were introduced, former increase the reliability of the detecting results, latter expedite the detecting speed. The experimental results showed that the algorithm is speedy and robust.

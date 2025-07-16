@@ -1,0 +1,2 @@
+Wideband microwave crossover using slotted microstrip patch
+The design of a novel wideband microwave crossover is presented. The proposed structure is fully compatible with microstrip circuits as it is printed on one side of a single layer substrate. The structure is made up of a curved-edge microstrip patch with four fan-shaped slots symmetrically allocated inside the patch. The simulations show a crossover with more than 14 dB of isolation, less than 0.5 dB insertion loss across 49% fractional bandwidth centered at 7 GHz.

@@ -1,0 +1,2 @@
+An Advanced Optimizer for the IA-64 Architecture
+The IA-64 architecture's rich set of features enable aggressive high-level and scalar optimizations-supported by the latest analysis techniques-to improve integer and floating-point performance.

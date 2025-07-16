@@ -1,0 +1,2 @@
+Modeling and extraction of gate bias-dependent parasitic source and drain resistances in MOSFETs
+Gate voltage-dependent parasitic source and drain resistances in MOSFETs have been modeled and extracted with a symmetric additional resistance method (sARM) for better description of asymmetric parasitic resistances which are induced by intentional and/or accidental variations in the layout and fabrication process. A good agreement of nonlinear models with the sARM has been verified with experimental data obtained from n-channel LDD MOSFETs.

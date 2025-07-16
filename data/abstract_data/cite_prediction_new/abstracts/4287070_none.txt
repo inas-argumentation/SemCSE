@@ -1,0 +1,2 @@
+A Syntactical Treatment of Simultaneous Fixpoints in the Modal μ-Calculus
+We provide a purely syntactical treatment of simultaneous fixpoints in the modal μ-calculus by proving directly in Kozen’s axiomatisation their properties as greatest and least fixpoints, that is, the fixpoint axiom and the induction rule. Further, we apply our result in order to get a completeness result for characteristic formulae of finite pointed transition systems.

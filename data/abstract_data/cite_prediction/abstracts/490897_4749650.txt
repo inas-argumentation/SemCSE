@@ -1,0 +1,2 @@
+Automatic Detection of Online Jihadist Hate Speech
+We have developed a system that automatically detects online jihadist hate speech with over 80% accuracy, by using techniques from Natural Language Processing and Machine Learning. The system is trained on a corpus of 45,000 subversive Twitter messages collected from October 2014 to December 2016. We present a qualitative and quantitative analysis of the jihadist rhetoric in the corpus, examine the network of Twitter users, outline the technical procedure used to train the system, and discuss examples of use.

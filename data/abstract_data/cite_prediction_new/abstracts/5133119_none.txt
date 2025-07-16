@@ -1,0 +1,2 @@
+A semi-automatic method for the discrimination of diseased regions in detached leaf images using fuzzy c-means clustering
+This paper describes the segmentation method of stained leaf images for the purpose of the detection of leaf regions with anti-pathogen reaction colour products. The segmentation consist in the image conversion to HSV colour space and fuzzy c-means clustering in hue-saturation space to distinguish several pixels classes. These classes are then merged at the interactive stage into two final classes, where one of them determines the searched diseased areas.

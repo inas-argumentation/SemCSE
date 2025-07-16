@@ -1,0 +1,15 @@
+Impact of the calculation resolution of AAA for small fields and RapidArc treatment plans.
+PURPOSE
+To investigate the impact of the calculation resolution of the anisotropic analytical algorithms (AAA) for a variety of small fields in homogeneous and heterogeneous media and for RapidArc plans.
+
+
+METHODS
+Dose distributions calculated using AAA version 8.6.15 (AAA8) and 10.0.25 (AAA10) were compared to measurements performed with GafChromic EBT film, using phantoms made of polystyrene or a combination of polystyrene and cork. The accuracy of the algorithms calculated using grid resolutions of 2.5 and 1.0 mm was investigated for different field sizes, and for a limited selection of RapidArc plans (head and neck, small meningioma, and lung). Additional plans were optimized to create excessive multileaf collimator modulation and measured on a homogenous phantom. Gamma evaluation criterion of 3% dose difference and 2- or 1-mm distance to agreement (DTA) were applied to evaluate the accuracy of the algorithms.
+
+
+RESULTS
+For fields ≤3 × 3 cm2 , both versions of AAA predicted lower peak doses and broader penumbra widths than the measurements. However, AAA10 and a finer calculation grid improved the agreement. For RapidArc plans with many small multileaf collimator (MLC) segments and relatively high number of monitor units (MU), AAA8 failed to identify small dose peaks within the target. Both versions performed better in polystyrene than in cork. In homogeneous cork layers, AAA8 underestimated the average target dose for a clinical lung plan. This was improved with AAA10 calculated using a 1 mm grid.
+
+
+CONCLUSIONS
+AAA10 improves the accuracy of dose calculations, and calculation grid of 1.0 mm is superior to using 2.5 mm, although calculation times increased by factor of 5. A suitable upper MU constraint should be assigned during optimization to avoid plans with high modulation. For plans with a relative high number of monitor units, calculations using 1 mm grid resolution are recommended. For planning target volume (PTV) which contains relatively large area of low density tissue, users should be aware of possible dose underestimation in the low density region and recalculation with AAA10 grid 1.0 mm is recommended.

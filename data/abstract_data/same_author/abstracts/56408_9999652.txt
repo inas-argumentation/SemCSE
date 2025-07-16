@@ -1,0 +1,2 @@
+Parametric Optimization of Open Real-Time Systems
+For controllable timed automata, a general parametric optimization framework based on automata-theory is proposed. The framework is general enough to incorporate both the parametric analysis problem and the controller synthesis problem of computer systems. We propose an algorithm for the construction of the characterization of the parameter constraints and controller synthesis, which in turn yields a linear programming solution to parametric optimization.

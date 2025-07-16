@@ -1,0 +1,11 @@
+A comparative phylogenetic approach for dating whole genome duplication events
+MOTIVATION
+Whole genome duplications have played a major role in determining the structure of eukaryotic genomes. Current evidence revealing large blocks of duplicated chromatin yields new insights into the evolutionary history of species, but also presents a major challenge for researchers attempting to utilize comparative genomics techniques. Understanding the timing of duplication events relative to divergence among taxa is critical to accurate and comprehensive cross-species comparisons.
+
+
+RESULTS
+We describe a large-scale approach to estimate the timing of duplication events in a phylogenetic context. The methodology has been previously utilized for analysis of Arabidopsis and Saccharomyces duplication events. This new implementation provides a more flexible and reusable framework for these analyses. Scripts written in the Python programming language drive a number of freely available bioinformatics programs, creating a no-cost tool for researchers. The usefulness of the approach is demonstrated through genome-scale analysis of Arabidopsis and Oryza (rice) duplications.
+
+
+AVAILABILITY
+Software and documentation are freely available from http://plantgenome.agtec.uga.edu/bioinformatics/dating/

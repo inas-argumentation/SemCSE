@@ -1,0 +1,2 @@
+Hierarchies in independence and inclusion logic with strict semantics
+We study the expressive power of fragments of inclusion and independence logic defined by restricting the number k of universal quantifiers in formulas. Assuming the so-called strict semantics for these logics, we relate these fragments of inclusion and independence logic to sublogics ESO_f(k\forall) of existential second-order logic, which in turn are known to capture the complexity classes NTIME_{RAM}(n^k).

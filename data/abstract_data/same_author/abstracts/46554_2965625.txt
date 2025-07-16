@@ -1,0 +1,2 @@
+Visualizing the evolution of a subject domain: a case study
+We explore the potential of information visualization techniques in enhancing existing methodologies for domain analysis and modeling. In this case study, we particularly focus on visualizing the evolution of the hypertext field based on author co-citation patterns, including the use of a sliding-window scheme to generate a series of annual snapshots of the domain structure, and a factor-referenced color-coding scheme to highlight predominant specialties in the field.

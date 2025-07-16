@@ -1,0 +1,2 @@
+Rates of decay for the survival probability of a mutant gene
+Ifqk is the extinction probability of a slightly supercritical branching process with offspring distributionPkr :r = 0, 1, 2,..., then it is shown that if sup ∑rr3pkr, < ∞, inf σ2k > 0, andmk→ 1, then 1 −qk∼ 2(mk−1)σk−2, wheremk= ∑rrpkr, σ2k = ∑krr2pkr−mk2. This provides a simple set of sufficient conditions for the validity of a conjecture of Ewens (1969) for the survival probability of a slightly advantageous mutant gene.

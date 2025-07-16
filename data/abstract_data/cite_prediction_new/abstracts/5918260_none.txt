@@ -1,0 +1,2 @@
+A Design Procedure for All-Digital Phase-Locked Loops Based on a Charge-Pump Phase-Locked-Loop Analogy
+In this brief, a systematic design procedure for a second-order all-digital phase-locked loop (PLL) is proposed. The design procedure is based on the analogy between a type-II second-order analog PLL and an all-digital PLL. The all-digital PLL design inherits the frequency response and stability characteristics of the analog prototype PLL

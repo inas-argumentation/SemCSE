@@ -1,0 +1,2 @@
+Information consensus in multivehicle cooperative control
+The purpose of this article is to provide a tutorial overview of information consensus in multivehicle cooperative control. Theoretical results regarding consensus seeking under both time invariant and dynamically changing communication topologies are summarized. Several specific applications of consensus algorithms to multivehicle coordination are described

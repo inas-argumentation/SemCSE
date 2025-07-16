@@ -1,0 +1,2 @@
+Smart Home-Control and Monitoring System Using Smart Phone
+This paper presents a low cost and flexible home control and monitoring system using an embedded micro-web server, with IP connectivity for accessing and controlling devices and appliances remotely using Android based Smart phone app. The proposed system does not require a dedicated server PC with respect to similar systems and offers a novel communication protocol to monitor and control the home environment with more than just the switching functionality.

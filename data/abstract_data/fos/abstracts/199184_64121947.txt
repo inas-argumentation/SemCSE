@@ -1,0 +1,2 @@
+The Solutions Summary of scanf:floating point formats not linked
+Briefy analyses the reason that floating point format not linked when using scanf funation in the environment of Turbo C 2.0.Much of the information give several different solutions,and after a lot of literature,largely attribute five solutions so as to select appropriate method when uses according to their need for flexibility.

@@ -1,0 +1,2 @@
+On the minimum order of graphs with given semigroup
+Denote by M(n) the smallest positive integer such that for every n-element monoid M there is a graph G with at most M(n) vertices such that End(G) is isomorphic to M. It is proved that 2 (1 + o(1))n log 2 n ≤M(n)≤n · 2n + O(n) . Moreover, for almost all n-element monoids M there is a graph G with at most 12 · n · log2n + n vertices such that End(G) is isomorphic to M.

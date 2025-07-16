@@ -1,0 +1,6 @@
+On the spectra of finite type algebras
+Let X be a complex affine variety and k its coordinate algebra. This paper will review Morita equivalence for k-algebras and will then review, for finite type k-algebras, a weakening of Morita equivalence called spectral equivalence.
+
+The spectrum of A is, by definition, the set of equivalence classes of irreducible A-modules. For any finite type k-algebra A, the spectrum of A is in bijection with the set of primitive ideals of A. The spectral equivalence relation preserves the spectrum of A and also preserves the periodic cyclic homology of A. However, the spectral equivalence relation permits a tearing apart of strata in the primitive ideal space which is not allowed by Morita equivalence.
+
+A key example illustrating the distinction between Morita equivalence and spectral equivalence relation is provided by affine Hecke algebras associated to affine Weyl groups. We also review the role of spectral equivalence in the ABPS conjecture.

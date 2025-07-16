@@ -1,0 +1,2 @@
+The need for speed: maximizing the speed of random walk in fixed environments
+We study nearest neighbor random walks in fixed environments of $\mathbb{Z}$ composed of two point types : $(\frac{1}{2},\frac{1}{2})$ and$(p,1-p)$ for $p>\frac{1}{2}$. We show that for every environmentwith density of $p$ drifts bounded by $\lambda$ we have $\limsup_{n\rightarrow\infty}\frac{X_n}{n}\leq (2p-1)\lambda$, where $X_n$ is a random walk in the environment. In addition up to some integereffect the environment which gives the greatest speed is given byequally spaced drifts.

@@ -1,0 +1,15 @@
+TH-C-137-07: Population-Based IMRT Beam Aperture Shape Inference Using Retrospective Treatment Plan and Patient Data.
+PURPOSE
+Existing IMRT aperture selection process is not only highly computationally expensive, but also lacks mechanism that would utilize historical data on high-quality apertures. The purpose of our aperture classification model, apClass, is to alleviate both aforementioned issues by employing advanced machine-learning algorithms to "learn" the high-quality aperture patterns and, subsequently, "correlate" the identified aperture patterns to anatomic features specific to each and every patient.
+
+
+METHODS
+We have evaluated our ap Class model on ten advanced head-and-neck cancer patients. For each of the patients, key anatomic features and aperture shapes were retrieved from the existing physician-approved clinical treatment plans. A greedy heuristic procedure was then used to generate a library of small area aperture envelopes. Those generated aperture envelopes represent the key tenet of our model: we recognize that patients with similar anatomic features are likely to benefit from "somewhat" similar aperture shapes. Our notion of "aperture envelope", therefore, refers to a continuous range of mlc leaf movements which those similar aperture shapes might share. Once the library of aperture envelopes was constructed, we have implemented advanced multi-target classification that seeks to identify similarities between anatomy of each individual patient (organ/tumor volumes and organ/tumor distances) and types of high-quality aperture envelopes that can be used for IMRT planning.
+
+
+RESULTS
+Our case study of ten head-and-neck cancer patients indicated strong similarities between aperture patterns used in the clinical treatment plans. We were able to generate 189 aperture envelopes from over 2600 apertures used in the original clinical treatment plans and our multi-target classification tests indicated near 80% mean 5-fold validation accuracies for the top 25% generated aperture envelopes.
+
+
+CONCLUSION
+We have presented an innovative aperture classification model with promising potential for efficient utilization of historical clinical treatment plans for new patient IMRT planning.

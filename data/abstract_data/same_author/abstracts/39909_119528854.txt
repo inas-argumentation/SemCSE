@@ -1,0 +1,2 @@
+Emptiness Formation Probability for the One-Dimensional Isotropic XY Model
+We study a correlation function for the one-dimensional isotropic XY model (XX0 model), which is called the Emptiness Formation Probability (EFP). It is the probability of the formation of a ferromagnetic string in the anti-ferromagnetic ground state. Using the expression of the EFP as a Toeplitz determinant, we discuss its asymptotic behaviors. We also compare the analytical results with numerical calculations as the density-matrix renormalization group and the quantum Monte-Carlo method.

@@ -1,0 +1,12 @@
+KdV cnoidal waves are spectrally stable
+Going back to considerations of Benjamin (1974), there has been 
+significant interest in the question of stability for the stationary 
+periodic solutions of the Korteweg-deVries equation, the so-called 
+cnoidal waves. In this paper, we exploit the squared-eigenfunction 
+connection between the linear stability problem and the Lax pair for 
+the Korteweg-deVries equation to completely determine the spectrum 
+of the linear stability problem for perturbations that are bounded 
+on the real line. We find that this spectrum is confined to the 
+imaginary axis, leading to the conclusion of spectral stability. An 
+additional argument allows us to conclude the completeness of the 
+associated eigenfunctions.

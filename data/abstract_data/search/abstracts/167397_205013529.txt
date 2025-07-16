@@ -1,0 +1,2 @@
+A probabilistic Hough transform
+Abstract The Hough Transform for straight line detection is considered. It is shown that if just a small subset of the edge points in the image, selected at random, is used as input for the Hough Transform, the performance is often only slightly impaired, thus the execution time can be considerably shortened. The performance of the resulting "Probabilistic Hough Transform" is analysed. The analysis is supported by experimental evidence.

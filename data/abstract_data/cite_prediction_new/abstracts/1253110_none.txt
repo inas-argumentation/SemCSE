@@ -1,0 +1,6 @@
+Hippodrome: Running Circles Around Storage Administration
+Storage system configuration, even at the enterprise scale, is traditionally undertaken by human experts using a time-consuming process of trial and error, guided by simple rules of thumb. Due to the complexity of the design process and lack of workload information, the resulting systems often cost significantly more than necessary, or fail to perform adequately. 
+ 
+Our solution to this problem is to automate the design and configuration process using a tool we call Hippodrome. It can explore the design space more thoroughly than humans, and implement the design automatically, thereby eliminating many tedious, error-prone operations. 
+ 
+Hippodrome is structured as an iterative loop: it analyzes a workload to determine its requirements, creates a new storage system design to better meet these requirements, migrates the existing system to the new design. It repeats the loop until it finds a storage system design that satisfies the workload's I/O requirements. This paper describes the Hippodrome loop and demonstrates that our prototype implementation converges rapidly to appropriate system designs.

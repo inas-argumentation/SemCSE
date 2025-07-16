@@ -1,0 +1,2 @@
+Binary Trees and Uniform Distribution of Traffic Cutback
+This article introduces the notion of the External Left Length (ELL) of binary trees, which is analogous to the notion of the External Path Length (EPL), and derives theorems about the ELL which correspond to well-known facts about the EPL. Results are applied to the analysis of the optimization of an algorithm for the smooth traffic cutback in data communication.

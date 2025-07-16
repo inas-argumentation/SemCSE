@@ -1,0 +1,22 @@
+Monitoring aerosols over Europe: an assessment of the potential benefit of assimilating the VIS04 measurements from the future MTG/FCI geostationary imager
+. The study assesses the possible benefit of assimilating aerosol optical depth
+(AOD) from the future space-borne sensor FCI (Flexible Combined Imager) for
+air quality monitoring in Europe. An observing system simulation experiment
+(OSSE) was designed and applied over a 4-month period, which includes a severe-pollution episode. The study focuses on the FCI channel centred at 444 nm,
+which is the shortest wavelength of FCI. A nature run (NR) and four different
+control runs of the MOCAGE chemistry transport model were designed and
+evaluated to guarantee the robustness of the OSSE results. The synthetic AOD
+observations from the NR were disturbed by errors that are typical of the
+FCI. The variance of the FCI AOD at 444 nm was deduced from a global
+sensitivity analysis that took into account the aerosol type, surface
+reflectance and different atmospheric optical properties. The experiments
+show a general benefit to all statistical indicators of the assimilation of
+the FCI AOD at 444 nm for aerosol concentrations at the surface over Europe, and
+also a positive impact during the severe-pollution event. The simulations
+with data assimilation reproduced spatial and temporal patterns of PM 10 
+concentrations at the surface better than those without assimilation all along the
+simulations and especially during the pollution event. The advantage of
+assimilating AODs from a geostationary platform over a low Earth orbit
+satellite has also been quantified. This work demonstrates the capability of
+data from the future FCI sensor to bring added value to the MOCAGE aerosol
+simulations, and in general, to other chemistry transport models.

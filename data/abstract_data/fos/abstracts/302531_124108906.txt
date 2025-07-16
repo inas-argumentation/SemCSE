@@ -1,0 +1,2 @@
+Optimization and Implementation of Gaussian Blur Algorithm
+Gaussian blur is an important image processing algorithm.Uses the linearly separable characteristics of Gaussian function,the effect of applying the two-dimensional matrix can also be achieved by applying a series of single-dimensional Gaussian matrices in the horizontal direction and in the vertical direction.Based on this characteristic,the algorithm efficiency can be enhanced about 10 times in speed.

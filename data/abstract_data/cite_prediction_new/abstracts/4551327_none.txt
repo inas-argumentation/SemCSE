@@ -1,0 +1,2 @@
+Renormalization of Gauge Fields: A Hopf Algebra Approach
+We study the Connes–Kreimer Hopf algebra of renormalization in the case of gauge theories. We show that the Ward identities and the Slavnov–Taylor identities (in the abelian and non-abelian case respectively) are compatible with the Hopf algebra structure, in that they generate a Hopf ideal. Consequently, the quotient Hopf algebra is well-defined and has those identities built in. This provides a purely combinatorial and rigorous proof of compatibility of the Slavnov–Taylor identities with renormalization.

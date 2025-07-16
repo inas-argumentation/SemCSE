@@ -1,0 +1,2 @@
+Interleaver design for punctured turbo codes based on RSC code structure
+Punctured turbo codes may show poor performance for some specific code rates, due to uneven error protection of input bits after puncturing. In this paper, such phenomenon is analyzed by considering the structure of recursive systematic convolutional (RSC) code and, new design criteria of interleaver are proposed such that the information bits are protected as equally as possible. Simulation results confirm that the proposed interleaver show good performance for the specific code rates considered.

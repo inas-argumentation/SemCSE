@@ -1,0 +1,15 @@
+SU-F-T-480: Evaluation of the Role of Varian Machine Performance Check (MPC) in Our Daily QA Routine.
+PURPOSE
+(A) To assess the role of Varian MPC in our daily QA routine, and (B) evaluate the accuracy and precision of MPC.
+
+
+METHODS
+The MPC was performed weekly, for five months, on a Varian TrueBeam for five photon (6x, 10x, 15x, 6xFFF, and 10xFFF) and electron (6e, 9e, 12e, 16e, and 20e) energies. Output results were compared to those determined with an ionization chamber (TN30001, PTW-Freiburg) in plastic and a daily check device (DQA3, Sun Nuclear). Consistency of the Mechanical measurements over five months was analyzed and compared to monthly IsoCal results.
+
+
+RESULTS
+The MPC randomly showed large deviations (3-7%) that disappeared upon reacquisition. The MPC output closely matched monthly ion chamber and DQA3 measurements. The maximum and mean absolute difference between monthly and MPC was 1.18% and 0.28±0.21% for all energies. The maximum and mean absolute difference between DQA3 and MPC was 3.26% and 0.85±0.61%. The results suggest the MPC is comparable to the DQA3 for measuring output. The DQA3 provides wedge output, flatness, symmetry, and energy constancy checks, which are missing from the current implementation of the MPC. However, the MPC provides additional mechanical tests, such as size of the radiation isocenter (0.33±0.02 mm) and its coincidence with MV and kV isocenters (0.17±0.05 and 0.21±0.03 mm). It also provides positional accuracy of individual jaws (maximum σ, 0.33mm), all the MLC leaves (0.08mm), gantry (0.05°) and collimator (0.13°) rotation angles, and couch positioning (0.11mm) accuracy. MPC mechanical tests could replace our current daily on-board imaging QA routine and provide some additional QA not currently performed.
+
+
+CONCLUSION
+MPC has the potential to be a valuable tool that facilitates reliable daily QA including many mechanical tests that are not currently performed. This system can add to our daily QA, but further development would be needed to fully replace our current Daily QA device.

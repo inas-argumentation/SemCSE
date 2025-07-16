@@ -1,0 +1,2 @@
+Web Technologies for Collaborative Visualization and Simulation
+Web technologies|in particular linked Java servers and clients|allow new dynamic collaborative environments linking people and computers. We describe the architecture of a system, TANGOsim, that combines a Java collaborative environment with an executive providing general message lters, and an event driven simulator. The initial application is to command and control, but we describe how this approach can also be used in other areas, such as health care, scienti c visualization, and (distance) education.

@@ -1,0 +1,2 @@
+A Proof of Convergence for Two Parallel Jacobi SVD Algorithms
+The authors consider two parallel Jacobi algorithms, due to R.P. Brent et al. (J. VLSI Comput. Syst., vol.1, p.242-70, 1985) and F.T. Luk (1986 J. Lin. Alg. Applic., vol.77, p.259-73), for computing the singular value decomposition of an n*n matrix. By relating the algorithms to the cyclic-by-rows Jacobi method, they prove convergence of the former for odd n and of the latter for any n. The authors also give a nonconvergence example for the former method for all even n>or=4. >

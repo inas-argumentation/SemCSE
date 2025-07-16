@@ -1,0 +1,2 @@
+Polyphase sequence with low autocorrelations
+It is proved that Golomb sequences have perfect periodic autocorrelation. It is also proved that the magnitudes of the out-of-phase aperiodic autocorrelation values of Golomb sequences of length L for all L>or=14 are bounded by square root (L/3). It is shown that B/sub g/(L) is asymptotic to square root (L/c) (where c approximately=4.348. . .), as L goes to infinity. >

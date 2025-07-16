@@ -1,0 +1,11 @@
+A new algorithm for cluster analysis of genomic methylation: the Helicobacter pylori case
+MOTIVATION
+The genomic methylation analysis is useful to type bacteria that have a high number of expressed type II methyltransferases. Methyltransferases are usually committed to Restriction and Modification (R-M) systems, in which the restriction endonuclease imposes high pressure on the expression of the cognate methyltransferase that hinder R-M system loss. Conventional cluster methods do not reflect this tendency. An algorithm was developed for dendrogram construction reflecting the propensity for conservation of R-M Type II systems.
+
+
+RESULTS
+The new algorithm was applied to 52 Helicobacter pylori strains from different geographical regions and compared with conventional clustering methods. The algorithm works by first grouping strains that share a common minimum set of R-M systems and gradually adds strains according to the number of the R-M systems acquired. Dendrograms revealed a cluster of African strains, which suggest that R-M systems are present in H.pylori genome since its human host migrates from Africa.
+
+
+AVAILABILITY
+The software files are available at http://www.ff.ul.pt/paginas/jvitor/Bioinformatics/MCRM_algorithm.zip.

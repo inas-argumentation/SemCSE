@@ -1,0 +1,2 @@
+A study on object tracking quality under probabilistic coverage in sensor networks
+Sensor networks are used for a wide range of object tracking applications, such as vehicle tracking in military surveillance and wild animal tracking in habitat monitoring [1]. These applications, by their nature, enforce certain tracking quality and lifetime requirements. These two requirements, however, are two conflicting optimization goals due to the stringent energy constraints of sensor nodes.

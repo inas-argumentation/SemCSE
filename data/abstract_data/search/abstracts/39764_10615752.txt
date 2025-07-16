@@ -1,0 +1,2 @@
+Custom design of CMOS low power high performance digital signal processing macro for hard disk drive applications
+The design challenges and custom design techniques associated with low power, smallarea, high performance CMOS digital signalprocessing circuits for hard disk drive applications are presented. The advantages of custom design are demonstrated by an example custom digital FIR filter macro that provides substantial improvement in performance, area, and power dissipation over standard cell implementations.

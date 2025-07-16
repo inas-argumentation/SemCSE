@@ -1,0 +1,2 @@
+Sliding mode control for invertible systems based on a direct design of interactors
+The sliding mode tracking control is reviewed and extended so that it can be applied to invertible systems. The main advantage of this paper is a direct and simple design of interactors for general invertible systems which is performed by calculating infinite eigenbasis of system matrices.

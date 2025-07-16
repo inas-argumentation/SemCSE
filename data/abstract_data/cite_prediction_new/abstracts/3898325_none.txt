@@ -1,0 +1,2 @@
+A New PID Neural Network Controller Design for Nonlinear Processes
+In this paper, a novel adaptive tuning method of PID neural network (PIDNN) controller for nonlinear process is proposed. The method utilizes an improved gradient descent method to adjust PIDNN parameters where the margin stability will be employed to get high tracking performance and robustness with regard to external load disturbance and parameter variation. Simulation results show the effectiveness of the proposed algorithm compared with other well-known learning methods.

@@ -1,0 +1,2 @@
+Improving qPCR telomere length assays: Controlling for well position effects increases statistical power
+Telomere length (TL) is commonly measured using quantitative PCR (qPCR). Although, easier than the southern blot of terminal restriction fragments (TRF) TL measurement method, one drawback of qPCR is that it introduces greater measurement error and thus reduces the statistical power of analyses. To address a potential source of measurement error, we consider the effect of well position on qPCR TL measurements.

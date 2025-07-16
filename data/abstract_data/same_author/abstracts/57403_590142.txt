@@ -1,0 +1,2 @@
+Object shape and reflectance modeling from observation
+An object model for computer graphics applications should contain two aspects of information: shape and reflectance properties of the object. A number of techniques have been developed for modeling object shapes by observing real objects. In contrast, attempts to model reflectance properties of real objects have been rather limited. In most cases, modeled reflectance properties are too simple or too complicated to be used for synthesizing realistic images of the object.

@@ -1,0 +1,11 @@
+Event Detection using Twitter: A Spatio-Temporal Approach
+BACKGROUND
+Every day, around 400 million tweets are sent worldwide, which has become a rich source for detecting, monitoring and analysing news stories and special (disaster) events. Existing research within this field follows key words attributed to an event, monitoring temporal changes in word usage. However, this method requires prior knowledge of the event in order to know which words to follow, and does not guarantee that the words chosen will be the most appropriate to monitor.
+
+
+METHODS
+This paper suggests an alternative methodology for event detection using space-time scan statistics (STSS). This technique looks for clusters within the dataset across both space and time, regardless of tweet content. It is expected that clusters of tweets will emerge during spatio-temporally relevant events, as people will tweet more than expected in order to describe the event and spread information. The special event used as a case study is the 2013 London helicopter crash.
+
+
+RESULTS AND CONCLUSION
+A spatio-temporally significant cluster is found relating to the London helicopter crash. Although the cluster only remains significant for a relatively short time, it is rich in information, such as important key words and photographs. The method also detects other special events such as football matches, as well as train and flight delays from Twitter data. These findings demonstrate that STSS is an effective approach to analysing Twitter data for event detection.

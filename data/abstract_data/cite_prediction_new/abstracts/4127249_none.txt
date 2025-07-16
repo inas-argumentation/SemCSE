@@ -1,0 +1,25 @@
+Dopaminergic Regulation of Neuronal Circuits in Prefrontal Cortex
+Neuromodulators, like dopamine, have considerable influence on the 
+processing capabilities of neural networks. 
+This has for instance been shown in the working memory functions 
+of prefrontal cortex, which may be regulated by altering the 
+dopamine level. Experimental work provides evidence on the biochemical 
+and electrophysiological actions of dopamine receptors, but there are few 
+theories concerning their significance for computational properties 
+(ServanPrintzCohen90,Hasselmo94). 
+We point to experimental data on neuromodulatory regulation of 
+temporal properties of excitatory neurons and depolarization of inhibitory 
+neurons, and suggest computational models employing these effects. 
+Changes in membrane potential may be modelled by the firing threshold, 
+and temporal properties by a parameterization of neuronal responsiveness 
+according to the preceding spike interval. 
+We apply these concepts to two examples using spiking neural networks. 
+In the first case, there is a change in the input synchronization of 
+neuronal groups, which leads to 
+changes in the formation of synchronized neuronal ensembles. 
+In the second case, the threshold 
+of interneurons influences lateral inhibition, and the switch from a 
+winner-take-all network to a parallel feedforward mode of processing. 
+Both concepts are interesting for the modeling of cognitive functions and may 
+have explanatory power for behavioral changes associated with dopamine 
+regulation.

@@ -1,0 +1,2 @@
+Cayley Automatic Representations of Wreath Products
+We construct the representations of Cayley graphs of wreath products using finite automata, pushdown automata and nested stack automata. These representations are in accordance with the notion of Cayley automatic groups introduced by Kharlampovich, Khoussainov and Miasnikov and its extensions introduced by Elder and Taback. We obtain the upper and lower bounds for a length of an element of a wreath product in terms of the representations constructed.

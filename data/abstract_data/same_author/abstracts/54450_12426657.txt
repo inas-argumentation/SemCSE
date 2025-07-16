@@ -1,0 +1,2 @@
+Ramsey families which exclude a graph
+For graphsA andB the relationA→(B)r1 means that for everyr-coloring of the vertices ofA there is a monochromatic copy ofB inA. Forb (G) is the family of graphs which do not embedG. A familyℱof graphs is Ramsey if for all graphsB∈ℱthere is a graphA∈ℱsuch thatA→(B)r1. The only graphsG for which it is not known whether Forb (G) is Ramsey are graphs which have a cutpoint adjacent to every other vertex except one. In this paper we prove for a large subclass of those graphsG, that Forb (G) does not have the Ramsey property.

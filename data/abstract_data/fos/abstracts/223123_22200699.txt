@@ -1,0 +1,2 @@
+Expanding Gaussian kernels for multivariate conditional density estimation
+We demonstrate fundamental problems with the standard use of Gaussian kernels (SGKs) for estimating f(m|x) from sparse training data (x/sup i/,m/sup i/). We develop a new method that overcomes these considerations using Gaussian kernels with expanding covariances (EGKs) combined through Bayesian analysis. In addition, we demonstrate that for a synthetic problem, EGKs perform better qualitatively and quantitatively with respect to the Kullback-Leibler criteria.

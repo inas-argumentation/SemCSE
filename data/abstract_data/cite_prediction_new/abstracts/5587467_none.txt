@@ -1,0 +1,2 @@
+Some lab experiments on the control of an aircraft electrical landing gear
+We describe a mockup for experimenting the control system design of an electrically actuated aircraft landing gear. The retraction and extension operations of the landing gear are modeled by a formal language and Petri nets are used to describe the control actions. Some ideas on how to manage possible temporary failures of some mechanical or electric components are also described.

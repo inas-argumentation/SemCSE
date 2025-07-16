@@ -1,0 +1,2 @@
+On the isoperimetric problem with perimeter density r^p
+In this paper the author studies the isoperimetric problem in $\re^n$ with perimeter density $|x|^p$ and volume density $1.$ We settle completely the case $n=2,$ completing a previous work by the author: we characterize the case of equality if $0\leq p\leq 1$ and deal with the case $-\infty<p<-1$ (with the additional assumption $0\in\Omega$). In the case $n\geq 3$ we deal mainly with the case $-\infty<p<0,$ showing among others that the results in $2$ dimensions do not generalize for the range $-n+1<p<0.$

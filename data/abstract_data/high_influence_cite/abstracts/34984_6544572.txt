@@ -1,0 +1,4 @@
+The parity of the Cochran–Harvey invariants of 3–manifolds
+Given a finitely presented group and an epimorphism Cochran and Harvey defined a sequence of invariants , which can be viewed as the degrees of higher-order Alexander polynomials. Cochran and Harvey showed that (up to a minor modification) this is a never decreasing sequence of numbers if is the fundamental group of a 3-manifold with empty or toroidal boundary. Furthermore they showed that these invariants give lower bounds on the Thurston norm. 
+ 
+Using a certain Cohn localization and the duality of Reidemeister torsion we show that for a fundamental group of a 3-manifold any jump in the sequence is necessarily even. This answers in particular a question of Cochran. Furthermore using results of Turaev we show that under a mild extra hypothesis the parity of the Cochran-Harvey invariant agrees with the parity of the Thurston norm.

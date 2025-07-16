@@ -1,0 +1,2 @@
+Isolated points of spectrum of $k$-quasi-$*$-class $A$ operators
+Let T be a bounded linear operator on a complex Hilbert space H. In this paper we introduce a new class, denoted KQA∗, of operators satisfying T ∗k(|T | − |T ∗|2)T k ≥ 0 where k is a natural number, and we prove basic structural properties of these operators. Using these results, we also show that if E is the Riesz idempotent for a non-zero isolated point μ of the spectrum of T ∈ KQA∗, then E is self-adjoint and EH = ker(T − μ) = ker (T − μ)∗. Some spectral properties are also presented.

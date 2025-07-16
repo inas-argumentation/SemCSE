@@ -1,0 +1,2 @@
+Amplified Boomerang Attacks Against Reduced-Round MARS and Serpent
+We introduce a new cryptanalytic technique based on Wagner’s boomerang and inside-out attacks. We first describe this new attack in terms of the original boomerang attack, and then demonstrate its use on reduced-round variants of the MARS core and Serpent. Our attack breaks eleven rounds of the MARS core with 2 chosen plaintexts, 2 memory, and 2 partial decryptions. Our attack breaks eight rounds of Serpent with 2 chosen plaintexts, 2 memory, and 2 partial decryptions.

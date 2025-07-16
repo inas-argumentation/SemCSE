@@ -1,0 +1,2 @@
+A historical review on lateral and longitudinal control of autonomous vehicle motions
+In this research, brief survey of literature on current developments in the field of lateral and longitudinal control of autonomous vehicle motions. The paper categorizes the motions of vehicle to: car following, lane keeping, lane changing, subsequently, longitudinal control (brake and throttle) lateral control (steering) and integration of these controls for autonomous vehicles was investigated. Also different equipment and approaches to control of motions in each field was proposed.

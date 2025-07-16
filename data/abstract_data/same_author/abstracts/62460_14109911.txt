@@ -1,0 +1,2 @@
+Cluster and grid superservers: the dawning experiences in China
+This paper summarizes recent activities at Institute of Computing Technology, Chinese Academy of Sciences, in developing superservers for cluster and grid computing. We first identify market and technical trends observed from a Chinese perspective. Then we describe the research work in developing the Dawning series high performance computers and the China computational grid. We also highlight some on-going research work in developing grid-oriented superserver systems.

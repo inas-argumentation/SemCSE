@@ -1,0 +1,2 @@
+Perturbation theory of solid-liquid interfacial free energies of bcc metals.
+A perturbation theory is used to calculate bcc solid-liquid interfacial free energies of metallic systems with embedded-atom model potentials. As a reference system for bcc crystals we used a single-occupancy cell, hard-sphere bcc system. Good agreements between the perturbation theory results and the corresponding results from simulations are found. The strategy to extract hard-sphere bcc solid-liquid interfacial free energies may have broader applications for other crystal lattices.

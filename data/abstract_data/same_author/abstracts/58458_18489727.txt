@@ -1,0 +1,2 @@
+Manipulation of Elastically Deformable Surfaces through Maya Plug-in
+In this paper, we develop a mathematical model from the theory of plate bending in elasticity which relates physical properties of a surface to its elastic deformation. We present the finite difference solution of the mathematical model and implement it using the Maya API and the MEL scripting language. We examine the effects of material properties and other factors on surface shapes and demonstrate applications of the proposed approach in controlling the shape of elastically deformable surfaces

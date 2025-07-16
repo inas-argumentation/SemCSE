@@ -1,0 +1,2 @@
+Strong unicity and alternation for linear optimization
+We consider linear semi-infinite optimization problems and prove characterizations for strong unicity. One of these is a weak alternation property. This result suggests the introduction of the property of regular strong unicity, which is equivalent to a stronger alternation property. The theorems are used in order to prove a Haar-type theorem for linear optimization problems. An application to best Chebyshev approximation is given.

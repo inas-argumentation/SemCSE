@@ -1,0 +1,2 @@
+The CMS Monte Carlo Production System: Development and Design
+The CMS production system has undergone a major architectural upgrade from its predecessor, with the goal of reducing the operational manpower needed and preparing for the large scale production required by the CMS physics plan. The new production system is a tiered architecture that facilitates robust and distributed production request processing and takes advantage of the multiple Grid and farm resources available to the CMS experiment.

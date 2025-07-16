@@ -1,0 +1,2 @@
+Triviality of arc closures and the local isomorphism problem
+We give an answer in the “geometric” setting to a question of [4] asking when local isomorphisms of k-schemes can be detected on the associated maps of local arc or jet schemes. In particular, we show that their ideal-closure operation a ↦ a ac (the arc-closure) on a local k-algebra ( R , m , L ) is trivial when R is Noetherian and k ↪ L is separable, and thus that such a germ Spec R has the (embedded) local isomorphism property.

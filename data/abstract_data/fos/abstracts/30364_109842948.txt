@@ -1,0 +1,2 @@
+A minimal capacitor cascade synthesis for integrated circuits
+Using a theory of non-reciprocal cascade synthesis based upon removal of even part admittance zeros a synthesis of resistively terminated filters is developed with reference to integrated realizations. The resulting structure is a cascade of capacitor-gyrator sections, with all gyrators grounded, and using a minimum number of capasitors all of which can be chosen equal.

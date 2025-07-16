@@ -1,0 +1,2 @@
+A Near-Linear Area Bound for Drawing Binary Trees
+We present several simple methods to construct planar, strictly upward, strongly order-preserving, straight-line drawings of any n -node binary tree. In particular, it is shown that O(n1+ɛ) area is always sufficient for an arbitrary constant ɛ>0 .

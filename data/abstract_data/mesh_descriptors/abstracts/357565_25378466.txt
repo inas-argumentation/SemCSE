@@ -1,0 +1,15 @@
+Ultrasonographic assessment of liver fibrosis with computer-assisted analysis of liver surface irregularities.
+PURPOSE
+The goal of this study was to evaluate the diagnostic accuracy of a software program that automatically analyzes the liver surface to diagnose significant fibrosis, by comparing it to the subjective analysis of a radiologist and to transient elastography (Fibroscan(®)).
+
+
+PATIENTS AND METHODS
+One hundred fourteen patients with chronic liver disease were included in the study. They underwent liver biopsy, FibroScan(®) and ultrasonographic examination of the liver surface. The liver surface was analyzed by a software program that gave a score of surface irregularities. This evaluation was compared to subjective analysis by a radiologist expert in liver imaging and by two general radiologists.
+
+
+RESULTS
+Fifty percent of the patients had significant fibrosis according to the METAVIR score. The AUROC for the diagnosis of significant fibrosis by the software program was 0.80 (95%CI: 0.71-0.87), which was equivalent (P=0.86) to that of FibroScan(®) (0.81; 95%CI: 0.71-0.89). Results of the subjective analysis by the expert radiologist were poorer than those of the software analysis (P=0.02) (AUROC=0.66; 95%CI: 0.56-0.75). Interobserver agreement among radiologists was poor (0.25<kappa<0.37).
+
+
+CONCLUSION
+Computer-assisted liver surface analysis was better than subjective analysis, and similar to that of the FibroScan(®). This method could be useful for the diagnosis of significant fibrosis in patients with chronic hepatitis and complementary to the other non-invasive diagnostic tests.

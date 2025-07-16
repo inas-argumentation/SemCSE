@@ -1,0 +1,2 @@
+Optimizing SOC Test Resources using Dual Sequences
+In this paper, we propose a new data structure called dual sequences to represent SOC test schedules. Dual sequences are used together with a simulated annealing based procedure to optimize the SOC test application time and tester resources. The problems we consider are generation of optimal test schedules for SOCs and minimizing tester memory and test channels. Results of experiments conducted on ITC’02 benchmark SOCs show the effectiveness of the proposed method.

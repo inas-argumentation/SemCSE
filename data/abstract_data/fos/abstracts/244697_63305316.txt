@@ -1,0 +1,2 @@
+Design and Implementation of Full-Text Searching System Based on Lucene and Heritrix
+Analyzes the basic structure and principle of full-text search engine. And uses the open source tool Heritrix as a search engine crawler to download Web page, uses HTMLParser extract the content of Web page, Lucene provides indexing and search services, uses B/S model, achieves a full text search engine.

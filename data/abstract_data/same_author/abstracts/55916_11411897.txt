@@ -1,0 +1,2 @@
+Specification of an Infinite-State Local Model Checker in Rewriting Logic
+We formalize a local model checker in rewriting logic and use it to analyze an infinite-state system in this paper. I n order not to pursue infinite computation path endlessly, we perform bounded proof search on the system. Inconclusive proofs occurred in the bounded search are formalized by introducing three-valued logic in our local model checker. We therefore demonstrate how to use rewriting logic as a theoretical framework for specifying a proof-theoretic model checker.

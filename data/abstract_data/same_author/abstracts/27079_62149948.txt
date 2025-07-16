@@ -1,0 +1,2 @@
+CMS Simulation Software Using Geant4
+Geant4 has been chosen as the basic toolkit for carrying out detector simulation work in CMS. We have developed a prototype of what could be a framework to build the CMS geometry and to construct the corresponding Geant4 physical volumes from that. We have used it to simulate all the components of the CMS detector and to produce transient hits. Here we describe the design and the motivations for specific choices.

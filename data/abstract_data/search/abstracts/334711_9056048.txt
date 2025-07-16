@@ -1,0 +1,2 @@
+Privacy Protection: p Sensitive k Anonymity Property
+In this paper, we introduce a new privacy protection property called p sensitive k anonymity. The existing kanonymity property protects against identity disclosure, but it fails to protect against attribute disclosure. The new introduced privacy model avoids this shortcoming. Two necessary conditions to achieve p sensitive kanonymity property are presented, and used in developing algorithms to create masked microdata with p sensitive k anonymity property using generalization and suppression.

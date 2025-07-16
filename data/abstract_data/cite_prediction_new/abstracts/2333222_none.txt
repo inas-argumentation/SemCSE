@@ -1,0 +1,2 @@
+Estimation of a buried pipe location by borehole radar
+A new parametric inversion technique to estimate a buried pipe location was developed for borehole radar cross-hole measurements. This technique evaluates the shapes of the approximated and measured arrival time curves instead of the first arrival time itself or wavefield in conventional inversion or tomographic techniques. In this study, we propose an algorithm of the technique and demonstrate its performance for synthetic and measured datasets.

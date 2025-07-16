@@ -1,0 +1,2 @@
+Investigation of Prediction and Establishment of SIR Model for H1N1 Epidemic Disease
+The SIR model of Hong Kong H1N1 epidemic disease has been established and the software Matlab was used to solve the established SIR model in this paper. The predicted result though SIR model agree with the actual epidemic well. The established SIR model can be used to further investigate and analyze the H1N1 epidemic of Hong Kong and other zone and provide the condition for the control of H1N1 epidemic.

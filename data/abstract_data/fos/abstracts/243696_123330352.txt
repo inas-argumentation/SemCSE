@@ -1,0 +1,2 @@
+Robust cusum: a robustness study for cusum quality control schemes
+A standard CUSUM control scheme and four modified CUSUM control schemes are evaluated for robustness. The average run length (ARL) for each scheme is evaluated using a contaminated normal distribution, a distribution that has longer tails than the normal. A CUSUM control scheme that ignores the first suspected outlier, but gives an out-of-control signal for two successive outliers is found to perform well.

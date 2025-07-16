@@ -1,0 +1,15 @@
+A new stationary gridline artifact suppression method based on the 2D discrete wavelet transform.
+PURPOSE
+In digital x-ray radiography, an antiscatter grid is inserted between the patient and the image receptor to reduce scattered radiation. If the antiscatter grid is used in a stationary way, gridline artifacts will appear in the final image. In most of the gridline removal image processing methods, the useful information with spatial frequencies close to that of the gridline is usually lost or degraded. In this study, a new stationary gridline suppression method is designed to preserve more of the useful information.
+
+
+METHODS
+The method is as follows. The input image is first recursively decomposed into several smaller subimages using a multiscale 2D discrete wavelet transform. The decomposition process stops when the gridline signal is found to be greater than a threshold in one or several of these subimages using a gridline detection module. An automatic Gaussian band-stop filter is then applied to the detected subimages to remove the gridline signal. Finally, the restored image is achieved using the corresponding 2D inverse discrete wavelet transform.
+
+
+RESULTS
+The processed images show that the proposed method can remove the gridline signal efficiently while maintaining the image details. The spectra of a 1D Fourier transform of the processed images demonstrate that, compared with some existing gridline removal methods, the proposed method has better information preservation after the removal of the gridline artifacts. Additionally, the performance speed is relatively high.
+
+
+CONCLUSIONS
+The experimental results demonstrate the efficiency of the proposed method. Compared with some existing gridline removal methods, the proposed method can preserve more information within an acceptable execution time.

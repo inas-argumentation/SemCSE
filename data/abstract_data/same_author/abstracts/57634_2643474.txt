@@ -1,0 +1,17 @@
+A Methodology for Structural Conflict Resolution
+in the Integration of Entity-Relationship Schemas
+.The integration ofinf ormation systems is becoming increasingly important. A
+common requirement in distributed data-intensive applications, such as data warehousing
+and data mining, is that the various databases involved be joined in a process called schema
+integration. The entity-relationship (ER) model or a variant of the ER model is often used
+as the common data model. To aid the schema conforming, merging and restructuring
+phases of the integration process, various transformations have been defined to map
+between various equivalent ER representations. In this paper, we describe a different
+approach to integrate ER schemas. We focus on the resolution of structural conflicts, that
+is, when related real-world concepts are modeled using different constructs in different
+schemas. Unlike previous work, our approach proposes to resolve the structural conflict
+between an entity type in one schema and an attribute in another schema and show that
+the other structural conflicts are automatically resolved. This reduces the manual effort
+required in integration. We give a detailed algorithm to transform an attribute in one
+schema into an equivalent entity type in another schema without any loss of semantics,
+that is, our transformation is both information preserving and constraint preserving.

@@ -1,0 +1,19 @@
+Predicting methylation status of CpG islands in the human brain
+MOTIVATION
+Over 50% of human genes contain CpG islands in their 5'-regions. Methylation patterns of CpG islands are involved in tissue-specific gene expression and regulation. Mis-epigenetic silencing associated with aberrant CpG island methylation is one mechanism leading to the loss of tumor suppressor functions in cancer cells. Large-scale experimental detection of DNA methylation is still both labor-intensive and time-consuming. Therefore, it is necessary to develop in silico approaches for predicting methylation status of CpG islands.
+
+
+RESULTS
+Based on a recent genome-scale dataset of DNA methylation in human brain tissues, we developed a classifier called MethCGI for predicting methylation status of CpG islands using a support vector machine (SVM). Nucleotide sequence contents as well as transcription factor binding sites (TFBSs) are used as features for the classification. The method achieves specificity of 84.65% and sensitivity of 84.32% on the brain data, and can also correctly predict about two-third of the data from other tissues reported in the MethDB database.
+
+
+AVAILABILITY
+An online predictor based on MethCGI is available at http://166.111.201.7/MethCGI.html
+
+
+CONTACT
+mzhang@cshl.edu
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary data available at Bioinformatics online and http://166.111.201.7/help.html.

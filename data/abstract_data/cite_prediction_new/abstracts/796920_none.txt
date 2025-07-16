@@ -1,0 +1,15 @@
+An experimental evaluation of a loop versus a reference design for two-channel microarrays
+MOTIVATION
+Despite theoretical arguments that so-called 'loop designs' for two-channel DNA microarray experiments are more efficient, biologists continue to use 'reference designs'. We describe two sets of microarray experiments with RNA from two different biological systems (TPA-stimulated mammalian cells and Streptomyces coelicolor). In each case, both a loop and a reference design were used with the same RNA preparations with the aim of studying their relative efficiency.
+
+
+RESULTS
+The results of these experiments show that (1) the loop design attains a much higher precision than the reference design, (2) multiplicative spot effects are a large source of variability, and if they are not accounted for in the mathematical model, for example, by taking log-ratios or including spot effects, then the model will perform poorly. The first result is reinforced by a simulation study. Practical recommendations are given on how simple loop designs can be extended to more realistic experimental designs and how standard statistical methods allow the experimentalist to use and interpret the results from loop designs in practice.
+
+
+AVAILABILITY
+The data and R code are available at http://exgen.ma.umist.ac.uk
+
+
+CONTACT
+veronica.vinciotti@brunel.ac.uk.

@@ -1,0 +1,7 @@
+New methods to measure the built environment for human-scale travel research: Individual access corridor (IAC) analytics to better understand sustainable active travel choices
+While travel is an inherently linear activity, most studies rely on coarse zonal measures of the built environment, likely missing key details important to human-scale travelers (pedestrians and bicyclists). To more fully understand these relationships, this study tests a new, linear spatial unit of analysis (the individual access corridor) in combination with finer-grained geospatial data (parcel, point, street network)—in sum, human-scaled measures for human-scale travel research. 
+ 
+This paper first analyzes the current state of practice, details the development of a set of new linear human-scaled measures, and finally, provides both a quantitative and qualitative assessment of their usefulness toward research and policy application. 
+ 
+This paper confirms that these new measures both improve model performance and, perhaps more importantly, provide richer, more nuanced insight into the influence of the built environment on human-scale travel. For example, this study finds that smaller parcels, the presence of small personal-service retail opportunities, and narrower, well-connected streets are positively associated with walking and bicycling. 
+Furthermore, this paper is one of the first to align built environment measures along an individual’s path, from origin to destination, as well as to provide a detailed examination of the choice of bicycle over other modes.

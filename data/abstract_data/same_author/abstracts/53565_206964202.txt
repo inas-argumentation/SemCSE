@@ -1,0 +1,2 @@
+Asymptotic Upper Bounds for Ramsey Functions
+Abstract. We show that for any graph G with N vertices and average degree d, if the average degree of any neighborhood induced subgraph is at most a, then the independence number of G is at least Nfa+1(d), where fa+1(d)=∫01(((1−t)1/(a+1))/(a+1+(d−a−1)t))dt. Based on this result, we prove that for any fixed k and l, there holds r(Kk+l,Kn)≤ (l+o(1))nk/(logn)k−1. In particular, r(Kk, Kn)≤(1+o(1))nk−1/(log n)k−2.

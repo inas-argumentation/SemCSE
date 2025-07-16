@@ -1,0 +1,2 @@
+ATLAS TileCal read out driver production
+The production tests of the 38 ATLAS TileCal Read Out Drivers (RODs) are presented in this paper. The hardware specifications and firmware functionality of the RODs modules, the test-bench and the test procedure to qualify the boards are described. Finally the performance results, the temperature studies and high rate tests are shown and discussed.

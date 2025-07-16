@@ -1,0 +1,2 @@
+Fast Breadth-First Search in Still Less Space
+It is shown that a breadth-first search in a directed or undirected graph with $n$ vertices and $m$ edges can be carried out in $O(n+m)$ time with $n\log_2 3+O((\log n)^2)$ bits of working memory.

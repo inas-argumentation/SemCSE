@@ -1,0 +1,2 @@
+Bandwidth and pathwidth of three-dimensional grids
+We study the bandwidth and the pathwidth of multi-dimensional grids. It can be shown for grids, that these two parameters are equal to a more basic graph parameter, the vertex boundary width. Using this fact, we determine the bandwidth and the pathwidth of three-dimensional grids, which were known only for the cubic case. As a by-product, we also determine the two parameters of multi-dimensional grids with relatively large maximum factors.

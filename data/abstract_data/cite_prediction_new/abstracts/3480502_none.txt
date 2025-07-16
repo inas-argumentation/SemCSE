@@ -1,0 +1,6 @@
+Distance Sets of Well-Distributed Planar Point Sets
+We prove that a well-distributed subset of ${\Bbb R}^2$
+can have a distance set $\Delta$ with $\#(\Delta\cap [0,N])\leq
+CN^{3/2-\epsilon}$ only if the distance is induced by a polygon
+$K$. Furthermore, if the above estimate holds with
+$\epsilon=\frac12$, then $K$ can have only finitely many sides.

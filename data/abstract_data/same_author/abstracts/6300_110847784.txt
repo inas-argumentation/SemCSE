@@ -1,0 +1,2 @@
+A VME RISC processor farm for third level triggering
+The need for very fast, compact, VME-based farms of processors exists in many areas of experimental physics. Reported is a development for such a farm targeted at the requirements of the online and trigger system of the CERN experiment PS195 (CPLEAR). The system is characterized as being VME based and requiring small events (around 1 kbyte) to be processed at a high rate (greater than 1 kHz). The development was for a single chassis system, using the MIPS R3000 chip mounted on a commercially available board. >

@@ -1,0 +1,2 @@
+Modal analysis of inhomogeneous optical resonators.
+In this paper, we present a calculation which demonstrates that the lower-order modes of an optical resonator with an inhomogeneous gain distribution can potentially be obtained by employing the Fox-Li or beam propagation methods. While our calculation is performed on a highly simplified model of a typical laser’s refractive-index distribution, our results could eventually be incorporated into existing self-consistent laser models based on the beam propagation method to yield a complete picture of a laser mode structure.

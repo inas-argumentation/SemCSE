@@ -1,0 +1,2 @@
+Discrete Morse Theory for Computing Cellular Sheaf Cohomology
+Sheaves and sheaf cohomology are powerful tools in computational topology, greatly generalizing persistent homology. We develop an algorithm for simplifying the computation of cellular sheaf cohomology via (discrete) Morse theoretic techniques. As a consequence, we derive efficient techniques for distributed computation of (ordinary) cohomology of a cell complex.

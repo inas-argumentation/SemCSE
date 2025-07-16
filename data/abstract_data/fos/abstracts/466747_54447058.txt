@@ -1,0 +1,2 @@
+Cryptanalysis of 2 Round Keccak-384
+In this paper, we present a cryptanalysis of round reduced Keccak-384 for 2 rounds. The best known preimage attack for this variant of Keccak has the time complexity \(2^{129}\). In our analysis, we find a preimage in the time complexity of \(2^{89}\) and almost same memory is required.

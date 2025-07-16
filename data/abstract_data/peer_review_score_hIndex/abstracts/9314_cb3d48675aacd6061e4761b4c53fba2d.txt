@@ -1,0 +1,10 @@
+NAIL: A Challenging Benchmark for Na\"ive Logical Reasoning
+Logical reasoning over natural text is an important capability towards human level intelligence.
+Existing datasets are either limited and inadequate to train and evaluate logical reasoning capability (e.g., LogiQA and ReClor),
+or not oriented for logical reasoning (e.g., SQuAD and HotpotQA).
+In this paper, we focus on a specific category of logical reasoning, named \emph{\mytask}, and propose a new large scale benchmark, named \mydata, targeted for learning and evaluating models' capabilities towards \mytask.
+ \mydata is source from  standardized exams such as Chinese National Civil Servants Examination and Law School Admission Test.
+Furthermore, to collect more data, we propose to imitate the example of standardized exams rather than designing them from scratch.
+\mydata is available in both Chinese and English containing a total of $10,296 * 2$ instances.
+Empirical results show that current state-of-the-art neural models struggle on \mydata with very poor accuracy (the best result is 30.10\% for \mydata and 36.15\% for Chinese \mydata), while human experts can perform nearly 100\% accuracy.
+Further results indicate that human imitations can significantly help models learn logic from natural text.

@@ -1,0 +1,2 @@
+Fingerprint Reference Point Detection Based on Local Axial Symmetry
+Reference point detection is an important process for fingerprint analysis. In this paper, we propose a novel feature which is named local axial symmetry (LAS) and present an algorithm to calculate reference point of a fingerprint based on this kind of feature. Experimental results demonstrate its feasibility, validity and the ability to detect reference points of all classes of fingerprints including arch-type fingerprints which is difficult to locate a stable reference point with other methods

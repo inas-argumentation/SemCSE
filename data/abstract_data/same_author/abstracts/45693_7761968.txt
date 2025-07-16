@@ -1,0 +1,2 @@
+A PTAS for Semiconductor Burn-in Scheduling
+In this paper a polynomial time approximation scheme, PTAS for short, is presented for the problem of scheduling jobs in a batch processing system. Each job has a pre-defined release date, which indicates when the job is available, and a pre-defined burn-in time, which is the least time needed for processing the job. At one time, at most B jobs can be processed together, where B is a pre-given number. No preemption is permitted.

@@ -1,0 +1,11 @@
+Evolutionary Expectation Maximization for Generative Models with Binary Latents
+We establish a theoretical link between evolutionary algorithms and variational parameter optimization of probabilistic generative models with binary hidden variables.
+While the novel approach is independent of the actual generative model, here we use two such models to investigate its applicability and scalability: a noisy-OR Bayes Net (as a standard example of binary data) and Binary Sparse Coding (as a model for continuous data).
+
+Learning of probabilistic generative models is first formulated as approximate maximum likelihood optimization using variational expectation maximization (EM).
+We choose truncated posteriors as variational distributions in which discrete latent states serve as variational parameters. In the variational E-step,
+the latent states are then  
+optimized according to a tractable free-energy objective. Given a data point, we can show that evolutionary algorithms can be used for the variational optimization loop by (A)~considering the bit-vectors of the latent states as genomes of individuals, and by (B)~defining the fitness of the
+individuals as the (log) joint probabilities given by the used generative model.
+
+As a proof of concept, we apply the novel evolutionary EM approach to the optimization of the parameters of noisy-OR Bayes nets and binary sparse coding on artificial and real data (natural image patches). Using point mutations and single-point cross-over for the evolutionary algorithm, we find that scalable variational EM algorithms are obtained which efficiently improve the data likelihood. In general we believe that, with the link established here, standard as well as recent results in the field of evolutionary optimization can be leveraged to address the difficult problem of parameter optimization in generative models.

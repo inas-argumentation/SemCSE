@@ -1,0 +1,15 @@
+Experimental implementation of a joint statistical image reconstruction method for proton stopping power mapping from dual‐energy CT data
+PURPOSE
+To experimentally commission a dual-energy CT (DECT) joint statistical image reconstruction (JSIR) method, which is built on a linear basis vector model (BVM) of material characterization, for proton stopping power ratio (SPR) estimation.
+
+
+METHODS
+The JSIR-BVM method builds on the relationship between the energy-dependent photon attenuation coefficients and the proton stopping power via a pair of BVM component weights. The two BVM component images are simultaneously reconstructed from the acquired DECT sinograms and then used to predict the electron density and mean excitation energy (I-value), which are required by the Bethe equation for SPR computation. A post-reconstruction image-based DECT method, which utilizes the two separate CT images reconstructed via the scanner's software, was implemented for comparison. The DECT measurement data were acquired on a Philips Brilliance scanner at 90 and 140 kVp for two phantoms of different sizes. Each phantom contains 12 different soft and bony tissue surrogates with known compositions. The SPR estimation results were compared to the reference values computed from the known compositions. The difference of the computed water equivalent path lengths (WEPL) across the phantoms between the two methods was also compared.
+
+
+RESULTS
+The overall root-mean-square (RMS) of SPR estimation error of the JSIR-BVM method are 0.33% and 0.37% for the head- and body-sized phantoms, respectively, and all SPR estimates of the test samples are within 0.7% of the reference ground truth. The image-based method achieves overall RMS errors of 2.35% and 2.50% for the head- and body-sized phantoms, respectively. The JSIR-BVM method also reduces the pixel-wise random variation by 4-fold to 6-fold within homogeneous regions compared to the image-based method. The average differences between the JSIR-BVM method and the image-based method are 0.54% and 1.02% for the head- and body-sized phantoms, respectively.
+
+
+CONCLUSION
+By taking advantage of an accurate polychromatic CT data model and a model-based DECT statistical reconstruction algorithm, the JSIR-BVM method accounts for both systematic bias and random noise in the acquired DECT measurement data. Therefore, the JSIR-BVM method achieves good accuracy and precision on proton SPR estimation for various tissue surrogates and object sizes. In contrast, the experimentally achievable accuracy of the image-based method may be limited by the uncertainties in the image formation process. The result suggests that the JSIR-BVM method has the potential for more accurate SPR prediction compared to post-reconstruction image-based methods in clinical settings.

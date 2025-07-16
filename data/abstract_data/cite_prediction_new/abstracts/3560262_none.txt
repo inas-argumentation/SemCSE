@@ -1,0 +1,2 @@
+Determination of natural frequencies of fluid-conveying pipes using homotopy perturbation method
+In the present paper the natural frequencies of fluid-conveying pipes with pinned-pinned boundary condition are derived explicitly in a systematical and straightforward way with the help of homotopy perturbation method. Numerical results are presented for two cases and the effect of fluid flow velocity on the natural frequencies is discussed. Good agreement with their experimental and FEM counterparts is found numerically over ranges of practical interest.

@@ -1,0 +1,72 @@
+Wild solenoids
+A weak solenoid is a foliated space defined as the inverse limit of finite coverings of a closed compact manifold 
+
+ 
+ M
+ M
+ 
+
+. The monodromy of a weak solenoid defines an equicontinuous minimal action on a Cantor space 
+
+ 
+ X
+ X
+ 
+
+ by the fundamental group 
+
+ 
+ G
+ G
+ 
+
+ of 
+
+ 
+ M
+ M
+ 
+
+. The discriminant group of this action is an obstruction to this action being homogeneous. The discriminant vanishes if the group 
+
+ 
+ G
+ G
+ 
+
+ is abelian, but there are examples of actions of nilpotent groups for which the discriminant is non-trivial. The action is said to be stable if the discriminant group remains unchanged for the induced action on sufficiently small clopen neighborhoods in 
+
+ 
+ X
+ X
+ 
+
+. If the discriminant group never stabilizes as the diameter of the clopen set 
+
+ 
+ U
+ U
+ 
+
+ tends to zero, then we say that the action is unstable, and the weak solenoid which defines it is said to be wild. In this work, we show two main results in the course of our study of the properties of the discriminant group for Cantor actions. First, the tail equivalence class of the sequence of discriminant groups obtained for the restricted action on a neighborhood basis system of a point in 
+
+ 
+ X
+ X
+ 
+
+ defines an invariant of the return equivalence class of the action, called the asymptotic discriminant, which is consequently an invariant of the homeomorphism class of the weak solenoid. Second, we construct uncountable collections of wild solenoids with pairwise distinct asymptotic discriminant invariants for a fixed base manifold 
+
+ 
+ M
+ M
+ 
+
+, and hence fixed finitely-presented group 
+
+ 
+ G
+ G
+ 
+
+, which are thus pairwise non-homeomorphic. The study in this work is the continuation of the seminal works on homeomorphisms of weak solenoids by Rogers and Tollefson in 1971 and is dedicated to the memory of Jim Rogers.

@@ -1,0 +1,2 @@
+Floquet projections of a Gaussian Wigner function in a Kronig-Penney potential
+In this contribution, we apply the multiband model developed in [1] to a Kronig-Penney potential and calculate the Floquet projections of a Gaussian Wigner function in phase space. The Bloch functions are calculated numerically and then used in the expressions of the Wigner projections.

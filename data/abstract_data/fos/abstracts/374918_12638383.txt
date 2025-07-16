@@ -1,0 +1,36 @@
+The Quantitative Genetics of Phenotypic Error or Uniformity
+All phenotypic analysis uses the fundamental assumption that an organisms phenotype is determined by the organisms genotype, the environment in which the organism develops and any interaction therein 
+ 
+ 
+P = G+E+G×E. 
+ 
+(1) 
+ 
+ 
+However, this idea is only true in a theoretical instance and in real settings, an error term must be included 
+ 
+ 
+P=G+E+G×E+e. 
+ 
+(2) 
+ 
+ 
+The e term is referred to by numerous synonyms in the literature like stochastic noise, biological variance, and error but is more commonly discussed as the inverse (e−1) using words like uniformity, canalization, robustness, or stability depending upon the research field. In evolutionary theory, canalization is utilized to refer to the idea that selection functions to minimize the error (maximize the robustness) of a phenotype and that there should be genes controlling this phenomena (Waddington, 1942; Schmalhausen, 1949). Agricultural studies frequently focus upon uniformity wherein the goal is to decrease e/increase uniformity to allow for increased planting densities and use of mechanization in crop production (Fasoula and Fasoula, 2002; Fasoula and Tollenaar, 2005). 
+ 
+In most modern systems biology, genomics, and molecular biological studies, e is implicitly or explicitly considered to be random variance when there is actually a significant genetic component (Barkai and Leibler, 1997; Albert et al., 2000; Albert and Barabasi, 2002; Kitano, 2004, 2007; Austin et al., 2006). The genetic component controls e/uniformity by changing the connection of genes within a network through natural or induced mutation. These changed connections then increase or decrease the uniformity of the resulting phenotype. Thus, phenotypic noise shows a similar equation as the phenotype itself with a dependence upon genotype, environment and the resulting interaction 
+ 
+ 
+e=eG+eE+eG×E+ee 
+ 
+(3) 
+ 
+ 
+with uniformity being e−1. While studies have measured the genetic component of uniformity or stochastic noise, there is minimal information about the other components of Eq. 2. Even fewer studies have begun to incorporate this concept into basic systems biological approaches. 
+ 
+In the current study by Makumburage and Stapleton (2011) they set out to conduct one of the first intensive analysis of the relative contributions of all three components of Eq. 3 upon uniformity in the maize B73 × Mo17 mapping population. They grew the mapping population using two independent stresses, low nitrogen and drought, as well as the factorial combination of low nitrogen and drought and measured the resulting plant height in the entire population. This allowed them to quantify the role of genotype, environment, and the interaction on uniformity as well as map the underlying loci. In their report, Makumburage and Stapleton (2011) begin the process of developing our broader understanding of uniformity. 
+ 
+Of critical importance to numerous fields was the observation that genetic loci controlling uniformity are not inherently the same as those controlling the average phenotype (Makumburage and Stapleton, 2011). This is in contrast to previously cloned plant uniformity loci that also had impacts upon the average phenotype (Hall et al., 2007; Jarosz and Lindquist, 2010). This has implications to both plant breeding and plant systems biology. For plant breeding, it means that it is likely possible to separate mean and uniformity to select upon them for crop improvement as has been done to some extent (Fasoula and Fasoula, 2002). More critically, to plant systems biology this means that there may be a number of genes existing within a plant that do not control the mean phenotype but instead control the uniformity/error of the phenotype. Considering that nearly all plant systems biology approaches look solely at the mean of the phenotype under study it is highly possible that a significant fraction of the genes controlling a given phenotype have been missed (Jander et al., 2002; West et al., 2007; Schauer et al., 2008; Atwell et al., 2010). This would argue that approaches such as those used to study uniformity in plant breeding applications need to be developed and applied to mechanistic systems biology studies to better understand the phenotype to genotype connection. 
+ 
+Another key observation in their report is that the interaction of genotype and environment was highly significant in controlling uniformity (Makumburage and Stapleton, 2011). In fact, the interaction of genotype and environment controlled two to three times the amount of uniformity as either genotype or environment separately. Previous reports had suggested that increasing the stressfulness of an environment would decrease uniformity which is what the authors saw. Even further, the effect of specific loci upon uniformity under the combined drought/nitrogen stress was not predictable from the loci's effect under the individual stresses. This lead to the situation where none of the genetic loci led to increased uniformity under the stress environments tested suggesting that this mapping population did not have alleles of use in a broader crop improvement context. This could mean that modern maize lines have already been bred to optimize crop uniformity across conditions as a pre-requisite to increasing planting density. Or alternatively the B73 × Mo17 mapping population is not the best population to search for these alleles. Further research will be required to test between these alternatives. 
+ 
+This study raises our awareness of the need to systematically study the uniformity/error inherent within the phenotype to genotype equation both for systems biology and crop breeding purposes. At this time, the main goal of breeding is to increase uniformity but future research may identify instances where increasing the phenotypic error (decreasing the uniformity) in a specific elite germplasm through the use of genetically controlled noise could increase yield. In some settings, such as plant–insect interactions, random switching of chemical defenses within a field might actually decrease overall insect populations, and minimize counter-adaptation as has been theorized (Shelton, 2004). Future research will help to address the best avenue for manipulating uniformity and the genes that underlie this understudied phenomenon.

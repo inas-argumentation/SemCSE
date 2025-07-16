@@ -1,0 +1,2 @@
+Time-abstracted Bisimulation: Implicit Specifications and Decidability
+In the last few years a number of real-time process calculi have emerged with the purpose of capturing important quantitative aspects of real-time systems. In addition, a number of process equivalences sensitive to time-quantities have been proposed, among these the notion of timed (bisimulation) equivalence in [RR86, DS89, HR91, BB89, NRSV90, MT90, Wan91b].

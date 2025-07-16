@@ -1,0 +1,2 @@
+Equitable Total Coloring of Graphs with Maximum Degree 3
+. The equitable total chromatic number χrdquo;e(G) of a graph G is the smallest integer k for which G has a total k-coloring such that the number of vertices and edges in any two color classes differ by at most one. We prove in this paper that χrdquo;e(G)≤5 if G is a multigraph with maximum degree at most 3.

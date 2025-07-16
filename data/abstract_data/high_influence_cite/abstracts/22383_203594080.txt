@@ -1,0 +1,2 @@
+Explicit formulas for Grassmannian polylogarithms
+We give a new explicit formula for Grassmannian polylogarithms in terms of iterated integrals. We also explicitly reduce the Grassmannian polylogarithm in weight 4 and in weight 5 each to depth 2. Furthermore, using this reduction in weight 4 we obtain an explicit, albeit complicated, form of the so-called 4-ratio, which gives an expression for the Borel class in continuous cohomology of $\mathrm{GL}_4$ in terms of $\mathrm{Li}_4$.

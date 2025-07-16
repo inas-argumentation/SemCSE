@@ -1,0 +1,2 @@
+Beyond the flow decomposition barrier
+We introduce a new approach to the maximum flow problem. This approach is based on assigning arc lengths based on the residual flow value and the residual are capacities. Our approach leads to an O(min(n/sup 2/3/, m/sup 1/2/)m log(n/sup 2//m) log U) time bound for a network with n vertices, m arcs, and integral arc capacities in the range [1,...,U]. This is a fundamental improvement over the previous time bounds. We also improve bounds for the Gomory-Hu tree problem, the parametric flow problem, and the approximate s-t cut problems.

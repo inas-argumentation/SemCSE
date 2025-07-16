@@ -1,0 +1,2 @@
+Efficient techniques for accurate extraction and modeling of substrate coupling in mixed-signal IC's
+Accurate modeling of noise coupling effects due to crosstalk via the substrate is an increasingly important concern for the design and verification of mixed analog-digital systems. In this paper we present a technique to accelerate the model computation using BEM methods that can be used for accurate and efficient extraction of substrate coupling parameters in mixed-signal designs.

@@ -1,0 +1,2 @@
+Low noise linear voltage regulator for use as an on-chip PLL supply in microprocessors
+A novel on-chip linear voltage regulator (VR), for use as PLL power supply is described. This voltage regulator exhibits a Power Supply Rejection Ratio (PSRR) of > 40dB and low thermal noise. Accurate current control enables optimized power and performance. These properties enable the VR to be utilized in PLL's without adding any deterministic and random jitter. The VR has been designed and characterized in Intel's recent leading-edge purely digital process.

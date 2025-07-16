@@ -1,0 +1,11 @@
+DNAFSMiner: a web-based software toolbox to recognize two types of functional sites in DNA sequences
+UNLABELLED
+DNAFSMiner (DNA Functional Sites Miner) is a web-based software toolbox to recognize functional sites in nucleic acid sequences. Currently in this toolbox, we provide two software: TIS Miner and Poly(A) Signal Miner. The TIS Miner can be used to predict translation initiation sites in vertebrate DNA/mRNA/cDNA sequences, and the Poly(A) Signal Miner can be used to predict polyadenylation [poly(A)] signals in human DNA sequences. The prediction results are better than those by literature methods on two benchmark applications. This good performance is mainly attributable to our unique learning method. DNAFSMiner is available free of charge for academic and non-profit organizations.
+
+
+AVAILABILITY
+http://research.i2r.a-star.edu.sg/DNAFSMiner/
+
+
+CONTACT
+huiqing@i2r.a-star.edu.sg.

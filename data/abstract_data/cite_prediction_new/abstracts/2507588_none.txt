@@ -1,0 +1,2 @@
+Team AnnieWAYs entry to the Grand Cooperative Driving Challenge 2011
+In this paper we present the concepts and methods developed for the autonomous vehicle AnnieWAY, our winning entry to the Grand Cooperative Driving Challenge of 2011. We describe algorithms for sensor fusion, vehicle-to-vehicle communication and cooperative control. Furthermore, we analyze the performance of the proposed methods and compare them to those of competing teams. We close with our results from the competition and lessons learned.

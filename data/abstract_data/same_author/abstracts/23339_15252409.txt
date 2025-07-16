@@ -1,0 +1,2 @@
+High-power radio-frequency binary pulse-compression experiment at SLAC
+A high-power X-band three-stage binary RF pulse compressor has been implemented and operated at the Stanford Linear Accelerator Center (SLAC). In each of three successive stages, the RF pulse length is compressed by half, and the peak power is approximately doubled. The experimental results presented have been obtained at power levels up to 25-MW input (from an X-band klystron) and up to 120-MW output (compressed to 60 ns). Peak power gains greater than 5.2 have been measured.<<ETX>>

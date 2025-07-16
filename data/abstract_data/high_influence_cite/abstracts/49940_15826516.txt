@@ -1,0 +1,2 @@
+Teager energy and the ambiguity function
+The connection between the Teager energy operator and the ambiguity function is established in this correspondence after defining the Teager operator over complex-valued signals. This relation allows the use of the Teager energy in estimating the second moment angular bandwidth and the moments of a signal duration (spread) and that of its spectrum.

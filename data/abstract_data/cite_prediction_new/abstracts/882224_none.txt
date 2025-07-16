@@ -1,0 +1,2 @@
+Calculating the wide band responses from metallic objects by employing the phase extracted basis functions
+In the field of computational electromagnetics, wide band response from PEC targets attracts much attention from researchers. Traditionally, frequency domain methods have to calculate the responses frequency by frequency to obtain the wide band response. It definitely limits the application of such kind of methods.

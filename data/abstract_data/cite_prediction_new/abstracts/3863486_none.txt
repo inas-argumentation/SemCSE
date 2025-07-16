@@ -1,0 +1,2 @@
+Sets of exact approximation order by rational numbers III
+For a function Ψ : R>0 → R>0, let Exact(Ψ) be the set of real numbers that are approximable by rational numbers to order Ψ, but to no order cΨ with 0 < c < 1. When Ψ is non-increasing and satisfies Ψ(x) = o(x−2), we establish that Exact(Ψ) has Hausdorff dimension 2/λ, where λ is the lower order at infinity of the function 1/Ψ. Furthermore, we study the set Exact(Ψ) when Ψ is not assumed to be non-increasing and show that the set Exact(Ψ) is uncountable for a large class of functions Ψ satisfying Ψ(x) = o(x−2).

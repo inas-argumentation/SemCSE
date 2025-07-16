@@ -1,0 +1,9 @@
+Boosting Search Engines with Interactive Agents
+This paper presents first successful steps in designing agents that learn meta-strategies for iterative query refinement. 
+Our approach uses machine reading to guide the selection of refinement terms from aggregated search results.
+
+Agents are then empowered with simple but effective search operators to exert fine-grained and transparent control over queries and search results.
+
+We develop a novel way of generating synthetic search sessions, which leverages the power of transformer-based language models through (self-)supervised learning. We also present a reinforcement learning agent with dynamically constrained actions that learns interactive search strategies from scratch. 
+
+We obtain retrieval and answer quality performance comparable to recent neural methods using a traditional term-based BM25 ranking function. We provide an in-depth analysis of the search policies.

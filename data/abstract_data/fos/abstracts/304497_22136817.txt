@@ -1,0 +1,15 @@
+The water equivalence of solid phantoms for low energy photon beams.
+PURPOSE
+To compare and evaluate the dosimetric water equivalence of several commonly used solid phantoms for low energy photon beams.
+
+
+METHODS
+A total of ten different solid phantom materials was used in the study. The PENELOPE Monte Carlo code was used to calculate depth doses and beam profiles in all the phantom materials as well as the dose to a small water voxel at the surface of the solid phantom. These doses were compared to the corresponding doses calculated in a water phantom. The primary photon beams used ranged in energy from 50 to 280 kVp.
+
+
+RESULTS
+A number of phantom materials had excellent agreement in dose compared to water for all the x-ray beam energies studied. RMI457 Solid Water, Virtual Water, PAGAT, A150, and Plastic Water DT all had depth doses that agreed with those in water to within 2%. For these same phantom materials, the dose changes in the water voxel at the surface of the solid phantom were within 2%, except for A150, which agreed to within 2.7%. By comparison, the largest differences in depth doses occurred for Plastic Water (-21.7%) and polystyrene (17.6%) for the 50 kVp energy photon beam and 8 cm diameter field size. Plastic Water gave the largest difference in the normalized beam profiles with differences of up to 3.5% as compared to water. Surface dose changes, due to the presence of the solid phantom acting as the backscatter material, were found to be up to 9.1% for polystyrene with significant differences also found for Plastic Water, PMMA, and RW3 phantoms.
+
+
+CONCLUSIONS
+The following solid phantoms can be considered water equivalent and are recommended for relative dosimetry of low energy photon beams: A150, PAGAT, Plastic Water DT, RMI457 Solid Water, and Virtual Water. However, the following solid phantoms give significant differences, compared to water, in depth doses, profiles, and/or in surface doses due to backscatter changes: Plastic Water, PMMA, polystyrene, PRESAGE, and RW3.

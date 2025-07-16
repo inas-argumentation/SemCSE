@@ -1,0 +1,4 @@
+Gaussian Fluctuations of Eigenvalues in Wigner Random Matrices
+We study the fluctuations of eigenvalues from a class of Wigner random matrices that generalize the Gaussian orthogonal ensemble.We begin by considering an n×n matrix from the Gaussian orthogonal ensemble (GOE) or Gaussian symplectic ensemble (GSE) and let xk denote eigenvalue number k. Under the condition that both k and n−k tend to infinity as n→∞, we show that xk is normally distributed in the limit.We also consider the joint limit distribution of eigenvalues 
+$(x_{k_{1}},\ldots,x_{k_{m}})$ 
+from the GOE or GSE where k1, n−km and ki+1−ki, 1≤i≤m−1, tend to infinity with n. The result in each case is an m-dimensional normal distribution.Using a recent universality result by Tao and Vu, we extend our results to a class of Wigner real symmetric matrices with non-Gaussian entries that have an exponentially decaying distribution and whose first four moments match the Gaussian moments.

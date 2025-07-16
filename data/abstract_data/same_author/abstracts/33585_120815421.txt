@@ -1,0 +1,2 @@
+Monte Carlo renormalized hamiltonian
+Abstract We demonstrate a new Monte Carlo method to calculate the renormalized hamiltonian in a many-coupling space. An approximate fixed point for the two-dimensional Ising model is found. An advantage of this method is that the long-range correlations are removed from the system, consequently each Monte Carlo sweep is almost statistically independent even on the critical surface.

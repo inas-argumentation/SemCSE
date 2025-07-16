@@ -1,0 +1,19 @@
+Hallucinating brains with artificial brains
+Human brain function as measured by functional magnetic resonance imaging
+(fMRI), exhibits a rich diversity. In response, understanding the individual variability
+of brain function and its association with behavior has become one of the
+major concerns in modern cognitive neuroscience. Our work is motivated by the
+view that generative models provide a useful tool for understanding this variability.
+To this end, this manuscript presents two novel generative models trained
+on real neuroimaging data which synthesize task-dependent functional brain images.
+Brain images are high dimensional tensors which exhibit structured spatial
+correlations. Thus, both models are 3D conditional Generative Adversarial networks
+(GANs) which apply Convolutional Neural Networks (CNNs) to learn an
+abstraction of brain image representations. Our results show that the generated
+brain images are diverse, yet task dependent. In addition to qualitative evaluation,
+we utilize the generated synthetic brain volumes as additional training data to improve
+downstream fMRI classifiers (also known as decoding, or brain reading).
+Our approach achieves significant improvements for a variety of datasets, classifi-
+cation tasks and evaluation scores. Our classification results provide a quantitative
+evaluation of the quality of the generated images, and also serve as an additional
+contribution of this manuscript.

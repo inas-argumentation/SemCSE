@@ -1,0 +1,23 @@
+Cost-Effectiveness of Ribociclib plus Letrozole Versus Palbociclib plus Letrozole and Letrozole Monotherapy in the First-Line Treatment of Postmenopausal Women with HR+/HER2- Advanced or Metastatic Breast Cancer: A U.S. Payer Perspective.
+BACKGROUND
+U.S. regulatory approvals of the cyclin-dependent kinase 4 and 6 (CDK 4/6) inhibitors ribociclib and palbociclib as add-ons to letrozole greatly enhance the prospects for treating postmenopausal women with hormone receptor-positive (HR+)/human epidermal receptor 2-negative (HER2-) advanced or metastatic breast cancer. Clinical trials have established that the combination of a CDK 4/6 inhibitor with letrozole can significantly improve progression-free survival (PFS) versus letrozole monotherapy and is safe and well tolerated. Cost-effectiveness studies are required to inform payers and clinical decision makers on the money value of combination treatment in clinical practice.
+
+
+OBJECTIVE
+To evaluate the cost-effectiveness of ribociclib plus letrozole versus palbociclib plus letrozole and versus letrozole monotherapy in the first-line treatment of postmenopausal women with HR+/HER2- advanced or metastatic breast cancer from a U.S. private third-party payer perspective.
+
+
+METHODS
+A partitioned survival model including 3 health states (progression free, with either overall response or stable disease; progressed disease; and death) simulated lifetime costs and outcomes over a 40-year lifetime horizon with a 1-month cycle length. Clinical efficacy data (PFS and overall survival [OS]) were derived from a phase III trial of ribociclib plus letrozole (MONALEESA-2; NCT01958021), a phase II trial of palbociclib plus letrozole (PALOMA-1; NCT00721409), and a Bayesian network meta-analysis. Health care costs included drug acquisition and monitoring, disease management, subsequent therapies, and serious drug-related adverse events. Effectiveness was measured in life-years, derived from survival projections, and in quality-adjusted life-years (QALYs), calculated from time spent in each state combined with health-state utility values. A one-way deterministic sensitivity analysis explored the impact of uncertainty in key model parameters on results, and probabilistic uncertainty was assessed through a Monte Carlo probabilistic sensitivity analysis.
+
+
+RESULTS
+Ribociclib plus letrozole was dominant versus palbociclib plus letrozole, with a cost saving of $43,037 and a gain of 0.086 QALYs. Compared with letrozole monotherapy, ribociclib plus letrozole was associated with an incremental cost of $144,915 and an incremental QALY of 0.689, equating to an incremental cost-effectiveness ratio of $210,369 per QALY. Key model drivers included OS HRs for palbociclib plus letrozole versus letrozole and for ribociclib plus letrozole versus letrozole, the PFS HR for palbociclib plus letrozole versus letrozole, PD health-state costs, utility of response, and cost discount rate. The probabilities that ribociclib plus letrozole was cost-effective versus letrozole at thresholds of $50,000, $100,000 and $200,000 per QALY gained were 1.6%, 6.3%, and 50.5%, respectively.
+
+
+CONCLUSIONS
+In the United States, ribociclib plus letrozole is a cost-effective alternative to palbociclib plus letrozole for the first-line treatment of postmenopausal women with HR+/HER2- advanced or metastatic breast cancer. Ribociclib plus letrozole is also cost-effective versus letrozole monotherapy at willingness-to-pay thresholds greater than $198,000 per QALY (for probabilistic analysis).
+
+
+DISCLOSURES
+Funding for this study was provided by Novartis, which manufactures ribociclib and provided input on the study design and data collection, analysis, and interpretation. Mistry, May, Suri, and Young are employees of PAREXEL. Tang, Mishra, D. Bhattacharyya, and Dalal are employees of Novartis. S. Bhattacharyya was an employee of Novartis during the study period. Tang and Dalal hold stock in Novartis. Brixner, Oderda, and Biskupiak were paid by Millcreek Outcomes Group as consultants for work on this project. Brixner has also consulted for AstraZeneca, UCB, Regeneron, and Abbott.

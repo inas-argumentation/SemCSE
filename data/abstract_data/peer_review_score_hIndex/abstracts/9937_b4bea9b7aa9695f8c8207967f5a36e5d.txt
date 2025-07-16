@@ -1,0 +1,5 @@
+The Expressive Power of Deep Neural Networks with Circulant Matrices
+Recent results from linear algebra stating that any matrix can be decomposed into products of diagonal and circulant matrices has lead to the design of compact deep neural network architectures that perform well in practice. In this paper, we bridge the gap between these good empirical results 
+and the theoretical approximation capabilities of Deep diagonal-circulant ReLU networks. More precisely, we first demonstrate  that a Deep diagonal-circulant ReLU networks of
+bounded width and small depth can approximate a deep ReLU network in which the dense matrices are
+of low rank. Based on this result, we provide new bounds on the expressive power and universal approximativeness of this type of networks. We support our experimental results with thorough experiments on a large, real world video classification problem.

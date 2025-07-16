@@ -1,0 +1,28 @@
+Intercomparison of wind observations from the European Space Agency's Aeolus satellite mission and the ALADIN Airborne Demonstrator
+Abstract. Shortly after the successful launch of the European Space Agency's wind mission
+Aeolus, co-located airborne wind
+lidar observations were performed in central Europe; these observations employed a prototype
+of the satellite instrument – the ALADIN (Atmospheric LAser
+Doppler INstrument) Airborne Demonstrator (A2D). Like
+the direct-detection Doppler wind lidar on-board Aeolus, the A2D is composed
+of a frequency-stabilized ultra-violet (UV) laser, a Cassegrain telescope and a
+dual-channel receiver to measure line-of-sight (LOS) wind speeds by
+analysing both Mie and Rayleigh backscatter signals. In the framework of the
+first airborne validation campaign after the launch and still during the
+commissioning phase of the mission, four coordinated flights along the
+satellite swath were conducted in late autumn of 2018, yielding wind data in
+the troposphere with high coverage of the Rayleigh channel. Owing to the
+different measurement grids and LOS viewing directions of the satellite and the
+airborne instrument, intercomparison with the Aeolus wind product requires
+adequate averaging as well as conversion of the measured A2D LOS wind speeds
+to the satellite LOS (LOS*). The statistical comparison of the two instruments
+shows a positive bias (of 2.6 m s −1 ) of the Aeolus Rayleigh winds (measured along its LOS*)
+with respect to the A2D Rayleigh winds as well as a
+standard deviation of 3.6 m s −1 . Considering the accuracy
+and precision of the A2D wind data, which were determined from comparison
+with a highly accurate coherent wind lidar as well as with the European Centre for Medium-Range Weather Forecasts (ECMWF) model
+winds, the systematic and random errors of the Aeolus LOS* Rayleigh winds are 1.7 and 2.5 m s −1 
+respectively. The paper also discusses the influence of different threshold
+parameters implemented in the comparison algorithm as well as an
+optimization of the A2D vertical sampling to be used in forthcoming
+validation campaigns.

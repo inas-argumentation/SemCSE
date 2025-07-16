@@ -1,0 +1,2 @@
+dI-Domains as Prime Information Systems
+Abstract This paper introduces prime information systems. Prime information systems determine dI-domains and stable approximable mappings give stable functions, and vice versa. The notion of rigid embedding is captured by a subsystem relation. Under this relation, prime information systems form a complete partial order (cpo). Constructions like lifting, sum, product, and function space are proposed which induce continuous functions on the cpo. In this way recursive prime information systems can be defined using fixed point theory.

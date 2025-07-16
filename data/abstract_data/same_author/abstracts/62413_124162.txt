@@ -1,0 +1,2 @@
+System Software for China National Grid
+The China National Grid project developed and deployed a suite of grid system software called CNGrid Software. This paper presents the features and implementation of the software suite from the viewpoints of grid system deployment, grid application developers, grid resource providers, grid system administrators, and the end users.

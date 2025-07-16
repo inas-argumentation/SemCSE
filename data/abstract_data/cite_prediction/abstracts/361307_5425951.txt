@@ -1,0 +1,2 @@
+FingerScanner: Embedding a Fingerprint Scanner in a Raspberry Pi
+Nowadays, researchers are paying increasing attention to embedding systems. Cost reduction has lead to an increase in the number of platforms supporting the operating system Linux, jointly with the Raspberry Pi motherboard. Thus, embedding devices on Raspberry-Linux systems is a goal in order to make competitive commercial products. This paper presents a low-cost fingerprint recognition system embedded into a Raspberry Pi with Linux.

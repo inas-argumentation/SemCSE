@@ -1,0 +1,2 @@
+Flapping-Wing Mechanism for a bird-Sized UAVS: Design, Modeling and Control
+Birds daily execute complex maneuvers out of reach of current UAVs of comparable size. These capabalities are at least partly linked to the efficient flapping kinematics. This article describes the flapping wing mechanism developed within the ROBUR project to create a bird-sized UAV relying on such advanced kinematics.

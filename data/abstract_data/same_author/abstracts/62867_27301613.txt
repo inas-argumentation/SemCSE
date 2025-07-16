@@ -1,0 +1,2 @@
+Vulnerability of a Mobile Payment System Proposed at WISA 2002
+In this paper, we analyze the one-way mobile payment system proposed by Ham et al. at WISA 2002. They claimed that the electronic cash of the system satisfies unforgeability and double spending prevention. However, we show that the forgery of valid payment scripts is possible since the purchase is not authenticated, thus the proposed system is not secure.

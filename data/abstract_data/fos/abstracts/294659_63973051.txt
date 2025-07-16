@@ -1,0 +1,2 @@
+An Extensible Framework for OLAP Service System
+This paper provides a universal OLAP Service sol ut ion which can support different OLAP Server products and have excellent extensi bility and flexibility.The user can choose an OLAP Server Products by real situ ation.To reach the target,we introduce a self-defined Query Schema Language to transform semantics between client tools and specific OLAP Server..

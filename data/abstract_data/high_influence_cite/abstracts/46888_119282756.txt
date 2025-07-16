@@ -1,0 +1,2 @@
+On the determination of a function from its cone transform with fixed central axis
+A Radon-type transform called a cone transform that assigns to a given function its integral over various sets of cones has arisen in the last decade in the context of the study of Compton cameras used in Single Photon Emission Computed Tomography. Here, we study the cone transform for which the central axis of the cones of integration is fixed. We present many of its properties, such as two inversion formulas, a stability estimate, and uniqueness and reconstruction for a local data problem.

@@ -1,0 +1,2 @@
+A faster optimal algorithm for the measure problem
+The measure problem involves computing the area of the union of a set of n iso-oriented rectangles in the plane. Recently, it has been shown that for a set of n such rectangles, the measure problem can be solved in O(log n log log n) time, using O(n/log log n) processors in the CREW PRAM model of computation. In this note we show that the measure problem can be solved optimally in O(log n) time using O(n) processors in the same model of computation, thus settling an open problem posed in [8].

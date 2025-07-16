@@ -1,0 +1,2 @@
+Standby redundancy at system and component levels—a comparison
+This note compares the lifetime of a series and a parallel system when standby redundancy is provided at system and component level. The system lifetime is longer when standby redundancy is added at the component level for a series system whereas in the parallel system, standby redundancy at the system level is more efficient.

@@ -1,0 +1,2 @@
+A Metaheuristic for the Pickup and Delivery Problem with Time Windows
+In this paper, we propose a metaheuristic to solve the pickup and delivery problem with time windows. Our approach is a tabu-embedded simulated annealing algorithm which restarts a search procedure from the current best solution after several non-improving search iterations. The computational experiments on the six newly-generated different data sets marked our algorithm as the first approach to solve large multiple-vehicle PDPTW problem instances with various distribution properties.

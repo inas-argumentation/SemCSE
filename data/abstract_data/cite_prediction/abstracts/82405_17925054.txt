@@ -1,0 +1,2 @@
+Salient Region Detection and Segmentation
+Detection of salient image regions is useful for applications like image segmentation, adaptive compression, and region-based image retrieval. In this paper we present a novel method to determine salient regions in images using low-level features of luminance and color. The method is fast, easy to implement and generates high quality saliency maps of the same size and resolution as the input image. We demonstrate the use of the algorithm in the segmentation of semantically meaningful whole objects from digital images.

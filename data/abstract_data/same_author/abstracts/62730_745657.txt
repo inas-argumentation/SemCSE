@@ -1,0 +1,2 @@
+A meta model approach using UML for task assignment policy in software process
+We present a UML based meta model approach for task assignment policy in the software process. It provides three levels of the model: meta, conceptual, and instance, and also provides multiple views of the model: organization, process, and product. It has benefits compared to the conventional role model, in terms of expressive power, flexibility, and inconsistency control. We implemented our model using ConceptBase and also highlight features of the implementation.

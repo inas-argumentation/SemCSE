@@ -1,0 +1,2 @@
+Toward a public analysis database for LHC new physics searches using MADANALYSIS 5
+We present the implementation, in the MadAnalysis 5 framework, of several ATLAS and CMS searches for supersymmetry in data recorded during the first run of the LHC. We provide extensive details on the validation of our implementations and propose to create a public analysis database within this framework.

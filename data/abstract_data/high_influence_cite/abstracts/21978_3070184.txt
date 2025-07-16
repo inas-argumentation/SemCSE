@@ -1,0 +1,11 @@
+Structural templates predict novel protein interactions and targets from pancreas tumour gene expression data
+MOTIVATION
+Pancreatic ductal adenocarcinoma (PDAC) eludes early detection and is characterized by its aggressiveness and resistance to current therapies. A number of gene expression screens have been carried out to identify genes differentially expressed in cancerous tissue. To identify molecular markers and suitable targets, these genes have been mapped to protein interactions to gain an understanding at systems level.
+
+
+RESULTS
+Here, we take such a network-centric approach to pancreas cancer by re-constructing networks from known interactions and by predicting novel protein interactions from structural templates. The pathways we find to be largely affected are signal transduction, actin cytoskeleton regulation, cell growth and cell communication. Our analysis indicates that the alteration of the calcium pathway plays an important role in pancreas-specific tumorigenesis. Furthermore, our structural prediction method identifies 40 novel interactions including the tissue factor pathway inhibitor 2 (TFPI2) interacting with the transmembrane protease serine 4 (TMPRSS4). Since TMPRSS4 is involved in metastasis formation, we hypothesize that the upregulation of TMPRSS4 and the downregulation of its predicted inhibitor TFPI2 plays an important role in this process. Moreover, we examine the potential role of BVDU (RP101) as an inhibitor of TMPRSS4. BDVU is known to support apoptosis and prevent the acquisition of chemoresistance. Our results suggest that BVDU might bind to the active site of TMPRSS4, thus reducing its assistance in metastasis.
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary data are available at Bioinformatics online.

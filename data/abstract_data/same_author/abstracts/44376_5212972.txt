@@ -1,0 +1,2 @@
+A Parallel Algorithm for Transitive Closure
+We present a parallel algorithm for the problem of computing the transitive closure for an acyclic digraph D with n vertices and m edges. We use the BSP/CGM model of parallel computing. Our algorithm uses O(log p) rounds of communications with p processors, where p n, and each processor has O(mn p ) local memory. The local computation of each processor is equal to the product of the number of edges and vertices of D that are stored in p.

@@ -1,0 +1,2 @@
+Research on Business Intelligence System Based on Hospital Information System
+Introduces the concept and functions of business intelligence, researches on business intelligence among hospital information system, takes SQL Server 2005 as technical platform of building data warehouse and analytical tool of OLAP, shows a data warehouse instance on hospital inpatient doctor's advice. Researches on building data warehouse, multi-dimension data analysis, data present.

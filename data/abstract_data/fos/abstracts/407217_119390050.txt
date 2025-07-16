@@ -1,0 +1,2 @@
+Moment Inequalities for Supremum of Empirical Processes for φ-Mixing Sequences
+Let be a stationary φ-mixing process with the one-dimensional marginal distribution function F and the density function f. Let Fn (x) be the empirical distribution function based on the observations and We obtain upper bounds for . We give an application to get bounds on the expectation of the supremum of the deviation of a kernel density estimator from true density function f(x). Similar results were obtained for a kernel type estimator for the true distribution function F(x).

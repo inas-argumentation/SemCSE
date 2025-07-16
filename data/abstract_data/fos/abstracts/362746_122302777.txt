@@ -1,0 +1,2 @@
+A Comparison of Some K-Sample Nonparametric Tests for Scale.
+Three nonparametric alternatives to the parametric Bartlett test are presented for handling the K-sample equality of variance problem. The two-sample Siegel-Tukey test, Mood test, and Klotz test are extended to the multisample situation by the methods of Puri. These K-sample scale tests are illustrated and compared with respect to computational methodology and asymptotic relative efficiency for specified alternatives.

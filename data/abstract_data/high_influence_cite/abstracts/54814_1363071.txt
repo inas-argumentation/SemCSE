@@ -1,0 +1,36 @@
+Approximating Node Connectivity Problems via Set 
+Covers
+Abstract
+Given a graph (directed or undirected) with costs on the edges, 
+and an integer $k$, we consider the problem of finding a $k$-node connected 
+spanning subgraph of minimum cost.
+For the general instance of the problem (directed or undirected), 
+there is a simple $2k$-approximation algorithm.
+Better algorithms are known for various ranges of $n,k$. 
+For undirected graphs with metric costs Khuller and Raghavachari gave a 
+$( 2+{2(k-1)}/{n})$-approximation algorithm.
+We obtain the following results:
+(i)
+For arbitrary costs, a $k$-approximation algorithm for undirected graphs and 
+a $(k+1)$-approximation algorithm for directed graphs.
+(ii)
+For metric costs, a $(2+({k-1})/{n})$-approximation algorithm 
+for undirected graphs and 
+a $(2+{k}/{n})$-approximation algorithm for directed graphs.
+
+For undirected graphs and $k=6,7$, we further improve the approximation ratio
+from $k$ to $\lceil (k+1)/2 \rceil=4$; previously, 
+$\lceil (k+1)/2 \rceil$-approximation algorithms were known only for 
+$k \leq 5$. We also give a fast $3$-approximation algorithm for $k=4$. 
+
+The multiroot problem generalizes the min-cost $k$-connected subgraph problem.
+In the multiroot problem, requirements $k_u$ for every node $u$ are given, and 
+the aim is to find a minimum-cost subgraph that contains $\max\{k_u,k_v\}$ 
+internally disjoint paths between every pair of nodes $u,v$.
+For the general instance of the problem, the best known algorithm has 
+approximation ratio $2k$, where $k=\max k_u$.
+For metric costs there is a 3-approximation algorithm.
+We consider the case of metric costs, and, using our techniques,
+improve for $k \leq 7$ the approximation guarantee from $3$ to 
+$2+{\lfloor (k-1)/2 \rfloor}/{k} < 2.5$.
+

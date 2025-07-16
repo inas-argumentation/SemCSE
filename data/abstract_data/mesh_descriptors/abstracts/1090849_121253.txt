@@ -1,0 +1,19 @@
+A toolbox for residue iteration decomposition (RIDE)—A method for the decomposition, reconstruction, and single trial analysis of event related potentials
+BACKGROUND
+Conventionally, event-related brain potentials (ERPs) are obtained by averaging a number of single trials. This can be problematic due to trial-to-trial latency variability. Residue iteration decomposition (RIDE) was developed to decompose ERPs into component clusters with different latency variability and to re-synchronize the separated components into a reconstructed ERP.
+
+
+NEW METHOD
+RIDE has been continuously upgraded and now converges to a robust version. We describe the principles of RIDE and detailed algorithms of the functional modules of a toolbox. We give recommendations and provide caveats for using RIDE from both methodological and psychological perspectives.
+
+
+RESULTS
+RIDE was applied to several data samples to demonstrate its ability to decompose and reconstruct latency-variable components of ERPs and to retrieve single trial variability information. Different functionalities of RIDE were shown in appropriate examples.
+
+
+COMPARISON WITH EXISTING METHODS
+RIDE employs several modules to achieve a robust decomposition of ERP. As main innovations RIDE (1) is able to extract components based on the combination of known event markers and estimated latencies, (2) prevents distortions much more effectively than previous methods based on least-square algorithms, and (3) allows time window confinements to target relevant components associated with sub-processes of interest.
+
+
+CONCLUSIONS
+RIDE is a convenient method that decomposes ERPs and provides single trial analysis, yielding rich information about sub-components, and that reconstructs ERPs, more closely reflecting the combined activity of single trial ERPs. The outcomes of RIDE provide new dimensions to study brain-behavior relationships based on EEG data.

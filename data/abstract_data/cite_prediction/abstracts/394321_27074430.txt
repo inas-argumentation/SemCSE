@@ -1,0 +1,2 @@
+OSNR monitoring by deep neural networks trained with asynchronously sampled data
+We demonstrate a use of deep neural networks (DNN) for OSNR monitoring with minimum prior knowledge. By using 5-layers DNN trained with 400,000 samples, the DNN successfully estimates OSNR in a 16-GBd DP-QPSK system.

@@ -1,0 +1,2 @@
+Simulation of a silicon vertex detector in the D0 experiment
+The simulation of a silicon microstrip detector at the center of the DO detector at the Fermilab Tevatron collider is described. The efficiency of a silicon vertex detector for identifying b-quark jets in a ``non-magnetic`` detector such as D0 is investigated. For a position resolution of 10 {mu}m the gluon/b-jet rejection factor is estimated to be 28 for a b-jet efficiency of 25%. The detection of top quarks in the presence of background from high p{sub T} W boson production is studied.

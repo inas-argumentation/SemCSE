@@ -1,0 +1,27 @@
+Nitrogen dioxide and formaldehyde measurements from the GEOstationary Coastal and Air Pollution Events (GEO-CAPE) Airborne Simulator over Houston, Texas
+. The GEOstationary Coastal and Air Pollution Events (GEO-CAPE)
+Airborne Simulator (GCAS) was developed in support of NASA's decadal survey
+GEO-CAPE geostationary satellite mission. GCAS is an airborne push-broom
+remote-sensing instrument, consisting of two channels which make
+hyperspectral measurements in the ultraviolet/visible (optimized for air
+quality observations) and the visible–near infrared (optimized for ocean
+color observations). The GCAS instrument participated in its first intensive
+field campaign during the Deriving Information on Surface Conditions from
+Column and Vertically Resolved Observations Relevant to Air Quality
+(DISCOVER-AQ) campaign in Texas in September 2013. During this campaign, the
+instrument flew on a King Air B-200 aircraft during 21 flights on 11 days to
+make air quality observations over Houston, Texas. We present GCAS trace gas
+retrievals of nitrogen dioxide ( NO2 ) and formaldehyde
+( CH2O ), and compare these results with trace gas columns derived
+from coincident in situ profile measurements of NO2 and
+ CH2O made by instruments on a P-3B aircraft, and with NO2 
+observations from ground-based Pandora spectrometers operating in direct-sun
+and scattered light modes. GCAS tropospheric column measurements correlate
+well spatially and temporally with columns estimated from the P-3B
+measurements for both NO2 ( r2=0.89 ) and CH2O 
+( r2=0.54 ) and with Pandora direct-sun ( r2=0.85 ) and scattered light
+( r2=0.94 ) observed NO2 columns. Coincident GCAS columns agree
+in magnitude with NO2 and CH2O P-3B-observed columns to
+within 10 % but are larger than scattered light Pandora tropospheric
+ NO2 columns by 33 % and direct-sun Pandora NO2 
+columns by 50 %.

@@ -1,0 +1,2 @@
+Multi-Modal Fusion for Moment in Time Video Classification
+Action recognition in videos remains a challenging problem in the machine learning community. Particularly challenging is the differing degree of intra-class variation between actions: While background information is enough to distinguish certain classes, many others are abstract and require fine-grained knowledge for discrimination. To approach this problem, in this work we evaluate different modalities on the recently published Moments in Time dataset, a collection of one million videos of short length.

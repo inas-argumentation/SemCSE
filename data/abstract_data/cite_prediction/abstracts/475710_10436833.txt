@@ -1,0 +1,2 @@
+Memristor load current mirror circuit
+Simple current mirrors with semiconductor resistive loads suffer from large on-chip area, leakage currents and thermal effects. In this paper, we report the feasibility of using memristive loads as a replacement of semiconductor resistors in simplistic current mirror configuration. We report power, area and total harmonic distribution, and report the corner conditions on resistance tolerances.

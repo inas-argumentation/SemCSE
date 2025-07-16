@@ -1,0 +1,2 @@
+Positive Model Structures for Abstract Symmetric Spectra
+We give a general method of constructing positive stable model structures for symmetric spectra over an abstract simplicial symmetric monoidal model category. The method is based on systematic localization, in Hirschhorn’s sense, of a certain positive projective model structure on spectra, where positivity basically means the truncation of the zero level. The localization is by the set of stabilizing morphisms or their truncated version.

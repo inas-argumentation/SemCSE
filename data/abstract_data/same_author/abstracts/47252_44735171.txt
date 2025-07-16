@@ -1,0 +1,2 @@
+Generation of Near-Optimal Universal Boolean Functions
+A Boolean function U(z"1, z"2,...,z"m) is universal for given n>=1 if it realizes all Boolean functions f("x"1,...,x"n) by substituting for each z"j a variable of the set {0, 1, x"1,...,x"n, "1,...,"n}). An easily applied method based on linear algebra is developed for finding universal Boolean functions having a small number m of arguments. It is shown that this number is asymptotically minimal.

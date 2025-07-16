@@ -1,0 +1,2 @@
+Design and Analysis of a Practical E-Voting Protocol
+In this paper we design an e-voting protocol for an academic voting system which should be independent from other university applications. We briefly discuss security requirements for e-voting schemes focusing on our proposed scheme. We design a receipt-free e-voting protocol which requires neither anonymous channel nor other physical assumptions. We give a short survey on formal analysis of e-voting protocols. Using the applied pi-calculus we model and analyze some security properties of the proposed scheme.

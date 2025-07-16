@@ -1,0 +1,2 @@
+Generating topologically consistent triangle meshes from large scale Kinect Fusion
+Generating polygonal maps from RGB-D data is an active field of research in robotic mapping. Kinect Fusion and related algorithms provide means to generate reconstructions of large environments. However, most available implementations generate topological artifacts like redundant vertices and triangles. In this paper we present a novel data structure that allows to generate topologically consistent triangle meshes from RGB-D data without additional filtering.

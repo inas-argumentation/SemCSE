@@ -1,0 +1,2 @@
+TomoPy: a framework for the analysis of synchrotron tomographic data
+A collaborative framework for the analysis of synchrotron tomographic data which has the potential to unify the effort of different facilities and beamlines performing similar tasks is described. The proposed Python-based framework is open-source, platform- and data-format-independent, has multiprocessing capability and supports functional programming that many researchers prefer.

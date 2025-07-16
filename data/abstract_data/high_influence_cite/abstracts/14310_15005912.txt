@@ -1,0 +1,11 @@
+Computational identification of candidate loci for recessively inherited mutation using high-throughput SNP arrays
+MOTIVATION
+Single nucleic polymorphisms (SNPs) are one of the most abundant genetic variations in the human genome. Recently, several platforms for high-throughput SNP analysis have become available, capable of measuring thousands of SNPs across the genome. Tools for analysing and visualizing these large genetic data sets in biologically relevant manner are rare. This hinders effective use of the SNP-array data in research on complex diseases, such as cancer.
+
+
+RESULTS
+We describe a computational framework to analyse and visualize SNP-array data, and link the results in relevant databases. Our major objective is to develop methods for identifying DNA regions that likely harbour recessive mutations. Thus, the algorithms are designed to have high sensitivity and the identified regions are ranked using a scoring algorithm. We have also developed annotation tools that automatically query gene IDs, exon counts, microarray probe IDs, etc. In our case study, we apply the methods for identifying candidate regions for recessively inherited colorectal cancer predisposition and suggest directions for wet-lab experiments.
+
+
+AVAILABILITY
+R-package implementation is available at http://www.ltdk.helsinki.fi/sysbio/csb/downloads/CohortComparator/

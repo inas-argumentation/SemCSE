@@ -1,0 +1,2 @@
+Portfolio Construction: Using Bootstrapping and Portfolio Weight Resampling for Construction of Diversified Portfolios
+In this paper we introduce a framework for constructing portfolios, addressing two of the major problems of classical mean-variance optimization in practice: Low diversification and sensitivity to information ambiguity. In order to address these issues, we incorporate a prior regarding investors preferences as well as using a bootstrapping method to incorporate the effects of input parameter variation.

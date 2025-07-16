@@ -1,0 +1,2 @@
+Random Regular Graphs Of Non-Constant Degree: Connectivity And Hamiltonicity
+Let Gr denote a graph chosen uniformly at random from the set of r-regular graphs with vertex set l1,2, …, nr, where 3 l r l c0n for some small constant c0. We prove that, with probability tending to 1 as n → ∞, Gr is r-connected and Hamiltonian.

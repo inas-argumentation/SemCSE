@@ -1,0 +1,8 @@
+Uncountable Automatic Classes and Learning
+In this paper we consider uncountable classes recognizable by ω-automata and investigate suitable learning paradigms for them. In particular, the counterparts of explanatory, vacillatory and behaviourally correct learning are introduced for this setting. Here the learner reads in parallel the data of a text for a language L from the class plus an ω-index a and outputs a sequence of ω-automata such that all but finitely many of these ω-automata accept the index α iff α is an index for L. 
+ 
+It is shown that any class is behaviourally correct learnable if and only if it satisfies Angluin's tell-tale condition. For explanatory learning, such a result needs that a suitable indexing of the class is chosen. On the one hand, every class satisfying Angluin's tell-tale condition is vacillatory learnable in every indexing; on the other hand, there is a fixed class such that the level of the class in the hierarchy of vacillatory learning depends on the indexing of the class chosen. 
+ 
+We also consider a notion of blind learning. On the one hand, a class is blind explanatory (vacillatory) learnable if and only if it satisfies Angluin's tell-tale condition and is countable; on the other hand, for behaviourally correct learning there is no difference between the blind and non-blind version. 
+ 
+This work establishes a bridge between automata theory and inductive inference (learning theory).

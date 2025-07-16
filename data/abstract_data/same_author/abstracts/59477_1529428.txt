@@ -1,0 +1,2 @@
+Proactive knowledge distribution for agile processes
+Monitored distribution (MD) is a case-based approach for proactive knowledge distribution. MD allows the dissemination of knowledge artifacts in a just-in-time fashion in the context of its applicable targeted processes. In MD, knowledge artifacts are retrieved when they are applicable to the task in which a user is currently engaged. We define MD's requirements and argue that it can be applied to agile processes because the targeted processes are collected as an attribute of knowledge artifacts.

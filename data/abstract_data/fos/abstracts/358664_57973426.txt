@@ -1,0 +1,2 @@
+Research on Manipulation Method of XML Data Based on Hibernate
+With the rapid development of the Web technology and its applications, XML has become an important criterion for information express and data exchange in the World Wide Web. At present, the academic community has wide-ranging study to XML data management, such as the XML data storage, XML data query, XML indexing, Native XML database, XML stream processing, XML data dissemination. Hibernate can map the XML data to the entity model, so we can visits the XML data with the general XML data conversation method.

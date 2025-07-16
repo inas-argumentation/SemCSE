@@ -1,0 +1,15 @@
+Dose Response and Fractionation Sensitivity of Prostate Cancer After External Beam Radiation Therapy: A Meta-analysis of Randomized Trials.
+PURPOSE
+Randomized trials of altered dose/fractionation for external beam radiation therapy are meta-analyzed with the aim of establishing the dose response and fractionation sensitivity.
+
+
+METHODS AND MATERIALS
+Studies were identified through PubMed through April 1, 2017. Studies of any-risk prostate cancer patients and any modification of external beam radiation therapy were included. The outcomes and comparisons collected were hazard ratios for biochemical no evidence of disease (bNED) and overall survival (OS). Trial-by-trial estimates of the steepness of the dose-response curve for bNED were performed for dose-escalation trials, followed by inverse variance weighting. The steepness was used to extract estimates of α/β, which were subsequently synthesized. Both analyses were performed assuming no effect of overall treatment time and were repeated assuming a loss of 0.31 Gy/d for a protracted treatment time. Finally, all trials were included in the analyses of the dose response for fractionation-corrected doses. This analysis was repeated for OS. Finally, the per-trial effect on OS was compared to the effect on bNED.
+
+
+RESULTS
+We identified 13 randomized trials involving 10,184 patients. The dose response for bNED from dose-escalation trials was γ50 = 0.62 (95% confidence interval [CI] 0.37-0.87) and γ50 = 0.87 (95% CI 0.53-1.21) without and with the overall treatment time effect, respectively. The corresponding estimates of α/β from 8 fractionation trials (7946 patients) were 1.2 Gy (95% CI 0.8-1.7) and 2.7 Gy (95% CI 1.6-3.8). The heterogeneity in the data can be explained by the shallower dose response for bNED in trials with effective doses in the experimental arm >80 Gy equivalent dose in 2-Gy fractions (EQD2) (P = .04). No indication was found of a dose response for OS or a correlation with improvement in bNED.
+
+
+CONCLUSIONS
+The reported data of moderate hypofractionation are consistent with a low α/β value with narrow CIs. Dose-escalation trials have demonstrated a dose response for bNED. Escalating doses to >80 Gy EQD2 might not improve bNED. A correlation between benefit in bNED and OS was not found.

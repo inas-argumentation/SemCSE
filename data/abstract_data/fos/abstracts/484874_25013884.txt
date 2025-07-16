@@ -1,0 +1,15 @@
+A silicon strip detector array for energy verification and quality assurance in heavy ion therapy
+PURPOSE
+The measurement of depth dose profiles for range and energy verification of heavy ion beams is an important aspect of quality assurance procedures for heavy ion therapy facilities. The steep dose gradients in the Bragg peak region of these profiles require the use of detectors with high spatial resolution. The aim of this work is to characterize a one dimensional monolithic silicon detector array called the "serial Dose Magnifying Glass" (sDMG) as an independent ion beam energy and range verification system used for quality assurance conducted for ion beams used in heavy ion therapy.
+
+
+METHODS
+The sDMG detector consists of two linear arrays of 128 silicon sensitive volumes each with an effective size of 2mm × 50μm × 100μm fabricated on a p-type substrate at a pitch of 200 μm along a single axis of detection. The detector was characterized for beam energy and range verification by measuring the response of the detector when irradiated with a 290 MeV/u 12 C ion broad beam incident along the single axis of the detector embedded in a PMMA phantom. The energy of the 12 C ion beam incident on the detector and the residual energy of an ion beam incident on the phantom was determined from the measured Bragg peak position in the sDMG. Ad hoc Monte Carlo simulations of the experimental setup were also performed to give further insight into the detector response.
+
+
+RESULTS
+The relative response profiles along the single axis measured with the sDMG detector were found to have good agreement between experiment and simulation with the position of the Bragg peak determined to fall within 0.2 mm or 1.1% of the range in the detector for the two cases. The energy of the beam incident on the detector was found to vary less than 1% between experiment and simulation. The beam energy incident on the phantom was determined to be (280.9 ± 0.8) MeV/u from the experimental and (280.9 ± 0.2) MeV/u from the simulated profiles. These values coincide with the expected energy of 281 MeV/u.
+
+
+CONCLUSIONS
+The sDMG detector response was studied experimentally and characterized using a Monte Carlo simulation. The sDMG detector was found to accurately determine the 12 C beam energy and is suited for fast energy and range verification quality assurance. It is proposed that the sDMG is also applicable for verification of treatment planning systems that rely on particle range.

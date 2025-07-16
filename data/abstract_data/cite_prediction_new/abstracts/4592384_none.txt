@@ -1,0 +1,2 @@
+Hierarchical approach for hardware/software systems
+Competent design for hardware/software systems needs the convergence of three concurrent research directions: the study of hierarchy types, the intelligent communication between different domains, the formalization of verification/test. We aim to extend the theory of hierarchy types, in order to integrate communication properties as well as correctness and testability, to suit the behavioral specification of today's complex system design.

@@ -1,0 +1,2 @@
+Resolver-to-digital converter with synchronous demodulation for FPGA based low-latency control loops
+This paper deals with a synchronous demodulation scheme to be used to obtain the speed and position from resolver position sensor. Proposed algorithm is intended to be implemented on a FPGA to provide the elaborated information for very low latency control loops. Moreover, resolver excitation circuit has been simplified working directly with a square wave signal. Resolver frequency behavior has been also taken into account due to the non-sinusoidal excitation.

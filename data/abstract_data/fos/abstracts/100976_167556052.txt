@@ -1,0 +1,2 @@
+A Strategy of Pushbacking DDoS based on High Aggregated Traffic
+This paper discusses how to effectively eliminate and prevent DDoS attacks through resource management. The key techniques are discussed in details, which include; a congestion control strategy of aggregated traffic and the fulfillment of pushback in the tree. A combined method of those techniques is proposed in this paper.

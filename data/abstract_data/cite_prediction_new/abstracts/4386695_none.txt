@@ -1,0 +1,2 @@
+A direction sensitive, integrated, low cost Doppler radar sensor for automotive applications
+We fabricated and tested an integrated, low cost, W-band Doppler radar sensor, capable to provide direction sensitive velocity information. The front-end consists of an active integrated antenna in self-mixing operation and a surface-wave coupled, mixing rectenna, providing full homodyne I/Q-detection. In the front-end, we employed only low cost silicon monolithic millimeter wave integrated circuits (SIMMWIC). Measured results show excellent performance of the sensor.

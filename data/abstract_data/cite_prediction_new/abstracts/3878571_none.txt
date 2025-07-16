@@ -1,0 +1,2 @@
+Using Heuristic Search Techniques To Extract Design Abstractions From Source Code
+As modern software systems are large and complex, appropriate abstractions of their structure are needed to make them more understandable and, thus, easier to maintain. Software clustering tools are useful to support the creation of these abstractions. In this paper we describe our search algorithms for software clustering, and conduct a case study to demonstrate how altering the clustering parameters impacts the behavior and performance of our algorithms.

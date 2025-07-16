@@ -1,0 +1,2 @@
+An ant colony optimizer for melody creation with baroque harmony
+We propose an algorithm that is based on the Ant Colony Optimization (ACO) metaheuristic for producing harmonized melodies. The algorithm works in two stages. In the first stage it creates a melody. This melody is then harmonized according to the rules of Baroque harmony in the second stage. This is the first ACO algorithm to create music that uses domain knowledge and the first employed for harmonization of a melody.

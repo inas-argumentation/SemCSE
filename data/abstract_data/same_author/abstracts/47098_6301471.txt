@@ -1,0 +1,2 @@
+Adaptive Simplicial Grids from Cross-Sections of Monotone Complexes
+We study the maintenance of a simplicial grid or complex under changing density requirements. The proposed method works in any fixed dimension and generates grids by projecting cross-sections of a monotone simplicial complex that lives in one dimension higher than the grid. The density of the grid is adapted by locally moving the cross-section up or down along the extra dimension.

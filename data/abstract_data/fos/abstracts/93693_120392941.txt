@@ -1,0 +1,2 @@
+Noise prediction of a rectangular jet using large-eddy simulation
+We investigate the acoustic radiation from a 1:5 aspect ratio transitional rectangular jet predicted by large-eddy simulation (LES). The approximate deconvolution model was used as subgrid-scale model. The origin of this nonphysical noise is analyzed

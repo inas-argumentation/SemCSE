@@ -1,0 +1,2 @@
+On the computation of marginal likelihood via MCMC for model selection and hypothesis testing
+In the Bayesian setting, the marginal likelihood is the key quantity for model selection purposes. Several computational methods have been proposed in the literature for the computation of the marginal likelihood. In this paper, we briefly review different estimators based on MCMC simulations. We also suggest the use of a kernel density estimation procedure, based on a clustering scheme, within some of them. Numerical comparisons are also provided.

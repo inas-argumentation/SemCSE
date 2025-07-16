@@ -1,0 +1,2 @@
+High-rate dead-time corrections in a general purpose digital pulse processing system
+The abilities on dead-time correction of a real-time digital pulse processing (DPP) system for high-rate high-resolution radiation measurements are presented. The DPP system, through a fast and slow analysis of the output waveform from radiation detectors, is able to perform an accurate estimation of the true input counting rate (ICR), a fine pulse height (energy) and shape (peaking time) analysis even at high ICRs.

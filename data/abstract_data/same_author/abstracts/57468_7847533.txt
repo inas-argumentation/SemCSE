@@ -1,0 +1,2 @@
+Hybrid learning scheme for data mining applications
+Classification of large datasets is a challenging task in data mining. In the current work, we propose a novel method that compresses the data and classifies the test data directly in its compressed form. The work forms a hybrid learning approach integrating the activities of data abstraction, frequent item generation, compression, classification and use of rough sets.

@@ -1,0 +1,2 @@
+Control system design and small signal analysis of APWM resonant inverter for induction heating
+This paper proposes an asymmetrical pulse width modulation (APWM) with frequency tracking control of full bridge series resonant inverter for induction heating application. In this method, APWM is used as power regulation, and phased locked loop (PLL) is used to attain zero-voltage-switching (ZVS) over a wide load range. The complete closed loop control model is obtained using small signal analysis. The validity of the proposed control is verified by simulation results.

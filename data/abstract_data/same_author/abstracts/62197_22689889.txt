@@ -1,0 +1,15 @@
+Dependency of disc degeneration on shear and tensile strains between annular fiber layers for complex loads.
+BACKGROUND
+One of the first signs of disc degeneration is the formation of circumferential tears within the annulus fibrosus. It is assumed that high shear and tensile strains between the lamellae mainly cause the initiation of these failures. However, it is not known which load application and which degree of disc degeneration could lead to the highest strains and therefore, might induce the formation of tears. Therefore, the aim of this finite element (FE) study was, to find load combinations that would yield highest shear and tensile strains in differently degenerated discs.
+
+
+MATERIALS AND METHODS
+A three-dimensional FE-model of a motion segment L4-5 was utilized in different degrees of disc degeneration (healthy, mild, moderate, and severe). The degenerated models consider the reduction of disc height, endplate curvatures, the osteophyte formation, the increase of nucleus compressibility, and the decrease of fiber and ligament stiffness. An axial compression load of 500 N together with moments of 7.5 Nm in single and combined load directions were simulated.
+
+
+RESULTS
+High strains for the healthy and degenerated discs were predicted for load combinations, particularly for the combination of lateral bending plus flexion or extension. The maximum strains were located in the postero-lateral region of the disc. In comparison to the healthy disc, the maximum strains increased slightly for the mildly and moderately degenerated disc. Strains decreased strongly for the severely degenerated disc. With progressive degeneration, the size of the region of maximum strains diminished and the location transferred from the inner annulus to the adjacent bony endplates.
+
+
+CONCLUSIONS
+The results could be a possible explanation for the initiation of circumferential tears. The mildly degenerated disc model, which represents early stages of life, suggests that circumferential tears could primarily occur at these stages, especially for the load combinations of lateral bending plus axial rotation and lateral bending plus flexion.

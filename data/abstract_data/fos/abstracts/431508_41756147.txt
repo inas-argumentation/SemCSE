@@ -1,0 +1,2 @@
+Asymptotic analysis of the cumulant-based MUSIC method in the presence of sample cumulant errors
+The paper presents an asymptotical analysis of the cumulant-based MUSIC for harmonic retrieval. Assuming that measurement errors are zero mean and uncorrelated, it is shown that the harmonic estimates obtained by the cumulant-based MUSIC are asymptotically unbiased and statistically efficient. Furthermore, the asymptotical distribution of the estimates is also investigated for non-Gaussian measurement errors. >

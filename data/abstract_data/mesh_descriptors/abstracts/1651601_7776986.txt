@@ -1,0 +1,15 @@
+Reproducibility of apparent diffusion coefficient measurements evaluated with different workstations.
+AIM
+To evaluate apparent diffusion coefficient (ADC) measurements of breast lesions on different computer platforms to address post-processing influences on ADC measurement reproducibility.
+
+
+MATERIALS AND METHODS
+One hundred biopsy-proven breast lesions were included in this prospective study. MRI examination was performed at 3 T using standard sequences and an echo planar diffusion-weighted imaging sequence with b-values of 0 and 850 s/mm2. The images were reviewed by two radiologists in consensus. Regions of interest were placed manually within the lesion, following its contour. Care was taken to exclude adjacent normal tissue or necrotic tissue and cystic components within the lesion. The mean ADC value was measured for each lesion on two different platforms: On the MRI workstation that came with the scanner and on a commercially available DICOM (digital imaging and communication in medicine) viewer. Agreement between workstation measurements was evaluated using intraclass correlation coefficient and Bland-Altman plots.
+
+
+RESULTS
+Fifty-nine malignant and 41 benign lesions were analysed. Of the benign lesions, 28 were mass lesions and 13 were non-mass-like enhancements. In addition, 46 of the malignant lesions were masses and 13 were non-mass-like enhancements. Agreement between the two workstation measurements was high (intraclass correlation coefficients=0.981). Using Bland-Altman plots, no systematic differences were identified between workstations. Limits of agreement ranged between a minimum of -0.071×10-3 mm2/s and a maximum of 0.102×10-3 mm2/s.
+
+
+CONCLUSION
+ADC measurements are reproducible among the workstations considered in this study.

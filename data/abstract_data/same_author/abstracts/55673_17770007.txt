@@ -1,0 +1,2 @@
+Encoding Object-Z in Isabelle/HOL
+In this paper, we present a formalisation of the reference semantics of Object-Z in the higher-order logic (HOL) instantiation of the generic theorem prover Isabelle, Isabelle/HOL. This formalisation has the effect of both clarifying the semantics and providing the basis for a theorem prover for Object-Z. The work builds on an earlier encoding of a value semantics for object-oriented Z in Isabelle/HOL and a denotational semantics of Object-Z based on separating the internal and external effects of class methods.

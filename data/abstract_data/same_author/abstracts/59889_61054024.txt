@@ -1,0 +1,2 @@
+Levels of Anonymity
+In this paper we make a first attempt at systematically investigating levels of anonymity required in networked computer systems: we feel it is often overlooked that beyond such obvious cases as identified by means of a password or “anonymous use” there are many other levels of anonymity, identification and authenticity necessary in various applications.

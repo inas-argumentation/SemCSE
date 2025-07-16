@@ -1,0 +1,12 @@
+Non-equilibrium quantum transport in presence of a defect: the non-interacting case
+We study quantum transport after an inhomogeneous quantum quench in a
+free fermion lattice system in the presence of a localised defect. Using
+a new rigorous analytical approach for the calculation of large time and
+distance asymptotics of physical observables, we derive the exact
+profiles of particle density and current. Our analysis shows that the
+predictions of a semiclassical approach that has been extensively
+applied in similar problems match exactly with the correct asymptotics,
+except for possible finite distance corrections close to the defect. We
+generalise our formulas to an arbitrary non-interacting
+particle-conserving defect, expressing them in terms of its scattering
+properties.

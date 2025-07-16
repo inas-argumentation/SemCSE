@@ -1,0 +1,2 @@
+The quantization of persistent current qubit. The role of inductance
+The Hamiltonian of persistent current qubit is found within well known quantum mechanical procedure. It allows a selfconsistent derivation of the current operator in a two state basis. It is shown that the current operator is not diagonal in a flux basis. A non diagonal element comes from the finite inductance of the qubit. The results obtained in the paper are important for the circuits where two or more flux qubits are coupled inductively.

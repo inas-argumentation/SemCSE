@@ -1,0 +1,2 @@
+Interpolation Techniques for Geo-spatial Association Rule Mining
+Association rule mining has become an important component of information processing systems due to significant increase in its applications. In this paper, our main objective is to find which interpolation approaches are best suited for discovering geo-spatial association rules from unsampled points. We investigate and integrate two interpolation approaches into our geo-spatial association rule mining algorithm. We call them pre-interpolation and post-interpolation approaches.

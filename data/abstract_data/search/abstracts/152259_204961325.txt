@@ -1,0 +1,2 @@
+Hidden Markov Models for Sepsis Detection in Preterm Infants
+We explore the use of traditional and contemporary hidden Markov models (HMMs) for sequential physiological data analysis and sepsis prediction in preterm infants. We investigate the use of classical Gaussian mixture model based HMM, and a recently proposed neural network based HMM. To improve the neural network based HMM, we propose a discriminative training approach. Experimental results show the potential of HMMs over logistic regression, support vector machine and extreme learning machine.

@@ -1,0 +1,2 @@
+Crawler intelligence with machine learning and Data Mining integration
+This paper presents a study conducted on intelligent crawlers used in search engines, competitive intelligence etc. Data mining algorithms identified by IEEE International Conference on Data Mining (ICDM) were used to aid machine learning and introduce intelligence into the crawler. A statistical analysis of performance of intelligent crawler is presented in this paper. Further in this paper the data mining algorithms are compared on basis of usability in crawlers.

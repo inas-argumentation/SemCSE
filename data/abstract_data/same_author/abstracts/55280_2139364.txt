@@ -1,0 +1,2 @@
+A spike sorting framework using nonparametric detection and incremental clustering
+We introduce a statistical computing framework to address two important issues in spike sorting: flexible spike shape modeling and realtime spike clustering. In this framework, spikes are detected based on a nonparametric shape distribution; detected spikes are further grouped by an incremental clustering algorithm involving the second-order statistics-covariance matrix. We performed experiments on both simulated and real signals to study spike detection accuracy and cluster separation.

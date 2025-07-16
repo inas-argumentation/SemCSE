@@ -1,0 +1,19 @@
+The practical needs of integrating scope, cost, and time
+The primary goal of tracking scope, cost, and time throughout the
+construction process is to facilitate the early detection of problem activities
+that are running over budget or falling behind scheduled progress. Current
+practice tracks this information using separate processes, which leads to
+inconsistencies between the information and inaccuracies when determining
+the cost and schedule status. Project managers need an integrated suite of
+project management tools so that the project's scope, cost, and time are in
+sync and the work in place is accurately reflected in the project control
+system. In this paper, we will provide a case study that demonstrates the
+practical needs of project managers to support integration throughout the
+life of a project. We will also demonstrate how those needs are not being
+addressed by existing software tools, by standards developed for the project
+management domain, and by information models that have been developed
+in research. This paper will show that the following issues must be
+addressed to enable the integration throughout the construction process: the
+information must be integrated at the start of construction; the mapping
+scheme between the different hierarchical representations of scope, cost, and
+time must be defined; and the shared information must be defined.

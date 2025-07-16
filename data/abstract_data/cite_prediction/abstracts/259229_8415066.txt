@@ -1,0 +1,2 @@
+Using semantic networks for knowledge representation in an intelligent environment
+When building intelligent spaces, the knowledge representation for encapsulating rooms, users, groups, roles, and other information is a fundamental design question. We present a semantic network as such a representation, and demonstrate its utility as a basis for ongoing work.

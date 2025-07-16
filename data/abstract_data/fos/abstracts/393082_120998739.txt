@@ -1,0 +1,2 @@
+Multiple Decision Procedures for Inference in Regression Models
+We consider testing of the significance of the coefficients in the linear model. Unlike in the classical approach, there is no alternative hypothesis to accept when the null hypothesis is rejected. When there is a substantial deviation from the null hypothesis, we reject the null hypothesis and identify based on data alternative hypotheses associated with the independent variables or the levels that contributed most towards the deviation from the null hypothesis.

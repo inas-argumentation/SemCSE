@@ -1,0 +1,4 @@
+Translation Validation: From DC+ to C*
+Translation validation is an alternative to the verification of translators (compilers, code generators). Rather than proving in advance that the compiler always produces a target code which correctly implements the source code (compiler verification), each individual translation (i.e. a run of the compiler) is followed by a validation phase which verifies that the target code produced on this run correctly implements the submitted source program. In order to be a practical alternative to compiler verification, a key feature of this validation is its full automation. 
+ 
+In this paper we demonstrate the feasibility of translation validation for industrial code generators from DC+ -a widely used intermediate format for synchronous languages- to C. We explain the compilation pattern from DC+ to C and advocate new abstraction techniques for a fragment of first order logic as part of the automation of our approach.

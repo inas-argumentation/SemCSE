@@ -1,0 +1,2 @@
+Integer solutions of some Diophantine equations via Fibonacci and Lucas numbers.
+We study the problem of finding all integer solutions of the Diophantine equations x 2 − 5Fnxy − 5(−1) n y 2 = ±L 2 , x 2 − Lnxy + (−1) n y 2 = ±5F 2 n , and x 2 − Lnxy + (−1) n y 2 = ±F 2 n. Using these equations, we also explore all integer solutions of some other Diophantine equations.

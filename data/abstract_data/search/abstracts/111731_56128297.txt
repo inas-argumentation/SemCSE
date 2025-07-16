@@ -1,0 +1,2 @@
+Maximum mutual information estimation of hidden Markov model parameters for speech recognition
+A method for estimating the parameters of hidden Markov models of speech is described. Parameter values are chosen to maximize the mutual information between an acoustic observation sequence and the corresponding word sequence. Recognition results are presented comparing this method with maximum likelihood estimation.

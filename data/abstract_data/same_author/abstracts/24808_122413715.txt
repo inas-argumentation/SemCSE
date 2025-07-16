@@ -1,0 +1,4 @@
+New bounds on the number of bound states for Schrödinger operators
+We consider the Schrödinger operatorH = −Δ +V(|x|) onR3. Letnℓ denote the number of bound states with angular momentumℓ (not counting the 2ℓ + 1 degeneracy). We prove the following bounds onnℓ. LetV ⩽ 0 and d/dr r1-2p(-V)1 −p ⩽ 0 for somep ∈ [1/2, 1) then
+$$n_\ell \leqslant p(1 - p)^{p - 1} (2\ell + 1)^{1 - 2p} \smallint _0^\infty ( - r^2 V)^p \frac{{dr}}{r}.$$
+ This bound closes the gap between the celebrated bounds by Calogero (p = 1/2) and Bargmann (p = 1).

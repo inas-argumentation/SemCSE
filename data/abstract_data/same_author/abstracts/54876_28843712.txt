@@ -1,0 +1,2 @@
+Generalized Recursive Splitting Algorithms for Learning Hybrid Concepts
+This paper describes the Competitive Relation Learner (CRL), a generalized recursive splitting algorithm capable of producing a wide range of hybrid concept representations through the competitive application of multiple learning strategies, multiple decomposition strategies, and multiple decomposition evaluation strategies. Experimental results are reported that demonstrate CRL's ability to outperform several well known fixed-bias strategies.

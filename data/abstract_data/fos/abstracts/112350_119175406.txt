@@ -1,0 +1,2 @@
+Toeplitz and Hankel operators between distinct Hardy spaces.
+The paper gives the background for Toeplitz $T_a$ and Hankel $H_a$ operators acting between distinct Hardy type spaces over the unit circle $\mathbb{T}$. We characterize possible symbols of such operators and prove general versions of Brown-Halmos and Nehari theorems. The lower bound for measure of noncomactness of Toeplitz operator is also found. Our approach allows Hardy spaces associated with arbitrary rearrangement invariant spaces, but part of the results is new even for the classical case of $H^p$ spaces.

@@ -1,0 +1,15 @@
+MBD-seq as a cost-effective approach for methylome-wide association studies: demonstration in 1500 case--control samples.
+AIM
+We studied the use of methyl-CpG binding domain (MBD) protein-enriched genome sequencing (MBD-seq) as a cost-effective screening tool for methylome-wide association studies (MWAS).
+
+
+MATERIALS & METHODS
+Because MBD-seq has not yet been applied on a large scale, we first developed and tested a pipeline for data processing using 1500 schizophrenia cases and controls plus 75 technical replicates with an average of 68 million reads per sample. This involved the use of technical replicates to optimize quality control for multi- and duplicate-reads, an in silico experiment to identify CpGs in loci with alignment problems, CpG coverage calculations based on multiparametric estimates of the fragment size distribution, a two-stage adaptive algorithm to combine data from correlated adjacent CpG sites, principal component analyses to control for confounders and new software tailored to handle the large data set.
+
+
+RESULTS
+We replicated MWAS findings in independent samples using a different technology that provided single base resolution. In an MWAS of age-related methylation changes, one of our top findings was a previously reported robust association involving GRIA2. Our results also suggested that owing to the many confounding effects, a considerable challenge in MWAS is to identify those effects that are informative about disease processes.
+
+
+CONCLUSION
+This study showed the potential of MBD-seq as a cost-effective tool in large-scale disease studies.

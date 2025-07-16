@@ -1,0 +1,2 @@
+Numerical solution of exterior Maxwell problems by Galerkin BEM and Runge–Kutta convolution quadrature
+In this paper we consider time-dependent electromagnetic scattering problems from conducting objects. We discretize the time-domain electric field integral equation using Runge–Kutta convolution quadrature in time and a Galerkin method in space. We analyze the involved operators in the Laplace domain and obtain convergence results for the fully discrete scheme. Numerical experiments indicate the sharpness of the theoretical estimates.

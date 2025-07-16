@@ -1,0 +1,2 @@
+Aesthetic Style Transfer through Text to image Synthesis and Image to image Translation
+This paper presents a style transfer method combining generative adversarial networks and style transfer networks. In the previous style transfer methods, transformation from one image to another has been proposed. On the other hand, our method enables style transfer from a text to an image. This will be helpful when there are no images that represent the desired style. Experimental results show the effectiveness of our method.

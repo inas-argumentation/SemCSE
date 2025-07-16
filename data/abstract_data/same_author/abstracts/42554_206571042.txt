@@ -1,0 +1,2 @@
+An Upper Bound for the Independent Domination Number
+Let G be a simple graph of order n and minimum degree ?. The independent domination number i(G) is defined to be the minimum cardinality among all maximal independent sets of vertices of G. In this paper, we show that i(G)?n+2??2n?. Thus a conjecture of Favaron is settled in the affirmative.

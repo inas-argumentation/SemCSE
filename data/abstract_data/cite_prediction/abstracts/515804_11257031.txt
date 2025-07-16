@@ -1,0 +1,23 @@
+DrugE-Rank: improving drug–target interaction prediction of new candidate drugs or targets by ensemble learning to rank
+MOTIVATION
+Identifying drug-target interactions is an important task in drug discovery. To reduce heavy time and financial cost in experimental way, many computational approaches have been proposed. Although these approaches have used many different principles, their performance is far from satisfactory, especially in predicting drug-target interactions of new candidate drugs or targets.
+
+
+METHODS
+Approaches based on machine learning for this problem can be divided into two types: feature-based and similarity-based methods. Learning to rank is the most powerful technique in the feature-based methods. Similarity-based methods are well accepted, due to their idea of connecting the chemical and genomic spaces, represented by drug and target similarities, respectively. We propose a new method, DrugE-Rank, to improve the prediction performance by nicely combining the advantages of the two different types of methods. That is, DrugE-Rank uses LTR, for which multiple well-known similarity-based methods can be used as components of ensemble learning.
+
+
+RESULTS
+The performance of DrugE-Rank is thoroughly examined by three main experiments using data from DrugBank: (i) cross-validation on FDA (US Food and Drug Administration) approved drugs before March 2014; (ii) independent test on FDA approved drugs after March 2014; and (iii) independent test on FDA experimental drugs. Experimental results show that DrugE-Rank outperforms competing methods significantly, especially achieving more than 30% improvement in Area under Prediction Recall curve for FDA approved new drugs and FDA experimental drugs.
+
+
+AVAILABILITY
+http://datamining-iip.fudan.edu.cn/service/DrugE-Rank
+
+
+CONTACT
+zhusf@fudan.edu.cn
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary data are available at Bioinformatics online.

@@ -1,0 +1,2 @@
+On 2-extendable abelian Cayley graphs
+Abstract A graph G is 2-extendable if any two independent edges of G are contained in a perfect matching of G. A Cayley graph of even order over an abelian group is 2-extendable if and only if it is not isomorphic to any of the following circulant graphs: 1. (I) Z2n(1, 2n - 1), n ⩾ 3; 2. (II) Z2n(1, 2, 2n - 1, 2n - 2), n ⩾ 3; 3. (III) Z4n(1, 4n - 1, 2n), n ⩾ 2; 4. (IV) Z4n + 2(2,4n,2n + 1), n ⩾ 1; and 5. (V) Z4n +2(1,4n + 1, 2n, 2n + 2), n ⩾ 1.

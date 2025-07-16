@@ -1,0 +1,2 @@
+ABSOLUTELY MINIMIZING LIPSCHITZ EXTENSIONS ON A METRIC SPACE
+In this note, we consider the problem of finding an absolutely minimizing Lipschitz extension of a given function defined in a subset of an arbitrary metric space. Using a version of Perron's method due to Aronsson, we prove the existence under the assumption that the space is a separable length space.

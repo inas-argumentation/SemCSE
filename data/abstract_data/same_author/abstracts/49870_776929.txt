@@ -1,0 +1,2 @@
+Trees of extremal connectivity index
+The connectivity index w"@a(G) of a graph G is the sum of the weights (d(u)d(v))^@a of all edges uv of G, where @a is a real number (@a 0), and d(u) denotes the degree of the vertex u. Let T be a tree with n vertices and k pendant vertices. In this paper, we give sharp lower and upper bounds for w"1(T). Also, for -1=<@a<0, we give a sharp lower bound and a upper bound for w"@a(T).

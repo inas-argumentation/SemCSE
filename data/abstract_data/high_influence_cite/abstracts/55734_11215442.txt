@@ -1,0 +1,2 @@
+Basic Process Algebra with Iteration: Completeness of its Equational Axioms
+Bergstra, Bethke and Ponse proposed an axiomatization for Basic Process Algebra extended with (binary) iteration. In this paper, we prove that this axiomatization is complete with respect to strong bisimulation equivalence. To obtain this result, we will set up a term rewriting system, based on the axioms, and prove that this term rewriting system is terminating, and that bisimilar normal forms are syntactically equal modulo commutativity and associativity of the +.

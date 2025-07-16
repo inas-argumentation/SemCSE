@@ -1,0 +1,2 @@
+Smart Card Crypto-Coprocessors for Public-Key Cryptography
+This paper intends to provide information about up-to-date performances of smart-card arithmetic coprocessors regarding major public-key cryptosystems and analyze the main tendences of this developing high-tech industry and related markets. We also comment hardware limitations of current technologies and provide a technique for extending them by virtually doubling their capacities.

@@ -1,0 +1,2 @@
+Mosaicing of Microscope Images
+Image mosaicing has found a number of applications such as panoramic imaging, digital terrain mapping, ophthalmology, and virtual microscopy. In this paper, we present an automated mosaicing technique for generating mosaics from microscope images. We carry out robust image feature matching and global geometric and radiometric parameter estimation. The images are transformed using the estimated parameters and mosaiced together, producing accurate registration of overlapping regions without visible seams.

@@ -1,0 +1,2 @@
+Dismantling Sparse Random Graphs
+We consider the number of vertices that must be removed from a graph G in order that the remaining subgraph have no component with more than k vertices. Our principal observation is that, if G is a sparse random graph or a random regular graph on n vertices with n → ∞, then the number in question is essentially the same for all values of k that satisfy both k → ∞ and k =o(n).

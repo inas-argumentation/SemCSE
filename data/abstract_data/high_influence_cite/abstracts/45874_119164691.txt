@@ -1,0 +1,2 @@
+Lyapunov criteria for uniform convergence of conditional distributions of absorbed Markov processes
+We study the quasi-stationary behavior of multidimensional processes absorbed when one of the coordinates vanishes. Our results cover competitive or weakly cooperative Lotka-Volterra birth and death processes and Feller diffusions with competitive Lotka-Volterra interaction. To this aim, we develop original non-linear Lyapunov criteria involving two Lyapunov functions, which apply to general Markov processes.

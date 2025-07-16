@@ -1,0 +1,19 @@
+THE c2d SPITZER SPECTROSCOPIC SURVEY OF ICES AROUND LOW-MASS YOUNG STELLAR OBJECTS. IV. NH3 AND CH3OH
+NH_3 and CH_3OH are key molecules in astrochemical networks leading to the formation of more complex N- and 
+O-bearing molecules, such as CH3CN and CH3OCH3. Despite a number of recent studies, little is known about 
+their abundances in the solid state. This is particularly the case for low-mass protostars, for which only the launch 
+of the Spitzer Space Telescope has permitted high-sensitivity observations of the ices around these objects. In this 
+work, we investigate the ~8–10μm region in the Spitzer IRS (InfraRed Spectrograph) spectra of 41 low-mass 
+young stellar objects (YSOs). These data are part of a survey of interstellar ices in a sample of low-mass YSOs 
+studied in earlier papers in this series. We used both an empirical and a local continuum method to correct for the 
+contribution from the 10μm silicate absorption in the recorded spectra. In addition, we conducted a systematic 
+laboratory study of NH_(3-) and CH_3OH-containing ices to help interpret the astronomical spectra. We clearly detect 
+a feature at ~9μm in 24 low-mass YSOs. Within the uncertainty in continuum determination, we identify this 
+feature with the NH_3 ν_2 umbrella mode and derive abundances with respect to water between ~2% and 15%. 
+Simultaneously, we also revisited the case of CH_3OH ice by studying the ν_4 C–O stretch mode of this molecule at 
+~9.7μm in 16 objects, yielding abundances consistent with those derived by Boogert et al. based on a simultaneous 
+9.75 and 3.53μm data analysis. Our study indicates that NH_3 is present primarily in H_2O-rich ices, but that in 
+some cases, such ices are insufficient to explain the observed narrow FWHM. The laboratory data point to CH_3OH 
+being in an almost pure methanol ice, or mixed mainly with CO or CO_2, consistent with its formation through 
+hydrogenation on grains. Finally, we use our derived NH_3 abundances in combination with previously published 
+abundances of other solid N-bearing species to find that up to 10%–20% of nitrogen is locked up in known ices.

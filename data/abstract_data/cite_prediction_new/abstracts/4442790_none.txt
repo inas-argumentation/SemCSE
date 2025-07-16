@@ -1,0 +1,2 @@
+Three-Leg Fault-Tolerant Neutral-Point-Clamped Converter
+This paper presents a study of the fault tolerance capacity of a neutral-point-clamped (NPC) converter. Furthermore, two possible solutions are presented. In these solutions, adding a reduced number of additional components, the behavior of the converter when a switch fails improves considerably. Simulations results that prove the correct operation of the proposed topologies are shown.

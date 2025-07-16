@@ -1,0 +1,2 @@
+The power of the Durbin-Watson test for regressions without an intercept
+Abstract In the linear regression model without an intercept, the limiting power of the Durbin–Watson test (as correlation among errors increases) is shown to take only one of two values. This is either one or zero, depending on the underlying regressor matrix. Some examples and a simple rule to decide from a given regressor matrix which of these cases applies are also given.

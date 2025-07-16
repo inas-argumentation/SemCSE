@@ -1,0 +1,2 @@
+MMX-I: data-processing software for multimodal X-ray imaging and tomography
+The MMX-I open-source software has been developed for processing and reconstruction of large multimodal X-ray imaging and tomography datasets. The recent version of MMX-I is optimized for scanning X-ray fluorescence, phase-, absorption- and dark-field contrast techniques. This, together with its implementation in Java, makes MMX-I a versatile and friendly user tool for X-ray imaging.

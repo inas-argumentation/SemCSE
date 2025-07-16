@@ -1,0 +1,2 @@
+Algorithm Theories and Design Tactics
+Algorithm theories represent the structure common to a class of algorithms, such as divide-and-conquer or backtrack. An algorithm theory for a class A provides the basis for design tactics — specialized methods for designing A-algorithms from formal problem specifications. We illustrate this approach with recent work on the theory of global search algorithms and briefly mention several others. Several design tactics have been implemented in the KIDS/CYPRESS system and have been used to semiautomatically derive many algorithms.

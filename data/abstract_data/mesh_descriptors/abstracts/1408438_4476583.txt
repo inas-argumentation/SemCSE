@@ -1,0 +1,11 @@
+RR interval dynamics before atrial fibrillation in patients after coronary artery bypass graft surgery.
+BACKGROUND
+Atrial fibrillation/flutter (AF) is a frequent complication of coronary artery bypass graft surgery (CABG) that leads to increased costs and morbidity. We hypothesized that heart rate variability (HRV), an indicator of cardiac sympathovagal balance, is altered before the onset of postoperative AF. Because nonlinear methods of HRV analysis provide information about heart rate dynamics not evident from usual HRV measures, we also hypothesized that approximate entropy (ApEn), a nonlinear measure of HRV, might have predictive value.
+
+
+METHODS AND RESULTS
+Analysis of HRV was performed in 3 sequential 20-minute intervals preceding the onset of postoperative AF (24 episodes in 18 patients). These data were compared with corresponding intervals in 18 sex- and age-matched postoperative control subjects who did not develop AF. Patients had left ventricular ejection fractions >45% before surgery and were not receiving beta-blockers during ambulatory ECG monitoring after surgery. Logistic regression demonstrated that on the basis of averaged values for the three 20-minute intervals, increased heart rate and decreased ApEn were independently associated with AF. Heart rate dynamics before AF was associated with either lower (n= 19) or higher (n=5) RR interval variation by traditional measures of HRV or quantitative Poincaré analysis, suggesting the possibility of divergent autonomic conditions before AF onset.
+
+
+CONCLUSIONS
+In the hour before AF after CABG surgery, higher heart rate and lower heart rate complexity compared with values in control patients were independent predictors of AF. Decreased ApEn occurs in patients with either increased or decreased HRV by traditional measures and may provide a useful tool for risk stratification or investigation of mechanisms.

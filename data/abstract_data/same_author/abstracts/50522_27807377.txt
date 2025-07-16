@@ -1,0 +1,2 @@
+Protocol Feature Interactions
+Feature interaction is one of the most intriguing problems in research and development of telecommunications systems. Features may interact and result in undesirable system behavior. Today the analysis of interactions is conducted in an ad hoc manner by subject matter experts. This leads to time-consuming feature design and testing without any interaction-free guarantee.

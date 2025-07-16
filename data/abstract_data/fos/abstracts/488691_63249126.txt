@@ -1,0 +1,2 @@
+Building the ETL Tool for Data Warehouse based on Workflow Engine
+This article points out the necessity of building the ETL tools for Data Warehouse,based on analyzing the concept,characteristic and architecture of Data Warehouse firstly . Furthermore,the article introduces and analyzes the Workflow and Metadata,and puts forward the solution building the ETL tool for Data Warehouse based on Workflow Engine and driven by Metadata after analyzing the ETL tool for Data warehouse.

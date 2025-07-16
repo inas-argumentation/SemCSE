@@ -1,0 +1,2 @@
+Formule de Plancherel sur $GL_n \times GL_n \backslash GL_{2n}$
+Let $F$ be a non archimedian local field and $H_n(F)$ the Shalika subgroup of $GL_{2n}(F)$. We prove an explicit Plancherel formula for $H_n(F) \backslash GL_{2n}(F)$ using the theory of Jacquet-Shalika of zeta functions and we deduce Plancherel decompositions for $H_n(F) \backslash GL_{2n}(F)$ and $GL_{n}(F) \times GL_{n}(F) \backslash GL_{2n}(F)$.

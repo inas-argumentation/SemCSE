@@ -1,0 +1,13 @@
+A Linear-Time Algorithm for 7-Coloring 1-Plane Graphs
+AbstractA graph G is 1-planar if it can be embedded in the plane in such a way 
+that each edge crosses at most one other edge. Borodin showed that 
+1-planar graphs are 6-colorable, but his proof does not lead to a linear-time 
+algorithm. This paper presents a linear-time algorithm for 7-coloring 
+1-plane graphs (which are 1-planar graphs already embedded in the plane). 
+The main difficulty in the design of our algorithm comes from 
+the fact that the class of 1-planar graphs is not closed under the 
+operation of edge contraction. This difficulty is overcome by a structural 
+lemma that may be useful in other problems on 1-planar graphs. This paper 
+also shows that it is NP-complete to decide whether a given 1-planar graph 
+is 4-colorable. The complexity of the problem of deciding whether a given 
+1-planar graph is 5-colorable is still unknown.

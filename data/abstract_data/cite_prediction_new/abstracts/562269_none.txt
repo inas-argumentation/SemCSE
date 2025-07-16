@@ -1,0 +1,2 @@
+Deep Learning Based Damage Detection on Post-Hurricane Satellite Imagery.
+After a hurricane, damage assessment is critical to emergency managers and first responders. To improve the efficiency and accuracy of damage assessment, instead of using windshield survey, we propose to automatically detect damaged buildings using image classification algorithms. The method is applied to the case study of 2017 Hurricane Harvey.

@@ -1,0 +1,2 @@
+Active Coevolutionary Learning of Deterministic Finite Automata
+This paper describes an active learning approach to the problem of grammatical inference, specifically the inference of deterministic finite automata (DFAs) We refer to the algorithm as the estima.

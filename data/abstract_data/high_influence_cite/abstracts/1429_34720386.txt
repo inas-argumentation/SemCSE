@@ -1,0 +1,15 @@
+Adaptive TDMA scheduling for real-time flows in cluster-based wireless sensor networks
+To prevent scalability problem caused by increasing traffic of real-time 
+ applications, cluster architecture with Time Division Multiple Access (TDMA) 
+ scheduling scheme is mostly deployed in wireless sensor networks. However, 
+ even though it have proven good scalability and suitability for real-time 
+ communications, but static scheduling lacks of adaptability in several 
+ situations by not admitting some real-time flows where slots remain 
+ available. To solve mentioned problem, in this paper, we propose an adaptive 
+ cluster-based scheduling scheme for real-time flows by utilizing the time 
+ slots for flows according to type of flows such as inside or outside 
+ cluster. So, the proposed scheme can achieve better utilization of channel 
+ by minimizing the number of unused channels for real-time flows than static 
+ scheme through new adaptive TDMA scheduling scheme . Simulation results show 
+ that more flows are admitted and delivered within the deadline in the 
+ proposed scheme by utilizing unused time slots accordingly.

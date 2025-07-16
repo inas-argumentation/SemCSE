@@ -1,0 +1,2 @@
+Does value-at-risk encourage diversification when losses follow tempered stable or more general Lévy processes?
+In this paper, we address the question of when portfolio selection based on Value-at-risk encourages diversification [in the sense of Ibragimov (Quant Financ 9(5):565–580, 2009)]. Specifically, we give sufficient conditions for the case when losses follow a Lévy process. When the process has finite variation, these conditions are also necessary. We then specialize our results to the case when losses have tempered stable distributions.

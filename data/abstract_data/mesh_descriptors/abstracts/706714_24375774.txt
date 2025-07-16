@@ -1,0 +1,15 @@
+[Automated pulmonary nodule volumetry with an optimized algorithm. Accuracy at different slice thicknesses compared to unidimensional and bidimensional measurements].
+PURPOSE
+This in-vivo study quantifies the accuracy of automated pulmonary nodule volumetry in reconstructions with different slice thicknesses (ST) of clinical routine CT scans. The accuracy of volumetry is compared to that of unidimensional and bidimensional measurements.
+
+
+MATERIALS AND METHODS
+28 patients underwent contrast enhanced 64-row CT scans of the chest and abdomen obtained in the clinical routine. All scans were reconstructed with 1, 3, and 5 mm ST. Volume, maximum axial diameter, and areas following the guidelines of Response Evaluation Criteria in Solid Tumors (RECIST) and the World Health Organization (WHO) were measured in all 101 lesions located in the overlap region of both scans using the new software tool OncoTreat (MeVis, Deutschland). The accuracy of quantifications in both scans was evaluated using the Bland and Altmann method. The reproducibility of measurements in dependence on the ST was compared using the likelihood ratio Chi-squared test.
+
+
+RESULTS
+A total of 101 nodules were identified in all patients. Segmentation was considered successful in 88.1% of the cases without local manual correction which was deliberately not employed in this study. For 80 nodules all 6 measurements were successful. These were statistically evaluated. The volumes were in the range 0.1 to 15.6 ml. Of all 80 lesions, 34 (42%) had direct contact to the pleura parietalis oder diaphragmalis and were termed parapleural, 32 (40%) were paravascular, 7 (9%) both parapleural and paravascular, the remaining 21 (27%) were free standing in the lung. The trueness differed significantly (Chi-square 7.22, p value 0.027) and was best with an ST of 3 mm and worst at 5 mm. Differences in precision were not significant (Chi-square 5.20, p value 0.074). The limits of agreement for an ST of 3 mm were +/- 17.5 % of the mean volume for volumetry, for maximum diameters +/- 1.3 mm, and +/- 31.8 % for the calculated areas.
+
+
+CONCLUSION
+Automated volumetry of pulmonary nodules using OncoTREAT has a conformable accuracy for an ST of 3 mm and 1 mm and is even more accurate for an ST of 5 mm than unidimensional or bidimensional measurements. A difference of more than +/- 17.5% occurs with a probability of less than 5% at an ST of 3 mm.

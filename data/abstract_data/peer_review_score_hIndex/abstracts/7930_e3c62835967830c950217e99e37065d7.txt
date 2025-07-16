@@ -1,0 +1,20 @@
+DEEP GRAPH TRANSLATION
+The tremendous success of deep generative models on generating continuous data
+like image and audio has been achieved; however, few deep graph generative models
+have been proposed to generate discrete data such as graphs. The recently proposed
+approaches are typically unconditioned generative models which have no
+control over modes of the graphs being generated. Differently, in this paper, we
+are interested in a new problem named Deep Graph Translation: given an input
+graph, the goal is to infer a target graph by learning their underlying translation
+mapping. Graph translation could be highly desirable in many applications such
+as disaster management and rare event forecasting, where the rare and abnormal
+graph patterns (e.g., traffic congestions and terrorism events) will be inferred prior
+to their occurrence even without historical data on the abnormal patterns for this
+specific graph (e.g., a road network or human contact network). To this end, we
+propose a novel Graph-Translation-Generative Adversarial Networks (GT-GAN)
+which translates one mode of the input graphs to its target mode. GT-GAN consists
+of a graph translator where we propose new graph convolution and deconvolution
+layers to learn the global and local translation mapping. A new conditional
+graph discriminator has also been proposed to classify target graphs by conditioning
+on input graphs. Extensive experiments on multiple synthetic and real-world
+datasets demonstrate the effectiveness and scalability of the proposed GT-GAN.

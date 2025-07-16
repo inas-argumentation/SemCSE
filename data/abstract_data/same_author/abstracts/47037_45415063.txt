@@ -1,0 +1,2 @@
+Np-hardness proof and an approximation algorithm for the minimum vertex ranking spanning tree problem
+The minimum vertex ranking spanning tree problem (MVRST) is to find a spanning tree of G whose vertex ranking is minimum. In this paper, we show that MVRST is NP-hard. To prove this, we polynomially reduce the 3-dimensional matching problem to MVRST. Moreover, we present a (⌈Ds/2⌉ + 1)/(⌊log2(Ds + 1)⌋ + 1)-approximation algorithm for MVRST where Ds is the minimum diameter of spanning trees of G.

@@ -1,0 +1,2 @@
+Scalable serializable snapshot isolation for multicore systems
+Since 1990's, Snapshot Isolation (SI) has been widely studied, and it was successfully deployed in commercial and open-source database engines. Berenson et al. showed that data consistency can be violated under SI. Recently, a new class of Serializable SI algorithms (SSI) has been proposed to achieve serializable execution while still allowing concurrency between reads and updates.

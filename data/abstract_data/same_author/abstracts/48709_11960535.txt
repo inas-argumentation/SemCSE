@@ -1,0 +1,2 @@
+Performance Modeling of Grid Resource Management and Scheduling Systems
+Performance evaluation of grid resource management and scheduling system is of key importance to the success of the grid. In this paper, we introduce a generalized stochastic Petri net (GSPN) model for such purpose. The model is simple with clarity and can be applied to other research issues on grid to provide them with performance evaluation capabilities.

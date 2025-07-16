@@ -1,0 +1,2 @@
+A generalization of a result of R. Lyons about measures on [0, 1)
+Letμ be a probability measure on [0, 1), invariant underS:x ↦px mod 1, and for which almost every ergodic component has positive entropy. Ifq is a real number greater than 1 for which logq/ logp is irrational, andTn sendsx toqnx mod 1, then for any ε>0 the measureµTn−1 will — for a set ofn of positive lower density — be within ε of Lebesgue measure.

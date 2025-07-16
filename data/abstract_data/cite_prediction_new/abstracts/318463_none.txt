@@ -1,0 +1,2 @@
+Generation of five phase-locked harmonics by implementing a divide-by-three optical frequency divider.
+We report the generation of five phase-locked harmonics, f₁:2403  nm, f₂:1201  nm, f₃:801  nm, f₄:600  nm, and f₅:480  nm with an exact frequency ratio of 1:2:3:4:5 by implementing a divide-by-three optical frequency divider in the high harmonic generation process. All five harmonics are generated coaxially with high phase coherence in time and space, which are applicable for various practical uses.

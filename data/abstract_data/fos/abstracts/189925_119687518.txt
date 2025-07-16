@@ -1,0 +1,2 @@
+Analytic semigroups on vector valued noncommutative $L^p$-spaces
+We give sufficient conditions on an operator space $E$ and on a semigroup of operators on a von Neumann algebra $M$ to obtain a bounded analytic or a $R$-analytic semigroup $(T_t \otimes Id_E)_{t \geq 0}$ on the vector valued noncommutative $L^p$-space $L^p(M,E)$. Moreover, we give applications to the $H^\infty(\Sigma_\theta)$ functional calculus of the generators of these semigroups, generalizing some earlier work of M. Junge, C. Le Merdy and Q. Xu.

@@ -1,0 +1,15 @@
+Suppression of tumor lymphangiogenesis and lymph node metastasis by blocking vascular endothelial growth factor receptor 3 signaling.
+BACKGROUND
+Vascular endothelial growth factor C (VEGF-C) stimulates tumor lymphangiogenesis (i.e., formation of lymphatic vessels) and metastasis to regional lymph nodes by interacting with VEGF receptor 3 (VEGFR-3). We sought to determine whether inhibiting VEGFR-3 signaling, and thus tumor lymphangiogenesis, would inhibit tumor metastasis.
+
+
+METHODS
+We used the highly metastatic human lung cancer cell line NCI-H460-LNM35 (LNM35) and its parental line NCI-H460-N15 (N15) with low metastatic capacity. We inserted genes by transfection and established a stable N15 cell line secreting VEGF-C and a LNM35 cell line secreting the soluble fusion protein VEGF receptor 3-immunoglobulin (VEGFR-3-Ig, which binds VEGF-C and inhibits VEGFR-3 signaling). Control lines were transfected with mock vectors. Tumor cells were implanted subcutaneously into severe combined immunodeficient mice (n = 6 in each group), and tumors and metastases were examined 6 weeks later. In another approach, recombinant adenoviruses expressing VEGFR-3-Ig (AdR3-Ig) or beta-galactosidase (AdLacZ) were injected intravenously into LNM35 tumor-bearing mice (n = 14 and 7, respectively).
+
+
+RESULTS
+LNM35 cells expressed higher levels of VEGF-C RNA and protein than did N15 cells. Xenograft mock vector-transfected LNM35 tumors showed more intratumoral lymphatic vessels (15.3 vessels per grid; 95% confidence interval [CI] = 13.3 to 17.4) and more metastases in draining lymph nodes (12 of 12) than VEGFR-3-Ig-transfected LNM35 tumors (4.1 vessels per grid; 95% CI = 3.4 to 4.7; P<.001, two-sided t test; and four lymph nodes with metastases of 12 lymph nodes examined). Lymph node metastasis was also inhibited in AdR3-Ig-treated mice (AdR3-Ig = 0 of 28 lymph nodes; AdLacZ = 11 of 14 lymph nodes). However, metastasis to the lungs occurred in all mice, suggesting that LNM35 cells can also spread via other mechanisms. N15 tumors overexpressing VEGF-C contained more lymphatic vessels than vector-transfected tumors but did not have increased metastatic ability.
+
+
+CONCLUSIONS
+Lymph node metastasis appears to be regulated by additional factors besides VEGF-C. Inhibition of VEGFR-3 signaling can suppress tumor lymphangiogenesis and metastasis to regional lymph nodes but not to lungs.

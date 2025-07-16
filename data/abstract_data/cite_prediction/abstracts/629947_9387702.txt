@@ -1,0 +1,2 @@
+A High Speed Architecture for Galois/Counter Mode of Operation (GCM)
+In this paper we present a fully pipelined high speed hardware architecture for Galois/Counter Mode of Operation (GCM) by analyzing the data dependencies in the GCM algorithm at the architecture level. We show that GCM encryption circuit and GCM authentication circuit have similar critical path delays resulting in an efficient pipeline structure. The proposed GCM architecture yields a throughput of 34 Gbps running at 271 MHz using a 0.18 μm CMOS standard cell library.

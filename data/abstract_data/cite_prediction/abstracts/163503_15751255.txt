@@ -1,0 +1,2 @@
+Macro-and micro-averaged evaluation measures [ [ BASIC DRAFT ] ]
+This is a short paper introducing pitfalls when implementing averaged scores. Although, it is common to compute averaged scores, it is good to specify in detail how the scores are computed.

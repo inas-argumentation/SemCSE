@@ -1,0 +1,2 @@
+Upper bounds for f-domination number of graphs,
+Abstract For an integer-valued function ƒ defined on the vertices of a graph G , the ƒ- domination number γ ƒ (G) of G is the smallest cardinality of a subset D ⊆ V ( G ) such that each x ∈ V ( G ) − D is adjacent to at least ƒ(x) vertices in D . When ƒ(x) = k for all x ∈ V(G), γ ƒ (G) is the k -domination number γ k ( G ). In this note, we give a tight upper bound for γ ƒ and an improvement of the upper bound for a special ƒ- domination number μ j , k of Stracke and Volkmann (1993). Some upper bounds for γ k are also obtained.

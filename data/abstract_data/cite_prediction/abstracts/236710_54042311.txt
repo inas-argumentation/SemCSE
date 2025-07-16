@@ -1,0 +1,2 @@
+Ensemble of Probabilistic Learning Networks for IoT Edge Intrusion Detection
+This paper proposes an intelligent and compact machine learning model for IoT intrusion detection using an ensemble of semi-parametric models with Ada boost. The proposed model provides an adequate realtime intrusion detection at an affordable computational complexity suitable for the IoT edge networks. The proposed model is evaluated against other comparable models using the benchmark data on IoT-IDS and shows comparable performance with reduced computations as required.

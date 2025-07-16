@@ -1,0 +1,2 @@
+Iterated logarithmic expansions of the pathwise code lengths for exponential families
+Rissanen's (1978, 1986, 1989, 1996) minimum description length (MDL) principle is a statistical modeling principle motivated by coding theory. For exponential families we obtain pathwise expansions, to the constant order, of the predictive and mixture codelengths used in MDL. The results are useful for understanding different MDL forms.

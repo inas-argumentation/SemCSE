@@ -1,0 +1,2 @@
+"MathCad" implementation of a first principles model of radiation degradation
+We describe an approach, based on a matrix process, to predict solar cell degradation due to electron irradiation on the basis of fundamental parameters. This approach also allows us to calculate 'relative damage coefficients' for different electron energies, a process which is important for the calculation of space solar array performance but which, until now, has been purely empirical.

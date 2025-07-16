@@ -1,0 +1,2 @@
+A neural network based classifier for handwritten Chinese character recognition
+In this paper, a geometrical approach for building neural networks is proposed. With the proposed approach, it is very easy to construct an efficient neural classifier to solve the handwritten Chinese character recognition problem, as well as other pattern recognition problems of large scale. Experiments are conducted to evaluate the performance of the proposed approach and results obtained are promising.

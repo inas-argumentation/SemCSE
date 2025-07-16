@@ -1,0 +1,2 @@
+Equilibrium method to approximate elliptic problems with non-standard boundary conditions
+A non-standard Equilibrium Method to solve some elliptic problems with non-standard boundary conditions is presented. A conforming primal variational formulation is used on the boundary, whereas an equilibrium one is established on the domain. One hereby obtains a coupled system, in which all matching conditions remain implicit. Existence and uniqueness results of the approximate solution are given, and the convergence rate of the method is specified for a model problem.

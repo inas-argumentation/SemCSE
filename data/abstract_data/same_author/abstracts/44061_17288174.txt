@@ -1,0 +1,2 @@
+The Tutte polynomial for homeomorphism classes of graphs
+We study a polynomial which contains, as special cases, the Tutte polynomials of all members of a given homeomorphism class of graphs. We further show that this polynomial can be directly derived from the chain polynomial introduced in [1].

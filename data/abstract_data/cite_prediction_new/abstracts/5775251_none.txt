@@ -1,0 +1,2 @@
+An eigenstructure approach to noninteracting control synthesis
+The eigenstructure constraints imposed by decoupling and the compatibility of controllability subspaces is examined. These eigenstructure constraints are then used to develop guidelines to design decoupling controllers which produce small loop interactions when the system undergoes small perturbations. An example is considered.

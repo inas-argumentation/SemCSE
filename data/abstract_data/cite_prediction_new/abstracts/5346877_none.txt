@@ -1,0 +1,2 @@
+A technique to detect and compensate consecutive cell loss in ATM networks
+A new cell loss recovery method is proposed for use with the virtual paths (VPs) of asynchronous transfer mode (ATM) networks. Its advantages over conventional methods on virtual circuits include reduced coding/decoding delays and facility sharing. In addition to its consecutive cell loss compensation ability, another feature of this method is that cell loss compensation facilities are only required at VP terminating nodes. Performance estimations show a large reduction in cell loss rate.<<ETX>>

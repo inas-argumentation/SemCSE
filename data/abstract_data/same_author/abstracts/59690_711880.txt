@@ -1,0 +1,2 @@
+The concentration of the chromatic number of random graphs
+We prove that for every constant δ>0 the chromatic number of the random graphG(n, p) withp=n−1/2−δ is asymptotically almost surely concentrated in two consecutive values. This implies that for any β<1/2 and any integer valued functionr(n)≤O(nβ) there exists a functionp(n) such that the chromatic number ofG(n,p(n)) is preciselyr(n) asymptotically almost surely.

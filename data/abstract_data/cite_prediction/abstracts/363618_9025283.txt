@@ -1,0 +1,2 @@
+Evaluation of current limiting methods for grid forming inverters in medium voltage microgrids
+In this work, different current limiting methods for grid forming inverters are presented and theoretically analyzed. A transient non-linear virtual impedance is introduced and compared with the standard current limiting methods in synchronous rotating reference frame. Their performance is evaluated by means of real time simulation for standalone and parallel operation of an inverter with a synchronous generator in medium voltage microgrids.

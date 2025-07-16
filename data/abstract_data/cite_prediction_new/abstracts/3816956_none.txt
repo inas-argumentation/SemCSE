@@ -1,0 +1,2 @@
+A Framework for Reactive Motion and Sensing Planning: A Critical Events-Based Approach
+We propose a framework for reactive motion and sensing planning based on critical events. A critical event amounts to crossing a critical curve, which divides the environment. We have applied our approach to two different problems: i) object finding and ii) pursuit-evasion. We claim that the proposed framework is in general useful for reactive motion planning based on information provided by sensors. We generalize and formalize the approach and suggest other possible applications.

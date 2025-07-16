@@ -1,0 +1,2 @@
+9 90 11 98 v 1 2 0 Ja n 19 99 Stability and diffusion of surface clusters
+Using kinetic Monte Carlo simulations and a bond– counting ansatz, thermal stability and diffusion of an adatom island on a crystal surface are studied. At low temperatures, the diffusion constant D is found to decrease for a wide range of island sizes like D ∝ N −α , where α is close to one, N being the number of adatoms in the cluster. By heating up the surface, the system undergoes a phase transition above which the island disappears. Characteristics of that transition are discussed.

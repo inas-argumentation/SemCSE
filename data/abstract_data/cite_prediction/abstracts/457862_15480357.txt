@@ -1,0 +1,2 @@
+Modeling and simulation of a pacing engine for proactive campaigns in contact center environment
+Proactive contact campaigns play a growing role in modern contact centers. Their traditional usage as a telemarketing tool now is widely extended to different types of service notifications. In this paper we describe the most common model of a proactive telephone contact campaign, suggest several methods of its pacing algorithm and present simulation results.

@@ -1,0 +1,15 @@
+Rectal cancer: assessment of complete response to preoperative combined radiation therapy with chemotherapy--conventional MR volumetry versus diffusion-weighted MR imaging.
+PURPOSE
+To determine diagnostic performance of diffusion-weighted (DW) magnetic resonance (MR) imaging for assessment of complete tumor response (CR) after combined radiation therapy with chemotherapy (CRT) in patients with locally advanced rectal cancer (LARC) by means of volumetric signal intensity measurements and apparent diffusion coefficient (ADC) measurements and to compare the performance of DW imaging with that of T2-weighted MR volumetry.
+
+
+MATERIALS AND METHODS
+A retrospective analysis of 50 patients with LARC, for whom clinical and imaging data were retrieved from a previous imaging study approved by the local institutional ethical committee and for which all patients provided informed consent, was conducted. Patients underwent pre- and post-CRT standard T2-weighted MR and DW MR. Two independent readers placed free-hand regions of interest (ROIs) in each tumor-containing section on both data sets to determine pre- and post-CRT tumor volumes and tumor volume reduction rates (volume). ROIs were copied to an ADC map to calculate tumor ADCs. Histopathologic findings were the standard of reference. Receiver operating characteristic (ROC) curves were generated to compare performance of T2-weighted and DW MR volumetry and ADC. The intraclass correlation coefficient (ICC) was used to evaluate interobserver variability and the correlation between T2-weighted and DW MR volumetry.
+
+
+RESULTS
+Areas under the ROC curve (AUCs) for identification of a CR that was based on pre-CRT volume, post-CRT volume, and volume, respectively, were 0.57, 0.70, and 0.84 for T2-weighted MR versus 0.63, 0.93, and 0.92 for DW MR volumetry (P = .15, .02, .42). Pre- and post-CRT ADC and ADC AUCs were 0.55, 0.54, and 0.51, respectively. Interobserver agreement was excellent for all pre-CRT measurements (ICC, 0.91-0.96) versus good (ICC, 0.61-0.79) for post-CRT measurements. ICC between T2-weighted and DW MR volumetry was excellent (0.97) for pre-CRT measurements versus fair (0.25) for post-CRT measurements.
+
+
+CONCLUSION
+Post-CRT DW MR volumetry provided high diagnostic performance in assessing CR and was significantly more accurate than T2-weighted MR volumetry. Post-CRT DW MR was equally as accurate as volume measurements of both T2-weighted and DW MR. Pre-CRT volumetry and ADC were not reliable.

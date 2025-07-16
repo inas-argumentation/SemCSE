@@ -1,0 +1,2 @@
+Asymptotic properties of the solutions of a differential equation appearing in QED and QCD
+Stimulated by the study described in the preceding paper, we establish the asymptotic behaviour of the ratio h′(0)/h(0) for g → ∞, where h(r) is a solution, vanishing at infinity, of the differential equation h″(r) = igω(r)h(r) on the domain 0 ≤ r ≤ ∞ and ω(r) = (1 − √rK1(√r))/r. Some results are valid for more general ω's.

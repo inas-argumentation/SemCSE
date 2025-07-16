@@ -1,0 +1,2 @@
+Efficient detection of projected concentric circles using four intersection points on a secant line
+Concentric circles are often used for calibration. Based on the geometric properties of concentric circles, we proved that only four intersection edge points on one secant line of the two images of the concentric circles (ICC) are sufficient to determine the whole parameters of the ICC, when the ratio of the radii of two concentric circles is given. Experimental results validate the proposed approach.

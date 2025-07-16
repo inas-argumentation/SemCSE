@@ -1,0 +1,115 @@
+A framework to create customised LHC analyses within CheckMATE
+Checkmate  is a framework that allows the user to conveniently test simulated BSM physics events against current LHC data in order to derive exclusion limits. For this purpose, the data runs through a detector simulation and is then processed by a user chosen selection of experimental analyses. These analyses are all defined by signal regions that can be compared to the experimental data with a multitude of statistical tools. 
+ 
+Due to the large and continuously growing number of experimental analyses available, users may quickly find themselves in the situation that the study they are particularly interested in has not (yet) been implemented officially into the Checkmate  framework. However, the code includes a rather simple framework to allow users to add new analyses on their own. This document serves as a guide to this. 
+ 
+In addition, Checkmate  serves as a powerful tool for testing and implementing new search strategies. To aid this process, many tools are included to allow a rapid prototyping of new analyses. 
+ 
+Website: http://checkmate.hepforge.org/ 
+Program summary 
+Program title: CheckMATE, AnalysisManager 
+ 
+Catalogue identifier: AEUT_v1_1 
+ 
+Program summary URL:http://cpc.cs.qub.ac.uk/summaries/AEUT_v1_1.html 
+ 
+Program obtainable from: CPC Program Library, Queen’s University, Belfast, N. Ireland 
+ 
+Licensing provisions: Standard CPC licence, http://cpc.cs.qub.ac.uk/licence/licence.html 
+ 
+No. of lines in distributed program, including test data, etc.: 181436 
+ 
+No. of bytes in distributed program, including test data, etc.: 2169369 
+ 
+Distribution format: tar.gz 
+ 
+Programming language: C++, Python. 
+ 
+Computer: PC, Mac. 
+ 
+Operating system: Linux, Mac OS. 
+ 
+Catalogue identifier of previous version: AEUT_v1_0 
+ 
+Journal reference of previous version: Comput. Phys. Comm. 187(2015)227 
+ 
+Classification: 11.9. 
+ 
+External routines: ROOT, Python, Delphes (included with the distribution) 
+ 
+Does the new version supersede the previous version?: Yes 
+ 
+Nature of problem: The LHC has delivered a wealth of new data that is now being analysed. Both ATLAS and CMS have performed many searches for new physics that theorists are eager to test their model against. However, tuning the detector simulations, understanding the particular analysis details and interpreting the results can be a tedious and repetitive task. Furthermore, new analyses are being constantly published by the experiments and might be not yet included in the official CheckMATE distribution. 
+ 
+Solution method: The AnalysisManager within CheckMATE framework allows the user to easily include new experimental analyses as they are published by the collaborations. Furthermore, completely novel analyses can be designed and added by the user in order to test models at higher centre-of-mass energy and/or luminosity. 
+ 
+Reasons for new version: New features, bug fixes, additional validated analyses. 
+ 
+Summary of revisions: New kinematic variables M_CT, M_T2bl, m_T, alpha_T, razor; internal likelihood calculation; missing energy smearing; efficiency tables; validated tau-tagging; improved AnalysisManager and code structure; new analyses; bug fixes. 
+ 
+Restrictions: Only a subset of available experimental results have been implemented. 
+ 
+Additional comments: Checkmate is built upon the tools and hard work of many people. If Checkmate is used in your publication it is extremely important that all of the following citations are included, 
+• 
+Delphes 3 [1]. 
+ 
+• 
+FastJet [2,3]. 
+ 
+• 
+Anti-ktkt jet algorithm [4]. 
+ 
+• 
+CLss prescription [5]. 
+ 
+• 
+In analyses that use the MT2MT2 kinematical discriminant we use the Oxbridge Kinetics Library [6,7] and the algorithm developed by Cheng and Han [8] which also includes the MT2blMT2bl variable [9]. 
+ 
+• 
+In analyses that use the MCTMCT family of kinematical discriminants we use MctLib [10,11] which also includes the MCT⊥MCT⊥ and MCTIIMCTII variables [12]. 
+ 
+• 
+All experimental analyses that were used to set limits in the study. 
+ 
+• 
+The Monte Carlo event generator that was used. 
+ 
+ 
+Running time: The running time scales about linearly with the number of input events provided by the user. The detector simulation/analysis of 20000 events needs about 50s/1s for a single core calculation on an Intel Core i5-3470 with 3.2 GHz and 8 GB RAM. 
+ 
+References: 
+[1] 
+J. de Favereau, C. Delaere, P Demin, A. Giammanco, V. Lematre, et al., “DELPHES 3, A modular framework for fast simulation of a generic collider experiment”, 2013. 
+ 
+[2] 
+M. Cacciari, G. P Salam, and G. Soyez, “FastJet User Manual”, Eur. Phys. J., vol. C72, p. 1896, 2012. 
+ 
+[3] 
+M. Cacciari and G. P Salam, ”Dispelling the N3 myth for the kt jet-finder”, Phys. Lett., vol. B641, pp. 57–61, 2006. 
+ 
+[4] 
+M. Cacciari, G. P Salam, and G. Soyez, “The Anti-k(t) jet clustering algorithm”, JHEP, vol. 0804, p. 063, 2008. 
+ 
+[5] 
+A. L. Read, “Presentation of search results: the cl’s technique”, Journal of Physics G: Nuclear and Particle Physics, vol. 28, no. 10, p. 2693, 2002. 
+ 
+[6] 
+C. Lester and D. Summers, “Measuring masses of semiinvisibly decaying particles pair produced at hadron colliders”, Phys. Lett., vol. B463, pp. 99–103, 1999. 
+ 
+[7] 
+A. Barr, C. Lester, and P Stephens, “m(T2): The Truth behind the glamour”, J. Phys., vol. G29, pp. 2343–2363, 2003. 
+ 
+[8] 
+H.-C. Cheng and Z. Han, “Minimal Kinematic Constraints and m(T2)”, JHEP, vol. 0812, p. 063, 2008. 
+ 
+[9] 
+Y. Bai, H.-C. Cheng, J. Gallicchio, and J. Gu, “Stop the Top Background of the Stop Search”, JHEP, vol. 1207, p. 110, 2012. 
+ 
+[10] 
+D. R. Tovey, “On measuring the masses of pair-produced semi-invisibly decaying particles at hadron colliders”, JHEP, vol. 0804, p. 034, 2008. 
+ 
+[11] 
+G. Polesello and D. R. Tovey, “Supersymmetric particle mass measurement with the boost-corrected contransverse mass”, JHEP, vol. 1003, p. 030, 2010. 
+ 
+[12] 
+K. T. Matchev and M. Park, “A General method for determining the masses of semi-invisibly decaying particles at hadron colliders”, Phys. Rev. Lett., vol. 107, p. 061801, 2011.

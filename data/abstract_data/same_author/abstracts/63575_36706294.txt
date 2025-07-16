@@ -1,0 +1,2 @@
+Expressive Synchronization Types for Inheritance in the Join Calculus
+In prior work, Fournet et al. proposed an extension of the join calculus with class-based inheritance, aiming to provide a precise semantics for concurrent objects. However, as we show here, their system suffers from several limitations, which make it inadequate to form the basis of a practical implementation.

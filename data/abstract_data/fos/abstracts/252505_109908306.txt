@@ -1,0 +1,13 @@
+DEVELOPMENT AND SENSITIVITY ANALYSIS OF THE GLEAMS–IR MODEL
+In response to the need for improved agricultural best management practices in irrigated lands, the GLEAMS 
+(Groundwater Loading Effects of Agricultural Management Systems) model was modified to include a component that models 
+furrow, basin, and border irrigation practices. The irrigation component of the new model, GLEAMS–IR, was validated with 
+results from SRFR, a full hydrodynamic irrigation model. Sensitivity of nutrient and irrigation output parameters to model 
+input parameters was assessed with a single–variable method and a stochastic method, Monte Carlo. Means and distributions 
+of soil parameters for a surface–irrigated cotton field in Marana, Arizona, were used for sensitivity analysis. For both 
+single–variable and Monte Carlo sensitivity analyses, output parameters were most sensitive to infiltrated depth after 
+120 min, permanent wilting point, and field capacity. A study of sludge application on the same field (1x and 3x sludge 
+application, nitrogen fertilizer application, and control with no nitrogen) was used to evaluate the GLEAMS–IR model results 
+for different management scenarios and to compare GLEAMS–IR results with nutrient concentrations at different locations 
+along the furrow. The variability of measured nitrate concentrations along the furrow indicated the need to account for 
+variable infiltration along the furrow in GLEAMS–IR.

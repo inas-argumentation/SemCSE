@@ -1,0 +1,2 @@
+An algorithm for finding a maximum clique in a graph
+This paper introduces a branch-and-bound algorithm for the maximum clique problem which applies existing clique finding and vertex coloring heuristics to determine lower and upper bounds for the size of a maximum clique. Computational results on a variety of graphs indicate the proposed procedure in most instances outperforms leading algorithms.

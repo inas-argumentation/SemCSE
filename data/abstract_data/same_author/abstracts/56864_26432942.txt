@@ -1,0 +1,2 @@
+Topological characteristics of random multihop wireless networks
+Multihop wireless networks are treated as random symmetric planar point graphs, where all the nodes have the same transmission power and radius, and vertices of a graph are drawn randomly over certain geographical region. Several basic and important topological properties of random multihop wireless networks are studied, including node degree, connectivity, diameter bisection width, and biconnectivity. It is believed that such study has very useful implication in real applications.

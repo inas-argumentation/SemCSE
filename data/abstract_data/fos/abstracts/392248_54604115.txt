@@ -1,0 +1,2 @@
+Moving Target Detection and Tracking Control of Quadrotor Based on Vision
+In this paper, taking quadrotor as the research object, a kind of airborne vision system is presented to detect and track the moving target. Lower cost and better performance are the remarkable characteristics of the system. Firstly, the overall scheme of the detection and tracking of quadrotor is designed. Secondly, a new image processing algorithm based on HSV color space is proposed. Finally, the algorithm is applied to the actual flight of the quadrotor to verify its feasibility.

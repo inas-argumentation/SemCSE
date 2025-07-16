@@ -1,0 +1,2 @@
+Elementary pathwise methods for nonlinear parabolic and transport type SPDE with fractal noise
+We survey some of our recent results on existence, uniqueness and regularity of function solutions to parabolic and transport type partial differential equations driven by non-differentiable noises. When applied pathwise to random situations, they provide corresponding statements for stochastic partial differential equations driven by fractional noises of sufficiently high regularity order. The approach is based on semigroup theory.

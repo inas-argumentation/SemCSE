@@ -1,0 +1,2 @@
+Grid methods for a boundary layer problem
+Up-to-date finite-difference schemes are shown to allow us to solve boundary layer problems effectively provided the mesh is chosen appropriately. A procedure of obtaining an a posteriori asymptotically precise error estimation is proposed. A superfast algorithm applicable to a wide range of problems is described, and a semi-uniform rectangular grid that resolves all parts of the solution is proposed.

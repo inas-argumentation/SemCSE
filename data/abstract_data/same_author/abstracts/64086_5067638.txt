@@ -1,0 +1,2 @@
+A Tutorial of Recent Developments in the Seeding of Local Alignment
+We review recent results on local alignment. We begin with a review of classical methods and early heuristic methods, and then focus on more recent work on the seeding of local alignment. We show that these techniques give a vast improvement in both sensitivity and specificity over previous methods, and can achieve sensitivity at the level of classical algorithms while requiring orders of magnitude less runtime.

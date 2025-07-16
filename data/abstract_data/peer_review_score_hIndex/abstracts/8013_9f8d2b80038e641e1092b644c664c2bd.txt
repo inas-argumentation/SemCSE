@@ -1,0 +1,8 @@
+Exploring single-path Architecture Search ranking correlations
+Recently presented benchmarks for Neural Architecture Search (NAS) provide the results of training thousands of different architectures in a specific search space, thus enabling the fair and rapid comparison of different methods.
+Based on these results, we quantify the ranking correlations of single-path architecture search methods
+in different search space subsets and under several training variations;
+studying their impact on the expected search results.
+The experiments support the few-shot approach and Linear Transformers,
+provide evidence against disabling cell topology sharing during the training phase or using strong regularization in the NAS-Bench-201 search space,
+and show the necessity of further research regarding super-network size and path sampling strategies.

@@ -1,0 +1,2 @@
+An efficient retiming algorithm under setup and hold constraints
+In this paper, we present a new efficient algorithm for retiming sequential circuits with edge-triggered registers under both setup and hold constraints. Compared with the previous work (Papaefthymiou, 1998), which computed the minimum clock period in O(|V|3|E|lg|V|) time, our algorithm solves the same problem in O(|V|2|E|) time. Experimental results validate the efficiency of our algorithm

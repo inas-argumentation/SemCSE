@@ -1,0 +1,2 @@
+Graph-theoretic models for simulating robot manipulators
+The graph-theoretic models of a prismatic joint, a revolute joint, and an open kinematic chain are presented. The Denavit-Hartenberg representation of linkages is encompassed within the general framework of graph-theoretic system theory. The final mathematical model derived by this formalism is a system of differential and algebraic equations.

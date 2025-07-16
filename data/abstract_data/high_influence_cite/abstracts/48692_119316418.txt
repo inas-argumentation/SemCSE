@@ -1,0 +1,2 @@
+Convex integration with linear constraints and its applications
+We study solutions of the first order partial differential inclusions of the form $\nabla u\in K$, where $u:\Omega\subset\mathbb{R}^n\to\mathbb{R}^m$ and $K$ is a set of $m\times n$ real matrices, and derive a companion version to the result of {M\"uller and \v{S}ver\'ak} [20], concerning a general linear constraint on the components of $\nabla u$. We then consider two applications: the vectorial eikonal equation and a $T_4$-configuration both under linear constraints.

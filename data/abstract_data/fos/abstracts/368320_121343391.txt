@@ -1,0 +1,2 @@
+A 300-fs stimulated-Raman laser oscillator for the Ti:sapphire laser
+We have experimentally implemented the following laser-oscillator scheme for a Ti:sapphire laser system: mode-locked operation of an Nd:YAG laser, stimulated-Raman-scattering (SRS) pulse compression in SF6, frequency doubling in a KDP crystal, and copropagating SRS in hydrogen. This system transforms a single 30-ps pulse at a wavelength of 1.06 μm with an energy of 3 mJ into a 300-fs pulse at 0.76 μm with an energy of 100 μJ.

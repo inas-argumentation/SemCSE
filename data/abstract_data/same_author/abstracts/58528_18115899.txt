@@ -1,0 +1,11 @@
+A novel method for estimating ancestral amino acid composition and its application to proteins of the Last Universal Ancestor
+MOTIVATION
+Knowledge of how proteomic amino acid composition has changed over time is important for constructing realistic models of protein evolution and increasing our understanding of molecular evolutionary history. The proteomic amino acid composition of the Last Universal Ancestor (LUA) of life is of particular interest, since that might provide insight into the early evolution of proteins and the nature of the LUA itself.
+
+
+RESULTS
+We introduce a method to estimate ancestral amino acid composition that is based on expectation-maximization. On simulated data, the approach was found to be very effective in estimating ancestral amino acid composition, with accuracy improving as the number of residues in the dataset was increased. The method was then used to infer the amino acid composition of a set of proteins in the LUA. In general, as compared with the modern protein set, LUA proteins were found to be richer in amino acids that are believed to have been most abundant in the prebiotic environment and poorer in those believed to have been unavailable or scarce. Additionally, we found the inferred amino acid composition of this protein set in the LUA to be more similar to the observed composition of the same set in extant thermophilic species than in extant mesophilic species, supporting the idea that the LUA lived in a thermophilic environment.
+
+
+AVAILABILITY
+The program is available at http://compbio.cs.princeton.edu/ancestralaa

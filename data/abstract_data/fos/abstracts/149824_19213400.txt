@@ -1,0 +1,2 @@
+Spectral-linear and spectral-differential methods for generating S-boxes having almost optimal cryptographic parameters
+S-boxes are important parts of modern ciphers. To construct S-boxes having cryptographic parameters close to optimal is an unsolved problem at present time. In this paper some new methods for generating such S-boxes are introduced.

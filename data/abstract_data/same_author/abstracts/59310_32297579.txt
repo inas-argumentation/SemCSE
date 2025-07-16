@@ -1,0 +1,2 @@
+OLD Resolution with Tabulation
+To resolve the search-incompleteness of depth-first logic program interpreters, a new interpretation method based on the tabulation technique is developed and modeled as a refinement to SLD resolution. Its search space completeness is proved, and a complete search strategy consisting of iterated stages of depth-first search is presented. It is also proved that for programs defining finite relations only, the method under an arbitrary search strategy is terminating and complete.

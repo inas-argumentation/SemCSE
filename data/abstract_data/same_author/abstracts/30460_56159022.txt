@@ -1,0 +1,2 @@
+Studies of transverse single-pass beam breakup in E-linac
+This paper describes time-domain simulations of singlepass transverse beam-breakup (BBU) effects in the TRIUMF/ARIEL E-linac. Using dipole-HOM parameters for the 9-cell cavity obtained with CST Microwave Studio, we evaluate the r.m.s. bunch orbit offsets at linac exit as a function of the average beam current. This allows to evaluate the effectiveness of the HOM absorbers for two different modes of machine operation.

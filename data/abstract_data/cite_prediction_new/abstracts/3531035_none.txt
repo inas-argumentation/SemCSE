@@ -1,0 +1,15 @@
+Towards a personalized and dynamic CRT-D. A computational cardiovascular model dedicated to therapy optimization.
+BACKGROUND
+In spite of cardiac resynchronization therapy (CRT) benefits, 25-30% of patients are still non responders. One of the possible reasons could be the non optimal atrioventricular (AV) and interventricular (VV) intervals settings. Our aim was to exploit a numerical model of cardiovascular system for AV and VV intervals optimization in CRT.
+
+
+METHODS
+A numerical model of the cardiovascular system CRT-dedicated was previously developed. Echocardiographic parameters, Systemic aortic pressure and ECG were collected in 20 consecutive patients before and after CRT. Patient data were simulated by the model that was used to optimize and set into the device the intervals at the baseline and at the follow up. The optimal AV and VV intervals were chosen to optimize the simulated selected variable/s on the base of both echocardiographic and electrocardiographic parameters.
+
+
+RESULTS
+Intervals were different for each patient and in most cases, they changed at follow up. The model can well reproduce clinical data as verified with Bland Altman analysis and T-test (p > 0.05). Left ventricular remodeling was 38.7% and left ventricular ejection fraction increasing was 11% against the 15% and 6% reported in literature, respectively.
+
+
+CONCLUSIONS
+The developed numerical model could reproduce patients conditions at the baseline and at the follow up including the CRT effects. The model could be used to optimize AV and VV intervals at the baseline and at the follow up realizing a personalized and dynamic CRT. A patient tailored CRT could improve patients outcome in comparison to literature data.

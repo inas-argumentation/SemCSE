@@ -1,0 +1,4 @@
+Formal Methods for Industrial Products
+We have recently completed the specification and security proof of a large, industrial scale application. The application is security critical, and the modelling and proof were done to increase the client's assurance that the implemented system had no design flaws with security implications. Here we describe the application, specification structure, and proof approach. 
+ 
+One of the security properties of our system is of the kind not preserved in general by refinement. We had to perform a proof that this property, expressed over traces, holds in our state-and-operations style model.

@@ -1,0 +1,2 @@
+Grouping Verifiable Content for Selective Disclosure
+This paper addresses the issue of selective disclosure of verifiable content. It extends previous work relating to Content Extraction Signatures [21] to implement a more complex structure that encodes a richer, more flexible fragment extraction policy, which includes fragment grouping. The new extraction policy enables the signer to specify both optional and mandatory fragment associations (or groupings) for verifying extracted content.

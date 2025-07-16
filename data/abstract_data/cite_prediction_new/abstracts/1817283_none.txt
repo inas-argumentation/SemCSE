@@ -1,0 +1,2 @@
+On-line Trend Analysis with Topic Models: \#twitter Trends Detection Topic Model Online
+We present a novel topic modelling-based methodology to track emerging events in microblogs such as Twitter. Our topic model has an in-built update mechanism based on time slices and implements a dynamic vocabulary. We first show that the method is robust in detecting events using a range of datasets with injected novel events, and then demonstrate its application in identifying trending topics in Twitter.

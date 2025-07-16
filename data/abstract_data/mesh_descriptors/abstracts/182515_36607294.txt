@@ -1,0 +1,15 @@
+Is the GPSM scoring algorithm for patients with prostate cancer valid in the contemporary era?
+PURPOSE
+The GPSM (Gleason, prostate specific antigen, seminal vesicle and margin status) scoring algorithm is a user friendly model for predicting biochemical recurrence following radical retropubic prostatectomy. It was developed from patients who underwent radical retropubic prostatectomy from 1990 to 1993. We investigated the predictive ability of GPSM in the contemporary era.
+
+
+MATERIALS AND METHODS
+We identified 2,728 patients who underwent radical retropubic prostatectomy for prostate cancer from 1997 to 2000 at our institution. Cox proportional hazard regression models were used to develop multivariate scoring algorithms. Harrell's measure of concordance was used to compare the competing models.
+
+
+RESULTS
+In the contemporary era each GPSM feature remained significantly associated with biochemical recurrence in a multivariate model (each p <0.001). Harrell's measure of concordance for the algorithm was 0.706 vs 0.718 in the original study. After adjusting for GPSM on multivariate analysis Gleason primary 4/5 (p <0.001), DNA ploidy (p = 0.018) and tumor size (p <0.001) were associated with biochemical recurrence. However, none of these features increased Harrell's measure of concordance greater than 0.01 when added to the GPSM model. In addition, using the original 1990 to 1993 cohort, 495 patients with a GPSM score of 10 or greater were significantly more likely to die of prostate cancer compared with 2,169 with a GPSM score of less than 10 (at 15 years 13% vs 2%, HR 6.5, p <0.001).
+
+
+CONCLUSIONS
+The GPSM scoring algorithm is a simple predictive model that remains associated with biochemical recurrence in the contemporary era. In addition, to our knowledge the GPSM algorithm is the first nomogram associated with survival in patients with prostate cancer.

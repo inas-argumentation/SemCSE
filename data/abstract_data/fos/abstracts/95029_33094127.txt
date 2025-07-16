@@ -1,0 +1,27 @@
+Increased pediatric sub-specialization is associated with decreased surgical complication rates for inpatient pediatric urology procedures.
+INTRODUCTION
+Increased case volumes and training are associated with better surgical outcomes. However, the impact of pediatric urology sub-specialization on perioperative complication rates is unknown.
+
+
+OBJECTIVES
+To determine the presence and magnitude of difference in rates of common postoperative complications for elective pediatric urology procedures between specialization levels of urologic surgeons. The Nationwide Inpatient Sample (NIS), a nationally representative administrative database, was used.
+
+
+STUDY DESIGN
+The NIS (1998-2009) was retrospectively reviewed for pediatric (≤18 years) admissions, using ICD-9-CM codes to identify urologic surgeries and National Surgical Quality Improvement Program (NSQIP) inpatient postoperative complications. Degree of pediatric sub-specialization was calculated using a Pediatric Proportion Index (PPI), defined as the ratio of children to total patients operated on by each provider. The providers were grouped into PPI quartiles: Q1, 0-25% specialization; Q2, 25-50%; Q3, 50-75%; Q4, 75-100%. Weighted multivariate analysis was performed to test for associations between PPI and surgical complications.
+
+
+RESULTS
+A total of 71,479 weighted inpatient admissions were identified. Patient age decreased with increasing specialization: Q1, 7.9 vs Q2, 4.8 vs Q3, 4.8 vs Q4, 4.6 years, P < 0.01). Specialization was not associated with race (P > 0.20), gender (P > 0.50), or comorbidity scores (P = 0.10). Mortality (1.5% vs 0.2% vs 0.3% vs 0.4%, P < 0.01) and complication rates (15.5% vs 11.7% vs 9.6% vs 10.9%, P < 0.0001) both decreased with increasing specialization. Patients treated by more highly specialized surgeons incurred slightly higher costs (Q2, +4%; Q3, +1%; Q4 + 2%) but experienced shorter length of hospital stay (Q2, -5%; Q3, -10%; Q4, -3%) compared with the least specialized providers. A greater proportion of patients treated by Q1 and Q3 specialized urologists had CCS ≥2 than those seen by Q2 or Q4 urologists (12.5% and 12.2%, respectively vs 8.4% and 10.9%, respectively, P = 0.04). Adjusting for confounding effects, increased pediatric specialization was associated with decreased postoperative complications: Q2 OR 0.78, CI 0.58-1.05; Q3 OR 0.60, CI 0.44-0.84; Q4 OR 0.70, CI 0.58-0.84; P < 0.01.
+
+
+DISCUSSION
+Providers with proportionally higher volumes of pediatric patients achieved better postoperative outcomes than their less sub-specialized counterparts. This may have arisen from increased exposure to pediatric anatomy and physiology, and greater familiarity with pediatric techniques.
+
+
+LIMITATION
+The NIS admission-based retrospective design did not enable assessment of long-term outcomes, repeated admissions, or to track a particular patient across time. The study was similarly limited in evaluating the effect of pre-surgical referral patterns on patient distributions.
+
+
+CONCLUSIONS
+Increased pediatric sub-specialization among urologists was associated with a decreased risk of mortality and surgical complications in children undergoing inpatient urologic procedures.

@@ -1,0 +1,2 @@
+Optical Calibration For Jefferson Lab HKS Spectrometer
+In order to accept very forward angle scattering particles, Jefferson Lab HKS experiment uses an on-target zero degree dipole magnet. The usual spectrometer optics calibration procedure has to be modified due to this on-target field. This paper describes a new method to calibrate HKS spectrometer system. The simulation of the calibration procedure shows the required resolution can be achieved from initially inaccurate optical description.

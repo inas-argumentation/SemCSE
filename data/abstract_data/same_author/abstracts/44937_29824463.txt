@@ -1,0 +1,2 @@
+Task migration in 2D wormhole-routed mesh multicomputers
+In this paper, two simple task migration schemes are first proposed for 2D mesh, multicomputers with supporting X-Y wormhole routing in the one-port communication model. We next propose a hybrid task migration scheme which attempts to minimize the total transmission latency. Finally, we compare all of our proposed task migration schemes using performance analysis.

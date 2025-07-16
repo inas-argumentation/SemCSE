@@ -1,0 +1,2 @@
+Sensor Sequence Modeling for Driving
+Intelligent systems in automobiles need to be aware of the driving and driver context. Available sensor data stream has to be modeled and monitored in order to do so. Currently there exist no building blocks for hierarchical modeling of driving. By semi-supervised segmentation such building blocks can be discovered. We call them drivemes in analogy to phonemes. More parsimonious modeling of driving becomes now possible.

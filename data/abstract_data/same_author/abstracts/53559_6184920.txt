@@ -1,0 +1,15 @@
+Reconstruction of metabolic networks from genome data and analysis of their global structure for various organisms
+MOTIVATION
+Information from fully sequenced genomes makes it possible to reconstruct strain-specific global metabolic network for structural and functional studies. These networks are often very large and complex. To properly understand and analyze the global properties of metabolic networks, methods for rationally representing and quantitatively analyzing their structure are needed.
+
+
+RESULTS
+In this work, the metabolic networks of 80 fully sequenced organisms are in silico reconstructed from genome data and an extensively revised bioreaction database. The networks are represented as directed graphs and analyzed by using the 'breadth first searching algorithm to identify the shortest pathway (path length) between any pair of the metabolites. The average path length of the networks are then calculated and compared for all the organisms. Different from previous studies the connections through current metabolites and cofactors are deleted to make the path length analysis physiologically more meaningful. The distribution of the connection degree of these networks is shown to follow the power law, indicating that the overall structure of all the metabolic networks has the characteristics of a small world network. However, clear differences exist in the network structure of the three domains of organisms. Eukaryotes and archaea have a longer average path length than bacteria.
+
+
+AVAILABILITY
+The reaction database in excel format and the programs in VBA (Visual Basic for Applications) are available upon request.
+
+
+SUPPLEMENTARY MATERIAL
+Bioinformatics Online.

@@ -1,0 +1,2 @@
+Toward Application of Virtual Reality to Visualization of DT-MRI Volumes
+We describe a virtual reality application for visualizing tensor-valued volume data acquired with diffusion tensor magnetic resonance imaging (DT-MRI). We have prototyped a virtual environment that displays geometric representations of the volumetric 2nd-order diffusion tensor data and are developing interaction and visualization techniques for two application areas: studying changes in white-matter structures after gamma-knife capsulotomy and pre-operative planning for brain tumor surgery.

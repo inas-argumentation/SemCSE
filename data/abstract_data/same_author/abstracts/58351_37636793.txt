@@ -1,0 +1,2 @@
+Improved approximations for max set splitting and max NAE SAT
+We present a 0.7499-approximation algorithm for Max Set Splitting in this paper. The previously best known result for this problem is a 0.7240-approximation by Andersson and Engebretsen (Inform. Process. Lett. 65 (1998) 305), which is based on a semidefinite programming (SDP) relaxation. Our improvement is resulted from a strengthened SDP relaxation, an improved rounding method, and a tighter analysis compared with that in Andersson and Engebretsen (1998).

@@ -1,0 +1,2 @@
+Objectionable Image Recognition System in Compression Domain
+In this paper, we propose an intelligent recognition system for objectionable image in JPEG compression domain. First, the system applies robust skin color model and skin texture analysis to detect the skin regions in an input image based on its DC and ACs. Then, the color, texture, shape and statistical features are extracted from the skin regions and input into a decision-tree classifier for classification. A large image library including about 120,000 images is employed to evaluate the system’s effectiveness.

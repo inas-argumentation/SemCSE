@@ -1,0 +1,2 @@
+The representation ring of a simply-connected Lie group as a lambda-ring
+Adams and Conway have stated without proof a result which says, roughly speaking, that the representation ring $R(G)$ of a compact, connected Lie group $G$ is generated as a $\lambda$-ring by elements in 1-to-1 correspondance with the branches of the Dynkin diagram. In this note we present an elementary proof of this.

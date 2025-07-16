@@ -1,0 +1,2 @@
+Dispersion compensation for homodyne detection systems using a 10-Gb/s optical PSK-VSB signal
+This letter demonstrates fiber chromatic dispersion compensation for optical homodyne detection systems, using a VSB filtered optical PSK signal. An optical PSK signal suitable for SSB and VSB filtering is newly employed. A 10-Gb/s optical PSK-VSB signal is transmitted with an optical carrier through 126 km conventional single-mode fiber. Penalty-free transmission is achieved by fiber chromatic dispersion compensation in the baseband with a 10-cm microstrip line.<<ETX>>

@@ -1,0 +1,2 @@
+Vertex covering by paths on trees with its applications in machine translation
+Given a tree and a set of paths in the tree, the problem of finding a minimum number of paths from the given path set to cover all the vertices in the tree is investigated in the paper. To distinguish from the classical path cover problem, such an optimization problem is referred to as vertex covering by paths. The problem and its edge variant, edge covering by paths, find applications in machine translation. Complexity and algorithmic results are presented for the problem and its edge variant.

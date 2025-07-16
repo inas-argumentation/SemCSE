@@ -1,0 +1,2 @@
+Concurrent error detection for involutional functions with applications in fault-tolerant cryptographic hardware design
+In this paper, a time redundancy based Concurrent Error Detection (CED) technique targeting involutional functions is presented. A function F is an involution if F(F(x))=x. The proposed CED technique exploits the involution property and checks if x=F(F(x)). Unlike traditional time redundancy based CED methods, this technique can detect both permanent and transient faults

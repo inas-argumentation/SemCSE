@@ -1,0 +1,2 @@
+Reliability and yield: a joint defect-oriented approach
+We present a model for computing the probability of a parametric failure due to a spot defect. The analysis is based on electromigration in conductors under unidirectional current stress. An analytical solution is given for simple layout and simulations for a more complicated case. Then we show that in some cases electromigration-dependent parametric defects can make a significant contribution to the total yield estimation.

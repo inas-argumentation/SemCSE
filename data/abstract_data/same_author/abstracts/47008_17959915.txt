@@ -1,0 +1,2 @@
+An Enhanced Annealing Genetic Algorithm For Multi-objective Optimization Problems
+In this paper, we present a new algorithm — an Enhanced Annealing Genetic Algorithm for Multi-Objective Optimization problems (MOPs). The algorithm tackles the MOPs by a new quantitative measurement of the Pareto front coverage quality — Coverage Quotient. We then correspondingly design an energy function, a fitness function and a hybridization framework, and manage to achieve both satisfactory results and guaranteed convergence.

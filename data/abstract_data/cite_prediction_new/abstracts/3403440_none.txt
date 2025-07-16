@@ -1,0 +1,2 @@
+Numerical simulation of a rotational symmetric space-charge effect in the near-cathode region
+The paper describes the fast and efficient implementation of the charge density method for the computation of the electrostatic potential inside electron guns, taking into account space charge. The results obtained are in good agreement with published experimental measurements. The procedure can be easily extended to systems with diaphragms, saturated emission, and curved cathodes.

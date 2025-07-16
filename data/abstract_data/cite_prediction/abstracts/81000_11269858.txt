@@ -1,0 +1,2 @@
+CONSTRAINT PROGRAMMING APPROACH TO THE TAEMS SCHEDULING PROBLEM By
+characteristics of method execution that the agent would want to maximize. So a higher quality method is better whereas a lower cost method is usually preferred. If each outcome oi has a quality distribution ((qi,1, pi,1), (qi,2, pi,2), ..., (qi,m, pi,m)),, the probability that it will execute with quality q is computed as [24] , , , ( ) : i i j i j i j P q p p q q     The expected quality E(q) is computed as [24] :

@@ -1,0 +1,2 @@
+A case study on system-level modeling by aspect-oriented programming
+The paper presents a novel and synergistic system-level modeling approach based on aspect-oriented programming (AOP) and SystemC. A case study on a 128-bit binary floating-point adder is performed to demonstrate the modeling strength of the approach. The validation experiment shows the effectiveness of the proposed approach. This work constitutes a first attempt to employ AOP in modeling digital systems.

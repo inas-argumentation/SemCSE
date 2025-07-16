@@ -1,0 +1,2 @@
+Convergence analysis of domain decomposition algorithms with full overlapping for the advection-diffusion problems
+The aim of this paper is to study the convergence properties of a Time Marching Algorithm solving Advection-Diffusion problems on two domains using incompatible discretizations. The basic algorithm is first presented, and theoretical or numerical results illustrate its convergence properties. This study is based on spectral theory, a priori estimates and a Di-Giorgi-Nash maximum principle .

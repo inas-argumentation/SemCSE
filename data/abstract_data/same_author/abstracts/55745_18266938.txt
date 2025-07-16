@@ -1,0 +1,2 @@
+Sparse Networks Supporting Efficient Reliable Broadcasting
+Broadcasting concerns transmitting information from a node of a communication network to all other nodes. We consider this problem assuming that links and nodes of the network fail independently with given probabilities p 0 we show a class of n-node networks with maximum degree O(log n) and e-safe broadcasting algorithms for such networks working in logarithmic time.

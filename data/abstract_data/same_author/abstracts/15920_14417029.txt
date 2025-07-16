@@ -1,0 +1,6 @@
+Asymptotes of solutions of a perfect fluid coupled with a cosmological constant in four-dimensional spacetime with toroidal symmetry
+AbstractAsymptotes of solutions of a perfect fluid when coupled with a cosmological constant in four-dimensional spacetime with toroidal symmetry are studied. In particular, it is found that the problem of self-similar solutions of the first kind for a fluid with the equation of state, p = kρ, can be reduced to solving a master equation of the form,
+
+$$ 2 F(q, k)\frac{q''(\xi)}{q'(\xi)} - G(q,k) q'(\xi) = \frac{4}{\xi}. $$
+
+For k = 0 and k = −1/3 the general solutions are obtained and their main local and global properties are studied in detail.

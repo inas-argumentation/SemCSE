@@ -1,0 +1,8 @@
+Design of supplier agents for an auction-based market
+We are interested in supporting multi-agent contracting in which customer agents solicit the resources and capabilities of other self-interested supplier agents in order to accomplish their goals. Goals may involve the execution of multi-step tasks in which different tasks are contracted out to different suppliers. 
+ 
+In this paper we focus on the design of supplier agents. The agents are designed to operate in the context of the MAGNET (Multi AGent NEgotiation Testbed) system, but the design could easily be adapted to other situations in which agents interact through a market infrastructure. 
+ 
+MAGNET supplier agents can register their capabilities with the market, be notified of open and relevant requests for quotations, and submit bids that specify which tasks they are able to undertake, when they are available to perform those tasks, and at what price. Supplier agents attempt to maximize the value of their resources. 
+ 
+The paper describes the detailed design of supplier agents and presents preliminary experimental results.

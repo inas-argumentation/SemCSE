@@ -1,0 +1,2 @@
+PHEGAS: a phase-space generator for automatic cross-section computation
+A phase-space generation algorithm, capable to efficiently integrate the squared amplitude of any scattering process, is presented. The algorithm has been implemented in a Monte Carlo program, PHEGAS, which, using HELAC, a helicity amplitude computational package, can be used for automatic cross-section computation and event generation. Results for several scattering processes with four, five and six particles in the final state are briefly presented.

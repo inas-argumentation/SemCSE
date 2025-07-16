@@ -1,0 +1,2 @@
+Representations of PGL(2) of a local field and harmonic forms on simplicial complexes
+We give combinatorial models for complex, smooth, non-spherical, generic, irreducible representations of the group G=PGL(2,F), where F is a non-archimedean locally compact field. They use the graphs X_k lying above the tree of G, introduced in a previous work. We show that such representations may be realized as quotients of the cohomology of X_k for some k, or equivalently as spaces of discrete harmonic forms on X_k. For supercuspidal representations these models are unique.

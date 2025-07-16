@@ -1,0 +1,9 @@
+SU-E-T-28: A Dosimetric Evaluation of IMRT Versus 4 Arc VMAT in the Treatment of Bilateral Head and Neck Cancer Using Concavity Ratio Defined PTVs
+Purpose:
+VMAT has been shown to produce dosimetrically equivalent or superior plans than step and shoot IMRT for many different common cancer types. Bilateral H&N treatment plans are particularly challenging due to the concave shape of the target volume. We aim to compare the two techniques for various levels of concavity and we quantify the concavity of the target, and thus the difficulty of the plan, with a simple but novel ratio.
+Methods:
+20 bilateral HN CR >2 and CR<2. Each plan was evaluated for two conformity indices, as well as OAR doses.
+Results:
+Initial results show better IMRT conformity indexes, averaged over all patients. The spinal cord maximum dose was lower for VMAT but the mandible mean dose was higher. The parotid mean dose was lower in VMAT plans that had CR 2. This was also the case for the oral cavity mean dose and the mandible maximum dose.
+Conclusion:
+In the preliminary results, VMAT plans with CR 2. Thus, when a patient is targeted, the CR should be calculated and if the ratio is below two then it should be planned with VMAT, but if the ratio is above two then the traditional IMRT planning should be used.

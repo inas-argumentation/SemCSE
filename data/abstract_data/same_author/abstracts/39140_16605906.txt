@@ -1,0 +1,2 @@
+Optimizing the chiral properties of lattice fermion actions
+We describe a way to optimize the chiral behavior of Wilson-type lattice fermion actions by studying the low energy real eigenmodes of the Dirac operator. We find a candidate action, the clover action with fat links with a tuned clover term. The action shows good scaling behavior at Wilson gauge coupling β = 5.7.

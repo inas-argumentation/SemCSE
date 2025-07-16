@@ -1,0 +1,2 @@
+A Relationship between the Average Precision and the Area Under the ROC Curve
+For similar evaluation tasks, the area under the receiver operating characteristic curve (AUC) is often used by researchers in machine learning, whereas the average precision (AP) is used more often by the information retrieval community. We establish some results to explain why this is the case. Specifically, we show that, when both the AUC and the AP are rescaled to lie in [0,1], the AP is approximately the AUC times the initial precision of the system.

@@ -1,0 +1,3 @@
+TwitterMonitor: trend detection over the twitter stream
+We present TwitterMonitor, a system that performs trend detection over the Twitter stream. The system identifies emerging topics (i.e. 'trends') on Twitter in real time and provides meaningful analytics that synthesize an accurate description of each topic. Users interact with the system by ordering the identified trends using different criteria and submitting their own description for each trend.
+ We discuss the motivation for trend detection over social media streams and the challenges that lie therein. We then describe our approach to trend detection, as well as the architecture of TwitterMonitor. Finally, we lay out our demonstration scenario.

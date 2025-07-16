@@ -1,0 +1,2 @@
+Environmental Risk Zoning Based on Information Diffusion Theory
+In view of the characteristics of the petrochemical industrial industry where multiple risk sources exist,a trial risk zoning is done for planning of a petrochemical industrial park using the information diffusion method.In this paper,the fuzzy diffusion model is built by the VBA program,which can be used to calculate the risk information matrix;and an intuitive environmental risk zoning map is worked out for the planned park by use of the cluster function of SURFER.

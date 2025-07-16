@@ -1,0 +1,2 @@
+New potential functions for mobile robot path planning
+This paper first describes the problem of goals nonreachable with obstacles nearby when using potential field methods for mobile robot path planning. Then, new repulsive potential functions are presented by taking the relative distance between the robot and the goal into consideration, which ensures that the goal position is the global minimum of the total potential.

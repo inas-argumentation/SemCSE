@@ -1,0 +1,15 @@
+Clinical accuracy of ExacTrac intracranial frameless stereotactic system.
+PURPOSE
+In this paper, the authors assess the accuracy of the Brainlab ExacTrac system for frameless intracranial stereotactic treatments in clinical practice.
+
+
+METHODS
+They recorded couch angle and image fusion results (comprising lateral, longitudinal, and vertical shifts, and rotation corrections about these axes) for 109 stereotactic radiosurgery and 166 stereotactic radiotherapy patient treatments. Frameless stereotactic treatments involve iterative 6D image fusion corrections applied until the results conform to customizable pass criteria, theirs being 0.7 mm and 0.5° for each axis. The planning CT slice thickness was 1.25 mm. It has been reported in the literature that the CT slices' thickness impacts the accuracy of localization to bony anatomy. The principle of invariance with respect to patient orientation was used to determine spatial accuracy.
+
+
+RESULTS
+The data for radiosurgery comprised 927 image pairs, of which 532 passed (pass ratio of 57.4%). The data for radiotherapy comprised 15983 image pairs, of which 10 050 passed (pass ratio of 62.9%). For stereotactic radiotherapy, the combined uncertainty of ExacTrac calibration, image fusion, and intrafraction motion was (95% confidence interval) 0.290-0.302 and 0.306-0.319 mm in the longitudinal and lateral axes, respectively. The combined uncertainty of image fusion and intrafraction motion in the anterior-posterior coordinates was 0.174-0.182 mm. For stereotactic radiosurgery, the equivalent ranges are 0.323-0.393, 0.337-0.409, and 0.231-0.281 mm. The overall spatial accuracy was 1.24 mm for stereotactic radiotherapy (SRT) and 1.35 mm for stereotactic radiosurgery (SRS).
+
+
+CONCLUSIONS
+The ExacTrac intracranial frameless stereotactic system spatial accuracy is adequate for clinical practice, and with the same pass criteria, SRT is more accurate than SRS. They now use frameless stereotaxy exclusively at their center.

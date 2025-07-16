@@ -1,0 +1,2 @@
+A class of nondispersive evolution equations with solitary wave solutions
+We present a class of nonlinear evolution equations possessing stable solitary wave solutions with a sech2 profile. These equations are related to the Korteweg-de Vries (KdV) and regularised longwave (RLW) equations, but, unlike the latter, are dispersion free in the linear limit.

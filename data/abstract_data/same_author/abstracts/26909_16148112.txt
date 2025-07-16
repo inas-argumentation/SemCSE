@@ -1,0 +1,2 @@
+Cascade training technique for particle identification
+The cascade training technique which was developed during our work on the MiniBooNE particle identification has been found to be a very efficient way to improve the selection performance, especially when very low background contamination levels are desired. The detailed description of this technique is presented here based on the MiniBooNE detector Monte Carlo simulations, using both artificial neural networks and boosted decision trees as examples.

@@ -1,0 +1,15 @@
+Interpretable Semantic Role Relation Table for Supporting Facts Recognition of Reading Comprehension
+The current Machine Reading Comprehension (MRC) model has poor interpretability. 
+Interpretable semantic features can enhancethe interpretability of the model. 
+Semantic role labeling (SRL) captures predicate-argument relations, such as "who did what to whom," which
+are critical to comprehension and interpretation. 
+To enhance the interpretability of the model, we propose the semantic role relation table,
+which represents the semantic relation of the sentence itself and the semantic relations among sentences. 
+We use the name of entities to integrate into the semantic role relation table to establish the semantic relation between sentences. 
+This paper makes the first attempt to utilize contextual semantic's explicit relation to the recognition supporting fact of reading 
+comprehension. 
+We have established nine semantic relationtables between target sentence, question, and article. 
+Then we take each semantic relationship table's overall semantic role relevance and each
+semantic role relevance as important judgment information. 
+Detailed experiments on HotpotQA, a challenging multi-hop MRC data set, our method achieves better performance. 
+With few training data sets, the model performance is still stable.

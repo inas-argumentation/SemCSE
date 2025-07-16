@@ -1,0 +1,2 @@
+Singer Traits Identification using Deep Neural Network
+The author investigates automatic recognition of singers’ gender and age through audio features using deep neural network (DNN). Features of each singing voice, fundamental frequency and Mel-Frequency Cepstrum Coefficients (MFCC) are extracted for neural network training. 10,000 singing voice from Smule’s Sing! Karaoke app is used for training and evaluation, and the DNN-based method achieves an average recall of 91% for gender classification and 36% for age identification.

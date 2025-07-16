@@ -1,0 +1,2 @@
+CASCADED TRACKING CONTROL OF NONHOLONOMIC MOBILE ROBOT BASED ON NEURAL NETWORKS AND FEEDBACK LINEARIZATION N .
+In this paper, the problem of trajectory tracking control of nonholonomic mobile robot is investigated via an intelligent cascaded control strategy. The vehicle inverse dynamic is represented and controlled utilizing neural networks and the kinematics is controlled by feedback linearization. Simulation results demonstrate the high efficiency of the proposed strategy.

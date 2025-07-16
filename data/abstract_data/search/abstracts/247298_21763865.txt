@@ -1,0 +1,2 @@
+Saliency Based Keypoint Reduction for Augmented Reality Applications in Smart Cities
+In this paper we show that Saliency based keypoint selection makes natural landmark detection and object recognition quite effective and efficient, thus enabling augmented reality techniques in a plethora of applications in smart city contexts. As a case study we address a tour of a museum where a modern smart device like a tablet or smartphone can be used to recognize paintings, retrieve their pose and graphically overlay useful information.

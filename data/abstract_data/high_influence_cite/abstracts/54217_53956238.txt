@@ -1,0 +1,2 @@
+Strain gradient elastic homogenization of bidimensional cellular media
+The present paper aims at introducing an homogenization scheme for the determination of strain gradient elastic coefficients. This scheme is based on a quadratic extension of homogeneous boundary condition (HBC). It allows computing strain elastic effective tensors. This easy-to-handle computational procedure will then be used to construct overall honey-comb like materials behavior and to verify some theoretical predictions about strain gradient elasticity

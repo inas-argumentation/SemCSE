@@ -1,0 +1,2 @@
+A practical implementation of veiled certificate for user-centric privacy protection
+We describe an implementation of the veiled certificate for providing user-centric privacy protection. This description gives details on the process of cryptographic algorithm selection, the execution and design of the selected algorithm.

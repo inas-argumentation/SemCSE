@@ -1,0 +1,14 @@
+A Comparative Study of Energy Consumption Sources for Wireless Sensor Networks
+With the development of MEMS and CMOS technologies, the implementation of a huge 
+number of wireless distributed micro-sensors that can be simply and rapidly deployed to 
+form highly redundant, self-configuring, and ad hoc sensor networks. Sensor nodes are 
+generally battery- devices, the critical facets to face concern are how to minimize energy 
+consumption of nodes, so that the lifetime of sensing nodes can be maximized. The first 
+step to achieve this goal is to know completely the sources of energy consumption in 
+wireless sensor networks. In this paper, sources of energy consumption at various 
+communication layers have been studied and investigated. Moreover, the energy 
+consumption for the components of a typical sensor node and the impact of 
+communication protocols stack on the energy consumption are discussed. In the sequel, 
+the sources of energy consumption in each communication layer individually are studied. 
+Then, a survey has been provided for existing energy models and the classification of 
+these models into physical layer, MAC layer and cross-layer energy models.

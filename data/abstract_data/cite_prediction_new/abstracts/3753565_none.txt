@@ -1,0 +1,2 @@
+A space-time finite element method for the wave equation*
+A numerical method is introduced which uses finite elements in time and space simultaneously to solve the wave equation. An error analysis for this scheme is presented and the results of several computations. This scheme is accurate for time slabs of arbitrary thickness without introducing extra least squares or stabilization terms.

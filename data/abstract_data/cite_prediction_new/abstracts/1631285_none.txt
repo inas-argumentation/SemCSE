@@ -1,0 +1,2 @@
+Detection of non-flat ground surfaces using V-Disparity images
+Ground plane detection plays an important role in stereo vision based obstacle detection methods. Recently, V-Disparity image has been widely used for ground plane detection. The existing approach based on V-Disparity image can detect flat ground successfully but have difficulty in detecting non-flat ground. In this paper, we discuss the representation of non-flat ground in V-Disparity image, based on which we propose a method to detect non-flat ground using V-Disparity image.

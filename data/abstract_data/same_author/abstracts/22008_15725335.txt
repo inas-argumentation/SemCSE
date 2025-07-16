@@ -1,0 +1,2 @@
+A Resolution Requirement for Disk Simulations Modeling Collapse
+The accurate simulation of collapsed objects requires that a huge range of spatial scales be well resolved if the result is not to be contaminated by numerically induced fragmentation. In this context, `insufficient resolution' means comparable to the local instability wavelength in the system. I define a minimum resolution criterion for simulations of disk systems, using the critical wavelength appropriate for disks.

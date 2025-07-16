@@ -1,0 +1,2 @@
+Nonlinear stability of periodic-wave solutions for systems of dispersive equations
+We prove the orbital stability of periodic traveling-wave solutions for systems of dispersive equations with coupled nonlinear terms. Our method is basically developed under two assumptions: one concerning the spectrum of the linearized operator around the traveling wave and another one concerning the existence of a conserved quantity with suitable properties. The method can be applied to several systems such as the Liu-Kubota-Ko system, the modified KdV system and a log-KdV type system.

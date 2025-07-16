@@ -1,0 +1,2 @@
+Lipschitz neural networks are dense in the set of all Lipschitz functions
+This note shows that, for a fixed Lipschitz constant $L > 0$, one layer neural networks that are $L$-Lipschitz are dense in the set of all $L$-Lipschitz functions with respect to the uniform norm on bounded sets.

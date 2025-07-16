@@ -1,0 +1,2 @@
+On the quadratic valuation of American call options: challenging the functional form
+This paper extends the framework of semi-analytical approximations to the valuation of American options by exploring the performance of competing functional forms for the value of an American option. The value function of the early exercise premium is modelled as a product of two functions, one being a function of time and the other being a function of price. The accuracy of the suggested functional form is verified through numerical tests.

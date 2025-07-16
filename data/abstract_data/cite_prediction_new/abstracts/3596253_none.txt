@@ -1,0 +1,2 @@
+On state equation descriptions of linear differential systems
+A completely general algebraic method for converting a set of linear differential equations that describe a multivariable system to the standard state equation model is considered. The entire procedure is developed in a straight forward manner so that each aspect of the algorithm is simplistic in nature as well as efficient when implemented on a digital computer. An example is presented to illustrate all phases of the method. A PL/I program has been developed by the authors for use on the IBM 360 computer.

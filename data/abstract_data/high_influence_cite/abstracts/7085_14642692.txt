@@ -1,0 +1,2 @@
+Application of LSTM Neural Networks in Language Modelling
+Artificial neural networks have become state-of-the-art in the task of language modelling on a small corpora. While feed-forward networks are able to take into account only a fixed context length to predict the next word, recurrent neural networks (RNN) can take advantage of all previous words. Due the difficulties in training of RNN, the way could be in using Long Short Term Memory (LSTM) neural network architecture.

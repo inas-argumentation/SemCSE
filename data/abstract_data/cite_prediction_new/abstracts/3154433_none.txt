@@ -1,0 +1,15 @@
+Desorption electrospray ionisation (DESI) for beginners--how to adjust settings for tissue imaging.
+RATIONALE
+Desorption electrospray ionisation (DESI) is the ambient technique used for surface imaging. Despite its simplicity, the proper use of this technique is not easy, and usually leads to discouragement, especially in the case of biological sample measurements. Here, we present some tips and tricks which may be helpful during a complex process of ion source optimisation to achieve the desired results.
+
+
+METHODS
+Rat liver tissue as an example of a biological sample and a surface covered with rhodamine-containing marker were measured using a DESI ion source (OMNIspray source, Prosolia, Indianapolis, IN, USA) connected to a AmaZon ETD ion trap mass spectrometer (Bruker Daltonics, Bremen, Germany).
+
+
+RESULTS
+The geometry of the ion source (nebulisation capillary angle, its distance to the surface, and to the MS inlet), and other settings like nebulising gas pressure, solvent flow and capillary voltage, were changed during the optimisation process. The results obtained for different parameters are presented.
+
+
+CONCLUSIONS
+Differences between the results and the method of optimisation for biological and non-biological samples were shown. The influence of different parameters on the quality of mass spectra was indicated. Optimal parameters for the tissue and non-biological sample analysis were suggested.

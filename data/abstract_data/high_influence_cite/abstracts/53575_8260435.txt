@@ -1,0 +1,2 @@
+Automatic Detection of Answers to Research Questions from Medline Abstracts
+Given a set of abstracts retrieved from a search engine such as Pubmed, we aim to automatically identify the claim zone in each abstract and then select the best sentence(s) from that zone that can serve as an answer to a given query. The system can provide a fast access mechanism to the most informative sentence(s) in abstracts with respect to the given query.

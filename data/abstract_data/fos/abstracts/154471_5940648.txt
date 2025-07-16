@@ -1,0 +1,2 @@
+An Application of the Modification of Slow Start Algorithm in Campus Network
+For the problems existing in TCP/IP congestion control method, a modified slow start algorithm is introduced to the internal services of campus network to make congestion control method more effective. Network simulation results show that: the modified congestion control algorithm can effectively improve the network transmission efficiency in a specific network environment.

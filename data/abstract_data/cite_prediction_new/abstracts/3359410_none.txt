@@ -1,0 +1,2 @@
+Projections: A Technique for Verifying Real-Time Programs in Duration Calculus
+We present a technique for handling the true synchrony hypothesis and (infinite) loops in real-time programming. The technique is based on the notion of projections and iterations in Duration Calculus. With this technique, the semantics of real-time programs with shared variables is given in a simple way, and the verification can be done using DC∗ proof system.

@@ -1,0 +1,35 @@
+Poincaré polynomials of generic torus orbit closures in Schubert varieties
+The closure of a generic torus orbit in the flag variety 
+
+ 
+ 
+ G
+ 
+ /
+ 
+ B
+ 
+ G/B
+ 
+
+ of type 
+
+ 
+ A
+ A
+ 
+
+ is known to be a permutohedral variety, and its Poincaré polynomial agrees with the Eulerian polynomial. In this paper, we study the Poincaré polynomial of a generic torus orbit closure in a Schubert variety in 
+
+ 
+ 
+ G
+ 
+ /
+ 
+ B
+ 
+ G/B
+ 
+
+. When the generic torus orbit closure in a Schubert variety is smooth, its Poincaré polynomial is known to agree with a certain generalization of the Eulerian polynomial. We extend this result to an arbitrary generic torus orbit closure which is not necessarily smooth.

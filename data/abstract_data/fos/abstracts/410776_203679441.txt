@@ -1,0 +1,2 @@
+Research and Analysis of Linux Kernel and Transplantation Based on the ARM Platform
+The hardware platform is built based on S3C2440A processor(ARM920T core).Analyzes the boot process of the Linux kernel,elaborates the points of Linux transplantation.Describes the structure of the source code for Linux,makes the specific research and development for embedded firewal of netfilter,and optimizs to the kernel.Completes the migration process by configuring and compiling.And this result provides a basis for Linux kernel transplantation and the future.

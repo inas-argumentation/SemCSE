@@ -1,0 +1,2 @@
+Buckling of anisotropic laminated cylindrical plates
+On presente une solution analytique pour le flambage de plaques cylindriques anisotropes sous des combinaisons arbitraires de charge axiale, pression interne et charge de cisaillement dans le plan. Des equations du type Donnell en combinaison avec la methode de Galerkin sont utilisees pour determiner les charges critiques de flambage

@@ -1,0 +1,2 @@
+Kolmogorov Random Graphs and the Incompressibility Method
+We investigate topological, combinatorial, statistical, and enumeration properties of finite graphs with high Kolmogorov complexity (almost all graphs) using the novel incompressibility method. Example results are (i) the mean and variance of the number of (possibly overlapping) ordered labeled subgraphs of a labeled graph as a function of its randomness deficiency (how far it falls short of the maximum possible Kolmogorov complexity) and (ii) a new elementary proof for the number of unlabeled graphs.

@@ -1,0 +1,2 @@
+Public-key cryptosystem based on invariants of diagonalizable groups
+We develop a public-key cryptosystem based on invariants of diagonalizable groups and investigate properties of such a cryptosystem first over finite fields, then over number fields and finally over finite rings. We consider the security of these cryptosystem and show that it is necessary to restrict the set of parameters of the system to prevent various attacks (including linear algebra attacks and attacks based on the Euclidean algorithm).

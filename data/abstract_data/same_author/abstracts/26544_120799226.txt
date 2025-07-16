@@ -1,0 +1,2 @@
+Absolute energy calibration and the use of timing information of the BESIII EMC
+We introduce the absolute energy calibration of the electromagnetic calorimeter at BESIII. The precision after calibration is about 0.5% and the resolution difference between data and the simulation is about 5%. We also present a method to veto beam-gas background using the timing information of the EMC, which is crucial for physics analyses involving low energy photons at BESIII.

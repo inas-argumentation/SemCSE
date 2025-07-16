@@ -1,0 +1,2 @@
+Stable orbit equivalence of Bernoulli shifts over free groups
+Previous work showed that every pair of nontrivial Bernoulli shifts over a fixed free group are orbit equivalent. In this paper, we prove that if $G_1,G_2$ are nonabelian free groups of finite rank then every nontrivial Bernoulli shift over $G_1$ is stably orbit equivalent to every nontrivial Bernoulli shift over $G_2$. This answers a question of S. Popa.

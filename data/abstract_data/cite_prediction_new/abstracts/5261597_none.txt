@@ -1,0 +1,2 @@
+RC Polyphase Filter as Complex Analog Hilbert Filter
+This paper presents that the RC polyphase filer has characteristics as a complex analog Hilbert filter. Phase characteristics of the RC polyphase filter have the same as the Hilbert filter. Also its gain characteristics can be approximated as the Hilbert filter; as its order becomes higher, its gain characteristics become closer to the Hilbert filter. We have proved these for 1st to 4th RC polyphase filters, as well as in general n-th order case, and also confirmed with numerical simulations.

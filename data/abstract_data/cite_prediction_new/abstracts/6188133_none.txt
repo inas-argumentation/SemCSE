@@ -1,0 +1,2 @@
+Optical Cross-Connect Based on the Spherical Fourier Cell
+A free-space optical cross connect is proposed here that is highly compact and uses digital microelectromechanical systems (MEMS) tip-style micromirror arrays. Based on the Fourier cell, previously described for true time delays, the cross-connect can be strictly non-blocking, or can be of blocking or reconfigurably blocking designs to reduce the MEMS pixel count. Because in the Fourier cell many systems can share a single spherical lens, the hardware count is comparatively low and the system is highly compact.

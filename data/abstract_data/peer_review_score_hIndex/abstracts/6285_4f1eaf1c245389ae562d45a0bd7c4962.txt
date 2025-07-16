@@ -1,0 +1,10 @@
+Gradient Explosion and Representation Shrinkage in Infinite Networks
+We study deep fully-connected neural networks using the mean field formalism,
+and carry out a non-perturbative analysis of signal propagation. As a result, we
+demonstrate that increasing the depth leads to gradient explosion or to another
+undesirable phenomenon we call representation shrinkage. The appearance of at
+least one of these problems is not restricted to a specific initialization scheme or
+a choice of activation function, but rather is an inherent property of the fully-
+connected architecture itself. Additionally, we show that many popular normal-
+ization techniques fail to mitigate these problems. Our method can also be applied
+to residual networks to guide the choice of initialization variances.

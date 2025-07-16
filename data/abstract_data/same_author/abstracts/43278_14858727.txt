@@ -1,0 +1,2 @@
+BIO-AJAX: an extensible framework for biological data cleaning
+As databases become more pervasive through the biological sciences, various data quality issues regarding data legacy, data uniformity and data duplication arise. Due to the nature of this data, each of these problems is non-trivial. For biological data to be corrected and standardized, new methods and frameworks must be developed. This paper proposes one such framework, called BIO-AJAX, which uses principles from data cleaning to improve data quality in biological information systems, specifically in TreeBASE.

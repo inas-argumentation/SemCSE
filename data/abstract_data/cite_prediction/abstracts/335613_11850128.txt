@@ -1,0 +1,2 @@
+3D shape scanning with a Kinect
+We describe a method for 3D object scanning by aligning depth and color scans which were taken from around an object with a Kinect camera. Our easy-to-use, cost-effective scanning solution could make 3D scanning technology more accessible to everyday users and turn 3D shape models into a much more widely used asset for many new applications, for instance in community web platforms or online shopping.

@@ -1,0 +1,2 @@
+Incidence coloring of k-degenerated graphs
+Abstract We prove that the incidence coloring number of every k -degenerated graph G is at most Δ ( G )+2 k −1. For K 4 -minor free graphs ( k =2), we decrease this bound to Δ ( G )+2, which is tight. For planar graphs ( k =5), we decrease this bound to Δ ( G )+7.

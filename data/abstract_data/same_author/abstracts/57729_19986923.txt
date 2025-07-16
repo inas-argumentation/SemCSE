@@ -1,0 +1,2 @@
+From Optimal Hyperplanes to Optimal Decision Trees
+We present an optimal hyperplane searching method for decision tables using Genetic Algorithms. This method can be used to construct a decision tree for a given decision table. We also present some properties of the set of hyperplanes determined by our methods and evaluate an upper bound on the depth of the constructed decision tree.

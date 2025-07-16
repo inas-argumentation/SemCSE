@@ -1,0 +1,2 @@
+Counterexamples to pole placement by static output feedback
+We consider linear systems with inner state of dimension n , with m inputs and p outputs, such that n = mp , min{ m , p }=2 and max{ m , p } is even. We show that for each ( m , n , p ) satisfying these conditions, there is a non-empty open subset U of such systems, where the real pole placement map is not surjective. It follows that for systems in U , there exist open sets of pole configurations which cannot be assigned by any real output feedback.

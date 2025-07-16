@@ -1,0 +1,2 @@
+Blind separation of convolutive mixtures and an application in automatic speech recognition in a noisy environment
+We propose a two-step algorithm for the blind separation of convolutive mixtures. We discuss its application to automatic speech recognition in a noisy environment where the acoustic signals have been recorded by a microphone in a room whose furniture and walls produce echoes. The method yields good results.

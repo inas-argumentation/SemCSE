@@ -1,0 +1,2 @@
+Scaling Spark in the Real World: Performance and Usability
+Apache Spark is one of the most widely used open source processing engines for big data, with rich language-integrated APIs and a wide range of libraries. Over the past two years, our group has worked to deploy Spark to a wide range of organizations through consulting relationships as well as our hosted service, Databricks. We describe the main challenges and requirements that appeared in taking Spark to a wide set of users, and usability and performance improvements we have made to the engine in response.

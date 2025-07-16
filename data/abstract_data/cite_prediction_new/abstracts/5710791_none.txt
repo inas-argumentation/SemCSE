@@ -1,0 +1,2 @@
+Translation and Projection Algorithms for Multiple Layer Images with a Hexadecimal Grid Graph Model
+We deal with data structures and algorithms suitable for the displaying of multiple binary raster images. Multiple images are dealt as a multiple layer image. In this paper, we introduce three algorithms for operation of images represented by hexadeci-grid as multiple layer images and show some examples for our introduced algorithms.

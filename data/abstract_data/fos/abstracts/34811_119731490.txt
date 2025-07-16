@@ -1,0 +1,2 @@
+When unit groups of continuous inverse algebras are regular Lie groups
+It is a basic fact in infinite-dimensional Lie theory that the unit group G(A) of a continuous inverse algebra A is a Lie group. We describe criteria ensuring that the Lie group G(A) is regular in Milnor's sense. Notably, G(A) is regular if A is Mackey-complete and locally m-convex.

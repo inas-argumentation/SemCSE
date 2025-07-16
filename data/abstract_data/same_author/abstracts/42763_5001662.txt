@@ -1,0 +1,2 @@
+On a Class of Support Vector Kernels Based on Frames in Function Hilbert Spaces
+There has been an increasing interest in kernel-based techniques, such as support vector techniques, regularization networks, and gaussian processes. There are inner relationships among those techniques, with the kernel function playing a central role. This article discusses a new class of kernel functions derived from the so-called frames in a function Hilbert space.

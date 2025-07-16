@@ -1,0 +1,11 @@
+EXPERIMENTAL VERIFICATION OF AN INVERSE SOLUTION TECHNIQUE FOR DETERMINING PHYSICAL PROPERTIES OF SOIL
+Previous researchers have developed an inverse solution technique that utilized a numerical method to create 
+response surfaces and an optimization scheme to determine physical properties of soil in situ. The purpose of this article is 
+to provide an experimental verification of this technique. The mechanical behavior of the soil was modeled using a modified 
+critical state soil constitutive relationship that contained five soil parameters, including two elastic soil parameters 
+[logarithmic bulk modulus (.. and Poisson’s ratio (..] and three soil plasticity parameters [slope of the critical state line (M), 
+slope of the virgin compression line (.., and intercept of the virgin compression line (.)], to create response surfaces for plate 
+sinkage tests. These response surfaces were relatively insensitive to the soil elastic parameters (. and .). The response 
+surfaces along with experimental results were used in an inverse solution technique to determine soil properties. This 
+technique worked reasonably well when three parameters related to the plasticity behavior of the soil (M, ., and .) were 
+identified for all the soil conditions investigated in this study.

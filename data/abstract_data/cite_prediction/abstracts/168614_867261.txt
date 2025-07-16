@@ -1,0 +1,2 @@
+Efficient Optimal Learning for Contextual Bandits
+Õ( √ TK log(N/δ)); intuitively based on a nonconstructive minimax argument for choosing a distribution over policies such that the reward estimates for each policy have low variance. 2. Algorithm RANDOMIZEDUCB, also achieving optimal regret bound Õ( √ TK log(N/δ)); selection of distribution over policies in each round t can be computed in poly(t, log(N)) time, given a cost-sensitive classification learning algorithm for policy class Π.

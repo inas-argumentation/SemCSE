@@ -1,0 +1,2 @@
+A note on the computation of maximum likelihood estimates in linear regression models with autocorrelated errors
+Abstract In this note we propose a modification of the Cochrane Orcutt iterative procedure for the computation of maximum likelihood estimates in a linear regression model with autocorrelated disturbances which possesses faster asymptotical convergence rate. The theoretical properties are shown to be supported by experimental results.

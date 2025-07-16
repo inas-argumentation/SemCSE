@@ -1,0 +1,2 @@
+On the structure of bounded queries to arbitrary NP sets
+The author examines hierarchies built with arbitrary sets in NP. He determines when these hierarchies are proper and how they relate to the Boolean hierarchy (BH) and the query hierarchy (QH). He studies these questions in the setting of U. Schoning's high-low sets (see J. Comput. Syst. Sci., vol.27, p.14-28 (1983)). He produces some results about the hierarchies built with arbitrary NP sets. These results are similar to ones already known about BH and QH.<<ETX>>

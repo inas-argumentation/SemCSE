@@ -1,0 +1,2 @@
+A comprehensive inspection of cross site scripting attack
+Cross Site Scripting attack (XSS) is the computer security threat which allows the attacker to get access over the sensitive information, when the javaScript, VBScript, ActiveX, Flash or HTML which is embedded in the malicious XSS link gets executed. In this paper, we authors have discussed about various impacts of XSS, types of XSS, checked whether the site is vulnerable towards the XSS or not, discussed about various tools for examining the XSS vulnerability and summarizes the preventive measures against XSS.

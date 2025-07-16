@@ -1,0 +1,2 @@
+Decomposition of Order Statistics of Semimartingales Using Local Times
+Given a finite collection of continuous semimartingales, a semimartingale decomposition of the corresponding ranked (order-statistics) processes was derived recently in [1]. In this paper, we obtain a more general result for semimartingales (not necessarily continuous) using a simpler approach. Furthermore, we also give a generalization of Ouknine [7, 8] and Yan's [11] formula for local times of ranked processes.

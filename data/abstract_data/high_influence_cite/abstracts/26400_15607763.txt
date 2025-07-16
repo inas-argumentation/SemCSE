@@ -1,0 +1,2 @@
+Exploiting Common Object Usage in Test Case Generation
+Generated test cases are good at systematically exploring paths and conditions in software. However, generated test cases often do not make sense. We adapt test case generation to follow patterns of common object usage, as mined from code examples. Our experiments show that generated tests thus (a) reuse familiar usage patterns, making them easier to understand and (b) focus on common usage, thus respecting implicit preconditions and avoiding meaningless tests.

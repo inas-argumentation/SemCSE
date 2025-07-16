@@ -1,0 +1,2 @@
+Aggressive vehicle control using polynomial spiral curves
+Autonomous driving at the limits of friction is not only a concept for racing autonomous cars but also a reliable method for emergency evasive manoeuvres in bad weather conditions. In this paper we introduce a method of incorporating smooth trajectory planner with an aggressive driving controller to implement double lane change manoeuvre while driving at the limits of tire friction.

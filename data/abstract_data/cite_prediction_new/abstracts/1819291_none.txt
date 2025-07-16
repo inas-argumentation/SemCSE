@@ -1,0 +1,2 @@
+An energy-efficient successive approximation register analog to digital converter in 180nm
+This paper presents an analog-to-digital converter using state-of-the-art techniques in 180nm process. Making use of charge sharing, asynchronous logic circuitry, scaled digital voltage supply and a novel sampling scheme, this ADC achieves a figure of merit (FOM) of 45fJ per conversion step in simulations. This FOM is close to reference designs reported in 90nm.

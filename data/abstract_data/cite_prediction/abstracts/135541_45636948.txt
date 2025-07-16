@@ -1,0 +1,2 @@
+Machine learning in sentiment reconstruction of the simulated stock market
+In this paper we continue the study of the simulated stock market framework defined by the driving sentiment processes. We focus on the market environment driven by the buy/sell trading sentiment process of the Markov chain type. We apply the methodology of the Hidden Markov Models and the Recurrent Neural Networks to reconstruct the transition probabilities matrix of the Markov sentiment process and recover the underlying sentiment states from the observed stock price behavior.

@@ -1,0 +1,2 @@
+Clustering in Directed Graph Using the Laplacian Matrices and Their Eigenprojections
+This paper is devoted to a clustering in directed graphs using the Laplacian matrices of the digraph and their eigenprojections. The relevance of the problem due to the fact that ignoring edge directionality and considering the graph as undirected is not a meaningful way to cluster directed networks. The proposed methods for clustering in digraphs based on the coefficients of the adjacency matrix of the Laplacian matrix of the digraph.

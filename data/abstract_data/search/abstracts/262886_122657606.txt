@@ -1,0 +1,2 @@
+Graph Implementations for Nonsmooth Convex Programs
+We describe graph implementations, a generic method for representing a convex function via its epigraph, described in a disciplined convex programming framework. This simple and natural idea allows a very wide variety of smooth and nonsmooth convex programs to be easily specified and efficiently solved, using interiorpoint methods for smooth or cone convex programs.

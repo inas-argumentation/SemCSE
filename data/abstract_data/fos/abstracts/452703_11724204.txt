@@ -1,0 +1,23 @@
+Readmissions, unplanned emergency room visits, and surgical retreatment rates after anti-reflux procedures.
+INTRODUCTION/BACKGROUND
+The choice between endoscopic injection (EI) and ureteroneocystotomy (UNC) for surgical correction of vesicoureteral reflux (VUR) is controversial.
+
+
+OBJECTIVE
+To compare postoperative outcomes of EI vs UNC.
+
+
+STUDY DESIGN
+This study reviewed linked inpatient (SID), ambulatory surgery (SASD), and emergency department (SEDD) data from five states in the United States (2007-10) to identify pediatric patients with primary VUR undergoing EI or UNC as an initial surgical intervention. Unplanned readmissions, additional procedures, and emergency room (ER) visits were extracted. Statistical analysis was performed using multivariate logistic regression using generalized estimating equation (GEE) to adjust for hospital-level clustering.
+
+
+RESULTS
+The study identified 2556 UNC and 1997 EI procedures. Compared with patients undergoing EI, those who underwent UNC were more likely to be younger (4.6 vs 6.0 years, P < 0.001), male (30 vs 20%, P < 0.001), and publicly insured (34 vs 29%, P < 0.001). As shown in Summary Figure, compared with EI, UNC patients had lower rates of additional anti-reflux procedures within 12 months (25 (1.0) vs 121 (6.1%), P < 0.001), but a higher rate of 30-day and 90-day readmissions and ER visits. On multivariate analysis, patients treated by UNC remained at higher odds of being readmitted (OR = 4.45; 2.69 in 30 days; 90 days, P < 0.001) and to have postoperative ER visits (OR = 3.33; 2.26 in 30 days; 90 days, P < 0.001); however, EI had significantly higher odds of repeat anti-reflux procedures in the subsequent year (OR = 7.12, P < 0.001).
+
+
+DISCUSSIONS
+Endoscopic injection constituted nearly half of initial anti-reflux procedures in children. However, patients treated with UNC had significantly lower odds of requiring re-treatment in the first year relative to those treated with EI. By contrast, patients treated with UNC had more than twice the odds of being readmitted or visiting an ER postoperatively. Although the available data were amongst the largest and most well validated, the major limitation was the retrospective nature of the administrative database. The practice setting may not be generalizable to states not included in the analysis.
+
+
+CONCLUSIONS
+Postoperative readmissions and ER visits were uncommon after any surgical intervention for VUR, but were more common among children undergoing UNC. The EI patients had a more than seven-fold increased risk of surgical re-treatment within 1 year.

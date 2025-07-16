@@ -1,0 +1,2 @@
+SlackProbe: A low overhead in situ on-line timing slack monitoring methodology
+In situ monitoring is an accurate way to monitor circuit delay or timing slack, but usually incurs significant overhead. We observe that most existing slack monitoring methods exclusively focus on monitoring path ending registers, which is not cost efficient from power and area perspectives.

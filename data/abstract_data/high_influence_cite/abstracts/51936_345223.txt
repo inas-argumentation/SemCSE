@@ -1,0 +1,2 @@
+Constructing Test Instances for Basis Pursuit Denoising
+The number of available algorithms for the so-called Basis Pursuit Denoising problem (or the related LASSO-problem) is large and keeps growing. Similarly, the number of experiments to evaluate and compare these algorithms on different instances is growing. In this correspondence, we present a method to produce instances with exact solutions that is based on a simple observation, related to the so-called source condition from sparse regularization.

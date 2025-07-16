@@ -1,0 +1,2 @@
+A note on a Residual Subset of Lipschitz Functions on Metric Spaces
+Let (X, d) be a quasi-convex, complete and separable metric space with reference probability measure m. We prove that the set of real-valued Lipschitz functions with non-zero pointwise Lipschitz constant m-almost everywhere is residual, and hence dense, in the Banach space of Lipschitz and bounded functions. The result is the metric analogous to a result proved for real-valued Lipschitz maps defined on ℝ2 by Alberti et al.

@@ -1,0 +1,2 @@
+Multidimensional binary search trees used for associative searching
+This paper develops the multidimensional binary search tree (or k d tree, where k is the dimensionality of the search space) as a data structure for storage of information to be retrieved by associ.

@@ -1,0 +1,2 @@
+Perspectives on the CAP Theorem
+The CAP theorem is one example of a more general tradeoff between safety and liveness in unreliable systems. Viewing CAP in this context provides insight into the inherent tradeoffs and the manner in which they can be circumvented in practice.

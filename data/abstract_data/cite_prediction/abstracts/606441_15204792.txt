@@ -1,0 +1,2 @@
+ARTTag: aesthetic fiducial markers based on circle pairs
+In this paper, we present ARTTag, an aesthetic fiducial marker system, of which the design development can be performed with any color, texture, shape, or other features as long as circle pairs are integrated. By utilizing the projective properties of circular features, ARTTag is appropriate for detection, identification, and camera-based registration in augmented reality (AR) applications.

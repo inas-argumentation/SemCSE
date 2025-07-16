@@ -1,0 +1,2 @@
+Defect aware test patterns
+A method to generate test patterns referred to as defect aware test patterns is proposed. Defect aware test patterns increase the ability to detect unmodeled defects. The proposed method can be used with any test generation procedure to improve the effectiveness of the tests in detecting unmodeled defects. Experimental results on several industrial designs show the effectiveness of defect aware tests. We also propose a measure to estimate the effectiveness of given test sets in detecting unmodeled defects.

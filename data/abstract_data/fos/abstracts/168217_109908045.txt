@@ -1,0 +1,2 @@
+The effect of silicide on ESD performance of transistors
+In this paper a new model for localized breakdown in NMOSTs under ESD stress is developed, which accounts for the reduced ESD strength in silicided devices. The model explains the impact of a stabilizing drain resistance on second breakdown current for both silicided and unsilicided protections.

@@ -1,0 +1,2 @@
+Annealing of Heavy-Ion Induced Floating Gate Errors: LET and Feature Size Dependence
+We discuss the room temperature annealing of Floating Gate errors in Flash memories with NAND and NOR architecture after heavy-ion irradiation. We present the evolution of raw bit errors as a function of time after the exposure, examining the annealing dependence on the particle LET, cell feature size, and, for Multi Level Cells, on the program level. The results are explained based on the statistical properties of the cell threshold voltage distributions before and after heavy-ion strikes.

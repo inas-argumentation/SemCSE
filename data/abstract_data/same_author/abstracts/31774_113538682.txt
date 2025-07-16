@@ -1,0 +1,2 @@
+ASSET MANAGEMENT APPLICATION FOR LLRF CONTROL SYSTEM
+This paper presents the base assumptions of a LLRF Asset Management System [5]. The application consists of several database modules which are designed to facilitate management and operation of a distributed control system composed of many hardware and firmware nodes, and spread geographically across a wide area. The system is currently deployed in DESY institute in Hamburg, Germany to facilitate tasks of managing dynamically changing LLRF system used in FLASH and XFEL [1, 2, 3] particle accelerators.

@@ -1,0 +1,2 @@
+Solving the PnP Problem with Anisotropic Orthogonal Procrustes Analysis
+In this paper we formulate the Perspective-n-Point (a.k.a. exterior orientation) problem in terms of an instance of the an isotropic orthogonal Procrustes problem, and derive its solution. Experiments with synthetic and real data demonstrate that our method reaches the best trade-off between speed and accuracy. The MATLAB code reported in the paper testifies that it is also exceedingly simple to implement.

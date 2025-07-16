@@ -1,0 +1,18 @@
+Training Variational Auto Encoders with Discrete Latent Representations using Importance Sampling
+The Variational Auto Encoder (VAE) is a popular generative 
+latent variable model that is often 
+applied for representation learning.
+Standard VAEs assume continuous valued 
+latent variables and are trained by maximization
+of the evidence lower bound (ELBO). Conventional methods obtain a 
+differentiable estimate of the ELBO with reparametrized sampling and
+optimize it with Stochastic Gradient Descend (SGD). However, this is not possible if 
+we want to train VAEs with discrete valued latent variables, 
+since reparametrized sampling is not possible. Till now, there
+exist no simple solutions to circumvent this problem.
+In this paper, we propose an easy method to train VAEs 
+with binary or categorically valued latent representations. Therefore, we use a differentiable
+estimator for the ELBO which is based on importance sampling. In experiments, we verify the approach and
+train two different VAEs architectures with Bernoulli and 
+Categorically distributed latent representations on two different benchmark
+datasets.	

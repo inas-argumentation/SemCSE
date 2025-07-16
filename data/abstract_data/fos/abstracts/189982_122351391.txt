@@ -1,0 +1,2 @@
+An efficient algorithm for product computations on computer
+This paper presents an algorithm for computing the product of any two polynomials in the U-algebra of the split three dimensional simple Lie algebra L over an algebraically closed field of prime characteristic K, and expressing the product as a linear combination of standard monomials. All coefficients are taken from the prime field.

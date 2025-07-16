@@ -1,0 +1,2 @@
+The Correctness of Crypto Transaction Sets
+This talk follows on more from the talks by Larry Paulson and Giampaolo Bella that we had earlier. The problem I’m going to discuss is, what’s the next problem to tackle once we’ve done crypto protocols? We keep on saying that crypto-protocols appear to be “done” and then some new application comes along to give us more targets to work on — multi-media, escrow, you name it. But sooner or later, it seems reasonable to assume, crypto will be done. What’s the next thing to do?

@@ -1,0 +1,19 @@
+Clinical application of a modular ankle robot for stroke rehabilitation.
+BACKGROUND
+Advances in our understanding of neuroplasticity and motor learning post-stroke are now being leveraged with the use of robotics technology to enhance physical rehabilitation strategies. Major advances have been made with upper extremity robotics, which have been tested for efficacy in multi-site trials across the subacute and chronic phases of stroke. In contrast, use of lower extremity robotics to promote locomotor re-learning has been more recent and presents unique challenges by virtue of the complex multi-segmental mechanics of gait.
+
+
+OBJECTIVES
+Here we review a programmatic effort to develop and apply the concept of joint-specific modular robotics to the paretic ankle as a means to improve underlying impairments in distal motor control that may have a significant impact on gait biomechanics and balance.
+
+
+METHODS
+An impedance controlled ankle robot module (anklebot) is described as a platform to test the idea that a modular approach can be used to modify training and measure the time profile of treatment response.
+
+
+RESULTS
+Pilot studies using seated visuomotor anklebot training with chronic patients are reviewed, along with results from initial efforts to evaluate the anklebot's utility as a clinical tool for assessing intrinsic ankle stiffness. The review includes a brief discussion of future directions for using the seated anklebot training in the earliest phases of sub-acute therapy, and to incorporate neurophysiological measures of cerebro-cortical activity as a means to reveal underlying mechanistic processes of motor learning and brain plasticity associated with robotic training.
+
+
+CONCLUSIONS
+Finally we conclude with an initial control systems strategy for utilizing the anklebot as a gait training tool that includes integrating an Internal Model-based adaptive controller to both accommodate individual deficit severities and adapt to changes in patient performance.

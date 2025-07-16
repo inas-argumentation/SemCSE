@@ -1,0 +1,2 @@
+Improving reliability in computer based systems
+Abstract Improving reliability in computer based systems is essential for systems design. One of the major source of error in computer systems is human error. A probabilistic model for controlling errors in critical data fields is suggested. The model consists of error detection and error correction modules. A computation procedure is outlined for determining how many detection and correction stages are needed for achieving specified level of accuracy.

@@ -1,0 +1,2 @@
+Approximating Maximum Leaf Spanning Trees in Almost Linear Time
+Given an undirected graph, finding a spanning tree of the graph with the maximum number of leaves is MAX SNP-complete. In this paper we give a new greedy 3-approximation algorithm for maximum leaf spanning trees. The running timeO((m+n)?(m,n)) required by our algorithm, wheremis the number of edges andnis the number of nodes, is almost linear in the size of the graph. We also demonstrate that our analysis of the performance of the greedy algorithm is tight via an example.

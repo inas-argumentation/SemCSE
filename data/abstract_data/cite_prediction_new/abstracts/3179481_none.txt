@@ -1,0 +1,2 @@
+Modeling and analysis of acceptability for merging vehicle at highway junction
+This paper presents the modeling and analysis of acceptability for merging vehicle at highway junction. A decision making for acceptance by the driver running on the main car lane is analyzed and modeled by using a logistic regression model based on the observation of the driving data on driving simulator. An acceptance estimation performance of the obtained model is evaluated in a quantitative manner.

@@ -1,0 +1,2 @@
+Hausdorff and Minimal Distances between Parametric Freeforms in R2 and R3
+We present algorithms to derive the precise Hausdorff distance and/or the minimal distance between two freeform shapes, either curves or surfaces, in IR or IR. The events at which the Hausdorff/minimal distance can occur are identified and means to efficiently compute these events are presented. Examples are also shown and the extension to arbitrary dimensions is briefly discussed.

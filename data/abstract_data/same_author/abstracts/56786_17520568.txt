@@ -1,0 +1,2 @@
+EnCal: an automated forward deduction system for general-purpose entailment calculus
+This paper presents the fundamental design ideas, working principles, and implementation of an automated forward deduction system for general-purpose entailment calculus, named EnCal, shows its potential applications in knowledge acquisition, reasoning rule generation, and theorem finding, reports some current results of our experiments with EnCal, and suggests some important research problems.

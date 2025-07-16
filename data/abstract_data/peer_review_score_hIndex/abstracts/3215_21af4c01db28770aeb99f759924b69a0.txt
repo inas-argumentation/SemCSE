@@ -1,0 +1,29 @@
+textTOvec: DEEP CONTEXTUALIZED NEURAL AUTOREGRESSIVE TOPIC MODELS OF LANGUAGE WITH DISTRIBUTED COMPOSITIONAL PRIOR
+We address two challenges of probabilistic topic modelling in order to better estimate
+the probability of a word in a given context, i.e., P(wordjcontext) : (1) No
+Language Structure in Context: Probabilistic topic models ignore word order by
+summarizing a given context as a “bag-of-word” and consequently the semantics
+of words in the context is lost. In this work, we incorporate language structure
+by combining a neural autoregressive topic model (TM) with a LSTM based language
+model (LSTM-LM) in a single probabilistic framework. The LSTM-LM
+learns a vector-space representation of each word by accounting for word order
+in local collocation patterns, while the TM simultaneously learns a latent representation
+from the entire document. In addition, the LSTM-LM models complex
+characteristics of language (e.g., syntax and semantics), while the TM discovers
+the underlying thematic structure in a collection of documents. We unite two complementary
+paradigms of learning the meaning of word occurrences by combining
+a topic model and a language model in a unified probabilistic framework, named
+as ctx-DocNADE. (2) Limited Context and/or Smaller training corpus of documents:
+In settings with a small number of word occurrences (i.e., lack of context)
+in short text or data sparsity in a corpus of few documents, the application of TMs
+is challenging. We address this challenge by incorporating external knowledge
+into neural autoregressive topic models via a language modelling approach: we
+use word embeddings as input of a LSTM-LM with the aim to improve the wordtopic
+mapping on a smaller and/or short-text corpus. The proposed DocNADE
+extension is named as ctx-DocNADEe.
+
+We present novel neural autoregressive topic model variants coupled with neural
+language models and embeddings priors that consistently outperform state-of-theart
+generative topic models in terms of generalization (perplexity), interpretability
+(topic coherence) and applicability (retrieval and classification) over 6 long-text
+and 8 short-text datasets from diverse domains.

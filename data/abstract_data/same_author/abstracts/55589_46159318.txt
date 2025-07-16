@@ -1,0 +1,2 @@
+Implementation of Temporal Logic Programming Language Tokio
+The temporal logic programming language, "Tokio" can be executed by a resolution of Interval Temporal Logic. The resolution consists of three parts, which are: the unification of the temporal variable, reduction including temporal operator, and interval control. The implementation of Tokio includes automatic interval length determination and stream-like temporal variable representation. At the end of this report, an abbreviated version of a Tokio interpreter written in Prolog will be shown.

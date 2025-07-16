@@ -1,0 +1,2 @@
+Software for a Miniature Impact Data Acquisition Device
+THIS report covers the system software for a self-contained, miniature, microcontroller-based data acquisition unit. The device will be able to measure and record the impacts applied to fruits and vegetables. Software, contained in EPROM on board, includes the routines for time keeping, sampling, thresholding, data storage, and data retrieval. The description and justification of the sampling rates and sampling sequence are provided. Sampling rates of 2 kHz or greater per channel provided acceptable signal integrity.

@@ -1,0 +1,2 @@
+Introduction to Gujarati wordnet
+Gujarati is one of the 22 official languages of India. It is an Indo Aryan language descended from Sanskrit. Gujarati wordnet is being built using expansion approach with Hindi as the source language. This paper describes experiences of building Gujarati wordnet. Paper discusses basic features of Gujarati language and evaluates suitability of Hindi language for expansion approach. Various issues related to synset linking using expansion approach and challenges related to language specific concepts are also discussed.

@@ -1,0 +1,2 @@
+Numerical Simulations of Neutron Effects on Bipolar Transistors
+A detailed device model that has been verified by comparisons with experimental measurements on unirradiated, state-of-the-art bipolar devices has been modified to include the effects of neutron radiation on carrier lifetimes, concentrations, and mobilities. Numerical experiments on the degradation due to neutron fluences in the dc common emitter gains for bipolar transistors with submicrometer emitter and base widths are given and compared in general terms with the few published measurements.

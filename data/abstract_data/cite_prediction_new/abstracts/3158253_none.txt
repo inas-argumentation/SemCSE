@@ -1,0 +1,8 @@
+Monitoring of indoor air quality for improvement of safety and health factor towards sustainable work environment in industry
+The research represents the preliminary data of the monitoring of IAQ for improvement of Safety and Health 
+Factor towards sustainable work environment in industry. The system were develop and using the computer 
+application and the IAQ instrumentation such as IAQ meter and the TOXIC meter to getting the direct reading 
+data. The data were transfer and evaluate by using the Visual Basic Software. The readings have the standard 
+and if more than 80% of total TLV, the system will give an alarm. The sequence will move from section to 
+section and data collected will shows the patent of IAQ and the Toxic level based on the requirements of 
+Factory and Machinery Act 1967 and Occupational Safety and Health Act (OSHA 1994).

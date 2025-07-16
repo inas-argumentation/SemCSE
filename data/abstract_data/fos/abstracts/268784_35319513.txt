@@ -1,0 +1,2 @@
+REGULARITY FOR MONGE-AMPERE EQUATION NEAR THE BOUNDARY
+In this paper we consider the Monge-Ampère equation det(D2u) = f(x) in a convex domain Ω ⊂ IRn subject to the Dirichlet boundary condition u = φ on ∂Ω. We prove that if ∂Ω and φ are C3 smooth, then the solution u ∈ C2+α(Ω). We also give examples to show that if ∂Ω or φ is only C2,1 smooth, the solution may fail to be C2 smooth near the boundary.

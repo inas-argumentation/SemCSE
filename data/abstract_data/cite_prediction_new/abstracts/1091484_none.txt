@@ -1,0 +1,2 @@
+Analysing Bang & Olufsen's BeoLink® Audio/Video System Using Coloured Petri Nets
+Bang & Olufsen A/S (B&O) is a renowned manufacturer of audio and video products. Their BeoLink® (BeoLink) system distributes sound and vision throughout a home via a network. In this way, e.g., while doing the cooking in the kitchen, a person can remotely select and listen to a track from a CD loaded in the CD player situated in the living room. To resolve conflicts, synchronisation between various actions is needed, and is indeed taken care of by appropriate communication protocols.

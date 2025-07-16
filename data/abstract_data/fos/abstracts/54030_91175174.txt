@@ -1,0 +1,2 @@
+A Liapunov function for four-dimensional positive feedback systems
+In this paper, we use elementary symmetric polynomials in parameters to construct a Liapunov function for four-dimensional positive feedback systems. By applying it, we give a sufficient condition for every positive-time trajectory to converge to an equilibrium.

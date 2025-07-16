@@ -1,0 +1,2 @@
+When Database Systems Meet the Grid
+We illustrate the benefits of combining database systems and Grid technologies for data-intensive applications. Using a cluster of SQL servers, we reimplemented an existing Grid application that finds galaxy clusters in a large astronomical database. The SQL implementation runs an order of magnitude faster than the earlier Tcl-C-file-based implementation. We discuss why and how Grid applications can take advantage of database systems.

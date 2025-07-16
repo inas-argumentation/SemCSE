@@ -1,0 +1,2 @@
+Comparison of maintenance policies with monotone failure rate distributions
+We compare different maintenance policies assuming that the system lifetime has either increasing failure rate (IFR), or decreasing failure rate (DFR) distribution. We show that these assumptions yield strongly stochastic comparisons between the process' intensities. This yields stronger stochastic comparison between the processes than the stochastic comparison that hold when the system lifetime is new better than used (NBU) or new worse than used (NWU).

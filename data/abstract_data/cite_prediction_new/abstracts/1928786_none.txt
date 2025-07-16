@@ -1,0 +1,2 @@
+Rescaled Lotka–Volterra models converge to super-Brownian motion
+We show that a sequence of stochastic spatial Lotka-Volterra models, suitably rescaled in space and time, converges weakly to super-Brownian motion with drift. The result includes both long range and nearest neighbor models, the latter for dimensions three and above. These theorems are special cases of a general convergence theorem for perturbations of the voter model.

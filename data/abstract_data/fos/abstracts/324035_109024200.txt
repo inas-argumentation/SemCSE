@@ -1,0 +1,2 @@
+N-MOS JK master/slave flip flop design for use in high speed control and counting applications
+An N-MOS version of the JK master/slave flip flop with preset and clear inputs has been designed for use in high speed control and counting applications. For the chip layout design, fast transient response and the low power dissipation, component density has been reduced using A-O-I (AND-OR-INVERT) gate. The transient analysis has been done using Spice 2G.6 program. The chip size is 124 λ × 103 λ ( λ = 4 micron) and dissipates power of 0.715 mW.

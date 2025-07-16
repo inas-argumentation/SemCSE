@@ -1,0 +1,15 @@
+Dose-volume analysis of predictors for gastrointestinal toxicity after concurrent full-dose gemcitabine and radiotherapy for locally advanced pancreatic adenocarcinoma.
+PURPOSE
+To identify dosimetric predictors for the development of gastrointestinal (GI) toxicity in patients with locally advanced pancreatic adenocarcinoma (LAPC) treated with concurrent full-dose gemcitabine and radiotherapy (GemRT).
+
+
+METHODS AND MATERIALS
+From June 2002 to June 2009, 46 LAPC patients treated with definitive GemRT were retrospectively analyzed. The stomach and duodenum were retrospectively contoured separately to determine their dose-volume histogram (DVH) parameters. GI toxicity was defined as Grade 3 or higher GI toxicity. The follow-up time was calculated from the start of RT to the date of death or last contact. Univariate analysis (UVA) and multivariate analysis (MVA) using Kaplan-Meier and Cox regression models were performed to identify risk factors associated with GI toxicity. The receiver operating characteristic curve and the area under the receiver operating characteristic curve (AUC) were used to determine the best DVH parameter to predict for GI toxicity.
+
+
+RESULTS
+Of the patients, 28 (61%) received concurrent gemcitabine alone, and 18 (39%) had concurrent gemcitabine with daily erlotinib. On UVA, only the V(20Gy) to V(35Gy) of duodenum were significantly associated with GI toxicity (all p ≤ 0.05). On MVA, the V(25Gy) of duodenum and the use of erlotinib were independent risk factors for GI toxicity (p = 0.006 and 0.02, respectively). For the entire cohort, the V(25Gy) of duodenum is the best predictor for GI toxicity (AUC = 0.717), and the 12-month GI toxicity rate was 8% vs. 48% for V(25Gy) ≤ 45% and V(25Gy) > 45%, respectively (p = 0.03). However, excluding the erlotinib group, the V(35Gy) is the best predictor (AUC = 0.725), and the 12-month GI toxicity rate was 0% vs. 41% for V(35Gy) ≤ 20% and V(35Gy) > 20%, respectively (p = 0.04).
+
+
+CONCLUSIONS
+DVH parameters of duodenum may predict Grade 3 GI toxicity after GemRT for LAPC. Concurrent use of erlotinib during GemRT may increase GI toxicity.

@@ -1,0 +1,15 @@
+Ultra high resolution imaging of the human head at 8 tesla: 2K x 2K for Y2K.
+PURPOSE
+To acquire ultra high resolution MRI images of the human brain at 8 Tesla within a clinically acceptable time frame.
+
+
+METHOD
+Gradient echo images were acquired from the human head of normal subjects using a transverse electromagnetic resonator operating in quadrature and tuned to 340 MHz. In each study, a group of six images was obtained containing a total of 208 MB of unprocessed information. Typical acquisition parameters were as follows: matrix = 2,000 x 2,000, field of view = 20 cm, slice thickness = 2 mm, number of excitations (NEX) = 1, flip angle = 45 degrees, TR = 750 ms, TE = 17 ms, receiver bandwidth = 69.4 kHz. This resulted in a total scan time of 23 minutes, an in-plane resolution of 100 microm, and a pixel volume of 0.02 mm3.
+
+
+RESULTS
+The ultra high resolution images acquired in this study represent more than a 50-fold increase in in-plane resolution relative to conventional 256 x 256 images obtained with a 20 cm field of view and a 5 mm slice thickness. Nonetheless, the ultra high resolution images could be acquired both with adequate image quality and signal to noise. They revealed numerous small venous structures throughout the image plane and provided reasonable delineation between gray and white matter.
+
+
+DISCUSSION
+The elevated signal-to-noise ratio observed in ultra high field magnetic resonance imaging can be utilized to acquire images with a level of resolution approaching the histological level under in vivo conditions. However, brain motion is likely to degrade the useful resolution. This situation may be remedied in part with cardiac gating. Nonetheless, these images represent a significant advance in our ability to examine small anatomical features with noninvasive imaging methods.

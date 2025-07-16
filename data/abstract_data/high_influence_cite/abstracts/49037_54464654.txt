@@ -1,0 +1,2 @@
+Memristors for the Curious Outsiders
+We present both an overview and a perspective of recent experimental advances and proposed new approaches to performing computation using memristors. A memristor is a 2-terminal passive component with a dynamic resistance depending on an internal parameter. We provide an brief historical introduction, as well as an overview over the physical mechanism that lead to memristive behavior. This review is meant to guide nonpractitioners in the field of memristive circuits and their connection to machine learning and neural computation.

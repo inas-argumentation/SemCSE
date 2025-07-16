@@ -1,0 +1,2 @@
+Stability analysis of negative impedance converter
+Negative Impedance Converter (NIC) have received much attention to improve the restriction of antenna gain-bandwidth tradeoff relationship. However, a significant problem with NIC is the potential instability of unwanted oscillation due to the presence of positive feedback. For solving this problem, we propose a NIC circuit technique which is stable and has wideband characteristics of negative impedance.

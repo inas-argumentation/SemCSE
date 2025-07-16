@@ -1,0 +1,2 @@
+Continuous Dependence on Initial Data in Fluid–Structure Motions
+We prove a continuous dependence theorem for weak solutions of equations governing a fluid–structure interaction problem in two spatial dimensions. The proof is based on a priori estimates which, in particular, convey uniqueness of weak solutions. The estimates are obtained using Eulerian coordinates, without remapping the problem into a fixed domain.

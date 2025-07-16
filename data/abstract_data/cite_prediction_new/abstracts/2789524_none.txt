@@ -1,0 +1,2 @@
+A Frequency-Domain Analysis of Latch Comparator Offset due to Load Capacitor Mismatch
+This brief presents a frequency-domain analysis of the latch comparator offset due to load capacitor mismatch. Although the analysis is applied to the static latch comparator, the developed method can be extended to the dynamic latch comparator.

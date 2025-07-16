@@ -1,0 +1,18 @@
+The Anglo-Australian Observatory 2dF facility
+The 2dF (Two-degree Field) facility at the prime focus of the Anglo-Australian Telescope provides multiple-object spectroscopy over a 2° field of view. Up to 400 target fibres can be independently positioned by a complex robot. Two spectrographs provide spectra with resolutions of between 500 and 2000, over wavelength ranges of 440 and 110 nm respectively. The 2dF facility began routine observations in 1997. 
+ 
+ 
+ 
+2dF was designed primarily for galaxy redshift surveys and has a number of innovative features. The large corrector lens incorporates an atmospheric dispersion compensator, essential for wide wavelength coverage with small-diameter fibres. The instrument has two full sets of fibres on separate field plates, so that re-configuring can be done in parallel with observing. The robot positioner places one fibre every 6 s, to a precision of 0.3 arcsec (20 μm) over the full field. All components of 2dF, including the spectrographs, are mounted on a 5-m diameter telescope top end ring for ease of handling and to keep the optical fibres short in order to maximize UV throughput. 
+ 
+ 
+ 
+There is a pipeline data reduction system which allows each data set to be fully analysed while the next field is being observed. 
+ 
+ 
+ 
+2dF has achieved its initial astronomical goals. The redshift surveys obtain spectra at the rate of 2500 galaxies per night, yielding a total of about 200 000 objects in the first four years. Typically a B=19 galaxy gives a spectrum with a signal-to-noise ratio of better than 10 per pixel in less than an hour; redshifts are derived for about 95 per cent of all galaxies, with 99 per cent reliability or better. Total system throughput is about 5 per cent. The failure rate of the positioner and fibre system is about 1:10 000 moves or once every few nights, and recovery time is usually short. 
+ 
+ 
+ 
+In this paper we provide the historical background to the 2dF facility, the design philosophy, a full technical description and a summary of the performance of the instrument. We also briefly review its scientific applications and possible future developments.

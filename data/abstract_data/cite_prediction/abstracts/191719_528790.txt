@@ -1,0 +1,2 @@
+Challenges in creating long continuum robots
+We discuss the design and control issues in creating continuous backbone continuum robots at lengths of multiple meters. At this scale, many of the design techniques and materials properties which have proved advantageous in creating continuum robots at smaller scales are not applicable. This leads to problems with reduced load capacity and poor internal stability. Using two example cases, a thin tendril and an extensible pipe, we illustrate the issues and discuss potential successful design alternatives.

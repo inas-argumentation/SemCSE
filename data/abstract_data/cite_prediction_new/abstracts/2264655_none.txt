@@ -1,0 +1,2 @@
+Simpler Approximation of the Maximum Asymmetric Traveling Salesman Problem
+We give a very simple approximation algorithm for the maximum asymmetric traveling salesman problem. The approximation guarantee of our algorithm is 2/3, which matches the best known approximation guarantee by Kaplan, Lewenstein, Shafrir and Sviridenko. Our algorithm is simple to analyze, and contrary to previous approaches, which need an optimal solution to a linear program, our algorithm is combinatorial and only uses maximum weight perfect matching algorithm.

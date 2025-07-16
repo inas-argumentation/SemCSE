@@ -1,0 +1,2 @@
+Surface Charge on an Unapodized Periodic IDT Having J Electrodes
+Abstmct-Galerkin and collocation solutions to the integral equations governing surface charge on periodic arrays yield algebraic equations possessing o n e and two-dimensional Toeplitz structures, respectively. Charge distributions on unapodized surface acoustic wave (SAW) transducers composed of hundreds of electrodes or more can be efficiently determined without resorting to near-neighbor approximations.

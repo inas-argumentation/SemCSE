@@ -1,0 +1,2 @@
+Operation Propagation in Real-Time Group Editors
+Operation propagation refers to the mechanisms and policies used in group editors for the participants to notify each other of their individual editing activities. The timing and granularity of propagation depend on different requirements, such as network bandwidth, session scale, the computational power of the involved sites and the preferences of each user. In this article, we draw on some common design principles in two group editors we have implemented.

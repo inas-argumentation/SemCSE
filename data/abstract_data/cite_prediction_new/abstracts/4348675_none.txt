@@ -1,0 +1,2 @@
+Exponential estimation of generalized state-space time-delay systems
+In this paper, global exponential stability for a class of generalized state-space time-delay systems is considered. Delay-dependent criteria are proposed to guarantee the exponential stability and estimate the convergence rate for the generalized state-space systems with two cases of uncertainties. Finally, some numerical examples are illustrated to show the usefulness of the theory.

@@ -1,0 +1,12 @@
+Bifurcation of critical periods from Pleshkan's isochrones
+Pleshkan proved in 1969 that, up to a linear transformation and a constant rescaling of time,
+there are four isochrones in the family of cubic centers with homogeneous nonlinearities C3. In
+this paper we prove that if we perturb any of these isochrones inside C3, then at most two critical
+periods bifurcate from its period annulus. Moreover, we show that, for each k = 0, 1, 2, there are
+perturbations giving rise to exactly k critical periods. As a byproduct, we obtain a partial result
+for the analogous problem in the family of quadratic centers C2. Loud proved in 1964 that, up
+to a linear transformation and a constant rescaling of time, there are four isochrones in C2. We
+prove that if we perturb three of them inside C2, then at most one critical period bifurcates from
+its period annulus. In addition, for each k = 0, 1, we show that there are perturbations giving rise
+to exactly k critical periods. The quadratic isochronous center that we do not consider displays
+some peculiarities that are discussed at the end of the paper.

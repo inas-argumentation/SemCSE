@@ -1,0 +1,23 @@
+A nomogram for prediction of distant metastasis in children with wilms tumor: A study based on SEER database.
+INTRODUCTION
+Accurate diagnosis of distant metastasis especially uncommon site of metastasis (UCM) in patients with Wilms tumor (WTs) is a demanding prerequisite for administration of appropriate therapy and achieving better survival outcome.
+
+
+OBJECTIVE
+To develop and validate a nomogram to predict probability of distant metastasis, and identify population demanded for rigorous imaging evaluations in children with WTs.
+
+
+MATERIAL AND METHODS
+Data of patients diagnosed with unilateral WTs and aged under 18 years old, were extracted from the Surveillance, Epidemiology, and End Results (SEER) database. The included patients were randomly allocated to the training and the validation cohort. Logistic regression analyses were performed to identify the independent risk factors and develop a predicting model of distant metastasis in WTs. The model-based nomogram was created and internally validated. Cut-off value of nomogram points was derived by using the receiver operating characteristics (ROC) curve analysis. Performance of the nomogram was evaluated in terms of discrimination, calibration and clinical usefulness.
+
+
+RESULTS
+A total 717 WTs patients were included in the study. Age at diagnosis (OR 1.173, 95%CI: 1.079-1.279), LND (OR 8.260, 95%CI: 2.837-24.814) and tumor size (OR 2.141, 95%CI: 1.378-3.329) were identified as the independent risk factors of distant metastasis in WTs. These three factors were incorporated to develop a model and a nomogram. The nomogram presented with good discriminative ability in the training cohort (C-statistics, 0.703) and validation cohort (C-statistics, 0.764), respectively. The calibration curves demonstrated adequate agreement between predicted probability and observed probability of distant metastasis. The nomogram also revealed its clinical usefulness by application of decision curve analysis (DCA). Cut-off value of nomogram points was 58 and its corresponding probability of distant metastasis was 0.22. The value was applied in risk stratification dividing the general cohort into high-risk and low-risk group.
+
+
+DISCUSSION
+Our study for the first time developed and validated a model and a visualized nomogram for individualized prediction of distant metastasis in WTs. C-statistics, calibration curves and DCA demonstrated good performance and clinical usefulness of the nomogram. Patients stratified as high-risk group were demanded for rigorous imaging evaluations to accurately identify UCM.
+
+
+CONCLUSION
+The nomogram, developed by incorporation of three independent risk factors, which are age at diagnosis, LND and tumor size, is used to facilitate individualized prediction of distant metastasis in WTs. Rigorous imaging evaluations are recommended for patients in high-risk group to identify UCM.

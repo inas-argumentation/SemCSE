@@ -1,0 +1,2 @@
+Overlay Multicast with Inferred Link Capacity Correlations
+We model the overlay using linear capacity constraints, which accurately and succinctly capture overlay link correlations. We show that finding a maximum-bandwidth multicast tree in an overlay with LCC is NP-complete and propose an efficient distributed heuristics algorithm.

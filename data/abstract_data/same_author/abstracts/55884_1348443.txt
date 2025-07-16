@@ -1,0 +1,2 @@
+An Efficient Algorithm for the Length-Constrained Heaviest Path Problem on a Tree
+Given a tree with weight and length on each edge, this paper presents an efficient algorithm for locating the length-constrained heaviest path on the tree. The time complexity of the algorithm is O(n log2 n) and can be reduced to O(n log n) if the edge lengths are all integers in the range 1 to O(n), where n is the number of vertices. It is also shown that several similar problems can be solved by the same algorithm.

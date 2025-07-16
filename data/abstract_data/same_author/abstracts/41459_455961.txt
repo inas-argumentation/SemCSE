@@ -1,0 +1,2 @@
+The Approximability of the Exemplar Breakpoint Distance Problem
+In this paper we present the first set of approximation and inapproximability results for the Exemplar Breakpoint Distance Problem. Our inapproximability results hold for the simplest case between only two genomes \({\cal G}\) and \({\cal H}\), each containing only one sequence of genes (possibly with repetitions).

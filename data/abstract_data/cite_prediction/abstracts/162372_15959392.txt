@@ -1,0 +1,2 @@
+Fuzzy clustering with artificial bee colony algorithm
+In this work, performance of the Artificial Bee Colony Algorithm which is a recently proposed algorithm, has been tested on fuzzy clustering. We applied the Artificial Bee Colony (ABC) Algorithm fuzzy clustering to classify different data sets; Cancer, Diabetes and Heart from UCI database, a collection of classification benchmark problems. The results indicate that the performance of Artificial Bee Colony Optimization Algorithm is successful in fuzzy clustering.

@@ -1,0 +1,2 @@
+Gossip based peer sampling
+Gossip based communication protocols are appealing in large scale distributed applications such as information dissemination, aggregation, and overlay topology management. This paper factors out a

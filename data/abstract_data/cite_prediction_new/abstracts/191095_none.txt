@@ -1,0 +1,2 @@
+A Robust Free Size OCR for Omni-Font Persian/Arabic Printed Document Using Combined MLP/SVM
+Optical character recognition of cursive scripts present a number of challenging problems in both segmentation and recognition processes and this attracts many researches in the field of machine learning. This paper presents a novel approach based on a combination of MLP and SVM to design a trainable OCR for Persian/Arabic cursive documents. The implementation results on a comprehensive database show a high degree of accuracy which meets the requirements of commercial use.

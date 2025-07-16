@@ -1,0 +1,2 @@
+A numerical solution of singular integrodifferential equations with variable coefficients
+A method for the numerical solution of singular integrodifferential equations is presented where the integrals are discretized by using a convenient quadrature rule. Then the problem is reduced to a system of linear algebraic equations by applying the discretized functional equation to appropriately selected collocation points. This technique constitutes an extension of an analogous method convenient for solving singular integral equations which was proposed by the authors.

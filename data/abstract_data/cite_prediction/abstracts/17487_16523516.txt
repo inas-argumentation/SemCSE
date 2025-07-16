@@ -1,0 +1,2 @@
+Approximating the Solution of Optimal Control Problems by Fuzzy Systems
+In this paper, the ability of fuzzy systems is used to estimate the solution of crisp optimal control problems. To solve an optimal control problem, first the well-known Euler–Lagrange conditions are obtained and then, the solution of these conditions is approximated by defining a trial solution based on fuzzy systems. The parameters of fuzzy systems are adjusted by an optimization algorithm. Numerical examples and comparisons with exact solutions reveal the capability and accuracy of proposed method.

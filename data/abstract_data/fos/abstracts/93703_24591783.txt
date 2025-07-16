@@ -1,0 +1,15 @@
+Building three-dimensional structures of HIV-1 coreceptor CCR5 and its interaction with antagonist TAK779 by comparative molecular modeling.
+AIM
+To study the mechanism of interaction of CCR5 receptor with its antagonist TAK779.
+
+
+METHODS
+Comparative molecular modeling has been used to develop the 3D-structural models of CCR5 receptor and its complex with TAK779. Molecular mechanics has been applied to optimize the above molecular models. Quantum mechanics has been utilized to calculate the structural information of TAK779. DOCK4.0 program is employed to dock the TAK779 molecular into the binding site of CCR5 receptor.
+
+
+RESULTS
+The 3D-structural model of CCR5 receptor is constructed using the 3D-model of frog rhodopsin as a template. The binding pocket is situated in the transmembrane helices 3, 5, 6, and 7, and it is composed of conserved residues of Tyr108, Gly111, Ser114, Glu283, Gly286, and Cys290, and conservatively varied residues including Thr105, Leu107, Phe112, Gly115, Lys197, and Met287. O1, N7, N17, and O19 of TAK779 are the active center of TAK779. The pyran cycle and the aminium group of TAK779 interact with residues in the binding pocket of CCR5 receptor, the other part of TAK779 interacts with residues from the extracellular loops of CCR5. The binding energy of TAK779 with CCR5 is -51.606 kcal/mol.
+
+
+CONCLUSION
+The model constructed and the interaction mode reported in the present study are useful in further understanding the molecular mechanism of receptor-virus recognition and designing new inhibitors of HIV-1 infection.

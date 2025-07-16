@@ -1,0 +1,2 @@
+Realistic Deformation of Human Body Shapes
+In this paper we propose a new, generic, multi layered model for automating the deformations of the skin of human characters based on physiological and anatomical considerations. Muscle motion and deformation is automatically derived from an action line that is deformed using a 1D mass spring system. We cover the muscle layer with a viscoelastic fat layer that concentrates the crucial dynamics effects of the animation. We present results on a female upper torso.

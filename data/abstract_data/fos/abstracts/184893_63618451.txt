@@ -1,0 +1,2 @@
+Design of EC Website Search Engine Based on Compass
+Describes the full text search technology and the functions of Lucene and Compass. With the framework Compass, introduces how to use it to realize a search engine for e -commerce WebSite. Compass framework integrates with Spring and Hibernate will greatly facilitate the use of the developers, it will also improve the enterprise application development efficiency.

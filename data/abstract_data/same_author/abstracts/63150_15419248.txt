@@ -1,0 +1,8 @@
+Practical Secure Evaluation of Semi-Private Functions
+Two-party Secure Function Evaluation (SFE) is a very useful cryptographic tool which allows two parties to evaluate a function known to both parties on their private (secret) inputs. Some applications with sophisticated privacy needs require the function to be known only to one party and kept private (hidden) from the other one. However, existing solutions for SFE of private functions (PF-SFE) deploy Universal Circuits (UC) and are still very inefficient in practice. 
+ 
+In this paper we bridge the gap between SFE and PF-SFE with SFE of what we call semi-private functions (SPF-SFE), i.e., one function out of a given class of functions is evaluated without revealing which one. 
+ 
+We present a general framework for SPF-SFE allowing a fine-grained trade-off and tuning between SFE and PF-SFE covering both extremes. In our framework, semi-private functions can be composed from several privately programmable blocks (PPB) which can be programmed with one function out of a class of functions. The framework allows efficient and secure embedding of constants into the resulting circuit to improve performance. To show practicability of the framework we have implemented a compiler for SPF-SFE based on the Fairplay SFE framework. 
+ 
+SPF-SFE is sufficient for many practically relevant privacy-preserving applications, such as privacy-preserving credit checking which can be implemented with our framework and compiler as described in the paper.

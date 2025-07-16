@@ -1,0 +1,15 @@
+Bayesian sparse hidden components analysis for transcription regulation networks
+MOTIVATION
+In systems like Escherichia Coli, the abundance of sequence information, gene expression array studies and small scale experiments allows one to reconstruct the regulatory network and to quantify the effects of transcription factors on gene expression. However, this goal can only be achieved if all information sources are used in concert.
+
+
+RESULTS
+Our method integrates literature information, DNA sequences and expression arrays. A set of relevant transcription factors is defined on the basis of literature. Sequence data are used to identify potential target genes and the results are used to define a prior distribution on the topology of the regulatory network. A Bayesian hidden component model for the expression array data allows us to identify which of the potential binding sites are actually used by the regulatory proteins in the studied cell conditions, the strength of their control, and their activation profile in a series of experiments. We apply our methodology to 35 expression studies in E.Coli with convincing results.
+
+
+AVAILABILITY
+www.genetics.ucla.edu/labs/sabatti/software.html
+
+
+SUPPLEMENTARY INFORMATION
+The supplementary material are available at Bioinformatics online.

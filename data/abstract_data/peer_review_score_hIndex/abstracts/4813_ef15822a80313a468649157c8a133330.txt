@@ -1,0 +1,19 @@
+Bractivate: Dendritic Branching in Medical Image Segmentation Neural Architecture Search
+Researchers manually compose most neural networks through painstaking experimentation.
+This process is taxing and explores only a limited subset of possible
+architecture. Researchers design architectures to address objectives ranging from low
+space complexity to high accuracy through hours of experimentation. Neural architecture
+search (NAS) is a thriving field for automatically discovering architectures
+achieving these same objectives. Addressing these ever-increasing challenges in
+computing, we take inspiration from the brain because it has the most efficient
+neuronal wiring of any complex structure; its physiology inspires us to propose
+Bractivate, a NAS algorithm inspired by neural dendritic branching. An evolutionary algorithm that adds new skip connection combinations to the most active blocks in the network, propagating salient
+information through the network. We apply our methods to lung x-ray, cell nuclei
+microscopy, and electron microscopy segmentation tasks to highlight Bractivate's robustness.
+Moreover, our ablation studies emphasize dendritic branching's necessity: ablating
+these connections leads to significantly lower model performance. We finally
+compare our discovered architecture with other state-of-the-art UNet models,
+highlighting how efficient skip connections allow Bractivate to achieve comparable
+results with substantially lower space and time complexity, proving how
+Bractivate balances efficiency with performance. We invite you to work with our
+code here: \href{https://tinyurl.com/bractivate}{\textcolor{violet}{https://tinyurl.com/bractivate}}.

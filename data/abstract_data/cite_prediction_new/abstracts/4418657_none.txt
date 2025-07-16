@@ -1,0 +1,2 @@
+A new current sensor based on MagFET highly immune to EMI
+This paper deals with the susceptibility to electromagnetic interference of CMOS integrated current sensors for power transistor current monitoring. Conventional integrated solution are first considered, hence a new integrated current sensor based on the Hall effect in MOS transistors (MagFET) is proposed. The susceptibility to radio frequency interference of a conventional (wired) current sensor and that of the MagFET-based solution is discussed.

@@ -1,0 +1,2 @@
+Multilevel multipole and local operators for potentials of the form r-lambda
+This paper presents multilevel multipole and local operators for potentials of the form r − λ . A new addition theorem which enables the construction of the multilevel operators is stated and proved. Simulations of the new operators are presented that indicate the reduction of error with increasing number of multipoles and O ( N ) complexity of the method.

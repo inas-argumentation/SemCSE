@@ -1,0 +1,4 @@
+Computations of critical groups and periodic solutions for asymptotically linear Hamiltonian systems
+The purpose of this paper is two-fold. Firstly, we will give some parabolic-like conditions which improve the well-known angle conditions and allow further computations of the critical groups both at degenerate critical points and at infinity. As an application, we then consider the second-order Hamiltonian systems 
+u″(t)+∇H(t,u(t))=0,t∈R, 
+where H:R×RN→R is T-periodic in its first variable and ∇H is asymptotically linear both at origin and at infinity. Based on the computations of the critical groups and the Morse theory, we obtain the existence and multiplicity results for periodic solutions under new classes of conditions. It turns out that our main results improve sharply some known results in the literature.

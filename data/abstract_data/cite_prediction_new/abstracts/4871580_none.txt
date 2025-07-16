@@ -1,0 +1,2 @@
+Delphi application for face detection using the sobel operator
+The subject of this work is a face detection. Face detection is the process of determining the positions and sizes of human faces in photos using computer technology. This is a very complex problem which has many solutions with different algorithms. Automatic face detection is the first step in recognizing faces, which leads to much greater opportunities, such as face recognition instead of password for email accounts, or automated banking machine.

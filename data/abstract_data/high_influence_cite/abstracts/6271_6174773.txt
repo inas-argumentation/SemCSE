@@ -1,0 +1,2 @@
+Geometric PSO + GP = Particle Swarm Programming
+Geometric particle swarm optimization (GPSO) is a recently introduced formal generalization of traditional particle swarm optimization (PSO) that applies naturally to both continuous and combinatorial spaces. In this paper we apply GPSO to the space of genetic programs represented as expression trees, uniting the paradigms of genetic programming and particle swarm optimization. The result is a particle swarm flying through the space of genetic programs. We present initial experimental results for our new algorithm.

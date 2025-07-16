@@ -1,0 +1,2 @@
+A Note on Support Vector Density Estimation for the Deconvolution Problem
+The problem of support vector density estimation is studied when the sample observations are contaminated with random noise. A procedure based on support vector method and the Fourier transform is presented and is compared with kernel density estimators by the simulation study.

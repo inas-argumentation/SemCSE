@@ -1,0 +1,2 @@
+Convergence of Translation Memory and Statistical Machine Translation
+We present two methods that merge ideas from statistical machine translation (SMT) and translation memories (TM). We use a TM to retrieve matches for source segments, and replace the mismatched parts with instructions to an SMT system to fill in the gap. We show that for fuzzy matches of over 70%, one method outperforms both SMT and TM baselines.

@@ -1,0 +1,2 @@
+Multiple Skip Connections and Dilated Convolutions for Semantic Segmentation
+We propose a scale-aware semantic segmentation method specifically for small objects. The contributions of this method are 1) to feed the features of a small region by using multiple skip connections, and 2) to extract context from multiple receptive fields by using multiple dilated convolution blocks. The proposed method has achieved high accuracy in the Cityscapes dataset. In comparison with state-of-the-art methods, it has achieved a comparative performance in category IoU and iIoU metrics.

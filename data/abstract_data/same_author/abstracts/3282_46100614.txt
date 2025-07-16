@@ -1,0 +1,2 @@
+Active shape and depth extraction from shadow images
+We present a recursive estimation scheme for determining surface shape and depth. This technique relies on the control over the way in which shadows are cast in scenes, through variation of the position of illuminant. The estimation process is based on the iterated extended Kalman filter, with a near-optimal control of the movement of the light source to reduce the sensitivity of the state estimate to the sensory noise.<<ETX>>

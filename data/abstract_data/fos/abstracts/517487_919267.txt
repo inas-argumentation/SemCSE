@@ -1,0 +1,8 @@
+On The Broadcast and Validity-Checking Security of PKCS \#1 v1.5 Encryption
+This paper describes new attacks on pkcs#1 v1.5, a deprecated but still widely used rsa encryption standard. 
+ 
+The first cryptanalysis is a broadcast attack, allowing the opponent to reveal an identical plaintext sent to different recipients. This is nontrivial because different randomizers are used for different encryptions (in other words, plaintexts coincide only partially). 
+ 
+The second attack predicts, using a single query to a validity checking oracle, which of two chosen plaintexts corresponds to a challenge ciphertext. The attack's success odds are very high. 
+ 
+The two new attacks rely on different mathematical tools and underline the need to accelerate the phase out of pkcs#1 v1.5.

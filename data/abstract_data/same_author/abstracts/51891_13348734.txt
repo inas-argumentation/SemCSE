@@ -1,0 +1,11 @@
+Growing genetic regulatory networks from seed genes
+MOTIVATION
+A number of models have been proposed for genetic regulatory networks. In principle, a network may contain any number of genes, so long as data are available to make inferences about their relationships. Nevertheless, there are two important reasons why the size of a constructed network should be limited. Computationally and mathematically, it is more feasible to model and simulate a network with a small number of genes. In addition, it is more likely that a small set of genes maintains a specific core regulatory mechanism.
+
+
+RESULTS
+Subnetworks are constructed in the context of a directed graph by beginning with a seed consisting of one or more genes believed to participate in a viable subnetwork. Functionalities and regulatory relationships among seed genes may be partially known or they may simply be of interest. Given the seed, we iteratively adjoin new genes in a manner that enhances subnetwork autonomy. The algorithm is applied using both the coefficient of determination and the Boolean-function influence among genes, and it is illustrated using a glioma gene-expression dataset.
+
+
+AVAILABILITY
+Software for the seed-growing algorithm will be available at the website for Probabilistic Boolean Networks: http://www2.mdanderson.org/app/ilya/PBN/PBN.htm

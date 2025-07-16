@@ -1,0 +1,2 @@
+A 9Onm CMOS 0.28mm2 1V 12b 40MS/s ADC with 0.39pJ/Conversion-Step
+A 1V 12b 40MS/s pipelined ADC using a proposed two stage folded cascaded opamp for low voltage and a proposed frequency compensation technique for fast settling achieves a FOM of 0.39pJ/conversion-step. The prototype ADC implemented in a 90nm digital CMOS process with an active die area of 0.28mm2 consumes 16mW from a 1V power supply. It shows 62dB SNDR and 73dB SFDR for a 5 MHz input at a 40MHz sampling clock.

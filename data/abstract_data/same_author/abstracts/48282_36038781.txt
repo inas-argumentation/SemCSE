@@ -1,0 +1,2 @@
+A proof of the Gilbert-Pollak conjecture on the Steiner ratio
+LetP be a set ofn points on the euclidean plane. LetLs(P) andLm(P) denote the lengths of the Steiner minimum tree and the minimum spanning tree onP, respectively. In 1968, Gilbert and Pollak conjectured that for anyP,Ls(P)≥(√3/2)Lm(P). We provide a proof for their conjecture in this paper.

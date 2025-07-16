@@ -1,0 +1,2 @@
+Data and Information Quality
+ion: multiple levels of description, summary Presentation, visualization Interoperability Combining provenance produced by multiple different systems Comparison Finding what is in common in the provenance of two or more entities (e.g., two experimental results) Accountability The ability to check the provenance of an object with respect to some expectation Verification of a set of requirements Compliance with a set of policies

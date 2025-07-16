@@ -1,0 +1,2 @@
+Digital multiphase buck converter with current balance/phase shedding control
+This paper presents a 2-phase interleaved buck converter which both has current balance and phase shedding control. These methods have been incorporated into high current multiphase converters in the past. But in this paper, it operates under low current situation which meets the portable device specification. A voltage mode digital controller in FPGA implementation is described. Experimental results are obtained for a 1 MHz, 1V/0.8A 2-phase voltage mode buck regulator.

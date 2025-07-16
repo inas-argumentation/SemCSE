@@ -1,0 +1,15 @@
+A post-processing method based on interphase motion correction and averaging to improve image quality of 4D magnetic resonance imaging: a clinical feasibility study.
+METHODS:
+Nine patients (seven pancreas, one liver, and one lung) were recruited. 4D-MRI was performed using two prototype k-space sorted techniques, stack-of-stars (SOS) and koosh-ball (KB) acquisitions. Post-processing using MoCoAve was implemented for both methods. Image quality score, apparent SNR (aSNR), sharpness, motion trajectory and standard deviation (σ_GTV) of the gross tumor volumes were compared between original and MoCoAve image sets.
+
+
+RESULTS:
+All subjects successfully underwent 4D-MRI scans and MoCoAve was performed on all data sets. Significantly higher image quality scores (2.64 ± 0.39 vs 1.18 ± 0.34, p = 0.001) and aSNR (37.6 ± 15.3 vs 18.1 ± 5.7, p = 0.001) was observed in the MoCoAve images when compared to the original images. High correlation in tumor motion trajectories in the superoinferior direction (SI: 0.91 ± 0.08) and weaker in the anteroposterior (AP: 0.51 ± 0.44) and mediolateral (ML: 0.37 ± 0.23) directions, similar image sharpness (0.367 ± 0.068 vs 0.369 ± 0.072, p = 0.805), and minimal average absolute difference (0.47 ± 0.34  mm) of the motion trajectory profiles was found between the two image sets. The σ_GTV in pancreas patients was significantly (p = 0.039) lower in MoCoAve images (1.48 ± 1.35  cm3) than in the original images (2.17 ± 1.31  cm3).
+
+
+CONCLUSION:
+MoCoAve using interphase motion correction and averaging has shown promise as a post-processing method for improving k-space sorted (SOS and KB) 4D-MRI image quality in thoracic and abdominal cancer patients.
+
+
+ADVANCES IN KNOWLEDGE:
+The proposed method is an image based post-processing method that could be applied to many k-space sorted 4D-MRI methods for improved image quality and signal-to-noise ratio while preserving image sharpness and respiratory motion fidelity. It is a useful technique for the radiotherapy planning community who are interested in using 4D-MRI but aren't satisfied with their current MR image quality.

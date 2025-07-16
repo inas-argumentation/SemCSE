@@ -1,0 +1,2 @@
+An Alternative Interpretation of Structured Light System Data
+This paper describes an alternative approach to interpreting the data from a temporarily encoded structured light system. Instead of focusing on the stripes generated in the image by such a sensor, the transitions between stripes are of primary importance. Instead of using substripe interpolation to estimate the projector coordinate at image pixel centres and back-projecting these to 3D points, only the transitions are projected. This leads to higher accuracy 3D data.

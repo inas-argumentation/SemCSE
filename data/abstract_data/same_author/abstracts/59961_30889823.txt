@@ -1,0 +1,2 @@
+Tight bounds on the complexity of cascaded decomposition of automata
+Exponential upper and lower bounds on the size of the cascaded (Krohn-Rhodes) decomposition of automata are given. These results are used to obtain elementary algorithms for various translations between automata and temporal logic, where the previously known translations were nonelementary. The relevance of the result is discussed.<<ETX>>

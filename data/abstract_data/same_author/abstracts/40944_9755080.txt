@@ -1,0 +1,2 @@
+A 1.2V buck converter with a novel on-chip low-voltage current-sensing scheme
+A low-voltage on-chip current-sensing circuit for buck power converter is proposed. The minimum supply voltage of the proposed current-sensing circuit is 1.2V (where V/sub th/ = 0.85V at room temperature), and the sensing accuracy is higher than 94%. The proposed buck converter is able to operate at a 1.2-V supply with higher than 98% power-conversion efficiency and with a maximum output current of 120mA.

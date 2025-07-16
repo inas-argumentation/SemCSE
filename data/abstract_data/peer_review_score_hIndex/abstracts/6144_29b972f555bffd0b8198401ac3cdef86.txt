@@ -1,0 +1,7 @@
+Finite-Time Convergence and Sample Complexity of Multi-Agent Actor-Critic Reinforcement Learning with Average Reward
+In this paper, we establish the first finite-time convergence result of the actor-critic algorithm for fully decentralized multi-agent reinforcement learning (MARL) problems with average reward. 
+In this problem, a set of $N$ agents work cooperatively to maximize the global average reward through interacting with their neighbors over a communication network.
+We consider a practical MARL setting, where the rewards and actions of each agent are only known to itself, and the knowledge of joint actions of the agents is not assumed. 
+Toward this end, we propose a mini-batch Markovian sampled fully decentralized actor-critic algorithm and analyze its finite-time convergence and sample complexity.
+We show that the sample complexity of this algorithm is $\mathcal{O}(N^{2}/\epsilon^{2}\log(N/\epsilon))$.
+Interestingly, this sample complexity bound matches that of the state-of-the-art single-agent actor-critic algorithms for reinforcement learning. 

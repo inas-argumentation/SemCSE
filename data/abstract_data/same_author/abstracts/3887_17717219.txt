@@ -1,0 +1,2 @@
+Construction of low-density parity-check codes based on balanced incomplete block designs
+This correspondence presents a method for constructing structured regular low-density parity-check (LDPC) codes based on a special type of combinatoric designs, known as balance incomplete block designs. Codes constructed by this method have girths at least 6 and they perform well with iterative decoding. Furthermore, several classes of these codes are quasi-cyclic and hence their encoding can be implemented with simple feedback shift registers.

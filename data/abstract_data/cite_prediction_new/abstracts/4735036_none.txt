@@ -1,0 +1,2 @@
+Lifetime-aware provisioning in green optical backbone networks
+We present a framework able to limit the device lifetime degradation in optical backbone networks using sleep-mode-based green strategies. Results show that our approach manages the lifetime while not compromising significantly the energy saving performance.

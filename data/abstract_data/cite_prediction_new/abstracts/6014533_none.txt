@@ -1,0 +1,2 @@
+Accelerating Emulation and Providing Full Chip Observability and Controllability
+The authors deploy an emulation framework that automatically transforms certain hardware description language (HDL) parts of the testbench into synthesizable code to offload the software simulator and minimize the communication overhead. They also extend this architecture by adding multiple fast scan chain paths in the design to provide full circuit observability and controllability on the fly.

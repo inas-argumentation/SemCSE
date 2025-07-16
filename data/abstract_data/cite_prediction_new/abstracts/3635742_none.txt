@@ -1,0 +1,19 @@
+Iterative reconstruction for sparse-view x-ray CT using alpha-divergence constrained total generalized variation minimization.
+BCKGROUND
+Accurate statistical model of the measured projection data is essential for computed tomography (CT) image reconstruction. The transmission data can be described by a compound Poisson distribution upon an electronic noise background. However, such a statistical distribution is numerically intractable for image reconstruction.
+
+
+OBJECTIVE
+Although the sinogram data is easily manipulated, it lacks a statistical description for image reconstruction. To address this problem, we present an alpha-divergence constrained total generalized variation (AD-TGV) method for sparse-view x-ray CT image reconstruction.
+
+
+METHODS
+The AD-TGV method is formulated as an optimization problem, which balances the alpha-divergence (AD) fidelity and total generalized variation (TGV) regularization in one framework. The alpha-divergence is used to measure the discrepancy between the measured and estimated projection data. The TGV regularization can effectively eliminate the staircase and patchy artifacts which is often observed in total variation (TV) regularization. A modified proximal forward-backward splitting algorithm was proposed to minimize the associated objective function.
+
+
+RESULTS
+Qualitative and quantitative evaluations were carried out on both phantom and patient data. Compared with the original TV-based method, the evaluations clearly demonstrate that the AD-TGV method achieves higher accuracy and lower noise, while preserving structural details.
+
+
+CONCLUSIONS
+The experimental results show that the presented AD-TGV method can achieve more gains over the AD-TV method in preserving structural details and suppressing image noise and undesired patchy artifacts. The authors can draw the conclusion that the presented AD-TGV method is potential for radiation dose reduction by lowering the milliampere-seconds (mAs) and/or reducing the number of projection views.

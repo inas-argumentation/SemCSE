@@ -1,0 +1,2 @@
+Research and Implementation of Finding Duplicate Science Project Based on Dimension Filtering of Q-gram Index
+Because of the huge number and the dimensions sparseness of the scientific research text set, a new similarity search algorithm for the scientific research text set is proposed, which is based on the weights of the q-gram. The algorithm can greatly reduce the number of dimensions, and then quickly find the similar text. Experiments show that the time consumption and the space consumption are decreased largely for the huge text set, and it has a high accuracy rate.

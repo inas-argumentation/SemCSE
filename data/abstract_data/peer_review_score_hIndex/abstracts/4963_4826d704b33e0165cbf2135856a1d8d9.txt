@@ -1,0 +1,9 @@
+HYPOCRITE: Homoglyph Adversarial Examples for Natural Language Web Services in the Physical World
+Recently, as Artificial Intelligence (AI) develops, many companies in various industries are trying to use AI by grafting it into their domains.
+Also, for these companies, various cloud companies (e.g., Amazon, Google, IBM, and Microsoft) are providing AI services as the form of Machine-Learning-as-a-Service (MLaaS).
+However, although these AI services are very advanced and well-made, security vulnerabilities such as adversarial examples still exist, which can interfere with normal AI services.
+This paper demonstrates a HYPOCRITE for hypocrisy that generates homoglyph adversarial examples for natural language web services in the physical world. This  hypocrisy can disrupt normal AI services provided by the cloud companies.
+The key idea of HYPOCRITE is to replace English characters with other international  characters that look similar to them in order to give the dataset noise to the AI engines.
+By using this key idea, parts of text can be appropriately replaced with subtext with malicious meaning through black-box attacks for natural language web services in order to cause misclassification.
+In order to show attack potential by HYPOCRITE, this paper implemented a framework that makes homoglyph adversarial examples for natural language web services in the physical world and evaluated the performance under various conditions.
+Through extensive experiments, it is shown that HYPOCRITE is more effective than other baseline in terms of both attack success rate and perturbed ratio.

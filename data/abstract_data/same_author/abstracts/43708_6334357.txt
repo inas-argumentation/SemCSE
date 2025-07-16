@@ -1,0 +1,2 @@
+An energy-conserved on-demand data broadcasting system
+We propose in this paper an energy-conserved on-demand data broadcasting system by employing the data indexing technique. We also propose algorithm AIDOA to adjust the degree of buckets according to system workload. Experimental results show that algorithm AIDOA is able to greatly reduce power consumption at the cost of slight increment in average access time and adjust the index and data organization dynamically to adapt to change of system workload.

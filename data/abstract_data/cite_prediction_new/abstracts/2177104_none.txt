@@ -1,0 +1,2 @@
+Direct Simulation Monte Carlo (DSMC) Algorithm – A Comparison of Mathematica Code with FLUENT 6.2 for Low Knudsen Number
+—A code has been developed in Mathematica using Direct Simulation Monte Carlo (DSMC) technique. The code was tested for 2-D air flow around a circular cylinder. Same geometry and flow properties were used in FLUENT 6.2 for comparison. The results obtained from Mathematica simulation indicated significant agreement with FLUENT calculations, hence providing insight into particle nature of fluid flows.

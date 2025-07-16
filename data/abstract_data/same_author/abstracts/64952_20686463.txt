@@ -1,0 +1,8 @@
+Similarity searching in files of three-dimensional chemical structures: Comparison of fragment-based measures of shape similarity
+This paper compares several fragment-based measures that can be used to quantify the degree of similarity 
+between pairs of three-dimensional (3-D) chemical structures. The fragments that are considered contain two, 
+three, or four atoms and encode distance information, angular information or both but do not involve chemical 
+information such as atomic type. The effectiveness of the various measures is compared using eight literature 
+datasets for which biological-activity data and calculated 3-D structures are available, and a set of carbohydrate 
+structures from the Cambridge Structural Database that have been classified into eight distinct groups. 
+Similarity searches on these datasets suggest that the four-atom fragments are the most effective.

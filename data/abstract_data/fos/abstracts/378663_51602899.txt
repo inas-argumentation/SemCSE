@@ -1,0 +1,2 @@
+Efficient Evaluation of Low Degree Multivariate Polynomials in Ring-LWE Homomorphic Encryption Schemes
+Homomorphic encryption schemes allow to perform computations over encrypted data. In schemes based on RLWE assumption the plaintext data is a ring polynomial. In many use cases of homomorphic encryption only the \(\text {degree-}0\) coefficient of this polynomial is used to encrypt data. In this context any computation on encrypted data can be performed. It is trickier to perform generic computations when more than one coefficient per ciphertext is used.

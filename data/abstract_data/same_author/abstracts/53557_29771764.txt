@@ -1,0 +1,2 @@
+Low-cost diagnosis of defects in MCM substrate interconnections
+Consistent with industry needs for low-cost MCM substrate test methods, we have earlier developed a single-probe technique for detecting near-opens and near-shorts in substrate interconnects. In this paper we show how a fault-dictionary can be used to accurately determine defect location, size, etc. Such information may be used to perform repair of MCM substrates.

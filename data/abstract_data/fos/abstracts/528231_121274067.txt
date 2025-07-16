@@ -1,0 +1,2 @@
+Bayesian analysis of the multivariate poisson distribution
+The paper presents a Bayesian analysis of the multivariate Poisson distribution, based on Gibbs sampling with data augmentation. This computational approach to the Bayesian integration problem, avoids explicit computation of the probability mass function via approximations or recursive calculations. The new method is shown to perform well in artificial examples as well as in an environmental pollution data set.

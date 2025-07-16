@@ -1,0 +1,2 @@
+A computational model for TensorFlow: an introduction
+TensorFlow is a powerful, programmable system for machine learning. This paper aims to provide the basics of a conceptual framework for understanding the behavior of TensorFlow models during training and inference: it describes an operational semantics, of the kind common in the literature on programming languages. More broadly, the paper suggests that a programming-language perspective is fruitful in designing and in explaining systems such as TensorFlow.

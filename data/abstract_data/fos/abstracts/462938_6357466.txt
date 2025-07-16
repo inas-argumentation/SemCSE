@@ -1,0 +1,2 @@
+A hybrid model for specifying features and detecting interactions
+This paper presents a formal modeling and analysis technique for automatically detecting interactions in feature specifications. The model is based on state-transition machines annotated with logic assertions that express constraints on the behaviour of the system. Specifications are composed into a reachability graph, and the graph is searched for feature interactions. The new model and analysis techniques are evaluated with respect to the Feature Interaction Detection Contest benchmark.

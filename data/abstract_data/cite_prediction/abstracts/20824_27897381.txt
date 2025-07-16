@@ -1,0 +1,2 @@
+Five-step FFT algorithm with reduced computational complexity
+We propose a fast Fourier transform algorithm, which removes two steps of twiddle factor multiplications from the conventional five-step FFT algorithm. The proposed FFT algorithm not only reduces the computational complexity of the five-step FFT algorithm by O(n) operations, but also reduces its memory requirement. © 2006 Elsevier B.V. All rights reserved.

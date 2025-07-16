@@ -1,0 +1,11 @@
+Reverse rate dependency is an intrinsic property of canine cardiac preparations.
+AIMS
+Class III antiarrhythmic agents exhibit reverse rate-dependent lengthening of the action potential duration (APD). In spite of the several theories developed so far to explain this reverse rate dependency (RRD), its mechanism has not yet been clarified. The aim of the present work was to further elucidate the mechanisms responsible for reverse rate-dependent drug effects.
+
+
+METHODS AND RESULTS
+Action potentials were recorded from multicellular canine ventricular preparations and isolated cardiomyocytes, at cycle lengths (CLs) varying from 0.3 to 5 s, using conventional sharp microelectrodes. APD was either modified by applying inward and outward current pulses, or by superfusion of agents known to lengthen and shorten APD. Net membrane current (I(m)) was calculated from action potential waveforms. The hypothesis that RRD may be implicit in the relationship between I(m) and APD was tested by numerical modelling. Both drug-induced lengthening (by veratrine, BAY-K 8644, dofetilide, and BaCl(2)) and shortening (by lidocaine and nicorandil) of action potentials displayed RRD, i.e. changes in APD were greater at longer than at shorter CL. A similar dependency of effect on CL was found when repolarization was modified by injection of inward or outward current pulses. I(m) measured at various points during repolarization was inversely proportional to APD and to CL. Model simulations showed that RRD is expected as a consequence of the non-linearity of the relationship between I(m) and APD.
+
+
+CONCLUSION
+RRD of APD modulation is shared, although with differences in magnitude, by interventions of very different nature. RRD can be interpreted as a consequence of the relationship between I(m) and APD and, as such, is expected in all species having positive APD-CL relationship. This implies that the development of agents prolonging APD with direct rate dependency, or even completely devoid of RRD, may be difficult to achieve.

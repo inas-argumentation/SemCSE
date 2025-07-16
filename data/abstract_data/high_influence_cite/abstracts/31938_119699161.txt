@@ -1,0 +1,8 @@
+Singular Adams inequality for biharmonic operator on Heisenberg Group and its applications
+AbstractThe goal of this paper is to establish singular Adams type inequality for biharmonic operator on Heisenberg group. As an application, we establish the existence of a solution to
+$$\Delta_{\mathbb{H}^n}^2 u=\frac{f(\xi,u)}{\rho(\xi)^a}
+\,\,\text{ in
+}
+\Omega,\,\, u|_{\partial\Omega}=0=\left.\frac{\partial u}{\partial
+\nu}
+\right|_{\partial\Omega},$$ΔHn2u=f(ξ,u)ρ(ξ)ainΩ,u|∂Ω=0=∂u∂ν∂Ω,where $${0\in \Omega \subseteq \mathbb{H}^4}$$0∈Ω⊆H4 is a bounded domain, $$0 \leq a \leq Q,\,(Q=10).$$0≤a≤Q,(Q=10). The special feature of this problem is that it contains an exponential nonlinearity and singular potential.

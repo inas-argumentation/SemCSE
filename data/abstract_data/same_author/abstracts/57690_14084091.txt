@@ -1,0 +1,2 @@
+Lower bound for the number of nodes of cubature formulae on the unit ball
+A lower bound for positive cubature formulae on the unit ball is given. For the Chebyshev weight function on the ball in R2, the new bound shows that a positive cubature formula of degree s with all nodes inside the ball will need at least Ns≥0.13622s2(1 + O(s-1)) number of nodes, in comparison with the classical lower bound of Ns≥0.125s2(1 + O(s-1)).

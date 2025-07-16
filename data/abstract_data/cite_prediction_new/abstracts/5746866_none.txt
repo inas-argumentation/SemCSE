@@ -1,0 +1,2 @@
+A Prototype Framework for Knowledge-Based Analog Circuit Synthesis
+An organization for a knowledge-based analog circuit synthesis tool is described. Analog circuit topologies are represented as a hierarchy of functional blocks; a planning mechanism is introduced to translate performance specifications between levels in this circuit hierarchy. A prototype implementation, OASYS, synthesizes sized transistor schematics for simple CMOS operational amplifiers from performance specifications and process parameters, and demonstrates the workability of the approach.

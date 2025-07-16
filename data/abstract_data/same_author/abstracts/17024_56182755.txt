@@ -1,0 +1,2 @@
+TRACK FINDING AND FITTING IN THE H1 FORWARD TRACK DETECTOR
+Abstract The tracking environment in the H1 Forward Track Detector, where the hit multiplicity from proton fragments is high, is particularly hostile. The techniques and software which have been developed for pattern recognition and Kalman fitting of charged particle tracks in this region are described in detail.

@@ -1,0 +1,19 @@
+Myocardial edema as detected by pre-contrast T1 and T2 CMR delineates area at risk associated with acute myocardial infarction.
+OBJECTIVES
+The aim of this study was to determine whether cardiac magnetic resonance (CMR) in vivo T1 mapping can measure myocardial area at risk (AAR) compared with microspheres or T2 mapping CMR.
+
+
+BACKGROUND
+If T2-weighted CMR is abnormal in the AAR due to edema related to myocardial ischemia, then T1-weighted CMR should also be able to detect and accurately quantify AAR.
+
+
+METHODS
+Dogs (n = 9) underwent a 2-h coronary occlusion followed by 4 h of reperfusion. CMR of the left ventricle was performed for mapping of T1 and T2 prior to any contrast administration. AAR was defined as regions that had a T1 or T2 value (ms) >2 SD from remote myocardium, and regions with microsphere blood flow (ml/min/g) during occlusion <2 SD from remote myocardium. Infarct size was determined by triphenyltetrazolium chloride staining.
+
+
+RESULTS
+The relaxation parameters T1 and T2 were increased in the AAR compared with remote myocardium (mean ± SD: T1, 1,133 ± 55 ms vs. 915 ± 33 ms; T2, 71 ± 6 ms vs. 49 ± 3 ms). On a slice-by-slice basis (n = 78 slices), AAR by T1 and T2 mapping correlated (R(2) = 0.95, p < 0.001) with good agreement (mean ± 2 SD: 0.4 ± 16.6% of slice). On a whole-heart analysis, T1 measurements of left ventricular mass, AAR, and myocardial salvage correlated to microsphere measures (R(2) = 0.94) with good agreement (mean ± 2 SD: -1.4 ± 11.2 g of myocardium). Corresponding T2 measurements of left ventricular mass, AAR, and salvage correlated to microsphere analysis (R(2) = 0.96; mean ± 2 SD: agreement 1.6 ± 9.2 g of myocardium). This yielded a median infarct size of 30% of the AAR (range 12% to 52% of AAR).
+
+
+CONCLUSIONS
+For determining AAR after acute myocardial infarction, noncontrast T1 mapping and T2 mapping sequences yield similar quantitative results, and both agree well with microspheres. The relaxation properties T1 and T2 both change in a way that is consistent with the presence of myocardial edema following myocardial ischemia/reperfusion.

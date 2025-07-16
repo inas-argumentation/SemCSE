@@ -1,0 +1,2 @@
+Global asymptotic stability of a family of difference equations
+In this paper, we study the difference equation {x"n=[f"1f"2f"3+f"1+f"2+f"3+hf"1f"2+f"1f"3+f"2f"3+g+h](x"n"-"1,...,x"n"-"r),n=1,2,...x"1"-"r,x"2"-"r,...,x"0>0, where f"1,f"2,f"3,g:(R"+)^r->R"+ and h:(R"+)^r->[0,+~) are all continuous functions. We present a sufficient condition for this difference equation to have a globally asymptotically stable equilibrium c=1. This condition generalizes some previous results.

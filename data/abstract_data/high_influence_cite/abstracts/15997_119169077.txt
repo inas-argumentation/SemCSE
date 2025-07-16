@@ -1,0 +1,2 @@
+A Kneser-type theorem for backward doubly stochastic differential equations
+A class of backward doubly stochastic differential equations (BDSDEs in short) with continuous coefficients is studied. We give the comparison theorems, the existence of the maximal solution and the structure of solutions for BDSDEs with continuous coefficients. A Kneser-type theorem for BDSDEs is obtained. We show that there is either unique or uncountable solutions for this kind of BDSDEs.

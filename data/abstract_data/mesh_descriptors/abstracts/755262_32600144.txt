@@ -1,0 +1,15 @@
+Clinical application of a novel hybrid intensity-modulated radiotherapy technique for stage III lung cancer and dosimetric comparison with four other techniques.
+PURPOSE
+In large stage III lung tumors, planning delivery of doses exceeding 60 Gy can be challenging and time consuming. Intensity modulated radiation therapy (IMRT) can improve target coverage but may increase volumes receiving low-dose irradiation. We clinically implemented a novel hybrid IMRT (h-IMRT) technique that allowed plans to be produced quickly, and compared these plans with 4 other techniques.
+
+
+METHODS AND MATERIALS
+h-IMRT was used to treat 14 consecutive patients with planning target volumes (PTVs) exceeding 500 cm(3) (average, 779 cm(3)) with concurrent chemo-radiation therapy to 66 Gy. h-IMRT plans consisted of 2 components: an anterior-posterior/posterior-anterior/posterior-anterior (AP-PA-PA) oblique, open-field technique delivering an average dose of 58 Gy, plus a 3-field IMRT component optimized to achieve a final homogeneous dose of 66 Gy. Total lung V(20) and contralateral lung V(5) were kept as low as possible but preferably less than 35% and less than 50%, respectively. All plans were retrospectively replanned using a 5- to 9-field 3-dimensional conformal technique, full RapidArc, 6-field full IMRT, and a hybrid RapidArc (h-RapidArc) technique similar to the h-IMRT.
+
+
+RESULTS
+The h-IMRT, h-RapidArc, and full RapidArc plans could be generated in less than 2 h, with the first 2 plans achieving the lowest V(5) (36%) and V(20) (30%) values together with the smallest hot spots. Both the 3-dimensional conformal and full IMRT plans occasionally led to unacceptable hot spots outside the PTV. Full RapidArc plans were fast and achieved comparable V(20) values but led to slightly higher V(5) values.
+
+
+CONCLUSIONS
+Both h-IMRT and h-RapidArc permitted delivery of 66 Gy to large stage III lung tumors, and both were superior to either full IMRT or RapidArc plans for reducing lung doses. The clinical significance of small increases in V(5) during chemo-radiation therapy delivery are unknown, but the present study suggests that h-IMRT and h-RapidArc are preferable for treatment of large tumors.

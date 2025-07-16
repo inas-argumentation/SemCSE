@@ -1,0 +1,2 @@
+An approach to reducing the effect of contamination on the desired response of a frequency domain adaptive filter
+In this paper, the frequency domain signal restoration problem is considered, where the desired response signal is contaminated by noise. The circumstances in which this problem arises are outlined and the impact on filter performance is described. We use a Bayesian framework to derive a solution that can be viewed as an approximate MAP estimator for the optimal filter response. The performance of this estimator is analyzed through both theory and simulation.

@@ -1,0 +1,2 @@
+Decoupled Powered Caster Wheel for omnidirectional mobile platforms
+This paper presents a novel design of a Powered Caster Wheel (PCW) that decouples the steering and rolling motions. The working principles and mechanical design of the PCW are introduced in details. Kinematic modeling, trajectory planning and control algorithms are derived for PCW-based omnidirectional mobile platforms. To demonstrate the new PCW design, a PCW prototype has been developed and an omnidirectional mobile platform based on the decoupled PCW has also been constructed and tested.

@@ -1,0 +1,2 @@
+Inductance effects in the persistent current qubit
+A general method is illustrated to show that the Hamiltonian for circuits of Josephson junctions can be expanded in terms of three Hamiltonians: a Hamiltonian representative of the inductance-free circuit, a Hamiltonian in the form of an harmonic oscillator for the inductance effects of the circulating currents, and a small correction term. This method is used to show that the inductive effects are a small correction to the difference in energy levels in the persistent current qubit.

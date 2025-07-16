@@ -1,0 +1,16 @@
+A particle system in interaction with a rapidly varying environment: Mean field limits and applications
+We study an interacting particle system whose dynamics depends on an 
+interacting random environment. As the number of particles grows 
+large, the transition rate of the particles slows down (perhaps 
+because they share a common resource of fixed capacity). The 
+transition rate of a particle is determined by its state, by the 
+empirical distribution of all the particles and by a rapidly varying 
+environment. The transitions of the environment are determined by 
+the empirical distribution of the particles. We prove the 
+propagation of chaos on the path space of the particles and 
+establish that the limiting trajectory of the empirical measure of 
+the states of the particles satisfies a deterministic differential 
+equation. This deterministic differential equation involves the time 
+averages of the environment process. 
+ 
+   We apply the results on particle systems to understand the behavior of computer networks where users access a shared resource using a distributed random Medium Access Control (MAC) algorithm. MAC algorithms are used in all Local Area Network (LAN), and have been notoriously difficult to analyze. Our analysis allows us to provide simple and explicit expressions of the network performance under such algorithms.

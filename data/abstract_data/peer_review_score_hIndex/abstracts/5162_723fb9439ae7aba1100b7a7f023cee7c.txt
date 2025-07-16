@@ -1,0 +1,23 @@
+RoMA: a Method for Neural Network Robustness Measurement and Assessment 
+Neural network models have become the leading solution for various tasks, such
+as classification, language processing, protein folding, and others. However, their
+reliability is heavily plagued by adversarial inputs: small input perturbations that
+cause the model to produce erroneous output, thus impairing the model’s robustness.
+Adversarial inputs can occur naturally when the system’s environment behaves
+randomly, even in the absence of a malicious adversary, and are thus a severe
+cause for concern when attempting to deploy neural networks within critical
+systems. In this paper, we present a new statistical method, called Robustness
+Measurement and Assessment (RoMA), which can accurately measure the robustness
+of a neural network model. Specifically, RoMA determines the probability
+that a random input perturbation might cause misclassification. The method allows
+us to provide formal guarantees regarding the expected number of errors a
+trained model will have after deployment. Our approach can be implemented on
+large-scale, black-box neural networks, which is a significant advantage compared
+to recently proposed verification methods. We apply our approach in two ways:
+comparing the robustness of different models, and measuring how a model’s robustness
+is affected by the scale of adversarial perturbation. One interesting insight
+obtained through this work is that, in a classification network, different output
+labels can exhibit very different robustness levels. We term this phenomenon
+Categorial Robustness. Our ability to perform risk and robustness assessments
+on a categorial basis opens the door to risk mitigation, which may prove to be a
+significant step towards neural network certification in safety-critical applications.

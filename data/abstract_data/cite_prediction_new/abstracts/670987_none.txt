@@ -1,0 +1,2 @@
+Total variation minimization and a class of binary MRF models
+We observe that there is a strong connection between a whole class of simple binary MRF energies and the Rudin-Osher-Fatemi (ROF) Total Variation minimization approach to image denoising. We show, more precisely, that solutions to binary MRFs can be found by minimizing an appropriate ROF problem, and vice-versa. This leads to new algorithms. We then compare the efficiency of various algorithms.

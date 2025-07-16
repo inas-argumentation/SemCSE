@@ -1,0 +1,2 @@
+Bounds on the number of vertices of sublattice-free lattice polygons
+In this paper we establish bounds on the number of vertices for a few classes of convex sublattice-free lattice polygons. The bounds are essential for proving the formula for the critical number of vertices of a lattice polygon that ensures the existence of a sublattice point in the polygon. To obtain the bounds, we use relations between the number of edges of lattice broken lines and the coordinates of their endpoints.

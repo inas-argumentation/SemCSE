@@ -1,0 +1,2 @@
+Compositional Model Checking of Real Time Systems
+We present a compositional model checking technique for networks of timed automata. This method is based on the same idea as the recent method proposed by Andersen [4] for untimed case. We present a quotient construction, which allows timed automata components to be gradually moved from the network expression into the specification. The intermediate specifications are kept small using minimization heuristics suggested by Andersen. The potential of the combined technique is demonstrated using a prototype implemented in CAML.

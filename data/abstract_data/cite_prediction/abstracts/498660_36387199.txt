@@ -1,0 +1,2 @@
+Performance evaluation for Modbus/TCP using Network Simulator NS3
+Modbus protocol is a de-facto standard protocol in industrial automation. As the size and complexity of industry systems increase rapidly, the importance of real-time communication protocols arises as well. In this paper, we analyze the performance of the Modbus/TCP communication protocol which is implemented using the Network Simulator version 3 (NS-3). The performance evaluation focuses on the response time depending on the number of nodes and topology.

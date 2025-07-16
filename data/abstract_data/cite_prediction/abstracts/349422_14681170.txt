@@ -1,0 +1,2 @@
+A simulation-based software design framework for network-centric and parallel systems
+In this paper we discuss a software design framework that is capable of realizing network-centricity and the rising multicore technology. Instead of producing static design documents in the form of UML diagrams, we propose automatic generation of a visual simulation model, which represents the target system design. We discuss a design environment that is responsible for the generation and execution of the simulation model.

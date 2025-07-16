@@ -1,0 +1,2 @@
+Word Segmentation in Sanskrit Using Path Constrained Random Walks
+In Sanskrit, the phonemes at the word boundaries undergo changes to form new phonemes through a process called as sandhi. A fused sentence can be segmented into multiple possible segmentations. We propose a word segmentation approach that predicts the most semantically valid segmentation for a given sentence. We treat the problem as a query expansion problem and use the path-constrained random walks framework to predict the correct segments.

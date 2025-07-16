@@ -1,0 +1,2 @@
+NONNEGATIVE SOLUTIONS FOR SEMILINEAR BIHARMONIC EQUATIONS IN RN
+We establish the existence of at least two nonnegative solutions of problem (1) in both cases: subcriticai and critical. One solution is obtained by a constrained minimization. This solution is in fact a local minimum. The second solution is obtained by applying the mountain-pass theorem around a local minimum.

@@ -1,0 +1,2 @@
+Control of a 10 m delay-line laser interferometer using the pre-modulation method
+We have successfully verified a phase detection scheme using the pre-modulation method in the ISAS 10 m delay-line interferometer, by choosing different numbers of beams in the two delay-lines. With the pre-modulation and a feedback control only to the mirror position, a phase detection without phase modulators inside the interferometer was realized.

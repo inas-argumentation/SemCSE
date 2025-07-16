@@ -1,0 +1,2 @@
+Metamorphic Viruses Detection Technique Based on the the Modified Emulators
+An article presents a new technique for metamorphic viruses detection using modified emulators, placed in the hosts of the network. Proposed technique provides the classification of the metamorphic virus in classes with the usage of the fuzzy logic. Technique makes it possible to detect the metamorphic viruses, which use obfuscation techniques. The results of experimental studies showed the effectiveness of the proposed method of detection metamorphic virus copies at 85%.

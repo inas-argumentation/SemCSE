@@ -1,0 +1,22 @@
+Pyranometer offsets triggered by ambient meteorology: insights from laboratory and field experiments
+This study investigates the effects of ambient meteorology on the accuracy of
+radiation (R) measurements performed with pyranometers contained in various
+heating and ventilation systems (HV-systems). It focuses particularly on
+instrument offsets observed following precipitation events. To quantify
+pyranometer responses to precipitation, a series of controlled laboratory
+experiments as well as two targeted field campaigns were performed in 2016.
+The results indicate that precipitation (as simulated by spray tests or
+observed under ambient conditions) significantly affects the thermal
+environment of the instruments and thus their stability. Statistical analyses
+of laboratory experiments showed that precipitation triggers zero offsets of
+−4 W m−2 or more, independent of the HV-system. Similar offsets
+were observed in field experiments under ambient environmental
+conditions, indicating a clear exceedance of BSRN (Baseline Surface Radiation Network) targets following
+precipitation events. All pyranometers required substantial time to return to
+their initial signal states after the simulated precipitation events.
+Therefore, for BSRN-class measurements, the recommendation would be to flag the
+radiation measurements during a natural precipitation event and 90 min after it in nighttime conditions. Further daytime experiments
+show pyranometer offsets of 50 W m−2 or more in comparison to
+the reference system. As they show a substantially faster recovery, the
+recommendation would be to flag the radiation measurements within a natural
+precipitation event and 10 min after it in daytime conditions.

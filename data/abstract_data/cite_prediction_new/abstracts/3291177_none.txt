@@ -1,0 +1,2 @@
+On the Recognizing Power of the Lambek Calculus with Brackets
+Every language recognized by the Lambek calculus with brackets is context-free. This is shown by combining an observation by Jäger with an entirely straightforward adaptation of the method Pentus used for the original Lambek calculus. The case of the variant of the calculus allowing sequents with empty antecedents is slightly more complicated, requiring a restricted use of the multiplicative unit.

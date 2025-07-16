@@ -1,0 +1,2 @@
+On the existence of Hamiltonian cycles in a class of random graphs
+A digraph with n vertices and fixed outdegree m is generated randomly so that each such digraph is equally likely to be chosen. We consider the probability of the existence of a Hamiltonian cycle in the graph obtained by ignoring arc orientation. We show that there exists m (=<23) such that a Hamiltonian cycle exists with probability tending to 1 as n tends to infinity.

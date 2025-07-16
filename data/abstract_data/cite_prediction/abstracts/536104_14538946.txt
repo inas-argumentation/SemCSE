@@ -1,0 +1,2 @@
+The Traveling Salesman Problem : An overview of exact and approximate algorithms
+In this paper, some of the main known algorithms for the traveling salesman problem are surveyed. The paper is organized as follows: 1) definition; 2) applications; 3) complexity analysis; 4) exact algorithms; 5) heuristic algorithms; 6) conclusion.

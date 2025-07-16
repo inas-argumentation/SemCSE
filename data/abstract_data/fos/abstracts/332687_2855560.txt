@@ -1,0 +1,5 @@
+Multiplicity One Theorems and Invariant Distributions
+This is my PhD thesis submitted to the Weizmann Institute of Science. It is based on the papers [AG08c], [AG08d], [AGRS07], [AGS08], [AGS09], [Aiz08] and [SZ08]. 
+This thesis includes an introduction to Gelfand pairs and invariant distributions, a list of tools to work with invariant distributions oriented towards proving Gelfand property and a proof that the pair (GL(n+1,F),GL(n,F)) is a strong Gelfand pair. 
+Namely, we prove that if $\pi$ is an irreducible admissible smooth representation of GL(n+1,F) and $\rho$ is an irreducible admissible smooth representation of GL(n,F) then 
+$$dim Hom_{GL(n,F)}(\pi,\rho)\leq 1.$$

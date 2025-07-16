@@ -1,0 +1,15 @@
+Computer-assisted pedicle screw trajectory planning using CT-inferred bone density: A demonstration against surgical outcomes.
+PURPOSE
+Image-guided spine surgery and preoperative computer-assisted planning provide spine surgeons with tools to improve the safety, accuracy, and reliability of pedicle screw placement. The purpose of this study is to demonstrate a computer-assisted pedicle screw placement planning tool in comparison to screws as delivered by a spine surgeon.
+
+
+METHODS
+We describe a novel computer-assisted tool for preoperative pedicle screw placement planning in computed tomography (CT) images, designed with respect to the vertebral shape and structure, and augmented with respect to the considerations of surgical practice. The approach is based on three-dimensional (3D) modeling of the vertebral body and pedicles, and planning of the pedicle screw size and insertion trajectory by maximizing the screw fastening strength, evaluated through CT-inferred bone density maps. The approach is augmented by yielding screw plans consistent with the straight-forward surgical technique of aligning screws parallel to vertebral endplates, and the screw entry points following the spinal curvature to facilitate rod attachment. For a cohort of 25 patients, placement plans were retrospectively obtained for 204 pedicle screws with the computer-assisted tool from preoperative CT images, while reference trajectories of inserted pedicle screws were reconstructed in 3D from postoperative biplanar radiographs.
+
+
+RESULTS
+The best performing version of the computer-assisted tool achieved clinically acceptable preoperative pedicle screw placement plans in 96.6% of the cases, while the comparison to the postoperative reconstructions resulted in 3.4 ± 2.5 mm for the screw entry point location, 2.7 ± 1.6 mm for the screw crossing point location, and 7.4 ± 5.3∘ for the screw sagittal inclination (mean absolute difference ± standard deviation).
+
+
+CONCLUSION
+Quantitative comparison revealed that the preoperative placement plans are consistent with the postoperative results, and that the computer-assisted tool integrating bone density and surgical constraints can successfully incorporate important aspects of pedicle screw placement. The results therefore confirm the accuracy of the tool prior to being integrated in an image-guidance system.

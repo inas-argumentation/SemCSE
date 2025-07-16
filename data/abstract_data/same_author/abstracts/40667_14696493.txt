@@ -1,0 +1,2 @@
+On Finding the Minimum Bandwidth of Interval Graphs
+Abstract Let G = ( V , E ) be an interval graph , with | V | = n , and | E | = m . An O ( n 2 log n ) algorithm was proposed in Kratsch ( Inform Comput. 74 , 140–158 (1987)) to find the bandwidth of G . We show that this algorithm is wrong, and provide a corrected version of the same. Also, it was observed in [4] that the bandwidth of a proper interval graph can be computed in O ( n log n + m ) time. We show how this idea can be modified slightly to yield an O ( n = m ) algorithm.

@@ -1,0 +1,2 @@
+CogMAC: a cognitive link layer for wireless local area networks
+Optimization of the performance of the link layer in wireless networks is complex due to multiple parameters involved. Network management in real-time and performance adaptation are extremely challenging. In this paper, we introduce CogMAC, a cognitive link layer approach capable of tuning the network performance in highly dynamic environments. Results obtained using simulations and testbed measurements evince the superiorities of the proposed approach over existing non-adaptive techniques.

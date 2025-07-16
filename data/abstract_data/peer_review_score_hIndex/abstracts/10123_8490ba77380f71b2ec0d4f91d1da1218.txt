@@ -1,0 +1,5 @@
+Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning
+Scene graph (SG) generation has been gaining a lot of traction recently. Current SG generation techniques, however, rely on the availability of expensive and limited number of labeled datasets. Synthetic data offers a viable alternative as labels are essentially free. However, neural network models trained on synthetic data, do not perform well on real data because of the domain gap.
+To overcome this challenge, we propose Sim2SG, a scalable technique for sim-to-real transfer for scene graph generation. Sim2SG addresses the domain gap by decomposing it into appearance, label and prediction discrepancies between the two domains. We handle these discrepancies by introducing pseudo statistic based self-learning and adversarial techniques. Sim2SG does not require costly supervision from the real-world dataset.
+Our experiments demonstrate significant improvements over baselines in reducing the domain gap both qualitatively and quantitatively.
+We validate our approach on toy simulators, as well as realistic simulators evaluated on real-world data.

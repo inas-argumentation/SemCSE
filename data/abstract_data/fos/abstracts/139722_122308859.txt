@@ -1,0 +1,2 @@
+Estimation of the largest location parameter of exponential distributions
+Independent random samples (of possibly unequal sample sizes) are drawn from k(≥2) exponential populations having unknown location parameters and known scale parameters The problem of estimating is investigated. Under the squared error loss function, some estimators which are better than the usual estimators are obtained. These estimators are also compared with respect to the Pitman’s (1937) measure of closeness.

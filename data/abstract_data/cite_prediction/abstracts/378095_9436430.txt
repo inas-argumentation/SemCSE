@@ -1,0 +1,2 @@
+Unsupervised Newspaper Segmentation Using Language Context
+There has been increased interest in digitization of newspaper archives. A major problem that must be solved is that of high accuracy decomposition of the page into its logical structure. In this paper I present an approach that uses a language similarity measure based on OCR results to train geometric layout rules tailored to an arbitrary title. Experiments have shown this approach to be very effective.

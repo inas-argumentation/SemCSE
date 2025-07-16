@@ -1,0 +1,2 @@
+On restricted edge-connectivity of graphs
+This paper considers the concept of restricted edge-connectivity, and relates that to the edge-degree of a connected graph. The author gives some necessary conditions for a graph whose restricted edge-connectivity is smaller than its minimum edge-degree, then uses these conditions to show some large classes of graphs, such as all connected edge-transitive graphs except a star, and all connected vertex-transitive graphs with odd order or without triangles, have equality of the restricted edge-connectivity and the minimun edge-degree.

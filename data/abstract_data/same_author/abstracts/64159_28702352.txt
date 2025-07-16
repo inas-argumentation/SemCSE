@@ -1,0 +1,2 @@
+Design and Implement of Snapshots in Linux Block Level
+This paper presented the design and implement of snapshots device driver in Linux. Our implement was carried out at the block level as the device driver. It is available to all file systems and databases. We used industry standard benchmark to measure the performance and uncovered many important performance characteristics.

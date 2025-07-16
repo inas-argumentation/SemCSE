@@ -1,0 +1,2 @@
+Connected (n, m)-graphs with minimum and maximum zeroth-order general Randic index
+Let G be a graph and d(v) denote the degree of a vertex v in G. Then the zeroth-order general Randic index [email protected](G) of the graph G is defined as @?"v"@?"V"("G")d(v)^@a, where @a is a pertinently chosen real number. We characterize, for any @a, the connected (n,m)-graphs with minimum and maximum [email protected]

@@ -1,0 +1,2 @@
+Complexity of the generalized conjugacy problem
+Recently, the generalized conjugacy problem(GCP) in braid groups was introduced as a candidate for cryptographic one-way function. A GCP in a braid group can be transformed into a GCP in a general linear group by the Burau representation. We study the latter problem induced in this way.

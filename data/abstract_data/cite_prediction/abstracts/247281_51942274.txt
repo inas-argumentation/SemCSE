@@ -1,0 +1,2 @@
+Overview of the 6th Author Profiling Task at PAN 2018: Multimodal Gender Identification in Twitter
+This overview presents the framework and the results of the Author Profiling shared task at PAN 2018. The objective of this year’s task is to address gender identification from a multimodal perspective, where not only texts but also images are given. For this purpose a corpus with Twitter data has been provided, covering the languages Arabic, English, and Spanish. Altogether, the approaches of 23 participants are evaluated.

@@ -1,0 +1,2 @@
+Development of Radiation-hard VCSEL/PIN-diode Optical Links for the ATLAS SCT
+A summary of the architecture of the ATLAS SCT optical links is given. The radiation-hard, low ma ss packaging techniques are described. The performance of VCSELs in these type of packages is discussed. Deta iled tests of these links are presented in this and the following paper. 1. LINKS ARCHITECTURE Optical links will be used for the readout of the 4 088 modules of the ATLAS SemiConductor Tracker (SCT)[1]. The components in the system are illustra ted schematically in Figure 1 below.

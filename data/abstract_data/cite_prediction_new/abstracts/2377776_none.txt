@@ -1,0 +1,13 @@
+A structure-based System Dynamics Approach for Assessing Engineering Design Processes
+The dynamic behavior of engineering design processes is a well-known challenge within engineering. 
+Assessing different possible process sequences for their behavior remains a major challenge within engineering design 
+research. This paper proposes a structure-based System Dynamics approach for assessing engineering design 
+processes for their dynamic behavior. A composition panel within the SD model is introduced to enable an eased 
+modelling and assessment of different process sequence variants. The suggested composition panel incorporates the 
+idea of structural methods such as Design Structure Matrix (DSM) and Multiple-Domain Matrix (MDM) into System 
+Dynamics. By applying the DSM and MDM methods, the SD models for the different sequences become more clearly 
+arranged and more easily to handle. Each process step within the approach is represented by the same composite 
+concept of a rework cycle which enables the addition or deletion of process steps. This allows for a quick modeling of 
+various variants of the engineering design process. Assessing different scenarios of engineering design process 
+sequences by simulation offers the possibility to further improve the planning and management of engineering design 
+processes by providing an approach to assess their dynamic system behavior.

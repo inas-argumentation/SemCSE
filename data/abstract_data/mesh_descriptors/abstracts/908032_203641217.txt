@@ -1,0 +1,15 @@
+External photon radiation treatment for prostate cancer: Uncomplicated and cancer-free control probability assessment of 36 plans.
+PURPOSE
+To perform a systematic and thorough assessment, using the Uncomplicated and Cancer-Free Control Probability (UCFCP) function, of a broad range of photon prostate cancer RT treatments, on the same scenario (a unique pelvic CT set). UCFCP considers, together with the probabilities of local tumour control (TCP) and deterministic (late) sequelae (NTCP), the second primary cancer risk (SPCR) due to photon and neutron peripheral doses.
+
+
+METHODS AND MATERIALS
+Thirty-six radiotherapy plans were produced for the same CT. 6, 10, 15 and 18 MV 3DCRT, IMRT and VMAT (77.4 Gy in 43 fractions) and 6 and 10 MV SBRT (36.25 Gy in 5 fractions with flattened and FFF beams) for Elekta, Siemens and Varian Linacs plans were included. DVH and peripheral organ dosimetry were used to compute TCP, NTCP, and SPCR (the competition and LNT models) for further plan ranking.
+
+
+RESULTS
+Biological models (and parameters) used predicted an outcome which is in agreement with epidemiological findings. SBRT plans showed the lowest SPCR and a below average NTCPrectal. High energy plans did not rank worse than the low energy ones. Intensity modulated plans were ranked above the 3D conformal techniques.
+
+
+CONCLUSIONS
+According to UCFCP, the best plans were the10 MV SBRTs. SPCR rates were low and did not show a substantial impact on plan ranking. High energy intensity-modulated plans did not increase in excess the average of SPCR. Even more, they ranked among the best, provided that MU were efficiently managed.

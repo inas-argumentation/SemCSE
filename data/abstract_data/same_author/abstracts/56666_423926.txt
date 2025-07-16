@@ -1,0 +1,2 @@
+A new gray level based Hough transform for region extraction: An application to IRS images
+A technique using the Hough transform is described for detection of homogeneous line segments directly from (i.e., without binarization of) gray level images. A definition of ''region'' in terms of these line segments, with constraints on its length and variance, is provided. The algorithm is able to extract gray level regions irrespective of their shape and size. The effectiveness of the method is demonstrated on Indian Remote-sensing Satellite (IRS) images.

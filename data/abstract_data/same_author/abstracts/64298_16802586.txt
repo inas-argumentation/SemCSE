@@ -1,0 +1,2 @@
+Exact Optimization for Markov Random Fields with Convex Priors
+We introduce a method to solve exactly a first order Markov random field optimization problem in more generality than was previously possible. The MRF has a prior term that is convex in terms of a linearly ordered label set. The method maps the problem into a minimum-cut problem for a directed graph, for which a globally optimal solution can be found in polynomial time. The convexity of the prior function in the energy is shown to be necessary and sufficient for the applicability of the method.

@@ -1,0 +1,2 @@
+Automatic test pattern generation for resistive bridging faults
+An ATPG for resistive bridging faults is proposed that combines the advantages of section-based generation and interval-based simulation. In contrast to the solutions introduced so far, it can handle arbitrary non-feedback bridges between two nodes, including ones detectable at higher resistance and undetectable at lower resistance, and faults requiring more than one vector for detection.

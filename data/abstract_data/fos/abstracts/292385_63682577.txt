@@ -1,0 +1,2 @@
+Research on Assessment and Optimization Model Based on Text Classification
+Proposes a new evaluation of text classification vector,and uses it to discuss two models:the optimization model and the collection of the optimization model.The optimization model is used to distinguish the main classes and related classes,and clearly point out that class c' of the document d_i is always better than class c".The collection optimization model is the premise of the election of a main class to identify the co-occurrence patterns between the various related classes.

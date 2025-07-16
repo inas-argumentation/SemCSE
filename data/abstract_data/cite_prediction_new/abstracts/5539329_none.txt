@@ -1,0 +1,15 @@
+MDCT for automated detection and measurement of pneumothoraces in trauma patients.
+OBJECTIVE
+The size of a pneumothorax is an important index to guide the emergency treatment of trauma patients--chest tube drainage. The purpose of this study was to develop and validate an automated computer-aided volumetry scheme for detection and measurement of pneumothoraces for trauma patients imaged with MDCT.
+
+
+MATERIALS AND METHODS
+Three pigs and 68 trauma patients with at least one diagnosed occult pneumothorax (23 women and 45 men; age range, 14-89 years; mean age, 41 +/- 19 years) were selected for the development and validation of our computer-aided volumetry scheme for pneumothorax. Computer-aided volumetry of pneumothorax consisted of five automated steps: extraction of pleural region, detection of pneumothorax candidates, delineation of the detected pneumothorax candidates, reduction of false-positive findings, and report of the volumetric measurement of pneumothoraces.
+
+
+RESULTS
+In the animal study, our computer-aided volumetry scheme yielded a mean value of 24.27 +/- 0.64 mL (SD) compared with 25 mL of air volume manually injected in each scan. The correlation coefficients were 0.999 and 0.997 for the in vivo and ex vivo comparison, respectively. In the patient study, the sensitivity of our computer-aided volumetry scheme was 100% with a false-positive rate of 0.15 per case for 32 occult pneumothoraces > or = 25 mL. The correlation coefficient was 0.999 for manual volumetry comparison. This automated computer-aided volumetry scheme took approximately 3 minutes to finish the detection and measurement per case.
+
+
+CONCLUSION
+The results show that our computer-aided volumetry scheme provides an automated method for accurate and efficient detection and measurement of pneumothoraces in MDCT images of trauma patients.

@@ -1,0 +1,2 @@
+LDA/QR: an efficient and effective dimension reduction algorithm and its theoretical foundation
+LDA/QR, a linear discriminant analysis (LDA) based dimension reduction algorithm is presented. It achieves the efficiency by introducing a QR decomposition on a small-size matrix, while keeping competitive classification accuracy. Its theoretical foundation is also presented.

@@ -1,0 +1,6 @@
+DETECTION AND SEGMENTATION OF ITEMS IN X–RAY IMAGERY
+Processing of real–time X–ray images of randomly oriented and touching pistachio nuts for product inspection 
+is considered. Processing to isolate individual nuts (segmentation) is emphasized. The processing consisted of a blob coloring 
+algorithm, filters, and watershed transforms to segment touching nuts, and morphological processing to produce an image 
+of only the nutmeat. Each operation is detailed and quantitative data for each are presented. These techniques are useful for 
+many different product inspection problems in agriculture and other areas.

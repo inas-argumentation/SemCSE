@@ -1,0 +1,12 @@
+Can Kernel Transfer Operators Help Flow based Generative Models?
+Flow-based generative models refer to deep generative models with 
+tractable likelihoods, and offer several attractive properties including 
+efficient density estimation and sampling.  Despite many advantages, 
+current formulations (e.g., normalizing flow) often have an expensive memory/runtime footprint, which hinders their use in a number of applications. 
+In this paper, we consider the setting where we have access to an autoencoder, which is
+suitably effective for the dataset of interest. Under some mild conditions,
+we show that we can calculate a mapping to a RKHS which subsequently enables deploying 
+mature ideas from the kernel methods literature for flow-based generative models. Specifically, we can explicitly map the RKHS distribution (i.e., 
+approximate the flow) to match or align with  
+a template/well-characterized distribution, via kernel transfer operators. This leads to a direct and resource efficient approximation avoiding iterative optimization. We empirically show that this simple idea yields competitive results on popular datasets such as CelebA,
+as well as promising results on a public 3D brain imaging dataset where the sample sizes are much smaller. 

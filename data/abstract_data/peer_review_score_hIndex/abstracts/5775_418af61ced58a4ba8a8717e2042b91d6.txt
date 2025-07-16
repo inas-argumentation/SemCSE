@@ -1,0 +1,7 @@
+Can recurrent neural networks warp time?
+Successful recurrent models such as long short-term memories (LSTMs) and gated recurrent units (GRUs) use \emph{ad hoc} gating mechanisms.  Empirically these models have been found to improve the learning of medium to long term temporal dependencies and to help with vanishing gradient issues.
+	
+We prove that learnable gates in a recurrent model formally provide \emph{quasi-invariance to general time transformations} in the input data. We recover part of the LSTM architecture from a simple axiomatic approach.
+	
+This result leads to a new way of initializing gate biases in LSTMs and GRUs. Experimentally, this new \emph{chrono initialization} is shown to greatly improve learning of long term dependencies, with minimal implementation effort.
+

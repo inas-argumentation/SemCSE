@@ -1,0 +1,2 @@
+A generalization of the Castelnuovo-de Franchis inequality
+We give a lower bound on the Hodge number h^{2,0}(X), where X is an irregular compact K\"ahler (or smooth complex projective) variety, in terms of the minimal rank of an element in the kernel of the wedge product map \psi_2: \Lambda^2 H^0(X,\Omega_X^1) -> H^0(X,\Omega_X^2). As a consequence, we obtain a generalization to higher dimensions of the Castelnuovo-de Franchis inequality for surfaces, improving some results of Lazarsfeld and Popa and Lombardi for threefolds and fourfolds.

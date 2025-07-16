@@ -1,0 +1,2 @@
+An Integrity Constraints Language for a Conceptual Multidimensional Data Model
+A number of models for conceptual design of multidimensional databases have been proposed but only a few of them support the notion of integrity constraints. This work introduces a Conceptual Multidimensional Data Model, which supports a generic constraint language and a high-level data structure. Also, a graphical notation for structures and constraints is

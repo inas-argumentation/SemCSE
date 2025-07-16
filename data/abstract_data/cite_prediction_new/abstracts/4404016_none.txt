@@ -1,0 +1,2 @@
+A Comment on and Correction to the Holding Cost Expression in the Determination of Safety Stock
+In this note the authors consider a reorder point inventory system with stochastic lead time and argue that in the standard approach the holding costs are overestimated because for a part of the time when a shortage occurs and there is no safety stock on hand, holding costs are computed for this portion of the time. In the note the authors derive the expression for the overestimation and the size of overestimation is numerically demonstrated.

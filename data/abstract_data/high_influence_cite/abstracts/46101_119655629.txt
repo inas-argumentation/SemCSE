@@ -1,0 +1,2 @@
+Dixmier traces are weak$^*$ dense in the set of all fully symmetric traces
+We extend Dixmier's construction of singular traces (see \cite{Dixmier}) to arbitrary fully symmetric operator ideals. In fact, we show that the set of Dixmier traces is weak$^*$ dense in the set of all fully symmetric traces (that is, those traces which respect Hardy-Littlewood submajorization). Our results complement and extend earlier work of Wodzicki \cite{Wodzicki}.

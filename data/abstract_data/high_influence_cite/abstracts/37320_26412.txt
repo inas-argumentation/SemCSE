@@ -1,0 +1,2 @@
+Graph-based Generalized Latent Semantic Analysis for Document Representation
+Document indexing and representation of term-document relations are very important for document clustering and retrieval. In this paper, we combine a graph-based dimensionality reduction method with a corpus-based association measure within the Generalized Latent Semantic Analysis framework. We evaluate the graph-based GLSA on the document clustering task.

@@ -1,0 +1,2 @@
+The combinatorics of Coxeter categories
+We present an alternative construction of Soergel's category of bimodules associated to a reflection faithful representation of a Coxeter system. We show that its objects can be viewed as sheaves on the associated moment graph. We introduce an exact structure and show that Soergel's "special" bimodules are the projective objects. Then we construct the indecomposable projectives by both a global and a local method, discuss a version of the Kazhdan-Lusztig conjecture and prove it for universal Coxeter systems.

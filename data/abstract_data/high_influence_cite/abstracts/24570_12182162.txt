@@ -1,0 +1,2 @@
+Computation of Low-Dimensional (Co)Homology Groups for Infinite Sequences of P-Groups with Fixed Coclass
+Eick and Leedham-Green introduced infinite sequences of p-groups of fixed coclass. Here we describe an algorithm to compute the Schur multiplicators of all groups in an infinite sequence simultaneously. Based on this, we prove that these Schur multiplicators can be described by a single parametrised presentation; this confirms a conjecture by Eick. Similar results are obtained for certain low-dimensional cohomology groups; these results support a conjecture by Carlson.

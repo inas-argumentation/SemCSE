@@ -1,0 +1,2 @@
+Convergence and periodicity of solutions for a neural network of two neurons
+This paper is concerned with a delay differential system with piecewise constant nonlinearity. Such a differential system can be regarded as a model of two-neuron artificial neural network with delayed feedback. Some interesting results are obtained for the convergence and periodicity of solutions of the system.

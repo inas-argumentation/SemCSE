@@ -1,0 +1,2 @@
+Diffusion limited mixing rates in passive scalar advection
+We are concerned with flow enhanced mixing of passive scalars in the presence of diffusion. Under the assumption that the velocity gradient is suitably integrable, we provide upper bounds on the exponential rates of mixing and of enhanced dissipation. Our results suggest that there is a crossover from advection dominated to diffusion dominated mixing, and we observe a slow down in the exponential decay rates by (some power of) a logarithm of the diffusivity.

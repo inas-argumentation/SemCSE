@@ -1,0 +1,2 @@
+Testing subgraphs in large graphs
+Let H be a fixed graph with h vertices, let G be a graph on n vertices, and suppose that at least en2 edges have to be deleted from it to make it H-free. It is known that in this case G contains at least f(e, H)nh copies of H. We show that the largest possible function f(e, H) is polynomial in e if and only if H is bipartite. This implies that there is a one-sided error property tester for checking H-freeness, whose query complexity is polynomial in 1/e, if and only if H is bipartite.

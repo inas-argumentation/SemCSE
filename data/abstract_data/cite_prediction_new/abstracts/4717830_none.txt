@@ -1,0 +1,2 @@
+Solution of Bimatrix Games with Interval Data Using Linear Complementarity Problem
+A method for the two person non-zero sum game whose payoffs are represented by interval data has been investigated. In this paper a new method for solving bimatrix game with triangular fuzzy numbers using LCP has been applied. The obtained solution of this FLCP is the solution of the given fuzzy bimatrix game.

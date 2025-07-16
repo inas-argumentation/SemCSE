@@ -1,0 +1,2 @@
+A 16 watt X-band GaN high power amplifier MMIC for phased array applications
+For the next generation HPA MMIC, a 16 watts two-stage X-band GaN HPA MMIC is described in this paper. The MMIC has been designed and fabricated by using a 0.25 um GaN HEMT process. The MMIC under a drain voltage of 28 V exhibits pulsed output power of 42.1 dBm (16 watts) with an associated PAE from 37.75 % to 41.55 % over the frequency range of 8.5 ∼ 10.5 GHz. The fabricated MMIC is as small as 3.65 mm × 2.5 mm (area of 9.125 mm2).

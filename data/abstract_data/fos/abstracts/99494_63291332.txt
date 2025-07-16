@@ -1,0 +1,2 @@
+A Method to Optimize and Resolve the Interference Between Bluetooth and 802.11b
+This paper puts forward a method of adaptive packet selection and transmitting delay to resolve the interference between Bluetooth and 802.11b.This method belongs to a kind of noncollaborative coexistence.The Bluetooth devices select different kind of packet and transmitting time according to the quality of channel to avoid overlap.The results of simulation showed this method was efficient to decrease packet loss rate and increase the throughput.

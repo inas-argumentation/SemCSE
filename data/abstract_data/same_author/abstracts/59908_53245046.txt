@@ -1,0 +1,2 @@
+Verification of multiprocess probabilistic protocols
+A new probabilistic symmetric solution to the n processes mutual exclusion problem is presented. The algorithm is verified formally using the extreme fairness approach to probabilistic verification.

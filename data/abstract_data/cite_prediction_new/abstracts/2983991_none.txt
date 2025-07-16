@@ -1,0 +1,2 @@
+A variationally consistent fractional time‐step integration method for incompressible and nearly incompressible Lagrangian dynamics
+In this paper we present a fractional time‐step method for Lagrangian formulations of solid dynamics problems. The method can be interpreted as belonging to the class of variational integrators which are designed to conserve linear and angular momentum of the entire mechanical system exactly. Energy fluctuations are found to be minimal and stay bounded for long durations.

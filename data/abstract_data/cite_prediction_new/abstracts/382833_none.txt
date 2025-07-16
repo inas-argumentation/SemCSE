@@ -1,0 +1,2 @@
+Complexity and (un)decidability of fragments of 〈 ωωλ; × 〉
+We specify the frontier of decidability for fragments of the firstorder theory of ordinal multiplication. We give a NEXPTIME lower bound for the complexity of the existential fragment of 〈ωωλ ;×, ω, ω+ 1, ω + 1〉 for every ordinal λ. Moreover, we prove (by reduction from Hilbert Tenth Problem) that the ∃∗∀6-fragment of 〈ωωλ ;×〉 is undecidable for every ordinal λ.

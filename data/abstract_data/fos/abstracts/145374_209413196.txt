@@ -1,0 +1,2 @@
+Time-Space Tradeoffs and Short Collisions in Merkle-Damgård Hash Functions
+We study collision-finding against Merkle-Damgard hashing in the random-oracle model by adversaries with an arbitrary S-bit auxiliary advice input about the random oracle and T queries. Recent work showed that such adversaries can find collisions (with respect to a random IV) with advantage \(\varOmega (ST^2/2^n)\), where n is the output length, beating the birthday bound by a factor of S. These attacks were shown to be optimal.

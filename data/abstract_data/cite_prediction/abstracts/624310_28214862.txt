@@ -1,0 +1,2 @@
+A QUANTITATIVE MEASURE OF GENERATIVE ADVERSARIAL NETWORK DISTRIBUTIONS
+We introduce a new measure for evaluating the quality of distributions learned by Generative Adversarial Networks (GANs). This measure computes the KullbackLeibler divergence from a GAN-generated image set to a real image set. Since our measure utilizes a GAN’s whole distribution, our measure penalizes outputs lacking in diversity, and it contrasts with evaluating GANs based upon a few cherrypicked examples. We demonstrate the measure’s efficacy on the MNIST, SVHN, and CIFAR-10 datasets.

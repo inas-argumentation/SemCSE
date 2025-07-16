@@ -1,0 +1,15 @@
+SU-D-BRA-03: Simultaneous MV-KV Imaging for Intra-Fractional Motion Management during Volume Modulated Arc Therapy (VMAT) Delivery on the Varian TrueBeam.
+PURPOSE
+To evaluate a MV-kV intra-fractional imaging technique for use during volume modulated arc therapy (VMAT) with the Varian TrueBeam.
+
+
+METHODS
+MV-kV image pairs were acquired intra-fractionally during VMAT delivery. kV images (11 fps) were acquired throughout delivery using a standard pre-programmed imaging template. MV images (9.5 fps) were acquired simultaneously by deploying the EPID and passively collecting the resulting images using Varian proprietary software, iTools Capture. Localization accuracy was evaluated by imaging a Rando phantom implanted with 3 fiducials while moving the couch according to XML- programmed trajectories simulating typical prostate and respiratory motion. VMAT delivery was done using a single 360 degree arc in TrueBeam Developer mode. The effect on accuracy of total MU and gantry speed was studied. To improve image quality, MV frame averaging was performed and the MV and kV images were then registered to their corresponding DRRs using in-house registration software. From these 2D registrations, the 3D position at each MV-kV acquisition point was determined.
+
+
+RESULTS
+Between 130 and 390 MV-kV pairs were acquired for each delivery. The mean difference between planned couch and measured fiducial 3D positions with prostate motion was less than 0.03 cm in each direction (SD 0.03 cm). Neither gantry speed nor MU significantly impacted accuracy. for respiratory motion, the mean difference between planned and measured position was less than 0.04 cm. Standard deviation averaged 0.06 cm but increased to 0.12 cm with large instantaneous motion and less MV dose per frame. MV frame averaging and inaccuracies in MV image gantry angle determination also affected accuracy, particularly with significant motion.
+
+
+CONCLUSIONS
+With high quality MV imaging, MV-kV localization techniques can be highly accurate, even in the presence of significant motion. As clinical MV-kV methods become available, such techniques can provide an efficient and accurate method for monitoring intra-fractional motion. This work was partially supported through a research agreement with Varian Medical Systems, Palo Alto, CA.

@@ -1,0 +1,2 @@
+The Use of Proof Plans to Sum Series
+We describe a program for finding closed form solutions to finite sums. The program was built to test the applicability of the proof planning search control technique in a domain of mathematics outwith induction. This experiment was successful. The series summing program extends previous work in this area and was built in a short time just by providing new series summing methods to our existing inductive theorem proving system CLAM.

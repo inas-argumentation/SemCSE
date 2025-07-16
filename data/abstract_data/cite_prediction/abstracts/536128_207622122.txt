@@ -1,0 +1,2 @@
+An Algorithm for Total Variation Minimization and Applications
+We propose an algorithm for minimizing the total variation of an image, and provide a proof of convergence. We show applications to image denoising, zooming, and the computation of the mean curvature motion of interfaces.

@@ -1,0 +1,2 @@
+Topological local principal component analysis
+We propose a topological local principal component analysis (PCA) in help of Kohonen's self-organizing maps (SOM). The topological local PCA describes one cluster by one neuron such that it is capable of exploiting both the global topological structure and each local cluster structure. We also investigate a newly proposed self-organizing strategy that can enhance the learning speed, as well as an alternative Stiefel manifold based algorithm to ensure the orthonormality constraint of the local PCA.

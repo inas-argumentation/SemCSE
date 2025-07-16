@@ -1,0 +1,6 @@
+Estimating Entropy and Entropy Norm on Data Streams
+We consider the problem of computing information theoretic functions such as entropy on a data stream, using sublinear space. 
+ 
+Our first result deals with a measure we call the “entropy norm” of an input stream: it is closely related to entropy but is structurally similar to the well-studied notion of frequency moments. We give a polylogarithmic space one-pass algorithm for estimating this norm under certain conditions on the input stream. We also prove a lower bound that rules out such an algorithm if these conditions do not hold. 
+ 
+Our second group of results are for estimating the empirical entropy of an input stream. We first present a sublinear space one-pass algorithm for this problem. For a stream of m items and a given real parameter α, our algorithm uses space $\tilde{O}(m^{2\alpha})$ and provides an approximation of 1/α in the worst case and (1+e) in “most” cases. We then present a two-pass polylogarithmic space (1+e)-approximation algorithm. All our algorithms are quite simple.

@@ -1,0 +1,2 @@
+Temperature-sensitive loop parallelization for chip multiprocessors
+In this paper, we present and evaluate three temperature-sensitive loop parallelization strategies for array-intensive applications executed on chip multiprocessors in order to reduce the peak temperature. Our experimental results show that the peak (average) temperature can be reduced by 20.9/spl deg/C (4.3/spl deg/C) when averaged over all the applications tested, incurring small performance/power penalties.

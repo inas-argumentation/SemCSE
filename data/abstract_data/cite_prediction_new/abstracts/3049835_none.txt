@@ -1,0 +1,2 @@
+Visual Signature Veriication Using Aane Arc-length
+Signatures can be acquired with a camera-based system with enough resolution to perform veriica-tion. This paper presents the performance of a visual-acquisition signature veriication system, emphasizing on the importance of the parameterization of the signature in order to achieve good classiica-tion results. A technique to overcome the lack of examples in order to estimate the generalization error of the algorithm is also described.

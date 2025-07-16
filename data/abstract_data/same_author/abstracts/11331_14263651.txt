@@ -1,0 +1,15 @@
+SIMULATIONS OF PION PRODUCTION IN THE DAEDALUS TARGET
+DAEDALUS, the Decay At-rest Experiment for DCP at a 
+Laboratory for Underground Science will look for evidence 
+of CP-violation in the neutrino sector, an ingredient in theories 
+that seek to explain the matter/antimatter asymmetry 
+in our universe. It will make a precision measurement of 
+the oscillations of muon antineutrinos to electron antineutrinos 
+using multiple neutrino sources created by low-cost 
+compact cyclotrons. The experiment utilizes decay-at-rest 
+neutrino beams produced by 800 MeV protons impinging 
+a beam target of graphite and copper. Two well established 
+Monte Carlo codes, MARS and GEANT4, have been used 
+to optimise the design and the performance of the target. A 
+study of the results obtained with these two codes is presented 
+in this paper.

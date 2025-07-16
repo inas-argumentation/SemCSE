@@ -1,0 +1,2 @@
+Resource-Efficient Scheduling for Real Time Systems
+For embedded systems efficient utilization of resources is an acute problem arising from the increasing computational demands in all sorts of applications. The consumers constantly demand better functionality and flexibility of embedded products which imply an increase in the resources needed for their realization. In several areas – e.g. portable devices such as PDAs, mobile phones and laptops as well as mission critical systems such as space applications – the ability to design resource efficient solutions is crucial.

@@ -1,0 +1,2 @@
+Advanced Spectral Classifiers for Hyperspectral Images: A review
+Hyperspectral image classification has been a vibrant area of research in recent years. Given a set of observations, i.e., pixel vectors in a hyperspectral image, classification approaches try to allocate a unique label to each pixel vector. However, the classification of hyperspectral images is a challenging task for a number of reasons, such as the presence of redundant features, the imbalance among the limited number of available training samples, and the high dimensionality of the data.

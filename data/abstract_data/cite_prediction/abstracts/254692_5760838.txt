@@ -1,0 +1,2 @@
+A 200-245 GHz Balanced Frequency Doubler with Peak Output Power of +2 dBm
+This paper presents a wideband 90 nm SiGe BiCMOS frequency multiplier at 200-245 GHz. The balanced multiplier results in a low first harmonic component, and uses a reflector at the base nodes to reflect the second harmonics to transistors for improved efficiency. The measured output power is > -2 dBm at 200-245 GHz with a peak value of +2 dBm at 224-228 GHz and a conversion gain of -15 dB. To the author's knowledge, this is the highest power wideband doubler at 200-250 GHz.

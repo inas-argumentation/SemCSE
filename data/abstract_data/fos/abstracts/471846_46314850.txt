@@ -1,0 +1,15 @@
+MO-AB-BRA-02: Modeling Nanoparticle-Eluting Spacer Degradation During Brachytherapy Application with in Situ Dose-Painting.
+PURPOSE
+Brachytherapy application with in situ dose-painting using gold nanoparticles (GNP) released from GNP-loaded brachytherapy spacers has been proposed as an innovative approach to increase therapeutic efficacy during brachytherapy. This work investigates the dosimetric impact of slow versus burst release of GNP from next generation biodegradable spacers.
+
+
+METHODS
+Mathematical models were developed based on experimental data to study the release of GNP from a spacer designed with FDA approved poly(lactic-co-glycolic acid) (PLGA) polymer. The diffusion controlled released process and PLGA polymer degradation kinetics was incorporated in the calculations for the first time. An in vivo determined diffusion coefficient was used for determining the concentration profiles and corresponding dose enhancement based on initial GNP-loading concentrations of 7 mg/g.
+
+
+RESULTS
+The results showed that there is significant delay before the concentration profile of GNP diffusion in the tumor is similar to that when burst release is assumed as in previous studies. For example, in the case of burst release after spacer administration, it took up to 25 days for all the GNP to be released from the spacer using diffusion controlled release process only. However, it took up to 45 days when a combined model for both diffusion and polymer degradation processes was used. Based on the tumor concentration profiles, a significant dose enhancement factor (DEF >20%), could be attained at a tumor distances of 5 mm from a spacer loaded with 10 nm GNP sizes.
+
+
+CONCLUSION
+The results highlight the need to take the slow release of GNP from spacers and factors such as biodegradation of polymers into account in research development of GNP-eluting spacers for brachytherapy applications with in-situ dose-painting using gold nanoparticles. The findings suggest that I-125 may be the more appropriate for such applications given the relatively longer half-live compared to other radioisotopes like Pd-103 and Cs-131.

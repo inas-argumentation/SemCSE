@@ -1,0 +1,2 @@
+Refining the Graph Density Condition for the Existence of Almost K-factors
+Alon and Yuster [4] have proven that if a fixed graph K on g vertices is (h+ 1)-colorable, then any graph G with n vertices and minimum degree at least h h+1n contains at least (1− ) n g vertex disjoint copies of K, provided n > N( ). It is shown here that the required minimum degree of G for this result to follow is closer to h−1 h n, provided K has a proper (h+ 1)-coloring in which some of the colors occur rarely. A conjecture regarding the best possible result of this type is suggested.

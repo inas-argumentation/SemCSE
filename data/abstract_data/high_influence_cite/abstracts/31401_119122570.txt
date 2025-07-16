@@ -1,0 +1,2 @@
+Smooth densities for SDEs driven by subordinated Brownian motion with Markovian switching
+We consider a class of stochastic differential equations driven by subordinated Brownian motion with Markovian switching. We use Malliavin calculus to study the smoothness of the density for the solution under uniform Hörmander type condition.

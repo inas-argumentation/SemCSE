@@ -1,0 +1,2 @@
+A wide tuning range LC-VCO using switched capacitor array technique
+A 2.4GHz low phase noise CMOS LC voltage-controlled oscillator (VCO) is presented. By using a novel three-bit binary-weighted switched capacitor array, the VCO achieves a tuning range of 51.7% from 1.70GHz to 2.94GHz. Designed in SMIC 0.18-μm CMOS technology, the proposed VCO occupies a size of 500μm×700μm. The VCO achieves a phase noise of −123.8dBc/Hz at 1MHz offset from the carrier frequency of 2.4GHz and draws 8.4mA current from 1.8V supply.

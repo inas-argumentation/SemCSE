@@ -1,0 +1,2 @@
+On Subsequence Sums of a Zero-sum Free Sequence II
+Let $G$ be a finite abelian group with exponent $m$, and let $S$ be a sequence of elements in $G$. Let $f(S)$ denote the number of elements in $G$ which can be expressed as the sum over a nonempty subsequence of $S$. In this paper, we show that, if $|S|=m$ and $S$ contains no nonempty subsequence with zero sum, then $f(S)\geq 2m-1$. This answers an open question formulated by Gao and Leader. They proved the same result with the restriction $(m,6)=1$.

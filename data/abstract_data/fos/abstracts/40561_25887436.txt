@@ -1,0 +1,15 @@
+Determination of gemcitabine and its metabolite in human plasma using high-pressure liquid chromatography coupled with a diode array detector.
+AIM
+To establish a high-pressure liquid chromatography (HPLC) method for determination of the concentration of gemcitabine (dFdC) and its metabolite (dFdU) in human plasma.
+
+
+METHODS
+Plasma 1.0 mL spiked with floxuridine as an internal standard was extracted with 3.0 mL of methanol-acetonitrile (v/v, 1:9). The supernatant was evaporated at 60 centigrade and the residue was reconstituted with 0.5 mL of the solution used as the mobile phase. After centrifugation, 50 microL of the supernatant was injected into the HPLC system. Separation was achieved on a C18 (4.6 mm multiply 50 mm, 5 microm) column at 25 centigrade with the flow rate of the mobile phase set to 0.8 mL/min. The compounds were detected at 268 nm. The mobile phase consisted of 40.0 mmol/L acetate ammonium buffer solution (pH 5.5) and acetonitrile (v/v, 97.5:2.5).
+
+
+RESULTS
+The linear range was 0.20-10.0 mg/L (r=0.9999) for dFdC and 0.50-50.0 mg/L (r=0.9999) for dFdU. The limit of detection (LOD) was 0.10 mg/L for dFdC and 0.25 mg/L for dFdU, while the limit of quantification (LOQ) was 0.20 mg/L (RSD<10 %) for dFdC and 0.50 mg/L (RSD<3 %) for dFdU. The average recovery of dFdC and dFdU by this method were 103.3 % and 98.7 %, respectively. For intra-day and inter-day, the corresponding standard deviations of the measurements of dFdC and dFdU were both less than 5.5 %.
+
+
+CONCLUSION
+An analytical method was established to measure the concentrations of dFdC and dFdU in human plasma and was effectively applied to the dFdC and dFdU pharmacokinetic studies of 8 Chinese patients with malignant tumors.

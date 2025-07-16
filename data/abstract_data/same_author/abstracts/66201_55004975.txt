@@ -1,0 +1,2 @@
+Ordinary and strong density continuity of complex analytic functions
+In the paper we prove that the complex analytic functions are (ordinarily) density continuous. This stays in contrast with the fact that even such a simple function asG:ℝ2→ℝ2,G(x,y)=(x,y3), is not density continuous [1]. We will also characterize those analytic functions which are strongly density continuous at the given pointa ∈ ℂ. From this we conclude that a complex analytic functionf is strongly density continuous if and only iff(z)=a+bz, wherea, b ∈ ℂ andb is either real or imaginary.

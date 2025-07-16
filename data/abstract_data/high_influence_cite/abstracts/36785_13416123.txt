@@ -1,0 +1,2 @@
+On the number of factorizations of an element in an atomic monoid
+Let S be a reduced commutative cancellative atomic monoid. If s is a nonzero element of S, then we explore problems related to the computation of ?(s), which represents the number of distinct irreducible factorizations of s?S. In particular, if S is a saturated submonoid of Nd, then we provide an algorithm for computing the positive integer r(s) for which 0

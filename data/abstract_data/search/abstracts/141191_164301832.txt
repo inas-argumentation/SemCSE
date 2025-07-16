@@ -1,0 +1,2 @@
+Designing a Machine Learning System
+In the previous chapters, you have seen various algorithms and how they apply to specific problem domains. This chapter will help you get into the finer details of designing a machine learning system. The concepts explained in this chapter are less about individual algorithms; they are about making choices for implementing your algorithms.

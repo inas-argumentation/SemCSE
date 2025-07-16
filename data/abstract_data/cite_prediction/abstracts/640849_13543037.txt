@@ -1,0 +1,2 @@
+OWL SAIQL - An OWL DL Query Language for Ontology Extraction
+Existing approaches for querying OWL DL do either only operate on syntactic constructs without taking into account the semantics of OWL or do only have a restricted access to the T-Box. We present SAIQL, the novel Schema And Instance Query Language for OWL DL, that is well suited for ontology extraction. We describe its syntax and explain a basic evaluation strategy. We illustrate the use of SAIQL with an example for ontology extraction and re-use.

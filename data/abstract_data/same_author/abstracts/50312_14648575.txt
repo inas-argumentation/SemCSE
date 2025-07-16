@@ -1,0 +1,15 @@
+dChipSNP: significance curve and clustering of SNP-array-based loss-of-heterozygosity data
+MOTIVATION
+Oligonucleotide microarrays allow genotyping of thousands of single-nucleotide polymorphisms (SNPs) in parallel. Recently, this technology has been applied to loss-of-heterozygosity (LOH) analysis of paired normal and tumor samples. However, methods and software for analyzing such data are not fully developed.
+
+
+RESULT
+Here, we report automated methods for pooling SNP array replicates to make LOH calls, visualizing SNP and LOH data along chromosomes in the context of genes and cytobands, making statistical inference to identify shared LOH regions, clustering samples based on LOH profiles and correlating the clustering results to clinical variables. Application of these methods to prostate and breast cancer datasets generates biologically important results.
+
+
+AVAILABILITY
+The software module dChipSNP implementing these methods is available at http://biosun1.harvard.edu/complab/dchip/snp/
+
+
+SUPPLEMENTARY INFORMATION
+The breast cancer data are provided by Andrea L. Richardson, Zhigang C. Wang and James D. Iglehart.

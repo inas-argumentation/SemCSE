@@ -1,0 +1,2 @@
+Logic Synthesis based Public Key Scheme
+This article proposes a method for the construction of a public key system that is based on VLSI logic synthesis algorithms. First, we discuss the properties of VLSI logic synthesis algorithms. Then we view them in the context of cryptographic primitives. Then we propose a public key encryption system and finally discuss its security properties.

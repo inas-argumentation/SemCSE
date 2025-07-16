@@ -1,0 +1,15 @@
+Infectious diseases specialty intervention is associated with decreased mortality and lower healthcare costs.
+BACKGROUND
+Previous studies, largely based on chart reviews with small sample sizes, have demonstrated that infectious diseases (ID) specialists positively impact patient outcomes. We investigated how ID specialists impact mortality, utilization, and costs using a large claims dataset.
+
+
+METHODS
+We used administrative fee-for-service Medicare claims to identify beneficiaries hospitalized from 2008 to 2009 with at least 1 of 11 infections. There were 101 991 stays with and 170 336 stays without ID interventions. Cohorts were propensity score matched for patient demographics, comorbidities, and hospital characteristics. Regression models compared ID versus non-ID intervention and early versus late ID intervention. Risk-adjusted outcomes included hospital and intensive care unit (ICU) length of stay (LOS), mortality, readmissions, hospital charges, and Medicare payments.
+
+
+RESULTS
+The ID intervention cohort demonstrated significantly lower mortality (odds ratio [OR], 0.87; 95% confidence interval [CI], .83 to .91) and readmissions (OR, 0.96; 95% CI, .93 to .99) than the non-ID intervention cohort. Medicare charges and payments were not significantly different; the ID intervention cohort ICU LOS was 3.7% shorter (95% CI, -5.5% to -1.9%). Patients receiving ID intervention within 2 days of admission had significantly lower 30-day mortality and readmission, hospital and ICU length of stay, and Medicare charges and payments compared with patients receiving later ID interventions.
+
+
+CONCLUSIONS
+ID interventions are associated with improved patient outcomes. Early ID interventions are also associated with reduced costs for Medicare beneficiaries with select infections.

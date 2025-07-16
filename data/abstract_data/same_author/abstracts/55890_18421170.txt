@@ -1,0 +1,2 @@
+A near-quadratic algorithm for the alpha-connected two-center decision problem
+We consider the problem of deciding if a set of points can be covered by two discs with centers p and q and common radius r such that the ratio d(p; q)=r is bounded below by a user supplied constant. We also present an O(n 2 log 2 n) algorithm for this problem.

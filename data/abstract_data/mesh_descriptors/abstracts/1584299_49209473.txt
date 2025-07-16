@@ -1,0 +1,15 @@
+BIARAM: A process for analyzing correlated brain regions using association rule mining
+BACKGROUND AND OBJECTIVE
+Because examining correlated (vs. individual) brain activity is a superior method for locating neural correlates of a stimulus, using a network approach for analyzing brain activity is gaining interest. In this study, we propose and illustrate the use of association rule mining (ARM) to analyze brain regions that are activated simultaneously. ARM is commonly used in marketing and other disciplines to help determine items that might be purchased together. We apply this technique toward identifying correlated brain regions that may respond simultaneously to specific stimuli. Our objective is to introduce ARM, describe a process for converting neural images into viable datasets (for analyses), and suggest how to apply this process for generating insights about the brain's responses to specific stimuli (e.g. technology-associated interruptions).
+
+
+METHODS
+We analyze electroencephalogram (EEG) data collected from 46 participants; convert brain waves into images via a source localization algorithm known as sLORETA (i.e., standardized low-resolution brain electromagnetic tomography); reorganize these into a "transactional" dataset; and generate association rules through ARM.
+
+
+RESULTS
+We compare the results with more conventional methods for analyzing neuroimaging data. We show that there is a stronger correlation between frontal lobe and sublobar/insula regions after interruptions. This result would not be obvious from independent analysis of each region.
+
+
+CONCLUSIONS
+The main contribution of this paper is introducing ARM as a method for analyzing multiple images. We suggest that the biomedical community may apply this commonly available data mining technique to develop further insights about correlated regions affected by specific stimuli.

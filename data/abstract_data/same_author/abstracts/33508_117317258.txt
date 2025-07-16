@@ -1,0 +1,2 @@
+Mass-Gaps in Lattice Field Theories
+In this thesis we discuss two methods for calculating the mass-spectrum in field theories using Monte Carlo Methods. A Hamiltonian variational method is developed and checked on the 0(3) non-linear sigma model in 1+1 dimensions. The mass-gap is also· found from the 2-point correlation function and some improvements to this method are suggested. Both methods give reliable results for the lattice theory. The connection between the lattice 0(3) spin-model and the continuum theory is explored in detail.

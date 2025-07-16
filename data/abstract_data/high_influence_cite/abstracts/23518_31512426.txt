@@ -1,0 +1,2 @@
+Isometry groups of CAT(0) cube complexes
+Given a CAT(0) cube complex X, we show that if Aut(X) $\neq$ Isom(X) then there exists a full subcomplex of X which decomposes as a product with $\mathbb{R}^n$. As applications, we prove that if X is $\delta$-hyperbolic, cocompact and 1-ended, then Aut(X) $=$ Isom(X) unless X is quasi-isometric to $\mathbb{H}^2$, and extend the rank-rigidity result of Caprace-Sageev to any lattice $ \Gamma\leq$ Isom(X).

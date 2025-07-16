@@ -1,0 +1,2 @@
+Dynamics of complex singularities in 1D nonlinear parabolic PDE's
+We establish local-in-time smoothing of a simple model nonlinear para- bolic PDE in a scale of weighted Bergman spaces on a strip provided the weights are not too singular. This constitutes a very strong smoothing property since an immediate consequence is that the PDE can \push away" an algebraic-type complex singularity provided that the order of the singularity is small enough.

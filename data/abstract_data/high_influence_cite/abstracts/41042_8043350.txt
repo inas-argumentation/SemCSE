@@ -1,0 +1,2 @@
+A Semantic Formulation of TT-Lifting and Logical Predicates for Computational Metalanguage
+A semantic formulation of Lindley and Stark's ⊤⊤-lifting is given. We first illustrate our semantic formulation of the ⊤⊤-lifting in Set with several examples, and apply it to the logical predicates for Moggi's computational metalanguage. We then abstract the semantic ⊤⊤-lifting as the lifting of strong monads across bifibrations with lifted symmetric monoidal closed structures.

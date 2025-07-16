@@ -1,0 +1,2 @@
+Finding a basis for the characteristic ideal of an n-dimensional linear recurring sequence
+An n-dimensional linear recurring sequence ( sigma ) of elements from a field F, for n>or=1 is considered. An algorithm chi -BASE which determines a basis for the ideal characteristic polynomials of ( sigma ) under certain reasonable conditions is presented. This analysis applied to doubly periodic arrays in particular. >

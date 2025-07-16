@@ -1,0 +1,2 @@
+Second order BVPs with state dependent impulses via lower and upper functions
+The paper deals with the following second order Dirichlet boundary value problem with p ∈ ℕ state-dependent impulses: z″(t) = f (t,z(t)) for a.e. t ∈ [0, T], z(0) = z(T) = 0, z′(τi+) − z′(τi−) = Ii(τi, z(τi)), τi = γi(z(τi)), i = 1,..., p. Solvability of this problem is proved under the assumption that there exists a well-ordered couple of lower and upper functions to the corresponding Dirichlet problem without impulses.

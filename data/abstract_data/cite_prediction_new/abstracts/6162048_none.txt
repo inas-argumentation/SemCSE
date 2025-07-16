@@ -1,0 +1,2 @@
+NORMAL DERIVABILITY IN CLASSICAL NATURAL DEDUCTION
+A normalization procedure is given for classical natural deduction with the standard rule of indirect proof applied to arbitrary formulas. For normal derivability and the subformula property, it is sufficient to permute down instances of indirect proof whenever they have been used for concluding a major premiss of an elimination rule. The result applies even to natural deduction for classical modal logic.

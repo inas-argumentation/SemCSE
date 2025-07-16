@@ -1,0 +1,2 @@
+An efficient parameterized algorithm for m-set packing
+We present an efficient parameterized algorithm solving the Set Packing problem, in which we assume that the size of the sets is bounded by m. In particular, if the size m of the sets is bounded by a constant, then our algorithm is fixed-parameter tractable. For example, if the size of the sets is bounded by 3, then our algorithm runs in time O((5.7k)kn).

@@ -1,0 +1,10 @@
+Method for unconstrained text detection in natural scene image
+Text detection in natural scene images is an important prerequisite for many content-based multimedia understanding applications. The authors present a simple and effective text detection method in natural scene image. Firstly, MSERs are extracted by the V-MSER algorithm from channels of G
+, H
+, S
+, O
+ 1
+, and O
+ 2
+, as component candidates. Since text is composed of character candidates, the authors design an MRF model to exploit the relationship between characters. Secondly, in order to filter out non-text components, they design a set of two-layers filtering scheme: most of the non-text components can be filtered by the first layer of the filtering scheme; the second layer filtering scheme is an AdaBoost classifier, which is trained by the features of compactness, horizontal variance and vertical variance, and aspect ratio. Then, only four simple features are adopted to generate component pairs. Finally, according to the orientation similarity of the component pairs, component pairs which have roughly the same orientation are merged into text lines. The proposed method is evaluated on two public datasets: ICDAR 2011 and MSRA-TD500. It achieves 82.94 and 75% F
+-measure, respectively. Especially, the experimental results, on their URMQ_LHASA-TD220 dataset which contains 220 images for multi-orientation and multi-language text lines evaluation, show that the proposed method is general for detecting scene text lines in different languages.

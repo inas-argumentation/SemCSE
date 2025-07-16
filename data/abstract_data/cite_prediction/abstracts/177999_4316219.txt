@@ -1,0 +1,2 @@
+A Graph-based Approach for Rectangle Detection Using Corners
+In this paper, a new rectangle detection approach is proposed. It is a bottom-up approach that contains four stages: line segment extraction, corner detection, corner-relation-graph generation and rectangle detection. Graph structure is used to construct the relations between corners and simplify the problem of rectangle detection. In addition, the approach can be extended to detect any polygons. Experiments on bin detection, traffic sign detection and license plate detection prove that the approach is robust.

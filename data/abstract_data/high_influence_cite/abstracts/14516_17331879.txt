@@ -1,0 +1,2 @@
+Minimum Eccentricity Shortest Paths in Some Structured Graph Classes
+We investigate the Minimum Eccentricity Shortest Path problem in some structured graph classes. It asks for a given graph to find a shortest path with minimum eccentricity. Although it is NP-hard in general graphs, we demonstrate that a minimum eccentricity shortest path can be found in linear time for distance-hereditary graphs generalizing the previous result for trees and in $$\mathcal {O}n^3m$$ time for chordal graphs.

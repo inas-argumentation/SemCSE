@@ -1,0 +1,2 @@
+Complexity of Some Geometric and Topological Problems
+We show that recognizing intersection graphs of convex sets has the same complexity as deciding truth in the existential theory of the reals. Comparing this to similar results on the rectilinear crossing number and intersection graphs of line segments, we argue that there is a need to recognize this level of complexity as its own class.

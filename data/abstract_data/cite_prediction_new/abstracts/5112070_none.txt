@@ -1,0 +1,2 @@
+Comparison Study on Methods of Software Cost Estimation
+Cost estimation methods were reviewed. Constructive Cost Model (COCOMO) is further discussed. Considering the variations and uncertainty to calculate LOC (Lines of Code) in Constructive Cost Model, we use Function Point (FP) estimation to make up this deficiency, which can improve the model accuracy. Finally through comparing and analyzing these estimation methods by a case study, the feasibility of the improved method is proved.

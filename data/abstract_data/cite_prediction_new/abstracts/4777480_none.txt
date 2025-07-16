@@ -1,0 +1,2 @@
+Transitive resolvable idempotent quasigroups and large sets of resolvable Mendelsohn triple systems
+We first define a transitive resolvable idempotent quasigroup (TRIQ), and show that a TRIQ of order v exists if and only if 3|v and v@?=2(mod4). Then we use TRIQ to present a tripling construction for large sets of resolvable Mendelsohn triple systems LRMTS(v)s, which improves an earlier version of tripling construction by Kang. As an application we obtain an LRMTS(4@?3^n) for any integer n>=1, which provides an infinite family of even orders.

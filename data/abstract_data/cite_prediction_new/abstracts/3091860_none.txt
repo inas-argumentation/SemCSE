@@ -1,0 +1,2 @@
+Further investigation into spectral analysis for confidence intervals in steady state simulations
+In using spectral analysis for confidence intervals in steady state simulations, the parameter 1 must be specified. This quantity determines the order of the covariances which are needed in computation of the standard error. This paper investigates the effect of 1 on the standard error using a small experiment conducted on four queueing systems.

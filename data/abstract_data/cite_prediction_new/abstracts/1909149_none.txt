@@ -1,0 +1,2 @@
+On the Correctness of Transformations in Compiler Back-Ends
+This paper summarizes the results on the correctness of the transformations in compiler back-ends achieved in the DFG-project Verifix. Compiler back-ends transform intermediate languages into code of the target machine. Back-end generators allow to generate compiler back-ends from a set of transformation rules. This paper focuses on the correctness of these transformation rules and on the correctness of the whole transformation stemming from the transformation rules.

@@ -1,0 +1,2 @@
+An Empirical Comparison of Any-Angle Path-Planning Algorithms.
+We compare five any-angle path-planning algorithms, Theta*, Block A*, Field D*, ANYA, and Any-Angle Subgoal Graphs in terms of solution quality and runtime. Any-angle path-planning is a fairly new research area, and no direct comparison exists between these algorithms. We implement each algorithm from scratch and use similar implementations to provide a fair comparison.

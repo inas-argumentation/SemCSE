@@ -1,0 +1,15 @@
+C-Terminal HSP90 Inhibitors Block the HIF-1 Hypoxic Response by Degrading HIF-1α through the Oxygen-Dependent Degradation Pathway.
+BACKGROUND/AIMS
+Hypoxia Inducible Factor-1α (HIF-1α) is involved in cancer progression and is stabilized by the chaperone HSP90 (Heat Shock Protein 90), preventing degradation. Previously identified HSP90 inhibitors bind to the N-terminal pocket of HSP90, which blocks binding to HIF-1α and induces HIF-1α degradation. N-terminal inhibitors have failed in the clinic as single therapy treatments partially because they induce a heat shock response. SM molecules are HSP90 inhibitors that bind to the C-terminus of HSP90 and do not induce a heat shock response. The effects of these C-terminal inhibitors on HIF-1α are unreported.
+
+
+METHODS
+HCT116, MDA-MB-231, PC3, and HEK293T cells were treated with HSP90 inhibitors. qRT-PCR and western blotting was performed to assess mRNA and protein levels of HIF-1α, HSP- and RACK1-related genes. siRNA was used to knockdown RACK1, while MG262 was used to inhibit proteasome activity. Dimethyloxalylglycine (DMOG) was used to inhibit activity of the prolyl hydroxylases (PHDs). Anti-angiogenic activity of HSP90 inhibitors was assessed using a HUVEC tubule formation assay.
+
+
+RESULTS
+We show that SM compounds decrease HIF-1α target expression at the mRNA and protein level under hypoxia in colorectal, breast and prostate cancer cells, leading to cell death, without inducing a heat shock response. Surprisingly, we found that when the C-terminal of HSP90 is inhibited, HIF-1α degradation occurs through the proteasome and prolyl hydroxylases in an oxygen-dependent manner even in very low levels of oxygen (tumor hypoxia levels). RACK1 was not required for proteasomal degradation of HIF-1α.
+
+
+CONCLUSION
+Our results suggest that by targeting the C-terminus of HSP90 we can exploit the prolyl hydroxylase and proteasome pathway to induce HIF-1α degradation in hypoxic tumors.

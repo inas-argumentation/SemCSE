@@ -1,0 +1,2 @@
+Modeling the longitudinal wall impedance instability in heavy ion beams using an R-Z PIC code
+The effects of the longitudinal wall impedance instability in a heavy ion beam are of great interest for heavy ion fusion drivers. We are studying this instability using the R-Z thread of the WARP PIC code. We describe the code and our model of the impedance due to the accelerating modules of the induction LINAC as a resistive wall. We present computer simulations which illustrate this instability. 2 refs., 2 figs., 1 tab.

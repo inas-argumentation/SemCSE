@@ -1,0 +1,10 @@
+Adaptive Q-learning for Interaction-Limited Reinforcement Learning
+Conventional reinforcement learning (RL) needs an environment to collect fresh data, which is impractical when an online interaction is costly.
+Offline RL provides an alternative solution by directly learning from the logged dataset. However, it usually yields unsatisfactory performance due to a pessimistic update scheme or/and the low quality of logged datasets.
+Moreover, how to evaluate the policy under the offline setting is also a challenging problem.
+In this paper, we propose a unified framework called Adaptive Q-learning for effectively taking advantage of offline and online learning.
+Specifically, we explicitly consider the difference between the online and offline data and apply an adaptive update scheme accordingly, i.e., a pessimistic update strategy for the offline dataset and a greedy or no pessimistic update scheme for the online dataset.
+When combining both, we can apply very limited online exploration steps to achieve expert performance even when the offline dataset is poor, e.g., random dataset.
+Such a framework provides a unified way to mix the offline and online RL and gain the best of both worlds. 
+To understand our framework better, we then provide an initialization following our framework's setting.
+Extensive experiments are done to verify the effectiveness of our proposed method.

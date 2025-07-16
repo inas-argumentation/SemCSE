@@ -1,0 +1,15 @@
+Cohen Welling bases & SO(2)-Equivariant classifiers using Tensor nonlinearity.
+In this paper we propose autoencoder architectures for learning a Cohen-Welling
+(CW)-basis for images and their rotations. We use the learned CW-basis to build
+a rotation equivariant classifier to classify images. The autoencoder and classi-
+fier architectures use only tensor product nonlinearity. The model proposed by
+Cohen & Welling (2014) uses ideas from group representation theory, and extracts
+a basis exposing irreducible representations for images and their rotations. We
+give several architectures to learn CW-bases including a novel coupling AE archi-
+tecture to learn a coupled CW-bases for images in different scales simultaneously.
+Our use of tensor product nonlinearity is inspired from recent work of Kondor
+(2018a). Our classifier has very good accuracy and we use fewer parameters.
+Even when the sample complexity to learn a good CW-basis is low we learn clas-
+sifiers which perform impressively. We show that a coupled CW-bases in one scale
+can be deployed to classify images in a classifier trained and tested on images in
+a different scale with only a marginal dip in performance.

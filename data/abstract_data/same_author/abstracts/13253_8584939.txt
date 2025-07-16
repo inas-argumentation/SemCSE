@@ -1,0 +1,2 @@
+A new code for orbit response matrix analysis
+Orbit response matrix(ORM) method has been widely used for lattice modeling, and beam diagnostics, however the difficulty on convergence arises as the model becomes larger, more complicated or with nonlinear parameters brought in. A new code named YAOC(Yet Another Orbit Code) was developed based on a robust numerical method called scaled Levenberg-Marquardt algorithm, and its applications on various lattices are discussed here.

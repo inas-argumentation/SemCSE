@@ -1,0 +1,6 @@
+AN OUTLIER TEST FOR TIME SERIES BASED ON A TWO‐SIDED PREDICTOR
+. In this paper an outlier test for contaminated autoregressive processes is introduced. The test is based on a comparison of each observation with a predictor using past and future values, a so-called two-sided predictor. It is required that an upper bound for the total number of outliers is known. 
+ 
+ 
+ 
+The asymptotic distribution of the test statistic is calculated under the null hypothesis that no outlier is present. The behaviour of the test for finite sample size is investigated by a simulation study. Moreover, the test is compared with several other outlier tests.

@@ -1,0 +1,2 @@
+VLSI Design and Implementation of Ternary Logic Gates and Ternary SRAM Cell
+This paper presents Very Large Scale Int egration (VLSI) design and simulation of a ternary logic gates and CMOS ternary SRAM cell. The Simple Ternary Inverter, Positive Ternary Inverter and Negative Ternary Inverter are designed in 180nm technology. The Ternary NAND Gate and Ternary NOR Gate are also designed and simulated. The ternary SR AM consists of crosscoupled ternary inverters. SPICE simulations confirmed that the functional behavior of the READ and WRITE operations is correct.

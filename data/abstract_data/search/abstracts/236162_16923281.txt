@@ -1,0 +1,2 @@
+The igraph software package for complex network research
+There is no other package around that satisfies all the following requirements: *Ability to handle large graphs efficiently *Embeddable into higher level environments (like R [6] or Python [7] *Ability to be used for quick prototyping of new algorithms (impossible with "click play" interfaces) *Platform independent and open source igraph aims to satisfy all these requirements while possibly remaining easy to use in interactive mode as well.

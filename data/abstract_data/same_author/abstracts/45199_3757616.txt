@@ -1,0 +1,2 @@
+Hamilton cycles in 1-tough triangle-free graphs
+A graph G is called triangle-free if G has no induced K3 as a subgraph. We set σ3=min{∑i=13d(vi)|{v1,v2,v3} is an independent set of vertices in G}. In this paper, we show that if G is a 1-tough and triangle-free graph of order n with n⩽σ3, then G is hamiltonian.

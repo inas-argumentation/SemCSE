@@ -1,0 +1,2 @@
+Numerical Solution of Stochastic Partial Differential Equations with Correlated Noise
+The aim of this paper is to investigate the numerical solution of stochastic partial differential equations (SPDEs) for a wider class of stochastic equations with colored noise instead of the usual space-time white noise. By applying Galerkin method for spatial discretization we obtain the rate of path-wise convergence in the uniform topology. Numerical examples illustrate the theoretically predicted convergence rate.

@@ -1,0 +1,2 @@
+A contrast enhancement method for compressed images
+An image contrast enhancement algorithms for BDCT (Block Discrete Cosine Transform) based compressed images is presented. Contrast enhancement is achieved by modifying the quantized DCT coefficients based on a contrast measure defined within the DCT domain. The performance is compared with other methods and better visual quality is obtained.

@@ -1,0 +1,2 @@
+Texturing and hypertexturing of volumetric objects
+Texture mapping is an extremely powerful and flexible tool for adding complex surface detail to an object. This paper introduces a method of surface texturing and hypertexturing complex volumetric objects in real-time. We employ distance field volume representations, texture based volume rendering and procedural texturing techniques with Shader Model 2.0 flexible programmable graphics hardware. We aim to provide a flexible cross-platform, non vendor specific implementation.

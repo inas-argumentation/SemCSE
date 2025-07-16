@@ -1,0 +1,19 @@
+Screening for lung cancer using sub-millisievert chest CT with iterative reconstruction algorithm: image quality and nodule detectability.
+OBJECTIVE:
+To investigate the image quality and nodules detectability using ultra-low dose (ULD) protocol with iterative model reconstruction (IMR) algorithm when compared to routine low dose (LD) chest CT in lung cancer screening.
+
+
+METHODS:
+Chest CT scans were acquired using a 256-slice scanner for 300 subjects. The scan protocol for the ULD group was 120 kVp/17 mAs while for the LD group was 120 kVp/30 mAs. All images were reconstructed with filtered back projection (FBP), hybrid iterative reconstruction (HIR) and IMR algorithms. Effective dose was recorded. Image quality assessments were performed by two radiologists. SD of CT attenuation was measured as objective image noise. The number of non-calcified nodules detected in both groups with different reconstruction algorithms were calculated and compared.
+
+
+RESULTS:
+The effective dose of ULD group (0.67 ± 0.08 mSv) was about 44% reduced compared with LD group (1.20 ± 0.08 mSv) (p < 0.01). IMR improved image quality and reduced image noise significantly than HIR and FBP in both groups (all, p < 0.01). IMR enabled a higher number of nodule detected compared to FBP and HIR in both LD and ULD groups, especially for solid nodules less than 4 mm.
+
+
+CONCLUSION:
+IMR may improve the diagnostic accuracy of ULD CT lung screening with potential nodule detectability improvement.
+
+
+ADVANCES IN KNOWLEDGE:
+IMR enables significant reduction of the image noise and improvement of image quality in sub-mSv (66% reduction) chest scans.

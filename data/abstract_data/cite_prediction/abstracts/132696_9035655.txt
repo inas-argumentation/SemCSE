@@ -1,0 +1,2 @@
+YAMAMA: Yet Another Multi-Dialect Arabic Morphological Analyzer
+In this paper, we present YAMAMA, a multi-dialect Arabic morphological analyzer and disambiguator. Our system is almost five times faster than the state-of-the-art MADAMIRA system with a slightly lower quality. In addition to speed, YAMAMA outputs a rich representation which allows for a wider spectrum of use. In this regard, YAMAMA transcends other systems, such as FARASA, which is faster but provides specific outputs catering to specific applications.

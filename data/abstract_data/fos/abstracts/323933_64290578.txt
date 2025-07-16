@@ -1,0 +1,2 @@
+Analyses of Reconfigurable MPU Designing
+The research of reconfigurable computing is very hot in the computer architecture area in the end of last century to this century. The architecture of reconfigurable MPU researching will be the one of the very important researching area. In this paper, the reconfigurable technique is introduced at first. Then base on the analyses from the granularity, bound and occasion of reconfiguring, a way called "standard basic unit- reconfigurable channel" is given in this paper.

@@ -1,0 +1,2 @@
+Adaptive neural encoder model with selfinhibition and threshold control
+A general model for an adaptive neural encoder relating the output firing frequency to input stimulus is presented. The model is based on an “integrate and fire at threshold” scheme and includes cumulative inhibitory feedback as well as output rate dependent threshold control.

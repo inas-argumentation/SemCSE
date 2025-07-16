@@ -1,0 +1,2 @@
+Frequency-Based Measurement of Mismatches Between Small Capacitors
+The mismatch between two capacitors can be measured by alternately switching each into an oscillator and measuring the change in the oscillation frequency. Three-stage differential ring oscillators can provide multiple mismatch data points for capacitances as small as 8 fF. Experimental results obtained from test circuits fabricated in 0.13-mum CMOS technology also reveal lower mismatches for metal sandwich capacitors than for lateral fringe structures

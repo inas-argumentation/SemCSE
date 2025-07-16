@@ -1,0 +1,2 @@
+VIBRANT: A Brainstorming Agent for Computer Supported Creative Problem Solving
+This paper describes key issues underlying the design of a tutoring system that brainstorms with students in order to support qualitative problem solving. Cognitively oriented and socially oriented support are enabled by two technologies, namely heuristic-based feedback generation and community-data-driven social recommendation. Formal representations and corresponding automated reasoning procedures for these technologies are introduced.

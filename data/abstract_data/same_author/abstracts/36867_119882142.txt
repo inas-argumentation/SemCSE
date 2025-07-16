@@ -1,0 +1,2 @@
+Thomas precession, Wigner rotations and gauge transformations
+The exact Lorentz kinematics of Thomas precession is discussed in terms of Wigner's O(3)-like little group which describes rotations in the Lorentz frame in which the particle is at rest. A Lorentz-covariant form for the Thomas factor is derived. It is shown that this factor is a Lorentz-boosted rotation matrix, which becomes a gauge transformation in the infinite-momentum or zero-mass limit.

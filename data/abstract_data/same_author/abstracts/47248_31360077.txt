@@ -1,0 +1,2 @@
+Planar Point Location Revisited (A Guided Tour of a Decade of Research)
+Point location is a fundamental primitive in Computational Geometry. In the plane it is stated as follows: Given a subdivision ℛ of the plane and a query point q, determine the region of ℛ containing q. We survey the work that has led to practical algorithms for the static version of the problem, and discuss current research on the corresponding dynamic algorithms.

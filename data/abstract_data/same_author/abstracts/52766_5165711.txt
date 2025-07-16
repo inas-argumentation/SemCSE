@@ -1,0 +1,2 @@
+A Simple Trapezoid Sweep Algorithm for Reporting Red/Blue Segment Intersections
+We present a new simple algorithm for computing all intersections between two collections of disjoint line segments. The algorithm runs in O(n log n + k) time and O(n) space, where n and k are the number of segments and intersections respectively. We also show that the algorithm can be extended to handle single-valued curve segments with the same time and space bound.

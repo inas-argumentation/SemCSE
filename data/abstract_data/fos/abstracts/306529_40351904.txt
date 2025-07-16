@@ -1,0 +1,2 @@
+Developed, binary, image processing in a dual-channel, optical, real-time morphological processor.
+A developed, binary, image-processing technique is proposed, and a dual-channel, optical, real-time morphological processor is developed. Nine binary image processings can be realized fully in parallel. The measures for compensating scale and rotation distortion for pattern recognition are provided. Some applications of optical, morphological binary image processing are studied and experimental results are listed.

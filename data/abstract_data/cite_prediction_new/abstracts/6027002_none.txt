@@ -1,0 +1,2 @@
+Towards Intelligent Distributed Applications Based on Distributed Semantics and Reasoning
+This paper proposes an agent based framework to incorporating distributed semantics and reasoning into a conventional distributed system, to support intelligent decisions and behaviours of distributed nodes of the system. In the framework, service agents which reside in distributed nodes provide semantic services specific to the local environment, and mobile agents provide semantic services to applications that use the underlying distributed system.

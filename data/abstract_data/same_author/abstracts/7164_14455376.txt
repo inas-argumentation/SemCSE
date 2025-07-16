@@ -1,0 +1,2 @@
+Quantum KZ equation with |q| = 1 and correlation functions of the XXZ model in the gapless regime
+An integral solution to the quantum Knizhnik - Zamolodchikov (qKZ) equation with |q|=1 is presented. Upon specialization, it leads to a conjectural formula for correlation functions of the XXZ model in the gapless regime. The validity of this conjecture is verified in special cases, including the nearest-neighbour correlator with an arbitrary coupling constant and general correlators in the XXX and XY limits.

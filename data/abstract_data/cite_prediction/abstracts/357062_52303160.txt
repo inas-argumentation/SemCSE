@@ -1,0 +1,2 @@
+Image-based Human Character Modeling and Reconstruction for Virtual Reality Exposure Therapy
+We design a modeling platform to construct virtual environments for Virtual Reality Exposure Therapy. In this platform, the scene is built by image-based reconstruction followed by manual refinement (when needed). The main technical contribution of this paper is on enhanced human character modeling, which is done through reconstructing 3D face geometry, body shape and posture from provided 2D photos.

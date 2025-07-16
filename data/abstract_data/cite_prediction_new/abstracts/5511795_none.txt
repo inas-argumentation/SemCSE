@@ -1,0 +1,2 @@
+A Comparison of SBC and G.722 Speech Codecs for Bluetooth Wideband Speech Transmission
+This work presents a performance evaluation for the two candidate codecs (SBC and ITU G.722) for wideband speech transmission with Bluetooth. The performance of both codecs is investigated for hands-free car applications in a noisy car environment. This includes different noise situations, a multichannel noise reduction system as well as transcoding to the AMR-WB codec.

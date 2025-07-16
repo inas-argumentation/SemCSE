@@ -1,0 +1,2 @@
+[A multi-modal image registration method for use in thermotherapy of tumor].
+In the interactive image-guided thermotherapy, we need the real time image and location of the target tumor. But the current mono-modal imaging technique can not do it. We present a method to register a preoperative 3D MRI volume to a set of intra-operative ultrasound images for the target localization of the liver tumor in the thermotherapy. The registration method is a genetic algorithm based on the features such as liver surface vessels and liver surface.

@@ -1,0 +1,2 @@
+Simulating spiking neural networks on GPU.
+Modern graphics cards contain hundreds of cores that can be programmed for intensive calculations. They are beginning to be used for spiking neural network simulations. The goal is to make parallel simulation of spiking neural networks available to a large audience, without the requirements of a cluster. We review the ongoing efforts towards this goal, and we outline the main difficulties.

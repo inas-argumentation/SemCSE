@@ -1,0 +1,2 @@
+A VLSI implementation of the blowfish encryption/decryption algorithm
+We propose an efficient hardware architecture for the Blowfish algorithm [1]. The speed is up to 4 bit/clock, which is 9 times faster than a Pentium. By applying operator-rescheduling method, the critical path delay is improved by 21.7%. We have successfully implemented it using Compass cell library targeted at a 0.6 μm TSMC SPTM CMOS process. The die size is 5.7x6.1 mm and the maximum frequency is 50MHz.

@@ -1,0 +1,2 @@
+UMBC_EBIQUITY-CORE: Semantic Textual Similarity Systems
+We describe three semantic text similarity systems developed for the *SEM 2013 STS shared task and the results of the corresponding three runs. All of them shared a word similarity feature that combined LSA word similarity and WordNet knowledge. The first, which achieved the best mean score of the 89 submitted runs, used a simple term alignment algorithm augmented with penalty terms. The other two runs, ranked second and fourth, used support vector regression models to combine larger sets of features.

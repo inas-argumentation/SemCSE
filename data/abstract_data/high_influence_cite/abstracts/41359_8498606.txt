@@ -1,0 +1,15 @@
+Exploring alternate specifications to explain agency-level effects in placement decisions regarding aboriginal children: further analysis of the Canadian Incidence Study of Reported Child Abuse and Neglect Part B.
+OBJECTIVE
+This paper builds upon the analyses presented in two companion papers (Fluke et al., 2010; Fallon et al., 2013) using data from the 1998 and 2003 cycles of the Canadian Incidence Study of Reported Child Abuse and Neglect (CIS-1998 and CIS-2003) to examine the influence of clinical and organizational characteristics on the decision to place a child in out-of-home care at the conclusion of a child maltreatment investigation. This paper explores various model specifications to explain the effect of an agency-level factor, proportion of Aboriginal reports, which emerged as a stable and significant factor through the two data collection cycles. It addresses the issue of data comparability between the two cycles and explores various re-specifications and descriptive analyses of reported models to evaluate their solidity with regards to the sampling schemes and the precise contribution of a multi-level specification.
+
+
+METHODS
+The decision to place a child in out-of-home care was examined using data from the CIS-2003. This child welfare dataset collected information about the results of nearly 12,000 child maltreatment investigations as well as a description of the characteristics of the workers and organization responsible for conducting those investigations. Multi-level statistical models were developed using MPlus software, which can accommodate dichotomous outcome variables and are more reflective of decision-making in child welfare. The models are thus multi-level binary logistic regressions.
+
+
+RESULTS
+Final models revealed that two agency-level variables, 'Education degree of majority of workers' and 'Degree of centralization in the agency' clarify the nature of the effect of 'Proportion of Aboriginal reports', a stable, key second level predictor of the placement decision. The comparability of the effect of this agency-level variable across the 1998 and 2003 cycles becomes further evident through this analysis. By using a unified database including both cycles and various specifications of models, the comparability was found to be robust, in addition to clarifying the precise contribution of a multi-level specification.
+
+
+CONCLUSIONS
+This third paper in a series establishes the 'Proportion of Aboriginal reports' received by the child welfare agency as an important agency level predictor associated with a child's likelihood of being placed in the Canadian child protection system. While the more complex models give support to the notion that unequal resources subtend those results, more analyses are needed to confirm this hypothesis. Unequal resources for agencies with larger Aboriginal caseloads may explain the persistence of the results. These findings suggest that specific resource constraints related to worker education may be explanatory.

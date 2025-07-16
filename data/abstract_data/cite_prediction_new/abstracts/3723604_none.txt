@@ -1,0 +1,2 @@
+Investigating the performance of module acquisition in cartesian genetic programming
+Embedded Cartesian Genetic Programming (ECGP) is a form of the graph based Cartesian Genetic Programming (CGP) in which modules are automatically acquired and evolved. In this paper we compare the efficiencies of the ECGP and CGP techniques on three classes of problem: digital adders, digital multipliers and digital comparators. We show that in most cases ECGP shows a substantial improvement in performance over CGP and that the computational speedup is more pronounced on larger problems.

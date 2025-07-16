@@ -1,0 +1,2 @@
+Mining Traces of Large Scale Systems
+Large scale distributed computing infrastructure captures the use of high number of nodes, poor communication performance and continously varying resources that are not available at any time. In this paper, we focus on the different tools available for mining traces of the activities of such aforementioned architecture. We propose new techniques for fast management of a frequent itemset mining parallel algorithm. The technique allow us to exhibit statistical results about the activity of more that one hundred PCs connected to the web.

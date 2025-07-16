@@ -1,0 +1,2 @@
+A Hamilton–Jacobi approach to the control of the trapping time of a soliton by an external potential
+The control of the trapping time of a localized solution of the nonlinear Schrodinger equation (NLS) with the use of an external parabolic potential is studied. We reduce the dynamics of the position of the soliton center to those of a controlled linear oscillator and then study the viscosity solution of the associated Hamilton-Jacobi equation. A numerical scheme is proposed for the treatment of the problem.

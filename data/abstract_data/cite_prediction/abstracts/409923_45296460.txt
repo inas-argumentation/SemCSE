@@ -1,0 +1,2 @@
+Lens based 24 GHz SiGe IQ radarsensor for a multitude of applications
+Due to the rapid development of highly integrated and reliable SiGe MMICS new applications of small radar sensors for motion detection and object recognition can be developed and commercialized. In this paper a highly integrated, 24 GHz IQ radar sensing unit is presented. The sensor is feasible for simple DOA and range estimation, as well as for direction of movement recognition. Spatial beamforming is performed based on patch antennas in combination with a dielectric lens.

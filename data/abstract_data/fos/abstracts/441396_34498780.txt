@@ -1,0 +1,2 @@
+A recovery-relapse epidemic model with spatial diffusion
+An epidemic model of an infectious phenomenon is analyzed. The model allows for an age-dependency to describe the phases of incubation, recovery, and relapse, and for a spatial dependency to describe diffusion of the population in geographical space.

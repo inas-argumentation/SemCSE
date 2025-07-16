@@ -1,0 +1,2 @@
+Machine Comprehension of Text Using Combinatory Categorial Grammar and Answer Set Programs
+We present an automated method for generating Answer Set Programs from narratives written in English and demonstrate how such a representation can be used to answer questions about text. The proposed approach relies on a transparent interface between the syntax and semantics of natural language provided by Combinatory Categorial Grammars to translate text into Answer Set Programs, hence creating a knowledge base that, together with background knowledge, can

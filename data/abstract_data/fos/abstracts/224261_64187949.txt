@@ -1,0 +1,2 @@
+Application of Association Rules Algorithm in Teaching Evaluation Index System
+Index weights are usually determine d through AHP in the current teaching evaluation index system, but the value of the judgment matrix in AHP which reflects the degree of importance of the factors are dependent on the subjective experience of experts, resulting value fluctuations.Utilizes association rule algorithm to mine the degree of association between teaching indicators and student achievement so as to make judgment matrix in AHP and get objective indicator weights.

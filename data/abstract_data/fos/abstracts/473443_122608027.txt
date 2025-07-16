@@ -1,0 +1,2 @@
+Interval analysis as a tool for sensitivity analysis of a hemopoietic model
+In this article a method for sensitivity analysis of dynamic models based on interval analysis is introduced and illustrated for a simple model of a cell renewal system. This system is an important subsystem in the hemopoietic system, which is one of the most important cell renewal systems in the human body. The basic tool used is interval analysis, which is briefly introduced in this article. Simulation results showing the successful application of the method conclude the paper.

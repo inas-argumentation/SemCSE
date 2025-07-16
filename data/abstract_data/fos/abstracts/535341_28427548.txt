@@ -1,0 +1,2 @@
+Development of a real-time timing-shutter performance monitor for protein crystallography.
+In order to accurately monitor shutter timing events and long-term shutter performance, a timing-shutter monitor has been developed. This monitor uses a photodiode to capture X-ray-induced fluorescence from the shutter blade in synchrony with goniometer rotation to measure shutter opening and closing delay times, as well as the total time that X-rays are exposed to the sample during crystallographic data frames.

@@ -1,0 +1,2 @@
+An Adaptive Multi-user Detection Algorithm Based on Forward Neural Network
+Neural network has some characteristics like self-study, adaptation, better fault tolerance, which make it widely used in dealing with un-linear dynamic problem. An improved multi-user detection algorithm based on three-layer forward neural network was proposed, the transfer function was adopted, and the iteration equation was deduced. The computer simulations show that the proposed algorithm has faster convergence rate and smaller bit error rate.

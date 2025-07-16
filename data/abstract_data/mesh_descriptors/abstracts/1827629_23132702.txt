@@ -1,0 +1,15 @@
+Demographic parameters related to 30-day readmission of patients with acute myocardial infarction: Analysis of 2,371,867 hospitalizations.
+BACKGROUND
+Acute myocardial infarction (AMI) is the most common cause of mortality in the USA as per the data released by the CDC. Short term hospital readmissions account for a significant portion of health care budget and much of the focus recently has been on reducing 30day readmission rate aimed to identify the demographics associated with readmissions from AMI and major causes of readmissions.
+
+
+METHODS
+We queried the Nationwide Inpatient Sample which represents 20% of all the United States hospital data for our study. AMI was identified through ICD9 Clinical Classification Software Code 100 for readmissions secondary to AMI for years 2009-2013. Chi-square was used for statistical analysis.
+
+
+RESULTS
+A total of 2,371,867 admissions were identified with AMI and 15.87% of these readmitted within 30days after index hospitalizations due to any cause. Patients with age greater than 65years, female gender, Medicare and Medicaid insurances, low median income for zip code and metropolitan areas were associated with high 30day readmission rate. The most common identified cause of readmission from 2009-2011 was coronary atherosclerosis (15%) and from 2012-2013 the cause identified was congestive heart failure (13.5%) (p<0.001).
+
+
+CONCLUSION
+Aggressive medical management needs to be targeted at this demography of patients and prevent the most causes of readmissions to reduce the cost and morbidity of patients admitted with AMI.

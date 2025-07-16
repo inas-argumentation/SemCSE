@@ -1,0 +1,16 @@
+Learning a Static Analyzer: A Case Study on a Toy Language
+Static analyzers are meta-programs that analyze programs to detect
+  potential errors or collect information. For example, they are used
+  as security tools to detect potential buffer overflows. Also, they
+  are used by compilers to verify that a program is well-formed and
+  collect information to generate better code. In this paper, we
+  address the following question: can a static analyzer be learned
+  from data? More specifically, can we use deep learning to learn a
+  static analyzer without the need for complicated feature
+  engineering? We show that long short-term memory networks are able
+  to learn a basic static analyzer for a simple toy language. However,
+  pre-existing approaches based on feature engineering, hidden Markov
+  models, or basic recurrent neural networks fail on such a simple
+  problem. Finally, we show how to make such a tool usable by
+  employing a language model to help the programmer detect where the
+  reported errors are located.

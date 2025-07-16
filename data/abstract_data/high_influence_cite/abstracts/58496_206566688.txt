@@ -1,0 +1,2 @@
+The subtyping problem for second-order types is undecidable
+We prove that the subtyping problem induced by Mitchell's containment relation (1988) for second-order polymorphic types is undecidable. It follows that type-checking is undecidable for the polymorphic lambda-calculus extended by an appropriate subsumption rule.

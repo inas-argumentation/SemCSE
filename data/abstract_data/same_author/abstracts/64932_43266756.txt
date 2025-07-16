@@ -1,0 +1,2 @@
+On the Non-Random Nature of the Nearest-Neighbour Document Clusters
+Abstract It has recently been suggested that the observed values of retrieval effectiveness that are obtained in searches of files of nearest-neighbour clusters can be explained by assuming that the pairwise inter-document similarities used to construct the clusters have been generated randomly. This paper presents evidence to suggest that such similarities are significantly different from those obtained by a random generation procedure.

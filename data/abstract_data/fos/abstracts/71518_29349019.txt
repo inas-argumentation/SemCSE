@@ -1,0 +1,15 @@
+SU-F-T-391: Comparative Study of Treatment Planning Between IMRT and IMAT for Malignant Pleural Mesothelioma.
+PURPOSE
+The purpose of this study was to compare the dosimetric differences between intensitymodulated radiation therapy (IMRT) and intensity modulated arc therapy (IMAT) for malignant pleural mesothelioma (MPM) patients with regard to the sparing effect on organs at risk (OARs), plan quality, and delivery efficiency.
+
+
+METHODS
+Ten MPM patients were recruited in this study. To avoid the inter-operator variability, IMRT and IMAT plans for each patient were performed by one experienced dosimetrist. The treatment planning optimization process was carried out using the Eclipse 13.0 software. For a fair comparison, the planning target volume (PTV) coverage of the two plans was normalized to the same level. The treatment plans were evaluated on the following dosimetric variables: conformity index (CI) and homogeneity index (HI) for PTV, OARs dose, and the delivery efficiency for each plan.
+
+
+RESULTS
+All plans satisfied clinical requirements. The IMAT plans gained better CI and HI. The IMRT plans performed better sparing for heart and lung. Less MUs and control points were found in the IMAT plans. IMAT shortened delivery time compared with IMRT.
+
+
+CONCLUSION
+For MPM, IMAT gains better conformity and homogeneity for PTV with IMRT, but increases the irradiation dose for OARs. IMAT shows an advantage in delivery efficiency.

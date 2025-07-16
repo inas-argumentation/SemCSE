@@ -1,0 +1,2 @@
+Improved Algorithm for Finding (a, b)-Super Solutions
+Super solutions are a mechanism to provide robustness to constraint programs. We introduce a new algorithm that exploits the similarity between a super solution and its repairs in order to do inference during search. It improves on previous methods since it is more space efficient and also faster in practice.

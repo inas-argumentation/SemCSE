@@ -1,0 +1,2 @@
+Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation
+We conduct OCDA semantic segmentation experiments using two additional benchmarks: Synscapes [13] and SYNTHIA [8] We adopt the source only method and the state of the art UDA methods [11, 12, 15, 14] as baselines. The adaptation results are summarized in the Table 1. We observe that our method consistently outperforms previous UDA approaches on both datasets. This implies that our DHA framework is indeed general and practical for OCDA.

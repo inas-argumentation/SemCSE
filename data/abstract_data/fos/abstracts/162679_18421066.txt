@@ -1,0 +1,2 @@
+A Web Crawler System Design Based on Distributed Technology
+A practical distributed web crawler architecture is designed. The distributed cooperative grasping algorithm is put forward to solve the problem of distributed Web Crawler grasping. Log structure and Hash structure are combined and a large-scale web store structure is devised, which can meet not only the need of a large amount of random accesses, but also the need of newly added pages. Experiment results have shown that the distributed Web Crawler's performance, scalability, and load balance are better.

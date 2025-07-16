@@ -1,0 +1,15 @@
+The feasibility of an inverse geometry CT system with stationary source arrays.
+PURPOSE
+Inverse geometry computed tomography (IGCT) has been proposed as a new system architecture that combines a small detector with a large, distributed source. This geometry can suppress cone-beam artifacts, reduce scatter, and increase dose efficiency. However, the temporal resolution of IGCT is still limited by the gantry rotation time. Large reductions in rotation time are in turn difficult due to the large source array and associated power electronics. We examine the feasibility of using stationary source arrays for IGCT in order to achieve better temporal resolution. We anticipate that multiple source arrays are necessary, with each source array physically separated from adjacent ones.
+
+
+METHODS
+Key feasibility issues include spatial resolution, artifacts, flux, noise, collimation, and system timing clashes. The separation between the different source arrays leads to missing views, complicating reconstruction. For the special case of three source arrays, a two-stage reconstruction algorithm is used to estimate the missing views. Collimation is achieved using a rotating collimator with a small number of holes. A set of equally spaced source spots are designated on the source arrays, and a source spot is energized when a collimator hole is aligned with it. System timing clashes occur when multiple source spots are scheduled to be energized simultaneously. We examine flux considerations to evaluate whether sufficient flux is available for clinical applications.
+
+
+RESULTS
+The two-stage reconstruction algorithm suppresses cone-beam artifacts while maintaining resolution and noise characteristics comparable to standard third generation systems. The residual artifacts are much smaller in magnitude than the cone-beam artifacts eliminated. A mathematical condition is given relating collimator hole locations and the number of virtual source spots for which system timing clashes are avoided. With optimization, sufficient flux may be achieved for many clinical applications.
+
+
+CONCLUSIONS
+IGCT with stationary source arrays could be an imaging platform potentially capable of imaging a complete 16-cm thick volume within a tenth of a second.

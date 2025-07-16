@@ -1,0 +1,2 @@
+Tracking broadband plane waves using 2D adaptive FIR fan filters
+A novel composite method is proposed to track a broadband plane wave (PW) based on it's direction of arrival (DOA) using 2D adaptive FIR fan filters. This method exploits a closed form expression derived for the unit impulse response of a 2D fan filter so that only one variable of optimization is required. Further reductions in algorithmic complexity are achieved using a unit impulse thresholding technique

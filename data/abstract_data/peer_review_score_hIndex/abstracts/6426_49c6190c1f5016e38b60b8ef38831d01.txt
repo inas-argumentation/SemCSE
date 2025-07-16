@@ -1,0 +1,23 @@
+Robust Cross-Modal Semi-supervised Few Shot Learning
+Semi-supervised learning has been successfully applied to few-shot
+learning (FSL) due to its capability of leveraging the information
+of limited labeled data and massive unlabeled data. However, in many
+realistic applications, the query and support sets provided for FSL
+are potentially noisy or unreadable where the noise exists in both
+corrupted labels and outliers. Motivated by that, we propose to
+employ a robust cross-modal semi-supervised few-shot learning
+(RCFSL) based on Bayesian deep learning. By placing the uncertainty
+prior on top of the parameters of infinite Gaussian mixture model
+for noisy input, multi-modality information from image and text data
+are integrated into a robust heterogenous variational autoencoder.
+Subsequently, a robust divergence measure is employed to further
+enhance the robustness, where a novel variational lower bound is
+derived and optimized to infer the network parameters. Finally, a robust semi-supervised
+generative adversarial network is employed to generate robust
+features to compensate data sparsity in few shot learning and a
+joint optimization is applied for training and inference. Our
+approach is more parameter-efficient, scalable and adaptable
+compared to previous approaches. Superior performances over the
+state-of-the-art on multiple benchmark multi-modal dataset are
+demonstrated given the complicated noise for semi-supervised
+few-shot learning.

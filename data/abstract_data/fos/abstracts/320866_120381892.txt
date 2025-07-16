@@ -1,0 +1,2 @@
+Bounded operators on weighted spaces of holomorphic functions on the upper half-plane
+Let v be a standard weight on the upper half-plane G, i.e. v : G → ]0,∞[ is continuous and satisfies v(w) = v(i Im w), w ∈ G, v(it) ≥ v(is) if t ≥ s > 0 and limt→0 v(it) = 0. Put v1(w) = Im w v(w), w ∈ G. Then we characterize boundedness and surjectivity of the differentiation operator D : Hv(G) → Hv1(G). For example we show that D is bounded if and only if v is at most of moderate growth. We also study composition operators on Hv(G).

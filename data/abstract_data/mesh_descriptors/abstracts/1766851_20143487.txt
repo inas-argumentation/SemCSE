@@ -1,0 +1,15 @@
+Evaluation of the 'dose of the day' for IMRT prostate cancer patients derived from portal dose measurements and cone-beam CT.
+PURPOSE
+High geometrical and dosimetrical accuracies are required for radiotherapy treatments where IMRT is applied in combination with narrow treatment margins in order to minimize dose delivery to normal tissues. As an overall check, we implemented a method for reconstruction of the actually delivered 3D dose distribution to the patient during a treatment fraction, i.e., the 'dose of the day'. In this article results on the clinical evaluation of this concept for a group of IMRT prostate cancer patients are presented.
+
+
+MATERIALS AND METHODS
+The actual IMRT fluence maps delivered to a patient were derived from measured EPID-images acquired during treatment using a previously described iterative method. In addition, the patient geometry was obtained from in-room acquired cone-beam CT images. For dose calculation, a mapping of the Hounsfield Units from the planning CT was applied. With the fluence maps and the modified cone-beam CT the 'dose of the day' was calculated. The method was validated using phantom measurements and evaluated clinically for 10 prostate cancer patients in 4 or 5 fractions.
+
+
+RESULTS
+The phantom measurements showed that the delivered dose could be reconstructed within 3%/3mm accuracy. For prostate cancer patients, the isocenter dose agreed within -0.4+/-1.0% (1 SD) with the planned value, while for on average 98.1% of the pixels within the 50% isodose surface the actually delivered dose agreed within 3% or 3mm with the planned dose. For most fractions, the dose coverage of the prostate volume was slightly deteriorated which was caused by small prostate rotations and small inaccuracies in fluence delivery. The dose that was delivered to the rectum remained within the constraints used during planning. However, for two patients a large degrading of the dose delivery was observed in two fractions. For one patient this was related to changes in rectum filling with respect to the planning CT and for the other to large intra-fraction motion during treatment delivery, resulting in mean underdosages of 16% in the prostate volume.
+
+
+CONCLUSIONS
+A method to accurately assess the 'dose of the day' was evaluated for prostate cancer patients treated with IMRT. To correct for observed dose deviations off-line dose-adaptive strategies will be developed.

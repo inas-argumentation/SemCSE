@@ -1,0 +1,2 @@
+Abstraction and concretizing in information systems and problem domains: implications for system descriptions
+“Abstraction” is used both for denoting relations in the problem domain of an information system, and for denoting relations inside software and hardware of a computer. The paper shows that separating abstraction in analysis of problem domains from abstraction when designing information systems resolves confusions concerning the direction of abstraction.

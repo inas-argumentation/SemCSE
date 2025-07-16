@@ -1,0 +1,2 @@
+Alternative scalable algorithms for lattice-based feature location
+Considering the scalability of using formal concept analysis to locate features in source code, we present a set of alternative straightforward algorithms to achieve the same objectives. A preliminary experiment indicates that the alternative algorithms are more scalable to deal with the large numbers of data to some extent.

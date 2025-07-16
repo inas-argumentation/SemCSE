@@ -1,0 +1,2 @@
+A Three Dimensional Image Cache for Virtual Reality
+Despite recent advances in rendering hardware, large and complex virtual environments cannot be displayed with a sufficiently highframe rate, because of limitations in the available rendering performance.

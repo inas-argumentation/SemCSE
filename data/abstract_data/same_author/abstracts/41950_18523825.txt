@@ -1,0 +1,2 @@
+Secure Locking Protocols for Multilevel Database Management Systems
+While there are several secure concurrency control protocols for multilevel database management systems, most of them employ timestamp ordering or multiple versions of data or a hybrid protocol that utilizes both. The only known secure locking protocol that maintains single version data and can guarantee serializability, immediately aborts a higher level transaction whenever any of its locks at the lower levels is broken.

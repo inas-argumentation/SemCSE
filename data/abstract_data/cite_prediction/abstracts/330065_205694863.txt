@@ -1,0 +1,15 @@
+Cardiorespiratory fitness estimation in free-living using wearable sensors
+OBJECTIVE
+In this paper we propose artificial intelligence methods to estimate cardiorespiratory fitness (CRF) in free-living using wearable sensor data.
+
+
+METHODS
+Our methods rely on a computational framework able to contextualize heart rate (HR) in free-living, and use context-specific HR as predictor of CRF without need for laboratory tests. In particular, we propose three estimation steps. Initially, we recognize activity primitives using accelerometer and location data. Using topic models, we group activity primitives and derive activities composites. We subsequently rank activity composites, and analyze the relation between ranked activity composites and CRF across individuals. Finally, HR data in specific activity primitives and composites is used as predictor in a hierarchical Bayesian regression model to estimate CRF level from the participant's habitual behavior in free-living.
+
+
+RESULTS
+We show that by combining activity primitives and activity composites the proposed framework can adapt to the user and context, and outperforms other CRF estimation models, reducing estimation error between 10.3% and 22.6% on a study population of 46 participants.
+
+
+CONCLUSIONS
+Our investigation showed that HR can be contextualized in free-living using activity primitives and activity composites and robust CRF estimation in free-living is feasible.

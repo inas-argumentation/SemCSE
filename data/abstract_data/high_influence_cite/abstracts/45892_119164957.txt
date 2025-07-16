@@ -1,0 +1,3 @@
+Flow equivalence of sofic shifts
+AbstractWe classify certain sofic shifts (the irreducible Point Extension Type, or PET, sofic shifts) up to flow equivalence, using invariants of the canonical Fischer cover. There are two main ingredients.
+(1)An extension theorem, for extending flow equivalences of subshifts to flow equivalent irreducible shifts of finite type which contain them.(2)The classification of certain constant to one maps from SFTs via algebraic invariants of associated G-SFTs.

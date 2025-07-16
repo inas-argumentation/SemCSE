@@ -1,0 +1,32 @@
+Identifying insects, clouds, and precipitation using vertically pointing polarimetric radar Doppler velocity spectra
+. This study presents a method to identify and distinguish
+insects, clouds, and precipitation in 35 GHz (Ka-band) vertically pointing
+polarimetric radar Doppler velocity power spectra and then produce masks
+indicating the occurrence of hydrometeors (i.e., clouds or precipitation)
+and insects at each range gate. The polarimetric radar used in this study
+transmits a linear polarized wave and receives signals in collinear (CoPol)
+and cross-linear (XPol) polarized channels. The measured CoPol and XPol
+Doppler velocity spectra are used to calculate linear depolarization ratio
+(LDR) spectra. The insect–hydrometeor discrimination method uses CoPol and
+XPol spectral information in two separate algorithms with their spectral
+results merged and then filtered into single value products at each range
+gate. The first algorithm discriminates between insects and clouds in the
+CoPol Doppler velocity power spectra based on the spectra texture, or
+spectra roughness, which varies due to the scattering characteristics of
+insects vs. cloud particles. The second algorithm distinguishes insects
+from raindrops and ice particles by exploiting the larger Doppler velocity
+spectra LDR produced by asymmetric insects. Since XPol power return is
+always less than CoPol power return for the same target (i.e., insect or
+hydrometeor), fewer insects and hydrometeors are detected in the LDR
+algorithm than the CoPol algorithm, which drives the need for a CoPol based
+algorithm. After performing both CoPol and LDR detection algorithms, regions
+of insect and hydrometeor scattering from both algorithms are combined in
+the Doppler velocity spectra domain and then filtered to produce a binary
+hydrometeor mask indicating the occurrence of cloud, raindrops, or ice
+particles at each range gate. Forty-seven summertime days were
+processed with the insect–hydrometeor discrimination method using US
+Department of Energy (DOE) Atmospheric Radiation Measurement (ARM) program
+Ka-band zenith pointing radar observations in northern Oklahoma, USA. For
+these 47 d, over 70 % of the hydrometeor mask column bottoms were
+within ± 100 m of simultaneous ceilometer cloud base heights. All
+datasets and images are available to the public on the DOE ARM repository.

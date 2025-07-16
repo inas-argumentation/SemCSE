@@ -1,0 +1,2 @@
+Sequence Decomposition Method for Computing a Gröbner Basis and Its Application to Bivariate Spline
+The purpose of this paper is to discuss basis function of bivariate spline that will be used to express facial surface in facial synthesis. First we present an approach for computing a Grobner basis of bivariate homogenous polynomials and then applied it to construct a basis for bivariate spline space.

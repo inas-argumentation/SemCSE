@@ -1,0 +1,2 @@
+An Implicit Shape Model for Combined Object Categorization and Segmentation
+We present a method for object categorization in real-world scenes. Following a common consensus in the field, we do not assume that a figure-ground segmentation is available prior to recognition. However, in contrast to most standard approaches for object class recognition, our approach automatically segments the object as a result of the categorization.

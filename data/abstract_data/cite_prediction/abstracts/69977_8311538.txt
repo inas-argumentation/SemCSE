@@ -1,0 +1,2 @@
+Finding minimal enclosing boxes
+The problem of finding minimal volume boxes circumscribing a given set of three-dimensional points is investigated. It is shown that it is not necessary for a minimum volume box to have any sides flush with a face of the convex hull of the set of points, which makes a naive search problematic. Nevertheless, it is proven that at least two adjacent box sides are flush with edges of the hull, and this characterization enables anO(n 3) algorithm to find all minimal boxes for a set ofn points.

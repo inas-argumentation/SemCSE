@@ -1,0 +1,2 @@
+A postulate-based analysis of comparative preference statements
+Most of preference representation languages developed in the literature are based on comparative preference statements. The latter offer a simple and intuitive way for expressing preferences. They can be interpreted following different semantics. This paper presents a postulate-based analysis of the different semantics describing their behavior w.r.t. three criteria: coherence, syntax independence and inference.

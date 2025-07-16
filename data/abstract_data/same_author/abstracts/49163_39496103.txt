@@ -1,0 +1,2 @@
+An Application of Well-orderly Trees in Graph Drawing
+Well-orderly tree is a powerful technique capable of deriving new results in graph encoding, graph enumeration and graph generation [3, 5]. In this paper, by using well-orderly trees, we prove that any plane graph G with n vertices has a visibility representation with height , which can be constructed in linear time. This improves the best previous bound of .

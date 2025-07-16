@@ -1,0 +1,2 @@
+Energy-Based Spherical Sparse Coding
+In this paper, we explore an efficient variant of convolutional sparse coding with unit norm code vectors and reconstructions are evaluated using an inner product (cosine distance). To use these codes for discriminative classification, we describe a model we term Energy-Based Spherical Sparse Coding (EB-SSC) in which the hypothesized class label introduces a learned linear bias into the coding step. We evaluate and visualize performance of stacking this encoder to make a deep layered model for image classification.

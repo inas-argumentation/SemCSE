@@ -1,0 +1,2 @@
+Compact low-voltage PTAT-current source and bandgap-reference circuits
+A compact PTAT current source is described that can operate on supply voltages down to 1.3V does not need a compensation capacitor and achieves good supply rejection. The PTAT circuit is used to implement several band-gap-reference circuits. In addition, bandgap circuits based on conventional PTAT sources are designed as a reference. The circuits have been implemented in a 1-µm BiCMOS process.

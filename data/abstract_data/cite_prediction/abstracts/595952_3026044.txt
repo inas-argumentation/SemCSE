@@ -1,0 +1,2 @@
+Confusion Matrix-based Feature Selection
+This paper introduces a new technique for feature selection and illustrates it on a real data set. Namely, the proposed approach creates subsets of attributes based on two criteria: (1) individual attributes have high discrimination (classification) power; and (2) the attributes in the subset are complementary that is, they misclassify different classes. The method uses information from a confusion matrix and evaluates one attribute at a time.

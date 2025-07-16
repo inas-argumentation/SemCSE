@@ -1,0 +1,2 @@
+Detecting truncation point in steady-state simulation using chaos theory
+In the steady-state simulation, it is important to identify initialization bias for the correct estimates of the simulation model under study. In this paper, the methods from chaos theory are applied to the determination of truncation points in the simulation data for controlling the initial bias. Two methods are proposed and evaluated based on their effectiveness for estimating the average waiting time in M/M/1(/spl infin/) queueing model.

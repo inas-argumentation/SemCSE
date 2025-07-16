@@ -1,0 +1,5 @@
+Stability of conductivities in an inverse problem in the reaction-diffusion system in electrocardiology
+In this paper, we study the stability result for the conductivities diffusion coefficients to a strongly reaction-diffusion 
+ system modeling electrical activity in the heart. To study the problem, we establish a Carleman estimate for our system. 
+ The proof is based on the combination of a Carleman estimate and certain weight energy 
+ estimates for parabolic systems.

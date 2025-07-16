@@ -1,0 +1,2 @@
+Checking Inconsistency of Rule Sets in Active Real-Time Databases
+Using active rules in database systems provides a kind of abstraction and flexibility. But it may also be difficult to use the rules properly, especially when they involve timing constraints. In this paper, we define a type of inconsistency between event-condition-action (ECA) rules, and propose an approach for checking the inconsistency automatically.

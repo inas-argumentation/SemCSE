@@ -1,0 +1,2 @@
+Finding Independent Spanning Trees in Partial k-Trees
+Spanning trees rooted at a vertex r of a graph G are independent if, for each vertex v in G, all the paths connecting v and r in the trees are pairwise internally disjoint. In this paper we give a linear-time algorithm to find the maximum number of independent spanning trees rooted at any given vertex r in partial k-trees G, that is, graphs G with tree-width bounded by a constant k.

@@ -1,0 +1,2 @@
+GeomNet: Geometric Computing Over the Internet
+Geometric computing has become a central building block in fields like computer graphics, artificial intelligence, CAD and GIS databases. The paper discusses the GeomNet system. GeomNet's layered client-server architecture lets users perform distributed geometric computing over the Internet without having to download, install, and interface with application-specific software.

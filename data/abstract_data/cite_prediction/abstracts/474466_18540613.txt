@@ -1,0 +1,2 @@
+Real-Time Photogrammetry
+Today’s speed of image processing tools as well as the availability of robust techniques for extracting geometric and basic thematic information from image streams makes real-time photogrammetry possible. The paper discusses the basic tools for fully automatic calibration, orientation and surface recontruction as well as for tracking, ego-motion determination and behaviour analysis. Examples demonstrate today’s potential for future applications.

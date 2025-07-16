@@ -1,0 +1,15 @@
+Automated real-time needle-guide tracking for fast 3-T MR-guided transrectal prostate biopsy: a feasibility study.
+PURPOSE
+To assess the feasibility of automatic needle-guide tracking by using a real-time phase-only cross correlation ( POCC phase-only cross correlation ) algorithm-based sequence for transrectal 3-T in-bore magnetic resonance (MR)-guided prostate biopsies.
+
+
+MATERIALS AND METHODS
+This study was approved by the ethics review board, and written informed consent was obtained from all patients. Eleven patients with a prostate-specific antigen level of at least 4 ng/mL (4 μg/L) and at least one transrectal ultrasonography-guided biopsy session with negative findings were enrolled. Regions suspicious for cancer were identified on 3-T multiparametric MR images. During a subsequent MR-guided biopsy, the regions suspicious for cancer were reidentified and targeted by using the POCC phase-only cross correlation -based tracking sequence. Besides testing a general technical feasibility of the biopsy procedure by using the POCC phase-only cross correlation -based tracking sequence, the procedure times were measured, and a pathologic analysis of the biopsy cores was performed.
+
+
+RESULTS
+Thirty-eight core samples were obtained from 25 regions suspicious for cancer. It was technically feasible to perform the POCC phase-only cross correlation -based biopsies in all regions suspicious for cancer in each patient, with adequate biopsy samples obtained with each biopsy attempt. The median size of the region suspicious for cancer was 8 mm (range, 4-13 mm). In each region suspicious for cancer (median number per patient, two; range, 1-4), a median of one core sample per region was obtained (range, 1-3). The median time for guidance per target was 1.5 minutes (range, 0.7-5 minutes). Nineteen of 38 core biopsy samples contained cancer.
+
+
+CONCLUSION
+This study shows that it is feasible to perform transrectal 3-T MR-guided biopsies by using a POCC phase-only cross correlation algorithm-based real-time tracking sequence.

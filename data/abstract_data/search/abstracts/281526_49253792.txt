@@ -1,0 +1,2 @@
+Sensitivity analysis for variational inequalities and nonlinear complementarity problems
+This paper surveys the main results in the area of sensitivity analysis for finite dimensional variational inequality and nonlinear complementarity problems. It provides an overview of Lipschitz continuity and differentiability properties of perturbed solutions for variational inequality problems, defined on both fixed and perturbed sets, and for nonlinear complementarity problems.

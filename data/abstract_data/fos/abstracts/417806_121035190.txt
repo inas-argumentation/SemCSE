@@ -1,0 +1,2 @@
+An Extension of the T-Method of Multiple Comparison to Include the Cases with Unequal Sample Sizes
+Under fairly general conditions the studentized range can be used to approximately simultaneously estimate all linear combinations of a set of means for an unbalanced AOV fixed effects model. These new methods are called extended Tukey procedures (Ext-T). Comparisons are made with the Scheffe (S) procedures. It is recommended generally that the (Ext-T) procedures be used if primary interest is in pairwise comparisons of the means and if the unbalance is not severe.

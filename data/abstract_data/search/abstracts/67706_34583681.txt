@@ -1,0 +1,2 @@
+An optimized hardware design for stereoscopic image generation based on depth image
+Depth Image Based Rendering (DIBR) is the most popular method to generate stereoscopic images. In this paper, a novel pixel level full pipelined hardware accelerator is presented. The proposed architecture with division elimination algorithm and cache window design can achieve real time rendering speed with low cost. The hardware design is implemented and verified on FPGA platform. The result shows the design can be applied to handheld devices due to its high efficiency.

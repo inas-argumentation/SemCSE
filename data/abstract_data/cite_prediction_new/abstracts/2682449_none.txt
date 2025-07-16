@@ -1,0 +1,2 @@
+System identification by evolved flexible neural tree model
+This paper is concerned with the modeling or identification of nonlinear systems by utilizing evolved flexible neural tree approaches (FNT). A framework for evolving the flexible neural tree model is proposed, in which the architecture and free parameters of FNT model are evolved by EP-style tree structure based on evolutionary algorithm and simulated annealing algorithm, respectively. Simulation results for the identification of nonlinear systems show the feasibility and effectiveness of the proposed method.

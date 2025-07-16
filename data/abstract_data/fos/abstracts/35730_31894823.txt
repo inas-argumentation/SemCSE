@@ -1,0 +1,15 @@
+SU-G-IeP4-02: Application of Changs Attenuation Correction Technique for SPECT Partial Angle Acquisition of Jaszczak Phantom.
+PURPOSE
+Chang's mathematical formulation is a common method of attenuation correction applied on reconstructed Jaszczak phantom images. Though Chang's attenuation correction method has been used for 360° angle acquisition, its applicability for 180° angle acquisition remains a question with one vendor's camera software producing artifacts. The objective of this work is to ensure that Chang's attenuation correction technique can be applied for reconstructed Jaszczak phantom images acquired in both 360° and 180° mode.
+
+
+METHODS
+The Jaszczak phantom filled with 20 mCi of diluted Tc-99m was placed on the patient table of Siemens e.cam™ (n = 2) and Siemens Symbia™ (n = 1) dual head gamma cameras centered both in lateral and axial directions. A total of 3 scans were done at 180° and 2 scans at 360° orbit acquisition modes. Thirty two million counts were acquired for both modes. Reconstruction of the projection data was performed using filtered back projection smoothed with pre reconstruction Butterworth filter (order: 6, cutoff: 0.55). Reconstructed transaxial slices were attenuation corrected by Chang's attenuation correction technique as implemented in the camera software. Corrections were also done using a modified technique where photon path lengths for all possible attenuation paths through a pixel in the image space were added to estimate the corresponding attenuation factor. The inverse of the attenuation factor was utilized to correct the attenuated pixel counts.
+
+
+RESULTS
+Comparable uniformity and noise were observed for 360° acquired phantom images attenuation corrected by the vendor technique (28.3% and 7.9%) and the proposed technique (26.8% and 8.4%). The difference in uniformity for 180° acquisition between the proposed technique (22.6% and 6.8%) and the vendor technique (57.6% and 30.1%) was more substantial.
+
+
+CONCLUSION
+Assessment of attenuation correction performance by phantom uniformity analysis illustrated improved uniformity with the proposed algorithm compared to the camera software.

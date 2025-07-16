@@ -1,0 +1,2 @@
+Arboricity and Bipartite Subgraph Listing Algorithms
+In graphs of bounded arboricity, the total complexity of all maximal complete bipartite subgraphs is O(n). We describe a linear time algorithm to list such subgraphs. The arboricity bound is necessary: for any constant k and any n there exists an n-vertex graph with O(n) edges and (n/ log n) maximal complete bipartite subgraphs Kk,`. ∗Work supported in part by NSF grant CCR-9258355.

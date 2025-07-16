@@ -1,0 +1,12 @@
+An extended trajectory-mechanics approach for calculating the path of a pressure transient: travel-time tomography
+Abstract. The application of a technique from quantum dynamics to the governing equation for hydraulic head
+leads to a trajectory-based solution that is valid for a general porous medium.
+The semi-analytic expressions for propagation path and velocity of a change in hydraulic head
+form the basis of a travel-time tomographic imaging algorithm.
+An application of the imaging algorithm to synthetic arrival times reveals that a cross-well inversion
+based upon the extended trajectories correctly reproduces the magnitude of a reference model,
+improving upon an existing asymptotic approach.
+An inversion of hydraulic head arrival times from cross-well slug tests at the Widen field site in northern
+Switzerland captures a general decrease in permeability with depth, which is in agreement with previous studies,
+but also indicates the presence of a high-permeability feature in the upper portion of
+the cross-well plane.

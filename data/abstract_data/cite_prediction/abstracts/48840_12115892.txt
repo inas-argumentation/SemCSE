@@ -1,0 +1,2 @@
+Minimum Disclosure Proofs of Knowledge
+Protocols are given for allowing a “prover” to convince a “verifier” that the prover knows some verifiable secret information, without allowing the verifier to learn anything about the secret. The secret can be probabilistically or deterministically verifiable, and only one of the prover or the verifier need have constrained resources. This paper unifies and extends models and techniques previously put forward by the authors, and compares some independent related work. c 1988 Academic Press, Inc.

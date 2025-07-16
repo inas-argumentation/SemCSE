@@ -1,0 +1,2 @@
+A Connected Dominating Set Based Fast Decentralized Cooperative Sensing Algorithm for Cognitive Radio Networks
+This letter proposes a novel connected dominanting set based decentralized cooperative spectrum sensing algorithm for cognitive radio networks. It is analytically shown that the proposed algorithm distributively converges to the average consensus as that of traditional distributed consensus algorithm, while reducing both the convergence time and message complexity significantly.

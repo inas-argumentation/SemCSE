@@ -1,0 +1,2 @@
+A general age replacement model with minimal repair and general random repair cost
+A general age replacement is introduced which incorporates minimal repair, planned and unplanned replacements, and general random repair costs. Finite and infinite horizon results are obtained. Various special cases are considered.

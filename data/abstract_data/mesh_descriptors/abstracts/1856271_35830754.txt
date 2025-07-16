@@ -1,0 +1,15 @@
+Analysis of the method for conversion between levels of HbA1c and glycated albumin by linear regression analysis using a measurement error model.
+AIM
+To establish a method for conversion between HbA(1c) and glycated albumin (GA) using a measurement error model (MEM).
+
+
+METHODS
+Type 2 diabetic patients, without complications that might affect either HbA(1c) or GA, were enrolled in the study (n=154, age 68.4+/-9.9). HbA(1c), GA and postprandial plasma glucose (PPG) levels were measured simultaneously on >or=3 occasions.
+
+
+RESULTS
+PPG showed a significant correlation with HbA(1c) and GA (p<0.001 for both). Correlation between HbA(1c) and GA was very high (r=0.747, p<0.001). When the independent variable was assumed to be GA, common regression analysis yielded a regression line HbA(1c)=2.59+0.204GA. When the independent variable was changed to HbA(1c), the regression line became GA=2.26+2.74HbA(1c). The y-intercept of the first line was significantly positive, whereas that of the second was not. The regression line using MEM was HbA(1c)=1.73+0.245GA. The y-intercept was 1.73+/-0.38 (p<0.001) and the slope was 0.245+/-0.018 (p<0.001), showing that 1% increase in HbA(1c) level corresponds to 4% increase in GA level.
+
+
+CONCLUSIONS
+The relationship between HbA(1c) and GA was examined by regression analysis using MEM. HbA(1c) levels in Japan appear to have a positive shift of approximately 1.7%. Incremental ratio 4 of GA vs. HbA(1c) showed good consistency with values derived from in vitro data.

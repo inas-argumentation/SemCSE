@@ -1,0 +1,2 @@
+A comparative study on transformer and inductor based LC tanks for VCOs
+This paper presents a detailed comparative study of two different approaches to implement the resonator found in radio frequency (RF) voltage controlled oscillators (VCOs). An inductor LC tank VCO and a transformer LC tank VCO are compared in terms of phase noise, power consumption, tuning range and circuit area. Conclusions about the use of each approach depending on the design goals are presented.

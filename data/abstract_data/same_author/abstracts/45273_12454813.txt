@@ -1,0 +1,2 @@
+Orthogonal segment stabbing
+We study a class of geometric stabbing/covering problems for sets of line segments, rays and lines in the plane. While we demonstrate that the problems on sets of horizontal/vertical line segments are NP-complete, we show that versions involving (parallel) rays or lines are polynomially solvable.

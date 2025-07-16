@@ -1,0 +1,2 @@
+Algorithms for Square-3PC(., .)-Free Berge Graphs
+We consider the class of graphs containing no odd hole, no odd antihole, and no configuration consisting of three paths between two nodes such that any two of the paths induce a hole, and at least two of the paths are of length 2. This class generalizes claw-free Berge graphs and square-free Berge graphs. We give a combinatorial algorithm of complexity $O(n^{7})$ to find a clique of maximum weight in such a graph. We also consider several subgraph-detection problems related to this class.

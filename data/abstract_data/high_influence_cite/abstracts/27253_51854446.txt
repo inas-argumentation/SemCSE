@@ -1,0 +1,2 @@
+Rotation Optimization on the Unit Quaternion Manifold and its Application for Robotic Grasping
+In this paper we consider black-box optimization of objects’ grasp density functions relative to a gripper’s orientation. For this, we introduce Monte-Carlo Tree Search on the unit quaternion manifold. Our experimental evaluation shows that our method is feasible and allows finding grasps of arbitrary quality with regard to a fixed budget of objective function evaluations.

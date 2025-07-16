@@ -1,0 +1,2 @@
+Constructing Competitive Tours from Local Information
+We consider the problem of a searcher exploring an initially unknown weighted planar graph G. When the searcher visits a vertex v, it learns of each edge incident to v. The searcher's goal is to visit each vertex of G, incurring as little cost as possible. We present a constant competitive algorithm for this problem.

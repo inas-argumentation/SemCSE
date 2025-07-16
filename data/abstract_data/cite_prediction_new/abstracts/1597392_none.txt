@@ -1,0 +1,2 @@
+A V log V Algorithm for Isomorphism of Triconnected Planar Graphs
+An algorithm for determining whether two triconnected planar graphs are isomorphic is presented. The asymptotic growth rate of the algorithm is bounded by a constant times |V| log |V| where |V| is the number of vertices in the graphs.

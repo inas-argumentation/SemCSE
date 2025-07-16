@@ -1,0 +1,2 @@
+On the stability of planar randomly switched systems
+Consider the random process (Xt) t>0 solution of u Xt = AItXt where (It) t>0 is a Markov process on f 0;1g and A0 and A1 are real Hurwitz matrices on R 2 . Assuming that there exists � 2 (0;1) such that (1 − � )A0 + �A 1 has a positive eigenvalue, we establish that k Xtk may converge to 0 or +1 depending on the the jump rate of the process I. An application to product of random matrices is studied. This paper can be viewed as a probabilistic counterpart of the paper [2] by Balde, Boscain and Mason.

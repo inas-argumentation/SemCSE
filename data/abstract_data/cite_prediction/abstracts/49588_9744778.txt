@@ -1,0 +1,19 @@
+Exploration of computational methods for classification of movement intention during human voluntary movement from single trial EEG
+OBJECTIVE
+To explore effective combinations of computational methods for the prediction of movement intention preceding the production of self-paced right and left hand movements from single trial scalp electroencephalogram (EEG).
+
+
+METHODS
+Twelve naïve subjects performed self-paced movements consisting of three key strokes with either hand. EEG was recorded from 128 channels. The exploration was performed offline on single trial EEG data. We proposed that a successful computational procedure for classification would consist of spatial filtering, temporal filtering, feature selection, and pattern classification. A systematic investigation was performed with combinations of spatial filtering using principal component analysis (PCA), independent component analysis (ICA), common spatial patterns analysis (CSP), and surface Laplacian derivation (SLD); temporal filtering using power spectral density estimation (PSD) and discrete wavelet transform (DWT); pattern classification using linear Mahalanobis distance classifier (LMD), quadratic Mahalanobis distance classifier (QMD), Bayesian classifier (BSC), multi-layer perceptron neural network (MLP), probabilistic neural network (PNN), and support vector machine (SVM). A robust multivariate feature selection strategy using a genetic algorithm was employed.
+
+
+RESULTS
+The combinations of spatial filtering using ICA and SLD, temporal filtering using PSD and DWT, and classification methods using LMD, QMD, BSC and SVM provided higher performance than those of other combinations. Utilizing one of the better combinations of ICA, PSD and SVM, the discrimination accuracy was as high as 75%. Further feature analysis showed that beta band EEG activity of the channels over right sensorimotor cortex was most appropriate for discrimination of right and left hand movement intention.
+
+
+CONCLUSIONS
+Effective combinations of computational methods provide possible classification of human movement intention from single trial EEG. Such a method could be the basis for a potential brain-computer interface based on human natural movement, which might reduce the requirement of long-term training.
+
+
+SIGNIFICANCE
+Effective combinations of computational methods can classify human movement intention from single trial EEG with reasonable accuracy.

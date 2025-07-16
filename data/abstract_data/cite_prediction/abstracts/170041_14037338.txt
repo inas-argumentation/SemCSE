@@ -1,0 +1,2 @@
+Design of Low-Offset Voltage Dynamic Latched Comparator
+ABSTRACT The offset voltage of the dynamic latched comparator is analyzed in detailed and dynamic latched comparator design is optimized for the minimal offsetvoltage based on the analysis in this paper. As a result offset-voltage was reduced from 0.87μV (in conventional double tail latched comparator) to 0.3μV (in case of proposed comparator. The simulated results of the conventional as well as proposed comparator have been shown on pspice orcad 9.2 versions.

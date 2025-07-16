@@ -1,0 +1,2 @@
+Automorphism groups and isomorphisms of Cayley digraphs
+We call a Cayley digraph X = Cay(G, S) normal for G if the right regular representation R(G) of G is normal in the full automorphism group Aut(X) of X. In this paper we give some examples of normal and nonnormal Cayley digraphs and survey some results about the normality of Cayley digraphs. We also propose some conjectures and problems about them. In the last section of this paper we discuss a problem about isomorphisms of Cayley digraphs.

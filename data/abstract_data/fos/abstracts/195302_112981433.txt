@@ -1,0 +1,2 @@
+Numerical Filling Simulation in Centrifugal Casting Process of Cast Steel Sleeves
+The liquid flow and heat transfer during the process of centrifugal casting steel sleeves was analyzed.Taking centripetal acceleration and an inertial acceleration into account, an appropriate mathematical model is built and the software is developed on the Visual C++6.0 platform. This software can simulate the forming of the steel sleeves. By practical application, the results can validate the technology scheme and optimize the process parameters.

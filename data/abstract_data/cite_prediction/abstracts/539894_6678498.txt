@@ -1,0 +1,2 @@
+Scraping the ACM Digital Library
+As part of a larger project to automatically reference link the online scholarly literature, an attempt to analyze PDF documents was undertaken. The ACM Digital Library was used as the corpus for these experiments. With the current PDF and HTML analysis tools, roughly 80% accuracy was obtained in the automatic extraction of reference linking information.

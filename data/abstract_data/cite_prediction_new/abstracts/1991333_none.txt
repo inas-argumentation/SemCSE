@@ -1,0 +1,19 @@
+Comparison of short-term mortality and morbidity between parenteral and enteral nutrition for adults without cancer: a propensity-matched analysis using a national inpatient database.
+BACKGROUND
+Proper artificial nutrition for patients who are unable to eat normally is an ongoing, unresolved concern in geriatric medicine and home medical care. Controversy surrounds prognostic differences between parenteral and enteral nutrition, 2 methods for artificial nutrition.
+
+
+OBJECTIVES
+Short-term outcomes of parenteral and enteral nutrition for patients who are unable to eat normally were compared and analyzed.
+
+
+DESIGN
+Data were acquired from patients selected from a national inpatient database covering 1057 hospitals in Japan. Participants had received artificial nutrition between April 2012 and March 2013, were aged ≥20 y, and did not have cancer. They were separated into 2 groups: those who received parenteral nutrition and those who received enteral nutrition. We performed one-to-one propensity score matching between the groups. The primary outcome measurements were mortality rates at 30 and 90 d after the start of the procedure. The secondary outcomes were postprocedural complications, pneumonia, and sepsis. We analyzed survival length of stay after the procedure with the use of a Cox proportional hazards model.
+
+
+RESULTS
+There were 3750 patients in the parenteral group and 22,166 patients in the enteral group. Propensity score matching created 2912 pairs in the 2 groups. Patients with a similar propensity score (probability of being assigned to the enteral group) calculated from the baseline condition were matched. Mortality rates at 30 and 90 d after start of treatment were 7.6% and 5.7% (P = 0.003) and 12.3% and 9.9% (P = 0.002) in the parenteral and enteral groups, respectively. In Cox regression analysis, the HR for the enteral group relative to the parenteral group was 0.62 (95% CI: 0.54, 0.71; P < 0.001). The incidences of postprocedural pneumonia and sepsis were 11.9% and 15.5% (P < 0.001) and 4.4% and 3.7% (P = 0.164) for the parenteral and enteral groups, respectively.
+
+
+CONCLUSION
+The present analysis showed the better survival rate with enteral compared with parenteral nutrition for adults who were not suffering from cancer. This trial was registered at clinicaltrials.gov as NCT02512224.

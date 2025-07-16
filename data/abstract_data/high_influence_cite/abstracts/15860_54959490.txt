@@ -1,0 +1,10 @@
+Quality monitoring of WDM channels with blind signal separation methods
+Feature Issue on Optical Performance Monitoring (OPM). An effective technique
+ to monitor the quality of wavelength-division-multiplexed (WDM) channels is
+ presented. This process uses a blind signal separation (BSS) method based on
+ higher-order-statistics (HOS), and an optical-loop structure to extract the baseband
+ channels from the WDM transmission. From the reconstructed baseband waveforms, a
+ series of WDM transmission quality parameters are evaluated. Relative to previously
+ proposed methods for WDM-channel monitoring, the HOS-based optical-loop procedure
+ shows reduced complexity, improved cost efficiency, and better
+ performance.

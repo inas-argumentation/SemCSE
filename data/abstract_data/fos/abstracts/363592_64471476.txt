@@ -1,0 +1,2 @@
+Estimation of Randon Signals over Networks via Multiple-Tree Theory
+An application of a new multi-scale stochastic theory called the Multiple Tree (MT) theory, will be presented in this paper. The MT construction itself is an aggregation of several single trees where these trees are connected each other through a Gaussian random vector. The nature of the MT is suitable to the computer network environment. In this paper such advantage will be exploited in estimating 1/f signal given ill-posed observation over the network.

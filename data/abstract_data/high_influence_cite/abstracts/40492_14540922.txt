@@ -1,0 +1,2 @@
+Non-negative matrix factorization with fixed row and column sums
+In this short note, we focus on the use of the generalized Kullback-Leibler (KL) divergence in the problem of non-negative matrix factorization (NM[F). We will show that when using the generalized KL divergence as cost function for NIVIF, the row sums and the column sums of the original matrix are preserved in the approximation. We will use this special characteristic in several approximation problems. (c) 2007 Elsevier Inc. All rights reserved.

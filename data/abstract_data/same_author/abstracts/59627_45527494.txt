@@ -1,0 +1,2 @@
+A Deposit for Digital Collections
+We present the architecture and requirements for a novel system for managing the deposit of specific genres of digital publications in a deposit library. The system adopts a simple model for online publications and supports both harvesting and delivery models of deposit. This paper describes that system, and presents an evaluation after a trial period with the harvesting functions.

@@ -1,0 +1,2 @@
+Automated one-loop calculations: A Proof of concept
+An algorithm, based on the OPP reduction method, to automatically compute any one-loop amplitude, for all momentum, color and helicity configurations of the external particles, is presented. It has been implemented using the tree-order matrix element code HELAC and the OPP reduction code CutTools. As a demonstration of the potential of the current implementation, results for all sub-processes included in the 2007 Les Houches wish list for LHC, are presented.

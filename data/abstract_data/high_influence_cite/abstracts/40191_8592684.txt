@@ -1,0 +1,2 @@
+New bounds for the price of anarchy under nonlinear and asymmetric costs
+We derive new bounds for the price of anarchy under nonlinear and asymmetric costs. The bounds depend on an additional factor called the intrinsic cost of the system and therefore tend to be more accurate than the current bounds that are dependent only on the degree of asymmetry of the Jacobian and the degree of the nonlinearity of the cost function.

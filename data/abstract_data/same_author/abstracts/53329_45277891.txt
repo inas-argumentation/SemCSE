@@ -1,0 +1,2 @@
+On the bandwidth of convex triangulation meshes
+Abstract Hochberg et al. (1995) obtained the bandwidth of triangulated triangles. In this paper, we consider a more general class of graphs, called convex triangulation meshes and denoted by T l , m , n . We show that the bandwidth of T l , m , n is min { l , m , n }.

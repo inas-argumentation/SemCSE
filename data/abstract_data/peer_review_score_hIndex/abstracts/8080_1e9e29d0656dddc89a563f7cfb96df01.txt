@@ -1,0 +1,4 @@
+Cluster & Tune: Enhance BERT Performance in Low Resource Text Classification
+In data-constrained cases, the common practice of fine-tuning BERT for a target text classification task is prone to producing poor performance. In such low resources scenarios, we suggest performing an unsupervised classification task prior to fine-tuning on the target task. 
+Specifically, as such an intermediate task, we perform unsupervised clustering, training BERT on predicting the cluster labels. We test this hypothesis on various data sets, and show that this additional classification step can reduce the demand for labeled examples.
+We further discuss under which conditions this task is helpful and why. 

@@ -1,0 +1,2 @@
+Learning to Detect Vehicles by Clustering Appearance Patterns
+This paper studies efficient means in dealing with intracategory diversity in object detection. Strategies for occlusion and orientation handling are explored by learning an ensemble of detection models from visual and geometrical clusters of object instances. An AdaBoost detection scheme is employed with pixel lookup features for fast detection. The analysis provides insight into the design of a robust vehicle detection system, showing promise in terms of detection performance and orientation estimation accuracy.

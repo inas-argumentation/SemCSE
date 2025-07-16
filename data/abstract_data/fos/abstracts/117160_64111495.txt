@@ -1,0 +1,2 @@
+Research on User Interest Model Based on Hierarchical Vector Space Model
+In the personalization information retrieval, the design of user interest model is a key question. Through analyzing under the Web environment user’s characteristic and the browsing behavior, proposes a new approach for user modeling and updating based on hierarchical vector space model, in order to meet the personalized needs of users. For calculating the user according to the user to page’s browsing speed the interest, makes the model convenient to realize, and renews promptly and simply.

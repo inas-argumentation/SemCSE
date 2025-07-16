@@ -1,0 +1,19 @@
+Research Paper: Acute Infections in Primary Care: Accuracy of Electronic Diagnoses and Electronic Antibiotic Prescribing
+OBJECTIVE
+To maximize effectiveness, clinical decision-support systems must have access to accurate diagnostic and prescribing information. We measured the accuracy of electronic claims diagnoses and electronic antibiotic prescribing for acute respiratory infections (ARIs) and urinary tract infections (UTIs) in primary care.
+
+
+DESIGN
+A retrospective, cross-sectional study of randomly selected visits to nine clinics in the Brigham and Women's Practice-Based Research Network between 2000 and 2003 with a principal claims diagnosis of an ARI or UTI (N = 827).
+
+
+MEASUREMENTS
+We compared electronic billing diagnoses and electronic antibiotic prescribing to the gold standard of blinded chart review.
+
+
+RESULTS
+Claims-derived, electronic ARI diagnoses had a sensitivity of 98%, specificity of 96%, and positive predictive value of 96%. Claims-derived, electronic UTI diagnoses had a sensitivity of 100%, specificity of 87%, and positive predictive value of 85%. According to the visit note, physicians prescribed antibiotics in 45% of ARI visits and 73% of UTI visits. Electronic antibiotic prescribing had a sensitivity of 43%, specificity of 93%, positive predictive value of 90%, and simple agreement of 64%. The sensitivity of electronic antibiotic prescribing increased over time from 22% in 2000 to 58% in 2003 (p for trend < 0.0001).
+
+
+CONCLUSION
+Claims-derived, electronic diagnoses for ARIs and UTIs appear accurate. Although closing, a large gap persists between antibiotic prescribing documented in the visit note and the use of electronic antibiotic prescribing. Barriers to electronic antibiotic prescribing in primary care must be addressed to leverage the potential that computerized decision-support systems offer in reducing costs, improving quality, and improving patient safety.

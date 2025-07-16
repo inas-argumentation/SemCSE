@@ -1,0 +1,2 @@
+Face Recognition Algorithm Based on Multi-Scale LBP Feature
+For inducing the influence of local light,image noise and pose variation,proposes the multi-scale LBP feature extraction. It can get the identification of the test image by using AdaBoost as a classifier and combining the best match grouping. A series of experiment results in the CAS-PEAL face database show that multi-scale LBP feature is better than single-scale in recognition performance.

@@ -1,0 +1,2 @@
+A generalization of the theorem of Lekkerkerker and Boland
+Each fixed graph H gives rise to a list H-colouring problem. The complexity of list H-colouring problems has recently been fully classified: if H is a bi-arc graph, the problem is polynomial-time solvable, and otherwise it is NP-complete. The proof of this fact relies on a forbidden substructure characterization of bi-arc graphs, reminiscent of the theorem of Lekkerkerker and Boland on interval graphs. In this note we show that in fact the theorem of Lekkerkerker and Boland can be derived from the characterization.

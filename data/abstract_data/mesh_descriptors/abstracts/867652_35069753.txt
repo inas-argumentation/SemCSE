@@ -1,0 +1,2 @@
+Isotropic reconstruction of a 4‐D MRI thoracic sequence using super‐resolution
+Four‐dimensional (4D) thoracic magnetic resonance imaging (MRI) sequences have been shown to successfully monitor both tumor and lungs anatomy. However, a high temporal resolution is required to avoid motion artifacts, which leads to volumes with poor spatial resolution. This article proposes to reconstruct an isotropic 4D MRI thoracic sequence with minimum modifications to the acquisition protocols. This could be an important step toward the use of 4D MRI for thoracic radiotherapy applications.

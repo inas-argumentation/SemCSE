@@ -1,0 +1,2 @@
+Representation Learning for Treatment Effect Estimation from Observational Data
+Ø Middle Point Distance Minimization (MPDM): • MPDM makes the middle point of (?Â, ? C D) close to the middle point of (?Ê, ?F G). •Balance the distribution in the latent space. IHDP Dataset: • Treatment: specialist home visits; • Outcome: Infants’ cognitive test scores; • Pre-treatment covariates: 25 covariates measuring aspects of children and their mothers; • Performance measurement: Precision in Estimation of Heterogeneous Effect (HIJKJ).

@@ -1,0 +1,15 @@
+SU-E-T-259: A Statistical and Machine Learning-Based Tool for Modeling and Visualization of Radiotherapy Treatment Outcomes.
+PURPOSE
+Effective radiotherapy outcomes modeling could provide physicians with better understanding of the underlying disease mechanism, enabling to early predict outcomes and ultimately allowing for individualizing treatment for patients at high risk. This requires not only sophisticated statistical methods, but user-friendly visualization and data analysis tools. Unfortunately, few tools are available to support these requirements in radiotherapy community.
+
+
+METHODS
+Our group has developed Matlab-based in-house software called DREES for statistical modeling of radiotherapy treatment outcomes. We have noticed that advanced machine learning techniques can be used as useful tools for analyzing and modeling the outcomes data. To this end, we have upgraded DREES such that it takes advantage of useful Statistics and Bioinformatics toolboxes in Matlab that provide robust statistical data modeling and analysis methods as well as user-friendly visualization and graphical interface.
+
+
+RESULTS
+Newly added key features include variable selection, discriminant analysis and decision tree for classification, and k-means and hierarchical clustering functions. Also, existing graphical tools and statistical methods in DREES were replaced with a library of the Matlab toolboxes. We analyzed several radiotherapy outcomes datasets with our tools and showed that these can be effectively used for building normal tissue complication probability (NTCP) and tumor control probability (TCP) models.
+
+
+CONCLUSIONS
+We have developed an integrated software tool for modeling and visualization of radiotherapy outcomes data within the Matlab programming environment. It is our expectation that this tool could help physicians and scientists better understand the complex mechanism of disease and identify clinical and biological factors related to outcomes.

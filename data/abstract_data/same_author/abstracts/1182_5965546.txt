@@ -1,0 +1,2 @@
+An Algorithm for Testing Structure Freeness of Biomolecular Sequences
+We are concerned with a problem of checking the structure freeness of S + for a given set S of DNA sequences. It is still open whether or not there exists an efficient algorithm for this problem. In this paper, we will give an efficient algorithm to check the structure freeness of S + under the constraint that every sequence may form only linear secondary structures, which partially solves the open problem.

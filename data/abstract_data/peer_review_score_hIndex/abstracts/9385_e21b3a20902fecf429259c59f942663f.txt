@@ -1,0 +1,15 @@
+Adaptive Hierarchical Hyper-gradient Descent
+Adaptive learning rates can lead to faster convergence and better final performance
+for deep learning models. There are several widely known human-designed adap-
+tive optimizers such as Adam and RMSProp,  gradient based adaptive methods
+such as hyper-descent and L4, and meta learning approaches including learning
+to learn. However, the issue of balancing adaptiveness and over-parameterization
+is still a topic to be addressed.   In this study,  we investigate different levels of
+learning rate adaptation based on the framework of hyper-gradient descent, and
+further propose a method that adaptively learns the model parameters for combin-
+ing different levels of adaptations. Meanwhile, we show the relationship between
+adding regularization on over-parameterized learning rates and building combi-
+nations of different levels of adaptive learning rates.  The experiments on several
+network architectures including feed-forward networks, LeNet-5 and ResNet-18/34
+show  that  the  proposed  multi-level  adaptive  approach  can  outperform  baseline
+adaptive methods in a variety circumstances with statistical significance.

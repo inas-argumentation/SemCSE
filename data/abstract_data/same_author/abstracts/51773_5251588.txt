@@ -1,0 +1,2 @@
+A case-study in component-based mechanical verification of fault-tolerant programs
+We present a case study to demonstrate that the decomposition of a fault tolerant program into its components is useful in its mechanical verification. More specifically we discuss our experience in using the theorem prover PVS to verify Dijkstra's token ring program in a component based manner. We also demonstrate the advantages of component based mechanical verification.

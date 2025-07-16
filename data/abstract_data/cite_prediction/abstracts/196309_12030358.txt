@@ -1,0 +1,2 @@
+A comparison of three-level converters versus two-level converters for low-voltage drives, traction, and utility applications
+This paper evaluates three-level topologies as alternatives to two-level topologies in converters for low-voltage applications. Topologies, semiconductor losses, filter aspects, part count, initial cost, and life-cycle cost are compared for a grid interface, a conventional drive application, and a high-speed drive application.

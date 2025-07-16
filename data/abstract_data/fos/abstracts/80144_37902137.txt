@@ -1,0 +1,2 @@
+An approximate solution of a nonlinear fractional differential equation by Adomian decomposition method
+The aim of the present analysis is to apply Adomian decomposition method for the solution of a nonlinear fractional differential equation. Finally, the solution obtained by the decomposition method has been numerically evaluated and presented in the form of tables and then compared with those obtained by truncated series method. A good agreement of the results is observed.

@@ -1,0 +1,2 @@
+ON THE UNBIASED ESTIMATOR OF THE EFFICIENT FRONTIER
+In the paper, we derive an unbiased estimator of the efficient frontier. It is shown that the suggested estimator corrects the overoptimism of the sample efficient frontier documented in Siegel and Woodgate (2007). Moreover, an exact F-test on the efficient frontier is presented.

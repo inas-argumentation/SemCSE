@@ -1,0 +1,2 @@
+Stability of stochastic optimization problems - nonmeasurable case
+This paper deals with stability of stochastic optimization problems in a general setting. Objective function is defined on a metric space and depends on a probability measure which is unknown, but, estimated from empirical observations. We try to derive stability results without precise knowledge of problem structure and without measurability assumption. Moreover, e-optimal solutions are considered. The setup is illustrated on consistency of a e-M-estimator in linear regression model.

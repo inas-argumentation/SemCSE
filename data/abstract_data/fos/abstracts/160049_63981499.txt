@@ -1,0 +1,2 @@
+One Kind of Parallel Algorithm of Ant Colony Optimization to Learn Bayesian Network
+One of important approaches to learn Bayesian networks uses a scoring metric to find the most appropriate candidate network for the data base. ACOB(ant colony optimization B algorithm) is an algorithm of the metaheuristic to solve the problem.An improved algorithm--PACOB is proposed which is based on ACOB.It shows a good performance compared with ACOB based on the experiments,and it is one of good and forceful methods to learn Bayesian networks.

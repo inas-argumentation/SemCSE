@@ -1,0 +1,2 @@
+On the semilocal convergence of a fast two-step Newton method
+We provide a semilocal convergence analysis for a cubically convergent two-step Newton method (2) recently introduced by H. Homeier [8], [9], and also studied by A. A�zban [13]. In contrast to the above works we examine the semilocal convergence of the method in a Banach space setting, instead of the local in the real or complex number case. A comparison is given with a two step Newton--like method using the same information

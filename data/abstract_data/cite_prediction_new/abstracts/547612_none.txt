@@ -1,0 +1,15 @@
+Intensity modulated versus non-intensity modulated radiotherapy in the treatment of the left breast and upper internal mammary lymph node chain: a comparative planning study.
+BACKGROUND AND PURPOSE
+To compare and evaluate intensity modulated (IMRT) and non-intensity modulated radiotherapy techniques in the treatment of the left breast and upper internal mammary lymph node chain.
+
+
+MATERIALS AND METHODS
+The breast, upper internal mammary chain (IMC), heart and lungs were delineated on a computed tomography (CT)-scan for 12 patients. Three different treatment plans were created: (1) tangential photon fields with oblique IMC electron-photon fields with manually optimized beam weights and wedges, (2) wide split tangential photon fields with a heart block and computer optimized wedge angles, and (3) IMRT tangential photon fields. For the IMRT technique, an inverse planning program (KonRad) generated the intensity profiles and a clinical three-dimensional treatment planning system (U-MPlan) optimized the segment weights. U-MPlan calculated the dose distribution for all three techniques. The normal tissue complication probabilities (NTCPs) for the organs at risk (ORs) were calculated for comparison.
+
+
+RESULTS
+The average root mean square deviation of the differential dose-volume histogram of the breast planning target volume was 4.6, 3.9 and 3.5% and the average mean dose to the IMC was 97.2, 108.0 and 99.6% for the oblique electron, wide split tangent and IMRT techniques, respectively. The average NTCP for the ORs (i.e. heart and lungs) were comparable between the oblique electron and IMRT techniques (<or=0.7%). The wide split tangent technique resulted in higher NTCP values (>or=2%) for the ORs.
+
+
+CONCLUSIONS
+The lowest NTCP values were found with the oblique electron and the IMRT techniques. The IMRT technique had the best breast and IMC target coverage.

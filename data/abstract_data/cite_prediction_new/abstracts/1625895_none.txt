@@ -1,0 +1,2 @@
+|Γ;L|-dependent polynomial behavioral model for RF power transistors
+A new, load reflection magnitude (|ΓL|)-dependent, Reduced-complexity Polynomial (RP) behavioral model is introduced in this paper. The presented model provides good accuracy while only requiring a small number of parameters. The potential of this model to help design a nonlinear circuit is demonstrated through the design of a broadband power amplifier (PA) with drain efficiency between 65-79% from 1.5 GHz to 2.5 GHz.

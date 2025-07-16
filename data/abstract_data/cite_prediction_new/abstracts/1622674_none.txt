@@ -1,0 +1,2 @@
+The AppScale Cloud Platform: Enabling Portable, Scalable Web Application Deployment
+AppScale is an open source distributed software system that implements a cloud platform as a service (PaaS). AppScale makes cloud applications easy to deploy and scale over disparate cloud fabrics, implementing a set of APIs and architecture that also makes apps portable across the services they employ. AppScale is API-compatible with Google App Engine (GAE) and thus executes GAE applications on-premise or over other cloud infrastructures, without modification.

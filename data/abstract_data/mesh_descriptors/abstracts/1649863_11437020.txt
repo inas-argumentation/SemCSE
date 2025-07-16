@@ -1,0 +1,15 @@
+CT lung densitometry: dependence of CT number histograms on sample volume and consequences for scan protocol comparability.
+PURPOSE
+Our goals were to determine the dependence of CT number histograms of the lung on section thickness and reconstruction filter and to evaluate the consequences for scan protocol conformity required for universally comparable densitometry of the lungs.
+
+
+METHOD
+The effects of section thickness and reconstruction filter were parameterized with the CT's sample volume [V approximately (section thickness x in-plane resolution2)]. In a study of 31 patients, we determined as a function of V the following CT number histogram parameters: percentiles P(10) and P(90), pixel indexes PI(-905) and PI(-950), and standard deviation.
+
+
+RESULTS
+Patient histogram parameters depended strongly on sample volume. Large differences were found between protocols using 1 and 10 mm sections. For small variations in somewhat larger sample volumes (> 8 mm3), discrepancies were much smaller.
+
+
+CONCLUSION
+To obtain comparable histogram parameters, nearly identical sample volumes (> or = 8 mm3) should be used. When this condition is satisfied, available data suggest that universally comparable densitometry is feasible.

@@ -1,0 +1,7 @@
+Gaussian Process Neurons
+We propose a method to learn stochastic activation functions for use in probabilistic neural networks.
+First, we develop a framework to embed stochastic activation functions based on Gaussian processes in probabilistic neural networks.
+Second, we analytically derive expressions for the propagation of means and covariances in such a network, thus allowing for an efficient implementation and training without the need for sampling.
+Third, we show how to apply variational Bayesian inference to regularize and efficiently train this model.
+The resulting model can deal with uncertain inputs and implicitly provides an estimate of the confidence of its predictions.
+Like a conventional neural network it can scale to datasets of arbitrary size and be extended with convolutional and recurrent connections, if desired.

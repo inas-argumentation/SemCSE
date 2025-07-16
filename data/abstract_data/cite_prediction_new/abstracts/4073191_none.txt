@@ -1,0 +1,2 @@
+The maximum diameter of total domination edge-critical graphs
+A set S of vertices in a graph G is a total dominating set of G if every vertex of G is adjacent to some vertex in S. The minimum cardinality of a total dominating set of G is the total domination number @c"t(G) of G. The graph G is total domination edge-critical if for every edge e in the complement of G, @c"t(G+e) =2, we show that the maximum diameter of a k"tEC graph is at least @?3(k-1)/[email protected]? and this bound is sharp for small [email protected]?6.

@@ -1,0 +1,2 @@
+An Application of Computer Vision Systems to Unmanned Aerial Vehicle Autolanding
+The paper considers an approach to autolanding system for multi rotor unmanned aerial vehicle based on computer vision and visual markers usage instead of global positioning and radio navigation systems. Different architectures of autolanding infrastructure are considered and requirements for key components of autolanding systems are formulated.

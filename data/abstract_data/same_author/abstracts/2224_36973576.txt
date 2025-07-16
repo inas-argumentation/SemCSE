@@ -1,0 +1,2 @@
+On Learning to Coordinate: Random Bits Help, Insightful Normal Forms, and Competency Isomorphisms
+A mere bounded number of random bits judiciously employed by a probabilistically correct algorithmic coordinator is shown to increase the power of learning to coordinate compared to deterministic algorithmic coordinators. Furthermore, these probabilistic algorithmic coordinators are provably not characterized in power by teams of deterministic ones.

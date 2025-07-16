@@ -1,0 +1,2 @@
+An Algorithmic Approach to the Mellin Transform Method
+We present proofs for typical entries from the Gradshteyn-Ryzhik Table of Integrals using the Mellin transform method and computer algebra algorithms based on WZ theory. After representing an identity from the Table in terms of multiple contour integrals of Barnes’ type and nested sums, we use Wegschaider’s summation algorithm to find recurrences satisfied by both sides of this identity and check finitely many initial values.

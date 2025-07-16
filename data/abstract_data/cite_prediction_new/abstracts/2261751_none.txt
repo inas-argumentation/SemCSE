@@ -1,0 +1,2 @@
+The SeismoCloud App: Your Smartphone as a Seismometer
+We designed and developed an app, for iOS and Android, which uses internal device accelerometer to detect earthquakes that may occur while the smartphone is stable on a at surface and to deliver a crowdsourced early warning to users in the region where the earthquake might be dangerous. We describe our interface for the Android operating system and we compare our system to the other main research work.

@@ -1,0 +1,2 @@
+Characterization of the Homomorphic Preimages of Certain Oriented Cycles
+The classes of digraphs that can be homomorphically mapped to certain oriented cycles are characterized by the forbidden homomorphic preimages. This characterization can be used to prove the membership of the corresponding decision problems in the class ${\text{NP}} \cap {\text{coNP}}$.

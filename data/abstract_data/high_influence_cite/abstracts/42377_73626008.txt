@@ -1,0 +1,2 @@
+The Neumann Boundary Problem for Elliptic Partial Differential Equations with Nonlinear Divergence Terms
+We prove the existence and uniqueness of weak solution of a Neumann boundary problem for an elliptic partial differential equation (PDE for short) with a singular divergence term which can only be understood in a weak sense. A probabilistic approach is applied by studying the backward stochastic differential equation (BSDE for short) corresponding to the PDE.

@@ -1,0 +1,2 @@
+Deviation of the Error Estimation for Second Order Fredholm-Volterra Integro Differential Equations
+In this paper we study the deviation of the error estimation for the second order Fredholm-Volterra integro-differential equations. We prove that for m degree piecewise polynomial collocation method, our method provides O(hm+1) as the order of the deviation of the error. Also numerical results in the final section are included to confirm the theoretical results.

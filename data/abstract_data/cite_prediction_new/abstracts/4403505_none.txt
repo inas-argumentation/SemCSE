@@ -1,0 +1,19 @@
+General prognostic scores in outcome prediction for cancer patients admitted to the intensive care unit.
+BACKGROUND
+Intensivists and nursing staff are often reluctant to admit patients with cancer to the intensive care unit even though these patients' survival rate has improved since the 1980s.
+
+
+OBJECTIVE
+To identify factors associated with mortality in cancer patients admitted to the intensive care unit and to assess and compare the effectiveness of 3 general prognostic models: the Acute Physiology and Chronic Health Evaluation (APACHE) II, the Simplified Acute Physiology Score (SAPS II), and the Sequential Organ Failure Assessment (SOFA).
+
+
+METHODS
+A prospective observational cohort study was performed in 2 general intensive care units. Discrimination was assessed by using area under the receiver operating characteristic curves, and calibration was evaluated by using Hosmer-Lemeshow goodness-of-fit tests.
+
+
+RESULTS
+A total of 126 patients were included during a 3-year period. The observed mortality was 46.8%. All 3 general models showed excellent discrimination (area under the curve >0.8) and good calibration (P = .17, .14, and .22 for APACHE II, SAPS II, and SOFA, respectively). However, discrimination was significantly better with APACHE II scores than with SOFA scores (P = .02). Multivariate analyses indicated that independent of the 3 severity-of-illness scores, unfavorable risk factors for mortality included a patient's preadmission performance status, source of admission (internal medicine vs surgery department), and the presence of septic shock, infection, or anemia. Combining SOFA and SAPS II scores with these variables created prognostic models with improved calibration and discrimination.
+
+
+CONCLUSIONS
+The general prognostic models seem fairly accurate in the prediction of mortality in critically ill cancer patients in the intensive care unit.

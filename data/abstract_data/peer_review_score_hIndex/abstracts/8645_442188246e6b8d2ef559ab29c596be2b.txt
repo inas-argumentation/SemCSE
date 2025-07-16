@@ -1,0 +1,3 @@
+Learning Curve Prediction with Bayesian Neural Networks
+Different neural network architectures, hyperparameters and training protocols lead to different performances as a function of time.
+Human experts routinely inspect the resulting learning curves to quickly terminate runs with poor hyperparameter settings and thereby considerably speed up manual hyperparameter optimization. Exploiting the same information in automatic Bayesian hyperparameter optimization requires a probabilistic model of learning curves across hyperparameter settings. Here, we study the use of Bayesian neural networks for this purpose and improve their performance by a specialized learning curve layer.

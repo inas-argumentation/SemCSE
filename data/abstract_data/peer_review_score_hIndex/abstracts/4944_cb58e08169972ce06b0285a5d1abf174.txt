@@ -1,0 +1,16 @@
+LEARNING SEMANTIC WORD RESPRESENTATIONS VIA TENSOR FACTORIZATION
+Many state-of-the-art word embedding techniques involve factorization of a cooccurrence
+based matrix. We aim to extend this approach by studying word embedding
+techniques that involve factorization of co-occurrence based tensors (N-
+way arrays). We present two new word embedding techniques based on tensor
+factorization and show that they outperform common methods on several semantic
+NLP tasks when given the same data. To train one of the embeddings, we present
+a new joint tensor factorization problem and an approach for solving it. Furthermore,
+we modify the performance metrics for the Outlier Detection Camacho-
+Collados & Navigli (2016) task to measure the quality of higher-order relationships
+that a word embedding captures. Our tensor-based methods significantly
+outperform existing methods at this task when using our new metric. Finally, we
+demonstrate that vectors in our embeddings can be composed multiplicatively to
+create different vector representations for each meaning of a polysemous word.
+We show that this property stems from the higher order information that the vectors
+contain, and thus is unique to our tensor based embeddings.

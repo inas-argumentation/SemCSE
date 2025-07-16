@@ -1,0 +1,2 @@
+Inequality Constraints in Causal Models with Hidden Variables
+We present a class of inequality constraints on the set of distributions induced by local interventions on variables governed by a causal Bayesian network, in which some of the variables remain unmeasured. We derive bounds on causal effects that are not directly measured in randomized experiments. We derive instrumental inequality type of constraints on nonexperimental distributions. The results have applications in testing causal models with observational or experimental data.

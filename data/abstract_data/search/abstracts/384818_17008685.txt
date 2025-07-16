@@ -1,0 +1,2 @@
+The World Problem: on the Computability of the Topology of 4 manifolds
+Topological classification of the 4 manifolds bridges computation theory and physics. A proof of the undecidability of the homeomorphy problem for 4 manifolds is outlined here in a clarifying way. It is shown that an arbitrary Turing machine with an arbitrary input can be encoded into the topology of a 4 manifold, such that the 4 manifold is homeomorphic to a certain other 4 manifold if and only if the corresponding Turing machine halts on the associated input. Physical implications are briefly discussed.

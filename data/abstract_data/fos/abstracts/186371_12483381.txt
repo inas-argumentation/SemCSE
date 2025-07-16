@@ -1,0 +1,15 @@
+SU-E-T-274: Monte Carlo Simulations of Output Factors for a Small Animal Irradiator.
+PURPOSE
+Measurement of dosimetric parameters of small photon beams, with field sizes as small 1 mm in diameter, is particularly challenging. This work utilizes Monte Carlo techniques to calculate percent depth dose (PDD) and output factors for small photon fields from a kV x-ray based small animal irradiator.
+
+
+METHODS
+Absolute dose calibration of a commercial small animal stereotactic irradiator (XRAD225, Precision X-ray) was performed in accordance with the recommendations of AAPM TG-61 protocol. Both in-air and in-water calibrations were performed at a 30.4 cm source-to-surface distance (SSD) for a reference collimator 50 mm in diameter. The BEAM/EGS was used to model 225 kV photon beams used for most therapeutic applications. The Monte Carlo model was provided good agreement with measured beam characteristics, e.g. PDD and off-axis ratios. Subsequently, output factors for various square and circular applicators were measured using an ionization chamber and radiochromic film, and compared with MC simulations. Directional Bremsstrahlung splitting (DBS) was utilized for variance reduction to improve efficiency of the output factor simulations. The statistical uncertainty on the MC- calculated results is between 0.5% and 1% for most points.
+
+
+RESULTS
+The absolute dose measured for reference collimator at 30.4 cm SSD in water and in air is 4.1 and 4.12 Gy/min. The agreement between simulated and measured output factors was excellent, ranging from 1% to 2.84%. The MC- simulated and measured depth dose data, normalized at the surface, show excellent agreement, with a maximum deviation is approximately 2.5 %.
+
+
+CONCLUSIONS
+Monte Carlo simulation provides an indispensible tool for validating measurements of the smallest field sizes used in preclinical small animal irradiation.

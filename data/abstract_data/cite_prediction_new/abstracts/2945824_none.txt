@@ -1,0 +1,2 @@
+Design of a teleoperated mobile robot test platform
+This paper presents the design of a teleoperated mobile robot test bed developed at the Advanced Robotics and Teleoperation Lab., University of Alberta. A brief mechanical description is given, followed by presentation of a higher flexible workcell hardware structure utilising four distinct computational elements. The system software, written using TCL/TK and C, is presented along with an outline of the overall control algorithm. The operator's graphical interface is also described.

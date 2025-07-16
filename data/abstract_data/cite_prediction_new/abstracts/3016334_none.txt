@@ -1,0 +1,2 @@
+Efficient processing of binary shape masks in the compressed domain using generalized finite transducers
+In this paper we describe a new algorithm for binary shape masks processing in the compressed domain using generalised finite transducers [GFT] based on permutation set mapping. The proposed algorithm outperforms the existing algorithms in both compression efficiency and complexity. Moreover, the processed visual data maintain the original visual perceptual quality. Experimental results are presented to show the gain in compression efficiency.

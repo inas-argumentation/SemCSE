@@ -1,0 +1,2 @@
+Neural Networks and Genetic Algorithms for the Attitude Control Problem
+A general adaptive control method using genetic algorithms and neural networks is proposed and applied to a highly nonlinear problem, the attitude control problem. Examples are given where the method successfully control a rigid body satellite with unknown dynamics, including an example where the satellite is subject to external forces trying to lead it into a chaotic motion.

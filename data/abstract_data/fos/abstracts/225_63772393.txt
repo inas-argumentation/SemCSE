@@ -1,0 +1,2 @@
+The Interface of the Non-standard Keyboard with the PC
+Industrial computers have the standard interface with the 101-key keyboard, but most of them usenon-standard. non-coded keyboards. So it is valuable to develop a kind of communication interfacewhich can not only communicate with industrial computers through the standard PC keyboardinterface but also drive non-standard keyboards. In this paper a kind of such interface realized with8051 is introduced.

@@ -1,0 +1,2 @@
+How Explicit Are the Barriers to Failure in Safety Arguments?
+Safety cases embody arguments that demonstrate how safety properties of a system are upheld. Such cases implicitly document the barriers that must exist between hazards and vulnerable components of a system. For safety certification, it is the analysis of these barriers that provide confidence in the safety of the system.

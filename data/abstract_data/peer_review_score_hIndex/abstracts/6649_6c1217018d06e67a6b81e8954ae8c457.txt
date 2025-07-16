@@ -1,0 +1,14 @@
+Characterising the Area Under the Curve Loss Function Landscape
+ One of the most common metrics to evaluate neural network classifiers is the
+area under the receiver operating characteristic curve (AUC). However, 
+optimisation of the AUC as the loss function during network
+training is not a standard procedure. Here we compare minimising the cross-entropy (CE) loss
+and optimising the AUC directly. In particular, we analyse the loss function
+landscape (LFL) of approximate AUC (appAUC) loss functions to discover
+the organisation of this solution space. We discuss various surrogates for AUC approximation and show their differences.
+We find that the characteristics of the appAUC landscape are significantly
+different from the CE landscape. The approximate AUC loss function improves
+testing AUC, and the appAUC landscape has substantially more minima, but
+these minima are less robust, with larger average Hessian eigenvalues. We provide a theoretical foundation to explain these results.
+To generalise our results, we lastly provide an overview of how the
+LFL can help to guide loss function analysis and selection. 

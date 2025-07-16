@@ -1,0 +1,2 @@
+Interacting with sonification systems: closing the loop
+This paper stresses the importance of the human user being tightly embedded within an interactive control loop for exploring data sets using sound. We consider the quality of interaction, and how this can be improved in computer systems by learning from real-world acoustic interactions. We describe how different sonification methods can utilise the human feedback loop to enhance the perception and analysis of the data under investigation. Some considerations are given regarding systems and applications.

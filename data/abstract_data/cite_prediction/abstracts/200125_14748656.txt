@@ -1,0 +1,11 @@
+A multiple kernel support vector machine scheme for feature selection and rule extraction from gene expression data of cancer tissue
+OBJECTIVE
+Recently, gene expression profiling using microarray techniques has been shown as a promising tool to improve the diagnosis and treatment of cancer. Gene expression data contain high level of noise and the overwhelming number of genes relative to the number of available samples. It brings out a great challenge for machine learning and statistic techniques. Support vector machine (SVM) has been successfully used to classify gene expression data of cancer tissue. In the medical field, it is crucial to deliver the user a transparent decision process. How to explain the computed solutions and present the extracted knowledge becomes a main obstacle for SVM.
+
+
+MATERIAL AND METHODS
+A multiple kernel support vector machine (MK-SVM) scheme, consisting of feature selection, rule extraction and prediction modeling is proposed to improve the explanation capacity of SVM. In this scheme, we show that the feature selection problem can be translated into an ordinary multiple parameters learning problem. And a shrinkage approach: 1-norm based linear programming is proposed to obtain the sparse parameters and the corresponding selected features. We propose a novel rule extraction approach using the information provided by the separating hyperplane and support vectors to improve the generalization capacity and comprehensibility of rules and reduce the computational complexity.
+
+
+RESULTS AND CONCLUSION
+Two public gene expression datasets: leukemia dataset and colon tumor dataset are used to demonstrate the performance of this approach. Using the small number of selected genes, MK-SVM achieves encouraging classification accuracy: more than 90% for both two datasets. Moreover, very simple rules with linguist labels are extracted. The rule sets have high diagnostic power because of their good classification performance.

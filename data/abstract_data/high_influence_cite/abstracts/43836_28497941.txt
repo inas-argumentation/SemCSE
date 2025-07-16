@@ -1,0 +1,2 @@
+The Interplay of Curvature and Vortices in Flow on Curved Surfaces
+Incompressible fluids on curved surfaces are considered with respect to the interplay between topology, geometry and fluid properties using a surface vorticity-stream function formulation, which is solved using parametric finite elements. Motivated by designed examples for superfluids, we consider the influence of a geometric potential on vortices for fluids with finite viscosity and show numerical examples in which a change in the geometry is used to manipulate the flow field.

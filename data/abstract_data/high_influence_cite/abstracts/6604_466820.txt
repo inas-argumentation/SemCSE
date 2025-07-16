@@ -1,0 +1,15 @@
+Accurate prediction of HIV-1 drug response from the reverse transcriptase and protease amino acid sequences using sparse models created by convex optimization
+MOTIVATION
+Genotype-phenotype modeling problems are often overcomplete, or ill-posed, since the number of potential predictors-genes, proteins, mutations and their interactions-is large relative to the number of measured outcomes. Such datasets can still be used to train sparse parameter models that generalize accurately, by exerting a principle similar to Occam's Razor: When many possible theories can explain the observations, the most simple is most likely to be correct. We apply this philosophy to modeling the drug response of Type-1 Human Immunodeficiency Virus (HIV-1). Owing to the decreasing expense of genetic sequencing relative to in vitro phenotype testing, a statistical model that reliably predicts viral drug response from genetic data is an important tool in the selection of antiretroviral therapy (ART). The optimization techniques described will have application to many genotype-phenotype modeling problems for the purpose of enhancing clinical decisions.
+
+
+RESULTS
+We describe two regression techniques for predicting viral phenotype in response to ART from genetic sequence data. Both techniques employ convex optimization for the continuous subset selection of a sparse set of model parameters. The first technique, the least absolute shrinkage and selection operator, uses the l(1) norm loss function to create a sparse linear model; the second, the support vector machine with radial basis kernel functions, uses the epsilon-insensitive loss function to create a sparse non-linear model. The techniques are applied to predict the response of the HIV-1 virus to 10 reverse transcriptase inhibitor and 7 protease inhibitor drugs. The genetic data are derived from the HIV coding sequences for the reverse transcriptase and protease enzymes. When tested by cross-validation with actual laboratory measurements, these models predict drug response phenotype more accurately than models previously discussed in the literature, and other canonical techniques described here. Key features of the methods that enable this performance are the tendency to generate simple models where many of the parameters are zero, and the convexity of the cost function, which assures that we can find model parameters to globally minimize the cost function for a particular training dataset.
+
+
+AVAILABILITY
+Results, tables and figures are available at ftp://ftp.genesecurity.net.
+
+
+SUPPLEMENTARY INFORMATION
+An Appendix to accompany this article is available at Bioinformatics online.

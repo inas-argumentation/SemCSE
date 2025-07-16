@@ -1,0 +1,2 @@
+Amdahl's Law in the Multicore Era
+Augmenting Amdahl's law with a corollary for multicore hardware makes it relevant to future generations of chips with multiple processor cores. Obtaining optimal multicore performance will require further research in both extracting more parallelism and making sequential cores faster.

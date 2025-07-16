@@ -1,0 +1,2 @@
+Enhanced algorithm performance for land cover classification from remotely sensed data using bagging and boosting
+Two ensemble methods, bagging and boosting, were investigated for improving algorithm performance. The authors' results confirmed the theoretical explanation of L. Breiman (1996) that bagging improves unstable, but not stable, learning algorithms. While boosting enhanced accuracy of a weak learner, its behavior is subject to the characteristics of each learning algorithm.

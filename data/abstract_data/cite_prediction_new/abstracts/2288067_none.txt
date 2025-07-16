@@ -1,0 +1,2 @@
+Evolutionary algorithm-based multi-criteria optimization of triboelectrostatic separator
+A device for electrostatic separation of triboelectrically charged plastic particles is modeled and optimized. Electric field in the system is solved numerically by a fully adaptive higher-order finite element method. The movement of particles in the device is determined by an adaptive Runge–Kutta–Fehlberg algorithm. The shape optimization of the electrodes is carried out by a technique based on genetic algorithm NSGA-II and also on simulated annealing.

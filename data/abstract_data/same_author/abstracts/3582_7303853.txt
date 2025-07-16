@@ -1,0 +1,2 @@
+Resource sharing in a distributed environment
+Although currently them exist a number of distributed systems and applications, it is true that most of the existing implementations consist of a relatively small number of nodes. Structuring even a small distributed system is a demanding task, but the work becomes much more difficult when the scale of the system is very large. It is on the architecture of such large systems that we will focus hem and wc will discuss the issue of autonomy versus interdependence in that context.

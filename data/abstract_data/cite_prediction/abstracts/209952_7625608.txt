@@ -1,0 +1,2 @@
+Attribute Value Weighting in K-Modes Clustering
+In this paper, the traditional k-modes clustering algorithm is extended by weighting attribute value matches in dissimilarity computation. The use of attribute value weighting technique makes it possible to generate clusters with stronger intra-similarities, and therefore achieve better clustering performance. Experimental results on real life datasets show that these value weighting based k-modes algorithms are superior to the standard k-modes algorithm with respect to clustering accuracy.

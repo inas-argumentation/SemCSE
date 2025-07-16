@@ -1,0 +1,2 @@
+Considerations of the nature of the relationship between generalization and interpretability in evolutionary fuzzy systems
+Performance out of sample is a clear determinant of the usefulness of any prediction model regardless of the application. Fuzzy knowledge base systems are also useful due to interpretability; this factor is often cited as an advantage over black box systems which make model verification by expert users more difficult. Here we examine additional advantages of interpretability for promoting general performance out side training data.

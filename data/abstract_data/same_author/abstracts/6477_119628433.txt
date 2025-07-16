@@ -1,0 +1,2 @@
+-symmetric extension of the Korteweg-de Vries equation
+The Korteweg-de Vries equation ut + uux + uxxx = 0 is symmetric (invariant under spacetime reflection). Therefore, it can be generalized and extended into the complex domain in such a way as to preserve the symmetry. The result is the family of complex nonlinear wave equations ut − iu(iux) + uxxx = 0, where is real. The features of these equations are discussed. Special attention is given to the = 3 equation, for which conservation laws are derived and solitary waves are investigated.

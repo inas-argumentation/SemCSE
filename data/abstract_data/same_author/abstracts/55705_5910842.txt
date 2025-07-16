@@ -1,0 +1,11 @@
+Quantitative characterization of the transcriptional regulatory network in the yeast cell cycle
+MOTIVATION
+Genome-wide gene expression programs have been monitored and analyzed in the yeast Saccharomyces cerevisiae, but how cells regulate global gene expression programs in response to environmental changes is still far from being understood. We present a systematic approach to quantitatively characterize the transcriptional regulatory network of the yeast cell cycle. For the interpretative purpose, 20 target genes were selected because their expression patterns fluctuated in a periodic manner concurrent with the cell cycle and peaked at different phases. In addition to the most significant five possible regulators of each specific target gene, the expression pattern of each target gene affected by synergy of the regulators during the cell cycle was characterized. Our first step includes modeling the dynamics of gene expression and extracting the transcription rate from a time-course microarray data. The second step embraces finding the regulators that possess a high correlation with the transcription rate of the target gene, and quantifying the regulatory abilities of the identified regulators.
+
+
+RESULTS
+Our network discerns not only the role of the activator or repressor for each specific regulator, but also the regulatory ability of the regulator to the transcription rate of the target gene. The highly coordinated regulatory network has identified a group of significant regulators responsible for the gene expression program through the cell cycle progress. This approach may be useful for computing the regulatory ability of the transcriptional regulatory networks in more diverse conditions and in more complex eukaryotes.
+
+
+SUPPLEMENTARY INFORMATION
+Matlab code and test data are available at http://www.ee.nthu.edu.tw/~bschen/quantitative/regulatory_network.htm

@@ -1,0 +1,2 @@
+Gated Graph Sequence Neural Networks
+This work on GGS-NN is motivated by the program verification application, where we need to analyze dynamic data structures created in the heap. On a very high level, in this application a machine learning model analyzes the heap states (a graph with memory nodes and pointers as edges) during the execution of a program and comes up with logical formulas that describes the heap. These logical formulas are then fed into a theorem prover to prove the correctness of the program. Problem-specific node annotations are used to initialize .

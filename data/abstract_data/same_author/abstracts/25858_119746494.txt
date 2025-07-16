@@ -1,0 +1,6 @@
+Characteristic features of vector chaos
+Quadratic maps of a vector, depending on a vector parameter and any number of scalars, 
+can be reduced to the transformation x ~ ax(l - x) + dy2 and y ~ h(c - x)y, where d = 0, 1 
+or -1. Such a (3-parameter) set of transformations possesses an extremely rich structure. 
+We have determined the Julia and Mandelbrot sets of this system and have delineated the 
+characteristic types of x-y motion as well as the transition from one regime to the next.

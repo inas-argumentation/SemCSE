@@ -1,0 +1,2 @@
+First performance studies of a pixel-based trigger in the CMS experiment
+An important tool for the discovery of new physics at LHC is the design of a low level trigger with an high power of background rejection. The contribution of pixel detector to the lowest level trigger at CMS is studied focusing on low-energy jet identification, matching the information from calorimeters and pixel detector. In addition, primary vertex algorithms are investigated. The performances are evaluated in terms of, respectively, QCD rejection and multihadronic jets final states efficiency.

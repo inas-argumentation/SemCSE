@@ -1,0 +1,4 @@
+Phase-Based Miss Rate Prediction Across Program Inputs
+Previous work shows the possibility of predicting the cache miss rate (CMR) for all inputs of a program. However, most optimization techniques need to know more than the miss rate of the whole program. Many of them benefit from knowing miss rate of each execution phase of a program for all inputs. 
+ 
+In this paper, we describe a method that divides a program into phases that have a regular locality pattern. Using a regression model, it predicts the reuse signature and then the cache miss rate of each phase for all inputs. We compare the prediction with the actual measurement. The average prediction is over 98% accurate for a set of floating-point programs. The predicted CMR-traces matches the simulated ones in spite of dramatic fluctuations of the miss rate over time. This technique can be used for improving dynamic optimization, benchmarking, and compiler design.

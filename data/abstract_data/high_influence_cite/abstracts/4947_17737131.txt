@@ -1,0 +1,2 @@
+Risk evaluation with enhanced covariance matrix
+We propose a route for the evaluation of risk based on a transformation of the covariance matrix. The approach uses a ‘potential’ or ‘objective’ function. This allows us to rescale data from different assets (or sources) such that each data set then has similar statistical properties in terms of their probability distributions. The method is tested using historical data from both the New York and Warsaw stock exchanges.

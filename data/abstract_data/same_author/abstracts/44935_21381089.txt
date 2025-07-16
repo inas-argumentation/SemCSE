@@ -1,0 +1,2 @@
+Dividing Strategies for the Optimization of a Test Suite
+Use of the divide-and-conquer approach to optimize a test suite does not guarantee that the optimal solutions could be re-constructed from those of the sub-problems. This paper investigates how the re-construction could be achieved with two dividing strategies. Results of a simulation study are also reported.

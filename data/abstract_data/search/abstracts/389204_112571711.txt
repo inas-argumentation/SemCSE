@@ -1,0 +1,2 @@
+Modeling and Simulation for Hydraulic Auxiliary Braking System of Tracked Vehicle
+A hydraulic auxiliary braking system for tracked vehicle was studied.In the system,both hydraulic transmission and hydrostatic transmission were used for auxiliary braking.It was modeled and simulated with Matlab.The simulation results match the experimental results well.It is indicated that the hydraulic auxiliary braking system can satisfy the braking need of modern military tracked vehicles with speed per hour 12.5 km/h above.

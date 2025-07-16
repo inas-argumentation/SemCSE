@@ -1,0 +1,2 @@
+Approximating Polygons and Subdivisions with Minimum Link Paths
+We study several variations on one basic approach to the task of simplifying a plane polygon or subdivision: Fatten the given object and construct an approximation inside the fattened region. We investigate fattening by convolving the segments or vertices with disks and attempt to approximate objects with the minimum number of line segments, or with near the minimum, by using efficient greedy algorithms. We also discuss additional topological constraints such as simplicity.

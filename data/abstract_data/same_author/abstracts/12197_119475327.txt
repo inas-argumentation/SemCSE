@@ -1,0 +1,2 @@
+QCD saturation equations including dipole-dipole correlations
+We derive two coupled nonlinear evolution equations corresponding to the truncation of the Balitsky infinite hierarchy of saturation equations after inclusion of dipole-dipole correlations, i.e., one step beyond the Balitsky-Kovchegov (BK) equation. We exhibit an exact solution for maximal correlation which still satisfies the same asymptotic geometric scaling as BK but with the S matrix going to 1/2 (instead of zero) in the full saturation region.

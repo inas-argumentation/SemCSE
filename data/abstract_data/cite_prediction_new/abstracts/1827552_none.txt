@@ -1,0 +1,2 @@
+The Draco Approach Revisited : Model-Driven Software Reuse
+Many software reuse approaches were proposed, most of them based on domain analysis, first investigated in 1980 by Neighbors and the Draco approach. He also investigated many concepts that are being currently revisited in model-driven development (MDD). Although conceptually valid, Draco had some problems, mainly in terms of practical applicability. This paper shows how these can now be solved using current state-of-the-art and practice MDD technologies, toward a model-driven software reuse approach.

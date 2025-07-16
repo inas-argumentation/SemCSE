@@ -1,0 +1,2 @@
+Self adaptive differential evolution algorithm for numerical optimization
+In this paper, we propose a novel self adaptive differential evolution algorithm (SaDE) where the choice of learning strategy and the two control parameters F and CR are not required to be pre specified. During evolution, the suitable learning strategy and parameter settings are gradually self adapted according to the learning experience. The performance of the SaDE is reported on the set of 25 benchmark functions provided by CEC2005 special session on real parameter optimization.

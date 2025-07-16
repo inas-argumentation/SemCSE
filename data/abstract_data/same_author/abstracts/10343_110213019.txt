@@ -1,0 +1,2 @@
+A fast track trigger processor for the opal detector at LEP
+A fast hardware track trigger processor being built for the OPAL experiment is described. The processor will analyse data from the central drift chambers of OPAL to determine whether any tracks come from the interaction region, and thereby eliminate background events. The processor will find tracks over a large angular range, |cos θ | ≲ 0.95. The design of the processor is described, together with a brief account of its hardware implementation for OPAL. The results of feasibility studies are also presented.

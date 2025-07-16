@@ -1,0 +1,11 @@
+Computing competition for light in the GREENLAB model of plant growth: a contribution to the study of the effects of density on resource acquisition and architectural development.
+BACKGROUND AND AIMS
+The dynamical system of plant growth GREENLAB was originally developed for individual plants, without explicitly taking into account interplant competition for light. Inspired by the competition models developed in the context of forest science for mono-specific stands, we propose to adapt the method of crown projection onto the x-y plane to GREENLAB, in order to study the effects of density on resource acquisition and on architectural development.
+
+
+METHODS
+The empirical production equation of GREENLAB is extrapolated to stands by computing the exposed photosynthetic foliage area of each plant. The computation is based on the combination of Poisson models of leaf distribution for all the neighbouring plants whose crown projection surfaces overlap. To study the effects of density on architectural development, we link the proposed competition model to the model of interaction between functional growth and structural development introduced by Mathieu (2006, PhD Thesis, Ecole Centrale de Paris, France).
+
+
+KEY RESULTS AND CONCLUSIONS
+The model is applied to mono-specific field crops and forest stands. For high-density crops at full cover, the model is shown to be equivalent to the classical equation of field crop production (Howell and Musick, 1985, in Les besoins en eau des cultures; Paris: INRA Editions). However, our method is more accurate at the early stages of growth (before cover) or in the case of intermediate densities. It may potentially account for local effects, such as uneven spacing, variation in the time of plant emergence or variation in seed biomass. The application of the model to trees illustrates the expression of plant plasticity in response to competition for light. Density strongly impacts on tree architectural development through interactions with the source-sink balances during growth. The effects of density on tree height and radial growth that are commonly observed in real stands appear as emerging properties of the model.

@@ -1,0 +1,2 @@
+Analysis of thermo-chemical nonequilibrium models for carbon dioxide flows
+The aerothermodynamics of thermochemical nonequilibrium carbon dioxide flows are studied. The chemical kinetics models of McKenzie and Park are implemented in a three-dimensional computational fluid dynamics code. The code incorporates a five-species gas model characterized by translational-rotational and vibrational temperatures. Solutions are obtained for flow over finite-length elliptical and circular cylinders for a freestream conditon of u∞=4.24 km/s, T∞=1970 K, and h 0 ∞=9.0 MJ/kg

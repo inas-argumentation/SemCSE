@@ -1,0 +1,2 @@
+Two-stage high gain low power OpAmp with current buffer compensation
+This paper presents the classic two stage CMOS opamp design by employing the current buffer compensation strategy. The designed low power opamp produces an open loop gain above 78 dB, an improved gain-bandwidth product (GBW) 5.82 MHz with an adequate pahse margin of 63.9° in 0.35 μm CMOS technology. The circuit is operated at the single supply voltage of 3.3V with power dissipation of 144.3 μW and an enhanced offset voltage of only 61.5 μV compare to 318 μV offset in [7].

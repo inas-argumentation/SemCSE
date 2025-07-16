@@ -1,0 +1,2 @@
+Detecting and counting people in surveillance applications
+A number of surveillance scenarios require the detection and tracking of people. Although person detection and counting systems are commercially available today, there is need for further research to address the challenges of real world scenarios. The focus of this work is the segmentation of groups of people into individuals. One relevant application of this algorithm is people counting. Experiments document that the presented approach leads to robust people counts.

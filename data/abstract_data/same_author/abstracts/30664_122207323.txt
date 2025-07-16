@@ -1,0 +1,2 @@
+Numerical study of the Langevin equation in the twisted Eguchi-Kawai model: Distribution of the eigenvalues of the plaquette matrix
+Abstract The four-dimensional twisted Eguchi-Kawai model is investigated numerically using the Langevin equation. The results for the plaquette energy agree with those of the known Monte Carlo calculations. The new result is the distribution of the eigenvalues of the plaquette matrix. In the strong coupling phase this distribution is smooth, whereas in the weak coupling phase a gap is clearly seen.

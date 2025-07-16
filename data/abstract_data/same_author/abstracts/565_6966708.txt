@@ -1,0 +1,2 @@
+Countering Hostile Forensic Techniques
+Digital forensic investigations can be subverted by hostile forensic techniques and tools. This paper examines various hostile forensic techniques, including the exploitation of vulnerabilities in standard forensic procedures and denial of service attacks on forensic tools during imaging and analysis. Several techniques for concealing evidence within file systems and external to file systems are highlighted. In addition, strategies for countering hostile forensic techniques and tools are discussed.

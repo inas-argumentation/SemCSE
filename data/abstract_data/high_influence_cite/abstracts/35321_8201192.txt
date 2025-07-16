@@ -1,0 +1,2 @@
+A Local to Global Principle for the Complexity of Riemann Mappings (Extended Abstract)
+We show that the computational complexity of Riemann mappings can be bounded by the complexity needed to compute conformal mappings locally at boundary points. As a consequence we get first formally proven upper bounds for Schwarz-Christoffel mappings and, more generally, Riemann mappings of domains with piecewise analytic boundaries.

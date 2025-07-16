@@ -1,0 +1,3 @@
+Hitting probabilities for Lévy processes
+on the real line
+We prove sharp two-sided estimates on the tail probability of the first hitting time of bounded interval as well as its asymptotic behaviour for general non-symmetric processes which satisfy an integral condition ∫ ∞ 0 dξ 1 + Reψ(ξ) < ∞. To this end, we first prove and then apply the global scale invariant Harnack inequality. Results are obtained under certain conditions on the characteristic exponent. We provide a wide class of Lévy processs which satisfy these assumptions.

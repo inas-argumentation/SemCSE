@@ -1,0 +1,2 @@
+zNLP: Identifying Parallel Sentences in Chinese-English Comparable Corpora
+This paper describes the zNLP system for the BUCC 2017 shared task. Our system identifies parallel sentence pairs in Chinese-English comparable corpora by translating word-by-word Chinese sentences into English, using the search engine Solr to select near-parallel sentences and then by using an SVM classifier to identify true parallel sentences from the previous results. It obtains an F1-score of 45% (resp. 43%) on the test (training) set.

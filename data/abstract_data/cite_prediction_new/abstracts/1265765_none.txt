@@ -1,0 +1,2 @@
+Low-power sequential circuit design using T flip-flops
+This paper presents a novel circuit design technique to reduce the power dissipation in sequential circuits by using T flip-flops. The unwanted triggering action of the master clock to flip-flops can be isolated during T = 0. An example design of a decimal counter demonstrates the large power saving and improved performance of the resulting circuit.

@@ -1,0 +1,2 @@
+Social Attitude Towards A Conversational Character
+This paper describes our experience with the design, implementation and validation of a user model for adapting health promotion dialogs with ECAs to the attitude of users toward the agent. The model was conceived in agreement with the theory of social emotions in communication. It integrates a linguistic parser with a dynamic Bayesian network and was learnt from a corpus of data collected with a Wizard of Oz study

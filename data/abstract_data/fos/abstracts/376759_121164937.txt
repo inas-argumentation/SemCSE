@@ -1,0 +1,2 @@
+A bounds test of equality between sets of coefficients in two linear regressions when disturbance variances are unequal
+This article considers the Wald test statistic for testing equality between sets of coefficients in two linear regressions when the disturbance variances are unequal. It is shown that the distribution of the test statistic under the null hypothesis is bounded, asymptotically up to the second order, by the distributions of two F variates multiplied by the number of the regressors.

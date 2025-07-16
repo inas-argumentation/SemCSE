@@ -1,0 +1,22 @@
+Slope stability and rockfall assessment of volcanic tuffs using RPAS with 2-D FEM slope modelling
+. Steep, hardly accessible cliffs of rhyolite tuff in NE Hungary are prone to
+rockfalls, endangering visitors of a castle. Remote sensing techniques were
+employed to obtain data on terrain morphology and to provide slope geometry
+for assessing the stability of these rock walls. A RPAS (Remotely Piloted
+Aircraft System) was used to collect images which were processed by Pix4D
+mapper (structure from motion technology) to generate a point cloud and mesh.
+The georeferencing was made by Global Navigation Satellite System (GNSS) with
+the use of seven ground control points. The obtained digital surface model
+(DSM) was processed (vegetation removal) and the derived digital terrain
+model (DTM) allowed cross sections to be drawn and a joint system to be
+detected. Joint and discontinuity system was also verified by field
+measurements. On-site tests as well as laboratory tests provided additional
+engineering geological data for slope modelling. Stability of cliffs was
+assessed by 2-D FEM (finite element method). Global analyses of cross
+sections show that weak intercalating tuff layers may serve as potential slip
+surfaces. However, at present the greatest hazard is related to planar
+failure along ENE–WSW joints and to wedge failure. The paper demonstrates
+that RPAS is a rapid and useful tool for generating a reliable terrain model
+of hardly accessible cliff faces. It also emphasizes the efficiency of RPAS
+in rockfall hazard assessment in comparison with other remote sensing
+techniques such as terrestrial laser scanning (TLS).

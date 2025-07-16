@@ -1,0 +1,2 @@
+A Kalman filter based methodology for EEG spike enhancement
+In this work, we present a methodology for spike enhancement in electroencephalographic (EEG) recordings. Our approach takes advantage of the non-stationarity nature of the EEG signal using a time-varying autoregressive model. The time-varying coefficients of autoregressive model are estimated using the Kalman filter. The results show considerable improvement in signal-to-noise ratio and significant reduction of the number of false positives.

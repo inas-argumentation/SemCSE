@@ -1,0 +1,2 @@
+On the use of duality in electromagnetism for the modeling of axial flux wheel motors with 2D finite element method
+Two dimensional formulation of a magneto-static problem of axial flux permanent magnet motor is developed. The duality between flux density and current density is presented. It allows using standard 2D finite element code for the computation of the flux and electromotive forces of an axial flux wheel motor.

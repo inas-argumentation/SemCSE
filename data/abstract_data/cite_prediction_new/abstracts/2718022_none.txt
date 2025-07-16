@@ -1,0 +1,2 @@
+The principles of quantification applied to in vivo proton MR spectroscopy.
+Following the identification of metabolite signals in the in vivo MR spectrum, quantification is the procedure to estimate numerical values of their concentrations. The two essential steps are discussed in detail: analysis by fitting a model of prior knowledge, that is, the decomposition of the spectrum into the signals of singular metabolites; then, normalization of these signals to yield concentration estimates. Special attention is given to using the in vivo water signal as internal reference.

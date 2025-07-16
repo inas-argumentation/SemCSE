@@ -1,0 +1,2 @@
+Process Logic for Verifying the Correctness of Business Process Models
+Process verification is a key step in business process management. In this paper, we propose process logic as a new logical formalism and mathematical method to enable advanced process verification. We formally define the syntax and semantics of process logic, establish a formal relationship between process logic and graphical representation of process models, and transform the problem of verifying the correctness of process models into a problem of determining the validity of logic argument forms.

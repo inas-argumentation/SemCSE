@@ -1,0 +1,8 @@
+A Mathematical Model of Melt Lake Development on an Ice Shelf
+The accumulation of surface meltwater on ice shelves can lead to the formation of melt lakes. Melt lakes have been implicated in ice shelf collapse; Antarctica's Larsen B Ice Shelf was observed to have a large amount of surface melt lakes present preceding its collapse in 2002. Such collapse can affect ocean circulation and temperature, cause habitat loss and contribute to sea level rise through the acceleration of tributary glaciers. We present a mathematical model of a surface melt lake on an idealised ice shelf. The model incorporates a calculation of the ice shelf surface energy balance, heat transfer through the firn, the production and percolation of meltwater into the firn, the formation of ice lenses and the development and refreezing of surface melt lakes. 
+ 
+The model is applied to the Larsen C Ice Shelf, where melt lakes have been observed. This region has warmed several times the global average over the last century and the Larsen C firn layer could become saturated with meltwater by the end of the century. 
+ 
+When forced with weather station data, our model produces surface melting, meltwater accumulation, and melt lake development consistent with observations. We examine the sensitivity of lake formation to uncertain parameters, and provide evidence of the importance of processes such as lateral meltwater transport. 
+ 
+We conclude that melt lakes impact surface melt and firn density and warrant inclusion in dynamic-thermodynamic models of ice shelf evolution within climate models, of which our model could form the basis for the thermodynamic component.

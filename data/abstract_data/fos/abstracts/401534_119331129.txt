@@ -1,0 +1,2 @@
+Braid group actions on matrix factorizations
+Let $X$ be a smooth scheme with an action of a reductive algebraic group $G$ over an algebraically closed field $k$ of characteristic zero. We construct an action of the extended affine Braid group on the $G$-equivariant absolute derived category of matrix factorizations on the Grothendieck variety times $T^*X$ with potential given by the Grothendieck-Springer resolution times the moment map composed with the natural pairing.

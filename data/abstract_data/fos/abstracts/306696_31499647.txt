@@ -1,0 +1,2 @@
+A class of multi-point iterative methods for nonlinear equations
+A family of multi-point iterative methods for solving nonlinear equations is described and the order of convergence of its elements is studied. The computational efficiency of some elements of this family, in terms of the number of function evaluations, is also provided. In addition, we present different numerical tests, which confirm or improve the theoretical results and allow us to compare some methods of this family.

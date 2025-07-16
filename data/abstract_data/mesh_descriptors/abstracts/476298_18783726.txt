@@ -1,0 +1,15 @@
+Estimating the odds ratio when exposure has a limit of detection.
+BACKGROUND
+In epidemiologic research, little emphasis has been placed on methods to account for left-hand censoring of 'exposures' due to a limit of detection (LOD).
+
+
+METHODS
+We calculate the odds of anti-HIV therapy naiveté in 45 HIV-infected men as a function of measured log(10) plasma HIV RNA viral load using five approaches including ad hoc methods as well as a maximum likelihood estimate (MLE). We also generated simulations of a binary outcome with 10% incidence and a 1.5-fold increased odds per log increase in a log-normally distributed exposure with 25, 50 and 75% of exposure data below LOD. Simulated data were analysed using the same five methods, as well as the full data.
+
+
+RESULTS
+In the example, the estimated odds ratio (OR) varied by 1.22-fold across methods, from 1.45 to 1.77 per log(10) copies of viral load and the standard error for the log OR varied by 1.52-fold across methods, from 0.31 to 0.47. In the simulations, use of full data or the MLE was unbiased with appropriate confidence interval (CI) coverage. However, as the proportion of exposure below LOD increased, substituting LOD, LOD/ radical 2 or LOD/2 was increasingly biased with increasingly inappropriate CI coverage. Finally, exclusion of values below LOD was unbiased but imprecise.
+
+
+CONCLUSIONS
+In this example and the settings explored by simulation, and among methods readily available to investigators (i.e. sans full data), the MLE provided an unbiased and appropriately precise estimate of the exposure-outcome OR.

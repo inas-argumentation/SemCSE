@@ -1,0 +1,2 @@
+Mixed initial conditions to estimate the dynamic critical exponent in short-time Monte Carlo simulation
+We explore the initial conditions in short-time critical dynamics to propose an alternative way to evaluate the dynamic exponent z. Estimates are obtained with high precision for the 2D Ising model and the 2D Potts model with three and four states by performing heat-bath Monte Carlo simulations.

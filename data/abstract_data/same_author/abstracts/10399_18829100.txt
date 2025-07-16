@@ -1,0 +1,2 @@
+Data acquisition system for the MuLan muon lifetime experiment
+We describe the data acquisition system for the MuLan muon lifetime experiment at Paul Scherrer Institute. The system was designed to record muon decays at rates up to 1 MHz and acquire data at rates up to 60 MB/s. The system employed a parallel network of dual-processor machines and repeating acquisition cycles of deadtime–free time segments in order to reach the design goals. The system incorporated a versatile scheme for control and diagnostics and a custom web interface for monitoring experimental conditions.

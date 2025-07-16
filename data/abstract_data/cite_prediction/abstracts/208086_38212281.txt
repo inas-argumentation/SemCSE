@@ -1,0 +1,2 @@
+The Gavagai Living Lexicon
+This paper presents the Gavagai Living Lexicon, which is an online distributional semantic model currently available in 20 different languages. We describe the underlying distributional semantic model, and how we have solved some of the challenges in applying such a model to large amounts of streaming data. We also describe the architecture of our implementation, and discuss how we deal with continuous quality assurance of the lexicon.

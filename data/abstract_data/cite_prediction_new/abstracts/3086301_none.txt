@@ -1,0 +1,2 @@
+Chaotic dynamics of a frequency-modulated microwave oscillator with time-delayed feedback.
+We present a chaotic frequency-modulated microwave source that is governed by a simple, first-order nonlinear delay differential equation. When a sinusoidal nonlinearity is incorporated, the dynamical behaviors range from fixed-point to periodic to chaotic, depending on the feedback strength. When the sinusoidal nonlinearity is replaced by a binary nonlinearity, the system exhibits a complex periodic attractor with no fixed-point solution.

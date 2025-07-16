@@ -1,0 +1,2 @@
+A Temporal Logic for Real-Time Partial Ordering with Named Transactions
+We extend Lamport's partial-ordering models (Lamport, 1978) for real-time computing and invent to use the concept of named transactions to reference groups of related events. We then propose transaction partial ordering logic (TPOL) as a new specification language with special syntax and high-level semantics tailored to describe the interaction among transactions in a distributed real-time system. Finally, we examine TPOL satisfiability problems with different restrictions.

@@ -1,0 +1,2 @@
+Classification of Fundus Photographs using Full Width Half Maximum Algorithm
+A computerized semiautomatic system has been presented for classification of fundus photographs. This classification is based on feature vectors obtained from twin Gaussian Intensity Distribution and full width half maximum algorithm for vasculature diameter measurement. Diagnostic performance with overall sensitivity of 75% and accuracy of 93% has been achieved using k-NN classifier and neural network both. The performance is evaluated using DRIVE database and fundus photographs from the hospital.

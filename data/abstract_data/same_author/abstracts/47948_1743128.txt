@@ -1,0 +1,8 @@
+Embedding Point Sets into Plane Graphs of Small Dilation
+Let S be a set of points in the plane. What is the minimum possible dilation of all plane graphs that contain S? Even for a set S as simple as five points evenly placed on the circle, this question seems hard to answer; it is not even clear if there exists a lower bound >1. In this paper we provide the first upper and lower bounds for the embedding problem. 
+ 
+Each finite point set can be embedded into the vertex set of a finite triangulation of dilation ≤ 1.1247. 
+ 
+Each embedding of a closed convex curve has dilation ≥ 1.00157. 
+ 
+Let P be the plane graph that results from intersecting n infinite families of equidistant, parallel lines in general position. Then the vertex set of P has dilation $\geq 2/\sqrt{3} \approx 1.1547$.

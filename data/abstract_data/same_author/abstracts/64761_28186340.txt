@@ -1,0 +1,2 @@
+Notions of hyperbolicity in monoids
+We introduce a notion of hyperbolicity in monoids which is a restriction of that suggested by Duncan and Gilman. One advantage is that the notion gives rise to efficient algorithms for dealing with certain questions; for example, the word problem can be solved in time O(nlogn). We also introduce a new way of defining automatic monoids which provides a uniform framework for the discussion of these concepts. Hyperbolic monoids (in the sense introduced here) turn out to be biautomatic.

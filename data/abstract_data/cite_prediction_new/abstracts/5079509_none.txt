@@ -1,0 +1,2 @@
+Relation Browser++: an information exploration and searching tool
+The system we will demo is an interface called Relation Browser++ (RB++), which is intended to help users explore, browse and search large information collection effectively and efficiently. It is the latest updated version of relational browser (Marchionini & Brunk, 2003). Applications of RB++ in several different domains will be demonstrated, such as library video collection, EIA (Energy information administration) web site. Following description is based on the RB++ application for EIA web site.

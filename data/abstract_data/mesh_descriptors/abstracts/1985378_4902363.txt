@@ -1,0 +1,15 @@
+A sequence family database built on ECOD structural domains
+Motivation
+The ECOD database classifies protein domains based on their evolutionary relationships, considering both remote and close homology. The family group in ECOD provides classification of domains that are closely related to each other based on sequence similarity. Due to different perspectives on domain definition, direct application of existing sequence domain databases, such as Pfam, to ECOD struggles with several shortcomings.
+
+
+Results
+We created multiple sequence alignments and profiles from ECOD domains with the help of structural information in alignment building and boundary delineation. We validated the alignment quality by scoring structure superposition to demonstrate that they are comparable to curated seed alignments in Pfam. Comparison to Pfam and CDD reveals that 27 and 16% of ECOD families are new, but they are also dominated by small families, likely because of the sampling bias from the PDB database. There are 35 and 48% of families whose boundaries are modified comparing to counterparts in Pfam and CDD, respectively.
+
+
+Availability and implementation
+The new families are now integrated in the ECOD website. The aggregate HMMER profile library and alignment are available for download on ECOD website (http://prodata.swmed.edu/ecod).
+
+
+Supplementary information
+Supplementary data are available at Bioinformatics online.

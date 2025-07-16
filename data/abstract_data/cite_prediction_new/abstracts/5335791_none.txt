@@ -1,0 +1,2 @@
+Adaptive multi-robot coordination based on resource spending velocity
+Multi-robot systems researchers have been investigating coordination methods for improving spatial coordination in teams [2]. Such methods attempt to resolve spatial conflicts between team-members, e.g., by dynamic setting of right-of-way priorities [3], or territorial separation [1]. It is accepted that no one method is always best [2], and that all methods reach a point where adding robots to the group (i.e., increasing the density of the robots in space) reduces overall productivity [1].

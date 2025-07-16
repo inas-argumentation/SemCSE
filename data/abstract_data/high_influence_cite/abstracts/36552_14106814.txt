@@ -1,0 +1,2 @@
+Admission control and pricing in a queue with batch arrivals
+We investigate a problem of admission control in a queue with batch arrivals. We consider a single server with exponential service times and a compound Poisson arrival process. Each arriving batch computes its expected benefit and decides whether or not to enter the system. The controller's problem is to set state dependent prices for arriving batches. Once prices have been set we formulate the admission control problem, derive properties of the value function, and obtain the optimal admission policy.

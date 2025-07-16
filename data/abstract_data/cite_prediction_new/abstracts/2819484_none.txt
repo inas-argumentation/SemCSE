@@ -1,0 +1,2 @@
+Modeling, simulation and experimental set-up of a boost-flyback converter
+In this work, a theoretical analysis of a boost-flyback converter is presented. The open loop operation and the inner dynamics of the coupled inductors are shown. A complete mathematical model, including the internal resistances of the inductors, is presented and simulated with Matlab®. The system is handled like a finite-state machine with the transition conditions completely defined. Finally, a prototype is implemented and numerical and experimental results agree.

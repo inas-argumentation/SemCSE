@@ -1,0 +1,2 @@
+Question Answering
+In this work, we explore attention based deep neural networks for the task of question answering. More specifically, we look at the task of finding the answer span from the context paragraph for a given question. The model is trained and tested using the recently released Stanford Question Answering Dataset (SQuAD).

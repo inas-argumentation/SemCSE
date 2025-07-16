@@ -1,0 +1,2 @@
+Graphbots: Mobility in Discrete Spaces
+Most previous theoretical work on motion planning has addressed the problem of path planning for geometrically simple robots in geometrically simple regions of Euclidean space (e.g., a planar region containing polygonal obstacles). In this paper we define a natural version of the motion planning problem in a graph theoretic setting. We establish conditions under which a “robot” or team of robots having a particular graph structure can move from any start location to any goal destination in a graph-structured space.

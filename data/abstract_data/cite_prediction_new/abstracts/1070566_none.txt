@@ -1,0 +1,2 @@
+Temperature and Voltage Dependent RF Degradation Study in Algan/gan HEMTs
+The reaction-diffusion limited trap generation model used to explain MOSFET degradation has been applied to GaN HEMT degradation. An analytical expression to describe the time dependence of RF output power has been derived based on this model. In addition, the voltage and temperature dependence of the fitting parameters have been determined.

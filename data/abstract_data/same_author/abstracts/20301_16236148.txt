@@ -1,0 +1,2 @@
+Tests of the CERN Proton Linac Performance for LHC-Type Beams
+As the pre-injector of the LHC injector chain, the proton linac at CERN is required to provide a high-intensity (180mA) beam to the Proton Synchrotron Booster. The results of measurements at this intensity will be presented. Furthermore, the linac is now equipped with bunch shape monitors from INR, Moscow, which have allowed the comparison of the Alvarez tank RF settings with simulations.

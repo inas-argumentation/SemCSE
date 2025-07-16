@@ -1,0 +1,2 @@
+Optimal indirect stability of a weakly damped elastic abstract system of second order equations coupled by velocities
+In this paper, by means of the Riesz basis approach, we study the stability of a weakly damped system of two second order evolution equations coupled through the velocities (see (1.1)). If the fractional order damping becomes viscous and the waves propagate with equal speeds, we prove exponential stability of the system and, otherwise, we establish an optimal polynomial decay rate. Finally, we provide some illustrative examples.

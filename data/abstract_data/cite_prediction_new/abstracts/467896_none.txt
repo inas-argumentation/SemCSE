@@ -1,0 +1,37 @@
+Design and evaluation of a movie recommendation system showing a review for evoking interested
+Purpose 
+ 
+ 
+ 
+ 
+In recent years, e-commerce (EC) sites dealing in various goods and services have increased along with internet popularity. Now, very few EC recommendation systems present a concrete reason for their recommendations. Therefore, because user preferences strongly influence outcomes, evaluation and selection are difficult for items, such as books, movies and luxury goods. The purpose of this paper is evoking interest by showing the review as a reason for a user’s decision-making factor. This paper aims to presents the development and introduction of a recommendation system that presents a review adapted to user preference. 
+ 
+ 
+ 
+ 
+Design/methodology/approach 
+ 
+ 
+ 
+ 
+The system presents a review to the user, which indicates the reason for matching the item contents and user preferences. Thereby, this system enables the creation of personalized reasons for recommendations. 
+ 
+ 
+ 
+ 
+Findings 
+ 
+ 
+ 
+ 
+Recommendation sentences conforming to user preferences are effective for item selection. Even with a simple method, in this paper, it was possible to present a review which is an item selection factor sufficient for the user. 
+ 
+ 
+ 
+ 
+Originality/value 
+ 
+ 
+ 
+ 
+This system can show a recommendation sentence that conforms to a user’s preferences merely from a user profile with the tag data of a product. This paper dealt in movies, but it can easily be applied even for other items.

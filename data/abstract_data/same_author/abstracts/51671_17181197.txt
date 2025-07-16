@@ -1,0 +1,2 @@
+Neighbor Line-Based Locally Linear Embedding
+Locally linear embedding (Lle) is a powerful approach for mapping high-dimensional data nonlinearly to a lower-dimensional space. However, when the training examples are not densely sampled, Lle often returns invalid results. In this paper, the Nl3e (Neighbor Line-based Lle) approach is proposed, which generates some virtual examples with the help of neighbor line such that the Lle learning can be executed on an enriched training set. Experiments show that Nl3e outperforms Lle in visualization.

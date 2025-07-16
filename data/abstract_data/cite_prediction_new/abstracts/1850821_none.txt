@@ -1,0 +1,20 @@
+Reduction and Push Technology of Cable Harness Information for Complex Mechatronic Products based on Variable Precision Rough Sets
+As energy and signal transmission medium, cable harness is widely used in complex mechatronic products, 
+ 
+and cable harness information are the basis and premise conditions of the flexible cable harness assembly 
+ 
+simulation of complex mechatronic products system. To retrieve cable harness information from the 
+ 
+information management system or repository effectively, a push method of cable harness information for 
+ 
+complex mechatronic products based on variable precision rough sets (VPRS) was proposed in this paper. 
+ 
+By using the cable harness information reduction method, the cable harness information repository is 
+ 
+simplified, and rules which can support the precise push also be distilled from the reduct cable harness 
+ 
+information repository. On the basis of the above approach, cable harness wiring designers, assembly 
+ 
+process planners and assembly process simulation designers can efficiently share cable harness information 
+ 
+during all design processes. Finally, a case is employed to validate the proposed method of this paper.

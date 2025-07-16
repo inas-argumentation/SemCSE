@@ -1,0 +1,6 @@
+The modular structure of an ontology: an empirical study
+Efficiently extracting a module from a given ontology that captures all the ontology's knowledge about a set of specified terms is a well-understood task. This task can be based, for instance, on locality-based modules. 
+ 
+In contrast, extracting all modules of an ontology is computationally difficult because there can be exponentially many. However, it is reasonable to assume that, by revealing the modular structure of an ontology, we can obtain information about its topicality, connectedness, structure, superfluous parts, or agreement between actual and intended modeling. Furthermore, incremental reasoning makes use of a number of, although not all possible, modules of an ontology. 
+ 
+We report on experiments to estimate the number of modules of real-life ontologies. We also evaluate the modular structure of ontologies that we succeeded to fully modularise. In that evaluation, we look at the number and sizes of the modules, as well as the relation between module size and number and size of signatures that lead to the module. Chances are that the understanding we report about small ontologies can be applied to all ontologies.

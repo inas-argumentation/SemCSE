@@ -1,0 +1,2 @@
+Cellular automata for real-time generation of infinite cave levels
+This paper presents a reliable and efficient approach to procedurally generating level maps based on the self-organization capabilities of cellular automata (CA). A simple CA-based algorithm is evaluated on an infinite cave game, generating playable and well-designed tunnel-based maps. The algorithm has very low computational cost, permitting realtime content generation, and the proposed map representation provides sufficient flexibility with respect to level design.

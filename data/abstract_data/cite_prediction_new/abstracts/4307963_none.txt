@@ -1,0 +1,2 @@
+Simplifying a special class of mathematical programs arising in design problems
+We consider a special class of mathematical programs that are encountered in certain design problems. The general form of these problems is Min ƒ(x) + c T y s.t. g i (x) ⩽ 0, Dy ⩽ x ⩽ Ey, y ⩾ 0 , where D and E are diagonal matrices. We suggest an alternative formulation in which the constraints Dy ⩽ x ⩽ Ey are eliminated without increasing the number of variables. Numerical results indicate significant savings in the number of iterations and computer time needed to solve the problem.

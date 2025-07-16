@@ -1,0 +1,16 @@
+Convolutional Sequence Modeling Revisited
+This paper revisits the problem of sequence modeling using convolutional 
+architectures.  Although both convolutional and recurrent architectures have a
+long history in sequence prediction, the current "default" mindset in much of
+the deep learning community is that generic sequence modeling is best handled
+using recurrent networks.  The goal of this paper is to question this assumption. 
+Specifically, we consider a simple generic temporal convolution network (TCN),
+which adopts features from modern ConvNet architectures such as a dilations and 
+residual connections.  We show that on a variety of sequence modeling tasks,
+including many frequently used as benchmarks for evaluating recurrent networks,
+the TCN outperforms baseline RNN methods (LSTMs, GRUs, and vanilla RNNs) and
+sometimes even highly specialized approaches.  We further show that the
+potential "infinite memory" advantage that RNNs have over TCNs is largely
+absent in practice: TCNs indeed exhibit longer effective history sizes than their 
+recurrent counterparts.   As a whole, we argue that it may be time to (re)consider 
+ConvNets as the default "go to" architecture for sequence modeling.

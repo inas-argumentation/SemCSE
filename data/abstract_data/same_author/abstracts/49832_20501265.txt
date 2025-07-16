@@ -1,0 +1,2 @@
+Efficient symplectic Runge-Kutta methods
+The present paper continues the research in [H.Y. Liu, G. Sun, Symplectic RK methods and symplectic PRK methods with real eigenvalues, J. Comput. Math. 22(5) (2004) 769-776] on symplectic Runge-Kutta (RK) methods with real eigenvalues. In a general setting, a new but simple proof of the main result in [H.Y. Liu, G. Sun, Symplectic RK methods and symplectic PRK methods with real eigenvalues, J. Comput. Math. 22(5) (2004) 769-776] is given that an s-stage, pth order such method must have that p=

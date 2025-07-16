@@ -1,0 +1,11 @@
+Spatial stochastic modelling of the phosphoenolpyruvate-dependent phosphotransferase (PTS) pathway in Escherichia coli
+MOTIVATION
+Many biochemical networks involve reactions localized on the cell membrane. This can give rise to spatial gradients of the concentration of cytosolic species. Moreover, the number of membrane molecules can be small and stochastic effects can become relevant. Pathways usually consist of a complex interaction network and are characterized by a large set of parameters. The inclusion of spatial and stochastic effects is a major challenge in developing quantitative and dynamic models of pathways.
+
+
+RESULTS
+We have developed a particle-based spatial stochastic method (GMP) to simulate biochemical networks in space, including fluctuations from the diffusion of particles and reactions. Gradients emerging from membrane reactions can be resolved. As case studies for the GMP method we used a simple gene expression system and the phosphoenolpyruvate:glucose phosphotransferase system pathway.
+
+
+AVAILABILITY
+The source code for the GMP method is available at http://www.science.uva.nl/research/scs/CellMath/GMP.

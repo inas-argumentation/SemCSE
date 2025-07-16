@@ -1,0 +1,2 @@
+The variance of the discrepancy distribution of rounding procedures, and sums of uniform random variables
+When $$\ell $$ℓ probabilities are rounded to integer multiples of a given accuracy n, the sum of the numerators may deviate from n by a nonzero discrepancy. It is proved that, for large accuracies $$n \rightarrow \infty $$n→∞, the limiting discrepancy distribution has variance $$\ell /12$$ℓ/12. The relation to the uniform distribution over the interval $$[-1/2, 1/2]$$[-1/2,1/2], whose variance is 1 / 12, is explored in detail.

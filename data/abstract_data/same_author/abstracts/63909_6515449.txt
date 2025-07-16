@@ -1,0 +1,2 @@
+Homogeneity based image objective quality metric
+This paper proposes a fast and reliable image objective quality evaluation technique. This method takes into account the local homogeneous property of the image and uses the local luminance and homogeneity estimation based on high-pass operators to evaluate the image quality. The proposed method provides better consistency with the perceived image quality and is suitable for real applications to control the processed image quality.

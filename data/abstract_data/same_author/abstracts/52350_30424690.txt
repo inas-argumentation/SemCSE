@@ -1,0 +1,2 @@
+BizCQ: using continual queries to cope with changes in business information exchange
+In this poster, we propose the framework of BizCQ, a system to apply Continual Queries [7][8] on Web-based content to manage information exchanges between two business partners. In this poster, we describe ways to leverage previous research in Web monitoring techniques applied to the everyday problem of managing change within a business environment, and focus on the difficulties of managing changes that are caused by external parties in business-to-business (B2B) information exchanges.

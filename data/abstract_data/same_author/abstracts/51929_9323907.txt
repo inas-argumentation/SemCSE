@@ -1,0 +1,2 @@
+Orientation refinement of virus structures with unknown symmetry
+Structural biology, in particular the structure determination of viruses and other large macromolecular complexes lead to data- and compute-intensive problems that require resources well beyond those available on a single system. Thus, there is an imperative need to develop parallel algorithms and programs for clusters and computational grids. We present one of the most challenging computational problems posed by the three-dimensional structure determination of viruses, the orientation refinement.

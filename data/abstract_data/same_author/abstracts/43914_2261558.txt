@@ -1,0 +1,2 @@
+XACML Function Annotations
+XACML is being increasingly adopted in large enterprise systems for specifying access control policies. However, the efficient analysis and integration of multiple policies in such large distributed systems still remains a difficult task. In this paper, we propose an annotation technique which is a simple extension to XACML, and may greatly benefit the policy analysis process. We also discuss an important consistency problem during XACML policy translation and point out a few possible research directions.

@@ -1,0 +1,2 @@
+Matching of Images of Non-planar Objects with View Synthesis
+We explore the performance of the recently proposed two-view image matching algorithms using affine view synthesis – ASIFT (Morel and Yu, 2009) [14] and MODS (Mishkin, Perdoch and Matas, 2013) [10] on images of objects that do not have significant local texture and that are locally not well approximated by planes.

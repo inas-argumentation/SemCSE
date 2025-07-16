@@ -1,0 +1,2 @@
+A coordination model for ill-posed bilevel programming problem via the leader's motivation.
+Introduction Bilevel programming plays an important role in different application fields, such as transportation, economics, ecology, engineering and others[1], it has been developed and studied by many authors[2-8]. However, Even a linear bilevel programming problem is generally difficult to be solved and it has been proved to be strongly NP-hard [9]. In this paper, we consider the following linear bilevel programming problem:

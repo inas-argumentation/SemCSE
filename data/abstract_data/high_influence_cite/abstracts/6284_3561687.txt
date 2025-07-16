@@ -1,0 +1,2 @@
+Semantic segmentation of trajectories with agent models
+In many cases, such as trajectories clustering and classification, we often divide a trajectory into segments as preprocessing. In this paper, we propose a trajectory semantic segmentation method based on learned behavior models. In the proposed method, we learn some behavior models from video sequences. Next, using learned behavior models and a hidden Markov model, we segment a trajectory into semantic segments. Comparing with the Ramer-Douglas-Peucker algorithm, we show the effectiveness of the proposed method.

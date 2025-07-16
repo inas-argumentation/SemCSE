@@ -1,0 +1,2 @@
+Detection of Shape Anomalies: A Probabilistic Approach Using Hidden Markov Models
+We study the problem of detecting the shape anomalies in this paper. Our shape anomaly detection algorithm is performed on the one-dimensional representation (time series) of shapes, whose similarity is modeled by a generalized segmental hidden Markov model (HMM) under a scaling, translation and rotation invariant manner. Experimental results show that our proposed approach can find shape anomalies in a large collection of shapes effectively and efficiently.

@@ -1,0 +1,2 @@
+Agent-based Problem Solving: The Ant Colonies Metaphor
+In this paper the analogy between biological swarms and artificial multiagent systems is pointed out. As an example the steps required to model the artificial optimization technique called Ant Colony Optimization starting from the foraging behaviour of natural ant colonies are explained in detail. During the development of the model the authors use the language of multiagent systems to highlight the suitability of such an approach.

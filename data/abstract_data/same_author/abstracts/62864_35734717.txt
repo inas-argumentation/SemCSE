@@ -1,0 +1,2 @@
+Security Analysis of a Variant of Self-Shrinking Generator
+A variant of the self-shrinking generator (SSG) proposed at ICISC 2006, which we call SSG-XOR, was claimed to have better cryptographic properties than SSG in a practical setting. It was also claimed that SSG-XOR will be more secure than SSG. But we show that SSG-XOR has no advantage over SSG from the viewpoint of practical cryptanalysis, especially the guess-and-determine attack.

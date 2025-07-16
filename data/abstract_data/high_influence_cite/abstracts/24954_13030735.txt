@@ -1,0 +1,2 @@
+Fast projection onto the simplex and the $$\pmb {l}_\mathbf {1}$$l1 ball
+A new algorithm is proposed to project, exactly and in finite time, a vector of arbitrary size onto a simplex or an $$l_1$$l1-norm ball. It can be viewed as a Gauss–Seidel-like variant of Michelot’s variable fixing algorithm; that is, the threshold used to fix the variables is updated after each element is read, instead of waiting for a full reading pass over the list of non-fixed elements. This algorithm is empirically demonstrated to be faster than existing methods.

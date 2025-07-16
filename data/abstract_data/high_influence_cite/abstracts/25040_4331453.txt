@@ -1,0 +1,11 @@
+Computational prediction of novel components of lung transcriptional networks
+MOTIVATION
+Little is known regarding the transcriptional mechanisms involved in forming and maintaining epithelial cell lineages of the mammalian respiratory tract.
+
+
+RESULTS
+Herein, a motif discovery approach was used to identify novel transcriptional regulators in the lung using genes previously found to be regulated by Foxa2 or Wnt signaling pathways. A human-mouse comparison of both novel and known motifs was also performed. Some of the factors and families identified here were previously shown to be involved epithelial cell differentiation (ETS family, HES-1 and MEIS-1), and ciliogenesis (RFX family), but have never been characterized in lung epithelia. Other unidentified over-represented motifs suggest the existence of novel mammalian lung transcription factors. Of the fraction of motifs examined we describe 25 transcription factor family predictions for lung. Fifteen novel factors were shown here to be expressed in mouse lung, and/or human bronchial or distal lung epithelial tissues or lung epithelial cell lineages.
+
+
+AVAILABILITY
+DME: http://rulai.cshl.edu/dme. MATCOMPARE: http://rulai.cshl.edu/MatCompare. MOTIFCLASS is available from the authors.

@@ -1,0 +1,2 @@
+On multiple comparisons in the randomization analysis of growth and response curves.
+Two multiple-comparisons procedures are suggested for supplementing randomization analysis of growth and response curves. One controls the experimentwise Type I error rate for all possible contrast curves via an extension of the Scheffé method. The other controls a family of Type I error rates via a stepwise testing procedure. Both can be approximated by standard F tests without costly recomputation of all of the test statistics for a large number of permutations.

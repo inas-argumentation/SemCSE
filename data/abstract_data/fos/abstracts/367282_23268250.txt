@@ -1,0 +1,15 @@
+Objective function to obtain multiple representative waveforms for a novel helical CT scan protocol.
+PURPOSE
+To develop objective functions for selecting multiple representative respiratory waveforms. A specific application considered is to reduce the number of swiping scans in a novel helical CT scan protocol to harvest efficiency and dose reduction benefit.
+
+
+METHODS
+The authors consider a general class of potential objective functions consisting of weighted norms on pointwise profile differentials. The authors utilize the Lagrangian approach and derive proper conditions on the formulation based on first and second order optimality conditions. The derived objective functions are applied to clinically acquired respiratory trajectories for swipe subset selection to verify the validity and generality of the proposed rationale. An end-to-end 4DCT reconstruction comparison is performed using a swipe subset of data corresponding to 3 out of the full 25 waveforms to assess the consequence in image quality and dose.
+
+
+RESULTS
+Their results show that maximizing the proposed objective function with the suggested parameters yields maximal spread of trajectories among the selected subset. 4DCT Reconstruction using the chosen subset of data indicates the potential for further dose reduction by about 5 to 10 folds without significant sacrifice in image quality. Experimental results also support further generalization to include slice prioritization.
+
+
+CONCLUSIONS
+The authors have derived a formulation that is both simple and general as a metric to quantify the spread of a set of respiratory trajectories, which can be used for subset selection with potential computation and dose reduction benefit when applied to a newly developed helical 4DCT scan protocol.

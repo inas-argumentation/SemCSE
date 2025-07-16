@@ -1,0 +1,2 @@
+An Algorithm for the Modular Decomposition of Hypergraphs
+We propose an O(n4) algorithm to build the modular decomposition tree of hypergraphs of dimension three and show how this algorithm can be generalized to compute in O(n3k?5) time the decomposition of hypergraphs of any fixed dimension k.

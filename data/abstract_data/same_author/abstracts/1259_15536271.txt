@@ -1,0 +1,2 @@
+Encouraging Good Interactions in Open Agent Systems
+In the open agent systems, agents have to meet how, when and with who interact. Trust and reputation play an important role in reduces the uncertain. However, existing trust metric is not effective when an agent strategically behaviors, such as sudden behavior or alter 'name'. This paper presents a novel trust metric, which can penalize behavior of the suddenly falling behavior and change 'name'.

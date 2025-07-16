@@ -1,0 +1,2 @@
+Improved Adaptive Lifting Scheme for Wavelet-Based Image Compression
+This paper investigates an adaptive lifting scheme for wavelet-based image compression, which performs update before prediction, and then we proposes an improved adaptive update and prediction scheme to better exploit the correlation among neighboring pixels. Simulation results show that the proposed scheme generates in the transformed domain lower coefficients' entropy, lower high-frequency coefficients' energy and more zero values, which make it useful for image compression applications.

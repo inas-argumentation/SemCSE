@@ -1,0 +1,19 @@
+Immune and Inflammatory Pathways Implicated by Whole Blood Transcriptomic Analysis in a Diverse Ancestry Alzheimer's Disease Cohort.
+BACKGROUND
+Significant work has identified genetic variants conferring risk and protection for Alzheimer's disease (AD), but functional effects of these variants is lacking, particularly in under-represented ancestral populations. Expression studies performed in easily accessible tissue, such as whole blood, can recapitulate some transcriptional changes occurring in brain and help to identify mechanisms underlying neurodegenerative processes.
+
+
+OBJECTIVE
+We aimed to identify transcriptional differences between AD cases and controls in a cohort of diverse ancestry.
+
+
+METHODS
+We analyzed the protein coding transcriptome using RNA sequencing from peripheral blood collected from 234 African American (AA) (115 AD, 119 controls) and 240 non-Hispanic Whites (NHW) (121 AD, 119 controls). To identify case-control differentially expressed genes and pathways, we performed stratified, joint, and interaction analyses using linear regression models within and across ancestral groups followed by pathway and gene set enrichment analyses.
+
+
+RESULTS
+Overall, we identified 418 (291 upregulated, 127 downregulated) and 488 genes (352 upregulated, 136 downregulated) differentially expressed in the AA and NHW datasets, respectively, with only 16 genes commonly differentially expressed in both ancestral groups. Joint analyses provided greater power to detect case-control differences and identified 1,102 differentially expressed genes between cases and controls (812 upregulated, 290 downregulated). Interaction analysis identified only 27 genes with different effects in AA compared to NHW. Pathway and gene-set enrichment analyses revealed differences in immune response-related pathways that were enriched across the analyses despite different underlying gene sets.
+
+
+CONCLUSION
+These results support the hypothesis of converging underlying pathophysiological processes in AD across ancestral groups.

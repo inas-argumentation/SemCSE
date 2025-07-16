@@ -1,0 +1,2 @@
+The maximum number of Hamiltonian paths in tournaments
+Solving an old conjecture of Szele we show that the maximum number of directed Hamiltonian paths in a tournament onn vertices is at mostc · n3/2· n!/2n−1, wherec is a positive constant independent ofn.

@@ -1,0 +1,4 @@
+An Improved Dictatorship Test with Perfect Completeness
+A Boolean function f:{0,1}^n\->{0,1} is called a dictator if it depends on exactly one variable i.e f(x_1, x_2, ..., x_n) = x_i for some i in [n]. In this work, we study a k-query dictatorship test. Dictatorship tests are central in proving many hardness results for constraint satisfaction problems. 
+ 
+The dictatorship test is said to have perfect completeness if it accepts any dictator function. The soundness of a test is the maximum probability with which it accepts any function far from a dictator. Our main result is a k-query dictatorship test with perfect completeness and soundness (2k + 1)/(2^k), where k is of the form 2^t -1 for any integer t > 2. This improves upon the result of [Tamaki-Yoshida, Random Structures & Algorithms, 2015] which gave a dictatorship test with soundness (2k + 3)/(2^k).

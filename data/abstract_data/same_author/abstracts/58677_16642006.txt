@@ -1,0 +1,2 @@
+Semantics of Plan Revision in Intelligent Agents
+In this paper, we give an operational and denotational semantics for a 3APL meta-language, with which various 3APL interpreters can be programmed. We moreover prove equivalence of these two semantics. Furthermore, we relate this 3APL meta-language to object-level 3APL by providing a specific interpreter, the semantics of which will prove to be equivalent to object-level 3APL.

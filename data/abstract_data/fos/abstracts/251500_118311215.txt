@@ -1,0 +1,2 @@
+Energetic Light Fragment Production Capability in MCNP6
+The goal of this research is to enable MCNP6 to produce high-energy light fragments. These energetic light fragments may be emitted by our models through three processes: Fermi breakup, preequilibrium, and coalescence. We explore the emission of light fragments through each of these mechanisms and demonstrate an improved agreement with experimental data achieved by extending precompound models to include emission of fragments heavier than $^4$He.

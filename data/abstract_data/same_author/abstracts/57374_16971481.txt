@@ -1,0 +1,2 @@
+Image compression for fast wavelet-based subregion retrieval
+In an image browsing environment there is need for progressively viewing image subregions at various resolutions. We describe a storage scheme that accomplishes good image compression, while supporting fast image subregion retrieval. We evaluate analytically and experimentally the compression performance of our algorithm. We also provide results on the speed of the algorithm to demonstrate its effectiveness, and present an extension to a client/server environment.

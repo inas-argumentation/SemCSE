@@ -1,0 +1,15 @@
+Irradiation of breast cancer cells enhances CXCL16 ligand expression and induces the migration of natural killer cells expressing the CXCR6 receptor.
+BACKGROUND AIMS
+Few studies have examined the migration pattern of natural killer (NK) cells, especially after radiation treatment for cancer. We investigated whether irradiation can modulate the expression of chemokines in cancer cells and the migration of NK cells to irradiated tumor cells.
+
+
+METHODS
+The expression of chemokine receptors (CXCR3, CXCR4 and CXCR6) on interleukin-2 (IL-2)/IL-15-activated NK cells was assessed using flow cytometry. Related chemokine ligands (CXCL11, CXCL12 and CXCL16) in human breast cancer cell lines (MCF7, SKBR3 and MDA-MB231) irradiated at various doses were assessed using reverse transcription-polymerase chain reaction (RT-PCR), fluorescence-activated cell sorting (FACS) and enzyme-linked immunosorbent assay (ELISA). The cell-free culture supernatant was collected 96 h after irradiation of breast cancer cell lines for migration and blocking assays.
+
+
+RESULTS
+The activated NK cells expressed CXCR6. Expression of the CXCR6 ligand CXCL16 increased in a time- and dose-dependent manner in all analyzed cancer cell lines. CXCL16 expression was statistically significantly enhanced in all breast cancer cell lines on day 3 after 20 Gy irradiation. Activated NK cells migration correlated with CXCL16 concentration (R2 = 0.91; P <0.0001). Significantly enhanced migration of NK cells to irradiated cancer cells was observed for a dose of 20 Gy in MCF7 (P = 0.043) and SKBR3 (P = 0.043) cells, but not in MDA-MB231 (P = 0.225) cells. A blocking assay using a CXCR6 antibody showed a significant decrease in the migration of activated NK cells in all cancer cell lines.
+
+
+CONCLUSIONS
+Our data indicate that irradiation induces CXCL16 chemokine expression in cancer cells and enhances the migration of activated NK cells expressing CXCR6 to irradiated breast cancer cells. These results suggest that radiation would improve the anti-tumor effect of NK cells through enhanced migration of NK cells to tumor site for the treatment of patients with breast cancer.

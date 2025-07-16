@@ -1,0 +1,28 @@
+Comparison of gravity wave propagation directions observed by mesospheric airglow imaging at three different latitudes using the M-transform
+. We developed user-friendly software based on Matsuda et al.'s (2014) 3D-FFT
+method (Matsuda-transform, M-transform) for airglow imaging data analysis as
+a function of Interactive Data Language (IDL). Users can customize the range
+of wave parameters to process when executing the program. The input for this
+function is a 3-D array of a time series of a 2-D airglow image in
+geographical coordinates. We applied this new function to mesospheric airglow
+imaging data with slightly different observation parameters obtained for the
+period of April–May at three different latitudes: Syowa Station, the
+Antarctic (69∘ S, 40∘ E); Shigaraki, Japan (35∘ N,
+136∘ E); and Tomohon, Indonesia (1∘ N, 122∘ E).
+The day-to-day variation of the phase velocity spectrum at the Syowa Station
+is smaller and the propagation direction is mainly westward. In Shigaraki,
+the day-to-day variation of the horizontal propagation direction is larger
+than that at the Syowa Station; the variation in Tomohon is even larger. In
+Tomohon, the variation of the nightly power spectrum magnitude is remarkable,
+which indicates the intermittency of atmospheric gravity waves (AGWs). The
+average nightly spectrum obtained from April–May shows that the dominant
+propagation is westward with a phase speed <50 m s−1 at the Syowa Station and
+east-southeastward with a phase speed of up to ∼80 m s−1 in
+Shigaraki. The day-to-day variation in Tomohon is too strong to discuss
+average characteristics; however, a phase speed of up to ∼100 m s−1 and faster is observed. The corresponding background wind
+profiles derived from MERRA-2 indicate that wind filtering plays a
+significant role in filtering out waves that propagate eastward at the Syowa
+Station. On the other hand, the background wind is not strong enough to
+filter out relatively high-speed AGWs in Shigaraki and Tomohon and the
+dominant propagation direction is likely related to the
+distribution and characteristics of the source region, at least in April and May.

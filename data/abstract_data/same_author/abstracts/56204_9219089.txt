@@ -1,0 +1,2 @@
+A Multi-Agent System for Mobile Environments
+In this paper, we present a framework/model for a logic programming multi-agent system in mobile environments. Such a system consists of a number of agents connected via wire or wireless communication channels, and we model the interactions between agents in our formalization. Our formalization is knowledge oriented with declarative semantics. Our model can be used to study the details of knowledge transaction in mobile environments.

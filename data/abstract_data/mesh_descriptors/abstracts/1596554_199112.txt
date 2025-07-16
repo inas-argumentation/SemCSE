@@ -1,0 +1,15 @@
+Comparison of risk scores to estimate perioperative mortality in aortic valve replacement surgery.
+BACKGROUND
+Transaortic valve implantation has recently been introduced as an alternative to aortic valve replacement (AVR) for high-risk patients with aortic stenosis. However, accurate assessment of surgical risk is critical for appropriate patient selection. We compared the accuracy of The Society of Thoracic Surgeons (STS) risk score, the European System for Cardiac Risk Evaluation (EuroSCORE), and the Veterans Administration (VA) risk score in predicting perioperative mortality after AVR.
+
+
+METHODS
+We included 537 consecutive patients who underwent AVR for severe aortic stenosis at the Minneapolis VA Medical Center between 1997 and 2008. Observed and predicted perioperative (30-day) mortality rates were compared. Hosmer-Lemeshow goodness-of-fit test and receiver operating characteristic curves were performed to assess the performance of the scores.
+
+
+RESULTS
+Perioperative mortality rate was 5.9% (n=32). Predicted mortality rates for the EuroSCORE, STS score, and VA score were 15.6%, 3.6%, and 6.7%, respectively (p=0.001). The EuroSCORE overestimated mortality in all patients, most notably among those with ejection fraction less than 35% (49% predicted versus 9% observed). The EuroSCORE had poor calibration (goodness-of-fit test p<0.008), whereas the STS and the VA scores were well calibrated. However, all three scores displayed good discrimination characteristics per the areas under the receiver operating characteristic curves: STS score 0.73 (95% confidence interval: 0.69 to 0.77); VA score 0.66 (95% confidence interval: 0.62 to 0.70); and EuroSCORE 0.68 (95% confidence interval: 0.64 to 0.72; p>0.05).
+
+
+CONCLUSIONS
+The EuroSCORE substantially overestimates perioperative mortality risk in AVR, particularly in patients with low ejection fraction. These data have implications when deciding the appropriate intervention (transaortic valve implantation versus AVR) for high-risk aortic stenosis patients.

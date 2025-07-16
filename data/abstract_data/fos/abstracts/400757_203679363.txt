@@ -1,0 +1,2 @@
+Support Vector Machine Based on Hybrid Kernel Function for Power Load Forecasting
+The use of the principle of similarity,chooses the data of similar days that similar to prediction day from the historical day,the method of support vector based on hybrid kernel function is used to establish the power load forecasting model,the results show that the load forecasting system based on this method have high prediction accuracy and good applicability.

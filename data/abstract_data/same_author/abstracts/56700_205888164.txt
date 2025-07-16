@@ -1,0 +1,2 @@
+Pseudo-Average Block Sensitivity Equals Average Sensitivity
+Bernasconi (1996) proved that the pseudo-average block sensitivity and the average sensitivity of a Boolean function are equal. Her proof relies on identities from harmonic analysis. In this note, we give a direct proof.

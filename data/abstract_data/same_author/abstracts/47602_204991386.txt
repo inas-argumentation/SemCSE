@@ -1,0 +1,2 @@
+Quasi-brittle graphs, a new class of perfectly orderable graphs
+Abstract A graph G is quasi-brittle if every induced subgraph H of G contains a vertex which is incident to no edge extending symmetrically to a chordless path with three edges in either H or its complement H¯ . The quasi-brittle graphs turn out to be a natural generalization of the well-known class of brittle graphs. We propose to show that the quasi-brittle graphs are perfectly orderable in the sense of Chvatal: there exists a linear order a , b , c , d and edges ab , bc , cd has a b and d c .

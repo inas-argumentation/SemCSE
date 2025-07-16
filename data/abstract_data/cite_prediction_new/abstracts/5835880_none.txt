@@ -1,0 +1,2 @@
+T C C 20 Y  M  M S
+Twenty years ago, modal and mixed specifications were proposed as abstract models of system behavior. In this paper, we explain the nature and utility of such specifications, relate them to other formalisms, showcase some of their established applications, and mention some existing tool support. We also present some recent complexity results for decision problems underlying such applications and list some remaining open problems.

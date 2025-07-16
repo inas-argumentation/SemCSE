@@ -1,0 +1,2 @@
+Statistical Analysis and Research on Oriented-Object Software Metrics
+In this article, it introduces several measurement indexes by the way of traditional measurements and CK measurements generally used in the application of oriented-object software. It also explains how those indexes affect the relationship between the system design, test, maintenance and repeatable use of oriented- object by the way of statistical analysis, so as to provide guidance practically to improve the high quality of the oriented-object software.

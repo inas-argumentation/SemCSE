@@ -1,0 +1,2 @@
+Signal integrity studies at optical multiplexer board for tilecal system
+The Optical Multiplexer Board is a card included in the TileCal Data Acquisition System; it is designed to receive two optical fibers with same data from front-end boards and decided which has correct data. Inside this card we have different transmission lines that need to be studied; signal integrity problems such as signal delay, reflection, distortion and coupling should be analyzed. This paper presents the results of the signal integrity studies at the Optical Multiplexer Board for TileCal System.

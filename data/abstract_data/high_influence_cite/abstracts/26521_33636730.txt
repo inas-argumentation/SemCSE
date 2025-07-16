@@ -1,0 +1,2 @@
+Analysis of surrounded antennas mounted on large and complex structures using a hybrid method
+A new hybrid method, the DG-FDTD/IPO, has recently been proposed to analyze surrounded antennas mounted on large platforms. In this paper the capabilities of this method to go through such large and complex problems are shown. More precisely, a deep analysis of the far-field radiated for a canonical antenna-on-platform scenario is proposed.

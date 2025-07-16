@@ -1,0 +1,2 @@
+Critical slowing down of cluster algorithms for Ising models coupled to 2-d gravity
+We simulate single and multiple Ising models coupled to 2-d gravity using both the Swendsen-Wang and Wolff algorithms to update the spins. We study the integrated autocorrelation time and find that there is considerable critical slowing down, particularly in the magnetization. We argue that this is primarily due to the local nature of the dynamical triangulation algorithm and to the generation of a distribution of baby universes which inhibits cluster growth.

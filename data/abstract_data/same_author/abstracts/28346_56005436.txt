@@ -1,0 +1,2 @@
+TESLA Photo-Injector Simulation Giving High Quality Beams
+To obtain high brightness beams for the TESLA FEL project, operating in the VUV region, a photo-injector providing high quality beams is needed : "r < 1 mm.mrad, "z < 20 mm.KeV [1]. The beam dynamics is simulated by the numerical code ATRAP [2], using the LiénardWiechert’s equations to describe the self electromagnetic field. The influence of the different parameters on the beam quality at the gun exit is presented.

@@ -1,0 +1,15 @@
+In-silico and in-vitro anti-cancer potential of a curcumin analogue (1E, 6E)-1, 7-di (1H-indol-3-yl) hepta-1, 6-diene-3, 5-dione.
+PURPOSE
+Previously we showed that BDMC, an analogue of curcumin suppresses growth of human breast and laryngeal cancer cell line by causing apoptosis. Here, we demonstrate the enhanced anti-cancer activity of a heterocyclic ring (indole) incorporated curcumin analogue ((1E, 6E)-1, 7-di (1H-indol-3-yl) hepta-1, 6-diene-3, 5-Dione), ICA in short, in comparison to curcumin.
+
+
+METHOD
+ICA was synthesized by a one pot condensation reaction. Anti-cancer potential of ICA was assessed in three human cancer cell lines of different origin (Lung adenocarcinoma (A549), leukemia (K562) and colon cancer (SW480)) by MTT assay. Mode of cell death was determined by acridine orange-ethidium bromide (Ao-Eb) staining. Putative cellular targets of ICA were investigated by molecular docking studies. Cell cycle analysis following curcumin or ICA treatment in SW480 cell line was carried out by flow cytometry. Expression levels of Cyclin D1 and apoptotic markers, such as Caspase 3, 8 and 9 were studied by western blot analysis in SW480 cell line treated with or without ICA and curcumin.
+
+
+RESULTS
+The yield of ICA synthesis was found to be 69% with a purity of 98%. ICA demonstrated promising anti-cancer activity compared to curcumin alone, as discerned by MTT assay. ICA was non-toxic to the cell line of normal origin. We further observed that ICA is ∼2 fold more potent than curcumin in inhibiting the growth of SW480 cells. Ao-Eb staining revealed that ICA could induce apoptosis in all the cell lines tested. Molecular docking studies suggest that ICA may possibly exhibit its anticancer effect by inhibiting EGFR in A549, Bcr-Abl in K562 and GSK-3β kinase in SW480 cell line. Moreover, ICA showed strong binding avidity for Bcl-2 protein in silico, which could result in induction of apoptosis. Cell cycle analysis revealed that both curcumin and ICA induced concomitant cell cycle arrest at G0/G1 and G2/M phase. Western blot shows that ICA could effectively down regulate the expression of cell cycle protein cyclin D1, while promoting the activation of Caspase 3, 8 and 9 when compared to curcumin in human colon cancer cell line SW480.
+
+
+CONCLUSION
+The result of this study indicates that ICA could hold promise to be a potential anti-cancer agent. Since ICA has shown encouraging results in terms of its anti-cancer activity compared to curcumin, further research is necessary to fully delineate the underlying molecular mechanism of its anticancer potential.

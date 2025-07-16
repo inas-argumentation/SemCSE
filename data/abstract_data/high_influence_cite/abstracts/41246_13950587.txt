@@ -1,0 +1,2 @@
+Extrinsic Geometrical Methods for Neural Blind Deconvolution
+The present contribution discusses a Riemannian‐gradient‐based algorithm and a projection‐based learning algorithm over a curved parameter space for single‐neuron learning. We consider the ‘blind deconvolution’ signal processing problem. The learning rule naturally arises from a criterion‐function minimization over the unitary hyper‐sphere setting. We consider the blind deconvolution performances of the two algorithms as well as their computational burden and numerical features.

@@ -1,0 +1,2 @@
+LS-SVM approximate solution to linear time varying descriptor systems
+This paper discusses a numerical method based on Least Squares Support Vector Machines (LS-SVMs) for solving linear time varying initial and boundary value problems in Differential Algebraic Equations (DAEs). The method generates a closed form (model-based) approximate solution. The results of numerical experiments on different systems with index from 0 to 3 , are presented and compared with analytic solutions to confirm the validity and applicability of the proposed method.

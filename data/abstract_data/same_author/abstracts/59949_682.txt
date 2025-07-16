@@ -1,0 +1,2 @@
+In and out of temporal logic
+Two-way translations between various versions of temporal logic and between temporal logic over finite sequences and star-free regular expressions are presented. The main result is a translation from normal-form temporal logic formulas to formulas that use only future operators. The translation offers a new proof to a theorem claimed by D. Gabbay et al. (1980), stating that restricting temporal logic to the future operators does not impair its expressive power. The theorem is the basis of many temporal proof systems.<<ETX>>

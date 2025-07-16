@@ -1,0 +1,2 @@
+Extention of the Time-Dependent Multi-Determinant approach to propagators
+We extend the recently proposed Time-Dependent Multi-Determinant approach (ref.[1]) to the description of fermionic propagators. The method hinges on equations of motions obtained using variational principles of Dirac type. In particular we focus on traces of imaginary time propagators, i.e. the partition function. The method is equally applicable with or without projectors to good quantum numbers.

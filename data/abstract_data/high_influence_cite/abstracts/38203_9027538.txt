@@ -1,0 +1,2 @@
+Tree-grammar linear typing for unified super-tagging/probabilistic parsing models
+We integrate super-tagging, guided-parsing and probabilistic parsing in the framework of an item-based LTAG chart parser. Items are based on a linear-typing of trees that encodes their expanding path, starting from their anchor.

@@ -1,0 +1,2 @@
+Numerical solution for nonlinear-quadratic switching control systems with time delay
+This paper contributes an efficient numerical approach for optimal control of switched system with time delay via Bezier curves. A simple transformation is first used to map the optimal control problem with varying switching times into a new optimal control problem with fixed switching times. Then, the Bezier curves is used to approximate the optimal control problem a NLP. The NLP could be solved by using

@@ -1,0 +1,57 @@
+A proposition of querying scheme with network Voronoi diagram in bichromatic reverse k-nearest neighbor
+Purpose 
+ 
+ 
+ 
+ 
+This study aims to propose and evaluate a searching scheme for a bichromatic reverse k-nearest neighbor (BRkNN) that has objects and queries in spatial networks. In this proposed scheme, the author’s search for the BRkNN of the query using an influence zone for each object with a network Voronoi diagram (NVD). 
+ 
+ 
+ 
+ 
+Design/methodology/approach 
+ 
+ 
+ 
+ 
+The author’s analyze and evaluate the performance of the proposed searching scheme. 
+ 
+ 
+ 
+ 
+Findings 
+ 
+ 
+ 
+ 
+The contribution of this paper is that it confirmed that the proposed searching scheme gives shorter processing time than the conventional linear search. 
+ 
+ 
+ 
+ 
+Research limitations/implications 
+ 
+ 
+ 
+ 
+A future direction of this study will involve making a searching scheme that reduces the processing time when objects move automatically on spatial networks. 
+ 
+ 
+ 
+ 
+Practical implications 
+ 
+ 
+ 
+ 
+In BRkNN, consider two groups in a convenience store, where several convenience stores, which are constructed in Groups A and B, operate in a given region. The author’s can use RNN is RkNN when k = 1 (RNN) effectively to set a new store considering the Euclidean and road distances among stores and the location relationship between Groups A and B. 
+ 
+ 
+ 
+ 
+Originality/value 
+ 
+ 
+ 
+ 
+In the proposed searching scheme, the author’s search for the BRkNN of the query for each object with an NVD using the influence zone, which is the region where an object in the spatial network recognizes the nearest neighbor for the query.

@@ -1,0 +1,2 @@
+Sensor integration in KIV brain model for decision making
+KIV, a biologically inspired neural network with non-convergent dynamics is considered. This contribution builds on the previous studies concerning components of KIV and considers sensor integration. The method is demonstrated using a simple character recognition task. The significance of the results in the framework of biologically plausible sensor integration is discussed.

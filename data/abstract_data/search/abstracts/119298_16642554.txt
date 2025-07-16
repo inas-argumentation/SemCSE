@@ -1,0 +1,2 @@
+THE HARMONIC INDEX OF UNICYCLIC GRAPHS WITH GIVEN MATCHING NUMBER
+The harmonic index of a graph G is defined as the sum of weights 2/ d(u)+d(v) of all edges uv of G, where d(u) and d(v) are the degrees of the vertices u and v in G, respectively. In this paper, we determine the graph with minimum harmonic index among all unicyclic graphs with a perfect matching. Moreover, the graph with minimum harmonic index among all unicyclic graphs with a given matching number is also determined.

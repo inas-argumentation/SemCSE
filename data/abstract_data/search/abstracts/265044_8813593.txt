@@ -1,0 +1,2 @@
+Policy Invariance under Reward Transformations for General Sum Stochastic Games
+We extend the potential based shapingmethod fromMarkov decision processes to multiplayer general sum stochastic games. We prove that the Nash equilibria in a stochastic game remains unchanged after potential based shaping is applied to the environment. The property of policy invariance provides a possible way of speeding convergence when learning to play a stochastic game.

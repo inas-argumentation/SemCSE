@@ -1,0 +1,2 @@
+On Privacy in Secure Biometric Authentication Systems
+We focus here on two secure biometric systems (a common randomness based scheme and a fuzzy commitment scheme) and discuss their privacy preserving properties. We derive bounds on the privacy leakage in these schemes. We also show the relation between employed error-correction and leakage on biometric information, and between privacy and security for the fuzzy commitment scheme.

@@ -1,0 +1,2 @@
+Spatial Data Server for Mobile Environment
+In this paper we present a spatial data server which provides not only interoperability but also rapid response for mobile environment with efficient ways, such as use of main memory to eliminate access time from disk on request, management of target data (i.e., GML) in the main memory to eliminate conversion time, spatial index to reduce search time, progressive transmission of spatial data to reduce response time, etc.

@@ -1,0 +1,2 @@
+Traffic management of multimedia over ATM networks
+Multimedia is characterized by bursty traffic and often stringent real-time constraints. Multimedia traffic requires quality of service guarantees. This gives rise to traffic management issues in order to obtain high network utilization and quality of service guarantee to the multimedia stream. The aim of this article is to present an overview of the traffic management issues and their possible solutions for transmission of multimedia over asynchronous transfer mode networks.

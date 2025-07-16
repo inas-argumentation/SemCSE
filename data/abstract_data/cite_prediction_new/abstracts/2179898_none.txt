@@ -1,0 +1,2 @@
+An O ( n 3 log log n / log n ) Time Algorithm for the All-Pairs Shortest Path Problem
+We design a faster algorithm for the all-pairs shortest path problem under the conventional RAM model, based on distance matrix multiplication (DMM). Specifically we improve the best known time complexity of O(n(log log n)/ logn) to O(n log log n/ log n). As an application, we show the k-maximum subarray problem can be solved in O(kn log log n/ log n) time for small k.

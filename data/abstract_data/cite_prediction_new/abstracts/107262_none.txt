@@ -1,0 +1,2 @@
+LEARNING AND DEDUCTION IN NEURAL NETWORKS AND LOGIC
+We demonstrate the interplay between learning and deductive algorithms in logic and neural networks. In particular, we show how learning algorithms recognised in neurocomputing can be used to built connectionist neural networks which simulate the work of semantic operator for logic programs with uncertainty and conventional algorithm of SLD-resolution.

@@ -1,0 +1,15 @@
+Finite element simulation of infrared laser ablation for mass spectrometry.
+RATIONALE
+Laser ablation is widely used in conjunction with ambient ionization techniques, and a fundamental understanding of the mechanism of material removal is important to its optimal use in mass spectrometry. Finite element analysis simulates the laser material interaction on larger time and distance scales than atomistic approaches. Here, a two-dimensional finite element model was developed to simulate infrared laser irradiation of glycerol using a wavelength-tunable infrared (IR) laser.
+
+
+METHODS
+The laser fluence used for the simulations was varied from 1000 to 6000 J/m(2), the wavelength was varied from 2.7 to 3.7 µm, and both flat-top and Gaussian shape laser profiles were studied.
+
+
+RESULTS
+Phase explosion conditions were found for laser wavelengths near 3 µm (which corresponds to the OH stretch absorption of glycerol) and fluences above 2000 J/m(2). This suggests that laser ablation of glycerol is driven by phase explosion in the OH stretch region. The Gaussian profile generated regions of higher glycerol temperature, whereas the flat-top profile heated a larger volume of material above the phase explosion temperature.
+
+
+CONCLUSIONS
+These results suggest that the best performance for pulsed IR laser sample irradiation is in the wavelength range from 2.9 to 3.1 µm for materials with a strong OH stretch absorption.

@@ -1,0 +1,2 @@
+Effects of bandpass sigma-delta modulation on OFDM signals
+This paper presents a behavioural analysis of bandpass OFDM signals sampled and quantized by means of a sigma-delta A/D architecture. It describes the direct effects of sigma-delta modulation on OFDM signals with a variable number of subcarriers by measuring bit-error-rate degradations. Due to the Gaussian characteristic of OFDM signals, the study has been approached from a statistical point of view.

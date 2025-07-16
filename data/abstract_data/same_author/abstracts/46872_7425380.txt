@@ -1,0 +1,2 @@
+Enhancing DWT for Recent-Biased Dimension Reduction of Time Series Data
+In many applications, old data in time series become less important as time elapses, which is a big challenge to traditional techniques for dimension reduction. To improve Discrete Wavelet Transform (DWT) for effective dimension reduction in this kind of applications, a new method, largest-latest-DWT, is designed by keeping the largest k coefficients out of the latest w coefficients at each level of DWT transform. Its efficiency and effectiveness is demonstrated by our experiments.

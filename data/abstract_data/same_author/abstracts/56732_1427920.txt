@@ -1,0 +1,2 @@
+SoftTOTEM: An FPGA Implementation of the TOTEM Parallel Processor
+TOTEM is digital VLSI parallel processor ideally suitable for vectormatrix multiplication. As such, it provides the core computational engine for digital signal processing and artificial neural network algorithms. It has been implemented in the past as a full-custom IP core, achieving high data throughput at clock frequencies of up to 30 MHz. This paper presents the 'soft' implementation of the TOTEM neural chip, and compares its cost and performance to previous 'hard' implementations.

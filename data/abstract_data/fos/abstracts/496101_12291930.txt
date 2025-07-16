@@ -1,0 +1,2 @@
+Photomultiplier single photon counting efficiency.
+An RCA C31000F (8853) photomultiplier with a cathode quantum efficiency of 5.5% (for 633-nm light) was found to have a single photon counting efficiency of only 3.3%. The difference is shown to be due to small pulses well below the single electron peak in the output pulse height spectrum. These pulses are usually below the discriminator threshold level and are not counted. The reason for the small pulses is not understood.

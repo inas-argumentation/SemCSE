@@ -1,0 +1,2 @@
+Data-driven grasping
+This paper propose a novel framework for a data driven grasp planner that indexes partial sensor data into a database of 3D models with known grasps and transfers grasps from those models to novel objects. We show how to construct such a database and also demonstrate multiple methods for matching into it, aligning the matched models with the known sensor data of the object to be grasped, and selecting an appropriate grasp to use. Our approach is experimentally validated in both simulated trials and trials with robots.

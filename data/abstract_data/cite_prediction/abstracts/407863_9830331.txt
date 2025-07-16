@@ -1,0 +1,2 @@
+Enhanced Resolution for Sparse Aperture Radar Imaging Using Super-SVA
+High resolution imaging formation is one of the most important tasks for synthetic aperture radar (SAR). In this paper, a novel technique is proposed to form resolution-enhanced image from sparse aperture data. By iterative spatially variant apodization (SVA) processing on each of the sparse spectrums, a full aperture spectrum can be achieved and a high resolution image is recovered.

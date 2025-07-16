@@ -1,0 +1,2 @@
+Features as Resources in R-LFG
+This paper introduces a non-unification-based version of LFG called R-LFG (Resource-based Lexical Functional Grammar), which combines elements from both LFG and Linear Logic. The paper argues that a resource sensitive account provides a simpler treatment of many linguistic uses of non-monotonic devices in LFG, such as existential constraints and constraint equations.

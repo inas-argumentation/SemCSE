@@ -1,0 +1,2 @@
+Unlabeled Data Can Degrade Classification Performance of Generative Classifiers
+This paper analyzes the effect of unlabeled training data in generative classifiers. We are interested in classification performance when unlabeled data are added to an existing pool of labeled data. We show that unlabeled data can degrade the performance of a classifier when there are discrepancies between modeling assumptions used to build the classifier and the actual model that generates the data; our analysis of this situation explains several seemingly disparate results in the literature.

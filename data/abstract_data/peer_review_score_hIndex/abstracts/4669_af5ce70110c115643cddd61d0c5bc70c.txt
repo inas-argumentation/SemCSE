@@ -1,0 +1,17 @@
+Key Protected Classification for GAN Attack Resilient Collaborative Learning
+Large-scale publicly available datasets play a fundamental role in training deep learning models. However, large-scale
+datasets are difficult to collect in problems that involve processing of sensitive information.
+Collaborative learning techniques provide a privacy-preserving solution in such cases, by enabling
+training over a number of private datasets that are not shared by their owners.
+Existing collaborative learning
+techniques, combined with differential privacy, are shown to be resilient against a passive
+adversary which tries to infer the training data only from the model parameters. However, recently, it has
+been shown that the existing collaborative learning techniques are vulnerable to an active adversary that runs a GAN
+attack during the learning phase. In this work, we propose a novel key-based collaborative learning technique that is
+resilient against such GAN attacks. For this purpose, we present a collaborative learning formulation in which class scores 
+are protected by class-specific keys, and therefore, prevents a GAN attack. We also show that
+very high dimensional class-specific keys can be utilized to improve robustness against attacks, without increasing the model complexity. 
+Our experimental results on two popular datasets, MNIST and AT&T Olivetti Faces, demonstrate the effectiveness of the proposed technique
+against the GAN attack. To the best of our knowledge, the proposed approach is the first collaborative learning
+formulation that effectively tackles an active adversary, and, unlike model corruption or differential privacy formulations,
+our approach does not inherently feature a trade-off between model accuracy and data privacy.

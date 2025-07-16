@@ -1,0 +1,2 @@
+The Conjugacy Problem and Related Problems in Lattice-Ordered Groups
+We study, from a constructive computational point of view, the techniques used to solve the conjugacy problem in the "generic" lattice-ordered group Aut(ℝ). We use these techniques in order to show that for all f, g ∈ Aut(ℝ), the equation xfx = g is effectively solvable in Aut(ℝ).

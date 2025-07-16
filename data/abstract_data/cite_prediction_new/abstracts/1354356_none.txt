@@ -1,0 +1,2 @@
+Compact wideband 3dB branch line coupler with multiple symmetric PI section
+This paper presents the design of a miniaturized 3dB branch line coupler (BLC) for wideband applications. Multiple symmetric PI sections are used in this design to replace the quarter-wavelength transmission lines of the conventional coupler. The design formulas are derived and verified with the simulated and measured results. The circuit area of the proposed BLC is only 20.3% of the conventional one. The fractional bandwidth is greater than 75% at the center frequency of 0.9 GHz.

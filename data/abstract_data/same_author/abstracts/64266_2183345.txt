@@ -1,0 +1,2 @@
+Goal-oriented preservation of essential genetic information by offspring selection
+This contribution proposes an enhanced and generic selection model for Genetic Algorithms (GAs) and Genetic Programming (GP) which is able to preserve the alleles which are part of a high quality solution. Some selected aspects of these enhanced techniques are discussed exemplarily on the basis of standardized benchmark problems.

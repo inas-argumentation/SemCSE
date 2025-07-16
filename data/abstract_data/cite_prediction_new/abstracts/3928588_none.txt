@@ -1,0 +1,2 @@
+Alternative implementations of the Griewangk function
+The well-known Griewangk function, used for evaluation of evolutionary algorithms, becomes easier as the number of dimensions grows. This paper suggests three alternative implementations that maintain function complexity for high-dimensional versions of the problem. Diagonal slices of the search landscape and local search are used to demonstrate and evaluate the difficulty of each function.

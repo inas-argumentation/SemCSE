@@ -1,0 +1,2 @@
+Controllability and stabilization of discrete-time switched linear systems
+In this paper, the problems of controllability analysis and stabilization synthesis of discrete-time switched linear systems are addressed. The main contribution of this paper is to prove that a controllable switched linear discrete-time system is stabilizable via piecewise constant state feedback controller with periodically switching signal. Two different kinds of controller design are presented; one is based on pole assignment the other is in linear matrix inequality (LMI) form.

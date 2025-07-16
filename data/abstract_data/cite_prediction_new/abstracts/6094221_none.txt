@@ -1,0 +1,2 @@
+An explicit expression for the moment in multibody systems.
+The equations of motion are formulated for a set of interacting rigid bodies. An explicit formulation could be derived for the total moment of the forces on such a system. This is applied to (1) the intersegmental moment in a multisegment rigid-body model, and (2) the interpretation of the 'centre of pressure' as defined in the studies of human posture.

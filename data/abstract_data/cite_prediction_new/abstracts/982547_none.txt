@@ -1,0 +1,2 @@
+New initialization for clustering algorithms combining distance and density
+Many clustering techniques are highly dependent on the initialization. The introduction of membership degrees used in fuzzy logic, avoids local minima, however the global minimum is far from satisfactory, especially when dealing with clusters with varying density. Here we propose an initialization method combining distance and density in order to approach as near as possible the final cluster centroids. Comparisons are given with KKZ method.

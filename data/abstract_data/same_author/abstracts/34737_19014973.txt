@@ -1,0 +1,2 @@
+Evaluation of a Class of Two-Scale Three-Loop Vacuum Diagrams
+As a generalization of a previous work [Phys. Rev. D. {\bf 59}, 105014 (1999)], we compute analytically a class of three-loop vacuum diagrams with two {\em arbitrarily} different mass scales. We use a decomposition algorithm in which the integrand of the final integral for the third momentum vector, say, $k$, becomes independent of the angles of $k$-vector in spherical polar coordinates. This algorithm proves to be very efficient in obtaining exclusively all $\e$-pole terms of the given diagram.

@@ -1,0 +1,10 @@
+Swarm Intelligence and its Application in Abnormal Data Detection
+This study addresses swarm intelligence-based approaches in data quality detection. First, three typical
+swarm intelligence models and their applications in abnormity detection are introduced, including Ant
+Colony Optimization (ACO), Particle Swarm Optimization (PSO), Bee Colony Optimization (BCO).
+Then, it presents three approaches based on ACO, PSO and BCO for detection of attribute outliers in
+datasets. These approaches use different search strategies on the data items; however, they choose the
+same fitness function (i.e. the O-measure) to evaluate the solutions, and they make use of swarms of the
+fittest agents and random moving agents to obtain superior solutions by changing the searching paths or
+positions of agents. Three algorithms are described and explained, which are efficient by heuristic
+principles.

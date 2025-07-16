@@ -1,0 +1,19 @@
+An embodied conversational agent in a mobile health coaching application
+Sedentary lifestyles are increasingly common in modern day society. This is becoming a serious problem, 
+as a lack of physical activity can not only lead to overweight and obesity, but also increases the risk of 
+many other health problems. In order to increase their physical activity levels, most people can bene�t 
+from some form of guidance or coaching. Many digital systems designed to provide such coaching are 
+currently being developed, including systems for mobile hardware platforms. In an attempt to increase 
+the e�ectiveness of such mobile health coaching systems, we have integrated an Embodied Conversational 
+Agent (ECA) into one such system. 
+A user experiment was performed where participants used the system for two weeks, with the system 
+employing plain text messages to deliver feedback during one of the weeks, and delivering feedback 
+through the ECA during the other. Participants completed several surveys and an interview, and activity 
+data was recorded and stored by the system. This data was then analyzed to try and �nd di�erences 
+between the two feedback delivery methods. 
+Analysis of the collected data did not reveal a signi�cant advantage of the ECA feedback version 
+over the text feedback version. In fact, the text version received signi�cantly higher scores on several 
+items. Participants' responses during the interviews indicated that the lack of glanceability of the ECA 
+feedback, combined with the predictability of the feedback message contents, had a strong negative 
+in 
+uence on the evaluations of the ECA feedback version.

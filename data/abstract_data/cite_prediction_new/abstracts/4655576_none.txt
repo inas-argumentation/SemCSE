@@ -1,0 +1,2 @@
+Sonar Image Processing for Underwater Object Detection Based on High Resolution System
+This paper is concerned with the problem of recognition of objects laying on the sea-bed and presented on sonar images. Considering that high resolution sonar system provides acoustic images of high-quality, several researches have been interested in Synthetic Aperture Sonar (SAS) and Sides can sonar images for underwater objects. This work presents recent detection algorithms targeting their main specificity and innovations during the different steps of sonar image processing.

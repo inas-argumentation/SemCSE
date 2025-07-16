@@ -1,0 +1,4 @@
+Relaxed multi-way trees with group updates
+Data structures with relaxed balance differ from standard structures in that rebalancing can be delayed and interspersed with updates. This gives extra flexibility in both sequential and parallel applications.
+We study the version of multi-way trees called (a,b)-trees (which includes B-trees) with the operations insertion, deletion, and group insertion. The latter has applications in for instance document databases and WWW search engines. We prove that we obtain the optimal asymptotic rebalancing complexities of amortized constant time for insertion and deletion and amortized logarithmic time in the size of the group for group insertion. These results hold even for the relaxed version.
+Our results also demonstrate that a binary tree scheme with the same complexities can be designed. This is an improvement over the existing results in the most interesting cases.

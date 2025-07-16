@@ -1,0 +1,2 @@
+Universal Mandelbrot Set as a Model of Phase Transition Theory
+The study of Mandelbrot Sets (MS) is a promising new approach to the phase transition theory. We suggest two improvements which drastically simplify the construction of MS. They could be used to modify the existing computer programs so that they start building MS properly not only for the simplest families. This allows us to add one more parameter to the base function of MS and demonstrate that this is not enough to make the phase diagram connected

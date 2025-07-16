@@ -1,0 +1,2 @@
+Application of I DDQ test in failure analysis of microcontroller devices
+This paper presents a real case study on the testing of 8-bit mixed-signal CMOS micro-controller devices by applying the IDDQ testing methodology. The aim of the study is to evaluate the feasibility of using the IDDQ test to enhance the overall fault coverage. Failure analysis operated on the failed sample indicated a good correlation between the fault coverage and the parts that failed the IDDQ test.q 2000 Elsevier Science Ltd. All rights reserved.

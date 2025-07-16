@@ -1,0 +1,2 @@
+A non-greedy approach to tree-structured clustering
+Abstract We propose a new interdisciplinary approach for the hard optimization problem of tree-structured clustering, wherein the imposition of structural constraints on the solution drastically reduces the complexity of classifying data. The method, derived with analogy to statistical physics, performs a global optimization over the entire tree. Experimentation with non-trivial examples shows that our approach consistently outperforms greedy methods and avoids local minima that may trap them.

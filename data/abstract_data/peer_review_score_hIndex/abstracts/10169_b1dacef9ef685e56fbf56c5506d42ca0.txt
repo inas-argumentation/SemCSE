@@ -1,0 +1,2 @@
+A NON-LINEAR  THEORY FOR SENTENCE EMBEDDING
+This paper revisits the Random Walk model for sentence embedding in the context of non-extensive statistics. We propose a non-extensive algebra to compute the discourse vector. We argue that by doing so we are taking into account high non-linearity in the semantic space. Furthermore, we show that by considering a non-extensive algebra, the compounding effect of the vector length is mitigated. Overall, we show that the proposed model leads to good sentence embedding. We evaluate the embedding method on textual similarity tasks.

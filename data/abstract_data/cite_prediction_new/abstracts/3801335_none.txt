@@ -1,0 +1,2 @@
+Few Algorithms for ascertaining merit of a document and their applications
+Existing models for ranking documents(mostly in world wide web) are prestige based. In this article, three algorithms to objectively judge the merit of a document are proposed-1) Citation graph maxflow 2) Recursive Gloss Overlap based intrinsic merit scoring and 3) Interview algorithm. A short discussion on generic judgement and its mathematical treatment is presented in introduction to motivate these algorithms.

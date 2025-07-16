@@ -1,0 +1,23 @@
+Optimal Terrain Construction Problems and Applications
+in Intensity-Modulated Radiation Therapy
+In this paper we study several rectilinear terrain construction
+problems, which model the leaf sequencing problems in
+intensity-modulated radiation therapy (IMRT).
+We present a novel unified approach
+based on geometric techniques for solving these terrain
+construction problems. Our ideas include formulating the terrain
+construction problems as computing shortest paths in a weighted directed
+graph and building the graph by computing optimal bipartite matchings on various geometric objects
+subject to specific constraints of each of the problems. Further,
+since we need to compute optimal bipartite matchings on many sets
+of geometric objects, we use techniques for computing such
+matchings in a batch fashion to speed up these matching
+computations. Our approach leads to the first algorithms for several leaf
+sequencing problems in IMRT that are practically fast and guarantee
+ an output which is optimal for a large sub-class of solutions. The previously known leaf
+sequencing algorithms which are currently used in radiation therapy practice
+are all heuristics that do not guarantee any good
+quality of the output solutions and may run in a long time.
+Our implementation
+results show that our terrain construction algorithms run very
+fast on real medical data (all under few seconds).

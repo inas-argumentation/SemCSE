@@ -1,0 +1,2 @@
+A robustness property of DOA estimators based on covariance
+A simple general formula is derived under a Gaussian model for the asymptotic covariance of direction-of-arrival (DOA) estimators based on the covariance of the sensor array data. It is then established that the same formula remains valid for a wide class of statistical models for source signals. Hence, under mild assumptions, the asymptotic performance of most high-resolution covariance-based DOA estimators is independent of the distribution of the source signals. >

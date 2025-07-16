@@ -1,0 +1,2 @@
+Toward Reusable Synchronisation for Object-Oriented Languages
+The integration of concurrency and object-orientation, despite much research, has been problematic due to the conflicts that can arise between synchronisation and inheritance, which limit the reuse potential of concurrent objects. Our research aims to provide a means for achieving flexible and reusable synchronisation within existing object-oriented languages, such as JavaTM or C++.

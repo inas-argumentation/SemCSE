@@ -1,0 +1,2 @@
+Near Shannon limit performance of low density parity check codes
+The authors report the empirical performance of Gallager's low density parity check codes on Gaussian channels. They show that performance substantially better than that of standard convolutional and concatenated codes can be achieved; indeed the performance is almost as close to the Shannon limit as that of turbo codes.

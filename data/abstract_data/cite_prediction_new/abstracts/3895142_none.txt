@@ -1,0 +1,2 @@
+A Note on Perfect Matchings in Uniform Hypergraphs
+We determine the exact minimum $\ell$-degree threshold for perfect matchings in $k$-uniform hypergraphs when the corresponding threshold for perfect fractional matchings is significantly less than $\frac{1}{2}\left( \begin{array}{c} n \\ k- \ell\end{array}\right)$. This extends our previous results that determine the minimum $\ell$-degree thresholds for perfect matchings in $k$-uniform hypergraphs for all $\ell\ge k/2$ and provides two new (exact) thresholds: $(k,\ell)=(5,2)$ and $(7,3)$.

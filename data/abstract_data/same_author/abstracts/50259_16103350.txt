@@ -1,0 +1,2 @@
+State Complexity of Regular Languages
+State complexity is a descriptive complexity measure for regular languages. We investigate the problems related to the state complexity of regular languages and their operations. In particular, we compare the state complexity results on regular languages with those on nite languages.

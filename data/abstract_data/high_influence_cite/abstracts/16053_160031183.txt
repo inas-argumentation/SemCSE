@@ -1,0 +1,2 @@
+Bid-Ask Spread for Exotic Options under Conic Finance
+This paper puts the concepts of model and calibration risks into the perspective of bid and ask pricing and marketed cash-flows which originate from the conic finance theory. Different asset pricing models calibrated to liquidly traded derivatives by making use of various plausible calibration methodologies lead to different risk-neutral measures which can be seen as the test measures used to assess the (un)acceptability of risks.

@@ -1,0 +1,2 @@
+A Survey of Recent Results in Networked Control Systems
+Networked control systems (NCSs) are spatially distributed systems for which the communication between sensors, actuators, and controllers is supported by a shared communication network. We review several recent results on estimation, analysis, and controller synthesis for NCSs. The results surveyed address channel limitations in terms of packet rates, sampling, network delay, and packet dropouts. The results are presented in a tutorial fashion, comparing alternative methodologies

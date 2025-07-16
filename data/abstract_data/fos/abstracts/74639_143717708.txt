@@ -1,0 +1,2 @@
+Program for Recording and Analyzing Behavior (PRAB)
+A computer program for recording behavioral data that requires temporal continuity in one or two subjects is presented It runs on compatible PC and provides several behavioral measures for the recorded behaviors such as frequencies, percentages, durations, and sequences. The program can also save data files in both ASCII and SDIS formats for more complex analysis through the SPSS or GSEQ statistical programs.

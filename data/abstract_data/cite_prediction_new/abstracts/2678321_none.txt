@@ -1,0 +1,2 @@
+Minimum variance multi-frequency distortionless restriction for digital wideband beamformer
+This paper proposes a digital amplitude-phase weighting array based a minimum variance multi-frequency distortionless restriction (MVMFDR) to aviod the frequency band signal distortion in digital beamformer and too short time delay line (TDL) requirement in analoge wideband TDL array.

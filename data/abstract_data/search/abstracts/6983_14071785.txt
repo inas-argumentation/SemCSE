@@ -1,0 +1,2 @@
+Compact finite difference schemes with spectral like resolution
+Abstract Finite difference schemes providing an improved representation of a range of scales (spectral like resolution) in the evaluation of first, second, and higher order derivatives are presented and compared with well known schemes. The schemes may be used on non uniform meshes and a variety of boundary conditions may be imposed. Schemes are also presented for derivatives at mid cell locations, for accurate interpolation and for spectral like filtering. Applications to fluid mechanics problems are discussed.

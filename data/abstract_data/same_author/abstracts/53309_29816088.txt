@@ -1,0 +1,2 @@
+GPRS-based WLAN authentication and auto-configuration
+This paper proposes an authentication and auto-configuration mechanism for wireless LAN (WLAN) based on short message service of mobile telecommunications network. Our approach automates the authentication and WLAN configuration setup procedure without involving the users.

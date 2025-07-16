@@ -1,0 +1,15 @@
+Countering imbalanced datasets to improve adverse drug event predictive models in labor and delivery
+BACKGROUND
+The IOM report, Preventing Medication Errors, emphasizes the overall lack of knowledge of the incidence of adverse drug events (ADE). Operating rooms, emergency departments and intensive care units are known to have a higher incidence of ADE. Labor and delivery (L&D) is an emergency care unit that could have an increased risk of ADE, where reported rates remain low and under-reporting is suspected. Risk factor identification with electronic pattern recognition techniques could improve ADE detection rates.
+
+
+OBJECTIVE
+The objective of the present study is to apply Synthetic Minority Over Sampling Technique (SMOTE) as an enhanced sampling method in a sparse dataset to generate prediction models to identify ADE in women admitted for labor and delivery based on patient risk factors and comorbidities.
+
+
+RESULTS
+By creating synthetic cases with the SMOTE algorithm and using a 10-fold cross-validation technique, we demonstrated improved performance of the Naïve Bayes and the decision tree algorithms. The true positive rate (TPR) of 0.32 in the raw dataset increased to 0.67 in the 800% over-sampled dataset.
+
+
+CONCLUSION
+Enhanced performance from classification algorithms can be attained with the use of synthetic minority class oversampling techniques in sparse clinical datasets. Predictive models created in this manner can be used to develop evidence based ADE monitoring systems.

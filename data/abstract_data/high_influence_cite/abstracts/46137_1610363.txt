@@ -1,0 +1,2 @@
+Numerical results for mimetic discretization of Reissner–Mindlin plate problems
+A low-order mimetic finite difference method for Reissner–Mindlin plate problems is considered. Together with the source problem, the free vibration and the buckling problems are investigated. Details about the scheme implementation are provided, and the numerical results on several different types of meshes are reported.

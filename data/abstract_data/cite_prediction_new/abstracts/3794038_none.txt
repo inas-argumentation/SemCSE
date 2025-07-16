@@ -1,0 +1,2 @@
+Topic extraction from news archive using TF*PDF algorithm
+Since the Web became widespread, the amount of electronically available information online, especially news archives, has proliferated and threatens to become overwhelming. We propose an information system that will extract main topics in a news archive on a weekly basis. By obtaining a weekly report, a user can know what the main news events were in the past week.

@@ -1,0 +1,2 @@
+Polynomial Approximation to Option Prices under Regime Switching
+In this article we obtain the option pricing results using a polynomial approximation. A continuous-time Markov chain–governed volatility and return underlie the stock price generating process. We give European and lookback option prices under various conditions as well as discuss the precision and efficiency of our approach compared to other methods. The approximation methods are applicable for arbitrary regime settings and prove to be fast and accurate with multiple regimes.

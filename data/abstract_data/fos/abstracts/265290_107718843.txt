@@ -1,0 +1,28 @@
+Adaptation and performance assessment of a quantum and interband cascade laser spectrometer for simultaneous airborne in situ observation of CH 4 , C 2 H 6 , CO 2 , CO and N 2 O
+Abstract. Tunable laser direct absorption spectroscopy is a widely used technique for
+the in situ sensing of atmospheric composition. Aircraft deployment poses a
+challenging operating environment for instruments measuring
+climatologically relevant gases in the Earth's atmosphere. Here, we
+demonstrate the successful adaption of a commercially available continuous
+wave quantum cascade laser (QCL) and interband cascade laser (ICL) based
+spectrometer for airborne in situ trace gas measurements with a local to
+regional focus. The instrument measures methane, ethane, carbon dioxide,
+carbon monoxide, nitrous oxide and water vapor simultaneously, with high
+1  s – 1σ precision (740  ppt , 205  ppt , 460  ppb , 2.2  ppb , 137  ppt and 16  ppm ,
+respectively) and high frequency (2  Hz ). We estimate a
+total 1  s – 1σ uncertainty of 1.85  ppb , 1.6  ppb , 1.0  ppm , 7.0  ppb 
+and 0.8  ppb in CH4 , C2H6 , CO2 , CO and N2O , respectively.
+The instrument enables simultaneous and continuous observations for all
+targeted species. Frequent calibration allows for a measurement duty cycle
+ ≥90  %. Custom retrieval software has been implemented and instrument
+performance is reported for a first field deployment during NASA's
+Atmospheric Carbon and Transport – America (ACT-America) campaign in fall 2017
+over the eastern and central USA. This includes an inter-instrumental
+comparison with a calibrated cavity ring-down greenhouse gas analyzer
+(operated by NASA Langley Research Center, Hampton, USA) and periodic flask
+samples analyzed at the National Oceanic and Atmospheric Administration
+(NOAA). We demonstrate good agreement of the QCL- and ICL-based instrument to
+these concurrent observations within the combined measurement uncertainty
+after correcting for a constant bias. We find that precise knowledge of the
+ δ13C of the working standards and the sampled air is
+needed to enhance CO2 compatibility when operating on the 2227.604  cm−1 13C16O2 absorption line.

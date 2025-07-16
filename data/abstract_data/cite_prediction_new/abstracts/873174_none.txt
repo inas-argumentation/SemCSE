@@ -1,0 +1,2 @@
+Very low data rate speech compression with LPC vector and matrix quantization
+Frame predictive vector quantization is developed to compress the bit rate for coding the LPC filter coefficients to under 250 bits/sec. An innovative LPC compression technique, matrix quantization, is also developed to compress the LPC filter coefficients to a rate under 150 bits/sec. Subjective evaluation with the diagnostic rhyme test (DRT) finds the proposed techniques to be feasible for intelligible speech transmission at bit rates between 400 bits/sec and 200 bits/sec.

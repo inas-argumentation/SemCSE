@@ -1,0 +1,2 @@
+LATTICEEASY: A program for lattice simulations of scalar fields in an expanding universe
+We describe a C++ program that we have written and made available for calculating the evolution of interacting scalar fields in an expanding universe. The program is particularly useful for the study of reheating and thermalization after inflation. The program and its full documentation are available on the Web at http://www.science.smith.edu/departments/Physics/fstaff/gfelder/latticeeasy/. In this paper we provide a brief overview of what the program does and what it is useful for.

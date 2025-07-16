@@ -1,0 +1,19 @@
+Evaluation of clinically translatable MR imaging biomarkers of therapeutic response in the TH-MYCN transgenic mouse model of neuroblastoma.
+PURPOSE
+To evaluate noninvasive and clinically translatable magnetic resonance (MR) imaging biomarkers of therapeutic response in the TH-MYCN transgenic mouse model of aggressive, MYCN-amplified neuroblastoma.
+
+
+MATERIALS AND METHODS
+All experiments were performed in accordance with the local ethical review panel and the UK Home Office Animals Scientific Procedures Act 1986 and with the UK National Cancer Research Institute guidelines for the welfare of animals in cancer research. Multiparametric MR imaging was performed of abdominal tumors found in the TH-MYCN model. T2-weighted MR imaging, quantitation of native relaxation times T1 and T2, the relaxation rate R2*, and dynamic contrast-enhanced MR imaging were used to monitor tumor response to cyclophosphamide (25 mg/kg), the vascular disrupting agent ZD6126 (200 mg/kg), or the antiangiogenic agent cediranib (6 mg/kg, daily). Any significant changes in the measured parameters, and in the magnitude of the changes after treatment between treated and control cohorts, were identified by using Student two-tailed paired and unpaired t test, respectively, with a 5% level of significance.
+
+
+RESULTS
+Treatment with cyclophosphamide or cediranib induced a 54% or 20% reduction in tumor volume at 48 hours, respectively (P < .005 and P < .005, respectively; P < .005 and P < .005 versus control, respectively). Treatment with ZD6126 induced a 45% reduction in mean tumor volume 24 hours after treatment (P < .005; P < .005 versus control). The antitumor activity of cyclophosphamide, cediranib, and ZD6126 was consistently associated with a decrease in tumor T1 (P < .005, P < .005, and P < .005, respectively; P < .005, P < .005, and P < .005 versus control, respectively) and with a correlation between therapy-induced changes in native T1 and changes in tumor volume (r = 0.56; P < .005). Tumor response to cediranib was also associated with a decrease in the dynamic contrast-enhanced MR imaging-derived volume transfer constant (P = .07; P < .05 versus control) and enhancing fraction (P < .05; P < .01 versus control), and an increase in R2* (P < .005; P < .05 versus control).
+
+
+CONCLUSION
+The T1 relaxation time is a robust noninvasive imaging biomarker of response to therapy in tumors in TH-MYCN mice, which emulate high-risk neuroblastoma in children. T1 measurements can be readily implemented on clinical MR systems and should be investigated in translational clinical trials of new targeted therapies for pediatric neuroblastoma.
+
+
+SUPPLEMENTAL MATERIAL
+http://radiology.rsna.org/lookup/suppl/doi:10.1148/radiol.12120128/-/DC1.

@@ -1,0 +1,19 @@
+An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition
+Motivation
+In biomedical research, chemical is an important class of entities, and chemical named entity recognition (NER) is an important task in the field of biomedical information extraction. However, most popular chemical NER methods are based on traditional machine learning and their performances are heavily dependent on the feature engineering. Moreover, these methods are sentence-level ones which have the tagging inconsistency problem.
+
+
+Results
+In this paper, we propose a neural network approach, i.e. attention-based bidirectional Long Short-Term Memory with a conditional random field layer (Att-BiLSTM-CRF), to document-level chemical NER. The approach leverages document-level global information obtained by attention mechanism to enforce tagging consistency across multiple instances of the same token in a document. It achieves better performances with little feature engineering than other state-of-the-art methods on the BioCreative IV chemical compound and drug name recognition (CHEMDNER) corpus and the BioCreative V chemical-disease relation (CDR) task corpus (the F-scores of 91.14 and 92.57%, respectively).
+
+
+Availability and implementation
+Data and code are available at https://github.com/lingluodlut/Att-ChemdNER.
+
+
+Contact
+yangzh@dlut.edu.cn or wangleibihami@gmail.com.
+
+
+Supplementary information
+Supplementary data are available at Bioinformatics online.

@@ -1,0 +1,15 @@
+An interactive power analysis tool for microarray hypothesis testing and generation
+MOTIVATION
+Human clinical projects typically require a priori statistical power analyses. Towards this end, we sought to build a flexible and interactive power analysis tool for microarray studies integrated into our public domain HCE 3.5 software package. We then sought to determine if probe set algorithms or organism type strongly influenced power analysis results.
+
+
+RESULTS
+The HCE 3.5 power analysis tool was designed to import any pre-existing Affymetrix microarray project, and interactively test the effects of user-defined definitions of alpha (significance), beta (1-power), sample size and effect size. The tool generates a filter for all probe sets or more focused ontology-based subsets, with or without noise filters that can be used to limit analyses of a future project to appropriately powered probe sets. We studied projects from three organisms (Arabidopsis, rat, human), and three probe set algorithms (MAS5.0, RMA, dChip PM/MM). We found large differences in power results based on probe set algorithm selection and noise filters. RMA provided high sensitivity for low numbers of arrays, but this came at a cost of high false positive results (24% false positive in the human project studied). Our data suggest that a priori power calculations are important for both experimental design in hypothesis testing and hypothesis generation, as well as for the selection of optimized data analysis parameters.
+
+
+AVAILABILITY
+The Hierarchical Clustering Explorer 3.5 with the interactive power analysis functions is available at www.cs.umd.edu/hcil/hce or www.cnmcresearch.org/bioinformatics.
+
+
+CONTACT
+jseo@cnmcresearch.org

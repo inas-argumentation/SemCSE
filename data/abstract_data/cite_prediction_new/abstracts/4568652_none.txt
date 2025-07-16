@@ -1,0 +1,6 @@
+Evaluation of a Data-Driven Machine with Advanced Control Mechanism
+This paper evaluates the EM-3, a data-driven machine with advanced control mechanism. The advanced control mechanism with pseudo-result concept has been introduced into the data-driven mechanism. To evaluate this mechanism on a parallel processing environment, the prototype machine has been developed. Five benchmark programs, which have different characteristics, are evaluated by both software simulator and a prototype machine. 
+ 
+ 
+ 
+This paper presents the results of discussing the data-driven mechanism with advanced control in the list processing system. The profiles of parallelism for the five programs, dynamic execution rate of instructions, and the characteristics of waiting time in a matching store are described. Finally, the performance of the EM-3 prototype is shown as well as the effectiveness of introducing the advanced control mechanism.

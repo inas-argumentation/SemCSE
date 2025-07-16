@@ -1,0 +1,2 @@
+An uncertainty principle for quaternion Fourier transform
+We review the quaternionic Fourier transform (QFT). Using the properties of the QFT we establish an uncertainty principle for the right-sided QFT. This uncertainty principle prescribes a lower bound on the product of the effective widths of quaternion-valued signals in the spatial and frequency domains. It is shown that only a Gaussian quaternion signal minimizes the uncertainty.

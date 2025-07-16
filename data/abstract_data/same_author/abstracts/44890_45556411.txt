@@ -1,0 +1,4 @@
+On Implementation of a Scalable Wallet-Size Cluster Computing System for Multimedia Applications
+In order to obtain a low-cost, low-power consumption and small sized digital home processing center, especially for multimedia applications, we propose a scalable wallet-size cluster computing system in this paper. Such system uses low-cost, low-power consumption and small sized microprocessors as computing nodes to form a cluster system. 
+ 
+The main reason why we are interested to investigate and build such system is to increase the computing power and to accelerate the H.264 video processing. We analyzed the H.264 decoder scheme and distributed the most heavy-load computations in the decoder scheme to each computing node (or microprocessor) of the cluster system for the processing of signals, in parallel. To run multimedia applications in this cluster system, an efficient real-time video processing is implemented.

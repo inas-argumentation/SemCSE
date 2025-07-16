@@ -1,0 +1,2 @@
+Fast Contract Signing with Batch Oblivious Transfer
+Oblivious transfer protocol is a basic building block of various cryptographic constructions. We propose a novel protocol – batch oblivious transfer. It allows efficient computation of multiple instances of oblivious transfer protocols. We apply this protocol to improve the fast simultaneous contract signing protocol, recently proposed in [11], which gains its speed from computation of time-consuming operations in advance. Using batch oblivious transfer, a better efficiency can be achieved.

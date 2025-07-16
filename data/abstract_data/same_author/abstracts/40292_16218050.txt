@@ -1,0 +1,2 @@
+A tool for constructing service replication systems
+Service replication as a key to providing high availability, fault tolerance and good performance in distributed systems. However, building a service replication system is a difficult and complex task. This paper describes a tool that mimics the design of the remote procedure call (RPC) system to support building distributed service replication systems. The tool includes an interface definition language for describing a replica group, a language preprocessor and a runtime library system.

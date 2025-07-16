@@ -1,0 +1,2 @@
+Predicate Analysis Based on Path Information
+Predicated execution leads new challenges to traditional optimizers. Limited by predicate representations, current predicate analysis methods could only perform locally or have low efficiency. A new representation based on path information is proposed in this paper, based on which a global predicate relation query system is constructed. Experiment results indicate that precise and efficient global predicate analysis could be achieved with this system and the performance of optimized codes can also be improved.

@@ -1,0 +1,2 @@
+Simple $\mathfrak{sl}(V)$-modules which are free over an abelian subalgebra
+Let $\mathfrak{p}$ be a parabolic subalgebra of $\mathfrak{sl}(V)$ of maximal dimension and let $\mathfrak{n} \subset \mathfrak{p}$ be the corresponding nilradical. In this paper we classify the set of $\mathfrak{sl}(V)$-modules whose restriction to $U(\mathfrak{n})$ is free of rank $1$. It turns out that isomorphism classes of such modules are parametrized by polynomials in $\dim V-1$ variables. We determine the submodule structure for these modules and we show that they generically are simple.

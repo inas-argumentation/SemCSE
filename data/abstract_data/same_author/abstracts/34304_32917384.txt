@@ -1,0 +1,2 @@
+Analytic calculation of the vacuum wave function for (2+1)-dimensional SU(2) lattice gauge theory.
+The long wavelength vacuum wave function of (2+1)-dimensional SU(2) lattice gauge theory is calculated by the method of truncated eigenvalue equation. Third order results are consistent with Monte Carlo measurement and display a good scaling behavior extending to the deep weak coupling region.

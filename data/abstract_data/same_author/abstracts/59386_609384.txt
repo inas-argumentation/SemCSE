@@ -1,0 +1,2 @@
+Designing A Hybrid Genetic Algorithm for the Linear Ordering Problem
+The Linear Ordering Problem(LOP), which is a well-known NP-hard problem, has numerous applications in various fields. Using this problem as an example, we illustrate a general procedure of designing a hybrid genetic algorithm, which includes the selection of crossover/mutation operators, accelerating the local search module and tuning the parameters. Experimental results show that our hybrid genetic algorithm outperforms all other existing exact and heuristic algorithms for this problem.

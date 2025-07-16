@@ -1,0 +1,4 @@
+How Much Lookahead is Needed to Win Infinite Games?
+Delay games are two-player games of infinite duration in which one player may delay her moves to obtain a lookahead on her opponent's moves. For $\omega$-regular winning conditions it is known that such games can be solved in doubly-exponential time and that doubly-exponential lookahead is sufficient. 
+We improve upon both results by giving an exponential time algorithm and an exponential upper bound on the necessary lookahead. This is complemented by showing EXPTIME-hardness of the solution problem and tight exponential lower bounds on the lookahead. Both lower bounds already hold for safety conditions. Furthermore, solving delay games with reachability conditions is shown to be PSPACE-complete. 
+This is a corrected version of the paper https://arxiv.org/abs/1412.3701v4 published originally on August 26, 2016.

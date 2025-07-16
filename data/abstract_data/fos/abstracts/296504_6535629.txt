@@ -1,0 +1,2 @@
+Viscous relativistic hydrodynamics
+I review recent and not so recent progress on formulating and numerically implementing a consistent set of relativistic equations which describe the space-time evolution of viscous relativistic fluids without violating causality.

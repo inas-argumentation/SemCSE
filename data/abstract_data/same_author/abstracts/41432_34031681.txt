@@ -1,0 +1,2 @@
+Finding a Hidden Code by Asking Questions
+We study the problem of finding a hidden code k in the domain {1, ..., m}n in the presence of an oracle which, for any x in the domain, answers a pair of numbers a(x,k) and b(x,k) such that a(x,k) is the number of components coinciding in x and k and, b(x, k) is the sum of a(x, k) and the number of components occurring in both x and k but, not at the same position. We show that \(\left\lceil {\frac{m}{n}} \right\rceil\)+ 2nlogn + 2n + 2 queries are sufficient to find any hidden code if m ≥ n.

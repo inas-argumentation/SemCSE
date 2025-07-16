@@ -1,0 +1,2 @@
+Mapping Nested Loop Algorithms into Multidimensional Systolic Arrays
+Consideration is given to transforming depth p-nested for loop algorithms into q-dimensional systolic VLSI arrays where 1 >

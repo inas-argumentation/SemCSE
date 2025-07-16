@@ -1,0 +1,19 @@
+Progression to insulin for patients with diabetes mellitus using the Texas Medicaid database.
+BACKGROUND
+Patients newly diagnosed with type 2 diabetes mellitus generally initiate therapy with either metformin [Met] or a sulfonylurea [SU] drug, followed by the addition of a second agent (Met, an SU drug, or a thiazolidinedione [TZD] drug) if the diabetes is not well controlled. If necessary, the usual third line of treatment is the addition of insulin.
+
+
+OBJECTIVE
+The purpose of our study was to compare the progression to insulin among 3 cohorts receiving the oral antidiabetic (OAD) drug combinations Met/SU, Met/TZD, or SU/TZD.
+
+
+METHODS
+This study used data from the Texas Medicaid database. The date of addition of a second OAD was considered a patient's index date and patients were followed for up to 5 years. Cox proportional hazards regression compared the progression to first insulin use among cohorts, using the Met/SU cohort as the reference group, while adjusting for demographics, comorbidities, and propensity scores.
+
+
+RESULTS
+A total of 4083 patients were included in the study (Met/SU = 2872, Met/TZD = 438, and SU/TZD = 773). Insulin was added to the medication regimen of patients by the end of follow-up in 19.7% of the Met/SU cohort, 17.6% of the Met/TZD cohort, and 26.3% of the SU/TZD cohort. The adjusted Cox proportional model estimated that patients in the SU/TZD cohort had a 40% higher probability of progression to insulin than patients in the Met/SU cohort (odds ratio [OR] = 1.40; 95% CI, 1.19-1.64), whereas there was no significant difference between the Met/TZD and Met/SU cohorts (OR = 0.85; 95% CI, 0.67-1.08).
+
+
+CONCLUSIONS
+It appears that mechanism of action may play a role in progression to insulin for concomitant OAD agents. A slower progression to insulin was seen for patients receiving a paired sensitizer regimen (ie, Met/TZD) compared with those receiving a secretagogue sensitizer regimen (ie, SU/TZD).

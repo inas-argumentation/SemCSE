@@ -1,0 +1,2 @@
+Explicit Coleman Integration for Hyperelliptic Curves
+Coleman's theory of p adic integration figures prominently in several number theoretic applications, such as finding torsion and rational points on curves, and computing p adic regulators in K theory (including p adic heights on elliptic curves) We describe an algorithm for computing Coleman integrals on hyperelliptic curves, and its implementation in Sage.

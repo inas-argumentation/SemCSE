@@ -1,0 +1,2 @@
+A New Test on High-Dimensional Mean Vector Without Any Assumption on Population Covariance Matrix
+In this paper, a new test for the equality of the mean vectors between a two groups with the same number of the observations in high-dimensional data. The existing tests for this problem require a strong condition on the population covariance matrix. The proposed test in this paper does not require such conditions for it. This test will be obtained in a general model, that is, the data need not be normally distributed.

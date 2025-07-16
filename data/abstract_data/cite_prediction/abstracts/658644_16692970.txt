@@ -1,0 +1,2 @@
+Deep Pyramidal Residual Networks with Separated Stochastic Depth
+On general object recognition, Deep Convolutional Neural Networks (DCNNs) achieve high accuracy. In particular, ResNet and its improvements have broken the lowest error rate records. In this paper, we propose a method to successfully combine two ResNet improvements, ResDrop and PyramidNet. We confirmed that the proposed network outperformed the conventional methods; on CIFAR-100, the proposed network achieved an error rate of 16.18% in contrast to PiramidNet achieving that of 18.29% and ResNeXt 17.31%.

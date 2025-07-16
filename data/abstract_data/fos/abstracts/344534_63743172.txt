@@ -1,0 +1,2 @@
+Privacy Database-concepts,Development and Challenge
+As the primary tool for privacy storage and management,the database has become of increasing concern.This paper introduces the concepts and characteristics of the privacy database and illustrates the main privacy data models.Furthermore,presented the state-of-the-art on the research of the access control mechanism and the release control mechanism of the privacy database.The limitations of the current technologies are also discussed.This paper analyzes also the potential research directions of the database.

@@ -1,0 +1,2 @@
+Range-IT: detection and multimodal presentation of indoor objects for visually impaired people
+In the paper we present our Range-IT prototype, which is a 3D depth camera based electronic travel aid (ETA) to assist visually impaired people in finding out detailed information of surrounding objects. In addition to detecting indoor obstacles and identifying several objects of interest (e.g., walls, open doors and stairs) up to 7 meters, the Range-IT system employs a multimodal audio-vibrotactile user interface to present this spatial information.

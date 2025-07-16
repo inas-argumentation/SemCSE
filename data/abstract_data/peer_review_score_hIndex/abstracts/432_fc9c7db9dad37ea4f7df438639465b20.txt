@@ -1,0 +1,2 @@
+CONTROLLING COVARIATE SHIFT USING EQUILIBRIUM NORMALIZATION OF WEIGHTS
+We introduce a new normalization technique that exhibits the fast convergence properties of batch normalization using a transformation of layer weights instead of layer outputs. The proposed technique keeps the contribution of positive and negative weights to the layer output in equilibrium. We validate our method on a set of standard benchmarks including CIFAR-10/100, SVHN and ILSVRC 2012 ImageNet.

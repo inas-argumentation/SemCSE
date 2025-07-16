@@ -1,0 +1,23 @@
+Association between postoperative troponin levels and 30-day mortality among patients undergoing noncardiac surgery.
+CONTEXT
+Of the 200 million adults worldwide who undergo noncardiac surgery each year, more than 1 million will die within 30 days.
+
+
+OBJECTIVE
+To determine the relationship between the peak fourth-generation troponin T (TnT) measurement in the first 3 days after noncardiac surgery and 30-day mortality.
+
+
+DESIGN, SETTING, AND PARTICIPANTS
+A prospective, international cohort study that enrolled patients from August 6, 2007, to January 11, 2011. Eligible patients were aged 45 years and older and required at least an overnight hospital admission after having noncardiac surgery.
+
+
+MAIN OUTCOME MEASURES
+Patients' TnT levels were measured 6 to 12 hours after surgery and on days 1, 2, and 3 after surgery. We undertook Cox regression analysis in which the dependent variable was mortality until 30 days after surgery, and the independent variables included 24 preoperative variables. We repeated this analysis, adding the peak TnT measurement during the first 3 postoperative days as an independent variable and used a minimum P value approach to determine if there were TnT thresholds that independently altered patients' risk of death.
+
+
+RESULTS
+A total of 15,133 patients were included in this study. The 30-day mortality rate was 1.9% (95% CI, 1.7%-2.1%). Multivariable analysis demonstrated that peak TnT values of at least 0.02 ng/mL, occurring in 11.6% of patients, were associated with higher 30-day mortality compared with the reference group (peak TnT ≤ 0.01 ng/mL): peak TnT of 0.02 ng/mL (adjusted hazard ratio [aHR], 2.41; 95% CI, 1.33-3.77); 0.03 to 0.29 ng/mL (aHR, 5.00; 95% CI, 3.72-6.76); and 0.30 ng/mL or greater (aHR, 10.48; 95% CI, 6.25-16.62). Patients with a peak TnT value of 0.01 ng/mL or less, 0.02, 0.03-0.29, and 0.30 or greater had 30-day mortality rates of 1.0%, 4.0%, 9.3%, and 16.9%, respectively. Peak TnT measurement added incremental prognostic value to discriminate those likely to die within 30 days for the model with peak TnT measurement vs without (C index = 0.85 vs 0.81; difference, 0.4; 95% CI, 0.2-0.5; P < .001 for difference between C index values). The net reclassification improvement with TnT was 25.0% (P < .001).
+
+
+CONCLUSION
+Among patients undergoing noncardiac surgery, the peak postoperative TnT measurement during the first 3 days after surgery was significantly associated with 30-day mortality.

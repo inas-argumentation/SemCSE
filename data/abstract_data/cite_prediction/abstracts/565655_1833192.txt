@@ -1,0 +1,2 @@
+Historical Clicks for Product Search: GESIS at CLEF LL4IR 2015
+The Living Labs for Information Retrieval (LL4IR) lab was held for the first time at CLEF and GESIS participated in this pilot evaluation. We took part in the product search task and describe our system that is based on the Solr search engine and includes a re-reranking based on historical click data. This brief workshop note also includes some preliminary results, discussion and some lessons learned.

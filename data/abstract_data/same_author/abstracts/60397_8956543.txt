@@ -1,0 +1,11 @@
+A linear programming approach for identifying a consensus sequence on DNA sequences
+MOTIVATION
+Maximum-likelihood methods for solving the consensus sequence identification (CSI) problem on DNA sequences may only find a local optimum rather than the global optimum. Additionally, such methods do not allow logical constraints to be imposed on their models. This study develops a linear programming technique to solve CSI problems by finding an optimum consensus sequence. This method is computationally more efficient and is guaranteed to reach the global optimum. The developed method can also be extended to treat more complicated CSI problems with ambiguous conserved patterns.
+
+
+RESULTS
+A CSI problem is first formulated as a non-linear mixed 0-1 optimization program, which is then converted into a linear mixed 0-1 program. The proposed method provides the following advantages over maximum-likelihood methods: (1) It is guaranteed to find the global optimum. (2) It can embed various logical constraints into the corresponding model. (3) It is applicable to problems with many long sequences. (4) It can find the second and the third best solutions. An extension of the proposed linear mixed 0-1 program is also designed to solve CSI problems with an unknown spacer length between conserved regions. Two examples of searching for CRP-binding sites and for FNR-binding sites in the Escherichia coli genome are used to illustrate and test the proposed method.
+
+
+AVAILABILITY
+A software package, Global Site Seer for the Microsoft Windows operating system is available by http://www.iim.nctu.edu.tw/~cjfu/gss.htm

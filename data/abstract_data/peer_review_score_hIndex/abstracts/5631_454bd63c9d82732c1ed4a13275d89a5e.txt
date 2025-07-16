@@ -1,0 +1,14 @@
+On the Capacity and Superposition of Minima in Neural Network Loss Function Landscapes
+Minima of the loss function landscape of a neural network are locally optimal sets of
+weights that extract and process information from the input data to make outcome predictions. 
+In underparameterised networks, the capacity of the weights may be insufficient to fit all the relevant information. 
+We demonstrate that different local minima specialise in certain aspects of the learning problem, and process the input
+information differently. This effect can be exploited using a meta-network in
+which the predictive power from multiple minima of the LFL is combined to produce a better
+classifier. With this approach, we can increase the area under the receiver operating characteristic curve
+(AUC) by around $20\%$ for a complex learning problem. 
+We propose a theoretical basis for combining minima and show how a meta-network can
+be trained to select the representative that is used for classification of a
+specific data item. Finally, we present an analysis of symmetry-equivalent
+solutions to machine learning problems, which provides a systematic means to improve the
+efficiency of this approach.

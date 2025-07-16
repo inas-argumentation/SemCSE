@@ -1,0 +1,2 @@
+Isomorphism of Graphs Which are Pairwise k-separable
+A polynomial time algorithm for testing isomorphism of graphs which are pairwise k -separable for fixed k is given. The pairwise k -separable graphs are those graphs where each pair of distinct vertices are k -separable. This is a natural generalization of the bounded valence test of Luks. The subgroup of automorphisms of a hypergraph whose restriction to the vertices is in a given Γ k group, for fixed k is constructed in polynomial time.

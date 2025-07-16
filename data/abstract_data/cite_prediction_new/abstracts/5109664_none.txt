@@ -1,0 +1,2 @@
+Texture potential MIP mapping, a new high-quality texture antialiasing algorithm
+A refined version of the texture potential mapping algorithm is introduced in which a one-dimensional MIP map is incorporated. This has the effect of controlling the maximum number of texture samples required. The new technique is compared to existing texture antialiasing methods in terms of quality and sample count. The new method is shown to compare favorably with existing techniques for producing high quality antialiased, texture-mapped images.

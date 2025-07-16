@@ -1,0 +1,2 @@
+Low Cost Attacks on Tamper Resistant Devices
+There has been considerable recent interest in the level of tamper resistance that can be provided by low cost devices such as smart-cards. It is known that such devices can be reverse engineered using chip testing equipment, but a state of the art semiconductor laboratory costs millions of dollars. In this paper, we describe a number of attacks that can be mounted by opponents with much shallower pockets.

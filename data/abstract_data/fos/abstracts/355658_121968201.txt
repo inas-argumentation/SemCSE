@@ -1,0 +1,2 @@
+Some inference results in several symmetric multivariate exponential models
+In this paper, we consider multivariate exponential models with identical marginals. We obtain MLEs of the parameters and large sample tests for mutual independence of k components in the multivariate exponential models proposed by Weinman (1966), Marshall-Olkin (1967) and Block (1975).

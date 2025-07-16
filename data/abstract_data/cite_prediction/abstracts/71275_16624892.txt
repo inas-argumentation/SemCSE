@@ -1,0 +1,15 @@
+Cursor control by Kalman filter with a non-invasive body–machine interface
+OBJECTIVE
+We describe a novel human-machine interface for the control of a two-dimensional (2D) computer cursor using four inertial measurement units (IMUs) placed on the user's upper-body.
+
+
+APPROACH
+A calibration paradigm where human subjects follow a cursor with their body as if they were controlling it with their shoulders generates a map between shoulder motions and cursor kinematics. This map is used in a Kalman filter to estimate the desired cursor coordinates from upper-body motions. We compared cursor control performance in a centre-out reaching task performed by subjects using different amounts of information from the IMUs to control the 2D cursor.
+
+
+MAIN RESULTS
+Our results indicate that taking advantage of the redundancy of the signals from the IMUs improved overall performance. Our work also demonstrates the potential of non-invasive IMU-based body-machine interface systems as an alternative or complement to brain-machine interfaces for accomplishing cursor control in 2D space.
+
+
+SIGNIFICANCE
+The present study may serve as a platform for people with high-tetraplegia to control assistive devices such as powered wheelchairs using a joystick.

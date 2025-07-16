@@ -1,0 +1,2 @@
+Chapter 5 Cognitive Analytics : Going Beyond Big Data Analytics and Machine Learning
+This chapter defines analytics and traces its evolution from its origin in 1988 to its current stage—cognitive analytics. We discuss types of learning and describe classes of machine learning algorithms. Given this backdrop, we propose a reference architecture for cognitive analytics and indicate ways to implement the architecture. A few cognitive analytics applications are briefly described. The chapter concludes by indicating current trends and future research direction.

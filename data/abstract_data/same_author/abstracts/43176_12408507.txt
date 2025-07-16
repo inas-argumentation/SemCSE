@@ -1,0 +1,2 @@
+A Rough Set Approach to Attribute Generalization in Data Mining
+This paper presents a method for updating approximations of a concept incrementally. The results can be used to implement a quasi-incremental algorithm for learning classification rules from very large data bases generalized by dynamic conceptual hierarchies provided by users. In general, the process of attribute generalization may introduce inconsistency into a generalized relation. This issue is resolved by using the inductive learning algorithm, LERS based on rough set theory.

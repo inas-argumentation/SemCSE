@@ -1,0 +1,2 @@
+Improved interpretation of UNIX-like file names embedded in data
+When the data processed by a program span several files, the common practice of including file names as data in some of the files leads to difficulties in moving or sharing that data. In systems using tree structured directories, this problem can be solved by making a syntactic distinction between absolute and relative file names.

@@ -1,0 +1,8 @@
+Embedding a random graph via GNN: mean-field inference theory and RL applications to NP-Hard multi-robot/machine scheduling
+We develop a theory for embedding a random graph using graph neural networks (GNN) and illustrate its capability to solve NP-hard scheduling problems. We apply the theory to address the challenge of developing a near-optimal learning algorithm to solve the NP-hard problem of scheduling multiple robots/machines with time-varying rewards. In particular, we consider a class of reward collection problems called Multi-Robot Reward Collection (MRRC). Such MRRC problems well model ride-sharing, pickup-and-delivery, and a variety of related problems. We consider the classic identical parallel machine scheduling problem (IPMS) in the Appendix.  
+
+For the theory, we first observe that MRRC system state can be represented as an extension of probabilistic graphical models (PGMs), which we refer to as random PGMs. We then develop a mean-field inference method for random PGMs. 
+We prove that a simple modification of a typical GNN embedding is sufficient to embed a random graph even when the edge presence probabilities are interdependent.
+
+Our theory enables a two-step hierarchical inference for precise and transferable Q-function estimation for MRRC and IPMS. For scalable computation, we show that the transferability of Q-function estimation enables us to design a polynomial-time algorithm with 1-1/e optimality bound. 
+Experimental results on solving NP-hard MRRC problems (and IMPS in the Appendix) highlight the near-optimality and transferability of the proposed methods.  

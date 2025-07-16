@@ -1,0 +1,2 @@
+Explicit Analytic Solution for Inverse Kinematics of Bioloid Humanoid Robot
+The aim of this paper is to explain basic kinematic concepts applied to humanoid robots. The structure of a Bioloid with three degrees of freedom (DoFs) for the arms and six DoFs for the legs is considered. The solution of direct and inverse kinematics (IK) is presented for both arms and legs. Our main contribution is to solve in a detailed manner the legs IK because this is the basis for planning walking motions.

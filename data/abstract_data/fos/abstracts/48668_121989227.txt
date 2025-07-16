@@ -1,0 +1,2 @@
+Some sequential selection procedures for good regression models
+In the past decade a number of fixed sampling methods have been developed for selecting the "best" or at least a "good" subset of vaiable in regression analysis. We are interested in deriving a sequential selection procedure to select a subset of a random size including equations. Tables for an example are given at the end of this paper

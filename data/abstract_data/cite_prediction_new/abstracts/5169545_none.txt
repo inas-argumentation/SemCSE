@@ -1,0 +1,2 @@
+Image Feature Extraction for Hair Pieces Detection in Mushroom Semiproducts
+An integrative structural feature extraction method for hair pieces detection is proposed using dyadic wavelet analysis. It considers the edge strength of the parallel boundaries simultaneously and the positions of the medial axes can be derived at the same time. An algorithm for calculating the direction of the medial axes points is also presented. After the discrete medial axes points being linked into lines, a further selection is made on the lines by statistical methods.

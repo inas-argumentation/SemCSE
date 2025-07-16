@@ -1,0 +1,2 @@
+Stock market prediction system with modular neural networks
+This paper discusses a buying and selling timing prediction system for stocks on the Tokyo Stock Exchange and analysis of intemal representation. It is based on modular neural networks[l][2]. We developed a number of learning algorithms and prediction methods for the TOPIX(Toky0 Stock Exchange Prices Indexes) prediction system. The prediction system achieved accurate predictions and the simulation on stocks tradmg showed an excellent profit. The prediction system was developed by Fujitsu and Nikko Securities.

@@ -1,0 +1,2 @@
+A central limit theorem for extremal characters of the infinite symmetric group
+The asymptotic behavior of the lengths of the first rows and columns in the random Young diagrams corresponding to extremal characters of the infinite symmetric group is studied. We consider rows and columns with linear growth in n and prove a central limit theorem for their lengths in the case of distinct Thoma parameters. We also prove a more precise statement relating the growth of rows and columns of Young diagrams to a simple independent random sampling model.

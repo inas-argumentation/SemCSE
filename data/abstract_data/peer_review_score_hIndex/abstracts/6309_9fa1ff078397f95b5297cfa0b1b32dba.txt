@@ -1,0 +1,18 @@
+A CASE STUDY ON OPTIMAL DEEP LEARNING MODEL FOR UAVS
+Over the passage of time Unmanned Autonomous Vehicles (UAVs), especially
+Autonomous flying drones grabbed a lot of attention in Artificial Intelligence.
+Since electronic technology is getting smaller, cheaper and more efficient, huge
+advancement in the study of UAVs has been observed recently. From monitoring
+floods, discerning the spread of algae in water bodies to detecting forest trail, their
+application is far and wide. Our work is mainly focused on autonomous flying
+drones where we establish a case study towards efficiency, robustness and accuracy
+of UAVs where we showed our results well supported through experiments.
+We provide details of the software and hardware architecture used in the study. We
+further discuss about our implementation algorithms and present experiments that
+provide a comparison between three different state-of-the-art algorithms namely
+TrailNet, InceptionResnet and MobileNet in terms of accuracy, robustness, power
+consumption and inference time. In our study, we have shown that MobileNet has
+produced better results with very less computational requirement and power consumption.
+We have also reported the challenges we have faced during our work
+as well as a brief discussion on our future work to improve safety features and
+performance.

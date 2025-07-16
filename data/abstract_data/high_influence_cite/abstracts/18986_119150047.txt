@@ -1,0 +1,2 @@
+Zero counting for a class of univariate Pfaffian functions
+We present a new procedure to count the number of real zeros of a class of univariate Pfaffian functions of order $1$. The procedure is based on the construction of Sturm sequences for these functions and relies on an oracle for sign determination. In the particular case of $E$-polynomials, we design an oracle-free effective algorithm solving this task within exponential complexity. In addition, we give an explicit upper bound for the absolute value of the real zeros of an $E$-polynomial.

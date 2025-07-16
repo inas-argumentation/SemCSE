@@ -1,0 +1,2 @@
+Removal of false positive in object detection with contour-based classifiers
+This paper proposes a method of constructing a contour-based classifier to remove the false positive objects after Haar-based detection. The classifier is learned with the discrete AdaBoost. During the training, the oriented chamfer is introduced to construct strong learners. Experimental results have demonstrated that the proposed method is feasible and promising in the removal of the false positive.

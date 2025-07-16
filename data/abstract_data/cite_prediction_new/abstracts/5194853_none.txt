@@ -1,0 +1,2 @@
+K: An Instance-based Learner Using and Entropic Distance Measure
+The use of entropy as a distance measure has several benefits. It provides a consistent approach to handling symbolic attributes, real valued attributes and missing values. We discuss the approach of taking all possible transformation paths between instances. We describe K*, an instance-based learner that uses such a measure, and present results that compare favourably with several machine learning algorithms.

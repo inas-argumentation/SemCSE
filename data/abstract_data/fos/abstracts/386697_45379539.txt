@@ -1,0 +1,2 @@
+Azimuth and elevation direction finding using arbitrary array geometries
+An ESPRIT-based algorithm is proposed to estimate the azimuth and elevation angles of multiple independent sources. The algorithm uses cumulants and imposes no geometric constraint on the array. Only one third of the hardware is needed for our algorithm as compared with covariance-based two-dimensional (2-D) ESPRIT. Our algorithm can estimate azimuth and elevation angles of M-1 sources using M sensors. Simulation results show that for several array configurations, our algorithm works well.

@@ -1,0 +1,2 @@
+Tracking human motion with multiple cameras using articulated ICP with hard constraints
+This paper presents an ICP based algorithm for tracking an articulated skeletal model of the human body (stick figure) in 3D. The data are 3D points distributed roughly around the limbs' medial axes. The algorithm fits each stick to a limb in a hierarchical fashion, traversing the body's kinematic chain, while preserving the connection of the sticks at the joints. Experimental results illustrate the algorithm.

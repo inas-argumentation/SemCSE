@@ -1,0 +1,2 @@
+A Survey of Ontology Learning Approaches
+The problem that ontology learning deals with is the knowledge acquisition bottleneck, that is to say the difficulty to actually model the knowledge relevant to the domain of interest. Ontologies are the vehicle by which we can model and share the knowledge among various applications in a specific domain. So many research developed several ontology learning approaches and systems. In this paper, we present a survey for the different approaches in ontology learning from semi-structured and unstructured date

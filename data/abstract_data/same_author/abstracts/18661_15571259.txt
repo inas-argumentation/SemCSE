@@ -1,0 +1,2 @@
+A new method for computation of QCD thermodynamics: EOS, specific heat and speed of sound
+We propose a new variant of the operator method for the computation of the equation of state of QCD, which yields positive pressure for all temperatures and all values of temporal lattice spacings. Using this new method, we calculate the continuum limit of pressure, energy density, entropy density, specific heat, and the speed of sound, in quenched QCD, for 0.9 \le T/T_c \le 3.

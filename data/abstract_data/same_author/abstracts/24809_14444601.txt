@@ -1,0 +1,2 @@
+Generalised parton distributions at small x
+We justify the practical use of the Shuvaev integral transform approach to calculate the skewed distributions, needed to describe diffractive processes, directly from the conventional diagonal global parton distributions. We address doubts which have been raised about this procedure. We emphasise that the approach, on the one hand, satisfies all theoretical requirements, and, on the other hand, is consistent with DVCS data at NLO. We construct an easily accessible package for the computation of these skewed distributions.

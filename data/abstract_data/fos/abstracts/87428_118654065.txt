@@ -1,0 +1,2 @@
+A generalized ridge regression estimator and its finite sample properties
+A new operational Generalized Ridge Regression (GRR) estimator is presented which is characterized by a new procedure to estimate the shrinkage parameters. Compared with the usual operational GRR estimator, the one proposed here enjoys the advantage that its shrinkage parameters are bounded. The finite sample properties of the resulting GRR estimator are derived in the context of the Classical Linear Regression Model with normally distributed disturbances.

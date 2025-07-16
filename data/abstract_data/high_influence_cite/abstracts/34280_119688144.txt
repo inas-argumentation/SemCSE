@@ -1,0 +1,2 @@
+Levinson's theorem for graphs
+We prove Levinson's theorem for scattering on an (m+n)-vertex graph with n semi-infinite paths each attached to a different vertex, generalizing a previous result for the case n = 1. This theorem counts the number of bound states in terms of the winding of the determinant of the S-matrix. We also provide a proof that the bound states and incoming scattering states of the Hamiltonian together form a complete basis for the Hilbert space, generalizing another result for the case n = 1.

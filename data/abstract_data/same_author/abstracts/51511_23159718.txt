@@ -1,0 +1,2 @@
+Efficient Algorithms for Finding Depth-First and Breadth-First Search Trees in Permutation Graphs
+This paper presents an O(n log log n) time algorithm for finding a depth-first search tree and an O(n) time algorithm for finding a breadth-first search tree in a permutation graph, respectively.

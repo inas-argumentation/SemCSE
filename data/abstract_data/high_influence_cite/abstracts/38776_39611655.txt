@@ -1,0 +1,2 @@
+Calderon inverse Problem with partial data on Riemann Surfaces
+On a fixed smooth compact Riemann surface with boundary $(M_0,g)$, we show that for the Schr\"odinger operator $\Delta +V$ with potential $V\in C^{1,\alpha}(M_0)$ for some $\alpha>0$, the Dirichlet-to-Neumann map $N|_{\Gamma}$ measured on an open set $\Gamma\subset \partial M_0$ determines uniquely the potential $V$. We also discuss briefly the corresponding consequences for potential scattering at 0 frequency on Riemann surfaces with asymptotically Euclidean or asymptotically hyperbolic ends.

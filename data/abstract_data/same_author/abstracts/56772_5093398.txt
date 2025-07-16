@@ -1,0 +1,2 @@
+A Comparison of GAs Using Penalizing Infeasible Solutions and Repairing Infeasible Solutions on Average Capacity Knapsack
+Different constraint handling techniques have been incorporated with genetic algorithms (GAs), however most of current studies are based on computer experiments. The paper makes an theoretical analysis of GAs using penalizing infeasible solutions and repairing infeasible solutions on average knapsack problem. It is shown that GAs using the repair method is more efficient than GAs using the penalty method on average capacity knapsack problems.

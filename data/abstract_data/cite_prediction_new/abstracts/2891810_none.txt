@@ -1,0 +1,2 @@
+Asymptotic spectral theory for nonlinear time series
+We consider asymptotic problems in spectral analysis of stationary causal processes. Limiting distributions of periodograms and smoothed periodogram spectral density estimates are obtained and applications to the spectral domain bootstrap are given. Instead of the commonly used strong mixing conditions, in our asymptotic spectral theory we impose conditions only involving (conditional) moments, which are easily verifiable for a variety of nonlinear time series.

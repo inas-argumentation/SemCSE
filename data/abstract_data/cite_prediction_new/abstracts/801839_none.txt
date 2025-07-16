@@ -1,0 +1,2 @@
+Logic programming with default, weak and strict negations
+This paper looks at logic programming with three kinds of negation: default, weak and strict negations. A 3-valued logic model theory is discussed for logic programs with three kinds of negation. The procedure is constructed for negations so that a soundness of the procedure is guaranteed in terms of 3-valued logic model theory.

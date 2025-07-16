@@ -1,0 +1,2 @@
+GniCodes Matlab programs for geometric numerical integration
+Geometric numerical integration is synonymous with structure preserving integration of ordinary differential equations. These notes, prepared for the Durham summer school 2002, are complementary to the monograph of Hairer, Lubich and Wanner [12] They give an introduction to the subject, and they discuss and explain the use of Matlab programs for experimenting with structure preserving algorithms.

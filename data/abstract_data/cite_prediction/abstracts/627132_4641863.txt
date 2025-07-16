@@ -1,0 +1,2 @@
+Syntactic Dependency-Based N-grams: More Evidence of Usefulness in Classification
+The paper introduces and discusses a concept of syntactic n-grams (sn-grams) that can be applied instead of traditional n-grams in many NLP tasks. Sn-grams are constructed by following paths in syntactic trees, so sngrams allow bringing syntactic knowledge into machine learning methods. Still, previous parsing is necessary for their construction. We applied sn-grams in the task of authorship attribution for corpora of three and seven authors with very promising results.

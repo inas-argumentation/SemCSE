@@ -1,0 +1,2 @@
+Compact difference scheme for parabolic and Schrödinger-type equations with variable coefficients
+Abstract We develop a new compact scheme for the second-order PDE (parabolic and Schrodinger type) with a variable time-independent coefficient. It has a higher order and smaller error than classic implicit scheme. The Dirichlet and Neumann boundary problems are considered. The relative finite-difference operator is almost self-adjoint.

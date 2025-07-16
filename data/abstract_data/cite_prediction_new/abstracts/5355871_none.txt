@@ -1,0 +1,2 @@
+A verification technique for deterministic parallel programs
+Software is omnipresent, and software failures can have tremendous costs for society and economy. Therefore, we need techniques to improve the quality of software, and to prevent software failures. Program verification can help to improve this situation, as it allows to check properties on all possible behaviours of a program. We focus in particular on the verification of concurrent software, which is even more error-prone, because of the possible interleavings between the different threads.

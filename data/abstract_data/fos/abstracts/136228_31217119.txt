@@ -1,0 +1,15 @@
+SU-E-T-241: Monte Carlo Simulation Study About the Prediction of Proton-Induced DNA Strand Breakage On the Double Helix Structure.
+PURPOSE
+In particle therapy and radiobiology, the investigation of mechanisms leading to the death of target cancer cells induced by ionising radiation is an active field of research. Recently, several studies based on Monte Carlo simulation codes have been initiated in order to simulate physical interactions of ionising particles at cellular scale and in DNA. Geant4-DNA is the one of them; it is an extension of the general purpose Geant4 Monte Carlo simulation toolkit for the simulation of physical interactions at sub-micrometre scale. In this study, we present Geant4-DNA Monte Carlo simulations for the prediction of DNA strand breakage using a geometrical modelling of DNA structure.
+
+
+METHODS
+For the simulation of DNA strand breakage, we developed a specific DNA geometrical structure. This structure consists of DNA components, such as the deoxynucleotide pairs, the DNA double helix, the nucleosomes and the chromatin fibre. Each component is made of water because the cross sections models currently available in Geant4-DNA for protons apply to liquid water only. Also, at the macroscopic-scale, protons were generated with various energies available for proton therapy at the National Cancer Center, obtained using validated proton beam simulations developed in previous studies. These multi-scale simulations were combined for the validation of Geant4-DNA in radiobiology.
+
+
+RESULTS
+In the double helix structure, the deposited energy in a strand allowed to determine direct DNA damage from physical interaction. In other words, the amount of dose and frequency of damage in microscopic geometries was related to direct radiobiological effect.
+
+
+CONCLUSION
+In this report, we calculated the frequency of DNA strand breakage using Geant4- DNA physics processes for liquid water. This study is now on-going in order to develop geometries which use realistic DNA material, instead of liquid water. This will be tested as soon as cross sections for DNA material become available in Geant4-DNA.

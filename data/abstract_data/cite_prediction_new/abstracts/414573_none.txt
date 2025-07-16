@@ -1,0 +1,2 @@
+An extensible framework and database of infectious disease for biosurveillance
+Biosurveillance, a relatively young field, has recently increased in importance because of increasing emphasis on global health. Databases and tools describing particular subsets of disease are becoming increasingly common in the field. Here, we present an infectious disease database that includes diseases of biosurveillance relevance and an extensible framework for the easy expansion of the database.

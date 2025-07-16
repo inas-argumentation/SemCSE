@@ -1,0 +1,6 @@
+Regularity for Dual Solutions and for Weak Cluster Points of Minimizing Sequences of Variational Problems with Linear Growth
+The minimum problem 
+$$\int_\Omega {f(\nabla u)dx \to \min } $$
+ among the mappings 
+$$u:\mathbb{R}^n \supset \Omega \to \mathbb{R}^N $$
+ with prescribed Dirichlet boundary data and for integrands f of linear growth in general fails to have solutions in the Sobolev space W11. We therefore concentrate on the dual variational problem, which admits a unique maximizer σ, and prove the partial Hölder continuity of σ. Moreover, we study smoothness properties of the L1-limits of minimizing sequences of the original problem. Bibliography: 20 titles.

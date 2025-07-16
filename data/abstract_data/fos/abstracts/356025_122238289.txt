@@ -1,0 +1,2 @@
+On Properties of Circuit for Circuit Evaluation as a Parallelization Procedure
+It is shown here that if NC=P, NC hierarchy collapses. We give two proofs for it. From the point of view of circuit for circuit evaluation, the assumption NC=P implies that any polynomial size circuit can be transduced into a polynomial size and poly-log depth circuit. Such a parallelization property can be applied not only for uniform circuits but also for non uniform circuits. This interesting property suggests that the assumption NC=P would be false.

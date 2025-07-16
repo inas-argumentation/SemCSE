@@ -1,0 +1,2 @@
+A Sequential Constraint Method for Solving Variational Inequality over the Intersection of Fixed Point Sets
+We consider the variational inequality problem over the intersection of fixed point sets of firmly nonexpansive operators. In order to solve the problem, we present an algorithm and subsequently show the strong convergence of the generated sequence to the solution of the considered problem.

@@ -1,0 +1,2 @@
+On the diameter vulnerability of Kautz digraphs
+Abstract We show that in the Kautz digraph K ( d , t ) with d t + d t −1 vertices each having out degree d , there exist d vertex-disjoint paths between any pair of distinct vertices, one of length at most t , d − 2 of length at most t + 1, and one of length at most t + 2.

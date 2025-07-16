@@ -1,0 +1,2 @@
+Linearly Tunable CMOS OTA With Constant Dynamic Range Using Source-Degenerated Current Mirrors
+This brief introduces a new operational transconductance amplifier (OTA) that maintains the input voltage-swing constant during gm adjustments, enabled by employing current mirrors with source degeneration. The OTA presents a wide gm tuning range, which is linearly accomplished through a variable current source. The key design steps are illustrated through an example, and simulation results are included to validate the theory

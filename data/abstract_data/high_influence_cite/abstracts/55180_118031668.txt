@@ -1,0 +1,8 @@
+Eight-Fifth approximation for the path TSP
+We prove the approximation ratio 8/5 for the metric {s,t}-path-TSP, and more generally for shortest connected T-joins. 
+ 
+The algorithm that achieves this ratio is the simple "Best of Many" version of Christofides' algorithm (1976), suggested by An, Kleinberg and Shmoys (2012), which consists in determining the best Christofides {s,t}-tour out of those constructed from a family $\mathcal{F}_+$ of trees having a convex combination dominated by an optimal solution x* of the Held-Karp relaxation. They give the approximation guarantee $\frac{\sqrt{5}+1}{2}$ for such an {s,t}-tour, which is the first improvement after the 5/3 guarantee of Hoogeveen's Christofides type algorithm (1991). Cheriyan, Friggstad and Gao (2012) extended this result to a 13/8-approximation of shortest connected T-joins, for |T|≥4. 
+ 
+The ratio 8/5 is proved by simplifying and improving the approach of An, Kleinberg and Shmoys that consists in completing x*/2 in order to dominate the cost of "parity correction" for spanning trees. We partition the edge-set of each spanning tree in $\mathcal{F}_+$ into an {s,t}-path (or more generally, into a T-join) and its complement, which induces a decomposition of x*. This decomposition can be refined and then efficiently used to complete x*/2 without using linear programming or particular properties of T, but by adding to each cut deficient for x*/2 an individually tailored explicitly given vector, inherent in x*. 
+ 
+A simple example shows that the Best of Many Christofides algorithm may not find a shorter {s,t}-tour than 3/2 times the incidentally common optima of the problem and of its fractional relaxation.

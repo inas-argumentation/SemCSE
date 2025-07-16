@@ -1,0 +1,2 @@
+Analysis of locomotion of a planetary rover on a slope
+For improvement of planetary rover locomotion, a new type of tracked vehicle was designed for planetary exploration based on the concept of reconfigurability. By applying the planetary wheel principle, the system can give output in different forms under various constraint conditions. As a reconfigurable module, the vehicle can be integrated into a larger system using two basic configurations. As a stand-alone rover, it has two moving modes. The whole design was analyzed by conducting dynamics simulations and experiments.

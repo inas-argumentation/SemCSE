@@ -1,0 +1,2 @@
+A stability result of a Timoshenko system with a delay term in the internal feedback
+Abstract In this paper, we consider a Timoshenko system with a delay term in the feedback and prove a stability result. The beam is clamped at the endpoints and has, in addition to an internal damping, a feedback with a delay. Under an appropriate assumption on the weights of the two feedbacks, we prove the well-posedness of the system and establish an exponential decay result for the case of equal-speed wave propagation.

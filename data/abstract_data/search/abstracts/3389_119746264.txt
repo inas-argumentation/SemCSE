@@ -1,0 +1,2 @@
+A note on Taylor's theorem
+See E. W. Hobson, The Theory of Functions of a Real Variable, vol. 1, 3d ed. pp. 368 370. We use here the more restrictive of the two definitions given by Hobson for f(x) The existence of f(a) then insures the existence and continuity in an open interval containing a of all derivatives of lower order. t S. Pollard, On the descriptive form of Taylor's theorem, Cambridge Philosophical Society Proceedings, vol. 23 (1926 27) pp. 383 385. Pollard's proof seems only to establish the less sharp result |w(a, h) PSn\h\v(a, h)

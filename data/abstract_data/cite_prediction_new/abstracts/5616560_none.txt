@@ -1,0 +1,2 @@
+Strong Convergence Bound of the Pareto Index Estimator under Right Censoring
+Let be a sequence of positive independent and identically distributed random variables with common Pareto-type distribution function as , where represents a slowly varying function at infinity. In this note we study the strong convergence bound of a kind of right censored Pareto index estimator under second-order regularly varying conditions.

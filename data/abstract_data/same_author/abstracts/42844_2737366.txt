@@ -1,0 +1,2 @@
+A proof of an inequality concerning k-restricted edge connectivity
+An edge subset S of a connected graph G is a k-restricted edge cut if G-S is disconnected, and every component of G-S has at least k vertices. The k-restricted edge connectivity is the cardinality of a minimum k-restricted edge cut. In this note, we show that except for a well-defined class of graphs, k-restricted edge cuts of a connected graph G exist for any k=<@d(G)+1, where @d(G) is the minimum degree of G. Furthermore, we obtain an upper bound for k-restricted edge connectivity.

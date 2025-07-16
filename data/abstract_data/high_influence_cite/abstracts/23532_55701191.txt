@@ -1,0 +1,25 @@
+Assessment of liquefaction-induced hazards using Bayesian networks based on standard penetration test data
+Abstract. Liquefaction-induced hazards such as sand boils, ground
+cracks, settlement, and lateral spreading are responsible for considerable
+damage to engineering structures during major earthquakes. Presently, there
+is no effective empirical approach that can assess different
+liquefaction-induced hazards in one model. This is because of the
+uncertainties and complexity of the factors related to seismic liquefaction
+and liquefaction-induced hazards. In this study, Bayesian networks (BNs) are
+used to integrate multiple factors related to seismic liquefaction, sand
+boils, ground cracks, settlement, and lateral spreading into a model based on
+standard penetration test data. The constructed BN model can assess four
+different liquefaction-induced hazards together. In a case study, the BN
+method outperforms an artificial neural network and Ishihara and Yoshimine's
+simplified method in terms of accuracy, Brier score,
+recall, precision, and area under the curve (AUC) of the receiver
+operating characteristic (ROC). This demonstrates
+that the BN method is a good alternative tool for the risk assessment of
+liquefaction-induced hazards. Furthermore, the performance of the BN model in
+estimating liquefaction-induced hazards in Japan's 2011 Tōhoku earthquake confirms its correctness and reliability compared with the
+liquefaction potential index approach. The proposed BN model can also predict
+whether the soil becomes liquefied after an earthquake and can deduce the
+chain reaction process of liquefaction-induced hazards and perform backward
+reasoning. The assessment results from the proposed model provide informative
+guidelines for decision-makers to detect the damage state of a field
+following liquefaction.

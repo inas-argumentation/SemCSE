@@ -1,0 +1,2 @@
+A Research and Design on Surface EMG Amplifier
+As the characteristics of SEMG are weak and vulnerable to external noise, it must to establish the appropriate acquisition and amplification system. INA128 chip is used to be as the core IC of the SEMG amplifier. The IC UAF42 is used to be the notch filter to keep out of frequency of 50Hz. Multisim2001 is used to simulate and test the SEMG amplifier is feasible. The amplifier can be used to help amputation acquire EMG in effect.

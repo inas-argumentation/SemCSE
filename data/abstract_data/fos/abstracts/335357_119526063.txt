@@ -1,0 +1,2 @@
+An algorithm for enumerating all simple paths in a communication network
+A more efficient algorithm of path enumeration for global reliability evaluation of a communication network is presented and analyzed. The paths are generated from the incidence matrix of the graph. This new algorithm seems to be promising in respect to existing methods both for computation time and computer memory requirement.

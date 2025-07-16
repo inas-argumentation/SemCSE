@@ -1,0 +1,15 @@
+Effect of Soil Moisture, Soil Density, and Cone Penetrometer Material on Finite Element Prediction of Soil Hardpan Depth
+An accurate soil hardpan determination is important for maximum precision tillage 
+performance. Soil cone penetrometer data are often analyzed to predict soil hardpan depths. The 
+prediction in layered soils may be limited due to the complexity of soil reaction to cone penetration. 
+An axisymmetric finite element (FE) model was developed to investigate soil hardpan predictions and 
+soil deformation failures on layered Norfolk sandy loam soil. The soil was considered as a non-linear 
+elastic-plastic material modeled using a constitutive relationship from Drucker-Prager model with the 
+Hardening option in ABAQUS, a commercially available FE package. ABAQUS/Explicit was used to 
+solve the simulation of soil-cone contact pair interaction using a frictional property. The results 
+showed that the FE model captured the soil cone penetration trend in layered soil with two deflection 
+points indicating the start of the hardpan and the peak cone penetration resistance. The FE model 
+predicted hardpan depth (8.62 cm) was smaller than the cone penetrometer predicted depth (11.03 
+cm). Soil moisture, bulk density and cone material significantly affected the FE and cone 
+penetrometer predicted soil hardpan depths. The simulation also showed soil deformation zones 
+about 3 times the diameter of the cone developed around the advancing cone.

@@ -1,0 +1,2 @@
+Adaptivity and Optimism: An Improved Exponentiated Gradient Algorithm
+Extension to matrix setting is important for certain combinatorial approximation algorithms (Tsuda et al. 2005; Arora & Kale, 2007). Now nature plays matrices Z1, . . . ,ZT , −I Zt I. Similarly, learner chooses matrices W1, . . . ,WT , Wt 0, tr(Wt) = 1. If Wt, Zt are diagonal, recover vector setting. If we replace ψ(w) = ∑n i=1 wi log(wi) with the von-Neumann entropy ψ(W ) = tr(W log(W )), then same ideas from before still work. Convex Losses and Unconstrained Optimization

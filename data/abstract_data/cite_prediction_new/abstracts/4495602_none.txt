@@ -1,0 +1,2 @@
+Approximate Computing for Low Power and Security in the Internet of Things
+To save resources for Internet of Things (IoT) devices, a proposed approach segments operands and corresponding basic arithmetic operations that can be carried out by approximate function units for almost all applications. The approach also increases the security of IoT devices by hiding information for IP watermarking, digital fingerprinting, and lightweight encryption.

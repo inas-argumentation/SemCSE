@@ -1,0 +1,15 @@
+Automatic large quantity landmark pairs detection in 4DCT lung images.
+PURPOSE
+To automatically and precisely detect a large quantity of landmark pairs between two lung computed tomography (CT) images to support evaluation of deformable image registration (DIR). We expect that the generated landmark pairs will significantly augment the current lung CT benchmark datasets in both quantity and positional accuracy.
+
+
+METHODS
+A large number of landmark pairs were detected within the lung between the end-exhalation (EE) and end-inhalation (EI) phases of the lung 4DCT datasets. Thousands of landmarks were detected by applying the Harris-Stephens corner detection algorithm on the probability maps of the lung vasculature tree. A parametric image registration method (pTVreg) was used to establish initial landmark correspondence by registering the images at EE and EI phases. A Multi-Stream Pseudo-Siamese (MSPS) network was then developed to further improve the landmark pair positional accuracy by directly predicting 3D shifts to optimally align the landmarks in EE to their counterparts in EI. Positional accuracies of the detected landmark pairs were evaluated using both digital phantoms and publicly-available landmark pairs.
+
+
+RESULTS
+Dense sets of landmark pairs were detected for 10 4DCT lung datasets, with an average of 1886 landmark pairs per case. The mean and standard deviation of target registration error (TRE) were 0.47±0.45 mm with 98% of landmark pairs having a TRE smaller than 2 mm for the ten digital phantom cases. Tests using 300 manually labeled landmark pairs in 10 lung 4DCT benchmark datasets (DIRLAB) produced TRE results of 0.73±0.53 mm with 97% of landmark pairs having a TRE smaller than 2 mm.
+
+
+CONCLUSION
+A new method was developed to automatically and precisely detect a large quantity of landmark pairs between lung CT image pairs. The detected landmark pairs could be used as benchmark datasets for more accurate and informative quantitative evaluation of DIR algorithms. This article is protected by copyright. All rights reserved.

@@ -1,0 +1,2 @@
+Edge-clique graphs of cocktail parties have unbounded rankwidth
+In an attempt to find a polynomial-time algorithm for the edge-clique cover problem on cographs we tried to prove that the edge-clique graphs of cographs have bounded rankwidth. However, this is not the case. In this note we show that the edge-clique graphs of cocktail party graphs have unbounded rankwidth.

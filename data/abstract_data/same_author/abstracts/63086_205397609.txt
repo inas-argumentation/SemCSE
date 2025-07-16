@@ -1,0 +1,2 @@
+A kind of inverse eigenvalue problems of Jacobi matrix
+This paper considers the problem of constructing two Jacobi matrices from their principal submatrix and specially ordered defective eigenpairs. The two Jacobi matrices are the same except for the entries in the last column and last row. The necessary and sufficient condition of solvability is derived. Furthermore, two algorithms and numerical examples are given.

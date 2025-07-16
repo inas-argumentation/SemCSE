@@ -1,0 +1,7 @@
+A Transformation of Accelerated Double Step Size Method for Unconstrained Optimization
+A reduction of the originally double step size iteration into the single step length scheme is derived 
+under the proposed condition that relates two step lengths in the accelerated double step size gradient 
+descent scheme. The proposed transformation is numerically tested. Obtained results confirm the 
+substantial progress in comparison with the single step size accelerated gradient descent method 
+defined in a classical way regarding all analyzed characteristics: number of iterations, CPU time, 
+and number of function evaluations. Linear convergence of derived method has been proved.

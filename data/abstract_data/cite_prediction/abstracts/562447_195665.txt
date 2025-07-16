@@ -1,0 +1,2 @@
+Implementation of a Cost-effective V2X hardware and software platform
+Vehicular ad-hoc networks (VANET) aim at exchanging traffic safety and/or general purpose data by vehicles with fixed devices and other vehicles. The IEEE 802.11p standard defines the physical and medium access control layers for VANETs. High costs of commercial devices make practical experiments quite expensive. This work proposes a low cost, customizable device that supports different VANET standards for 5.9 GHz and 700 MHz frequency bands.

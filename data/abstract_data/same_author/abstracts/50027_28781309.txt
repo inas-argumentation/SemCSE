@@ -1,0 +1,2 @@
+Automatic process-oriented control circuit generation for asynchronous high-level synthesis
+As an asynchronous design style becomes popular, the request for asynchronous high-level synthesis (AHLS) tools is increasing continuously. In this paper, a method, so called process-oriented method, which generates distributed asynchronous control circuits automatically in a hierarchical and systematic manner is suggested as part of an AHLS tool. Experimental results show that the suggested method is efficient in the aspects of area and performance of derived control circuits.

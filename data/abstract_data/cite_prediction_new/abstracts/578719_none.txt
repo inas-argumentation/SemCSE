@@ -1,0 +1,2 @@
+A load balancing system for unix-based local area networks
+This paper presents a distributed load balancing computer system developed for Unix-based local area networks. The system has been initially developed for supporting efficient distributed processing of knowledge-based multistage decision-making but it can also support load balancing in a general environment. The load balancing features were added to the Unix operating system without any modification of its kernel.

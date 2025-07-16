@@ -1,0 +1,2 @@
+Maximum genus and maximum nonseparating independent set of a 3-regular graph
+A set J ⊆ V is called a nonseparating independent set (nsis) of a connected graph G = ( V , E ), if J is an independent set of G , i.e., E ∩ { uv | ∀ u , v ∈ J } = 0, and G − J is connected. We call z ( G ) = max J {| J || J is an nsis of G} the nsis number of G . Let G be a 3-regular connected graph; we prove that the maximum genus, denoted by γ M ( G ), of G is equal to z ( G ). Then, according to this result, some new characterizations of the maximum genus γ M ( G ) are obtained.

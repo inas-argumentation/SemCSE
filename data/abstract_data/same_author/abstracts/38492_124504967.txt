@@ -1,0 +1,17 @@
+Note on the 
+$N=2$ super Yang-Mills gauge theory in a noncommutative differential geometry
+Abstract. The 
+$N=2$ super-Yang-Mills gauge theory is reconstructed in a non-commutative differential geometry (NCG). Our NCG with one-form bases 
+$dx^\mu$ on the Minkowski space 
+$M_4$ and 
+$\chi$ on the discrete space 
+$Z_2$ is a generalization of the ordinary differential geometry on the continuous manifold. Thus, the generalized gauge field is written as 
+${\cal A}(x,y)=A_\mu(x,y)dx^\mu+\Phi(x,y)\chi$ where 
+$y$ is the argument in 
+$Z_2$. 
+$\Phi(x,y)$ corresponds to the scalar and pseudo-scalar bosons in the 
+$N=2$ super Yang-Mills gauge theory whereas it corresponds to the Higgs field in the ordinary spontaneously broken gauge theory. Using the generalized field strength constructed from 
+${\cal A}(x,y)$ we can obtain the bosonic Lagrangian of the 
+$N=2$ super Yang-Mills gauge theory in the same way as Chamseddine first introduced the supersymmetric Lagrangian of the 
+$N=2$ and 
+$N=4$ super Yang-Mills gauge theories within the framework of Connes's NCG. The fermionic sector is introduced so as to satisfy the invariance of the total Lagrangian with respect to supersymmetry.

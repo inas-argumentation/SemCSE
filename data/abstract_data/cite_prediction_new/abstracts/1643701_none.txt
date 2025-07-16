@@ -1,0 +1,2 @@
+An experimental LTI model for open loop Nao navigation
+In this paper, we have derived a linear ARMAX model for Nao robot motion, developed by its own manufacturer Aldebaran robotics, called NaoQi walk engine. The model has been obtained assuming robot walking model acts in each direction independently. It has been verified that the whole system works well by the model obtained non-considering the interference between walking model in different directions.

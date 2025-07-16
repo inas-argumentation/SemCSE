@@ -1,0 +1,2 @@
+Kubo formulas for second-order hydrodynamic coefficients.
+At second order in gradients, conformal relativistic hydrodynamics depends on the viscosity η and on five additional "second-order" hydrodynamical coefficients τ(Π), κ, λ₁, λ₂, and λ₃. We derive Kubo relations for these coefficients, relating them to equilibrium, fully retarded three-point correlation functions of the stress tensor. We show that the coefficient λ₃ can be evaluated directly by Euclidean means and does not in general vanish.

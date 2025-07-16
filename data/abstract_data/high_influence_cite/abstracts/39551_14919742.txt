@@ -1,0 +1,2 @@
+Analysing oscillatory trends of discrete-state stochastic processes through HASL statistical model checking
+The application of formal methods to the analysis of stochastic oscillators has been at the focus of several research works in recent times. In this paper, we provide insights on the application of an expressive temporal logic formalism, namely the hybrid automata stochastic logic (HASL), to that issue. We show how one can take advantage of the expressive power of the HASL logic to define and assess relevant characteristics of (stochastic) oscillators.

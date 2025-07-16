@@ -1,0 +1,2 @@
+Study of EMI for Direct Drive Motor system in railway traction
+We had developed a high efficiency motor drive system, that is, Direct Drive Motor (DDM) system in railway traction. However the wheel shaft voltage induced EMI problem. To solve this, we executed several tests and analysis, and it was concluded that the normal mode current of motor caused the wheel shaft voltage. Only the normal mode filter suppresses the wheel shaft voltage effectively. In this paper, we will explain about this new EMI mode particular to the DDM structure.

@@ -1,0 +1,2 @@
+The extremal function for K9 minors
+We prove that every (simple) graph on n>=9 vertices and at least 7n-27 edges either has a K"9 minor, or is isomorphic to K"2","2","2","3","3, or is isomorphic to a graph obtained from disjoint copies of K"1","2","2","2","2","2 by identifying cliques of size six. The proof of one of our lemmas is computer-assisted.

@@ -1,0 +1,2 @@
+Timing Synchronization with Turbo Codes on AWGN Chan- nels
+This paper presents the behaviour of a turbo coding scheme when the symbol timing is not perfectly known. The algorithm for timing synchronization together with the theoretical Cramer Rao bound and the performance of an NDA ML synchronizer are presented. It is shown that synchronization can be achieved using the soft bit outputs of the turbo decoder without the need of using complex separate synchronizers prior to feeding the signal to the turbo decoder.

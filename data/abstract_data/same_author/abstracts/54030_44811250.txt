@@ -1,0 +1,2 @@
+Consistency of infinitesimal perturbation analysis estimators with rates
+We study a class of infinitesimal perturbation analysis (IPA) algorithms for queueing systems with load-dependent service and/or arrival rates. Such IPA algorithms were originally motivated by applications to large queueing systems in conjunction with aggregation algorithms. We prove strong consistency of these estimators through a type of birth and death queue.

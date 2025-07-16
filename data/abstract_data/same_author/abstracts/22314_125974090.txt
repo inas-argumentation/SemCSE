@@ -1,0 +1,2 @@
+Tri-vector boson production at NLO with parton shower
+We have studied the production of three photons at the LHC taking into account realistic experimental cuts. We have used NLO corrected QCD results for the production mechanism along with parton showering through HERWIG and Pythia. This is achieved using aMC@NLO framework which uses FKS subtracton method through MadFKS to handle infrared singularities present in the intermediate stages of NLO computation. We find that the results at NLO level in QCD with parton showering show less PDF and factorisation scale dependence.

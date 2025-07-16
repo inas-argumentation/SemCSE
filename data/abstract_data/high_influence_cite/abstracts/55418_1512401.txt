@@ -1,0 +1,6 @@
+Concurrent Zero Knowledge without Complexity Assumptions
+We provide unconditional constructions of concurrent statistical zero-knowledge proofs for a variety of non-trivial problems (not known to have probabilistic polynomial-time algorithms). The problems include Graph Isomorphism, Graph Nonisomorphism, Quadratic Residuosity, Quadratic Nonresiduosity, a restricted version of Statistical Difference, and approximate versions of the (coNP forms of the) Shortest Vector Problem and Closest Vector Problem in lattices. 
+ 
+For some of the problems, such as Graph Isomorphism and Quadratic Residuosity, the proof systems have provers that can be implemented in polynomial time (given an NP witness) and have O(log n) rounds, which is known to be essentially optimal for black-box simulation. 
+ 
+To the best of our knowledge, these are the first constructions of concurrent zero-knowledge proofs in the plain, asynchronous model (i.e., without setup or timing assumptions) that do not require complexity assumptions (such as the existence of one-way functions).

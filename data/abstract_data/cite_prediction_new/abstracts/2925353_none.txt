@@ -1,0 +1,2 @@
+ANFIS for Adaptive Personal Space Determination for Ubiquitous Robots
+When robots are interacting with humans and other objects, they always have a safe distance between them and the objects. One of the problems in concern is, how can this distance be arranged when interacting with humans. In order to "humanize" robots, they (robots) should also have certain understanding of such emotions that we, humans have concerning this distance. In this research project, authors are trying to "teach" one such human understanding, commonly known as "personal space" to ubiquitous robots.

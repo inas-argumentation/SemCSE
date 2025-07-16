@@ -1,0 +1,2 @@
+On the Use of the General Partial Autocorrelation Function for Order Determination in ARMA(p, q) Processes
+We show that the General Partial Autocorrelation Function (GPAC), which has recently been suggested to be used as one of a set of convenient tools for order identification in ARMA models, has unstable behavior when applied to time series of moderate length. Its use in detecting the order of MA components in real series is very limited and can only be recommended as a means to confirm a pure AR fit to the data.

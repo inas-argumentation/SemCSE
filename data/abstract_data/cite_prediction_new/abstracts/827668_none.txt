@@ -1,0 +1,2 @@
+A sufficient condition for equality of edge‐connectivity and minimum degree of a graph
+Let G be a connected graph of order p ≥ 2, with edge-connectivity κ1(G) and minimum degree δ(G). It is shown her ethat in order to obtain the equality κ1(G) = δ(G), it is sufficient that, for each vertex x of minimum degree in G, the vertices in the neighbourhood N(x) of x have sufficiently large degree sum. This result implies a previous result of Chartrand, which required that δ(G) ≥ [p/2].

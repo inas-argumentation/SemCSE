@@ -1,0 +1,7 @@
+A Simple Introduction to Gröbner Basis Methods in String Phenomenology
+I give an elementary introduction to the key algorithm used in recent applications 
+of computational algebraic geometry to the subject of string phenomenology. I 
+begin with a simple description of the algorithm itself and then give 3 examples of its use in 
+physics. I describe how it can be used to obtain constraints on flux parameters, how it can 
+simplify the equations describing vacua in 4D string models, and lastly how it can be used to 
+compute the vacuum space of the electroweak sector of the MSSM.

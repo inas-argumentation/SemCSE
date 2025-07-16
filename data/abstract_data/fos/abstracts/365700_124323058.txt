@@ -1,0 +1,2 @@
+A universal Cauchy–Riemann function on subsets of ℂn × ℝm
+Abstract We prove the existence of a universal Cauchy–Riemann function on ℂn × E, where E ⊂ ℝm has a regular exhaustion by compact sets. The proof requires first proving a Weierstrass-type approximation theorem for CR-functions on ℂn × E, where E ⊂ ℝm. The technique used in this latter theorem leads to a Runge-type approximation theorem for Cauchy–Riemann functions on a Cartesian product of compact subsets in ℂ × ℝm.

@@ -1,0 +1,2 @@
+Method of algorithm building for modular reducing by irreducible polynomial
+In modern cryptosystems, there are many well proven often used constructions, such as operations in binary fields. In this paper method of algorithm construction for modular reduction by fixed irreducible polynomial (trinomial or pentanomial) was proposed. This method applying allows to get a high performance algorithm of modular reduction for specified fixed polynomial and target platform while cryptosystems develop, for example elliptic curve cryptosystem.

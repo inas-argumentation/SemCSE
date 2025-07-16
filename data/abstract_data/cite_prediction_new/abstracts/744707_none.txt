@@ -1,0 +1,2 @@
+Elastic collaboration support: from workflow-based to emergent collaboration
+This paper addresses the challenges of providing customized collaboration support to teams of experts. Current groupware systems only provide support for workflow-based collaboration, avoiding new forms of collaboration such as emergent collaboration. Therefore this paper proposes a elastic collaboration approach and its implementation in a groupware system.

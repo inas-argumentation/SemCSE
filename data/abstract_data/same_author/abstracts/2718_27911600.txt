@@ -1,0 +1,2 @@
+Text Segmentation in Complex Background Based on Color and Scale Information of Character Strokes
+This paper presents a robust approach to segmenting text embedded in complex background. Our approach consists of four steps: smart sampling, unsupervised clustering, the Bayesian decision, post-processing. The experimental results show that it works effectively, and is more efficient in removing complex background residues than the popular K-means method.

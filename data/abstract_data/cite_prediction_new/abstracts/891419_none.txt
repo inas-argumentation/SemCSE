@@ -1,0 +1,2 @@
+Using neuromuscular electrical stimulation for pseudo-haptic feedback
+This paper focuses at the usage of neuromuscular electrical stimulation (NMES) for achieving pseudo-haptic feedback. By stimulating the motor nerves, muscular contractions can be triggered that can be matched to a haptic event. Reflecting an initial user test, we will explain how this process can be realized, by investigating the physiological processes involved. Relating the triggered feedback to general haptics, its potential in future interfaces will be identified and laid out in a development roadmap.

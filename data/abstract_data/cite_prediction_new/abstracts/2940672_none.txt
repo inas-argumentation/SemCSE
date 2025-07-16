@@ -1,0 +1,2 @@
+Unsteady MHD Mixed Convection Flow past a Vertical Porous Plate in Presence of Radiation
+This study examines the problem of unsteady MHD mixed convective flow past a vertical porous plate in presence of radiation. The coupled non linear partial differential equations are solved numerically by a finite element method. The effects of the material parameters on the velocity, temperature and concentration fields are shown graphically.

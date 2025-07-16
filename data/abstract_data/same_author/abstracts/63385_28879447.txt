@@ -1,0 +1,2 @@
+The shortest path improvement problems under Hamming distance
+In this paper, we consider the shortest path improvement problems under Hamming distance (SPIH), where the weights of edges can be modified only within given intervals. Two models are considered: the general SPIH problem and the SPIH problem with a single pair of required vertices. For the first problem, we show that it is strongly NP-hard. For the second problem, we show that even if the network is a chain network, it is still NP-hard.

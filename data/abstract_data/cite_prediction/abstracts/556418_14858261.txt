@@ -1,0 +1,2 @@
+A Survey on Ensemble Combination Schemes of Neural Network
+The Neural network ensembles are the most effective approach to improve the neural network system. The combination of neural networks can provide more accurate result than a single network. The simple averaging, weighted averaging, majority voting and ranking are commonly used combination strategies, and from these strategies each method has its limitations like for which application area particular is suited . This paper present a survey on different ensemble combination schemes as invented in literature.

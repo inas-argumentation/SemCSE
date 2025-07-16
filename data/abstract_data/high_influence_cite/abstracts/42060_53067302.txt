@@ -1,0 +1,4 @@
+Non-forking w-good frames
+We introduce the notion of a w-good $\lambda$-frame which is a weakening of Shelah's notion of a good $\lambda$-frame. Existence of a w-good $\lambda$-frame implies existence of a model of size $\lambda^{++}$. Tameness and amalgamation imply extension of a w-good $\lambda$-frame to larger models. As an application we show: 
+$\textbf{Theorem}$ Suppose $2^{\lambda} \lambda^{++}$. If $I(K, \lambda) = I(K, \lambda^{+}) = 1 \leq I(K, \lambda^{++}) < 2^{\lambda^{++}}$ and $K$ is $(\lambda, \lambda^+)$-tame, then $K_{\lambda^{+++}} \neq \emptyset$. 
+The proof presented clarifies some of the details of the main theorem of [Sh576] and avoids using the heavy set-theoretic machinery of [Sh: h \S VII] by replacing it with tameness.

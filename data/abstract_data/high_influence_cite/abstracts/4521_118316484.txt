@@ -1,0 +1,2 @@
+Weak sequential completeness in Banach $$C(K)$$C(K)-modules of finite multiplicity
+A well known result of Lozanovsky states that a Banach lattice is weakly sequentially complete if and only if it does not contain a copy of $$c_{0}$$c0. In the current paper we extend this result to the class of Banach $$C(K)$$C(K)-modules of finite multiplicity and, as a special case, to finitely generated Banach $$C(K)$$C(K)-modules. Moreover, we prove that such a module is weakly sequentially complete if and only if each cyclic subspace of the module is weakly sequentially complete.

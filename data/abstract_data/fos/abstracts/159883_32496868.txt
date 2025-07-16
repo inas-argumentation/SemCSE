@@ -1,0 +1,2 @@
+A contingency based approach to requirements elicitation and systems development
+There are many types of information system. The process of building and implementing such systems should be contingent on the characteristics of the real world system which is to be transformed with the use of information technology. The paper classifies systems in terms of their stability, knowability, and predictability, and suggests that each dominant systems class requires a diffierent emphasis in the common processes of requirements elicitation, design, development and implementation.

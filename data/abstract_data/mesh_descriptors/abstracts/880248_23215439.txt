@@ -1,0 +1,15 @@
+The information-theory analysis of Michaelis-Menten constants for detection of breast cancer.
+BACKGROUND
+The Michaelis-Menten constants (K(m) and V(max)) operated by the Information Theory were employed for detection of breast cancer.
+
+
+METHODS
+The rate of enzymatic hydrolysis of fluorescein diacetate (FDA) in live peripheral blood mononuclear cells (PBMC), derived from healthy subjects and breast cancer (BC) patients, was assessed by measuring the fluorescence intensity (FI) in individual cells under incubation with either the mitogen phytohemagglutinin (PHA) or with tumor tissue, as compared to control. The data were processed by the Information Theory to determine the parameters and test conditions, which can best discriminate between the different groups. The normalized mutual information (uncertainty coefficients) was used as the measure of correlation/discrimination.
+
+
+RESULTS
+An estimated general correlation was established between the K(m)/V(max) parameters and the examined patterns in the different bioassays. The information-theoretical analysis revealed the relative diagnostic value of each parameter.
+
+
+CONCLUSION
+It was found that K(m) and V(max) as individual parameters show relatively low correlations with the presence or absence of disease, yet in combination often provide a good diagnostic measure. Based on the relative diagnostic values of each parameter, a diagnostic decision making rule was constructed. The diagnostic rule provided correct diagnosis for 37 out of 40 subjects.

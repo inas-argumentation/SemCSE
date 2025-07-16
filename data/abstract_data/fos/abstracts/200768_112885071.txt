@@ -1,0 +1,2 @@
+THE NUMERICAL ANALYSIS OF ACTIVE SUPPRESSING PLATE
+This paper is concerned with the finite element modeling of vibrational suppressing plate with piezo-unit. Based on the electromechanical coupling equation of variation, finite element formulation was established. The dynamic response of piezo-plate with velocity negative feedback was simulated using the method of Newmark-β. The damping ratio was analyzed in the state space. The relation of gain matrix and structural dynamic characteristic and effect of different electrode division on vibration control were discussed.

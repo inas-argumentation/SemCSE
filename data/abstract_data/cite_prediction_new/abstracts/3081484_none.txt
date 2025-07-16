@@ -1,0 +1,2 @@
+A 3.3 volt, low distortion ISDN line driver with a novel quiescent current control circuit
+A single chip ISDN network terminator in an advanced 3.3 V, 0.5µ CMOS technology is presented. The circuit features a U-interface line driver with a THD better than -68 dB for an output swing of 5 VppOn a 67 Ω load. A novel quiescent current control circuit is implemented which reduces the variation of the quiescent current and facilitates the driver's compensation.

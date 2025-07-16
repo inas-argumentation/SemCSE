@@ -1,0 +1,2 @@
+Calibration and remedy methods for Triple-dipole sensor
+Two novel calibration and remedy methods of amplitude and phase error for Triple-dipole sensor are proposed in this paper. The computational formulas of the channel errors are derived in this paper by using the time sample data of ideal and nonideal triple-dipole sensor. Finally, simulation results verify the effectiveness of the new algorithm.

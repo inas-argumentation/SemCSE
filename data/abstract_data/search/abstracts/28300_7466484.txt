@@ -1,0 +1,2 @@
+Restoring the density gradient expansion for exchange in solids and surfaces.
+Popular modern generalized gradient approximations are biased toward the description of free atom energies. Restoration of the first principles gradient expansion for exchange over a wide range of density gradients eliminates this bias. We introduce a revised Perdew Burke Ernzerhof generalized gradient approximation that improves equilibrium properties of densely packed solids and their surfaces.

@@ -1,0 +1,8 @@
+On the Effectiveness of Deep Ensembles for Small Data Tasks
+Deep neural networks represent the gold standard for image classification.
+However, they usually need large amounts of data to reach superior performance.
+In this work, we focus on image classification problems with a few labeled examples per class and improve sample efficiency in the low data regime by using an ensemble of relatively small deep networks. 
+For the first time, our work broadly studies the existing concept of neural ensembling in small data domains, through an extensive validation using popular datasets and architectures.
+We show that deep ensembling is a simple yet effective technique that outperforms current state-of-the-art approaches for learning from small datasets.
+We compare different ensemble configurations to their deeper and wider competitors given a total fixed computational budget and provide empirical evidence of their advantage.
+Furthermore, we investigate the effectiveness of different losses and show that their choice should be made considering different factors.

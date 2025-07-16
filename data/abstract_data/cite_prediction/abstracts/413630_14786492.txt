@@ -1,0 +1,2 @@
+Assortment Optimization Under General Choice
+We consider the static assortment optimization problem – a central decision problem faced by operations managers that has been widely studied in the literature. The decision deals with finding the assortment of products (from a larger universe of products) that maximizes the expected revenue subject to a constraint on the size of the assortment. More concretely, if N = {1, 2, . . . , N} denotes a set of N products, our goal is to solve arg max |M|≤C R(M),

@@ -1,0 +1,2 @@
+Design of Smart Home System Based on ARM9 and ZigBee
+A smart home system is developed based on embedded technology and ZigBee wireless communication technology.Present a total structure of smart home system,designs hardware and software of every part and describes several key issues to realize the system.The user can monitor the system by home gateway and manage and monitor house wiring devices from remote,which are joined in the network,with a handheld device(e.g.PDA) embedded ZigBee module in house.

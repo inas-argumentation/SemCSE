@@ -1,0 +1,2 @@
+Development of Isolated Word Speech Recognition System
+The isolated word speech recognition system based on dynamic time warping (DTW) has been developed. Speaker adaptation is performed using speaker recognition techniques. Vector quantization is used to create reference templates for speaker recognition. Linear predictive coding (LPC) parameters are used as features for recognition. Performance is evaluated using 12 words of Lithuanian language pronounced ten times by ten speakers.

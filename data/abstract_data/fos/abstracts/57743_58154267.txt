@@ -1,0 +1,12 @@
+SU-F-BRA-14: Optimization of Dosimetric Guidelines for Accelerated Partial Breast Irradiation (APBI) Using the Strut-Adjusted Volume Implant (SAVI)
+Purpose: 
+Treatment planning guidelines for accelerated partial breast irradiation (ABPI) using the strut-adjusted volume implant (SAVI) are inconsistent between the manufacturer and NSABP B-39/RTOG 0413 protocol. Furthermore neither set of guidelines accounts for different applicator sizes. The purpose of this work is to establish guidelines specific to the SAVI that are based on clinically achievable dose distributions. 
+ 
+Methods: 
+Sixty-two consecutive patients were implanted with a SAVI and prescribed to receive 34 Gy in 10 fractions twice daily using high dose-rate (HDR) Ir-192 brachytherapy. The target (PTV_EVAL) was defined per NSABP. The treatments were planned and evaluated using a combination of dosimetric planning goals provided by the NSABP, the manufacturer, and our prior clinical experience. Parameters evaluated included maximum doses to skin and ribs, and volumes of PTV_EVAL receiving 90%, 95%, 100%, 150%, and 200% of the prescription (V90, etc). All target parameters were evaluated for correlation with device size using the Pearson correlation coefficient. Revised dosimetric guidelines for target coverage and heterogeneity were determined from this population. 
+ 
+Results: 
+Revised guidelines for minimum target coverage (ideal in parentheses): V90≥95%(97%), V95≥90%(95%), V100≥88%(91%). The only dosimetric parameters that were significantly correlated (p<0.05) with device size were V150 and V200. Heterogeneity criteria were revised for the 6–1 Mini/6-1 applicators to V150≤30cc and V200≤15cc, and unchanged for the other sizes. Re-evaluation of patient plans showed 90% (56/62) met the revised minimum guidelines and 76% (47/62) met the ideal guidelines. All and 56/62 patients met our institutional guidelines for maximum skin and rib dose, respectively. 
+ 
+Conclusions: 
+We have optimized dosimetric guidelines for the SAVI applicators, and found that implementation of these revised guidelines for SAVI treatment planning yielded target coverage exceeding that required by existing guidelines while preserving heterogeneity constraints and minimizing dose to organs at risk.

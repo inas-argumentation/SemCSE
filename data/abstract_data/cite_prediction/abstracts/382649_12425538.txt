@@ -1,0 +1,2 @@
+On Data Clustering Analysis: Scalability, Constraints, and Validation
+Clustering is the problem of grouping data based on similarity. While this problem has attracted the attention of many researchers for many years, we are witnessing a resurgence of interest in new clustering techniques. In this paper we discuss some very recent clustering approaches and recount our experience with some of these algorithms. We also present the problem of clustering in the presence of constraints and discuss the issue of clustering validation.

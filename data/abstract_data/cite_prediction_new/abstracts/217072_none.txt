@@ -1,0 +1,2 @@
+Using Centroids of Word Embeddings and Word Mover's Distance for Biomedical Document Retrieval in Question Answering
+We propose a document retrieval method for question answering that represents documents and questions as weighted centroids of word embeddings and reranks the retrieved documents with a relaxation of Word Mover's Distance. Using biomedical questions and documents from BIOASQ, we show that our method is competitive with PUBMED. With a top-k approximation, our method is fast, and easily portable to other domains and languages.

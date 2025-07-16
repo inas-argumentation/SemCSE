@@ -1,0 +1,15 @@
+On the interplay effects with proton scanning beams in stage III lung cancer.
+PURPOSE
+To assess the dosimetric impact of interplay between spot-scanning proton beam and respiratory motion in intensity-modulated proton therapy (IMPT) for stage III lung cancer.
+
+
+METHODS
+Eleven patients were sampled from 112 patients with stage III nonsmall cell lung cancer to well represent the distribution of 112 patients in terms of target size and motion. Clinical target volumes (CTVs) and planning target volumes (PTVs) were defined according to the authors' clinical protocol. Uniform and realistic breathing patterns were considered along with regular- and hypofractionation scenarios. The dose contributed by a spot was fully calculated on the computed tomography (CT) images corresponding to the respiratory phase that the spot is delivered, and then accumulated to the reference phase of the 4DCT to generate the dynamic dose that provides an estimation of what might be delivered under the influence of interplay effect. The dynamic dose distributions at different numbers of fractions were compared with the corresponding 4D composite dose which is the equally weighted average of the doses, respectively, computed on respiratory phases of a 4DCT image set.
+
+
+RESULTS
+Under regular fractionation, the average and maximum differences in CTV coverage between the 4D composite and dynamic doses after delivery of all 35 fractions were no more than 0.2% and 0.9%, respectively. The maximum differences between the two dose distributions for the maximum dose to the spinal cord, heart V40, esophagus V55, and lung V20 were 1.2 Gy, 0.1%, 0.8%, and 0.4%, respectively. Although relatively large differences in single fraction, correlated with small CTVs relative to motions, were observed, the authors' biological response calculations suggested that this interfractional dose variation may have limited biological impact. Assuming a hypofractionation scenario, the differences between the 4D composite and dynamic doses were well confined even for single fraction.
+
+
+CONCLUSIONS
+Despite the presence of interplay effect, the delivered dose may be reliably estimated using the 4D composite dose. In general the interplay effect may not be a primary concern with IMPT for lung cancers for the authors' institution. The described interplay analysis tool may be used to provide additional confidence in treatment delivery.

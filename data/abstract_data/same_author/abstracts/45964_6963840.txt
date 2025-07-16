@@ -1,0 +1,2 @@
+Applying Neural Network to Reinforcement Learning in Continuous Spaces
+This paper is concerned with the problem of Reinforcement Learning (RL) in large or continuous spaces. Function approximation is the main method to solve such kind of problem. We propose using neural networks as function approximators in this paper. Then we experiment with three kind of neural networks in Mountain-Car task and illustrate comparisons among them. The result shows that CMAC and Fuzzy ARTMAP perform better than BP in Reinforcement Learning with Function Approximation (RLFA).

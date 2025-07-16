@@ -1,0 +1,5 @@
+Concentric Spherical GNN for 3D Representation Learning
+Learning 3D representations of point clouds that generalize well to arbitrary orientations is a challenge of practical importance in problems ranging from computer vision to molecular modeling.
+The proposed approach is based on a concentric spherical representation of 3D space, formed by nesting spatially-sampled spheres resulting from the highly regular icosahedral discretization.
+We propose separate intra-sphere and inter-sphere convolutions over the resulting concentric spherical grid, which are combined into a convolutional framework for learning volumetric and rotationally equivariant representations over point clouds.
+We demonstrate the effectiveness of our approach for 3D object classification, and towards resolving the electronic structure of atomistic systems.

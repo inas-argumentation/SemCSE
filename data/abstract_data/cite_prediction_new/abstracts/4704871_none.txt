@@ -1,0 +1,2 @@
+Pseudospectral multireference single and double excitation configuration interaction
+We present a pseudospectral formulation of the multireference single and double excitation configuration interaction method. A formal scaling advantage is achieved and practical timings are presented. The accuracy of the pseudospectral approximation within this method is probed for a variety of test cases. The method is typically accurate to within 1 mhartree while being up to six times faster than conventional codes.

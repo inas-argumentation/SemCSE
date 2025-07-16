@@ -1,0 +1,2 @@
+CNN : A DESCRIPTOR ENHANCED CONVOLUTIONAL NEURAL NETWORK
+Adding an image descriptor to the input significantly enhances the performance of a convolutional neural network. By incorporating a SURF descriptor for indoor localization applications, we report a simpler convolutional neural network with fast training speed and outstanding accuracy and without the need for a pretrained network in contrast to the state of art.

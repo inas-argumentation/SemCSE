@@ -1,0 +1,2 @@
+Synchronization of large sequential circuits by partial reset
+In this paper, we present a technique to synchronize large synchronous sequential circuits, which uses partial reset to break feedback loops in the circuits such that they become synchronizable. The method also provides a synchronizing sequence. Experimental results for ISCAS'89 benchmark circuits are presented, including the largest circuits, which were not synchronized previously.

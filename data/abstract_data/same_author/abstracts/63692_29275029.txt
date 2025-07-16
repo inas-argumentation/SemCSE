@@ -1,0 +1,2 @@
+Develop a shopping mart web application
+The authors' junior/senior CS class at Bridgewater State College implemented a web site similar to the shopping mart found at AMAZON.COM. The application was broken into four assignments which included an email address verifier written in Java, a 5 page GUI front-end to the web site written in Hypertext Markup Language (HTML), Java Script and Cascading Style Sheet (CSS), a rudimentary web browser, and a module implementing server-side functionality to update an Access database.

@@ -1,0 +1,15 @@
+Do we really need kidneys-ureters-bladder radiography to predict stone radiopacity before treatment with shockwave lithotripsy? Development and internal validation of a novel predictive model based on computed tomography parameters.
+PURPOSE
+To produce and validate a predictive model based on CT parameters for calculating the probability of a stone to be visible on fluoroscopy of shockwave lithotripsy (SWL) and to compare its accuracy to that of kidneys-ureters-bladder (KUB) radiography.
+
+
+METHODS
+We retrospectively analyzed 306 patients (sample group) who underwent an SWL between March 2011 and August 2012. A multivariate analysis of several parameters extracted from the preoperative CT scan was conducted to identify independent predictors for radiopacity on SWL fluoroscopy. The results were used for the creation of a predictive model. Internal validation was made on a group of 75 patients (validation group) treated from September 2012 until December 2012. Predictive accuracy of the model was evaluated by receiver operating characteristic (ROC) curve and calibration plot. The ROC curve was also used for comparing the predictive accuracy of the model to that of KUB radiography.
+
+
+RESULTS
+From 306 evaluated stones, 238 (77.8%) were visible on fluoroscopy. Results of the multivariate analysis revealed that stone size (P<0.001), stone attenuation (P<0.001), location in the midureter (P<0.001), the distance between the stone and the anterior abdominal wall (P<0.001), and fat thickness of the anterior abdominal wall (P=0.001) were all independent predictors for stone radiopacity on fluoroscopy. A predictive model was produced based on the above parameters. The model demonstrated high calibration and areas under the curve of 0.923 and 0.965 in the sample and validation group, respectively, while its predictive performance was significantly higher (P<0.001) of that of KUB radiography (area under the curve=0.727).
+
+
+CONCLUSIONS
+This novel model can estimate with high accuracy stone radiopacity on SWL fluoroscopy using parameters of CT scan and thus it can be used as an alternative to KUB radiography for treatment planning.

@@ -1,0 +1,2 @@
+A Note on Functional Integral over the Local Gauge Group
+We evaluated some particular type of functional integral over the local gauge group C^{\infty}({\bf R}^n, U(1)) by going to a discretized lattice. The results explicitly violates the property of the Haar measure. We also analysed the Faddeev-Popov method through a toy example. The results also violates the property of the Haar measure.

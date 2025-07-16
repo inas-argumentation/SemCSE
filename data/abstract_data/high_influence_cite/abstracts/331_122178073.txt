@@ -1,0 +1,2 @@
+3D-2D asymptotic analysis for micromagnetic thin films
+Γ -convergence techniques and relaxation results of constrained energy functionals are used to identify the limiting energy as the thickness e approaches zero of a ferromagnetic thin structure , , whose energy is given by subject to and to the constraint where W is any continuous function satisfying p -growth assumptions with p> 1 . Partial results are also obtained in the case p=1 , under an additional assumption on W .

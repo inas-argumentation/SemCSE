@@ -1,0 +1,2 @@
+Open-loop roll, pitch and yaw torques for a robotic bee
+This paper presents measurements of open-loop roll, pitch and yaw torques, and open-loop flight experiments for an insect-sized robotic bee. Torques are generated entirely with flapping wings via an actuation scheme that uses a single, central power actuator and two smaller control actuators that fine-tune wing motion. We present an initial 110mg design used for torque measurements and a lighter 83mg prototype that is capable of liftoff with external power and can execute open loop pitching and rolling maneuvers.

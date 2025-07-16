@@ -1,0 +1,2 @@
+Solving dual integral equations on Lebesgue spaces
+We study dual integral equations associated with Hankel transforms, that is, dual integral equations of Titchmarsh’s type. We reformulate these equations giving a better description in terms of continuous operators on L spaces, and we solve them in these spaces. The solution is given both as an operator described in terms of integrals and as a series ∑∞ n=0 cnJμ+2n+1 which converges in the L -norm and almost everywhere, where Jν denotes the Bessel function of order ν. Finally, we study the uniqueness of the solution.

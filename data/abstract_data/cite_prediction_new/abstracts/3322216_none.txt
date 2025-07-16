@@ -1,0 +1,2 @@
+Fuzzy Regression with Quadratic Programming: An Application to Financial Data
+The fuzzy approach to regression has been traditionally considered as a problem of linear programming. In this work, we introduce a variety of models founded on quadratic programming together with a set of indices useful to check the quality of the obtained results. In order to test the validness of our proposal, we have done an empirical study and we have applied the models in a case with financial data: the Chilean COPEC Company stock price.

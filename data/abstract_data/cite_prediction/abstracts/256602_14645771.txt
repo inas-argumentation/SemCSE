@@ -1,0 +1,2 @@
+A Multidimensional Bisection Method for Unconstrained Minimization Problem
+An extension of a new multidimensional bisection method for minimizing function over simplex is proposed for solving nonlinear unconstrained minimization problem. The method does not require a differentiability of function, and is guaranteed to converge to the minimizer for the class of strictly unimodal functions. The computational results demonstrating an effectiveness of algorithm for minimizing nonsmooth functions are presented.

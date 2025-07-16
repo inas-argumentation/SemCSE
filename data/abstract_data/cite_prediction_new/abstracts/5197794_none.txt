@@ -1,0 +1,2 @@
+Minimization of the unmatched disturbances in the sliding mode control systems via invariant ellipsoid method
+The new sliding mode control design algorithm for a linear disturbed system is presented. It is based on the appropriate selection of the sliding surface via invariant ellipsoid method. The designed control guarantees minimization of the effects of unmatched disturbances to the system motion in the sliding mode. All theoretical results are approved by numerical simulations.

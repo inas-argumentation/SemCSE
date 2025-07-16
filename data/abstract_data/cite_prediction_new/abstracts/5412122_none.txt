@@ -1,0 +1,2 @@
+A Comparative Performance Analysis of CBD Application Framework with JBean Application Framework for Improved Distributed Application Development
+We observe that the e-business systems development frameworks tradeoff performance at the expense of flexibility. In this paper, we present a performance comparison of JBean application framework with a well-known framework, Struts. JBean is a flexible and extensible CBD application framework. Our experiment results show the significance of JBean application framework over contemporary CBD application frameworks.

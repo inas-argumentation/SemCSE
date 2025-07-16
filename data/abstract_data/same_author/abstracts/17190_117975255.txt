@@ -1,0 +1,2 @@
+QCD factorization for $\Lambda_b^0\to\Lambda_c^+\pi^-$
+We prove that in the limit $m_b, m_c\to\infty$ with $m_c/m_b$ fixed, factorization holds at order $\alpha_s$ for the decay $\Lambda_b^0\to\Lambda_c^+\pi^-$. This proof is done in the infinite-momentum frame in which the momenta of $\pi$, $\Lambda_c$, and $\Lambda_b$ go to infinity. Our result is renormalization scale and scheme independent at $\mathcal{O}(\alpha_s)$. This is the same as QCD factorization for $B \to D \pi$.

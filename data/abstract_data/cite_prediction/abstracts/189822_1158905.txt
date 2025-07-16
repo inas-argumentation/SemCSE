@@ -1,0 +1,2 @@
+A Survey of Lightweight-Cryptography Implementations
+The tight cost and implementation constraints of high-volume products, including secure RFID tags and smart cards, require specialized cryptographic implementations. The authors review recent developments in this area for symmetric and asymmetric ciphers, targeting embedded hardware and software. In this article, we present a selection of recently published lightweight-cryptography implementations and compare them to state-of-the-art results in their field.

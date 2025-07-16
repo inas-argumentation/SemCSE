@@ -1,0 +1,15 @@
+Structure-activity relationship of channel binding affinity of quaternary ammonium ions.
+AIM
+To explore the structure-activity relationship of quaternary ammonium (QA) ions at the external binding site of K+ channel.
+
+
+METHODS
+InsightII and MOPAC 6.0 molecular modeling package were used to calculate the free energy of hydration (delta Ghydration), the energy of the highest occupied orbital (EHOMO), and the energy of the lowest unoccupied orbital (ELUMO) for each QA ion, respectively. The partial least square method was used to analyze the relationship between the binding free energy and these descriptive parameters.
+
+
+RESULTS
+Generally, the higher the ELUMO of a QA ion was, the weaker its solvation was and accordingly the stronger binding affinity. For a QA ion larger than tetraethylammonium (TEA), its large size was unfavorable to its channel binding affinity.
+
+
+CONCLUSION
+The binding affinity of all QA ions correlated well with delta Ghydration and ELUMO.

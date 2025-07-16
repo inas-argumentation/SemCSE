@@ -1,0 +1,15 @@
+The Effect of Chemotherapy on Stroke Risk in Cancer Patients.
+BACKGROUND
+ Chemotherapy may be a cause of cancer-associated stroke, but whether it increases stroke risk remains uncertain. We investigated how chemotherapy affects stroke risk in cancer patients.
+
+
+METHODS
+ Of 27,932 patients in a hospital-based cancer registry (which contains clinical data on all patients treated for cancer at Osaka University Hospital) screened between 2007 and 2015, medical records of 19,006 patients with complete data were investigated. A validated algorithm was used to identify stroke events within 2 years of cancer diagnosis. Patients were divided based on whether their initial treatment plan included chemotherapy. The association between chemotherapy and stroke was analyzed using the Kaplan-Meier method and stratified Cox regression.
+
+
+RESULTS
+ Of 19,006 patients, 5,887 (31%) were in the chemotherapy group. Stroke occurred in 44 (0.75%) and 51 (0.39%) patients in the chemotherapy and nonchemotherapy group, respectively. Kaplan-Meier curve analysis showed that patients in the chemotherapy group had a higher stroke risk than those in the nonchemotherapy group (hazard ratio [HR] 1.84; 95% confidence interval [CI] 1.23-2.75). However, this difference was insignificant after adjustment for cancer status using inverse probability of treatment weighting with propensity scores (HR 1.20; 95% CI 0.76-1.91). Similarly, in the stratified Cox regression model, chemotherapy was not associated with stroke after adjustment for cancer status (HR 1.26; 95% CI 0.78-2.03).
+
+
+CONCLUSION
+ In our study, the elevated stroke risk in cancer patients who received chemotherapy was presumably due to advanced cancer stage; chemotherapy was not associated with the increased risk of stroke.

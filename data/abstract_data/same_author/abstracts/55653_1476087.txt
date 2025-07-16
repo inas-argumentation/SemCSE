@@ -1,0 +1,2 @@
+Compositional Verification for Object-Z
+This paper presents a framework for compositional verification of Object-Z specifications. Its key feature is a proof rule based on decomposition of hierarchical Object-Z models. For each component in the hierarchy local properties are proven in a single proof step. However, we do not consider components in isolation. Instead, components are envisaged in the context of the referencing super-component and proof steps involve assumptions on properties of the sub-components. The framework is defined for Linear Temporal Logic (LTL).

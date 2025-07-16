@@ -1,0 +1,2 @@
+IIT (BHU) Submission for the ACL Shared Task on Named Entity Recognition on Code-switched Data
+This paper describes the best performing system for the shared task on Named Entity Recognition (NER) on code-switched data for the language pair Spanish-English (ENG-SPA). We introduce a gated neural architecture for the NER task. Our final model achieves an F1 score of 63.76%, outperforming the baseline by 10%.

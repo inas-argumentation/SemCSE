@@ -1,0 +1,2 @@
+A Relation of Primal-Dual Lattices and the Complexity of Shortest Lattice Vector Problem
+We give a simplified proof of a theorem of Lagarias, Lenstra and Schnorr [17] that the problem of approximating the length of the shortest lattice vector within a factor of Cn, for an appropriate constant C, cannot be NP-hard, unless NP = coNP. We also prove that the problem of finding a n14-unique shortest lattice vector is not NP-hard under polynomial time many-one reductions, unless the polynomial time hierarchy collapses. © 1998—Elsevier Science B.V. All rights reserved

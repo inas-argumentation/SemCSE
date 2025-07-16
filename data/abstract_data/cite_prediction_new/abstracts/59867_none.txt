@@ -1,0 +1,2 @@
+Recognition of Affect, Judgment, and Appreciation in Text
+The main task we address in our research is classification of text using fine-grained attitude labels. The developed @AM system relies on the compositionality principle and a novel approach based on the rules elaborated for semantically distinct verb classes. The evaluation of our method on 1000 sentences, that describe personal experiences, showed promising results: average accuracy on the fine-grained level (14 labels) was 62%, on the middle level (7 labels) - 71%, and on the top level (3 labels) - 88%.

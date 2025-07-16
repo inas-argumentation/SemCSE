@@ -1,0 +1,2 @@
+A general-purpose follower for line-structured data
+This paper describes a subroutine which is capable of following a general class of line-structured images. The strategy used for following is supplied externally in the form of a table. Several standard algorithms are incorporated in the package but the design is open ended so that more can be added as they are developed.

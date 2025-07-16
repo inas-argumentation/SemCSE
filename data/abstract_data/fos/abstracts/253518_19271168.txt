@@ -1,0 +1,15 @@
+WE-G-BRE-04: Gold Nanoparticle Induced Vasculature Damage for Proton Therapy: Monte Carlo Simulation.
+PURPOSE
+The aim of this work is to investigate the gold nanoparticle (GNP) induced vasculature damage in a proton beam. We compared the results using a clinical proton beam, 6MV photon beam and two kilovoltage photon beams.
+
+
+METHODS
+Monte Carlo simulations were carried out using TOPAS (TOol for PArticle Simulation) to obtain the spatial dose distribution in close proximity to GNPs up to 20μm distance. The spatial dose distribution was used as an input to calculate the additional dose deposited to the blood vessels. For this study, GNP induced vasculature damage is evaluated for three particle sources (proton beam, MV photon beam and kV photon beam), various treatment depths for each particle source, various GNP uptakes and three different vessel diameters (8μm, 14μm and 20μm).
+
+
+RESULTS
+The result shows that for kV photon, GNPs induce more dose in the vessel wall for 150kVp photon source than 250kVp. For proton therapy, GNPs cause more dose in the vessel wall at shallower treatment depths. For 6MV photons, GNPs induce more dose in the vessel wall at deeper treatment depths. For the same GNP concentration and prescribed dose, the additional dose at the inner vessel wall is 30% more than the prescribed dose for the kVp photon source, 15% more for the proton source and only 2% more for the 6MV photon source. In addition, the dose from GNPs deceases sharper for proton therapy than kVp photon therapy as the distance from the vessel inner wall increases.
+
+
+CONCLUSION
+We show in this study that GNPs can potentially be used to enhance radiation therapy by causing vasculature damage using clinical proton beams. The GNP induced damage for proton therapy is less than for the kVp photon source but significantly larger than for the clinical MV photon source.

@@ -1,0 +1,2 @@
+Green's function of a free massive scalar field on the lattice
+We propose a method to calculate the Green's function of a free massive scalar field on the lattice numerically to very high precision. For masses m<2 (in lattice units) the massive Green's function can be expressed recursively in terms of the massless Green's function and just two additional mass-independent constants.

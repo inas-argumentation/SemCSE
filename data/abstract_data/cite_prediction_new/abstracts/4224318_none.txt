@@ -1,0 +1,2 @@
+Sequential auctions with delay costs: A two-period model
+We examine the outcome of a two-round, second-price auction of stochastically equivalent objects where players face delay costs if they decide to stay for the subsequent round. In our model, agents decide whether to stay for the next round after seeing their valuations for the good. We describe an equilibrium involving a screening level such that only those bidders with values bigger than that amount decide to stay for the last period. We also provide an example where expected prices are decreasing.

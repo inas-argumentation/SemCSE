@@ -1,0 +1,2 @@
+An approximation algorithm for the shortest common supersequence problem: an experimental analysis
+In this paper an approximation algorithm, called ReduceExpand, for the Shortest Common Supersequence (SCS) problem is presented and its behavior is studied experimentally. While the guaranteed approximation ratio of ReduceExpand matches that of the best known algorithm, our algorithm clearly outperforms such algorithm with respect to the length of the approximate solution.

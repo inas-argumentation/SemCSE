@@ -1,0 +1,2 @@
+Integration of fdi functional units into embedded tracking control loops and its application to FDI in engine control systems
+A scheme is presented for the integration of FDI functional units into control loops embedded in mechatronic systems. The core of this FDI scheme is to design the FDI functional units by making use of the available tracking control structure. The developed FDI scheme is applied to the air-intake control system of an SI-engine

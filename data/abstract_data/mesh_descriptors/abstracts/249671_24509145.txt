@@ -1,0 +1,15 @@
+An Age Adjusted Comorbidity Index to Predict Long-Term, Other Cause Mortality in Men with Prostate Cancer.
+PURPOSE
+Accurate estimation of life expectancy is critical for men considering aggressive vs nonaggressive treatment of early stage prostate cancer. We created an age adjusted comorbidity index that predicts other cause mortality in men with prostate cancer.
+
+
+MATERIALS AND METHODS
+We sampled 1,598 men consecutively diagnosed with prostate cancer between 1998 and 2004 at West Los Angeles and Long Beach Veterans Affairs hospitals. We used competing risks regression in testing and validation cohorts to determine the risk of nonprostate cancer related (ie other cause) mortality associated with age at diagnosis and PCCI score. We converted risk into a 10-point scoring system and calculated 2, 5 and 10-year cumulative incidence of other cause mortality by age adjusted PCCI scores.
+
+
+RESULTS
+PCCI score and age were associated with similar hazards of other cause mortality in the testing and validation cohorts. Each 6-year increase in age at diagnosis of greater than 60 was equivalent to 1 additional PCCI point. After correcting PCCI score for age the age adjusted PCCI scores were strongly predictive of other cause mortality. The subhazard ratio of other cause mortality vs 0 for a score of 0, 1-2, 3-4, 5-6, 7-9 and 10+ was 2.0 (95% CI 1.3-3.0), 4.0 (95% CI 2.6-6.1), 8.7 (95% CI 5.7-13.3), 14.7 (95% CI 9.4-22.8) and 43.2 (95% CI 26.6-70.4), respectively. The 10-year cumulative incidence of other cause mortality was 10%, 19%, 35%, 60%, 79% and 99%, respectively.
+
+
+CONCLUSIONS
+The age adjusted PCCI strongly stratifies the risk of long-term, other cause mortality. It may be incorporated into shared decision making to decrease overtreatment of older and chronically ill men with prostate cancer.

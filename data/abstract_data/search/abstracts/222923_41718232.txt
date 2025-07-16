@@ -1,0 +1,2 @@
+Algorithm of location of chess robot system based on computer vision
+This paper demonstrates the principle of the robot chess system based on computer vision. According to improved Hough transform, a new image recognition method was proposed to settle the problem of the location in the robot chess system. Application results show that this method has the high performances in robustness, speed and accuracy.

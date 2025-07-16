@@ -1,0 +1,2 @@
+RCEV heteroscedasticity test based on the studentized residuals
+Abstract All the usual heteroscedasticity tests in the statistics and econometrics literature are based on raw residuals. Although the raw residuals are heteroscedastic, studentized residuals can still be homoscedastic. In this study, the version of Çelik’s RCEV heteroscedasticity test which is based on studentized residuals is introduced.

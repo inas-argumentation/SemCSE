@@ -1,0 +1,2 @@
+Polymer chain packing analysis using molecular modeling.
+This article describes the methodology used in applying molecular modeling to investigate the chain packing of polymers. Models for polyethylene and trans-polyacetylene were developed in order to study the cell packing energy as a function of the chain setting angles. This approach was found to yield chain setting angle values that corresponded to those determined experimentally by other authors. The limitations of the method are also discussed.

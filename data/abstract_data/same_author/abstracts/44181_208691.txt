@@ -1,0 +1,2 @@
+Coloring planar perfect graphs by decomposition
+This paper describes a decomposition scheme for coloring perfect graphs. Based on this scheme, one need only concentrate on coloring highly connected (at least 3-connected) perfect graphs. This idea is illustrated on planar perfect graphs, which yields a straightforward coloring algorithm. We suspect that, under appropriate definition, highly connected perfect graphs might possess certain regular properties that are amenable to coloring algorithms.

@@ -1,0 +1,2 @@
+Character Recognition Using Convolutional Neural Networks
+Pattern recognition is one of the traditional uses of neural networks. When trained with gradient-based learning methods, these networks can learn the classification of input data by example. An introduction to classifiers and gradient-based learning is given. It is shown how several perceptrons can be combined and trained gradient-based. Furthermore, an overview of convolutional neural networks, as well as a real-world example, are discussed.

@@ -1,0 +1,2 @@
+Impact of channel estimation error on multiuser detection via the replica method
+For practical wireless DS-CDMA systems, channel estimation is imperfect due to noise and interference. The impact of channel estimation error on multiuser detection (MUD) is analyzed under the framework of the replica method. System performance is obtained in the large system limit for optimal MUD, linear MUD and turbo MUD, and is validated by the numerical results of finite systems.

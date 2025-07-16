@@ -1,0 +1,2 @@
+A Local Overlapping Community Detection Method in Complex Networks
+Community structure detection has great importance in finding the relationships of elements in complex networks. This paper presents a method of simultaneously taking into account the weak community structure definition and community subgraph density, based on the greedy strategy for community expansion. The results are compared with several previous methods on artificial networks and real world networks. And experimental results verify the feasibility and effectiveness of our approach.

@@ -1,0 +1,2 @@
+Bifurcation and chaos in an epidemic model with nonlinear incidence rates
+This paper investigates a discrete-time epidemic model by qualitative analysis and numerical simulation. It is verified that there are phenomena of the transcritical bifurcation, flip bifurcation, Hopf bifurcation types and chaos. Also the largest Lyapunov exponents are numerically computed to confirm further the complexity of these dynamic behaviors. The obtained results show that discrete epidemic model can have rich dynamical behavior.

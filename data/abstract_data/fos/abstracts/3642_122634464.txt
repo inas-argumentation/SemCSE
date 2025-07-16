@@ -1,0 +1,2 @@
+Assessing multiple endpoints with ordered alternatives
+Nonparametric approaches to the analysis of multiple endpoints in clinical studies can be of particular value when the endpoints are heterogeneous or distributional assumptions are suspect. We describe a multivariate Terpstra-Jonckheere U-statistic for assessing multiple endpoints with ordered alternatives, and illustrate its use with data arising from a recent clinical study.

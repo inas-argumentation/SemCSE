@@ -1,0 +1,2 @@
+A Fixed-point Characterization of a Deontic Logic of Regular Action
+We define a deontic logic of regular action as a characterization within a modal μ-calculus of action. First a semantics of deontic notions for regular action is given in terms of conditions on modal action structures. Then modal μ-calculus formulas characterizing these conditions are constructed by closely following the structure of deterministic finite automatons for regular action.

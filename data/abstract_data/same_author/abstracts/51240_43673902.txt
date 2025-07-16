@@ -1,0 +1,2 @@
+Coordinated target assignment and intercept for unmanned air vehicles
+Presents an end-to-end solution to the battlefield scenario where M unmanned air vehicles are assigned to strike N known targets, in the presence of dynamic threats. The problem is decomposed into the subproblems of (1) cooperative target assignment, (2) coordinated UAV intercept, (3) path planning, and (4) feasible trajectory generation. The design technique is based on a hierarchical approach to coordinated control. Detailed simulation results are presented.

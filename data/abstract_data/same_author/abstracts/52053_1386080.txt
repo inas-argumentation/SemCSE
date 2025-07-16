@@ -1,0 +1,2 @@
+Using Constraints to Describe Source Contents in Data Integration Systems
+In data integration systems, information sources often have constraints, such as "all houses stored at a source have a unique address." These constraints are useful in computing answers to queries and facilitating information exchange.

@@ -1,0 +1,15 @@
+Frequency response and distortion properties of nonlinear image processing algorithms and the importance of imaging context.
+PURPOSE
+The most common metrics for resolution analysis in medical imaging are valid only for (approximately) linear systems. While analogues to these metrics have been used in attempts to describe resolution performance in nonlinear systems, the analysis is incomplete since distortion effects are often ignored. The authors have developed a methodology to analyze the amplitude modulation and waveform distortion properties of nonlinear systems with specific application to medical image processing algorithms.
+
+
+METHODS
+Using sinusoidal basis functions, two metrics were derived which distinguish amplitude modulation from nonlinear waveform distortion: principle frequency response and distortion power spectrum, respectively. Additionally, two figures of merit were developed to describe the relative impact of nonlinear distortion as a result of image processing: distortion index (DI) and ΣDI. Three nonlinear denoising algorithms, the median, bilateral, and wavelet denoising filters, were selected as example functions to demonstrate the utility of the metrics derived in this study.
+
+
+RESULTS
+Each filter showed very different resolution and waveform distortion properties. In particular, the amplitude and extent of nonlinear distortion depended strongly on image context and the type of nonlinear mechanism employed. Nonlinear waveform distortion constituted up to 30% of the median filter output signal power in high contrast-to-noise ratio (CNR) scenarios. Conversely, nonlinear distortion never exceeded 1% of the bilateral filter output signal power. The wavelet denoising response contained between 1% and 9% distortion which varied weakly as a function of CNR.
+
+
+CONCLUSIONS
+The analytical metrics described in the paper demonstrate the importance of considering both resolution- and distortion-related effects in characterizing the performance of nonlinear imaging systems with specific application to image processing algorithms. Findings with three common nonlinear algorithms demonstrate a range of CNR values over which it is important to consider the impact of the nonlinear nature of each algorithm. Background context is also shown to influence the degree to which the nonlinear nature of the algorithm influences resolution and distortion. While no single metric can yet anticipate observer performance in nonlinear systems, the approach described can demonstrate the range of imaging contexts over which such nonlinear effects are important to consider.

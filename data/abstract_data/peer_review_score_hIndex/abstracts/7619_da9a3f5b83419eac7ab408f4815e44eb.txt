@@ -1,0 +1,8 @@
+Gradient-based training of Gaussian Mixture Models for High-Dimensional Streaming Data
+We present an approach for efficiently training Gaussian Mixture Models by SGD on non-stationary, high-dimensional streaming data.
+Our training scheme does not require data-driven parameter initialization (e.g., k-means) and has the ability to process high-dimensional samples without numerical problems.
+Furthermore, the approach allows mini-batch sizes as low as 1, typical for streaming-data settings, and it is possible to react and adapt to changes in data statistics (concept drift/shift) without catastrophic forgetting.
+Major problems in such streaming-data settings are undesirable local optima during early training phases and numerical instabilities due to high data dimensionalities.%, and catastrophic forgetting when encountering concept drift.
+We introduce an adaptive annealing procedure to address the first problem,%, which additionally plays a decisive role in controlling the \acp{GMM}' reaction to concept drift.
+whereas numerical instabilities are eliminated by using an exponential-free approximation to the standard \ac{GMM} log-likelihood.
+Experiments on a variety of visual and non-visual benchmarks show that our SGD approach can be trained completely without, for instance, k-means based centroid initialization, and compares favorably to sEM, an online variant of EM.

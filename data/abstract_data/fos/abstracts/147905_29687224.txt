@@ -1,0 +1,2 @@
+The alternating-direction iterative method for saddle point problems
+In the paper, a new alternating-direction iterative method is proposed based on matrix splittings for solving saddle point problems. The convergence analysis for the new method is given. When the better values of parameters are employed, the proposed method has faster convergence rate and less time cost than the Uzawa algorithm with the optimal parameter and the Hermitian and skew-Hermitian splitting iterative method. Numerical examples further show the effectiveness of the method.

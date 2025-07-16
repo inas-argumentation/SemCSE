@@ -1,0 +1,2 @@
+A New Class of Single Cycle T-Functions
+T-function is a relatively new cryptographic building block suitable for streamciphers. It has the potential of becoming a substitute for LFSRs, and those that correspond to maximum length LFSRs are called single cycle T-functions. We present a family of single cycle T-functions, previously unknown. An attempt at building a hardware oriented streamcipher based on this new T-function is given.

@@ -1,0 +1,4 @@
+The quantum mechanics of the gauge-invariant O(2) Heisenberg model
+The two-dimensional gauge-invariant O(2) Heisenberg (classical X-Y) model is discussed in terms of a Hamiltonian formulation on a one-dimensional spatial lattice with continuous “time”. Particular emphasis is placed on the spectrum of the model and the behaviour of the Wilson loop (which is relevant to the confinement properties). The entire energy spectrum as well as the eigenfunctions of the model are determined in a certain coupling regime by applying a WKB method suitable for periodic potentials. 
+ 
+A tight binding (periodic Gaussian) approximation to the quantum Hamiltonian and its wave functional is introduced. The Wilson loop is explicitly calculated in terms of this approximation and is seen to be crucially influenced by the periodicity of the wave functional. The dominant contributions to be Wilson loop correspond to cross sections through the centres of vortices.

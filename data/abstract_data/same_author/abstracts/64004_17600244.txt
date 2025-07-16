@@ -1,0 +1,2 @@
+Dynamic key management for secure routing in LCMRMG MANET
+We present a secure key management scheme for the locality caching multi-root multi-generation (LCMRMG) MANET routing algorithm (W. Peng et al., 2003). The proposed scheme is fully distributed, flexible in secure share distribution, and scalable well to large MANET. The scheme takes advantage of the multi-root nature of LCMRMG and successfully integrates public key, certification and threshold technologies. Our simulation has proven that the proposed scheme is indeed secure, robust, efficient, and scalable

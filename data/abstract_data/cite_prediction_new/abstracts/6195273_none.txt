@@ -1,0 +1,2 @@
+Causal inference in survival analysis using pseudo‐observations
+Causal inference for non‐censored response variables, such as binary or quantitative outcomes, is often based on either (1) direct standardization (‘G‐formula’) or (2) inverse probability of treatment assignment weights (‘propensity score’). To do causal inference in survival analysis, one needs to address right‐censoring, and often, special techniques are required for that purpose.

@@ -1,0 +1,11 @@
+Classification of Multiple Cancer Types by Multicategory Support Vector Machines Using Gene Expression Data
+MOTIVATION
+High-density DNA microarray measures the activities of several thousand genes simultaneously and the gene expression profiles have been used for the cancer classification recently. This new approach promises to give better therapeutic measurements to cancer patients by diagnosing cancer types with improved accuracy. The Support Vector Machine (SVM) is one of the classification methods successfully applied to the cancer diagnosis problems. However, its optimal extension to more than two classes was not obvious, which might impose limitations in its application to multiple tumor types. We briefly introduce the Multicategory SVM, which is a recently proposed extension of the binary SVM, and apply it to multiclass cancer diagnosis problems.
+
+
+RESULTS
+Its applicability is demonstrated on the leukemia data (Golub et al., 1999) and the small round blue cell tumors of childhood data (Khan et al., 2001). Comparable classification accuracy shown in the applications and its flexibility render the MSVM a viable alternative to other classification methods.
+
+
+SUPPLEMENTARY INFORMATION
+http://www.stat.ohio-state.edu/~yklee/msvm.htm

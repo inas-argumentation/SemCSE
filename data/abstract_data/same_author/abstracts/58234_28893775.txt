@@ -1,0 +1,2 @@
+Generalized linearization in nonlinear modeling of data
+The principal innovative idea in this paper is to transform the original complex nonlinear modeling problem into a combination of linear problem and very simple nonlinear problems. The key step is the generalized linearization of nonlinear terms. This paper only presents the introductory strategy of this methodology. The practical numerical experiments will be provided subsequently.

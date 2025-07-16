@@ -1,0 +1,30 @@
+Recovery of the three-dimensional wind and sonic temperature data from a physically deformed sonic anemometer
+Abstract. A sonic anemometer reports three-dimensional (3-D) wind and sonic temperature
+( Ts) by measuring the time of ultrasonic signals transmitting along each
+of its three sonic paths, whose geometry of lengths and angles in the
+anemometer
+coordinate system was precisely determined through production calibrations
+and the geometry data were embedded into the sonic anemometer operating
+system (OS) for internal computations. If this geometry is deformed, although
+correctly measuring the time, the sonic anemometer continues to use its
+embedded geometry data for internal computations, resulting in incorrect
+output of 3-D wind and Ts data. However, if the geometry is remeasured
+(i.e., recalibrated) and to update the OS, the sonic anemometer can resume
+outputting correct data. In some cases, where immediate recalibration is not
+possible, a deformed sonic anemometer can be used because the ultrasonic
+signal-transmitting time is still correctly measured and the correct time can
+be used to recover the data through post processing. For example, in 2015, a
+sonic anemometer was geometrically deformed during transportation to
+Antarctica. Immediate deployment was critical, so the deformed sonic
+anemometer was used until a replacement arrived in 2016. Equations and
+algorithms were developed and implemented into the post-processing software
+to recover wind data with and without transducer-shadow correction and Ts 
+data with crosswind correction. Post-processing used two geometric datasets,
+production calibration and recalibration, to recover the wind and Ts 
+data from May 2015 to January 2016. The recovery reduced the difference of
+9.60 to 8.93  ∘ C between measured and calculated Ts to 0.81 to
+ −0.45 ∘ C, which is within the expected range, due to normal
+measurement errors. The recovered data were further processed to derive
+fluxes. As data reacquisition is time-consuming and expensive, this
+data-recovery approach is a cost-effective and time-saving option for similar
+cases. The equation development can be a reference for related topics.

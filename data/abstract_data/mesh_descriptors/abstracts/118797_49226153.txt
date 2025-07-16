@@ -1,0 +1,15 @@
+Reducing X-ray imaging for proton postmastectomy chest wall patients.
+PURPOSE
+Proton postmastectomy radiation therapy (PMRT) patients are positioned daily using surface imaging with additional x-ray imaging for confirmation. This study aims to investigate whether weekly x-ray imaging with daily surface imaging, as performed for photon treatment, is sufficient to maintain PMRT patient positioning fidelity.
+
+
+METHODS AND MATERIALS
+Calculated radiographic corrections and surface imaging residual setup errors were analyzed at the treatment angle for 28 PMRT patients (with and without breast implant, left and right sided). The temporal repartition of radiographic translations >3 mm occurring after surface imaging positioning was studied as well as their impact on the final patient position, defined as the comparison between the treatment angle surface image and the planning computed tomography scan. To compare both sets of images, the traditional bony anatomy landmarks on the digitally reconstructed radiographs were replaced by 3 radiopaque markers placed over the patient's skin tattoos. The temporal variation of the distances between these skin markers was analyzed, as were the surface imaging statistics.
+
+
+RESULTS
+Discrepancies between surface imaging and x-ray imaging were more frequent for patients without breast implants and among reconstructed patients with large implants. One-quarter of studied patients exhibited calculated radiographic translations >3 mm during the last week of treatment. In most circumstances, applying radiographic corrections did not affect patient position, which remained within 3 mm/2° robustness tolerances. One patient's implant shifted following computed tomography planning; this shift would not have been detected without x-ray imaging.
+
+
+CONCLUSION
+Initial and weekly x-ray acquisition combined with daily surface imaging seems adequate both for routine PMRT positioning and to monitor potential changes in the treatment area. The limits of the surface imaging system, however, need to be better specified among patients without breast implants or in those with large implant reconstructions.

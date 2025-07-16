@@ -1,0 +1,2 @@
+Open Problems Related to Algebraic Attacks on Stream Ciphers
+The recently developed algebraic attacks apply to all keystream generators whose internal state is updated by a linear transition function, including LFSR-based generators. Here, we describe this type of attacks and we present some open problems related to their complexity. We also investigate the design criteria which may guarantee a high resistance to algebraic attacks for keystream generators based on a linear transition function.

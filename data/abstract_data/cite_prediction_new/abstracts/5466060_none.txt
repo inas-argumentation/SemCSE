@@ -1,0 +1,2 @@
+Contrast structures in multidimensional singularly perturbed reaction-diffusion-advection problems
+We consider a nonlinear boundary value problem for an equation of reaction-diffusion-advection type whose solutions have internal transition layers (contrast structures). We prove the existence of such solutions, construct their asymptotics, and estimate its accuracy. The analysis is carried out with the use of the asymptotic method of differential inequalities and permits one to prove the Lyapunov stability of the contrast structures.

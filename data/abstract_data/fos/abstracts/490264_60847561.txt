@@ -1,0 +1,2 @@
+A consistent formalism for the Thomas-Ehrman Level Displacement
+Usage of the Thomas-Ehrman Level Displacement formalism has been examined. Mistakes and inconsistencies are found in several papers, being repeated in subsequent works. Here, we present a complete formalism with a consistent set of definitions. Full algorithms are made available, both as a {\tt FORTRAN} source file and as a user-friendly Visual Basic executable tool, available for download on the World Wide Web.

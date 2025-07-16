@@ -1,0 +1,2 @@
+A Direct Proof of the Inherent Ambiguity of a Simple Context-Free Language
+A direct and self-contained proof is given of the inherent ambiguity of the context-free language <italic>L</italic> = {<italic>a<supscrpt>i</supscrpt>b<supscrpt>i</supscrpt>c<supscrpt>i</supscrpt></italic> ∣ <italic>i,j</italic> > 1} ∪ {<italic>a<supscrpt>i</supscrpt>b<supscrpt>i</supscrpt>c<supscrpt>i</supscrpt></italic> ∣ <italic>i,j</italic> > 1}, which is the solution to an open problem pointed out by Ginsburg.

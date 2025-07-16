@@ -1,0 +1,2 @@
+Unoriented Theta-Maxima in the Plane: Complexity and Algorithms
+We introduce the unoriented $\Theta$-maximum as a new criterion for describing the shape of a set of planar points. We present efficient algorithms for computing the unoriented $\Theta$-maximum of a set of planar points. We also propose a simple linear expected time algorithm for computing the unoriented $\Theta$-maximum of a set of planar points when $\Theta=\pi/2$.

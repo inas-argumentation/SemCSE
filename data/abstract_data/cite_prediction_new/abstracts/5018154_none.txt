@@ -1,0 +1,2 @@
+A Block Gathering Based on Mobile Web Page Segmentation Algorithm
+Compared to html page, the mobile web page has different features. The mobile web page is arranged through some important tags such as , >table>, which are called Gathering Node in this paper. Based on these Gathering Nodes, we proposed a Block Gathering Based Page Segmentation algorithm (BGBPS). The experiment shows that BGBPS algorithm has great effect on semantic segmentation of mobile web page.

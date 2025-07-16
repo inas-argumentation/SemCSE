@@ -1,0 +1,2 @@
+Robust block-based EZW image compression with channel noise optimized rate-distortion functions
+We apply the dynamic bit allocation to the block-based EZW algorithm for robust image compression. To optimize the performance of the bit allocation, the effect of the channel noise is concerned. The robustness of our method was evaluated.

@@ -1,0 +1,2 @@
+On Explicit Random-Like Tournaments
+We give a new construction of tournaments satisfying the quasi-random property based on digraph spectra and a digraph-version of the expander-mixing lemma. We also discuss an application of our construction to the proof of the NP-hardness of the feedback arc set problem for tournaments.

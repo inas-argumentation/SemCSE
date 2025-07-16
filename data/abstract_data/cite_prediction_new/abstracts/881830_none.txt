@@ -1,0 +1,18 @@
+Dynamic Gesture Classification for Vietnamese Sign Language Recognition
+This paper presents an approach of feature extraction
+and classification for recognizing continuous dynamic
+gestures corresponding to Vietnamese Sign Language (VSL).
+Input data are captured by the depth sensor of a Microsoft
+Kinect, which is almost not affected by the light of environment.
+In detail, each gesture is represented by a volume corresponding
+to a sequence of depth images. The feature extraction stage is
+performed by dividing such volume into a 3D grid of same-size
+blocks in which each one is then converted into a scalar value.
+This step is followed by the process of classification. The wellknown
+method Support Vector Machine (SVM) is employed in
+this work, and the Hidden Markov Model (HMM) technique is
+also applied in order to provide a comparison on recognition
+accuracy. Besides, a dataset of 3000 samples corresponding to
+30 dynamic gestures in VSL was created by 5 volunteers. The
+experiments on this dataset to validate the approach and that
+shows the promising results with average accuracy up to 95%.

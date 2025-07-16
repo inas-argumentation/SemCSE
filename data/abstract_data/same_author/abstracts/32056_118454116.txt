@@ -1,0 +1,2 @@
+Resonance decay contributions to higher-order anisotropic flow coefficients
+We show that in hydrodynamic simulations for relativistic heavy-ion collisions, strong resonance decay calculations can be performed with fewer species of particle resonances while preserving good accuracy in single particle spectra and flow anisotropies. Such partial resonance calculations boost computation efficiency by a factor of 10 which is essential for large scale event-by-event simulations.

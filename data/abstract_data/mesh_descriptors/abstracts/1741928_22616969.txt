@@ -1,0 +1,15 @@
+Computer-assisted analysis of 4D cardiac MR image sequences after myocardial infarction.
+OBJECTIVES
+Spatial-temporal MR image sequences of the heart contain information about shape and motion changes and pathological structures after myocardial infarction. In this paper a Heart Analysis Tool (HeAT) for the quantitative analysis of 4D MR image sequences of infarct patients is presented.
+
+
+METHODS
+HeAT supports interactive segmentation of anatomical and pathological structures. Registration of Cine- and DE-MR image data is applied to enable their combined evaluation during the analysis process. Partitioning of the myocardium in segments enables the analysis with high local resolution. Corresponding segments are generated and used for inter/intrapatient comparison. Quantitative parameters were extracted and visualized.
+
+
+RESULTS
+Parameters like endocard movement in the infarcted area of six infarct patients were computed in HeAT. Parameters in the infarct area show the expected dysfunctional characteristics. Based on theses parameters passive endocardial movement and myocardial areas with decreased contraction could be identified.
+
+
+CONCLUSION
+In contrast to other software tools HeAT supports the combination of contour information of Cine-MR and DE-MR, local analysis with high resolution and inter/intra patient comparison. HeAT enables an observer-independent evaluation of the complex cardiac image data. Using HeAT in further studies can increase the understanding of left ventricle (LV) remodeling.

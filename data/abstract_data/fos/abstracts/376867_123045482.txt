@@ -1,0 +1,2 @@
+Exact efficiencies of some robust estimators in sample survey
+The classical estimator of the mean [xbar] of a finite population is the sample mean [xbar]. We give the exact mean square errors of Tiku’ MML estimator and Rao-type estimator for numerous symmetric populations and show that both are on the whole considerbly more efficient than [xbar].

@@ -1,0 +1,2 @@
+Wavefront solution in the theory of boiling liquids
+In this note we discuss a heat equation with a nonlinear Neumann boundary condition introduced by Professor W. Marquardt to model the phase transition from nucleate to transient boiling. We show that for certain initial configuration the solution indeed has a wave front like behavior typical for the mathematical description of phase transitions.

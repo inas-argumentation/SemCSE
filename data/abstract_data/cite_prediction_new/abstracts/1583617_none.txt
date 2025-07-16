@@ -1,0 +1,2 @@
+Robust PID control in hot test of gyrotron travelling wave tubes
+To make output power of a gyrotron travelling wave tube (gyro-TWT) become more stable during a long time, an automatic hot test platform of gyro-TWTs was set up with robust feedback control of proportional integral derivative (PID) on cathode-anode voltage and filament current. Simulation of the controlling process of cathode-anode voltage had been carried out. The simulation indicates the proposed robust PID control strategy can achieve a stable operating voltage.

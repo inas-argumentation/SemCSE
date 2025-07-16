@@ -1,0 +1,2 @@
+12-23 GHz ultra wide tuning range voltage-controlled ring oscillator with hybrid control schemes
+This paper presents the design of a voltage-controlled ring oscillator that has ultra wide tuning range of 12 to 23 GHz with hybrid control schemes. The voltage-controlled oscillator (VCO) uses a feedforward interpolation topology scheme and a varactor diode load capacitance variation scheme to control the oscillation. The measurement result of the VCO shows good linearity in frequency-voltage characteristics over the ultra wide tuning range.

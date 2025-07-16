@@ -1,0 +1,2 @@
+On the maximum likelihood estimate for the drift of brownian motion following a symmetric sequential probability ratio test
+Bias and variance are evaluated explicitly for the maximum likelihood estimate (MLE) of the drift of a Brownian motion following a symmetric sequential probability ratio test (SPRT). The MLE is shown to be asymptotically efficient when the boundary of the SPRT tends to infinity.

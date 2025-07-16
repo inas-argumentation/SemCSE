@@ -1,0 +1,2 @@
+A physical model for planar spiral inductors on silicon
+This paper presents a physical model for planar spiral inductors on silicon. The model has been confirmed with measured and published data of inductors having different geometric and process parameters. This model is scalable with inductor geometry, allowing designers to predict and optimize the quality factor.

@@ -1,0 +1,2 @@
+A New Identify Method for Ro Q Attack
+The Ro Q attack as the current popular network attacks, has became the hot research. The traditional Ro Q identify mainly monitoring the sing-link,so it is not convincing during the complex network. Proposes an new Ro Q identify method which used to survey the multi-link—L-Ro Q, this arithmetic monitors the network flowing from the global angle, finds the abnormal link and identifies the attack. This algorithm is checked using the experimental, it can identify the Ro Q attack accurately.

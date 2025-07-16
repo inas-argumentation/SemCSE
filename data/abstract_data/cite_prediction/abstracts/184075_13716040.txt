@@ -1,0 +1,2 @@
+Distinct Class-Specific Saliency Maps for Weakly Supervised Semantic Segmentation
+Improved points (each point contributes 1~3pt improvement) Fully Convolutional Net Guided back propagation [2] Use the derivatives of multiple intermediate layers Aggregate multi-scale class saliency maps (3 scales) Assumption Raw saliency maps are affected by both class-specific saliency and generic object-ness The degree of class saliency factors should be larger than the generic object-ness factor. Background regions do not respond.

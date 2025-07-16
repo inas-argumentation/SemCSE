@@ -1,0 +1,2 @@
+Graphs of Large Girth with Prescribed Partial Circular Colourings
+.This paper completes the constructive proof of the following result: Suppose p/q≥2 is a rational number, A is a finite set and f1,f2,···,fn are mappings from A to {0,1,···,p−1}. Then for any integer g, there is a graph G=(V,E) of girth at least g with such that G has exactly n (p,q)-colourings (up to equivalence) g1,g2,···,gn, and each gi is an extension of fi. A probabilistic proof of this result was given in [8]. A constructive proof of the case p/q≥3 was given in [7].

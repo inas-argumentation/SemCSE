@@ -1,0 +1,2 @@
+The harmonious chromatic number of complete r-ary trees
+A harmonious colouring of a simple graph G is a proper vertex colouring such that each pair of colours appears together on at most one edge. The harmonious chromatic number h(G) is the least number of colours in such a colouring. We define Q(m) to be the least positive integer k such that k2⩾m. Then h(G)⩾Q(m) for any graph G with m edges. We consider the complete r-ary tree of height H, denoted Tr,H. We show that for any r⩾2,H⩾3, if m is the number of edges of Tr,H, then h(Tr,H)=Q(m), except that h(T2,3)=7.

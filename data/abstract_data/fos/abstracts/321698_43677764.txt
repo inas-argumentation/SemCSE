@@ -1,0 +1,2 @@
+A family of iterative methods for computing the approximate inverse of a square matrix and inner inverse of a non-square matrix
+Based on a quadratical convergence method, a family of iterative methods to compute the approximate inverse of square matrix are presented. The theoretical proofs and numerical experiments show that these iterative methods are very effective. And, more importantly, these methods can be used to compute the inner inverse and their convergence proofs are given by fundamental matrix tools.

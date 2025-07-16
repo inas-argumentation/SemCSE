@@ -1,0 +1,14 @@
+CONCERNING THE INTERACTION OF NON-STATIONARY CROSSFLOW VORTICES IN A THREE-DIMENSIONAL BOUNDARY LAYER
+Recently there has been much work devoted to considering some of the many and varied interaction mechanisms which may be operative 
+ in three-dimensional boundarylayer flows. Here we are concerned with resonant triads of crossflow vortices. In contrast to 
+ much of the previous work we examine the effects of interactions upon resonant triads where each member of the triad has the 
+ property of being linearly neutrally stable; then the importance of the interplay between modes can be relatively easily assessed. 
+ We concentrate on investigating modes within the boundary-layer flow above a rotating disc; this choice is motivated by the 
+ similarity between this disc flow and many important practical flows and, secondly, our selected flow is an exact solution 
+ of the Navier-Stokes equations which makes its theoretical analysis especially attractive. First we demonstrate that the desired 
+ triads of linearly neutrally stable modes can exist within the chosen boundary-layer flow and then subsequently obtain evolution 
+ equations to describe the development of the amplitudes of these modes once the interaction mechanism is accounted for. It 
+ is found that the coefficients of the interaction terms within the evolution equations are, in general, given by quite intricate 
+ expressions although some elementary numerical work shows that the evaluation of these coefficients is practicable. The basis 
+ of our work lends itself to generalization to more complicated boundary layers, and effects of detuning or non-parallelism 
+ could be provided for within the asymptotic framework.

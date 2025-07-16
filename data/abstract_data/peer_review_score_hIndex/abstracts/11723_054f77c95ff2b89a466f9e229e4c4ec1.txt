@@ -1,0 +1,2 @@
+Unadversarial Examples: Designing Objects for Robust Vision
+We study a class of computer vision settings wherein one can modify the design of the objects being recognized. We develop a framework that leverages this capability---and deep networks' unusual sensitivity to input perturbations---to design ``robust objects,'' i.e., objects that are explicitly optimized to be confidently classified. Our framework yields improved performance on standard benchmarks, a simulated robotics environment, and physical-world experiments. 

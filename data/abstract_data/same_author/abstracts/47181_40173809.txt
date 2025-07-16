@@ -1,0 +1,2 @@
+The Unpredictable Deviousness of Models
+The definition of computation models is central to algorithmic research. A model is designed to capture the essential features of the technology considered, dispensing with irrelevant and burdensome details. In other words, it is a judicious compromise between simplicity, for the ease of analysis, and fidelity (or reflectivity), for the value of the derived predictions. The achievement of this double objective has unleashed an enormous amount of valuable algorithmic research over the years.

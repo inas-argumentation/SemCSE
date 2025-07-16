@@ -1,0 +1,2 @@
+Dominating sets in k-majority tournaments
+A k-majority tournament T on a finite vertex set V is defined by a set of 2k - 1 linear orderings of V, with u → v if and only if u lies above v in at least k of the orders. Motivated in part by the phenomenon of "non-transitive dice", we let F(k) be the maximum over all k-majority tournaments T of the size of a minimum dominating set of T.We show that F(k) exists for all k > 0, that F(2) = 3 and that in general C1k/log k ≤ F(k) ≤ C2k log k for suitable positive constants C1 and C2.

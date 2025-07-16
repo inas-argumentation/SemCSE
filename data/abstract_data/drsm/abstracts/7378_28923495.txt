@@ -1,0 +1,15 @@
+CRISPR/Cas9 Engineering of Adult Mouse Liver Demonstrates That the Dnajb1-Prkaca Gene Fusion Is Sufficient to Induce Tumors Resembling Fibrolamellar Hepatocellular Carcinoma.
+BACKGROUND & AIMS
+Fibrolamellar hepatocellular carcinoma (FL-HCC) is a primary liver cancer that predominantly affects children and young adults with no underlying liver disease. A somatic, 400 Kb deletion on chromosome 19 that fuses part of the DnaJ heat shock protein family (Hsp40) member B1 gene (DNAJB1) to the protein kinase cAMP-activated catalytic subunit alpha gene (PRKACA) has been repeatedly identified in patients with FL-HCC. However, the DNAJB1-PRKACA gene fusion has not been shown to induce liver tumorigenesis. We used the CRISPR/Cas9 technique to delete in mice the syntenic region on chromosome 8 to create a Dnajb1-Prkaca fusion and monitored the mice for liver tumor development.
+
+
+METHODS
+We delivered CRISPR/Cas9 vectors designed to juxtapose exon 1 of Dnajb1 with exon 2 of Prkaca to create the Dnajb1-Prkaca gene fusion associated with FL-HCC, or control Cas9 vector, via hydrodynamic tail vein injection to livers of 8-week-old female FVB/N mice. These mice did not have any other engineered genetic alterations and were not exposed to liver toxins or carcinogens. Liver tissues were collected 14 months after delivery; genomic DNA was analyzed by PCR to detect the Dnajb1-Prkaca fusion, and tissues were characterized by histology, immunohistochemistry, RNA sequencing, and whole-exome sequencing.
+
+
+RESULTS
+Livers from 12 of the 15 mice given the vectors to induce the Dnajb1-Prkaca gene fusion, but none of the 11 mice given the control vector, developed neoplasms. The tumors contained the Dnajb1-Prkaca gene fusion and had histologic and cytologic features of human FL-HCCs: large polygonal cells with granular, eosinophilic, and mitochondria-rich cytoplasm, prominent nucleoli, and markers of hepatocytes and cholangiocytes. In comparing expression levels of genes between the mouse tumor and non-tumor liver cells, we identified changes similar to those detected in human FL-HCC, which included genes that affect cell cycle and mitosis regulation. Genomic analysis of mouse neoplasms induced by the Dnajb1-Prkaca fusion revealed a lack of mutations in genes commonly associated with liver cancers, as observed in human FL-HCC.
+
+
+CONCLUSIONS
+Using CRISPR/Cas9 technology, we found generation of the Dnajb1-Prkaca fusion gene in wild-type mice to be sufficient to initiate formation of tumors that have many features of human FL-HCC. Strategies to block DNAJB1-PRKACA might be developed as therapeutics for this form of liver cancer.

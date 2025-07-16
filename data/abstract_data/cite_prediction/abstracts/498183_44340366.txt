@@ -1,0 +1,2 @@
+Model Predictive-Based Maximum Power Point Tracking for Grid-Tied Photovoltaic Applications Using a Z-Source Inverter
+This paper presents a model predictive-based maximum power point tracking (MPPT) method for a photovoltaic energy harvesting system based on a single-stage grid-tied Z-source inverter. First, it provides a brief review of Z-source inverters, MPPT methods and model predictive control. Next, it introduces the proposed model predictive-based MPPT method. Finally, it provides experimental results to verify the theoretical outcomes.

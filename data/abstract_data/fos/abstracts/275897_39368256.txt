@@ -1,0 +1,2 @@
+A new quadrature routine for improper and oscillatory integrals
+In MATLAB environment, a new quadrature routine based on Gaussian quadrature rule has been developed. Its performance is evaluated for improper integrals, rapidly oscillating functions and other types of functions requiring a large number of evaluations. This performance is compared against the other quadrature routines written for MATLAB in terms of capability, accuracy and computation time. It is found that our routine rates quite favourably.

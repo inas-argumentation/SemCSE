@@ -1,0 +1,2 @@
+Generalized Baire Category and Differential Inclusions in Banach Spaces
+Soit E un espace de Banach separable reflexif et on considere le probleme de Cauchy x˙(t)∈F(x(t)), x(0)=x 0 ∈E, ou F est une fonction multiforme continue de Hausdorff a valeurs bornees, fermees. On demontre l'existence locale d'une solution en supposant que la fermeture convexe de F(x 0 ) a une codimension finie

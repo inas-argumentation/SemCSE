@@ -1,0 +1,2 @@
+Three-dimensional object reconstruction from orthogonal projections
+Abstract Techniques for the reconstruction of three-dimensional objects from orthogonal projections are described. When two projections are available, the object is divided into thin slices and the slices are individually reconstructed. When three projections are available, heuristic reconstruction techniques are discussed.

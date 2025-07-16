@@ -1,0 +1,2 @@
+Controlling Chaos with Artificial Neural Network: Numerical Studies and Experiments
+Although there are a number of theoretically suggested chaos control methods using artificial neural networks (ANN), experimental tests are still lacking. In this paper, we report on experimental chaos control during the electrochemical dissolution of copper in phosphoric acid. The neural network implementation of simple proportional and recursive feedback algorithms is presented.

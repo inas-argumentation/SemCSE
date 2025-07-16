@@ -1,0 +1,2 @@
+A HYBRID BOUNDARY ELEMENT METHOD IN THREE-DIMENSIONAL THERMOELASTIC PROBLEM
+The fundamental solutions of displacements and stresses in infinite three-dimensionalbody due to a unit heat source are given in the present paper. Based on a fictitious heat source, thehybrid boundary element method for three-dimensional thermoelastic problems is outlined. Usingthe hybrid element method the numerical process is simplified greatly, since the discrehzationwithin the body is avoided. Examples are provided to show the validity and high accuracy of themethod.

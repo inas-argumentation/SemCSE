@@ -1,0 +1,2 @@
+Construction of Universal Instances for Loop-Free Network Databases Using a Join-Like Operation
+In this paper, we give a polynomial-time method to construct effectively the unique universal instance, using as few nulls as possible, from any loop-free network database, via a "minimal information" extension of natural join. Our results can be seen as concretely and quickly implementing the universal relation view for databases which are not pairwise consistent.

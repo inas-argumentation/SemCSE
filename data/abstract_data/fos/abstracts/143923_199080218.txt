@@ -1,0 +1,32 @@
+Automatic pollen recognition with the Rapid-E particle counter: the first-level procedure, experience and next steps
+Abstract. Pollen-induced allergies are among the most prevalent non-contagious
+diseases, with about a quarter of the European population being sensitive to various
+atmospheric bioaerosols. In most European countries, pollen information is
+based on a weekly-cycle Hirst-type pollen trap method. This method is
+labour-intensive and requires narrow specialized abilities and substantial
+time, so that the pollen data are always delayed and subject to sampling- and
+counting-related uncertainties. Emerging new approaches to automatic pollen
+monitoring can, in principle, allow for real-time availability of the data
+with no human involvement. The goal of the current paper is to evaluate the capabilities of the new
+Plair Rapid-E pollen monitor and to construct a first-level pollen
+recognition algorithm. The evaluation was performed for three devices
+located in Lithuania, Serbia and Switzerland, with independent calibration
+data and classification algorithms. The Rapid-E output data include
+multi-angle scattering images and the fluorescence spectra recorded at
+several times for each particle reaching the device. Both modalities of the
+Rapid-E output were treated with artificial neural networks (ANNs) and the
+results were combined to obtain the pollen type. For the first
+classification experiment, the monitor was challenged with a large variety
+of pollen types and the quality of many-to-many classification was
+evaluated. It was shown that in this case, both scattering- and
+fluorescence-based recognition algorithms fall short of acceptable quality.
+The combinations of these algorithms performed better, exceeding 80 %
+accuracy for 5 out of 11 species. Fluorescence spectra showed similarities
+among different species, ending up with three well-resolved groups: (Alnus,
+Corylus, Betula and Quercus), (Salix and Populus) and (Festuca, Artemisia and Juniperus). Within these groups, pollen is practically
+indistinguishable for the first-level recognition procedure. Construction
+of multistep algorithms with sequential discrimination of pollen inside
+each group seems to be one of the possible ways forward. In order to connect
+the classification experiment to existing technology, a short comparison
+with the Hirst measurements is presented and the issue of false positive
+pollen detections by Rapid-E is discussed.

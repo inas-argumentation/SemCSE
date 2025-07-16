@@ -1,0 +1,2 @@
+Numerical investigations of mismatch induced halos in intense charged particle beams
+In this paper, we discuss the parametric resonance model of halo creation, and compare it with self consistent simulation results. In particular, we employ two different initial distribution functions, and we find agreement with the particle‐core model, within the limitations of the latter. Furthermore, using a simple particle tracking algorithm, we are able to follow the trajectories of the halo particles, noting that a large number of them go through the core and re‐emerge later.

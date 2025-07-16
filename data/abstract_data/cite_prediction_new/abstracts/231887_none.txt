@@ -1,0 +1,2 @@
+Some periodic convolutional codes better than any fixed code
+Some (n_{o}=2; k_{o}=1) noncatastrophic periodic convolutional codes with memory M=4 are given that have the same free distance, d_{\infty} , as the best fixed code but have both a smaller number of paths of weight d_{\infty} per time instant and a smaller average number of information bit errors per such path for periods T=2, 3, 4 , and 5 . It is also shown that an (n_{0}, k_{0}) code of period T is equivalent to a fixed code with parameters (Tn_{0}, Tk_{0}) .

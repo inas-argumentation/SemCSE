@@ -1,0 +1,3 @@
+pFind: a novel database-searching software system for automated peptide and protein identification via tandem mass spectrometry
+SUMMARY
+Research in proteomics requires powerful database-searching software to automatically identify protein sequences in a complex protein mixture via tandem mass spectrometry. In this paper, we describe a novel database-searching software system called pFind (peptide/protein Finder), which employs an effective peptide-scoring algorithm that we reported earlier. The pFind server is implemented with the C++ STL, .Net and XML technologies. As a result, high speed and good usability of the software are achieved.

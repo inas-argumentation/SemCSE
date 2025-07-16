@@ -1,0 +1,2 @@
+Computational methods in Lagrangian and Eulerian hydrocodes
+Explicit finite element and finite difference methods are used to solve a wide variety of transient problems in industry and academia. Unfortunately, explicit methods are rarely discussed in detail in finite element text books. This paper reviews the basic explicit finite element and finite difference methods that are currently used to solve transient, large deformation problems in solid mechanics. A special emphasis has been placed on documenting methods that have not been previously published in journals.

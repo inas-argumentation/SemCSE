@@ -1,0 +1,31 @@
+Relationship between mortality and first-day events index from routinely gathered physiological variables in ICU patients.
+OBJECTIVE
+To test the hypothesis that the degree and duration of alterations in physiological variables routinely gathered by intensive care unit (ICU) monitoring systems during the first day of admission to the ICU, together with a few additional routinely recorded data, yield information similar to that obtained by traditional mortality prediction systems.
+
+
+DESIGN
+A prospective observational multicenter study (EURICUS II) was carried out.
+
+
+SETTING
+Fifty-five European ICUs.
+
+
+PATIENTS
+A total of 17,598 consecutive patients admitted to the ICU over a 10-month period.
+
+
+INTERVENTIONS
+None.
+
+
+MAIN VARIABLES OF INTEREST
+Hourly data were manually gathered on alterations or "events" in systolic blood pressure, heart rate and oxygen saturation throughout ICU stay to construct an events index and mortality prediction models.
+
+
+RESULTS
+The mean first-day events index was 6.37±10.47 points, and was significantly associated to mortality (p<0.001), with a discrimination capacity for hospital mortality of 0.666 (area under the ROC curve). A second index included this first-day events index, age, pre-admission location, and the Glasgow coma score. A model constructed with this second index plus diagnosis upon admission was validated by using the Jackknife method (Hosmer-Lemeshow, H=13.8554, insignificant); the area under ROC curve was 0.818.
+
+
+CONCLUSIONS
+A prognostic index with performance very similar to that of habitual systems can be constructed from routine ICU data with only a few patient characteristics. These results may serve as a guide for the possible automated construction of ICU prognostic indexes.

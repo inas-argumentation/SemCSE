@@ -1,0 +1,2 @@
+A Linguistically Informed Fusion Approach for Multimodal Depression Detection
+Automated depression detection is inherently a multimodal problem. Therefore, it is critical that researchers investigate fusion techniques for multimodal design. This paper presents the first ever comprehensive study of fusion techniques for depression detection. In addition, we present novel linguistically motivated fusion techniques, which we find outperform existing approaches.

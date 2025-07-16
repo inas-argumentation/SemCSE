@@ -1,0 +1,2 @@
+A contribution to the particle modeling of soap films
+A new computer approach to the modeling of soap films is described and implemented. Quasimolecular particles and forces are used to simulate actual molecular structure and forces. Detailed formulas and computer techniques are given. As an example, the approximation of a nontrivial soap film spanning two coaxial rings is constructed and displayed.

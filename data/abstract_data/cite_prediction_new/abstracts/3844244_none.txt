@@ -1,0 +1,2 @@
+Support Vector Machine Solvers Support Vector Machine Solvers
+Considerable efforts have been devoted to the implementation of efficient optimization method for solving the Support Vector Machine dual problem. This document proposes an historical perspective and and in depth review of the algorithmic and computational issues associated with this problem.

@@ -1,0 +1,2 @@
+Solving the problem of pixel defects in matrix displays based on characteristics of the human visual system
+Manufacturing active matrix displays without pixel defects or repairing all defect pixels is technically not possible at this moment. This paper presents a totally new approach: defects are made invisible to the user of the display by using pixel-dataprocessing algorithms based on characteristics of the human visual system.

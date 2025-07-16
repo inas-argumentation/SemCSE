@@ -1,0 +1,19 @@
+Sources and contents of air pollution affecting term low birth weight in Los Angeles County, California, 2001-2008.
+BACKGROUND
+Low birth weight (LBW, <2500 g) has been associated with exposure to air pollution, but it is still unclear which sources or components of air pollution might be in play. The association between ultrafine particles and LBW has never been studied.
+
+
+OBJECTIVES
+To study the relationships between LBW in term born infants and exposure to particles by size fraction, source and chemical composition, and complementary components of air pollution in Los Angeles County (California, USA) over the period 2001-2008.
+
+
+METHODS
+Birth certificates (n=960,945) were geocoded to maternal residence. Primary particulate matter (PM) concentrations by source and composition were modeled. Measured fine PM, nitrogen dioxide and ozone concentrations were interpolated using empirical Bayesian kriging. Traffic indices were estimated. Associations between LBW and air pollution metrics were examined using generalized additive models, adjusting for maternal age, parity, race/ethnicity, education, neighborhood income, gestational age and infant sex.
+
+
+RESULTS
+Increased LBW risks were associated with the mass of primary fine and ultrafine PM, with several major sources (especially gasoline, wood burning and commercial meat cooking) of primary PM, and chemical species in primary PM (elemental and organic carbon, potassium, iron, chromium, nickel, and titanium but not lead or arsenic). Increased LBW risks were also associated with total fine PM mass, nitrogen dioxide and local traffic indices (especially within 50 m from home), but not with ozone. Stronger associations were observed in infants born to women with low socioeconomic status, chronic hypertension, diabetes and a high body mass index.
+
+
+CONCLUSIONS
+This study supports previously reported associations between traffic-related pollutants and LBW and suggests other pollution sources and components, including ultrafine particles, as possible risk factors.

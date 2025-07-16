@@ -1,0 +1,2 @@
+A 260 GHz fully integrated CMOS transceiver for wireless chip-to-chip communication
+A fully integrated 260GHz OOK transceiver is demonstrated in 65nm CMOS. Communication at 10Gb/s has been verified over a range of 40 mm. The Tx/Rx dual on-chip antenna array is implemented with half-width leaky wave antennas. Each Tx consists of a quadrupler driven by a class-D−1 PA with a distributed OOK modulator, and outputs +5 dBm of EIRP. The Rx uses a double balanced mixer to down-convert to a V-band IF signal that is amplified with a wideband IF driver and demoduated on-chip.

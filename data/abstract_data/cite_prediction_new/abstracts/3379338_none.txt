@@ -1,0 +1,2 @@
+Planar inverted-f antenna (PIFA) design for millimeter wave application
+This paper presented the analysis and characterization of a single planar inverted-F antenna (PIFA) operating with 28 GHz frequency. The PIFA design is extended to dual element Multiple Input Multiple Output (MIMO) antenna. PIFA design is used as it is one of the most promising antenna types because it is small and has a low profile, making it suitable for mounting in mobile devices. Computer Simulation Technology (CST) software is used to design the proposed antenna.

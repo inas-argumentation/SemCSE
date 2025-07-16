@@ -1,0 +1,2 @@
+A two-echelon inventory system with priority shipments
+A two-echelon system for spare parts is analyzed. The system allows the use of priority inventory pooling to expedite service when a stock-out occurs. First, a tractable aggregate model is derived. This model is then disaggregated to approximate the performance of the exact system. Results of computer tests are also presented.

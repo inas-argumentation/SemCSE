@@ -1,0 +1,2 @@
+Interferometric array imaging in clutter
+We introduce a space-time interferometric array imaging functional that provides statistically stable images in cluttered environments. We also present a resolution theory for this imaging functional that relates the space-time coherence of the data to the range and cross-range resolution of the image. Extensive numerical simulations illustrate the theory and address some implementation issues.

@@ -1,0 +1,2 @@
+PROJECTIONS ONTO SYMMETRIC SPACES
+Abstract The projection constants λ(X n) of real n-dimensional symmetric spaces X n satisfy asymptotically λ(X n) ⪯ √n—4/√n which is smaller than for general spaces. For small dimensions, specific numerical values are obtained. For n = 2, we reprove the result of D.R. Lewis that λ(X 2) ⪯ λ(l2 2) = 4/π for 2-dimensional symmetric spaces. If n > 2, however, λ(X n) is generally larger than λ(ln 2) for symmetric spaces. The method used is based on trace-duality and estimates involving symmetrically invariant spherical functions.

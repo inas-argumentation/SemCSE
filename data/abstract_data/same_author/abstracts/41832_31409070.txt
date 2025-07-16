@@ -1,0 +1,2 @@
+Hermite interpolation with a pair of spirals
+Abstract The Hermite interpolation problem in the plane considered here is to join two points and to match given unit tangent vectors and signed curvatures at the two points with various G 2 curves consisting of a pair of spirals. The rotation of the tangent vector of the interpolating curve from one point to the other is restricted to being less than π. The necessary and sufficient conditions for the existence of each of the various curves are given.

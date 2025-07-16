@@ -1,0 +1,2 @@
+New Binary Quantum Codes Derived From One Generator Quasi Cyclic Codes
+In this paper, we consider a family of one generator quasi cyclic (QC) codes and their applications in quantum codes construction. We give a sufficient condition for one generator QC codes to be self orthogonal with respect to the symplectic inner product. As the computational results, five new binary quantum codes with parameters [45,29,5] [63,36,7] [73,55,5] [105,71,7] and [105,72,7] improving the best known lower bounds on minimum distance in Grassl's code tables are constructed.

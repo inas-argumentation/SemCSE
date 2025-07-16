@@ -1,0 +1,2 @@
+Novelty, Question Answering and Genomics: The University of Iowa Response
+Our system for novelty this year comprises three distinct variations. The first is a refinement of that used for last year involving named entity occurrences and functions as a comparative baseline. The second variation extends the baseline system in an exploration of the connection between word sense and novelty. The third variation involves more statistical similarity schemes in the positive sense for relevance and the negative sense for novelty.

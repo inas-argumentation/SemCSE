@@ -1,0 +1,2 @@
+Modeling of surface acoustic wave strain sensors using coupling-of-modes analysis
+SAW devices may be configured as strain sensors, providing passive, wireless strain measurement in demanding conditions. A key consideration is the modeling of the sensors, enabling different device designs to be considered. This paper presents a simulation scheme using coupling-of-modes (COM) analysis which allows both the frequency response of a SAW strain sensor and its bias sensitivity to be evaluated. Example applications are presented to demonstrate the use of the model.

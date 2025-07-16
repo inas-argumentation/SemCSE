@@ -1,0 +1,15 @@
+Set-up errors and planning margins in planar and CBCT image-guided radiotherapy using three different imaging systems: A clinical study for prostate and head-and-neck cancer.
+PURPOSE
+The purpose of this work is to compare the positioning accuracy achieved by three different imaging techniques and planar vs. CBCT imaging for two common IGRT indications.
+
+
+METHODS
+A collective of prostate cancer and head-and-neck cancer patients treated at our institution during the year 2013 was retrospectively analyzed. For all treatment fractions (3078 in total), the kind of acquired set-up image and the performed couch shift before treatment were assessed. The distribution of couch corrections was compared for three different imaging systems available at our institution: the treatment beam line operating at 6 MV, a dedicated imaging beam line of nominally 1 MV, and the kVision system at 70-121 kV. Shifts were analyzed for planar and cone-beam CT images. Based on the set-up corrections, CTV to PTV expansion margins were calculated.
+
+
+RESULTS
+The difference in set-up corrections performed for the three energies and both techniques (planar vs. CBCT) was not significant for head-and-neck cancer patients. For prostate cancer all shifts had equal variance. Averages ranged from -0.7 to +0.7 mm. The set-up margins calculated on the basis of the observed shifts are 4.0 mm (AP) and 3.8 mm (SI, LR) for the head-and-neck PTV and 6.6 mm (SI), 6.7 mm (AP) and 7.9 mm (LR) for the prostate cancer patients.
+
+
+CONCLUSIONS
+For three different linac-based imaging energies and planar/CBCT imaging, no relevant differences in set-up shifts were observed. The suggested set-up margins for these indications are of the order of 4 mm for head-and-neck and 6-8 mm for prostate treatment.

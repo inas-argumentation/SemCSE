@@ -1,0 +1,2 @@
+Comments on Program Slicing
+This correspondence points out some of the problems with Weiser's algorithm [5] for computing program slices. Corrections are made to Weiser's algorithm. It is shown how Weiser's algorithm can be amended to handle loops. Advantages of the Bergeretti and Carre's approach [1] are discussed.

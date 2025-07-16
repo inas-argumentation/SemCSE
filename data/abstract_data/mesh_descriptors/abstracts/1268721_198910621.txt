@@ -1,0 +1,19 @@
+Novel relative relevance score for estimating brain connectivity from fMRI data using an explainable neural network approach
+BACKGROUND
+Functional integration or connectivity in brain is directional, non-linear as well as variable in time-lagged dependence. Deep neural networks (DNN) have become an indispensable tool everywhere, by learning higher levels of abstract and complex patterns from raw data. However, in neuroscientific community they generally work as black-boxes, leading to the explanation of results difficult and less intuitive. We aim to propose a brain-connectivity measure based on an explainable NN (xNN) approach.
+
+
+NEW METHOD
+We build a NN-based predictor for regression problem. Since we aim to determine the contribution/relevance of past data-point from one region i in the prediction of current data-point from another region j, i.e. the higher-order connectivity between two brain-regions, we employ layer-wise relevance propagation (Bach et al., 2015) (LRP, a method for explaining DNN predictions), which has not been done before to the best of our knowledge. Specifically, we propose a novel score depending on weights as a quantitative measure of connectivity, called as relative relevance score (xNN-RRS). The RRS is an intuitive and transparent score. We provide an interpretation of the trained NN weights with-respect-to the brain-connectivity.
+
+
+RESULTS
+Face validity of our approach is demonstrated with experiments on simulated data, over existing methods. We also demonstrate construct validity of xNN-RRS in a resting-state fMRI experiment.
+
+
+COMPARISON
+Our approach shows superior performance, in terms of accuracy and computational complexity, over existing state-of-the-art methods for brain-connectivity estimation.
+
+
+CONCLUSION
+The proposed method is promising to serve as a first post-hoc explainable NN-approach for brain-connectivity analysis in clinical applications.

@@ -1,0 +1,2 @@
+DOUBLY NONLINEAR PARABOLIC EQUATIONS INVOLVING p-LAPLACIAN OPERATORS VIA TIME-DISCRETIZATION METHOD
+In this paper, we consider a doubly nonlinear parabolic par- tial differential equation @�(u) @tpu + f(x,t,u) = 0 in × (0,T), with Dirichlet boundary condition and initial data given. We prove the exis- tence of a discrete approximate solution by means of the Rothe discretiza- tion in time method under some conditions on �, f and p.

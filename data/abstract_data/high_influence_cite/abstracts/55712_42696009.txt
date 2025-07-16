@@ -1,0 +1,2 @@
+Optimal Policy and Simple Algorithm for a Deteriorated Multi-Item EOQ Problem
+This paper considers a deteriorated multi-item economic order quantity (EOQ) problem, which has been studied in literature, but the algorithms used in the literature are limited. In this paper, we explore the optimal policy of this inventory problem by analyzing the structural properties of the model, and introduce a simple algorithm for generating the optimal solution to this problem. Numerical results are reported to show effi-cacy of the proposed method.

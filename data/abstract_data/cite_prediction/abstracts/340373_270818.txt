@@ -1,0 +1,2 @@
+Classifying Semantic Relations in Bioscience Texts
+A crucial step toward the goal of automatic extraction of propositionalinformationfrom naturallanguagetext is the identificationof semanticrelations betweenconstituentsin sentences.We examinethe problemof distinguishing amongsevenrelationtypesthatcanoccurbetweentheentities“treatment”and “disease” in biosciencetext, and the problemof identifyingsuchentities.We comparefive generati ve graphicalmodels anda neuralnetwork, usinglexical, syntactic,andsemanticfeatures,finding that thelatterhelpachieve high classificationaccuracy.

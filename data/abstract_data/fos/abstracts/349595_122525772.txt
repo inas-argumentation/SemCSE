@@ -1,0 +1,2 @@
+Maximized Posttest Contrasts: A Clarification.
+Williams (7) recently commented on some problems of maximized contrasts for ANOVA situations when the cell sizes are unequal. A resolution is offered which demonstrates that a contrast is maximized relative to the analysis used to compute the sum of squares between groups. Hence, the maximized contrast is insured of being significant, conditionally, when the overall F test is significant. The problem of interpreting a maximum contrast is also discussed.

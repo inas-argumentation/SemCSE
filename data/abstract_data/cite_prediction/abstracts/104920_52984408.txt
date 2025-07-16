@@ -1,0 +1,2 @@
+Application for Text Processing of Cardiology Medical Records
+This paper approaches the problem of processing medical records with the aim of data analysis from a larger set of domain specific medical data. We solve this problem in cooperation with doctors from Department of Cardiology of the East Slovak Institute of Cardiovascular Disease. For this purpose, we designed, implemented and tested first prototype of a software system able to read and process medical records about cardiological patients and provide anonymized data for further analysis.

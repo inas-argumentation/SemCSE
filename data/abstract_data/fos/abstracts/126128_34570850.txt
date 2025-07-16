@@ -1,0 +1,15 @@
+SU-D-206-04: Iterative CBCT Scatter Shading Correction Without Prior Information.
+PURPOSE
+To estimate and remove the scatter contamination in the acquired projection of cone-beam CT (CBCT), to suppress the shading artifacts and improve the image quality without prior information.
+
+
+METHODS
+The uncorrected CBCT images containing shading artifacts are reconstructed by applying the standard FDK algorithm on CBCT raw projections. The uncorrected image is then segmented to generate an initial template image. To estimate scatter signal, the differences are calculated by subtracting the simulated projections of the template image from the raw projections. Since scatter signals are dominantly continuous and low-frequency in the projection domain, they are estimated by low-pass filtering the difference signals and subtracted from the raw CBCT projections to achieve the scatter correction. Finally, the corrected CBCT image is reconstructed from the corrected projection data. Since an accurate template image is not readily segmented from the uncorrected CBCT image, the proposed scheme is iterated until the produced template is not altered.
+
+
+RESULTS
+The proposed scheme is evaluated on the Catphan©600 phantom data and CBCT images acquired from a pelvis patient. The result shows that shading artifacts have been effectively suppressed by the proposed method. Using multi-detector CT (MDCT) images as reference, quantitative analysis is operated to measure the quality of corrected images. Compared to images without correction, the method proposed reduces the overall CT number error from over 200 HU to be less than 50 HU and can increase the spatial uniformity.
+
+
+CONCLUSION
+An iterative strategy without relying on the prior information is proposed in this work to remove the shading artifacts due to scatter contamination in the projection domain. The method is evaluated in phantom and patient studies and the result shows that the image quality is remarkably improved. The proposed method is efficient and practical to address the poor image quality issue of CBCT images. This work is supported by the Zhejiang Provincial Natural Science Foundation of China (Grant No. LR16F010001), National High-tech R&D Program for Young Scientists by the Ministry of Science and Technology of China (Grant No. 2015AA020917).

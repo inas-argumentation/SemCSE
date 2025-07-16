@@ -1,0 +1,2 @@
+Approximation and Hardness Results for the Maximum Edges in Transitive Closure Problem
+In this paper we study the following problem, named Maximum Edges in Transitive Closure, which has applications in computational biology. Given a simple, undirected graph \(G = (V,E)\) and a coloring of the vertices, remove a collection of edges from the graph such that each connected component is colorful (i.e., it does not contain two identically colored vertices) and the number of edges in the transitive closure of the graph is maximized.

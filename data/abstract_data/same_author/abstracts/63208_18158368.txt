@@ -1,0 +1,2 @@
+Publishing Math Lecture Notes as Linked Data
+We mark up a corpus of ${\mbox{\LaTeX}}$ lecture notes semantically and expose them as Linked Data in XHTML+MathML+RDFa. Our application makes the resulting documents interactively browsable for students. Our ontology helps to answer queries from students and lecturers, and paves the path towards an integration of our corpus with external sites.

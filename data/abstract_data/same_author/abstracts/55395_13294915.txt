@@ -1,0 +1,2 @@
+Voxelisation: Modelling for Volume Graphics
+Voxelisation is the term given to the process of converting data from one source type into a three dimensional volume of data values. The techniques known collectively as volume visualisation can then be applied to the data in order to produce a graphical representation of the object. This paper gives a new practical approach to the voxelisation of data which fills the entire volume. Its use is demonstrated on various datasets such as triangular mesh objects, CT data, and objects defined by trivariate functions.

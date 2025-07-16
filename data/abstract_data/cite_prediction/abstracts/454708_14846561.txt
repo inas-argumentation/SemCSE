@@ -1,0 +1,19 @@
+“When ‘Bad’ is ‘Good’”: Identifying Personal Communication and Sentiment in Drug-Related Tweets
+BACKGROUND
+To harness the full potential of social media for epidemiological surveillance of drug abuse trends, the field needs a greater level of automation in processing and analyzing social media content.
+
+
+OBJECTIVES
+The objective of the study is to describe the development of supervised machine-learning techniques for the eDrugTrends platform to automatically classify tweets by type/source of communication (personal, official/media, retail) and sentiment (positive, negative, neutral) expressed in cannabis- and synthetic cannabinoid-related tweets.
+
+
+METHODS
+Tweets were collected using Twitter streaming Application Programming Interface and filtered through the eDrugTrends platform using keywords related to cannabis, marijuana edibles, marijuana concentrates, and synthetic cannabinoids. After creating coding rules and assessing intercoder reliability, a manually labeled data set (N=4000) was developed by coding several batches of randomly selected subsets of tweets extracted from the pool of 15,623,869 collected by eDrugTrends (May-November 2015). Out of 4000 tweets, 25% (1000/4000) were used to build source classifiers and 75% (3000/4000) were used for sentiment classifiers. Logistic Regression (LR), Naive Bayes (NB), and Support Vector Machines (SVM) were used to train the classifiers. Source classification (n=1000) tested Approach 1 that used short URLs, and Approach 2 where URLs were expanded and included into the bag-of-words analysis. For sentiment classification, Approach 1 used all tweets, regardless of their source/type (n=3000), while Approach 2 applied sentiment classification to personal communication tweets only (2633/3000, 88%). Multiclass and binary classification tasks were examined, and machine-learning sentiment classifier performance was compared with Valence Aware Dictionary for sEntiment Reasoning (VADER), a lexicon and rule-based method. The performance of each classifier was assessed using 5-fold cross validation that calculated average F-scores. One-tailed t test was used to determine if differences in F-scores were statistically significant.
+
+
+RESULTS
+In multiclass source classification, the use of expanded URLs did not contribute to significant improvement in classifier performance (0.7972 vs 0.8102 for SVM, P=.19). In binary classification, the identification of all source categories improved significantly when unshortened URLs were used, with personal communication tweets benefiting the most (0.8736 vs 0.8200, P<.001). In multiclass sentiment classification Approach 1, SVM (0.6723) performed similarly to NB (0.6683) and LR (0.6703). In Approach 2, SVM (0.7062) did not differ from NB (0.6980, P=.13) or LR (F=0.6931, P=.05), but it was over 40% more accurate than VADER (F=0.5030, P<.001). In multiclass task, improvements in sentiment classification (Approach 2 vs Approach 1) did not reach statistical significance (eg, SVM: 0.7062 vs 0.6723, P=.052). In binary sentiment classification (positive vs negative), Approach 2 (focus on personal communication tweets only) improved classification results, compared with Approach 1, for LR (0.8752 vs 0.8516, P=.04) and SVM (0.8800 vs 0.8557, P=.045).
+
+
+CONCLUSIONS
+The study provides an example of the use of supervised machine learning methods to categorize cannabis- and synthetic cannabinoid-related tweets with fairly high accuracy. Use of these content analysis tools along with geographic identification capabilities developed by the eDrugTrends platform will provide powerful methods for tracking regional changes in user opinions related to cannabis and synthetic cannabinoids use over time and across different regions.

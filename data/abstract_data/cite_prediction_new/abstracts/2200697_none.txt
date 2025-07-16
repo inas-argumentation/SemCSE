@@ -1,0 +1,2 @@
+VS-Diagrams Identification and Classification Using Neural Networks
+VS (Virtual Supervisor) Diagrams, defined from the FPM (Finite Positions Machines) framework, are used to model, analyze and validate automated manufacturing systems and they are obtained, in a practical way, from the PLC (Programmable Logic Controller) signals. This current paper presents a neural network architecture in order to identify that type of diagrams. It is made up of a supervised Hebb neural network cascade linked to a recurrent Hopfield network.

@@ -1,0 +1,2 @@
+Receiving and Implementation Method of Down-link Compressed Mode in WCDMA FDD
+At first, we analyze the Compressed Mode in WCDMA FDD, and then we mainly discuss the way to process the Compressed Frames of the Downlink. At last, we provide the structure of hardware implementation of Compressed Mode data interface unit.

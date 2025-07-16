@@ -1,0 +1,2 @@
+Robust Adaptive Control Using Neural Networks and Projection
+By using differential neural networks, we present a novel robust adaptive controller for a class of unknown nonlinear systems. First, dead-zone and projection techniques are applied to neural model, such that the identification error is bounded and the weights are different from zero. Then, a linearization controller is designed based on the neuro identifier. Since the approximation capability of the neural networks is limited, four kinds of compensators are addressed.

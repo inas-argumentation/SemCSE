@@ -1,0 +1,2 @@
+Optical Character Recognition Based Speech Synthesis System Using LabVIEW
+Knowledge extraction by just listening to sounds is a distinctive property. Speech signal is more effective means of communication than text because blind and visually impaired persons can also respond to sounds. This paper aims to develop a cost effective, and user friendly optical character recognition (OCR) based speech synthesis system. The OCR based speech synthesis system has been developed using Laboratory virtual instruments engineering workbench (LabVIEW) 7.1.

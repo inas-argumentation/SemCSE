@@ -1,0 +1,4 @@
+Vertex Degrees of Steiner Minimal Trees in ℓpd and Other Smooth Minkowski Spaces
+. We find upper bounds for the degrees of vertices and Steiner points in Steiner Minimal Trees (SMTs) in the d -dimensional Banach spaces 
+ $ \ell$ pd independent of d . This is in contrast to Minimal Spanning Trees, where the maximum degree of vertices grows exponentially in d [19]. Our upper bounds follow from characterizations of singularities of SMTs due to Lawlor and Morgan [14], which we extend, and certain 
+ $ \ell$ p -inequalities. We derive a general upper bound of d+1 for the degree of vertices of an SMT in an arbitrary smooth d -dimensional Banach space (i.e. Minkowski space); the same upper bound for Steiner points having been found by Lawlor and Morgan. We obtain a second upper bound for the degrees of vertices in terms of 1 -summing norms.

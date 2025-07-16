@@ -1,0 +1,2 @@
+Hybrid Collaborative Recommendation via Semi-AutoEncoder
+In this paper, we present a novel structure, Semi-AutoEncoder, based on AutoEncoder. We generalize it into a hybrid collaborative filtering model for rating prediction as well as personalized top-n recommendations. Experimental results on two real-world datasets demonstrate its state-of-the-art performances.

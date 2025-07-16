@@ -1,0 +1,2 @@
+Notes on Convolutional Neural Networks
+We discuss the derivation and implementation of convolutional neural networks, followed by an extension which allows one to learn sparse combinations of feature maps. The derivation we present is specific to two-dimensional data and convolutions, but can be extended without much additional effort to an arbitrary number of dimensions. Throughout the discussion, we emphasize efficiency of the implementation, and give small snippets of MATLAB code to accompany the equations.

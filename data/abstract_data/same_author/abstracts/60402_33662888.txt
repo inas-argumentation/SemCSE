@@ -1,0 +1,2 @@
+Hamiltonicity of 2-connected claw-center independent graphs
+In this paper, we give the following result: Let G be a 2-connected graph of order n ⩾ 13 and n ⩽ 2σ2 − 3, where σ2 = min{d(u) + d(v): uv ∉ E(G)}. If the set of claw-centers of G is independent, then either G is hamiltonian or G belongs to three classes of exceptional graphs. The bound n ⩽ 2σ2 − 3 is sharp.

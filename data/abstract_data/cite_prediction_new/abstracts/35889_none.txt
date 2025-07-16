@@ -1,0 +1,15 @@
+An RF dosimeter for independent SAR measurement in MRI scanners.
+PURPOSE
+The monitoring and management of radio frequency (RF) exposure is critical for ensuring magnetic resonance imaging (MRI) safety. Commercial MRI scanners can overestimate specific absorption rates (SAR) and improperly restrict clinical MRI scans or the application of new MRI sequences, while underestimation of SAR can lead to tissue heating and thermal injury. Accurate scanner-independent RF dosimetry is essential for measuring actual exposure when SAR is critical for ensuring regulatory compliance and MRI safety, for establishing RF exposure while evaluating interventional leads and devices, and for routine MRI quality assessment by medical physicists. However, at present there are no scanner-independent SAR dosimeters.
+
+
+METHODS
+An SAR dosimeter with an RF transducer comprises two orthogonal, rectangular copper loops and a spherical MRI phantom. The transducer is placed in the magnet bore and calibrated to approximate the resistive loading of the scanner's whole-body birdcage RF coil for human subjects in Philips, GE and Siemens 3 tesla (3T) MRI scanners. The transducer loop reactances are adjusted to minimize interference with the transmit RF field (B1) at the MRI frequency. Power from the RF transducer is sampled with a high dynamic range power monitor and recorded on a computer. The deposited power is calibrated and tested on eight different MRI scanners. Whole-body absorbed power vs weight and body mass index (BMI) is measured directly on 26 subjects.
+
+
+RESULTS
+A single linear calibration curve sufficed for RF dosimetry at 127.8 MHz on three different Philips and three GE 3T MRI scanners. An RF dosimeter operating at 123.2 MHz on two Siemens 3T scanners required a separate transducer and a slightly different calibration curve. Measurement accuracy was ∼3%. With the torso landmarked at the xiphoid, human adult whole-body absorbed power varied approximately linearly with patient weight and BMI. This indicates that whole-body torso SAR is on average independent of the imaging subject, albeit with fluctuations.
+
+
+CONCLUSIONS
+Our 3T RF dosimeter and transducers accurately measure RF exposure in body-equivalent loads and provide scanner-independent assessments of whole-body RF power deposition for establishing safety compliance useful for MRI sequence and device testing.

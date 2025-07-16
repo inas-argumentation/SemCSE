@@ -1,0 +1,2 @@
+NCBI BLAST: a better web interface
+Basic Local Alignment Search Tool (BLAST) is a sequence similarity search program. The public interface of BLAST, http:/www.ncbi.nlm.nih.gov/blast, at the NCBI website has recently been reengineered to improve usability and performance. Key new features include simplified search forms, improved navigation, a list of recent BLAST results, saved search strategies and a documentation directory. Here, we describe the BLAST web application's new features, explain design decisions and outline plans for future improvement.

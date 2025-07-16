@@ -1,0 +1,2 @@
+GUIDELINES FOR HANDHELD MOBILE DEVICE INTERFACE DESIGN
+While there has been much successful work in developing rules to guide the design and implementation of interfaces for desktop machines and their applications, the design of mobile device interfaces is still relatively unexplored and unproven. This paper discusses the characteristics and limitations of current mobile device interfaces, especially compared to the desktop environment. Using existing interface guidelines as a starting point, a set of practical design guidelines for mobile device interfaces is proposed.

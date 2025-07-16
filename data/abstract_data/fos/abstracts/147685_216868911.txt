@@ -1,0 +1,2 @@
+A Triangular Network For Density Estimation
+We report a triangular neural network implementation of neural autoregressive flow (NAF). Unlike many universal autoregressive density models, our design is highly modular, parameter economy, computationally efficient, and applicable to density estimation of data with high dimensions. It achieves state-of-the-art bits-per-dimension indices on MNIST and CIFAR-10 (about 1.1 and 3.7, respectively) in the category of general-purpose density estimators.

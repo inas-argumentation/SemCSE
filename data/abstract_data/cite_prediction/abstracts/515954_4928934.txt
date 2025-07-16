@@ -1,0 +1,2 @@
+An R2R-DAC-Based Architecture for Equalization-Equipped Voltage-Mode PAM-4 Wireline Transmitter Design
+This brief presents a wireline transmitter architecture, enabling multilevel signaling with feedforward equalization (FFE) in voltage-mode. A compact R2R-DAC-based front end is proposed and analyzed in terms of its speed, power consumption, and linearity. A voltage-mode PAM-4 transmitter with 2-tap FFE utilizing the proposed architecture is implemented in the 65-nm CMOS technology. It achieves a data rate of 34 Gb/s and an energy efficiency of 2.7 mW/Gb/s.

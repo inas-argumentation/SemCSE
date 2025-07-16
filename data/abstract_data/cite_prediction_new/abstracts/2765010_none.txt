@@ -1,0 +1,2 @@
+Analysis and synthesis: multi-agent systems in the social sciences
+Although they flow from a common source, the uses of multi-agent systems (or ‘agent-based computational systems’––ACE) vary between the social sciences and computer science. The distinction can be broadly summarized as analysis versus synthesis, or explanation versus design. I compare and contrast these uses, and discuss sufficiency and necessity in simulations in general and in multi-agent systems in particular, with a computer science audience in mind.

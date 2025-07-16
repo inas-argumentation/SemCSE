@@ -1,0 +1,2 @@
+Compressed Sensing MRI
+This article reviews the requirements for successful compressed sensing (CS) describes their natural fit to MRI, and gives examples of four interesting applications of CS in MRI. The authors emphasize on an intuitive understanding of CS by describing the CS reconstruction as a process of interference cancellation. There is also an emphasis on the understanding of the driving factors in applications, including limitations imposed by MRI hardware, by the characteristics of different types of images, and by clinical concerns.

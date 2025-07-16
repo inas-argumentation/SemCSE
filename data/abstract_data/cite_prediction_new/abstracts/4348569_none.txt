@@ -1,0 +1,2 @@
+A Benchmark Dataset for Human Activity Recognition and Ambient Assisted Living
+We present a data benchmark for the assessment of human activity recognition solutions, collected as part of the EU FP7 RUBICON project, and available to the scientific community. The dataset provides fully annotated data pertaining to numerous user activities and comprises synchronized data streams collected from a highly sensor-rich home environment. A baseline activity recognition performance obtained through an Echo State Network approach is provided along with the dataset.

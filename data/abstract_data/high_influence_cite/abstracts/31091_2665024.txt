@@ -1,0 +1,2 @@
+ON MULTILINEAR SPECTRAL CLUSTER ESTIMATES FOR MANIFOLDS WITH BOUNDARY
+We prove bilinear and trilinear estimates for the spectral cluster operator on two and three-dimensional compact manifolds with boundary. These are the natural analogs of earlier estimates for the boundaryless case of Burq, G\'erard, and Tzvetkov~\cite{bgtbilin}, \cite{bgtmultilin}. Our theorem reduces to establishing inequalities over small cubes whose size depends on frequency. After rescaling, these inequalities follow from mixed $L^p$ norm estimates on squarefunctions associated to the wave equation.

@@ -1,0 +1,2 @@
+How to Use the SOINN Software: User's Guide (Version 1.0)
+The Self-Organizing Incremental Neural Network (SOINN) is an unsupervised classifier that is capable of online incremental learning. Studies have been performed not only for improving the SOINN, but also for applying it to various problems. Furthermore, using the SOINN, more intelligent functions are achieved, such as association, reasoning, and so on. In this paper, we show how to use the SOINN software and to apply it to the above problems.

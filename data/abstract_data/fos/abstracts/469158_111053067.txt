@@ -1,0 +1,7 @@
+INTERNAL MODEL CONTROL FOR A CONTINUOUS, SNACK FOOD FRYING PROCESS USING NEURAL NETWORKS
+Based on a developed neural network one-step-ahead prediction model with two inputs and two outputs, an 
+internal model control (IMC) loop is established for process control of a continuous, snack food frying process. In this 
+multivariable control loop, each control action is computed iteratively by a modified Newton’s and gradient descent 
+methods to inverse the process prediction model equation at each time instant. Using this control loop, the time-lags 
+between the process inputs and outputs are compensated. Results of controller simulation of the continuous, snack food 
+frying process are presented.

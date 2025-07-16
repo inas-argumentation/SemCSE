@@ -1,0 +1,2 @@
+Discrete Wavelet Transforms in the Large Time-Frequency Analysis Toolbox for MATLAB/GNU Octave
+The discrete wavelet transform module is a recent addition to the Large Time-Frequency Analysis Toolbox (LTFAT). It provides implementations of various generalizations of Mallat's well-known algorithm (iterated filterbank) such that completely general filterbank trees, dual-tree complex wavelet transforms, and wavelet packets can be computed. The resulting transforms can be equivalently represented as filterbanks and analyzed as filterbank frames using fast algorithms.

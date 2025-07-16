@@ -1,0 +1,2 @@
+Simulated annealing and object point processes: Tools for analysis of spatial patterns
+This paper introduces a three-dimensional object point process—the Bisous model—that can be used as a prior for three-dimensional spatial pattern analysis. Maximization of likelihood or penalized-likelihood functions based on this model requires global optimization techniques, such as the simulated annealing algorithm. Theoretical properties of the model are discussed and the convergence of the proposed optimization method is proved. Finally, a simulation study is presented.

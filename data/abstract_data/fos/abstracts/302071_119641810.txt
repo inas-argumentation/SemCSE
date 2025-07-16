@@ -1,0 +1,2 @@
+On the euclidean distance between biased estimators
+The purpose of this paper is to extend the results achieved by Hsuan (1981) to a wide class of biased estimators. It is shown that in the case of multicollinearity ridge and Iteration estimator can be made very close to the principal component estimator whereas the shrunken estimator does not have this property.

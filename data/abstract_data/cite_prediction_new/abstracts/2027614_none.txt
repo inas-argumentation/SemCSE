@@ -1,0 +1,2 @@
+Boltzmann transport equation based supply function for tunnelling from inversion layers
+In this work, we purpose a general formulation of the supply function based on the Boltzmann transport equation, for tunnelling of minority carriers from an inverted semiconductor surface. When properly simplified, the obtained expression reduces to two terms, corresponding to carriers in the inversion layer and thermally generated in the semiconductor, and satisfies the quasi-equilibrium and extreme non-equilibrium limiting cases.

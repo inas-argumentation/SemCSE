@@ -1,0 +1,3 @@
+Intrinsically Linked Graphs with Knotted Components
+We construct a graph G such that any embedding of G into R^{3} contains a nonsplit link of two components, where at least one of the components is a nontrivial knot. Further, for any m < n we produce a graph H so that every embedding of H contains a nonsplit n component link, where at least m of the components are nontrivial knots. 
+We then turn our attention to complete graphs and show that for any given n, every embedding of a large enough complete graph contains a two component link whose linking number is a nonzero multiple of n.

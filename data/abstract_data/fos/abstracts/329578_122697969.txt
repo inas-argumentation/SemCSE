@@ -1,0 +1,2 @@
+A spatially discrete model for aggregating populations
+. In this paper we introduce a spatially discrete model for aggregating populations described by a system of ODEs. We study the long time behavior of the solutions and we show that the model contains mechanisms by which individuals in the population aggregate at particular points in space.

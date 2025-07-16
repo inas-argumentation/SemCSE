@@ -1,0 +1,2 @@
+Advanced Modulation Formats for High Capacity Optical Transport Networks
+Advanced optical modulation formats have become a key ingredient to the design of modern wavelength division multiplexed (WDM) optically routed networks. In this paper, we review the generation and detection of multigigabit/second intensity and phase modulated formats and highlight their resilience to key impairments found in optical networking, such as optical amplifier noise, chromatic dispersion, polarization mode dispersion, WDM crosstalk, concatenated optical filtering, and fiber nonlinearity

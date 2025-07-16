@@ -1,0 +1,7 @@
+The PSIPRED protein structure prediction server
+SUMMARY
+The PSIPRED protein structure prediction server allows users to submit a protein sequence, perform a prediction of their choice and receive the results of the prediction both textually via e-mail and graphically via the web. The user may select one of three prediction methods to apply to their sequence: PSIPRED, a highly accurate secondary structure prediction method; MEMSAT 2, a new version of a widely used transmembrane topology prediction method; or GenTHREADER, a sequence profile based fold recognition method.
+
+
+AVAILABILITY
+Freely available to non-commercial users at http://globin.bio.warwick.ac.uk/psipred/

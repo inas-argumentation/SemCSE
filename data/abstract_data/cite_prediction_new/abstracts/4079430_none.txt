@@ -1,0 +1,2 @@
+Modified projection method for pseudomonotone variational inequalities
+We consider and analyze a new projection method for solving pseudomonotone variational inequalities by modifying the extragradient method. The modified method converges for pseudomonotone Lipschitz continuous operators, which is a much weaker condition than monotonicity. The new iterative method differs from the existing projection methods. Our proof of convergence is very simple as compared with other methods.

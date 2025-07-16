@@ -1,0 +1,2 @@
+Efficient Sanitization of Unsafe Data Correlations
+In this paper, we present a study to counter privacy violation due to unsafe data correlation. We propose a safe correlation requirement to keep correlated values bounded by l-diversity and evaluate the trade-o to be made for the sake of a strong privacy guarantee. Finally, we present a correlation sanitization algorithm that enforces our safety constraint and demonstrates its eciency.

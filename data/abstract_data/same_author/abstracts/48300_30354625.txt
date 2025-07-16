@@ -1,0 +1,2 @@
+A class of full Steiner minimal trees
+A Steiner minimal tree for a given set of points in the plane is a tree which interconnects these points using lines of shortest possible total length. We construct an infinite class of trees which are the unique full Steiner minimal trees for their sets of endpoints (vertices of degree one).

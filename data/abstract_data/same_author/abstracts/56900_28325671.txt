@@ -1,0 +1,4 @@
+Inverse parametric sequence alignment
+We consider the inverse parametric sequence alignment problem, where a sequence alignment, called a reference alignment, is given and the task is to determine parameter values such that the reference alignment is optimal for those parameter values. The goal is to produce biologically meaningful alignments, by using reference alignments as a training set. 
+ 
+We describe a O(mn log n)-time algorithm for inverse global alignment without gap penalty and a O(mn log m) time algorithm for global alignment with gap penalty, where m, n (n ≤ m) are the lengths of input strings. We then discuss algorithms for local alignment and multiple sequence alignment.

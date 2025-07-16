@@ -1,0 +1,2 @@
+Multi-Class Classification Using a New Sigmoid Loss Function for Minimum Classification Error (MCE)
+A new loss function has been introduced for Minimum Classification Error, that approaches optimal Bayes' risk and also gives an improvement in performance over standard MCE systems when evaluated on the Aurora connected digits database.

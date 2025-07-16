@@ -1,0 +1,2 @@
+On the Limitations of Locally Robust Positive Reductions
+Polynomial-time positive reductions, as introduced by Selman, are by definition globally robust — they are positive with respect to all oracles. This paper studies the extent to which the theory of positive reductions remains intact when their global robustness assumption is removed.

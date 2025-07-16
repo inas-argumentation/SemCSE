@@ -1,0 +1,15 @@
+Noninvasive imaging of transcriptionally restricted transgene expression following intratumoral injection of an adenovirus in which the COX-2 promoter drives a reporter gene.
+PURPOSE
+To demonstrate the efficacy of repeated, non-invasive optical imaging of reporter gene expression in monitoring the ability of bi-specific recombinant molecules (i) to "transductionally untarget" adenovirus from Coxsackie and Adenovirus Receptor (CAR)-dependent infection of normal tissue and (ii) to "transductionally retarget" infection to specific target cells.
+
+
+PROCEDURES
+sCAR-EGF is a recombinant, bi-specific molecule containing the soluble portion of CAR fused to Epidermal Growth Factor. The sCAR moiety binds to the virus and blocks CAR-dependent adenovirus infection. The EGF moity binds to cellular EGF receptors. We used non-invasive optical imaging of firefly luciferase to repeatedly monitor, in living animals, the ability of sCAR-EGF (i) to "transductionally untarget" systemically administered Ad.CMVfLuc, an adenovirus that constitutively expresses luciferase, from normal tissues and (ii) to "transductionally redirect" adenovirus infection in mice to xenograft tumors that express elevated epidermal growth factor (EGF) receptor levels.
+
+
+RESULTS
+Systemic injection of sCAR-EGF "coated" adenovirus expressing firefly luciferase from the CMV early promoter, reduces expression of the reporter gene in the liver and facilitates expression of the reporter gene in tumor xenografts expressing high levels of the EGF-receptor.
+
+
+CONCLUSION
+Both liver "untargeting" and tumor "retargeting" of adenovirus by recombinant sCAR-EGF can be imaged non-invasively using a luciferase reporter gene.

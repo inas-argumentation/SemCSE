@@ -1,0 +1,21 @@
+Improved source apportionment of organic aerosols in complex urban air pollution using the multilinear engine (ME-2)
+. Organic aerosols (OAs), which consist of thousands of complex
+compounds emitted from various sources, constitute one of the major
+components of fine particulate matter. The traditional positive matrix
+factorization (PMF) method often apportions aerosol mass spectrometer (AMS)
+organic datasets into less meaningful or mixed factors, especially in complex
+urban cases. In this study, an improved source apportionment method using a
+bilinear model of the multilinear engine (ME-2) was applied to OAs collected
+during the heavily polluted season from two Chinese megacities located in the
+north and south with an Aerodyne high-resolution aerosol mass spectrometer
+(HR-ToF-AMS). We applied a rather novel procedure for utilization of prior
+information and selecting optimal solutions, which does not necessarily
+depend on other studies. Ultimately, six reasonable factors were clearly
+resolved and quantified for both sites by constraining one or more factors:
+hydrocarbon-like OA (HOA), cooking-related OA (COA), biomass burning OA
+(BBOA), coal combustion (CCOA), less-oxidized oxygenated OA (LO-OOA) and
+more-oxidized oxygenated OA (MO-OOA). In comparison, the traditional PMF
+method could not effectively resolve the appropriate factors, e.g., BBOA and
+CCOA, in the solutions. Moreover, coal combustion and traffic emissions were
+determined to be primarily responsible for the concentrations of PAHs and BC,
+respectively, through the regression analyses of the ME-2 results.

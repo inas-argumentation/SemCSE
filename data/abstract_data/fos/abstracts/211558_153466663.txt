@@ -1,0 +1,2 @@
+The Maximal Generic Number of Pure Nash Equilibria
+For finite pure strategy setsS1, …, SnifE⊂S=S1×…×Snis the set of pure strategy Nash equilibria for an open set of payoffs vectors, then #E⩽#S/(maxi#Si). There is an open set of payoff vectors for which there are #S/(maxi#Si) pure Nash equilibria.Journal of Economic Literature, Classification Number C72.

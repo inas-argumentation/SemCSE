@@ -1,0 +1,2 @@
+Bipartite graphs with small third Laplacian eigenvalue
+In this paper, all connected bipartite graphs are characterized whose third largest Laplacian eigenvalue is less than three. Moreover, the result is used to characterize all connected bipartite graphs with exactly two Laplacian eigenvalues not less than three, and all connected line graphs of bipartite graphs with the third eigenvalue of their adjacency matrices less than one.

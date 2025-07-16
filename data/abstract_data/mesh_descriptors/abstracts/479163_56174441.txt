@@ -1,0 +1,7 @@
+Risk Stratification for Screening Mammography: Benefits and Harms.
+OBJECTIVE
+The purpose of this article is to compare commonly used breast cancer risk assessment models, describe the machine learning approach and big data in risk prediction, and summarize the potential benefits and harms of restrictive risk-based screening.
+
+
+CONCLUSION
+The commonly used risk assessment models for breast cancer can be complex and cumbersome to use. Each model incorporates different sets of risk factors, which are weighted differently and can produce different results for the same patient. No model is appropriate for all subgroups of the general population and only one model incorporates mammographic breast density. Future development of risk prediction tools that are generalizable and simpler to use are needed in guiding clinical decisions.

@@ -1,0 +1,2 @@
+The quaternionic weighted zeta function of a graph
+We establish the quaternionic weighted zeta function of a graph and its Study determinant expressions. For a graph with quaternionic weights on arcs, we define a zeta function by using an infinite product, which is regarded as the Euler product. This is a quaternionic extension of the square of the Ihara zeta function. We show that the new zeta function can be expressed as the exponential of a generating function and that it has two Study determinant expressions, which are crucial for the theory of zeta functions of graphs.

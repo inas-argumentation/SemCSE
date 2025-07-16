@@ -1,0 +1,7 @@
+Gene selection using a two-level hierarchical Bayesian model
+SUMMARY
+The fundamental problem of gene selection via cDNA data is to identify which genes are differentially expressed across different kinds of tissue samples (e.g. normal and cancer). cDNA data contain large number of variables (genes) and usually the sample size is relatively small so the selection process can be unstable. Therefore, models which incorporate sparsity in terms of variables (genes) are desirable for this kind of problem. This paper proposes a two-level hierarchical Bayesian model for variable selection which assumes a prior that favors sparseness. We adopt a Markov chain Monte Carlo (MCMC) based computation technique to simulate the parameters from the posteriors. The method is applied to leukemia data from a previous study and a published dataset on breast cancer.
+
+
+SUPPLEMENTARY INFORMATION
+http://stat.tamu.edu/people/faculty/bmallick.html.

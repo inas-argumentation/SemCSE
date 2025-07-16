@@ -1,0 +1,2 @@
+Broadcasting in Faulty Cube-Connected-Cycles with Minimum Recovery Time
+We propose a broadcasting algorithm for a faulty Cube-Connected-Cycles multiprocessor. The broadcasting algorithm delivers a message to all the nodes non-redundantly using a binomial tree. The traffic generated because of the recovery is guaranteed to be minimum.

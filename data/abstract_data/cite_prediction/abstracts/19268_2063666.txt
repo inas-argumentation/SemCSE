@@ -1,0 +1,2 @@
+Program and Interface Slicing for Reverse Engineering
+Reverse engitwering involves a great deal of effort in comprehension of the current implementation of a software system and the ways in which it differs from the original design. Automated suppo~ tools are critical to the success of such efforts. We show how program slicing techniques can be employed to assist in the comprehension of large software systems, through traditional slicing techniques at the statement level, and through a new technique, interjace slicing, at the module level.

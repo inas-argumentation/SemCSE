@@ -1,0 +1,2 @@
+UML to B: Formal Verification of Object-Oriented Models
+The integration of UML and formal methods such as B and SMV provides a bridge between graphical specification techniques usable by mainstream software engineers, and precise analysis and verification techniques, essential for the development of high integrity and critical systems. In this paper we define a translation from UML class diagrams into B, which is used to verify the consistency of UML models and to verify that expected properties of these models hold.

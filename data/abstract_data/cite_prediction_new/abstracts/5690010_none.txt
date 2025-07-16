@@ -1,0 +1,2 @@
+The Distribution of Ascents of Size d or More in Partitions of n
+A partition of a positive integer n is a finite sequence of positive integers a1, a2, . . ., ak such that a1+a2+ċ ċ ċ+ak=n and ai+1 ≥ ai for all i. Let d be a fixed positive integer. We say that we have an ascent of size d or more if ai+1 ≥ ai+d. We determine the mean, the variance and the limiting distribution of the number of ascents of size d or more (equivalently, the number of distinct part sizes of multiplicity d or more) in the partitions of n.

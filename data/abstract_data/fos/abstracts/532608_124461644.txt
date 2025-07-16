@@ -1,0 +1,2 @@
+TWO GENERALIZED CONFORMING QUADRILATERAL THICK PLATE ELEMENTS BASED ON ANALYTICAL TRIAL FUNCTIONS
+Two generalized conforming quadrilateral thick plate elements are developed in this paper. From the governing equations of Mindlin-Reissner plate theory, the fundamental analytical solutions are first derived and then used as the trial functions to formulate the element. Numerical examples show that the proposed elements, ATF-PQ4a and ATF-PQ4b, are free from shear locking and exhibit excellent performance.

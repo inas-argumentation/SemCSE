@@ -1,0 +1,3 @@
+Gabriel meshes and Delaunay edge flips
+We undertake a study of the local properties of 2-Gabriel meshes: manifold triangle meshes each of whose faces has an open Euclidean diametric ball that contains no mesh vertices. We show that, under mild constraints on the dihedral angles, such meshes are Delaunay meshes: the open geodesic circumdisk of each face contains no mesh vertex.
+ The analysis is done by means of the Delaunay edge flipping algorithm and it reveals the details of the distinction between these two mesh structures. In particular we observe that the obstructions which prohibit the existence of Gabriel meshes as homeomorphic representatives of smooth surfaces do not hinder the construction of Delaunay meshes.

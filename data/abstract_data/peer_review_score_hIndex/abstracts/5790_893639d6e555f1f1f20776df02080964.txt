@@ -1,0 +1,17 @@
+Differential Equation Networks
+Most deep neural networks use simple, fixed activation functions, such
+as sigmoids or rectified linear units, regardless of domain or
+network structure. We introduce differential equation networks, an
+improvement to modern neural networks in which each neuron learns the
+particular nonlinear activation function that it requires. We show
+that enabling each neuron with the ability to learn its own activation
+function results in a more compact network capable of achieving
+comperable, if not superior performance when compared to much larger
+networks. We
+also showcase the capability of a differential equation neuron to
+learn behaviors, such as oscillation, currently only obtainable by a
+large group of neurons. The ability of
+differential equation networks to essentially compress a large neural network, without loss of overall performance
+makes them suitable for on-device applications, where predictions must
+be computed locally. Our experimental evaluation of real-world and toy
+datasets show that differential equation networks outperform fixed activatoin networks in several areas.

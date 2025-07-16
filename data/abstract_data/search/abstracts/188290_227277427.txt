@@ -1,0 +1,2 @@
+Development of Steering Control Algorithms with Self tuning Fuzzy PID for All terrain Cranes
+The study deals with the design of control algorithms to enhance the steering performance of all terrain cranes. For this, its hydraulic steering system was modeled using a multiphysics simulation tool and the self tuning fuzzy PID controller was developed to control hydraulic steering actuators with nonlinearities. The designed control algorithm was validated through co simulation using a real time simulator and showed satisfactory performance.

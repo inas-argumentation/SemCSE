@@ -1,0 +1,2 @@
+Towards Text Processing Pipelines to Identify Adverse Drug Events related Tweets: University of Michigan SMM4H 2019 Task 1
+We participated in Task 1 of the Social Media Mining for Health Applications (SMM4H) 2019 Shared Tasks on detecting mentions of adverse drug events (ADEs) in tweets. Our approach relied on a text processing pipeline for tweets, and training traditional machine learning and deep learning models. Our submitted runs performed above average for the task.

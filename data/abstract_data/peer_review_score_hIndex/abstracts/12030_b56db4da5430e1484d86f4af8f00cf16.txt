@@ -1,0 +1,11 @@
+Secure Quantized Training for Deep Learning
+We have implemented training of neural networks in secure multi-party
+computation (MPC) using quantization commonly used in said setting. To
+the best of our knowledge, we are the first to present training of
+MNIST purely implemented in MPC that comes within one percent of
+accuracy of training using plaintext computation.  We found that
+training with MPC is possible, but it takes more epochs and achieves a
+lower accuracy than the usual CPU/GPU computation.  More concretely,
+we have trained a network with two convolution and two dense layers to
+98.5% accuracy in 150 epochs. This took a day in our MPC
+implementation.

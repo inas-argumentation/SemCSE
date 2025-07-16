@@ -1,0 +1,2 @@
+Generalized Mann iterates for constructing fixed points in Hilbert spaces
+The mean iteration scheme originally proposed by Mann is extended to a broad class of relaxed, inexact fixed point algorithms in Hilbert spaces. Weak and strong convergence results are established under general conditions on the underlying averaging process and the type of operators involved. This analysis significantly widens the range of applications of mean iteration methods. Several examples are given.

@@ -1,0 +1,2 @@
+CSLDS: Chinese sign language dialog system
+We present a Chinese sign language dialog system (CSLDS) based on the technique of large vocabulary continuous Chinese sign language recognition (CSLR) and Chinese sign language synthesis (CSLS). This system can show the advance technology on gesture recognition and synthesis well and can apply to more powerful system combined with speech recognition and synthesis technology, which then can allow the convenient communication between deaf and hearing society.

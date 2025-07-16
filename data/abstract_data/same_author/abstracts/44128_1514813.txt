@@ -1,0 +1,2 @@
+Temporal Query Processing Using Spatially-Partitioned Method
+In this paper, we propose a general spatiallypartitioned temporal operation model, called 3D-TOM, and partition-based join algorithms for various types of temporal join in the proposed model. The temporal operators addressed in this paper include overlap, precede, follow, and equal. Some factors which a ect the performance of the proposed method are also discussed.

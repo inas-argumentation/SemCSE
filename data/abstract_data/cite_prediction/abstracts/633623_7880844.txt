@@ -1,0 +1,2 @@
+Turing Test as a Defining Feature of AI-Completeness
+The paper contributes to the development of the theory of AICompleteness by formalizing the notion of AI-Complete, C-Complete and AI-Hard problems. The intended goal is to provide a classification of problems in the field of Artificial General Intelligence. We prove Turing Test to be an instance of an AI-Complete problem and further show certain AI problems to be AI-Complete or AI-Hard via polynomial time reductions. Finally, the paper suggests some directions for future work on the theory of AI-Completeness.

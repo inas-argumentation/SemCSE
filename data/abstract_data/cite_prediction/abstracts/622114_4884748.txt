@@ -1,0 +1,2 @@
+3D Reconstruction of Human Skeleton from Single Images or Monocular Video Sequences
+In this paper, we first review the approaches to recover 3D shape and related movements of a human and then we present an easy and reliable approach to recover a 3D model using just one image or monocular video sequence. A simplification of the perspective camera model is required, due to the absence of stereo view. The human figure is reconstructed in a skeleton form and to improve the visual quality, a pre-defined human model is also fitted to the recovered 3D data.

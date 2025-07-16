@@ -1,0 +1,2 @@
+An overview of constraint-based path selection algorithms for QoS routing
+Constraint-based path selection aims at identifying a path that satisfies a set of quality of service (QoS) constraints. In general, this problem is known to be NP-complete, leading to the proposal of many heuristic algorithms. We provide an overview of these algorithms, focusing on restricted shortest path and multi-constrained path algorithms.

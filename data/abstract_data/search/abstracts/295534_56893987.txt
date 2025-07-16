@@ -1,0 +1,2 @@
+Genetic algorithms and their applications
+This article introduces the genetic algorithm (GA) as an emerging optimization algorithm for signal processing. After a discussion of traditional optimization techniques, it reviews the fundamental operations of a simple GA and discusses procedures to improve its functionality. The properties of the GA that relate to signal processing are summarized, and a number of applications, such as IIR adaptive filtering, time delay estimation, active noise control, and speech processing, that are being successfully implemented are described.

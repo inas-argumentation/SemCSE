@@ -1,0 +1,2 @@
+Restriction to Levi subalgebras and generalization of the category O
+The category of all modules over a reductive complex Lie algebra is wild, and therefore it is useful to study full subcategories. For instance, Bernstein, Gelfand and Gelfand introduced a category of modules which provides a natural setting for highest weight modules. In this paper, we define a family of categories which generalizes the BGG category, and we classify the simple modules for a subfamily. As a consequence, we show that some of the obtained categories are semisimple.

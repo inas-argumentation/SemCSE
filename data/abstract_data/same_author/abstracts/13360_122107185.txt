@@ -1,0 +1,2 @@
+A numerical test of the conjectured exact S-matrix of the 2D Ising model in a magnetic field
+The finite-size scaling functions of the correlation lengths in the 2D Ising model in a magnetic field are calculated numerically. The asymptotic behaviour in the limit of large scaling variables is studied and can be used to estimate the particle masses and coupling constants of the underlying effective field theory. The results are consistent with the conjectured minimal S-matrix obtained from the conformal bootstrap.

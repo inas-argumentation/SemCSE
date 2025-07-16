@@ -1,0 +1,2 @@
+The Contract Net Protocol: High-Level Communication and Control in a Distributed Problem Solver
+The contract net protocol has been developed to specify problem-solving communication and control for nodes in a distributed problem solver. Task distribution is affected by a negotiation process, a discussion carried on between nodes with tasks to be executed and nodes that may be able to execute those tasks.

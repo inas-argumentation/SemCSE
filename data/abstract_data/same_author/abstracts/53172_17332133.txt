@@ -1,0 +1,2 @@
+A Divergence Critic
+Inductive theorem provers often diverge. This paper describes a critic which monitors the construction of inductive proofs attempting to identify diverging proof attempts. The critic proposes lemmas and generalizations which hopefully allow the proof to go through without divergence. The critic enables the system SPIKE to prove many theorems completely automatically from the definitions alone.

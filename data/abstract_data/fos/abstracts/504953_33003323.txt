@@ -1,0 +1,15 @@
+SU-E-J-71: Dosimetric Evaluation of Image Based and Anatomical/physiological Model Based Deformable Registration Methods.
+PURPOSE
+To study the dosimetric differences of five image and anatomical/physiological model based registration methods.
+
+
+METHODS
+A lung patient with a tumor in the right middle lobe was studied. GTV and normal structures were contoured individually on ten breathing phases of 4DCT. Volume of GTV ranged from 23.3 cc on end-inhale phase p0 to 28.0 cc on end-exhale phase p50. The range of GTV motion was 0.37 cm in L-R, 0.28 cm in A-P and 0.54 cm in S-I directions. VMAT plans were generated on ten breathing phases and 4D composite doses were calculated by registering doses to p0. Five different registration methods were compared: (1) Rigid registration aligning the center of mass of the tumor; (2) B-spline deformable image registration; (3) Demons deformable image registration; (4) A physiological lung model based on 4DCT, measured pressure-volume data and finite element analysis and (5) a whole body non-uniform rational B-spline model based on 4DCT and contours of structures. The parameters of image registration and anatomical/physiological modeling were optimized so that the volume of the GTV and the lungs and the boundary between the GTV and the lungs were preserved.
+
+
+RESULTS
+All image and model based deformable registration methods gave very similar dose coverage to GTV and PTV and similar doses to normal structures including lungs, spinal cord, heart and esophagus. Rigid registration has higher minimum dose to the targets due to the fact that it does not account for tumor deformation.
+
+
+CONCLUSION
+All deformable registration methods with parameters chosen to preserve the volume of target and normal structures and the boundary between them will yield similar dosimetric results. For tumors whose volume changes among phases, deformable registration will give different results compared to rigid registration.

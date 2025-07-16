@@ -1,0 +1,2 @@
+Localized electrons on a lattice with incommensurate magnetic flux.
+The magnetic-field effects on lattice wave functions of Hofstadter electrons strongly localized at boundaries are studied analytically and numerically. The exponential decay of the wave function is modulated by a field-dependent amplitude J(t)=Π r=0 t-1 2cos(παr), where a is the magnetic flux per plaquette (in units of a flux quantum) and t is the distance from the boundary (in units of the lattice spacing). The behavior of |J(t)| is found to depend sensitively on the value of a

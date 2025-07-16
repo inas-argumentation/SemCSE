@@ -1,0 +1,2 @@
+Unfolding rules for GHC programs
+This paper presents a set of rules for the transformation of GHC (Guarded Horn Clauses) programs based on unfolding. The proposed set of rules, called UR-set, is shown to preserve freedom from deadlock and to preserve the set of solutions to be derived. UR-set is expected to give a basis for various program transformations, especially partial evaluation of GHC programs.

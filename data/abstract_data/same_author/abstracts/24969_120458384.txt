@@ -1,0 +1,6 @@
+On the reconstruction of a unitary matrix from its moduli
+We study the problem of reconstructing a unitary matrix from the knowledge of the moduli of its matrix elements, first in the case of a symmetric matrix, which could be theS matrix forn coupled channels, second in the case of a non-symmetric matrix like the Cabibbo-Kobayashi-Maskawa matrix forn generations of quarks and leptons. In the symmetric case we find conditions under which the problem has
+$$2^{(n^2 - 3n)/2} $$
+ solutions differing in a non-trivial way, but also situations where one has continuous ambiguities.In the non-symmetric case we show that forn>3 there may be continuous ambiguities, of which we give an exhaustic list forn=4. We give indications that there is also a set of moduli for which one has
+$$2^{(n^2 - 3n)/2} $$
+ discrete solutions, but no rigorous proof.

@@ -1,0 +1,2 @@
+General Size-Change Termination and Lexicographic Descent
+Size-change termination (SCT) is a general criterion to identify recursive function definitions that are guaranteed to terminate. It extends and subsumes the simpler criterion of lexicographic descent in function calls, which in classical recursion theory is known as multiple recursion . Neil Jones has conjectured that the class of functions computable by size-change terminating programs coincides with the multiply-recursive functions. This paper proves so.

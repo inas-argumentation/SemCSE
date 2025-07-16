@@ -1,0 +1,2 @@
+Global solutions to the volume-preserving mean-curvature flow
+In this paper, we construct global distributional solutions to the volume-preserving mean-curvature flow using a variant of the time-discrete gradient flow approach proposed independently by Almgren et al. (SIAM J Control Optim 31(2):387–438, 1993) and Luckhaus and Sturzenhecker (Calc Var Partial Differ Equ 3(2):253–271, 1995).

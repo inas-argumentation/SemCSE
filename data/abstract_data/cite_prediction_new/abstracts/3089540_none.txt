@@ -1,0 +1,2 @@
+HD and IMD prediction techniques for active filters
+Two single-domain techniques for evaluating the output distortion of nonlinear systems are described as a means of circumventing the time-frequency transformations of standard methods. These are compared with respect to accuracy, computational efficiency and flexibility for a bandpass active filter containing a saturation-type nonlinearity.<<ETX>>

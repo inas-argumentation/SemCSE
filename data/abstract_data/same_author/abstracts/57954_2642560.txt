@@ -1,0 +1,2 @@
+Forward-secure commercial key escrow systems
+Key escrow system has been studied widely in recent years to reduce the gap between the needs for individual privacy and the needs for public security. In this paper, we survey three popular key escrow products of Netscape's, VeriSign's and Entrust's. And we also propose forward-secure KESs (Key Escrow Systems) and analyze their security.

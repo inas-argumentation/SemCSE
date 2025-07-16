@@ -1,0 +1,2 @@
+Pauli Potential and Green-Function Monte-Carlo Method for Many-Fermion Systems
+Abstract. The time evolution of a many-fermion system can be described by a Green's function corresponding to an effective potential that takes anti-symmetrization of the wave function into account, called the Pauli potential. We show that this idea can be combined with the Green's-function Monte-Carlo method to accurately simulate a system of many non-relativistic fermions. The method is illustrated by the example of systems of several (2–9) fermions in a square well.

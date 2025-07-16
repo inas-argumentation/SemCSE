@@ -1,0 +1,2 @@
+Transfer matrix spectrum of two-dimensional layered Ising models
+A class of layered Ising models interpolating between the homogeneous Ising model and the McCoy-Wu model (1973) is studied. Critical exponents and the transfer matrix spectrum at the critical point are calculated numerically using finite-size scaling techniques and analytically by using an analogy with an electron gas in a crystal with impurities. The transfer matrix spectrum is compared with those of some strongly anisotropic critical systems.

@@ -1,0 +1,2 @@
+An analysis of memory power consumption in database systems
+The growing appetite for in-memory computing is increasing memory's share of total server power consumption. However, memory power consumption in database management systems is not well understood. This paper presents an empirical characterization of memory power consumption in database systems, for both analytical and transactional workloads. Our results indicate that memory power optimization will be effective only if it can reduce back-ground power through more aggressive use of low power memory idle states.

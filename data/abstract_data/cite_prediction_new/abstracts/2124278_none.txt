@@ -1,0 +1,15 @@
+Predicting hospital admission and returns to the emergency department for elderly patients.
+OBJECTIVES
+Methods to accurately identify elderly patients with a high likelihood of hospital admission or subsequent return to the emergency department (ED) might facilitate the development of interventions to expedite the admission process, improve patient care, and reduce overcrowding. This study sought to identify variables found among elderly ED patients that could predict either hospital admission or return to the ED.
+
+
+METHODS
+All visits by patients 75 years of age or older during 2007 at an academic ED serving a large community of elderly were reviewed. Clinical and demographic data were used to construct regression models to predict admission or ED return. These models were then validated in a second group of patients 75 and older who presented during two 1-month periods in 2008.
+
+
+RESULTS
+Of 4,873 visits, 3,188 resulted in admission (65.4%). Regression modeling identified five variables statistically related to the probability of admission: age, triage score, heart rate, diastolic blood pressure, and chief complaint. Upon validation, the c-statistic of the receiver operating characteristic (ROC) curve was 0.73, moderately predictive of admission. We were unable to produce models that predicted ED return for these elderly patients.
+
+
+CONCLUSIONS
+A derived and validated triage-based model is presented that provides a moderately accurate probability of hospital admission of elderly patients. If validated experimentally, this model might expedite the admission process for elderly ED patients. Our models failed, as have others, to accurately predict ED return among elderly patients, underscoring the challenge of identifying those individuals at risk for early ED returns.

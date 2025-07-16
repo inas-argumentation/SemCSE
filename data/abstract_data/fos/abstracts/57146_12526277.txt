@@ -1,0 +1,2 @@
+A sliding window update for the basis matrix of the QR decomposition
+A method of updating the unitary basis matrix for QR decomposition by applying a sliding window to the input data is presented. The basis matrix update allows the recursive update to be applied to problems which require the tracking of a basis set, and the sliding-window feature gives this alternative update a superior nonstationary performance characteristic. >

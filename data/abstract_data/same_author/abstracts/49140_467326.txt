@@ -1,0 +1,2 @@
+An efficient parallel algorithm for finding rectangular duals of plane triangular graphs
+We present an efficient parallel algorithm for constructing rectangular duals of plane triangular graphs. This problem finds applications in VLSI design and floor-planning problems. No NC algorithm for solving this problem was previously known. The algorithm takesO(log2n) time withO(n) processors on a CRCW PRAM, wheren is the number of vertices of the graph.

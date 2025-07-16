@@ -1,0 +1,2 @@
+Abstract Model Checking of Infinite Specifications
+A new method for analyzing specifications in languages like Z and VDM is proposed. Theorems are checked automatically by exhaustive search of the state space. An abstraction over the actual states can be defined that reduces an infinite state space to a finite number of equivalence classes, allowing it to be searched exhaustively by treating each class as a single abstract state. A prototype has been built that has verified some small theorems from the literature.

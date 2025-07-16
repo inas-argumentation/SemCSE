@@ -1,0 +1,2 @@
+Maximum genus and girth of graphs
+Abstract In this paper, a lower bound on the maximum genus of a graph in terms of its girth is established as follows: let G be a simple graph with minimum degree at least three, and let g be the girth of G. Then γ(G)⩾ g−2 2(g−1) β(G)+ 1 g−1 except for G=K 4 , where β(G) denotes the cycle rank of G and K4 is the complete graph with four vertices.

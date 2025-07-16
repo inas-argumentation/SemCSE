@@ -1,0 +1,2 @@
+An Improved Linear Syndrome Algorithm in Cryptanalysis With Applications
+A new algorithm is developed for making attacks to certain comparatively simple LFSR based ciphersystems. Special attention is paid towards minimizing the solution distance and guaranteeing the success probability of the attacks. The algorithm is then applied to crack the random bit generators of Geffe (1973) and Beth-Piper (1984).

@@ -1,0 +1,2 @@
+Error Resilient Mode Decision in Scalable Video Coding
+Error resilient macroblock mode decision has been extensively investigated in the literature for single-layer video coding, for which error resilient mode decision is also called as intra refresh. In this paper, we present a loss-aware rate-distortion optimized macroblock mode decision algorithm for scalable video coding, wherein more macroblock coding modes than intra and inter are involved. Thanks to the good performance, the proposed method has been adopted into the joint scalable video model by the joint video team.

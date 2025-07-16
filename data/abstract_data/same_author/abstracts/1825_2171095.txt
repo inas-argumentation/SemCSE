@@ -1,0 +1,2 @@
+Heterogeneous chip multiprocessors
+Heterogeneous (or asymmetric) chip multiprocessors present unique opportunities for improving system throughput, reducing processor power, and mitigating Amdahl's law. On-chip heterogeneity allow the processor to better match execution resources to each application's needs and to address a much wider spectrum of system loads - from low to high thread parallelism - with high efficiency.

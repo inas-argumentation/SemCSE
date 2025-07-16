@@ -1,0 +1,2 @@
+Q-valued neural network as a system of fast identification and pattern recognition
+An effective neural network algorithm of the perceptron type is proposed. The algorithm allows us to identify strongly distorted input vector reliably. It is shown that its reliability and processing speed are orders of magnitude higher than that of full connected neural networks. The processing speed of our algorithm exceeds the one of the stack fast-access retrieval algorithm that is modified for working when there are noises in the input channel.

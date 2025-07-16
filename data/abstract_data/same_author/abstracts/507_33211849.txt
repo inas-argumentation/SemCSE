@@ -1,0 +1,2 @@
+Hardness results and approximation algorithms for (weighted) paired-domination in graphs
+Let G=(V,E) be a simple graph without isolated vertices. A vertex set S@?V is a paired-dominating set if every vertex in V-S has a neighbor in S and the induced subgraph G[S] has a perfect matching. In this paper, we investigate the approximation hardness of paired-domination in graphs. For weighted paired-domination, an approximation algorithm in general graphs and an exact dynamic programming style algorithm in trees are also given.

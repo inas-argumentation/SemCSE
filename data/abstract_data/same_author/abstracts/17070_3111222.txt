@@ -1,0 +1,2 @@
+The data acquisition system for the ANTARES neutrino telescope
+The ANTARES neutrino telescope is being constructed in the Mediterranean Sea. It consists of a large three-dimensional array of photo-multiplier tubes. The data acquisition system of the detector takes care of the digitisation of the photo-multiplier tube signals, data transport, data filtering, and data storage. The detector is operated using a control program interfaced with all elements. The design and the implementation of the data acquisition system are described.

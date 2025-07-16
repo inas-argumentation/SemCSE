@@ -1,0 +1,2 @@
+Adaptive Transmit Diversity and Spatial Multiplexing for MIMO-OFDM Systems
+Space-time block coding (STBC) and Spatial multiplexing (SM) or BLAST (Bell Labs Layered Space-Time) are promise approaches that exploit the MIMO channel to provide higher data rates and diversity gains with no sacrifice in bandwidth. In this work, we present a hybrid MIMO scheme that combines transmit diversity and spatial multiplexing. The proposed scheme can achieve arbitrary number of multiplexing rate.

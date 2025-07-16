@@ -1,0 +1,2 @@
+Increasing stability for the inverse problem for the Schrödinger equation
+In this article, we study the increasing stability property for the determination of the potential in the Schrodinger equation from partial data. We shall assume that the inaccessible part of the boundary is flat, and homogeneous boundary condition is prescribed on this part. In contrast to earlier works, we are able to deal with the case when potentials have some Sobolev regularity and also need not be compactly supported inside the domain.

@@ -1,0 +1,15 @@
+Pharmacokinetic modelling of total and unbound plasma carboplatin--a population study in 75 children.
+AIMS
+A compartmental open model was developed to describe the relationship between plasma unbound (C.) and bound (CT) carboplatin concentrations. A population pharmacokinetic study was then undertaken to investigate the effect of demographic covariates on unbound and bound carboplatin clearance and volume parameters.
+
+
+METHODS
+Carboplatin and demographic data were collected from 75 children (1-17 years old, 10 children with unilateral nephrectomy) treated using 1-hour daily infusions for various malignancies. Concentration-time data, C(U) and C(T), from children with rich data were used to develop the model. The data from all children were then simultaneously analyzed using a population approach.
+
+
+RESULTS
+The average population values for total unbound carboplatin clearance, CL(U), and distribution volume of unbound carboplatin, VI, were 3.87 l/h and 6.26 l/h, respectively. The clearance of plasma-bound carboplatin was comparatively low, 0.11 l/h. CL(U) was dependent on weight, nephrectomy status and serum creatinine. A constant fraction of CL(U), 0.17 l/h, included the disappearance of unbound compound due to irreversible plasma binding. V1 was dependent on body weight. The unbound plasma carboplatin fraction (fu) was simulated and rapidly decreased with post-infusion time.
+
+
+CONCLUSIONS
+The body weight was a better predictor for unbound carboplatin clearance than body surface area, and UNP and SCr caused a reduction in clearance of unbound carboplatin, as previously reported. The rate ofcarboplatin plasma binding was low and not dependent on demographic patient characteristics. The f(U) of plasma carboplatin could be predicted as a function of time, infusion rate and covariates affecting CL(U), weight, UNP and SCr.

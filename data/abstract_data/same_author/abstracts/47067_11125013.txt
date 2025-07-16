@@ -1,0 +1,2 @@
+A self-stabilizing algorithm for coloring planar graphs
+SummaryThis paper describes an algorithm for coloring the nodes of a planar graph with no more than six colors using a self-stabilizing approach. The first part illustrates the coloring algorithm on a directed acyclic version of the given planar graph. The second part describes a selfstabilizing algorithm for generating the directed acyclic version of the planar graph, and combines the two algorithms into one.

@@ -1,0 +1,2 @@
+Finite Horizon Behavior of Policies for Two-Arm Bandits
+Abstract Monte Carlo experiments indicate that the widely publicized “Play-the-Winner” strategy for two-arm bandits does badly relative to certain other strategies for moderate finite horizons, say, more than 50 trials. These latter strategies are also long-run average optimal, whereas “Play-the Winner” is not. From the experiments, a particular long-run average optimal strategy is recommended on the basis of its empirical finite horizon behavior. Some implications for sequential testing are indicated.

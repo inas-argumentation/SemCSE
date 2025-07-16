@@ -1,0 +1,2 @@
+Model-Based Testing of Safety Critical Real-Time Control Logic Software
+The paper presents the experience of the authors in model based testing of safety critical real-time control logic software. It describes specifics of the corresponding industrial settings and discusses technical details of usage of UniTESK model based testing technology in these settings. Finally, we discuss possible future directions of safety critical software development processes and a place of model based testing techniques in it.

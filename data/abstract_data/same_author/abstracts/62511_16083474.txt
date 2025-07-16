@@ -1,0 +1,2 @@
+Performance Analysis of Non-Orthogonal Pulse Position Modulation for Time-Hopping UWB Transmission
+In this paper, we study the performance of non- orthogonal pulse position modulation (NPPM) for ultra-wideband (UWB) communication. Error probability and performance bounds are derived for a multi-user environment. It is shown that with proper selection of the pulse waveform and modulation index, NPPM can achieve better performance than orthogonal PPM with the same throughput.

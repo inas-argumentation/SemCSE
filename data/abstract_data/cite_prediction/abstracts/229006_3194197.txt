@@ -1,0 +1,2 @@
+Design considerations of 10kw wireless charger for EV
+This paper presents the design method of a 10kW wireless charger for electric vehicle (EV). The measured efficiency (DC-DC) is 94%. The designed wireless charger includes high frequency inverter, primary compensation network and coil, secondary compensation network and coil, and high frequency rectifier. Design procedures for each stage are elaborated. Simulation and experimental results validate the design methods.

@@ -1,0 +1,2 @@
+Message-locked encryption for lock-dependent messages
+Motivated by the problem of avoiding duplication in storage systems, Bellare, Keelveedhi, and Ristenpart have recently put forward the notion of Message-Locked Encryption (MLE) schemes which subsumes convergent encryption and its variants. Such schemes do not rely on permanent secret keys, but rather encrypt messages using keys derived from the messages themselves.

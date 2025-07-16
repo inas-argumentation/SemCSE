@@ -1,0 +1,2 @@
+Decomposition by clique separators
+Abstract We consider the problem of decomposing a graph by means of clique separators, by which we mean finding cliques (complete graphs) whose removal disconnects the graph. We give an O( nm )-time algorithm for finding a decomposition of an n -vertex, m -edge graph. We describe how such a decomposition can be used in divide-and-conquer algorithms for various graph problems, such as graph coloring and finding maximum independent sets. We survey classes of graphs for which such divide-and-conquer algorithms are especially useful.

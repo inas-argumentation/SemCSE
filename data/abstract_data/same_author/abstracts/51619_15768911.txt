@@ -1,0 +1,2 @@
+The Bottleneck Problem with Minimum Quantity Commitments
+Given an edge-distance graph of a set of suppliers and clients, the bottleneck problem is to assign each client to a selected supplier minimizing their maximum distance. We introduce minimum quantity commitments to balance workloads of suppliers, provide it a 3-approximation algorithm, and study its generalizations.

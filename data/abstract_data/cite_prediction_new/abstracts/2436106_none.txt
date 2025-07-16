@@ -1,0 +1,2 @@
+Nonuniform Dependence on Initial Data for Compressible Gas Dynamics: The Cauchy Problem on ℝ2
+The Cauchy problem for the two-dimensional compressible Euler equations with data in the Sobolev space $H^s(\mathbb R^2)$ is known to have a unique solution of the same Sobolev class for a short time, and the data-to-solution map is continuous. We prove that the data-to-solution map on the plane is not uniformly continuous on any bounded subset of Sobolev class functions.

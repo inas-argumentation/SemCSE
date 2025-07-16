@@ -1,0 +1,2 @@
+A general method for the existence of periodic solutions of differential systems in the plane
+We propose a general method to prove the existence of periodic solutions for planar systems of ordinary differential equations, which can be used in many different circumstances. Applications are given to some nonresonant cases, even for systems with superlinear growth in some direction, or with a singularity. Systems “at resonance” are also considered, provided a Landesman–Lazer type of condition is assumed.

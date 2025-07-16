@@ -1,0 +1,4 @@
+A hybrid knowledge-based approach to structured selection
+Structured Selection is modeled as a two-phase process: a front-end phase mapping the problem domain of environmental characteristics to the range of ideal selectable objects, and a back-end phase mapping the domain of ideal selectable objects to a range of actual selectable objects. Instead of using standard production rule techniques for both phases, the use of a smart but deterministic interobject closeness 1 metric is proposed for the second phase. 
+ 
+The advantages of such a hybrid approach to structured selection should include enhanced maintainability and facilitated combination of expertise from the environment domain with expertise from the selectable object domain.

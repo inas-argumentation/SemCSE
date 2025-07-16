@@ -1,0 +1,2 @@
+The stand-alone test and decreasing serial cost sharing
+Summary. The rule of decreasing serial cost sharing defined in de Frutos [1] over the class of concave cost functions may violate the important stand-alone test. Sufficient conditions for the test to be satisfied are given, in terms of individual rationality as well as coalitional stability. These conditions restrict the shape of the cost function and the distribution of demands.

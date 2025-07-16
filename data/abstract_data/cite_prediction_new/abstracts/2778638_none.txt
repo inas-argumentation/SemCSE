@@ -1,0 +1,2 @@
+Semiparametric Approach to Multichannel Blind Deconvolution of Nonminimum Phase Systems
+In this paper we discuss the semi parametric statistical model for blind deconvolution. First we introduce a Lie Group to the manifold of noncausal FIR filters. Then blind deconvolution problem is formulated in the framework of a semiparametric model, and a family of estimating functions is derived for blind deconvolution. A natural gradient learning algorithm is developed for training noncausal filters. Stability of the natural gradient algorithm is also analyzed in this framework.

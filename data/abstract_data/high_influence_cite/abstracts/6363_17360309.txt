@@ -1,0 +1,10 @@
+Projective metrics and contraction principles for complex cones
+In this article, we consider linearly convex complex cones in complex Banach spaces and we
+define a new projective metric on these cones. Compared to the hyperbolic gauge of Rugh,
+it has the advantages of being explicit and easier to estimate. We prove that this metric also
+satisfies a contraction principle similar to Birkhoff�s theorem for the Hilbert metric. We are thus
+able to improve existing results on spectral gaps for complex matrices. Finally, we compare the
+contraction principles for the hyperbolic gauge and our metric on particular cones, including
+complexification of Birkhoff cones. It appears that the contraction principles for our metric and
+the hyperbolic gauge occur simultaneously on these cones. However, we get better contraction
+rates with our metric.

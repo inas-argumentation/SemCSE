@@ -1,0 +1,15 @@
+Volume-of-interest cone-beam CT using a 2.35 MV beam generated with a carbon target.
+PURPOSE
+This is a proof-of-concept study addressing volume of interest (VOI) cone beam CT (CBCT) imaging using an x-ray beam produced by 2.35 MeV electrons incident on a carbon linear accelerator target. Methodology is presented relevant to VOI CBCT image acquisition and reconstruction. Sample image data are given to demonstrate and compare two approaches to minimizing artifacts arising from reconstruction with truncated projections. Dosimetric measurements quantify the potential dose reduction of VOI acquisition relative to full-field CBCT. The dependence of contrast-to-noise ratio (CNR) on VOI dimension is investigated.
+
+
+METHODS
+A paradigm is presented linking the treatment planning process with the imaging technique, allowing definition of an imaging VOI to be tailored to the geometry of the patient. Missing data in truncated projection images are completed using a priori information in the form of digitally reconstructed radiographs (DRRs) generated from the planning CT set. This method is compared to a simpler technique of extrapolating truncated projection data prior to reconstruction. The utility of these approaches is shown through imaging of a geometric phantom and the head-and-neck section of a lamb. The total scatter factor of the 2.35 MV∕carbon beam on field size is measured and compared to a standard therapeutic beam to estimate the comparative dose reduction inside the VOI. Thermoluminescent dosimeters and Gafchromic film measurements are used to compare the imaging dose distributions for the 2.35 MV∕carbon beam between VOI and full-field techniques. The dependence of CNR on VOI dimension is measured for VOIs ranging from 4 to 15 cm diameter.
+
+
+RESULTS
+Without compensating for missing data outside of truncated projections prior to reconstruction, pronounced boundary artifacts are present, in three dimensions, within 2-3 cm of the edges of the VOI. These artifacts, as well as cupping inside the VOI, can be reduced substantially using either the DRR filling or extrapolation techniques presented. Compared to 6 MV, the 2.35 MV∕carbon beam shows a substantially greater dependence of total scatter factor on field size, indicating a comparative advantage of the VOI approach when combined with the low-Z target beam. Dosimetric measurements in the anthropomorphic head phantom demonstrate a dose reduction by up to 15% and 75% inside and outside of the VOI, respectively, compared to full-field imaging. For the 2.35 MV∕carbon beam, CNR was shown to be approximately invariant with VOI dimension for bone and lung objects.
+
+
+CONCLUSIONS
+The low-Z target, VOI CBCT technique appears to be feasible and combines the desirable characteristics of the low-Z target beam with regard to CNR, with the capacity to localize the imaging dose to the anatomy relevant to the image guidance task.

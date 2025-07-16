@@ -1,0 +1,2 @@
+Proof of Bishop's volume comparison theorem using singular soap bubbles
+Bishop's volume comparison theorem states that a compact $n$-manifold with Ricci curvature larger than the standard $n$-sphere has less volume. While the traditional proof uses geodesic balls, we present another proof using isoperimetric hypersurfaces, also known as "soap bubbles," which minimize area for a given volume. Curiously, isoperimetric hypersurfaces can have codimension 7 singularities, an interesting challenge we are forced to overcome.

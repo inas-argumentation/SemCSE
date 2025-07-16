@@ -1,0 +1,2 @@
+The toric Hilbert scheme of a rank two lattice is smooth and irreducible
+The toric Hilbert scheme of a lattice L ⊆Zn is the multigraded Hilbert scheme parameterizing all homogeneous ideals I in S = k[x1,...,xn] such that the Hilbert function of the quotient S/I has value one for every g in the grading monoid G+ = Nn/ L. In this paper we show that if L is two-dimensional, then the toric Hilbert scheme of L is smooth and irreducible. This result is false for lattices of dimension three and higher as the toric Hilbert scheme of a rank three lattice can be reducible.

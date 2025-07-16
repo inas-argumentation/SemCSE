@@ -1,0 +1,2 @@
+AN EMBEDDED REAL-TIME CONTROL SYSTEMS LABORATORY ACTIVITY
+This report presents a prototype laboratory activity to be integrated in the education of embedded control systems engineers. The laboratory experiment includes the control by means of hard real-time software task of an electronic circuit. The selection of the plant, as well as the selection of the real-time kernel and hardware platform where the control task executes is discussed. The report describes details of carrying out the experiment, and establishes a tentative work plan.

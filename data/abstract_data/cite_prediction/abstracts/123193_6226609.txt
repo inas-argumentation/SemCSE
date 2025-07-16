@@ -1,0 +1,2 @@
+Predicting Yelp Star Ratings Based on Text Analysis of User
+We perform sentiment analysis based on Yelp user reviews. We treat a Yelp star rating of 4 or 5 as a positive sentiment and a rating of 1, 2 or 3 as a negative one. Various language models are used to obtain feature vectors and we implement three different algorithms, namely perceptron learning algorithm, Naive Bayes and SVM to predict sentiment. The performances of these three algorithms on this binary classification problem are discussed in this paper.

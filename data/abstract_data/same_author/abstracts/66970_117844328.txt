@@ -1,0 +1,2 @@
+Small Stochastic Perturbation of a One-Dimensional Wave Equation
+Carmona and Nualart have considered an ordinary wave equation which is perturbed by a non-linear forcing term. Under certain technical conditions, they have proved that the law of the solution at a fixed point has a smooth density. We study how the logarithm of this density behaves asymptotically if the stochastic perturbation is weak and we evaluate an expansion of the density around the unperturbed deterministic wave equation.

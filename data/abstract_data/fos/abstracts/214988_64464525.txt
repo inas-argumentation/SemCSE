@@ -1,0 +1,2 @@
+Research on Business Simulation of FTP Based on OPNET
+Verifies the significance of client response time and task processing time in FTP business through OPNET simulation,and analyses the influence in different background traffic,the result shows that the background of a large volume business largely impact FTP transfer service.

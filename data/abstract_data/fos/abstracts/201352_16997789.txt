@@ -1,0 +1,2 @@
+Derivation of fixed-interval smoothing algorithm using covariance information in distributed parameter systems
+This paper proposes a recursive least mean squared error fixed-interval smoothing algorithm in distributed parameter systems. It is assumed that the state-space model of the signal to be estimated is unknown, and the algorithm only requires the second-order moments of the signal and the white noise perturbing its observations. Practical application of the proposed algorithm is illustrated with a restoration image problem.

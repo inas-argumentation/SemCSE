@@ -1,0 +1,8 @@
+Matrix Models of 2D Gravity and Isomonodromic Deformation
+One of the principal goals of the theory of 2D gravity is making sense of the formal expression 
+ 
+$$Z\left( {\mu ,\kappa ;{t_i}} \right) = \sum\limits_h {{{\int_{ME{T_h}} {dge} }^{\mu \int {\sqrt g + k\int {\sqrt g } + k} }}} {Z_{QFT\left( {{t_i}} \right)}}\left[ g \right]$$ 
+ 
+(1.1) 
+ 
+where we integrate over metrics g on surfaces with h handles with a weight defined by the Einstein-Hilbert action (μ is the cosmological constant and κ is Newton’s constant, or, equivalently, the string coupling) together with the partition function of some 2D quantum field theory, QFT(t i ). The parameters t i are coordinates on a subspace of the space of 2D field theories, or, equivalently, coordinates for a space of string backgrounds.

@@ -1,0 +1,2 @@
+Prospective head motion correction using FID‐guided on‐demand image navigators
+We suggest a motion correction concept that employs free‐induction‐decay (FID) navigator signals to continuously monitor motion and to guide the acquisition of image navigators for prospective motion correction following motion detection.

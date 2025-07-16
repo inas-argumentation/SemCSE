@@ -1,0 +1,2 @@
+A Betatron Tune Fitting Package for the Tevatron 21.4 MHz Schottky
+The Fermilab Tevatron is equipped with two independent Schottky monitors for measurement of betatron tunes, one operating at 21.4 MHz and the other at 1.7 GHz. A new front-end and related data acquisition for the 21.4 MHz resonator has been installed and commissioned during the FY04 Collider RunII. Sophisticated fitting strategies are required to analyze the spectra. Optimization of this fitting package allows us to report tune and chromaticity measurements at almost 1 Hz.

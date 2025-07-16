@@ -1,0 +1,2 @@
+An improved PSO-based ANN with simulated annealing technique
+This paper presents a modified particle swarm optimization (PSO) with simulated annealing (SA) technique. An improved PSO-based artificial neural network (ANN) is developed. The results show that the proposed SAPSO-based ANN has a better ability to escape from a local optimum and is more effective than the conventional PSO-based ANN. r 2004 Elsevier B.V. All rights reserved.

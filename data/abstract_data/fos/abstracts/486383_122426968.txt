@@ -1,0 +1,2 @@
+Confidence Limits for the Reliability of Series Systems
+It is desired to set confidence limits for the probability of successful operation at least until time x 0 of a series system of k dissimilar components. The components follow exponential failure laws, and data are available on failure times of components of each type. Exact confidence limits for k = 2 have previously been given by Lentner and Buehler. The present paper deals with a large-sample approximation to the exact solution for arbitrary k.

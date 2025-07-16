@@ -1,0 +1,11 @@
+Reporting risks and benefits of therapy by use of the concepts of unqualified success and unmitigated failure: applications to highly cited trials in cardiovascular medicine.
+BACKGROUND
+The NNT (number needed to treat) and NNH (number needed to harm) are useful in conveying the results of clinical trials because they emphasize the effort that must be expended to accomplish a single, tangible outcome. But NNT conveys the effort required to achieve a positive outcome without distinguishing between the presence or absence of treatment-related adverse events. Similarly, NNH conveys harm without accounting for the achievement or lack of achievement of the benefit of therapy. Consequently, a mathematical model was developed to extend the NNT and NNH to represent the effort required to achieve "unqualified success" (NNTUS, treatment success without treatment-induced side effects) and "unmitigated failure" (NNHUF, lack of treatment success with treatment-induced side effects).
+
+
+METHODS AND RESULTS
+NNTUS was calculated by adjusting the absolute risk reduction to allow for the probability of not incurring a treatment-related adverse event. NNHUF was similarly calculated by adjusting the absolute risk of incurring a treatment-related adverse event by the probability of not incurring any treatment-related benefit. The impact of conveying clinical trial data by the use of NNT, NNTUS, NNH, and NNHUF is illustrated by means of 11 highly cited trials identified systematically from the cardiovascular literature. The treatment effort measured by the NNTUS and the NNHUF was consistently higher than that given by the traditional NNT and NNH. These increments ranged from 1% to several hundred percent.
+
+
+CONCLUSIONS
+The NNTUS and the NNHUF represent the treatment effort required on average to achieve 1 unqualified success and 1 unmitigated failure. NNTUS and NNHUF balance benefit and harm in an objective way and are relevant for making service delivery decisions.

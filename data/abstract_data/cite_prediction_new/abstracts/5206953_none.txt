@@ -1,0 +1,2 @@
+Complex dynamics of a memristor based Chua's canonical circuit
+In this paper the complex dynamics of Chua's canonical circuit with a memristor instead of a nonlinear resistor, was studied. The proposed memristor is a flux controlled memristor, where the relation between flux and charge is a smooth continuous cubic function. A very important phenomenon concerning Chaos theory, such us, the great sensitivity of the circuit on initial conditions, was studied thoroughly by using various techniques via computer simulations.

@@ -1,0 +1,11 @@
+A hidden Markov model for analyzing ChIP-chip experiments on genome tiling arrays and its application to p53 binding sequences
+MOTIVATION
+Transcription factors (TFs) regulate gene expression by recognizing and binding to specific regulatory regions on the genome, which in higher eukaryotes can occur far away from the regulated genes. Recently, Affymetrix developed the high-density oligonucleotide arrays that tile all the non-repetitive sequences of the human genome at 35 bp resolution. This new array platform allows for the unbiased mapping of in vivo TF binding sequences (TFBSs) using Chromatin ImmunoPrecipitation followed by microarray experiments (ChIP-chip). The massive dataset generated from these experiments pose great challenges for data analysis.
+
+
+RESULTS
+We developed a fast, scalable and sensitive method to extract TFBSs from ChIP-chip experiments on genome tiling arrays. Our method takes advantage of tiling array data from many experiments to normalize and model the behavior of each individual probe, and identifies TFBSs using a hidden Markov model (HMM). When applied to the data of p53 ChIP-chip experiments from an earlier study, our method discovered many new high confidence p53 targets including all the regions verified by quantitative PCR. Using a de novo motif finding algorithm MDscan, we also recovered the p53 motif from our HMM identified p53 target regions. Furthermore, we found substantial p53 motif enrichment in these regions comparing with both genomic background and the TFBSs identified earlier. Several of the newly identified p53 TFBSs are in the promoter region of known genes or associated with previously characterized p53-responsive genes.
+
+
+SUPPLEMENTARY INFORMATION
+Available at the following URL http://genome.dfci.harvard.edu/~xsliu/HMMTiling/index.html.

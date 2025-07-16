@@ -1,0 +1,15 @@
+Using text mining for study identification in systematic reviews: a systematic review of current approaches
+BACKGROUND
+The large and growing number of published studies, and their increasing rate of publication, makes the task of identifying relevant studies in an unbiased way for inclusion in systematic reviews both complex and time consuming. Text mining has been offered as a potential solution: through automating some of the screening process, reviewer time can be saved. The evidence base around the use of text mining for screening has not yet been pulled together systematically; this systematic review fills that research gap. Focusing mainly on non-technical issues, the review aims to increase awareness of the potential of these technologies and promote further collaborative research between the computer science and systematic review communities.
+
+
+METHODS
+Five research questions led our review: what is the state of the evidence base; how has workload reduction been evaluated; what are the purposes of semi-automation and how effective are they; how have key contextual problems of applying text mining to the systematic review field been addressed; and what challenges to implementation have emerged? We answered these questions using standard systematic review methods: systematic and exhaustive searching, quality-assured data extraction and a narrative synthesis to synthesise findings.
+
+
+RESULTS
+The evidence base is active and diverse; there is almost no replication between studies or collaboration between research teams and, whilst it is difficult to establish any overall conclusions about best approaches, it is clear that efficiencies and reductions in workload are potentially achievable. On the whole, most suggested that a saving in workload of between 30% and 70% might be possible, though sometimes the saving in workload is accompanied by the loss of 5% of relevant studies (i.e. a 95% recall).
+
+
+CONCLUSIONS
+Using text mining to prioritise the order in which items are screened should be considered safe and ready for use in 'live' reviews. The use of text mining as a 'second screener' may also be used cautiously. The use of text mining to eliminate studies automatically should be considered promising, but not yet fully proven. In highly technical/clinical areas, it may be used with a high degree of confidence; but more developmental and evaluative work is needed in other disciplines.

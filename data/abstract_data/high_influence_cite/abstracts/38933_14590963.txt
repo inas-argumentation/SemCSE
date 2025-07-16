@@ -1,0 +1,2 @@
+Nanophotonic Polarization Diversity Demultiplexer Chip
+We demonstrate a very compact multifunctional photonic-crystal demultiplexer on high index contrast InP-membrane for coarse WDM applications. Polarization diversity is implemented using 2D-grating couplers. The performance of the device is evaluated using integrated p-i-n photodetectors. Polarization diversity from fiber to detector-without intermediate functional device-results in a minimal polarization dependent loss (PDL) of 0.2 dB. This value increases to 1.1 dB when including the photonic-crystal demultiplexer.

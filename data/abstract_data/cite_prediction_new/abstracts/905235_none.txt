@@ -1,0 +1,5 @@
+Computational electrochemistry: aqueous one-electron oxidation potentials for substituted anilines
+Semiempirical molecular orbital theory and density functional theory are used to compute one-electron oxidation potentials for aniline and a set of 21 mono- and di-substituted anilines in aqueous solution. Linear relationships between theoretical predictions and experiment are constructed and provide mean unsigned errors as low as 0.02 V over a training set of 13 anilines; the error rises to 0.09 V over a test set of eight additional anilines. A good correlation is also found between oxidation potential and a simple computed property, 
+ namely the energy of the highest occupied molecular orbital for neutral anilines in aqueous solution. For the particular case of the substituted anilines, a strong correlation between oxidation potential and pKa is found, and a still stronger correlation between oxidation potential and 
+ physical 
+ organic descriptors for aromatic substituents is also found, albeit over a reduced data set.

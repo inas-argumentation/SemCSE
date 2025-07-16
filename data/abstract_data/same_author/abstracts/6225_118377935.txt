@@ -1,0 +1,2 @@
+Similarity renormalization group with novel generators
+The choice of generator in the Similarity Renormalization Group (SRG) flow equation determines the evolution pattern of the Hamiltonian. The kinetic energy has been used in the generator for most prior applications to nuclear interactions, and other options have been largely unexplored. Here we show how variations of this standard choice can allow the evolution to proceed more efficiently without losing its advantages.

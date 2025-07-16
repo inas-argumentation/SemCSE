@@ -1,0 +1,2 @@
+Nonparametric Regression Models for Data Streams Based on the Generalized Regression Neural Networks
+The literature concerning the supervised learning algorithms in data stream mining is dominated mainly by pattern classification methods. Only few of them deal with a non stationary regression. Most of them rely on the Gaussian or Markov models, extend Support Vector Machine or Extreme Learning Machine to regression problems, implement regression trees or polynomial regression for working in a non stationary environment. We will briefly describe these approaches.

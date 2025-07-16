@@ -1,0 +1,2 @@
+Fast Optimization for t-SNE
+The paper presents an alternative optimization technique for t-SNE that is orders of magnitude faster than the original optimization technique, and that produces results that are at least as good.

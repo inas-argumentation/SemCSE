@@ -1,0 +1,2 @@
+Low power design of an acoustic echo canceller Gmdf/spl alpha/ algorithm on dedicated VLSI architectures
+The acoustic echo cancellation with adaptive filters is a computationally intensive problem that needs real time cost effective solutions for embedded systems. Low power optimized signal processing architectures are likely to provide such solutions in the future. In this paper, we present different real-time optimized architectures of the popular Gmdf/spl alpha/ algorithm, obtained by an HLS CAD tool providing trade-off-between area and power dissipation.

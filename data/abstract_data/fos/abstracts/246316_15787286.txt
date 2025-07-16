@@ -1,0 +1,2 @@
+Computation of Two-Body Matrix Elements From the Argonne $v_{18}$ Potential
+We discuss the computation of two-body matrix elements from the Argonne $v_{18}$ interaction. The matrix elements calculation is presented both in particle-particle and in particle-hole angular momentum coupling. The procedures developed here can be applied to the case of other NN potentials, provided that they have a similar operator format.

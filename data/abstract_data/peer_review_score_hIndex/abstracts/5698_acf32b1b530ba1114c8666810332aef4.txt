@@ -1,0 +1,11 @@
+Design in the Dark: Learning Deep Generative Models for De Novo Protein Design
+The design of novel protein sequences is providing paths towards the development of novel therapeutics and materials. 
+Generative modelling approaches to design are emerging and to date have required conditioning on 3D protein structure-derived information, and unconditional models of protein sequences have so far performed poorly.
+Thus, it is unknown if unconditional generative models can learn a distribution of sequences that captures structure information without it being explicitly provided, and so be of use in important tasks like de novo protein sequence design, where it is not possible to condition on structure.
+Here, we demonstrate that it is possible to use unconditioned generative models to produce realistic samples of protein sequences. 
+We progressively grow a dataset of over half a million synthetic sequences for training autoregressive language models, using an iterative framework we call DARK.
+It begins by training an autoregressive model on an initial sample of synthetic sequences, sampling from it, and refining the samples thus generated, which are then used for subsequent rounds of training.
+Using the confidence measures provided by AlphaFold and other measures of sample quality, we show that our approach matches or exceeds the performance of prior methods that use weak conditioning on explicit structural information, and improves after each iteration of DARK.
+Crucially, the DARK framework and the trained models are entirely unsupervised; strong structural signal is an objective, but no model is ever conditioned on any specific structural state.
+The trained model indirectly learns to incorporate a structural signal into its learned sequence distribution, as this signal is strongly represented in the makeup of the training set at each step.
+Our work demonstrates a way of unconditionally sampling sequences and structures jointly, and in an unsupervised way.

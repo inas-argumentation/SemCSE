@@ -1,0 +1,2 @@
+Regression Nearest Neighbor in Face Recognition
+In this paper, we introduce a regression nearest neighbor framework for general classification tasks. To alleviate potential problems caused by nonlinearity, we propose a kernel regression nearest neighbor (KRNN) algorithm and its convex counterpart (CKRNN) as two specific extensions of nearest neighbor algorithm and present a fast and useful kernel selection method correspondingly. Comprehensive analysis and extensive experiments are used to demonstrate the effectiveness of our methods in real face datasets

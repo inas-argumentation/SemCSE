@@ -1,0 +1,9 @@
+Resource allocation for downlink coordinated multipoint (CoMP) in LTE-advanced
+Coordinated multipoint (CoMP) in LTE-Advanced is considered as a promising way to enhance spectrum efficiency in 
+interference-limited wireless network through base station (BS) cooperation. However, resource allocation is one of the key 
+challenges faced by CoMP network because resource allocation strategy of one cell affects the other cells’ performance. 
+Moreover, due to the scarcity of wireless network resources such as bandwidth and power, efficient resource allocation 
+strategy is always desirable. In this paper, a low-complexity resource allocation strategy in CoMP that aims to achieve high 
+network throughput is presented. The resource allocation strategy consists of three modules which are performed sequentially; 
+user allocation module, subcarrier allocation module and power allocation module. Our simulation study shows that the 
+proposed strategy gives significant performance gain in CoMP LTE-Advanced network.

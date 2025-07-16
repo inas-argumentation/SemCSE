@@ -1,0 +1,2 @@
+Principal Component Analysis of Building Cluster Factors
+Building properties on a map can be represented by multiple building characterization factors. In this paper, using principal component analysis method, we analyzed multiple factors characterizing buildings. Also, through dimensionality reduction transformation into a small amount of comprehensive factors, this paper proposed simplified expression of building properties, to better meet the need of map generalization for buildings.

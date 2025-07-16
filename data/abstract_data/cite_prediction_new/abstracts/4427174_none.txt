@@ -1,0 +1,2 @@
+The application of Promela and Spin in the BOS project
+After a short introduction to the BOS project, we discuss the \why, what and how" of the use of formal methods in the project, some recent experience using Promela/Spin and re ections on the pragmatics of validation.

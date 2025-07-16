@@ -1,0 +1,23 @@
+Categorizing Health Outcomes and Efficacy of mHealth Apps for Persons With Cognitive Impairment: A Systematic Review
+BACKGROUND
+Use of mobile health (mHealth) apps is growing at an exponential rate in the United States and around the world. Mild cognitive impairment (MCI), Alzheimer disease, and related dementias are a global health problem. Numerous mHealth interventions exist for this population, yet the effect of these interventions on health has not been systematically described.
+
+
+OBJECTIVE
+The aim of this study is to catalog the types of health outcomes used to measure effectiveness of mHealth interventions and assess which mHealth interventions have been shown to improve the health of persons with MCI, Alzheimer disease, and dementia.
+
+
+METHODS
+We searched 13 databases, including Ovid MEDLINE, PubMed, EMBASE, the full Cochrane Library, CINAHL, PsycINFO, Ei Compendex, IEEE Xplore, Applied Science & Technology Source, Scopus, Web of Science, ClinicalTrials.gov, and Google Scholar from inception through May 2017 for mHealth studies involving persons with cognitive impairment that were evaluated using at least one quantitative health outcome. Proceedings of the Annual ACM Conferences on Human Factors in Computing Systems, the ACM User Interface Software and Technology Symposium, and the IEEE International Symposium on Wearable Computers were searched in the ACM Digital Library from 2012 to 2016. A hand search of JMIR Publications journals was also completed in July 2017.
+
+
+RESULTS
+After removal of duplicates, our initial search returned 3955 records. Of these articles, 24 met final inclusion criteria as studies involving mHealth interventions that measured at least one quantitative health outcome for persons with MCI, Alzheimer disease, and dementia. Common quantitative health outcomes included cognition, function, mood, and quality of life. We found that 21.2% (101/476) of the fully reviewed articles were excluded because of a lack of health outcomes. The health outcomes selected were observed to be inconsistent between studies. For those studies with quantitative health outcomes, more than half (58%) reported postintervention improvements in outcomes.
+
+
+CONCLUSIONS
+Results showed that many mHealth app interventions targeting those with cognitive impairment lack quantitative health outcomes as a part of their evaluation process and that there is a lack of consensus as to which outcomes to use. The majority of mHealth app interventions that incorporated health outcomes into their evaluation noted improvements in the health of persons with MCI, Alzheimer disease, and dementia. However, these studies were of low quality, leading to a grade C level of evidence. Clarification of the benefits of mHealth interventions for people with cognitive impairment requires more randomized controlled trials, larger numbers of participants, and trial designs that minimize bias.
+
+
+TRIAL REGISTRATION
+PROSPERO Registration: PROSPERO 2016:CRD42016033846; http://www.crd.york.ac.uk/PROSPERO/ display_record.asp?ID=CRD42016033846 (Archived by WebCite at http://www.webcitation.org/6sjjwnv1M).

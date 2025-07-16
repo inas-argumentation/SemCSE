@@ -1,0 +1,2 @@
+Strategy 3 with CNN 15 Input Word Embedding Linguistic Feature Embedding Left LSTMs Right LSTMs Left LSTMs Character Embedding Word Embedding Right LSTMs
+In this paper we present TinkerBell, a state-of-the-art end-to-end cold-start knowledge base construction system that extracts entity, relation, event and sentiment knowledge from three languages (English, Chinese and Spanish).

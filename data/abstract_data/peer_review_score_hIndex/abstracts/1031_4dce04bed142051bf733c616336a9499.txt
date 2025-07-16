@@ -1,0 +1,6 @@
+Efficient Calculation of Polynomial Features on Sparse Matrices
+We provide an algorithm for polynomial feature expansion that both operates on
+and produces a compressed sparse row matrix without any densification. For a
+vector of dimension D, density d, and degree k the algorithm has time complexity
+O(d^k * D^k) where k is the polynomial-feature order; this is an improvement by a factor d^k
+over the standard method.

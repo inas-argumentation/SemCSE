@@ -1,0 +1,2 @@
+Speed of Vertex-Reinforced Jump Process on Galton–Watson Trees
+We give an alternative proof of the fact that the vertex-reinforced jump process on Galton–Watson tree has a phase transition between recurrence and transience as a function of $$c$$c, the initial local time, see Basdevant et al. (Ann Appl Probab 22(4):1728–1743, 2012). Further, applying techniques in Aidékon (Probab Theory Relat Fields 142(3–4):525–559, 2008), we show a phase transition between positive speed and null speed for the associated discrete-time process in the transient regime.

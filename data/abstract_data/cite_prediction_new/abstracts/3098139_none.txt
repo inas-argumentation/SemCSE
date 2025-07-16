@@ -1,0 +1,2 @@
+Formalization of Ontological Relations of Korean Numeral Classifiers
+Though many studies emphasized on the characteristics of numerals classifiers and the construction of database, or ontology of classifiers, few studies attempted to formalize them. This paper briefly presents preprocessing for the extraction of ontological relations from language resources, and formalizing those extracted relations with OWL DL. Then the overall result of building Korean numeral classifier ontology is illustrated.

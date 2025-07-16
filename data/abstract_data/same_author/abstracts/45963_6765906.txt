@@ -1,0 +1,2 @@
+On the Threshold of Having a Linear Treewidth in Random Graphs
+The concept of tree-width and tree-decomposition of a graph plays an important role in algorithms and graph theory. Many NP-hard problems have been shown to be polynomially sovable when restricted to the class of instances with a bounded tree-width. In this paper, we establish an improved lower bound on the threshold for a random graph to have a linear treewidth, which improves the previous result by Kloks [1].

@@ -1,0 +1,2 @@
+Closed-Form Conditions of bifurcation Points for General Differential Equations
+This note presents closed-form formulas for determining the critical points of general n-dimensional differential equations. The formulas do not require commutating the eigenvalues of the Jacobian of a system. Based on the Hurwitz criterion, explicit necessary and sufficient conditions are obtained. Particular attention is focused on Hopf and double Hopf bifurcations. A model of induction machine is presented to show the application of the results.

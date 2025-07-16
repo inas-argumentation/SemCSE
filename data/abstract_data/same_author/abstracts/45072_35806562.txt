@@ -1,0 +1,2 @@
+Real-time communication in multiple token ring networks
+A communication architecture and a dynamic control protocol are presented for real-time communication in multiple token ring networks. The network can be formed by multiple channels through bandwidth subdivision of a high-speed ring. A flexible preemption and dynamic load allocation scheme is developed which can reduce the lost percentage of critical packets and can maintain a high channel utilization at the same time. This performance improvement is demonstrated with extensive simulation results.<<ETX>>

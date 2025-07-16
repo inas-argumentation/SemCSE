@@ -1,0 +1,2 @@
+Suboptimal Decoding of Vector Quantization Over a CDMA Channel with M-Ask
+The transmission of vector quantization over a frequency-selective Rayleigh fading code-division multiple access (CDMA) channel is considered. Suboptimal decoding approaches are presented for systems that employ M-ary amplitude shift keying (M-ASK) to improve the spectral efficiency. Analysis and simulation results are provided to quantify the performance loss in order to obtain a better spectral efficiency of the systems

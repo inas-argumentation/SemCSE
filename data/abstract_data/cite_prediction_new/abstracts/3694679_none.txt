@@ -1,0 +1,2 @@
+Formalizing Forcing Arguments in Subsystems of Second-Order Arithmetic
+We show that certain model-theoretic forcing arguments involving subsystems of second-order arithmetic can be formalized in the base theory, thereby converting them to effective proof-theoretic arguments. We use this method to sharpen the conservation theorems of Harrington and Brown-Simpson, giving an effective proof that WKL+0 is conservative over RCA0 with no significant increase in the lengths of proofs.

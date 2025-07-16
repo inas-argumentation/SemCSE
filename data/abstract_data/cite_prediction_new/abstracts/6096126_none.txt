@@ -1,0 +1,2 @@
+Asymptotic stability of positive 2D linear systems with delays
+. New necessary and sufficient conditions for the asymptotic stability of positive 2D linear systems with delays described by the general model, Fornasini-Marchesini models and Roesser model are established. It is shown that checking of the asymptotic stability of positive 2D linear systems with delays can be reduced to the checking of the asymptotic stability of corresponding positive 1D linear systems without delays. The efficiency of the new criterions is demonstrated on numerical examples.

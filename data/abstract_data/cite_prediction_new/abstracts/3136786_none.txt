@@ -1,0 +1,2 @@
+A visual analytic approach for analyzing SSH honeypots
+An SSH honeypot can be used to study the activities of an attacker by logging the full SSH session. In this paper we present an interactive visualization system that can be used by network security experts to visually analyze large sets of SSH honeypot data. By using different visualizations and interaction techniques the expert can explore SSH sessions and quickly find related sessions which will help in identifying attackers.

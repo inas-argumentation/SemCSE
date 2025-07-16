@@ -1,0 +1,232 @@
+Regular extensions and algebraic relations between values of Mahler functions in positive characteristic
+<p>Let <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="double-struck upper K">
+  <mml:semantics>
+    <mml:mrow class="MJX-TeXAtom-ORD">
+      <mml:mi mathvariant="double-struck">K</mml:mi>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\mathbb {K}</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> be a function field of characteristic <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="p greater-than 0">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mi>p</mml:mi>
+      <mml:mo>></mml:mo>
+      <mml:mn>0</mml:mn>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">p>0</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>. We have recently established the analogue of a theorem of Ku. Nishioka for linear Mahler systems defined over <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="double-struck upper K left-parenthesis z right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mrow class="MJX-TeXAtom-ORD">
+        <mml:mi mathvariant="double-struck">K</mml:mi>
+      </mml:mrow>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi>z</mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\mathbb {K}(z)</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>. This paper is dedicated to proving the following refinement of this theorem. Let <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="f 1 left-parenthesis z right-parenthesis comma ellipsis comma f Subscript n Baseline left-parenthesis z right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:msub>
+        <mml:mi>f</mml:mi>
+        <mml:mrow class="MJX-TeXAtom-ORD">
+          <mml:mn>1</mml:mn>
+        </mml:mrow>
+      </mml:msub>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi>z</mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+      <mml:mo>,</mml:mo>
+      <mml:mo>…<!-- … --></mml:mo>
+      <mml:mo>,</mml:mo>
+      <mml:msub>
+        <mml:mi>f</mml:mi>
+        <mml:mrow class="MJX-TeXAtom-ORD">
+          <mml:mi>n</mml:mi>
+        </mml:mrow>
+      </mml:msub>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi>z</mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">f_{1}(z),\ldots , f_{n}(z)</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> be <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="d">
+  <mml:semantics>
+    <mml:mi>d</mml:mi>
+    <mml:annotation encoding="application/x-tex">d</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>-Mahler functions such that <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="ModifyingAbove double-struck upper K With bar left-parenthesis z right-parenthesis left-parenthesis f 1 left-parenthesis z right-parenthesis comma ellipsis comma f Subscript n Baseline left-parenthesis z right-parenthesis right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mover>
+        <mml:mrow class="MJX-TeXAtom-ORD">
+          <mml:mi mathvariant="double-struck">K</mml:mi>
+        </mml:mrow>
+        <mml:mo accent="false">¯<!-- ¯ --></mml:mo>
+      </mml:mover>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi>z</mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+      <mml:mrow>
+        <mml:mo>(</mml:mo>
+        <mml:msub>
+          <mml:mi>f</mml:mi>
+          <mml:mrow class="MJX-TeXAtom-ORD">
+            <mml:mn>1</mml:mn>
+          </mml:mrow>
+        </mml:msub>
+        <mml:mo stretchy="false">(</mml:mo>
+        <mml:mi>z</mml:mi>
+        <mml:mo stretchy="false">)</mml:mo>
+        <mml:mo>,</mml:mo>
+        <mml:mo>…<!-- … --></mml:mo>
+        <mml:mo>,</mml:mo>
+        <mml:msub>
+          <mml:mi>f</mml:mi>
+          <mml:mrow class="MJX-TeXAtom-ORD">
+            <mml:mi>n</mml:mi>
+          </mml:mrow>
+        </mml:msub>
+        <mml:mo stretchy="false">(</mml:mo>
+        <mml:mi>z</mml:mi>
+        <mml:mo stretchy="false">)</mml:mo>
+        <mml:mo>)</mml:mo>
+      </mml:mrow>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\overline {\mathbb {K}}(z)\left (f_{1}(z),\ldots , f_{n}(z)\right )</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> is a regular extension over <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="ModifyingAbove double-struck upper K With bar left-parenthesis z right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mover>
+        <mml:mrow class="MJX-TeXAtom-ORD">
+          <mml:mi mathvariant="double-struck">K</mml:mi>
+        </mml:mrow>
+        <mml:mo accent="false">¯<!-- ¯ --></mml:mo>
+      </mml:mover>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi>z</mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\overline {\mathbb {K}}(z)</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>. Then, every homogeneous algebraic relation over <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="double-struck upper K overbar">
+  <mml:semantics>
+    <mml:mover>
+      <mml:mrow class="MJX-TeXAtom-ORD">
+        <mml:mi mathvariant="double-struck">K</mml:mi>
+      </mml:mrow>
+      <mml:mo accent="false">¯<!-- ¯ --></mml:mo>
+    </mml:mover>
+    <mml:annotation encoding="application/x-tex">\overline {\mathbb {K}}</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> between their values at a regular algebraic point arises as the specialization of a homogeneous algebraic relation over <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="ModifyingAbove double-struck upper K With bar left-parenthesis z right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mover>
+        <mml:mrow class="MJX-TeXAtom-ORD">
+          <mml:mi mathvariant="double-struck">K</mml:mi>
+        </mml:mrow>
+        <mml:mo accent="false">¯<!-- ¯ --></mml:mo>
+      </mml:mover>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi>z</mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\overline {\mathbb {K}}(z)</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> between these functions themselves. If <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="double-struck upper K">
+  <mml:semantics>
+    <mml:mrow class="MJX-TeXAtom-ORD">
+      <mml:mi mathvariant="double-struck">K</mml:mi>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\mathbb {K}</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> is replaced by a number field, this result is due to B. Adamczewski and C. Faverjon as a consequence of a theorem of P. Philippon. The main difference is that in characteristic zero, every <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="d">
+  <mml:semantics>
+    <mml:mi>d</mml:mi>
+    <mml:annotation encoding="application/x-tex">d</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>-Mahler extension is regular, whereas in characteristic <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="p">
+  <mml:semantics>
+    <mml:mi>p</mml:mi>
+    <mml:annotation encoding="application/x-tex">p</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>, non-regular <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="d">
+  <mml:semantics>
+    <mml:mi>d</mml:mi>
+    <mml:annotation encoding="application/x-tex">d</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula>-Mahler extensions do exist. Furthermore, we prove that the regularity of the field extension <inline-formula content-type="math/mathml">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" alttext="ModifyingAbove double-struck upper K With bar left-parenthesis z right-parenthesis left-parenthesis f 1 left-parenthesis z right-parenthesis comma ellipsis comma f Subscript n Baseline left-parenthesis z right-parenthesis right-parenthesis">
+  <mml:semantics>
+    <mml:mrow>
+      <mml:mover>
+        <mml:mrow class="MJX-TeXAtom-ORD">
+          <mml:mi mathvariant="double-struck">K</mml:mi>
+        </mml:mrow>
+        <mml:mo accent="false">¯<!-- ¯ --></mml:mo>
+      </mml:mover>
+      <mml:mo stretchy="false">(</mml:mo>
+      <mml:mi>z</mml:mi>
+      <mml:mo stretchy="false">)</mml:mo>
+      <mml:mrow>
+        <mml:mo>(</mml:mo>
+        <mml:msub>
+          <mml:mi>f</mml:mi>
+          <mml:mrow class="MJX-TeXAtom-ORD">
+            <mml:mn>1</mml:mn>
+          </mml:mrow>
+        </mml:msub>
+        <mml:mo stretchy="false">(</mml:mo>
+        <mml:mi>z</mml:mi>
+        <mml:mo stretchy="false">)</mml:mo>
+        <mml:mo>,</mml:mo>
+        <mml:mo>…<!-- … --></mml:mo>
+        <mml:mo>,</mml:mo>
+        <mml:msub>
+          <mml:mi>f</mml:mi>
+          <mml:mrow class="MJX-TeXAtom-ORD">
+            <mml:mi>n</mml:mi>
+          </mml:mrow>
+        </mml:msub>
+        <mml:mo stretchy="false">(</mml:mo>
+        <mml:mi>z</mml:mi>
+        <mml:mo stretchy="false">)</mml:mo>
+        <mml:mo>)</mml:mo>
+      </mml:mrow>
+    </mml:mrow>
+    <mml:annotation encoding="application/x-tex">\overline {\mathbb {K}}(z)\left (f_{1}(z),\ldots , f_{n}(z)\right )</mml:annotation>
+  </mml:semantics>
+</mml:math>
+</inline-formula> is also necessary for our refinement to hold. Besides, we show that when <inline-formula content-type="math/mat

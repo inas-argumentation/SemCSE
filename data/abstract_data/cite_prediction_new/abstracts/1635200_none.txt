@@ -1,0 +1,2 @@
+Preliminary glottal source modeling for pathologic voices
+A first attempt at implementing a flexible model for the glottal source waveform of pathologic voices is described. The LF (Liljencrants & Fant) model is the source model used. We also add various noise types, shimmer and jitter to the excitation source in order to replicate more closely the pathologic glottal waveform. Various vocal characteristics are then modeled in order to evaluate the performance of the glottal source model.

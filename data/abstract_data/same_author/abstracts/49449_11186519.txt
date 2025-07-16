@@ -1,0 +1,2 @@
+Edge-partitions of graphs of nonnegative characteristic and their game coloring numbers
+Let G be a graph of nonnegative characteristic and let g(G) and @D(G) be its girth and maximum degree, respectively. We show that G has an edge-partition into a forest and a subgraph H so that (1) @D(H)= =11; (2) @D(H)= =7; (3) @D(H)= =5 or G does not contain 4-cycles and 5-cycles; (4) @D(H)= =11; (2) col"g(G)= =7; (3) col"g(G)= =5 or G contains no 4-cycles and 5-cycles; (4) col"g(G)=<10 if G does not contain 4-cycles.

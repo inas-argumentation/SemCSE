@@ -1,0 +1,2 @@
+Cooperation models for service oriented multi-agent system
+In the paper, the cooperation models for service oriented multi-agent system are formally and rigorously investigated and put forward. According to the service request forces and service offer manners, a number of elementary cooperation models and their atomic communication acts are identified. The rigorous semantics of the communication acts and the cooperation models and their constraints are formally defined and analyzed.

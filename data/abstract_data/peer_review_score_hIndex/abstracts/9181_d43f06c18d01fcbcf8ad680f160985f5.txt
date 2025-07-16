@@ -1,0 +1,11 @@
+UNCERTAINTY QUANTIFICATION USING VARIATIONAL INFERENCE FOR BIOMEDICAL IMAGE SEGMENTATION
+Deep learning motivated by convolutional neural networks has been highly successful in a range of medical imaging problems like image classification, image
+segmentation, image synthesis etc. However for validation and interpretability, not
+only do we need the predictions made by the model but also how confident it is
+while making those predictions. This is important in safety critical applications
+for the people to accept it. In this work, we used an encoder decoder architecture
+based on variational inference techniques for segmenting brain tumour images. We
+evaluate our work on the publicly available BRATS dataset using Dice Similarity
+Coefficient (DSC) and Intersection Over Union (IOU) as the evaluation metrics.
+Our model is able to segment brain tumours while taking into account both aleatoric
+uncertainty and epistemic uncertainty in a principled bayesian manner.

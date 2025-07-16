@@ -1,0 +1,2 @@
+Markov chains with almost exponential hitting times
+If a Markov chain converges rapidly to stationarity, then the time until the first hit on a rarely visited set of states is approximately exponentially distributed; moreover an explicit bound for the error in this approximation can be given. This complements results of Keilson.

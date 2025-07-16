@@ -1,0 +1,2 @@
+Wheeled inverted pendulum control based on model-free fuzzy control strategy
+This paper proposes a model-free fuzzy controller (MFFC) for wheeled inverted pendulums (WIPs) control problem. The main purpose of this paper is to develop a self-dynamic balancing and motion control strategy. A simple necessary and sufficient condition for analytically determining the stability of a wheeled inverted pendulum system is established. Finally, experimental results show that the proposed model-free fuzzy control strategy can control the whole system very well.

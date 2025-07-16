@@ -1,0 +1,6 @@
+Bounds for arrays of dots with distinct slopes or lengths
+Ann×m sonar sequence is a subset of then×m grid with exactly one point in each column, such that the
+$$\mathop 2\limits^m $$
+ vectors determined by them are all distinct. We show that for fixedn the maximalm for which a sonar sequence exists satisfiesn−Cn11/20n+c logn log logn for infinitely manyn.Another problem concerns the maximal numberD of points that can be selected from then×m grid so that all the
+$$\mathop 2\limits^D $$
+ vectors have slopes. We proven1/2≪D≪n4/5

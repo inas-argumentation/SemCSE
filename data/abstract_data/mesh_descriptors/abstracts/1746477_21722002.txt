@@ -1,0 +1,15 @@
+Determinants of cancer treatment and mortality in older cancer patients using a multi-state model: Results from a population-based study (the INCAPAC study).
+INTRODUCTION
+Several studies have reported disparities in the care management and survival of older cancer patients. The aim of our study was to identify determinants of treatment administration in this population of cancer patients aged over 65 years taking into account competing risks of death.
+
+
+METHODS
+The INCAPAC study is a population-based study. Four cancer registries and three prospective cohort studies on older subjects (age ≥65 years) from Gironde, a French department, were merged to identify older cancer patients. We used a non-parametric multi-state model including three states (cancer, treatment and all-cause death). This model allowed studying determinants of treatment administration (all treatments including curative, symptomatic and palliative treatments) and mortality considering that patients can move from cancer state to death state, either directly or through the treatment phase. Studied variables were demographic and socioeconomic-, cancer-, health-, and geriatric-related.
+
+
+RESULTS
+A total of 450 patients were included in the analyses. They were mainly aged 85 and over, men and educated. Among included patients, 372 (83%) received cancer treatment. In the final multivariate model, dementia was associated with a lower likelihood of receiving cancer treatment (HR = 0.68, 95% CI = 0.47-0.99). In treated patients, age, sex, comorbidities, dependency and stage at diagnosis were associated to all-cause mortality, and in untreated patients, diagnosis of dementia and stage at diagnosis were associated to mortality.
+
+
+CONCLUSION
+Further studies are necessary to understand the impact of geriatric impairments on treatment administration and to develop clinical practice guidelines.

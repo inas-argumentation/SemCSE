@@ -1,0 +1,2 @@
+Implementation of Dynamical Role-Based Tree Menu on .Net Platform
+Discusses the method of generating tree -structured menus dynamically for different users through recursive algorithm,depending on the role permission.The tree-structured menu,which only the user can access to,shields other functions and improves its security.The method has been applied to some bank to perform foreign exchange regulation system success-fully and gets better effectiveness.

@@ -1,0 +1,2 @@
+Real-Time Rendering of Watercolor Effects for Virtual Environments
+In this paper, we present an empirical approach for rendering realistic watercolor effects in real-time. While watercolor being a versatile media, several characteristics of its effects have been categorized in the past. We describe an approach to recreate these effects using the Kubelka-Munk compositing model and the Sobel filter. Using modern per-pixel shading hardware, we present a method to render these effects in an interactive frame-rate.

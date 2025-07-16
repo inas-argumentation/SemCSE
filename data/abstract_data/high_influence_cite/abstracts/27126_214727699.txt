@@ -1,0 +1,2 @@
+Numerical integration without smoothness assumption
+We consider numerical integration in classes, for which we do not impose any smoothness assumptions. We illustrate how nonlinear approximation, in particular greedy approximation, allows us to guarantee some rate of decay of errors of numerical integration even in such a general setting with no smoothness assumptions.

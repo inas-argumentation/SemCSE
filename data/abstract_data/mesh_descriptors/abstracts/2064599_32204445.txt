@@ -1,0 +1,15 @@
+Population pharmacokinetics of amikacin in a Korean clinical population.
+OBJECTIVE
+This study aimed at investigating the influence of demographic and clinical covariates on the population pharmacokinetics of amikacin in Korean patients from routinely collected therapeutic drug monitoring data.
+
+
+MATERIALS AND METHODS
+Pharmacokinetics was studied in 305 adult Korean patients who received amikacin 125 - 1,000 mg once-daily or every-other- day. Peak and trough plasma levels of steady state were measured. Patients were randomized into an index dataset (n = 197) and a validation dataset (n = 108). Covariates were selected in a step-wise approach using NONMEM 7 software. The predictive performance of the model was evaluated by the percent prediction error and the percent coverage of 95% population prediction interval.
+
+
+RESULTS
+The covariates significantly influencing amikacin pharmacokinetics were creatinine clearance (p < 0.0001) and ward setting (p = 0.0017) for clearance, and body weight (p < 0.0001) and presence of cholecystitis (p = 0.0135) for volume of distribution. The estimates of pharmacokinetic parameters for a typical individual were 2.82 l/h for clearance, and 18.04 l for volume of distribution. Inter-individual variability (CV%) was 31% for clearance. The mean (SD) of percent prediction errors was 2.1 (26.4)% for peak and -121.5 (460.3)% for trough concentrations. Percent coverage of 95% PPIs for peak and trough concentrations were above 80%.
+
+
+CONCLUSIONS
+The population pharmacokinetic model developed in this study may be used as a basis for finding optimal amikacin dosing in a Korean patient population without a significant bias. Further studies will be needed to validate these results.

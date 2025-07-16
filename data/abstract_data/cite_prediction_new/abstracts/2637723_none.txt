@@ -1,0 +1,2 @@
+Towards retro-projected robot faces: An alternative to mechatronic and android faces
+This paper presents a new implementation of a robot face using retro-projection of a video stream onto a semitransparent facial mask. The technology is contrasted against mechatronic robot faces, of which Kismet is a typical example, and android robot faces, as used on the Ishiguro robots. The paper highlights the strengths of Retro-projected Animated Faces (RAF) technology (with cost, flexibility and robustness being notably strong) and discusses potential developments.

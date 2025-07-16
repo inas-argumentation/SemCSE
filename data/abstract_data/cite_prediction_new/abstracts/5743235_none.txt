@@ -1,0 +1,2 @@
+Signal LMMSE Estimation from Multiple Samples in MRI and DT-MRI
+A method to estimate the magnitude MR data from several noisy samples is presented. It is based on the Linear Minimum Mean Squared Error (LMMSE) estimator for the Rician noise model when several scanning repetitions are available. This method gives a closed-form analytical solution that takes into account the probability distribution of the data as well as the existing level of noise, showing a better performance than methods such as the average or the median.

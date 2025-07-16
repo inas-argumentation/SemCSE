@@ -1,0 +1,2 @@
+Complementing cappable degrees in the difference hierarchy
+Abstract We prove that for any computably enumerable (c.e.) degree c , if it is cappable in the computably enumerable degrees, then there is a d.c.e. degree d such that c ∪ d = 0 ′ and c ∩ d = 0 . Consequently, a computably enumerable degree is cappable if and only if it can be complemented by a nonzero d.c.e. degree. This gives a new characterization of the cappable degrees.

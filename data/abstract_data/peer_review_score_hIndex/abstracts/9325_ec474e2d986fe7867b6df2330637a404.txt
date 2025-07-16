@@ -1,0 +1,15 @@
+Enabling counterfactual survival analysis with balanced representations
+Balanced representation learning methods have been applied successfully to counterfactual
+inference from observational data. However, approaches that account for
+survival outcomes are relatively limited. Survival data are frequently encountered
+across diverse medical applications, i.e., drug development, risk profiling, and clinical
+trials, and such data are also relevant in fields like manufacturing (for equipment
+monitoring). When the outcome of interest is time-to-event, special precautions
+for handling censored events need to be taken, as ignoring censored outcomes may
+lead to biased estimates. We propose a theoretically grounded unified framework
+for counterfactual inference applicable to survival outcomes. Further, we formulate
+a nonparametric hazard ratio metric for evaluating average and individualized
+treatment effects. Experimental results on real-world and semi-synthetic datasets,
+the latter which we introduce, demonstrate that the proposed approach significantly
+outperforms competitive alternatives in both survival-outcome predictions and
+treatment-effect estimation.

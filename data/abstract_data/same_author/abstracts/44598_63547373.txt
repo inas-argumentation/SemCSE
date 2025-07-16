@@ -1,0 +1,2 @@
+The transport capacity of wireless networks over fading channels
+We study the transport capacity of wireless networks with fading, in the high attenuation regime where either the medium is absorptive or the path loss exponent is greater than 3. For a network of n nodes we show that even were the states of all channels to be noncausally known a-priori, the transport capacity is no more than O(n). On the other hand, even when the channels are frequency selective and independent from time to time, G(n) is achievable through a multihop strategy

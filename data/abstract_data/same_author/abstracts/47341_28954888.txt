@@ -1,0 +1,2 @@
+Modeling shape and topology of 3D images of biological specimens
+This paper presents an efficient way of representing the geometry and topology of 3D images of biological specimens derived from electron microscopy. A vector quantization algorithm is used in order to select a reduced set of interior points that best approximates the probability density function of the original volumetric data. Object's geometry and topology are obtained from the point set by the use of the alpha shapes theory.

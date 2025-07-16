@@ -1,0 +1,2 @@
+Cohen-Macaulayness of large powers of Stanley-Reisner ideals
+We prove that for m > 2, the m-th symbolic power of a Stanley-Reisner ideal is Cohen-Macaulay if and only if the simplicial complex is a matroid. Similarly, the m-th ordinary power is Cohen-Macaulay for some m > 2 if and only if the complex is a complete intersection. These results solve several open questions on the Cohen-Macaulayness of ordinary and symbolic powers of Stanley-Reisner ideals. Moreover, they have interesting consequences on the Cohen-Macaulayness of symbolic powers of facet ideals and cover ideals.

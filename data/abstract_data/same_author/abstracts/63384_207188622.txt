@@ -1,0 +1,2 @@
+The Center Location Improvement Problem Under the Hamming Distance
+In this paper, we consider the center location improvement problems under the sum-type and bottleneck-type Hamming distance. For the sum-type problem, we show that achieving an algorithm with a worst-case ratio of O(log |V|) is NP-hard, and for the bottleneck-type problem, we present a strongly polynomial algorithm.

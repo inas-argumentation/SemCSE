@@ -1,0 +1,2 @@
+The Absolute Normal Scores Test for Symmetry.
+The absolute normal scores test (K) is described as a test for the symmetry of a distribution of scores about a location parameter designated as 0. The test is compared to the sign test (S) and the Wilcoxon test (W) as an alternative to the t-test. Power comparisons are made among the K, S, W, and t tests. An example is presented where the sample size is less than 20. The large sample approximation to the normal distribution is also illustrated.

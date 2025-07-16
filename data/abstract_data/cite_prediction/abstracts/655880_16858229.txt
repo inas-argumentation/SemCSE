@@ -1,0 +1,2 @@
+The DIAMOND System for Computing with Abstract Dialectical Frameworks
+We present diamond, an implementation of Brewka and Woltran’s abstract dialectical frameworks (ADFs). The system uses answer set programming encodings to compute interpretations of ADFs according to various semantics. We evaluate the performance of the system using an actual reasoning problem as opposed to using randomly generated frameworks.

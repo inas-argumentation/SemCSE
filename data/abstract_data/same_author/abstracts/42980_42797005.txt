@@ -1,0 +1,2 @@
+Solving Boolean Satisfiability with Dynamic Hardware Configurations
+Boolean satisfiability (SAT) is a core computer science problem with many important commercial applications. An NP-complete problem, many different approaches for accelerating SAT either in hardware or software have been proposed. In particular, our prior work studied mechanisms for accelerating SAT using configurable hardware to implement formula-specific solver circuits. In spite of this progress, SAT solver runtimes still show room for further improvement.

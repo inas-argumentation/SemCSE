@@ -1,0 +1,2 @@
+Necessary and sufficient conditions for distinguishability of linear control systems
+Distinguishability plays a crucial rule in studying observability of hybrid system such as switched system. Recently, for two linear systems, Lou and Si gave a condition not only necessary but also sufficient to the distinguishability of linear systems. However, the condition is not easy enough to verify. This paper will give a new equivalent condition which is relatively easy to verify.

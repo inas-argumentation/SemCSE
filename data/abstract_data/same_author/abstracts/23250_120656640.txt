@@ -1,0 +1,2 @@
+NLO corrections with the OPP method
+The recently proposed method (OPP) to extract the coefficients of the scalar one-loop integrals to any multi-particle (sub)-amplitude is described. No analytical information on the structure of the amplitude is needed, allowing for a purely numerical, but still algebraic, implementation of the algorithm. The algorithm can be used to automatically perform one-loop calculation both in QCD and in the EW Theory. As an application, we present NLO QCD results for the processes p p → V V V ( V = W , Z ) at the LHC.

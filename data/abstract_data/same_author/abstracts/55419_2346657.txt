@@ -1,0 +1,2 @@
+ML Typing, Explicit Polymorphism and Qualified Types
+The ML type system was originally introduced as a means of identifying a class of terms in a simple untyped language, often referred to as core-ML, whose evaluation could be guaranteed not to “go wrong”. In subsequent work, the terms of core-ML have also been viewed as a ‘convenient shorthand’ for programs in typed languages. Notable examples include studies of ML polymorphism and investigations of overloading, motivated by the use of type classes in Haskell.

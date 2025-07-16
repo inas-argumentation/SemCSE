@@ -1,0 +1,2 @@
+Four-fermion production in electron-positron collisions with NEXTCALIBUR
+We introduce a new, fully massive, Monte Carlo program to compute all fourfermion processes in e + e − collisions, including Higgs production. We outline our strategy for the matrix element evaluation, the phase space generation and the implementation of the leading higher order effects, and show, where available, comparisons with existing results.

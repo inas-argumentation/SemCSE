@@ -1,0 +1,2 @@
+Mas of toe dual system estimator and some alternatives
+A dual system estimator was used to estimate the coverage of the 1980 Census, The estimator assumes that the response of a randomly selected individual to one system is independent of its response to the other system. When this is not the case, the resulting correlation induces a bias in the estimator. Several alternative estimators are proposed to handle this situation under a simple model and their average absolute relative errors are compared under two frequency distributions.

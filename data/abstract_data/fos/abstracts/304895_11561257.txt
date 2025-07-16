@@ -1,0 +1,2 @@
+A spline collocation method for Fredholm-Hammerstein integral equations of the second kind in two variables
+We consider Fredholm-Hammerstein integral equations of the second kind over a rectangular region in plane. As in Kumar and Sloan (1987) 5, we reformulate it into an equivalent integral equation. For the alternative equation, we triangulate the rectangular domain and on each triangle use a collocation method based on constant spline approximation. We discuss the convergence of the approximate solutions and conclude the paper with numerical examples.

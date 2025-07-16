@@ -1,0 +1,15 @@
+Application of refocused steady-state free-precession methods at 1.5 and 3 T to in vivo high-resolution MRI of trabecular bone: simulations and experiments.
+PURPOSE
+To evaluate the potential of fully-balanced steady-state free-precession (SSFP) sequences in in vivo high-resolution (HR) MRI of trabecular bone at field strengths of 1.5 and 3 T by simulation and experimental methods.
+
+
+MATERIALS AND METHODS
+Using simulation studies, refocused SSFP acquisition was optimized for our imaging purposes with a focus on signal-to-noise ratio (SNR) and SNR efficiency. The signal behavior in trabecular bone was estimated using a magnetostatic model of the trabecular bone and marrow. Eight normal volunteers were imaged at the proximal femur, calcaneus, and the distal tibia on a GE Signa scanner at 1.5 and at 3 T with an optimized single-acquisition SSFP sequence (three-dimensional FIESTA) and an optimized multiple-acquisition SSFP sequence (three-dimensional FIESTA-c). Images were also acquired with a fast gradient echo (FGRE) sequence for evaluation of the SNR performance of SSFP methods.
+
+
+RESULTS
+Refocused SSFP images outperformed FGRE acquisitions in both SNR and SNR efficiency at both field strengths. At 3 T, susceptibility effects were visible in FIESTA and FGRE images and much reduced in FIESTA-c images. The magnitude of SNR boost at 3 T was closely predicted by simulations.
+
+
+CONCLUSION
+Single-acquisition SSFP (at 1.5 T) and multiple-acquisition SSFP (at 3 T) hold great potential for HR-MRI of trabecular bone.

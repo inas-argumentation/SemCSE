@@ -1,0 +1,2 @@
+ECL and CMOS ASICs for time to digital conversion
+ECL (emitter coupled logic) and CMOS ASICs (application specific integrated circuits) that are designed for short time interval measurements are presented. An ECL gate array designed for a time to digital converter based on analog interpolation techniques and constructed by discrete techniques in order to reduce its power consumption and circuit board area is described. The design and test of an integrated seven bit time to digital converter (TDC) based on tapped CMOS delay lines is also presented.<ETX>

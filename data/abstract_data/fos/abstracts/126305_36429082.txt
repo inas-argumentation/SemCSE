@@ -1,0 +1,2 @@
+Precise bounds for finite time blowup of solutions to very general one-space-dimensional nonlinear Neumann problems
+In this paper we analyze the asymptotic finite time blowup of solutions to the heat equation with a nonlinear Neumann boundary flux in one space dimension. We perform a detailed examination of the nature of the blowup, which can occur only at the boundary, and we provide tight upper and lower bounds for the blowup rate for "arbitrary" nonlinear functions F, subject to very mild restrictions.

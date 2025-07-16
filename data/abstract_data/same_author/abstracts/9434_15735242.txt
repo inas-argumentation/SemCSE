@@ -1,0 +1,2 @@
+Hard Thermal Loops and the Sphaleron Rate on the Lattice
+We measure the sphaleron rate (topological susceptibility) of hot SU(2) gauge theory, using a lattice implementation of the hard thermal loop (HTL) effective action. The HTL degrees of freedom are implemented by an expansion in spherical harmonics and truncation. Our results for the sphaleron rate agree with the parametric prediction of Arnold, Son and Yaffe: Γ ∝ α 5 T 4 .

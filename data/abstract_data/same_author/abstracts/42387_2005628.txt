@@ -1,0 +1,2 @@
+The Maude LTL Model Checker and Its Implementation
+A model checker typically supports two different levels of specification: (1) a system specification level, in which the concurrent system to be analyzed is formalized; and (2) a property specification level, in which the properties to be model checked—for example, temporal logic formulae—are specified. The Maude LTL model checker has been designed with the goal of combining a very expressive and general system specification language (Maude [1]) with an advanced on-the-fly explicit-state LTL model checking engine.

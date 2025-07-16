@@ -1,0 +1,2 @@
+WordNet Based Multi-Way Concept Hierarchy Construction from Text Corpus
+In this paper, we propose an approach to build a multi-way concept hierarchy from a text corpus, which is based on WordNet and multi-way hierarchical clustering. In addition, a new evaluation metric is presented, and our approach is compared with 4 kinds of existing methods on the Amazon Customer Review data set.

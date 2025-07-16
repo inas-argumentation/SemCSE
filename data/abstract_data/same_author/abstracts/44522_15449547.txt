@@ -1,0 +1,2 @@
+Encoding Solutions of the Frame Problem in Dynamic Logic
+We investigate the relationship amongst some solutions to the frame problem. We encode Pednault's syntax-based solution [20], Baker's state-minimization policy [1], and Gelfond & Lifchitz's Action Language A [7] in the propositional dynamic logic (PDL). The formal relationships among these solutions are given. The results of the paper show that dynamic logic, as one of the formalisms for reasoning about dynamic domains, can be used as a formal tool for comparing and unifying logics of action.

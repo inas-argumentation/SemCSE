@@ -1,0 +1,2 @@
+Modelling and Analysis of Extended Spiking Neural P systems with Astrocytes using Petri
+Spiking Neural P (SN P) system characterizes the movement of spikes among neurons. Extended Spiking Neural P systems with Astrocytes (ESNPA systems) incorporates the functioning of astrocytes (star-shaped glial cells spanning around neurons), which play an important role on the functioning and interaction of neurons. In this paper we propose a methodology for translating ESNPA systems to Petri nets and analyze its properties using Petri nets. Subject Classification: 68Q45, 68Q85, 68Q10.

@@ -1,0 +1,2 @@
+DISCRETE-TIME ROBUST POLE-PLACEMENT DESIGN THROUGH GLOBAL OPTIMIZATION
+A robust pole placement controller design method is presented for discrete-time systems with parametric model uncertainties contained within known bounds. The design methodology is based on the minimization of a cost function by using genetic algorithms. It allows for a thorough assessment of robust performance in addition to robust stability. The effectiveness of this technique is shown for a real-time experimental laboratory-scale helicopter system. Copyright © 2002 IFAC

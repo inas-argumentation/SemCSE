@@ -1,0 +1,2 @@
+A strong lower bound for approximate nearest neighbor searching
+We prove a lower bound of d1-o(1) on the query time for any deterministic algorithms that solve approximate nearest neighbor searching in Yao's cell probe model. Our result greatly improves the best previous lower bound for this problem, which is Ω(loglogd/logloglogd) [A. Chakrabarti et al., in: Proc. 31st Ann. ACM Symp. Theory of Computing, 1999, pp. 305-311]. Our proof is also much simpler than the proof of A. Chakrabarti et al.

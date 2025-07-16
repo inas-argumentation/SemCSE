@@ -1,0 +1,2 @@
+Fast Separation of Reflection Components using a Specularity-Invariant Image Representation
+In this paper, we propose a fast method for separating reflection components using a single color image. We first propose a specular-free two-band image that is a specularity-invariant color image representation. Reflection components separation is achieved by comparing local ratios at each pixel and making those ratios equal in an iterative framework. The proposed method is very fast and shows reasonable results for textured indoor/outdoor images.

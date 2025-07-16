@@ -1,0 +1,2 @@
+Windows Performance Monitoring and Data Reduction Using WatchTower
+We describe and evaluate WatchTower, a system that simplifies the collection of Windows performance counter data for monitoring and usage profiling of Windows machines. WatchTower has overheads similar to those of Microsoft’sperfmon tool, but it is easily embedded into other software. Furthermore, we use standard statistical tools to reduce the sheer volume of performance data to a manageable subset that nonetheless usefully captures the behavior of the machine and its interactive user.

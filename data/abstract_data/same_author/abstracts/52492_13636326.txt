@@ -1,0 +1,2 @@
+An Algorithm for Finding Hamilton Cycles in Random Directed Graphs
+We describe a polynomial ( O ( n 1.5 )) time algorithm DHAM for finding hamilton cycles in digraphs. For digraphs chosen uniformly at random from the set of digraphs with vertex set {1, 2, …, n } and m = m ( n ) edges the limiting probability (as n → ∞) that DHAM finds a hamilton cycle equals the limiting probability that the digraph is hamiltonian. Some applications to random “travelling salesman problems” are discussed.

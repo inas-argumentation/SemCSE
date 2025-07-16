@@ -1,0 +1,19 @@
+An observation tool for studying patient-oriented workflow in hospital emergency departments.
+BACKGROUND
+Studying workflow is a critical step in designing, implementing and evaluating informatics interventions in complex sociotechnical settings, such as hospital emergency departments (EDs). Known approaches to studying workflow in clinical settings attend to the activities of individual clinicians, thus being inadequate to characterize patient care as a cooperative work.
+
+
+OBJECTIVES
+The purpose of this paper is twofold. First, we introduce a novel, theory-driven patient-oriented workflow methodology, which better addresses the complex, multiple-provider nature of patient care. Second, we report the development of an observational tool and protocol for use in studies of this type, and the results of an evaluation study.
+
+
+METHODS
+We created a tablet computer implementation of an instrument to efficiently capture patient-oriented workflow, and evaluated it through a field study in three EDs. We focused on activities occurring over time during a single patient care episode as well as the roles of the ED staff members who conducted the activities.
+
+
+RESULTS
+The evidence generated supports the validity, viability, and reliability of the tool. The coverage of the tool in terms of activities and roles was satisfactory. The tool was able to capture the sequence of activity-role pairs for 108 patient care episodes. The inter-rater reliability assessment yielded a high kappa value (0.79).
+
+
+DISCUSSION
+The patient-oriented workflow methodology has the potential to facilitate modeling patient care in EDs by characterizing both roles and activities in sequence. The methodology also provides researchers and practitioners a more realistic and comprehensive workflow perspective that can inform the design, implementation and evaluation of health information technology interventions.

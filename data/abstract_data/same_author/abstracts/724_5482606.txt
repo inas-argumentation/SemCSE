@@ -1,0 +1,2 @@
+An 11 GHz FPGA with test applications
+FPGAs have been a popular topic among electrical engineers for over a decade. Modern FPGAs are denser, faster and use less power compared to PLD and CPLD. This paper presents a high speed FPGA that operates in the gigahertz range. An improved reconfigurable circuit is described. State-of-the-art IBM SiGe BiCMOS technology is used to realize this high speed FPGA. A measurement on a fabricated chip proves that this FPGA is capable of operating at 11 GHz, a SONET OC-192 standard, for optical applications.

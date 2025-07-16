@@ -1,0 +1,2 @@
+Understanding Eight Years of InfoVis Conferences Using PaperLens
+We present PaperLens, a visualization that reveals connections, trends, and activity throughout the InfoVis conference community for the last 8 years. It tightly couples views across papers, authors, and references. This paper describes how we analyzed the data, the strengths and weaknesses of PaperLens, and interesting patterns and relationships we have discovered using PaperLens.

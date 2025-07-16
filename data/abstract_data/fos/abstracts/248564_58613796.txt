@@ -1,0 +1,15 @@
+Investigating energy deposition in glandular tissues for mammography using multiscale Monte Carlo simulations
+PURPOSE
+To investigate energy deposition in glandular tissues of the breast on macro- and microscopic length scales in the context of mammography.
+
+
+METHODS
+Multiscale mammography models of breasts are developed, which include segmented, voxelized macroscopic tissue structure as well as nine regions of interest (ROIs) embedded throughout the breast tissue containing explicitly-modelled cells. Using a 30 kVp Mo/Mo spectrum, Monte Carlo (MC) techniques are used to calculate dose to ∼mm voxels containing glandular and/or adipose tissues, as well as energy deposition on cellular length scales. ROIs consist of at least 1000 mammary epithelial cells and ∼200 adipocytes; specific energy (energy imparted per unit mass; stochastic analogue of the absorbed dose) is calculated within mammary epithelial cell nuclei.
+
+
+RESULTS
+Macroscopic dose distributions within segmented breast tissue demonstrate considerable variation in energy deposition depending on depth and tissue structure. Doses to voxels containing glandular tissue vary between ∼0.1 and ∼4 times the mean glandular dose (MGD, averaged over the entire breast). Considering microscopic length scales, mean specific energies for mammary epithelial cell nuclei are ∼30% higher than the corresponding glandular voxel dose. Additionally, due to the stochastic nature of radiation, there is considerable variation in energy deposition throughout a cell population within a ROI: for a typical glandular voxel dose of 4 mGy, the standard deviation of the specific energy for mammary epithelial cell nuclei is 85% relative to the mean. Thus, for a glandular voxel dose of 4 mGy at the centre of the breast, corresponding mammary epithelial cell nuclei will receive specific energies up to ∼9 mGy (considering the upper end of the 1σ standard deviation of the specific energy), while a ROI located 2 cm closer to the radiation source will receive specific energies up to ∼40 mGy. Energy deposition within mammary epithelial cell nuclei is sensitive to cell model details including cellular elemental compositions and nucleus size, underlining the importance of realistic cellular models.
+
+
+CONCLUSIONS
+There is considerable variation in energy deposition on both macro- and microscopic length scales for mammography, with glandular voxel doses and corresponding cell nuclei specific energies many times higher than the MGD in parts of the breast. These results should be considered for radiation-induced cancer risk evaluation in mammography which has traditionally focused on a single metric such as the MGD.

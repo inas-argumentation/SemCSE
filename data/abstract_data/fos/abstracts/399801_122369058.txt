@@ -1,0 +1,2 @@
+Approximate Inference in Location—Scale Regression Models
+It is shown that χ2 and multivariate t distributions provide good approximations to posterior distributions arising in location-scale regression models. In the case of a linear regression model, Bayesian inferences based on an improper prior have conditional frequency, as well as fiducial/structural interpretation; so the results are also applicable in a non-Bayesian context. Numerical support for the approximations is presented for the case of a Weibull regression model and a regression with t distributed errors.

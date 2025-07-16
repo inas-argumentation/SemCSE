@@ -1,0 +1,2 @@
+A Continuum of Models for Stochastic Estimation 20 June 2000
+In this paper, we investigate a recursive multiple model tracking approach similar to the Generalized Pseudo–Bayesian 1 (GPB1) [1] approach. However, here we consider a continuum of models rather than the discrete set that is usually implemented in the GPB1 method. By doing so better models are available to improve tracker performance and solve the bias problem inherent in most multiple model approaches.

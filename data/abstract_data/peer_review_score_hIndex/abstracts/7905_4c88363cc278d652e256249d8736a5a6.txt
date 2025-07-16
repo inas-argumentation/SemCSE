@@ -1,0 +1,14 @@
+Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks
+We present an algorithm for policy search in stochastic dynamical systems using
+model-based reinforcement learning. The system dynamics are described with
+Bayesian neural networks (BNNs) that include stochastic input variables.  These
+input variables allow us to capture complex statistical
+patterns in the transition dynamics (e.g. multi-modality and
+heteroskedasticity), which are usually missed by alternative modeling approaches. After
+learning the dynamics, our BNNs are then fed into an algorithm that performs
+random roll-outs and uses stochastic optimization for policy learning. We train
+our BNNs by minimizing $\alpha$-divergences with $\alpha = 0.5$, which usually produces better
+results than other techniques such as variational Bayes. We illustrate the performance of our method by
+solving a challenging problem where model-based approaches usually fail and by
+obtaining promising results in real-world scenarios including the control of a
+gas turbine and an industrial benchmark.

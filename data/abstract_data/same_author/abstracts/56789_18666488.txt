@@ -1,0 +1,2 @@
+A System Dependence Net generator for Ada programs
+An explicit representation of various dependence relationships in a program has many applications in software engineering. The System Dependence Net is a model to represent program dependences in a concurrent program which consists of multiple procedures. The paper explains how to generate a System Dependence Net for Ada 95 programs automatically.

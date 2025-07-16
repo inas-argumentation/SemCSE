@@ -1,0 +1,2 @@
+Indexing and ranking in Geo-IR systems
+This paper addresses document indexing and retrieval using geographical location. It discusses possible indexing structures and result ranking algorithms, surveying known approaches and showing how they can be combined to build an effective Geo-IR system.

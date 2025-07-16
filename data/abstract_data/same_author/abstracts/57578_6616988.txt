@@ -1,0 +1,11 @@
+Efficient remote homology detection using local structure
+MOTIVATION
+The function of an unknown biological sequence can often be accurately inferred if we are able to map this unknown sequence to its corresponding homologous family. At present, discriminative methods such as SVM-Fisher and SVM-pairwise, which combine support vector machine (SVM) and sequence similarity, are recognized as the most accurate methods, with SVM-pairwise being the most accurate. However, these methods typically encode sequence information into their feature vectors and ignore the structure information. They are also computationally inefficient. Based on these observations, we present an alternative method for SVM-based protein classification. Our proposed method, SVM-I-sites, utilizes structure similarity for remote homology detection.
+
+
+RESULT
+We run experiments on the Structural Classification of Proteins 1.53 data set. The results show that SVM-I-sites is more efficient than SVM-pairwise. Further, we find that SVM-I-sites outperforms sequence-based methods such as PSI-BLAST, SAM, and SVM-Fisher while achieving a comparable performance with SVM-pairwise.
+
+
+AVAILABILITY
+I-sites server is accessible through the web at http://www.bioinfo.rpi.edu. Programs are available upon request for academics. Licensing agreements are available for commercial interests. The framework of encoding local structure into feature vector is available upon request.

@@ -1,0 +1,2 @@
+Fusion rule engineering
+The determination of the fusion rules of WZW theories constitutes an important step in the program of classifying and solving conformal field theories. A drawback of the existing algorithms for such calculations is that, even at a modestly large number of primary fields, they require an enormous amount of computer time and memory. However, by breeding together two of these algorithms in an appropriate manner, it is possible to speed up the calculations and, therefore, greatly extend the accessible range of theories.

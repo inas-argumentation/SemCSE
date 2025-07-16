@@ -1,0 +1,2 @@
+Parallel Algorithms for Evaluating Sequences of Set-Manipulation Operations
+Given an off-line sequence S of n set-manipulation operations, we investigate the parallel complexity of evaluating S (i.e. finding the response to every operation in S and returning the resulting set). We show that the problem of evaluating S is in NC for various combinations of common set-manipulation operations. Once we establish membership in NC (or, if membershp in NC is obvious), we develop techniques for improving the time and/or processor complexity.

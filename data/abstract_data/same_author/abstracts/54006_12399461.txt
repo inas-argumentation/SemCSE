@@ -1,0 +1,2 @@
+On the Minimum Common Supergraph of Two Graphs
+Abstract The minimum common supergraph of two graphs, g1 and g2, is defined as the smallest graph that includes, as subgraphs, both g1 and g2. It is shown that minimum common supergraph computation can be solved by means of maximum common subgraph computation. For the latter problem, algorithms are known from the literature. It will also be shown that for a certain class of cost functions, the concept of graph edit distance is closely related with the minimum common supergraph.

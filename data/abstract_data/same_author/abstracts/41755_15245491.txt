@@ -1,0 +1,8 @@
+Efficient Expected-Case Algorithms for Planar Point Location
+Planar point location is among the most fundamental search problems in computational geometry. Although this problem has been heavily studied from the perspective of worst-case query time, there has been surprisingly little theoretical work on expected-case query time. 
+ 
+We are given an n-vertex planar polygonal subdivision S satisfying some weak assumptions (satisfied, for example, by all convex subdivisions). 
+ 
+We are to preprocess this into a data structure so that queries can be answered efficiently. We assume that the two coordinates of each query point are generated independently by a probability distribution also satisfying some weak assumptions (satisfied, for example, by the uniform distribution). 
+ 
+In the decision tree model of computation, it is well-known from information theory that a lower bound on the expected number of comparisons is entropy(S). We provide two data structures, one of size O(n2) that can answer queries in 2 entropy(S) + O(1) expected number of comparisons, and another of size O(n) that can answer queries in (4 + O(1/√log n)) entropy(S)+O(1) expected number of comparisons. These structures can be built in O(n2) and O(n log n) time respectively. Our results are based on a recent result due to Arya and Fu, which bounds the entropy of overlaid subdivisions.

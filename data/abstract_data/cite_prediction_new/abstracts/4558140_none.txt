@@ -1,0 +1,2 @@
+Design and implementation of a software bridge with packet filtering and statistics collection functions
+This article starts with the formulation of the complete design problem. Possible design strategies are then identified and adopted along with the reasons for adoption. Finally, the article describes the implementation of the proposed bridge. © 1997 John Wiley & Sons, Ltd.

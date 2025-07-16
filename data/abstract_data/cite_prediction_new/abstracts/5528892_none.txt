@@ -1,0 +1,2 @@
+Almost sure convergence analysis of autoregressive spectral estimation in additive noise
+The almost sure convergence properties of autoregressive spectral estimates from noisy observations are derived. Sharp rates of almost sure convergence are established for the estimates of the autoregressive parameters, innovation variance, and spectral density function of the signal process. The distributions of the signal and noise processes are arbitrary. >

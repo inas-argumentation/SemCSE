@@ -1,0 +1,2 @@
+Anomaly intrusion detection in dynamic execution environments
+We describe an anomaly intrusion-detection system for platforms that incorporate dynamic compilation and profiling. We call this approach "dynamic sandboxing." By gathering information about applications' behavior usually unavailable to other anomaly intrusion-detection systems, dynamic sandboxing is able to detect anomalies at the application layer. We show our implementation in a Java Virtual Machine is both effective and efficient at stopping a backdoor and a virus, and has a low false positive rate.

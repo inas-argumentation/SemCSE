@@ -1,0 +1,2 @@
+Final Report of the Simulation Optimization Task Force
+This is the final report of the ATLAS Simulation Optimization Task Force, establishedin June of 2007. This note justifies the selected Geant4 version, physics list, and range cuts to be used by the default ATLAS simulation for initial data taking and beyond. The current status of several projects, including detector description, simulation validation, studies of additional Geant4 parameters, and cavern background, are reported.

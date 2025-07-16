@@ -1,0 +1,2 @@
+Fine-grained population diversity estimation for genetic programming based structure identification
+We here describe a novel formalism for estimating the structural similarity of formulas that are evolved by a genetic programming (GP) based identification process. This method takes into account several aspects of structure tree comparison that are particularly important in the context of evolutionary system identification; this similarity measure is used for measuring the genetic diversity among GP populations.

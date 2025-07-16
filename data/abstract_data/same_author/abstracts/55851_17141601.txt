@@ -1,0 +1,5 @@
+A new approach to multiple class pattern classification with random matrices
+We describe a new approach to multiple class pattern 
+classification problems with noise and high dimensional feature 
+space. The approach uses a random matrix X which has a specified 
+distribution with mean M and covariance matrix rij(Σs

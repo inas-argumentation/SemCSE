@@ -1,0 +1,15 @@
+Research Paper: Consumer Health Concepts That Do Not Map to the UMLS: Where Do They Fit?
+OBJECTIVE
+This study has two objectives: first, to identify and characterize consumer health terms not found in the Unified Medical Language System (UMLS) Metathesaurus (2007 AB); second, to describe the procedure for creating new concepts in the process of building a consumer health vocabulary. How do the unmapped consumer health concepts relate to the existing UMLS concepts? What is the place of these new concepts in professional medical discourse?
+
+
+DESIGN
+The consumer health terms were extracted from two large corpora derived in the process of Open Access Collaboratory Consumer Health Vocabulary (OAC CHV) building. Terms that could not be mapped to existing UMLS concepts via machine and manual methods prompted creation of new concepts, which were then ascribed semantic types, related to existing UMLS concepts, and coded according to specified criteria.
+
+
+RESULTS
+This approach identified 64 unmapped concepts, 17 of which were labeled as uniquely "lay" and not feasible for inclusion in professional health terminologies. The remaining terms constituted potential candidates for inclusion in professional vocabularies, or could be constructed by post-coordinating existing UMLS terms. The relationship between new and existing concepts differed depending on the corpora from which they were extracted.
+
+
+CONCLUSION
+Non-mapping concepts constitute a small proportion of consumer health terms, but a proportion that is likely to affect the process of consumer health vocabulary building. We have identified a novel approach for identifying such concepts.

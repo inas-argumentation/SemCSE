@@ -1,0 +1,15 @@
+Artificial Neural Networks approach to pharmacokinetic model selection in DCE-MRI studies.
+PURPOSE
+In pharmacokinetic analysis of Dynamic Contrast Enhanced MRI data, a descriptive physiological model should be selected properly out of a set of candidate models. Classical techniques suggested for this purpose suffer from issues like computation time and general fitting problems. This article proposes an approach based on Artificial Neural Networks (ANNs) for solving these problems.
+
+
+METHODS
+A set of three physiologically and mathematically nested models generated from the Tofts model were assumed: Model I, II and III. These models cover three possible tissue types from normal to malignant. Using 21 experimental arterial input functions and 12 levels of noise, a set of 27,216 time traces were generated. ANN was validated and optimized by the k-fold cross validation technique. An experimental dataset of 20 patients with glioblastoma was applied to ANN and the results were compared to outputs of F-test using Dice index.
+
+
+RESULTS
+Optimum neuronal architecture ([6:7:1]) and number of training epochs (50) of the ANN were determined. ANN correctly classified more than 99% of the dataset. Confusion matrices for both ANN and F-test results showed the superior performance of the ANN classifier. The average Dice index (over 20 patients) indicated a 75% similarity between model selection maps of ANN and F-test.
+
+
+CONCLUSIONS
+ANN improves the model selection process by removing the need for time-consuming, problematic fitting algorithms; as well as the need for hypothesis testing.

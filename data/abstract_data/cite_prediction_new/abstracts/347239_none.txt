@@ -1,0 +1,2 @@
+An EVM-optimized power amplifier for 2.4-GHz WLAN application
+A 2.4-GHz three-stage power amplifier for WLAN IEEE802.11b/g has been designed using low cost 35-GHz fT SiGe-HBT technology. Special emphasis has been placed on minimizing the error vector magnitude (EVM) for a 54-Mbps OFDM modulated signal. Up to 21 dBm of output power can be achieved with 3% EVM under these conditions. The PA shows 33dB power gain and a 27dBm P1dB with an associated 42% power added efficiency (PAE).

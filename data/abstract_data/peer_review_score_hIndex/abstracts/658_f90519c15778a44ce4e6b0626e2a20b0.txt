@@ -1,0 +1,6 @@
+Neural Distribution Learning for generalized time-to-event prediction
+Predicting the time to the next event is an important task in various domains. 
+However, due to censoring and irregularly sampled sequences, time-to-event prediction has resulted in limited success only for particular tasks, architectures and data. Using recent advances in probabilistic programming and density networks, we make the case for a generalized parametric survival approach, sequentially predicting a distribution over the time to the next event. 
+Unlike previous work, the proposed method can use asynchronously sampled features for censored, discrete, and multivariate data. 
+Furthermore, it achieves good performance and near perfect calibration for probabilistic predictions without using rigid network-architectures, multitask approaches, complex learning schemes or non-trivial adaptations of cox-models. 
+We firmly establish that this can be achieved in the standard neural network framework by simply switching out the output layer and loss function.

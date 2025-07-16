@@ -1,0 +1,2 @@
+A quantum particle swarm optimization
+The particle swarm optimization algorithm is a new methodology in evolutionary computation. It has been found to be extremely effective is solving a wide range of engineering problems, however, it is of low efficiency in dealing with the discrete problems. In this paper, a new discrete particle swarm optimization algorithm based on quantum individual is proposed. It is simpler and more powerful than the algorithms available. The simulation experiments and its application in the CDMA also prove its high efficiency.

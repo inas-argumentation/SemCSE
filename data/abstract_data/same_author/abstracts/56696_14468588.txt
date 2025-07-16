@@ -1,0 +1,2 @@
+On the Isomorphism Conjecture for 2-DFA Reductions
+The degree structure of complete sets under 2DFA reductions is investigated. It is shown that, for any class ${\mathcal C}$ that is closed under log-lin reductions: • All complete sets for the class ${\mathcal C}$ under 2DFA reductions are also complete under one-one, length-increasing 2DFA reductions and are first-order isomorphic. • The 2DFA-isomorphism conjecture is false, i.e., the complete sets under 2DFA reductions are not isomorphic to each other via 2DFA reductions.

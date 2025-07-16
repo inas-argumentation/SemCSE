@@ -1,0 +1,23 @@
+Value-based purchasing and hospital acquired conditions: are we seeing improvement?
+OBJECTIVE
+To determine if the Value-Based Purchasing Performance Scoring system correlates with hospital acquired condition quality indicators.
+
+
+DATA SOURCES/STUDY SETTING
+This study utilizes the following secondary data sources: the American Hospital Association (AHA) annual survey and the Centers for Medicare and Medicaid (CMS) Value-Based Purchasing and Hospital Acquired Conditions databases.
+
+
+STUDY DESIGN
+Zero-inflated negative binomial regression was used to examine the effect of CMS total performance score on counts of hospital acquired conditions. Hospital structure variables including size, ownership, teaching status, payer mix, case mix, and location were utilized as control variables.
+
+
+DATA COLLECTION
+The secondary data sources were merged into a single database using Stata 10.
+
+
+PRINCIPAL FINDINGS
+Total performance scores, which are used to determine if hospitals should receive incentive money, do not correlate well with quality outcome in the form of hospital acquired conditions.
+
+
+CONCLUSIONS
+Value-based purchasing does not appear to correlate with improved quality and patient safety as indicated by Hospital Acquired Condition (HAC) scores. This leads us to believe that either the total performance score does not measure what it should, or the quality outcome measurements do not reflect the quality of the total performance scores measure.

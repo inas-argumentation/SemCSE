@@ -1,0 +1,2 @@
+ViBe: A Disruptive Method for Background Subtraction
+The proliferation of the video surveillance cameras, which accounts for the vast majority of cameras worldwide, has resulted in the need to nd methods and algorithms for dealing with the huge amount of information that is gathered every second. This encompasses processing tasks, such as raising an alarm or detouring moving objects, as well as some semantic tasks like event monitoring, trajectory or ow analysis, counting people, etc.

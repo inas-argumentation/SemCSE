@@ -1,0 +1,2 @@
+Uncertainty and RuleML Rulebases: A Preliminary Report
+Uncertainty, like imprecision and vagueness, has gained considerable attention the last decade. To this extend we present a preliminary report on extending the Rule Markup Language (RuleML) with fuzzy set theory, in order to be able to represent and handle vague knowledge. We also provide semantics for the case of fuzzy FOL RuleML.

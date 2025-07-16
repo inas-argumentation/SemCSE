@@ -1,0 +1,15 @@
+Statistical CT noise reduction with multiscale decomposition and penalized weighted least squares in the projection domain.
+PURPOSES
+The suppression of noise in x-ray computed tomography (CT) imaging is of clinical relevance for diagnostic image quality and the potential for radiation dose saving. Toward this purpose, statistical noise reduction methods in either the image or projection domain have been proposed, which employ a multiscale decomposition to enhance the performance of noise suppression while maintaining image sharpness. Recognizing the advantages of noise suppression in the projection domain, the authors propose a projection domain multiscale penalized weighted least squares (PWLS) method, in which the angular sampling rate is explicitly taken into consideration to account for the possible variation of interview sampling rate in advanced clinical or preclinical applications.
+
+
+METHODS
+The projection domain multiscale PWLS method is derived by converting an isotropic diffusion partial differential equation in the image domain into the projection domain, wherein a multiscale decomposition is carried out. With adoption of the Markov random field or soft thresholding objective function, the projection domain multiscale PWLS method deals with noise at each scale. To compensate for the degradation in image sharpness caused by the projection domain multiscale PWLS method, an edge enhancement is carried out following the noise reduction. The performance of the proposed method is experimentally evaluated and verified using the projection data simulated by computer and acquired by a CT scanner.
+
+
+RESULTS
+The preliminary results show that the proposed projection domain multiscale PWLS method outperforms the projection domain single-scale PWLS method and the image domain multiscale anisotropic diffusion method in noise reduction. In addition, the proposed method can preserve image sharpness very well while the occurrence of "salt-and-pepper" noise and mosaic artifacts can be avoided.
+
+
+CONCLUSIONS
+Since the interview sampling rate is taken into account in the projection domain multiscale decomposition, the proposed method is anticipated to be useful in advanced clinical and preclinical applications where the interview sampling rate varies.

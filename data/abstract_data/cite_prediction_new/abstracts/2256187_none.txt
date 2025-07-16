@@ -1,0 +1,2 @@
+Learning to be a Bot: Reinforcement Learning in Shooter Games
+This paper demonstrates the applicability of reinforcement learning for first person shooter bot artificial intelligence. Reinforcement learning is a machine learning technique where an agent learns a problem through interaction with the environment. The Sarsa(λ) algorithm will be applied to a first person shooter bot controller to learn the tasks of (1) navigation and item collection, and (2) combat. The results will show the validity and diversity of reinforcement learning in a first person shooter environment.

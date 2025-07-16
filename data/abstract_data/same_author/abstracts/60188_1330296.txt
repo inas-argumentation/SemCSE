@@ -1,0 +1,2 @@
+Small cycle cover of 2-connected cubic graphs
+Every 2-connected simple cubic graph of order n ≥ 6 has a cycle cover with at most [n/4] cycles. This bound is best possible.

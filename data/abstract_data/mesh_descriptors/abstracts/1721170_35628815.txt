@@ -1,0 +1,15 @@
+Traversal of multilayered corneal epithelia by cytotoxic Pseudomonas aeruginosa requires the phospholipase domain of exoU.
+PURPOSE
+Pseudomonas aeruginosa isolates from microbial keratitis are invasive or cytotoxic toward mammalian cells, depending on their type III secreted toxins. Cytotoxic strains express ExoU, a phospholipase that contributes to corneal virulence. This study determined whether the ExoU phospholipase domain is required for P. aeruginosa traversal of the human corneal epithelium.
+
+
+METHODS
+P. aeruginosa traversal of airlifted, multilayered, human corneal epithelial cells was quantified in vitro up to 8 hours after apical inoculation with ∼10⁶ cfu of strain PA14, or an isogenic exoU mutant (PA14ΔexoU). In addition, PA14ΔexoU or its triple effector mutant PA14ΔexoUΔexoTΔexoY, were complemented with exoU (pUCPexoU), phospholipase-inactive exoU (pUCPexoUD344A), or control plasmid (pUCP18). Transepithelial resistance (TER) was measured (by epithelial volt ohmmeter), and cytotoxicity was determined by trypan blue staining.
+
+
+RESULTS
+PA14 traversed more efficiently than its exoU mutant at 4, 6, and 8 hours after inoculation (100-, 20-, and 8-fold, respectively; P < 0.05), but not at 2 hours. Cells exposed to PA14 lost TER to baseline (P < 0.05). Controls confirmed PA14 cytotoxicity toward these corneal epithelial cells that was absent with exoU mutants. Epithelial traversal, cytotoxicity, and lost TER were restored for PA14ΔexoU, or PA14ΔexoUΔexoTΔexoY, by complementation with pUCPexoU, but not by complementation with pUCPexoUD344A.
+
+
+CONCLUSIONS
+Traversal of multilayered corneal epithelia in vitro by cytotoxic P. aeruginosa requires ExoU with an active phospholipase domain. Correlative loss of TER with traversal by wild-type, or exoU-complemented, bacteria suggests involvement of epithelial cell death and/or lost tight junction integrity. However, traversal by exoU mutants without reduced TER suggests that additional mechanisms are also operative.

@@ -1,0 +1,2 @@
+Least Squares Optimal Scaling of Partially Observed Linear Systems
+We compute approximate solutions to homogeneous linear systems of the form AB = 0. Here B is an m × p matrix, and A is an n × m matrix. Columns of A correspond with variables, rows with observations. Columns of B correspond with equations connecting the variables, elements of B are coefficients.

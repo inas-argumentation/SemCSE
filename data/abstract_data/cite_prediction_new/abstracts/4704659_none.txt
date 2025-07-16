@@ -1,0 +1,2 @@
+Using aspects and dynamic composition to provide context-aware adaptation for mobile applications
+Mobile systems characterize by dynamic environments, thus requiring adaptive and context aware mechanisms to perceive changes in the execution context and to dynamically adapt to them. We propose a framework for developing adaptive context aware applications which employs aspect-oriented techniques and dynamic composition to modularize the adaptive behavior and to keep apart the application logic from this behavior.

@@ -1,0 +1,2 @@
+Colimits for Concurrent Collectors
+This case study applies techniques of formal program development by specification refinement and composition to the problem of concurrent garbage collection. The specification formalism is mainly based on declarative programming paradigms, the imperative aspect is dealt with by using monads. We also sketch the use of temporal logic in connection with monadic specifications.

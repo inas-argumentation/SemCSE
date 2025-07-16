@@ -1,0 +1,2 @@
+LigSearch: a knowledge-based web server to identify likely ligands for a protein target
+LigSearch is a web server for identifying ligands likely to bind to a given protein. It can be accessed at http://www.ebi.ac.uk/thornton-srv/databases/LigSearch.

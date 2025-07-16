@@ -1,0 +1,15 @@
+Computational methods for the image segmentation of pigmented skin lesions: A review
+BACKGROUND AND OBJECTIVES
+Because skin cancer affects millions of people worldwide, computational methods for the segmentation of pigmented skin lesions in images have been developed in order to assist dermatologists in their diagnosis. This paper aims to present a review of the current methods, and outline a comparative analysis with regards to several of the fundamental steps of image processing, such as image acquisition, pre-processing and segmentation.
+
+
+METHODS
+Techniques that have been proposed to achieve these tasks were identified and reviewed. As to the image segmentation task, the techniques were classified according to their principle.
+
+
+RESULTS
+The techniques employed in each step are explained, and their strengths and weaknesses are identified. In addition, several of the reviewed techniques are applied to macroscopic and dermoscopy images in order to exemplify their results.
+
+
+CONCLUSIONS
+The image segmentation of skin lesions has been addressed successfully in many studies; however, there is a demand for new methodologies in order to improve the efficiency.

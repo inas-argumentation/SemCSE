@@ -1,0 +1,2 @@
+Which model to use for cortical spiking neurons?
+We discuss the biological plausibility and computational efficiency of some of the most useful models of spiking and bursting neurons. We compare their applicability to large-scale simulations of cortical neural networks.

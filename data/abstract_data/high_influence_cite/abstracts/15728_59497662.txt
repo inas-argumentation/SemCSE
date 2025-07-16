@@ -1,0 +1,3 @@
+Blocking Detection Based on Synoptic Filters
+The Tibaldi-Molteni blocking index is supplemented by additional filter criteria to eliminate cut-off lows and subsynoptic structures. We introduce three blocking filters and analyse their sensitivities: (i) a quantile filter requiring a minimum geopotential height anomaly to reject cut-off lows, (ii) an extent filter to extract scales above a 
+minimum zonal width, and (iii) a persistence filter to extract events with a minimum duration. Practical filter application is analysed in two case studies and the blocking climatologies for the Northern and the Southern Hemisphere.

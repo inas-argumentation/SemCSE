@@ -1,0 +1,2 @@
+Three-dimensional eddy current analysis by the boundary element method
+A boundary element method has been developed for the analysis of 3D eddy current problems. This method is based on the boundary integral equation formulation with equivalent electric and magnetic currents and electric charge as unknowns. Linear shape functions, defined parametrically over a quadrilateral element, have been selected for the Galerkin's method.

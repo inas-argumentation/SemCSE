@@ -1,0 +1,2 @@
+Learning Ensembles of Convolutional Neural Networks
+Ensemble learning is a method for generating multiple versions of a predictor network and using them to get an aggregated prediction. Given a learning set Ω consists of data {(yn, ~xn), n = 1, ..., N} where y is the class label and ~x is the inputing feature, we train a predictor φ(~x,Ω). With different initialization, we obtain a series of predictors {φk}. Our object is to use the {φk} to get a better predictor, φA.

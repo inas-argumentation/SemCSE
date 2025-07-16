@@ -1,0 +1,2 @@
+A Modified Edge Recombination Operator for the Travelling Salesman Problem
+Edge recombination is a crossover operator developed to preserve edge information for the Travelling Salesman Problem. This paper describes a modified version of the operator which converges significantly faster for all the benchmark problems tested.

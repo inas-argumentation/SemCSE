@@ -1,0 +1,2 @@
+Limits of Practical Sublinear Secure Computation
+Secure computations on big data call for protocols that have sublinear communication complexity in the input length. While fully homomorphic encryption (FHE) provides a general solution to the problem, employing it on a large scale is currently quite far from being practical. This is also the case for secure computation tasks that reduce to weaker forms of FHE such as “somewhat homomorphic encryption” or single-server private information retrieval (PIR).

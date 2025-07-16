@@ -1,0 +1,2 @@
+Classical estimation of hazard rate and mean residual life functions of Pareto distribution
+In this paper we find the maximum likelihood estimates (MLEs) of hazard rate and mean residual life functions (MRLF) of Pareto distribution, their asymptotic non degenerate distribution, exact distribution and moments. We also discuss the uniformly minimum variance unbiased estimate (UMVUE) of hazard rate function and MRLF. Finally, two numerical examples with simulated data and real data set, are presented to illustrate the proposed estimates.

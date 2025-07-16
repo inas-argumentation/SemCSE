@@ -1,0 +1,2 @@
+J ul 2 00 3 Nonlinear Reformulation of Heisenberg ’ s Dynamics
+A structural similarity between Classical Mechanics (CM) and Quantum Mechanics (QM) was revealed by P.A.M. Dirac in terms of Lie Algebras: while in CM the dynamics is determined by the Lie algebra of Poisson brackets on the manifold of scalar fields for classical position/momentum observables Q/P , QM evolves (in Heisenberg’s picture) according to the formally similar Lie algebra of commutator brackets of the corresponding operators: d dt Q = {Q, H} d dt P = {P, H} vs. d dt Q = i ~ [Q, H] − d dt P = i ~ [P, H]

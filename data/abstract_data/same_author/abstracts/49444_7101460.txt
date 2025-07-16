@@ -1,0 +1,2 @@
+On the Difference Method for Drawing Conic Arcs
+Abstract The difference method is an efficient way to generate an inscribed polygon of a conic section. We address the implementation issues of the difference method, that is, how to choose the difference parameter and initial points so that the inscribed polygon has a minimal number of line segments and is within a given tolerance of the conic arc. We also discuss how the difference method can be used to draw conic arcs represented by rational quadratic Bezier curves.

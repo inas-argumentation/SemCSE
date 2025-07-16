@@ -1,0 +1,15 @@
+LSMM: a statistical approach to integrating functional annotations with genome-wide association studies
+Motivation
+Thousands of risk variants underlying complex phenotypes (quantitative traits and diseases) have been identified in genome-wide association studies (GWAS). However, there are still two major challenges towards deepening our understanding of the genetic architectures of complex phenotypes. First, the majority of GWAS hits are in non-coding region and their biological interpretation is still unclear. Second, accumulating evidence from GWAS suggests the polygenicity of complex traits, i.e. a complex trait is often affected by many variants with small or moderate effects, whereas a large proportion of risk variants with small effects remain unknown.
+
+
+Results
+The availability of functional annotation data enables us to address the above challenges. In this study, we propose a latent sparse mixed model (LSMM) to integrate functional annotations with GWAS data. Not only does it increase the statistical power of identifying risk variants, but also offers more biological insights by detecting relevant functional annotations. To allow LSMM scalable to millions of variants and hundreds of functional annotations, we developed an efficient variational expectation-maximization algorithm for model parameter estimation and statistical inference. We first conducted comprehensive simulation studies to evaluate the performance of LSMM. Then we applied it to analyze 30 GWAS of complex phenotypes integrated with nine genic category annotations and 127 cell-type specific functional annotations from the Roadmap project. The results demonstrate that our method possesses more statistical power than conventional methods, and can help researchers achieve deeper understanding of genetic architecture of these complex phenotypes.
+
+
+Availability and implementation
+The LSMM software is available at https://github.com/mingjingsi/LSMM.
+
+
+Supplementary information
+Supplementary data are available at Bioinformatics online.

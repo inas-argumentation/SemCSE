@@ -1,0 +1,2 @@
+An upper bound on the number of edges of edge-coloring critical graphs with high maximum degree
+In this paper, we prove that any edge-coloring critical graph G with maximum degree @D>=([email protected])/2, where @e= =8 and |V(G)|>[email protected]@d-4-(@D+6)/(@d-6), where @d is the minimum degree of G. It generalizes a result of Sanders and Zhao.

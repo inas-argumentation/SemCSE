@@ -1,0 +1,2 @@
+General Symmetry Breaking Constraints
+We describe some new propagators for breaking symmetries in constraint satisfaction problems. We also introduce symmetry breaking constraints to deal with symmetries acting simultaneously on variables and values, conditional symmetries, as well as symmeties acting on set and other types of variables.

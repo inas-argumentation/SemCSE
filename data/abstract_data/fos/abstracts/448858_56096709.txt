@@ -1,0 +1,32 @@
+Photocurrent modelling and experimental confirmation for meteoric smoke particle detectors on board atmospheric sounding rockets
+Abstract. Characterising the photoelectron current induced by the Sun's UV radiation is
+crucial to ensure accurate daylight measurements from particle detectors.
+This article lays out the methodology used to address this problem in the
+case of the meteoric smoke particle detectors (MSPDs), developed by the
+Leibniz Institute of Atmospheric Physics in Kuhlungsborn (IAP) and flown
+on board the PMWEs (Polar Mesosphere Winter Echoes) sounding rockets in
+April 2018. The methodology focuses on two complementary aspects: modelling
+and experimental measurements. A detailed model of the MSPD photocurrent was
+created based on the expected solar UV flux, the atmospheric UV absorption as
+a function of height by molecular oxygen and ozone, the photoelectric yield
+of the material coating the MSPD as a function of wavelength, the index of
+refraction of these materials as a function of wavelength and the angle of
+incidence of the illumination onto the MSPD. Due to its complex structure,
+composed of a central electrode shielded by two concentric grids, extensive
+ray-tracing calculations were conducted to obtain the incidence angles of the
+illumination on the central electrode, and this was done for various orientations of
+the MSPD in respect to the Sun. Results of the modelled photocurrent at
+different heights and for different materials, as well as for different
+orientations of the detector, are presented. As a pre-flight confirmation, the
+model was used to reproduce the experimental measurements conducted by
+ Robertson et al. ( 2014 ) and agrees within an order of magnitude. An
+experimental setup for the calibration of the MSPD photocurrent is also
+presented. The photocurrent induced by the Lyman-alpha line from a deuterium
+lamp was recorded inside a vacuum chamber using a narrowband filter, while
+a UV-sensitive photodiode was used to monitor the UV flux. These
+measurements were compared with the model prediction, and also matched within
+an order of magnitude. Although precisely modelling the photocurrent is a
+challenging task, this article quantitatively improved the understanding of
+the photocurrent on the MSPD and discusses possible strategies to untangle
+the meteoric smoke particles (MSPs) current from the photocurrent recorded
+in-flight.

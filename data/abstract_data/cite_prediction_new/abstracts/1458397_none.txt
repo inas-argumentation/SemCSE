@@ -1,0 +1,27 @@
+Control of Machines with Non-Linear Low Velocity Friction: A Dimensional Analysis
+Machines at low velocity exhibit stick-slip motion. This phenomena is of particular importance in force control of robot manipulators because much of the force correcting action can occur in the low velocity regime of stick-slip. Experimental work has mapped out the structure of Stribeck friction, a non-linear low-velocity friction effect that contributes to and perhaps dominates stick-slip. In this paper I explore the implications of Stribeck friction for feedback control, in particular, for a system with Stribeck friction the following are examined: 
+ 
+• 
+ 
+The minimum velocity below which stick-slip will occur; 
+ 
+ 
+ 
+ 
+• 
+ 
+Accuracy of sensing required to eliminate stick-slip by feedback control; 
+ 
+ 
+ 
+ 
+• 
+ 
+The jerk size during stick-slip motion; 
+ 
+ 
+ 
+ 
+• 
+ 
+Mechanical attributes that will affect Stribeck friction.

@@ -1,0 +1,2 @@
+Learning and Generalization Theories of Large Committee Machines
+The study of the distribution of volumes associated to the internal representations of learning examples allows us to derive the critical learning capacity \left( \alpha _c \frac{{16}\pi \sqrt \ln ,k} \right) of large committee machines, to verify the stability of the solution in the limit of a large number K of hidden units and to find a Bayesian generalization cross over at a=K.

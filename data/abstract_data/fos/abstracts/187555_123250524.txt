@@ -1,0 +1,2 @@
+On Mean Squared Prediction Error Estimation in Small Area Estimation Problems
+For a general linear mixed normal model, a new linearized weighted jackknife method is proposed to estimate the mean squared prediction error (MSPE) of an empirical best linear unbiased predictor (EBLUP) of a general mixed effect. Different MSPE estimators are compared using a Monte Carlo simulation study.

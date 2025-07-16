@@ -1,0 +1,2 @@
+UBIQUITOUS CONTROLLING AND MONITORING OF ELECTRICAL APPLIANCES
+Home automation is the residential extension of building automation and involves the control and automation of lighting, HVAC (heating, ventilation and conditioning), appliances and security. Modern system generally consists of switches and sensors connected to a central hub with a user interface through a smartphone or the web. To achieve this we are making use of Arduino Uno, an open source hardware, which acts like a central hub to control the switches and sensors and operated ubiquitously via web-services.

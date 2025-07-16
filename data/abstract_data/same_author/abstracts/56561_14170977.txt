@@ -1,0 +1,2 @@
+On the structure of Skipjack
+In this paper the structure of the NSA-designed block cipher Skipjack is examined. By cryptanalysing a large number of variants of the algorithm, we give plausible arguments for several principles behind the Skipjack design. The conclusion is that the algorithm seems to be carefully designed. ? 2001 Elsevier Science B.V. All rights reserved.

@@ -1,0 +1,2 @@
+A Note on the Static-Static Key Agreement Protocol from Supersingular Isogenies
+The basic Supersingular Isogeny Diffie-Hellman (SIDH) key agreement protocol is insecure due to an attack described by Galbraith, Petit, Shani and Ti. In this note we present two variants of SIDH that are immune to this attack.

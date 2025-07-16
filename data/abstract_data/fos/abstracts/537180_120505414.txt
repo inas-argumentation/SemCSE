@@ -1,0 +1,3 @@
+Endpoint estimates for Riesz transforms of magnetic Schrödinger operators
+
+Let $A=-(\nabla-i\vec{a})^2+V$ be a magnetic Schrödinger operator acting on L2(Rn), n≥1, where $\vec{a}=(a_1,\cdots,a_n)\in L^2_{\rm loc}$ and 0≤V∈L1loc. Following [1], we define, by means of the area integral function, a Hardy space H1A associated with A. We show that Riesz transforms (∂/∂xk-iak)A-1/2 associated with A, $k=1,\cdots,n$, are bounded from the Hardy space H1A into L1. By interpolation, the Riesz transforms are bounded on Lp for all 1

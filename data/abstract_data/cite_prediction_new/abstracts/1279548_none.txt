@@ -1,0 +1,2 @@
+Efficient Deterministic Algorithms for Embedding Graphs on Books
+We derive deterministic polynomial time algorithms for book embedding of a graph G = (V, E), ¦V¦ = n and ¦E¦ = m. In particular, we present the first deterministic polynomial time algorithm to embed any bipartite graph in \(O(\sqrt m )\)pages. We then use this algorithm to embed, in polynomial time, any graph G in \(O(\sqrt {\delta ^ * (G) \cdot m} )\)pages, where δ*(G) is the largest minimum degree over all subgraphs of G. Our algorithms are obtained by derandomizing the probabilistic proofs.

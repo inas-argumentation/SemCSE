@@ -1,0 +1,2 @@
+Small h asymptotics for quantum partition functions associated to particles in external Yang Mills potentials
+To a gauge field on a principalG bundleP M is associated a sequence of quantum mechanical Hamiltonians, as Planck's constant h 0 and a sequence of representations pn ofG is taken. This paper studies the associated quantum partition functions, trace exp tHn) and produces a complete asymptotic expansion, as h 0, h=1/n, of which the principal term, proportional to the classical partition function, is the familiar classical limit.

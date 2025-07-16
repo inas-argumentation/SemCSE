@@ -1,0 +1,2 @@
+Long time convergence for a class of variational phase field models
+In this paper we analyze a class of phase field models for the dynamics of phase transitions which extend the well-known Caginalp and Penrose-Fife models. Existence and uniqueness of the solution to the related initial boundary value problem are shown. Further regularity of the solution is deduced by exploiting the so-called regularizing effect. Then, the large time behavior of such a solution is studied and several convergence properties of the trajectory as time tends to infinity are discussed.

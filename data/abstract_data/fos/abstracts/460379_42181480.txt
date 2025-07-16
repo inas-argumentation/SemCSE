@@ -1,0 +1,15 @@
+A theoretical study on phase-contrast mammography with Thomson-scattering x-ray sources.
+PURPOSE
+The x-ray transmitted beam from any material/tissue depends on the complex refractive index (n= 1-delta+ibeta), where delta is responsible for the phase shift and beta is for the beam attenuation. Although for human tissues, the delta cross section is about 1000 times greater than the beta ones in the x-ray energy range from 10 to 150 keV, the gain in breast tumor visualization of phase-contrast mammography (PCM) with respect to absorption contact imaging (AI) is limited by the maximum dose that can be delivered to the patient. Moreover, in-line PC imaging (PCI) is the simplest experimental mode among all available x-ray PCI techniques since no optics are needed. The latter is a fundamental requirement in order to transfer the results of laboratory research into hospitals. Alternative to synchrotron radiation sources, the implementation of relativistic Thomson-scattering (TS) x-ray sources is particularly suitable for hospital use because of their high peak brightness within a relatively compact and affordable system. In this work, the possibility to realize PCM using a TS source in a hospital environment is studied, accounting for the effect of a finite deliverable dose on the PC visibility enhancement with respect to AI.
+
+
+METHODS
+The contrast-to-noise ratio of tumor-tissue lesions in PCM has been studied on the bases of a recent theoretical model, describing image contrast formation by means of both wave-optical theory and the mutual coherence formalism. The latter is used to describe the evolution, during wave propagation, of the coherence of the wave field emitted by a TS source. The contrast-to-noise ratio for both PCI and AI has been analyzed in terms of tumor size, beam energy, detector, and source distances, studying optimal conditions for performing PCM. Regarding other relevant factors which could influence "tumor" visibility, the authors have assumed simplified conditions such as a spherical shape description of the tumor inclusion, a constant surrounding background, ideal conditions for the calculus of the contrast-to-noise ratio.
+
+
+RESULTS
+The results show the possibility to enhance with PCI the signal-to-noise ratio for features in the submillimeter scale. This finding could give PCM a great advantage with respect to AI, opening the possibility to decrease the number of wrong diagnoses before histological exams. The results agree with experimental evidences obtained by Dreossi et al. [D. Dreossi et al., "The mammography project at the SYRMEP beamline," Eur. J. Radiol. 68, S58-S62 (2008)] with real PCM using synchrotron radiation.
+
+
+CONCLUSIONS
+The challenging characteristics of TS sources, suitable for PCM, should be fluxes of at least 10(11) photons/s emitted by very small sources of about 10 microm, together with moderate energy spreads (less than 10%) in order to realize both sufficient spatial coherence and enough fluence on the patient, collecting images in reasonable exposure times. These fluxes will be achieved by next generation TS sources which are already under development.

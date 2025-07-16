@@ -1,0 +1,2 @@
+Rate of Convergence of Implicit Approximations for stochastic evolution equations
+Stochastic evolution equations in Banach spaces with unbounded nonlinear drift and diffusion operators are considered. Under some regularity condition assumed for the solution, the rate of convergence of implicit Euler approximations is estimated under strong monotonicity and Lipschitz conditions. The results are applied to a class of quasilinear stochastic PDEs of parabolic type.

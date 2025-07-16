@@ -1,0 +1,15 @@
+TU-FG-BRB-11: Design and Evaluation of a Robotic C-Arm CBCT System for Image-Guided Proton Therapy.
+PURPOSE
+To describe the design and performance of a ceiling-mounted robotic C-arm CBCT system for image-guided proton therapy.
+
+
+METHODS
+Uniquely different from traditional C-arm CBCT used in interventional radiology, the imaging system was designed to provide volumetric image guidance for patients treated on a 190-degree proton gantry system and a 6 degree-of-freedom (DOF) robotic patient positioner. The mounting of robotic arms to the ceiling rails, rather than gantry or nozzle, provides the flexibility in imaging locations (isocenter, iso+27cm in X, iso+100cm in Y) in the room and easier upgrade as technology advances. A kV X-ray tube and a 43×43cm flat panel imager were mounted to a rotating C-ring (87cm diameter), which is coupled to the C-arm concentrically. Both C-arm and the robotic arm remain stationary during imaging to maintain high position accuracy. Source-to-axis distance and source-to-imager distance are 100 and 150cm, respectively. A 14:1 focused anti-scatter grid and a bowtie filer are used for image acquisition. A unique automatic collimator device of 4 independent blades for adjusting field of view and reducing patient dose has also been developed.
+
+
+RESULTS
+Sub-millimeter position accuracy and repeatability of the robotic C-arm were measured with a laser tracker. High quality CBCT images for positioning can be acquired with a weighted CTDI of 3.6mGy (head in 200° full fan mode: 100kV, 20mA, 20ms, 10fps)-8.7 mGy (pelvis in 360° half fan mode: 125kV, 42mA, 20ms, 10fps). Image guidance accuracy achieved <1mm (3D vector) with automatic 3D-3D registration for anthropomorphic head and pelvis phantoms. Since November 2015, 22 proton therapy patients have undergone daily CBCT imaging for 6 DOF positioning.
+
+
+CONCLUSION
+Decoupled from gantry and nozzle, this CBCT system provides a unique solution for volumetric image guidance with half/partial proton gantry systems. We demonstrated that daily CBCT can be integrated into proton therapy for pre-treatment position verification.

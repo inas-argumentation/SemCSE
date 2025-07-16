@@ -1,0 +1,2 @@
+A Hybrid Replica Control Algorithm Combining Static and Dynamic Voting
+A hybrid scheme that integrates the static voting protocol and dynamic voting with linearly ordered copies is proposed. A stochastic model is used to compare the file availability afforded by the proposed hybrid scheme with the availabilities of voting, dynamic voting, and dynamic voting with linearly ordered copies. The hybrid scheme has the most availability of these four algorithms for all reasonable repair/failure ratios tested. >

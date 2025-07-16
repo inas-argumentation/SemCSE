@@ -1,0 +1,2 @@
+A Note on Dynamic Data Driven Wildfire Modeling
+A proposed system for real-time modeling of wildfires is described. The system involves numerical weather and fire prediction, automated data acquisition from Internet sources, and input from aerial photographs and sensors. The system will be controlled by a non-Gaussian ensemble filter capable of assimilating out-of-order data. The computational model will run on remote supercomputers, with visualization on PDAs in the field connected to the Internet via a satellite.

@@ -1,0 +1,2 @@
+Area-Time Optimal VLSI Integer Multiplier with Minimum Computation Time
+According to VLSI theory, [logn, √n] is the range of computation times for which there may exist an AT2-optimal multiplier of n-bit integers. Such networks were previously known for the time range [Ω(log2n), 0(√n)]; in this paper we settle this theoretical question, by exhibiting a-class of AT2-optimal multipliers with computation times [Ω(logn), 0(n1/2)]. Our designs are based on the DFT on a Fermat ring, whose elements are represented in a redundant radix-4 form to ensure 0(1) addition time.

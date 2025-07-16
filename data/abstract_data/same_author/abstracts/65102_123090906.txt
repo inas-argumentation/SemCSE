@@ -1,0 +1,26 @@
+On the Reconstruction of a String from Spectral Data
+We consider the problem to reconstruct the mass distribution of a string where the mass is concentrated in a finite number of points, or, equivalently, the problem to reconstruct a simply connected mass spring system with unknown masses and stiffness parameters if the following data are given. 
+ 
+ 
+ 
+Problem 1: The spectra of the string and of a modification of the string, or. 
+ 
+ 
+ 
+Problem 2: The spectra of two different modifications of the string. 
+ 
+ 
+ 
+Here a modification of the string is a string which appears if we link the unknown string with another string of known mass distribution. 
+ 
+ 
+ 
+The paper contains a necessary condition for the existence of a solution of Problem 1, and explicit formulas and an algorithm for the solutions of the Problems 1 and 2 under the condition that there exists a solution. 
+ 
+ 
+ 
+For the case that the mass distribution of the unknown string is not discrete we consider the problem to find discrete approximations of this distribution from the respective spectral data. 
+ 
+ 
+ 
+The methods are based on the spectral theory of generalized second order differential operators as developed by M. G. Krein

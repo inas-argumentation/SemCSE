@@ -1,0 +1,2 @@
+Manipulating Attributes of Natural Scenes via Hallucination
+Fig. 1. Given a natural image, the proposed approach can hallucinate different versions of the same scene in a wide range of conditions, e.g.night, sunset, winter, spring, rain, fog or even a combination of those. First, our method utilizes a single generator network to imagine the scene with respect to its semantic layout and the desired set of attributes. Then, it directly transfers the look from the hallucinated output to the input image, without a need to have access to a reference style image.

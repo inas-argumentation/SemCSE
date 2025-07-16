@@ -1,0 +1,15 @@
+Parameter optimization and field validation of the functional-structural model GREENLAB for maize at different population densities.
+BACKGROUND AND AIMS
+Plant population density (PPD) influences plant growth greatly. Functional-structural plant models such as GREENLAB can be used to simulate plant development and growth and PPD effects on plant functioning and architectural behaviour can be investigated. This study aims to evaluate the ability of GREENLAB to predict maize growth and development at different PPDs.
+
+
+METHODS
+Two field experiments were conducted on irrigated fields in the North China Plain with a block design of four replications. Each experiment included three PPDs: 2.8, 5.6 and 11.1 plants m(-2). Detailed observations were made on the dimensions and fresh biomass of above-ground plant organs for each phytomer throughout the seasons. Growth stage-specific target files (a description of plant organ weight and dimension according to plant topological structure) were established from the measured data required for GREENLAB parameterization. Parameter optimization was conducted using a generalized least square method for the entire growth cycles for all PPDs and years. Data from in situ plant digitization were used to establish geometrical symbol files for organs that were then applied to translate model output directly into 3-D representation for each time step of the model execution.
+
+
+KEY RESULTS
+The analysis indicated that the parameter values of organ sink variation function, and the values of most of the relative sink strength parameters varied little among years and PPDs, but the biomass production parameter, computed plant projection surface and internode relative sink strength varied with PPD. Simulations of maize plant growth based on the fitted parameters were reasonably good as indicated by the linearity and slopes similar to unity for the comparison of simulated and observed values. Based on the parameter values fitted from different PPDs, shoot (including vegetative and reproductive parts of the plant) and cob fresh biomass for other PPDs were simulated. Three-dimensional representation of individual plant and plant stand from the model output with two contrasting PPDs were presented with which the PPD effect on plant growth can be easily recognized.
+
+
+CONCLUSIONS
+This study showed that GREENLAB model has the ability to capture plant plasticity induced by PPD. The relatively stable parameter values strengthened the hypothesis that one set of equations can govern dynamic organ growth. With further validation, this model can be used for agronomic applications such as yield optimization.

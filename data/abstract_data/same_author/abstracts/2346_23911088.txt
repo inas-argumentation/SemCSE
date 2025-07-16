@@ -1,0 +1,2 @@
+Robust Ridge Following in Fingerprints
+In this paper, we presented an improved approach of minutiae detection by following the ridges Our algorithm is based on the two characteristics of the ridge points on the same ridge: connectivity and randomicity Because our algorithm takes full advantage of the characteristics of the ridge points, it is robust to noise Using our algorithm, good quality ridge images can be obtained which can be used to assist minutiae-based fingerprint matching, or directly used for fingerprint matching Experimental results are included.

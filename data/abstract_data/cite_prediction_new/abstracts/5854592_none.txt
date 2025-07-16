@@ -1,0 +1,2 @@
+Assessment of Circuit Optimization Techniques Under NBTI
+This paper conducts a comprehensive study on existing circuit optimization techniques against NBTI, degradation mechanism that has become a critical reliability issue for nano-scaled IC design. These techniques are categorized by their intrinsic characteristics, and several important observations are made to give design guideline on NBTI mitigation.

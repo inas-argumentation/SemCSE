@@ -1,0 +1,15 @@
+SU-E-CAMPUS-T-01: Automation of the Winston-Lutz Test for Stereotactic Radiosurgery.
+PURPOSE
+To optimize clinical efficiency and shorten patient wait time by minimizing the time and effort required to perform the Winston-Lutz test before stereotactic radiosurgery (SRS) through automation of the delivery, analysis, and documentation of results.
+
+
+METHODS
+The radiation fields of the Winston-Lutz (WL) test were created in a "machine-QA patient" saved in ARIA for use before SRS cases. Images of the BRW target ball placed at mechanical isocenter are captured with the portal imager for each of four, 2cm×2cm, MLC-shaped beams. When the WL plan is delivered and closed, this event is detected by in-house software called EventNet which automates subsequent processes with the aid of the ARIA web services. Images are automatically retrieved from the ARIA database and analyzed to determine the offset of the target ball from radiation isocenter. The results are posted to a website and a composite summary image of the results is pushed back into ImageBrowser for review and authenticated documentation.
+
+
+RESULTS
+The total time to perform the test was reduced from 20-25 minutes to less than 4 minutes. The results were found to be more accurate and consistent than the previous method which used radiochromic film. The images were also analyzed with DoseLab for comparison. The difference between the film and automated WL results in the X and Y direction and the radius were (-0.17 +/- 0.28) mm, (0.21 +/- 0.20) mm and (-0.14 +/- 0.27) mm, respectively. The difference between the DoseLab and automated WL results were (-0.05 +/- 0.06) mm, (-0.01 +/- 0.02) mm and (0.01 +/- 0.07) mm, respectively.
+
+
+CONCLUSIONS
+This process reduced patient wait times by 15-20 minutes making the treatment machine available to treat another patient. Accuracy and consistency of results were improved over the previous method and were comparable to other commercial solutions. Access to the ARIA web services is made possible through an Eclipse co-development agreement with Varian Medical Systems.

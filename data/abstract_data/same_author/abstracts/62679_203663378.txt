@@ -1,0 +1,2 @@
+A Visual Language for Qualitative Data
+In this article, we first outline the basic concepts of fuzzy logic and Fuzzy Control. Thereafter, we sketch a visual language which integrates fuzzy set diagrams in the visual representation of rules. The basic concepts are inherited from the complete visual programming language Pictorial Janus (PJ). However, we significantly simplify PJ's visual concepts in order to adapt it for our purpose.

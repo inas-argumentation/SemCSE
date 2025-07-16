@@ -1,0 +1,7 @@
+Solving and analyzing side-chain positioning problems using linear and integer programming
+MOTIVATION
+Side-chain positioning is a central component of homology modeling and protein design. In a common formulation of the problem, the backbone is fixed, side-chain conformations come from a rotamer library, and a pairwise energy function is optimized. It is NP-complete to find even a reasonable approximate solution to this problem. We seek to put this hardness result into practical context.
+
+
+RESULTS
+We present an integer linear programming (ILP) formulation of side-chain positioning that allows us to tackle large problem sizes. We relax the integrality constraint to give a polynomial-time linear programming (LP) heuristic. We apply LP to position side chains on native and homologous backbones and to choose side chains for protein design. Surprisingly, when positioning side chains on native and homologous backbones, optimal solutions using a simple, biologically relevant energy function can usually be found using LP. On the other hand, the design problem often cannot be solved using LP directly; however, optimal solutions for large instances can still be found using the computationally more expensive ILP procedure. While different energy functions also affect the difficulty of the problem, the LP/ILP approach is able to find optimal solutions. Our analysis is the first large-scale demonstration that LP-based approaches are highly effective in finding optimal (and successive near-optimal) solutions for the side-chain positioning problem.

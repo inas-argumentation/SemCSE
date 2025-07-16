@@ -1,0 +1,2 @@
+On local pruning of association rules using directed hypergraphs
+Here we propose an adaptive local pruning method for association rules. Our method exploits the exact mapping between a certain class of association rules, namely those whose consequents are singletons and backward directed hypergraphs (B-graphs). The hypergraph which represents the association rules is called an association rules network(ARN). Here we present a simple example of an ARN. We further prove several properties of the ARN and apply the results of our approach to two popular data sets.

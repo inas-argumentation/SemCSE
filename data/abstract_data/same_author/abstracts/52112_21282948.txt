@@ -1,0 +1,2 @@
+Information-Based Cooperation in Multiple Agent Systems
+In this paper, we divide the cooperation in multiple agent systems into task-based cooperation and information-based cooperation. We describe information-based cooperation as information synthesizing and decision making. To implement information synthesizing, agents' beliefs are decomposed into two levels. The higher level represents the possible information, and the lower level subsequently estimates a number function for the belief by synthesizing the possible information.

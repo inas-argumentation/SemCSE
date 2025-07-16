@@ -1,0 +1,2 @@
+An AC Josephson source for Johnson noise thermometry
+We have adapted the Josephson arbitrary waveform synthesizer to create a quantized voltage noise source suitable for calibrating the cross-correlation electronics of a Johnson noise thermometer system. The requirements of long term stability and low voltage amplitude allow dramatic simplification of the bias electronics compared to previous circuits. We describe the bias technique and the superconducting integrated circuit used to generate the pseudo-noise waveforms.

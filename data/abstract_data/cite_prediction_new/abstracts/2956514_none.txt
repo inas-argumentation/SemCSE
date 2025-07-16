@@ -1,0 +1,2 @@
+Study of the de Almeida-Thouless line using power-law diluted one-dimensional Ising spin glasses.
+We test for the existence of a spin-glass phase transition, the de Almeida-Thouless line, in an externally applied (random) magnetic field by performing Monte Carlo simulations on a power-law diluted one-dimensional Ising spin glass for very large system sizes. We find that a de Almeida-Thouless line occurs only in the mean-field regime, which corresponds, for a short-range spin glass, to dimension d larger than 6.

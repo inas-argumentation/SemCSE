@@ -1,0 +1,2 @@
+A powerful route minimization heuristic for the vehicle routing problem with time windows
+We suggest an efficient route minimization heuristic for the vehicle routing problem with time windows. The heuristic is based on the ejection pool, powerful insertion and guided local search strategies. Experimental results on the Gehring and Homberger's benchmarks demonstrate that our algorithm outperforms previous approaches and found 18 new best-known solutions.

@@ -1,0 +1,2 @@
+Bayesian Analysis for the Poly-Weibull Distribution
+Abstract In this article Bayesian analysis for a Poly-Weibull distribution using informative priors is discussed. This distribution typically arises when the data is the minimum of several Weibull failure times from competing risks. To perform the Bayesian computations, simulation using the Gibbs sampler is suggested. This can be used to find posterior moments, the marginal posterior probability density function, and the predictive risk or reliability.

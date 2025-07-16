@@ -1,0 +1,2 @@
+A risk averse newsvendor with law invariant coherent measures of risk
+For general law invariant coherent measures of risk, we derive an equivalent representation of a risk averse newsvendor problem as a mean risk model. We prove that the higher the weight of the risk functional, the smaller the order quantity. Our theoretical results are confirmed by sample based optimization.

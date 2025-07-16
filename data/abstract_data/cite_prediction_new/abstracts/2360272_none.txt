@@ -1,0 +1,2 @@
+Stabilizing controller design for linear systems with nonlinear sensor or actuator failures
+For the linear, time-invariant, multi-input multi-output unity-feedback system under a class of non-linear, time-varying stable perturbations, we obtain conditions for stability and develop a controller design method which ensures stability in the presence of one arbitrary sensor or actuator failure.

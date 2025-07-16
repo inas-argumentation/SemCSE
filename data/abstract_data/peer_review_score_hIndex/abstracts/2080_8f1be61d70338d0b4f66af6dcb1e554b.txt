@@ -1,0 +1,2 @@
+Geometry of Program Synthesis
+We present a new perspective on program synthesis in which programs may be identified with singularities of analytic functions. As an example, Turing machines are synthesised from input-output examples by propagating uncertainty through a smooth relaxation of a universal Turing machine.  The posterior distribution over weights is approximated using Markov chain Monte Carlo and bounds on the generalisation error of these models is estimated using the real log canonical threshold, a geometric invariant from singular learning theory.  

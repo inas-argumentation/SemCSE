@@ -1,0 +1,2 @@
+Sharp Finite-Time Iterated-Logarithm Martingale Concentration
+We give concentration bounds for martingales that are uniform over finite times and extend classical Hoeffding and Bernstein inequalities. We also demonstrate our concentration bounds to be optimal with a matching anti-concentration inequality, proved using the same method. Together these constitute a finite-time version of the law of the iterated logarithm, and shed light on the relationship between it and the central limit theorem.

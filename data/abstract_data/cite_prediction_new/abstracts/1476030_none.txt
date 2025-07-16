@@ -1,0 +1,2 @@
+Interacting with the big screen: pointers to ponder
+In large screen projection environments, inexpensive wireless input devices can not match the performance of standard desktop interactive devices. We added buttons and a radio transmitter to a standard laser pointer to match the functionality of a standard mouse. User testing revealed that the device performed as well as a standard mouse and significantly better than standard presentation input devices. Devices that used visible laser light performed significantly better than those with invisible near-infrared lasers.

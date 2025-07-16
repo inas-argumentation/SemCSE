@@ -1,0 +1,2 @@
+Network-Authentication base on Fingerprint and Watermark
+This paper designs a kind of network authentication tec hnology which combine fingerprint identification and watermark. It can not only ensure the privacy o f users' information but also resist replay attack. It suits the require of e-commerce.

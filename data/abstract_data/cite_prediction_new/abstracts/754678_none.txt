@@ -1,0 +1,2 @@
+An Introduction to Multiple Imputation of Complex Sample Data using SAS® v9.2
+This paper presents practical guidance on the proper use of multiple imputation tools in SAS® 9.2 and the subsequent analysis of multiple imputed data sets from a complex sample survey data set. Use of the MI and MIANALYZE procedures and SAS survey procedures for typical descriptive and inferential analyses is demonstrated. The analytic techniques presented can be used on any operating system and are intended for an intermediate level audience.

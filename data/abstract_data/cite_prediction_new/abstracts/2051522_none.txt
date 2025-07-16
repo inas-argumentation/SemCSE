@@ -1,0 +1,2 @@
+Sub-µW QRS detection processor using quadratic spline wavelet transform and maxima modulus pair recognition for power-efficient wireless arrhythmia monitoring
+This paper describes a power-efficient processor for extracting the timing of QRS complex from digitized ECG, based on the hardware-efficient architecture of quadratic spline wavelet transform (QSWT) and maxima modulus pair recognition (MMPR). The processor succeeds in saving the wireless system's power by 6×.

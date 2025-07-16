@@ -1,0 +1,2 @@
+Incomplete motion feature tracking algorithm in video sequences
+To effectively track incomplete motion features, a novel feature tracking algorithm for motion capture is presented. According to feature attributes and relationship among features, extracted features are classified as four types of features. Then different strategies are applied to track different kinds of features. To verify the tracks, cross correlation test and predicted 3D model based test are used to test and remove outliers. Experimental results demonstrate the effectiveness of our algorithm.

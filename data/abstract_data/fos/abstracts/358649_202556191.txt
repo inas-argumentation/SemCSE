@@ -1,0 +1,15 @@
+Body motion detection and correction in cardiac PET: phantom and human studies.
+PURPOSE
+Patient body motion during a cardiac Positron Emission Tomography (PET) scan can severely degrade image quality. We propose and evaluate a novel method to detect, estimate, and correct body motion in cardiac PET.
+
+
+METHODS
+Our method consists of three key components: motion detection, motion estimation, and motion-compensated image reconstruction. For motion detection, we first divide PET list-mode data into 1-second bins and compute the center of mass (COM) of the coincidences' distribution in each bin. We then compute the covariance matrix within a 25-second sliding window over the COM signals inside the window. The sum of the eigenvalues of the covariance matrix is used to separate the list-mode data into "static" (i.e. body motion free) and "moving" (i.e. contaminated by body motion) frames. Each moving frame is further divided into a number of evenly-spaced sub-frames (referred to as "sub-moving" frames), in which motion is assumed to be negligible. For motion estimation, we first reconstruct the data in each static and sub-moving frame using a rapid back-projection technique. We then select the longest static frame as the reference frame and estimate elastic motion transformations to the reference frame from all other static and sub-moving frames using non-rigid registration. For motion-compensated image reconstruction, we reconstruct all the list-mode data into a single image volume in the reference frame by incorporating the estimated motion transformations in the PET system matrix. We evaluated the performance of our approach in both phantom and human studies.
+
+
+RESULTS
+Visually, the motion-corrected (MC) PET images obtained by the proposed method have better quality and fewer motion artifacts than the images reconstructed without motion correction (NMC). Quantitative analysis indicates that MC yields higher myocardium to blood pool concentration ratios. MC also yields sharper myocardium than NMC.
+
+
+CONCLUSION
+The proposed body motion correction method improves image quality of cardiac PET.

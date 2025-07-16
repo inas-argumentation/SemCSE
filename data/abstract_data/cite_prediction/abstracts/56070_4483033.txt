@@ -1,0 +1,2 @@
+Hierarchical Variational Autoencoders for Music
+In this work we develop recurrent variational autoencoders (VAEs) trained to reproduce short musical sequences and demonstrate their use as a creative device both via random sampling and data interpolation. Furthermore, by using a novel hierarchical decoder, we show that we are able to model long sequences with musical structure for both individual instruments and a three-piece band (lead, bass, and drums). Finally, we demonstrate the effectiveness of scheduled sampling in significantly improving our reconstruction accuracy.

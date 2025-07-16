@@ -1,0 +1,2 @@
+Searching Optimal Resequencing and Feature Assignment on an Automated Assembly Line
+In this paper, we have solved the resequencing and feature assignment problem (RFAP) by an iterative search scheme, which can obtain optimum solutions for instances sized as large as that in reality. The search scheme is based on a beam search heuristic, which outperform other heuristics in previous literature. The algorithms proposed can therefore be utilized to improve the vehicle manufacturing and to benchmark the optimum or near-optimum solutions for future research

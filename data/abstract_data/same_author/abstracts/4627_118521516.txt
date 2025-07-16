@@ -1,0 +1,2 @@
+LWFA as a Preinjector for XFEL Driver Linac
+In this paper, we propose to use the LWFA as the preinjector for XFEL driver linac. We can use LWFA to produce the femtosecond electron beam. The peak current of the produced beam can reach tens of $kA$ and is high enough to drive XFEL so that the present bunch compressing technique can be deserted. The output optical pusle length can be as short as $ 1 fs $.

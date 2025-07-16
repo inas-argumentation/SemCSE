@@ -1,0 +1,2 @@
+Design of an low power miller compensated two stage OP-AMP using 45 nm technology for high data rate communication
+This paper reports a new design of a low power two stage operational amplifier with Miller compensated topology for enhancing stability. The circuit is designed and simulated in Tanner EDA tool using 45 nm. CMOS technology. A significant reduction in power and enhancement of unity gain BW is achieved with a satisfactory phase margin. Several parameters are computed and compared with a few contemporary works to establish the efficacy of the design.

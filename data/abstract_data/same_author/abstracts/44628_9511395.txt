@@ -1,0 +1,2 @@
+Active learning and its scalability for image retrieval
+Active learning has been shown to be a viable tool for learning complex, subjective query concepts with a small number of training instances. In this work, we compare four active-learning algorithms and study the best sample-selection strategies. We also discuss two scalability issues of active learning: scalability in dataset size, and scalability in concept complexity. To address these challenges, we suggest future directions that research might take.

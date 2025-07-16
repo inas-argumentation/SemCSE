@@ -1,0 +1,2 @@
+Cryptographic properties of Boolean functions defining elementary cellular automata
+In this work, the algebraic properties of the local transition functions of elementary cellular automata (ECA) were analysed. Specifically, a classification of such cellular automata was done according to their algebraic degree, the balancedness, the resiliency, nonlinearity, the propagation criterion and the existence of non-zero linear structures. It is shown that there is not any ECA satisfying all properties at the same time.

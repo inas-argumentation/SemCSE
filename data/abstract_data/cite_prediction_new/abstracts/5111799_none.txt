@@ -1,0 +1,15 @@
+Feasibility of low-throughput next generation sequencing for germline DNA screening.
+BACKGROUND
+Next generation sequencing (NGS) promises many benefits for clinical diagnostics. However, current barriers to its adoption include suboptimal amenability for low clinical throughputs and uncertainty over data accuracy and analytical procedures. We assessed the feasibility and performance of low-throughput NGS for detecting germline mutations for Lynch syndrome (LS).
+
+
+METHODS
+Sequencing depth, time, and cost of 6 formats on the MiSeq and Personal Genome Machine platforms at 1-12 samples/run were calculated. Analytical performance was assessed from 3 runs of 3 DNA samples annotated for 7500 nucleotides by BeadChip arrays. The clinical performance of low-throughput NGS and 9 analytical processes were assessed through blinded analysis of DNA samples from 12 LS cases confirmed by Sanger sequencing, and 3 control cases.
+
+
+RESULTS
+The feasibility analysis revealed different formats were optimal at different throughputs. Detection was reproducible for 2619/2635 (99.39%) replicate variants, and sensitivity and specificity to array annotation were 99.42% and 99.99% respectively. Eleven of 16 inconsistently detected variants could be specifically identified by having allele frequencies ≤ 0.15, strand biases >-35, or genotype quality scores ≤ 80. Positive selection for variants in the Human Genome Mutation Database (colorectal cancer, nonpolyposis) and variants with ≤ 5% frequency in the Asian population gave the best clinical performance (92% sensitivity, 67% specificity).
+
+
+CONCLUSIONS
+Low-throughput NGS can be a cost-efficient and reliable approach for screening germline variants; however, its clinical utility is subject to the quality of annotation of clinically relevant variants.

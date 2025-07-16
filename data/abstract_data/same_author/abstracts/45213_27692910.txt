@@ -1,0 +1,2 @@
+Dominating cycles in regular 3-connected graphs
+Abstract Let G be a 3-connected, k -regular graph on at most 4 k vertices. We show that, for k ⩾63, every longest cycle of G is a dominating cycle. We conjecture that G is in fact hamiltonian.

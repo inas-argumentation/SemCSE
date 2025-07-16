@@ -1,0 +1,2 @@
+The Dirichlet and Fejer Kernels. Cesaro Summability
+In this chapter we introduce the so called Dirichlet and Fejer kernels and their elementary properties. These kernels are basic in the study of point wise convergence and summability, respectively, of Fourier series. From their properties we shall derive the localization principle, together with alternative proofs of the uniqueness and approximation theorems of 2.4.1 and 2.4.4.

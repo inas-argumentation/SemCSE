@@ -1,0 +1,2 @@
+Empirical Likelihood for Linear Models Under Linear Process Errors
+In this article, we study the construction of confidence intervals for regression parameters in a linear model under linear process errors by using the blockwise technique. It is shown that the blockwise empirical likelihood (EL) ratio statistic is asymptotically χ2-type distributed. The result is used to obtain EL based confidence regions for regression parameters. The finite-sample performance of the method is evaluated through a simulation study.

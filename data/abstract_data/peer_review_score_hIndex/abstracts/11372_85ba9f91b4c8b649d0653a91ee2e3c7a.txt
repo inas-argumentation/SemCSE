@@ -1,0 +1,6 @@
+NEO: Non Equilibrium Sampling on the Orbits of a Deterministic Transform
+Sampling from a complex distribution $\pi$ and approximating its intractable normalizing constant $\mathrm{Z}$ are challenging problems. 
+In this paper, a novel family of importance samplers (IS) and Markov chain Monte Carlo (MCMC) samplers is derived. 
+Given an invertible map $\mathrm{T}$, these schemes combine (with weights) elements from the forward and backward Orbits   through points sampled from a proposal distribution $\rho$. The map $\mathrm{T}$ does not leave the target $\pi$ invariant, hence the name NEO, standing for Non-Equilibrium Orbits. 
+NEO-IS provides unbiased estimators of the normalizing constant and self-normalized IS estimators of expectations under $\pi$ while NEO-MCMC combines multiple NEO-IS estimates of the normalizing constant and an iterated sampling-importance resampling mechanism to sample from $\pi$. 
+For $\mathrm{T}$ chosen as a discrete-time integrator of a conformal Hamiltonian system, NEO-IS achieves state-of-the art performance on difficult benchmarks and NEO-MCMC is able to explore highly multimodal targets. Additionally, we provide detailed theoretical results for both methods. In particular, we show that NEO-MCMC is uniformly geometrically ergodic and establish explicit mixing time estimates under mild conditions.

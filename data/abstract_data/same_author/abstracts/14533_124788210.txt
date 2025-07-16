@@ -1,0 +1,2 @@
+Semiclassical Approximation in Chern—Simons Gauge Theory
+The semiclassical approximation for the partition function in Chern—Simons gauge theory is derived using the invariant integration method. Volume and scale factors which were undetermined and had to be fixed by hand in previous derivations are automatically taken account of in this framework. Agreement with Witten’s exact expressions for the partition function in the weak coupling (large k) limit is verified for gauge group SU(2) and spacetimes S3, S2 x Si, Si x Si x S1 and L(p, q).

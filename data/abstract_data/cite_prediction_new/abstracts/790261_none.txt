@@ -1,0 +1,4 @@
+Random regular graphs with edge faults: Expansion through cores
+Let G be a given graph (modeling a communication network) which we assume suffers from static edge faults: That is we let each edge of G be present independently with probability p (or absent with fault probability f = 1-p). In particular we are interested in robustness results for the case that the graph G itself is a random member of the class of all regular graphs with given degree d. 
+ 
+Here we deal with expansion properties of faulty random regular graphs and show: For d ≥ 42, fixed and p = κ/d, κ ≥ 20, a random regular graph with fault probability f = 1- p contains a linear-sized subgraph which is an expander almost surely. This subgraph can be found by a simple linear-time algorithm.

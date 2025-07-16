@@ -1,0 +1,15 @@
+Can turbulence within the field of view cause significant biases in radiative transfer modeling at the 183 GHz band
+. The hypothesis whether turbulence within the passive microwave
+sounders field of view can cause significant biases in radiative transfer
+modeling at the 183 GHz water vapor absorption band is tested. A novel
+method to calculate the effects of turbulence in radiative transfer modeling
+is presented. It is shown that the turbulent nature of water vapor in the
+atmosphere can be a critical component of radiative transfer modeling in
+this band. Radiative transfer simulations are performed comparing a uniform
+field with a turbulent one. These comparisons show frequency dependent biases
+which can be up to several kelvin in brightness temperature. These biases can
+match experimentally observed biases, such as the ones reported in
+ Brogniez et al. ( 2016 ) . Our simulations show that those biases could be
+explained as an effect of high-intensity turbulence in the upper troposphere.
+These high turbulence phenomena are common in clear air turbulence, storm or
+cumulus cloud situations.

@@ -1,0 +1,6 @@
+Bidomains and Full Abstraction for Countable Nondeterminism
+We describe a denotational semantics for a sequential functional language with random number generation over a countably infinite set (the natural numbers), and prove that it is fully abstract with respect to may-and-must testing. 
+ 
+Our model is based on biordered sets similar to Berry's bidomains, and stable, monotone functions. However, (as in prior models of unbounded non-determinism) these functions may not be continuous. Working in a biordered setting allows us to exploit the different properties of both extensional and stable orders to construct a Cartesian closed category of sequential, discontinuous functions, with least and greatest fixpoints having strong enough properties to prove computational adequacy. 
+ 
+We establish full abstraction of the semantics by showing that it contains a simple, first-order “universal type-object” within which all types may be embedded using functions defined by (countable) ordinal induction.

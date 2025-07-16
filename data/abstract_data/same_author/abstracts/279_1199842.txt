@@ -1,0 +1,2 @@
+Secure Dataspace with Access Policies
+Inspired by rule-based access control models, this paper proposes a universal policy model and an access protection framework to secure dataspace. The key components and processes for this framework, policy organization, policy indexing and two resource searching strategies with access decision-making, are illustrated and experimented to harmonize the contradiction between security and efficiency.

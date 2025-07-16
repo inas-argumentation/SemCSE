@@ -1,0 +1,2 @@
+Quantitative Analysis of the Leakage of Confidential Data
+Basic information theory is used to analyse the amount of confidential information which may be leaked by programs written in a very simple imperative language. In particular, a detailed analysis is given of the possible leakage due to equality tests and if statements. The analysis is presented as a set of syntax-directed inference rules and can readily be automated.

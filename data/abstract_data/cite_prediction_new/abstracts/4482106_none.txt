@@ -1,0 +1,2 @@
+An improved figure-of-merit equation for op-amp evaluation
+An improved figure-of-merit (FoM) equation is proposed for opamp evaluation. This equation has a modification factor to include the effect of the phase margin, which is not considered in a conventional FoM equation. Simulation results confirm that the proposed FoM equation drastically suppresses the effect of load capacitance variations. By using the proposed FoM equation, evaluations of op-amps become more reasonable as compared with the comparisons using the conventional FoM equation.

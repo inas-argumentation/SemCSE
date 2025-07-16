@@ -1,0 +1,2 @@
+Improving Practical UC-Secure Commitments Based on the DDH Assumption
+At Eurocrypt 2011, Lindell presented practical static and adaptively UC-secure commitment schemes based on the DDH assumption. Later, Blazy eti¾?al. at ACNS 2013 improved the efficiency of the Lindell's commitment schemes. In this paper, we present static and adaptively UC-secure commitment schemes based on the same assumption and further improve the communication and computational complexity, as well as the size of the common reference string.

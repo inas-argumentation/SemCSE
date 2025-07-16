@@ -1,0 +1,2 @@
+Fingerprint Pore Matching Based on Sparse Representation
+This paper proposes an improved direct fingerprint pore matching method. It measures the differences between pores by using the sparse representation technique. The coarse pore correspondences are then established and weighted based on the obtained differences. The false correspondences among them are finally removed by using the weighted RANSAC algorithm. Experimental results have shown that the proposed method can greatly improve the accuracy of existing methods.

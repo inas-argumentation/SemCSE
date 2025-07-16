@@ -1,0 +1,2 @@
+Approximate controllability for some nonlinear parabolic problems
+where ft is a bounded regular set of ]R ~, w is an open subset of fl, X~ denotes the characteristic function of w, T > 0 is fixed and the initial datum y0 is given in a functi: hal space, e.g. y0 E L2(ft). The nonlinear term is given by the real function f and the control is represente,] by the function v G L2(w × (0, T)). As usual, the study of the semilinear problem is carAed out by considering previously some suitable linear problem

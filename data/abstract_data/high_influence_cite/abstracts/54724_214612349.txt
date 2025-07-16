@@ -1,0 +1,2 @@
+The Dirichlet problem for the 1-Laplacian with a general singular term and L 1-data
+We study the Dirichlet problem for an elliptic equation involving the 1-Laplace operator and a reaction term, namely: −Δ1u=h(u)f(x)inΩ,u=0on∂Ω, where Ω⊂RN is an open bounded set having Lipschitz boundary, f ∈ L 1(Ω) is nonnegative, and h is a continuous real function that may possibly blow up at zero. We investigate optimal ranges for the data in order to obtain existence, nonexistence and (whenever expected) uniqueness of nonnegative solutions.

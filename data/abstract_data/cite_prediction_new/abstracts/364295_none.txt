@@ -1,0 +1,2 @@
+Generalized Characterization of the Convex Envelope of a Function
+We investigate the minima of functionals of the form (a;b) g (_ u(s))ds where g is strictly convex. The admissible functions u :( a;b) ! are not necessarily convex and satisfy u f on (a;b), u(a )= f(a), u(b )= f(b), f is a xed function on (a;b). We show that the minimum is attained by f, the convex envelope of f.

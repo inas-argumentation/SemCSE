@@ -1,0 +1,14 @@
+Recent Calculations of Isospin-Mixing Corrections to the Fermi Matrix Element in Superallowed β-Decay and the Determination of the Weak Vector Coupling Constant
+In this report, corrections to the Fermi matrix element for superallowed β-transitions due to isospin impurities are presented. An important feature of these decays is that, since they are purely vector, their ft values are given by 
+ 
+$$ {f_R}t = K/G_V^2{\left| {{M_F}} \right|^2} $$ 
+ 
+(1) 
+ 
+where K is a constant, f the statistical rate function (which includes the nucleus -dependent “outer” radiative correction δR of Sirlin [1], i.e. fR=f(1+δR)), t the partial half-life, GV the effective vector coupling constant for single nucleon β-decay, and MF the Fermi matrix element for the transition. Once all nucleus-dependent corrections have been applied to (1), it is possible to extract empirical values of GV. This is important because the effective vector coupling constants for nucleon and muon β-decay are related by 
+ 
+$$ G_V^2 = G_{\mu }^2{\cos^2}{\theta_C}\left( {1 + {\Delta_{\beta }} - {\Delta_{\mu }}} \right) $$ 
+ 
+(2) 
+ 
+where θC is the Cabibbo angle, and Δβ and Δμ are the “inner” radiative corrections to nucleon and muon 3-decay, respectively. With GV/Gμ and θC determined from experiment, it is then possible to test current theoretical estimates for Δβ - Δμ.

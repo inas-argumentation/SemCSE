@@ -1,0 +1,2 @@
+Iterative solution for a singular nonlinear elliptic problem
+We consider the singular boundary-value problem @Du+q(x)u^@a+p(x)u^-^@[email protected],u|"@?"@W=0, where 0 =0,p(x)>=0 and p(x)+q(x) 0, and certain smoothness assumptions, we show that there exists a unique classical positive solution u^*(x)@?C^2^+^m^i^n^(^@a^,^@c^)(@W)@?C^1^,^r(@[email protected]?)(0

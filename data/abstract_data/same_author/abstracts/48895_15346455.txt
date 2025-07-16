@@ -1,0 +1,2 @@
+An Adaptive Poly-Parental Recombination Strategy
+A genetic recombination framework is presented within which both the unit of inheritance of genetic material from a parent, and the number of parents involved in the creation of a new individual are potentially learnt through the evolution of competing subpopulations representing different strategies.

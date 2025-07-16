@@ -1,0 +1,6 @@
+Training sequence labeling models using prior knowledge
+Sequence labeling task (part-of-speech tagging, named entity recognition) is one of the most common in NLP. At different times, the following architectures were used to solve it: CRF, BiLSTM, BERT (in chronological order). The combined model BiLSTM / BERT + CRF, where the last one is the topmost layer, however, performs better than just BiLSTM / BERT.
+
+It is common when there is a small amount of labeled data available for the task. Hence it is difficult to train a model with good generalizing capability, so one has to resort to semi-supervised learning approaches. One of them is called pseudo-labeling, the gist of what is increasing the training samples with unlabeled data, but it cannot be used alongside with the CRF layer, as this layer simulates the probability distribution of the entire sequence, not of individual tokens.
+
+In this paper, we propose an alternative to the CRF layer — the Prior Knowledge Layer (PKL), that allows one to obtain probability distributions of each token and also takes into account prior knowledge concerned the structure of label sequences.

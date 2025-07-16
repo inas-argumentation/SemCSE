@@ -1,0 +1,2 @@
+ON THE HYDROSTATIC STOKES APPROXIMATION WITH NON HOMOGENEOUS DIRICHLET BOUNDARY CONDITIONS
+We deal with the hydrostatic Stokes approximation with non homogeneous Dirichlet boundary conditions. After having investigated the homogeneous case, we build a lifting operator of boundary values related to the divergence operator, and solve the non homogeneous problem in a cylindrical type domain.

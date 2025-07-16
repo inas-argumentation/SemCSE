@@ -1,0 +1,10 @@
+Dynamics of shape memory alloys patches with mechanically induced transformations
+A mathematical model is constructed for the modelling of two dimensional thermo-mechanical 
+behavior of shape memory alloy patches. The model is constructed on the basis of a modified 
+Landau-Ginzburg theory and includes the coupling effect between thermal and mechanical 
+fields. The free energy functional for the model is exemplified for the square to rectangular 
+transformations. The model, based on nonlinear coupled partial differential equations, is 
+reduced to a system of differential-algebraic equations and the backward differentiation 
+methodology is used for its numerical analysis. Computational experiments with 
+representative distributed mechanical loadings are carried out for patches of different sizes 
+to analyze thermo-mechanical waves, coupling effects, and 2D phase transformations.

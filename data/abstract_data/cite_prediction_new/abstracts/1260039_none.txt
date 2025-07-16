@@ -1,0 +1,2 @@
+A general framework for analysing system properties in platform-based embedded system designs
+We present a framework (real-time calculus) for analysing various system properties pertaining to timing analysis, loads on various components and on-chip buffer memory requirements of heterogeneous platform-based architectures, in a single coherent way. Many previous analysis techniques from the real-time systems domain, which are based on standard event models, turn out to be special cases of our framework. We illustrate this using various realistic examples.

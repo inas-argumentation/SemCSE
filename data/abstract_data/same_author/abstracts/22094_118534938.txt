@@ -1,0 +1,2 @@
+Sparse sampling, galaxy bias, and voids
+To study the impact of sparsity and galaxy bias on void statistics, we use a single large-volume, high-resolution N-body simulation to compare voids in multiple levels of subsampled dark matter, halo populations, and mock galaxies from a Halo Occupation Distribution model tuned to dierent galaxy survey densities. We focus our comparison on three key observational statistics: number functions, ellipticity distributions, and radial density proles. We use the hierarchical tree structure of voids to

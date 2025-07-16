@@ -1,0 +1,2 @@
+Coherent MIMO radar: The phased array and orthogonal waveforms
+Coherent multiple-input multiple-output (MIMO) radar is a natural extension of the phased array antenna that has been used by radar systems for decades. This tutorial unifies concepts from the literature and provides a framework for the analysis of an arbitrary suite of MIMO radar waveforms. A number of gain patterns are introduced, which quantify the antenna performance of a MIMO radar, and the impact of the waveform characteristics (e.g., range sidelobes) is discussed.

@@ -1,0 +1,2 @@
+Faster Recovery of Approximate Periods over Edit Distance
+The approximate period recovery problem asks to compute all approximate word-periods of a given word S of length n: all primitive words P (\(|P|=p\)) which have a periodic extension at edit distance smaller than \(\tau _p\) from S, where \(\tau _p = \lfloor \frac{n}{(3.75+\epsilon )\cdot p} \rfloor \) for some \(\epsilon >0\). Here, the set of periodic extensions of P consists of all finite prefixes of \(P^\infty \).

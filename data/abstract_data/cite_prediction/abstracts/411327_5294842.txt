@@ -1,0 +1,2 @@
+BM3D filter in salt-and-pepper noise removal
+There is a significant recent advance in filtering of the salt-and-pepper noise for digital images. However, almost all recent schemes for filtering of this type of noise are not taking into an account the shape of objects (in particular edges) in images. We have applied the block-matching and 3D filtering (BM3D) scheme in order to refine the output of the decision-based/adaptive median techniques. Obtained results are excellent, surpassing current state-of-the-art for about 2 dB for both grayscale and color images.

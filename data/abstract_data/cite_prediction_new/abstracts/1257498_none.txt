@@ -1,0 +1,2 @@
+Inclusion of the start-up effect in the electronic modeling of proton exchange membrane fuel cells
+This paper presents a study regarding to modeling proton exchange membrane fuel cells (PEMFC) using an improved electronic model. The original model is not able to reproduce the FC initialization (or start-up) effect FC. So, in this work a proposal to include this effect is accomplished. To validate this study, the results are compared with obtained data from manufacturers and previously published results in literature. These data are collected for a 500W BCS PEMFC stack.

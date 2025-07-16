@@ -1,0 +1,2 @@
+Research on pitch control of floating offshore wind turbines
+This article mainly focuses on individual pitch control of floating offshore wind turbines. Regarding to the power and movement control of offshore wind turbines, we apply experts PID control to the design of controller. In order to verify the feasibility of controller, simulation experiments have been run on FAST. The result shows individual pitch control technique can effectively reduce pitching movement of platform along with little influence on output power.

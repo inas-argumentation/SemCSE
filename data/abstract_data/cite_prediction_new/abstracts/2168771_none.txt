@@ -1,0 +1,19 @@
+Automating assessment of lifestyle counseling in electronic health records.
+BACKGROUND
+Numerous population-based surveys indicate that overweight and obese patients can benefit from lifestyle counseling during routine clinical care.
+
+
+PURPOSE
+To determine if natural language processing (NLP) could be applied to information in the electronic health record (EHR) to automatically assess delivery of weight management-related counseling in clinical healthcare encounters.
+
+
+METHODS
+The MediClass system with NLP capabilities was used to identify weight-management counseling in EHRs. Knowledge for the NLP application was derived from the 5As framework for behavior counseling: Ask (evaluate weight and related disease), Advise at-risk patients to lose weight, Assess patients' readiness to change behavior, Assist through discussion of weight-loss methods and programs, and Arrange follow-up efforts including referral. Using samples of EHR data between January 1, 2007, and March 31, 2011, from two health systems, the accuracy of the MediClass processor for identifying these counseling elements was evaluated in postpartum visits of 600 women with gestational diabetes mellitus (GDM) compared to manual chart review as the gold standard. Data were analyzed in 2013.
+
+
+RESULTS
+Mean sensitivity and specificity for each of the 5As compared to the gold standard was at or above 85%, with the exception of sensitivity for Assist, which was 40% and 60% for each of the two health systems. The automated method identified many valid Assist cases not identified in the gold standard.
+
+
+CONCLUSIONS
+The MediClass processor has performance capability sufficiently similar to human abstractors to permit automated assessment of counseling for weight loss in postpartum encounter records.

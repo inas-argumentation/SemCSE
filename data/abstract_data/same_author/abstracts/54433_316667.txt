@@ -1,0 +1,2 @@
+On the circular chromatic number of circular partitionable graphs
+This paper studies the circular chromatic number of a class of circular partitionable graphs. We prove that an infinite family of circular partitionable graphs G hasχc(G) = χ(G). A consequence of this result is that we obtain an infinite family of graphs G with the rare property that the deletion of each vertex decreases its circular chromatic number by exactly 1.

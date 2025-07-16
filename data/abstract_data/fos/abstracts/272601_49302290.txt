@@ -1,0 +1,2 @@
+Compression and decompression based on discrete weighted transform
+The purpose of this paper is to introduce and extend the concept of the weighted transform and its inverse to functions of two variables. We show that they can be applied to image compression and decompression. The quality of the reconstructed image by inverse weighted transform is also compared with some known methods such as the fuzzy transform method and the standard JPEG method.

@@ -1,0 +1,15 @@
+SU-E-T-415: Evaluation of the Effect of the Dose Buildup Region for Flattening Filter Free Beams in IMRT Plans of Lung and Sinuses.
+PURPOSE
+The surface and buildup dose is known to be greater for flattening-filter-free (FFF) beams as compared to flattened beams. We compare the effect of this difference in the dose buildup region between the two beam modes, in the context of IMRT plans for the lung and sinuses.
+
+
+METHODS
+IMRT plans are delivered using both the standard flattened beam mode (6X) and flattening-filter-free mode (6XFFF). We compare the dosimetric differences of these two modes, for IMRT treatments for the lung and sinuses. Radiochromic films and parallel-plate ionization chamber measurements were taken, and evaluated for the following field sizes: 2×2 cm2 , 3×3 cm2 , 5×5 cm2 , 8×8 cm2 , 10×10 cm2 , and 20×20 cm2 . We evaluated the area under the PDD curve (AUC) for the buildup region for both 6X and 6XFFF beams. Ten SBRT lung and five IMRT sinuses plans were generated using the EclipseTM planning system, commissioned with AAA. Plan evaluation involved the comparison of the isodose distributions between plans of the two delivery modes.
+
+
+RESULTS
+For small field sizes, the dose in the buildup region is greater for FFF beam than for flattened beam. The percentage differences between 6XFFF and 6X flattened beams for the following field sizes (2×2 cm2 , 3×3 cm2 , 5×5 cm2 , 8×8 cm2 , 10×10 cm2 , and 20×20 cm2 ) are 3.4%,2.2%, 7.2%, 4.9%, 0.9%, and -0.5%, respectively. Plan evaluation of the IMRT sinus cases found approximately 3% higher maximum dose within the PTV for FFF plans. No observable differences were found between two types of SBRT lung plans.
+
+
+CONCLUSIONS
+For small fields, the dose buildup region of FFF beam is slightly greater than that of flattened beams. This effect is more pronounced in IMRT sinus cases, leading to higher dose within the PTV. There was no difference in the SBRT lung plans between the two beam modes.

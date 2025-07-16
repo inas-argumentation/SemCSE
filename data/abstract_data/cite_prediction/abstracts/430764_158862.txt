@@ -1,0 +1,2 @@
+MINERVA: A Second-Generation Museum Tour-Guide Robot
+This paper describes an interactive tour-guide robot, whic h was successfully exhibited in a Smithsonian museum. During its two weeks of operation, the robot interacted with more than 50,000 people, traversing more than 44km. Our approach specifically addresses issues such as safe navigation in unmodified and dynamic environments, and shortterm human-robot interaction.

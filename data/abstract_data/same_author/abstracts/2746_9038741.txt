@@ -1,0 +1,2 @@
+Semantic Scoring Based on Small-World Phenomenon for Feature Selection in Text Mining
+This paper proposes an effective scoring scheme for feature selection in Text Mining, using characteristics of Small-World Phenomenon on the semantic networks of documents. Our focus is on the reservation of both syntactic and statistical information of words, rather than solely simple frequency summarization in prevailing scoring schemes, such as TFIDF. Experimental results on TREC dataset show that our scoring scheme outperforms the prevailing schemes.

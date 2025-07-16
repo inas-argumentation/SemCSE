@@ -1,0 +1,2 @@
+Tooth contour extraction for matching dental radiographs
+In dental biometrics, the contours of teeth in dental radiographs are utilized for human identification. However, in many images, the contours of teeth are fuzzy and only partially visible. To extract the contours from these images, we propose a method based on the active contour models. A new dynamic energy is proposed for the directional snake to discriminate boundaries of adjacent teeth. Matching result shows the contours extracted with this method perform better than traditional methods.

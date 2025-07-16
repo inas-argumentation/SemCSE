@@ -1,0 +1,2 @@
+Using Mono and Stereo Camera System for Static and Moving Objects Detection
+Obstacle detection is a very important component for an autonomous vehicle, but since it is still a long way until this type of vehicle can be legally and safely present on the public roads, we can focus on a system that can aid the driver during long trips in order to make sure that he will get safe at his destination.

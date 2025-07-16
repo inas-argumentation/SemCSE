@@ -1,0 +1,19 @@
+Contextual memory bandit for pro-active dialog engagement
+An objective of pro-activity in dialog systems is to enhance the usability of conversational
+agents by enabling them to initiate conversation on their own. While
+dialog systems have become increasingly popular during the last couple of years,
+current task oriented dialog systems are still mainly reactive and users tend to
+initiate conversations. In this paper, we propose to introduce the paradigm of contextual
+bandits as framework for pro-active dialog systems. Contextual bandits
+have been the model of choice for the problem of reward maximization with partial
+feedback since they fit well to the task description. As a second contribution,
+we introduce and explore the notion of memory into this paradigm. We propose
+two differentiable memory models that act as parts of the parametric reward estimation
+function. The first one, Convolutional Selective Memory Networks, uses
+a selection of past interactions as part of the decision support. The second model,
+called Contextual Attentive Memory Network, implements a differentiable attention
+mechanism over the past interactions of the agent. The goal is to generalize
+the classic model of contextual bandits to settings where temporal information
+needs to be incorporated and leveraged in a learnable manner. Finally, we illustrate
+the usability and performance of our model for building a pro-active mobile
+assistant through an extensive set of experiments.

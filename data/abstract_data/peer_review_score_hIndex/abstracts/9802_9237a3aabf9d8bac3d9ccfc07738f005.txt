@@ -1,0 +1,8 @@
+$\sbf{\delta^2}$-exploration for Reinforcement Learning
+Effectively tackling the \emph{exploration-exploitation dilemma} is still a major challenge in reinforcement learning.
+Uncertainty-based exploration strategies developed in the bandit setting could theoretically offer a principled way to trade off exploration and exploitation, but applying them to the general reinforcement learning setting is impractical due to their requirement to represent posterior distributions over models, which is computationally intractable in generic sequential decision tasks.
+
+Recently, \emph{Sample Average Uncertainty (SAU)} was develop as an alternative method to tackle exploration in bandit problems in a scalable way.
+What makes SAU particularly efficient is that it only depends on the value predictions, meaning that it does not need to rely on maintaining model posterior distributions.
+In this work we propose \emph{$\delta^2$-exploration}, an exploration strategy that extends SAU from bandits to the general sequential Reinforcement Learning scenario. 
+We empirically study $\delta^2$-exploration in the tabular as well as in the Deep Q-learning case, proving its strong practical advantage and wide adaptability to complex reward models such as those deployed in modern Reinforcement Learning.

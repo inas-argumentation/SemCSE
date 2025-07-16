@@ -1,0 +1,2 @@
+Distributed Supercomputing for Graphics Applications: A Case Study on an Implementation of the Radiosity Approach
+Besides the ray tracing technique, the radiosity method is another major approach for global illumination modeling in the field of computer graphics. Since this method needs a huge amount of storage space (both memory and disk) and a long pre-computation cycle, it is not suitable to implement it on conventional workstations, so therefore that supercomputers are necessary for such kind of graphics applications.

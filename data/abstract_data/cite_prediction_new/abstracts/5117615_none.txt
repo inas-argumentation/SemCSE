@@ -1,0 +1,2 @@
+Self-organizing approach for automated gene identification in whole genomes
+Institut des Hautes Etudes Scientiﬁques, France(Dated: February 2, 2008)An approach based on using the idea of distinguished coding phase in explicit form for identiﬁca-tion of protein-coding regions in whole genome has been proposed. For several genomes an optimalwindow length for averaging GC-content function and calculating codon frequencies has been found.Self-training procedure based on clustering in multidimensional space of triplet frequencies is pro-posed.

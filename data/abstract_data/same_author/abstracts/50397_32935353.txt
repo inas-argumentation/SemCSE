@@ -1,0 +1,2 @@
+Online Supervised Learning for Digital Library
+We propose an online learning algorithm for digital library. It learns from a data stream and overcomes the inherent problem of other incremental operations. Experiments on RCV1 show the superior performance of it.

@@ -1,0 +1,2 @@
+An Approximate Test of Markov Chain Lumpability
+Abstract Under certain conditions the state space of a discrete parameter Markov chain may be partitioned to form a smaller lumped chain that retains the Markov property. The problem of formulating lump-ability hypotheses when the transition probability matrix P is not known and is possibly of large dimension is discussed. An approximate test of these hypotheses is described, based on well-known nonparametric methods. The procedure is illustrated with an application to a Markov manpower model.

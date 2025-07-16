@@ -1,0 +1,2 @@
+Functional Data Structures in R
+Data Structures in R 6 Implementing Concrete Data Structures in R 9 Asymptotic Running Time 11 Experimental Evaluation of Algorithms 15 Chapter 3: Immutable and Persistent Data 25 Persistent Data Structures 26 List Functions 28 Trees 37 Random Access Lists 56 Chapter 4: Bags, Stacks, and Queues 67 Bags 68 Stacks 73 Queues 74 Side Effects Through Environments 77 Side Effects Through Closures 79 About the Author vii About the Technical Reviewer ix

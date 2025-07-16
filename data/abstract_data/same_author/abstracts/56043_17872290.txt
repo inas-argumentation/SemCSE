@@ -1,0 +1,11 @@
+Metabolomics spectral formatting, alignment and conversion tools (MSFACTs)
+MOTIVATION
+The amplified interest in metabolic profiling has generated the need for additional tools to assist in the rapid analysis of complex data sets.
+
+
+RESULTS
+A new program; metabolomics spectral formatting, alignment and conversion tools, (MSFACTs) is described here for the automated import, reformatting, alignment, and export of large chromatographic data sets to allow more rapid visualization and interrogation of metabolomic data. MSFACTs incorporates two tools: one for the alignment of integrated chromatographic peak lists and another for extracting information from raw chromatographic ASCII formatted data files. MSFACTs is illustrated in the processing of GC/MS metabolomic data from different tissues of the model legume plant, Medicago truncatula. The results document that various tissues such as roots, stems, and leaves from the same plant can be easily differentiated based on metabolite profiles. Further, similar types of tissues within the same plant, such as the first to eleventh internodes of stems, could also be differentiated based on metabolite profiles.
+
+
+AVAILABILITY
+Freely available upon request for academic and non-commercial use. Commercial use is available through licensing agreement http://www.noble.org/PlantBio/MS/MSFACTs/MSFACTs.html.

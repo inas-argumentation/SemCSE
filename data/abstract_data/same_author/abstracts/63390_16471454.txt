@@ -1,0 +1,2 @@
+Partial inverse assignment problems under l1 norm
+In this paper, we consider the partial inverse assignment problem under l"1 norm without bound constraints. We show that the partial inverse problem can be solved by a strongly polynomial algorithm. The technique for solving this problem can be extended to handle a special type of partial inverse 0-1 combinatorial optimization problems.

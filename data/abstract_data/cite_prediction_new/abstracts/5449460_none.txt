@@ -1,0 +1,2 @@
+Interpolation strategies in repeated Richardson extrapolation
+We discuss the interpolation strategies related to Richardson extrapolation and repeated Richardson extrapolation. We emphasize that, in most computations, the interest is in obtaining accurate solution on the current computational grid, not that on the coarse level grids on which the extrapolated solutions reside. We tackle the interpolation issue that has largely been overlooked in Richardson extrapolation related applications. We present numerical experiments to support our analysis.

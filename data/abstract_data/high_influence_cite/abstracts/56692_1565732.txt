@@ -1,0 +1,2 @@
+Cross-Intersecting Erdős-Ko-Rado Sets in Finite Classical Polar Spaces
+A cross-intersecting Erd\H{o}s-Ko-Rado set of generators of a finite classical polar space is a pair $(Y, Z)$ of sets of generators such that all $y \in Y$ and $z \in Z$ intersect in at least a point. We provide upper bounds on $|Y| \cdot |Z|$ and classify the cross-intersecting Erd\H{o}s-Ko-Rado sets of maximum size with respect to $|Y| \cdot |Z|$ for all polar spaces except Hermitian polar spaces in odd projective dimension.

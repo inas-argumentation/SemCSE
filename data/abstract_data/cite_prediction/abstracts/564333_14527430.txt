@@ -1,0 +1,2 @@
+Gender identification from E-mails
+In this paper, we investigate the topic of gender identification for short length, multi-genre, content-free e-mails. We introduce for the first time (to our knowledge), psycholinguistic and gender-linked cues for this problem, along with traditional stylometric features. Decision tree and Support Vector Machines learning algorithms are used to identify the gender of the author of a given e-mail. The experiment results show that our approach is promising with an average accuracy of 82.2%.

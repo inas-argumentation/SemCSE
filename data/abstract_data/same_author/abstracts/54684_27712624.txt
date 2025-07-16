@@ -1,0 +1,2 @@
+Configuration free SoC interconnect BIST methodology
+Three-state drivers are modified to exhibit wired-logic properties in test mode. It does not only make interconnects random pattern testable but also improves the fault coverage and shortens the test length simultaneously.

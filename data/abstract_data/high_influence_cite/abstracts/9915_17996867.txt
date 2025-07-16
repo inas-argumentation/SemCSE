@@ -1,0 +1,2 @@
+Compressed Inverted Indexes for In-Memory Search Engines
+We present the algorithmic core of a full text data base that allows fast Boolean queries, phrase queries, and document reporting using less space than the input text. The system uses a carefully choreographed combination of classical data compression techniques and inverted index based search data structures. It outperforms suffix array based techniques for all the above operations for real world (natural language) texts.

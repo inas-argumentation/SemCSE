@@ -1,0 +1,5 @@
+Modelling and Analysis of the NF-kappaB Pathway in Bio-PEPA
+In this work we present a Bio-PEPA model describing the Nuclear Factor $kappa$B (NF-$kappa$B) signalling pathway. In particular our model focuses on the dynamic response of NF-$kappa$B to an external stimulus. Each biochemical species in the pathway is represented by a specific Bio-PEPA component and the external stimulus is abstracted by Bio-PEPA events. 
+ 
+The Bio-PEPA model is a formal intermediate representation of the pathway on which various kinds of analysis can be performed. Both stochastic and deterministic simulations are carried out to validate our model against the experimental data in the literature and to verify some properties, such as the impact of the stimulus duration and of the NF-$kappa$B initial amount on the behaviour of some species. 
+Finally, sensitivity analysis is considered to investigate the most influential parameters of the model.

@@ -1,0 +1,2 @@
+On Synchronisation in Fault-Tolerant Data and Compute Intensive Programs over a Network of Workstations
+An application structured as a fault-tolerant bag of tasks adapts easily to changing resources. To be represented by a single bag of tasks, a computation must decompose into purely independent tasks. The work summarised here investigates performance of structuring approaches applicable where this ideal is not possible, partly through analysis and partly through measurements of a realistic fault-tolerant computation.

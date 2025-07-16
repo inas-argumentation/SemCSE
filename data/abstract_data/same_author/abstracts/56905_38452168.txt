@@ -1,0 +1,2 @@
+Training Cellular Neural Networks with Stable Learning Algorithm
+In this paper we propose a new stable learning algorithm for Cellular Neural Networks. Our approach is based on the input-to-state stability theory, so to obtain learning laws that do not need robust modifications. Here we present only a theoretical study, letting experimental evidences for further works.

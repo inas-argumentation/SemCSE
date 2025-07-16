@@ -1,0 +1,2 @@
+Genetic Algorithms, Efficiency Enhancement, And Deciding Well With Differing Fitness Variances
+This study investigates the decision making between fitness function with differing variance and computational-cost values. The objective of this decision making is to provide evaluation relaxation and thus enhance the efficiency of the genetic search. A decision-making strategy has been developed to maximize speed-up using facetwise models for the convergence time and population sizing. Results indicate that using this decision making, significant speed-up can be obtained.

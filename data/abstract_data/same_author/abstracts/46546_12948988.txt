@@ -1,0 +1,2 @@
+Parallelization of Multiple Genome Alignment
+In this work, we implement a genome alignment system which applies parallelization schemes to the ClustalW algorithm and the interface of database querying. Parallel construction of the distance matrices and parallelization of progressive alignment in the ClustalW algorithm are performed on PC-based Linux cluster with message-passing interface libraries. Achieved experiments show good speedup and significant parallel performance.

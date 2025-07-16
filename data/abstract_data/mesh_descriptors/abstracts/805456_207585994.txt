@@ -1,0 +1,31 @@
+SRRM4 Drives Neuroendocrine Transdifferentiation of Prostate Adenocarcinoma Under Androgen Receptor Pathway Inhibition.
+BACKGROUND
+Neuroendocrine prostate cancer (NEPC) is an aggressive subtype of castration-resistant prostate cancer that typically does not respond to androgen receptor pathway inhibition (ARPI), and its diagnosis is increasing.
+
+
+OBJECTIVE
+To understand how NEPC develops and to identify driver genes to inform therapy for NEPC prevention.
+
+
+DESIGN, SETTING, AND PARTICIPANTS
+Whole-transcriptome sequencing data were extracted from prostate tumors from two independent cohorts: The Beltran cohort contained 27 adenocarcinoma and five NEPC patient samples, and the Vancouver Prostate Centre cohort contained three patient samples and nine patient-derived xenografts.
+
+
+INTERVENTION
+A novel bioinformatics tool, comparative alternative splicing detection (COMPAS), was invented to analyze alternative RNA splicing on RNA-sequencing data.
+
+
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS
+COMPAS identified potential driver genes for NEPC development. Biochemical and biological validations were performed in both prostate cell and tumor models.
+
+
+RESULTS AND LIMITATION
+More than 66% of the splice events were predicted to be regulated by the RNA splicing factor serine/arginine repetitive matrix 4 (SRRM4). In vitro and in vivo evidence confirmed that one SRRM4 target gene was the RE1 silencing transcription factor (REST), a master regulator of neurogenesis. Moreover, SRRM4 strongly stimulated adenocarcinoma cells to express NEPC biomarkers, and this effect was exacerbated by ARPI. ARPI combined with a gain of SRRM4-induced adenocarcinoma cells to assume multicellular spheroid morphology and was essential in establishing progressive NEPC xenografts. These SRRM4 actions were further enhanced by loss of function of TP53.
+
+
+CONCLUSIONS
+SRRM4 drives NEPC progression. This knowledge may guide the development of novel therapeutics aimed at NEPC.
+
+
+PATIENT SUMMARY
+Using next-generation RNA sequencing and our newly developed bioinformatics tool, we identified a neuroendocrine prostate cancer (NEPC)-specific RNA splicing signature that is predominantly controlled by serine/arginine repetitive matrix 4 (SRRM4). We confirmed that SRRM4 drives NEPC progression, and we propose SRRM4 as a potential therapeutic target for NEPC.

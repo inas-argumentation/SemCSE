@@ -1,0 +1,13 @@
+Improving the Performance of the Peer to Peer Network by Introducing an Assortment of Methods
+Problem Statement: Peer to Peer (P2P) systems have grown dramatically in recent years. 
+The most popular type of P2P systems are file sharing networks, which are used to share various types 
+of content over the Internet. Due to the increase in popularity of P2P systems, the network performance 
+of these systems has become a very important issue in the design and realization of these networks. 
+Hence, the performance of the P2P has been improved. Approach: This paper suggests the following 
+methods for the improving the performance of P2P systems: Method-1: Improving the P2P routing 
+using a sandwich technique. Method-2: Improving the search performance by introducing a new 
+searching method based on the super peer. Method-3: Improving the search by introducing a ranking 
+algorithm based on the knowledge database. Results: The system demonstrates that the methods 
+introduced here have improved the performance of P2P network efficiently when compared to the 
+existing methodologies. Conclusions / Recommendations: The performance of the P2P systems have 
+improved by using the above said methods, hence the traffic can be reduced in P2P network.

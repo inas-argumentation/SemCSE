@@ -1,0 +1,2 @@
+Reconfigurable logic in nanoelectronic switching networks
+We demonstrate how to configure and reconfigure a nanoelectronic nonlinear network to a universal set of logic gates by applying sequences of voltage pulses to the edges of the network. The nanoelectronic device is designed to consist of a self-assembled network of nanoparticles connected by two-terminal linker elements with hysteretic behaviour, allowing voltage-controlled switching between a linear and nonlinear current–voltage characteristic (IVC), making reconfigurable logic possible.

@@ -1,0 +1,2 @@
+Seam carving for content aware image resizing
+Effective resizing of images should not only use geometric constraints, but consider the image content as well. We present a simple image operator called seam carving that supports content aware im.

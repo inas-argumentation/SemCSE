@@ -1,0 +1,11 @@
+Poisson approximation for significance in genome-wide ChIP-chip tiling arrays
+MOTIVATION
+A genome-wide ChIP-chip tiling array study requires millions of simultaneous comparisons of hybridization for significance. Controlling the false positive rate in genome-wide tiling array studies is very important, because the number of computationally identified regions can easily go beyond the capability of experimental verification. No accurate and efficient method exists for evaluating statistical significance in tiling arrays. The Bonferroni method is overly conservative and the permutation test is time consuming for genome-wide studies.
+
+
+RESULT
+Motivated by the Poisson clumping heuristic, we propose an accurate and efficient method for evaluating statistical significance in genome-wide ChIP-chip tiling arrays. The method works accurately for any large number of multiple comparisons, and the computational cost for evaluating P-values does not increase with the total number of tests. Based on a moving window approach, we demonstrate how to combine results using various window sizes to increase the detection power while maintaining a specified type I error rate. We further introduce a new false discovery rate control that is more appropriate in measuring the false proportion of binding intervals in tiling array analysis. Our method is general and can be applied to many large-scale genomic and genetic studies.
+
+
+AVAILABILITY
+http://www.stat.psu.edu/~yuzhang/pass.tar

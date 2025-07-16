@@ -1,0 +1,2 @@
+GPUs and the Future of Parallel Computing
+This article discusses the capabilities of state-of-the art GPU-based high-throughput computing systems and considers the challenges to scaling single-chip parallel-computing systems, highlighting high-impact areas that the computing research community can address. Nvidia Research is investigating an architecture for a heterogeneous high-performance computing system that seeks to address these challenges.

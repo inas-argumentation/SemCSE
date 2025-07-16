@@ -1,0 +1,2 @@
+Modeling and forecasting return volatility: A new reduced form approach using nonparametric variation measures
+This paper motivates a reduced form discrete-time series approach that models realized volatility by using its separated components, continuous variation and variation due to jumps. For this purpose, I combine Engle and Russell’s (1998) autoregressive conditional duration (ACD) model applied to the continuous and jump size variation with

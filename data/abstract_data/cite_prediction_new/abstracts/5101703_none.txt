@@ -1,0 +1,2 @@
+Monolithic graphene frequency multiplier working at 10GHz range
+A high-performance monolithically integrated graphene frequency multiplier working at 10 GHz range is demonstrated with novel implementation method. A CMOS compatible two-layer-routing process is proposed to fabricate passive elements, interconnects and buried gate/source/drain regions on 8" wafers. This is followed by large-scale monolayer graphene transfer to form graphene ICs. The frequency multiplier circuit features a 3dB bandwidth of record high 4GHz. The conversion gain reaches -26dB.

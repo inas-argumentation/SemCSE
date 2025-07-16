@@ -1,0 +1,7 @@
+A case study in genome-level fragment assembly
+MOTIVATION
+We use the fact of two teams independently sequencing the one megabase genome of Borrelia burgdorferi as an opportunity to study the accuracy of genome-level assembly.
+
+
+RESULTS
+We compare the results of three different assembly programs (PHRAP, TIGR Assembler, and STROLL) on the DNA fragments used in both the Brookhaven and TIGR sequencing projects. We also describe the algorithms and data structures used in our assembly program STROLL, which was used in the Brookhaven Borrelia project.

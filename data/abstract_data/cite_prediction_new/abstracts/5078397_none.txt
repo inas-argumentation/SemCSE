@@ -1,0 +1,2 @@
+A WDM-PON with an 80 Gb/s capacity based on wavelength-locked Fabry-Perot laser diode.
+We investigate a high capacity WDM-PON based on wavelength-locked Fabry-Perot laser diodes. A color-free transmission of 2.5 Gb/s per channel is achieved with a polarization independent F-P LD and a decision threshold control circuit at the receiver. Then, we demonstrate an 80 Gb/s capacity (2.5 Gb/s x 32 channels) WDM-PON with transmission length of 20 km. We also investigate impairments in transmission.

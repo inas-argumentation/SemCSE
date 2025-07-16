@@ -1,0 +1,2 @@
+Application of Improved Ant Colony Algorithm in Mobile Robot Path Planning
+In order to deal with the problem such as slow convergent speed and local optimum existing in traditional ant colony algorithm (ACO) for mobile robot path planning, an improved ant colony algorithm is proposed, and the improvement includes state transition probability and dynamic pheromone evaporation coefficient. Simulation results show that this method is superior to the traditional ant colony algorithm, and therefore it can effectively improve the quality of the path planning of the robot.

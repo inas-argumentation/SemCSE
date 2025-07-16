@@ -1,0 +1,2 @@
+Formal Verification of Component-Based Software Systems
+In this work we present a methodology for formal modeling and verification of component based software systems. The methodology is based on software architecture, components, and reuse of Petri Nets models. With this process, we are contributing for the visual composition, verification, and formal validation of software. We also show an example of the application of this methodology into two different domains.

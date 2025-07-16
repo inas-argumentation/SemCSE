@@ -1,0 +1,2 @@
+Hilbert series of typical representations for Lie superalgebras
+Let g be a basic classical Lie superalgebra over C. In the case of a typical weight whose every nonnegative integer multiple is also typical, we compute a closed form for the Hilbert series whose coefficients encode the dimensions of finite-dimensional irreducible typical g-representations. We give a formula for this Hilbert series in terms of elementary symmetric polynomials and Eulerian polynomials. Additionally, we show a simple closed form in terms of differential operators.

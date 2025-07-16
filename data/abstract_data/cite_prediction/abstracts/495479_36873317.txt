@@ -1,0 +1,2 @@
+Design of PCB RF probe landing pads for measurements up to 90 GHz
+The characterization of active and passive mm-wave components on printed circuit boards becomes more and more important in the design of today's RF systems. The performance of the transition between a coaxial or a waveguide port of a mm-wave measurement device and a microstrip interface on the board plays a crucial role for the overall performance of the measurement system. This paper addresses the design and optimization of landing pads for RF probes on printed circuit boards for measurements up to 90 GHz.

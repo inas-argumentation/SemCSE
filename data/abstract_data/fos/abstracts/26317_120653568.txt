@@ -1,0 +1,2 @@
+INTRINSIC PRIORS FOR TWO-SAMPLE TESTS IN NORMAL POPULATIONS
+There have been considerable amounts of work regarding the development of various default Bayes factors in model selection and hypothesis testing. Two commonly used criteria, the intrinsic Bayes factor and the fractional Bayes factor are compared to test two independent normal means and variances. We also derive several intrinsic priors whose Bayes factors are asymptotically equivalent to the respective Bayes factors. We demonstrate our results in simulated datasets.

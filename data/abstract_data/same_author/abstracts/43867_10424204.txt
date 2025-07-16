@@ -1,0 +1,2 @@
+Deterministic Propositional Dynamic Logic: Finite Models, Complexity, and Completeness
+Abstract Let p be a formula in deterministic propositional dynamic logic. A decision procedure for the satisfiability of p is given along with a construction of a finite model for every satisfiable p . The decision procedure runs in deterministic time 2 cn and the size of the model is bounded by n 2 · 4 n , where n is the length of p . Finally, a complete axiomatization for deterministic propositional dynamic logic is given, based on the Segerberg axoms for propositional dynamic logic.

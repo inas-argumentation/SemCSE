@@ -1,0 +1,2 @@
+Shape diffusion in the shell model.
+The diffusion coefficient for quadrupolar shape changes is derived in a model based on the mixing of static Hartree-Fock configurations by the residual interaction. The model correctly predicts the width of single-particle configurations. We find a diffusion rate depending on temperature as {ital T}{sup 3}, consistent with at least one other theoretical estimate. However, our diffusion rate is an order of magnitude lower than two values extracted from data.

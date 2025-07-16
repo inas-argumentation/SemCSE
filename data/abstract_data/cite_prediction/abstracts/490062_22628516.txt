@@ -1,0 +1,2 @@
+Design of a 4-DOF Robot Manipulator with Optimized Algorithm for Inverse Kinematics
+Abstract—This paper shows in detail the mathematical model of direct and inverse kinematics for a robot manipulator (welding type) with four degrees of freedom. Using the D-H parameters, screw theory, numerical, geometric and interpolation methods, the theoretical and practical values of the position of robot were determined using an optimized algorithm for inverse kinematics obtaining the values of the particular joints in order to determine the virtual paths in a relatively short time.

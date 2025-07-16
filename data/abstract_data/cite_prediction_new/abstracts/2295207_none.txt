@@ -1,0 +1,2 @@
+MLP Neural Network Employment in the Design of Rectangular Patch Antenna
+-This paper presents the designing of a rectangular microstrip antenna using Multi Layer Preceptron (MLP) neural network model. The model was trained for 40 set of input-output (length of patch-resonant frequency) parameters. The output error and time delay (no. of epochs) were optimized by changing the learning rate and momentum term. In case of testing the output of the present model (resonant frequency) is found in good agreement with theoretical results.

@@ -1,0 +1,2 @@
+Using spherical harmonics to describe large-angle freeform lenses.
+We propose the use of spherical harmonics for large-angle freeform lenses as a dramatic improvement over polynomials set on the disk and plane, such as Zernike and X-Y polynomials. This new representation enables fitting of surfaces designed in spherical coordinates, such as freeform illumination lenses that would be impossible to describe with respect to a plane. The proposed representation is validated through an extremely compact, high-performance design.

@@ -1,0 +1,2 @@
+Using Random Forest to Learn Imbalanced Data
+In this paper we propose two ways to deal with the imbalanced data classification problem using random forest. One is based on cost sensitive learning, and the other is based on a sampling technique. Performance metrics such as precision and recall, false positive rate and false negative rate, F measure and weighted accuracy are computed. Both methods are shown to improve the prediction accuracy of the minority class, and have favorable performance compared to the existing algorithms.

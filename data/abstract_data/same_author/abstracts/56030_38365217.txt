@@ -1,0 +1,2 @@
+Rademacher Margin Complexity
+where σ1, ...σn are iid Rademacher random variables. Rn(F ) characterizes the extent to which the functions in F can be best correlated with a Rademacher noise sequence. A number of generalization error bounds have been proposed based on Rademacher complexity [1,2]. In this open problem, we introduce a new complexity measure for function classes. We focus on function classes F that is the convex hull of a base function class H , which consists of indicator functions. Hence each f ∈ F is a voting classifier of the form

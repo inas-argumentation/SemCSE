@@ -1,0 +1,11 @@
+Prediction of similarly acting cis-regulatory modules by subsequence profiling and comparative genomics in Drosophila melanogaster and D.pseudoobscura
+MOTIVATION
+To date, computational searches for cis-regulatory modules (CRMs) have relied on two methods. The first, phylogenetic footprinting, has been used to find CRMs in non-coding sequence, but does not directly link DNA sequence with spatio-temporal patterns of expression. The second, based on searches for combinations of transcription factor (TF) binding motifs, has been employed in genome-wide discovery of similarly acting enhancers, but requires prior knowledge of the set of TFs acting at the CRM and the TFs' binding motifs.
+
+
+RESULTS
+We propose a method for CRM discovery that combines aspects of both approaches in an effort to overcome their individual limitations. By treating phylogenetically footprinted non-coding regions (PFRs) as proxies for CRMs, we endeavor to find PFRs near co-regulated genes that are comprised of similar short, conserved sequences. Using Markov chains as a convenient formulation to assess similarity, we develop a sampling algorithm to search a large group of PFRs for the most similar subset. When starting with a set of genes involved in Drosophila early blastoderm development and using phylogenetic comparisons of Drosophila melanogaster and D.pseudoobscura genomes, we show here that our algorithm successfully detects known CRMs. Further, we use our similarity metric, based on Markov chain discrimination, in a genome-wide search, and uncover additional known and many candidate early blastoderm CRMs.
+
+
+AVAILABILITY
+Software is available via http://arep.med.harvard.edu/enhancer

@@ -1,0 +1,2 @@
+Automatic discovery of semantic structures in HTML documents
+Template-driven HTML documents possess an implicit, fixed schema denoting concepts and their relationships in a hierarchical fashion. Discovering this schema remains a relatively unexplored problem. By exploiting a key observation that semantically related items in HTML documents exhibit spatial locality, we develop an algorithm for automatically partitioning them into tree-like semantic structures which expose the implicit schema.

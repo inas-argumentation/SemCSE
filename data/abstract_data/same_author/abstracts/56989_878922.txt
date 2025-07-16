@@ -1,0 +1,2 @@
+Learning Heuristics for OBDD Minimization by Evolutionary Algorithms
+Ordered Binary Decision Diagrams (OBDDs) are the state-of-the-art data structure in CAD for ICs. OBDDs are very sensitive to the chosen variable ordering, i.e. the size may vary from linear to exponential.

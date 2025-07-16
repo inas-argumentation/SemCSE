@@ -1,0 +1,7 @@
+Simple Proof Techniques for Property Preservation via Simulation
+Let s1 and s2 be two reactive systems related by simulation. For what kind of properties φ can one infer s1 ≒ φ (s1 satisfies φ) from s2 ≒ φ, or vice versa? This problem has been treated in the literature for various logics in which to express φ. In this paper we make two simple observations by which such results can be proved very easily: 
+1. 
+(1) proofs of property preservation can be made compositional, and 
+ 
+2. 
+(2) infinitary logics are very expressive. Neither observation is new, but together they yield modular proofs of nontrivial results.

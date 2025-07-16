@@ -1,0 +1,2 @@
+Infinitesimal generators for a class of polynomial processes
+We study the infinitesimal generators of evolutions of linear mappings on the space of polynomials, which correspond to a special class of Markov processes with polynomial regressions called quadratic harnesses. We relate the infinitesimal generator to the unique solution of a certain commutation equation, and we use the commutation equation to find an explicit formula for the infinitesimal generator of free quadratic harnesses.

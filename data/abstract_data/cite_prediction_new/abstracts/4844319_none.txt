@@ -1,0 +1,2 @@
+Impact of TSV area on the dynamic range and frame rate performance of 3D-integrated image sensors
+This paper introduces a 3D-integrated image sensor with high dynamic range, high frame rate and high resolution capabilities. A robust algorithm for dynamic range extension with low sensitivity to circuit non-idealities and based on multiple exposures is presented. The impact of the TSV diameter over the dynamic range and frame rate performance is studied allowing the choice of the best 3D technology for the required performance.

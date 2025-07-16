@@ -1,0 +1,2 @@
+Efficient Group KeyManagement with Tamper-resistant ISA Extensions
+We present a tamper-resistant architectural enhancement for secure group key management in group communication applications. Using specially designed four cryptographic instructions, we show that the hardware assisted design can greatly reduce the management overhead to the order of O(1) in terms of rekey messages, storage cost, and the encryption computation cost

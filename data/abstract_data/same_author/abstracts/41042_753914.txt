@@ -1,0 +1,2 @@
+Integration of Semantic Tools into Document Editors
+Integration of the tools used to prepare and verify software documents is vital to the eeectiveness of the software development process. This paper identiies the key requirements of such integration, outlines three possible paradigms for integration of semantic veriication tools with document editors, and reports on their prototype implementation and evaluation with respect to these requirements.

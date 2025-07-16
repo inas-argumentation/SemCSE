@@ -1,0 +1,2 @@
+On beta-skeleton as a subgraph of the minimum weight triangulation
+Given a set S of n points in the plane, a triangulation is a maximal set of non-intersecting edges connecting the points in S . The weight of the triangulation is the sum of the lengths of the edges. In this paper, we show that for β>1/ sin κ , the β -skeleton of S is a subgraph of a minimum weight triangulation of S , where κ= tan −1 (3/ 2 3 )≈ π /3.1 . There exists a four-point example such that the β -skeleton for β sin ( π /3) is not a subgraph of the minimum weight triangulation.

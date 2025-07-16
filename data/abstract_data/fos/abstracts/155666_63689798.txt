@@ -1,0 +1,2 @@
+Table-Driven Algorithm and Its Application in C-Minus Lexical Analysis
+By the using of table-driven algorithm in C-minus lexical analysis,we can make process to eliminate redundancy.At the same time it can enhance the readability and logic of the code.It makes the code of a lot of branch such as lexical analysis becomes enjoyable.

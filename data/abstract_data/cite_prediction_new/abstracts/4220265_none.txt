@@ -1,0 +1,2 @@
+System Design on Thermoelectic Energy Harvesting from Body Heat
+Thermoelectric principle based energy harvesting system from body heat is a promising power strategy for portable devices. This paper introduces design of this kind of system, which can be divided into two sub-systems: thermoelectric system and energy management system. Experiment validates that the designed system can power the load to work periodically.

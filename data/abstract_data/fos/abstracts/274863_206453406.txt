@@ -1,0 +1,15 @@
+Magnetic resonance visualization of conductive structures by sequence-triggered direct currents and spin-echo phase imaging.
+PURPOSE
+Instrument visualization in interventional magnetic resonance imaging (MRI) is commonly performed via susceptibility artifacts. Unfortunately, this approach suffers from limited conspicuity in inhomogeneous tissue and disturbed spatial encoding. Also, susceptibility artifacts are controllable only by sequence parameters. This work presents the basics of a new visualization method overcoming such problems by applying sequence-triggered direct current (DC) pulses in spin-echo (SE) imaging. SE phase images allow for background free current path localization.
+
+
+METHODS
+Application of a sequence-triggered DC pulse in SE imaging, e.g., during a time period between radiofrequency excitation and refocusing, results in transient field inhomogeneities. Dependent on the additional z-magnetic field from the DC, a phase offset results despite the refocusing pulse. False spatial encoding is avoided by DC application during periods when read-out or slice-encoding gradients are inactive. A water phantom containing a brass conductor (water equivalent susceptibility) and a titanium needle (serving as susceptibility source) was used to demonstrate the feasibility. Artifact dependence on current strength and orientation was examined.
+
+
+RESULTS
+Without DC, the brass conductor was only visible due to its water displacement. The titanium needle showed typical susceptibility artifacts. Applying triggered DC pulses, the phase offset of spins near the conductor appeared. Because SE phase images are homogenous also in regions of persistent field inhomogeneities, the position of the conductor could be determined with high reliability. Artifact characteristic could be easily controlled by amperage leaving sequence parameters unchanged. For an angle of 30° between current and static field visualization was still possible.
+
+
+CONCLUSIONS
+SE phase images display the position of a conductor carrying pulsed DC free from artifacts caused by persistent field inhomogeneities. Magnitude and phase images are acquired simultaneously under the same conditions without the use of extra measurement time. The presented technique offers many advantages for precise instrument localization in interventional MRI.

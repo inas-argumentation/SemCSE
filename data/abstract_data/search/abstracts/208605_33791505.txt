@@ -1,0 +1,2 @@
+MagNet and "Efficient Defenses Against Adversarial Attacks" are Not Robust to Adversarial Examples
+MagNet and "Efficient Defenses." were recently proposed as a defense to adversarial examples. We find that we can construct adversarial examples that defeat these defenses with only a slight increase in distortion.

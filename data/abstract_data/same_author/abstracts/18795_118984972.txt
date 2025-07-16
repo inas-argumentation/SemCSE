@@ -1,0 +1,2 @@
+Calculations for populations of selected isotopes in intermediate-energy heavy ion collisions
+We compute the populations of isotopes of Boron, Carbon and Nitrogen measured experimentally in intermediate energy heavy ion collisions. A two component soluble statistical model is used to find the initial populations of different nuclei at a finite temperature. These initial populations are both in particle stable and particle unstable states. The particle unstable states then decay. The final populations after these decays are computed and compared with experimental data.

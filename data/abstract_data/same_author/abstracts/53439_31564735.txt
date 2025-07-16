@@ -1,0 +1,2 @@
+Improve the service quality of multi-agent system: ontology management
+The association of ontology with services enables service providers to export their services and also enables clients to declare desired services so that new service providers can serve existing clients. Changes and enhancements can be kept track of through the ontology management. The ontology management platform in our system not only declares semantics of agent services, but also provides interface specification for clients to use such a system with semantic information provided.

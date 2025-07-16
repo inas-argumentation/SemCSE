@@ -1,0 +1,10 @@
+Host-parasitoid spatial dynamics in heterogeneous landscapes
+This paper explores the effect of spatial processes in a heterogeneous environment on the dynamics of a host-parasitoid interaction. The environment consists of a lattice of favourable (habitat) and hostile (matrix) hexagonal cells, whose spatial distribution is measured by habitat proportion and spatial autocorrelation (inverse of fragmentation). At each time step, a fixed fraction of both populations disperses to the adjacent cells where it reproduces following the Nicholson-Bailey model. Aspects of the dynamics analysed include extinction, stability, cycle period and amplitude, and the spatial patterns emerging from the dynamics. 
+ 
+ 
+ 
+We find that, depending primarily on the fraction of the host population that disperses in each generation and on the landscape geometry, five classes of spatio-temporal dynamics can be objectively distinguished: spatial chaos, spirals, metapopulation, mainland-island and spiral fragments. The first two are commonly found in theoretical studies of homogeneous landscapes. The other three are direct consequences of the heterogeneity and have strong similarities to dynamic patterns observed in real systems (e.g. extinction-recolonisation, source-sink, outbreaks, spreading waves). 
+ 
+ 
+ 
+We discuss the processes that generate these patterns and allow the system to persist. The importance of these results is threefold: first, our model merges into a same theoretical framework dynamics commonly observed in the field that are usually modelled independently. Second, these dynamics and patterns are explained by dispersal rate and common landscape statistics, thus linking in a practical way population ecology to landscape ecology. Third, we show that the landscape geometry has a qualitative effect on the length of the cycles and, in particular, we demonstrate how very long periods can be produced by spatial processes.

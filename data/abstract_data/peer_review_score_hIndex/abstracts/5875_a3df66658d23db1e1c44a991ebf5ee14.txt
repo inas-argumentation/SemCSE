@@ -1,0 +1,22 @@
+Egocentric Spatial Memory Network
+Inspired by neurophysiological discoveries of navigation cells in the mammalian
+brain, we introduce the first deep neural network architecture for modeling Egocentric
+Spatial Memory (ESM). It learns to estimate the pose of the agent and
+progressively construct top-down 2D global maps from egocentric views in a spatially
+extended environment. During the exploration, our proposed ESM network
+model updates belief of the global map based on local observations using a recurrent
+neural network. It also augments the local mapping with a novel external
+memory to encode and store latent representations of the visited places based on
+their corresponding locations in the egocentric coordinate. This enables the agents
+to perform loop closure and mapping correction. This work contributes in the
+following aspects: first, our proposed ESM network provides an accurate mapping
+ability which is vitally important for embodied agents to navigate to goal locations.
+In the experiments, we demonstrate the functionalities of the ESM network in
+random walks in complicated 3D mazes by comparing with several competitive
+baselines and state-of-the-art Simultaneous Localization and Mapping (SLAM)
+algorithms. Secondly, we faithfully hypothesize the functionality and the working
+mechanism of navigation cells in the brain. Comprehensive analysis of our model
+suggests the essential role of individual modules in our proposed architecture and
+demonstrates efficiency of communications among these modules. We hope this
+work would advance research in the collaboration and communications over both
+fields of computer science and computational neuroscience.

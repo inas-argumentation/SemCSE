@@ -1,0 +1,15 @@
+GPU-based relative fuzzy connectedness image segmentation.
+PURPOSE
+Recently, clinical radiological research and practice are becoming increasingly quantitative. Further, images continue to increase in size and volume. For quantitative radiology to become practical, it is crucial that image segmentation algorithms and their implementations are rapid and yield practical run time on very large data sets. The purpose of this paper is to present a parallel version of an algorithm that belongs to the family of fuzzy connectedness (FC) algorithms, to achieve an interactive speed for segmenting large medical image data sets.
+
+
+METHODS
+The most common FC segmentations, optimizing an [script-l](∞)-based energy, are known as relative fuzzy connectedness (RFC) and iterative relative fuzzy connectedness (IRFC). Both RFC and IRFC objects (of which IRFC contains RFC) can be found via linear time algorithms, linear with respect to the image size. The new algorithm, P-ORFC (for parallel optimal RFC), which is implemented by using NVIDIA's Compute Unified Device Architecture (CUDA) platform, considerably improves the computational speed of the above mentioned CPU based IRFC algorithm.
+
+
+RESULTS
+Experiments based on four data sets of small, medium, large, and super data size, achieved speedup factors of 32.8×, 22.9×, 20.9×, and 17.5×, correspondingly, on the NVIDIA Tesla C1060 platform. Although the output of P-ORFC need not precisely match that of IRFC output, it is very close to it and, as the authors prove, always lies between the RFC and IRFC objects.
+
+
+CONCLUSIONS
+A parallel version of a top-of-the-line algorithm in the family of FC has been developed on the NVIDIA GPUs. An interactive speed of segmentation has been achieved, even for the largest medical image data set. Such GPU implementations may play a crucial role in automatic anatomy recognition in clinical radiology.

@@ -1,0 +1,2 @@
+ASIC developments for high speed serial data transmission in particle physics experiments
+We report R&D results on two integrated circuit designs: a 5 Gbps 16:1 serializer and a 5 GHz LC phase-locked-loop (PLL). The prototypes were fabricated with a commercial thin-film silicon-on-sapphire 0.25 μm CMOS technology. Both the serializer and the PLL have been evaluated to meet design goals and tested against operation conditions in the environment of a particle physics detector front-end for the proposed HL-LHC upgrade.

@@ -1,0 +1,2 @@
+A PWM motor speed control system based on the dual-loop PLL
+PLL motor speed control systems can completely reject speed error and steady-state phase error for constantspeed input signals. However, it is not usually applied to systems with inputs including acceleration, because they have poor tracking speed and strange pull-in behavior.

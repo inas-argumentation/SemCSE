@@ -1,0 +1,28 @@
+Monthly Temporal-Spatial Variability and Estimation of Absorbing Aerosol Index Using Ground-Based Meteorological Data in Nigeria
+The objective 
+of this work is to analyze the temporal and spatial variability of the monthly mean 
+aerosol index (AI) obtained from the Total Ozone Mapping Spectrometer (TOMS) and 
+Ozone Monitoring Instrument (OMI) in comparison with the available ground observations 
+in Nigeria during 1984-2013. It also aims at developing a regression model to allow 
+the estimation of the values of AI in Nigeria based on the data from ground observations. 
+TOMS and OMI data are considered and treated separately to provide continuity and 
+consistency in the long-term data observations, together with the meteorological 
+variable such as wind speed, visibility, air temperature and relative humidity that 
+can be used to characterize the dust activity in Nigeria. The results revealed a 
+strong seasonal pattern of the monthly distribution and variability of absorbing 
+aerosols along a north to south gradient. The monthly mean AI showed higher values 
+during the dry months (Harmattan) and lower values during the wet months (Summer) 
+in all zones. From December to February, higher AI values are observed in the southern 
+region, decreasing progressively towards the north, while during March-October, 
+the opposite pattern is observed. The AI showed clear maximum values of 2.06, 1.93, 
+and 1.87 (TOMS) and 2.32, 2.27 and 2.24 (OMI) in the month of January and minimum 
+values in September over the north-central, southern and coastal zones, while showing 
+maximum values of 1.76 (TOMS) and 2.10 (OMI) during March in the Sahel. New empirical 
+algorithms for predicting missing AI data were proposed using TOMS data and multiple 
+linear regression, and the model co-efficient was determined. The generated coefficients 
+were applied to another dataset for cross-validation. The accuracy of the model 
+was determined using the coefficient of determination R2 and the root 
+mean square error (RMSE) calculated at the 95% confidence level. The AI values for 
+the missing years were retrieved, plotted and compared with the measured monthly 
+AI cycle. It is concluded that the meteorological variables can significantly explain 
+the AI variability and can be used efficiently to predict the missing AI data.

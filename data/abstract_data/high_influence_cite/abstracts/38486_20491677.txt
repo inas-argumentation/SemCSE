@@ -1,0 +1,15 @@
+Predicting Early Rapid Response Team Activation in Patients Admitted From the Emergency Department: The PeRRT Score
+OBJECTIVES
+Rapid response teams (RRTs) respond to signs of deterioration to avoid morbidity and mortality. Early RRT activation (eRRT) in patients admitted from the emergency department (ED) is associated with significantly increased mortality. Predicting these events may represent an opportunity to identify patients who would benefit from further resuscitation, aid disposition decision-making, or improve communication between ED and inpatient providers. We aimed to create a clinical prediction instrument to quantify the risk of eRRT.
+
+
+METHODS
+We performed an observational cohort study of patients admitted to a non-intensive care unit (ICU) setting who triggered eRRT from January 2009 to December of 2012 compared to those who did not trigger eRRT. Age, sex, ED vital sign measurements, and final ED diagnosis by ICD-9 code were evaluated in a multivariable logistic regression model. The performance of prediction models was assessed using discrimination summarized by area under a receiver operating curve (AUC) and calibration with the Hosmer and Lemeshow goodness-of-fit test. The final model was used to create a simplified scoring system.
+
+
+RESULTS
+The eRRT group consisted of 474 patients who were compared to 2,575 patients in the reference group. Age and sex did not add significant discrimination to the model and were eliminated from the simplified, final model. This model, which included vital signs and diagnosis category, was found to have an AUC of 0.754 (95% confidence interval [CI] = 0.730 to 0.778) and was used to create a simplified scoring system. The odds ratio for the association of a 1-unit increase in risk score with eRRT was 1.37 (95% CI = 1.32 to 1.41; p < 0.001). When internally validated, the score was found to have an AUC of 0.759 (95% CI = 0.735 to 0.753). Calculated scores ranged from -3 to 18, which corresponded to predicted probabilities of eRRT ranging from 5.1% to 72.2%.
+
+
+CONCLUSIONS
+In summary, the PeRRT score is a simple tool that can be referenced by emergency providers at the bedside to quantify the risk of early RRT activation and potential deterioration, helping to answer the question, "How likely is my patient to trigger an RRT activation in the next twelve hours?" Given that patients who trigger eRRT have an elevated risk of morbidity and mortality, higher scores should result in resuscitative intervention, further observation in the ED, consideration of ICU admission, or direct enhanced communication between ED and inpatient providers. A prospective multicenter study is required to further validate this instrument.

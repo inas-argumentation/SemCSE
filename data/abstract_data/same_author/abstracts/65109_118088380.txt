@@ -1,0 +1,2 @@
+Best interpolation with free nodes by closed curves
+Best interpolation with free nodes addresses the problem of designing a curve through prescribed points in IR d such that some smoothness functional is minimized; e.g., the k th derivative in the least square sense. In addition the nodes are allowed to vary freely. Here we consider closed curves; i.e. , the periodic counterpart of the problems considered in [7,6]. We prove existence of an optimal curve in the general case and uniqueness in the cubic case k = 2.

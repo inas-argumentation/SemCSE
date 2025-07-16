@@ -1,0 +1,2 @@
+Using Linear Logic to Reason about Sequent Systems
+Linear logic can be used as a meta-logic for the specification of some sequent calculus proof systems. We explore in this paper properties of such linear logic specifications. We show that derivability of one proof system from another has a simple decision procedure that is implemented simply via bounded logic programming search. We also provide conditions to ensure that an encoded proof system has the cut-elimination property and show that this can be decided again by simple, bounded proof search algorithms.

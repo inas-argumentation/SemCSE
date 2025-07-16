@@ -1,0 +1,2 @@
+Anti-forensics: The Next Step in Digital Forensics Tool Testing
+We classify and present established and new attacks on digital forensics tools. In particular, we present the first and surprisingly simple code injection attack on a commercial analysis tool that potentially allows to infiltrate the analysis system. We argue that digital forensics tool testing must mature to cater for malicious adversaries. We also discuss possible countermeasures.

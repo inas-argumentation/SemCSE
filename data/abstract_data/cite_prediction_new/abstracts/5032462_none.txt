@@ -1,0 +1,2 @@
+The universality of polynomial time Turing equivalence
+We show that polynomial time Turing equivalence and a large class of other equivalence relations from computational complexity theory are universal countable Borel equivalence relations. We then discuss ultrafilters on the invariant Borel sets of these equivalence relations which are related to Martin's ultrafilter on the Turing degrees.

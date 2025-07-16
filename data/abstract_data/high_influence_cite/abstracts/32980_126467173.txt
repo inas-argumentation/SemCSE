@@ -1,0 +1,2 @@
+Generalizations of hyperbolic area for topological surfaces
+We introduce two generalizations of hyperbolic area for connected, closed, orientable surfaces: the complexity and the simple complexity of a surface. These concepts are defined in terms of collections of branched coverings M → P1, where M is a Riemann surface homeomorphic to S and P1 is the Riemann sphere. We prove that if S is a surface of positive genus, then both the topological complexity and the simple topological complexity of S are linear functions of its genus.

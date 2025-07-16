@@ -1,0 +1,2 @@
+A macroscopic description of biomolecular transport
+Abstract. We present a general algorithm for computing the effective diffusion coefficient of a general class of biomolecular transport processes. The method can be applied to spatially discrete and continuous processes and takes into account the effects of thermal diffusion and chemical kinetics. To provide an illustration of the algorithm, the problem of protein translocation is considered.

@@ -1,0 +1,2 @@
+How Much Stock Return Predictability Can We Expect From an Asset Pricing Model
+We provide a new upper bound on the R-squared of a predictive regression of stock returns on predictable variables, tightening substantially Ross's (2005) bound. An empirical application illustrates that while Ross's bound is not binding, our bound does.

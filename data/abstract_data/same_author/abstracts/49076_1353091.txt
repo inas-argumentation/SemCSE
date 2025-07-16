@@ -1,0 +1,2 @@
+A Lightweight Approach to Semantic Web Service Synthesis
+Web service technologies are becoming a new paradigm for distributed computing. With increasing number of web services available on the internet, there is an urgent need for information brokers that can autonomously integrate web services on behalf of a user. To this end, we propose web service specification, which defines what the service is but not how the service is implemented, and service synthesizer, which can dynamically synthesize the implementation of the specification from existing web services over the web.

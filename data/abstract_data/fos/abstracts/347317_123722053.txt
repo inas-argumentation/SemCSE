@@ -1,0 +1,2 @@
+Test for periodicity in restrictive EXPAR models
+Abstract This article is devoted to study the problem of test of periodicity in the restricted exponential autoregressive (EXPAR) model. The local asymptotic normality property, of this model, is shown via the adapted sufficient conditions due to Swensen (1985). Using this result, in the case where the innovation density is specified, we obtain a parametric local asymptotic “most stringent” test.

@@ -1,0 +1,2 @@
+Global large solutions to the planar magnetohydrodynamics equations with constant heat conductivity
+This paper is concerned with global existence of large solutions to the initial-boundary value problem of the planar magnetohydrodynamic compressible flow. Under the assumptions that viscosity and heat conductivity coefficients are constants, magnetic diffusion is a function of the specific volume, we obtain the global existence of strong solutions. Some new methods are developed to deal with the complex interaction between the hydrodynamic and magnetodynamics effects.

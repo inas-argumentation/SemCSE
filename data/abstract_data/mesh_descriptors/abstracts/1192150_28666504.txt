@@ -1,0 +1,19 @@
+Resting-state functional network connectivity in prefrontal regions differs between unmedicated patients with bipolar and major depressive disorders.
+BACKGROUND
+Differentiating bipolar disorder (BD) from major depressive disorder (MDD) often poses a major clinical challenge, and optimal clinical care can be hindered by misdiagnoses. This study investigated the differences between BD and MDD in resting-state functional network connectivity (FNC) using a data-driven image analysis method.
+
+
+METHODS
+In this study, fMRI data were collected from unmedicated subjects including 13 BD, 40 MDD and 33 healthy controls (HC). The FNC was calculated between functional brain networks derived from fMRI using group independent component analysis (ICA). Group comparisons were performed on connectivity strengths and other graph measures of FNC matrices.
+
+
+RESULTS
+Statistical tests showed that, compared to MDD, the FNC in BD was characterized by more closely connected and more efficient topological structures as assessed by graph theory. The differences were found at both the whole-brain-level and the functional-network-level in prefrontal networks located in the dorsolateral/ventrolateral prefrontal cortex (DLPFC, VLPFC) and anterior cingulate cortex (ACC). Furthermore, interconnected structures in these networks in both patient groups were negatively associated with symptom severity on depression rating scales.
+
+
+LIMITATIONS
+As patients were unmedicated, the sample sizes were relatively small, although they were comparable to those in previous fMRI studies comparing BD and MDD.
+
+
+CONCLUSIONS
+Our results suggest that the differences in FNC of the PFC reflect distinct pathophysiological mechanisms in BD and MDD. Such findings ultimately may elucidate the neural pathways in which distinct functional changes can give rise to the clinical differences observed between these syndromes.

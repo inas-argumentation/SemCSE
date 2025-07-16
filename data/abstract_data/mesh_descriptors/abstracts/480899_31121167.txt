@@ -1,0 +1,15 @@
+Landmark-based morphometric analysis of first-episode schizophrenia
+BACKGROUND
+The goal of this investigation was to utilize landmark-based shape analysis and image averaging to determine the sites and extent of specific structural changes in first-episode schizophrenia.
+
+
+METHODS
+Neuroanatomic structures identified on midsagittal magnetic resonance imaging (MRI) scans were compared between 20 patients with schizophrenia and 22 normal control subjects. The difference between averaged landmark configurations in the two groups was visualized as a shape deformation by a thin-plate spline and through averaged MRI images for both groups.
+
+
+RESULTS
+A shape difference was found to be statistically significant; by inspection, it is contrast between differences in two closely abutting regions, involving primarily the posterior corpus callosum and upper brain stem--the "focus" is the relation between them.
+
+
+CONCLUSIONS
+The findings are consistent with prior studies suggesting involvement in schizophrenia of the corpus callosum and the limbic structures contributing to the corpus callosum; the possibility of local pathology primarily involving the brain stem cannot be excluded. The methods of landmark-based shape analysis and image averaging utilized in this study can complement the "region-of-interest" method of investigating morphometric abnormalities by characterizing the spatial relationships among structural brain abnormalities in schizophrenia.

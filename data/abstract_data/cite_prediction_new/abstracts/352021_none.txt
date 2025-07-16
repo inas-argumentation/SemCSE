@@ -1,0 +1,2 @@
+AIT USING M OMENT WITH G RAY AND S ILHOUETTE IMAGE
+A reliable gait features are required to extract the gait sequences from an images. In this paper suggested a simple method for gait identification which is based on moments. Moment values are extracted on different number of frames of Gray Scale and Silhouette images of CASIA database. These moment values are considered as feature values. Fuzzy logic and Nearest Neighbor Classifier are used for classification. Both achieved higher recognition.

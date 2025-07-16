@@ -1,0 +1,2 @@
+e-Kronecker and I0 sets in abelian groups, IV: interpolation by non-negative measures
+A subset "E" of a discrete abelian group is a "Fatou-Zygmund interpolation set" (FZI0 set) if every bounded Hermitian function on "E" is the restriction of the Fourier- Stieltjes transform of a discrete, non-negative measure. We show that every infinite subset of a discrete abelian group contains an FZI0 set of the same cardinality (if the group is torsion free, a stronger interpolation property holds) and that "-Kronecker sets are FZI0 (with that stronger interpolation property).

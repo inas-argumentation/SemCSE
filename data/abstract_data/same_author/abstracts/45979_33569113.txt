@@ -1,0 +1,2 @@
+Not all Planar Digraphs have Small Cycle Separators
+Kao recently proved that all general directed graphs have directed cycle separators of any size. In contrast, Miller proved that planar undirected graphs with n vertices and maximum face size d have O(dn)-size undirected cycle separators. Therefore it is important to investigate whether a planar directed graph has a small-size directed cycle separator. This paper shows that certain important classes of planar directed graphs have no sublinear-size directed cycle separators.

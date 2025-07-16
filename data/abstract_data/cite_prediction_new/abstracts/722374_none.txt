@@ -1,0 +1,2 @@
+Rigorous bounds on the fast dynamo growth rate involving topological entropy
+The fast dynamo growth rate for aCk+1 map or flow is bounded above by topological entropy plus a 1/k correction. The proof uses techniques of random maps combined with a result of Yomdin relating curve growth to topological entropy. This upper bound implies the following anti-dynamo theorem: inC∞ systems fast dynamo action is not possible without the presence of chaos. In addition topological entropy is used to construct a lower bound for the fast dynamo growth rate in the caseRm=∞.

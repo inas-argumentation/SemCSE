@@ -1,0 +1,2 @@
+Analysis of multi-threading time metric on single and multi-core CPUs with Matrix Multiplication
+There has always been a debate over the advantages of multi-core architecture over single core. the full advantage of multi-core can be attained when the load is spread evenly all among the available cores [Amdahl's law]. In this context, improving the performance of the system with time constraints can be achieved by running parallel threads on cores.

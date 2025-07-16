@@ -1,0 +1,12 @@
+Subquadratic Algorithms for Workload-Aware Haar Wavelet Synopses
+Given a signal A of N dimensions, the problem is to obtain a representation R for it that is a linear combination of vectors in the dictionary H of Haar wavelets. The quality of the representation R is determined by B, the number of vectors from H used, and δ, the error between R and A. Traditionally, δ has been the sum squared error e R=∑i (R[i]–A[i])2, in which case, Parseval's theorem from 1799 helps solve the problem of finding the R with smallest eR in O(N) time. 
+ 
+Recently, motivated by database applications, researchers have sought other notions of error such as workload-aware error, or $\epsilon_{{\mathbf R}}^{\pi}=\sum_i \pi[i] ({\mathbf R}[i]-{\mathbf A}[i])^2$, where π[i] is the workload or the weight for i, and 
+ 
+maximum pointwise absolute error, eg., $\epsilon_{{\mathbf R}}^{\infty}=\max_i |{\mathbf R}[i]-{\mathbf A}[i]|$. 
+ 
+Recent results give Ω(N2) time algorithms for finding R that minimize these errors. 
+ 
+We present subquadratic algorithms for versions of these problems. We present a near-linear time algorithm to minimize e Rπ when π is compressible. To minimize e R∞, we give an O(N2−− e) time algorithm. These algorithms follow a natural dynamic programming approach developed recently, but the improvements come from exploiting local structural properties of the Haar wavelet representations of signals we identify. 
+ 
+Sparse approximation theory is a mature area of Mathematics that has traditionally studied signal representations with Haar wavelets. It is interesting that the past few years have seen new problems in this area motivated by Computer Science concerns: we pose a few new additional problems and some partial results.

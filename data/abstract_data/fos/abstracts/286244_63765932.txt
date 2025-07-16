@@ -1,0 +1,2 @@
+The Encoding Principles of Woven Codes and Their Classification
+Woven codes based on concatenated codes are a new combination error-correcting codes with high compatibility, and their encoding constructions have a character combining the constituent codes according to the fabric twill, and their performance is more advantageous than that of traditional Turbo codes. The classification of Woven codes with outer warp is analyzed based on the three basic encoding principles of Woven codes, which is significant for to optimize design and analyze performance of Woven codes.

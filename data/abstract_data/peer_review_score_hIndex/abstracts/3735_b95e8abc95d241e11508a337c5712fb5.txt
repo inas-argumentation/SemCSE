@@ -1,0 +1,18 @@
+Cortical-Inspired Open-Bigram Representation for Handwritten Word Recognition
+Recent research in the cognitive process of reading hypothesized that we do
+not read words by sequentially recognizing letters, but rather by identifing
+open-bigrams, i.e. couple of letters that are not necessarily next
+to each other. 
+In this paper, we evaluate an handwritten word recognition method based on original
+open-bigrams representation. We trained Long Short-Term Memory Recurrent Neural Networks
+(LSTM-RNNs) to predict open-bigrams rather than characters, and we show that
+such models are able to learn the long-range, complicated and intertwined dependencies
+in the input signal, necessary to the prediction. 
+For decoding, we decomposed each word of a large vocabulary into the set of
+constituent bigrams, and apply a simple cosine similarity measure between this 
+representation and the bagged RNN prediction to retrieve the vocabulary word. 
+We compare this method to standard word recognition techniques based on 
+sequential character recognition.
+Experiments are carried out on two public databases of handwritten words
+(Rimes and IAM), an the results with our bigram decoder are comparable 
+to more conventional decoding methods based on sequences of letters.

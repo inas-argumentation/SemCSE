@@ -1,0 +1,2 @@
+Development of a TPC detector for the ALICE experiment
+A proportional chamber with ring cathode readout is foreseen for the ALICE Time Projection Chamber. It offers low gas gain operation, lightweight construction and good pulse shape. The Tape Automatic Bonding (TAB) process makes it possible to mount the VLSI analog front end electronics directly on the back face of the multilayer board carrying the ring cathode elements, yielding high channel density. At the same time, simulation work is done. Construction and first results will be presented.

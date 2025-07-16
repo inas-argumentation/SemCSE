@@ -1,0 +1,2 @@
+How to calculate the bubble nucleation rate in first order transitions non-perturbatively
+We present a new method for calculating the bubble nucleation rate in first order phase transitions non-perturbatively on the lattice. The method takes into account all fluctuations and the full dynamical pre-factor. We also present results from applying it to the cubic anisotropy model, which has a radiatively induced, strongly first order phase transition.

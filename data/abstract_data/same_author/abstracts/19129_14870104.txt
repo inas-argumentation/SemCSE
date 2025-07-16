@@ -1,0 +1,8 @@
+Bubble Nucleation in Theories with Symmetry Breaking by Radiative Corrections
+In any first order phase transition a quantity of fundamental importance is the rate at which bubbles of the equilibrium (“true vacuum”) phase nucleate within the metastable (“false vacuum”) phase. The bubble nucleation rate per unit volume, Γ, can be calculated by a method, due to Coleman,1 which is based on finding a “bounce” solution to the classical Euclidean field equations. Thus, for a theory with a single scalar field, one seeks a solution of 
+ 
+$${\partial _\mu }{\partial _\mu }\varphi \equiv \square \varphi = \frac{{\partial V}}{{\partial \varphi }}$$ 
+ 
+(1) 
+ 
+for which the φ is near its true vacuum value near the origin, but approaches its false vacuum value as any of the x μ tend to ±∞.

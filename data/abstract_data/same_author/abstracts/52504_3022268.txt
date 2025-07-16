@@ -1,0 +1,15 @@
+Feature selection for genetic sequence classification
+MOTIVATION
+Most of the existing methods for genetic sequence classification are based on a computer search for homologies in nucleotide or amino acid sequences. The standard sequence alignment programs scale very poorly as the number of sequences increases or the degree of sequence identity is <30%. Some new computationally inexpensive methods based on nucleotide or amino acid compositional analysis have been proposed, but prediction results are still unsatisfactory and depend on the features chosen to represent the sequences.
+
+
+RESULTS
+In this paper, a feature selection method based on the Gamma (or near-neighbour) test is proposed. If there is a continuous or smooth map from feature space to the classification target values, the Gamma test gives an estimate for the mean-squared error of the classification, despite the fact that one has no a priori knowledge of the smooth mapping. We can search a large space of possible feature combinations for a combination which gives a smallest estimated mean-squared error using a genetic algorithm. The method was used for feature selection and classification of the large subunits of rRNA according to RDP (Ribosomal Database Project) phylogenetic classes. The sequences were represented by dinucleotide frequency distribution. The nearest-neighbour criterion has been used to estimate the predictive accuracy of the classification based on the selected features. For examples discussed, we found that the classification according to the first nearest neighbour is correct for 80% of the test samples. If we consider the set of the 10 nearest neighbours, then 94% of the test samples are classified correctly.
+
+
+AVAILABILITY
+The principal novel component of this method is the Gamma test and this can be downloaded compiled for Unix Sun 4, Windows 95 and MS-DOS from http://www.cs.cf.ac.uk/ec/
+
+
+CONTACT
+s.margetts@cs.cf.ac.uk

@@ -1,0 +1,31 @@
+A novel mathematical model of the sagittal spine: application to pedicle subtraction osteotomy for correction of fixed sagittal deformity.
+BACKGROUND CONTEXT
+The C7 plumb line method oversimplifies the true complexity of the spine. In a previous study, we mathematically modeled the normal spine using the spline function, enabling quantification of previously undescribed measurements such as area under the curve (AUC) and average sagittal position. The spine in fixed sagittal imbalance and the results of surgical correction have not been studied in a similar manner.
+
+
+PURPOSE
+To quantitatively evaluate changes in spinal conformation in patients who underwent pedicle subtraction osteotomy (PSO) using measures derived from the spline model and to correlate these changes with functional outcome.
+
+
+STUDY DESIGN
+Application of a mathematical model to a cohort of patients who underwent deformity surgery.
+
+
+PATIENT SAMPLE
+Thirty-four consecutive patients with fixed sagittal imbalance who underwent PSO from 2001 to 2003.
+
+
+OUTCOME MEASURES
+Preoperative and postoperative 22-item Scoliosis Research Society (SRS-22) Outcomes Questionnaire scores were used for functional assessment.
+
+
+METHODS
+Radiographs of the 34 patients who underwent thoracic or lumbar PSO with at least 2 years of follow-up were examined at three time points. The posterosuperior aspect of each vertebral body was chosen as a representative point for the spinal sagittal curve. A cubic spline function was derived from these points. From this function, the AUCs and average sagittal positions of the thoracic, lumbar, and thoracolumbar segments were calculated.
+
+
+RESULTS
+The average sagittal position does not overlap the C7 plumb line in deformity patients, but is a much more stable measure. In the lumbar PSO cohort, the lumbar AUC and average sagittal position were not significantly different among normal, preoperative, and postoperative groups. The thoracic and thoracolumbar AUCs and average sagittal positions were dramatically more positive in the preoperative cohort compared with normals; these values significantly decreased toward neutrality after lumbar PSO, but remained abnormal. In the thoracic PSO cohort, the lumbar, thoracic, and thoracolumbar AUCs and average sagittal positions were not significantly different among normal, preoperative, and postoperative groups. The changes in thoracolumbar AUC and average sagittal position were better predictors of the SRS-22 total score than the change in C7 plumb line.
+
+
+CONCLUSIONS
+The average sagittal position more comprehensively captures the nuances of a nonlinear spinal curve. Subcurve analysis enabled by the spline model is particularly helpful in assessing deformity and surgical correction on a segmental level. Increased sensitivity to the nuances of the spinal curve in this model results in superior correlation with clinical outcomes when compared with the C7 plumb line. We feel that a critical examination of the spinal curve will lead to improved understanding of deformity and planning for an optimal correction.

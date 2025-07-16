@@ -1,0 +1,17 @@
+Uniqueness results for semilinear elliptic systems on $\R^n$
+In this paper we establish uniqueness criteria for positive radially symmetric finite energy solutions of semilinear elliptic systems of the form 
+\begin{align*} 
+\begin{aligned} 
+- \Delta u &= f(|x|,u,v)\quad\text{in}\R^n, 
+- \Delta v &= f(|x|,v,u)\quad\text{in}\R^n. 
+\end{aligned} 
+\end{align*} 
+As an application we consider the following nonlinear Schr\"odinger system 
+\begin{align*} 
+\begin{aligned} 
+- \Delta u + u &= u^{2q-1} + b u^{q-1}v^q\quad\text{in}\R^n, 
+- \Delta v + v &= v^{2q-1} + b v^{q-1}u^q \quad\text{in}\R^n. 
+\end{aligned} 
+\end{align*} 
+for $b>0$ and exponents $q$ which satisfy $1<q<\infty$ in case $n\in\{1,2\}$ and 
+$1<q<\frac{n}{n-2}$ in case $n\geq 3$. Generalizing the results of Wei and Yao dealing with the case $q=2$ we find new sufficient conditions and necessary conditions on $b,q,n$ such that precisely one positive solution exists. Our results dealing with the special case $n=1$ are optimal.

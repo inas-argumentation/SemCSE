@@ -1,0 +1,2 @@
+Test bench for multi-MW grid side wind power converter
+This paper deals with an integrated full power test bench for the grid side of a wind power converter. The speciality is the high side voltage and current measurement to use the stray inductance as an additional filter element. The presented test bench is enhanced for fault ride through measurement capabilities with a full power grid simulator.

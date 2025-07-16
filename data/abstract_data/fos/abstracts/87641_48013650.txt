@@ -1,0 +1,2 @@
+Hydrodynamic limit of granular gases to pressureless Euler in dimension 1
+We investigate the behavior of granular gases in the limit of small Knudsen number, that is very frequent collisions. We deal with the strongly inelastic case, in one dimension of space and velocity. We are able to prove the convergence toward the pressureless Euler system. The proof relies on dispersive relations at the kinetic level, which leads to the so-called Oleinik property at the limit.

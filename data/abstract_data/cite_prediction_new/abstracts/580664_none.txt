@@ -1,0 +1,2 @@
+Phase-sensitive reconstruction for fat-water separation in multi-coil acquisitions
+Phase-sensitive steady-state free precession (PS-SSFP) is an effective technique for separating fat and water tissues, based on the phase difference between balanced steady-state free precession (bSSFP) bands. However, in phased-array coils, spatial sensitivity variations lead to noisy data away from coil centers and thereby degrade tissue classification. In this paper, we propose a new method to improve robustness of phase-sensitive fat-water separation against sensitivity variations.

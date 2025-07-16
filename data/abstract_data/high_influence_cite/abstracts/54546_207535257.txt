@@ -1,0 +1,2 @@
+A Finite Characterization and Recognition of Intersection Graphs of Hypergraphs with Rank at Most 3 and Multiplicity at Most 2 in the Class of Threshold Graphs
+Abstract We characterize the class L32 $L_3^2 $ of intersection graphs of hypergraphs with rank at most 3 and multiplicity at most 2 by means of a finite list of forbidden induced subgraphs in the class of threshold graphs. We also give an O(n)-time algorithm for the recognition of graphs from L32 $L_3^2 $ in the class of threshold graphs, where n is the number of vertices of a tested graph.

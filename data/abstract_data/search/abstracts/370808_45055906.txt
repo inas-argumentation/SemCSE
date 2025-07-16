@@ -1,0 +1,2 @@
+Understanding Short Texts with Integration of Knowledge Representation Methods
+The paper describes an attempt to combine different knowledge representation methods into the framework of a hybrid system and to apply such an integral system to the task of NL processing for real short texts from a limited problem domain (X Ray reports written in Russian) The semantic oriented analysis is described which gives preference to the lexical semantic and topical mechanisms to consider both the domain and text pragmatics.

@@ -1,0 +1,2 @@
+Finite model generation and formal specification development
+Efficient supporting tools are very important to the adoption of formal methods. Conventionally such tools are mainly automated theorem provers. We show that model generators can also be very helpful in obtaining formal specifications of software components. These tools help us to know more about certain properties of specifications, such as completeness and consistency.

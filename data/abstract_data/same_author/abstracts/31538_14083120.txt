@@ -1,0 +1,2 @@
+THREE LOOP FREE ENERGY USING SCREENED PERTURBATION THEORY
+The conventional weak-coupling expansion for the pressure of a hot plasma shows no sign of convergence unless the the coupling constant $g$ is tiny. In this talk, I discuss screened perturbation theory (SPT) which is a reorganization of the perturbative expansion by adding and subtracting a local mass term in the Lagrangian. We consider several different mass prescriptions, and compute the pressure to three-loop order. The SPT-improved approximations appear to converge for rather large values of the coupling constant.

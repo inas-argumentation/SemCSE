@@ -1,0 +1,2 @@
+Multi-attractor gene reordering for graph bisection
+We propose a new gene reordering scheme for the graph bisection problem. Our gene reordering starts with two or more vertices to capture the clustering structure of graphs effectively. We devised a chromosome repairing method for hybrid genetic search, which helps exploit clusters when combined with gene reordering. Experimental tests showed that the suggested reordering scheme significantly improves the performance of genetic algorithms over previous reordering methods.

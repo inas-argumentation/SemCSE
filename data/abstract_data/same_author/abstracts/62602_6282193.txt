@@ -1,0 +1,2 @@
+Data-Driven Detection of Recursive Program Schemes
+We present an extension to a current approach to inductive programming (IGOR2), that is, learning (recursive) programs from incomplete specifications such as input/outout examples. IGOR2 uses an analytical, example-driven strategy for generalization. We extend the set of IGOR2's refinement operators by a further operator --identification of higher-order schemes --and can show that this extension does improve speed as well as scope.

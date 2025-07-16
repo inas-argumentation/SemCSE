@@ -1,0 +1,2 @@
+Smooth constraints for spline variational modeling
+This article introduces a new class of constraints for spline variational modeling, which allows more flexible user specification, as a constrained point can "slide" along a spline curve. Such constraints can, for example, be used to preserve correct parameterization of the spline curve. The spline surface case is also studied. Efficient numerical schemes are discussed for real-time solving, as well as interactive visualization during the energy minimization process. Examples are shown, and numerical results discussed.

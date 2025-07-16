@@ -1,0 +1,5 @@
+Bounded-Independence Derandomization of Geometric Partitioning with Applications to Parallel Fixed-Dimensional Linear Programming
+Abstract. We give fast and efficient methods for constructing ε-nets and ε-approximations for range spaces with bounded VC-exponent. These combinatorial structures have wide applicability to geometric partitioning problems, which are often used in divide-and-conquer constructions in computational geometry algorithms. In addition, we introduce a new deterministic set approximation for range spaces with bounded VC-exponent, which we call the δ-relativeε-approximation, and we show how such approximations can be efficiently constructed in parallel. To demonstrate the utility of these constructions we show how they can be used to solve the linear programming problem in 
+ ${\Bbb R}^d$ deterministically in 
+ $O((\log\log n)^d)$ time using linear work in the PRAM model of computation, for any fixed constant d. Our method is developed for the CRCW variant of the PRAM parallel computation model, and can be easily implemented to run in 
+ $O(\log n(\log\log n)^{d-1})$ time using linear work on an EREW PRAM.

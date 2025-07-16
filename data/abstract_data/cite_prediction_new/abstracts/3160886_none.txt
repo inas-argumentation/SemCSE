@@ -1,0 +1,2 @@
+WDM-PON Based on Wavelength Locked Fabry-Pérot Laser Diodes and Multi-Branch Optical Distribution Network
+We demonstrate a wavelength division multiplexing passive optical network (WDM-PON) based on wavelength-locked Fabry-Perot laser diodes and thin-film filters. Twelve Fast Ethernet signals are bi-directionally transmitted over the multi-branch optical distribution network (ODN). The ODN has distributed branch nodes and bus networks.

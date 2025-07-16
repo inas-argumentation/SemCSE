@@ -1,0 +1,2 @@
+X-band 11.7-W, 29-dB gain, 42% PAE three-stage pHEMT MMIC power amplifier
+This paper presents an X-band high gain and high power three-stage PHEMT monolithic microwave integrated circuit (MMIC) power amplifier (PA). Based on 0.15-μm GaAs power PHEMT technology, this PA is fabricated on a 2-mil thick wafer. While operating under 7.2 V and 3300 mA dc bias condition, the characteristics of 29.2-dB small signal gain, 11.7-W output power, and 42.2% power added efficiency at 9.2 GHz can be achieved.

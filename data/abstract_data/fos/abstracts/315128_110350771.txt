@@ -1,0 +1,2 @@
+Computer Simulation of the Forced Convection Cooling of Sugarbeets
+A simulation model was developed to analytically pre-dict the temperature variation in a sugarbeet storage pile subjected to forced convection cooling. A digital computer program was designed to estimate root tem-peratures as a function of time and position, given the ambient air temperature, initial pile temperature and ventilation flow rate. Predicted temperatures were in good agreement with measured temperatures in an ac-tual storage pile during the initial cool-down period.

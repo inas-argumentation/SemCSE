@@ -1,0 +1,2 @@
+The genetic mark–recapture likelihood function of capwire
+Miller et al. (2005) present a method, called capwire, of estimating population abundance from a single sample of genetic material obtained by sampling with replacement. The method shows promise (Lukacs & Burnham 2005), and has been used to investigate diverse species (e.g. Perez et al. 2006; Zhan et al. 2006; Puechmaille & Petit 2007). The log-likelihood function on which estimation of abundance is based, equation 1 of Miller et al. (2005), is derived from the function

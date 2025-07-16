@@ -1,0 +1,2 @@
+A property of strictly singular one-to-one operators
+We prove that ifT is a strictly singular one-to-one operator defined on an infinite dimensional Banach spaceX, then for every infinite dimensional subspaceY ofX there exists an infinite dimensional subspaceZ ofX such thatZ∩Y is infinite dimensional,Z contains orbits ofT of every finite length and the restriction ofT toZ is a compact operator.

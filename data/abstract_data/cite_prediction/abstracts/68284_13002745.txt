@@ -1,0 +1,2 @@
+Mapping and Control with Telepresence Robots
+We create a mapping system and a control system on a telepresence robot to further facilitate indoor social navigation. The implementation is based on a commercial telepresence robot and its custom operating system. A mapping framework based on SLAM methods is employed to obtain real-time results. Navigation controls are implemented with inspection of the internal interfaces of the telepresence robot.

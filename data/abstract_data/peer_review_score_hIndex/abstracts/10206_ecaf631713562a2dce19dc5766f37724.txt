@@ -1,0 +1,21 @@
+End-to-end learning of pharmacological assays from high-resolution microscopy images
+Predicting the outcome of pharmacological assays based on high-resolution microscopy
+images of treated cells is a crucial task in drug discovery which tremendously
+increases discovery rates. However, end-to-end learning on these images
+with convolutional neural networks (CNNs) has not been ventured for this task
+because it has been considered infeasible and overly complex. On the largest
+available public dataset, we compare several state-of-the-art CNNs trained in an
+end-to-end fashion with models based on a cell-centric approach involving segmentation.
+We found that CNNs operating on full images containing hundreds
+of cells perform significantly better at assay prediction than networks operating
+on a single-cell level. Surprisingly, we could predict 29% of the 209 pharmacological
+assays at high predictive performance (AUC > 0.9). We compared a
+novel CNN architecture called “GapNet” against four competing CNN architectures
+and found that it performs on par with the best methods and at the same time
+has the lowest training time. Our results demonstrate that end-to-end learning on
+high-resolution imaging data is not only possible but even outperforms cell-centric
+and segmentation-dependent approaches. Hence, the costly cell segmentation and
+feature extraction steps are not necessary, in fact they even hamper predictive performance.
+Our work further suggests that many pharmacological assays could
+be replaced by high-resolution microscopy imaging together with convolutional
+neural networks.

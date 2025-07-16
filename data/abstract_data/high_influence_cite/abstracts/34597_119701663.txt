@@ -1,0 +1,2 @@
+Degree of rational maps via specialization
+One considers the behavior of the degree of a rational map under specialization of the coefficients of the defining linear system. The method rests on the classical idea of Kronecker as applied to the context of projective schemes and their specializations. For the theory to work one is led to develop the details of rational maps and their graphs when the ground ring of coefficients is a Noetherian integral domain.

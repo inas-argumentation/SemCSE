@@ -1,0 +1,2 @@
+CMB Power Spectrum Estimation
+We explore power spectrum estimation in the context of a Gaussian approximation to the likelihood function. Using the Saskatoon data, we estimate the power averaged through a set of ten filters designed to make the errors on the power estimates uncorrelated. We also present an improvement to using the window function, $W_l$, for calculating bandpower estimates.

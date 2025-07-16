@@ -1,0 +1,15 @@
+Predicting healthcare expenditure by multimorbidity groups.
+OBJECTIVES
+This article has two main purposes. Firstly, to model the integrated healthcare expenditure for the entire population of a health district in Spain, according to multimorbidity, using Clinical Risk Groups (CRG). Secondly, to show how the predictive model is applied to the allocation of health budgets.
+
+
+METHODS
+The database used contains the information of 156,811 inhabitants in a Valencian Community health district in 2013. The variables were: age, sex, CRG's main health statuses, severity level, and healthcare expenditure. The two-part models were used for predicting healthcare expenditure. From the coefficients of the selected model, the relative weights of each group were calculated to set a case-mix in each health district.
+
+
+RESULTS
+Models based on multimorbidity-related variables better explained integrated healthcare expenditure. In the first part of the two-part models, a logit model was used, while the positive costs were modelled with a log-linear OLS regression. An adjusted R2 of 46-49% between actual and predicted values was obtained. With the weights obtained by CRG, the differences found with the case-mix of each health district proved most useful for budgetary purposes.
+
+
+CONCLUSIONS
+The expenditure models allowed improved budget allocations between health districts by taking into account morbidity, as opposed to budgeting based solely on population size.

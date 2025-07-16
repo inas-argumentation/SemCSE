@@ -1,0 +1,2 @@
+Attribute (feature) completion - the theory of attributes from data mining prospect
+A "correct" selection of attributes (features) is vital in data mining. As a first step, this paper constructs all possible attributes of a given relation. The results are based on the observations that each relation is isomorphic to a unique abstract relation, called a canonical model. The complete set of attributes of the canonical model is, then, constructed. Any attribute of a relation can be interpreted (via isomorphism) from such a complete set.

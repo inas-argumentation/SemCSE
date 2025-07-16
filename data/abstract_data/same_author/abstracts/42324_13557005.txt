@@ -1,0 +1,2 @@
+Vertex Cover: Further Observations and Further Improvements
+Recently, there has been increasing interest and progress in lowering the worst-case time complexity for well-known NP-hard problems, particularly for the Vertex Cover problem. In this paper, new properties for the Vertex Cover problem are indicated, and several simple and new techniques are introduced, which lead to an improved algorithm of time O(kn+1.2852k) for the problem. Our algorithm also induces improvement on previous algorithms for the Independent Set problem on graphs of small degree.

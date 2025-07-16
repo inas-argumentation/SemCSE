@@ -1,0 +1,2 @@
+Computer aided layout of entity relationship diagrams
+An algorithm is presented that allows computer aided layout of entity relationship diagrams on a grid. A standard for the representation of symbols is introduced and aesthetic criteria that should be achieved by a layout algorithm are proposed. The algorithm makes use of some heuristic step for the critical activities. Finally, an algorithm for restructuring of previously defined diagrams is presented.

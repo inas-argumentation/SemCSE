@@ -1,0 +1,2 @@
+Fault-containing self-stabilization using priority scheduling
+Schedulers play a vital role in the design of distributed algorithms. This paper introduces priority scheduling that can be used to design as well as reason about correctness proofs at a higher level of abstraction. The application of priority scheduling in solving problems related to stabilization and fault containment in spanning tree generation is presented. This paper also presents an implementation of the priority scheduling scheme.

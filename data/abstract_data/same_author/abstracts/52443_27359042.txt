@@ -1,0 +1,2 @@
+Finding hamilton cycles in sparse random graphs
+Abstract We describe a polynomial time ( O ( n 3 log n )) algorithm which has a high probability of finding hamilton cycles in two classes of random graph which have constant average degree: the m -out model and the random regular graph model. We also show how the algorithm can be used to find a large cycle in a sparse random graph.

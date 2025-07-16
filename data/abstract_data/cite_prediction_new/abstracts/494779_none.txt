@@ -1,0 +1,15 @@
+Pragmatic pharmacology: population pharmacokinetic analysis of fentanyl using remnant samples from children after cardiac surgery.
+AIMS
+One barrier contributing to the lack of pharmacokinetic (PK) data in paediatric populations is the need for serial sampling. Analysis of clinically obtained specimens and data may overcome this barrier. To add evidence for the feasibility of this approach, we sought to determine PK parameters for fentanyl in children after cardiac surgery using specimens and data generated in the course of clinical care, without collecting additional blood samples.
+
+
+METHODS
+We measured fentanyl concentrations in plasma from leftover clinically-obtained specimens in 130 paediatric cardiac surgery patients and successfully generated a PK dataset using drug dosing data extracted from electronic medical records. Using a population PK approach, we estimated PK parameters for this population, assessed model goodness-of-fit and internal model validation, and performed subset data analyses. Through simulation studies, we compared predicted fentanyl concentrations using model-driven weight-adjusted per kg vs. fixed per kg fentanyl dosing.
+
+
+RESULTS
+Fentanyl clearance for a 6.4 kg child, the median weight in our cohort, is 5.7 l h(-1) (2.2-9.2 l h(-1) ), similar to values found in prior formal PK studies. Model assessment and subset analyses indicated the model adequately fit the data. Of the covariates studied, only weight significantly impacted fentanyl kinetics, but substantial inter-individual variability remained. In simulation studies, model-driven weight-adjusted per kg fentanyl dosing led to more consistent therapeutic fentanyl concentrations than fixed per kg dosing.
+
+
+CONCLUSIONS
+We show here that population PK modelling using sparse remnant samples and electronic medical records data provides a powerful tool for assessment of drug kinetics and generation of individualized dosing regimens.

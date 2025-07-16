@@ -1,0 +1,4 @@
+Asymptotic properties of solutions to difference equations of Sturm-Liouville type
+Abstract We consider the discrete Sturm–Liouville type equation of the form
+ Δ ( r n Δ x n ) = a n f ( x σ ( n ) ) + b n . Assume s is a given nonpositive real number. We present sufficient conditions for the existence of solution x with the asymptotic behavior
+ x n = c ( r 1 − 1 + ⋯ + r n − 1 − 1 ) + d + o ( n s ) where c, d are given real numbers. Moreover, we establish conditions under which for a given solution x there exist real numbers c, d such that x has the above asymptotic behavior.

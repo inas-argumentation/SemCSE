@@ -1,0 +1,2 @@
+MiRGenISCA: MicroRNA Gene Interaction Scoring By Cluster Association
+Purpose: To use mRNA expression levels to infer microRNA activity and define a score to rank all the possible microRNA mRNA interactions in a given system/data set. Data: Publicly available mRNA and microRNA data from Golub TR's paper "MicroRNA expression profiles classify human cancers" (Nature, 2005) Here we concentrate on Prostate Cancer. Pre processing: Bioconductor/gcrma normalization, using affyprobeminer newly defined CDF environment for improved re annotation of probe sets.

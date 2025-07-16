@@ -1,0 +1,2 @@
+Rational Teams: Logical Aspects of Multi-Agent Systems
+This paper describes a possible extension to the logical framework KARO to make it able to handle multiple agents. The KARO framework, which was initially developed by van der Hoek, van Linder and Meyer, makes use of epistemic and dynamic logics to express rational agents. These agents are capable of reasoning about their own actions and, somewhat limited, about the actions of other agents. This paper intends to extend the KARO system such that one is also able to reason about cooperation between agents.

@@ -1,0 +1,6 @@
+NORMAL FORMS FOR ORTHOGONAL SIMILARITY CLASSES OF SKEW-SYMMETRIC MATRICES
+Let F be an algebraically closed field of characteristic different from 2. Define the orthogonal group, On(F), as the group of n by n matrices X over F such that XX′=In, where X′ is the transpose of X and In the identity matrix. We show that every nonsingular n by n skew-symmetric matrix over F is orthogonally similar to a bidiagonal skew-symmetric matrix. In the singular case one has to allow some 4-diagonal blocks as well. 
+ 
+If further the characteristic is 0, we construct the normal form for the On(F)-similarity classes of skew-symmetric matrices. In this case, the known normal forms (as presented in the well-known book by Gantmacher) are quite different. 
+ 
+Finally we study some related varieties of matrices. We prove that the variety of normalized nilpotent n by n bidiagonal matrices for n=2s+1 is irreducible of dimension s. As a consequence the skew-symmetric nilpotent n by n bidiagonal matrices are shown to form a variety of pure dimension s.

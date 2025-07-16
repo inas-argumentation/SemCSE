@@ -1,0 +1,9 @@
+Optimal control for continuous supply network models
+We consider a supply network where the flow of parts can be 
+ controlled at the vertices of the network. Based on a coarse grid 
+ discretization provided in 
+ [6] we derive discrete 
+ adjoint equations which are subsequently validated by the continuous 
+ adjoint calculus. Moreover, we present numerical results concerning 
+ the quality of approximations and computing times of the presented 
+ approaches.

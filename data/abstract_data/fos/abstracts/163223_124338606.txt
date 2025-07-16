@@ -1,0 +1,2 @@
+A uniformly convergent series for Sturm-Liouville eigenvalues
+Pour le probleme de Sturm-Liouville regulier de l'equation y″+(λ−q(x)) y=0 sur 0≤x≤π, on montre que les developpements asymptotiques des valeurs propres et des fonctions propres peuvent etre remplaces par des series convergentes pour des valeurs propres suffisamment grandes

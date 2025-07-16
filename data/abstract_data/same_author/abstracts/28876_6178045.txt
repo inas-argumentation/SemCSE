@@ -1,0 +1,2 @@
+Improved error estimate for the valence approximation
+We construct a systematic mean-field-improved coupling constant and quark loop expansion for corrections to the valence (quenched) approximation to vacuum expectation values in the lattice formulation of QCD. Terms in the expansion are evaluated by a combination of weak coupling perturbation theory and a Monte Carlo algorithm.

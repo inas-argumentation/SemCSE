@@ -1,0 +1,2 @@
+Automatic extraction of web search interfaces for interface schema integration
+This paper provides an overview of a technique for extracting information from the Web search interfaces of e-commerce search engines that is useful for supporting automatic search interface integration. In particular, we discuss how to group elements and labels on a search interface into attributes and how to derive certain meta-information for each attribute.

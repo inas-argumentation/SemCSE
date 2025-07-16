@@ -1,0 +1,2 @@
+Foundational aspects of syntax
+A large variety of computing systems, such as compilers, interpreters, static analyzers, and theorem provers, need to manipulate syntactic objects like programs, types, formulas, and proofs. A common characteristic of these syntactic objects is that they contain variable binders, such as quantifiers, scoping operators, and parameters. The presence of binders complicates formal specifications and symbolic processing. Consider, for example, a function definition of the form

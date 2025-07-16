@@ -1,0 +1,2 @@
+On the bounds for the ultimate independence ratio of a graph
+In this paper we study the ultimate independence ratio I(G) of a graph G, which is defined as the limit of the sequence of independence ratios of powers of G. We construct a graph G with ultimate independence ratio I(G) strictly between the previous known upper bound 1χf(G) and lower bound 1χ(G). We give a better lower bound for I(G) by using the concept of starchromatic number of a graph.

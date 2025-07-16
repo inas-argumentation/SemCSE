@@ -1,0 +1,15 @@
+An integrated 6 MV linear accelerator model from electron gun to dose in a water tank.
+PURPOSE
+The details of a full simulation of an inline side-coupled 6 MV linear accelerator (linac) from the electron gun to the target are presented. Commissioning of the above simulation was performed by using the derived electron phase space at the target as an input into Monte Carlo studies of dose distributions within a water tank and matching the simulation results to measurement data. This work is motivated by linac-MR studies, where a validated full linac simulation is first required in order to perform future studies on linac performance in the presence of an external magnetic field.
+
+
+METHODS
+An electron gun was initially designed and optimized with a 2D finite difference program using Child's law. The electron gun simulation served as an input to a 6 MV linac waveguide simulation, which consisted of a 3D finite element radio-frequency field solution within the waveguide and electron trajectories determined from particle dynamics modeling. The electron gun design was constrained to match the cathode potential and electron gun current of a Varian 600C, while the linac waveguide was optimized to match the measured target current. Commissioning of the full simulation was performed by matching the simulated Monte Carlo dose distributions in a water tank to measured distributions.
+
+
+RESULTS
+The full linac simulation matched all the electrical measurements taken from a Varian 600C and the commissioning process lead to excellent agreements in the dose profile measurements. Greater than 99% of all points met a 1%/1mm acceptance criterion for all field sizes analyzed, with the exception of the largest 40 x 40 cm2 field for which 98% of all points met the 1%/1mm acceptance criterion and the depth dose curves matched measurement to within 1% deeper than 1.5 cm depth. The optimized energy and spatial intensity distributions, as given by the commissioning process, were determined to be non-Gaussian in form for the inline side-coupled 6 MV linac simulated.
+
+
+CONCLUSIONS
+An integrated simulation of an inline side-coupled 6 MV linac has been completed and benchmarked matching all electrical and dosimetric measurements to high accuracy. The results showed non-Gaussian spatial intensity and energy distributions for the linac modeled.

@@ -1,0 +1,2 @@
+Chaos control of hyper chaotic delay Lorenz system via back stepping method
+The problem of controlling chaotic system is studied by using back stepping design method. This technique is applied to achieve chaos control for each state of the nonlinear dynamical system. Based on Lyapunov stability theory, control laws are derived. The same technique is used to enable the stabilization of the chaotic motion to a steady state as well as tracking of any desired trajectory to be achieved in a systematic way. Numerical simulations are shown to verify the theoretical results..

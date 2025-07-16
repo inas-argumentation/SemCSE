@@ -1,0 +1,2 @@
+Experimental quantum key distribution without monitoring signal disturbance
+A proof-of-principle quantum key distribution experiment based on the round-robin differential phase shift protocol is demonstrated. Using a coherent wave-packet containing five pulses, the quantum keys were distributed over up to 30 km of fibre.

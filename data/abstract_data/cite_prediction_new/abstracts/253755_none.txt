@@ -1,0 +1,2 @@
+Human-robot co working by HMM based 3D human motion recognition
+We offer a system for a human-robot cooperation with natural communication in order to make using of robots in human-interactive tasks easier and more effective. This system includes a system with 3D motion capture cameras, and a motion recognition using Hidden Markov Models (HMM). We implemented the solution on a simulation using real data collected for this experiment.

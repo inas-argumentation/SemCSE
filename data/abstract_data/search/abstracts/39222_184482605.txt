@@ -1,0 +1,2 @@
+UC Davis at SemEval 2019 Task 1: DAG Semantic Parsing with Attention based Decoder
+We present an encoder decoder model for semantic parsing with UCCA SemEval 2019 Task 1. The encoder is a Bi LSTM and the decoder uses recursive self attention. The proposed model alleviates challenges and feature engineering in traditional transition based and graph based parsers. The resulting parser is simple and proved to effective on the semantic parsing task.

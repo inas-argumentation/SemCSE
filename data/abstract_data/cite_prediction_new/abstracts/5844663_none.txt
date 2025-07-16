@@ -1,0 +1,15 @@
+Toward a clearer understanding of causal concepts in epidemiology.
+PURPOSE
+In this manuscript, I share insights into causal concepts that emerged from creating and refining a simple example originally designed for teaching causal epidemiologic concepts.
+
+
+METHODS
+The insights that emerged are primarily related to the difference between how a causal effect occurs in an individual and what our methods assume about how a causal effect occurs when we estimate its effect in a population. In an individual, the causal effect of exposure on disease occurrence results from the interaction of several causal factors in that individual, not from a single factor in isolation. The result of this interaction within an individual determines an individual’s causal type (e.g., doomed, exposure causative, exposure preventive, immune) with respect to a particular exposure contrast and target (etiologic) time period. In a population, the causal effect of exposure on disease frequency depends on the distribution of causal types of individuals in that population, not necessarily on the population distribution of covariates. Yet in epidemiology, when we attempt to estimate the effect of a potential cause of interest, we (through the methods we use) usually do not account for this within individual causal interaction.
+
+
+RESULTS
+This failure to account for within-individual causal interactions has interesting implications for causal inference, as I illustrate here: (1) an effect estimate can be simultaneously confounded and unconfounded, (2) there can be confounding even if no variables satisfy the traditional criteria for being considered a confounder, (3) there can be no confounding even if there are variables that do satisfy the traditional confounder criteria, (4) the magnitude of confounding caused by a variable need not depend on the strength of the exposure-variable association, (5) a directed acyclic graph does not always correctly identify the presence of confounding, (6) the common-cause confounder criterion is imperfect, and (7) a time-varying confounder does not necessarily lead to time-varying confounding.
+
+
+CONCLUSIONS
+Our example illustrates that confounding is a “team sport”: single variables do not confound by themselves; confounding depends on how variables interact in individuals, not just on how variables are distributed within and across populations. Because confounding depends on how variables interact in individuals, methods that ignore causal interactions in individuals are not guaranteed to be confounding identification methods.

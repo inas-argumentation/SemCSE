@@ -1,0 +1,2 @@
+An Association Rules Mining Method Based on Star Schema
+The most popular data model for a data warehouse is star schema.Based on previous research and Apriori algorithm,introduces a mining method of multi-dimensional temporal association rules based on star schema and demonstrates the method by an example.

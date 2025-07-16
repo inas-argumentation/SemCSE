@@ -1,0 +1,2 @@
+On-chip active power rectifiers for biomedical applications
+In this paper, we describe a new active power rectifying element (an 'ideal' diode) compatible with a standard CMOS process. We use this element to implement two types of on-chip active power rectifier for biomedical applications, such as cochlear implants and retinal prostheses. The rectifiers are simulated in a standard 0.35 /spl mu/m CMOS process and show a considerable increase in efficiency compared with passive diode based rectifiers. Measurements on fabricated circuits also confirm this.

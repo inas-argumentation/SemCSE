@@ -1,0 +1,2 @@
+Long cycles in the middle two layers of the discrete cube
+We prove that the middle two layers of the cube Q2r+1 contain a cycle of length (1 - o(1))2(2r+1 r). Our methods can also be used to show that the odd graph Ok contains a cycle of length (1 - o(1))|V(Ok)|.One of our tools, giving a Hamilton cycle in the cube with the minimum number of 'changes of direction', may be of independent interest.

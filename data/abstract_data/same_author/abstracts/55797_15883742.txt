@@ -1,0 +1,2 @@
+Optimal Decision Strategies in Byzantine Environments
+A Boolean value of given a priori probability distribution is transmitted to a deciding agent by several processes. Each process fails independently with given probability, and faulty processes behave in a Byzantine way. A deciding agent has to make a decision concerning the transmitted value on the basis of messages obtained by processes. We construct a deterministic decision strategy which has the provably highest probability of correctness. It computes the decision in time linear in the number of processes.

@@ -1,0 +1,2 @@
+Feature clustering for vehicle detection and tracking in road traffic surveillance
+In this paper, we formulate the feature clustering problem for vehicle detection and tracking as a general MAP problem and solve it using MCMC. The proposed approach exhibits two advantages over existing methods: general Bayesian model can handle arbitrary objective functions and MCMC guarantees global optimal solution. Our algorithm is validated on real-world traffic video sequences, and is shown to outperform the state-of-the-art approach.

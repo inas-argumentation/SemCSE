@@ -1,0 +1,15 @@
+Image analysis software for automatic DNA ploidy assessment of archival solid tumours.
+BACKGROUND
+Image cytometry has proved to provide a good alternative to flow cytometry for DNA ploidy measurement of archival tumors. However, when interactively done this technique is unable to give statistically valuable results within an acceptable time for clinical oncology.
+
+
+METHODS
+An image cytometer was developed for fully automatic DNA ploidy quantitation, focusing efforts on speed and accuracy. Software functionalities include systematic acquisition of fields on a microscopic slide, detection, localization and sorting of nuclei, computation of the DNA content together with post-processing tools, for a deeper analysis of the DNA ploidy diagram.
+
+
+RESULTS
+DNA ploidy analysis of archival breast carcinoma samples illustrates the accuracy of DNA ploidy measurements and the sensitivity in the detection of DNA ploidy abnormalities as a result of cell sorting.
+
+
+CONCLUSIONS
+Fully automatic image cytometry is able to combine qualities of flow cytometry (automatic analysis of a statistically significant collection of cell nuclei) with additional advantages: sorting of unwanted events (debris, stromal and inflammatory cell nuclei) and facilities for an a posteriori control of the quality of cell selection. This method is well suited to DNA ploidy analysis of archival cancer samples.

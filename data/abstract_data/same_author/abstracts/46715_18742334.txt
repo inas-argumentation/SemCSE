@@ -1,0 +1,2 @@
+Arithmetic Constant-Depth Circuit Complexity Classes
+The boolean circuit complexity classes AC 0 ⊆ AC 0[m] ⊆ TC 0 ⊆ NC 1 have been studied intensely. Other than NC 1, they are defined by constant-depth circuits of polynomial size and unbounded fan-in over some set of allowed gates. One reason for interest in these classes is that they contain the boundary marking the limits of current lower bound technology: such technology exists for AC 0 and some of the classes AC 0[m], while the other classes AC 0[m] as well as TC 0 lack such technology.

@@ -1,0 +1,2 @@
+A Lazy Unbounded Model Checker for Event-B
+Formal specification languages are traditionally supported by theorem provers, but recently model checkers have proven to be useful tools. In this paper we present Eboc, an explicit state model checker for Event-B . Eboc is based on lazy techniques that allow it to fairly perform an exhaustive state space search without bounding the size of the sets used in the specification. We describe the implementation of Eboc and provide a preliminary comparison with ProB, an existing bounded model checker for classical B .

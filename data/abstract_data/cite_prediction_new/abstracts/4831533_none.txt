@@ -1,0 +1,6 @@
+Formal Modeling of a Generic Middleware to Ensure Invariant Properties
+The complexity of middleware leads to complex Application Programming Interfaces (APIs) and semantics, supported by configurable components in the middleware. Those components are selected to provide the desired semantics. Yet, incorrect configuration can lead to faulty middleware executions, detected late in the development cycle. 
+ 
+We use formals methods to tackle this problem. They allow us to find appropriate composition of middleware components and the use of their APIs, and to detect valid or faulty sequences. To provide reusable results, we modeled a canonical middleware architecture using Z. 
+ 
+We propose a validation scenario to verify middleware's invariants. We define invariants to exhibit inconsistent usage of these APIs. The specification has been checked with the Z/EVES [13] theorem prover.

@@ -1,0 +1,2 @@
+The Business Case for Chaos Engineering
+While Chaos Engineering has gained currency in the Site Reliability Engineering community, service and business owners are often nervous about experimenting in production. Proving the benefits of Chaos Engineering to these stakeholders before implementing a program can be challenging. We present the business case for Chaos Engineering, through both qualitative and quantitative tactics, as well as the benefits and tools to convince stakeholders this is necessary and cost efficient.

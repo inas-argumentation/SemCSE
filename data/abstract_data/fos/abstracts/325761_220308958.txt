@@ -1,0 +1,15 @@
+Gamma-band modulation in the human amygdala during reaching movements.
+OBJECTIVE
+Motor brain-computer interface (BCI) represents a new frontier in neurological surgery that could provide significant benefits for patients living with motor deficits. Both the primary motor cortex and posterior parietal cortex have successfully been used as a neural source for human motor BCI, leading to interest in exploring other brain areas involved in motor control. The amygdala is one area that has been shown to have functional connectivity to the motor system; however, its role in movement execution is not well studied. Gamma oscillations (30-200 Hz) are known to be prokinetic in the human cortex, but their role is poorly understood in subcortical structures. Here, the authors use direct electrophysiological recordings and the classic "center-out" direct-reach experiment to study amygdaloid gamma-band modulation in 8 patients with medically refractory epilepsy.
+
+
+METHODS
+The study population consisted of 8 epilepsy patients (2 men; age range 21-62 years) who underwent implantation of micro-macro depth electrodes for seizure localization and EEG monitoring. Data from the macro contacts sampled at 2000 Hz were used for analysis. The classic center-out direct-reach experiment was used, which consists of an intertrial interval phase, a fixation phase, and a response phase. The authors assessed the statistical significance of neural modulation by inspecting for nonoverlapping areas in the 95% confidence intervals of spectral power for the response and fixation phases.
+
+
+RESULTS
+In 5 of the 8 patients, power spectral analysis showed a statistically significant increase in power within regions of the gamma band during the response phase compared with the fixation phase. In these 5 patients, the 95% bootstrapped confidence intervals of trial-averaged power in contiguous frequencies of the gamma band during the response phase were above, and did not overlap with, the confidence intervals of trial-averaged power during the fixation phase.
+
+
+CONCLUSIONS
+To the authors' knowledge, this is the first time that direct neural recordings have been used to show gamma-band modulation in the human amygdala during the execution of voluntary movement. This work indicates that gamma-band modulation in the amygdala could be a contributing source of neural signals for use in a motor BCI system.

@@ -1,0 +1,19 @@
+Probabilistic modeling personalized treatment pathways using electronic health records
+BACKGROUND
+Modeling personalized treatment pathways plays an important role in understanding essential/critical treatment behaviors performed on patients during their hospitalizations and thus provides the opportunity for the improvement of better health service delivery in treatment pathways.
+
+
+OBJECTIVE
+Unlike traditional business process mining, modeling personalized treatment pathways is more challenging because they are typically case-specific. Although several studies have been devoted to modeling patient treatment pathways, limited efforts have been made on the extraction of latent semantics and their transitions behind patient treatment pathways, which are often ambiguous and poorly understood.
+
+
+METHODS
+In this article, we propose an extension of the Hidden Markov Model to mine and model personalized treatment pathways by extracting latent treatment topics and identifying their sequential dependencies in pathways, in the form of probabilistic distributions and transitions of patients' raw Electronic Health Record (EHR) data.
+
+
+RESULTS
+We evaluated the proposed model on 48,024 patients with cardiovascular diseases. A total of 15 treatment topics and their typical transition routes were discovered from EHR data that contained 1,391,251 treatment events with 2786 types of interventions and that were evaluated by ten clinicians manually. The obtained p-values are 0.000146 and 0.009106 in comparison with both Latent Dirichlet Allocation and Sequent Naïve Bayes models, respectively; this outcome indicate that our approach achieves a better understanding of human evaluators on modeling personalized treatment pathway than that of benchmark models.
+
+
+CONCLUSION
+The experimental results on a real-world data set clearly suggest that the proposed model has efficiency in mining and modeling personalized treatment pathways. We argue that the discovered treatment topics and their transition routes, as actionable knowledge that represents the practice of treating individual patients in their clinical pathways, can be further exploited to help physicians better understand their specialty and learn from previous experiences for treatment analysis and improvement.

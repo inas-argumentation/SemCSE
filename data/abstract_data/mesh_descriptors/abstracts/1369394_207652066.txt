@@ -1,0 +1,15 @@
+Comparison of CT-based Lobar Ventilation with 3He MR Imaging Ventilation Measurements.
+PURPOSE
+To compare lobar lung ventilation computed from expiratory and inspiratory computed tomographic (CT) data with direct measurements of ventilation at hyperpolarized helium 3 ((3)He) magnetic resonance (MR) imaging by using same-breath hydrogen 1 ((1)H) MR imaging examinations to coregister the multimodality images.
+
+
+MATERIALS AND METHODS
+The study was approved by the national research ethics committee, and written patient consent was obtained. Thirty patients with asthma underwent breath-hold CT at total lung capacity and functional residual capacity. (3)He and (1)H MR images were acquired during the same breath hold at a lung volume of functional residual capacity plus 1 L. Lobar segmentations delineated by major fissures on both CT scans were used to calculate the percentage of ventilation per lobe from the change in inspiratory and expiratory lobar volumes. CT-based ventilation was compared with (3)He MR imaging ventilation by using diffeomorphic image registration of (1)H MR imaging to CT, which enabled indirect registration of (3)He MR imaging to CT. Statistical analysis was performed by using the Wilcoxon signed-rank test, Pearson correlation coefficient, and Bland-Altman analysis.
+
+
+RESULTS
+The mean ± standard deviation absolute difference between the CT and (3)He MR imaging percentage of ventilation volume in all lobes was 4.0% (right upper and right middle lobes, 5.4% ± 3.3; right lower lobe, 3.7% ± 3.9; left upper lobe, 2.8% ± 2.7; left lower lobe, 3.9% ± 2.6; Wilcoxon signed-rank test, P < .05). The Pearson correlation coefficient between the two techniques in all lobes was 0.65 (P < .001). Greater percentage of ventilation was seen in the upper lobes with (3)He MR imaging and in the lower lobes with CT. This was confirmed with Bland-Altman analysis, with 95% limits of agreement for right upper and middle lobes, -2.4, 12.7; right lower lobe, -11.7, 4.6; left upper lobe, -4.9, 8.7; and left lower lobe, -9.8, 2.8.
+
+
+CONCLUSION
+The percentage of regional ventilation per lobe calculated at CT was comparable to a direct measurement of lung ventilation at hyperpolarized (3)He MR imaging. This work provides evidence for the validity of the CT model, and same-breath (1)H MR imaging enables regional interpretation of (3)He ventilation MR imaging on the underlying lung anatomy at thin-section CT.

@@ -1,0 +1,2 @@
+Inferential SQL Injection Attacks
+This paper describes a class of SQL injection attacks (SQLIA) where attackers can deduce information from the back-end database management system (DBMS) without transferring actual data. Instead, by using predetermined differentiation mechanism, information is being inferred piece by piece. Because of its widespread success, particularly in difficult situations where other SQLIA classes fail, understanding of this subject is of great importance for successful mitigation of this type of attacks.

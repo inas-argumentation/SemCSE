@@ -1,0 +1,11 @@
+Boosted Residual Networks
+In this paper we present a new ensemble method, called Boosted Residual Networks,
+which builds an ensemble of Residual Networks by growing the member
+network at each round of boosting. The proposed approach combines recent developements
+in Residual Networks - a method for creating very deep networks by
+including a shortcut layer between different groups of layers - with the Deep Incremental
+Boosting, which has been proposed as a methodology to train fast ensembles
+of networks of increasing depth through the use of boosting. We demonstrate
+that the synergy of Residual Networks and Deep Incremental Boosting has better
+potential than simply boosting a Residual Network of fixed structure or using the
+equivalent Deep Incremental Boosting without the shortcut layers.

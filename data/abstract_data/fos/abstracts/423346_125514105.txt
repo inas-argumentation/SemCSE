@@ -1,0 +1,2 @@
+Inference for IZAWA’S Bivariate Gamma Distribution
+Abstract In this article, we aim to establish some theoretical properties of Izawa’s bivariate gamma distribution having equal shape parameters. First, we propose a procedure to obtain the maximum likelihood estimates and derive an expression for the Fisher information. Simulation studies illuminate the properties of maximum likelihood estimators. We also establish an asymptotic test for independence based on the limiting distribution of maximum likelihood estimators.

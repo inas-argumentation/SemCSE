@@ -1,0 +1,2 @@
+The one-inclusion graph algorithm is near-optimal for the prediction model of learning
+Haussler, Littlestone and Warmuth (1994) described a general-purpose algorithm for learning according to the prediction model, and proved an upper bound on the probability that their algorithm makes a mistake in terms of the number of examples seen and the Vapnik-Chervonenkis (VC) dimension of the concept class being learned. We show that their bound is within a factor of 1+o(1) of the best possible such bound for any algorithm.

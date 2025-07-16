@@ -1,0 +1,2 @@
+Eye temperature distribution in drunk persons using thermal imagery
+Temperature distribution on the eyes of sober and drunk persons is studied and preliminary results are given regarding temperature changes. It is observed using simple image processing algorithms and histogram modification techniques that the temperature difference between the sclera and the iris increases when somebody consumes alcohol. Iris becomes darker, which means that its temperature decreases compared to sclera temperature.

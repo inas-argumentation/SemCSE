@@ -1,0 +1,3 @@
+The chain-level intersection pairing for PL pseudomanifolds revisited
+We generalize the PL intersection product for chains on PL manifolds and for intersection chains on PL stratified pseudomanifolds to products of locally finite chains on non-compact spaces that are natural with respect to restriction to open sets. This is necessary to sheafify the intersection product, an essential step in proving duality between the Goresky-MacPherson intersection homology product and the intersection cohomology cup product pairing recently defined by the author and McClure. 
+We also provide a correction to the Goresky-MacPherson proof of a version of Poincar\'e duality on pseudomanifolds that is used in the construction of the intersection product.

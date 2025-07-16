@@ -1,0 +1,2 @@
+Efficient search: the informedia video retrieval system
+We introduce an interface for efficient video search that exploits the human ability to quickly scan visual content, after an automatic system has done its best to arrange the images in order of relevance. While extreme video retrieval is taxing to the human, it has also been shown to be very effective. The system will demonstrate several ways to rapidly scan images, change search queries, and employ different types of relevance feedback.

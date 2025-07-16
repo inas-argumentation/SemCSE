@@ -1,0 +1,2 @@
+Frame Error Probability Analysis of Mobile Underwater Acoustic Networks
+The paper analyzes the frame error probability (FEP) of mobile underwater acoustic networks. The mobility model is direction persistent: the direction and the speed of the autonomous underwater vehicles (AUV’s) are constant for the duration of the packet. The frame error probability is evaluated using frequency dependent path loss and Ricean fading for each AUV-to-AUV channel. The FEP performance is illustrated through numerical examples. Keywords—underwater acoustic networks, mobility.

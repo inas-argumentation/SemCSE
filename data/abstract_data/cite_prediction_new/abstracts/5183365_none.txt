@@ -1,0 +1,2 @@
+Learning spatial context from tracking using penalised likelihoods
+MAP estimation of Gaussian mixtures through maximisation of penalised likelihoods was used to learn models of spatial context. This enabled prior beliefs about the scale, orientation and elongation of semantic regions to be encoded, encouraging one-to-one correspondences between mixture components and these regions. In conjunction with minimum description length this enabled automatic learning of inactivity zones and entry zones from track data in a supportive home environment.

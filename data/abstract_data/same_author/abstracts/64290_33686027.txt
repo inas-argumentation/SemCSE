@@ -1,0 +1,2 @@
+Development of an education tool for computer system
+An education tool has been developed to explain internal behavior and structure of computer graphically. It is written in Java Language and designed for students to understand how computer works in the classroom lecture of information science. This paper describes some characteristics of our education tool and improvement of its facilities, especially embedded mail handling module for information exchange between teacher and students.

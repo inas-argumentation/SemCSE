@@ -1,0 +1,2 @@
+Cell growth and division: a deterministic/probabilistic model of the cell cycle
+A model of the cell cycle, incorporating a deterministic cell-size monitor and a probabilistic component, is investigated. Steady-state distributions for cell size and generation time are calculated and shown to be globally asymptotically stable. These distributions are used to calculate various statistical quantities, which are then compared to known experimental data. Finally, the results are compared to distributions calculated from a Monte-Carlo simulation of the model.

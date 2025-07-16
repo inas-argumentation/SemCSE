@@ -1,0 +1,2 @@
+Experiments on deep learning for speech denoising
+In this paper we present some experiments using a deep learning model for speech denoising. We propose a very lightweight procedure that can predict clean speech spectra when presented with noisy speech inputs, and we show how various parameter choices impact the quality of the denoised signal. Through our experiments we conclude that such a structure can perform better than some comparable single-channel approaches and that it is able to generalize well across various speakers, noise types and signal-to-noise ratios.

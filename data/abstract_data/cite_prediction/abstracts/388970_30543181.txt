@@ -1,0 +1,2 @@
+Design of power hybrid structures for a N-port power combiner
+This paper deals with a design of power hybrid structures for an N-port power combiner in a primary radar. The primary radar operates on the S-band. This article focuses on the design of high power components for the transmitter part of the primary radar, especially with the power combiner. The individual parts of the power combiner are designed in a CST Microwave Studio.

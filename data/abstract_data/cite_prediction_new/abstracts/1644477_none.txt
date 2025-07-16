@@ -1,0 +1,2 @@
+Reply to B Comments on B Consensus and Cooperation in Networked Multi-Agent Systems
+from Proposition 11 of [2]. 4) For the study of alignment algorithms for arbitrary digraphs, it is important to observe that the statement of Lemma 2 that Ball nontrivial eigenvalues of L have positive real parts[ holds true for any digraphs [5, Proposition 9], and not only for strongly connected digraphs or digraphs with spanning converging trees. In [1, Sec. II-C], a discrete-time counterpart of the consensus algorithm (1) is considered

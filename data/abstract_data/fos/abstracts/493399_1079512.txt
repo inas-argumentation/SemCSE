@@ -1,0 +1,3 @@
+Paley-Wiener spaces for real reductive Lie groups
+We show that Arthur's Paley-Wiener theorem for K-finite compactly supported smooth functions on a real reductive Lie group G of the Harish-Chandra class can be deduced from the Paley-Wiener theorem we established in the more general setting of a reductive symmetric space. 
+In addition, we formulate an extension of Arthur's theorem to K-finite compactly supported generalized functions (distributions) on G and show that this result follows from the analogous result for reductive symmetric spaces as well.

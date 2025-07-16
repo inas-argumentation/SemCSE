@@ -1,0 +1,15 @@
+Predictive equations for lung volumes from computed tomography for size matching in pulmonary transplantation.
+OBJECTIVE
+Size matching for lung transplantation is widely accomplished using height comparisons between donors and recipients. This gross approximation allows for wide variation in lung size and, potentially, size mismatch. Three-dimensional computed tomography (3D-CT) volumetry comparisons could offer more accurate size matching. Although recipient CT scans are universally available, donor CT scans are rarely performed. Therefore, predicted donor lung volumes could be used for comparison to measured recipient lung volumes, but no such predictive equations exist. We aimed to use 3D-CT volumetry measurements from a normal patient population to generate equations for predicted total lung volume (pTLV), predicted right lung volume (pRLV), and predicted left lung volume (pLLV), for size-matching purposes.
+
+
+METHODS
+Chest CT scans of 400 normal patients were retrospectively evaluated. 3D-CT volumetry was performed to measure total lung volume, right lung volume, and left lung volume of each patient, and predictive equations were generated. The fitted model was tested in a separate group of 100 patients. The model was externally validated by comparison of total lung volume with total lung capacity from pulmonary function tests in a subset of those patients.
+
+
+RESULTS
+Age, gender, height, and race were independent predictors of lung volume. In the test group, there were strong linear correlations between predicted and actual lung volumes measured by 3D-CT volumetry for pTLV (r = 0.72), pRLV (r = 0.72), and pLLV (r = 0.69). A strong linear correlation was also observed when comparing pTLV and total lung capacity (r = 0.82).
+
+
+CONCLUSIONS
+We successfully created a predictive model for pTLV, pRLV, and pLLV. These may serve as reference standards and predict donor lung volume for size matching in lung transplantation.

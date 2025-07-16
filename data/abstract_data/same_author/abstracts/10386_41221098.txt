@@ -1,0 +1,25 @@
+Planck intermediate results. XII: Diffuse Galactic components in the Gould Belt system
+We perform an analysis of the diffuse low-frequency Galactic components in the southern
+ part of the Gould Belt system (130° ≤ l ≤ 230° and
+ −50° ≤ b ≤ −10°). Strong ultra-violet flux
+ coming from the Gould Belt super-association is responsible for bright diffuse foregrounds
+ that we observe from our position inside the system and that can help us improve our
+ knowledge of the Galactic emission. Free-free emission and anomalous microwave emission
+ (AME) are the dominant components at low frequencies
+ (ν < 40 GHz), while synchrotron emission is
+ very smooth and faint. We separated diffuse free-free emission and AME from synchrotron
+ emission and thermal dust emission by using Planck data, complemented by
+ ancillary data, using the correlated component analysis (CCA) component-separation method
+ and we compared our results with the results of cross-correlation of foreground templates
+ with the frequency maps. We estimated the electron temperature
+ Te from Hα and free-free emission using two
+ methods (temperature-temperature plot and cross-correlation) and obtained
+ Te ranging from 3100 to 5200K for an effective fraction of
+ absorbing dust along the line of sight of 30% (fd = 0.3). We
+ estimated the frequency spectrum of the diffuse AME and recovered a peak frequency (in
+ flux density units) of 25.5 ± 1.5 GHz. We verified the reliability of this result with
+ realistic simulations that include biases in the spectral model for the AME and in the
+ free-free template. By combining physical models for vibrational and rotational dust
+ emission and adding the constraints from the thermal dust spectrum from
+ Planck and IRAS, we are able to present a good description of the AME
+ frequency spectrum for plausible values of the local density and radiation field.

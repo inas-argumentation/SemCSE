@@ -1,0 +1,2 @@
+3D Tomographic Reconstruction from 2D Data Using Spherical Harmonics
+Tomographic reconstruction of a 3D object in terms of spherical harmonics from a small number of 2D data sets is shown to be possible in cases of objects of high symmetry and/or low shape anisotropy. A test case using an object of cubic symmetry shows that the reconstruction can work well in such high symmetry cases when only two or three data directions are available. Numerical tests suggest that reconstructions are best done from data taken in low symmetry directions.

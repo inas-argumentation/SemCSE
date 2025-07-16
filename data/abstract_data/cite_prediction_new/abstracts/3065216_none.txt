@@ -1,0 +1,2 @@
+A KIVA code with Reynolds-stress model for engine flow simulation
+To properly simulate the highly anisotropic turbulent engine flows, higher order turbulence model should be used to correctly reproduce flow physics inside the engine. The popular KIVA computer code has been modified to include the Reynolds-stress turbulence model (RSTM) for this purpose. The objective of this paper is to present our recent research on the use of RSTM and the KIVA code for engine flow simulation, which include gas turbine combustors and IC engines.

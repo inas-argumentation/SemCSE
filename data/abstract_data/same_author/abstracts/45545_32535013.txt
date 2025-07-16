@@ -1,0 +1,2 @@
+Timeout Estimation Using a Simulation Model for Non-repudiation Protocols
+An essential issue for the best operation of non-repudiation protocols is to figure out their timeouts. In this paper, we propose a simulation model for this purpose since timeouts depend on specific scenario features such as network speed, TTP characteristics, number of originators and recipients, etc. Based on a one-to-many Markowicth’s protocol simulation model as a specific example, we have worked out various simulation experiments.

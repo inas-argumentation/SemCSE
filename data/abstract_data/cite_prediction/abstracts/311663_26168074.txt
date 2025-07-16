@@ -1,0 +1,2 @@
+CARMA : A Deep Reinforcement Learning Approach to Autonomous Driving
+We created a deep Q-network (DQN) agent to perform the task of autonomous car driving from raw sensory inputs. We evaluated our agent’s performance against several standard agents in a racing simulation environment. Our results indicate that our DQN agent is capable of successfully controlling a car to navigate around a simulation environment.

@@ -1,0 +1,15 @@
+SU-E-T-153: Establish a Comprehensive Patient-Specific Plan QA Database for Instituitional Quality Control Program.
+PURPOSE
+Since the publication of TG-119, several new treatment techniques requiring new QA devices have been implemented in the clinic. To monitor and analyze our institutional QA performance, we have created a comprehensive QA database using Research Electronic Data Capture (REDCap). The database will also assist us in creating IMRT QA Analysis practice guidelines.
+
+
+METHODS
+Since Oct. 2013, 336 patient plan QA results were entered into the database. Plan parameters such as plan ID, treatment site, technique, energy, optimization constraints, modulation factor, leaf speed, leaf opening.etc were automatically extracted from the Varian Eclipse database to allow us to refine our evaluation and analysis method. Specific QA device, LINAC-related information, and measurement and analysis results were manually entered by the QA team. IMRT plans were measured using MapCHECK2 while RapidArc plans were measured using ArcCHECK. Distance-To-Agreement 3%/3mm without global maximum normalization was used.
+
+
+RESULTS
+The data indicates that different treatment techniques might benefit from a different site-specific action level(AL) depending on the complexity of the plan and optimization parameter used (e.g., breast IMRT QA= 97.8% and pelvis IMRT QA=93.1%). Different QA devices may also benefit from a different AL (MapCHECK2 = 94.1% while ArcCHECK = 83.0%). The relationship between the parameters and passing rate suggests that the complexity of each plan, characterized by leaf travel, leaf opening and modulation factor, affect the passing rate significantly. The database is reviewed regularly, and any abnormal point of the QA result or a trend of lower QA passing rate on a specific LINAC is further investigated.
+
+
+CONCLUSION
+Establishing a comprehensive QA database provides an overview of the quality assurance program. It not only helps in answering the question "what is a reasonable and achievable standard for each institution", but also saves time in monitoring and investigating the daily machine and QA performance.

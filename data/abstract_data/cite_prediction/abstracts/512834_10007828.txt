@@ -1,0 +1,2 @@
+CarveML : application of machine learning to file fragment classification
+We present a learning algorithmic approach to the problem of recognzing the file types of file fragments, with the purpose of applying this to “file carving”, the reconstruction of partially erased files on disk into whole files. We do so through the use of 257 calculated features of an input fragment, applying the Support Vector Machine, Multinomial Naive Bayes, and Linear Discriminant Analysis models to our problem to see which produces the most accurate method of classification.

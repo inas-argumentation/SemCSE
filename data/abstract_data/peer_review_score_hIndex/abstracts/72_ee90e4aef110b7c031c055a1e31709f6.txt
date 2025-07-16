@@ -1,0 +1,13 @@
+Simple deductive reasoning tests and numerical data sets for exposing limitation of today's deep neural networks
+Learning for Deductive Reasoning is an open problem in the machine learning world today. 
+Deductive reasoning involves storing facts in memory and generation of newer facts over time. 
+The concept of memory, processor and code in deduction systems is fundamentally different from the purpose and formulation of weights in a deep neural network. 
+A majority of the machine learning models are inductive reasoning models including state of the art deep neural networks which are effectively tensor interpolation based models.
+A step towards realization of memory is through recurrent neural networks and its variants, however the formal representation is not sufficient enough to capture a complex mapping function between input and output patterns.
+Deep neural networks are positioned to do away with feature engineering which is essentially deductive reasoning methodology.
+There are existing works in deductive reasoning in neural networks that require learning of syntax, unification and deduction and operate on text data as sequence of tokens.
+However the performance of deductive reasoning networks is far from perfection which may be either due to syntax or deduction aspects.
+In this context, we have proposed a suite of completely numeric data sets which do not require parsing as with text data.
+The 10 data sets are for - (a) selection (3 data sets) - minimum, maximum and top 2nd element in an array of numbers; (b) matching (3 data sets) - duplicate detection, counting and histogram learning; (c) divisibility tests (2 data sets) - divisibility of two numbers and divisibility by 3; (d) representation (2 data sets) - binary representation and parity. 
+Though extremely simple in terms of feature engineering, in all of these tests, simple deep neural networks, random forest and recurrent neural networks have failed with very low accuracies. 
+We propose these as numerical test-bed for testing learning models for deductive reasoning.

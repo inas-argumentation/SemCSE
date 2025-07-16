@@ -1,0 +1,2 @@
+Group distance magic labeling of Cartesian product of cycles
+A group distance magic labeling of a graph G(V,E )w ith|V | = n is an injection from V to an abelian group Γ of order n such that the sum of labels of all neighbors of every vertex x ∈ V is equal to the same element µ ∈ Γ. We completely characterize all Cartesian products CkCm that admit a group distance magic labeling by Zkm.

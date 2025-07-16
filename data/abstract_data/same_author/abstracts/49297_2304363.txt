@@ -1,0 +1,2 @@
+Time-Optimal Real-Time Test Case Generation Using Uppaal
+Testing is the primary software validation technique used by industry today, but remains ad hoc, error prone, and very expensive. A promising improvement is to automatically generate test cases from formal models of the system under test.

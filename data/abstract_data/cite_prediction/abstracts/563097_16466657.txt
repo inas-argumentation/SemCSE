@@ -1,0 +1,2 @@
+Compositionality and String Diagrams for Game Theory
+We introduce string diagrams as a formal mathematical, graphical language to represent, compose, program and reason about games. The language is well established in quantum physics, quantum computing and quantum linguistic with the semantics given by category theory. We apply this language to the game theoretical setting and show examples how to use it for some economic games where we highlight the compositional nature of our higher-order game theory.

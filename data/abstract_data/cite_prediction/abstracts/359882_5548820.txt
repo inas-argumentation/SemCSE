@@ -1,0 +1,2 @@
+ChunkCast: An Anycast Service for Large Content Distribution
+Fast and efficient large content distribution is a challenge in the Internet due to its high traffic volume. In this paper, we propose ChunkCast, an anycast service that optimizes large content distribution. We present a distributed locality-aware directory that supports an efficient query for large content. Our system improves the median downloading time by at least 32% compared to previous approaches and emulates multicast trees without any explicit coordination of peers.

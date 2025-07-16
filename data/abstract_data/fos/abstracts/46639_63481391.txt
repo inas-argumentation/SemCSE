@@ -1,0 +1,2 @@
+Research and Application of Transforming XML Document with XSLT
+XML makes the datum and its expression separated. It must use style sheet to show the datum of XML. There are two style sheet formats used frequently at present-CSS and XSL. First, discusses the limitations of CSS and advantages of XSL. Then, introduces XSL and XSLT , discusses the working principle of XSLT deeply. In the end, illustrates how to accomplish transforming XML document in browser or on server with XSLT using an example in water calling engineering.

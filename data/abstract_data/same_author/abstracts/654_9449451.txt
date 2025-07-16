@@ -1,0 +1,2 @@
+The Tree Representation of the Graph Used in Binary Image Processing
+Abstract A very useful structure, line adjacency graph, used in binary image processing is mapped onto an extended binary tree in this paper. The latter is more convenient for storing, traversing and pruning, and it occupies less memory space than the former.

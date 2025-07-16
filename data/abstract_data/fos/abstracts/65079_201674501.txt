@@ -1,0 +1,15 @@
+Effect of beam configuration with inaccurate or incomplete small field output factors on the accuracy of treatment planning dose calculation.
+PURPOSE
+To evaluate the effect of beam configuration with inaccurate or incomplete small field output factors on the accuracy of dose calculations in treatment planning systems.
+
+
+METHODS
+Output factors were measured using various detectors and for a range of field sizes. Three types of treatment machines were configured in two treatment planning systems. In the first (corrected) machine, the Exradin W1 scintillator was used to determine output factors. In the second (uncorrected) machine, the measured output factors by the A1SL ion chamber without considering output correction factors for small field sizes were utilized. In the third (clinical) machine, measured output factors by the Exradin W1 were used but not for field sizes smaller than 2 × 2 cm2 . The dose computed by the anisotropic analytical algorithm (AAA), Acuros XB (AXB) and collapsed cone convolution/superposition (CCC) algorithms in the three machines were delivered using static (jaw-, MLC-, and jaw/MLC-defined), and composite (IMRT, VMAT) fields. The differences between measured and calculated dose values were analyzed.
+
+
+RESULTS
+For static fields, the percentage differences between measured and calculated doses by the three algorithms in three configured machines were less than 2% for field sizes larger than 2 × 2 cm2 . In jaw- and jaw/MLC-defined fields smaller than 2 × 2 cm2 , the corrected machine presented better agreement with measurement. Considering output correction factors in MLC-defined fields, among the three configured machines, the accuracy of calculation improved to within ±0.5%. For MLC-defined field sizes of 1 × 1 cm2 , the AXB showed the smallest percentage difference (1%). In IMRT and VMAT plans, the percentage differences between measured and calculated doses at the isocenter, as well as the gamma analysis of different plans, which include field sizes larger than 3 × 3 cm2 , did not vary noticeably. For smaller field sizes, using the corrected machine influences dose calculation accuracy.
+
+
+CONCLUSION
+Configuration with corrected output factors improves accuracy of dose calculation for static field sizes smaller than 2 × 2 cm2 . For very small fields, the robustness of the dose calculation algorithm affects the accuracy of dose as well. In IMRT and VMAT plans, which include small subfields, the size of the jaw-defined field is an important factor and using corrected output factors increases dose calculation accuracy.

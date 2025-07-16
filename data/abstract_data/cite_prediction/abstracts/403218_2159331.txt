@@ -1,0 +1,2 @@
+On the value of temporal information in information retrieval
+Time is an important dimension of any information space and can be very useful in information retrieval. Current information retrieval systems and applications do not take advantage of all the time information available in the content of documents to provide better search results and user experience. In this paper we show some of the areas that can benefit from exploiting such temporal information.

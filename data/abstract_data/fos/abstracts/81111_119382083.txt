@@ -1,0 +1,2 @@
+On the maximal invariance of manova step down procedure statistics
+Subbaiah and Mudhol kar (1978) remark the general mu1tivariate linear hypothesis testing step down procedure statistics do not appear to be maximal invariants under nonsingular lower triangular matrix transformations of the original variates. This paper proves the maximal invariance of these statistics. The invariance results are essential to study the power functions of the step down procedures for MANOVA problems. An example is given to show that such power function studies are very involved.

@@ -1,0 +1,2 @@
+Circuit realization of spectral transforms in Fibonacci interconnection topologies
+We present a method for design of networks for realization of functions represented by Fibonacci decision diagrams (FibDDs) and for calculation of the generalized Fibonacci spectral transforms. For a given function f, the structure of the network which realizes f is derived from the FibDD for f. We extend this method to design circuits for calculation of the generalized Fibonacci spectra from FibDDs.

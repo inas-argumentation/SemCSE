@@ -1,0 +1,9 @@
+DEVELOPMENT AND VALIDATION OF A NEURAL NETWORK MODEL FOR SOIL WATER CONTENT PREDICTION WITH COMPARISON TO REGRESSION TECHNIQUES
+A set of neural networks, each of which predicts soil water content at a given depth as a function of soil 
+temperature, has been developed. Networks were developed to predict at depths of 0.15 m, 0.3 m, 0.6 m, and 1.2 m. Input 
+data consists of a coefficient describing soil type and soil temperatures measured at two depths above and two depths below 
+the desired depth. The networks were trained and tested using data from two sites in Oklahoma, and data from a third site 
+were used for additional testing. The networks were generally able to predict the variations in water content over time. 
+Accuracy, as assessed by root mean square error in predicted value, ranged from 0.0142 to 0.0221 m3 m–3. Network 
+performance generally improved as deeper depths were considered. For comparison purposes, multiple linear regression 
+models were also estimated. They did not perform well, particularly in following the trends in the data over time.

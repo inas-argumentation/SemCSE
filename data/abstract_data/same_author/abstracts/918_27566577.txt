@@ -1,0 +1,2 @@
+Requirements for XML functionality in relational database management systems
+The eXtensible Markup Language (XML) is an evolving data format standard designed to simplify the exchange of data between disparate information systems. As Informix is in the business of information management, we need to provide mechanisms whereby our customers can take advantage of XML as it evolves. The authors present some of the XML specific features that are available in various Informix products.

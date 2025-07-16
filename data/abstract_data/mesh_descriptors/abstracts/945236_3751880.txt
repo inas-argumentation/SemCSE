@@ -1,0 +1,2 @@
+Comparison of linear and nonlinear implementation of the compartmental tissue uptake model for dynamic contrast‐enhanced MRI
+Fitting tracer kinetic models using linear methods is much faster than using their nonlinear counterparts, although this comes often at the expense of reduced accuracy and precision. The aim of this study was to derive and compare the performance of the linear compartmental tissue uptake (CTU) model with its nonlinear version with respect to their percentage error and precision.

@@ -1,0 +1,6 @@
+Maximum matchings in a class of random graphs
+Let Vn = {1,2,…,n} and D(n, m) be the set of digraphs with vertex set Vn in which each v ϵ Vn has outdegree m. D(n, m) is chosen uniformly at random from D(n, m) and then D(n, m) is obtained by ignoring the orientation of the edges of D(n, m). We show that 
+Limn → ∞n evenPr(D(n, 1) has a perfect matching) = 0 
+, 
+Limn → ∞n evenPr(D(n, 2) has a perfect matching) = 1 
+.

@@ -1,0 +1,2 @@
+Comparing Two Approaches in Heteroscedastic Regression Models.
+Recently, a generalized test approach is proposed by Sadooghi-alvandi et al. (2016) and a fiducial approach is proposed by Xu and Li (2018) to test the equality of coefficients in several regression models with unequal variances. In this paper, it is shown that the considered quantities in these approaches are identically distributed and therefore, these approaches are same. Also, this result satisfies for the one-way ANOVA problem.

@@ -1,0 +1,2 @@
+Simulation Study of Artificial Neutral Network on Ecosystem of Taihu Lake
+An artificial neutral network model for Taihu Lake ecosystem was developed to improve traditional ecological numerical models. The training sample, valid sample and test sample were developed, taking data of 26 sample plots from May to October of 2001 as input indicators and phytoplankton biomass of each sample site as output factor. The efficiency of this network showed that the model performance was fine to be in accordance with sampling data of August 2002.

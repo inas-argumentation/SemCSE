@@ -1,0 +1,2 @@
+Occupation number-based energy functional for nuclear masses.
+We develop an energy functional with shell-model occupations as the relevant degrees of freedom and compute nuclear masses across the nuclear chart. The functional is based on Hohenberg-Kohn theory with phenomenologically motivated terms. A global fit of the 17-parameter functional to 2049 nuclear masses yields a root-mean-square deviation of {chi} = 1.31 MeV. Nuclear radii are computed within a model that employs the resulting occupation numbers.

@@ -1,0 +1,2 @@
+A Flexible Authorization Framework for E-Commerce
+Past generations of access control models fail to meet the needs of many applications such as business-to-business (B2B) applications and auctions This paper describes several access control models that have been recently proposed to address these emerging needs including models that are policy-neutral and flexible in that they permit enforcement of multiple policies on the same server, and models that incorporate richer semantics for access control, such as provisions and obligations.

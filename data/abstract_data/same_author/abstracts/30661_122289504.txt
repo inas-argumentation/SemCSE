@@ -1,0 +1,2 @@
+Diffusion reproduction processes
+Interesting physics emerges from studying a population of reproducing individuals. Each can be regarded as a random walker, but it can either duplicate or die. Novel features of the collective behavior are quite surprising: if individuals reproduce or die freely, the life expectation is proportional to the size of the population, and if it is kept constant, the center of mass moves in space as if it were a single walker (i.e., the diffusion constant is independent of population's size). Biology-inspired interactions are also considered.

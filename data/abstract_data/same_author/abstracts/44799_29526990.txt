@@ -1,0 +1,2 @@
+The orbital browser: composing ubicomp services using only rotation and selection
+Most ubiquitous computing environments are designed as collections of highly distributed and heterogeneous services. In this paper we describe a user interface, the Orbital Browser, which reduces the complexity of ubicomp service composition to two simple end-user operations: rotation and selection. We discuss the design requirements imposed by service composition and how we addressed them with our system.

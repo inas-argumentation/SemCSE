@@ -1,0 +1,2 @@
+Perturbative Neural Networks ( Supplementary Material )
+This article provides supplementary materials for [1]. In Section 1, we will show the proof of Sherman-Morrison formula. In Section 2, we will show the distance preserving property of PNN. In Section 3, computational and statistical complexity and efficiency of PNN will be discussed. In Section 4, we will discuss the relationship between noise level and convolutional filter size in detail. Finally, in Section 5, some visualization of intermediate responses of both PNN and CNN will be shown.

@@ -1,0 +1,2 @@
+A Middleware Technology for Financial Acquiring System
+The mechanism of message transmission for the financial system is mainly achieved through the messaging middleware products.Discusses the application of Chinaums-Q for the commercial acquiring,and analyses its storage principle,structure,implementation mechanism.The test proves that the middleware in the acquiring has high transmission efficiency.The average transfer rate is up to 18,390 T /sec for 1K packets.

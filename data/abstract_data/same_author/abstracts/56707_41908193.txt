@@ -1,0 +1,2 @@
+Fault-Tolerant Matrix Triangularizations on Systolic Arrays
+Examines the checksum methods of Abraham et al. for LU decomposition on multiprocessor arrays. Their methods are efficient for detecting a transient error, but expensive for correcting it due to the need for a computation rollback. The authors show how to avoid the rollback by using matrix updating techniques, and they introduce new checksum methods for Gaussian elimination with pairwise pivoting and for QR decomposition on systolic arrays. >

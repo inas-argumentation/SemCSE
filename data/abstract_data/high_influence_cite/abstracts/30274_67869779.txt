@@ -1,0 +1,2 @@
+Non-satisfiability of a positivity condition for commutator-free exponential integrators of order higher than four
+We consider commutator-free exponential integrators as put forward in Alverman and Fehske (J Comput Phys 230:5930–5956, 2011). For parabolic problems, it is important for the well-definedness that such an integrator satisfies a positivity condition such that essentially it only proceeds forward in time. We prove that this requirement implies maximal convergence order of four for real coefficients, which has been conjectured earlier by other authors.

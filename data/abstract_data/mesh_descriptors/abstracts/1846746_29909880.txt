@@ -1,0 +1,11 @@
+Nonsteric factors dominate binding of nitric oxide, azide, imidazole, cyanide, and fluoride to the rhizobial heme-based oxygen sensor FixL.
+BACKGROUND
+The FixL protein is a heme-based sensor. Binding of oxygen to a unique heme domain inhibits a kinase domain of the type found in two-component regulators. Oxygen association is slow, but the dissociation rate is comparable to that of myoglobins. We have probed the size and chemistry of the FixL heme pocket by measuring the affinites, on rates and off rates for a wide variety of ferric heme ligands. Cyanide, but not fluoride, regulates the kinase activity. To examine how the sensory heme domain interacts with the kinase, we asked how the presence of the kinase domain affects ligand binding.
+
+
+RESULTS
+The affinities of ferric FixL for heme ligands follow the same trend as their pKa values: cyanide > 4-methyl imidazole > imidazole > fluoride > azide >> thiocyanate. The association rates follow the reverse trend. Striking differences from myoglobin include a 6-fold greater affinity for, and faster binding to, the bulky ligand imidazole, a 14-fold faster on rate for nitric oxide, a 2 800-fold lower affinity for azide, and a complete failure to bind thiocyanate. The presence of the kinase domain does not alter the affinity or binding kinetics of the high-spin ligand fluoride, but affects the off rates of other ligands. The EPR spectrum shows a characteristic pentacoordinate nitrosyl heme, indicating that the Fe-His bond in FixL is strained.
+
+
+CONCLUSIONS
+The importance of ligand deprotonation to the on rates and the fact that large ligands bind readily indicate that the heme pocket is open and apolar. Ligand basicity strongly influences the strength of binding. The destabilization of inhibitory ligands by the presence of the kinase domain is consistent with a 'load' imposed by coupling to the inactivating mechanism.

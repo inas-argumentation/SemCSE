@@ -1,0 +1,15 @@
+Improving Clinical Outcomes in Patients With Methicillin-Sensitive Staphylococcus aureus Bacteremia and Reported Penicillin Allergy.
+BACKGROUND
+Methicillin-sensitive Staphylococcus aureus (MSSA) bacteremia is a morbid infection. First-line MSSA therapies (nafcillin, oxacillin, cefazolin) are generally avoided in the 10% of patients reporting penicillin (PCN) allergy, but most of these patients are not truly allergic. We used a decision tree with sensitivity analyses to determine the optimal evaluation and treatment for patients with MSSA bacteremia and reported PCN allergy.
+
+
+METHODS
+Our model simulates 3 strategies: (1) no allergy evaluation, give vancomycin (Vanc); (2) allergy history-guided treatment: if history excludes anaphylactic features, give cefazolin (Hx-Cefaz); and (3) complete allergy evaluation with history-appropriate PCN skin testing: if skin test negative, give cefazolin (ST-Cefaz). Model outcomes included 12-week MSSA cure, recurrence, and death; allergic reactions including major, minor, and potentially iatrogenic; and adverse drug reactions.
+
+
+RESULTS
+Vanc results in the fewest patients achieving MSSA cure and the highest rate of recurrence (67.3%/14.8% vs 83.4%/9.3% for Hx-Cefaz and 84.5%/8.9% for ST-Cefaz) as well as the greatest frequency of allergic reactions (3.0% vs 2.4% for Hx-Cefaz and 1.7% for ST-Cefaz) and highest rates of adverse drug reactions (5.2% vs 4.6% for Hx-Cefaz and 4.7% for ST-Cefaz). Even in a "best case for Vanc" scenario, Vanc yields the poorest outcomes. ST-Cefaz is preferred to Hx-Cefaz although sensitive to input variations.
+
+
+CONCLUSIONS
+Patients with MSSA bacteremia and a reported PCN allergy should have the allergy addressed for optimal treatment. Full allergy evaluation with skin testing seems to be preferred, although more data are needed.

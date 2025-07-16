@@ -1,0 +1,2 @@
+Chromatic equivalence classes of certain cycles with edges
+Abstract Let P(G) denote the chromatic polynomial of a graph G . Two graphs G and H are chromatically equivalent, written G∼H , if P(G)=P(H) . A graph G is chromatically unique if for any graph H , G∼H implies that G is isomorphic with H . In this paper, we give the necessary and sufficient conditions for a family of generalized polygon trees to be chromatically unique.

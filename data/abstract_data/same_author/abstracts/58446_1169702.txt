@@ -1,0 +1,17 @@
+Computing Diameter in the Streaming and Sliding-Window
+Models
+Abstract
+We investigate the diameter
+problem in the streaming and sliding-window
+models. We show that, for
+a stream of $n$ points or a sliding window of size $n$, any exact
+algorithm for diameter requires $\Omega(n)$ bits of
+space. We present a simple $\epsilon$-approximation algorithm
+for computing the diameter in the streaming model. Our main result
+is an $\epsilon$-approximation algorithm
+that maintains the diameter in two dimensions in the sliding-window
+model using $O(({1}/{\epsilon^{3/2}}) \log^{3}n(\log R+\log\log n +
+\log ({1}/{\epsilon})))$ bits of space, where $R$ is the maximum, over all
+windows, of the ratio of the diameter to the minimum non-zero distance
+between any two points in the window.
+

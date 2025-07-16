@@ -1,0 +1,15 @@
+Surface EMG pattern recognition for real-time control of a wrist exoskeleton
+BACKGROUND
+Surface electromyography (sEMG) signals have been used in numerous studies for the classification of hand gestures and movements and successfully implemented in the position control of different prosthetic hands for amputees. sEMG could also potentially be used for controlling wearable devices which could assist persons with reduced muscle mass, such as those suffering from sarcopenia. While using sEMG for position control, estimation of the intended torque of the user could also provide sufficient information for an effective force control of the hand prosthesis or assistive device. This paper presents the use of pattern recognition to estimate the torque applied by a human wrist and its real-time implementation to control a novel two degree of freedom wrist exoskeleton prototype (WEP), which was specifically developed for this work.
+
+
+METHODS
+Both sEMG data from four muscles of the forearm and wrist torque were collected from eight volunteers by using a custom-made testing rig. The features that were extracted from the sEMG signals included root mean square (rms) EMG amplitude, autoregressive (AR) model coefficients and waveform length. Support Vector Machines (SVM) was employed to extract classes of different force intensity from the sEMG signals. After assessing the off-line performance of the used classification technique, the WEP was used to validate in real-time the proposed classification scheme.
+
+
+RESULTS
+The data gathered from the volunteers were divided into two sets, one with nineteen classes and the second with thirteen classes. Each set of data was further divided into training and testing data. It was observed that the average testing accuracy in the case of nineteen classes was about 88% whereas the average accuracy in the case of thirteen classes reached about 96%. Classification and control algorithm implemented in the WEP was executed in less than 125 ms.
+
+
+CONCLUSIONS
+The results of this study showed that classification of EMG signals by separating different levels of torque is possible for wrist motion and the use of only four EMG channels is suitable. The study also showed that SVM classification technique is suitable for real-time classification of sEMG signals and can be effectively implemented for controlling an exoskeleton device for assisting the wrist.

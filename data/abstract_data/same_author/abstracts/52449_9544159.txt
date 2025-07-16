@@ -1,0 +1,2 @@
+Broadcasting in Random Graphs
+Abstract We do a probabilistic analysis of the problem of distributing a single piece of information to the vertices of a graph G. Assuming that the input graph G is Gn,p, we prove an O(ln n/n) upper bound on the edge density needed so that with high probability the information can be broadcast in ⌈log2 n⌉ rounds.

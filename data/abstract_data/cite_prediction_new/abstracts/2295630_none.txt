@@ -1,0 +1,2 @@
+A Study on Clustering Method by Self-Organizing Map and Information Criteria
+In this paper, we propose a clustering method by SOM and information criteria. In this method, initial cluster-candidates are derived by SOM, and then these candidates are merged appropriately based on information criterion such as BIC or AIC (Akaike Information Criterion). Through the clustering experiments for the artificial datasets and UCI Machine Learning Repository's datasets, we confirm that our proposed method can extract clusters more accurately and stably than the SOM-only method.

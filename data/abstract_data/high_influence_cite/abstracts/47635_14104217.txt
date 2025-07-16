@@ -1,0 +1,2 @@
+Extended formulations for Gomory Corner polyhedra
+We present several types of extended formulations for integer programs, based on irreducible integer solutions to Gomory's group relaxations. We present algorithmic schemes based on an iterative reformulation technique using these extended formulations. We give computational results for benchmark problems, which illustrate the primal and dual effect of the reformulation.

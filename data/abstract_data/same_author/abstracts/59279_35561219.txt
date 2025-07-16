@@ -1,0 +1,2 @@
+An object oriented environment for modeling and synthesis of hardware circuits
+Presents an object oriented design environment for modeling as well as synthesis of circuits. The modeling of circuits as classes and storage of presynthesized modules has been discussed. A design approach is presented which synthesizes both the datapath and control path of a circuit from its behavioral specification provided in object oriented style. The synthesis approach can synthesize circuits which reuse the presynthesized modules from the design library.<<ETX>>

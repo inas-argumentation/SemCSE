@@ -1,0 +1,6 @@
+Mining search engine query logs via suggestion sampling
+Many search engines and other web applications suggest auto-completions as the user types in a query. The suggestions are generated from hidden underlying databases, such as query logs, directories, and lexicons. These databases consist of interesting and useful information, but they are typically not directly accessible. 
+ 
+In this paper we describe two algorithms for sampling suggestions using only the public suggestion interface. One of the algorithms samples suggestions uniformly at random and the other samples suggestions proportionally to their popularity. These algorithms can be used to mine the hidden suggestion databases. Example applications include comparison of popularity of given keywords within a search engine's query log, estimation of the volume of commercially-oriented queries in a query log, and evaluation of the extent to which a search engine exposes its users to negative content. 
+ 
+Our algorithms employ Monte Carlo methods in order to obtain unbiased samples from the suggestion database. Empirical analysis using a publicly available query log demonstrates that our algorithms are efficient and accurate. Results of experiments on two major suggestion services are also provided.

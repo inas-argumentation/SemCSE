@@ -1,0 +1,2 @@
+Bangarama: Creating Music with Headbanging
+Bangarama is a music controller using headbanging as the primary interaction metaphor. It consists of a head-mounted tilt sensor and a guitar-shaped controller that does not require complex finger positions. We discuss the specific challenges of designing and building this controller to create a simple, yet responsive and playable instrument, and show how ordinary materials such as plywood, tin foil, and copper wire can be turned into a device that enables a fun, collaborative music-making experience.

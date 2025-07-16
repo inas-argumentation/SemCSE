@@ -1,0 +1,2 @@
+The Power of Reachability Testing for Timed Automata
+In this paper we provide a complete characterization of the class of properties of (networks of) timed automata for which model checking can be reduced to reachability checking in the context of testing automata.

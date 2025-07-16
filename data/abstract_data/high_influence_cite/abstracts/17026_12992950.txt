@@ -1,0 +1,2 @@
+Asymmetric k-center with minimum coverage
+In this paper we give approximation algorithms and inapproximability results for various asymmetric k-center with minimum coverage problems. In the k-center with minimum coverage problem, each center is required to serve a minimum number of clients. These problems have been studied by Lim et al. [A. Lim, B. Rodrigues, F. Wang, Z. Xu, k-center problems with minimum coverage, Theoret. Comput. Sci. 332 (1-3) (2005) 1-17] in the symmetric setting.

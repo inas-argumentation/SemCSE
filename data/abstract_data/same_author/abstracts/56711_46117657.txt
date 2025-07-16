@@ -1,0 +1,2 @@
+An Analysis of Algorithm-Based Fault Tolerance Techniques
+Abstract We introduce a unified checksum scheme for the LU decomposition, Gaussian elimination with pairwise pivoting, and the QR decomposition. The purpose is to detect and locate a transient error during a systolic array computation. We show how to represent the error as a rank-one perturbation to the original data, so that we need not worry when the error occurred. Finally, we perform a floating point error analysis to determine the effects of rounding errors on the checksum scheme.

@@ -1,0 +1,27 @@
+A spirometry-based algorithm to direct lung function testing in the pulmonary function laboratory.
+OBJECTIVE
+To design a spirometry-based algorithm to predict pulmonary restrictive impairment and reduce the number of patients undergoing unnecessary lung volume testing.
+
+
+DESIGN
+Two prospective studies of 259 consecutive patients and 265 consecutive patients used to derive and validate the algorithm, respectively.
+
+
+SETTING
+A pulmonary function laboratory of a tertiary care hospital.
+
+
+PATIENTS
+Consecutive adults referred to the laboratory for lung volume measurements and spirometry.
+
+
+MEASUREMENTS
+The sensitivity of the algorithm for predicting pulmonary restriction and the cost savings associated with its use.
+
+
+RESULTS
+Total lung capacity correlated strongly with FVC (r = 0.66) and showed an inverse correlation with the FEV(1)/FVC ratio (r = - 0.41). According to the algorithm, only patients with an FVC < 85% of predicted and an FEV(1)/FVC ratio >or= 55% required lung volume measurements following spirometry. The algorithm had a high sensitivity for predicting restriction and a high negative predictive value (NPV) for excluding restriction (sensitivity, 96%; NPV, 98%). The diagnostic properties of the algorithm were reproducible in the validation study. Application of the algorithm would eliminate the need for lung volume testing in 48 to 49% of patients referred to the pulmonary function test (PFT) laboratory, reducing costs by 33%.
+
+
+CONCLUSIONS
+A spirometry-based algorithm accurately excludes pulmonary restriction and reduces unnecessary lung volume testing in the PFT laboratory almost in half.

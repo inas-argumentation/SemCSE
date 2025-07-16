@@ -1,0 +1,22 @@
+Modeling Surface and Subsurface Pesticide Transport Under Three Field Conditions Using PRZM-3 and GLEAMS
+Contaminant transport models should be evaluated over a wide range of conditions to determine their 
+limitations. The models PRZM and GLEAMS have been evaluated many times, but few studies are available in which 
+predicted movement in runoff and percolate were simultaneously evaluated against field data. Studies of this type are 
+essential because pesticide leaching and runoff are mutually dependent processes. For this reason, PRZM-3 and 
+GLEAMS were evaluated for their ability to predict metribuzin concentrations in runoff, sediment, subsurface soil, and 
+pan lysimeters under three field conditions (yard waste compost amended, no-till, and conventional-till) on a Lowell silt 
+loam soil. Sensitive input parameters were either site specific (climatic, soil, and chemical) or calibrated (K-factor, 
+C-factor, curve number). In general, both models under-predicted metribuzin concentration in runoff water, runoff 
+sediment, subplow layer soil (15-75 cm), and pan lysimeter water (75 cm). Contrary to field data, both models predicted 
+that a large percentage (> 50%) of metribuzin would move below the “mixing zone” (top 1 cm) during the first rainfall 
+event after application. Relatively little metribuzin was predicted to move beyond the plow layer (top 15 cm) into the pan 
+lysimeters or subsurface soil throughout the simulation period, possibly due to the lack of a macropore component in the 
+models. High metribuzin concentrations in sediment (field data) indicated that relatively little metribuzin moved below the 
+“mixing zone”, possibly because of hysteresis but much of the metribuzin that did move was quickly transported into the 
+pan lysimeters, probably due to macropore flow. GLEAMS more accurately predicted pesticide concentration in sediment 
+and PRZM predicted subsurface soil concentration somewhat more accurately than GLEAMS. Little difference in 
+accuracy was detected between models on metribuzin concentration in runoff or metribuzin concentration in percolate. 
+Although both models generally under-predicted metribuzin concentration in runoff, runoff transport (mass of metribuzin 
+in runoff) for the study period was over-predicted by both models which emphasizes the importance of accurately 
+predicting herbicide concentration and runoff volume soon after application when the surface pesticide concentrations 
+are highest.

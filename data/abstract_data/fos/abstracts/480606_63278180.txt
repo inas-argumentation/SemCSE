@@ -1,0 +1,2 @@
+A Provably Secure Signature Scheme
+Provable security means the scheme can be proven secure and it can withstand cryptanalytic attacks. Random oracle model has been an important tool in the theory of provable security. Recently,as elliptic curve cryptography has better characters,it attracts the people. Proposes an efficient signature scheme based on bilinear pairings,and it can be proven to be secure in the random oracle model.

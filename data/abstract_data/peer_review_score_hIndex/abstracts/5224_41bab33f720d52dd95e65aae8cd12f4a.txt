@@ -1,0 +1,21 @@
+“Style” Transfer for Musical Audio Using Multiple Time-Frequency Representations
+Neural Style Transfer has become a popular technique for
+generating images of distinct artistic styles using convolutional neural networks. This
+recent success in image style transfer has raised the question of
+whether similar methods can be leveraged to alter the “style” of musical
+audio. In this work, we attempt long time-scale high-quality audio transfer
+and texture synthesis in the time-domain that captures harmonic,
+rhythmic, and timbral elements related to musical style, using examples that
+may have different lengths and musical keys. We demonstrate the ability
+to use randomly initialized convolutional neural networks to transfer
+these aspects of musical style from one piece onto another using 3
+different representations of audio: the log-magnitude of the Short Time
+Fourier Transform (STFT), the Mel spectrogram, and the Constant-Q Transform
+spectrogram. We propose using these representations as a way of
+generating and modifying perceptually significant characteristics of
+musical audio content. We demonstrate each representation's
+shortcomings and advantages over others by carefully designing
+neural network structures that complement the nature of musical audio. Finally, we show that the most
+compelling “style” transfer examples make use of an ensemble of these
+representations to help capture the varying desired characteristics of
+audio signals.

@@ -1,0 +1,2 @@
+A New Recursive Finite-Time Convergent Parameter Estimation Algorithm
+A recursive algorithm for parameter estimation converging in finite time is introduced. It includes as special case the classical Linear Recursive Square algorithm, and is a generalization of the Super-Twisting Algorithm (STA), a second order sliding mode algorithm, to time-varying systems.

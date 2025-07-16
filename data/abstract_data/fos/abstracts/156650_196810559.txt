@@ -1,0 +1,8 @@
+A Framework for Universally Composable Oblivious Transfer from One-Round Key-Exchange
+Oblivious transfer is one of the main pillars of modern cryptography and plays a major role as a building block for other more complex cryptographic primitives. In this work, we present an efficient and versatile framework for oblivious transfer (OT) using one-round key-exchange (ORKE), a special class of key exchange (KE) where only one message is sent from each party to the other. Our contributions can be summarized as follows: 
+ 
+ 
+We analyze carefully ORKE schemes and introduce new security definitions. Namely, we introduce a new class of ORKE schemes, called Alice-Bob one-round key-exchange (A-B ORKE), and the definitions of message and key indistinguishability. 
+ 
+ 
+We show that OT can be obtained from A-B ORKE schemes fulfilling message and key indistinguishability. We accomplish this by designing a new efficient, versatile and universally composable framework for OT in the Random Oracle Model (ROM). The efficiency of the framework presented depends almost exclusively on the efficiency of the A-B ORKE scheme used since all other operations are linear in the security parameter. Universally composable OT schemes in the ROM based on new hardness assumptions can be obtained from instantiating our framework.

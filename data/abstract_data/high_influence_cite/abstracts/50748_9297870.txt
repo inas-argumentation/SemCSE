@@ -1,0 +1,15 @@
+Microfluidics-Based Subretinal Chemical Neuromodulation of Photoreceptor Degenerated Retinas.
+Purpose
+Retinal prostheses can restore rudimentary vision in cases of photoreceptor degeneration through electrical stimulation, but face difficulties achieving high spatial resolution because electrical current is an inherently unnatural stimulus. We investigated the therapeutic feasibility of using patterned delivery of the glutamate neurotransmitter, a primary agent of natural synaptic communication of the retina, as a biomimetic chemical alternative to electrical current for neuromodulation of photoreceptor degenerate retina.
+
+
+Methods
+We injected small quantities of the neurotransmitter glutamate into the subretina of 20 explanted photoreceptor degenerated S334ter-3 rat retinas using glass micropipettes and a prototype multiport microfluidic device to accomplish single- and multisite stimulation in vitro. The effects of chemical stimulation were characterized by recording neural responses from retinal ganglion cells (RGCs) using a multielectrode array.
+
+
+Results
+Subretinally injected exogenous glutamate activates RGCs, despite the substantial anatomic and physiologic changes caused by retinal remodeling, eliciting robust neural responses. The presence of excitatory and inhibitory RGC responses provides evidence that exogenous glutamate differentially activated neurons presynaptic to RGCs, likely inner retinal neurons belonging to the OFF and ON pathways. We also demonstrate that glutamate injections can evoke focal RGC responses with spatial resolutions comparable to or better than current generation electrical prostheses and, when applied at multiple sites simultaneously with the multiport microfluidic device, can produce spatially patterned neural responses.
+
+
+Conclusions
+These significant results establish that chemical stimulation of degenerated retinas with neurotransmitters is an effective neuromodulation strategy with the potential of restoring high-resolution visual perception in patients rendered blind through photoreceptor degeneration.

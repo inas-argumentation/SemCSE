@@ -1,0 +1,2 @@
+Vertices of Small Degree in Uniquely Hamiltonian Graphs
+LetGbe a uniquely hamiltonian graph onnvertices. We show thatGhas a vertex of degree at mostclog28n+3, wherec=(2?log23)?1?2.41. We show further thatGhas at least two vertices of degree less than four if it is planar and at least four vertices of degree two if it is bipartite.

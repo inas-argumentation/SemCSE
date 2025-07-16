@@ -1,0 +1,2 @@
+Local and Remote Interconnection Mechanisms in FASTBUS for Use in Large Experimental Installations
+Many of the High Energy Physics experiments currently being prepared in Europe include FASTBUS configurations which require numerous Segment Clusters to be distributed over a wide area. Economic and architectural realities dictate the need for a reassessment of Segment Interconnection techniques while acknowledging the desirability of minimising change to existing intersegment communication protocols.

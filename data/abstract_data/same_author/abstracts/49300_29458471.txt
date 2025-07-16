@@ -1,0 +1,2 @@
+AVL Trees with Relaxed Balance
+The idea of relaxed balance is to uncouple the rebalancing in search trees from the updating in order to speed up request processing in main-memory databases. In this paper, we describe a relaxed version of AVL trees. We prove that each update gives rise to at most a logarithmic number of rebalancing operations and that the number of rebalancing operations in the semidynamic case is amortized constant.

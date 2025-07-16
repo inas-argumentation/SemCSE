@@ -1,0 +1,2 @@
+An Approach for Refactoring using ESC/Java2 - A Simple Case Study -
+Refactoring is a structural transformation technique for program code, which preserves their functional or behavioral aspects. Check whether the transformed program codes preserve such properties or not is a significant process. It carried out to support quality assurance. This paper introduces an alternative approach for the checking process via program verification. In this approach, ESC/Java2 tool is used for refactoring program codes in Java.

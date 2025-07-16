@@ -1,0 +1,2 @@
+The N threshold policy for the GI/M/1 queue
+We study a GI/M/1 queue with an N threshold policy. In this system, the server stops attending the queue when the system becomes empty and resumes serving the queue when the number of customers reaches a threshold value N. Using the embeded Markov chain method, we obtain the stationary distributions of queue length and waiting time and prove the stochastic decomposition properties.

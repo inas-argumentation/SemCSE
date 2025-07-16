@@ -1,0 +1,2 @@
+Notice of RetractionAOD furnace smelt ferroalloy end-point forecast
+We analysis traditional electric-silicothermic process in ferroalloy smelt, introduce the Argon Oxygen ferroalloy refining new technology, we establish AOD stove smelting ferroalloy forecast model which based on nutural network.. then we use Quasi-Newton algorithm train network, we simulated it with matlab. Simulation results show that the method can be used for the actual smelting procession.

@@ -1,0 +1,2 @@
+Isogenies of certain abelian varieties over finite fields with p-ranks zero
+We study the isogenies of certain abelian varieties over finite fields with non-commutative endomorphism algebras with a view to potential use in isogeny-based cryptography. In particular, we show that any two such abelian varieties with endomorphism rings maximal orders in the endomorphism algebra are linked by a cyclic isogeny of prime degree.

@@ -1,0 +1,2 @@
+Open-circuit and short-circuit core losses computation in a large hydro generator
+Predictions of the different magnetic core losses with acceptable accuracy are key parameters for temperaturerise calculations for considered up-rate in large hydro electrical machines. In this paper, available core loss model is used to compute the electromagnetic core losses in large hydro electrical machine during no-load and short-circuit modes. The obtained results are discussed and compared with the available test data.

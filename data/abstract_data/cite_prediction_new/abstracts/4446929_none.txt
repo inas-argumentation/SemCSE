@@ -1,0 +1,6 @@
+Tractable Quantified Constraint Satisfaction Problems over Positive Temporal Templates
+A positive temporal template (or a positive temporal constraint language) is a relational structure whose relations can be defined over a dense linear order of rational numbers using a relational symbol ≤, logical conjunction and disjunction. 
+ 
+We provide a complexity characterization for quantified constraint satisfaction problems (QCSP ) over positive temporal languages. The considered QCSP problems are decidable in LOGSPACE or complete for one of the following classes: NLOGSPACE, P, NP, PSPACE. Our classification is based on so-called algebraic approach to constraint satisfaction problems: we first classify positive temporal languages depending on their surjective polymorphisms and then give the complexity of QCSP for each obtained class. 
+ 
+The complete characterization is quite complex and does not fit into one paper. Here we prove that QCSP for positive temporal languages is either NP-hard or belongs to P and we give the whole description of the latter case, that is, we show for which positive temporal languages the problem QCSP is in LOGSPACE, and for which it is NLOGSPACE-complete or P-complete. The classification of NP-hard cases is given in a separate paper.

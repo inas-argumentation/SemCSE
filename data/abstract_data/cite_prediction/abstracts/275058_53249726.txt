@@ -1,0 +1,15 @@
+AnatomyNet: Deep learning for fast and fully automated whole-volume segmentation of head and neck anatomy.
+PURPOSE
+Radiation therapy (RT) is a common treatment option for head and neck (HaN) cancer. An important step involved in RT planning is the delineation of organs-at-risks (OARs) based on HaN computed tomography (CT). However, manually delineating OARs is time-consuming as each slice of CT images needs to be individually examined and a typical CT consists of hundreds of slices. Automating OARs segmentation has the benefit of both reducing the time and improving the quality of RT planning. Existing anatomy autosegmentation algorithms use primarily atlas-based methods, which require sophisticated atlas creation and cannot adequately account for anatomy variations among patients. In this work, we propose an end-to-end, atlas-free three-dimensional (3D) convolutional deep learning framework for fast and fully automated whole-volume HaN anatomy segmentation.
+
+
+METHODS
+Our deep learning model, called AnatomyNet, segments OARs from head and neck CT images in an end-to-end fashion, receiving whole-volume HaN CT images as input and generating masks of all OARs of interest in one shot. AnatomyNet is built upon the popular 3D U-net architecture, but extends it in three important ways: (a) a new encoding scheme to allow autosegmentation on whole-volume CT images instead of local patches or subsets of slices, (b) incorporating 3D squeeze-and-excitation residual blocks in encoding layers for better feature representation, and (c) a new loss function combining Dice scores and focal loss to facilitate the training of the neural model. These features are designed to address two main challenges in deep learning-based HaN segmentation: (a) segmenting small anatomies (i.e., optic chiasm and optic nerves) occupying only a few slices, and (b) training with inconsistent data annotations with missing ground truth for some anatomical structures.
+
+
+RESULTS
+We collected 261 HaN CT images to train AnatomyNet and used MICCAI Head and Neck Auto Segmentation Challenge 2015 as a benchmark dataset to evaluate the performance of AnatomyNet. The objective is to segment nine anatomies: brain stem, chiasm, mandible, optic nerve left, optic nerve right, parotid gland left, parotid gland right, submandibular gland left, and submandibular gland right. Compared to previous state-of-the-art results from the MICCAI 2015 competition, AnatomyNet increases Dice similarity coefficient by 3.3% on average. AnatomyNet takes about 0.12 s to fully segment a head and neck CT image of dimension 178 × 302 × 225, significantly faster than previous methods. In addition, the model is able to process whole-volume CT images and delineate all OARs in one pass, requiring little pre- or postprocessing.
+
+
+CONCLUSION
+Deep learning models offer a feasible solution to the problem of delineating OARs from CT images. We demonstrate that our proposed model can improve segmentation accuracy and simplify the autosegmentation pipeline. With this method, it is possible to delineate OARs of a head and neck CT within a fraction of a second.

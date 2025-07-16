@@ -1,0 +1,2 @@
+Vertex-pancyclicity of edge-face-total graphs
+The edge-face-total graph r(G) of a plane graph G is the graph defined on the vertex set E(G)∪F(G) so that two vertices in r(G) are joined by an edge if and only if they were adjacent or incident in G. In this paper we prove that (1) the edge-face-total graph of a 2-connected plane graph is vertex-pancyclic and there exists a connected plane graph G with cut vertices such that r(G) is non-Hamiltonian; (2) the line graph of a 2-connected plane graph with at most one face of degree ⩾4 is pancyclic.

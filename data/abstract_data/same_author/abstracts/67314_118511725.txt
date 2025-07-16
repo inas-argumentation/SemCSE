@@ -1,0 +1,9 @@
+The trace class conjecture in the theory of automorphic forms. II
+. Let G be the group of real points of a reductive algebraic 
+$ \Bbb {Q} $-group satisfying the assumptions made in [H, Chapter I] and let 
+$ \Gamma $ be an arithmetic subgroup of G. Let 
+$ R_{\Gamma} $ be the right regular representation of G on 
+$ L^2(\Gamma \backslash G) $ and denote by 
+$ R^d_\Gamma $ the restriction of 
+$ R_\Gamma $ to the discrete subspace. In this paper we prove that for every integrable rapidly decreasing function f on G, the operator 
+$ R^d_\Gamma (f) $ is of the trace class.

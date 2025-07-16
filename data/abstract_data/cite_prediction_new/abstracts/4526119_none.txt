@@ -1,0 +1,2 @@
+Performance Analysis of the \varphi Failure Detector with its Tunable Parameters
+In this paper, we explain an implementation of an accrual failure detector, that we call the phi failure detector. The particularity of the phi failure detector is that it dynamically adjusts to current network conditions the scale on which the suspicion level is expressed. We have done the experiment in a LAN in a whole day and evaluated the behavior of our phi failure detector. Then we discuss on the parameters of the failure detector based on our experimental result

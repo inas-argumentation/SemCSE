@@ -1,0 +1,2 @@
+A Caching Genetic Algorithm for Spectral Breakpoint Matching
+Two methods were evaluated for performing spectral breakpoint matching: a multi-level pruned exhaustive search and a genetic algorithm. The GA found matches about as good as those found by pruned search, but savings in time were realized only if the objective function cached the results of previous evaluations.

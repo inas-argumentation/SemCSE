@@ -1,0 +1,2 @@
+A concept for PLC hardware-in-the-loop testing using an extension of structured text
+Hardware-in-the-loop (HiL) Simulation is a powerful method to reduce the risk of system failures leading to expensive damages. Many existing HiL tools require the tester to use proprietary test specification languages, usually unknown to the domain of a PLC programmer. This work presents a novel approach of HiL test specification using programming languages specified by IEC 61131-3. By doing this, PLC programmers are able to specify test cases in the domain they are already familiar with.

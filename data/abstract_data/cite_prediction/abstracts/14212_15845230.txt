@@ -1,0 +1,2 @@
+Multiple input converters for fuel cells
+Multilevel converters have been used previously to integrate several fuel cell modules for higher power applications. Some previous publications have also shown improvements in fuel cell utilization by exploiting the static characteristics of fuel cells, which show more than a 30% difference in the output voltage between no-load to full-load conditions. This paper first describes standard fuel cell power electronics interfaces, then reviews a few of the multi input systems and explores additional configurations.

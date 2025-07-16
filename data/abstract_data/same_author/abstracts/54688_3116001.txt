@@ -1,0 +1,2 @@
+All digital built-in delay and crosstalk measurement for on-chip buses
+This paper proposes an all digital on-chip bus delay and crosstalk measurement methodology. A diagnosis procedure is derived to distinguish the delay faults in drivers, receivers, and wires. The crosstalk profile is plotted by monitoring the changes in delay with the presence of the crosstalk. The distinguished features include all digital design and low hardware overhead. The SPICE simulation results prove the feasibility of the methodology.

@@ -1,0 +1,2 @@
+Novel Efficient Certificateless Aggregate Signatures
+We propose a new efficient certificateless aggregate signature scheme which has the advantages of both aggregate signatures and certificateless cryptography. The scheme is proven existentially unforgeable against adaptive chosen-message attacks under the standard computational Diffie-Hellman assumption. Our scheme is also efficient in both communication and computation. The proposal is practical for message authentication in many-to-one communications.

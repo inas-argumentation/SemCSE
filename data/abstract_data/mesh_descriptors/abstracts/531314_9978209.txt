@@ -1,0 +1,19 @@
+Effect of EEG electrode number on epileptic source localization in pediatric patients
+OBJECTIVE
+To investigate the relationship between EEG source localization and the number of scalp EEG recording channels.
+
+
+METHODS
+128 EEG channel recordings of 5 pediatric patients with medically intractable partial epilepsy were used to perform source localization of interictal spikes. The results were compared with surgical resection and intracranial recordings. Various electrode configurations were tested and a series of computer simulations based on a realistic head boundary element model were also performed in order to further validate the clinical findings.
+
+
+RESULTS
+The improvement seen in source localization substantially decreases as the number of electrodes increases. This finding was evaluated using the surgical resection, intracranial recordings and computer simulation. It was also shown in the simulation that increasing the electrode numbers could remedy the localization error of deep sources. A plateauing effect was seen in deep and superficial sources with further increasing the electrode number.
+
+
+CONCLUSION
+The source localization is improved when electrode numbers increase, but the absolute improvement in accuracy decreases with increasing electrode number.
+
+
+SIGNIFICANCE
+Increasing the electrode number helps decrease localization error and thus can more ably assist the physician to better plan for surgical procedures.

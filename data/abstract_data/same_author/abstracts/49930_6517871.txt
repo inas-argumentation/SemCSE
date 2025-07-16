@@ -1,0 +1,11 @@
+Deriving quantitative conclusions from microarray expression data
+MOTIVATION
+The last few years have seen the development of DNA microarray technology that allows simultaneous measurement of the expression levels of thousands of genes. While many methods have been developed to analyze such data, most have been visualization-based. Methods that yield quantitative conclusions have been diverse and complex.
+
+
+RESULTS
+We present two straightforward methods for identifying specific genes whose expression is linked with a phenotype or outcome variable as well as for systematically predicting sample class membership: (1) a conservative, permutation-based approach to identifying differentially expressed genes; (2) an augmentation of K-nearest-neighbor pattern classification. Our analyses replicate the quantitative conclusions of Golub et al. (1999; Science, 286, 531-537) on leukemia data, with better classification results, using far simpler methods. With the breast tumor data of Perou et al. (2000; Nature, 406, 747-752), the methods lend rigorous quantitative support to the conclusions of the original paper. In the case of the lymphoma data in Alizadeh et al. (2000; Nature, 403, 503-511), our analyses only partially support the conclusions of the original authors.
+
+
+AVAILABILITY
+The software and supplementary information are available freely to researchers at academic and non-profit institutions at http://cc.ucsf.edu/jain/public

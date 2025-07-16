@@ -1,0 +1,2 @@
+A high capacity reversible watermarking scheme
+Many reversible watermarking solutions have been proposed since 1996: spread-spectrum approaches, circular interpretation on histogram approaches, lossless compression approaches, expansion approaches and histogram approaches. In this paper, we propose a solution whose embedding capacity goes beyond all those reversible schemes. For certain images, the reach payload of the proposed method is over 2 bpp. This solution is an improvement of the Coltuc reversible watermarking approach published in ICIP'2007.

@@ -1,0 +1,2 @@
+Comparison between Abstract Factory and Methods of MFC Creation Document /View/Frame Objects
+This paper compare [GoF] Abstract factory design pattern with the method that MFC uses to create document /view/frame objects.Author thinks MFC's method is better than Abstract factory design pattern.

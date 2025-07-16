@@ -1,0 +1,2 @@
+DMEROON, Overview of a Distributed Class-Based Causally-Coherent Data Model
+DMeroon provides a data model above a coherently distributed shared memory. DMeroon allows users to statically or dynamically create new classes, to dynamically instantiate these classes and to dynamically and coherently share the resulting instances over a network. DMeroon automatically takes care of representation and alignment, migrating and sharing objects, local and global garbage collections. This document provides an overview of DMeroon.

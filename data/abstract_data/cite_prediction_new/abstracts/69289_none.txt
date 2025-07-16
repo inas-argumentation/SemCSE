@@ -1,0 +1,2 @@
+Multivariable nonlinear predictive control of cement mills
+A multivariable controller for cement milling circuits is presented, which is based on a nonlinear model of the circuit and on a nonlinear predictive control strategy. Comparisons with previous LQ control strategies show improved performances with respect to an important source of perturbations of the circuit: a change of hardness of the raw material.

@@ -1,0 +1,15 @@
+Integrated multicriterial optimization of beam angles and intensity profiles for coplanar and noncoplanar head and neck IMRT and implications for VMAT.
+PURPOSE
+To quantify improved salivary gland sparing for head and neck cancer patients using intensity-modulated radiotherapy (IMRT) plans based on integrated computerized optimization of beam orientations and intensity profiles. To assess if optimized nonzero couch angles also improve VMAT plans.
+
+
+METHODS
+Our in-house developed algorithm iCycle was used for automated generation of multicriterial optimized plans with optimized beam orientations and intensity profiles, and plans with optimized profiles for preselected beam arrangements. For 20 patients, five IMRT plans, based on one "wish-list," were compared: (i) and (ii) seven- and nine-beam equiangular coplanar plans (iCycle(7equi), iCycle(9equi)), (iii) and (iv) nine-beam plans with optimized coplanar and noncoplanar beam orientations (iCycle(copl), iCycle(noncopl)), and (v) a nine-beam coplanar plan with optimized gantry angles and one optimized couch rotation (iCycle(couch)). VMAT plans without and with this optimized couch rotation were evaluated.
+
+
+RESULTS
+iCycle(noncopl) resulted in the best salivary gland sparing, while iCycle(couch) yielded similar results for 18 patients. For iCycle(7equi), submandibular gland NTCP values were on average 5% higher. iCycle(9equi) performed better than iCycle(7equi). iCycle(copl) showed further improvement. Application of the optimized couch angle from iCycle(couch) also improved NTCP values in VMAT plans.
+
+
+CONCLUSIONS
+iCycle allows objective comparison of competing planning strategies. Integrated optimization of beam profiles and angles can significantly improve normal tissue sparing, yielding optimal results for iCycle(noncopl).

@@ -1,0 +1,2 @@
+Mechanization for solving SPP by reducing order method
+In this paper, by using the theories and methods of mathematical analysis and computer algebra, a reliable algorithm of reduction of order approximation method for solving singular perturbation problems was established, a new Maple procedure redordproc was established, too. The procedure redordproc give not only the approximate analytic solutions but also the numerical solutions of the kinetics problems. Some examples are presented to illustrate the implementation of the program.

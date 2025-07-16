@@ -1,0 +1,2 @@
+Research on the Application of Machine Vision in Counting the Ratio of Empty Rice Seeds
+Discusses the method of automated counting the ratio of empty rice seeds.Designs an equipment by using machine vision,which uses visible light to pass through the rice seeds,and takes the pictures of it.Analyzes the pictures got,and compares the results which use the gray property and YUV color model.The result shows the equipment and the image process algorithm are good enough to count the ratio of empty rice seeds.These works lay a good foundation to develop a practical equipment.

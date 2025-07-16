@@ -1,0 +1,2 @@
+Comparative study of various algorithms for the merging of parton showers and matrix elements in hadronic collisions
+We compare different procedures for combining fixed-order tree-level matrix-element generators with parton showers. We use the case of W-production at the Tevatron and the LHC to compare different implementations of the so-called CKKW and MLM schemes using different matrix-element generators and different parton cascades. We find that although similar results are obtained in all cases, there are important differences.

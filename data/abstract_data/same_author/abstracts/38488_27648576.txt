@@ -1,0 +1,2 @@
+A data formatter for the ATLAS Fast Tracker
+The Fast TracKer (FTK) is an upgrade to the ATLAS level-2 trigger. The FTK system will reconstruct tracks using data from the inner Pixel and SCT silicon detector modules at trigger rates up to 100 kHz. We present an overview of the Data Formatter system, which is designed to remap, share and reformat the Pixel and SCT module data to match the geometry of the FTK trigger towers.

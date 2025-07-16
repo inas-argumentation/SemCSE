@@ -1,0 +1,15 @@
+Social determinants of tuberculosis via a zero-inflated model in small areas of a city in Southeastern Brazil.
+INTRODUCTION
+This study aimed to analyze social factors involved in the spatial distribution and under-reporting of tuberculosis (TB) in the city of Vitória, Espírito Santo State, Brazil.
+
+
+METHODS
+This was an ecological study of the reported cases of TB between 2009 and 2011, according to census tracts. The outcome was TB incidence for the study period and the variables of exposure were proportions of literacy, inhabitants with an income of up to half the minimum monthly wage (MMW), and inhabitants associated with sewer mains or with access to safe drinking water. We used a zero-inflated process, zero-inflated negative binomial regression (ZINB), and selected an explanatory model based on the Akaike Information Criterion (AIC).
+
+
+RESULTS
+A total of 588 cases of tuberculosis were reported in Vitória during the study period, distributed among 223 census tracts (38.6%), with 354 (61.4%) tracts presenting zero cases. In the ZINB model, the mean value of p i was 0.93, indicating that there is a 93% chance that an observed false zero could be due to sub-notification.
+
+
+CONCLUSIONS
+It is important to prioritize areas exhibiting determinants that influence the occurrence of TB in the municipality of Vitória. The zero-inflated model can be useful to the public health sector since it identifies the percentage of false zeros, generating an estimate of the real epidemiological condition of TB in Vitória.

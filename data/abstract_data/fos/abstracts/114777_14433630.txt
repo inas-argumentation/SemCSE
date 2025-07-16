@@ -1,0 +1,2 @@
+Cryptanalysis of a Cryptosystem based on Drinfeld modules
+A public key cryptosystem based on Drinfeld modules has been proposed by Gillard, Leprevost, Panchishkin and Roblot. This article shows how an adversary can directly recover a private key using only the public key; thus the cryptosystem is insecure.

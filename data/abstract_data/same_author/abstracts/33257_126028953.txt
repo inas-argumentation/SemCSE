@@ -1,0 +1,2 @@
+Tuning of the multiple parton interaction model in Herwig++ using early LHC data
+In this short note we present tunes of the Multiple Parton Interactions model in Herwig++ using the early LHC data. Measurements of the charged particle multiplicities and of the momentum flow in the underlying event in inelastic pp collisions are used to constrain the parameters of the model. The tunes aim to consistently describe both the new LHC measurements and pre-LHC data from the Tevatron and LEP.

@@ -1,0 +1,2 @@
+Collective Effects in a Short-Pulse FEL Driver
+We explore a design for a linac driver which utilises 1.3 GHz CW accelerating structures to deliver short electron bunches with repetition rates potentially up to 1 MHz. A 200 pC bunch is compressed to deliver significant charge into a time width less than 10 fs, delivering a peak current in excess of 10 kA with a reasonable energy spread. We discuss start-to-end modelling of this system, including the limitations from coherent radiation emission.

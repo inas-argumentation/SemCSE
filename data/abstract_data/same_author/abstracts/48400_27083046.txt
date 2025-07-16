@@ -1,0 +1,2 @@
+Dynamic visual languages
+We present dynamic visual languages for Tele-Action Objects, which are complex multimedia objects with associated hypergraph and knowledge structures, capable of automatically reacting to events and supporting effective presentation and efficient communication of multimedia information. To design TAOs, we need generalized icons and spatial/temporal operators. The definition of relational visual languages is extended to multidimensional languages, with special emphasis on dynamic multidimensional languages. Application examples are illustrated.

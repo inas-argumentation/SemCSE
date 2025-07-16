@@ -1,0 +1,2 @@
+A Modular Treatment of Blind Signatures from Identification Schemes
+We propose a modular security treatment of blind signatures derived from linear identification schemes in the random oracle model. To this end, we present a general framework that captures several well known schemes from the literature and allows to prove their security. Our modular security reduction introduces a new security notion for identification schemes called One-More-Man In the Middle Security which we show equivalent to the classical One-More-Unforgeability notion for blind signatures.

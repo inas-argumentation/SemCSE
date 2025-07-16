@@ -1,0 +1,15 @@
+Development and Testing of SPECT/CT Lung Phantoms made from Expanding Polyurethane Foam.
+PURPOSE
+Currently, SPECT/CT lung phantoms are commonly constructed using polystyrene beads and interstitial radioactive water. However, this approach often results in a phantom with a density (typically -640 HU) that is considerably higher than that of healthy lung (-750 to -850 HU) or diseased lung (-900 to -950 HU). Furthermore, the polystyrene and water phantoms are often quite heterogenous in both density and activity concentration, especially when reused. This work is devoted to examining methods for creating a more realistic lung phantom for quantitative SPECT/CT using 99m Tc-laced expanding polyurethane foam (EPF).
+
+
+METHODS
+Numerous aspects of EPF utilization were studied, including stoichiometric mixing to control final foam density and the effect of water during growth. We also tested several ways of molding the foam lung phantoms. The most successful method utilized a three-part silicone mold that allowed for creation of a two-lobe phantom, with different density and activity concentration in each lobe.
+
+
+RESULTS
+The final phantom design allows for a more anatomically accurate geometry as well as customizable density and activity concentration in the different lobes of the lung. We demonstrated final lung phantom densities between -760 and -690 HU in the "healthy" phantom and -930 to -890 HU in the "unhealthy" phantom tissue. On average, we achieved 15% activity concentration non-uniformity and 12% density non-uniformity within a given lobe.
+
+
+CONCLUSIONS
+Final EPF lung phantoms closely matched the densities of both health and diseased lung tissue and had sufficient uniformities in both density and activity concentration for most nuclear medicine applications. Management of component moisture content is critical for phantom reproducibility.

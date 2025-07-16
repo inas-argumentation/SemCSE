@@ -1,0 +1,2 @@
+Hodges-Lehmann Scale Estimator for Cauchy Distribution
+We draw here on the relation between the Cauchy and hyperbolic secant distributions to prove that the MLE of the scale parameter of the Cauchy distribution is log-normally distributed and to study the properties of a Hodges-Lehmann type estimator for the scale parameter. This scale estimator is slightly biased but performs well even on small samples regardless of the location parameter. The asymptotic efficiency of the estimator is 98%.

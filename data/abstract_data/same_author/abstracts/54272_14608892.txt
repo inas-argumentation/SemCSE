@@ -1,0 +1,2 @@
+A fully distributed framework for cost-sensitive data mining
+We propose a fully distributed system (as compared to centralized and partially distributed systems) for cost-sensitive data mining. Experimental results have shown that this approach achieves higher accuracy than both the centralized and partially distributed learning methods, however, it incurs much less training time, neither communication nor computation overhead.

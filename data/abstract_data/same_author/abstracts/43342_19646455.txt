@@ -1,0 +1,2 @@
+The upper bound of essential cyclomatic numbers of hypergraphs
+The essential cyclomatic number of a hypergraph is the maximum number of independent essential cycles of the hypergraph. In this paper, we first prove a general upper bound for the cyclomatic number in terms of the size, order and edge-size of a hypergraph. Then we give a sharp upper bound for ( n −2)-uniform hypergraphs of order n by solving an extremal problem of graphs. It is remarkable that this sharp upper bound is not generally achieved by the complete ( n −2)-uniform hypergraphs.

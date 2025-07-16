@@ -1,0 +1,2 @@
+W-Hardness Under Linear FPT-Reductions: Structural Properties and Further Applications
+The notion of linear fpt-reductions has been recently used to derive strong computational lower bounds for well-known NP-hard problems. In this paper, we formally investigate the notions of W[t]-hardness and W[t]-completeness under the linear fpt-reduction, and study structural properties of the corresponding complexity classes. Additional complexity lower bounds on important computational problems are also established.

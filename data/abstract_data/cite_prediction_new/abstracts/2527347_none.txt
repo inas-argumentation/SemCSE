@@ -1,0 +1,2 @@
+Adaptive controller design of servo system in network environment
+The servo system in network environment was set up based on Ethernet/IP and SERCOS. In the study of position control, the position adaptive controller was designed by use of Rockwell Automation's devices. The result shows that this controller can solve the contradictions of general PI controller, and the location accuracy of the mechanical system was improved. This project was reliable and easy to be realized in the field of motion control application.

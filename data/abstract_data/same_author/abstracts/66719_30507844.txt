@@ -1,0 +1,2 @@
+A Ramification Formula for Poincaré Series, and a Hyperplane Formula for Modular Invariants
+Let ψ(A) be the coefficient of the second term in the Laurent expansion about t = 1 of the Poincare series p(A, t) of a graded ring A. For a finite extension of integrally closed domains we prove a formula relating ψ(B), ψ(A) and the differential exponent of B over A. As an application we prove a conjecture of Carlisle and Kropholler which computes ψ for rings of modular invariants of finite groups in terms of stabilizers of hyperplanes.

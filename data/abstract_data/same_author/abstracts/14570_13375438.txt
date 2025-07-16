@@ -1,0 +1,2 @@
+ATLAS Distributed Analysis
+The distributed analysis system for the ATLAS experiment is described. Although the system is under construction and the design is still evolving, the major components have been identified. A generic analysis service interface provides the connection between a choice of user environments and a selection of engines capable of carrying out the distributed processing. Other services provide access to catalogs, files and software.

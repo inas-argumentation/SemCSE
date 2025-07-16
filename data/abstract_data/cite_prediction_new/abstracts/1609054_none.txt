@@ -1,0 +1,2 @@
+Optimization of Patterson Map Correlation for Electron Density and Its Square: Relationships for Phase Extension and Refinement
+An objective function is described for optimization of Patterson map correlation for electron density and its square. The function provides excellent discrimination against all zero phases, and is analyzed to find relationships for phase extension and refinement. The objective function and phasing relationships can be calculated rapidly by convolution methods and are practical for application to macromolecular structure determination problems.

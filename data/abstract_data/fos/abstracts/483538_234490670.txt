@@ -1,0 +1,22 @@
+Two-dimensional monitoring of air pollution in Madrid using a Multi-AXis Differential Optical Absorption Spectroscopy two-dimensional (MAXDOAS-2D) instrument
+. Trace gases play a key role in the chemistry of urban atmospheres.
+Therefore, knowledge about their spatial distribution is needed to fully
+characterize air quality in urban areas. Using a new Multi-AXis Differential
+Optical Absorption Spectroscopy two-dimensional (MAXDOAS-2D) instrument, along with an
+inversion algorithm (bePRO), we report the first two-dimensional maps of
+nitrogen dioxide (NO 2) and nitrous acid (HONO) concentrations in the
+city of Madrid, Spain. Measurements were made during 2 months (6 May–5 July 2019), and peak mixing ratios of 12 and 0.7 ppbv (parts per billion by volume) for NO 2 
+and HONO, respectively, were observed in the early morning in the southern
+part of the downtown area. We found good general agreement between the
+MAXDOAS-2D mesoscale observations – which provide a typical spatial range of
+a few kilometers – and the in situ measurements provided by
+Madrid's air quality monitoring stations. In addition to
+vertical profiles, we studied the horizontal gradients of NO 2 in the
+surface layer by applying the different horizontal light path lengths in the
+two spectral regions included in the NO 2 spectral analysis: ultraviolet
+(UV, at 360 nm) and visible (VIS, 477 nm). We also investigate the
+sensitivity of the instrument to infer vertically distributed information on
+aerosol extinction coefficients and discuss possible future ways to improve
+the retrievals. The retrieval of two-dimensional distributions of trace gas
+concentrations reported here provides valuable spatial information for the
+study of air quality in the city of Madrid.

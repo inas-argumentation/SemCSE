@@ -1,0 +1,2 @@
+Application of Association Rules in College Students Training
+Introduces the basic concept of association rule and Apriori algorithm, realizes a multidimensional association rules algorithm based on the Apriori algorithm, puts forward the students training model that association rules are applied in college students train, and carries on the solution. The experimental results can provide auxiliary decision-making information for colleges and universities works out the corresponding personnel training scheme.

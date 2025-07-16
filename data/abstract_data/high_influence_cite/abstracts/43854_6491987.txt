@@ -1,0 +1,15 @@
+Cross-Gramian Based Combined State and Parameter Reduction
+This work introduces the empirical cross-gramian for multiple-input-multiple-output systems. The cross-gramian is a tool for 
+reducing the state space of control systems, by conjoining controllability 
+and observability information into a single matrix 
+and does not require balancing. Its empirical gramian variant 
+extends the applicability of the cross-gramian to nonlinear systems. 
+Furthermore, for parametrized systems, the empirical 
+gramians can also be utilized for sensitivity analysis or parameter 
+identification and thus for parameter reduction. This work 
+also introduces the empirical joint gramian, which is derived 
+from the empirical cross-gramian. The joint gramian allows not only a reduction of the parameter space but also the combined 
+state and parameter space reduction, which is tested on 
+a linear and a nonlinear control system. Controllability- and 
+observability-based combined reduction methods are also presented, 
+which are benchmarked against the joint gramian.

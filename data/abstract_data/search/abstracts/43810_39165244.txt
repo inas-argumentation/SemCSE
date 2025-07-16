@@ -1,0 +1,2 @@
+A New Convergence Analysis of Finite Element Methods for Elliptic Distributed Optimal Control Problems with Pointwise State Constraints
+We consider finite element methods for elliptic distributed optimal control problems with pointwise state constraints on two and three dimensional convex polyhedral domains formulated as fourth order variational inequalities. We develop a new convergence analysis that is applicable to C 1 finite element methods, classical nonconforming finite element methods and discontinuous Galerkin methods.

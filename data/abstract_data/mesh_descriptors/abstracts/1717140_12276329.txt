@@ -1,0 +1,15 @@
+Improving noninvasive methods of assessing liver fibrosis in patients with hepatitis C virus/human immunodeficiency virus co-infection.
+BACKGROUND & AIMS
+Liver fibrosis is a significant concern for patients with hepatitis C virus/human immunodeficiency virus co-infection. Fibrosis staging by biopsy is accurate, but costly and invasive. Several fibrosis prediction models using noninvasive biomarkers have been developed but are suboptimal in co-infected patients. We compared results from different staging models and ordinal regression with biopsy data.
+
+
+METHODS
+Data from the Adult Acquired Immune Deficiency Syndrome Clinical Trials Group protocol A5178 were used to evaluate 5 models of fibrosis staging; areas under receiver-operator characteristic curves (AUROC) were assessed. Individual covariates were assessed with univariable regression and then entered into an ordinal logistic regression model from which a stage-wise index was developed.
+
+
+RESULTS
+Data from 173 patients were evaluated; 85% were on antiretroviral therapy, 31.2% had severe fibrosis (F3/F4), and 14% had cirrhosis (F4). Differences in CD4+ cell and platelets counts and international normalized ratio values were observed between those with and without F3/F4. Among existing models, the FIB-4 index ([age x AST])/[platelet count x (ALT)(1/2)]) performed best, with 88% specificity for F4 and greater than 86% negative predictive values for F3/F4, although AUROC values were low (0.56 +/- 0.03 for F3/F4). By using patients' demographic, clinical, and laboratory data, the ordinal regression model outperformed others, with an AUROC of 0.85 (standard error, 0.03) for predicting stage F3/F4 and 0.89 (standard error, 0.05) for stage 3 alone.
+
+
+CONCLUSIONS
+Current noninvasive methods of fibrosis assessment have poor discriminatory capacity in hepatitis C virus/human immunodeficiency virus co-infected patients. Ordinal regression analysis outperformed other noninvasive fibrosis prediction models. Longitudinal studies with paired biopsies will assist in refining the Ordinal Regression Index.

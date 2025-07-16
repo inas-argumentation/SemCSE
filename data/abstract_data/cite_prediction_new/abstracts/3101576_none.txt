@@ -1,0 +1,2 @@
+Selective and efficient estimation of parameters for quantum process tomography.
+We present a new method for quantum process tomography enabling the efficient estimation, with fixed precision, of any of the parameters characterizing a quantum channel. The estimation strategy depends upon the set of matrix elements one selects to estimate. Furthermore, we describe a way to efficiently gather all the information required to efficiently estimate any average survival probability of the channel (i.e., to measure any diagonal element of its chi matrix).

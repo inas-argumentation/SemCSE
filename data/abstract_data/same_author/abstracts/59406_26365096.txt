@@ -1,0 +1,2 @@
+Error bounds for parallel distributed detection under the Neyman-Pearson criterion
+The Neyman-Pearson performance of a distributed detection system is considered wherein n independent and identically distributed observations are quantized locally into M-ary messages and transmitted to a fusion center. Under fairly general assumptions, it is shown that the type II error probability achieved by the best identical-quantizer system is at most a fixed (in n) multiple of that achieved by the absolutely optimal system. >

@@ -1,0 +1,2 @@
+Efficient Discovery of Frequent Patterns using KFP-Tree from Web Logs
+Frequent pattern discovery is a heavily focused area in data mining. Discovering concealed information from Web log data is called Web usage mining. Web usage mining discovers interesting and frequent user access patterns from web logs. This paper contains a novel approach, based on k-mean and frequent pattern tree (FP-tree), for frequent pattern mining from Weblog data.

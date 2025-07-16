@@ -1,0 +1,7 @@
+Pathway analysis in metabolic databases via differetial metabolic display (DMD)
+MOTIVATION
+A number of metabolic databases are available electronically, some with features for querying and visualizing metabolic pathways and regulatory networks. We present a unifying, systematic approach based on PETRI nets for storing, displaying, comparing, searching and simulating such nets from a number of different sources.
+
+
+RESULTS
+Information from each data source is extracted and compiled into a PETRI net. Such PETRI nets then allow to investigate the (differential) content in metabolic databases, to map and integrate genomic information and functional annotations, to compare sequence and metabolic databases with respect to their functional annotations, and to define, generate and search paths and pathways in nets. We present an algorithm to systematically generate all pathways satisfying additional constraints in such PETRI nets. Finally, based on the set of valid pathways, so-called differential metabolic displays (DMDs) are introduced to exhibit specific differences between biological systems, i.e. different developmental states, disease states, or different organisms, on the level of paths and pathways. DMDs will be useful for target finding and function prediction, especially in the context of the interpretation of expression data.

@@ -1,0 +1,2 @@
+Reconstruction methods — PANDA Focussing-Lightguide Disc DIRC
+The Focussing-Lightguide Disc DIRC will provide crucial Particle Identification (PID) information for the PANDA experiment at FAIR, GSI. This detector presents a challenging environment for reconstruction due to the complexity of the expected hit patterns and the operating conditions of the PANDA experiment. A discussion of possible methods to reconstruct PID from this detector is given here. Reconstruction software is currently under development.

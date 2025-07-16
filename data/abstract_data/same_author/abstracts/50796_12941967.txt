@@ -1,0 +1,2 @@
+Application of splay trees to data compression
+The splay-prefix algorithm is one of the simplest and fastest adaptive data compression algorithms based on the use of a prefix code. The data structures used in the splay-prefix algorithm can also be applied to arithmetic data compression. Applications of these algorithms to encryption and image processing are suggested.

@@ -1,0 +1,2 @@
+Workspace characterization for concentric tube continuum robots
+Concentric tube robots exhibit complex workspaces due to the way their component tubes bend and twist as they interact with one another. This paper explores ways to compute and characterize their workspaces. We use Monte Carlo random samples of the robot’s joint space and a discrete volumetric workspace representation, which can describe both reachability and redundancy. Experiments on two physical prototypes are provided to illustrate the proposed approach.

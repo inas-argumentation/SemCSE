@@ -1,0 +1,2 @@
+The Balance Coefficient Calculation of Differential Relay Three Phase Transformer
+The differential relay operate in ferm of the circulating current principle.It involves a direct comparison of the magnitude and phase of the current entering and leaving the protected equipment.when external faults happened,the composed current(multiply balance coefficient K1,K2) through operating relay(K1·I1-K2·I2) should be zero.This paper analysis the balance coefficient calculation

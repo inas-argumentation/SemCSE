@@ -1,0 +1,2 @@
+A novel single-phase PWM AC-AC converters without commutation problem
+This paper presents a novel single-phase PWM ac-ac converters that can solve commutation problem in single-phase direct ac-ac converter without sensing input voltage polarity. By using the basic switching cell structure and the coupled inductors, the proposed ac-ac converter can be short and open-circuited without damaging switching devices. A 200 W prototype converter is built and tested to verify the performance and robustness of the proposed converter.

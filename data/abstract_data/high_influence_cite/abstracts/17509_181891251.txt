@@ -1,0 +1,2 @@
+Modeling, Analysis and Control of Doubly Fed Induction Generators for Wind Turbines
+This paper presents modeling, analysis and control of a grid connected doubly fed induction generator (DFIG) wind turbine, during steady-state and transient operations. A mathematical model for different parts of the wind energy conversion system using DFIG has been examined using MATLAB/SIMULINK. A control structure using standard proportional integral (PI) controller and a voltage-oriented control strategy based on a rotating reference frame has been used. Abstract

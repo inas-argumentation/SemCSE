@@ -1,0 +1,2 @@
+Inverse maximum flow problems under the weighted Hamming distance
+In this paper, we consider inverse maximum flow problem under the weighted Hamming distance. Four models are studied: the problem under sum-type weighted Hamming distance; the problem under bottleneck-type weighted Hamming distance and two mixed types of problems. We present their respective combinatorial algorithms that all run in strongly polynomial times.

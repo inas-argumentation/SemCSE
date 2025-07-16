@@ -1,0 +1,2 @@
+Connected Factors and Spanning Trees in Graphs
+Abstract. Let G be a graph, and g, f, f′ be positive integer-valued functions defined on V(G). If an f′-factor of G is a spanning tree, we say that it is f′-tree. In this paper, it is shown that G contains a connected (g, f+f′−1)-factor if G has a (g, f)-factor and an f′-tree.

@@ -1,0 +1,2 @@
+Stochastic Quantization of Bottomless Systems Stationary Quantities in a Diffusive Process
+By making use of the Langevin equation with a kernel, it was shown that the Feynman measure exp(-S) can be realized in a restricted sense in a diffusive stochastic process, which diverges and has no equilibrium, for bottomless systems. In this paper, the dependence on the initial conditions and the temporal behavior are analyzed for 0-dim bottomless systems. Furthermore, it is shown that it is possible to find stationary quantities.

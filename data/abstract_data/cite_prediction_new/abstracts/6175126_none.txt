@@ -1,0 +1,2 @@
+Uniform Pointwise Convergence on Shishkin-Type Meshes for Quasi-Linear Convection-Diffusion Problems
+A singularly perturbed quasi-linear two-point boundary value problem with an exponential boundary layer is considered. The problem is discretized using a nonstandard upwinded first-order difference scheme on generalized Shishkin-type meshes. We give a uniform error estimate in a discrete $L_\infty$ norm. Numerical experiments support the theoretical results.

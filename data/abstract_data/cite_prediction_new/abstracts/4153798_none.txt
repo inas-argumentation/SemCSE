@@ -1,0 +1,2 @@
+Spatio-temporal filtering for EEG error related potentials.
+This paper presents a new filter for EEG Event-Related Potentials that relies on spatio-temporal features. The results are analyzed with error-related potentials, and compared to the results obtained with Independent Component Analysis. Additionally, the obtained features are used for single-trial classification, showing that it is possible to obtain high classification accuracies with a very low number of features.

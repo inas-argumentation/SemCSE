@@ -1,0 +1,2 @@
+Aggregation based on graph matching and inexact coarse grid solve for algebraic two grid
+A graph matching is used to construct aggregation-based coarsening for an algebraic two-grid method. Effects of inexact coarse grid solve is analysed numerically for a highly discontinuous convection–diffusion coefficient matrix, and for problems from the Florida matrix market collection. The proposed strategy is found to be more robust compared to a classical algebraic multi-grid approach based on strength of connections. Basic properties of two-grid method are outlined.

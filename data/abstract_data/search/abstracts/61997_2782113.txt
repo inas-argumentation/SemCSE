@@ -1,0 +1,2 @@
+VConv DAE: Deep Volumetric Shape Learning Without Object Labels
+With the advent of affordable depth sensors, 3D capture becomes more and more ubiquitous and already has made its way into commercial products. Yet, capturing the geometry or complete shapes of everyday objects using scanning devices (e.g. Kinect) still comes with several challenges that result in noise or even incomplete shapes.

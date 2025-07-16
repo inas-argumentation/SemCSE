@@ -1,0 +1,2 @@
+Generalized assignment problem: Truthful mechanism design without money
+We propose truthful approximation mechanisms for strategic variants of the generalized assignment problem (GAP) in a payment-free environment. In GAP, a set of items has to be optimally assigned to a set of bins without exceeding the capacity of any singular bin. In our strategic variant, bins are held by strategic agents and each agent may hide its willingness to receive some items in order to obtain items of higher values. The model has applications in auctions with budgeted bidders.

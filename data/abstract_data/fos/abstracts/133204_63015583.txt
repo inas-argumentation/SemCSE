@@ -1,0 +1,2 @@
+Application of Huffman Tree in Multi-Branch Program Design
+The paper first introduced Huffman tree and multi-branch program design principle. How to make use of Huffman algorithm to optimize multi-branch program design was discussed in the case Study of the educational administration. The empirical results indicated that multi-branch program using Huffman algorithm can speed up the performance of programming.

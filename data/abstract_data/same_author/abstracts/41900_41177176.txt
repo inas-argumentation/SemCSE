@@ -1,0 +1,2 @@
+Call admission control for heterogeneous services in wireless networks
+A distributed call admission control (CAC) scheme for heterogeneous services is proposed. The scheme is based on a non-preemptive priority polling scheme and takes advantages of statistically multiplexing user mobility information. It is shown that the scheme can achieve both high resource utilization and low handoff dropping probability.

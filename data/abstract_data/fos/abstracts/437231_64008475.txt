@@ -1,0 +1,2 @@
+Design of Automatic Garage System Based on Single Chip Micyoco AT89C51
+The problem of parking difficulty can be solved by designing mini automatic garage control system in housing and downtown areas.The system which is aimed at automating parking and getting cars can fulfill functions of parking and getting cars automatically.Makes the AT89C51 as the control core and elaborates on three aspects of automatic garage :working theory,hardware design and software design.

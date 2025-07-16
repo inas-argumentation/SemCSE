@@ -1,0 +1,15 @@
+Modelling the effect of function and disease activity on costs and quality of life in rheumatoid arthritis.
+OBJECTIVE
+When treatments with the potential to change the natural history of a disease are introduced, their longer-term effect on costs and quality of life (utility) has to be estimated using economic models. However, to remain useful tools, models must be updated when new information becomes available. Our earlier models in rheumatoid arthritis (RA) have been based on functional status, but it has recently been shown that disease activity might have an independent effect on utility. The objective of this study was to improve the model by incorporating the effect of a subjective measure of disease severity and activity (global VAS).
+
+
+METHODS
+A Markov model was constructed with five states according to functional status (HAQ), and each state was subdivided according to the VAS (<40 and >40). Disease development (transition probabilities between the states) was taken from a longitudinal cohort study of patients with early RA in Sweden. A recent population-based survey of 616 patients with RA provided data on costs and utilities. The model incorporates the full distribution of costs and utilities from the survey, and long-term projections are made using Monte Carlo simulation.
+
+
+RESULTS
+The global VAS had a highly significant effect on utilities independently of HAQ. For resource consumption, only HAQ was a significant predictor, with the exception of sick leave, which was correlated with the VAS but not with HAQ. Using the cohort distribution from the longitudinal study, expected mean costs per patient over 10 yr were 106 034 euros (s.d. 5091 euros) (1 euro = SEK 9.20) and the expected number of quality-adjusted life years (QALYs) was 5.08 (s.d. 0.09). Patients starting at HAQ <0.6 but with consistently high VAS scores would have expected costs of 102 830 euros and 4.96 QALYs, while patients with low VAS scores would have costs of 81 603 euros and 6.01 QALYs.
+
+
+CONCLUSION
+Our new model incorporates for the first time the effect of a subjective measure of disease severity and activity on both costs and utility, making it a sensitive tool to estimate the cost-effectiveness of disease-modifying treatments. New data on resource consumption indicate a shift to higher direct costs, particularly in early disease, and lower indirect costs in more advanced disease. The large size of the data sets used in this model reduces the uncertainty and makes estimates very stable.

@@ -1,0 +1,2 @@
+Design of an application-cooperative management system for wireless sensor networks
+This paper argues for the usefulness of an application-cooperative interactive management system for wireless sensor networks and presents SNMS, a sensor network management system. SNMS is designed to be simple and have minimal impact on memory and network traffic, while remaining open and flexible. The system is evaluated in light of issues derived from real deployment experiences.

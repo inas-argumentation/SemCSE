@@ -1,0 +1,2 @@
+Approximate Planning for Factored POMDPs using Belief State Simplification
+We are interested in the problem of planning for factored POMDPs. Building on the recent results of Kearns, Mansour and Ng, we provide a planning algorithm for factored POMDPs that exploits the accuracy efficiency tradeoff in the belief state simplification introduced by Boyen and Koller.

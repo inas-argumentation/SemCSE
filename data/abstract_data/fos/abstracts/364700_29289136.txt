@@ -1,0 +1,2 @@
+A stability criterion for quasi-harmonic vibrations
+a stable oscillator if all solutions x{t) (i.e., if two, linearly independent solutions) stay bounded as | t \ —> oo. It is understood that o>(<) is assumed to be real-valued, which means that oj2(t) ^ 0. Here the sign of equality is allowed (for certain lvalues, which can be isolated or form intervals), but it will be assumed that w(<) does not vanish identically, i.e., that the case x = 0 of (1) is excluded. According to Liapounoff [1], (1) must be stable if

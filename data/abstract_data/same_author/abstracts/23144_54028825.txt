@@ -1,0 +1,2 @@
+Dynamic Extensions of Batch Systems with Cloud Resources
+Compute clusters use Portable Batch Systems (PBS) to distribute workload among individual cluster machines. To extend standard batch systems to Cloud infrastructures, a new service monitors the number of queued jobs and keeps track of the price of available resources. This meta-scheduler dynamically adapts the number of Cloud worker nodes according to the requirement profile. Two different worker node topologies are presented and tested on the Amazon EC2 Cloud service.

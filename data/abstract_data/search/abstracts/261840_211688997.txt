@@ -1,0 +1,2 @@
+Rain streak removal using under /over exposed images
+When we take a photograph in outdoors, which is often having unexpected rain streaks and under /over exposed pixels in bright and dark regions. To address these problems, we introduce a new blending method based on multi scale image decomposition for an image sequence taken with varying exposure time. Specifically, under /over exposed images are blended for extending the dynamic range of pixels in the wavelet domain, while removing rain streaks.

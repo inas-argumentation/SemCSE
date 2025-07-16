@@ -1,0 +1,2 @@
+Independence numbers of hypergraphs with sparse neighborhoods
+Let H be a hypergraph with N vertices and average degree d. Suppose that the neighborhoods of H are sparse, then its independence number is at least cN(log d/d), where c > 0 is a constant. In particular, let integers r ≥ 3 and n ≥ 1 be fixed, and let H be r-uniform, triangle-free and linear, then its independence number is at least cN logn d/d for all sufficiently large d.

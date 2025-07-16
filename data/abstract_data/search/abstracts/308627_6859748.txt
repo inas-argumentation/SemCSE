@@ -1,0 +1,2 @@
+Inverted Pendulum on a Quadcopter: A Reinforcement Learning Approach
+We envision reinforcement learning as a major breakthrough in the field of robotic control as it eliminates the need for a predefined controller structure which limits the overall performance and costs more human effort. In other words, reinforcement learning avoids creating manually tuned control algorithms to complete specific tasks. This technique could lead to building tailored, adaptable, autonomously learned controllers for drones and other types of robotic technologies.

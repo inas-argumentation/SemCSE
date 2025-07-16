@@ -1,0 +1,2 @@
+Resonant Frequency Control of Superconducting RF Cavities
+Resonant frequency of superconducting radio frequency (RF) cavities, which are used in linear accelerator research, may rapidly shift over many bandwidths because of vibration. In this paper an all electrical method is analyzed which can correct for these frequency shifts. The method depends upon the use of a voltage-variable reactance to control frequency. The general characteristics of control are first determined. Power distribution in the system is then found.

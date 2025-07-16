@@ -1,0 +1,7 @@
+Heteroclinic orbits for a class of hamiltonian systems on riemannian manifolds
+Let $\mathcal M$ be a smooth Riemannian manifold with the metric 
+$(g_{ij})$ of dimension $n$, and let $H= 1/2 
+g^{ij}(q)p_ip_j+V(t,q)$ be a smooth Hamiltonian on $\mathcal M$, 
+where $(g^{ij})$ is the inverse matrix of $(g_{ij})$. 
+Under suitable assumptions we prove the existence of heteroclinic 
+orbits of the induced Hamiltonian systems.

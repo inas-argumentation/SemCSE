@@ -1,0 +1,2 @@
+DC ultra-fast solid state circuit breaker using the voltage inductor to activate short circuit protection
+This paper introduces a new DC solid-state circuit breaker (SSCB) concept using a small inductor, which is similar to the inductor used in electro-mechanical breakers. The new SSCB scheme uses the voltage inductor to activate a short circuit protection, in this way the circuit starts to open in the moment of fault condition to prevent the over load current.

@@ -1,0 +1,7 @@
+PACStacker: an enhancement of the scientific and educational capabilities of PowerPoint.
+OBJECTIVE
+Our objective was to develop a way to enhance scientific and educational PowerPoint presentations containing stack-based, multiple-image techniques such as CT and MRI.
+
+
+CONCLUSION
+We developed a PowerPoint add-in that facilitates the creation of stackable image sets in a simple and intuitive manner, permitting real-time scrolling, editing, and manipulation of imbedded image stacks. Contrast and brightness adjustments, cropping, and linking are supported. Once created, the PowerPoint presentation can be viewed without hardware or venue limitations on any computer, without reinstallation of the add-in.

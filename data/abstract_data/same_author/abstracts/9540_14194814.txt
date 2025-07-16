@@ -1,0 +1,2 @@
+TRANSPORT COEFFICIENTS AT LEADING ORDER: KINETIC THEORY VERSUS DIAGRAMS
+I review what is required to compute transport coefficients in ultra-relativistic, weakly coupled gauge theories, at leading order in $g$, using kinetic theory. Then I discuss how the calculation would look in alternative approaches: the 2PI method, and direct diagrammatic analysis. I argue that the 2PI method may be a good way to derive the kinetic theory, but is not very useful directly (in a gauge theory). The diagrammatic approach is almost hopeless.

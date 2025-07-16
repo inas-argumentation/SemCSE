@@ -1,0 +1,2 @@
+Convergence Analysis for a Modified SP Iterative Method
+We consider a new iterative method due to Kadioglu and Yildirim (2014) for further investigation. We study convergence analysis of this iterative method when applied to class of contraction mappings. Furthermore, we give a data dependence result for fixed point of contraction mappings with the help of the new iteration method.

@@ -1,0 +1,2 @@
+An on-chip short-time interval measurement technique for testing high-speed communication links
+In this paper, we present a BIST scheme for on-chip short-time interval measurement intended for characterizing the time-domain specifications, e.g., the rise/fall time of modern high-speed communication transceivers. To reduce hardware overhead, the proposed BIST technique uses the coherent under-sampling principle, and measures implicitly the time interval in a two-pass manner. Simulation results are shown to validate the proposed technique.

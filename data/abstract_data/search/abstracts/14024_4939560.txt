@@ -1,0 +1,2 @@
+Path Optimization for Humanoid Walk Planning An Efficient Approach
+This paper deals with humanoid walk planning in cluttered environments. It presents a heuristic and efficient optimization method that takes as input a path computed for the robot bounding box, and produces a path where a discrete set of configurations is reoriented using an A* search algorithm. The resulting trajectory is realistic and time optimal. This method is validated in various scenarios on the humanoid robot HRP 2.

@@ -1,0 +1,2 @@
+An 8b 5-GS/s CMOS SAR ADC with speed optimized SAR logic
+An 8b 5-GS/s Successive Approximation Register (SAR) analog-to-digital converter (ADC) is implemented in 65-nm CMOS using 16-channel time-interleaving, achieving a SNR of 43.5 dB and Figure-of-Merit (FoM) of 245 fJ/conv-step. High speed operation is achieved by optimizing the critical path in the SAR ADC loop. A sampling network with a split-array with unit bridge capacitor topology is used to reduced the area of the sampling network and switch drivers. The ADC consumes 149 mW of power.

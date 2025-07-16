@@ -1,0 +1,2 @@
+An UWB Wall Scanner Based on a Shape Estimating SAR Algorithm
+This paper describes a complete pulse based high-resolution radar system. This includes the transmitting and receiving unit as well as the signal processing of the down-sampled echoes. The main focus of the hardware design was on the usage of low-cost components. The signal evaluation is based on the shape reconstruction of simple targets in order to use the proposed radar system for wall scanning applications, e. g. the detection of water pipes.

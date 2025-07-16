@@ -1,0 +1,2 @@
+Stock Price Forecast Based on ARIMA Model and BP Neural Network Model
+This paper uses the ARIMA model and BP neural network to model and predict the closing prices of the two stocks of JD and PDD from July 26, 2018 to January 29, 2021 (1266 data in total) First, use Python to visualize the time series of the two stock data. Then, establish ARIMA model and BP neural network. Meanwhile, the forecasting accuracy of the two models is compared, and the final result shows that both of the two prediction models can achieve relatively ideal forecasting accuracy.

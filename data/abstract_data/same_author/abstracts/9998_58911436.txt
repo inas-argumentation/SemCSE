@@ -1,0 +1,2 @@
+G4BEAMLINE SIMULATION FOR THE COMET SOLENOID CHANNEL
+The COMET is an experiment to search for the process of muon to electron conversion in a muonic atom, and is in its design phase to be carried out at J-PARC in near future. The experiment uses a long superconducting solenoid channels from a pion production target to a detector system. In order, to study the solenoid channel the G4beamline is used for the magnetic field calculation and beam tracking. This paper reports the status of the simulation studies for the muon beam transport solenoid.

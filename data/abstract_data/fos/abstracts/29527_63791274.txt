@@ -1,0 +1,2 @@
+The Study and Implementation of Serial Communication Protocol
+This paper analyzes problems of transport mode, flow control, transport transparency, data check-up, encryption mode in serial asynchronous communication protocol. The method of developing a high- efficiency serial asynchronous communication protocol is presented and described with an application.

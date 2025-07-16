@@ -1,0 +1,2 @@
+Translator-based multiparadigm programming : Language processing
+Better programming productivity may be obtained by choosing suitable programming paradigms. For development of complex software systems, multiparadigm programming would usually be appropriate. However, its use may be hindered by a lack of languages and programming support tools. As this article argues, multiparadigm programming may be supported by translators that convert programs written in one language to another language based on a different paradigm

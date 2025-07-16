@@ -1,0 +1,2 @@
+The SUSY-GRACE system
+We introduce a new method to treat Majorana fermions on the GRACE system which has been developed for the computation of the matrix elements for the processes of the standard model. In the standard model, we already have such particles as Dirac fermions, gauge bosons and scalar bosons in the system. On the other hand, in the SUSY models there are Majorana fermions. In the first instance, we have constructed a system for the automatic computation of cross-sections for the processes of the SUSY QED. It is remarkable that our system is also applicable to

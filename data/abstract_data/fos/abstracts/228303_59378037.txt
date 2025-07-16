@@ -1,0 +1,27 @@
+Quantification of CO 2 and CH 4 emissions over Sacramento, California, based on divergence theorem using aircraft measurements
+. Emission estimates of carbon dioxide ( CO2 ) and methane ( CH4 ) and
+the meteorological factors affecting them are investigated over Sacramento,
+California, using an aircraft equipped with a cavity ring-down greenhouse
+gas sensor as part of the Alpha Jet Atmospheric eXperiment (AJAX) project.
+To better constrain the emission fluxes, we designed flights in a
+cylindrical pattern and computed the emission fluxes from two flights using
+a kriging method and Gauss's divergence theorem. Differences in wind treatment and assumptions about background
+concentrations affect the emission estimates by a factor of 1.5 to 7. The
+uncertainty is also impacted by meteorological conditions and distance from
+the emission sources. The vertical layer averaging affects the flux
+estimate, but the choice of raw wind or mass-balanced wind is more important
+than the thickness of the vertical averaging for mass-balanced wind for both
+urban and local scales. The importance of vertical mass transfer for flux estimates is examined, and
+the difference in the total emission estimate with and without vertical mass
+transfer is found to be small, especially at the local scale. The total flux
+estimates accounting for the entire circumference are larger than those
+based solely on measurements made in the downwind region. This indicates
+that a closed-shape flight profile can better contain total emissions
+relative to a one-sided curtain flight because most cities have more than
+one point source and wind direction can change with time and altitude. To
+reduce the uncertainty of the emission estimate, it is important that the
+sampling strategy account not only for known source locations but also
+possible unidentified sources around the city. Our results highlight that
+aircraft-based measurements using a closed-shape flight pattern are an
+efficient and useful strategy for identifying emission sources and
+estimating local- and city-scale greenhouse gas emission fluxes.

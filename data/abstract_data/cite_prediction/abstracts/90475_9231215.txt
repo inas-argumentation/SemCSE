@@ -1,0 +1,2 @@
+Level-of-detail visualization of clustered graph layouts
+The level-of-detail techniques presented in this paper enable a comprehensible interactive visualization of large and complex clustered graph layouts either in 2D or 3D. Implicit surfaces are used for the visually simplified representation of vertex clusters, and so-called edge bundles are formed for the simplification of edges. Additionally, dedicated transition techniques are provided for continuously adaptive and adjustable views of graphs that range from very abstract to very detailed representations.

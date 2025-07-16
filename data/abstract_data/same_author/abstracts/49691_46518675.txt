@@ -1,0 +1,2 @@
+Managing an XML Warehouse in a P2P Context
+The paper is about warehousing XML content in a P2P environment. The role of an XML warehouse is to offer a centralized entry point to access a variety of information in an enterprise and provide functionalities to acquire, enrich, monitor and maintain this information. We consider a number of reasons to use a P2P approach to such warehouses, e.g., reducing the cost or sharing the management of information. We mention research issues that are raised.

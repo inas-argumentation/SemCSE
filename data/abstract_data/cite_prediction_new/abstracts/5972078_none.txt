@@ -1,0 +1,2 @@
+Efficient 3-D Domain Decomposition With Dual Basis Functions
+Novel basis functions are proposed for enforcing continuity constraints in 3-D elliptic problems discretized by non-conforming domain decomposition methods. The major advantage over standard coupling methods is that the projection matrix, mapping degrees of freedom from master to slave surface, can be constructed with minimum computing effort since the slave matrix is diagonal. The accuracy of matching conditions and convergence properties of the method are tested on a benchmark problem.

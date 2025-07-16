@@ -1,0 +1,2 @@
+The union-intersection principle applied to the test of dimensionality
+In the first section Anderson-Rao-Fujikoshi's test statistics for testing the hypothesis of dimensionality are reviewed and then Olkin-Tomsky's generalized union-intersection principle is applied to show that a new class of test statistics for testing the hypothesis of dimensionality are derived which includes the likelihood ratio test statistics, the trace test statistics and a version of ROY'S maximum root test statistics.

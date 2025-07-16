@@ -1,0 +1,2 @@
+A Study of Scientific Application Interfaces and a Proposed GUI for Brain Signal Processing
+This paper conducts a survey of existing graphical user interfaces in scientific applications and presents some guidelines and technologies to create more user friendly GUIs. The Mind over Matter GUI tool used for research purposes in brain signal processing, allows a user to select preprocessing and classification algorithms, signal channels, and subjects’ signal data files, as well as set parameters that are utilized by the algorithms to analyze those brain signals.

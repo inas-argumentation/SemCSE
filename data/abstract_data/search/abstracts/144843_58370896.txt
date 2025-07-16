@@ -1,0 +1,2 @@
+Matrix Factorization Techniques for Recommender Systems
+As the Netflix Prize competition has demonstrated, matrix factorization models are superior to classic nearest neighbor techniques for producing product recommendations, allowing the incorporation of additional information such as implicit feedback, temporal effects, and confidence levels.

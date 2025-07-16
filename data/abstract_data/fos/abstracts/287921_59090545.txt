@@ -1,0 +1,2 @@
+Research and Design of Auto-Update Model for Client Based on Component Technology
+With the C/S structure development application will maximize the strengths of client's resource,increases the security of the database,update system by full manual have heavy workload,moreover omissions may occur,cause data inconsistencies.Based on the study and analysis of.NET component model,proposes an auto-upgrade model of client and realizes it by using.NET.

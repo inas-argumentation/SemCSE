@@ -1,0 +1,2 @@
+GRAS: a general-purpose 3-D Modular Simulation tool for space environment effects analysis
+Geant4 Radiation Analysis for Space (GRAS) is a modular, extendable tool for space environment effects simulation. Analyses include cumulative ionizing and NIEL doses, effects to humans, charging, fluence and transient effects in three-dimensional geometry models.

@@ -1,0 +1,2 @@
+Convex integration for a class of active scalar equations
+We show that a general class of active scalar equa- tions, including porous media and certain magnetostrophic tur- bulence models, admit non-unique weak solutions in the class of bounded functions. The proof is based upon the method of convex integration recently implemented for equations of fluid dynamics in (2, 3).

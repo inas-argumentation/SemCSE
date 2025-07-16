@@ -1,0 +1,2 @@
+An empirical assessment of ranking accuracy in ranked set sampling
+Ranked set sampling (RSS) involves ranking of potential sampling units on the variable of interest using judgment or an auxiliary variable to aid in sample selection. Its effectiveness depends on the success in this ranking. We provide an empirical assessment of RSS ranking accuracy in estimation of a population proportion.

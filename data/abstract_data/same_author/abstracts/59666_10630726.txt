@@ -1,0 +1,2 @@
+Coloring Graphs with Sparse Neighborhoods
+It is shown that the chromatic number of any graph with maximum degree d in which the number of edges in the induced subgraph on the set of all neighbors of any vertex does not exceed d2/f is at most O(d/logf). This is tight (up to a constant factor) for all admissible values of d and f.

@@ -1,0 +1,4 @@
+Benefits of Plugin-Based Heuristic Optimization Software Systems
+Plugin-based software systems are the next step of evolution in application development. By supporting fine grained modularity not only on the source code but also on the post-compilation level, plugin frameworks help to handle complexity, simplify application configuration and deployment, and enable users or third parties to easily enhance existing applications with self-developed modules without having access to the whole source code. 
+ 
+In spite of these benefits, plugin-based software systems are seldom found in the area of heuristic optimization. Some reasons for this drawback are discussed, several benefits of a plugin-based heuristic optimization software system are highlighted and some ideas are shown, how a heuristic optimization meta-model as the basis of a thorough plugin infrastructure for heuristic optimization could be defined.

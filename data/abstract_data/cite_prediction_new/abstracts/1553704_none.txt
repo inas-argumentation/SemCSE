@@ -1,0 +1,2 @@
+Differentiable perturbation of unbounded operators
+.If A(t) is a C1,α-curve of unbounded self-adjoint operators with compact resolvents and common domain of definition, then the eigenvalues can be parameterized C1 in t. If A is C∞ then the eigenvalues can be parameterized twice differentiably.

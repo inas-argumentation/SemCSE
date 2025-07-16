@@ -1,0 +1,2 @@
+Simulation for an RF gun test apparatus in the SPring-8 linac
+A photo cathode RF gun has been studied in the SPring-8 linac to obtain lower emittance beams. In order to compare an observed beam emittance or beam size by simulation, we are also developing a beam tracking code for this test apparatus. In this paper, we describe the outlines of our code, and some calculation results for our test apparatus.

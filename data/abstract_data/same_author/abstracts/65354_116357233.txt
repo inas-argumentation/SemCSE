@@ -1,0 +1,2 @@
+Adaptive control of partially observed linear systems, the scalar case
+We study scalar adaptive control. The control problem is linear quadratic with partial observation. The drift term depends affinely from an unknown parameter α. We show that the maximum likelihood is strongly consistent. At each time, we replace the true parameter α0 by the estimate αt to compute the feedback law and we prove that the associate cost converges to the optimal cost, almost surely.

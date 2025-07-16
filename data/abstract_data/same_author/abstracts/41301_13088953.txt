@@ -1,0 +1,2 @@
+A polynomial algorithm for recognizing perfect graphs
+We present a polynomial algorithm for recognizing whether a graph is perfect, thus settling a long standing open question. The algorithm uses a decomposition theorem of Conforti, Cornuejols and Vuskovic. Another polynomial algorithm for recognizing perfect graphs, which does not use decomposition, was obtained simultaneously by Chudnovsky and Seymour. Both algorithms need a first phase developed jointly by Chudnovsky, Cornuejols, Liu, Seymour and Vuskovic.

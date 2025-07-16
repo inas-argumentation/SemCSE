@@ -1,0 +1,2 @@
+Computing the Girth of a Planar Graph in Linear Time
+The girth of a graph is the minimum weight of all simple cycles of the graph. We study the problem of determining the girth of an n-node unweighted undirected planar graph. The first non-trivial algorithm for the problem, given by Djidjev, runs in O(n^{5/4} log n) time. Chalermsook, Fakcharoenphol, and Nanongkai reduced the running time to O(n log^2 n). Weimann and Yuster further reduced the running time to O(n log n). In this paper, we solve the problem in O(n) time.

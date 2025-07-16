@@ -1,0 +1,2 @@
+Predicate-based caching in mobile clients for con tinuous partial match queries
+This paper proposes a cache management scheme for continuous partial match queries in mobile computing systems. Conventional cache management methods for mobile clients are record ID-based ones. However, since the partial match query is a content-based retrieval, the conventional record ID-based approach cannot properly manage the cache consistency. We show the pr edicate- based approach is an effective cache management in mobile environments.

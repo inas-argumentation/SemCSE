@@ -1,0 +1,2 @@
+A Space-Efficient Algorithm for Segment Intersection
+We examine the space requirement for the classic linesegment intersection problem. Using so-called implicit data structures, we show how to make the standard sweep-line algorithm run in O((n + k) log 2 n) time with only O(log 2 n) extra space, where n is the number of line segments and k is the number of intersections. If division is allowed and input can be destroyed, the algorithm can run in O((n + k) log n) time with O(1) extra space.

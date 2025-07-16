@@ -1,0 +1,2 @@
+A Version of the Goldman-Millson Theorem for Filtered L-infinity Algebras
+In this paper we consider $L_{\infty}$-algebras equipped with complete descending filtrations. We prove that, under some mild conditions, an $L_{\infty}$ quasi-isomorphism $U: L \to \tilde{L}$ induces a weak equivalence between the Deligne-Getzler-Hinich (DGH) $\infty$-groupoids corresponding to $L$ and $\tilde{L}$, respectively. This paper may be considered as a modest addition to foundational paper arXiv:math/0404003 by Ezra Getzler.

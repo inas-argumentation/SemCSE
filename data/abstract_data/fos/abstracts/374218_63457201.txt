@@ -1,0 +1,2 @@
+Massive Real-Time Data Integration Based on Message System
+The traditional data warehouse by periodical refreshment can't meet with the requirements of real-time data synchronous integration.Message system is applied to the event interaction of enterprises systems,and it has the characteristic of near real-time,distribution/subscribe mode,reliable message transfer,massive volume,flexible expandability,etc.Message system can ensure the real-time and synchronization for massive data.

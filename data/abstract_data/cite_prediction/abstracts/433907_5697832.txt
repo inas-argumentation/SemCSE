@@ -1,0 +1,2 @@
+Archeoguide: System Architecture of a Mobile Outdoor Augmented Reality System
+We present the system architecture of a mobile outdoor augmented reality system for the Archeoguide project. We begin with a short introduction to the project. Then we present the hardware we chose for the mobile system and we describe the system architecture we designed for the software implementation. We conclude this paper with the first results obtained from experiments we made during our trials at ancient Olympia in Greece.

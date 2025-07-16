@@ -1,0 +1,8 @@
+Efficient Graph Neural Architecture Search
+Recently, graph neural networks (GNN) have been demonstrated effective in various graph-based tasks.  
+To obtain state-of-the-art (SOTA) data-specific GNN architectures, researchers turn to the neural architecture search (NAS) methods. 
+However, it remains to be a challenging problem to conduct efficient architecture search for GNN.
+In this work, we present a novel framework for Efficient GrAph Neural architecture search (EGAN).
+By designing a novel and expressive search space, an efficient one-shot NAS method based on stochastic relaxation and natural gradient is proposed.
+Further, to enable architecture search in large graphs, a transfer learning paradigm is designed.
+Extensive experiments, including node-level and graph-level tasks, are conducted. The results show that the proposed EGAN can obtain SOTA data-specific architectures, and reduce the search cost by two orders of magnitude compared to existing NAS baselines.

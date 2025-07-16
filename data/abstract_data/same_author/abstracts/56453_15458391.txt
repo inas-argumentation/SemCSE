@@ -1,0 +1,2 @@
+Linear Constraint Query Languages: Expressive Power and Complexity
+We give an AC0 upper bound on the complexity of first-oder queries over (infinite) databases defined by restricted linear constraints. This result enables us to deduce the non-expressibility of various usual queries, such as the parity of the cardinality of a set or the connectivity of a graph in first-order logic with linear constraints.

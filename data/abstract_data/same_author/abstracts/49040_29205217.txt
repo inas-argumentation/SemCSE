@@ -1,0 +1,2 @@
+Improving the Reliability of Object-Oriented Software through Object-Level Behavioral Simulation
+In this paper we propose an Object-level Behavior Simulation Model (OBSM) that simulates the behavior of each object according to the message pattern exhibited by behavioral design pattern to verify it for its correctness. The model evaluates the existing reliability of the object-oriented software and allows developer to improve it during early phases of the development.

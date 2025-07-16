@@ -1,0 +1,2 @@
+Fast Parallel Algorithm for Enumerating All Chordless Cycles in Graphs
+Finding chordless cycles is an important theoretical problem in the Graph Theory area. It also can be applied to practical problems such as discover which predators compete for the same food in ecological networks. Motivated by the problem of theoretical interest and also by its significant practical importance, we present in this paper a parallel algorithm for enumerating all the chordless cycles in undirected graphs, which was implemented in OpenCL.

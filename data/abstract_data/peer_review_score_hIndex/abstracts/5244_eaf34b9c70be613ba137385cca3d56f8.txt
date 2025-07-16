@@ -1,0 +1,5 @@
+Approximation capability of neural networks on sets of probability measures and tree-structured data
+This paper extends the proof of density of neural networks in the space of continuous (or even measurable) functions on Euclidean spaces to functions on compact sets of probability measures.
+By doing so the work parallels a more then a decade old results on mean-map embedding of probability measures in reproducing kernel Hilbert spaces.  
+The work has wide practical consequences for multi-instance learning, where it theoretically justifies some recently proposed constructions.
+The result is then extended to Cartesian products, yielding universal approximation theorem for tree-structured domains, which naturally occur in data-exchange formats like JSON, XML, YAML, AVRO, and ProtoBuffer. This has important practical implications, as it enables to automatically create an architecture of neural networks for processing structured data (AutoML paradigms), as demonstrated by an accompanied library for JSON format.

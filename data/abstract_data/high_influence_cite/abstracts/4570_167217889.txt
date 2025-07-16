@@ -1,0 +1,3 @@
+Counting abelian varieties over finite fields via Frobenius densities
+Let $[X,\lambda]$ be a principally polarized abelian variety over a finite field with commutative endomorphism ring; further suppose that either $X$ is ordinary or the field is prime. Motivated by an equidistribution heuristic, we introduce a factor $\nu_v([X,\lambda])$ for each place $v$ of $\mathbb Q$, and show that the product of these factors essentially computes the size of the isogeny class of $[X,\lambda]$. 
+The derivation of this mass formula depends on a formula of Kottwitz and on analysis of measures on the group of symplectic similitudes, and in particular does not rely on a calculation of class numbers.

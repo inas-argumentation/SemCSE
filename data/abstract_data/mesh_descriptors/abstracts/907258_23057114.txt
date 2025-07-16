@@ -1,0 +1,15 @@
+Three-dimensional airway tree architecture and pulmonary function.
+RATIONALE AND OBJECTIVES
+The airway tree is a primary conductive structure, and airways' morphologic characteristics, or variations thereof, may have an impact on airflow, thereby affecting pulmonary function. The objective of this study was to investigate the correlation between airway tree architecture, as depicted on computed tomography, and pulmonary function.
+
+
+MATERIALS AND METHODS
+A total of 548 chest computed tomographic examinations acquired on different patients at full inspiration were included in this study. The patients were enrolled in a study of chronic obstructive pulmonary disease (Specialized Center for Clinically Oriented Research) and underwent pulmonary function testing in addition to computed tomographic examinations. A fully automated airway tree segmentation algorithm was used to extract the three-dimensional airway tree from each examination. Using a skeletonization algorithm, airway tree volume-normalized architectural measures, including total airway length, branch count, and trachea length, were computed. Correlations between airway tree measurements with pulmonary function testing parameters and chronic obstructive pulmonary disease severity in terms of the Global Initiative for Obstructive Lung Disease classification were computed using Spearman's rank correlations.
+
+
+RESULTS
+Non-normalized total airway volume and trachea length were associated (P < .01) with lung capacity measures (ie, functional residual capacity, total lung capacity, inspiratory capacity, vital capacity, residual volume, and forced expiratory vital capacity). Spearman's correlation coefficients ranged from 0.27 to 0.55 (P < .01). With the exception of trachea length, all normalized architecture-based measures (ie, total airway volume, total airway length, and total branch count) had statistically significant associations with the lung function measures (forced expiratory volume in 1 second and the ratio of forced expiratory volume in 1 second to forced expiratory vital capacity), and adjusted volume was associated with all three respiratory impedance measures (lung reactance at 5 Hz, lung resistance at 5 Hz, and lung resistance at 20 Hz), and adjusted branch count was associated with all respiratory impedance measures but lung resistance at 20 Hz. When normalized for lung volume, all airway architectural measures were statistically significantly associated with chronic obstructive pulmonary disease severity, with Spearman's correlation coefficients ranging from -0.338 to -0.546 (P < .01).
+
+
+CONCLUSIONS
+Despite the large variability in anatomic characteristics of the airway tree across subjects, architecture-based measures demonstrated statistically significant associations (P < .01) with nearly all pulmonary function testing measures, as well as with disease severity.

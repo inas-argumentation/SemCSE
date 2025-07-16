@@ -1,0 +1,15 @@
+Absolute lymphocyte count in the emergency department predicts a low CD4 count in admitted HIV-positive patients.
+OBJECTIVES
+This study sought to determine if the automated absolute lymphocyte count (ALC) predicts a "low" (<200 × 10(6) cells/μL) CD4 count in patients with known human immunodeficiency virus (HIV+) who are admitted to the hospital from the emergency department (ED).
+
+
+METHODS
+This retrospective cohort study over an 8-year period was performed in a single, urban academic tertiary care hospital with over 85,000 annual ED visits. Included were patients who were known to be HIV+ and admitted from the ED, who had an ALC measured in the ED and a CD4 count measured within 24 hours of admission. Back-translated means and confidence intervals (CIs) were used to describe CD4 and ALC levels. The primary outcome was to determine the utility of an ALC threshold for predicting a CD4 count of <200 × 10(6) cells/μL by assessing the strength of association between log-transformed ALC and CD4 counts using a Pearson correlation coefficient. In addition, area under the receiver operator curve (AUC) and a decision plot analysis were used to calculate the sensitivity, specificity, and the positive and negative likelihood ratios to identify prespecified optimal clinical thresholds of a likelihood ratio of <0.1 and >10.
+
+
+RESULTS
+  A total of 866 patients (mean age 42 years, 40% female) met inclusion criteria. The transformed means (95% CIs) for CD4 and ALC were 34 (31-38) and 654 (618-691), respectively. There was a significant relationship between the two measures, r = 0.74 (95% CI = 0.71 to 0.77, p < 0.01). The AUC was 0.92 (95% CI = 0.90 to 0.94, p < 0.001). An ALC of <1700 × 10(6) cells/μL had a sensitivity of 95% (95% CI = 93% to 96%), specificity of 52% (95% CI = 43% to 62%), and negative likelihood ratio of 0.09 (95% CI = 0.05 to 0.2) for a CD4 count of <200 × 10(6) cells/μL. An ALC of <950 × 10(6) cells/μL has a sensitivity of 76% (95% CI = 73% to 79%), specificity of 93% (95% CI = 87% to 96%), and positive likelihood ratio of 10.1 (95% CI = 8.2 to 14) for a CD4 count of <200 × 10(6) cells/μL.
+
+
+CONCLUSIONS
+  Absolute lymphocyte count was predictive of a CD4 count of <200 × 10(6) cells/μL in HIV+ patients who present to the ED, necessitating hospital admission. A CD4 count of <200 × 10(6) cells/μL is very likely if the ED ALC is <950 × 10(6) cells/μL and less likely if the ALC is >1,700 × 10(6) cells/μL. Depending on pretest probability, clinical use of this relationship may help emergency physicians predict the likelihood of susceptibility to opportunistic infections and may help identify patients who should receive definitive CD4 testing.

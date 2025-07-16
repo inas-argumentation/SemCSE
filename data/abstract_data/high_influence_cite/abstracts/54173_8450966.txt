@@ -1,0 +1,2 @@
+A simple approximation algorithm for the internal Steiner minimum tree
+For a metric graph $G=(V,E)$ and $R\subset V$, the internal Steiner minimum tree problem asks for a minimum weight Steiner tree spanning $R$ such that every vertex in $R$ is not a leaf. This note shows a simple polynomial-time $2\rho$-approximation algorithm, in which $\rho$ is the approximation ratio for the Steiner minimum tree problem. The result improves the previous best approximation ratio $2\rho+1$ for the problem. The ratio is not currently best but the algorithm is very simple.

@@ -1,0 +1,2 @@
+Asymptotic estimates of viscoelastic Green's functions near the wavefront
+Asymptotic behavior of viscoelastic Green's functions near the wavefront is expressed in terms of a causal function $g(t)$ defined in \cite{SerHanJMP} in connection with the Kramers-Kronig dispersion relations. Viscoelastic Green's functions exhibit a discontinuity at the wavefront if $g(0) < \infty$. Estimates of continuous and discontinuous viscoelastic Green's functions near the wavefront are obtained.

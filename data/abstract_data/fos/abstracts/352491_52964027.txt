@@ -1,0 +1,2 @@
+On the placement of controllers in software-Defined-WAN using meta-heuristic approach
+Abstract Software Defined Networks (SDN) is a popular modern network technology that decouples the control logic from the underlying hardware devices. The control logic has implemented as a software entity that resides in a server called controller. In a Software-Defined Wide Area Network (SDWAN) with n nodes; deploying k number of controllers (k

@@ -1,0 +1,14 @@
+Lipschitz-Bounded Equilibrium Networks
+This paper introduces new parameterizations of equilibrium neural networks, i.e.
+networks defined by implicit equations. This model class includes standard multilayer
+and residual networks as special cases. The new parameterization admits
+a Lipschitz bound during training via unconstrained optimization, i.e. no projections
+or barrier functions are required. Lipschitz bounds are a common proxy for
+robustness and appear in many generalization bounds. Furthermore, compared to
+previous works we show well-posedness (existence of solutions) under less restrictive
+conditions on the network weights and more natural assumptions on the
+activation functions: that they are monotone and slope restricted. These results
+are proved by establishing novel connections with convex optimization, operator
+splitting on non-Euclidean spaces, and contracting neural ODEs. In image classification
+experiments we show that the Lipschitz bounds are very accurate and
+improve robustness to adversarial attacks.

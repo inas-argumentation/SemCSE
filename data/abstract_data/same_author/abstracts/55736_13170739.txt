@@ -1,0 +1,2 @@
+Minimum-time multidrop broadcast
+The multidrop communication model assumes that a message originated by a sender is sent along a path in a network and is communicated to each site along that path. In the presence of several concurrent senders, we require that the transmission paths be vertex-disjoint. The time analysis of such communication includes both start-up time and drop-off time terms. We determine the minimum time required to broadcast a message under this communication model in several classes of graphs.

@@ -1,0 +1,2 @@
+Hierarchical Morse Smale Complexes for Piecewise Linear 2 Manifolds
+. We present algorithms for constructing a hierarchy of increasingly coarse Morse Smale complexes that decompose a piecewise linear 2 manifold. While these complexes are defined only in the smooth category, we extend the construction to the piecewise linear category by ensuring structural integrity and simulating differentiability. We then simplify Morse Smale complexes by canceling pairs of critical points in order of increasing persistence.

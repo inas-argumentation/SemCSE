@@ -1,0 +1,2 @@
+On the Feasibility of Predicting News Popularity at Cold Start
+We perform a study on cold-start news popularity prediction using a collection of 13,319 news articles obtained from Yahoo News. We characterise the online popularity of news articles by two different metrics and try to predict them using machine learning techniques. Contrary to a prior work on the same topic, our findings indicate that predicting the news popularity at cold start is a difficult task and the previously published results may be superficial.

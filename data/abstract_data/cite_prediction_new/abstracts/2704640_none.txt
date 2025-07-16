@@ -1,0 +1,2 @@
+MODELING HARMONIC PHASES AT GLOTTAL CLOSURE INSTANTS Jordi Bonada
+We propose a model that predicts harmonic phases at glottal closure instants. Phases are obtained from the scaled harmonic amplitude envelope derivative. This method is able to generate convincing synthesis results while avoids typical phasiness artifacts. A clear advantage of such model is to simplify the sample concatenation of sample based synthesizers. In addition, it helps to improve the sound quality of voice transformations in several contexts.

@@ -1,0 +1,2 @@
+Quantified Interference for a While Language
+We show how information theory can be used to give a quantitative definition of interference between variables in imperative programming languages. In this paper we focus on a particular case of this definition of interference: leakage of information from private variables to public ones in While language programs. The major result of the paper is a quantitative analysis for this language that employs a use-definition graph to calculate bounds on the leakage into each variable.

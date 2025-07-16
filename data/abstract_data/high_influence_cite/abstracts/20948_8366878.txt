@@ -1,0 +1,15 @@
+A naive Bayes model to predict coupling between seven transmembrane domain receptors, and G-proteins
+MOTIVATION
+An understanding of the coupling between a G-protein coupled receptor (GPCR) and a specific class of heterotrimeric GTP-binding proteins (G-proteins) is vital for further comprehending the function of the receptor within a cell. However, predicting G-protein coupling based on the amino acid sequence of a receptor has been a daunting task. While experimental data for G-protein coupling exist, published models that rely on sequence based prediction are few. In this study, we have developed a Naive Bayes model to successfully predict G-protein coupling specificity by training over 80 GPCRs with known coupling. Each intracellular domain of GPCRs was treated as a discrete random variable, conditionally independent of one another. In order to determine the conditional probability distributions of these variables, ClustalW-generated phylogenetic trees were used as an approximation for the clustering of the intracellular domain sequences. The sampling of an intracellular domain sequence was achieved by identifying the cluster containing the homologue with the highest sequence similarity.
+
+
+RESULTS
+Out of 55 GPCRs validated, the model yielded a correct classification rate of 72%. Our model also predicted multiple G-protein coupling for most of the GPCRs in the validation set. The Bayesian approach in this work offers an alternative to the experimental approach in order to answer the biological problem of GPCR/G-protein coupling selectivity.
+
+
+AVAILABILITY
+Academic users should send their request for the perl program for calculating likelihood probabilities at jack.cao@astrazeneca.com.
+
+
+SUPPLEMENTARY INFORMATION
+The materials can be viewed at http://www.astrazeneca-montreal.com/AZRDM_info/supporting_info.pdf.

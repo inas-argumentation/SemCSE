@@ -1,0 +1,2 @@
+Approximate Solutions of Functional Equations
+Approximate solutions to functional evolution equations are constructed through a combination of series and conjugation methods, and relative errors are estimated. The methods are illustrated, both analytically and numerically, by construction of approximate continuous functional iterates for , sin x, and λx(1 − x). Simple functional conjugation by these functions, and their inverses, substantially improves the numerical accuracy of formal series approximations for their continuous iterates.

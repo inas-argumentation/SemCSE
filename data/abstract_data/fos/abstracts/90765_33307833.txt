@@ -1,0 +1,2 @@
+Existence and stability of local excitations in homogeneous neural fields
+SummaryDynamics of excitation patterns is studied in one-dimensional homogeneous lateral-inhibition type neural fields. The existence of a local excitation pattern solution as well as its waveform stability is proved by the use of the Schauder fixed-point theorem and a generalized version of the Perron-Frobenius theorem of positive matrices to the function space. The dynamics of the field is in general multi-stable so that the field can keep short-term memory.

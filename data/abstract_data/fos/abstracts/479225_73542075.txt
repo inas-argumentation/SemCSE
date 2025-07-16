@@ -1,0 +1,2 @@
+Homotopy Perturbation Method for Solving the Fractional Fisher's Equation
+In this paper, we apply the modified HPM suggested by Momani and al. [23] for solving the time-fractional Fisher's equation and we use the classical HPM to derive numerical solutions of the space-fractional Fisher's equation. We compared our solution with the exact solution. The results show that the HPM modified is an appropriate method for solving nonlinear fractional derivative equations.

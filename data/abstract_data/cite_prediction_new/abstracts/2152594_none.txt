@@ -1,0 +1,2 @@
+New method of technical condition diagnostics of ship electric power plants
+This paper details a new method of technical condition diagnostics of a ship electric power plant (EPP). The method is based on presenting the EPP as an abstract dynamic system, the operation of which involves system state transition under the effect of external and internal disturbances. A ship EPP diagnostic algorithm has been developed that enables locating faults of the power plant elements with a predefined diagnostic depth.

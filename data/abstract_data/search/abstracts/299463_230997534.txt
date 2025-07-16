@@ -1,0 +1,2 @@
+Test First for Abstracted Behavior of Software Using Extended Finite State Machine
+This paper shows test first using EFSM (Extended Finite State Machine) Each state transition in an EFSM model is constructed based on various unit test cases, and goes through red, green, and refactoring phases. Unit test cases are automatically and repeatedly applied to the EFSM model in accordance with our execution process.

@@ -1,0 +1,2 @@
+Fixed poles and disturbance rejecting feedback synthesis
+The aim of this paper is to give an algebraic characterization of the family of static state feedbacks which decouple the disturbance, in a linear time-invariant system, and which give rise to the minimal set of closed-loop fixed poles, while insuring the maximum of free degrees in terms of pole placement.

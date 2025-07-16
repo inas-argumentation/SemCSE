@@ -1,0 +1,2 @@
+Solving Cauchy reaction-diffusion equation by using Picard method
+In this paper, Picard method is proposed to solve the Cauchy reaction-diffusion equation with fuzzy initial condition under generalized H-differentiability. The existence and uniqueness of the solution and convergence of the proposed method are proved in details. Some examples are investigated to verify convergence results and to illustrate the efficiently of the method. Also, we obtain the switching points in examples.

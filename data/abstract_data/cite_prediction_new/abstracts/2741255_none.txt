@@ -1,0 +1,19 @@
+Comparing semi-automatic systems for recruitment of patients to clinical trials
+OBJECTIVES
+(i) To review contributions and limitations of decision support systems for automatic recruitment of patients to clinical trials (Clinical Trial Recruitment Support Systems, CTRSS). (ii) To characterize the important features of this domain, the main classes of approach that have been used, and their advantages and disadvantages. (iii) To assess the effectiveness and potential of such systems in improving trial recruitment rates.
+
+
+DATA SOURCES
+A systematic MESH keyword-based search of Pubmed, Embase, and Scholar Google for relevant CTRSS publications from January 1st 1998 to August 31st 2009 yielded 73 references, from which 33 relevant papers describing 28 distinct studies were chosen for review, based on their report of a novel decision support system for trial recruitment which reused already available patient data.
+
+
+METHOD
+The reviewed papers were classified using a modified version of an existing taxonomy for clinical decision support systems, using 10 axes relevant to the trial recruitment domain.
+
+
+RESULTS
+It proved possible and useful to characterize CTRSS on a relatively small number of dimensions and a number of clear trends emerge from the study. Only nine papers reported a useful evaluation of the effectiveness of the system in terms of trial pre-inclusion or enrolment rate. While all the systems reviewed re-use structured and coded patient data none attempts the more difficult task of using unstructured patient notes to pre-screen for trial inclusion. Few studies address acceptance of systems by clinicians, or integration into clinical workflow, and there is little evidence of use of interoperability standards.
+
+
+CONCLUSIONS
+System design, scope, and assessment methodology vary significantly between papers, making it difficult to establish the impact of different approaches on recruitment rate. It is clear, however, that the pre-screening phase of trial recruitment is the most effective part of the process to address with CTRSS, that clinical workflow integration and clinician acceptance are critical for this class of decision support, and that the current trends in this field are towards generalization and scalability.

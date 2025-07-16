@@ -1,0 +1,2 @@
+Channel capacity and minimum probability of error in large dual antenna array systems with binary modulation
+Uncoded bit error probability with maximum-likelihood detection and channel capacity is derived for binary signaling on the dual antenna array channel with constrained scattering in the large system limit making use of the replica method. Examples are discussed in case of equal power for all propagation paths. In case of poor scattering (or high load), a waterfall behavior of the uncoded bit error probability is observed.

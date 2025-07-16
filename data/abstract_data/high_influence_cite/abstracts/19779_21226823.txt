@@ -1,0 +1,11 @@
+The Small-world Dynamics of Tree Networks and Data Mining in Phyloinformatics
+MOTIVATION
+A noble and ultimate objective of phyloinformatic research is to assemble, synthesize, and explore the evolutionary history of life on earth. Data mining methods for performing these tasks are not yet well developed, but one avenue of research suggests that network connectivity dynamics will play an important role in future methods. Analysis of disordered networks, such as small-world networks, has applications as diverse as disease propagation, collaborative networks, and power grids. Here we apply similar analyses to networks of phylogenetic trees in order to understand how synthetic information can emerge from a database of phylogenies.
+
+
+RESULTS
+Analyses of tree network connectivity in TreeBASE show that a collection of phylogenetic trees behaves as a small-world network-while on the one hand the trees are clustered, like a non-random lattice, on the other hand they have short characteristic path lengths, like a random graph. Tree connectivities follow a dual-scale power-law distribution (first power-law exponent approximately 1.87; second approximately 4.82). This unusual pattern is due, in part, to the presence of alternative tree topologies that enter the database with each published study. As expected, small collections of trees decrease connectivity as new trees are added, while large collections of trees increase connectivity. However, the inflection point is surprisingly low: after about 600 trees the network suddenly jumps to a higher level of coherence. More stringent definitions of 'neighbour' greatly delay the threshold whence a database achieves sufficient maturity for a coherent network to emerge. However, more stringent definitions of 'neighbour' would also likely show improved focus in data mining.
+
+
+AVAILABILITY
+http://treebase.org

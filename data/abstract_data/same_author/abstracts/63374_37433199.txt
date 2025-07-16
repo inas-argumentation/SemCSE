@@ -1,0 +1,2 @@
+System Description: MCS: Model-based Conjecture Searching
+An enumerative approach to conjecture formulation is presented. Its basic steps include the generation of terms and formulas, and testing the formulas in a set of models. The main procedure and some experimental results are described. References

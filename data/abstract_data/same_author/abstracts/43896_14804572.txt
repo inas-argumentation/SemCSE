@@ -1,0 +1,2 @@
+Towards a Theory of Knowledge and Ignorance: Preliminary Report
+Communication in a distributed system changes the state of knowledge of the processors. But what is a state of knowledge? Here we attempt to characterize this notion. In the case where an agent’s information is completely described by a formula, we give a number of equivalent ways to characterize the agent’s state of knowledge, as well as an algorithm for computing the formulas that are true in this state. The relationship between this work and related works by Stark, Konolige, and Moore is discussed.

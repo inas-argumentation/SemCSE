@@ -1,0 +1,2 @@
+An efficient calculation of the moments of matched and mismatched hidden Markov models
+Streit (1990) analysed the classification of an unknown hidden Markov model (HMM) using a set of prescribed HMMs. He proposed a suboptimal test statistic that can be approximated by certain moments for this classification. In the present paper the algorithm given by Streit to derive these moments is reformulated in a matrix algebra setting that gives a better insight into the algorithm. Also, an asymptotic analysis of the algorithm is derived using the reformulation. >

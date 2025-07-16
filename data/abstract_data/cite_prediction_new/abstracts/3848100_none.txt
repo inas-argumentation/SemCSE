@@ -1,0 +1,15 @@
+Diffusion-weighted MR for differentiation of breast lesions at 3.0 T: how does selection of diffusion protocols affect diagnosis?
+PURPOSE
+To compare the diagnostic quality of diffusion-weighted (DW) imaging schemes with regard to apparent diffusion coefficient (ADC) accuracy, ADC precision, and DW imaging contrast-to-noise ratio (CNR) for different types of lesions and breast tissue.
+
+
+MATERIALS AND METHODS
+Institutional review board approval and written, informed consent were obtained. Fifty-one patients with histopathologic correlation or follow-up performed with a 3.0-T MR imager were included in this study. There were 112 regions of interest drawn in 24 malignant, 17 benign, 20 cystic, and 51 normal tissue regions. ADC maps were calculated for combinations of 10 b values (range, 0-1250 sec/mm(2)). Differences in ADC among tissue types were evaluated. The CNRs of lesions at DW imaging were compared for all b values. A repeated-measures analysis of variance was used to assess lesion differentiation.
+
+
+RESULTS
+ADCs calculated from b values of 50 and 850 sec/mm(2) were 0.99 x 10(-3) mm(2)/sec +/- 0.18 (standard deviation), 1.47 x 10(-3) mm(2)/sec +/- 0.21, 1.85 x 10(-3) mm(2)/sec +/- 0.22, and 2.64 x 10(-3) mm(2)/sec +/- 0.30 for malignant, benign, normal, and cystic tissues, respectively. An ADC threshold level of 1.25 x 10(-3) mm(2)/sec allowed discrimination between malignant and benign lesions with a diagnostic accuracy of 95% (P < .001). ADC calculations performed with multiple b values were not significantly more precise than those performed with only two. We found an overestimation of ADC for maximum b values of up to 1000 sec/mm(2). The best CNR for tumors was identified at 850 sec/mm(2).
+
+
+CONCLUSION
+Optimum ADC determination and DW imaging quality at 3.0 T was found with a combined b value protocol of 50 and 850 sec/mm(2). This provided a high accuracy for differentiation of benign and malignant breast tumors.

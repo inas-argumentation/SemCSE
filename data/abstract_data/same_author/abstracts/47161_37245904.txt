@@ -1,0 +1,2 @@
+Model checking the Java meta-locking algorithm
+We apply the XMC model checker to the Java meta-locking algorithm, a highly optimized technique for ensuring mutually exclusive access by threads to object monitor queues. Our abstract specification of the meta-locking algorithm is fully parameterized, both on M, the number of threads, and N, the number of objects. Using XMC, we show that for a variety of values of M and N, the algorithm indeed provides mutual exclusion and freedom from lockout.

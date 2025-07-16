@@ -1,0 +1,2 @@
+Propagation Strategies for Building Temporal Ontologies
+In this paper, we propose to build temporal ontologies from WordNet. The underlying idea is that each synset is augmented with its temporal connotation. For that purpose, temporal classifiers are iteratively learned from an initial set of time-sensitive synsets and different propagation strategies to give rise to different TempoWordNets.

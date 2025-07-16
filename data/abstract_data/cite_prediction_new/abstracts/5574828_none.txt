@@ -1,0 +1,2 @@
+An enhancement of futures runtime in presence of cache memory hierarchy
+A future is a simple abstraction mechanism for exposing potential concurrency in programs. In this paper, we propose an enhancement of our previously developed runtime for scheduling and executing futures based on the lazy task creation technique that aims to reflect the cache memory hierarchy present in modern multi-core and multiprocessor systems.

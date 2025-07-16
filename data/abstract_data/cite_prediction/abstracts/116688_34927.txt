@@ -1,0 +1,2 @@
+Attacking software-defined networks: a first feasibility study
+In this paper, for the first time we show a new attack to fin- gerprint SDN networks and further launch efficient resource consumption attacks. This attack demonstrates that SDN brings new security issues that may not be ignored. We provide the first feasibility study of such attack and hope to stimulate further studies in SDN security research.

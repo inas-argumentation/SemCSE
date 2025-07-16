@@ -1,0 +1,2 @@
+Algorithmic shape modeling with subdivision surfaces
+We present methods for synthesizing 3D shape features on subdivision surfaces using multi-scale procedural techniques. Multi-scale synthesis is a powerful approach for creating surfaces with different levels of detail. Our methods can also blend multiple example multi-resolution surfaces, including procedurally defined surfaces as well as captured models.

@@ -1,0 +1,15 @@
+Spatial heterogeneity of the volume effect for radiation pneumonitis in mouse lung.
+PURPOSE
+In a previous study to determine the effect of partial volume irradiation on damage and morbidity from pneumonitis in mouse lung, a critical determinant of the volume effect was the spatial location of the irradiated subvolume within the lung. The goals of the present study were to (a) define the dose-volume effect curves for radiation pneumonitis in mouse lung, (b) define the threshold volume, and (c) further investigate the spatial heterogeneity of the radiosensitivity of mouse lung.
+
+
+METHODS AND MATERIALS
+Eight fractional volumes ranging from 94% to 17% of the lungs of C3Hf/Kam mice were irradiated with single doses ranging from 12 to 22 Gy, depending on the volume irradiated. The fractional volumes irradiated were determined from computed tomographic scans of mouse lung. To determine the effect of location of irradiated subvolume, equivalent volumes in the base and the apex were irradiated by shielding the prescribed adjacent volume in the apex or base respectively. Dose-response curves of breathing rate at 22 weeks and lethality at 28 weeks were constructed for each subvolume irradiated in the apex or base and fitted by logit analysis, and ED50s and LD50s with 95% confidence limits obtained, respectively. Lungs from dead mice or mice sacrificed when moribund were examined for histologic signs of pneumonitis.
+
+
+RESULTS
+Irradiation of any of the eight subvolumes in the base yielded a consistently lower isoeffect dose for both assays of radiation pneumonitis than if the same irradiated subvolume was located in the apex. Plots of isoeffect dose for breathing rate as a function of subvolume irradiated in the base or apex showed that these curves were not linear but exhibited a plateau between irradiated volumes of 70% and 80% in both the apex and base. A similar curve was obtained for lethality and volume irradiated in the base. A threshold volume, i.e., irradiation of that volume that should produce no changes in breathing rate or mortality, was dependent on the location of the irradiated subvolume.
+
+
+CONCLUSION
+The response of mouse lung to partial volume irradiation is heterogeneous and is critically dependent on the specific location of the irradiated subvolume in the lung, i.e., a given subvolume in the base is consistently more sensitive than the same subvolume in the apex using either breathing rate or lethality as assays of radiation pneumonitis. We suggest that this heterogeneity is due to the anatomy of the tracheobronchial tree, i.e., to the distribution of non-gas exchange-conducting airways in the irradiated volume. These data have implications for the modeling of dose-volume effects in the lung and the prediction of normal tissue complication probabilities for radiation pneumonitis in humans.

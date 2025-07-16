@@ -1,0 +1,2 @@
+Liouville theorems for stable solutions of biharmonic problem
+We prove some Liouville type results for stable solutions to the biharmonic problem $$\Delta ^2 u= u^q, \,u>0$$ in $$\mathbb{R }^n$$ where $$1 < q < \infty $$. For example, for $$n \ge 5$$, we show that there are no stable classical solution in $$\mathbb{R }^n$$ when $$\frac{n+4}{n-4} < q \le \left(\frac{n-8}{n}\right)_+^{-1}$$.

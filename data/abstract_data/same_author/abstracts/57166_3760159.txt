@@ -1,0 +1,2 @@
+Degree Sums, Connectivity and Dominating Cycles in Graphs
+Abstract. Let G be a graph of order n with connectivity κ≥3 and let α be the independence number of G. Set σ4(G)= min{∑4i=1d(xi):{x1,x2,x3,x4} is an independent set of G}. In this paper, we will prove that if σ4(G)≥n+2κ, then there exists a longest cycle C of G such that V(G−C) is an independent set of G. Furthermore, if the minimum degree of G is at least α, then G is hamiltonian.

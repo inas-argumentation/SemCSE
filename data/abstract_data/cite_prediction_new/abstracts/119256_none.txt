@@ -1,0 +1,2 @@
+Prediction and control for a time-series count data model
+Time series of count data are becoming more widely available. In a recently suggested class of models, the serial correlation between counts can conveniently be accounted for. In this paper, an easily calculated linear predictor is introduced. Control solutions for average count and for probabilities of specified events are given. An illustration based on a road accident frequency model for a Swedish county is included.

@@ -1,0 +1,2 @@
+Simulation of Resistive Plate Chamber sensitivity to neutrons
+The Resistive Plate Chambers (RPCs) sensitivity to neutrons has been simulated using GEANT code with MICAP and FLUKA interfaces. The calculations have been performed as a function of the neutrons energy in the range 0.02 eV–1 GeV. To evaluate the response of the detector in the LHC background environment, the neutron energy spectrum expected in the CMS muon barrel has been taken into account; a hit rate due to neutrons of about 0.6 Hz cm−2 has been estimated for a RPC in the RB1 station

@@ -1,0 +1,15 @@
+SU-E-T-543: Build-Up Region Dosimetry of Megavoltage Photon Beams for Breast Radiotherapy.
+PURPOSE
+To evaluate the accuracy of the dosimetry in the build-up region for 6-and 10-MV photons for beam modeling in Pinnacle treatment planning system (TPS) for breast treatment plans using brass mesh bolus.
+
+
+METHOD AND MATERIALS
+High-resolution %DDs for 6-and 10-MV photons were measured from surface-to-5 cm depth for selected field sizes with a depth resolution of 1-mm using an advanced Markus chamber and the region beyond was measured using Farmer-type cylindrical chamber. Gafchromic-media dosimetry and optically-stimulated luminescence dosimetry (OSLD) were used to measure doses under variable thicknesses of superflab and brass mesh bolus placed on a breast phantom irradiated by tangential fields. The photon beams emerging from a Clinac 2100C/D were simulated in the build-up region with a depth resolution of 1 mm using a validated Monte Carlo code BEAMnrc and DOSXYZnrc. The central-axis doses computed by the TPS which uses the CCC dose model were compared with those obtained from MC simulations and measurements.
+
+
+RESULTS
+As expected, the doses at first few mm depths from surface, measured with cylindrical chamber were much higher than the MC calculated doses due to volume-averaging effect. In buildup region (surface-to-2cm), doses measured with film, OSLD and parallel-plate chamber agreed with MC predictions within 2-5%. However, there were larger discrepancies between TPS calculated values and the measured or Monte Carlo values; especially for the dosimetry for a few mm of depth under the different bolus materials used in this study.
+
+
+CONCLUSIONS
+The TPS as implemented for routine radiotherapy used in this study does not provide sufficiently accurate dosimetry in the build-up region for breast radiotherapy using different bolus materials and the calculated dose distributions for treatment setups using brass mesh bolus need to be verified by independent measurements using Gafchromic films, OSLD or thin-window parallel-plate chambers and/or Monte Carlo simulations.

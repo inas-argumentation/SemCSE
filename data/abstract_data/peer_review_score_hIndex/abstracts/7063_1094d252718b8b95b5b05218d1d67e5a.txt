@@ -1,0 +1,15 @@
+Make SVM great again with Siamese kernel for  few-shot learning
+While deep neural networks have shown outstanding results in a wide range of applications,
+learning from a very limited number of examples is still a challenging
+task. Despite the difficulties of the few-shot learning, metric-learning techniques
+showed the potential of the neural networks for this task. While these methods
+perform well, they don’t provide satisfactory results. In this work, the idea of
+metric-learning is extended with Support Vector Machines (SVM) working mechanism,
+which is well known for generalization capabilities on a small dataset.
+Furthermore, this paper presents an end-to-end learning framework for training
+adaptive kernel SVMs, which eliminates the problem of choosing a correct kernel
+and good features for SVMs. Next, the one-shot learning problem is redefined
+for audio signals. Then the model was tested on vision task (using Omniglot
+dataset) and speech task (using TIMIT dataset) as well. Actually, the algorithm
+using Omniglot dataset improved accuracy from 98.1% to 98.5% on the one-shot
+classification task and from 98.9% to 99.3% on the few-shot classification task.

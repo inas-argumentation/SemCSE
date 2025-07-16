@@ -1,0 +1,2 @@
+A Rate-Distortion Theory of Adversarial Examples
+The generalization ability of deep neural networks (DNNs) is intertwined with model complexity, robustness, and capacity. Through establishing an equivalence between a DNN and a noisy communication channel, we characterize generalization and fault tolerance for unbounded adversarial attacks in terms of information-theoretic quantities. Invoking rate-distortion theory, we suggest that excess capacity is a significant cause of vulnerability to adversarial examples.

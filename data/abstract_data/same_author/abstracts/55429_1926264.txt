@@ -1,0 +1,2 @@
+L Codes and Number Systems
+Abstract The notion of an L code is introduced as a generalization of the customary notion of a code. Attention is focused on unary L codes. where the target alphabet consists of one letter only. Unary L codes can be identified with such number systems where the representation is unique. Surprisingly many unary morphisms are L codes. Furthermore, even for non-L-codes there is only one ‘exceptional length’ We also give a complete classification for the binary case.

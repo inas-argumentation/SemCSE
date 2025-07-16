@@ -1,0 +1,2 @@
+Prolongations of tensor fields and connections to tangent bundles III
+In our previous paper [3] we introduced the notion of complete lift of an afl"ine connection. Let M be a manifold T(M) its tangent bundle space. Then every affine connection 17 of M induces in a natural manner an affine connection, called the complete lift 17c of 17, of the manifold T(M). We shall show in this paper that the linear holonomy group L(I7c) of the connection UC coincides with the tangent group T(~(V)) of the linear holonomy group P(P) of the connection 17, i. e., ~(Pc) = T(P(G)).

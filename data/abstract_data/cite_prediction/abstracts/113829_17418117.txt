@@ -1,0 +1,2 @@
+Methoden Online-6 DSLAM für RGB-D-Sensoren 6 D Visual SLAM for RGB-D Sensors
+This paper presents an approach to 6-DOF simultaneous localization and mapping (SLAM) particularly suited for collision avoidance in visually guided robotic manipulation tasks in dynamic or unknown environments. We exploit the properties of novel RGB-D sensors such as the Microsoft Kinect to build highly accurate voxel maps.

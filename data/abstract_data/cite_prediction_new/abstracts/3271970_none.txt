@@ -1,0 +1,2 @@
+Injectivity analysis using interval analysis: Application to structural identifiability
+This paper presents a new numerical algorithm based on interval analysis able to prove that a differentiable function f:[email protected]?R^n->R^n is injective. This algorithm also performs a partition of the domain A in subsets A"i where, for all [email protected]?A"i, the cardinality of f^-^1(f(x)) is constant. In the context of parameter estimation, we show how this algorithm provides an efficient and numerical method to study the structural identifiability of parametric models.

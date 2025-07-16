@@ -1,0 +1,2 @@
+Cryptanalysis of an Algebraic Privacy Homomorphism
+We use linear algebra to show that an algebraic privacy homomorphism proposed by Domingo-Ferrer is insecure for some parameter settings.

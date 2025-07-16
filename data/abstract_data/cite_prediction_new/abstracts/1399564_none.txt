@@ -1,0 +1,2 @@
+Empirical Study on Modeling Quantitative Composition- Activity Relationships in Chinese Herbal Medicine
+Chinese herbal medicine (CHM) consists of up hundreds of chemical components, which have complex relationships with their bioactivities. Quantitatively modeling composition-activity relationships playing a crucial role in drug design from CHM. In this paper, principle component regression, partial least square regression and least square support vector machine were used to perform this task and exhibit high predictive precisions

@@ -1,0 +1,2 @@
+Conceptual model of web service reputation
+Current Web services standards enable publishing service descriptions and finding services on a match based on criteria such as method signatures or service category. However, current approaches provide no basis for selecting a good service or for comparing ratings of services. We describe a conceptual model for reputation using which reputation information can be organized and shared and service selection can be facilitated and automated.

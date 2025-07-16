@@ -1,0 +1,2 @@
+A Laplace decomposition algorithm applied to a class of nonlinear differential equations
+In this paper, a numerical Laplace transform algorithm which is based on the decomposition method is introduced for the approximate solution of a class of nonlinear differential equations. The technique is described and illustrated with some numerical examples. The results assert that this scheme is rapidly convergent and quite accurate by which it approximates the solution using only few terms of its iterative scheme.

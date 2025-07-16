@@ -1,0 +1,11 @@
+Dependence network modeling for biomarker identification
+MOTIVATION
+Our purpose is to develop a statistical modeling approach for cancer biomarker discovery and provide new insights into early cancer detection. We propose the concept of dependence network, apply it for identifying cancer biomarkers, and study the difference between the protein or gene samples from cancer and non-cancer subjects based on mass-spectrometry (MS) and microarray data.
+
+
+RESULTS
+Three MS and two gene microarray datasets are studied. Clear differences are observed in the dependence networks for cancer and non-cancer samples. Protein/gene features are examined three at one time through an exhaustive search. Dependence networks are constructed by binding triples identified by the eigenvalue pattern of the dependence model, and are further compared to identify cancer biomarkers. Such dependence-network-based biomarkers show much greater consistency under 10-fold cross-validation than the classification-performance-based biomarkers. Furthermore, the biological relevance of the dependence-network-based biomarkers using microarray data is discussed. The proposed scheme is shown promising for cancer diagnosis and prediction.
+
+
+AVAILABILITY
+See supplements: http://dsplab.eng.umd.edu/~genomics/dependencenetwork/

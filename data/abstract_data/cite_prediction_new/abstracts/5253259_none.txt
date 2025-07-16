@@ -1,0 +1,2 @@
+Multi-subband semi-classical simulation of n-type Tunnel-FETs
+We present a newly developed model for Tunnel-FET (TFET) devices capable to describe band-to-band tunneling (BtBT) as well as off-equilibrium transport of the generated carriers. BtBT generation is implemented as an add-on into an existing Multi-subband Monte Carlo (MSMC) transport simulator that accounts for the effects of alternative channel materials and high-κ dielectrics. A simple correction for the calculation of the BtBT generation rate is proposed to account for carrier confinement in the subbands.

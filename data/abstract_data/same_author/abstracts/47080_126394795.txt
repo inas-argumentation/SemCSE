@@ -1,0 +1,6 @@
+Expanders That Beat the Eigenvalue Bound: Explicit Construction and Applications
+n and 0 < δ < 1, we construct graphs on n nodes such that every two sets of size share an edge, having essentially optimal maximum degree . Using known and new reductions from these graphs, we derive new explicit constructions of:
+1.  A k round sorting algorithm using comparisons.
+2.  A k round selection algorithm using comparisons.
+3.  A depth 2 superconcentrator of size .
+4.  A depth k wide-sense nonblocking generalized connector of size .All of these results improve on previous constructions by factors of , and are optimal to within factors of . These results are based on an improvement to the extractor construction of Nisan & Zuckerman: our algorithm extracts an asymptotically optimal number of random bits from a defective random source using a small additional number of truly random bits.

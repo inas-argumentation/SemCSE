@@ -1,0 +1,2 @@
+A REAL TIME 3 D VISUALIZATION PROTOTYPE FOR INTERVENTIONAL MAGNETIC RESONANCE IMAGING
+This paper describes a prototype of a visualization system which is designed to support radiologists during invasive and non-invasive magne tic resonance imaging. We use pre-acquired and real tim e data in our system to provide an intuitive and flex ible visualization of the process and the results of the examination. In the presented system, we combine th e advantages of both surface rendering and volume rendering to a hybrid visualization.

@@ -1,0 +1,2 @@
+The law of the iterated logarithm for random sequences
+The stochastic properties of p-random sequences are studied in this paper. It is shown that the law of the iterated logarithm holds for p-random sequences. This law gives a quantitative characterization of the density of p-random sets. When combined with the invariance property of p-random sequences, this law is also useful in proving that some complexity classes have p-measure 0.

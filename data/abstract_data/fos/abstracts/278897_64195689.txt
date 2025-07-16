@@ -1,0 +1,2 @@
+An Algorithm for Mining Maximum Frequent Item Sets Based on FP-tree
+Proposes DMFIA-D for mining maximum frequent item sets, this algorithm uses bi-direc- tional searching, chooses candidates of the maximum frequent item sets with top -down searching, and takes count of them or prune them with bottom-up searching based on ana- lyzing FP-tree structure characteristic. For reducing the maximum frequent candidate item sets and prune the candidates effectively, so reduces the time of mining and enhances the efficiency.

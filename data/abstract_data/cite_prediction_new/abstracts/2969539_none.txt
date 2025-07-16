@@ -1,0 +1,2 @@
+Oracle Tractability of Skew Bisubmodular Functions
+In this paper we consider skew bisubmodular functions as recently introduced by the authors and Powell. We construct a convex extension of a skew bisubmodular function which we call Lovasz extension in correspondence to the submodular case. We use this extension to show that skew bisubmodular functions given by an oracle can be minimized in polynomial time.

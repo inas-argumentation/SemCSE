@@ -1,0 +1,2 @@
+Quasi-three-dimensional modeling of bipolar transistor characteristics
+A new approach to modeling the characteristics of a real three-dimensional bipolar transistor (BJT) is presented. It is based on the joint use of the BIPOLE program for calculating the intrinsic and emitter sidewall BJT characteristics and a special code RBCALC for calculating the two-dimensional potential distribution in the base region. The results presented show the importance of accounting for the third dimension for accurate calculation of some important BJT characteristics. >

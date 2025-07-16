@@ -1,0 +1,2 @@
+On the distribution of computation for sequential decoding using the stack algorithm
+An analytical procedure is presented for generating the computational distribution for the Zigangirov-Jelinek stack algorithm. Multitype branching processes are employed to develop a procedure for estimating sequential decoding computation, without the need for simulation, but with sufficient accuracy to be a valid design tool. At information rates about the cutoff rate R_{o} the calculated computational performance is virtually Identical to that obtained by time consuming simulations.

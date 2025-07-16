@@ -1,0 +1,19 @@
+Validation of a Comprehensive Clinical Algorithm for the Assessment and Treatment of Microbial Keratitis.
+PURPOSE
+To validate a comprehensive clinical algorithm for the assessment and treatment of MK.
+
+
+DESIGN
+Retrospective cohort study.
+
+
+METHODS
+The 1,2,3-Rule for the initial management of MK was conceived by Vital et al. (2007) to inform the decision as to when to perform corneal cultures. The rule is invoked when any one of three clinical parameters is met: >1+ anterior chamber cells, >2mm infiltrate, or infiltrate <3mm distance from the corneal center. When the rule is met, we added the mandatory use of fortified topical antibiotics after cultures are obtained. We compared outcomes of cases presenting to Massachusetts Eye and Ear two years before (Group I, n=665) and after (Group II, n=767) algorithm implementation. The primary composite outcome was a vision-threatening complication, such as corneal perforation.
+
+
+RESULTS
+At a median follow-up of 67.0 and 60.0 days, respectively, 172 patients experienced a vision-threatening complication (Group I, 12.9% vs. Group II, 11.2%, p=0.51). While the algorithm codified conventional management practice at either ends of disease severity, the effect of algorithm-augmented care was best appreciated in patients with lesions satisfying only one criterion. In this group, there was an increase in the proportion of patients undergoing culture at presentation (54.6% vs. 67.7%, p=0.006), fortified antibiotic prescription (29.7% vs. 53.9%, p<0.001), and reduction in vision-threatening complications (9.7% vs. 1.8%, p=0.001). The proportion of patients who were not cultured at presentation but later required it decreased (13.4% vs. 5.1%, p=0.001), as did patients who did not meet any criteria but were nonetheless cultured (23.9% vs. 8.5%, p<0.001). Multiple logistic regression showed that all algorithm parameters were independently associated with outcome: >1+ anterior chamber cells (OR 1.66, 95% CI, 1.09-2.52); >2mm infiltrate (OR 4.74, 2.68-8.40); and <3mm from corneal center (OR 2.82, 1.81-4.31), confirmed with comparison to a bootstrapped sample (n=10,000).
+
+
+CONCLUSIONS
+The implementation of this algorithm reduced vision-threatening complications for patients with lesions satisfying only one criterion, arguably the most difficult patients in whom to judge disease severity. Implementation also led to a decrease in patients receiving unnecessary care.

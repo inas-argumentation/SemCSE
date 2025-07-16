@@ -1,0 +1,2 @@
+A Design of Discrete-Time Multivariable Iterative Learning Control Systems with Interactor Matrix
+In this paper, it is proposed a discrete-time multivariable iterative learning control algorithm which guarantees the monotonic convergence of the tracking error norms along with the trial. It is pointed out that an interactor matrix plays an important role in the iterative learning control. Numerical simulations will be presented to confirm the validity of the proposed design.

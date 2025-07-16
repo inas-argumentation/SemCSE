@@ -1,0 +1,2 @@
+Universal Dependencies for Russian: A New Syntactic Dependencies Tagset
+This paper presents the Universal Dependencies tagset (UD v1) as a new annotation scheme for Russian treebanks. The universal list of dependency relations was adopted and extended to comply with certain language specific syntactic constructions. The tagset was validated, converting two Russian treebanks into the UD format, UD Russian SynTagRus and UD Russian Google.

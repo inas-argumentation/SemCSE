@@ -1,0 +1,2 @@
+Thomas decompositions of parametric nonlinear control systems
+Abstract This paper presents an algorithmic method to study structural properties of nonlinear control systems in dependence of parameters. The result consists of a description of parameter configurations which cause different control-theoretic behaviour of the system (in terms of observability, flatness, etc.). The constructive symbolic method is based on the differential Thomas decomposition into disjoint simple systems, in particular its elimination properties.

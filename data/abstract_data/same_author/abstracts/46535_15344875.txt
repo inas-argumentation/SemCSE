@@ -1,0 +1,2 @@
+Albedo recovery using a photometric stereo approach
+This paper describes a method for the estimation of surface reflectance values using a photometric stereo approach. Evaluations show that surfaces rendered with reflectance values calculated by the proposed method have more realistic appearances than those with constant albedo.

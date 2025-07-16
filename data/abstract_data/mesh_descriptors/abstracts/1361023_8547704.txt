@@ -1,0 +1,2 @@
+HVM: a web-based tool for alignment of EF-hand lobes relative to their local pseudo two-fold axes.
+We have developed a method to align a pair of EF-hand domains, an EF-lobe, using the symmetry axis that is intrinsic to the EF-lobe itself. The coordinate system for the alignment is dependent only on the symmetry of the EF-lobe. The absolute positions of each component in the structure can be described in this coordinate system. Our site provides the foundation for the analyses and comparisons of structural features of EF-lobes.

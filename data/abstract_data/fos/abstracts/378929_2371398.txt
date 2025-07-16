@@ -1,0 +1,2 @@
+Low temperature electrical measurements of silicon bipolar monolithic microwave integrated circuit (MMIC) amplifiers
+Outdoor telecommunications equipment can be exposed to ambient temperatures as low as −55 °C. However, microwave devices used in telecommunications infrastructure equipment are generally not rated to such low temperature. This paper assesses scattering parameters (S-parameters), the output power at 1 dB gain compression, and DC characteristics of a silicon bipolar monolithic microwave integrated circuit (MMIC) amplifier at low temperatures.

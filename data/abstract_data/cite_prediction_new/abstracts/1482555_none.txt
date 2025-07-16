@@ -1,0 +1,2 @@
+Functional Link Artificial Neural Network for Active Control of Nonlinear Noise Processes
+There are several situations where the conventional ANC using FXLMS algorithm does not perform satisfactory. One such condition is referred as the nonlinear effect in ANC. This paper proposes an efficient novel ANC structure based on functional link artificial neural network, which outperforms the FXLMS algorithm. This has been demonstrated through computer simulation. Index Terms – ANC, nonlinear effect, functional link artificial neural network (FLANN).

@@ -1,0 +1,2 @@
+Review of constraints-based motion retargeting techniques in 3D animations
+Constraints-based motion retargeting was one of the motion retargeting techniques. With it, a collection of constraints were set when the 3D motion data were reused to object models during animating. The existing main techniques of constraints-based motion retargeting are analyzed and compared first, and then the problems are proposed to provide reference for further researches.

@@ -1,0 +1,2 @@
+A 24GHz, +14.5dBm fully-integrated power amplifier in 0.18 /spl mu/m CMOS
+A 24 GHz, +14.5 dBm fully-integrated power amplifier with 50 /spl Omega/ input and output matching is fabricated using 0.18 /spl mu/m CMOS transistors. To enable this, a shielded-substrate coplanar waveguide transmission line structure is used to achieve low loss and small area. The power amplifier achieves a power gain of 7 dB and a maximum single-ended output power of +14.5 dBm with a 3 dB bandwidth of 3.1 GHz, while drawing 100 mA from a 2.8 V supply. The chip area is 1.26 mm/sup 2/.

@@ -1,0 +1,2 @@
+A Multiband RF Antenna Duplexer on CMOS: Design and Performance
+An RF duplexer has been fabricated on a CMOS IC for use in 3G/4G cellular transceivers. The passive circuit sustains large voltage swings in the transmit path, and isolates the receive path from the transmitter by more than 45 dB across a bandwidth of 200 MHz in 3G/4G bands I, II, III, IV, and IX. A low noise amplifier embedded into the duplexer demonstrates a cascade noise figure of 5 dB with more than 27 dB of gain. The duplexer inserts 2.5 dB of loss between power amplifier and antenna.

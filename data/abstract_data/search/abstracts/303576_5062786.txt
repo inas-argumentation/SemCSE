@@ -1,0 +1,2 @@
+haploR: an R package for querying web based annotation tools
+We developed haploR, an R package for querying web based genome annotation tools HaploReg and RegulomeDB. haploR gathers information in a data frame which is suitable for downstream bioinformatic analyses. This will facilitate post genome wide association studies streamline analysis for rapid discovery and interpretation of genetic associations.

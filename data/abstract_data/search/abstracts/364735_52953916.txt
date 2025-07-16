@@ -1,0 +1,2 @@
+Implicit 3D Orientation Learning for 6D Object Detection from RGB Images
+We propose a real time RGB based pipeline for object detection and 6D pose estimation. Our novel 3D orientation estimation is based on a variant of the Denoising Autoencoder that is trained on simulated views of a 3D model using Domain Randomization.

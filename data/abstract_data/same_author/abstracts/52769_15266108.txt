@@ -1,0 +1,2 @@
+Optimal output-sensitive convex hull algorithms in two and three dimensions
+We present simple output-sensitive algorithms that construct the convex hull of a set ofn points in two or three dimensions in worst-case optimalO (n logh) time andO (n) space, whereh denotes the number of vertices of the convex hull.

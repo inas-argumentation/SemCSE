@@ -1,0 +1,4 @@
+Analysis of Interoperability Issues Between EGEE and VEGA Grid Infrastructures
+Recent Grid initiatives brought a few large Grid infrastructures deployed over the world. However most of them are not easily interoperable and creation of Virtual Organizations that could include resources from a couple of different Grid systems is practically impossible. 
+ 
+In this paper, we present an analysis of issues that need to be resolved when providing interoperability between heterogenous Grid environments. The analysis is based on the example of EGEE and VEGA Grid systems middleware integration. A universal interoperability layer is proposed – called Grid Abstraction Layer – that will enable integration of these two Grid systems as well as other Grid environments and allow for creation of multi-Grid Virtual Organizations.

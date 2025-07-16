@@ -1,0 +1,2 @@
+A new gate delay model for simultaneous switching and its applications
+<par.We present a new model to capture the delay phenomena associ-ated with simultaneous to-controlling transitions. The proposed delay model accurately captures the effect of the targeted delay phe-nomena over a wide range of transition times and skews. It also cap-tures the effects of more variables than table lookup methods can handle. The model helps improve the accuracy of static timing anal-ysis, incremental timing refinement, and timing-based ATPG.

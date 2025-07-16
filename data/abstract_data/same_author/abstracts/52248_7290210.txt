@@ -1,0 +1,2 @@
+Modular software design with crosscutting interfaces
+Aspect-oriented programming (AOP) languages such as AspectJ offer new mechanisms and possibilities for decomposing systems into modules and composing modules into systems. The key mechanism in AspectJ is the advising of crosscutting sets of join points. An aspect module uses a pointcut descriptor (PCD) to declaratively specify sets of points in program executions. Our approach employs crosscut programming interfaces, or XPIs. XPIs are explicit, abstract interfaces that decouple aspects from details of advised code

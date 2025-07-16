@@ -1,0 +1,2 @@
+A class of hyponormal operators and weak*-continuity of hermitian operators
+We will first in this paper consider a class of hyponormal operators which we call *-hyponormal operators. We give an example of a hyponormal operator which is not *-hyponormal. It follows from a theorem of Ackermans, van Eijndhoven and Martens [1] that subnormal operators on a Hilbert space are *-hyponormal. We prove a generalized Fuglede--Putnam theorem and some other results for these operators. We will also prove some results on the following problem which was mentioned in [4]:

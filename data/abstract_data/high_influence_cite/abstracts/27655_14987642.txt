@@ -1,0 +1,2 @@
+Lieb–Thirring type inequalities and Gagliardo–Nirenberg inequalities for systems
+This paper is devoted to inequalities of Lieb-Thirring type. Let V be a nonnegative potential such that the corresponding Schrodinger operator has an unbounded sequence of eigenvalues (λi(V ))i∈N∗. We prove that there exists a positive constant C(γ), such that, if γ > d/2, then X i∈N∗ (λi(V )) −γ ≤ C(γ) Z Rd V d 2 −γ dx (∗)

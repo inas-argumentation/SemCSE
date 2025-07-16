@@ -1,0 +1,2 @@
+MIPS : An Efficient Global Parametrization Method
+The problem of parametrizing 3D data points is fundamental for many applications in computer-aided geometric design, e.g. surface fitting, texture mapping, and remeshing. We present a new method for constructing a global parametrization of a triangulated (topologically disklike) surface over a planar region with minimal distortion. In contrast to many existing approaches which need the boundary of the parametrization to be fixed in advance, the boundary develops naturally with this new algorithm.

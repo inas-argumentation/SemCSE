@@ -1,0 +1,2 @@
+Augmenting Affect from Speech with Generative Music
+In this work we propose a prototype to improve interpersonal communication of emotions. Therefore music is generated with the same affect as when humans talk on the fly. Emotions in speech are detected and conveyed to music according to music psychological rules. Existing evaluated modules from affective generative music and speech emotion detection, use cases, emotional models and projected evaluations are discussed.

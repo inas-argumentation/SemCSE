@@ -1,0 +1,2 @@
+Direct access test scheme-implementation and verification in embedded ASIC designs
+The direct access test scheme (DATS) that eliminates the designer's burden of embedded block cell test generation is discussed. This scheme provides for testing of embedded block cells using proven test vectors. The implementation and automatic verification of DATS in ASIC designs is discussed.<<ETX>>

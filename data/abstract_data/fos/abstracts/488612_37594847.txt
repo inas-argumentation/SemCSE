@@ -1,0 +1,15 @@
+SU-F-T-661: Dependence of Gold Nano Particles Cluster Morphology On Dose Enhancement of Photon Radiation Therapy Apply for Radiation Biology Effect.
+PURPOSE
+Injected gold nano particles (GNPs) to a body for dose enhancement are known to form in the tumorcell cluster morphology. We investigated the dependence of dose enhancement on the morphology characteristic with an approximated morphology model by using Monte Carlo simulations.
+
+
+METHODS
+For MC simulation, TOPAS version 2.0P-03 was used. GNP cluster morphology was approximated as a body center cubic(BCC) model by placing 8 GNPs at the corner and one at the center of cube with length from 2.59 µm to 0.25 µm located in a 4 µm length water filled cube phantom. 4 µm length square shaped beams of poly-energetic 50, 260 kVp photons were irradiated to the water filled cube phantom with 100 nm diameter GNPs in it. Dose enhancement ratio(DER) was computed as a function of distance from the surface of the GNP at the cube center for 18 cubes geometries. For scoring particles, 10 nm width of concentric shell shaped detector was constructed up to 100 nm from the center. Total dose in a sphere of 100 nm radius of detector were normalized to 2.59 µm length cube morphology. To verified biological effect of BCC model applied to cell survival curve fitting.
+
+
+RESULTS
+DER increase as the distance of the GNPs reduces. DER was largest for 0.25 µm length cube. Dependence of GNP distance DER increment was 1.73, 1.60 for 50 kVp, 260 kVp photons, respectively. Also, Using BCC model applied to cell survival curve was well prediction.
+
+
+CONCLUSION
+DER with GNPs was larger when they are closely packed in the phantom. Therefore, better therapeutic effects can be expected with close-packed GNPs. This research was supported by the NRF funded by the Ministry of Science, ICT & Future Planning (2012M3A9B6055201 and 2012R1A1A2042414), Samsung Medical Center grant[GFO1130081].

@@ -1,0 +1,8 @@
+Finding ReMO (Related Memory Object): A Simple neural architecture for Text based Reasoning
+Memory Network based models have shown a remarkable progress on the task of relational reasoning.
+Recently, a simpler yet powerful neural network module called Relation Network (RN) has been introduced. 
+Despite its architectural simplicity, the time complexity of relation network grows quadratically with data, hence limiting its application to tasks with a large-scaled memory.
+We introduce Related Memory Network, an end-to-end neural network architecture exploiting both memory network and relation network structures. 
+We follow memory network's four components while each component operates similar to the relation network without taking a pair of objects. 
+As a result, our model is as simple as RN but the computational complexity is reduced to linear time.
+It achieves the state-of-the-art results in jointly trained bAbI-10k story-based question answering and  bAbI dialog dataset. 

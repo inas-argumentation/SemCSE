@@ -1,0 +1,15 @@
+FoxO1‐AMPK‐ULK1 Regulates Ethanol‐Induced Autophagy in Muscle by Enhanced ATG14 Association with the BECN1‐PIK3C3 Complex
+BACKGROUND
+Excessive alcohol (EtOH) consumption causes an imbalance in protein metabolism. EtOH impairs protein synthesis in C2C12 myoblasts via a FoxO1-AMPK-TSC2-mTORC1 pathway and also induces protein degradation. As the underlying regulatory signaling cascades for these processes are currently poorly defined, we tested the hypothesis that alcohol-induced autophagy is mediated via activation of the PIK3C3 complex that is regulated by FoxO1-AMPK.
+
+
+METHODS
+C2C12 myoblasts were incubated with EtOH for various periods of time, and autophagy pathway-related proteins were assessed by Western blotting and immunoprecipitation. Expression of targeted genes was suppressed using electroporation of specific siRNAs and chemical inhibitors.
+
+
+RESULTS
+Incubation of C2C12 myoblasts with 100 mM EtOH increased the autophagy markers LC3B-II and ATG7, whereas levels of SQSTM1/p62 decreased. The lysosomal inhibitor bafilomycin A1 caused a similar response, although there was no additive effect when combined with EtOH. EtOH altered ULK1 S555 and S757 phosphorylation in a time- and AMPK-dependent manner. The activation of AMPK and ULK1 was associated with increased BECN1 (S93, S14) and PIK3C3/VPS34 (S164) phosphorylation as well as increased total ATG14 and PIK3C3. These changes promoted formation of the ATG14-AMBRA1-BECN1-PIK3C3 proautophagy complex that is important in autophagosome formation. EtOH-induced changes were not associated with increased production of PtdIns3P, which may be due to enhanced PIK3C3 complex binding with 14-3-3θ. Reduction of AMPK using siRNA suppressed the stimulatory effect of EtOH on BECN1 S93, BECN1 S14, and PIK3C3 S164 phosphorylation in a time-dependent manner. Likewise, knockdown of AMPK or chemical inhibition of FoxO1 attenuated phosphorylation of ULK1 at both residues. Knockdown of ULK1 or BECN1 antagonized the effect of EtOH on LC3B-II, SQSTM1, and ATG7 protein expression.
+
+
+CONCLUSIONS
+EtOH-induced autophagy is mediated through changes in phosphorylation and interaction of various PIK3C3 complex components. This, in turn, is regulated either directly via FoxO1-AMPK or indirectly via the FoxO1-AMPK-ULK1 signaling cascade in a mTORC1-independent or mTORC1-dependent manner.

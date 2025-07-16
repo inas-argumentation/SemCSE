@@ -1,0 +1,2 @@
+Circuit mismatch influence on performance of paralleling silicon carbide MOSFETs
+This paper focuses on circuit mismatch influence on performance of paralleling SiC MOSFETs. Power circuit mismatch and gate driver mismatch influences are analyzed in detail. Simulation and experiment results show the influence of circuit mismatch and verify the analysis. This paper aims to give suggestions on paralleling discrete SiC MOSFETs and designing layout of power modules with paralleled SiC MOSFETs dies.

@@ -1,0 +1,15 @@
+Extent of lymphadenectomy is associated with oncological efficacy of sublobar resection for lung cancer ≤2 cm.
+BACKGROUND
+Sublobar resection (SLR) is an alternative to lobectomy for early non-small cell lung cancer. Comparative effectiveness of these 2 approaches might be modified by the extent of lymph node dissection.
+
+
+METHODS
+We utilized the Surveillance, Epidemiology, and End Results Program-Medicare dataset to identify patients with stage I non-small cell lung cancer aged 66 years or older with tumor size ≤2 cm. We compared patient characteristics with t tests for continuous variables and χ2 tests for categorical variables. Kaplan-Meier curves were constructed to determine overall survival (OS) and cancer-specific survival (CSS). We evaluated OS and CSS among propensity-matched cohorts undergoing lobectomy versus SLR, particularly as it related to extent of lymphadenectomy.
+
+
+RESULTS
+Among 2757 lobectomies and 1229 SLR procedures performed for stage I tumors ≤2 cm, we propensity-matched 1124 patients from each group. Patients undergoing SLR were more likely to have no lymph nodes sampled (46.9% vs 6.4%; P < .001). OS (hazard ratio [HR], 1.48; 95% confidence interval [CI], 1.29-1.69) and CSS (HR, 2.06; 95% CI, 1.41-3.02) were worse following SLR. When propensity-matched cohorts of patients with at least 1 lymph node removed (n = 567 each group) were examined, the HRs for survival for SLR decreased (OS HR, 1.38; 95% CI, 1.12-1.69; CSS HR, 1.58; 95% CI, 0.97-2.57). Finally, when cohorts were propensity matched for ≥9 lymph nodes examined (n = 103 each group), there was no difference in OS (HR, 0.84; 95% CI, 0.50-1.39) or CSS (HR, 1.10; 95% CI, 0.35-3.41).
+
+
+CONCLUSIONS
+SLR leads to fewer lymph node removed and is associated with inferior survival compared with lobectomy. A more extensive lymphadenectomy may be associated with equivalent survival between matched patients undergoing SLR and lobectomy.

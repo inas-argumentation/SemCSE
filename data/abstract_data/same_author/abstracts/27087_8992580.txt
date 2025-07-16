@@ -1,0 +1,2 @@
+Validation of Geant4 hadronic physics models at intermediate energies
+Geant4 provides a number of models for hadronic interactions and they are valid for certain types of beam particles over certain energy region. These models are validated using data from thin target experiments for intermediate beam energies (between 2 and 30 GeV/c) for a number of nuclear targets. These comparisons showed strengths and weaknesses of these models and will help to formulate a good physics list for application in high energy physics experiments.

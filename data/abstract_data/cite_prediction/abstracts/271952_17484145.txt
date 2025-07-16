@@ -1,0 +1,2 @@
+Bregmanized Nonlocal Regularization for Deconvolution and Sparse Reconstruction
+We propose two algorithms based on Bregman iteration and operator splitting technique for nonlocal TV regularization problems. The convergence of the algorithms is analyzed and applications to deconvolution and sparse reconstruction are presented.

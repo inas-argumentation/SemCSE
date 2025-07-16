@@ -1,0 +1,7 @@
+The impact of electrical load shifting strategies on storage capacity and service provision of domestic hot water systems in residential buildings
+Domestic hot water can accounts for up to 25% of the total domestic energy consumption in the UK and is demand driven. In the UK there has been a trend to replace traditional tank systems with instantaneous supply of hot water through gas fired combination boilers,
+leaving the space occupied by the tank to be repurposed by the household. This space is likely to become more critical as the need for storage increases in order to participate in peak load shifting when spaceheating
+and hot water is supplied by electricity rather than gas. The size of tank and hence the delivery of water at an appropriate temperature delivered when demand
+dictate is likely to become a point of tension in future systems. This paper introduces a notion of hot water ‘service’ that can be evaluated and used to compare the performance of different systems, along
+side more traditional metrics such as cost, power and tank size. The analysis compares several load shifting strategies through a TRNSYS model driven by high resolution hot water data (1sec) measured in a UK home. It is demonstrated that optimal tank size and
+the service the system can provide are very sensitive to the load shifting strategy applied.

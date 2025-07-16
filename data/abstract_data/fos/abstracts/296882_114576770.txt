@@ -1,0 +1,2 @@
+Fine-grained Fault Injection Framework for SoC in Power System
+Recently, embedded systems are increasingly deployed in power system. To assist the reliability assessment of these devices, this paper presents FFI4SoC, a fine-grained fault injection framework for SoC. By describing the design of a fault injection tool, the application of the framework was elaborated. Finally, a fault injection experiment was conducted, and the results proved that FFI4SoC can be applied to SoC well with the merit of fine-grained injection.

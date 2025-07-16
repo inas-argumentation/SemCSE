@@ -1,0 +1,2 @@
+Profit analysis of a two-unit man-machine system with random appearance and disappearance of the operator
+This paper deals with a stochastic model of a two-unit (one priority and the other ordinary) cold standby system in which the operator of the system appears and disappears from the system randomly. Each unit has two modes—normal (N) and total failure (F). The system is observed at suitable regenerative epochs in order to obtain various economics related measures of system effectiveness. Explicit results are obtained in a particular case.

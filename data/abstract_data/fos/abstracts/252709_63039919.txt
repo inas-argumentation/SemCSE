@@ -1,0 +1,2 @@
+Design and Implementation of Permission Management System Based on RBAC and SSH
+The model RBAC solves the complex permission management problem. The popular J2EE framework SSH provides a flexible platform for RBAC. Describes and properly improves the fundamentals of RBAC model. In a concrete project, based on SSH, realizes RBAC and establishes a favorable permission management system by using the IoC container of Spring and Filter. It gets excellent results.

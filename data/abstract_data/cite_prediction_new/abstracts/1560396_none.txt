@@ -1,0 +1,2 @@
+Carrier-based modulation of non-square multi-phase AC-AC matrix converters
+This paper sets forth the process for the determination of the expressions for the modulation signals required to generate the switching pulses for non-square AC-AC matrix converters. Using the 5 × 3 matrix converter as an example, the converter model is set forth and computer simulation results are presented to demonstrate the possibility of unity input power factor operation and generation of desired output three-phase balanced voltages.

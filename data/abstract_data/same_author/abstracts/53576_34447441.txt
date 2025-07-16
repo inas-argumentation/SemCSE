@@ -1,0 +1,2 @@
+Asymptotic bounds for some bipartite graph: complete graph Ramsey numbers
+Abstract The Ramsey number r(H,Kn) is the smallest integer N so that each graph on N vertices that fails to contain H as a subgraph has independence number at least n. It is shown that r(K 2,m ,K n )⩽(m−1+ o (1))(n/ log n) 2 and r(C 2m ,K n )⩽c(n/ log n) m/(m−1) for m fixed and n→∞. Also r(K 2,n ,K n )=Θ(n 3 / log 2 n) and r(C 5 ,K n )⩽cn 3/2 / log n .

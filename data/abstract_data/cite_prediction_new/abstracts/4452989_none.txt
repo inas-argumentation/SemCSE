@@ -1,0 +1,2 @@
+A routing protocol with integrated routing metric for multi-channel wireless sensor networks
+In this paper we propose a routing protocol with integrated routing metric for multi-channel wireless sensor networks. We improve the existing multi-channel AODV protocol to adapt to multi-channel wireless sensor networks. We consider link cost and the delivery cost of remaining energy in route selection. The simulation results show that, we can increase the network lifetime using the integrated routing metric.

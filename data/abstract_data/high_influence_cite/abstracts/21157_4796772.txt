@@ -1,0 +1,3 @@
+Joint asymptotics for estimating the fractal indices of bivariate Gaussian processes
+Multivariate (or vector-valued) processes are important for modeling multiple variables. The fractal indices of the components of the underlying multivariate process play a key role in characterizing the dependence structures and statistical properties of the multivariate process. 
+In this paper, under the infill asymptotics framework, we establish joint asymptotic results for the increment-based estimators of bivariate fractal indices. Our main results quantitatively describe the effect of the cross-dependence structure on the performance of the estimators.

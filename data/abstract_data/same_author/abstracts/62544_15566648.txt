@@ -1,0 +1,2 @@
+A performance study of an object-oriented, parallel operating system
+The nascent and rapidly evolving state of parallel systems often leaves parallel application developers at the mercy of inefficient, inflexible operating system software. To assess the feasibility of performance tuning via malleable system software and to understand the performance penalties for detailed operating system performance data capture, we describe a set of performance experiments with Choices, an experimental, object-oriented operating system designed for use with parallel systems.<<ETX>>

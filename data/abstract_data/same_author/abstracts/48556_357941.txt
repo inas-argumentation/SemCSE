@@ -1,0 +1,2 @@
+A comparison of hashing schemes for address lookup in computer networks
+Using a trace of address references, the author compares the efficiency of several different hashing functions such as cyclic redundancy checking polynomials, Fletcher checksum, folding of address octets using the exclusive-OR operation, and bit extraction from the address. Guidelines are provided for determining the size of hash masks required to achieve a specified level of performance. >

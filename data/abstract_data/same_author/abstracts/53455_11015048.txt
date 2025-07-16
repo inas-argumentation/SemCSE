@@ -1,0 +1,2 @@
+Centers of sets of pixels
+Abstract The center of a connected graph G is the set of nodes of G for which the maximum distance to any other node of G is as small as possible. If G is a simply connected set of lattice points (“pixels”) with graph structure defined by 4-neighbor adjacency, we show that the center of G is either a 2×2 square block, a diagonal staircase, or a (dotted) diagonal line with no gaps.

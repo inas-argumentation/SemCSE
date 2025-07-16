@@ -1,0 +1,2 @@
+Deep Reinforcement Learning for Magnetotelluric Data Inversion
+Summary The conventional magnetotelluric (MT) inversions rely heavily on the initial model. In order to solve this problem, based on deep reinforcement learning, we propose in this paper an inversion method by deep Q network. This method learns by continuously making mistakes in the sample space and finds the target solution. Numerical experiments show that the inversion result is better than the traditional inversion method and is less dependent of the initial model.

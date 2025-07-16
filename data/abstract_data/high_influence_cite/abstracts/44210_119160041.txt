@@ -1,0 +1,2 @@
+Lattice Integrals of Motion of the Ising Model on the Strip
+We consider the 2D critical Ising model on a strip with fixed boundary conditions. It is shown that for a suitable reparametrization of the known Boltzmann weights the transfer matrix becomes a polynomial in the variable $$\csc (4u)$$csc(4u), being $$u$$u the spectral parameter. The coefficients of this polynomial are decomposed on the fixed boundaries Temperley–Lieb Algebra by introducing a lattice version of the local integrals of motion.

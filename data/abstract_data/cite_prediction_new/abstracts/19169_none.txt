@@ -1,0 +1,2 @@
+A simple rule for spike-timing-dependent plasticity: local influence of AHP current
+A classical Hebbian learning rule was adapted to produce spike-timing-dependent plasticity. The shape of the plasticity curve for this rule is shown to depend on local mechanisms such as the strength and length of afterhyperpolarization of the postsynaptic cell. The suggested rule can serve as a good approximation for network models that use simplified dynamics of membrane currents.

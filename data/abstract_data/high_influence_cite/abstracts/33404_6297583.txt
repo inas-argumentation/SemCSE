@@ -1,0 +1,15 @@
+Population pharmacokinetics of human antithrombin concentrate in paediatric patients
+AIMS
+Antithrombin is increasingly used in paediatric patients, yet there are few age-specific pharmacokinetic data to guide dosing. We aimed to describe the pharmacokinetic profile of human (plasma-derived) antithrombin concentrate in paediatric patients.
+
+
+METHODS
+A 5-year retrospective review was performed of patients <19 years of age admitted to our institution who received antithrombin concentrate, were not on mechanical circulatory support and had baseline (predose) and postdose plasma antithrombin activity levels available for analysis. Demographic and laboratory variables, antithrombin dosing information and data on the use of continuous infusion unfractionated heparin were collected. Population pharmacokinetic analysis was performed with bootstrap analysis. The model developed was tested against a validation dataset from a cohort of similar patients, and a predictive value was calculated.
+
+
+RESULTS
+A total 184 patients met the study criteria {46.7% male, median age [years] 0.35 [interquartile range (IQR) 0.07-3.9]}. A median of two antithrombin doses (IQR 1-4) were given to patients (at a dose of 46.3 ± 13.6 units kg-1 ), with median of three (IQR 2-7) postdose levels per patient. Continuous infusion unfractionated heparin was administered in 87.5% of patients, at a mean dose of 34.1 ± 22.7 units kg-1 h-1 . A one-compartment exponential error model best fit the data, and significant covariates included allometrically scaled weight on clearance and volume of distribution, unfractionated heparin dose on clearance, and baseline antithrombin activity level on volume of distribution. The model resulted in a median -1.75% prediction error (IQR -11.75% to 6.5%) when applied to the validation dataset (n = 30).
+
+
+CONCLUSIONS
+Antithrombin pharmacokinetics are significantly influenced by the concurrent use of unfractionated heparin and baseline antithrombin activity.

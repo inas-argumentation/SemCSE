@@ -1,0 +1,2 @@
+Physical design of 100 MeV electron linac
+The main part of the 100 MeV electron linac consists of a thermionic electron gun,a bunching system and 4 SLAC type accelerating tubes.The bunching system and the accelerating tubes are fed by a 45 MW S-band microwave power source.The beam dynamics of the linac is studied and optimized using several beam dynamics simulation programs.After optimization,the beam energy,energy spread and the normalized emittance is designed to be greater than 100 MeV,less than 1% and 30 mm·mrad,respectively.

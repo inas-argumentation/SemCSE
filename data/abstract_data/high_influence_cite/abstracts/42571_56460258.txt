@@ -1,0 +1,2 @@
+Semi-adaptive, convex optimisation methodology for image denoising
+An optimisation methodology based on a semi-adaptive, convex (SAC) formulation for the image denoising problem is proposed for recovering both sharp edges and smooth subsurfaces from a given noisy image. Basic steps to realise an image denoising algorithm with proper restoration properties and practical computational efficiency with automatic determination of free parameters are described. A set of example images is used to illustrate the proposed approach.

@@ -1,0 +1,2 @@
+A Machine Learning Approach to Musical Style Recognition
+Much of the work on perception and understanding of music by computers has focused on low-level ::: perceptual features such as pitch and tempo. Our work demonstrates that machine learning can be ::: used to build effective style classifiers for interactive performance systems. We also present an analysis explaining why these techniques work so well when hand-coded approaches have consistently ::: failed. We also describe a reliable real-time performance style classifier.

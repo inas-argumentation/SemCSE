@@ -1,0 +1,2 @@
+Polynomial Time Productivity, Approximations, and Levelability
+This paper studies polynomial-time approximations to intractable sets using the concept of p-productivity. It is shown that every (deterministic and nondeterministic) superpolynomial-time computable p-productive set is p-levelable. All $ \leq _m^p $-complete sets for any deterministic superpolynomial time class are shown to be p-productive. It is then shown that the complement of any honest k-creative set in NP is p-levelable. This settles an open problem in Homer [Theoret. Comput. Sci., 47 (1986), pp. 169–180].

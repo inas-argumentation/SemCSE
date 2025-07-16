@@ -1,0 +1,15 @@
+Breast lesions: diagnosis by using proton MR spectroscopy at 1.5 and 3.0 T--systematic review and meta-analysis.
+PURPOSE
+To perform a systematic review and meta-analysis to estimate the diagnostic performance of breast proton magnetic resonance (MR) spectroscopy in differentiating benign from malignant lesions and to identify variables that influence the accuracy of MR spectroscopy.
+
+
+MATERIALS AND METHODS
+A comprehensive search of the PubMed database was performed on articles listed until January 6, 2012. The Medical Subject Headings and text words for the terms "breast," "spectroscopy," and "magnetic resonance" were used. Investigations including more than 10 patients at 1.5 T or 3.0 T applying one-dimensional single-voxel MR spectroscopy or spatially resolved MR spectroscopy for differentiation between benign and malignant breast lesions were eligible. A reference standard had to be established either by means of histopathologic examination or imaging follow-up of 12 or more months. Statistical analysis included pooling of diagnostic accuracy, control for data inhomogeneity, and identification of publication bias.
+
+
+RESULTS
+Nineteen studies were used for general data pooling. The studies included a total of 1183 patients and 1198 lesions (773 malignant, 452 benign). Pooled sensitivity and specificity were 73% (556 of 761; 95% confidence interval [CI]: 64%, 82%) and 88% (386 of 439; 95% CI: 85%, 91%), respectively. The pooled diagnostic odds ratio (DOR) was 34.30 (95% CI: 16.71, 70.43). For breast cancers versus benign lesions, the area under the symmetric summary receiver operating characteristic curve of MR spectroscopy was 0.88, and the Q* index was 0.81. There was evidence of between-studies heterogeneity regarding sensitivity and DOR (P < .0001). No significant influences of higher field strength, postcontrast acquisition, or qualitative versus quantitative MR spectroscopy measurements were identified. Egger testing confirmed significant publication bias in studies including small numbers of patients (P < .0001).
+
+
+CONCLUSION
+Breast MR spectroscopy shows variable sensitivity and high specificity in the diagnosis of breast lesions, independent from the technical MR spectroscopy approach. Because of significant publication bias, pooled diagnostic measures might be overestimated.

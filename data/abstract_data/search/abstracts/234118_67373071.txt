@@ -1,0 +1,2 @@
+Control of autonomous ground vehicles: a brief technical review
+This paper presents a brief review of the developments achieved in autonomous vehicle systems technology. A concise history of autonomous driver assistance systems is presented, followed by a review of current state of the art sensor technology used in autonomous vehicles. Standard sensor fusion method that has been recently explored is discussed. Finally, advances in embedded software methodologies that define the logic between sensory information and actuation decisions are reviewed.

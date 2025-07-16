@@ -1,0 +1,2 @@
+Integral Formulation and Genetic Algorithms for Defects Geometry Reconstruction Using Pulse Eddy Currents
+A method for reconstruction of zero-thickness defects, buried deep under material surface, using pulse eddy currents, is proposed. Both an integral-FEM method for simulation of transient eddy-currents and genetic algorithms, as a model-free inversion technique, are proposed. Numerical results for the inversion of the eddy-currents signals, using genetic algorithms, are shown.

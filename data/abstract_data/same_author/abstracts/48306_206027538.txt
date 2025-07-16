@@ -1,0 +1,2 @@
+A coloring problem on the n-cube
+Abstract In this paper, we consider a coloring problem on the n-cube that arises in the study of scalability of optical networks. Let χ k (n) be the minimum number of colors needed to color the vertices of the n-cube so that every two vertices with Hamming distance ⩽k have different colors. We show that for k=3, 2n⩽χ 3 (n)⩽2 ⌈ log 2 n⌉+1 . We also provide upper and lower bounds on χ k (n) for general k.

@@ -1,0 +1,2 @@
+Reliability in the utility computing era: Towards reliable Fog computing
+This paper considers current paradigms in computing and outlines the most important aspects concerning their reliability. The Fog computing paradigm as a non-trivial extension of the Cloud is considered and the reliability of the networks of smart devices are discussed. Combining the reliability requirements of grid and cloud paradigms with the reliability requirements of networks of sensor and actuators it follows that designing a reliable Fog computing platform is feasible.

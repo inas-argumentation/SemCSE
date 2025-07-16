@@ -1,0 +1,28 @@
+Modeling soil organic carbon dynamics in temperate forests with Yasso07
+Abstract. In a context of global changes, modeling and predicting the
+dynamics of soil carbon stocks (CSs) in forest ecosystems are vital but challenging.
+Yasso07 is considered to be one of the most promising models for such a purpose. We
+examine the accuracy of its prediction of soil carbon dynamics over the whole
+French metropolitan territory at a decennial timescale. We used data from 101 sites in the RENECOFOR network, which encompasses most
+of the French temperate forests. These data include (i) the quantity of
+above-ground litterfall from 1994 to 2008, measured yearly, and (ii) the soil
+CSs measured twice at an interval of approximately 15 years (once
+in the early 1990s and around 2010). We used Yasso07 to simulate the annual
+changes in carbon stocks (ACCs; in tC ha−1 yr−1) for each site and then
+compared the estimates with actual recorded data. We carried out
+meta-analyses to reveal the variability in litter biochemistry in different
+tree organs for conifers and broadleaves. We also performed sensitivity
+analyses to explore Yasso07's sensitivity to annual litter inputs and model
+initialization settings. At the national level, the simulated ACCs
+(+0.00±0.07 tC ha−1 yr−1, mean ± SE) were of the same
+order of magnitude as the observed ones (+0.34±0.06 tC ha−1 yr−1). However, the correlation between predicted
+and measured ACCs remained weak (R2<0.1). There was significant
+overestimation for broadleaved stands and underestimation for coniferous
+sites. Sensitivity analyses showed that the final estimated CS was
+strongly affected by settings in the model initialization, including litter
+and soil carbon quantity and quality and also by simulation length. Carbon
+quality set with the partial steady-state assumption gave a better fit than
+the model with the complete steady-state assumption. With Yasso07 as the support model, we showed that there is currently a
+bottleneck in soil carbon modeling and prediction due to a lack of
+knowledge or data on soil carbon quality and fine-root quantity in the
+litter.

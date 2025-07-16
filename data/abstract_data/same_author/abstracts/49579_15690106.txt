@@ -1,0 +1,2 @@
+Genetic Search For Fixed Channel Assignment Problem With Limited Bandwidth
+We propose a hybrid genetic algorithm for the fixed channel assignment problem with limited bandwidth. A local optimization algorithm was devised to enhance the genetic algorithm's fine-tunning. In a matrix representation, the local optimization algorithm improves on a chromosome by horizontal and vertical moves of channels. The crossover is directly performed on two-dimensional matrices. Experimental results showed dramatic improvement against previous works.

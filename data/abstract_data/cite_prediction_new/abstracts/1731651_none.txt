@@ -1,0 +1,22 @@
+Controlling the Velocity of Brownian Motion by its Terminal Value
+Let V = (V t ) t≥0 be the Ornstein-Uhlenbeck velocity process solving 
+
+$$d{V_t} = - \beta {V_t} + \sigma d{B_t} $$
+
+with V 0 = 0, where β ≥0, σ ≥ 0 and B = (B t ) t≥0 is a standard Brownian motion. Then the following inequality is satisfied: 
+
+$$E\left( {\begin{array}{*{20}{c}}{\max \left| {{V_t}} \right|} \\ {0 \leqslant t \leqslant r} \end{array}} \right) \leqslant {s_ * }\left( {\kappa {\text{;}}\beta ,\sigma } \right) + \frac{\kappa }{\beta }E\left( {{e^{\left( {\beta {\text{/}}{\sigma ^2}} \right)V\begin{array}{*{20}{c}} 2 \\ \tau \end{array}}} - 1} \right)$$
+
+for all bounded stopping times τ of V and all κ > 0, where s*(κ;γ,σ) > 0 is the unique zero point of the maximal solution of the equation 
+
+$${y^1} = \frac{{{\sigma ^2}}}{{2\kappa \int_y^x {{e^{\left( {\beta {\text{/}}{\sigma ^2}} \right)}}^{{x^2}{\text{ }}dz}} }}$$
+
+staying strictly below the diagonal in ℝ2. This inequality is sharp, and equality can be attained for each κ > 0. The following estimate is established: 
+
+$${s_{\text{*}}}\left( {\kappa {\text{;}}\beta ,\sigma } \right) \leqslant \frac{\sigma }{{\sqrt \beta }}{\psi ^{ - 1}}\left( {\frac{{\sqrt {\beta \sigma } }}{{2\kappa }}} \right)$$
+
+where \(\psi \left( x \right) = \int_0^x {{e^{{x^2}}}dz}\) . In particular, this yield the existence of a universal constant \(C \geqslant \sqrt 2\) such that 
+
+$$E\left( {\begin{array}{*{20}{c}} {\max {\text{ }}\left| {{V_t}} \right|} \\ {0 \leqslant t \leqslant \tau } \end{array}} \right) \leqslant C\frac{\sigma }{{\sqrt \beta }}\sqrt {\log E\left( {{e^{\left( {\beta {\text{/}}{\sigma ^2}} \right)V\begin{array}{*{20}{c}}2 \\\tau \end{array}}}} \right)}$$
+
+for all stopping times τ of V for which \(({e^{(\beta /{\sigma ^2})V_{\tau \wedge t}^2}})t \geqslant 0\) is uniformly integrable. This inequality shows that the question of controlling the velocity of Brownian motion by its terminal value can be answered positively. Better versions of this inequality are also derived which go beyond the best value for C.

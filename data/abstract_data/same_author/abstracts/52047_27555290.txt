@@ -1,0 +1,2 @@
+Constructing Homogeneous Factorisations of Complete Graphs and Digraphs
+Abstract. A homogeneous factorisation of a complete graph Kn is a partition of the edge set that is invariant under a subgroup G of Sn such that G is transitive on the parts of the partition and induces a vertex-transitive automorphism group on the graph corresponding to each part. A product construction is given for such factorisations.

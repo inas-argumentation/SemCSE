@@ -1,0 +1,2 @@
+Accelerated lifetime test of RF-MEMS switches under ESD stress
+This paper presents the results of a study on issues of reliability and accelerated life testing for radio frequency micro-electromechanical system (RF-MEMS) capacitive devices. A human-body-model electrostatic discharge tester has been used to induce charging by operating at stress levels much higher than would be expected in normal use. Temperature ranges from 300 K to 330 K allows the understanding of physical mechanisms that may be responsible for the device’s reliability.

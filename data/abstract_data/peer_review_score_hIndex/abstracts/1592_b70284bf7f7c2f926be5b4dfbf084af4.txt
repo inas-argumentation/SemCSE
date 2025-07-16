@@ -1,0 +1,16 @@
+EXPLORING VULNERABILITIES OF BERT-BASED APIS
+Natural language processing (NLP) tasks, ranging from text classification to text
+generation, have been revolutionised by pretrained BERT models. This allows
+corporations to easily build powerful APIs by encapsulating fine-tuned BERT
+models. These BERT-based APIs are often designed to not only provide reliable
+service but also protect intellectual properties or privacy-sensitive information of
+the training data. However, a series of privacy and robustness issues may still exist
+when a fine-tuned BERT model is deployed as a service. In this work, we first
+present an effective model extraction attack, where the adversary can practically
+steal a BERT-based API (the target/victim model). We then demonstrate: (1)
+how the extracted model can be further exploited to develop effective attribute
+inference attack to expose sensitive information of the training data of the victim
+model; (2) how the extracted model can lead to highly transferable adversarial
+attacks against the victim model. Extensive experiments on multiple benchmark
+datasets under various realistic settings validate the potential privacy and adversarial
+vulnerabilities of BERT-based APIs.

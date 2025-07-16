@@ -1,0 +1,2 @@
+Level-set based geometric colour snake with region support
+A novel method is introduced to force a geometric-based snake be more tolerant towards weak edges and noise in images. The method integrates gradient flow forces with region constraints obtained from diffused region segmentation forces. The diffusion is obtained from the region map vector flow field. This extra region force gives the snake a global view of the boundary information within the image. We present results on both graylevel and colour images.

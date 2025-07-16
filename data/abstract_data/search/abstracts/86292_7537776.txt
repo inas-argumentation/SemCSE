@@ -1,0 +1,2 @@
+Constant Composition Distribution Matching
+Distribution matching transforms independent and Bernoulli(1/2) distributed input bits into a sequence of output symbols with a desired distribution. Fixed to fixed length, invertible, and low complexity encoders and decoders based on constant composition and arithmetic coding are presented. The encoder achieves the maximum rate, namely, the entropy of the desired distribution, asymptotically in the blocklength. Furthermore, the normalized divergence of the encoder output and the desired distribution goes to zero in the blocklength.

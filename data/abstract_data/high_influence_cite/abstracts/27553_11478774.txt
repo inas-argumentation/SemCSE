@@ -1,0 +1,2 @@
+Massively-Parallel Molecular Dynamics Simulation of Clathrate Hydrates on Blue Gene Platforms
+Massively-parallel classical equilibrium molecular dynamics (MD) simulations have been performed to investigate the computational performance of the Simple Point Charge (SPC) model and single-particle model of Molinero et al. applied to simulation of methane hydrates, using systems consisting of several million particles, on a variety of Blue Gene/L, P and Q platforms. It was found that the newer Blue Gene/Q platform offers attractive performance for massively-parallel simulation.

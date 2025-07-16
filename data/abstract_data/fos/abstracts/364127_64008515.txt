@@ -1,0 +1,2 @@
+Transmiting Data between Heterogeneous Data Sources by XML
+In this pager, a method that uses medi-data source to transmit heterogeneous data sources is suggested. It also discusses how to transmit data between a database and XML document,how to generate XML document, how to write data into XML document are presented .

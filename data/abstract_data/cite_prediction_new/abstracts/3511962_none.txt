@@ -1,0 +1,2 @@
+Performance Analysis and Optimal Control of an M/M/1/k Queueing System with Impatient Customers
+A simple M/M/1/k queue with impatient customers is presented as a model for communications systems operating under overload conditions. The performance analysis and optimal control problem for this model are discussed. An efficient algorithm for computing the optimal control is presented along with numerical results.

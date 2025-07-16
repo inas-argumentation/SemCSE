@@ -1,0 +1,2 @@
+Simplified thermodynamic description of mixtures and solutions
+A simplified thermodynamic model for mixtures and solutions is presented. The excess functions of both electrolyte and non-electrolyte mixtures and solutions are described by 11 coefficients. Ten sub-routines for computer calculations are derived. This simplified description allows a first thermodynamic selection to be made from many potential working pairs for an absorption cycle.

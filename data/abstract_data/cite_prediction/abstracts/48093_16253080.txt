@@ -1,0 +1,2 @@
+FPGA implementation of an embedded face detection system based on LEON 3
+This paper presents an FPGA face detection embedded system. In order achieve acceleration in the face detection process a hardware-software codesign technique is proposed. The paper describes the face detection acceleration mechanism. It also describes the implementation of an IP module that allows hardware acceleration.

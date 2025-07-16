@@ -1,0 +1,12 @@
+DMSANET: DUAL MULTI SCALE ATTENTION NETWORK
+Attention mechanism of late has been quite popular in the computer vision community. A lot of work has been done to improve the performance of the network,
+although almost always it results in increased computational complexity. In this paper, we propose a new attention module that not only achieves the best performance
+but also has lesser parameters compared to most existing models. Our attention
+module can easily be integrated with other convolutional neural networks because
+of its lightweight nature. The proposed network named Dual Multi Scale Attention
+Network (DMSANet) is comprised of two parts: the first part is used to extract
+features at various scales and aggregate them, the second part uses spatial and
+channel attention modules in parallel to adaptively integrate local features with
+their global dependencies. We benchmark our network performance for Image
+Classification on ImageNet dataset, Object Detection and Instance Segmentation
+both on MS COCO dataset.

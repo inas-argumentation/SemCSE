@@ -1,0 +1,2 @@
+Study of fast MFIE for closed-surface target scattering in antenna system
+A fast Coiflet based magnetic field integral equation (MFIE) is presented for closed surface scattering problems. The vanishing moment property of Coiflets greatly reduces the matrix filling effort from 0(N2) to 0(N). And the standard fast wavelet transform (SFWT) further compresses the matrix with well maintained precision. Numerical results are compared with the RWG-FLFMA based commercial software FEKO and the standard Coiflet method. Good agreement has been observed.

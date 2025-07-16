@@ -1,0 +1,6 @@
+Adaptive Security in Broadcast Encryption Systems (with Short Ciphertexts)
+We present new techniques for achieving adaptive security in broadcast encryption systems. Previous work on fully collusion resistant broadcast encryption systems with very short ciphertexts was limited to considering only static security. 
+ 
+First, we present a new definition of security that we call semi-static security and show a generic "two-key" transformation from semi-statically secure systems to adaptively secure systems that have comparable-size ciphertexts. Using bilinear maps, we then construct broadcast encryption systems that are semi-statically secure in the standard model and have constant-size ciphertexts. Our semi-static constructions work when the number of indices or identifiers in the system is polynomial in the security parameter. 
+ 
+For identity-based broadcast encryption, where the number of potential indices or identifiers may be exponential, we present the first adaptively secure system with sublinear ciphertexts. We prove security in the standard model.

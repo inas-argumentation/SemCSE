@@ -1,0 +1,2 @@
+Heuristic Confidence Intervals for the Gamma Test
+The Gamma test is a fast non-parametric algorithm for estimating the noise variance in an input/output dataset modulo the best smooth model. In this short note we communicate a heuristic method for computing confidence intervals for the noise estimate returned by a Gamma test analysis.

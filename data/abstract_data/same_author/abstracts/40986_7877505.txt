@@ -1,0 +1,2 @@
+Three forbidden subgraphs for line graphs
+We construct a set of three graphs with the property that a 3-connected graph with minimum degree at least 7 is a line graph if and only if it does not contain any of the three graphs as an induced subgraph. We also show that the number of excluded subgraphs cannot be reduced no matter what connectivity is specified.

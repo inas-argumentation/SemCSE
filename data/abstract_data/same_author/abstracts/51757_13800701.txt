@@ -1,0 +1,2 @@
+A metric entropy bound is not sufficient for learnability
+The authors prove by means of a counterexample that it is not sufficient, for probably approximately correct (PAC) learning under a class of distributions, to have a uniform bound on the metric entropy of the class of concepts to be learned. This settles a conjecture of Benedek and Itai (1991). >

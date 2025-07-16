@@ -1,0 +1,2 @@
+An abstraction for awareness management in collaborative virtual environments
+This paper describes an object-oriented abstraction for the problem of awareness management in Collaborative Virtual Environments (CVEs). The described abstraction allows for different types of awareness information and awareness management policies to be used. It is also described how the defined abstraction was used to support the awareness management policies of two demo CVEs application.

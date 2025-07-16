@@ -1,0 +1,2 @@
+Model Checking Succinct and Parametric One-Counter Automata
+We investigate the decidability and complexity of various model checking problems over one-counter automata. More specifically, we consider succinct one-counter automata, in which additive updates are encoded in binary, as well as parametric one-counter automata, in which additive updates may be given as unspecified parameters. We fully determine the complexity of model checking these automata against CTL, LTL, and modal µ-calculus specifications.

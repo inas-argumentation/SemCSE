@@ -1,0 +1,2 @@
+Path Integral Methods for Soft Gluon Resummation
+We describe a new framework for soft gluon resummation, based on path integral methods. The approach recovers previous results obtained in the eikonal approximation, in which all emitted gluons become soft. Furthermore, a clear physical interpretation allows straightforward extension of the framework to beyond the eikonal approximation, and we use this to classify the structure of next-to-eikonal corrections to matrix elements.

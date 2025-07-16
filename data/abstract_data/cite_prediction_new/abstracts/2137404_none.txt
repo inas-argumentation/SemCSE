@@ -1,0 +1,2 @@
+A 12 mV start-up converter using piezoelectric transformer for energy harvesting applications
+This paper presents a novel topology of start-up converter for sub 100 mV thermal energy harvesting based on an Armstrong oscillator topology using a piezoelectric transformer (PT) and a normally-on MOSFET. Based on a Rosen-type PT and off-the-shelf components, the proposed startup topology begins to oscillate at 12 mV input voltage corresponding to a temperature gradient of 2°C and achieves 1 V output voltage with only 18 mV input voltage applied to the harvester.

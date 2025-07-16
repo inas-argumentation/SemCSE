@@ -1,0 +1,2 @@
+Interaction techniques for 3D modeling on large displays
+We present an alternate interface for 3D modeling for use on large scale displays. The interface integrates several concepts specifically selected and enhanced for large scale interaction. These include 2D construction planes spatially integrated in a 3D volume, enhanced orthographic views, smooth transitions between 2D and 3D views, tape drawing as the primary curve and line creation technique, visual viewpoint markers, and continuous twohanded interaction.

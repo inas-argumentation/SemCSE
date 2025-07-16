@@ -1,0 +1,2 @@
+ID based transitive signature schemes without random oracle
+Based on waters' signature scheme,the first identity based transitive signature scheme was proposed and proved secure against attacks in the standard model.Compared with current transitive signature schemes,the unforgeability of the signature's transitivity of the proposed scheme was reduced to the CDH assumption based on the bilinear pairing.A complexity analysis of the proposed scheme was thereafter presented.

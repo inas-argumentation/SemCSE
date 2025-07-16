@@ -1,0 +1,20 @@
+On Learning Heteroscedastic Noise Models within Differentiable Bayes Filters
+In many robotic applications, it is crucial to maintain a belief about the state of 
+a system, like the location of a robot or the pose of an object.
+These state estimates serve as input for planning and decision making and 
+provide feedback during task execution. 
+Recursive Bayesian Filtering algorithms address the state estimation problem,
+but they require a model of the process dynamics and the sensory observations as well as 
+noise estimates that quantify the accuracy of these models. 
+Recently, multiple works have demonstrated that the process and sensor models can be 
+learned by end-to-end training through differentiable versions of Recursive Filtering methods.
+However, even if the predictive models are known, finding suitable noise models 
+remains challenging. Therefore, many practical applications rely on very simplistic noise 
+models. 
+Our hypothesis is that end-to-end training through differentiable Bayesian 
+Filters enables us to learn more complex heteroscedastic noise models for
+the system dynamics. We evaluate learning such models with different types of 
+filtering algorithms and on two different robotic tasks. Our experiments show that especially 
+for sampling-based filters like the Particle Filter, learning heteroscedastic noise 
+models can drastically improve the tracking performance in comparison to using 
+constant noise models.

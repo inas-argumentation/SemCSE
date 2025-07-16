@@ -1,0 +1,2 @@
+Single-structure 3-axis lorentz force magnetometer with sub-30 nT/√HZ resolution
+This work demonstrates a 3-axis Lorentz force magnetometer for electronic compass purposes. The magnetometer measures magnetic flux in 3 axes using a single structure. With 1 mW power consumption, the sensor achieves sub-30 nT/√Hz resolution in each of the 3 axes. Compared to the 3-axis Hall sensors currently used in smartphones, the 3-axis magnetometer shown here has the advantages of 10× lower noise floor and the ability to be co-fabricated with MEMS inertial sensors.

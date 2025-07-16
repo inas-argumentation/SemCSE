@@ -1,0 +1,2 @@
+Efficient encryption of wavelet-based coded color images
+An efficient, secure color image coder incorporating Color-SPIHT (C-SPIHT) compression and partial encryption is presented. Confidentiality of the image data is achieved by encrypting only the significance bits of individual wavelet coefficients for K iterations of the C-SPIHT algorithm. By varying K, the level of confidentiality vs. processing overhead can be controlled. For K=2, adequate security is achieved and an average of only 0.40% of bits needed encrypting for test images coded at 0.8bpp.

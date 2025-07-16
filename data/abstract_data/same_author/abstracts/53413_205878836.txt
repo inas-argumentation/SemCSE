@@ -1,0 +1,2 @@
+A generalization of fan's condition and forbidden subgraph conditions for hamiltonicity
+Let G be a 2-connected graph with n vertices and H be an induced subgraph of G. Denote V0 ≔ {v ϵ V(G): d(v) ⩾ n/2}. If there exists a pair of vertices x and y at distance 2 in H such that {x, y} ⊆ V(H)βV0, then H is called degree light. Let F be the unique graph with degree sequence (1, 1, 1, 3, 3, 3). In this paper, we prove that if G contains no degree light K1, 3 and every degree light F of G contains no induced P4 of G − V0, then G is hamiltonian.

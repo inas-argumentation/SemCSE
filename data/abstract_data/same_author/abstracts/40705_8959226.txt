@@ -1,0 +1,2 @@
+Low-Discrepancy Sets For High-Dimensional Rectangles: A Survey
+A sub-area of discrepancy theory that has received much attention in computer science recently, is that of explicit constructions of low-discrepancy point sets for various types of rectangle families in high dimension. This research has led to interesting applications in error-control coding, distributed protocols, Web document filtering, derandomization, and other areas. We give a short survey of this area here.

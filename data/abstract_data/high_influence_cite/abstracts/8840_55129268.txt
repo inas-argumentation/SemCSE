@@ -1,0 +1,2 @@
+Long time behavior of the Fokker-Planck-Boltzmann equation with soft potential
+In the present paper, we consider the initial value problem for the FokkerPlanck-Boltzmann equation with soft potential. For initial data near an absolute Maxwellian, we show the global existence and uniqueness of the classical solution and establish its long time decay rate.

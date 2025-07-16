@@ -1,0 +1,2 @@
+A Goal Method for Conceptual Data Warehouse Design
+In this paper, we present a goal-oriented method for DW analysis requirements. This paper shows how goal modelling contributes to a logical scoping and analysis of the application domain to elicit the information requirements, from which the conceptual multidimensional schema is derived.

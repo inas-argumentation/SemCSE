@@ -1,0 +1,28 @@
+Unraveling hydrometeor mixtures in polarimetric radar measurements
+Abstract. Radar-based hydrometeor classification typically comes down
+to determining the dominant type of hydrometeor populating a given radar
+sampling volume. In this paper we address the subsequent problem of inferring
+the secondary hydrometeor types present in a volume – the issue of
+hydrometeor de-mixing. The present study relies on the semi-supervised
+hydrometeor classification proposed by Besic et al. ( 2016 ) but nevertheless
+results in solutions and conclusions of a more general character and
+applicability. In the first part, oriented towards synthesis, a bin-based
+de-mixing approach is proposed, inspired by the conventional coherent and
+linear decomposition methods widely employed across different remote-sensing
+disciplines. Intrinsically related to the concept of entropy, introduced in
+the context of the radar hydrometeor classification in Besic et al. ( 2016 ) , the
+proposed method, based on the hypothesis of the reduced random interferences
+of backscattered signals, estimates the proportions of different hydrometeor
+types in a given radar sampling volume, without considering the neighboring
+spatial context. Plausibility and performances of the method are evaluated
+using C- and X-band radar measurements, compared with hydrometeor properties
+derived from a Multi-Angle Snowflake Camera instrument. In the second part,
+we examine the influence of the potential residual random interference
+contribution in the backscattering from different hydrometeors populating a
+radar sampling volume. This part consists in adapting and testing the
+techniques commonly used in conventional incoherent decomposition methods to
+the context of weather radar polarimetry. The impact of the residual
+incoherency is found to be limited, justifying the hypothesis of the reduced
+random interferences even in a case of mixed volumes and confirming the
+applicability of the proposed bin-based approach, which essentially relies on
+first-order statistics.

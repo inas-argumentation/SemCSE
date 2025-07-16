@@ -1,0 +1,15 @@
+A knowledge-based quantitative approach to characterize treatment plan quality: application to prostate VMAT planning.
+PURPOSE
+To characterize treatment plan (TP) quality, a quantitative quality control (QC) tool is proposed. The tool is validated using Volumetric Modulated Arc Therapy (VMAT) plans for treatment of prostate cancer by estimating the achievable organ at risk (OAR) sparing, based on the knowledge learned from prior plans.
+
+
+METHODS
+Prostate TPs quality was investigated by evaluating the achieved OARs sparing, rectum and bladder, based on their proximity to target surface. The knowledge base used in this work comprises 450 plans, consisting of 181 homogenous prostate plans and 269 simultaneous integrated boost (SIB) prostate plans. A knowledge-based algorithm was used to relate the absorbed doses of the OARs (rectum and bladder) and their proximity to the planning target volume (PTV). A metric (Mq,r value) was calculated to characterize the OAR sparing based on the weighted differences of the mean doses at binned distances to the PTV surface. The 90% probability ellipse of the normally distributed OARs Mq,r values were considered to define a threshold above which the treatment plan was re-optimized.
+
+
+RESULTS
+Following re-optimization, 8/11 of the homogenous plans and 6/13 of the SIB plans outside the 90% probability ellipse were able to be re-optimized to gain better OARs sparing while achieving the same or better target coverage. However, 3/4 of the homogenous TPs and 1/9 of the SIB TPs between 80% - 90% were improved. Mq,r values of bladder and rectum after re-optimizing the plans in both groups of homogenous and SIB showed lower values after re-optimization compared to similar values before re-optimization, which implies better OARs sparing was achieved.
+
+
+CONCLUSIONS
+This work demonstrates an effective anatomy-specific QC tool for identifying sub-optimal plans and determining the achievable OAR sparing for each individual patient anatomy.

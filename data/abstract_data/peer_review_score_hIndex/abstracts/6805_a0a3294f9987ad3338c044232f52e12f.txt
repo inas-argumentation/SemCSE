@@ -1,0 +1,10 @@
+OBJECT DYNAMICS DISTILLATION FOR SCENE DECOMPOSITION AND REPRESENTATION
+The ability to perceive scenes in terms of abstract entities is crucial for us to
+achieve higher-level intelligence. Recently, several methods have been proposed
+to learn object-centric representations of scenes with multiple objects, yet most
+of which focus on static scenes. In this paper, we work on object dynamics and
+propose Object Dynamics Distillation Network (ODDN), a framework that distillates explicit object dynamics (e.g., velocity) from sequential static representations. ODDN also builds a relation module to model object interactions. We verify
+our approach on tasks of video reasoning and video prediction, which are two important evaluations for video understanding. The results show that the reasoning
+model with visual representations of ODDN performs better in answering reasoning questions around physical events in a video compared to the previous state-of-the-art methods. The distilled object dynamics also could be used to predict
+future video frames given two input frames, involving occlusion and objects collision. In addition, our architecture brings better segmentation quality and higher
+reconstruction accuracy.

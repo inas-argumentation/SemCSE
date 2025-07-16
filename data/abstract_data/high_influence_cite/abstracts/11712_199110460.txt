@@ -1,0 +1,9 @@
+On the uncertainty of initial condition and initialization approaches in variably saturated flow modeling
+Abstract. Soil water movement has direct effects on environment, agriculture and
+hydrology. Simulation of soil water movement requires accurate determination of model parameters as well as initial and boundary conditions. However, it is difficult to obtain the accurate initial soil moisture or matric potential profile at the beginning of simulation time, making it necessary to run the
+simulation model from the arbitrary initial condition until the uncertainty of
+the initial condition (UIC) diminishes, which is often known as “warming up”.
+In this paper, we compare two commonly used methods for quantifying the UIC
+(one is based on running a single simulation recursively across multiple
+hydrological years, and the other is based on Monte Carlo simulations with
+realization of various initial conditions) and identify the warm-up time twu (minimum time required to eliminate the UIC by warming up the model) required with different soil textures, meteorological conditions and soil profile lengths. Then we analyze the effects of different initial conditions on parameter estimation within two data assimilation frameworks (i.e., ensemble Kalman filter and iterative ensemble smoother) and assess several existing model initializing methods that use available data to retrieve the initial soil moisture profile. Our results reveal that Monte Carlo simulations and the recursive simulation over many years can both demonstrate the temporal behavior of the UIC, and a common threshold is recommended to determine twu. Moreover, the relationship between twu for variably saturated flow modeling and the model settings (soil textures, meteorological conditions and soil profile length) is quantitatively identified. In addition, we propose a warm-up period before assimilating data in order to obtain a better performance for parameter and state estimation.

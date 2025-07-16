@@ -1,0 +1,2 @@
+Analysis of the Linux Kernel Evolution Using Code Clone Coverage
+Most studies of the evolution of software systems are based on the comparison of simple software metrics. In this paper, we present our preliminary investigation of the evolution of the Linux kernel using code-clone analysis and the code-clone coverage metrics. We examined 136 versions of the stable Linux kernel using a distributed extension of the code clone detection tool CCFinder. The result is shown as a heat map.

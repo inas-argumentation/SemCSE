@@ -1,0 +1,2 @@
+Model checking hybrid logics (with an application to semistructured data)
+We investigate the complexity of the model checking problem for hybrid logics. We provide model checker algorithms for various hybrid fragments and we prove PSPACE-completeness for hybrid fragments including binders. We complement and motivate our complexity results with an application of model checking in hybrid logic to the problems of query and constraint evaluation for semistructured data.

@@ -1,0 +1,2 @@
+A class of perfect graphs containing P6
+Let P6 denote the induced path on six nodes. We prove that if a perfect graph G contains P6 as an induced subgraph but not two families introduced by Conforti and Cornuejols then G is bipartite or disconnected, or G has a star cutset.

@@ -1,0 +1,2 @@
+A monolithic MESFET transimpedance amplifier using active inductors
+A transimpedance amplilfier realised in 0.5 ¿m GaAs MESFET monolithic technology has been designed using the Alenia foundry process. The amplilfier features nearly 50 dBQ transimpedance gain and better than ¿14 dB output match in a 50 MHz ¿3.2 GHz band: this results have been achieved employing active inductors to reduce chip size and to improve the amplifier's performance.

@@ -1,0 +1,2 @@
+Comparison of EKF- and PF-based methods in tracking maneuvering targets
+In this paper we address the problem of tracking of a high-speed maneuvering target which moves along a two-dimensional space. We investigate and compare several approaches based on the Bayesian methodology and propose various strategies to cope with the two models that account for the different regimes of movement. The advantages and disadvantages of the considered algorithms are illustrated and discussed through computer simulations

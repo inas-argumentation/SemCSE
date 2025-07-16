@@ -1,0 +1,2 @@
+On the First Crossing of Two Boundaries by an Order Statistics Risk Process
+We derive a closed form expression for the probability that a non-decreasing, pure jump stochastic risk process with the order statistics (OS) property will not exit the strip between two non-decreasing, possibly discontinuous, time-dependent boundaries, within a finite time interval. The result yields new expressions for the ruin probability in the insurance and the dual risk models with dependence between the claim severities or capital gains respectively.

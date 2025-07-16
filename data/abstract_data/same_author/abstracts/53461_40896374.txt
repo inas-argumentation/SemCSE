@@ -1,0 +1,2 @@
+Qualitative description of camera motion from histograms of normal flow
+If we histogram the normal flow vectors in images of a scene viewed by a moving observer, we can use the time-varying histogram to derive qualitative information about the observer's motion-for example, whether it is (primarily) translational or rotational, and whether the direction of translation or axis of rotation is (roughly) parallel or perpendicular to the camera axis. This is illustrated using flow histogram obtained from a variety of real image sequences.

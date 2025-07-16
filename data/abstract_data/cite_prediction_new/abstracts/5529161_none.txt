@@ -1,0 +1,15 @@
+Joint modeling of concurrent binary outcomes in a longitudinal observational study using inverse probability of treatment weighting for treatment effect estimation.
+PURPOSE
+Correlated healthcare utilization outcomes may be encoded as binary outcomes in epidemiologic studies. We demonstrate how to account for correlation between concurrent binary outcomes and confounding by person characteristics when estimating a treatment effect in observational studies.
+
+
+METHODS
+We present a joint shared-parameter model, weighted by inverse probability of treatment weights (IPTW) to account for confounding. The model is evaluated in a simulation study that emulates the Medical Expenditure Panel Survey data and compared with a covariate-adjusted joint model and with separate outcome models (IPTW weighted and covariate adjusted).
+
+
+RESULTS
+For the IPTW-weighted joint model, relative bias in the estimated treatment effect on outcome 1 ranged from -0.057 to -0.033 and outcome 2 from -0.077 to -0.043. For the covariate-adjusted joint model, relative bias ranged from -0.010 to -0.083 for outcome 1 and from -0.087 to -0.110 for outcome 2. The covariate-adjusted joint model estimated the effect more closely than the covariate-adjusted separate model. The IPTW-weighted joint model estimated the effect more closely for outcome 1.
+
+
+CONCLUSIONS
+The IPTW-weighted joint model handles correlation between binary outcomes, adjusts for confounding, and estimates the treatment effect accurately in observational studies. We illustrate the contribution of person-specific effects in estimating personalized risk.

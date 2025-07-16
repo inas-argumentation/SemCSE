@@ -1,0 +1,2 @@
+A finite-step global convergence algorithm for the parameter estimation of multichannel MA processes
+An iterative algorithm for the identification of multichannel moving average (MA) processes using higher-order statistics is proposed. It is shown that the algorithm has a finite-step global convergence property. Three multichannel MA models, including one nonminimum-phase MA model, are estimated by this algorithm with satisfactory performances. >

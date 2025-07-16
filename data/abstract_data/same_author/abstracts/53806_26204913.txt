@@ -1,0 +1,2 @@
+Nonisolated degrees and the jump operator
+Abstract Say that a d.c.e. degree d is nonisolated if for any c.e. degree a d , there is another c.e. degree c such that a c d . In this paper, we investigate the relationship between the nonisolated degrees and the jump operator. We prove that there is a high nonisolated d.c.e. degree such that all c.e. degrees below it are bounded by a low d.c.e. degree.

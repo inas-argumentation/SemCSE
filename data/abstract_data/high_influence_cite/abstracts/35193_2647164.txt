@@ -1,0 +1,2 @@
+Adaptive Blind Multiuser DS-CDMA Downlink Equaliser
+A robust and simple adaptive blind multiuser equaliser for downlink DS-CDMA systems is presented. The adaptation is based on forcing various user symbols onto a constant modulus, whereby no additional constraints such as the mixed cross-correlation are required. The proposed algorithm has a moderate computational complexity and shows a BER performance close to the MMSE solution.

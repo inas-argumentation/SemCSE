@@ -1,0 +1,2 @@
+A Random Normal Number Generator for 32-Bit-Word Computers
+Some random normal number generators that were satisfactory for 36-bit-word computers are inadequate for equipment such as the IBM System/360, using a 32-bit-word. A generator is presented and shown to be satisfactory relative to several criteria for testing normality and randomness.

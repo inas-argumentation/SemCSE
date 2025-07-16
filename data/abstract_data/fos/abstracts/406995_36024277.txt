@@ -1,0 +1,15 @@
+Assessing the intrinsic precision of 3D/3D rigid image registration results for patient setup in the absence of a ground truth.
+PURPOSE
+To assess the precision and robustness of patient setup corrections computed from 3D/3D rigid registration methods using image intensity, when no ground truth validation is possible.
+
+
+METHODS
+Fifteen pairs of male pelvic CTs were rigidly registered using four different in-house registration methods. Registration results were compared for different resolutions and image content by varying the image down-sampling ratio and by thresholding out soft tissue to isolate bony landmarks. Intrinsic registration precision was investigated by comparing the different methods and by reversing the source and the target roles of the two images being registered.
+
+
+RESULTS
+The translational reversibility errors for successful registrations ranged from 0.0 to 1.69 mm. Rotations were less than 1°. Mutual information failed in most registrations that used only bony landmarks. The magnitude of the reversibility error was strongly correlated with the success/failure of each algorithm to find the global minimum.
+
+
+CONCLUSIONS
+Rigid image registrations have an intrinsic uncertainty and robustness that depends on the imaging modality, the registration algorithm, the image resolution, and the image content. In the absence of an absolute ground truth, the variation in the shifts calculated by several different methods provides a useful estimate of that uncertainty. The difference observed by reversing the source and target images can be used as an indication of robust convergence.

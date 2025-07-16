@@ -1,0 +1,2 @@
+Fixing the semantics of some concurrent object-oriented concepts
+Concurrent object-oriented languages provide a suitable target for a compositional design process that copes with the interference inherent with concurrency. Fixing the semantics of an object-based design language has been undertaken using structured operational semantics and by a mapping to the pi-calculus. These two approaches are outlined and contrasted. In particular, the difficulties in the two approaches of justifying the proof rules of the proposed design method are explained.

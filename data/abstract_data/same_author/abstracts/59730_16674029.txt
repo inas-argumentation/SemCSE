@@ -1,0 +1,6 @@
+The Number Of Orientations Having No Fixed Tournament
+Let T be a fixed tournament on k vertices. Let D(n,T ) denote the maximum number of orientations of an n-vertex graph that have no copy of T. We prove that $$
+D{\left( {n,T} \right)} = 2^{{t_{{k - 1^{{{\left( n \right)}}} }} }} 
+$$ for all sufficiently (very) large n, where tk−1(n) is the maximum possible number of edges of a graphon n vertices with no Kk, (determined by Turán’s Theorem). The proof is based on a directed version of Szemerédi’s regularity lemma together with some additional ideas and tools from Extremal Graph Theory, and provides an example of a precise result proved by applying this lemma. For the two possible tournaments with three vertices we obtain separate proofs that avoid the use of the regularity lemma and therefore show that in these cases $$
+D{\left( {n,T} \right)} = 2^{{{\left\lfloor {n^{2} /4} \right\rfloor }}} 
+$$ already holds for (relatively) small values of n.

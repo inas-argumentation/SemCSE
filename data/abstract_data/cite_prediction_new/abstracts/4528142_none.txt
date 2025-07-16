@@ -1,0 +1,2 @@
+Minimization and Minimal Realization in Span ( Graph )
+The context of this article is the program to study the bicategory of spans of graphs as an algebra of processes, with applications to concurrency theory. The objective here is to study functorial aspects of reachability, minimization and minimal realization. The compositionality of minimization has application to model-checking.

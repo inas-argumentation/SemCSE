@@ -1,0 +1,2 @@
+Characterizations of finite groups by sets of orders of their elements
+For a finite group G, ω(G) denotes the set of orders of its elements. If ω is a subset of the set of natural numbers, h(ω) stands for the number of pairwise nonisomorphic finite groups G for which ω(G)=ɛ. We prove that h(ω(G))=1, if G is isomorphic to S9, S11, S12, S13, or A12, and h(ω(G))=2 if G is isomorphic to S2(6) or to O8+(2).                                                                                         01

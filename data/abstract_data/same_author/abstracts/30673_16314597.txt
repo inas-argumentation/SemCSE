@@ -1,0 +1,2 @@
+Localized eigenmodes of the covariant lattice Laplacian
+We study numerically the eigenmode spectrum of the covariant lattice Laplacian, in the fundamental SU(2) color group representation. It is found that eigenmodes at the lower and upper ends of the spectrum are localized, and that the localization volume scales. In contrast, the eigenmodes of the lattice Faddeev-Popov operator are all extended rather than localized (as required for confinement) despite the similarity of the kinetic and Faddeev-Popov operators.

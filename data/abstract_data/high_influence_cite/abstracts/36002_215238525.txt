@@ -1,0 +1,2 @@
+Entropy stabilization and property-preserving limiters for discontinuous Galerkin discretizations of nonlinear hyperbolic equations
+This research was supported by the German Research Association (DFG) under grant KU 1530/23-1. The author would like to thank Manuel Quezada de Luna (KAUST) and Hennes Hajduk (TU Dortmund University) for inspiring discussions of the presented methodology.

@@ -1,0 +1,2 @@
+A bottom up approach to category mapping and meaning change
+In this article, we use an automated bottom-up approach to identify semantic categories in an entire corpus. We conduct an experiment using a word vector model to represent the meaning of words. The word vectors are then clustered, giving a bottom-up representation of semantic categories. Our main finding is that the likelihood of changes in a word’s meaning correlates with its position within its cluster.

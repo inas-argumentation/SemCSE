@@ -1,0 +1,15 @@
+A Prospective Comparison of the Effects of Interfractional Variations on Proton Therapy and Intensity Modulated Radiation Therapy for Prostate Cancer.
+PURPOSE
+To quantify and compare the impact of interfractional setup and anatomic variations on proton therapy (PT) and intensity modulated radiation therapy (IMRT) for prostate cancer.
+
+
+METHODS AND MATERIALS
+Twenty patients with low-risk or intermediate-risk prostate cancer randomized to receive passive-scattering PT (n=10) and IMRT (n=10) were selected. For both modalities, clinical treatment plans included 50.4 Gy(RBE) to prostate and proximal seminal vesicles, and prostate-only boost to 79.2 Gy(RBE) in 1.8 Gy(RBE) per fraction. Implanted fiducials were used for prostate localization and endorectal balloons were used for immobilization. Patients in PT and IMRT arms received weekly computed tomography (CT) and cone beam CT (CBCT) scans, respectively. The planned dose was recalculated on each weekly image, scaled, and mapped onto the planning CT using deformable registration. The resulting accumulated dose distribution over the entire treatment course was compared with the planned dose using dose-volume histogram (DVH) and γ analysis.
+
+
+RESULTS
+The target conformity index remained acceptable after accumulation. The largest decrease in the average prostate D98 was 2.2 and 0.7 Gy for PT and IMRT, respectively. On average, the mean dose to bladder increased by 3.26 ± 7.51 Gy and 1.97 ± 6.84 Gy for PT and IMRT, respectively. These values were 0.74 ± 2.37 and 0.56 ± 1.90 for rectum. Differences between changes in DVH indices were not statistically significant between modalities. All volume indices remained within the protocol tolerances after accumulation. The average pass rate for the γ analysis, assuming tolerances of 3 mm and 3%, for clinical target volume, bladder, rectum, and whole patient for PT/IMRT were 100/100, 92.6/99, 99.2/100, and 97.2/99.4, respectively.
+
+
+CONCLUSION
+The differences in target coverage and organs at risk dose deviations for PT and IMRT were not statistically significant under the guidelines of this protocol.

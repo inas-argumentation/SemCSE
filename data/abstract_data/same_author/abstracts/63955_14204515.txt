@@ -1,0 +1,2 @@
+Analysing Web Ontology in Alloy: A Military Case Study
+Correctness is the essential requirement criteria for military web ontology based information systems. Reasoning and consistency checking can be useful at many stages during the design, maintenance and deployment of Semantic Web (SW) ontology. Formal methods can provide automatic reasoning and consistency checking services for SW. In this paper, we use military plan ontology as a case study to demonstrate how Alloy can be applied to check SW ontol-

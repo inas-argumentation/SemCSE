@@ -1,0 +1,2 @@
+On total covers of graphs
+A total cover of a graph G is a subset of V(G)∪E(G) which covers all elements of V(G)∪E(G). The total covering number α2(G) of a graph G is the minimum cardinality of a total cover in G. In [1], it is proven that α2(G)⩽[n2] for a connected graph G of order n. Here we consider the extremal case and give some properties of connected graphs which have a total covering number [n2]. We prove that such a graph with even order has a 1-factor and such a graph with odd order is factor-critical.

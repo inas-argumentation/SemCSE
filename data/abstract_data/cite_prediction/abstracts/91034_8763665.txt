@@ -1,0 +1,2 @@
+Introduction to the Dirichlet Distribution and Related Processes
+This tutorial covers the Dirichlet distribution, Dirichlet process, Pólya urn (and the associated Chinese restaurant process), hierarchical Dirichlet Process, and the Indian buffet process. Apart from basic properties, we describe and contrast three methods of generating samples: stick-breaking, the Pólya urn, and drawing gamma random variables. For the Dirichlet process we first present an informal introduction, and then a rigorous description for those more comfortable with probability theory.

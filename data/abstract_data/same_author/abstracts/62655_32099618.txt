@@ -1,0 +1,2 @@
+Scenejo - An Interactive Storytelling Platform
+Scenejo is an Interactive Storytelling platform, supporting both structured story lines and emergent behavior. Authoring is performed either at the level of a story graph or dialogue patterns. The Scenejo platform supports several artificial actors conversing with a number of real actors, representing the users in the system. Artificial actors are visualized as animated 3d characters, and actor responses are presented by speech synthesis in combination with non-verbal behavior.

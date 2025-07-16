@@ -1,0 +1,2 @@
+Interlacing Families III: Sharper Restricted Invertibility Estimates
+We use the method of interlacing families of polynomials to derive a simple proof of Bourgain and Tzafriri's Restricted Invertibility Principle, and then to sharpen the result in two ways. We show that the stable rank can be replaced by the Schatten 4-norm stable rank and that tighter bounds hold when the number of columns in the matrix under consideration does not greatly exceed its number of rows. Our bounds are derived from an analysis of smallest zeros of Jacobi and associated Laguerre polynomials.

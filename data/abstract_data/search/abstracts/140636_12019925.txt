@@ -1,0 +1,2 @@
+The inverse eigenvalue problem for symmetric quasi anti bidiagonal matrices
+In this paper we construct the symmetric quasi anti bidiagonal matrix that its eigenvalues are given, and show that the problem is also equivalent to the inverse eigenvalue problem for a certain symmetric tridiagonal matrix which has the same eigenvalues. Not only elements of the tridiagonal matrix come from quasi anti bidiagonal matrix, but also the places of elements exchange based on some conditions.

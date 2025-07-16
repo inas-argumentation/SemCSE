@@ -1,0 +1,2 @@
+Simulation of errors in the monitoring of narrow bandpass filters.
+Narrow bandpass filters are extremely sensitive to errors in the optical thickness of the layers, but they have an extraordinary inherent capability to compensate for these errors. Graphical examples of errors of differing magnitudes and types with and without compensation are shown with computer simulation of the optical monitoring techniques. This allows the estimation of what magnitude of errors may be tolerable in given applications.

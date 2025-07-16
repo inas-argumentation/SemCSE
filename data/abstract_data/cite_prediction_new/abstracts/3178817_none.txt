@@ -1,0 +1,15 @@
+Anaemia and mortality in haemodialysis patients: interaction of propensity score for predicted anaemia and actual haemoglobin levels.
+BACKGROUND
+Haemoglobin levels in haemodialysis patients could represent unknown comorbidities, more severe levels of known comorbidities, as well as therapeutic choice. Thus, integrating factors predictive of anaemia with actual haemoglobin levels might improve prognostic discrimination.
+
+
+METHODS
+We retrospectively studied 93,087 patients who started haemodialysis between 1998 and 2000. Clinical and treatment factors from months 4 through 9, derived from Medicare claims, were used to develop propensity scores for anaemia (mean haemoglobin <11 g/dl). Tertiles of propensity scores were interacted with five levels of actual mean haemoglobin to form 15 groups, ranging from low (anaemia) probability with (mean) haemoglobin <10 g/dl to high probability with haemoglobin >or=13 g/dl. Cox proportional hazards regression evaluated mortality and first hospitalization among these groups.
+
+
+RESULTS
+The anaemia propensity score improved overall prognostic discrimination. Propensity score adjustment significantly improved prediction of mortality (P<0.0001) after covariate adjustments including haemoglobin. For mortality, the highest and lowest adjusted hazard ratios (AHR) appeared in these groups, respectively: high probability with haemoglobin <10 g/dl (AHR 1.64 [1.54, 1.75], P<0.0001), and low probability with haemoglobin 12 to <13 g/dl (AHR 0.79 [0.74, 0.85], P<0.0001). Higher haemoglobin levels were associated with lower mortality even after propensity score adjustment. Similar patterns resulted for first hospitalization; however, the interaction was significant only for hospitalization (P = 0. 0212).
+
+
+CONCLUSIONS
+Integrating factors predictive of anaemia improves overall prognostic discrimination. Propensity score adjustment refines the prognostic association of haemoglobin levels in haemodialysis patients.

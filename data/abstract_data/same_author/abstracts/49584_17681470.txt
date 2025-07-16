@@ -1,0 +1,2 @@
+New Usage of Sammon's Mapping for Genetic Visualization
+It is a hard problem to understand the fitness landscape of a problem as well as the evolution of genetic algorithms. For the purpose, we adopt Sammon's mapping for the investigation. We demonstrate its usefulness by applying it to the graph partitioning problem which is a well-known NP-hard problem. Also, through the investigation of schema traces, we explain the genetic process and the reordering effect in the genetic algorithm.

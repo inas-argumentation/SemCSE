@@ -1,0 +1,2 @@
+Traffic Control Strategy Using Traffic Simulation Software PARAMICS
+Discusses the method of applying the microscopic traffic simulation software,PARAMICS,to realize the traffic control strategy.Simulate many kinds of road traffic condition with the Modeller module,achieves the control strategy by API.At same time,uses many kinds of method to evaluate the control effect.

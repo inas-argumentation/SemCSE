@@ -1,0 +1,2 @@
+Spectral Graph Theory and Its Applications 6.1 Adjacency Matrices, Random Walks, and Expander Graphs 6.2 Expander Graphs
+I have three goals for this lecture. The first is to introduce one of the most important familes of graphs: expander graphs. They are the source of much combinatorial power, and the counterexample to numerous conjectures. We will become acquainted with these graphs by examining random walks on them. To facilitate the analysis of random walks, we will examine these graphs through their adjacency matrices.

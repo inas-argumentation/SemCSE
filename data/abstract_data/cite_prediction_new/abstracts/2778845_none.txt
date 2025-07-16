@@ -1,0 +1,2 @@
+Image registration based on a novel 2-D adaptive filter algorithm
+In this paper, we study the image registration problem by a proposed novel 2-D adaptive projection algorithm. Different to the existing adaptive filtering methods, the unknown transformation coefficients can be updated by taking account of the information both along the horizontal and the vertical directions on a 2-D plane simultaneously, which is essentially a 2-D adaptive one. Experiments are presented to illustrate the effectiveness of our proposed algorithm.

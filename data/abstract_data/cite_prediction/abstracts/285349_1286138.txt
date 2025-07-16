@@ -1,0 +1,2 @@
+ROS-based robot navigation and human interaction in indoor environment
+This paper sets the basis of a robot collaborative application framework that is able to perform basic interactions with a human partner, namely patrol and monitor a designated area, followed by interaction with a human participant when this is detected. The application is developed using an adaptation of ROS to Corobot robot and image processing techniques that involve OpenCV face detection.

@@ -1,0 +1,2 @@
+Deep Kinematic Pose Regression
+Overview Goal Estimate object joint locations from a single image. Pose Representation •Pictorial Structure Model •Linear Dictionary •Linear Feature Embedding • Implicit Representation by Retrieval •Explicit Geometric Model Our Approach We propose to directly embed a kinematic object model into the deep neutral network learning for general articulated object pose estimation [4]. Method Kinematic Model

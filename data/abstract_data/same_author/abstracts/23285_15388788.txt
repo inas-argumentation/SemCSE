@@ -1,0 +1,2 @@
+Feynman rules for the rational part of the QCD 1-loop amplitudes
+We compute the complete set of Feynman Rules producing the Rational Terms of kind R2 needed to perform any QCD 1-loop calculation. We also explicitly check that in order to account for the entire R2 contribution, even in case of processes with more than four external legs, only up to four-point vertices are needed. Our results are expressed both in the 't Hooft Veltman regularization scheme and in the Four Dimensional Helicity scheme, using explicit color configurations as well as the color connection language.

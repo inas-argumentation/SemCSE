@@ -1,0 +1,15 @@
+Development and bioanalytical validation of a liquid chromatographic-tandem mass spectrometric (LC-MS/MS) method for the quantification of the CCR5 antagonist maraviroc in human plasma.
+BACKGROUND
+Maraviroc is a CCR5 antagonist that has been utilized as a viral entry inhibitor in the management of HIV-1. Current clinical trials are pursuing maraviroc drug efficacy in both oral and topical formulations. Therefore, in order to fully understand drug pharmacokinetics, a sensitive method is required to quantify plasma drug concentrations.
+
+
+METHODS
+Maraviroc-spiked plasma was combined with acetonitrile containing an isotopically-labeled internal standard, and following protein precipitation, samples were evaporated to dryness and reconstituted for liquid chromatographic-tandem mass spectrometric (LC-MS/MS) analysis. Chromatographic separation was achieved on a Waters BEH C8, 50×2.1 mm UPLC column, with a 1.7 μm particle size and the eluent was analyzed using an API 4000 mass analyzer in selected reaction monitoring mode. The method was validated as per FDA Bioanalytical Method Validation guidelines.
+
+
+RESULTS
+The analytical measuring range of the LC-MS/MS method is 0.5-1000 ng/ml. Calibration curves were generated using weighted 1/x(2) quadratic regression. Inter-and intra-assay precision was ≤5.38% and ≤5.98%, respectively; inter-and intra-assay accuracy (%DEV) was ≤10.2% and ≤8.44%, respectively. Additional studies illustrated similar matrix effects between maraviroc and its internal standard, and that maraviroc is stable under a variety of conditions. Method comparison studies with a reference LC-MS/MS method show a slope of 0.948 with a Spearman coefficient of 0.98.
+
+
+CONCLUSIONS
+Based on the validation metrics, we have generated a sensitive and automated LC-MS/MS method for maraviroc quantification in human plasma.

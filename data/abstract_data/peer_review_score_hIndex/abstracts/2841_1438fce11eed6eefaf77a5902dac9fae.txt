@@ -1,0 +1,5 @@
+Layer Recurrent Neural Networks
+In this paper, we propose a Layer-RNN (L-RNN) module that is able to learn contextual information adaptively using within-layer recurrence. Our contributions are three-fold: 
+(i) we propose a hybrid neural network architecture that interleaves traditional convolutional layers with L-RNN module for learning long- range dependencies at multiple levels; 
+(ii) we show that a L-RNN module can be seamlessly inserted into any convolutional layer of a pre-trained CNN, and the entire network then fine-tuned, leading to a boost in performance; 
+(iii) we report experiments on the CIFAR-10 classification task, showing that a network with interleaved convolutional layers and L-RNN modules, achieves comparable results (5.39% top1 error) using only 15 layers and fewer parameters to ResNet-164 (5.46%); and on the PASCAL VOC2012 semantic segmentation task, we show that the performance of a pre-trained FCN network can be boosted by 5% (mean IOU) by simply inserting Layer-RNNs.

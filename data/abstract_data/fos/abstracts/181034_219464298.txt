@@ -1,0 +1,29 @@
+Measurement of ammonia, amines and iodine compounds using protonated water cluster chemical ionization mass spectrometry
+. Here we describe the design and performance of a new
+water cluster chemical ionization–atmospheric pressure interface time-of-flight mass spectrometer (CI-APi-TOF). The instrument selectively measures
+trace gases with high proton affinity such as ammonia and dimethylamine,
+which are important for atmospheric new particle formation and growth.
+Following the instrument description and characterization, we demonstrate
+successful measurements at the CERN CLOUD (Cosmics Leaving OUtdoor Droplets)
+chamber where very low ammonia background levels of ∼4  pptv
+were achieved (at 278 K and 80 % RH). The limit of detection of the water
+cluster CI-APi-TOF is estimated to be ∼0.5  pptv for ammonia.
+Although no direct calibration was performed for dimethylamine (DMA), we
+estimate its detection limit is at least 3 times lower. Due to the short
+ion–molecule reaction time and high reagent ion concentrations, ammonia
+mixing ratios up to at least 10 ppbv can be measured with the instrument
+without significant reagent ion depletion. Besides the possibility to
+measure compounds like ammonia and amines (dimethylamine), we demonstrate
+that the ionization scheme is also suitable for the measurement of trace
+gases containing iodine. During CLOUD experiments to investigate the
+formation of new particles from I2 , many different iodine-containing
+species were identified with the water cluster CI-APi-TOF. The compounds
+included iodic acid and neutral molecular clusters containing up to
+four iodine atoms. However, the molecular structures of the
+iodine-containing clusters are ambiguous due to the presence of an unknown
+number of water molecules. The quantification of iodic acid ( HIO3 )
+mixing ratios is performed from an intercomparison with a nitrate
+CI-APi-TOF. Using this method the detection limit for HIO3 can be
+estimated as 0.007 pptv. In addition to presenting our measurements obtained
+at the CLOUD chamber, we discuss the applicability of the water cluster
+Ci-APi-TOF for atmospheric measurements.

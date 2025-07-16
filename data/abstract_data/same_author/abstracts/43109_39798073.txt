@@ -1,0 +1,2 @@
+Solution to a problem on degree sequences of graphs
+Abstract Let a 1 ,a 2 ,…,a n and b 1 ,b 2 ,…,b n be integers with 0⩽a i ⩽b i for i=1,2,…,n . The purpose of this note is to give a good characterization for the existence of a simple graph G with vertices v 1 ,v 2 ,…,v n such that a i ⩽d G (v i )⩽b i for i=1,2,…,n . This solves a research problem posed by Niessen and generalizes an Erdős–Gallai theorem.

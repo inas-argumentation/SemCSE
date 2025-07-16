@@ -1,0 +1,2 @@
+A theoretical framework for the multicast address allocation problem
+The multicast address allocation problem requires Internet domains to allocate unique addresses to multicast applications from a globally-shared space. We develop a theoretical framework for multicast allocation algorithms that is influenced by subcube allocation in hypercube computer systems. Based on this framework we derive complexity results for the address allocation problem and describe several new allocation algorithms that use a hypercube model for address representation.

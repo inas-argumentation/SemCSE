@@ -1,0 +1,11 @@
+Designing and executing scientific workflows with a programmable integrator
+MOTIVATION
+As in many other fields of science, computational methods in molecular biology need to intersperse information access and algorithm execution in a computational workflow. Users often find difficulties when transferring data between data sources and applications. In most cases there is no standard solution for workflow design and execution and tailored scripting mechanisms are implemented in a case by case basis.
+
+
+RESULTS
+In this paper, we present a general purpose 'programmable integrator' that can access information from a variety of sources in a coordinated manner. Its usefulness in complex bioinformatics applications is claimed and supported by some application examples.
+
+
+AVAILABILITY
+Tools are freely available to non-profit educations and research institutions. Usage by commercial organizations requires a license agreement. Software requirements: Java v1.3 (http://java.sun.com), Xerces XML Parser (http://xml.apache.org/xerces-j) and Kweelt implementation of XQuery (http://kweelt.sourceforge.net/).

@@ -1,0 +1,2 @@
+Partial (set) 2-structures
+SummaryWe continue the investigation of labeled partial (set) 2-structures initiated in [5] and in particular we explore applications to the theory of net-based concurrent systems. The problem of characterizing state spaces of basic classes of Petri nets, and the problem of synthesizing state spaces of basic classes of Petri nets from their “abstract” descriptions in the form of directed edge-labeled graphs are investigated.

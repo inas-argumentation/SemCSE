@@ -1,0 +1,2 @@
+An Object-Oriented Approach to the Formal Specification of ODP Trader
+An Object-Z formal speci cation of the ODP Trader is presented which concisely captures the hierarchical context structure, the distribution of information and the communication aspects of the Trader. Particular use is made of generic classes, class inheritance and object aggregation (i.e. the instantiation of collections of similar objects) to give a structured speci cation that can be readily extended.

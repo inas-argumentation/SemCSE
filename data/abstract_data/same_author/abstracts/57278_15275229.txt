@@ -1,0 +1,2 @@
+Local Anti-Ramsey Numbers of Graphs
+A subgraph $H$ in an edge-colouring is properly coloured if incident edges of $H$ are assigned different colours, and $H$ is rainbow if no two edges of $H$ are assigned the same colour. We study properly coloured subgraphs and rainbow subgraphs forced in edge-colourings of complete graphs in which each vertex is incident to a large number of colours.

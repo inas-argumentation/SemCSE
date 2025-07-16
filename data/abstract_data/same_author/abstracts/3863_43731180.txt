@@ -1,0 +1,2 @@
+New Constructions of Quasi-cyclic LDPC Codes Based on Two Classes of Balanced Incomplete Block Designs: For AWGN and Binary Erasure Channels
+This paper presents two new methods for constructing quasi-cyclic LDPC codes using certain special classes of balanced incomplete block designs constructed based on finite fields. The codes constructed perform well with iterative decoding over both AWGN and binary erasure channels.

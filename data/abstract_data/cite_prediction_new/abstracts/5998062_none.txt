@@ -1,0 +1,2 @@
+Enabling an Energy-Efficient Future Internet Through Selectively Connected End Systems
+We offer an initial exploration of the architectural constructs required to support selective connectivity, whereby a host can choose the degree to which it maintains a network presence, rather than today's binary notion of "connected" or "disconnected". The driver for our thinking is to allow hosts to go to sleep to Proposed architectural elements

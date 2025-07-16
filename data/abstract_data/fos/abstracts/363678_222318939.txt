@@ -1,0 +1,15 @@
+SOCS1 Represses Fractionated Ionizing Radiation-Induced EMT Signaling Pathways through the Counter-Regulation of ROS-Scavenging and ROS-Generating Systems.
+BACKGROUND/AIMS
+Fractionated ionizing radiation (FIR) is an anti-cancer protocol widely applied for the treatment of diverse types of cancers to reduce damage to normal cells. However, cancer cells receiving multiple irradiations at low doses during FIR, often develop resistance to the therapy exhibiting malignant features including epithelial to mesenchymal transition (EMT). The present study has been performed to elucidate the mechanism of FIR-induced EMT signaling pathways and to identify a molecular target for radioresistance modulated by suppressors of cytokine signaling (SOCS)1.
+
+
+METHODS
+Colorectal cancer cell lines received FIR with a daily dose of 2 Gy for 3 days. Generation of intracellular reactive oxygen species (ROS) and its role in EMT signaling induced by FIR were analyzed in SOCS1 over-expressing and knock-down cells. ROS were measured by DCF fluorescence using flow cytometry. Expression levels of EMT markers and signaling molecules were analyzed by Western blotting and confocal microscopy.
+
+
+RESULTS
+FIR induced ROS and changes in EMT markers including down-regulation of E-cadherin with up-regulation of Twist and Snail. Pretreatment of anti-oxidant N-acetyl cysteine (NAC) abrogated the FIR-induced ROS generation and EMT response. Mechanistic studies indicated that the FIR-induced ROS-mediated EMT signaling proceeded through Akt→Src→Erk pathways. In accordance with the anti-ROS function, SOCS1 blocked the FIR-induced EMT and the associated signaling pathways through thioredoxin (Trx1) up-regulation. This is evidenced by the observation that Trx1 ablation in SOCS1 over-expressing cells negated the inhibitory action of SOCS1 by restoring the FIR-induced ROS and EMT markers. In addition, we have obtained data supporting that the FIR-induced ROS is derived from functional mitochondria and NADPH oxidases (Nox), which are both down-regulated by SOCS1.
+
+
+CONCLUSION
+The results demonstrate that ROS signal acts as a mediator of the FIR-induced EMT. The data also suggest a potential anti-tumor function of SOCS1 by blocking the FIR therapy-induced resistance through the counter-regulation of ROS generating and scavenging systems.

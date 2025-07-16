@@ -1,0 +1,25 @@
+Aircraft-based stereographic reconstruction of 3-D cloud geometry
+. This work describes a method to retrieve the location and geometry of clouds
+using RGB images from a video camera on an aircraft and data from the
+aircraft's navigation system. Opposed to ordinary stereo methods for which
+two cameras with fixed relative position at a certain distance are used to
+match images taken at the exact same moment, this method uses only a single
+camera and the aircraft's movement to provide the needed parallax. Advantages
+of this approach include a relatively simple installation on a (research)
+aircraft and the possibility to use different image offsets that are even
+larger than the size of the aircraft. Detrimental effects are the evolution
+of observed clouds during the time offset between two images as well as the
+background wind. However we will show that some wind information can also be
+recovered and subsequently used for the physics-based filtering of outliers.
+Our method allows the derivation of cloud top geometry which can be used,
+e.g., to provide location and distance information for other passive cloud
+remote sensing products. In addition it can also improve retrieval methods by
+providing cloud geometry information useful for the correction of 3-D
+illumination effects. We show that this method works as intended through
+comparison to data from a simultaneously operated lidar system. The stereo
+method provides lower heights than the lidar method; the median difference is
+ 126  m. This behavior is expected as the lidar method has a lower detection
+limit (leading to greater cloud top heights for the downward view), while the
+stereo method also retrieves data points on cloud sides and lower cloud
+layers (leading to lower cloud heights). Systematic errors across the
+measurement swath are less than 50  m.

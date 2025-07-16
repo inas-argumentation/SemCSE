@@ -1,0 +1,2 @@
+Optimal distribution of measurement time in single channel measurements
+Single channel measurements play a minor role in today physics, but they are sometimes unavoidable. Comparing to multichannel measurements, there is distribution of measurement time to be chosen in an experiment design. A method to optimize distribution of measurement time is given, where optimal distribution minimizes standard deviation of a selected fit parameter. As an example, the method is applied to electron spectroscopy experiments.

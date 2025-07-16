@@ -1,0 +1,2 @@
+The Murchison Widefield Array
+It is shown that the excellent Murchison Radio-astronomy Observatory site allows the Murchison Widefield Array to employ a simple RFI blanking scheme and still calibrate visibilities and form images in the FM radio band. The techniques described are running autonomously in our calibration and imaging software, which is currently being used to process an FM-band survey of the entire southern sky.

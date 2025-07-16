@@ -1,0 +1,2 @@
+An Analysis of Single Event Upset Dependencies on High Frequency and Architectural Implementations within Actel RTAX-S Family Field Programmable Gate Arrays
+In order to investigate frequency and architectural effects on Single Event Upset cross sections within RTAX-S FPGA devices, a novel approach to high speed testing is implemented. Testing was performed at variable speeds ranging from 15 MHz to 150 MHz

@@ -1,0 +1,2 @@
+Weighted composite quantile estimation and variable selection method for censored regression model
+This paper considers the weighted composite quantile (WCQ) regression for linear model with random censoring. The adaptive penalized procedure for variable selection in this model is proposed, and the consistency, asymptotic normality and oracle property of the resulting estimators are also derived. The simulation studies and the analysis of an acute myocardial infarction data set are conducted to illustrate the finite sample performance of the proposed method.

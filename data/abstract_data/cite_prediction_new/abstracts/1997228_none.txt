@@ -1,0 +1,2 @@
+Low-voltage continuous-time CMOS current amplifier with dynamic biasing
+This communication presents a novel CMOS current amplifier which uses a dynamic biasing approach enabling extremely low-voltage operations. Unlike previous implementations the circuit is entirely realized with class AB cascoded stages which improve current drive capability, slew-rate performance, and dynamic range, while reducing power consumption. A design example using a 0.8-/spl mu/m process and powered with a 1.2-V supply is provided.

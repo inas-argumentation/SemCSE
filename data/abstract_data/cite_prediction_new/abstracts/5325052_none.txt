@@ -1,0 +1,2 @@
+A new database for research on bank-check processing
+This paper presents a new database for off-line handwriting recognition. The database, that is particularly devoted to research on bank-check recognition, up to now includes instances of isolated digits and characters, basic words of worded amounts, and signatures. Pattern images are stored using a standard image format, and hence they are easily usable by several commercial and scientific image processing packages.

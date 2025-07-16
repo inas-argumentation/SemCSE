@@ -1,0 +1,2 @@
+A genetic algorithm for multiple sequence alignment
+Abstract.Multiple sequence alignment is an important tool in molecular sequence analysis. This paper presents genetic algorithms to solve multiple sequence alignments. Several data sets are tested and the experimental results are compared with other methods. We find our approach could obtain good performance in the data sets with high similarity and long sequences.The software can be found in http://rsdb.csie.ncu.edu.tw/tools/msa.htm.

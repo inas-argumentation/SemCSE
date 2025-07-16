@@ -1,0 +1,2 @@
+A distributed and object-oriented framework for VLSI physical design automation
+In this paper, we propose a framework for VLSI physical design automation. This framework is object-oriented and built in a distributed environment. The VLSI physical designers can use our framework to develop their partitioning, placement, and routing algorithms through the Internet. We model our framework using Unified Modeling Language and develop a prototype example with PDML (Physical Design Markup Language), a customized XML.

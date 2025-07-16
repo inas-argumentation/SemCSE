@@ -1,0 +1,2 @@
+Multi-class Support Vector Machine Multi-class Support Vector Machine
+We propose a transformation from the multi-class SVM classification problem to the single-class SVM problem which is more convenient for optimization. The proposed transformation is based on simplifying the original problem and employing the Kesler construction which can be carried out by the use of properly defined kernel only. The experiments conducted indicate that the proposed method is comparable with the one-against-all decomposition solved by the state-of-the-art SMO algorithm.

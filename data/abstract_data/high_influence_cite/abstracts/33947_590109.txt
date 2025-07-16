@@ -1,0 +1,6 @@
+On the Complexity of Searching in Trees: Average-Case Minimization
+The well known binary search method can be described as the process of identifying some marked node from a line graph T by successively querying edges. An edge query e asks in which of the two subpaths induced by T \ e the marked node lies. This procedure can be naturally generalized to the case where T = (V,E) is a tree instead of a line. The problem of determining a tree search strategy minimizing the number of queries in the worst case is solvable in linear time [Onak etal. FOCS'06, Mozes et al. SODA'08]. 
+ 
+Here we study the average-case problem, where the objective function is the weighted average number of queries to find a node An involved analysis shows that the problem is NP-complete even for the class of trees with bounded diameter, or bounded degree. 
+ 
+We also show that any optimal strategy (i.e., one that minimizes the expected number of queries) performs at most O(Δ(T)(log |V | +log w (T))) queries in the worst case, where w(T) is the sum of the node weights and Δ(T) is the maximum degree of T. This structural property is then combined with a non-trivial exponential time algorithm to provide an FPTAS for the bounded degree case.

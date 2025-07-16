@@ -1,0 +1,2 @@
+Dirichlet Processes for Joint Learning of Morphology and PoS Tags
+This paper presents a joint model for learning morphology and part-of-speech (PoS) tags simultaneously. The proposed method adopts a finite mixture model that groups words having similar contextual features thereby assigning the same PoS tag to those words. While learning PoS tags, words are analysed morphologically by exploiting similar morphological features of the learned PoS tags. The results show that morphology and PoS tags can be learned jointly in a fully unsupervised setting.

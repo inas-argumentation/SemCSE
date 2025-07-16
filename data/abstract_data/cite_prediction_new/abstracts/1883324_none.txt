@@ -1,0 +1,2 @@
+A dynamic time warp IC for a one thousand word recognition system
+Dynamic time warping is considered a superior way to perform time alignment in speech recognition. [1] Unfortunately dynamic programming algorithms require too much computation for conventional computer architectures to handle and still provide good response time with 1000 reference words. This paper presents a single chip that is capable of the performing the dynamic time warp processing necessary for recognizing 1000 words in real-time.

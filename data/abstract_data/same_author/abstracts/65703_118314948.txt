@@ -1,0 +1,2 @@
+Asymptotische Entwicklungen für Eigenwerte und Eigenvektoren bei der Approximation parameternichtlinearer Eigenwertaufgaben
+SummaryIn order to apply extrapolation processes to the numerical solution of eigenvalue problems depending nonlinear on a parameter the existence of asymptotic expansions for eigenvalues and eigenvectors is studied. At the end of the paper some numerical examples are given.

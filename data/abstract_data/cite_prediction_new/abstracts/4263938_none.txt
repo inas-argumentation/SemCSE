@@ -1,0 +1,2 @@
+A Rectangular Constellation-Based Blind Equalization Technique
+Blind equalization techniques have been developed over the past three decades that estimate and equalize communication channels without requiring training sequences and without channel knowledge. This article presents a new blind equalization algorithm with particular relevance to large-order, square or rectangular constellations. Comparisons with standard blind equalization methods are also presented.

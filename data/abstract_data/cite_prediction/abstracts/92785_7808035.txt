@@ -1,0 +1,2 @@
+A simple linear time (1 + /spl epsiv/)-approximation algorithm for k-means clustering in any dimensions
+We present the first linear time (1 + /spl epsiv/)-approximation algorithm for the k-means problem for fixed k and /spl epsiv/. Our algorithm runs in O(nd) time, which is linear in the size of the input. Another feature of our algorithm is its simplicity - the only technique involved is random sampling.

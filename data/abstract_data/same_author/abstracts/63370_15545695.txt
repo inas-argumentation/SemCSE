@@ -1,0 +1,6 @@
+Constraint Solving and Symbolic Execution
+For many decades, the correctness of programs has been a concern for computer scientists and software engineers. At present, it is still not easy to ensure the correctness of nontrivial programs, although many researchers have made various attempts in this direction. 
+ 
+Recently, the Verifying Compiler is proposed as a grand challenge in computing research [7]. But its goal can be achieved incrementally. The following is quoted from Hoare (page 68 of [7]): 
+ 
+The progress of the project can be assessed by the number of lines of code that have been verified, and the level of annotation and verification that has been achieved. The relevant levels of annotations are: structural integrity, partial functional specification, total specification. The relevant levels of verification are: by testing, by human proof, by machine assistance, and fully automatic.

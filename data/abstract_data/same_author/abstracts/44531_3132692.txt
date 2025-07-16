@@ -1,0 +1,2 @@
+Distributed Database Systems in High-Speed Wide-Area Networks
+The issues involved in developing a distributed database system (DDBS) in a high-speed environment are discussed. The inadequacy of existing database protocols in utilizing the gigabit network is described. A concurrency control protocol that performs better than traditional DDBSs in high-speed networks is developed. Both analytical and simulation results are presented. The focus is on the concurrency control aspect of DDBS since this protocol is at the heart of the overall functioning of the distributed system. >

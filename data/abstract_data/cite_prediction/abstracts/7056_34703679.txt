@@ -1,0 +1,2 @@
+The dialogue breakdown detection challenge: Task description, datasets, and evaluation metrics
+Dialogue breakdown detection is a promising technique in dialogue systems. To promote the research and development of such a technique, we organized a dialogue breakdown detection challenge where the task is to detect a system’s inappropriate utterances that lead to dialogue breakdowns in chat. This paper describes the design, datasets, and evaluation metrics for the challenge as well as the methods and results of the submitted runs of the participants.

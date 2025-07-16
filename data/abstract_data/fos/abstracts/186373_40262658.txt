@@ -1,0 +1,2 @@
+Probabilistic Evaluation of Analog Single Event Transients
+We propose a procedure to estimate the consequences of an analog single event transient (ASET). The method qualifies ASETs based on their frequency domain signatures and determines the probability of a single event transient induced error.

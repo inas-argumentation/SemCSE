@@ -1,0 +1,2 @@
+Degrees of Weakly Computable Reals
+This paper studies the degrees of weakly computable reals. It is shown that certain types of limit-recursive reals are Turing incomparable to all weakly computable reals except the recursive and complete ones. Furthermore, it is shown that an r.e. Turing degree is array-recursive iff every real in it is weakly computable.

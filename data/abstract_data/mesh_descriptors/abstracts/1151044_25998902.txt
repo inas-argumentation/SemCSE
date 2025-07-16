@@ -1,0 +1,15 @@
+The effect of tumour geometry on the quantification accuracy of planar 123I phantom images.
+INTRODUCTION
+Accurate activity quantification is applied in radiation dosimetry. Planar images are important for quantification of whole-body images, enabling assessment of biodistribution from radionuclide administrations. We evaluated the effect of tumour geometry on quantification accuracy of 123I planar phantom studies, including various tumour sizes, tumour-liver distances and two tumour-background ratios.
+
+
+METHODS AND MATERIALS
+An in-house manufactured abdominal phantom was equipped with a liver, different size cylindrical tumours, and a rod for tumour-liver distance variation. The geometric mean method with scatter and attenuation corrections was used for image processing. Scatter and attenuation corrections were made using the triple energy window scatter correction technique and a printed transmission sheet source, respectively. Region definitions for tumour activity distribution compensated for the partial volume effect (PVE). Activity measured in the dose calibrator served as reference for determining quantification accuracy.
+
+
+RESULTS
+The smallest tumour had the largest percentage deviation with an average activity underestimation of 34.6±1.2%. Activity values for the largest tumour were overestimated by 3.1±3.0%. PVE compensation improved quantification accuracy for all tumour sizes yielding accuracies of <12.4%. Scatter contribution to the tumours from the liver had minimal effect on quantification accuracy at tumour-liver distances >3cm. With PVE compensation, increased tumour-background ratio resulted in a percentage increase of up to 26.3%.
+
+
+CONCLUSION
+When applying relevant corrections for scatter, attenuation and PVE without background activity, quantification accuracy of <13% was obtained. We demonstrated the successful implementation of a practical technique to obtain quantitative information from 123I planar images.

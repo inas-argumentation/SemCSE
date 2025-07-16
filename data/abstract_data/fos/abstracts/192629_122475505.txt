@@ -1,0 +1,2 @@
+VARIATION REDUCTION AND ROBUST DESIGNS
+In this paper we consider two strategies for variation reduction. One of them is the exploitation of interactions. We also discuss the role of experiments in discovering interactions and in particular the use of robust designs to obtain the interaction between control and noise factors. Then we attempt to reduce the variation in a measurement system using a robust design.

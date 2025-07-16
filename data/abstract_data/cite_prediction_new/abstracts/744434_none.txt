@@ -1,0 +1,15 @@
+Provider and hospital characteristics associated with geographic variation in the evaluation and management of elderly patients with heart failure.
+BACKGROUND
+Rates of guideline-based care for elderly patients with heart failure vary by state, and overall are not optimal. Identifying factors associated with the lack of uniformly high-quality health care might aid efforts to improve care. We therefore sought to determine the extent to which provider and hospital characteristics contribute to small-area geographic variation in heart failure care after controlling for patient factors.
+
+
+METHODS
+We studied 30 228 Medicare patients who were older than 65 years and hospitalized with heart failure. We mapped rates for 2 quality measures-documentation of left ventricular ejection fraction and appropriate prescription of angiotensin-converting enzyme inhibitors-across the United States, using a Bayesian technique that smooths rates and enhances assessment for significant patterns of small-area variation. We used nonlinear hierarchical models to assess for associations between the the quality indicators and provider and hospital characteristics independent of patient characteristics.
+
+
+RESULTS
+Smoothed, unadjusted rates of left ventricular ejection fraction documentation ranged from 30.1% to 67.2% and of angiotensin-converting enzyme inhibitor prescription from 55.8% to 87.1% among hospital referral regions; regional patterns were apparent. After patient factors were controlled for, care at hospitals without a medical school affiliation, without invasive cardiac capabilities, or in a rural location, as well as not having a cardiologist as an attending physician, was significantly associated with lower rates of left ventricular ejection fraction documentation. Hospitalization at a nonteaching facility was significantly associated with failure to prescribe angiotensin-converting enzyme inhibitors.
+
+
+CONCLUSION
+Characteristics of providers and hospitals explain in part the geographic variation in guideline-based care for elderly patients with heart failure.

@@ -1,0 +1,2 @@
+Regular subgraphs of almost regular graphs
+Suppose every vertex of a graph G has degree k or k + 1 and at least one vertex has degree k + 1. It is shown that if k ≥ 2q − 2 and q is a prime power then G contains a q-regular subgraph (and hence an r-regular subgraph for all r ((2q − 2)(2q − 1))(Δ + 1), where q is a prime power, contains a q-regular subgraph (and hence an r-regular subgraph for all r < q, r ≡ q (mod 2)). These results follow from Chevalley's and Olson's theorems on congruences.

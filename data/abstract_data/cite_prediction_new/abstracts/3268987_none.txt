@@ -1,0 +1,2 @@
+Maude-NPA: Cryptographic Protocol Analysis Modulo Equational Properties
+In this tutorial, we give an overview of the Maude-NRL Protocol Analyzer (Maude-NPA), a tool for the analysis of cryptographic protocols using functions that obey different equational theories. We show the reader how to use Maude-NPA, and how it works, and also give some of the theoretical background behind the tool.

@@ -1,0 +1,2 @@
+The chromaticity of certain graphs with five triangles
+Abstract Let W(n, k) denote the graph of order n obtained from the wheel Wn by deleting all but k consecutive spokes. In this note, we study the chromaticity of graphs which share certain properties of W(n, 6) which can be obtained from the coefficients of the chromatic polynomial of W(n, 6). In particular, we prove that W(n, 6) is chromatically unique for all integers n⩾8. We also obtain two additional families of chromatically unique graphs.

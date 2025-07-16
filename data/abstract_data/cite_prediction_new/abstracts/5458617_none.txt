@@ -1,0 +1,15 @@
+Competing risks of death in patients with localized renal cell carcinoma: a comorbidity based model.
+PURPOSE
+Multiple risks compete with cancer as the primary cause of death. These factors must be considered against the benefits of treatment. We constructed a model of competing causes of death to help contextualize treatment trade-off analyses in patients with localized renal cell carcinoma.
+
+
+MATERIALS AND METHODS
+We identified 6,655 individuals 66 years old or older with localized renal cell carcinoma in the linked SEER (Surveillance, Epidemiology and End Results)-Medicare data set for 1995 to 2005. We used Fine and Gray competing risks proportional hazards regression to predict probabilities of competing mortality outcomes. Prognostic markers included race, gender, tumor size, age and the Charlson comorbidity index score.
+
+
+RESULTS
+At a median followup of 43 months, age and comorbidity score strongly correlated with patient mortality and were most predictive of nonkidney cancer death, as measured by concordance statistics. Patients with localized, node negative kidney cancer had a low 3 (4.7%), 5 (7.5%) and 10-year (11.9%) probability of cancer specific death but a significantly higher overall risk of death from competing causes within 3 (10.9%), 5 (20.1%) and 10 years (44.4%) of renal cell carcinoma diagnosis, depending on comorbidity score.
+
+
+CONCLUSIONS
+Informed treatment decisions regarding patients with solid tumors must integrate not only cancer related variables but also factors that predict noncancer death. We established a comorbidity based predictive model that may assist in patient counseling by allowing quantification and comparison of competing risks of death in patients 66 years old or older with localized renal cell carcinoma who elect to proceed with surgery.

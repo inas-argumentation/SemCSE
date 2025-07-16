@@ -1,0 +1,2 @@
+Improving Machine Learning Approaches to Coreference Resolution
+Wepresentanounphrasecoreferencesystem that extends the work of Soon et al. (2001) and, to our knowledge, producesthebestresultsto dateontheMUC6 andMUC-7 coreferenceresolutiondata sets— F-measuresof 70.4 and63.4, respecti vely. Improvementsarisefrom two sources: extra-linguistic changesto the learningframework anda large-scaleexpansionof thefeaturesetto includemore sophisticatedlinguisticknowledge.

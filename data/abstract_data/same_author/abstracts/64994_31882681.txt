@@ -1,0 +1,2 @@
+Similarity Searching in Databases of Flexible 3D Structures Using Autocorrelation Vectors Derived from Smoothed Bounded Distance Matrices
+This paper presents an exploratory study of a novel method for flexible 3-D similarity searching based on autocorrelation vectors and smoothed bounded distance matrices. Although the new approach is unable to outperform an existing 2-D similarity searching in terms of enrichment factors, it is able to retrieve different compounds at a given percentage of the hit-list and so may be a useful adjunct to other similarity searching methods.

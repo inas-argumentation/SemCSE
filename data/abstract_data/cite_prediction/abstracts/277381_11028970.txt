@@ -1,0 +1,15 @@
+Using simple agent-based modeling to inform and enhance neighborhood walkability
+BACKGROUND
+Pedestrian-friendly neighborhoods with proximal destinations and services encourage walking and decrease car dependence, thereby contributing to more active and healthier communities. Proximity to key destinations and services is an important aspect of the urban design decision making process, particularly in areas adopting a transit-oriented development (TOD) approach to urban planning, whereby densification occurs within walking distance of transit nodes. Modeling destination access within neighborhoods has been limited to circular catchment buffers or more sophisticated network-buffers generated using geoprocessing routines within geographical information systems (GIS). Both circular and network-buffer catchment methods are problematic. Circular catchment models do not account for street networks, thus do not allow exploratory 'what-if' scenario modeling; and network-buffering functionality typically exists within proprietary GIS software, which can be costly and requires a high level of expertise to operate.
+
+
+METHODS
+This study sought to overcome these limitations by developing an open-source simple agent-based walkable catchment tool that can be used by researchers, urban designers, planners, and policy makers to test scenarios for improving neighborhood walkable catchments. A simplified version of an agent-based model was ported to a vector-based open source GIS web tool using data derived from the Australian Urban Research Infrastructure Network (AURIN). The tool was developed and tested with end-user stakeholder working group input.
+
+
+RESULTS
+The resulting model has proven to be effective and flexible, allowing stakeholders to assess and optimize the walkability of neighborhood catchments around actual or potential nodes of interest (e.g., schools, public transport stops). Users can derive a range of metrics to compare different scenarios modeled. These include: catchment area versus circular buffer ratios; mean number of streets crossed; and modeling of different walking speeds and wait time at intersections.
+
+
+CONCLUSIONS
+The tool has the capacity to influence planning and public health advocacy and practice, and by using open-access source software, it is available for use locally and internationally. There is also scope to extend this version of the tool from a simple to a complex model, which includes agents (i.e., simulated pedestrians) 'learning' and incorporating other environmental attributes that enhance walkability (e.g., residential density, mixed land use, traffic volume).

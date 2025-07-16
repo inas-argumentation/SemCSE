@@ -1,0 +1,14 @@
+User-Item Reciprocity in Recommender Systems: Incentivizing the Crowd
+Data consumption has changed significantly in the last 10 
+years. The digital revolution and the Internet has brought an abundance 
+of information to users. Recommender systems are a popular means of 
+finding content that is both relevant and personalized. However, today’s 
+users require better recommender systems, able of producing continuous 
+data feeds keeping up with their instantaneous and mobile needs. The 
+CrowdRec project addresses this demand by providing context-aware, 
+resource-combining, socially-informed, interactive and scalable recommendations. 
+The key insight of CrowdRec is that, in order to achieve 
+the dense, high-quality, timely information required for such systems, it 
+is necessary to move from passive user data collection, to more active 
+techniques fostering user engagement. For this purpose, CrowdRec activates 
+the crowd, soliciting input and feedback from the wider community

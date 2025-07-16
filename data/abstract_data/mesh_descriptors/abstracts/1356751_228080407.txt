@@ -1,0 +1,15 @@
+Ultra-low-dose CT reconstructed with ASiR-V using SmartmA for pulmonary nodule detection and Lung-RADS classifications compared with low-dose CT.
+AIM
+To evaluate the accuracy of ultra-low-dose computed tomography (ULDCT) with ASiR-V using a noise index (SmartmA) for pulmonary nodule detection and Lung CT Screening Reporting And Data System (Lung-RADS) classifications compared with low-dose CT (LDCT).
+
+
+MATERIALS AND METHODS
+Two-hundred and ten patients referred for lung cancer screening underwent conventional chest LDCT (0.80 ± 0.28 mSv) followed immediately by ULDCT (0.16 ± 0.03 mSv). ULDCT was scanned using 120 kV/SmartmA with a noise index of 28 HU and reconstructed with ASiR-V70%. The types and diameters of all nodules were recorded. The attenuation of pure ground-glass nodules (pGGNs) was measured on LDCT. All nodules were further classified using Lung-RADS. Sensitivities of nodule detection on ULDCT were analysed using LDCT as the reference standard. Logistic regression was used to establish a prediction model for the sensitivity of nodules.
+
+
+RESULTS
+LDCT revealed 362 nodules and the overall sensitivity on ULDCT was 90.1%. The sensitivity for solid nodules (SNs) of ≥1 mm diameter was 96.6% (228/236) and 100% (26/26) for SNs of ≥6 mm diameter. For pGGNs of ≥6 mm, the overall sensitivity was 93% (40/43) and 100% (29/29) for nodules with a attenuation value -700 HU or more. The agreement of Lung-RADS classification between two scans was good. On logistic regression, diameter was the only independent predictor for sensitivity of SNs (p<0.05). Diameter and attenuation value were predictors for pGGNs (p<0.05).
+
+
+CONCLUSION
+ULDCT with ASiR-V using SmartmA is suitable for lung-cancer screening in people with a BMI ≤35 kg/m2 as it has a low radiation dose of 0.16 mSv, high sensitivity for nodule detection and good performance of Lung-RADS classifications.

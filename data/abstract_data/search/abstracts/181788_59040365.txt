@@ -1,0 +1,2 @@
+Implementation of Smart Car Washing UsingGSM PLC
+The main objective of this paper is to perform exterior car washing automatically using Programmable Logic Controller integrated with GSM modem. GSM PLC sends information like entry, exit of car, emergency conditions to the customer or operator through SMS. After acquiring the information from PLC, the operator can able to act upon it. Car washing includes Spraying of soap solution, cleansing with water, wiped by brushes and finished with forced air drying.

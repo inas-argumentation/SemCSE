@@ -1,0 +1,2 @@
+Improved Fixed-Parameter Algorithms for Two Feedback Set Problems
+Settling a ten years open question, we show that the NP-complete Feedback Vertex Set problem is deterministically solvable in O(ck · m) time, where m denotes the number of graph edges, k denotes the size of the feedback vertex set searched for, and c is a constant. As a second result, we present a fixed-parameter algorithm for the NP-complete Edge Bipartization problem with runtime O(2k · m2).

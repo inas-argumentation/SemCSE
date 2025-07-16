@@ -1,0 +1,2 @@
+Loop-free Markov chains as determinantal point processes
+We show that any loop-free Markov chain on a discrete space can be viewed as a determinantal point process. As an application, we prove central limit theorems for the number of particles in a window for renewal processes and Markov renewal processes with Bernoulli noise.

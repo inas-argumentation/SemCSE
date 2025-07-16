@@ -1,0 +1,2 @@
+On the Closure of Triangle-Free Graphs Under Substitution
+On dit qu'un graphe G se construit a partir de deux graphes G 1 et G 2 par substitution,si,pour un sommet donne w de G 1 ,G apparait en supprimant w et en rendant,par la suite,les sommets de G 2 adjacents a tous les voisins de w dans G 1 .On presente ici une caracterisation par configurations interdites de la fermeture de graphes sans triangles sous substitution.

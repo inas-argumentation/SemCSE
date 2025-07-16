@@ -1,0 +1,2 @@
+Short Stickelberger Class Relations and Application to Ideal-SVP
+The worst-case hardness of finding short vectors in ideals of cyclotomic number fields (Ideal-SVP) is a central matter in lattice based cryptography. Assuming the worst-case hardness of Ideal-SVP allows to prove the Ring-LWE and Ring-SIS assumptions, and therefore to prove the security of numerous cryptographic schemes and protocols — including key-exchange, digital signatures, public-key encryption and fully-homomorphic encryption.

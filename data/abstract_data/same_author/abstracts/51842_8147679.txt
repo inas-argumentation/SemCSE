@@ -1,0 +1,2 @@
+Deploying long-lived and cost-effective hybrid sensor networks
+In this paper, we consider the problem of network deployment in hybrid sensor networks, consisting of both resource-rich and resource-impoverished sensor devices. The resource-rich devices, called micro-servers, are more expensive but have significantly greater bandwidth and energy capabilities compared to the low-cost, lowpowered sensors. Such hybrid sensor networks have the potential to support the higher bandwidth communications of broadband sensor networking applications, as

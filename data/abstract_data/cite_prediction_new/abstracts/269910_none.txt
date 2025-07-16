@@ -1,0 +1,2 @@
+Microwave radiometer spatial resolution enhancement
+Scanning radiometer data processing can allow enhancing the limited intrinsic spatial resolution. This is important for data fusion. Mathematically, the problem to be solved is an inverse ill-posed problem. In this paper we compare the classical Backus-Gilbert inversion method with the truncated singular value decomposition (TSVD) one. A one-dimensional intercomparison is accomplished using an hypothetical sensor configuration. Results show the superiority of TSVD inversion method.

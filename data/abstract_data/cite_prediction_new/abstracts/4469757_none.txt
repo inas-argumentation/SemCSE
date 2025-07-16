@@ -1,0 +1,2 @@
+Detection of Malicious Beacon Node Based on Intelligent Water Drops Algorithm
+--Security of the wireless sensor network is emerged as a crucial issue due its resource-constrained nature. Number of localization techniques suffers from security threats when there are compromised beacon nodes in the network. This paper presents a technique for detection and revocation of compromised beacon nodes using the concept of Intelligent Water Drop algorithm. The results are very promising and show great potentials towards offering a more secure localized solution of wireless sensor

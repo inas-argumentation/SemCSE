@@ -1,0 +1,2 @@
+Tutte's Edge-Colouring Conjecture
+Tutte made the conjecture in 1966 that every 2-connected cubic graph not containing the Petersen graph as a minor is 3-edge-colourable. The conjecture is still open, but we show that it is true, in general, provided it is true for two special kinds of cubic graphs that are almost planar.

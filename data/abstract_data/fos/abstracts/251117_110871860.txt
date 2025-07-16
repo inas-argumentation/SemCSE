@@ -1,0 +1,25 @@
+METHODS FOR ASSESSING THE CUSHIONING PERFORMANCE OF FREE–STALL DAIRY COW SYNTHETIC BEDS
+Cushioning in dairy cow synthetic bed materials is quantifiable in terms of compression force attenuation and 
+stability, but animal observation trials aimed at finding the best materials are expensive and time–consuming. Finite element 
+analysis (FEA) is a computational technique used for engineering stress and deformation analysis. Accelerometric testing 
+is used in sports engineering to test the cushioning offered by athletics tracks and synthetic sports surfaces. In the current 
+work, these two methods were used to study the cushioning performance of two of the most commonly used types of free–stall 
+or cubicle synthetic bed, rubber–crumb mattresses and ethylene vinyl acetate (EVA) mats, both of which are classified in 
+engineering terms as hyperfoams. That is, materials that can undergo large deformations under load and yet return to their 
+original shape on unloading. 
+FEA was used, in conjunction with quasi–static compression force tests, to assess free–stall bed cushioning during the 
+getting–up movement of a cow (a quasi–static “push”) and to predict, in a quick and cost–effective way, variation in 
+performance in time or as a result of an altered bed specification. The force–deflection responses of the materials of the two 
+bed types were closely matched in the ABAQUS FE code, giving confidence in the ability of the model to predict the effect 
+of changes in, for example, bed thickness and density. Accelerometric testing was used for the assessment of two further 
+performance criteria vital to a bed purchase decision: first, the impact absorption performance during the lying down 
+movement of a cow (a dynamic “drop”), and second, variation in cushioning performance over time as a result of the bed 
+being used by a herd for three years. 
+The quasi–static testing and FEA showed that a new rubber–crumb bed was more compliant than a new EVA bed and would 
+therefore be more likely to prevent knee pain during the getting–up movement. The peak acceleration results showed that the 
+new–condition rubber–crumb bed cushioned a cow knee impact force from a lying down movement best. However, the test 
+of the three–year–old rubber crumb bed showed it to be less compliant compared to the new condition (p < 0.001). The EVA 
+bed peak acceleration results also showed cushioning performance to be poorer after three years of use (p = 0.007), although 
+the data showed a less stark change compared to that for the rubber–crumb beds. The observed use–related reduction in 
+cushioning performance of the rubber–crumb bed was simulated in ABAQUS by reducing the model thickness by 50% and 
+looking at the force–deflection response.

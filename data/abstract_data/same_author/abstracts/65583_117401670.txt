@@ -1,0 +1,2 @@
+Remarks on some worked out applications of nonlinear control theory
+The improvements of nonlinear control theory are discussed in regard to real life applications. Some of the interactions between modeling and control are displayed. The importance of identification, of adapted choice of coordinates for inputs, state and outputs is described in view of noises analysis and of control objectives. Applications to robot control, tracking filters and distillation columns are presented.

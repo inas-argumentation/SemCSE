@@ -1,0 +1,10 @@
+Massively parallel rigid body dynamics simulations
+For decades, rigid body dynamics has been used in several active research fields to simulate the behavior
+ of completely undeformable, rigid bodies. Due to the focus of the simulations to either high physical accuracy
+ or real time environments, the state-of-the-art algorithms cannot be used in excess of several thousand
+ rigid bodies. Either the complexity of the algorithms would result in infeasible runtimes, or the simulation
+ could no longer satisfy the real time aspects.
+ In this paper we present a novel approach for large-scale rigid body dynamics simulations. The
+ presented algorithm enables for the first time rigid body simulations of several million rigid bodies. We
+ describe in detail the parallel rigid body algorithm and its necessary extensions for a large-scale
+ MPI parallelization and analyze the parallel algorithm by means of a particular simulation scenario.

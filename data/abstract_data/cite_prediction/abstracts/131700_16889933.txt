@@ -1,0 +1,2 @@
+GIPSY: Automated Geographic Indexing of Text Documents
+In this paper we present an algorithm which automatically extracts geopositional coordinate index terms from text to support georeferenced document indexing and retrieval. Under this algorithm, words and phrases containing geographic place names or characteristics are extracted from a text document and used as input to database functions which use spatial reasoning to approximate statistically the geoposition being referenced in the text. We conclude with a discussion of preliminary results and future work.

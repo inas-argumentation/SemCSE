@@ -1,0 +1,2 @@
+A class of subsums of Euler’s sum
+Abstract A class of sums of the type ∑ n = 1 , n ≡ a 1 , … , a r ⁢ ( mod ⁡ m ) ∞ 1 n 2 ⁢ k $\sum^{\infty}_{n=1,n\equiv a_{1},\ldots,a_{r}\,(\operatorname{mod}m)}\frac{1}{% n^{2k}}$ is evaluated, where k, m and r are positive integers with m ≥ 2 $m\geq 2$ and a 1 , … , a r $a_{1},\ldots,a_{r}$ are integers satisfying 1 ≤ a 1 < a 2 < ⋯ < a r ≤ m - 1 $1\leq a_{1}

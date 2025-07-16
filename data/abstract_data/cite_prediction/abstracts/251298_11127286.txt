@@ -1,0 +1,2 @@
+A Method for Refocusing Photos using Depth from Defocus
+This paper will describe a method for refocusing photos taken with a regular camera. By capturing a series of images from the same viewpoint with varying focal depth, a depth metric for the scene can be calculated and used to artificially blur the photo in a realistic way to emulate a new focal depth.

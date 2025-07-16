@@ -1,0 +1,2 @@
+Electric power system simulation for risk assessment of power transformer failure under external short-circuit conditions
+Complex mathematical model, algorithm and software of risk assessment of failure if defected power transformer windings due to external short circuit were proposed, based on the use of fuzzy modeling of technical condition of power transformer windings and probabilistic and statistical modeling of power grid to determine probability characteristics of short circuit currents, which is flowing in the power transformer windings.

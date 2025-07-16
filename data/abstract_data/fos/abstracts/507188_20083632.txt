@@ -1,0 +1,2 @@
+Discrete Hartley transform in error control coding
+A new class of real-valued linear code obtained by using the discrete Hartley transform (DHT) is defined. The authors have derived the limitation on the choice of parity frequencies so as to define DHT codes with the cyclic-shift property. Then, by introducing the well-established encoding/decoding algorithm for cyclic codes in error control coding, they have constructed the encoder/decoder for the DHT cyclic codes. >

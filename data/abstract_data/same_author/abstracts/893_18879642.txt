@@ -1,0 +1,2 @@
+A Component Framework for Resource Management Systems
+Resource management is a complex process in many business organizations. Current solutions are typically in a case-by-case manner. In this paper, we present a general component framework for resource management such that different applications can be instantiated from the framework.

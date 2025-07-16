@@ -1,0 +1,2 @@
+How to build your own digital signature in your Web site
+This paper aimed to clarify the concept of the digital signature, and its usage in Web site security; specially in integrity, non repudiation, and in authentication. The paper also illustrates how to choose one or more digital signature algorithms (Hybrid algorithm) and apply it practically in your Web site.

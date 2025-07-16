@@ -1,0 +1,2 @@
+How to discretize the Total Variation of an image?
+Because they are based on finite differences, usual discretizations of the Total Variation lead to aliased images. We propose a new discretization called spectral total variation that agrees with Shannon sampling principles and produces images that can be exactly interpolated. The quality improvement is illustrated experimentally in the case of image deblurring. (© 2008 WILEY‐VCH Verlag GmbH & Co. KGaA, Weinheim)

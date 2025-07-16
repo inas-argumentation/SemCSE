@@ -1,0 +1,2 @@
+An Intelligent Image Database System
+A prototype intelligent image database system (IIDS) that is based on a novel pictorial data structure is presented. This prototype system supports spatial reasoning, flexible image information retrieval, visualization, and traditional image database operations. A pictorial data structure, based on 2-D strings, provides an efficient means for iconic indexing in image database systems and spatial reasoning. The modular design of IIDS facilitates its implementation. Further extensions of the prototype system are discussed. >

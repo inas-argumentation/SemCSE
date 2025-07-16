@@ -1,0 +1,2 @@
+fast Computation of 3-D Geometric Moments Using a Discrete Gauss' Theorem
+A discrete Gauss' theorem is presented. Using a fast surface tracking algorithm and the discrete Gauss' theorem, we design a new method to compute the Cartesian geometric moments of 3-D objects. Compared to previous methods to compute such moments, the new method reduces the computational complexity significantly.

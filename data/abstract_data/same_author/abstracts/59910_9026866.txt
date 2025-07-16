@@ -1,0 +1,2 @@
+A Comparison of Two Verification Methods for Speculative Instruction Execution
+In this paper we describe and compare two methodologies for verifying the correctness of a speculative out-of-order execution system with interrupts. Both methods are deductive (we use PVS) and are based on refinement. The first proof is by direct refinement to a sequential system; the second proof combines refinement with induction over the number of retirement buffer slots.

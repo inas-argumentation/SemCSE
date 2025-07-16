@@ -1,0 +1,2 @@
+Classifying Supporting, Refuting, or Uncertain Evidence for Pneumonia Case Review
+We found substantial annotator variability in identifying supporting, refuting, or uncertain evidence for the diagnosis of pneumonia in clinical text. Future work will expand these methods to a larger case sample and incorporate a more formal linguistic analysis to identify specific lexical cues thereby extending existing taxonomies of uncertainty and improving automated NLP algorithms.

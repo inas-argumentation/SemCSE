@@ -1,0 +1,17 @@
+Unsupervised Pretraining for Sequence to Sequence Learning
+This work presents a general unsupervised learning method to improve
+the accuracy of sequence to sequence (seq2seq) models. In our method, the
+weights of the encoder and decoder of a seq2seq model are initialized
+with the pretrained weights of two language models and then 
+fine-tuned with labeled data. We apply this method to
+challenging benchmarks in machine translation and abstractive
+summarization and find that it significantly improves the subsequent
+supervised models.  Our main result is that the pretraining
+accelerates training and improves generalization of seq2seq models,
+achieving state-of-the-art results on the WMT
+English-&gt;German task, surpassing a range of methods using
+both phrase-based machine translation and neural machine
+translation. Our method achieves an improvement of 1.3 BLEU from the
+previous best models on both WMT'14 and WMT'15
+English-&gt;German. On summarization, our method beats
+the supervised learning baseline.

@@ -1,0 +1,2 @@
+A new approximation to three-dimensional electromagnetic scattering
+We introduce a new source-dependent but diagonal scattering tensor to approximate the electromagnetic fields internal to a scatterer. The approximate analytical expressions for the three diagonal scattering components are derived. Numerical tests show that the new approximation has favorable accuracy and wider range of applicability than the existing approximations such as the widely used extended Born approximation and the quasi-analytical approximation.

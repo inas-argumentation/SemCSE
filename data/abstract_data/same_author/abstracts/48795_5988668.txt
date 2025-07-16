@@ -1,0 +1,2 @@
+Using text search for personal photo collections with the MediAssist system
+The MediAssist system enables organisation and searching of personal digital photo collections based on contextual information, content-based analysis and semi-automatic annotation. One mode of user interaction uses automatically extracted features to create text surrogates for photos, which enables text search of photo collections without manual annotation. Our evaluation shows that this text search facility is effective for known-item search.

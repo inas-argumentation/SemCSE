@@ -1,0 +1,2 @@
+Pancyclicity of k-ary n-cube networks with faulty vertices and edges
+A graph G is said to be f-fault p-pancyclic if after removing f faulty vertices and/or edges from G, the resulting graph contains a cycle of every length from p to |V(G)|. In this paper, we consider one of the most popular networks which is named k-ary n-cube, and show that it is (2n-2)-fault k-pancyclic if k>=3 is odd. Finally, an example shows that our result is best possible in some sense.

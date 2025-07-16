@@ -1,0 +1,2 @@
+Upper bounding the schedule length in SINR graphs with randomly-distributed nodes ?
+We extend the results of [Avin et al., ALGOSENSORS 2009] concerning the connectivity of Uniform SINR graphs, showing that, for path-loss exponent α > 2, if the nodes are distributed uniformly at random in the unit square, then O(logn) colors are sufficient to yield a (strongly) connected SINR graph whp.

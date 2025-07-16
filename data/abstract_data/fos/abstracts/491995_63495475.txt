@@ -1,0 +1,2 @@
+Implementation of WLAN of Port Video Surveillance System Front Device
+Designs and realizes a wireless video surveillance system based on 802.11b standard.The system mainly consists of the S3C2410 CPU based on ARM920T core and Linux 2.6.14 kernel.The drivers of USB,network,LCD,wireless LAN adapt card are reported to ARM-Linux kernel.Ana-lyzes the process of collection,encoding and transmission of video stream data.The whole system is founded on embedded system architecture.

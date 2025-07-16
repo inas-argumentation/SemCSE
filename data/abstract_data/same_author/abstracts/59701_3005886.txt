@@ -1,0 +1,2 @@
+Partitioning into graphs with only small components
+The paper presents several results on edge partitions and vertex partitions of graphs into graphs with bounded size components. We show that every graph of bounded tree-width and bounded maximum degree admits such partitions. We also show that an arbitrary graph of maximum degree four has a vertex partition into two graphs, each of which has components on at most 57 vertices. Some generalizations of the last result are also discussed.

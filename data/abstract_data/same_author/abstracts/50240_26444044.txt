@@ -1,0 +1,2 @@
+Efficient Implementation of Regular Languages Using Reversed Alternating Finite Automata
+Alternating finite automata (AFA) provide a natural and succinct way to denote regular languages. We introduce a bit-wise representation of reversed AFA (r-AFA) transition functions and describe an efficient implementation method for r-AFA and their operations using this representation. Experiments have shown that this implementation is much more efficient than, for instance, the Grail DFA implementation in both space and time.

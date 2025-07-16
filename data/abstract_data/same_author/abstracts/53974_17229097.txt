@@ -1,0 +1,2 @@
+Distance irredundance and connected domination numbers of a graph
+Let k be a positive integer and G be a connected graph. This paper considers the relations among four graph theoretical parameters: the k-domination number @c"k(G), the connected k-domination number @c"k^c(G); the k-independent domination number @c"k^i(G) and the k-irredundance number ir"k(G). The authors prove that if an ir"k-set X is a k-independent set of G, then ir"k(G)[email protected]"k(G)[email protected]"k^i(G), and that for k>=2, @c"k^c(G)=1 if ir"k(G)=1, @c"k^c(G)=

@@ -1,0 +1,15 @@
+Reducing variability in the output of pattern classifiers using histogram shaping.
+PURPOSE
+The authors present a novel technique based on histogram shaping to reduce the variability in the output and (sensitivity, specificity) pairs of pattern classifiers with identical ROC curves, but differently distributed outputs.
+
+
+METHODS
+The authors identify different sources of variability in the output of linear pattern classifiers with identical ROC curves, which also result in classifiers with differently distributed outputs. They theoretically develop a novel technique based on the matching of the histograms of these differently distributed pattern classifier outputs to reduce the variability in their (sensitivity, specificity) pairs at fixed decision thresholds, and to reduce the variability in their actual output values. They empirically demonstrate the efficacy of the proposed technique by means of analyses on the simulated data and real world mammography data.
+
+
+RESULTS
+For the simulated data, with three different known sources of variability, and for the real world mammography data with unknown sources of variability, the proposed classifier output calibration technique significantly reduced the variability in the classifiers' (sensitivity, specificity) pairs at fixed decision thresholds. Furthermore, for classifiers with monotonically or approximately monotonically related output variables, the histogram shaping technique also significantly reduced the variability in their actual output values.
+
+
+CONCLUSIONS
+Classifier output calibration based on histogram shaping can be successfully employed to reduce the variability in the output values and (sensitivity, specificity) pairs of pattern classifiers with identical ROC curves, but differently distributed outputs.

@@ -1,0 +1,2 @@
+Mean value coordinates in 3D
+Abstract: Trivariate barycentric coordinates can be used both to express a point inside a tetrahedron as a convex combination of the four vertices and to linearly interpolate data given at the vertices. In this paper we generalize these coordinates to convex polyhedra and the kernels of star-shaped polyhedra. These coordinates generalize in a natural way a recently constructed set of coordinates for planar polygons, called mean value coordinates.

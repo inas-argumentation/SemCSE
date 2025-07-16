@@ -1,0 +1,8 @@
+Analyzing the Performance of Lock-Free Data Structures: A Conflict-based Model
+This paper considers the modeling and the analysis of the performance of lock-free concurrent data structures that can be represented as linear combinations of fixed size retry loops. 
+ 
+Our main contribution is a new way of modeling and analyzing a general class of lock-free algorithms, achieving predictions of throughput that are close to what we observe in practice. We emphasize two kinds of conflicts that shape the performance: i hardware conflicts, due to concurrent calls to atomic primitives; ii logical conflicts, caused by concurrent operations on the shared data structure. 
+ 
+We propose also a common framework that enables a fair comparison between lock-free implementations by covering the whole contention domain, and comes with a method for calculating a good back-off strategy. 
+ 
+Our experimental results, based on a set of widely used concurrent data structures and on abstract lock-free designs, show that our analysis follows closely the actual code behavior.

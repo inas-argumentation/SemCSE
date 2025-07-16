@@ -1,0 +1,6 @@
+Planar Decompositions and the Crossing Number of Graphs with an Excluded Minor
+Tree decompositions of graphs are of fundamental importance in structural and algorithmic graph theory. Planar decompositions generalise tree decompositions by allowing an arbitrary planar graph to index the decomposition. We prove that every graph that excludes a fixed graph as a minor has a planar decomposition with bounded width and a linear number of bags. 
+ 
+The crossing number of a graph is the minimum number of crossings in a drawing of the graph in the plane.We prove that planar decompositions are intimately related to the crossing number, in the sense that a graph with bounded degree has linear crossing number if and only if it has a planar decomposition with bounded width and linear order. It follows from the above result about planar decompositions that every graph with bounded degree and an excluded minor has linear crossing number. 
+ 
+Analogous results are proved for the convex and rectilinear crossing numbers. In particular, every graph with bounded degree and bounded tree-width has linear convex crossing number, and every K3, 3-minor-free graph with bounded degree has linear rectilinear crossing number.

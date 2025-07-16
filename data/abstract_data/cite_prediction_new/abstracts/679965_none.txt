@@ -1,0 +1,15 @@
+[Comparison of simple and multiple imputation methods using a risk model for surgical mortality as example].
+INTRODUCTION
+It is common for studies in health to face problems with missing data. Through imputation, complete data sets are built artificially and can be analyzed by traditional statistical analysis. The objective of this paper is to compare three types of imputation based on real data.
+
+
+METHODS
+The data used came from a study on the development of risk models for surgical mortality. The sample size was 450 patients. The imputation methods applied were: two single imputations and one multiple imputation and the assumption was MAR (Missing at Random).
+
+
+RESULTS
+The variable with missing data was serum albumin with 27.1% of missing rate. The logistic models adjusted by simple imputation were similar, but differed from models obtained by multiple imputation in relation to the inclusion of variables.
+
+
+CONCLUSIONS
+The results indicate that it is important to take into account the relationship of albumin to other variables observed, because different models were obtained in single and multiple imputations. Single imputation underestimates the variability generating narrower confidence intervals. It is important to consider the use of imputation methods when there is missing data, especially multiple imputation that takes into account the variability between imputations for estimates of the model.

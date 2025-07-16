@@ -1,0 +1,15 @@
+Focal boost to residual gross tumor volume in brachytherapy for cervical cancer-A feasibility study.
+PURPOSE
+Image-guided plan optimization with MRI and CT for interstitial and intracavitary brachytherapy is an established technique in treating cervical cancer. The purpose of this study was to assess the feasibility of boosting the dose to the residual gross tumor volume (GTV-Tres) to 140% of the high-risk clinical target volume (HR-CTV) prescription.
+
+
+METHODS AND MATERIALS
+Brachytherapy plans from 50 consecutive patients were analyzed in this study. All received external beam radiotherapy followed by brachytherapy (6 Gy × 4 fraction or 7 Gy × 4 fraction to HR-CTV). The original treatment plans were reoptimized escalating the GTV-Tres dose 140% of the original HR-CTV prescription dose to 8.4 Gy and 9.8 Gy/ per fraction, respectively, with the aim of achieving GTV-TresV140 ≥ 90% and D98 ≥ 100 Gy. The HR-CTV coverage and organ at risk (OAR) dose-volume histogram values were kept within the tolerance, which had been accepted for the original clinical plans.
+
+
+RESULTS
+A total of 24 patients (48%) achieved the planning goal after reoptimization. There was no significant difference between the D2cc of the OARs of the clinical plan and the study boost plan. The factors having greatest impact on the delivered dose to the GTV-Tres are proximity of the OAR, intrauterine positioned outside the GTV-Tres, and suboptimal interstitial placement for boosting GTV-Tres.
+
+
+CONCLUSIONS
+It is possible to boost the prescription dose to the GTV-Tres achieving 140% increase, which equates to an EQD2α/β=10 > 100 Gy. Plans without both interstitial catheters and/or intrauterine within the GTV-Tres are most likely to be suboptimal. This planning study demonstrates that dose escalation to the GTV-Tres is feasible and further work into clinical application should be considered.

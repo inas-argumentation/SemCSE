@@ -1,0 +1,80 @@
+On relations between weak and strong type inequalities for modified maximal operators on non-doubling metric measure spaces
+<jats:p>In this article, we investigate a special class of non-doubling metric measure spaces in order to describe the possible configurations of <jats:inline-formula id="j_forum-2018-0126_ineq_9999">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0251.png" />
+                     <jats:tex-math>{P_{k,{\mathrm{s}}}^{{\mathrm{c}}}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula>, <jats:inline-formula id="j_forum-2018-0126_ineq_9998">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0252.png" />
+                     <jats:tex-math>{P_{k,{\mathrm{s}}}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula>, <jats:inline-formula id="j_forum-2018-0126_ineq_9997">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0263.png" />
+                     <jats:tex-math>{P_{k,{\mathrm{w}}}^{{\mathrm{c}}}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula> and <jats:inline-formula id="j_forum-2018-0126_ineq_9996">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0264.png" />
+                     <jats:tex-math>{P_{k,{\mathrm{w}}}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula>, the sets of all <jats:inline-formula id="j_forum-2018-0126_ineq_9995">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0677.png" />
+                     <jats:tex-math>{p\in[1,\infty]}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula> for which the weak and strong type <jats:inline-formula id="j_forum-2018-0126_ineq_9994">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0130.png" />
+                     <jats:tex-math>{(p,p)}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula> inequalities hold for the centered and non-centered modified Hardy–Littlewood maximal operators <jats:inline-formula id="j_forum-2018-0126_ineq_9993">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0203.png" />
+                     <jats:tex-math>{M^{{\mathrm{c}}}_{k}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula> and <jats:inline-formula id="j_forum-2018-0126_ineq_9992">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0230.png" />
+                     <jats:tex-math>{M_{k}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula>, <jats:inline-formula id="j_forum-2018-0126_ineq_9991">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0592.png" />
+                     <jats:tex-math>{k\geq 1}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula>. For any fixed <jats:italic>k</jats:italic> we describe the necessary conditions that <jats:inline-formula id="j_forum-2018-0126_ineq_9990">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0251.png" />
+                     <jats:tex-math>{P_{k,{\mathrm{s}}}^{{\mathrm{c}}}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula>, <jats:inline-formula id="j_forum-2018-0126_ineq_9989">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0252.png" />
+                     <jats:tex-math>{P_{k,{\mathrm{s}}}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula>, <jats:inline-formula id="j_forum-2018-0126_ineq_9988">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0263.png" />
+                     <jats:tex-math>{P_{k,{\mathrm{w}}}^{{\mathrm{c}}}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula> and <jats:inline-formula id="j_forum-2018-0126_ineq_9987">
+                  <jats:alternatives>
+                     
+                     <jats:inline-graphic xlink:href="graphic/j_forum-2018-0126_eq_0264.png" />
+                     <jats:tex-math>{P_{k,{\mathrm{w}}}}</jats:tex-math>
+                  </jats:alternatives>
+               </jats:inline-formula> must satisfy in general and illustrate each admissible configuration with a properly chosen non-doubling metric measure space. We also give some partial results related to an analogous problem stated for varying <jats:italic>k</jats:italic>.</jats:p>

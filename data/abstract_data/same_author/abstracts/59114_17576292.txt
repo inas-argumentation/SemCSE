@@ -1,0 +1,2 @@
+Ninja: A Framework for Network Services
+ion for controlling parallelism. DEC SRC Technical Report 42, Palo Alto, California, 1989. [SBL99] Y. Saito, B. Bershad and H. Levy. “Manageability, Availability and Performance in Porcupine: A Highly Scalable, Cluster-based Mail Service.” Proc. of the 17th SOSP. October 1999. [Sco96] S. L. Scott. “Synchronization and Communication in the T3E Multiprocessor.” Proc. of ASPLOS 1996,

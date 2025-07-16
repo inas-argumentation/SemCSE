@@ -1,0 +1,2 @@
+Covariant and dynamical reduction for principal bundle field theories
+Reduction for field theories with symmetry can be done either covariantly—that is, on spacetime—or dynamically—that is, after spacetime is split into space and time. The purpose of this article is to show that these two reduction procedures are, in an appropriate sense, equivalent for a class of field theories whose fields take values in a principal bundle. One can think of this class of field theories as including examples such as a “sea of rigid bodies” with and appropriate interbody coupling potential.

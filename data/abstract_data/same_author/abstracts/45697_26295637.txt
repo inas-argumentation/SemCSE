@@ -1,0 +1,2 @@
+A Linear-Time Algorithm for Computing Translocation Distance between Signed Genomes
+The study of evolution based on rearrangements leads to a rearrangement distance problem, i.e., computing the minimum number of rearrangement events required to transform one geonome to another. In this paper we study the translocation distance problem, modeling the evolution of genomes by translocations. We present a linear-time algorithm for computing the translocation distance between signed genomes in this paper, improving a previous O(n 3) bound by Hannenhalli in 1996.

@@ -1,0 +1,8 @@
+A framework for learned CountSketch
+Sketching is a compression technique that can be applied to many problems to solve them quickly and approximately. The matrices used to project data to smaller dimensions are called "sketches". In this work, we consider the problem of optimizing sketches to obtain low approximation error over a data distribution. 
+
+We introduce a general framework for "learning" and applying CountSketch, a type of sparse sketch. The sketch optimization procedure has two stages: one for optimizing the placements of the sketch's non-zero entries and another for optimizing their values. Next, we provide a way to apply learned sketches that has worst-case guarantees for approximation error. 
+
+We instantiate this framework with three sketching applications: least-squares regression, low-rank approximation (LRA), and k-means clustering. Our experiments demonstrate that our approach substantially decreases approximation error compared to classical and naively learned sketches. 
+
+Finally, we investigate the theoretical aspects of our approach. For regression and LRA, we show that our method obtains state-of-the art accuracy for fixed time complexity. For LRA, we prove that it is strictly better to include the first optimization stage for two standard input distributions. For k-means, we derive a more straightforward means of retaining approximation guarantees.

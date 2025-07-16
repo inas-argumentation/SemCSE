@@ -1,0 +1,15 @@
+Drug price, dosage and safety: Real-world evidence of oral hypoglycemic agents.
+OBJECTIVES
+Drug price reduction is one of the major policies to restrain pharmaceutical expenses worldwide. This study explores whether there is a relationship between drug price and clinical quality using real-world data.
+
+
+METHODS
+Patients with newly-diagnosed type 2 diabetes receiving metformin or sulfonylureas during 2001 and 2010 were identified using the claim database of the Taiwan universal health insurance system. Propensity score matching was performed to obtain comparable subjects for analysis. Pharmaceutical products were categorized as brand-name agents (BD), highpriced generics (HP) or low-priced generics (LP). Indicators of clinical quality were defined as the dosage of cumulative oral hypoglycemic agents (OHA), exposure to other pharmacological classes of OHA, hospitalization or urgent visit for hypoglycemia or hyperglycemia, insulin utilization and diagnosis of diabetic complications within 1 year after diagnosis.
+
+
+RESULTS
+A total of 40,152 study subjects were identified. A generalized linear mix model showed that HP and BD users received similar OHA dosages with comparable clinical outcomes. By contrast, LP users had similar outcomes to BD users but received a 39% greater OHA dosage. A marginally higher risk of poor glycemic control in LP users was also observed.
+
+
+CONCLUSIONS
+Drug price is related to indicators of clinical quality. Clinicians and health authorities should monitor the utilization, effectiveness and clinical safety indicators of generic drugs, especially those with remarkably low prices.

@@ -1,0 +1,2 @@
+Deep Neural Network Regression for Short-Term Load Forecasting of Natural Gas
+This paper proposes a short-term load forecasting method for natural gas using deep learning. Deep learning has proven to be a powerful tool for many classification problems seeing significant use in machine learning fields like image recognition and speech processing. This paper explores many aspects of using deep neural networks for time series forecasting. It is determined that the proposed network outperforms traditional artificial neural networks and linear regression based forecasters.

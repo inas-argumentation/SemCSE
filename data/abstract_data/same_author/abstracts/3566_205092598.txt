@@ -1,0 +1,2 @@
+The Complexity of Colouring Problems on Dense Graphs
+We consider the problem of deciding whether or not a graph has a vertex k -colouring, restricted to the class of graphs in which each vertex has degree at least α n , where α is a fixed positive constant and n is the number of vertices of the graph. We show that there is a deterministic polynomial time algorithm for this problem when α > ( k − 3)/( k − 2) and that this is best possible. We also consider the corresponding enumeration problems.

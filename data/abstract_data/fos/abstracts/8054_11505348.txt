@@ -1,0 +1,2 @@
+The slip-and-slide algorithm: a refinement protocol for detector geometry
+Geometry correction is performed with separation of Euclidean and non-Euclidean movements with respect to the sample, refined against independent target functions derived from the data. This leads to substantial improvements in indexing rates and data quality indicators and refines to convergence.

@@ -1,0 +1,2 @@
+Searching the Higgs with the neurochip Totem
+Abstract We show that neural network classifiers can be helpful in discriminating Higgs production events from the huge background at LHC, assuming the case of a mass value M H ∼ 200 GeV. We use the high performance neurochip TOTEM, trained by the Reactive Tabu Search algorithm (RTS), which could be used for on-line purposes. Two different sets of input variables are compared.

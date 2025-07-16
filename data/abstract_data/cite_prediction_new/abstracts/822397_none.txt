@@ -1,0 +1,15 @@
+MiR-183 modulates multi-drug resistance in hepatocellular cancer (HCC) cells via miR-183-IDH2/SOCS6-HIF-1α feedback loop.
+OBJECTIVE
+MiR-183 acts as an oncomiR and is usually upregulated in hepatocellular cancer (HCC). This study aims to study the association between miR-183 dysregulation and multi-drug resistance (MDR). Also, how it is dysregulated in HCC cells was investigated.
+
+
+MATERIALS AND METHODS
+The association between miR-183 and HIF-1α in HCC cell line BEL-7402 and the multidrug-resistant variant BEL-7402/5-fluorouracil (BEL-7402/5-FU) were studied using qRT-PCR and Western blot analysis. The mediators involved in feedback regulation between miR-183 and HIF-1α were further studied. Then, the effect of the miR-183-SOCS6 axis on IC50 of BEL-7402/5-FU cells to 5-FU were investigated by MTT assay.
+
+
+RESULTS
+The expression of miR-183 and HIF-1α are positively correlated in BEL-7402 and BEL-7402/5-FU cells. IDH2 knockdown resulted in significantly increased HIF-1α expression in both BEL-7402 and BEL-7402/5-FU cells. Knockdown of SOCS6 had similar but stronger effect as miR-183 in promoting MRP2, P-gp, p-STAT3 and HIF-1α expression in BEL-7402 cells, while SOCS6 overexpression also showed similar but stronger effect as miR-183 inhibition in reducing MRP2, P-gp, p-STAT3 and HIF-1α levels in BEL-7402/5-FU cells. Both SOCS6 overexpression and miR-183 knockdown significantly increased the sensitivity of BEL-7402/5-FU cells to 5-FU. MiR-183 overexpression partly abrogated the effect of SOCS6 in enhancing 5-FU sensitivity.
+
+
+CONCLUSIONS
+Both HIF-1α-miR-183-IDH2-HIF-1α and HIF-1α-miR-183-SOCS6-p-STAT3-HIF-1α feedback loops are involved in miR-183 upregulation in HCC cells. MiR-183 can modulate MDR of HCC cells at least partly through suppressing SOCS6.

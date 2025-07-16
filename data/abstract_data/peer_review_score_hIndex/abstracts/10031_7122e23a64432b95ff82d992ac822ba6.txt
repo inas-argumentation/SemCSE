@@ -1,0 +1,9 @@
+Go with the Flow: the distribution of information processing in multi-path networks
+The architectures of convolution neural networks (CNN) have a great impact on the predictive performance and efficiency of the model.
+Yet, the development of these architectures is still driven by trial and error, making the design of novel models a costly endeavor. 
+To move towards a more guided process, the impact of design decisions on information processing must be understood better. 
+This work contributes by analyzing the processing of the information in neural architectures with parallel pathways.
+Using logistic regression probes and similarity indices, we characterize the role of different pathways in the network during the inference process.
+In detail, we find that similar sized pathways advance the solution quality at a similar pace, with high redundancy.
+On the other hand, shorter pathways dominate longer ones by majorly transporting (and improving) the main signal, while longer pathways do not advance the solution quality directly. 
+Additionally, we explore the situation in which networks start to ``skip'' layers and how the skipping of layers is expressed.

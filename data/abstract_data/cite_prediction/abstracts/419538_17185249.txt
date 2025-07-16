@@ -1,0 +1,2 @@
+Game-based forensics course for first year students
+This paper focuses on the design and development of a game-based forensics course. This course uses the game-based learning (GBL) approach that builds the game in a real computing environment that has direct access to actual forensics tools from a forensics machine and the evidence from a suspect machine. Interactive visualizations will be used to help students to understand the intangible and inaccessible abstract concepts such as deleted/hidden/encrypted/over-written digital evidence.

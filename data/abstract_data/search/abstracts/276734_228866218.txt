@@ -1,0 +1,2 @@
+Adjacency matrix and Wiener index of zero divisor graph \varGamma (Z_n) G Z n
+Topological indices are widely used for characterizing molecular graphs, establishing relationships between structure and properties of molecules. In this article we discuss adjacency matrix and three topological indices: Wiener index, Laplacian energy and Zagreb indices of zero divisor graphs of \mathbb {Z}_n$ Z n We also provide a MATLAB code for Laplacian energy and Zagreb indices of \varGamma \mathbb {Z}_n) G Z n

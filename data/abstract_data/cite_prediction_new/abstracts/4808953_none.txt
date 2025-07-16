@@ -1,0 +1,2 @@
+Cell decompositions of moduli space, lattice points and Hurwitz problems
+In this article we describe cell decompositions of the moduli space of Riemann surfaces and their relationship to a Hurwitz problem. The cells possess natural linear structures and with respect to this they can be described as rational convex polytopes which come equipped with natural integer points and a volume form. We show how to effectively calculate the number of lattice points and the volumes over all the cells and that these calculations contain deep information about the moduli space.

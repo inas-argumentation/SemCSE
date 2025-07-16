@@ -1,0 +1,2 @@
+Strong edge colorings of graphs
+Abstract Let χ s ′(G), called the strong coloring number of G , denote the minimum number of colors for which there is a proper edge coloring of a graph G in which no two of its vertices is incident to edges colored with the same set of colors. It is shown that χ s ′(G) ⩽ ⌈cn⌉, 1 2 , whenever Λ ( G ) is appropriately bounded as a function of n , where n is the order of G . This result is in the direction of the conjecture that χ s ′( G ) ⩽ n + 1 for each graph G with no isolated edges and at most one isolated vertex.

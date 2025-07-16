@@ -1,0 +1,2 @@
+Polychromatic Hamilton cycles
+Abstract The edges of the complete graph K n are coloured so that no colour appears more than k = k ( n ) times, k=⌈ n (A ln n) ⌉ , for some sufficiently large A . We show that there is always a Hamiltonian cycle in which each edge is a different colour. The proof technique is probabilistic.

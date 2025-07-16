@@ -1,0 +1,2 @@
+A Pseudo Random Numbers Generator Based on Chaotic Iterations. Application to Watermarking
+In this paper, a new chaotic pseudo-random number generator (PRNG) is proposed. It combines the well-known ISAAC and XORshift g enerators with chaotic iterations. This PRNG possesses important propert ies of topological chaos and can successfully pass NIST and TestU01 batteries of test s. This makes our generator suitable for information security applications like cryptography. As an illustrative example, an application in the field of waterma king is presented.
