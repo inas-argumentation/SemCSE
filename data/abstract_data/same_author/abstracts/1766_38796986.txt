@@ -1,0 +1,2 @@
+Simulation and Analysis of Cryptographic Protocols
+This paper integrates logic and process calculus components to permit the comprehensive simulation and analysis of cryptographic protocols. The approach permits proofs about the information transmitted in protocols as well as the behavior of participating principals.

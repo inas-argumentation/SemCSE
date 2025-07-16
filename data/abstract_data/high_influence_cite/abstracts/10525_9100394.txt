@@ -1,0 +1,2 @@
+Does the Cross-Talk Between Nonlinear Modes Limit the Performance of NFDM Systems?
+We show a non-negligible cross-talk between nonlinear modes in Nonlinear Frequency-Division Multiplexed system when data is modulated over the nonlinear Fourier spectrum and transmitted over a lumped amplified fiber link. We evaluate the performance loss if the cross-talks are neglected.

@@ -1,0 +1,2 @@
+A note on compact Kähler manifolds with nef tangent bundles
+In this paper, we study the compact Kähler manifolds whose tangent bundles are numerically effective and whose anti-Kodaira dimensions are equal to one. LetX be a compact Kähler manifold with nef tangent bundle and semiample anti-canonical bundle. We prove that κ(−KX)=1 if and only if there exists a finite étale coverY→X such thatY≅ℙ1×A, whereA is a complex torus. As a consequence, we are able to improve upon a result of T. Fujiwara [3, 4].

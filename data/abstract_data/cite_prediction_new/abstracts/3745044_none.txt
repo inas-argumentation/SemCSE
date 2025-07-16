@@ -1,0 +1,2 @@
+A Rapid Algorithm For Reliability Optimisation Of Parallel Redundant Systems
+A rapid method is proposed for optimization of reliability of multiconstraint parallel redundant systems. The constraints need not be linear. This method provides good starting values, which are close to the boundary of the feasible region, for the number of redundant units in each subsystem. No proof has been presented to establish the optimality obtained by this method. Yet for examples tried out this method provides optimal or near optimal solutions.

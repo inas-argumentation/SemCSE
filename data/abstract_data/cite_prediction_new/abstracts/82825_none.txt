@@ -1,0 +1,11 @@
+Detecting gene clusters under evolutionary constraint in a large number of genomes
+MOTIVATION
+Spatial clusters of genes conserved across multiple genomes provide important clues to gene functions and evolution of genome organization. Existing methods of identifying these clusters often made restrictive assumptions, such as exact conservation of gene order, and relied on heuristic algorithms.
+
+
+RESULTS
+We developed a very efficient algorithm based on a 'gene teams' model that allows genes in the clusters to appear in different orders. This allows us to detect conserved gene clusters under flexible evolutionary constraints in a large number of genomes. Our statistical evaluation incorporates the evolutionary relationship among genomes, a key aspect that has been missing in most previous studies. We conducted a large-scale analysis of 133 bacterial genomes. Our results confirm that our approach is an effective way of uncovering functionally related genes. The comparison with known operons and the analysis of the structural properties of our predicted clusters suggest that operons are an important source of constraint, but there are also other forces that determine evolution of gene order and arrangement. Using our method, we predicted functions of many poorly characterized genes in bacterial. The combined algorithmic and statistical methods we present here provide a rigorous framework for systematically studying evolutionary constraints of genomic contexts.
+
+
+AVAILABILITY
+The software, data and the full results of this article are available online at http://www.ews.uiuc.edu/~xuling/mcmusec.

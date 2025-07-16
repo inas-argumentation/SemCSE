@@ -1,0 +1,2 @@
+The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers
+Inserting backdoors in encryption algorithms has long seemed like a very interesting, yet difficult problem. Most attempts have been unsuccessful for symmetric-key primitives so far and it remains an open problem how to build such ciphers.

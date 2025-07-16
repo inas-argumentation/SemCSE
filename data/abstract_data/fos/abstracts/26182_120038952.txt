@@ -1,0 +1,2 @@
+The pitman nearness criterion and its determination
+A general method for determining Pitman Nearness is given In the case of univariate estimators. This method is then applied to some estimation problems. The concept of Pitman Nearness is also generalized to the multivariate case. The James-Stein estimators are used to illustrate the multivariate comparison.

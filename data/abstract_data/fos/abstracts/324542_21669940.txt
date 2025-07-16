@@ -1,0 +1,2 @@
+Simultaneous X-ray diffraction from multiple single crystals of macromolecules.
+The potential in macromolecular crystallography for using multiple crystals to collect X-ray diffraction data simultaneously from assemblies of up to seven crystals is explored. The basic features of the algorithms used to extract data and their practical implementation are described. The procedure could be useful both in relation to diffraction data obtained from intergrown crystals and to alleviate the problem of rapid diffraction decay arising from the effects of radiation damage.

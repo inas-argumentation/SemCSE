@@ -1,0 +1,2 @@
+Minimal consistent finite element space for the biharmonic equation on quadrilateral grids
+This study presents a finite element space comprising piecewise quadratic polynomials on quadrilateral grids. This space provides a minimal-degree consistent discretisation for the biharmonic equation.

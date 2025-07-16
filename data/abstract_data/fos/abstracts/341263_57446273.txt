@@ -1,0 +1,2 @@
+Topological optimization of distributed computer networks subject to reliability constraints
+A method of topological optimization of the networks with minimum cost subject to reliability constraints is given in this paper. The proposed optimization algorithm is based on branch and bound method. The computational results of this algorithm are discussed.

@@ -1,0 +1,3 @@
+Bounding the Size of a Network Defined By Visibility Property
+Phylogenetic networks are mathematical structures for modeling and visualization of reticulation processes in the study of evolution. Galled networks, reticulation visible networks, nearly-stable networks and stable-child networks are the four classes of phylogenetic networks that are recently introduced to study the topological and algorithmic aspects of phylogenetic networks. We prove the following results. 
+(1) A binary galled network with n leaves has at most 2(n-1) reticulation nodes. (2) A binary nearly-stable network with n leaves has at most 3(n-1) reticulation nodes. (3) A binary stable-child network with n leaves has at most 7(n-1) reticulation nodes.

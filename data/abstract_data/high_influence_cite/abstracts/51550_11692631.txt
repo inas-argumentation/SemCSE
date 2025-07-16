@@ -1,0 +1,5 @@
+Large Deviations for Quantum Spin Systems
+AbstractWe consider high temperature KMS states for quantum spin systems on a lattice. We prove a large deviation principle for the distribution of empirical averages 
+$$\bar X_\Lambda : = \frac{1}{{|\Lambda |}}\Sigma _{i \in \Lambda } X_i $$
+, where the Xi's are copies of a self-adjoint element X (level one large deviations). From the analyticity of the generating function, we obtain the central limit theorem. We generalize to a level two large deviation principle for the distribution of 
+$$\frac{1}{{|\Lambda |}}\Sigma _{i \in \Lambda } \delta _{X_i } $$

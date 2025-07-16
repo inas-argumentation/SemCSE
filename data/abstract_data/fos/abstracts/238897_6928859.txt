@@ -1,0 +1,15 @@
+SU-E-T-622: Identification and Improvement of Patients Eligible for Dose Escalation with Matched Plans.
+PURPOSE
+Radiation-therapy dose-escalation beyond 80Gy may improve tumor control rates for patients with localized prostate cancer. Since toxicity remains a concern, treatment planners must achieve dose-escalation while still adhering to dose-constraints for surrounding structures. Patientmatching is a machine-learning technique that identifies prior patients that dosimetrically match DVH parameters of target volumes and critical structures prior to actual treatment planning. We evaluated the feasibility of patient-matching in (1)identifying candidates for safe dose-escalation; and (2)improving DVH parameters for critical structures in actual dose-escalated plans.
+
+
+METHODS
+We analyzed DVH parameters from 319 historical treatment plans to determine which plans could achieve dose-escalation (8640cGy) without exceeding Zelefsky dose-constraints (rectal and bladder V47Gy<53%, and V75.6Gy<30%, max-point dose to rectum of 8550cGy, max dose to PTV< 9504cGy). We then estimated the percentage of cases that could achieve safe dose-escalation using software that enables patient matching (QuickMatch, Siris Medical, Mountain View, CA). We then replanned a case that had violated DVH constraints with DVH parameters from patient matching, in order to determine whether this previously unacceptable plan could be made eligible with this automated technique.
+
+
+RESULTS
+Patient-matching improved the percentage of patients eligible for dose-escalation from 40% to 63% (p=4.7e-4, t-test). Using a commercial optimizer augmented with patient-matching, we demonstrated a case where patient-matching improved the toxicity-profile such that dose-escalation would have been possible; this plan was rapidly achieved using patientmatching software. In this patient, all lower-dose constraints were met with both the denovo and patient-matching plan. In the patient-matching plan, maximum dose to the rectum was 8385cGy, while the denovo plan failed to meet the maximum rectal constraint at 8571cGy.
+
+
+CONCLUSION
+Patientmatching is a promising method to identify eligible patients, and to assist in creating acceptable plans for dose-escalation. Further study will investigate other disease states. Additionally, the time-savings provided by patientmatching warrants further investigation. The following authors have equity ownership in Siris Medical, Inc: K Bush, TF Atwood.

@@ -1,0 +1,2 @@
+Stabilizing isomorphisms from l p ( l 2 ) into L p [ 0 , 1 ]
+Let 1 < p ̸= 2 < ∞, ε > 0 and let T : lp(l2) into → Lp[0, 1] be an isomorphism Then there is a subspace Y ⊂ lp(l2), (1 + ε)-isomorphic to lp(l2), such that: T|Y is an (1+ ε)-isomorphism and T (Y ) is Kp-complemented in Lp [0, 1], with Kp depending only on p. Moreover, Kp ≤ (1 + ε)γp if p > 2 and Kp ≤ (1 + ε)γp/(p−1) if 1 < p < 2, where γr is the Lr norm of a standard Gaussian variable.

@@ -1,0 +1,11 @@
+Dependent Bidirectional RNN with Extended-long Short-term Memory
+In this work, we first conduct mathematical analysis on the memory, which is
+defined as a function that maps an element in a sequence to the current output,
+of three RNN cells; namely, the simple recurrent neural network (SRN), the long
+short-term memory (LSTM) and the gated recurrent unit (GRU). Based on the
+analysis, we propose a new design, called the extended-long short-term memory
+(ELSTM), to extend the memory length of a cell. Next, we present a multi-task
+RNN model that is robust to previous erroneous predictions, called the dependent
+bidirectional recurrent neural network (DBRNN), for the sequence-in-sequenceout
+(SISO) problem. Finally, the performance of the DBRNN model with the
+ELSTM cell is demonstrated by experimental results.

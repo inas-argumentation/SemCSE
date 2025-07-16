@@ -1,0 +1,2 @@
+Existence of steady stable solutions for the Ginzburg-Landau equation in a domain with nontrivial topology
+Let N > 2 and Ω C ℝ N be a bounded domain with boundary ∂Ω. Let Γ C ∂Ω be closed. Our purpose in this paper is to consider the existence of stable solutions u ∈ H 1 (Ω, C) of the Ginzburg-Landau equation {―Δu(x) = λ(w 2 0 (x) ― |u| 2 )u in Ω, u = g on ∂Ω\Γ, ∂u ∂v = 0 on Γ where A > 0, w 0 ∈ C 2 (Ω,ℝ + ) and g ∈ C 2 (∂Ω\Γ) such that |g(x)| = wo(x) on ∂Ω\Γ.

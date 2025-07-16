@@ -1,0 +1,2 @@
+Towards Real-Time Object-Z
+This paper presents a method of formally specifying systems involving continuous variables and real-time constraints using the object-oriented state-based specification language Object-Z together with the timed trace notation of the timed refinement calculus. The basis of this integration is a mapping of the existing Object-Z history semantics to timed traces.

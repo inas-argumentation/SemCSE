@@ -1,0 +1,2 @@
+Response to: Resolving the software science anomaly
+Card and Agresti 1. [1] claim to have resolved the software science anomaly by demonstrating that Halstead's length measure lacks empirical as well as theoretical support. It may be true that software science, as developed by Halstead 2. [2],lacks this support but the arguments used by Card and Agresti are shown to be invalid.

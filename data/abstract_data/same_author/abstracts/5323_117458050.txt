@@ -1,0 +1,2 @@
+Solitonic Strings and Knots
+This paper describes a study of topological solitons in (3+1) dimensions, stabilized by the Hopf charge, which have the structure of closed strings. Through the use of rational maps between spheres we generate initial conditions, which are then relaxed using a numerical simulation of the full nonlinear equations of motion. At this stage, solitons up to charge three are considered, including a configuration which has the structure of a trefoil knot.

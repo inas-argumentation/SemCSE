@@ -1,0 +1,15 @@
+The needle problem approach to non-periodic homogenization
+We introduce a new method to homogenization of 
+ non-periodic problems and illustrate the approach with the 
+ elliptic equation $-\nabla\cdot (a^\epsilon\nabla u^\epsilon) = f$. On the 
+ coefficients $a^\epsilon$ we assume that solutions $u^\epsilon$ of 
+ homogeneous $\epsilon$-problems on simplices with average slope $\xi\in 
+ \mathbb{R}^n$ have the property that flux-averages $f a^\epsilon\nabla 
+ u^\epsilon\in \mathbb{R}^n$ converge, for $\epsilon\to 0$, to some limit 
+ $a^\star(\xi)$, independent of the simplex. Under this assumption, 
+ which is comparable to H-convergence, we show the homogenization 
+ result for general domains and arbitrary right hand side. The 
+ proof uses a new auxiliary problem, the needle problem. 
+ Solutions of the needle problem depend on a triangulation of the 
+ domain, they solve an $\epsilon$-problem in each simplex and are affine 
+ on faces.

@@ -1,0 +1,2 @@
+Lattice four-dimensional N=4 SYM is practical
+We show that nonperturbative lattice studies of four-dimensional N=4 Super-Yang-Mills are within reach. We use Ginsparg-Wilson fermions to avoid gluino masses and an exact implementation of the (chiral) $R$-symmetry, which greatly limits the number of counterterms that must be fine-tuned. Only bosonic operators require fine tuning, so all tunings can be done ``offline'' by a Ferrenberg-Swendsen type reweighting. We show what measurables can be used to perform the tuning.

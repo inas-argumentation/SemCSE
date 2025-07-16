@@ -1,0 +1,2 @@
+An automatic interconnection rectification technique for SoC design integration
+This paper presents an automatic interconnection rectification (AIR) technique to correct the misplaced interconnection occurred in the integration of a SoC design automatically. The experimental results show that the AIR can correct the misplaced interconnection and therefore accelerates the integration verification of a SoC design.

@@ -1,0 +1,2 @@
+A GCV based Arnoldi-Tikhonov regularization method
+For the solution of linear discrete ill-posed problems, in this paper we consider the Arnoldi-Tikhonov method coupled with the Generalized Cross Validation for the computation of the regularization parameter at each iteration. We study the convergence behavior of the Arnoldi method and its properties for the approximation of the (generalized) singular values, under the hypothesis that Picard condition is satisfied. Numerical experiments on classical test problems and on image restoration are presented.

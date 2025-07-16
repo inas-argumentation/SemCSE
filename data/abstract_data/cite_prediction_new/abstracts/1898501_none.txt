@@ -1,0 +1,2 @@
+Method of integral nonlinearity testing and correction of multi-range ADC by direct measurement of output voltages of multi-resistors divider
+A method of testing points generation for the identification and correction of the integral nonlinearity of high performance ADCâ€™s is presented. The proposed method is based on averaging all voltages of the multi-resistor voltage divider. The influence of the resistors errors and random errors of the ADC on the residual error of the integral nonlinearity correction for method based on multi-resistor divider is investigated.

@@ -1,0 +1,6 @@
+Towards a Topology-Shape-Metrics Framework for Ortho-Radial Drawings
+Ortho-Radial drawings are a generalization of orthogonal drawings to grids that are formed by concentric circles and straight-line spokes emanating from the circles' center. Such drawings have applications in schematic graph layouts, e.g., for metro maps and destination maps. 
+ 
+A plane graph is a planar graph with a fixed planar embedding. We give a combinatorial characterization of the plane graphs that admit a planar ortho-radial drawing without bends. Previously, such a characterization was only known for paths, cycles, and theta graphs, and in the special case of rectangular drawings for cubic graphs, where the contour of each face is required to be a rectangle. 
+ 
+The characterization is expressed in terms of an ortho-radial representation that, similar to Tamassia's orthogonal representations for orthogonal drawings describes such a drawing combinatorially in terms of angles around vertices and bends on the edges. In this sense our characterization can be seen as a first step towards generalizing the Topology-Shape-Metrics framework of Tamassia to ortho-radial drawings.

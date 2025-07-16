@@ -1,0 +1,2 @@
+NUMERICAL DETERMINATION OF REGGE POLES IN POTENTIAL SCATTERING.
+Regge poles of local interactions with a 1/r singularity at the origin are determined from a polynomial equation which can be solved extremely rapidly on a computer. This equation is found to be particularly suitable for locating the poles at negative energies, but impractical at positive energies. A simple formula is derived for the residue at a pole.

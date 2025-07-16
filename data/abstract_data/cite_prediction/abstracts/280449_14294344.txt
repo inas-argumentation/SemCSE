@@ -1,0 +1,2 @@
+Applications and Challenges of Text Mining with Patents
+This paper gives insight into our current research on three text mining tools for patents designed for information professionals. The first tool identifies numeric properties in the patent text and normalises them, the second extracts a list of keywords that are relevant and reveal the invention in the patent text, and the third tool attempts to segment the patent’s description into it’s sections. Our tools are used in the industry and could be applied in research as well.

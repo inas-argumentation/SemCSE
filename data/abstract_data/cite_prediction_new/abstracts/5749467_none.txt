@@ -1,0 +1,15 @@
+Baseline correction of phase contrast images improves quantification of blood flow in the great vessels.
+PURPOSE
+Phase-contrast Cardiovascular Magnetic Resonance Imaging (CMR) generally requires the analysis of stationary tissue adjacent to a blood vessel to serve as a baseline reference for zero velocity. However, for the heart and great vessels, there is often no stationary tissue immediately adjacent to the vessel. Consequently, uncorrected velocity offsets may introduce substantial errors in flow quantification. The purpose of this study was to assess the magnitude of these flow errors and to validate a clinically applicable method for their correction.
+
+
+MATERIALS AND METHODS
+In 10 normal volunteers, phase-contrast CMR was used to quantify blood flow in the main pulmonary artery (Qp) and the aorta (Qs). Following image acquisition, phase contrast CMR was performed on a stationary phantom using identical acquisition parameters so as to provide a baseline reference for zero velocity. Aortic and pulmonary blood flow was then corrected using the offset values from the phantom.
+
+
+RESULTS
+The mean difference between pulmonary and aortic flow was 26 +/- 21 mL before correction and 7.1 +/- 6.6 mL after correction (p = 0.002). The measured Qp/Qs was 1.25 +/- 0.20 before correction and 1.05 +/- 0.07 after correction (p = 0.001).
+
+
+CONCLUSION
+Phase-contrast CMR can have substantial errors in great vessel flow quantification if there is no correction for velocity offset errors. The proposed method of correction is clinically applicable and provides a more accurate measurement of blood flow.

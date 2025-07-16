@@ -1,0 +1,2 @@
+Comparing nonlinear inertia weights and constriction factors in particle swarm optimization
+In this paper, we empirically study the performance of particle swarm optimization (PSO) using a nonlinear inertia weight compared with the performance using a constriction factor. Adjusting the parameters of nonlinear inertia weight directly affects the performance of PSO. Five benchmark functions are used for evaluation. Under all testing functions, the PSO with nonlinear inertia weights consistently converges faster than the PSO with constriction factors.

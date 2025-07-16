@@ -1,0 +1,2 @@
+On a decomposition for infinite transition matrices
+Heyman gives an interesting factorization of I-P, where P is the transition probability matrix for an ergodic Markov chain. We show that this factorization is valid if and only if the Markov chain is recurrent. Moreover, we provide a decomposition result which includes all ergodic, null recurrent as well as the transient Markov chains as special cases. Such a decomposition has been shown to be useful in the analysis of queues.

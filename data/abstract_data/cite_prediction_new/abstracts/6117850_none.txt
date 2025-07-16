@@ -1,0 +1,2 @@
+Improved transient response using HFFC in current-mode CFCOT control for Buck converter
+In this paper, improved transient response using high-frequency feedback control (HFFC) in current-mode constant frequency constant on-time (CFCOT) control for Buck converter is proposed. The concept uses HFFC to filter out the Vout at the load transient to dynamically change the width of on-time to prevent the Vout from dropping markedly. Finally, HFFC is implemented using the experimental results and SIMPLIS simulation results to verify its viability and superiority.

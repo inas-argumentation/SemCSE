@@ -1,0 +1,2 @@
+A numerically stable algorithm for two server queue models
+In this paper, we consider a queueing system in which there are two exponential servers, each having his own queue, and arriving customers will join the shorter queue. Based on the results given in Flatto and McKean, we rewrite the formula for the probability that there are exactlyk customers in each queue, wherek = 0, 1,…. This enables us to present an algorithm for computing these probabilities and then to find the joint distribution of the queue lengths in the system. A program and numerical examples are given.

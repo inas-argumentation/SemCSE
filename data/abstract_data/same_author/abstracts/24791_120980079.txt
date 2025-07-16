@@ -1,0 +1,6 @@
+Scattering theory and dispersion relations for a class of long-range oscillating potentials
+If a spherically symmetric potential is such that
+$$\int\limits_r^{ \to \infty } V \left( {r\prime } \right)dr\prime = {\rm O}\left( {exp - \mu r} \right)$$
+, and if an additional regularity condition is imposedr[a sufficient one being thatrV(r) isL1], the partial wave amplitudes are meromorphic in a strip of width μ in the complex momentum plane, and the full scattering amplitude is analytic inside an ellipse at fixed energy and satisfies fixed momentum transfer
+$$\left( {\sqrt { - t} } \right)$$
+ dispersion relations for |t|<μ2.Such a class of potentials includes not only exponentially decreasing potentials but also long-range oscillating potentials such as (1 +r2)−2 sin (exp μr). In fact the results can partly be extended to a still broader class of potentials with increasing amplitude at infinity. It is argued that these results might lead to a revision of conventional ideas on what is the potential between physical hadrons.Appendices may be of interest to special functions addicts.

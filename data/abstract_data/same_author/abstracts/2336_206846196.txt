@@ -1,0 +1,2 @@
+Fingerprint Matching With Rotation-Descriptor Texture Features
+A novel texture correlation matching method for fingerprint verification using Fourier-Mellin descriptor and phase-only correlation function is proposed in this paper. Fourier-Mellin descriptor correlation is used to align the template and query fingerprint images and a matching score is obtained. Matching takes about 1 second in Celeron 2.0 GHz processor, and the experimental results show that EER is 3.8%; fusion with minutia matching gets a better result

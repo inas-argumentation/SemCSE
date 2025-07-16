@@ -1,0 +1,2 @@
+Current mode integrated filters using wave port adaptors
+Current mode wave port adaptors which serve the purpose of positive impedance converters can be properly used in order to simulate low sensitivity LC filters. The development of these adaptors is analytically presented and three new circuits are given. The current mode filters derived this way are economical, retain the physical property of low sensitivity of the prototype LC filters and can be implemented in integrated form using available current mode devices. An example of a high order filter is given.<<ETX>>

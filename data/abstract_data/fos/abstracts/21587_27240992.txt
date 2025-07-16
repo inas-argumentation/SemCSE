@@ -1,0 +1,15 @@
+TH-AB-209-07: High Resolution X-Ray-Induced Acoustic Computed Tomography.
+PURPOSE
+X-ray radiographic absorption imaging is an invaluable tool in medical diagnostics, biology and materials science. However, the use of conventional CT is limited by two factors: the detection sensitivity to weak absorption material and the radiation dose from CT scanning. The purpose of this study is to explore X-ray induced acoustic computed tomography (XACT), a new imaging modality, which combines X-ray absorption contrast and high ultrasonic resolution to address these challenges.
+
+
+METHODS
+First, theoretical models was built to analyze the XACT sensitivity to X-ray absorption and calculate the minimal radiation dose in XACT imaging. Then, an XACT system comprised of an ultrashort X-ray pulse, a low noise ultrasound detector and a signal acquisition system was built to evaluate the X-ray induced acoustic signal generation. A piece of chicken bone and a phantom with two golden fiducial markers were exposed to 270 kVp X-ray source with 60 ns exposure time, and the X-ray induced acoustic signal was received by a 2.25MHz ultrasound transducer in 200 positions. XACT images were reconstructed by a filtered back-projection algorithm.
+
+
+RESULTS
+The theoretical analysis shows that X-ray induced acoustic signals have 100% relative sensitivity to X-ray absorption, but not to X-ray scattering. Applying this innovative technology to breast imaging, we can reduce radiation dose by a factor of 50 compared with newly FDA approved breast CT. The reconstructed images of chicken bone and golden fiducial marker phantom reveal that the spatial resolution of the built XACT system is 350µm.
+
+
+CONCLUSION
+In XACT, the imaging sensitivity to X-ray absorption is improved and the imaging dose is dramatically reduced by using ultrashort pulsed X-ray. Taking advantage of the high ultrasonic resolution, we can also perform 3D imaging with a single X-ray pulse. This new modality has the potential to revolutionize x-ray imaging applications in medicine and biology.

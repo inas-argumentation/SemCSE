@@ -1,0 +1,2 @@
+Single machine scheduling to minimize total compression plus weighted flow cost is NP-hard
+This article analyzes the computational complexity of a single machine scheduling problem to minimize total compression plus weighted flow cost. Vickson [Oper. Res. 28 (1980) 1155–1167] studied this problem and conjectured that it was NP-hard. The complexity of this problem remained open since then. We give a positive answer to this conjecture, showing that this problem is NP-hard.

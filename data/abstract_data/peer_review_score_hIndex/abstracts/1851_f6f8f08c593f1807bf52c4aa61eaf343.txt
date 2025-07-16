@@ -1,0 +1,4 @@
+Real-time Uncertainty Decomposition for Online Learning Control
+Safety-critical decisions based on machine learning models require a clear understanding of the involved uncertainties to avoid hazardous or risky situations. While aleatoric uncertainty can be explicitly modeled given a parametric description, epistemic uncertainty rather describes the presents or absence of training data. This paper proposes a novel generic method for modeling 
+epistemic uncertainty and shows its advantages over existing approaches for neural networks on various data sets. It can be directly combined with aleatoric uncertainty estimates and 
+allows for prediction in real-time as the inference is sample-free. We exploit this property in a model-based quadcopter control setting and demonstrate how the controller benefits from a differentiation between aleatoric and epistemic uncertainty in online learning of thermal disturbances.

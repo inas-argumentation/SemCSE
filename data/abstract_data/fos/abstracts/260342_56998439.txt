@@ -1,0 +1,2 @@
+Application of an efficient search technique for optimal design of a computer communication network
+An efficient search technique is used to obtain the optimal configuration of a computer communication network. The method is based on an earlier paper and is easily programmable. An interactive computer code in FORTRAN 77 for the use on IBM-compatible PCs has also been developed. The approach has been illustrated by several examples.

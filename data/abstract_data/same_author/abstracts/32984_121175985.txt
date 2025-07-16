@@ -1,0 +1,2 @@
+Topological susceptibility in lattice QCD and perturbation theory
+We consider the definition of topological susceptibility suggested by the anomaloys U A (1) Ward identify in lattice QCD with Wilson fermions and show that, in the limit of zero renormalized quark mass, its perturbative expansion is zero to all orders. This definition is thus suitable for Monte Carlo simulations.

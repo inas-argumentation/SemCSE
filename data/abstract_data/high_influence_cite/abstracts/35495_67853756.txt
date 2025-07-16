@@ -1,0 +1,2 @@
+On the Perron Effect for Exponential Stability of Differential Systems on Time Scales
+In 2007, N. H. Du and L. H. Tien [1] shown that the exponential stability of the linear equation on time scales implies the exponential stability of the suitable small enough Lipchitz perturbed equation. In this paper, we shall prove that if the perturbation is arbitrary small order 1 then the above argument is not true which is called Perron effect.

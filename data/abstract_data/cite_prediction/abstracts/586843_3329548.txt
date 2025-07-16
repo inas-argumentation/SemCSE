@@ -1,0 +1,4 @@
+Comparing the maintainability of selenium WebDriver test suites employing different locators: a case study
+Test suite maintenance tends to have the biggest impact on the overall cost of test automation. Frequently modifications applied on a web application lead to have one or more test cases broken and repairing the test suite is a time-consuming and expensive task. 
+ This paper reports on an industrial case study conducted in a small Italian company investigating on the analysis of the effort to repair web test suites implemented using different UI locators (e.g., Identifiers and XPath). 
+ The results of our case study indicate that ID locators used in conjunction with LinkText is the best solution among the considered ones in terms of time required (and LOCs to modify) to repair the test suite to the new release of the application.

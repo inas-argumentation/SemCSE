@@ -1,0 +1,2 @@
+Performance Analysis of Decode-and-Forward Relaying in Gamma-Gamma Fading Channels
+We analyze performance of the decode-and-forward (DF) protocol in the free space optical (FSO) links following the Gamma-Gamma distribution. The cumulative distribution function (cdf) and probability density function (pdf) of a random variable containing mixture of the Gamma-Gamma and Gaussian random variables is derived. By using the derived cdf and pdf, average bit error rate of the DF relaying is obtained.

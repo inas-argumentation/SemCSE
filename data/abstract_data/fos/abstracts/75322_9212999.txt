@@ -1,0 +1,15 @@
+Potential benefits of dosimetric VMAT tracking verified with 3D film measurements.
+PURPOSE
+To evaluate three different plan adaptation strategies using 3D film-stack dose measurements of both focal boost and hypofractionated prostate VMAT treatments. The adaptation strategies (a couch shift, geometric tracking, and dosimetric tracking) were applied for three realistic intrafraction prostate motions.
+
+
+METHODS
+A focal boost (35 × 2.2 and 35 × 2.7 Gy) and a hypofractionated (5 × 7.25 Gy) prostate VMAT plan were created for a heterogeneous phantom that allows for internal prostate motion. For these plans geometric tracking and dosimetric tracking were evaluated by ionization chamber (IC) point dose measurements (zero-D) and measurements using a stack of EBT3 films (3D). The geometric tracking applied translations, rotations, and scaling of the MLC aperture in response to realistic prostate motions. The dosimetric tracking additionally corrected the monitor units to resolve variations due to difference in depth, tissue heterogeneity, and MLC-aperture. The tracking was based on the positions of four fiducial points only. The film measurements were compared to the gold standard (i.e., IC measurements) and the planned dose distribution. Additionally, the 3D measurements were converted to dose volume histograms, tumor control probability, and normal tissue complication probability parameters (DVH/TCP/NTCP) as a direct estimate of clinical relevance of the proposed tracking.
+
+
+RESULTS
+Compared to the planned dose distribution, measurements without prostate motion and tracking showed already a reduced homogeneity of the dose distribution. Adding prostate motion further blurs the DVHs for all treatment approaches. The clinical practice (no tracking) delivered the dose distribution inside the PTV but off target (CTV), resulting in boost dose errors up to 10%. The geometric and dosimetric tracking corrected the dose distribution's position. Moreover, the dosimetric tracking could achieve the planned boost DVH, but not the DVH of the more homogeneously irradiated prostate. A drawback of both the geometric and dosimetric tracking was a reduced MLC blocking caused by the rotational component of the MLC aperture corrections. Because of the used CTV to PTV margins and the high doses in the considered fractionation schemes, the TCP differed less than 0.02 from the planned value for all targets and all correction methods. The rectal NTCP constraints, however, could not be realized using any of these methods.
+
+
+CONCLUSIONS
+The geometric and dosimetric tracking use only a limited input, but they deposit the dose distribution with higher geometric accuracy than the clinical practice. The latter case has boost dose errors up to 10%. The increased accuracy has a modest impact [Δ(NT)CP < 0.02] because of the applied margins and the high dose levels used. To allow further margin reduction tracking methods are vital. The proposed methodology could further be improved by implementing a rotational correction using collimator rotations.

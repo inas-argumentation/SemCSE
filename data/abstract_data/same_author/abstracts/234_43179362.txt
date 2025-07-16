@@ -1,0 +1,2 @@
+On the crosscorrelation of generalized Barker sequences
+Some communication systems require sets of signals in which each signal can be easily distinguished from all time-shifted versions of itself, and from every other signal in the set. A generalized Barker sequence can be easily distinguished from the time-shifted versions of itself. It is shown that distinguishing between a generalized Barker sequence and any other generalized Barker sequence of the same length is inherently harder than distinguishing the sequence from time-shifted versions of itself. >

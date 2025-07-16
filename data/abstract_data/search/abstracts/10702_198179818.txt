@@ -1,0 +1,2 @@
+On phase retrieval via matrix completion and the estimation of low rank PSD matrices
+Given underdetermined measurements of a Positive Semi Definite (PSD) matrix $X$ of known low rank $K$ we present a new algorithm to estimate $X$ based on recent advances in non convex optimization schemes. We apply this in particular to the phase retrieval problem for Fourier data, which can be formulated as a rank 1 PSD matrix recovery problem. Moreover, we provide theory for how oversampling affects the stability of the lifted inverse problem.

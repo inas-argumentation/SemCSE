@@ -1,0 +1,2 @@
+Isoperimetric graph partitioning for image segmentation
+Spectral graph partitioning provides a powerful approach to image segmentation. We introduce an alternate idea that finds partitions with a small isoperimetric constant, requiring solution to a linear system rather than an eigenvector problem. This approach produces the high quality segmentations of spectral methods, but with improved speed and stability.

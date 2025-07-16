@@ -1,0 +1,2 @@
+Visualizing Graphs as Trees: Plant a Seed and Watch it Grow
+TreePlus is a graph browsing technique based on a tree-style layout. It shows the missing graph structure using interaction techniques and enables users to start with a specific node and incrementally explore the local structure of graphs. We believe that it supports particularly well tasks that require rapid reading of labels.

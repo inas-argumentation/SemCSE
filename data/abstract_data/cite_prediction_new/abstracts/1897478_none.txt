@@ -1,0 +1,2 @@
+ROBUST MODEL IDENTIFICATION APPLICATION TO A TURBOFAN ENGINE
+In this paper we describe an application of a robust identification approach to a turbofan engine. The approach combines classical time-data system identification via prediction error models and the so-called model error model theory. The model error model approach provides guidelines for the characterization of the model uncertainty stemming from the nominal system identification and fits naturally in the robust fault detection and isolation framework for H ∞ -based algorithms.

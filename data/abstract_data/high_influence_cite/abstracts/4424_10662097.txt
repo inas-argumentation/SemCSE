@@ -1,0 +1,2 @@
+Markov Chain Approximations for Symmetric Jump Processes
+Markov chain approximations of reversible jump processes are investigated. Tightness results and a central limit theorem are established. Moreover, given the generator of a reversible jump process with state space ℝd, the approximating Markov chains are constructed explicitly. As a byproduct we obtain a definition of the Sobolev space Hα/2(ℝd), α∈(0,2), that is equivalent to the standard one.

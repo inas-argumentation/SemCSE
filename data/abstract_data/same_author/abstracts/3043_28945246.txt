@@ -1,0 +1,2 @@
+Security on Aydos et al's Elliptic Curve Cryptography Based Wireless Authentication Protocol
+最近，Aydos等人提出了基于椭圆曲线密码学的无线认证协议．该协议使用了椭圆曲线数字签名算法和Diffie—Hellman密钥交换方案提供相互认证并协商会话密钥用于随后的通信。Mangipudi等人指出该协议对于来自系统内部攻击者的中间人攻击是脆弱的．进一步证明Aydos等人的协议对于来自任何攻击者的中间人攻击都是脆弱的，而不仅限于内部攻击者．最后，分析了Aydos等人的协议受到攻击的原因和其他一些安全缺陷．

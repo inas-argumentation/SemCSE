@@ -1,0 +1,2 @@
+Learning a Hierarchical Compositional Shape Vocabulary for Multi-class Object Representation
+2 Aleš Leonardis, Learning a Hierarchical Compositional Shape Vocabulary for Multi-class Object Representation Outline • Motivation: Multiple object class detection • Our hierarchical framework – Hierarchical compositional shape vocabulary – Efficient inference – Unsupervised learning of shape “parts” (statistics of natural images) – Incremental learning of multi-class object representations – Experimental results • Summary

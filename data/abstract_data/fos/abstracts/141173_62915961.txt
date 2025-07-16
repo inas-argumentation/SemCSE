@@ -1,0 +1,2 @@
+Distributed Computing System Architecture for Planetary Rover
+Computing system is one of the most important parts in planetary rover. Computing system is crucial to the rover function capability and survival probability. This paper discusses the system hardware architecture, software architecture, system communication architecture with system control model, system fault tolerant model and system reliability. A reliable distributed computing system architecture is presented for designing planetary rover.

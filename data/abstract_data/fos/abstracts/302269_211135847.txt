@@ -1,0 +1,15 @@
+Factors underlying the growth of hospital expenditure in Spain in a period of unexpected economic shocks: A dynamic analysis on administrative data.
+AIMS
+We sought to understand the evolution of Spanish public hospital expenditure by assessing its elasticity to volume versus price, controlling for need and case severity, from January 2003 to December 2015, a period of unexpected economic shocks.
+
+
+METHOD
+Observational study of administrative data characterising hospitals in the Spanish National Health System. Public hospital expenditure was modelled using SARIMAX in a two-step approach aiming at: a) eliciting structural changes in the monthly time-series; and, b) analysing the reaction of expenditure to the behaviour of its direct underlying factors over the sub-periods identified in the first step.
+
+
+RESULTS
+From January 2003 to December 2015, two structural changes were elicited, splitting this time-span into three sub-periods. The quantities of hospital services offered (mainly inpatient medical and surgical activity) were consistently shown as the main drivers of expenditure. Overall, hospital expenditure was inelastic to all the factors analysed, specially to quasi-prices; similar results were obtained across sub-periods of analysis.
+
+
+CONCLUSION
+Factors associated to quantities (as compared to quasi-prices) were the main drivers of hospital expenditure in the period analysed, particularly after the economic shock. However, hospital expenditure was inelastic to both factors giving prominence to the economic cycle fluctuations as a strong inducer of the hospital expenditure trends in Spain.

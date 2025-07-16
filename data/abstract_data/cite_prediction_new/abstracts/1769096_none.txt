@@ -1,0 +1,2 @@
+Low-cost transceiver in single TO-can outline supporting WDM-overlay in filterless PONs
+We demonstrate a single-fiber low-cost 1.25 Gb/s transceiver able to switch between transmission and reception mode. Crosstalk suppression with <;1dB penalty is achieved through filtered reception mode for WDM-loaded power-splitting PONs with >20dB optical budget.

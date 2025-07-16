@@ -1,0 +1,2 @@
+Naming: design pattern and framework
+Naming is an important, but frequently overlooked, aspect of software systems. Naming is usually combined with other issues, e.g. distributed communication technology. The paper treats naming in isolation. It presents a naming design pattern which abstracts several naming policies and an object-oriented framework that can be customized to support naming policies. An applications designer can choose the correct naming properties (relative, absolute, universal identifiers, etc.) to refer to specific objects.

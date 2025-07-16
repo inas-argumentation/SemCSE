@@ -1,0 +1,2 @@
+An iterative algorithm for searching a scaling matrix for diagonal dominance
+Diagonal dominance of matrices and M-matrices (and H-matrices) play an important role in stability theory of dynamical systems. But it is difficult to determine the scaling matrix G=diag(g"1,...,g"n) (g"1,...,g"n>0) with AG being a strictly diagonally dominant matrix. In this paper, an convergent iterative algorithm for determine the scaling matrix for an irreducible M-matrix (H-matrix) A is presented.

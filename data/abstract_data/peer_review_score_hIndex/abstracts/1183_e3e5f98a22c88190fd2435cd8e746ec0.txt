@@ -1,0 +1,7 @@
+Differentiable Hyper-parameter Optimization
+Hyper-parameters are widely present in machine learning.
+Concretely, large amount of hyper-parameters exist in network layers, such as kernel size, channel size and the hidden layer size, which directly affect performance of the model.
+Thus, hyper-parameter optimization is crucial for machine learning. Current hyper-parameter optimization always requires multiple training sessions, resulting in a large time consuming.
+To solve this problem, we propose a method to fine-tune neural network's hyper-parameters efficiently in this paper, where optimization completes in only one training session.
+We apply our method for the optimization of various neural network layers' hyper-parameters and compare it with multiple benchmark hyper-parameter optimization models.
+Experimental results show that our method is commonly 10 times faster than traditional and mainstream methods such as random search, Bayesian optimization and many other state-of-art models. It also achieves higher quality hyper-parameters with better accuracy and stronger stability.

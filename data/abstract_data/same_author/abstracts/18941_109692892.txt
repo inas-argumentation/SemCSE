@@ -1,0 +1,2 @@
+Reducing gravitational wave false alarms using signals at the antisymmetric port in LIGO detectors
+We show that many of the false alarms found in the search for binary neutron stars during the LIGO S3 science run are coincident with glitches in an auxiliary channel from the photo diode at the antisymmetric port. By studying how the glitches compare with simulated gravitational waves we were able to find a method that vetoes the false alarms while minimizing the potential for false dismissal.

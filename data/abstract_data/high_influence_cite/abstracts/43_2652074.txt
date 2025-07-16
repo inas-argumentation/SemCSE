@@ -1,0 +1,6 @@
+Constructive Dimension and Weak Truth-Table Degrees
+This paper examines the constructive Hausdorff and packingdimensions of weak truth-table degrees. The main result is thatevery infinite sequence Swith constructive Hausdorffdimension dimH(S) and constructive packingdimension dimP(S) is weak truth-tableequivalent to a sequence Rwith ${\rm dim_H}({\it R}) \geq{\rm dim_H}(S) / {\rm dim_P}(S) - \epsilon$, for arbitrarye> 0. Furthermore, ifdimP(S) > 0, thendimP(R) ≥ 1 - e. Thereduction thus serves as a randomness extractorthatincreases the algorithmic randomness of S, as measured byconstructive dimension. 
+ 
+A number of applications of this result shed new light on theconstructive dimensions of wtt degrees (and, by extension, Turingdegrees). A lower bound of dimH(S) /dimP(S) is shown to hold for the wtt degree ofany sequence S. A new proof is given of a previously-knownzero-one law for the constructive packing dimension of wtt degrees.It is also shown that, for any regularsequence S(that is, dimH(S) =dimP(S)) such that dimH(S)> 0, the wtt degree of Shas constructive Hausdorff andpacking dimension equal to 1. 
+ 
+Finally, it is shown that no single Turing reduction can be auniversalconstructive Hausdorff dimension extractor.

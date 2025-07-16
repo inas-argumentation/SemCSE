@@ -1,0 +1,2 @@
+Integrating static and dynamic voting protocols to enhance file availability
+A hybrid scheme is proposed that integrates the static voting protocol and dynamic voting with linearly ordered copies. A stochastic model is used to compare the file availability afforded by the proposed hybrid scheme against the availabilities of voting, dynamic voting, and dynamic voting with linearly ordered copies. The analysis provides evidence for the conjecture that the hybrid scheme is the optimal algorithm in the context of the stochastic model.<<ETX>>

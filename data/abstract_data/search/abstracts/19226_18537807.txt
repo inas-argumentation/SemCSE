@@ -1,0 +1,2 @@
+A generalized conversion matrix between non uniform B spline and Bezier representations with applications in CAGD
+This paper presents the recursive computations of the generalized conversion matrices which allow direct transformations between non uniform B spline and Bezier representations of arbitrary degrees, defined over a completely arbitrary interval of the real axis. Although the very general setting assumed, the prposed algorithm turns out to be very easy and practical, and provides interesting applications in computer aided geometric design.

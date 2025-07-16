@@ -1,0 +1,2 @@
+Personal Multi-threading
+Multi-threading allows agents to pursue a heterogeneous collection of tasks in an orderly manner. The view of multi-threading that emerges from thread algebra is applied to the case where a single agent, who may be human, maintains a hierarchical multithread as an architecture of its own activities.

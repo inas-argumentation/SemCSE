@@ -1,0 +1,2 @@
+Modeling Reaction Time: An investigation on input-strength variability in two-alternative, forced-choice tasks 1
+A method of on-line reconfiguring a data processing system for an added input/output (I/O) device. A configuration program is called and menus are presented. Based on menu selections, the program causes a device definition to be built. The built definition is used to construct a control block which is written into main storage during system operation such that the added device is available for use on a real time basis.

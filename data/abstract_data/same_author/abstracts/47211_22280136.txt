@@ -1,0 +1,2 @@
+A Note on Locating a Set of Points in a Planar Subdivision
+In this note we algorithmically show that a set of k points can be located in the planar subdivision induced by a straight-line planar graph with n vertices in time $O(k\log k) + O(n) + O(k\log n)$, given a preprocessing time $O(n\log n)$.

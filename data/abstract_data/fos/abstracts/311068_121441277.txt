@@ -1,0 +1,2 @@
+A Sequential Test of the Equality of Probabilities in a Multinomial Distribution
+For testing the hypothesis that all the categories in a multinomial distribution are equally likely, a sequential test is proposed which at each stage of the sampling observes whether the observation falls in the set of categories containing the largest number of earlier observations. It rejects the hypothesis if at too many stages the observation does fall in that set of categories. The properties of the test are discussed.

@@ -1,0 +1,2 @@
+Computational challenges in bounded model checking
+We describe several observations regarding the completeness and the complexity of bounded model checking and propose techniques to solve some of the associated computational challenges. We begin by defining the completeness threshold, we prove that the complexity of standard SAT-based BMC is doubly exponential and that, consequently, there is a complexity gap of an exponent between this procedure and standard LTL model checking. We discuss ways to bridge this gap.

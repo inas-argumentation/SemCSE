@@ -1,0 +1,2 @@
+On the equitable chromatic number of complete n-partite graphs
+In this note, we derive an explicit formula for the equitable chromatic number of a complete n-partite graph Kp1,p2,…,pn. Namely, if M is the largest integer such that p i ( mod M) p i M (i=1,2,…,n) then χ e (K p 1 ,p 2 ,…,p n )= ∑ i=1 n p i M+1 , where χe(G) is the equitable chromatic number of graph G.

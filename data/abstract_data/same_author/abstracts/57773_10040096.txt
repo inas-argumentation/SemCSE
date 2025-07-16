@@ -1,0 +1,2 @@
+Sublinear Parallel Algorithm for Computing the Greatest Common Divisor of Two Integers
+The paper presents a sublinear time parallel algorithm for computing the greatest common divisor of two integers. Its running time on two n bit integers is $O({{n\log \log n} / {\log n}})$ using the weak concurrent read concurrent write model.

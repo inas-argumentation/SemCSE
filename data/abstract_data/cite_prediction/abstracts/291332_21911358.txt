@@ -1,0 +1,2 @@
+A Reconfigurable Differential CMOS RF Energy Scavenger With 60% Peak Efficiency and -21 dBm Sensitivity
+A differential RF-DC CMOS converter for RF energy scavenging based on a reconfigurable voltage rectifier topology is presented. The converter efficiency and sensitivity are optimized thanks to the proposed reconfigurable architecture. Prototypes, realized in 130 nm, provide a regulated output voltage of ~2 V when working at 868 MHz, with a -21 dBm sensitivity. The circuit efficiency peaks at 60%, remaining above the 40% for a 18 dB input power range.

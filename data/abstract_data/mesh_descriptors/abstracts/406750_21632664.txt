@@ -1,0 +1,15 @@
+[Variability of physician judgements in school entry examinations].
+AIM
+Data from school entry examinations were used for studying the variability of judgements between physicians performing the examinations. Two diagnoses were subject to examination: 1) Obesity, because an external criterion was available for this one. The medical classifications were compared with automated classifications using an external criterion. 2) Language anomalies, because these are the most frequent diagnoses. No external criterion had been available, thus differences within the group of examining physicians were considered.
+
+
+MATERIAL AND METHODS
+Data from all school entry examinations performed in the city of Hannover between 1998 and 2001 were used. Altogether 14 physicians were involved, but due to low case numbers the data of two had to be omitted. The analyses are based on 18,303 datasets. For obesity the agreement rates between physicians' and automatically generated diagnoses were ascertained by calculating sensitivity and specificity. Comparisons of differences between physicians with respect to chances of getting a diagnosis were performed using logistic regression.
+
+
+RESULTS
+The sensitivity of classifying body weights above the 75 (th) percentile correctly was 0.64 over all years of observation. The respective sensitivity of classifying children with body weights above the 97 (th) percentile was 0.70. Considerable differences over the four years of observation occurred. For performing logistic regressions, the diagnoses of the physician with the smallest difference from an external criterion were used as standard of comparison. The diagnoses of the physician with the largest difference yielded an OR=0.08. The overall variability within the group of examining physicians was large. With respect to language anomalies, although considerable, the within-group differences were smaller. The largest odds ratio in this case was OR=0.40.
+
+
+CONCLUSION
+Diagnoses from school entry examinations vary according to the physicians involved. Thus the data should not be used for epidemiological studies. In order to improve data quality, the involved physicians should be extensively trained in using the instruments, and their instructions should be formulated more clearly in order to facilitate their application.

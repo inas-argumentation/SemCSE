@@ -1,0 +1,2 @@
+Timing Analysis in COSPAN
+We describe how to model and verify real-time systems using the formal verification tool Cospan. The verifier supports automata-theoretic verification of coordinating processes with timing constraints. We discuss different heuristics, and our experiences with the tool for certain benchmark problems appearing in the verification literature.

@@ -1,0 +1,2 @@
+A Lattice of Abstract Graphs
+This paper concerns the abstract interpretation of Term Graph Rewriting systems. We introduce a new lattice of abstract graphs; this improves over previous work in that the ordering is defined directly on the graph structure rather than via unravelling into trees. We use the lattice in sketching the correctness of Nocker's abstract reduction algorithm; an efficient strictness analysis used in the Concurrent Clean system.

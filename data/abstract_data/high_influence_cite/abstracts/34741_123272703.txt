@@ -1,0 +1,16 @@
+The Wavelength-Smoothing Method For Approximating Broad-Band Wave Propagation Through Complicated Velocity Structures
+SUMMARY 
+ 
+This paper introduces a new, efficient method for approximating broad-band wave propagation in complicated velocity structures. the complete justification and development of this method are not presented, but it is shown that this technique, despite its simplicity, reproduces many expected broad-band, wave-propagation phenomena. 
+ 
+ 
+ 
+This method, named here the wavelength-smoothing (WS) technique, is based on the computation of wave refraction using Huygens’ principle and a frequency-dependent velocity function defined as the wave velocity smoothed over a wavelength across the wavefront. the WS method reduces to geometrical ray theory at high frequency, but also produces broad-band wave phenomena such as dispersion, phase shifting upon reflection and wavelength-dependent scattering. Transmitted refractions, wide-angle reflections and head waves are produced at discontinuities without requiring the matching of boundary conditions. the WS method is subject to some of the limitations of geometrical ray methods including amplitude instability at caustics and incomplete modelling of diffractions near critical regions. Also, wavetype conversions and pre-critical reflections are not produced at internal discontinuities. 
+ 
+ 
+ 
+The WS technique is an application of physical principles but is intuitively based and not formally derived from basic equations. As a consequence, the completeness and accuracy of the method may be less than that of other techniques. Although a number of tests and comparisons of the method have given satisfactory results, additional investigations to provide further justification and verification are now required. 
+ 
+ 
+ 
+The WS algorithm requires much less computer time and memory than numerical techniques and may be applied in practice to complicated, 3-D velocity models. A comparison between the WS method and a boundary integral method applied to a 2-D, rough interface model is presented in this paper.

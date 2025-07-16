@@ -1,0 +1,2 @@
+A slim tabletop interface based on high resolution LCD screens with multiple cameras
+We propose a slim tabletop interface based on high resolution LCD screens with multiple cameras. In order to perceive multi-touch inputs, we adopt the FTIR (Frustrated Total Internal Reflection) method. Dual LCD panels are used to construct a slim and wide output screen of the tabletop interface. The height of the tabletop interface is 20 cm and dual cameras with dual mirrors are used. Our proposed interface is more flexible and more extensible comparing to previous tabletop interfaces.

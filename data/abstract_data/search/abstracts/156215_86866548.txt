@@ -1,0 +1,2 @@
+Non formality of planar configuration spaces in characteristic two
+We prove that the ordered configuration space of 4 or more points in the plane has a non formal singular cochain algebra in characteristic two. This is proved by constructing an explicit non trivial obstruction class in the Hochschild cohomology of the cohomology ring of the configuration space, by means of the Barratt Eccles Smith simplicial model. We also show that if the number of points does not exceed its dimension, then an euclidean configuration space is intrinsically formal over any ring.

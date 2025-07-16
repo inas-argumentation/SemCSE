@@ -1,0 +1,2 @@
+Self-independent Petri Nets for Distributed Systems
+We propose that asynchronous mechanism for communication should be considered as a primitive for semantic models of distributed systems in contrast to the synchronous mechanism (hand-shaking) of CSP (Hoare, 1985) and of CCS (Milner, 1989). By doing so, we present an approach to producing a deadlock-free system, and give a denotational model for CCS in a non-interleaving fashion.

@@ -1,0 +1,2 @@
+A Note on Programs Performing Kriging with Nonnegative Weights I
+is minimal and the estimation is unbiased. Note that, in the estimation, negative coefficients may occur. In some applications, however, the geologic setting of the problem requires an estimator involving only nonnegative weights. Given nonnegative data y/, nonnegativity of weights Xi is a sufficient, but not a necessary, condition to gain nonnegative estimates [examples are found easily, in opposition to Limid and Mikelid (1984, p. 425)].

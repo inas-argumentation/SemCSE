@@ -1,0 +1,19 @@
+Evaluation of TDP-43 proteinopathy and hippocampal sclerosis in relation to APOE ε4 haplotype status: a community-based cohort study
+BACKGROUND
+Transactive response DNA-binding protein of 43 kDa (TDP-43) proteinopathy in older adults frequently coexists with Alzheimer's disease pathology and hippocampal sclerosis. It is unclear whether there is a link between APOE ε4 and TDP-43 proteinopathy, and the role of APOE ε4 in the association of TDP-43 proteinopathy with hippocampal sclerosis remains to be examined. We investigated the relationships of TDP-43 proteinopathy and hippocampal sclerosis with APOE ε4.
+
+
+METHODS
+We used data from two community-based cohort studies of ageing and dementia: the Religious Orders Study (ROS) and the Rush Memory and Aging Project (MAP). A battery of cognitive tests examining multiple cognitive domains is given to ROS-MAP participants each year, and a measure of annual global cognitive function for each participant is derived by averaging Z scores of these tests. The final clinical diagnosis is assigned after death by a neurologist using all available clinical data without access to post-mortem pathology. Amyloid-β, paired helical filament tau, Lewy bodies, TDP-43, and hippocampal sclerosis were microscopically evaluated in the midbrain, medial temporal, and neocortical regions that capture the progression of each neuropathology. TDP-43 proteinopathy topographic stage was recorded as an ordinal variable, and TDP-43 burden was defined by averaging a semi-quantitative six-point scale across six brain regions. The relationships among APOE ε4, TDP-43 proteinopathy, and hippocampal sclerosis were tested with regression models controlled for sex and age at death, and they were further explored with a mediation analysis using the quasi-Bayesian Monte Carlo method.
+
+
+FINDINGS
+ROS began data collection in 1994, and MAP began data collection in 1997. The data included in this study were analysed from Jan 16, 2017, to July 12, 2017. When analysis began in January, 2017, a total of 1059 ROS-MAP participants who were deceased had APOE genotype and complete pathological measures for amyloid-β, paired helical filament tau, and TDP-43 proteinopathy stage. After excluding 15 participants with other pathological diagnoses, 1044 participants, 1042 of whom also had measures of Lewy body pathology, were included in this study (470 from ROS and 574 from MAP). APOE ε4 count was associated with higher TDP-43 proteinopathy stage (odds ratio [OR] 2·0, 95% CI 1·6-2·6; p=1·9 × 10-9) and TDP-43 burden (0·40, 0·28-0·52; p=1·2 × 10-10). Amyloid-β, paired helical filament tau, or Lewy body pathology did not fully explain this association. APOE ε4 increased the odds of hippocampal sclerosis (OR 2·1, 95% CI 1·4-3·0; p=1·7 × 10-4); this effect was largely mediated by TDP-43 burden (mediated effect p<1·0 × 10-4) but not directly by APOE ε4 (direct effect p=0·40). APOE ε4 was associated with worse global cognition proximate to death even after adjusting for amyloid-β and paired helical filament tau (estimated effect -0·18, 95% CI -0·31 to -0·04; p=0·010), but this association was attenuated by additionally adjusting for TDP-43 burden (-0·09, -0·22 to 0·04; p=0·18).
+
+
+INTERPRETATION
+APOE ε4 seems to increase TDP-43 burden, and this effect in turn was associated with higher odds of hippocampal sclerosis, a pathology potentially downstream of TDP-43 proteinopathy. TDP-43 proteinopathy contributes to the detrimental effect of APOE ε4 on late-life cognition through mechanisms independent of Alzheimer's disease pathology, and future research should consider that TDP-43 proteinopathy might be an integral component of APOE-related neurodegeneration.
+
+
+FUNDING
+US National Institute on Aging and Alzheimer's Association.

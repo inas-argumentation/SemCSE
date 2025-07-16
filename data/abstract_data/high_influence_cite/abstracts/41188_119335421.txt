@@ -1,0 +1,3 @@
+Representation theory of the infinite symmetric group and Pfaffian point processes
+We construct a family of Pfaffian point processes relevant for the harmonic analysis on the infinite symmetric group. The correlation functions of these processes are representable as Pfaffians with matrix valued kernels. We give explicit formulae for the matrix valued kernels in terms of the classical Whittaker functions. The obtained formulae have the same structure as that arising in the study of symplectic ensembles of Random Matrix Theory. 
+The paper is an extended version of the author's talk at Fall 2010 MSRI Random Matrix Theory program.

@@ -1,0 +1,17 @@
+Euclidean Bounded-Degree Spanning Tree Ratios
+Abstract
+Let τK be the worst-case (supremum) ratio of the weight of
+the minimum degree-K spanning tree to the weight of the
+minimum spanning tree, over all finite point sets in the Euclidean plane. 
+It is known that τ2 = 2 and τ5 = 1. In STOC ‘94,
+Khuller, Raghavachari, and Young established the following inequalities:
+1.103 < τ3 \le 1.5 and 1.035 < τ4 \le 1.25. 
+We present the first improved upper bounds: 
+τ3 < 1.402 and τ4 < 1.143. As a result,
+we obtain better 
+approximation algorithms for Euclidean minimum
+bounded-degree spanning trees. 
+
+Let τK(d) be the analogous ratio in 
+d-dimensional space. Khuller et al. showed thatτ3(d) < 1.667 for any d. We observe that τ3(d) < 1.633.
+

@@ -1,0 +1,2 @@
+A 1.75 GHz highly-integrated narrow-band CMOS transmitter with harmonic-rejection mixers
+A 1.75 GHz transmitter with harmonic and double image reject mixer integrates the full signal path from the DAC to the RF output with two frequency synthesizers in a 0.35 /spl mu/m double-poly five-metal CMOS process. The IC consumes 151 mA from a 3 V supply and achieves 1.3/spl deg/ rms phase error. Active area is 3/spl times/9.9 mm/sup 2/.

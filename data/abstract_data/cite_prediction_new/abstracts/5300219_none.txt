@@ -1,0 +1,2 @@
+A Note on a Characterization of Rényi Measures and its Relation to Composite Hypothesis Testing
+The R\'enyi information measures are characterized in terms of their Shannon counterparts, and properties of the former are recovered from first principle via the associated properties of the latter. Motivated by this characterization, a two-sensor composite hypothesis testing problem is presented, and the optimal worst case miss-detection exponent is obtained in terms of a R\'enyi divergence.

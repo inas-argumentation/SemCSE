@@ -1,0 +1,2 @@
+Deadline-based scheduling of periodic task systems on multiprocessors
+We consider the problem of scheduling periodic task systems on multiprocessors and present a deadline-based scheduling algorithm for solving this problem. We show that our algorithm successfully schedules on m processors any periodic task system with utilization at most m2/(2m - 1).

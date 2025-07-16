@@ -1,0 +1,11 @@
+Domain adaptation for semantic role labeling in the biomedical domain
+MOTIVATION
+Semantic role labeling (SRL) is a natural language processing (NLP) task that extracts a shallow meaning representation from free text sentences. Several efforts to create SRL systems for the biomedical domain have been made during the last few years. However, state-of-the-art SRL relies on manually annotated training instances, which are rare and expensive to prepare. In this article, we address SRL for the biomedical domain as a domain adaptation problem to leverage existing SRL resources from the newswire domain.
+
+
+RESULTS
+We evaluate the performance of three recently proposed domain adaptation algorithms for SRL. Our results show that by using domain adaptation, the cost of developing an SRL system for the biomedical domain can be reduced significantly. Using domain adaptation, our system can achieve 97% of the performance with as little as 60 annotated target domain abstracts.
+
+
+AVAILABILITY
+Our BioKIT system that performs SRL in the biomedical domain as described in this article is implemented in Python and C and operates under the Linux operating system. BioKIT can be downloaded at http://nlp.comp.nus.edu.sg/software. The domain adaptation software is available for download at http://www.mysmu.edu/faculty/jingjiang/software/DALR.html. The BioProp corpus is available from the Linguistic Data Consortium http://www.ldc.upenn.edu.

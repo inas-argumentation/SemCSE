@@ -1,0 +1,2 @@
+A Speech rocessin Interface for Analysis of atholo ical oices
+The authors present a new speech processing software designed for clinical observation of vocal disorders, speech assessments and some pathologies identification. By using a recorded speech sound of a patient, they use a PDA algorithm implemented under Matlab in order to extract the vocal parameters (pitch period, formant frequencies, jitter, shimmer). The obtained results are compared with the normal values in order to an eventual disorder classification, a pathological prediction and prostheses assessments

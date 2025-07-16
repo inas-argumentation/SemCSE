@@ -1,0 +1,15 @@
+The effect of July admission on inpatient outcomes following spinal surgery.
+OBJECT
+The presence of a "July effect," where the influx of new residents and fellows at teaching hospitals every July may negatively affect patient care and outcomes, is widely debated. The authors used the Nationwide Inpatient Sample (NIS) to identify all cases of spinal surgery and examine outcomes among patients who underwent surgery in July compared with those who underwent surgery in other months.
+
+
+METHODS
+Spinal surgery hospitalizations from 2001 to 2008 were identified in the NIS by extracting relevant ICD-9 codes. Rates of in-hospital mortality, discharge to a long-term care facility, and postoperative complications were compared between admission months and between teaching and nonteaching hospitals using the Wilcoxon rank-sum test, Fisher exact test, and multivariate regression analysis.
+
+
+RESULTS
+Compared with patients admitted in other months, patients who were admitted to teaching hospitals in July for spinal surgery showed a similar likelihood of in-hospital mortality (OR 0.94 [95% CI 0.78-1.11], p = 0.46), reaction to implanted device/instrumentation (OR 0.88 [95% CI 0.77-1.02], p = 0.09), and postoperative wound dehiscence (OR 1.12 [95% CI 0.94-1.33], p = 0.25). A significantly higher likelihood of discharge to a long-term care facility (OR 1.03 [95% CI 1.00-1.07], p = 0.0467) and postoperative infection (OR 1.11 [95% CI 1.05-1.17], p = 0.0341) was observed in teaching hospitals in July compared with other months; however, incidence rates were similar regardless of admission month. Higher-risk patients (Charlson score ≥ 2) admitted to teaching hospitals in July had a similar likelihood of all outcomes regardless of admission month.
+
+
+CONCLUSIONS
+This study of nationwide hospitalizations demonstrates that the influx of new residents and fellows in July has a negligible effect on periprocedural outcomes following spinal surgery.

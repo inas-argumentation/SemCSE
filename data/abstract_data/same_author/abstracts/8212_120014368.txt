@@ -1,0 +1,2 @@
+A new proposal for the determination of the renormalization group trajectories by the Monte Carlo renormalization group method
+We present a new method for calculating block renormalized couplings by Monte Carlo renormalization group. This method has several advantages with respect to the existing ones and can be applied for any value of the coupling constants. A preliminary numerical study of the 2-dimensional O(3) non linear σ-model is also presented.

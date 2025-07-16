@@ -1,0 +1,2 @@
+Compactness framework and convergence of lax-Friedrichs and Godunov schemes for a 2 × 2 nonstrictly hyperbolic system of conservation laws
+A compactness framework and a convergence theorem for the LaxFriedrichs scheme and the Godunov scheme applied to the Cauchy problem for a 2x2 nonstrictly hyperbolic system of conservation laws are established. The existence of weak solutions is proved using the theory of compensated compactness of Tartar, Murat, DiPerna, and Serre.

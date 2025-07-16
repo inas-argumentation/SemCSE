@@ -1,0 +1,19 @@
+A tensor-based scheme for stroke patients’ motor imagery EEG analysis in BCI-FES rehabilitation training
+BACKGROUND
+Stroke is one of the most common disorders among the elderly. A practical problem in stroke rehabilitation systems is that how to separate motor imagery patterns from electroencephalographic (EEG) recordings. There is a sharp decline in performance of these systems when classical algorithms, such as Common Spatial Pattern (CSP), are directly applied on stroke patients.
+
+
+NEW METHOD
+We propose a tensor-based scheme to detect motor imagery EEG patterns in spatial-spectral-temporal domain directly from multidimensional EEG constructed by wavelet transform method. Discriminative motor imagery EEG patterns are obtained by Fisher score strategy. Furthermore, the most contributed channel groups and frequency bands are selected from these patterns and utilized as prior knowledge for the following motor imagery tasks.
+
+
+RESULTS
+We evaluate our scheme based on EEG datasets recorded from stroke patients. The results show that our method outperforms five other traditional methods in both online and offline recognition performance.
+
+
+COMPARISON WITH EXISTING METHODS
+Unlike the existing methods, motor imagery EEG patterns in spatial-spectral-temporal domain are simultaneously obtained by our method, preserving the structural information of the multi-channel time-varying EEG.
+
+
+CONCLUSIONS
+Our scheme is encouraged to be transferred to some other practical rehabilitation applications for its better performance.

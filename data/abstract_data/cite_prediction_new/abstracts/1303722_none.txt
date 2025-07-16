@@ -1,0 +1,2 @@
+RIGOROUS PROOF OF A LIQUID-VAPOR PHASE TRANSITION IN A CONTINUUM PARTICLE SYSTEM
+We consider particles in ${R}^{d},d\ensuremath{\ge}2$, interacting via attractive pair and repulsive four-body potentials of the Kac type. Perturbing about mean field theory, valid when the interaction range becomes infinite, we prove rigorously the existence of a liquid-gas phase transition when the interaction range is finite but long compared to the interparticle spacing.

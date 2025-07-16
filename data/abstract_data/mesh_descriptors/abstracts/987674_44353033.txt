@@ -1,0 +1,23 @@
+Identification of patients with head and neck cancer using serum protein profiles.
+BACKGROUND
+New and more consistent biomarkers of head and neck squamous cell carcinoma (HNSCC) are needed to improve early detection of disease and to monitor successful patient management.
+
+
+OBJECTIVE
+To determine if a new proteomic technology can correctly identify protein expression profiles for cancer in patient serum samples as well as detect the presence of a known tumor marker.
+
+
+DESIGN
+Direct proteomic analysis and comparison.
+
+
+METHODS
+The surface-enhanced laser desorption/ionization time of flight mass spectrometry (SELDI-TOF) ProteinChip system was used to screen for differentially expressed proteins in serum samples from 99 patients with HNSCC, 25 "healthy" smokers, and 102 healthy (normal) controls. Protein peak clustering and classification analyses of the SELDI spectral data were performed.
+
+
+RESULTS
+Several proteins, with masses ranging from 2778 to 20,800 Da, were differentially expressed between patients with HNSCC and the normal controls. The serum protein expression profiles were used to develop a classification tree algorithm, which achieved a sensitivity of 83.3% and a specificity of 90% in discriminating HNSCC from normal and healthy smoker controls. The positive and negative predictive values were 80% and 92%, respectively. A peak with an average mass of 10,068 Da was detected in sera from HNSCC patients and identified as the known biomarker metallopanstimulin-1 (MPS-1), based on mass. Peak relative intensity of the 10,068-Da protein correlated consistently with MPS-1 levels detected by radioimmunoassay in serum samples of HNSCC patients and controls. The 10,068-Da peak was provisionally identified as MPS-1 by SELDI immunoassay.
+
+
+CONCLUSION
+We propose that this technique may allow for the development of a reliable screening test for the early detection and diagnosis of HNSCC, as well as the potential identification of tumor biomarkers.

@@ -1,0 +1,2 @@
+Self dual codes and orthogonal matrices over large finite fields
+Abstract In this paper, we give algorithms and methods of construction of self dual codes over finite fields using orthogonal matrices. Randomization in the orthogonal group, code extension and projection over a self dual basis are the main tools. Some optimal, almost MDS, and MDS self dual codes over both small and large finite fields are constructed. Moreover, over fifty MDS codes with new parameters are constructed. Comparisons with classical constructions are made.

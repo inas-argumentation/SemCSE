@@ -1,0 +1,2 @@
+Aliasing in Object-Oriented Systems
+Aliasing is naturally endemic in object-oriented programs. In Software - Practice and Experience, JAMES NOBLE and DOUG LEA describe the state of the art in dealing with aliasing and address its costs and benefits. Copyright © 2001 John Wiley & Sons, Ltd.

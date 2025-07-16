@@ -1,0 +1,2 @@
+The Advanced Encryption Standard on an Asynchronous Shared-Memory Multiprocessor
+The performance of a single-chip shared-memory multiprocessor system for encryption/decryption of large quantities of information is examined. The multiprocessor uses an asynchronous bus system to increase scalability and to reduce design effort. The target application is the Advanced Encryption Standard (AES) with 128 bit key. Chip area requirements and encryption/decryption throughput rates are examined.

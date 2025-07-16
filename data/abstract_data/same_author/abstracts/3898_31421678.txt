@@ -1,0 +1,2 @@
+No Source Code? No Problem!
+Typical software development involves one of two processes: the creation of newsoftware to fit particular requirements or the modification (maintenance) ofold software to fix problems or fit new requirements. These transformations happenat the source-code level. But what if the problem is not the maintenance of oldsoftware but the need to create a functional duplicate of the original? And whatif the source code is no longer available?

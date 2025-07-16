@@ -1,0 +1,2 @@
+An Efficient Parallel Data Clustering Algorithm Using Isoperimetric Number of Trees
+We propose a parallel graph-based data clustering algorithm using CUDA GPU, based on exact clustering of the minimum spanning tree in terms of a minimum isoperimetric criteria. We also provide a comparative performance analysis of our algorithm with other related ones which demonstrates the general superiority of this parallel algorithm over other competing algorithms in terms of accuracy and speed.

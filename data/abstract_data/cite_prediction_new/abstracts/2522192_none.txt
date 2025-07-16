@@ -1,0 +1,2 @@
+A high performance current mirror for low voltage designs
+A novel current mirror having high input and output voltage swing capability and which can operate at /spl plusmn/1.0 V supply, is proposed. PSPICE simulations confirm the input current range of 1 /spl mu/A to 500 /spl mu/A with 2 GHz bandwidth. Resistive and capacitive compensation are introduced to increase the bandwidth.

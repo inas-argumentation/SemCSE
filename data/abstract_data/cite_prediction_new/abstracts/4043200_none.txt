@@ -1,0 +1,2 @@
+Sparsity issues in the computation of Jacobian matrices
+The knowledge of sparsity information plays an important role in efficient determination of sparse Jacobian matrices. In a recent work, we have proposed sparsity-exploiting substitution techniques to determine Jacobian matrices. In this paper, we take a closer look at the underlying combinatorial problem. We propose a column ordering heuristic to augment the "usable sparsity" in the Jacobian matrix. Furthermore, we present a new elimination technique based on merging of successive columns.

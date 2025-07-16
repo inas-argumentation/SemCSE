@@ -1,0 +1,11 @@
+Noninvasive ECG imaging of electrophysiologically abnormal substrates in infarcted hearts : A model study.
+BACKGROUND
+Myocardial infarction and subsequent remodeling create substrates with altered electrophysiological (EP) properties that are highly arrhythmogenic. Existing ECG methods cannot always detect the existence of such substrates nor provide any detailed information about their EP characteristics. A noninvasive method with such capabilities is greatly needed for identifying patients at risk of arrhythmias and for guidance and evaluation of therapy. Recently, we developed a noninvasive ECG imaging modality that can reconstruct epicardial EP information from body surface potentials. We extended its application to hearts with structural disease and examined its ability to detect and characterize abnormal EP substrates.
+
+
+METHODS AND RESULTS
+Epicardial potentials were recorded with a 490-electrode sock from an open-chest dog. Recordings were obtained from a normal heart and from the same heart 2 hours after left anterior descending coronary artery occlusion and ethanol injection to create an infarct. Body surface potentials were generated from these epicardial potentials in a human torso model. Realistic geometry errors and measurement noise were added to the torso data, which were then used to noninvasively reconstruct epicardial potentials and electrograms (EGMs), with excellent accuracy. EP characteristics associated with the infarct substrate were reconstructed, including (1) a negative region over the infarct, (2) EGMs with large predominant negative deflections (eg, Q-wave EGMs), (3) Q-wave EGMs with superimposed RS deflections reflecting local activation of surviving myocardium within the infarct border zone, (4) reduced magnitudes of EGM negative derivatives, and (5) negative QRS integrals of EGMs over the infarct.
+
+
+CONCLUSIONS
+ECG imaging can noninvasively detect and map abnormal EP substrates associated with infarction and structural heart disease.

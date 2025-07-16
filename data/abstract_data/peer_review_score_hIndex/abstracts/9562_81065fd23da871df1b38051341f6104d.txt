@@ -1,0 +1,7 @@
+Spatially Invariant Unsupervised 3D Object-Centric Learning and Scene Decomposition
+We tackle the problem of deep object-centric learning from a point cloud which is crucial for high-level relational reasoning and scalable machine intelligence. 
+In particular, we introduce a framework, SPAIR3D, to factorize a 3D point cloud into a spatial mixture model where each component corresponds to one object. 
+To model the spatial mixture model on point clouds, we derive the Chamfer Mixture Loss, which fits naturally into our variational training pipeline. Moreover, we adopt an object-specification scheme that describes each object’s location relative to its local voxel grid cell. 
+Such a scheme allows SPAIR3D to model scenes with an arbitrary number of objects. 
+We evaluate our method on the task of unsupervised scene decomposition.
+Experimental results demonstrate that SPAIR3D has strong scalability and is capable of detecting and segmenting an unknown number of objects from a point cloud in an unsupervised manner.

@@ -1,0 +1,2 @@
+Fat Arcs for Implicitly Defined Curves
+We present an algorithm generating a collection of fat arcs which bound the zero set of a given bivariate polynomial in Bernstein–Bezier representation. We demonstrate the performance of the algorithm (in particular the convergence rate) and we apply the results to the computation of intersection curves between implicitly defined algebraic surfaces and rational parametric surfaces.

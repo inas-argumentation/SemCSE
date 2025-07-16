@@ -1,0 +1,2 @@
+On the asymptotic number of non-equivalent binary linear codes
+Denote by b(n) the number of non-equivalent linear codes in F"2^n and by G"n","2 the number of subspaces in F"2^n. M. Wild gave a proof that lim"n"->"~(n!b(n)G"n","2)=1. R. Lax pointed out that Wild's proof contains a gap which does not appear to have an easy fix. In this paper, we give a complete proof for the formula lim"n"->"~(n!b(n)G"n","2)=1.

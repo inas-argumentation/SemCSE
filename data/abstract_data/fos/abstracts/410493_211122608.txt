@@ -1,0 +1,27 @@
+Relationship between GP visits and time spent in-hospital among insulin-dependent Canadians with type 2 diabetes.
+OBJECTIVE
+To determine whether higher frequency of GP visits among insulin-dependent patients with type 2 diabetes is associated with reduced hospitalizations.
+
+
+DESIGN
+Nationally representative study using data from the 2013-2014 cycle of the Canadian Community Health Survey.
+
+
+SETTING
+Canada.
+
+
+PARTICIPANTS
+A study sample comprising 2203 insulin-dependent Canadians with type 2 diabetes.
+
+
+MAIN OUTCOME MEASURES
+The relationship between GP visits (no visits, 1-5 visits, ≥ 6 visits) in the past year and the number of nights spent in-hospital. Zero-inflated negative binomial Poisson regression models were used to account for overdispersion and excess zeros.
+
+
+RESULTS
+Higher numbers of GP visits were associated with spending fewer nights in-hospital. Patients with 1 to 5 GP visits had a significantly lower number of nights spent in-hospital (rate ratio of 0.38, 95% CI 0.25 to 0.56), as did those with 6 or more GP visits (rate ratio of 0.57, 95% CI 0.38 to 0.84) despite having reduced odds of not being hospitalized (odds ratio of 0.62, 95% CI 0.39 to 0.95), compared with those who did not see a GP in the past year, after adjusting for confounders.
+
+
+CONCLUSION
+We found that insulin-dependent patients with diabetes who saw GPs more frequently were hospitalized less commonly compared with those who did not see a GP in the past year. Further research is needed to examine relationships with other types of follow-up, ideally using a longitudinal design.

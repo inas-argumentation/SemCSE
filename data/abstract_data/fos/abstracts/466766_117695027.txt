@@ -1,0 +1,2 @@
+errors of radiosonde and rocketsonde temperature sensors
+A method is proposed where two thermistors of different emissivities are used on the radiosonde to compute the corrected air temperature. This method could be extended to rocketsonde temperature measurements by using two bead thermistors of different sizes to determine temperature errors and aerodynamic heating errors.

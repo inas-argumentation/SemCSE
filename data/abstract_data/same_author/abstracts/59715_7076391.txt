@@ -1,0 +1,4 @@
+Bipartite subgraphs
+AbstractIt is shown that there exists a positivec so that for any large integerm, any graph with 2m2edges contains a bipartite subgraph with at least
+$$m^2 + m/2 + c\sqrt m$$
+ edges. This is tight up to the constantc and settles a problem of Erdös. It is also proved that any triangle-free graph withe>1 edges contains a bipartite subgraph with at least e/2+c′ e4/5 edges for some absolute positive constantc′. This is tight up to the constantc′.

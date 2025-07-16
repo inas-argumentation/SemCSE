@@ -1,0 +1,2 @@
+Q WIRE : A QRAM-Inspired Quantum Circuit Language
+We introduce QWIRE, a linearly typed, strongly normalizing language for quantum circuits inspired by the QRAM model for quantum computing. We demonstrate the type-safety of the language and consider its embeddings in rich host languages, with the aim of producing an expressive and fully verified circuit representation language.

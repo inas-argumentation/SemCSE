@@ -1,0 +1,2 @@
+A Information Monitoring and Job Scheduling System for Multiple Linux PC Clusters
+Managing and monitoring a cluster is both a tedious and challenging task, since each computing node is designed as a stand-alone system rather than a part of a parallel architecture. In this paper, a software system that allows the centralized administration of a generic Beowulf cluster is proposed. This system also provides Web services and applications to monitor multiple PC clusters with job submission and scheduling

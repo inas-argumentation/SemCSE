@@ -1,0 +1,2 @@
+A Confidence Interval for an Exponential Parameter from a Hybrid Life Test
+In life testing, type I and type II censoring may be combined to form a hybrid life test. Epstein (1954) introduced this testing scheme and Epstein (1960b) proposed a two-sided confidence interval to estimate the mean lifetime, 8, of an exponential lifetime following such a test. His conjecture is modified slightly and a proof is given that establishes the validity of the proposed confidence interval.

@@ -1,0 +1,2 @@
+An application of the UV-filtering preconditioner to the Polynomial Hybrid Monte Carlo algorithm
+Center for Computational Physics, University of Tsukuba, Tsukuba 305-8577, JapanWe apply the UV-ﬁltering preconditioner, previously used to improve the Multi-Boson algorithm,to the Polynomial Hybrid Monte Carlo (UV-PHMC) algorithm. The performance test for thealgorithm is given for the plaquette gauge action and the O(a)-improved Wilson action atβ=5

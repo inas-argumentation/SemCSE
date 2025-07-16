@@ -1,0 +1,15 @@
+EEG classification in a single-trial basis for vowel speech perception using multivariate empirical mode decomposition.
+OBJECTIVE
+The objective of this study is to find components that might be related to phoneme representation in the brain and to discriminate EEG responses for each speech sound on a trial basis.
+
+
+APPROACH
+We used multivariate empirical mode decomposition (MEMD) and common spatial pattern for feature extraction. We chose three vowel stimuli, /a/, /i/ and /u/, based on previous findings, such that the brain can detect change in formant frequency (F2) of vowels. EEG activity was recorded from seven native Korean speakers at Gwangju Institute of Science and Technology. We applied MEMD over EEG channels to extract speech-related brain signal sources, and looked for the intrinsic mode functions which were dominant in the alpha bands. After the MEMD procedure, we applied the common spatial pattern algorithm for enhancing the classification performance, and used linear discriminant analysis (LDA) as a classifier.
+
+
+MAIN RESULTS
+The brain responses to the three vowels could be classified as one of the learned phonemes on a single-trial basis with our approach.
+
+
+SIGNIFICANCE
+The results of our study show that brain responses to vowels can be classified for single trials using MEMD and LDA. This approach may not only become a useful tool for the brain-computer interface but it could also be used for discriminating the neural correlates of categorical speech perception.

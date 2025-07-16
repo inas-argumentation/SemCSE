@@ -1,0 +1,3 @@
+Arithmetic ampleness and an arithmetic Bertini theorem
+Let $\mathcal X$ be a projective arithmetic variety of dimension at least $2$. If $\overline{\mathcal L}$ is an ample hermitian line bundle on $\mathcal X$, we prove that the proportion of those effective sections of $\overline{\mathcal L}^{\otimes n}$ that define an irreducible divisor on $\mathcal X$ tends to $1$ as $n$ tends to $\infty$. We prove variants of this statement for schemes mapping to such an $\mathcal X$. 
+On the way to these results, we discuss some general properties of arithmetic ampleness, including restriction theorems, and upper bounds for the number of effective sections of hermitian line bundles on arithmetic varieties.

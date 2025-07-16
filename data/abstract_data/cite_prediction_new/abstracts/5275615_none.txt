@@ -1,0 +1,2 @@
+A multi-criteria decision making model for advanced repair-to-order and disassembly-to-order system
+Sensor-embedded products (SEPs) eliminate a majority of uncertainties involved in product recovery by providing item-based life-cycle information. This information includes the content of each product and component conditions, and enables the estimation of remaining useful life of the components. Once the data on the products are captured, it is possible to make optimal recovery decisions without any preliminary disassembly or inspection operations.

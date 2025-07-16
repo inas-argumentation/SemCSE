@@ -1,0 +1,6 @@
+Paragon for Practical Programming with Information-Flow Control
+Conventional security policies for software applications are adequate for managing concerns on the level of access control. But standard abstraction mechanisms of mainstream programming languages are not sufficient to express how information is allowed to flow between resources once access to them has been obtained. In practice we believe that such control - information flow control - is needed to manage the end-to-end security properties of applications. 
+ 
+In this paper we present Paragon, a Java-based language with first-class support for static checking of information flow control policies. Paragon policies are specified in a logic-based policy language. By virtue of their explicitly stateful nature, these policies appear to be more expressive and flexible than those used in previous languages with information-flow support. 
+ 
+Our contribution is to present the design and implementation of Paragon, which smoothly integrates the policy language with Java's object-oriented setting, and reaps the benefits of the marriage with a fully fledged programming language.

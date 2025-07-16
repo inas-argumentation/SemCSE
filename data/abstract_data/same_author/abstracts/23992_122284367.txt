@@ -1,0 +1,2 @@
+Experience with parallel optical link for the CDF silicon detector
+The Dense Optical Interface Module (DOIM) is a byte-wide optical link developed for the Run II upgrade of the CDF silicon tracking system [1]. The module consists of a transmitter with a laser-diode array for conversion of digitized detector signals to light outputs, a 22 m optical fiber ribbon cable for light transmission, and a receiver converting the light pulses back to electrical signals. We report on the design feature, characteristics, and radiation tolerance.

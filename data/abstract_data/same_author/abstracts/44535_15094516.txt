@@ -1,0 +1,2 @@
+Translating application requirements to ATM cell level requirements
+It has been well established that high speed networks will be based on cell relay technology, an important feature of which is small fixed size packets. However, application data is rarely small of fixed size, and hence it is important to study the impact on message-level performance in a cell based system. This paper presents a simulation study of application level performance and studies various trade-offs in requesting specific cell level QoS parameters to satisfy the application requirements.

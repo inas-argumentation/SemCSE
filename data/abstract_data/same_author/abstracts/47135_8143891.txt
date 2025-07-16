@@ -1,0 +1,3 @@
+Different bounds on the different Betti numbers of semi-algebraic sets
+A classic result in real algebraic geometry due to Oleinik-Petrovsky, Thom and Milnor, bounds the {\em topological complexity} (the sum of the Betti numbers) of basic semi-algebraic sets. This bound is tight as one can construct examples having that many connected components. However, till now no significantly better bounds were known on the individual higher Betti numbers.
+In this paper we prove separate bounds on the different Betti numbers of basic semi-algebraic sets, as well as arrangements of algebraic hypersurfaces. These are the first results in this direction.

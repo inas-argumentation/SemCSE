@@ -1,0 +1,2 @@
+Quantum symmetrically-private information retrieval
+Private information retrieval systems (PIRs) allow a user to extract an item from a database that is replicated over k ≥ 1 servers, while satisfying various privacy constraints. We exhibit quantum k-server symmetrically-private information retrieval systems (QSPIRs) that use sublinear communication, do not use shared randomness among the servers, and preserve privacy against honest users and dishonest servers. Classically, SPIRs without shared randomness do not exist at all.

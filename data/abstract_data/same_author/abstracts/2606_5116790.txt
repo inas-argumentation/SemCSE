@@ -1,0 +1,2 @@
+Flexible parallelization of fast wavelet transforms
+In this paper, we present a new parallel algorithm for fast wavelet transforms (FWT) of a matrix of arbitrary size using any given number of parallel processors. The main idea in achieving the optimal load balancing is through a complexity analysis and flops minimization. This makes parallel implementation of FWT feasible and efficient on distributed memory machines with only a small number of processors and on local area networks. The new algorithm is tested by numerical experiments.

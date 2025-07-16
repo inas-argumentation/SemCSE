@@ -1,0 +1,2 @@
+Rate-distortion functions for source coding with complementary side information
+The rate-distortion (RD) function for source coding with complementary side-information is characterised for several special cases of the general problem. These include Steinberg's common-reconstruction setting, small distortions for both sources, zero distortion for one source, conditionally independent sources, and deterministic distortion measures.

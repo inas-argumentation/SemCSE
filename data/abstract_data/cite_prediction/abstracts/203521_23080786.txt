@@ -1,0 +1,2 @@
+A compact millimeter-wave slot antenna array for 5G standards
+A millimeter wave (mm-wave) two-dimensional slot antenna array, operating at 28 GHz, is designed and presented in this paper. The antenna array consists of 8 elements in a 2×4 configuration. A 1-to-4 power divider is feeding the 2×4 slot antenna array in both schemes; parallel and series. The bandwidth achieved for the integrated system was almost 5% with a center frequency at 28.2 GHz. The occupied size was 29.9×28.7×0.13 mm3, making it easier to fit within handheld devices for the upcoming 5G cellular standards.

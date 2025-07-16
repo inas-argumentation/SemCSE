@@ -1,0 +1,2 @@
+Heuristics for a bidding problem
+In this paper, we study a bidding problem which can be modeled as a set packing problem. A simulated annealing heuristic with three local moves, including an embedded branch-and-bound move, is developed for the problem. We compared the heuristic with the CPLEX 8.0 solver and the current best non-exact method, Casanova, using the standard CATS benchmark and other realistic test sets. Results show that the heuristic outperforms CPLEX and Casanova.

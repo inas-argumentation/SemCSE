@@ -1,0 +1,2 @@
+Automatic Performance Tuning for J2EE Application Server Systems
+Performance tuning for J2EE application server systems is a complex manual task. This is unfortunately a necessary task in order to achieve optimal performance under dynamic workload environment. In this paper, we present our architecture and approach for implementing autonomic behavior in J2EE application server systems. Our experimental results demonstrate the feasibility and practicality of our architecture and approach in automatic performance tuning of J2EE application server systems.

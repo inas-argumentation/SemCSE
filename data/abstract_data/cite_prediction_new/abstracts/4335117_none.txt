@@ -1,0 +1,2 @@
+Memoryless H∞ Controllers for Discrete-Time Systems with Time Delay
+This paper considers the problem of H"~ stabilization of discrete-time systems with state delays and exogenous bounded-energy l"2 disturbances. Specifically, an H"~ state feedback control design problem for discrete-time systems with time delay is addressed. The principal result involves sufficient conditions in terms of a modified Riccati equation for characterizing state feedback controllers that enforce a bound on H"~ performance and guarantee closed-loop stability in the face of system state delay.

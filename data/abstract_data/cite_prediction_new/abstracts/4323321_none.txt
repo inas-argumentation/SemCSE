@@ -1,0 +1,2 @@
+ZISC neural network base indicator for classification complexity estimation
+This paper presents a new approach for estimating task complexity using IBM© Zero Instruction Set Computer (ZISC ©). The goal is to build a neural tree structure following the paradigm “divide and rule”. The aim of this work is to define a complexity indicator-function and to hallmark its’ main features.

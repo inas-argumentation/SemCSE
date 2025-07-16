@@ -1,0 +1,2 @@
+A Study of Language Modeling for Chinese Spelling Check
+Chinese spelling check (CSC) is still an open problem today. To the best of our knowledge, language modeling is widely used in CSC because of its simplicity and fair predictive power, but most systems only use the conventional n-gram models. Our work in this paper continues this general line of research by further exploring different ways to glean extra semantic clues and Web resources to enhance the CSC performance in an unsupervised fashion. Empirical results demonstrate the utility of our CSC system.

@@ -1,0 +1,2 @@
+Efficient permutation-based range-join algorithms on N-dimensional meshes using data-shifting (preliminary version)
+In this paper, we present two efficient parallel algorithms for computing a non-equijoin, range-join, of two relations an N-dimensional mesh-connected computers. The proposed algorithms uses the data-shifting approach to effectively permute every sorted subset of relation S to each processor in turn recursively in dimensions from low to high, where it is joined with the local subset of relation R.

@@ -1,0 +1,2 @@
+Research an Design of Spatial Query Language GSQL and It's Interpreter
+Spatial Query Language is the interface of Spatial Databases and internet applications, but traditional SQL doesn't support spatial data and can't deal with the Spatial Query Language. The article studies and designs Spatial Query Language GSQL and it's interpreter based on the OpenCIS SQL.

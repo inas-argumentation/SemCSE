@@ -1,0 +1,2 @@
+Solution of discrete ARMA-representations via MAPLE
+In Karampetakis et al. [Circuits Systems and Signal Processing 20 (2001) 89] closed formulae for the forward, backward and symmetric solutions of an ARMA-representation have been presented. Here these formulae are implemented in the symbolic computational language MAPLE and corresponding MAPLE code is provided.

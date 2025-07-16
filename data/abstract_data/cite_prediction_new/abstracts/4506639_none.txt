@@ -1,0 +1,2 @@
+Querying for the Largest Empty Geometric Object in a Desired Location
+We study new types of geometric query problems defined as follows: given a geometric set $P$, preprocess it such that given a query point $q$, the location of the largest circle that does not contain any member of $P$, but contains $q$ can be reported efficiently. The geometric sets we consider for $P$ are boundaries of convex and simple polygons, and point sets. While we primarily focus on circles as the desired shape, we also briefly discuss empty rectangles in the context of point sets.

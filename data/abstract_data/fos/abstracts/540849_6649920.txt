@@ -1,0 +1,15 @@
+SU-D-17A-04: The Impact of Audiovisual Biofeedback On Image Quality During 4D Functional and Anatomic Imaging: Results of a Prospective Clinical Trial.
+PURPOSE
+The ability of audiovisual (AV) biofeedback to improve breathing regularity has not previously been investigated for functional imaging studies. The purpose of this study was to investigate the impact of AV biofeedback on 4D-PET and 4D-CT image quality in a prospective clinical trial. We hypothesized that motion blurring in 4D-PET images and the number of artifacts in 4D-CT images are reduced using AV biofeedback.
+
+
+METHODS
+AV biofeedback is a real-time, interactive and personalized system designed to help a patient self-regulate his/her breathing using a patient-specific representative waveform and musical guides. In an IRB-approved prospective clinical trial, 4D-PET and 4D-CT images of 10 lung cancer patients were acquired with AV biofeedback (AV) and free breathing (FB). The 4D-PET images in 6 respiratory bins were analyzed for motion blurring by: (1) decrease of GTVPET and (2) increase of SUVmax in 4-DPET compared to 3D-PET. The 4D-CT images were analyzed for artifacts by: (1) comparing normalized cross correlation-based scores (NCCS); and (2) quantifying a visual assessment score (VAS). A two-tailed paired t-test was used to test the hypotheses.
+
+
+RESULTS
+The impact of AV biofeedback on 4D-PET and 4D-CT images varied widely between patients, suggesting inconsistent patient comprehension and capability. Overall, the 4D-PET decrease of GTVPET was 2.0±3.0cm3 with AV and 2.3±3.9cm^3 for FB (p=0.61). The 4D-PET increase of SUVmax was 1.6±1.0 with AV and 1.1±0.8 with FB (p=0.002). The 4D-CT NCCS were 0.65±0.27 with AV and 0.60±0.32 for FB (p=0.32). The 4D-CT VAS was 0.0±2.7 (p=ns).
+
+
+CONCLUSION
+A 10-patient study demonstrated a statistically significant reduction of motion blurring of AV over FB for 1/2 functional 4D-PET imaging metrics. No difference between AV and FB was found for 2 anatomic 4D-CT imaging metrics. Future studies will focus on optimizing the human-computer interface and including patient training sessions for improved comprehension and capability. Supported by NIH/NCI R01 CA 093626, Stanford BioX Interdisciplinary Initiatives Program, NHMRC Australia Fellowship, and Kwanjeong Educational Foundation. GE Healthcare provided the Respiratory Gating Toolbox for 4D-PET image reconstruction. Stanford University owns US patent #7955270 which is unlicensed to any commercial entity.

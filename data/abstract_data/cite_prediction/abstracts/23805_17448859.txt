@@ -1,0 +1,2 @@
+Vishit: A Visualizer for Hindi Text
+We outline the design of a visualizer, named Vishit, for texts in the Hindi language. The Hindi language is lingua franca in many states of India where people speak different languages. The visualized text serves as a universal language where seamless communication is needed by many people who speak different languages and have different cultures. Vishit consists of the following three major processing steps: language processing, knowledge base creation and scene generation. Initial results from the Vishit prototype are encouraging.

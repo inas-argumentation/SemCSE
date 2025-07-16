@@ -1,0 +1,15 @@
+3D high spectral and spatial resolution imaging of ex vivo mouse brain.
+PURPOSE
+Widely used MRI methods show brain morphology both in vivo and ex vivo at very high resolution. Many of these methods (e.g., T2*-weighted imaging, phase-sensitive imaging, or susceptibility-weighted imaging) are sensitive to local magnetic susceptibility gradients produced by subtle variations in tissue composition. However, the spectral resolution of commonly used methods is limited to maintain reasonable run-time combined with very high spatial resolution. Here, the authors report on data acquisition at increased spectral resolution, with 3-dimensional high spectral and spatial resolution MRI, in order to analyze subtle variations in water proton resonance frequency and lineshape that reflect local anatomy. The resulting information compliments previous studies based on T2* and resonance frequency.
+
+
+METHODS
+The proton free induction decay was sampled at high resolution and Fourier transformed to produce a high-resolution water spectrum for each image voxel in a 3D volume. Data were acquired using a multigradient echo pulse sequence (i.e., echo-planar spectroscopic imaging) with a spatial resolution of 50 × 50 × 70 μm(3) and spectral resolution of 3.5 Hz. Data were analyzed in the spectral domain, and images were produced from the various Fourier components of the water resonance. This allowed precise measurement of local variations in water resonance frequency and lineshape, at the expense of significantly increased run time (16-24 h).
+
+
+RESULTS
+High contrast T2*-weighted images were produced from the peak of the water resonance (peak height image), revealing a high degree of anatomical detail, specifically in the hippocampus and cerebellum. In images produced from Fourier components of the water resonance at -7.0 Hz from the peak, the contrast between deep white matter tracts and the surrounding tissue is the reverse of the contrast in water peak height images. This indicates the presence of a shoulder in the water resonance that is not present at +7.0 Hz and may be specific to white matter anatomy. Moreover, a frequency shift of 6.76 ± 0.55 Hz was measured between the molecular and granular layers of the cerebellum. This shift is demonstrated in corresponding spectra; water peaks from voxels in the molecular and granular layers are consistently 2 bins apart (7.0 Hz, as dictated by the spectral resolution) from one another.
+
+
+CONCLUSIONS
+High spectral and spatial resolution MR imaging has the potential to accurately measure the changes in the water resonance in small voxels. This information can guide optimization and interpretation of more commonly used, more rapid imaging methods that depend on image contrast produced by local susceptibility gradients. In addition, with improved sampling methods, high spectral and spatial resolution data could be acquired in reasonable run times, and used for in vivo scans to increase sensitivity to variations in local susceptibility.

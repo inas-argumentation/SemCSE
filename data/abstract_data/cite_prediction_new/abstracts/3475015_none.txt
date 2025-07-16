@@ -1,0 +1,2 @@
+Lagrange-Galerkin Discontinuous Finite Element Methods for the Navier-Stokes Equations
+In this paper, Lagrange-Galerkin discontinuous finite element method is introduced for time dependent Navier-Stokes equations. The method is stable for Pl /Pl and Pl /Pl-1, l≥1 combination of discontinuous discrete velocity and pressure spaces (without requiring the discrete inf-sup condition). Optimal error estimates are proved in the framework of L2-theory.

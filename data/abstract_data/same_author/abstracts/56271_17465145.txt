@@ -1,0 +1,11 @@
+SPEM: improving multiple sequence alignment with sequence profiles and predicted secondary structures
+MOTIVATION
+Multiple sequence alignment is an essential part of bioinformatics tools for a genome-scale study of genes and their evolution relations. However, making an accurate alignment between remote homologs is challenging. Here, we develop a method, called SPEM, that aligns multiple sequences using pre-processed sequence profiles and predicted secondary structures for pairwise alignment, consistency-based scoring for refinement of the pairwise alignment and a progressive algorithm for final multiple alignment.
+
+
+RESULTS
+The alignment accuracy of SPEM is compared with those of established methods such as ClustalW, T-Coffee, MUSCLE, ProbCons and PRALINE(PSI) in easy (homologs) and hard (remote homologs) benchmarks. Results indicate that the average sum of pairwise alignment scores given by SPEM are 7-15% higher than those of the methods compared in aligning remote homologs (sequence identity <30%). Its accuracy for aligning homologs (sequence identity >30%) is statistically indistinguishable from those of the state-of-the-art techniques such as ProbCons or MUSCLE 6.0.
+
+
+AVAILABILITY
+The SPEM server and its executables are available on http://theory.med.buffalo.edu.

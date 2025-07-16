@@ -1,0 +1,2 @@
+Visual Commonsense for Scene Understanding Using Perception, Semantic Parsing and Reasoning
+In this paper we explore the use of visual commonsense knowledge and other kinds of knowledge (such as domain knowledge, background knowledge, linguistic knowledge) for scene understanding. In particular, we combine visual processing with techniques from natural language understanding (especially semantic parsing), common-sense reasoning and knowledge representation and reasoning to improve visual perception to reason about finer aspects of activities.

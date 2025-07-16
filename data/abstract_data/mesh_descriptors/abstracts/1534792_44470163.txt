@@ -1,0 +1,7 @@
+Cleaver: software for identifying taxon specific restriction endonuclease recognition sites
+UNLABELLED
+Cleaver is an application for identifying restriction endonuclease recognition sites that occur in some taxa but not in others. Differences in DNA fragment restriction patterns among taxa are the basis for many diagnostic assays for taxonomic identification and are used in procedures for removing the DNA of some taxa from pools of DNA from mixed sources. Cleaver analyses restriction digestion of groups of orthologous DNA sequences simultaneously to allow identification of differences in restriction pattern among the fragments derived from different taxa.
+
+
+AVAILABILITY
+Cleaver is freely available without registration from its website (http://cleaver.sourceforge.net/) and can be copied, modified and re-distributed under the terms of the GNU general public licence version2 (http://www.gnu.org/licences/gpl). The program can be run as a script for computers that have Python 2.3 and necessary extra modules installed. This allows it to run on Gnu/Linux, Unix, MacOSX and Windows platforms. Stand-alone executable versions for Windows and MacOSX operating systems are available.

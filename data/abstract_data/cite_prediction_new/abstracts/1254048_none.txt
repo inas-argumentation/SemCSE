@@ -1,0 +1,2 @@
+On the complete monotonicity of the waiting time density in some GI/G/k systems
+In this note the complete monotonicity of the waiting time density in GI/G/k queues is proved under the assumption that the service time density is completely monotone. This is an extension of Keilson's [3] result for M/G/1 queues. We also provide another proof of the result that complete monotonicity is preserved by geometric compounding.

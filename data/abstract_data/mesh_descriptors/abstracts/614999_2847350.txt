@@ -1,0 +1,15 @@
+Comparison of the diagnostic information in relative cerebral blood volume, maximum concentration, and subtraction signal intensity maps based on magnetic resonance imaging of gliomas.
+RATIONALE AND OBJECTIVES
+The authors investigate the validity of regional relative cerebral blood volume (rCBV) versus maximum concentration and subtraction signal intensity (SI) maps using simple reconstruction modes in patients with gliomas.
+
+
+METHODS
+Twenty-five patients were studied using a 1.5 T magnetic resonance imaging scanner. To calculate the rCBV map, the magnetic resonance susceptibility effect SI/time curves were first transformed into concentration/time curves; then a gamma-variate function was fitted and the area under the curve was integrated. From the concentration/time data, the maximum concentration (MAX) maps were calculated pixel per pixel as the maximum peak amplitude of the concentration/time curve. Subtraction (SUB) maps are a result of simple image subtraction of pixelwise baseline SI minus the highest peak of susceptibility change pixel per pixel. Region of interest means SI measurement of the different maps was compared using statistical t test correlation.
+
+
+RESULTS
+Normal gray to white matter contrast did not show a significant difference among the rCBV, MAX, and SUB maps. Based on statistical evaluation, the low-grade lesions did not differ significantly in the rCBV, MAX, and SUB maps. The group with high-grade lesions (12 patients) showed no significant difference in standardized rCBV, MAX, and SUB maps.
+
+
+CONCLUSION
+Compared to rCBV maps, the simple MAX and SUB maps demonstrated good correlation in both high-grade and low-grade gliomas. This simpler approach could establish first-pass reconstruction in clinical settings because it reduces the need for time-consuming postprocessing.

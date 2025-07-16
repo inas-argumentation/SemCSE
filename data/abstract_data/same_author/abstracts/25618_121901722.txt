@@ -1,0 +1,4 @@
+Eliminating spurious states from the dual resonance model
+Virasoro pointed out that the dual resonance model with trajectory intercept one (αo = 1) has a larger number of linear dependences. Here we construct a linearly independent basis for the spurious states at α(π2) = N, and demonstrate that the remaining real states have the same mass (degeneracy), spin and parity as those states created by the spatial oscillators an†. The problem of eliminating ghosts (negative norm states resulting from [aon, aon†] = −1) is reformulated, and no ghosts or unanticipated null (‘zero norm’) states are found on the leading nine trajectories. The projection operator onto the real subspace is calculated and the corrections to the single loop diagrams are shown to be 
+(1−x) ∏n=1∞ (1−xn) and (1+x) ∏n=1∞(1−(−x)n) 
+for orientable and non-orientable diagrams respectively. The sum of all single loop diagrams is expressed as a single integral.

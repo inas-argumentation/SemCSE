@@ -1,0 +1,2 @@
+Interface conditions for wave propagation through mesh refinement boundaries
+We study the propagation of waves across fixed mesh refinement boundaries in linear and nonlinear model equations in 1-D and 2-D, and in the 3-D Einstein equations of general relativity. We demonstrate that using linear interpolation to set the data in guard cells leads to the production of reflected waves at the refinement boundaries. Implementing quadratic interpolation to fill the guard cells suppresses these spurious signals.

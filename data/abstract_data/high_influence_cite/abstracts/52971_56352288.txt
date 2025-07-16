@@ -1,0 +1,2 @@
+Hedging of Spatial Temperature Risk with Market-Traded Futures
+The main objective of this work is to construct optimal temperature futures from available market-traded contracts to hedge spatial risk. Temperature dynamics are modelled by a stochastic differential equation with spatial dependence. Optimal positions in market-traded futures minimizing the variance are calculated. Examples with numerical simulations based on a fast algorithm for the generation of random fields are presented.

@@ -1,0 +1,2 @@
+A gradual switching regression model with autocorrelated errors
+In this note, we set up the gradual switching regression model with autocorrelated errors and show the maximum likelihood estimation procedure. As an empirical example, we examine structural change in the energy demand in Japan at the first oil crisis.

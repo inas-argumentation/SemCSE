@@ -1,0 +1,2 @@
+Compiler-directed instruction duplication for soft error detection
+We experiment with compiler-directed instruction duplication to detect soft errors in VLIW datapaths. In the proposed approach, the compiler determines the instruction schedule by balancing the permissible performance degradation with the required degree of duplication. Our experimental results show that our algorithms allow the designer to perform tradeoff analysis between performance and reliability.

@@ -1,0 +1,20 @@
+The cost function of the data fusion process and its application
+. When the complete data fusion method is used to fuse
+inconsistent measurements, it is necessary to add to the measurement
+covariance matrix of each fusing profile a covariance matrix that takes into
+account the inconsistencies. A realistic estimate of these inconsistency
+covariance matrices is required for effectual fused products. We evaluate
+the possibility of assisting the estimate of the inconsistency covariance
+matrices using the value of the cost function minimized in the complete data
+fusion. The analytical expressions of expected value and variance of the
+cost function are derived. Modelling the inconsistency covariance matrix
+with one parameter, we determine the value of the parameter that makes the
+reduced cost function equal to its expected value and use the variance to
+assign an error to this determination. The quality of the inconsistency
+covariance matrix determined in this way is tested for simulated
+measurements of ozone profiles obtained in the thermal infrared in the
+framework of the Sentinel-4 mission of the Copernicus programme. As
+expected, the method requires sufficient statistics and poor results are
+obtained when a small number of profiles are being fused together, but very
+good results are obtained when the fusion involves a large number of
+profiles.

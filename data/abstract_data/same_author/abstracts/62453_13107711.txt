@@ -1,0 +1,2 @@
+An Investigation of Bad Smells in Object-Oriented Design
+Bad smells are used to identify problematic classes in object-oriented design. Although intuitively making sense, the promise that bad smells can indicate the quality of design has not been validated by empirical evidence. This paper presents the results from an investigation that explored the relationship between the bad smells and the errors in an object-oriented system. The investigation found that some bad smells are positively associated with class errors

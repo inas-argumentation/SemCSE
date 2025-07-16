@@ -1,0 +1,2 @@
+Exact and Approximation Algorithms for Minimum-Width Cylindrical Shells
+Let S be a set of n points in \reals3 . Let \opt be the width (i.e., thickness) of a minimum-width infinite cylindrical shell (the region between two co-axial cylinders) containing S . We first present an O(n5) -time algorithm for computing \opt , which as far as we know is the first nontrivial algorithm for this problem. We then present an O(n2+δ) -time algorithm, for any δ>0 , that computes a cylindrical shell of width at most 56\opt containing S .

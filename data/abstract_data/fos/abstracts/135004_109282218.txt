@@ -1,0 +1,14 @@
+CORRELATING IMAGE TEXTURE FEATURES EXTRACTED BY FIVE DIFFERENT METHODS WITH THE TENDERNESS OF COOKED PORK HAM: A FEASIBILITY STUDY
+Being one of the most important attributes that affect the eating quality of meat products, tenderness is still mostly 
+evaluated using sensory panel and instrumental methods. It is desirable to develop a fast, non-destructive, accurate, and 
+on-line technique for tenderness evaluation of meat products. As an objective, consistent, rapid, and automatic technique, 
+computer vision could be employed to complete such a task. The relationships between tenderness and image texture features 
+of pork ham were investigated in this study. Fifty observations were made, and shear force was measured as the indicator of 
+tenderness. Five approaches were employed to characterize the image texture features of pork ham, including the common 
+first-order gray-level statistics (FGLS), run length matrix (RLM), gray-level co-occurrence matrix (GLCM), fractal 
+dimension (FD), and wavelet transform (WT) based method. After that, both simple correlation analysis and partial least 
+squares regression (PLSR) analysis were carried out to study the relationships between the tenderness of pork ham and the 
+extracted image texture features. It was found that the image texture features extracted using the WT-based method had the 
+best relationships with the tenderness of pork ham. However, there were no significant correlations found between the 
+tenderness of pork ham and the image texture features extracted by the traditional methods, including FGLS, RLM, and GLCM 
+(P > 0.05).

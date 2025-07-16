@@ -1,0 +1,15 @@
+Dosimetric comparison of patient setup strategies in stereotactic body radiation therapy for lung cancer.
+PURPOSE
+In this work, the authors retrospectively compared the accumulated dose over the treatment course for stereotactic body radiation therapy (SBRT) of lung cancer for three patient setup strategies.
+
+
+METHODS
+Ten patients who underwent lung SBRT were selected for this study. At each fraction, patients were immobilized using a vacuum cushion and were CT scanned. Treatment plans were performed on the simulation CT. The planning target volume (PTV) was created by adding a 5-mm uniform margin to the internal target volume derived from the 4DCT. All plans were normalized such that 99% of the PTV received 60 Gy. The plan parameters were copied onto the daily CT images for dose recalculation under three setup scenarios: skin marker, bony structure, and soft tissue based alignments. The accumulated dose was calculated by summing the dose at each fraction along the trajectory of a voxel over the treatment course through deformable image registration of each CT with the planning CT. The accumulated doses were analyzed for the comparison of setup accuracy.
+
+
+RESULTS
+The tumor volume receiving 60 Gy was 91.7 ± 17.9%, 74.1 ± 39.1%, and 99.6 ± 1.3% for setup using skin marks, bony structures, and soft tissue, respectively. The isodose line covering 100% of the GTV was 55.5 ± 7.1, 42.1 ± 16.0, and 64.3 ± 7.1 Gy, respectively. The corresponding average biologically effective dose of the tumor was 237.3 ± 29.4, 207.4 ± 61.2, and 258.3 ± 17.7 Gy, respectively. The differences in lung biologically effective dose, mean dose, and V20 between the setup scenarios were insignificant.
+
+
+CONCLUSIONS
+The authors' results suggest that skin marks and bony structure are insufficient for aligning patients in lung SBRT. Soft tissue based alignment is needed to match the prescribed dose delivered to the tumors.

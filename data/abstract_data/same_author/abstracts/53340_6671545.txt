@@ -1,0 +1,2 @@
+LES: A Layout Expert System
+In this paper we describe an expert system for layout generation in a hierarchical VLSI design system. It applies a combination of rule- and algorithmic-based techniques on a new layout style. Experimental results have demonstrated the superiority of this expert system against various standard-cell systems and its competitiveness with human designers.

@@ -1,0 +1,2 @@
+DNA-Based Algorithm for 0-1 Planning Problem
+Biochemical reaction theory based DNA computation is of much better performance in solving a class of intractable computational problems such as NP-complete problems, it is important to study the DNA computation. A novel algorithm based on DNA computation is proposed, which solves a special category of 0-1 planning problem by using the surface-based fluorescence labeling technique. The analysis show that our new algorithm is of significant advantages such as simple encoding, low cost and short operating time, etc.

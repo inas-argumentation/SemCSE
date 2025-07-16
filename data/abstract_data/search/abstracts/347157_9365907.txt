@@ -1,0 +1,2 @@
+Slide Attacks
+It is a general belief among the designers of block ciphers that even a relatively weak cipher may become very strong if its number of rounds is made very large. In this paper we describe a new generic known (or sometimes chosen plaintext attack on product ciphers, which we call the slide attack and which in many cases is independent of the number of rounds of a cipher. We illustrate the power of this new tool by giving practical attacks on several recently designed ciphers: TREYFER, WAKE ROFB, and variants of DES and Blowfish.

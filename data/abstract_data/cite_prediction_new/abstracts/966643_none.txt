@@ -1,0 +1,2 @@
+A Monte Carlo method for the numerical simulation of Tsallis statistics
+We present a new method devised to overcome the intrinsic difficulties associated to the numerical simulations of the Tsallis statistics. We use a standard Metropolis Monte Carlo algorithm at a fictitious temperature T′, combined with a numerical integration method for the calculation of the entropy in order to evaluate the actual temperature T. We illustrate the method by applying it to the 2d-Ising model using a standard reweighting technique.

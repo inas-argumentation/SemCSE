@@ -1,0 +1,2 @@
+A PVT Tolerant PLL with On-Chip Loop-Transfer-Function Calibration Circuit
+A PVT tolerant PLL architecture which uses two on-chip digital calibration circuits to maintain loop transfer function is presented. Test chips with 9 conditions, MOSes, resistors and capacitors, were fabricated in a 90 nm CMOS technology. Experimental results show that the phase noise remains + 2dBc/Hz within 10 MHz offset under any PVT condition.

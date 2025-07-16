@@ -1,0 +1,27 @@
+Estimating Hearing Thresholds in Hearing-Impaired Adults through Objective Detection of Cortical Auditory Evoked Potentials.
+BACKGROUND
+Hearing threshold estimation based on cortical auditory evoked potentials (CAEPs) has been applied for some decades. However, available research is scarce evaluating the accuracy of this technique with an automated paradigm for the objective detection of CAEPs.
+
+
+PURPOSE
+To determine the difference between behavioral and CAEP thresholds detected using an objective paradigm based on the Hotelling's T² statistic. To propose a decision tree to choose the next stimulus level in a sample of hearing-impaired adults. This knowledge potentially could increase the efficiency of clinical hearing threshold testing.
+
+
+RESEARCH DESIGN
+Correlational cohort study. Thresholds obtained behaviorally were compared with thresholds obtained through cortical testing.
+
+
+STUDY SAMPLE
+Thirty-four adults with hearing loss participated in this study.
+
+
+DATA COLLECTION AND ANALYSIS
+For each audiometric frequency and each ear, behavioral thresholds were collected with both pure-tone and 40-msec tone-burst stimuli. Then, corresponding cortical hearing thresholds were determined. An objective cortical-response detection algorithm based on the Hotelling's T² statistic was applied to determine response presence. A decision tree was used to select the next stimulus level. In total, 241 behavioral-cortical threshold pairs were available for analysis. The differences between CAEP and behavioral thresholds (and their standard deviations [SDs]) were determined for each audiometric frequency. Cortical amplitudes and electroencephalogram noise levels were extracted. The practical applicability of the decision tree was evaluated and compared to a Hughson-Westlake paradigm.
+
+
+RESULTS
+It was shown that, when collapsed over all audiometric frequencies, behavioral pure-tone thresholds were on average 10 dB lower than 40-msec cortical tone-burst thresholds, with an SD of 10 dB. Four percent of CAEP thresholds, all obtained from just three individual participants, were more than 30 dB higher than their behavioral counterparts. The use of a decision tree instead of a Hughson-Westlake procedure to obtain a CAEP threshold did not seem to reduce test time, but there was significantly less variation in the number of CAEP trials needed to determine a threshold.
+
+
+CONCLUSIONS
+Behavioral hearing thresholds in hearing-impaired adults can be determined with an acceptable degree of accuracy (mean threshold correction and SD of both 10 dB) using an objective statistical cortical-response detection algorithm in combination with a decision tree to determine the test levels.

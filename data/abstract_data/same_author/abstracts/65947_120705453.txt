@@ -1,0 +1,2 @@
+Estimation of Sample Size
+In life testing observations, x 1, x 2, … x i , … x r are often recorded in time until only a fixed number r are obtained. The total number n of individuals in the sample may be unknown. Methods for estimating n are proposed for the situation where the x i are continuous variates, the sampling random, and the probability density function f(x) known.

@@ -1,0 +1,2 @@
+A physically based, scalable MOS varactor model and extraction methodology for RF applications
+A physically based scalable model for MOS varactors, including analytical surface potential based charge modeling and physical geometry and process parameter based parasitic modeling, is proposed. Key device performances of capacitance and quality factor Q are validated over a wide voltage, frequency, and geometrical space. The model, implemented in Verilog-A for simulator portability, provides for robust and accurate RF simulation of MOS varactors.

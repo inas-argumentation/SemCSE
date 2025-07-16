@@ -1,0 +1,2 @@
+Theoretic and experimental study of exploding foil opening switch
+By using two-dimensional numerical computation model for exploding foil, the computation is carried out for the inductive energy storage pulsed-power conditioning system with an exploding foil opening switch. On the basis of computation, a low inductance exploding foil opening switch is designed and tested. When energized by a capacitor bank (4μF/75kV), an output pulse voltage of 250 kV with over 400ns duration is obtained on a 13Ω load.

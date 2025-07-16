@@ -1,0 +1,2 @@
+Counter Machines: Decision Problems and Applications
+We give a brief survey of the (un)decidable properties of multicounter machines. In particular, we present some of the strongest decidable results (concerning emptiness, containment, and equivalence) known to date regarding these machines. We also discuss some applications.

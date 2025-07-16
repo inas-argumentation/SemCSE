@@ -1,0 +1,2 @@
+Unmixed and prime decomposition of radicals of polynomial ideals
+A method is presented for decomposing the radical of any finitely generated polynomial ideal into unmixed radical ideals or prime ideals. It proceeds by first computing simple systems of irreducible triangular systems using algorithms based on subresultant regular subchains and then computing the generating sets for the unmixed or prime ideals from the corresponding triangular sets using ideal saturation. The method method has been implemented in Maple V.

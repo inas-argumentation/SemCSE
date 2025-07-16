@@ -1,0 +1,2 @@
+Filtering with perfectly correlated measurement noise.
+Examination of (radar) Doppler data which are formed by mi1ing the returning microwave signal with a replica of the transmitted signal, counting the cycles of the beat, and sampling the counter at evenly spaced intervals t sub i. It is shown that the amount of information which can be extracted from a set of data may be larger if the associated noise is perfectly correlated than if it is white, and that the use of the white noise assumption in the filter may result in the loss of some of this information.

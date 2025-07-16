@@ -1,0 +1,2 @@
+Maximal green sequences of quivers with multiple edges
+In this paper we completely describe maximal green sequences (MGS) of acyclic quivers with multiple edges in terms of maximal green sequences of their multiple edge-free (ME-free) versions. In particular we establish that any MGS of a quiver must be an ME-free MGS of its ME-free version. For quivers with oriented cycles our results for acyclic quivers do not apply. However a weaker result is available under certain conditions.

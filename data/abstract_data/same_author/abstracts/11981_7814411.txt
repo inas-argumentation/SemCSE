@@ -1,0 +1,2 @@
+Propagators for shape-invariant potentials.
+We derive recursion relations for the propagators of shape-invariant potentials both in the operator formulation as well as in the path-integral formulation. This allows us to determine the form of the propagators recursively. We evaluate the propagators explicitly, for several shape-invariant potentials, using this method.

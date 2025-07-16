@@ -1,0 +1,2 @@
+The Coefficients of Optimal Quadrature Formulas
+2 (R) are studied by means of a variational method. Here w(x) is a weight function, χΩ(x) is the characteristic function of the interval Ω, and c(β) are the coefficients of the quadrature formula. The results generalize some results by A. Sard, L. F. Meyers, I. J. Schoenberg, S. D. Silliman (1-4), and others derived by the method of splines. In (5) it was established that the norm square of the error functional of a cubature formula in L (m)∗

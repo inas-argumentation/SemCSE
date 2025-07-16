@@ -1,0 +1,2 @@
+Automatic Programming of Finite State Linear Programs
+Finite State Linear Programs (FSLP) are introduced to model simple data processing applications. Essentially these are finite automata with the added capability of performing linear operations on a set of registers and the input. Algorithmic constructions are given to test equivalence of FSLP programs, and to minimize the number of states and registers. Linear algebraic methods are used for the register minimization procedure (and its correctness proof).

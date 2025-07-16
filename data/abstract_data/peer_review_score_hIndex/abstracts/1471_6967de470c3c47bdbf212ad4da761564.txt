@@ -1,0 +1,2 @@
+q-Neurons: Neuron Activations based on Stochastic Jackson's Derivative Operators
+We propose a new generic type of stochastic neurons, called $q$-neurons, that considers activation functions based on Jackson's $q$-derivatives, with stochastic parameters $q$. Our generalization of neural network architectures with $q$-neurons is shown to be both scalable and very easy to implement. We demonstrate experimentally consistently improved performances over state-of-the-art standard activation functions, both on training and testing loss functions.

@@ -1,0 +1,2 @@
+An Adaptive Fingerprint Post-processing Algorithm Based on Mathematical Morphology
+In this paper, an adaptive post-processing method using mathematical morphology combined with analyzing the properties of each candidate minutia based on the gray-level image, binary image, local ridge spacing and local orientation is presented to decide whether the minutia is false or true and to eliminate the false one The experiment results demonstrate the effectiveness to reduce the number of false minutiae encountered and improve the thinning fingerprint images at the same time.

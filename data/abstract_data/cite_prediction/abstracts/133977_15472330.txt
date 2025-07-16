@@ -1,0 +1,2 @@
+Probabilistic routing in intermittently connected networks
+We consider the problem of routing in intermittently connected networks. In such networks there is no guarantee that a fully connected path between source and destination exist at any time, rendering traditional routing protocols unable to deliver messages between hosts. We propose a probabilistic routing protocol for such networks.

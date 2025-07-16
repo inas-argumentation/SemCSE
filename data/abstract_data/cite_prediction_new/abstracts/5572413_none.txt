@@ -1,0 +1,11 @@
+PIP3-Independent Activation of TorC2 and PKB at the Cell's Leading Edge Mediates Chemotaxis
+BACKGROUND
+Studies show that high phosphotidylinositol 3,4,5-trisphosphate (PIP(3)) promotes cytoskeletal rearrangements and alters cell motility and chemotaxis, possibly through activation of protein kinase Bs (PKBs). However, chemotaxis can still occur in the absence of PIP(3), and the identities of the PIP(3)-independent pathways remain unknown.
+
+
+RESULTS
+Here, we outline a PIP(3)-independent pathway linking temporal and spatial activation of PKBs by Tor complex 2 (TorC2) to the chemotactic response. Within seconds of stimulating Dictyostelium cells with chemoattractant, two PKB homologs, PKBA and PKBR1, mediate transient phosphorylation of at least eight proteins, including Talin, PI4P 5-kinase, two Ras GEFs, and a RhoGap. Surprisingly, all of the substrates are phosphorylated with normal kinetics in cells lacking PI 3-kinase activity. Cells deficient in TorC2 or PKB activity show reduced phosphorylation of the endogenous substrates and are impaired in chemotaxis. The PKBs are activated through phosphorylation of their hydrophobic motifs via TorC2 and subsequent phosphorylation of their activation loops. These chemoattractant-inducible events are restricted to the cell's leading edge even in the absence of PIP(3). Activation of TorC2 depends on heterotrimeric G protein function and intermediate G proteins, including Ras GTPases.
+
+
+CONCLUSIONS
+The data lead to a model where cytosolic TorC2, encountering locally activated small G protein(s) at the leading edge of the cell, becomes activated and phosphorylates PKBs. These in turn phosphorylate a series of signaling and cytoskeletal proteins, thereby regulating directed migration.

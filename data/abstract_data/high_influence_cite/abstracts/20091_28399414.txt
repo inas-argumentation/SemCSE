@@ -1,0 +1,15 @@
+Use of implanted markers and interportal adjustment with real-time tracking radiotherapy system to reduce intrafraction prostate motion.
+PURPOSE
+Interportal adjustment was applied to patients with prostate cancer using three fiducial markers and two sets of fluoroscopy in a real-time tumor-tracking radiotherapy (RTRT) system. The incidence of table position adjustment required to keep intrafractional uncertainty within 2.0 mm was investigated in this study.
+
+
+METHODS AND MATERIALS
+The coordinates of the center of gravity of the three fiducial markers were measured at the start of every portal irradiation in intensity-modulated radiotherapy (IMRT) with seven ports. The table position was adjusted to the planned position if the discrepancy was larger than 2.0 mm in the anterior-posterior (AP), cranial-caudal (CC), or left-right (LR) directions. In total, we analyzed 4,541 observations in 20 patients who received 70 Gy in 30 fractions (7.6 times a day on average).
+
+
+RESULTS
+The incidence of table position adjustment at 10 minutes from the initial setup of each treatment was 14.2%, 12.3%, and 5.0% of the observations in the AP, CC, and LR directions, respectively. The accumulated incidence of the table position adjustment was significantly higher at 10 minutes than at 2 minutes for AP (p = 0.0033) and CC (p = 0.0110) but not LR (p = 0.4296). An adjustment greater than 5 mm was required at least once in the treatment period in 11 (55%) patients.
+
+
+CONCLUSIONS
+Interportal adjustment of table position was required in more than 10% of portal irradiations during the 10-minute period after initial setup to maintain treatment accuracy within 2.0 mm.

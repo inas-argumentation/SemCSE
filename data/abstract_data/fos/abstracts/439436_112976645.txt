@@ -1,0 +1,2 @@
+Wavelet Signal Filtering and Extracting Characteristic of Rotating Machines Vibration Signal
+This paper applies wavelet methods to signal filtering and extracting characteristic of rotating machines vibration signal. Using wavelet Mallat algorithm to filter high frequency of gathering signal. Using wavelet packet algorithm to extract characteristic signal. The experiment proves that methods have an excellent effect.

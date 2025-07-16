@@ -1,0 +1,15 @@
+Time-resolved angiography with stochastic trajectories for dynamic contrast-enhanced MRI in head and neck cancer: Are pharmacokinetic parameters affected?
+PURPOSE
+To investigate the effects of different time-resolved angiography with stochastic trajectories (TWIST) k-space undersampling schemes on calculated pharmacokinetic dynamic contrast-enhanced (DCE) vascular parameters.
+
+
+METHODS
+A digital perfusion phantom was employed to simulate effects of TWIST on characteristics of signal changes in DCE. Furthermore, DCE-MRI was acquired without undersampling in a group of patients with head and neck squamous cell carcinoma and used to simulate a range of TWIST schemes. Errors were calculated as differences between reference and TWIST-simulated DCE parameters. Parametrical error maps were used to display the averaged results from all tumors.
+
+
+RESULTS
+For a relatively wide range of undersampling schemes, errors in pharmacokinetic parameters due to TWIST were under 10% for the volume transfer constant, Ktrans, and total extracellular extravascular space volume, Ve. TWIST induced errors in the total blood plasma volume, Vp, were the largest observed, and these were inversely dependent on the area of the fully sampled k-space. The magnitudes of errors were not correlated with Ktrans, Vp and weakly correlated with Ve.
+
+
+CONCLUSIONS
+The authors demonstrated methods to validate and optimize k-space view-sharing techniques for pharmacokinetic DCE studies using a range of clinically relevant spatial and temporal patient derived data. The authors found a range of undersampling patterns for which the TWIST sequence can be reliably used in pharmacokinetic DCE-MRI. The parameter maps created in the study can help to make a decision between temporal and spatial resolution demands and the quality of enhancement curve characterization.

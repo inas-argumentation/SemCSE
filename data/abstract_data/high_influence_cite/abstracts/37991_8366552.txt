@@ -1,0 +1,6 @@
+Towards Optimal Toom-Cook Multiplication for Univariate and Multivariate Polynomials in Characteristic 2 and 0
+Toom-Cook strategy is a well-known method for building algorithms to efficiently multiply dense univariate polynomials. Efficiency of the algorithm depends on the choice of interpolation points and on the exact sequence of operations for evaluation and interpolation. If carefully tuned, it gives the fastest algorithm for a wide range of inputs. 
+ 
+This work smoothly extends the Toom strategy to polynomial rings, with a focus on . Moreover a method is proposed to find the faster Toom multiplication algorithm for any given splitting order. New results found with it, for polynomials in characteristic 2, are presented. 
+ 
+A new extension for multivariate polynomials is also introduced; through a new definition of density leading Toom strategy to be efficient.

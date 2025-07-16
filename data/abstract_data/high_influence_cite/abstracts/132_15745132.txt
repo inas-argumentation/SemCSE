@@ -1,0 +1,2 @@
+Boltzmann Samplers for Colored Combinatorial Objects
+In this paper, we give a general framework for the Boltzmann generation of colored objects belonging to combinatorial constructible classes. We propose an intuitive notion called profiled objects which allows the sampling of size-colored objects (and also of k-colored objects) although the corresponding class cannot be described by an analytic ordinary generating function.

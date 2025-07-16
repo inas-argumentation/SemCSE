@@ -1,0 +1,2 @@
+Asynchronous device discovery and rendezvous protocol for D2D communication
+This poster addresses asynchronous device discovery problem in D2D communication. We preset Tic-Toc, asynchronous, autonomous device discovery and rendezvous protocol, which targets optimal trade-off between energy consumption and discovery latency.

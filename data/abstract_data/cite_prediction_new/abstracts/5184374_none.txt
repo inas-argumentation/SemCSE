@@ -1,0 +1,7 @@
+iFoldRNA: three-dimensional RNA structure prediction and folding
+UNLABELLED
+Three-dimensional RNA structure prediction and folding is of significant interest in the biological research community. Here, we present iFoldRNA, a novel web-based methodology for RNA structure prediction with near atomic resolution accuracy and analysis of RNA folding thermodynamics. iFoldRNA rapidly explores RNA conformations using discrete molecular dynamics simulations of input RNA sequences. Starting from simplified linear-chain conformations, RNA molecules (<50 nt) fold to native-like structures within half an hour of simulation, facilitating rapid RNA structure prediction. All-atom reconstruction of energetically stable conformations generates iFoldRNA predicted RNA structures. The predicted RNA structures are within 2-5 A root mean squre deviations (RMSDs) from corresponding experimentally derived structures. RNA folding parameters including specific heat, contact maps, simulation trajectories, gyration radii, RMSDs from native state, fraction of native-like contacts are accessible from iFoldRNA. We expect iFoldRNA will serve as a useful resource for RNA structure prediction and folding thermodynamic analyses.
+
+
+AVAILABILITY
+http://iFoldRNA.dokhlab.org.

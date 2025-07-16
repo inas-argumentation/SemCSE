@@ -1,0 +1,2 @@
+SPDZ2k: Efficient MPC mod 2k for Dishonest Majority
+Most multi party computation protocols allow secure computation of arithmetic circuits over a finite field, such as the integers modulo a prime. In the more natural setting of integer computations modulo (2^{k} which are useful for simplifying implementations and applications, no solutions with active security are known unless the majority of the participants are honest.

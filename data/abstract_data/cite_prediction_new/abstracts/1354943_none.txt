@@ -1,0 +1,2 @@
+DDR SDRAM Memory Controller for Digital TV Decoders
+This paper presents a multichannel DDR SDRAMmemory controller to be used as an IP in a set-top boxcompliant with Brazilian Digital Television System. A set-topbox is comprised by modules that access an external memorysharing the same bus. Thus, it is necessary a multichannelmemory controller to schedule accesses. This work shows thatthe implemented system running at 100 MHz can achievethe necessary bandwidth to decode and exhibit HD 1080presolution videos at 30 frames per second.

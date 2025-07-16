@@ -1,0 +1,4 @@
+Depth separation and weight-width trade-offs for sigmoidal neural networks
+Some recent work has shown separation between the expressive power of depth-2 and depth-3 neural networks. These separation results are shown by constructing functions and input distributions, so that the function is well-approximable by a depth-3 neural network of polynomial size but it cannot be well-approximated under the chosen input distribution by any depth-2 neural network of polynomial size. These results are not robust and require carefully chosen functions as well as input distributions.
+
+We show a similar separation between the expressive power of depth-2 and depth-3 sigmoidal neural networks over a large class of input distributions, as long as the weights are polynomially bounded. While doing so, we also show that depth-2 sigmoidal neural networks with small width and small weights can be well-approximated by low-degree multivariate polynomials.

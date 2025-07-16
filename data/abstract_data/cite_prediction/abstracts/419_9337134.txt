@@ -1,0 +1,2 @@
+Learning Synchronous Grammars for Semantic Parsing with Lambda Calculus
+This paper presents the first empirical results to our knowledge on learning synchronous grammars that generate logical forms. Using statistical machine translation techniques, a semantic parser based on a synchronous context-free grammar augmented with λoperators is learned given a set of training sentences and their correct logical forms. The resulting parser is shown to be the bestperforming system so far in a database query domain.

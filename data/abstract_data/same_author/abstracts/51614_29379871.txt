@@ -1,0 +1,2 @@
+A Fixed-Length Subset Genetic Algorithm for the p-Median Problem
+In this paper, we review some classical recombination operations and devise new heuristic recombinations for the fixed-length subset. Our experimental results on the classical p-median problem indicate that our method is superior and very close to the optimal solution.

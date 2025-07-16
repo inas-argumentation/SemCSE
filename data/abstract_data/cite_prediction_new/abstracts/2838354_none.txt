@@ -1,0 +1,2 @@
+Time-varying reeb graphs for continuous space-time data
+We study the evolution of the Reeb graph of a time-varying continuous function defined in three-dimensional space. While maintaining the Reeb graph, we compress the evolving sequence into a single, partially persistent data structure. We envision this data structure as a useful tool in visualizing real-valued space-time data obtained from computational simulations of physical processes.

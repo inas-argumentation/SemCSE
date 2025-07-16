@@ -1,0 +1,2 @@
+Exact filters for doubly stochastic AR models with conditionally Poisson observations
+The authors derive exact filters for the state of a doubly stochastic auto-regressive (AR) process with parameters which vary according to a nonlinear function of a Gauss-Markov process. The observations consist of a discrete-time Poisson process with rate a positive function of the Gauss-Markov process. The dimension of the sufficient statistic increases linearly with the number of observed events.

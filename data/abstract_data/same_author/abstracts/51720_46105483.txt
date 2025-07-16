@@ -1,0 +1,2 @@
+Embedding Cycles in IEH Graphs
+Abstract We embed cycles into IEH graphs. First, IEH graphs are proved to be Hamiltonian except when they are of size 2 n − 1 for all n ⩾ 2. Next, we show that for an IEH graph of size N , an arbitrary cycle of even length N e where 3 N c N is found. We also find an arbitrary cycle of odd length N o where 2 N o N if and only if a node of this graph has at least one forward 2-Inter-Cube (IC) edges. These results help describe the whole cycle structure in IEH graphs.

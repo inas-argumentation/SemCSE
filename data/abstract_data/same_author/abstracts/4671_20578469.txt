@@ -1,0 +1,2 @@
+A Generic Surface Sampler for Monte Carlo Simulations
+We present a Monte Carlo algorithm that generates points randomly and uniformly on a set of arbitrary surfaces. The algorithm is completely general and only requires the geometry modeling software to provide the intersection points of an arbitrary line with the surface being sampled. We demonstrate the algorithm using the Geant4 Monte Carlo simulation toolkit. The efficiency of the sampling algorithm is discussed, along with various options in the implementation and example applications.

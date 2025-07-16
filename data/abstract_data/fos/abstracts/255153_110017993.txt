@@ -1,0 +1,2 @@
+Methods for Optimal Control of the Greenhouse Environment
+Two methods of dynamic optimization were used to determine temperature setpoints for a greenhouse lettuce crop. One of these was based on Pontryagin’s maximum principle (PMP) and the other was a sequential control search (SCS). A previously developed two-state-variable (dry weight and leaf area) model was used to describe the crop.

@@ -1,0 +1,2 @@
+Semi-analytic techniques for calculating bubble wall profiles
+We present semi-analytic techniques for finding bubble wall profiles during first order phase transitions with multiple scalar fields. Our method involves reducing the problem to an equation with a single field, finding an approximate analytic solution and perturbing around it. The perturbations can be written in a semi-analytic form. We assert that our technique lacks convergence problems and demonstrate the speed of convergence on an example potential.

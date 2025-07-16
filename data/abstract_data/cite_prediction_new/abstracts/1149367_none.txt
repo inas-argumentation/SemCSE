@@ -1,0 +1,2 @@
+Implicit Methods for Numerical Solution of Singular Initial Value Problems
+Various order of implicit method has been formulated for solving initial value problems having an initial singular point. The method provides better result than those obtained by used implicit formulae developed based on Euler and Runge-Kutta methods. Romberg scheme has been used for obtaining more accurate result.

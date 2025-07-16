@@ -1,0 +1,2 @@
+A Finite-state Approach to Events in Natural Language Semantics
+Events in natural language semantics are characterized in terms of regular languages, each string in which can be regarded as a temporal sequence of observations. The usual regular constructs (concatenation, etc.) are supplemented with superposition, inducing a useful notion of entailment, distinct from that given by models of predicate logic.

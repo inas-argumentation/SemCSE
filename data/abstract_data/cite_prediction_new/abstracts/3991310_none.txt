@@ -1,0 +1,2 @@
+Compositional Synthesis of Live and Bounded Free Choice Petri Nets
+The paper defines two notions of composition of concurrent modules modelled by means of Petri nets: synchronisations and fusions. We study these two notions for the class of Free Choice nets, and characterise the compositions (within this class) that preserve liveness (absence of partial or global deadlocks) and boundedness (absence of overflows in finite stores). The characterisation shows which structures must be avoided in order to preserve the properties.

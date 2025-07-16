@@ -1,0 +1,2 @@
+Mining Bipolar Argumentation Frameworks from Natural Language Text
+We describe a methodology for mining topic-dependent Bipolar Argumentation Frameworks (BAFs) from natural language text. Our focus is on identifying attack and support argumentative relations between texts about the same topic, treating these texts as arguments when they are argumentatively related to other texts. We illustrate our methodology on a dataset of hotel reviews and outline some possible applications using the BAFs resulting from our methodology.

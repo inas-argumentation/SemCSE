@@ -1,0 +1,6 @@
+LATENT OPTIMIZATION VARIATIONAL AUTOENCODER FOR CONDITIONAL MOLECULAR GENERATION
+Variational autoencoder (VAE) is a generation algorithm, consisting of an encoder and a decoder, and the latent variable from the encoder is used as the input of the decoder. 
+VAE is widely used for image, audio and text generation tasks. In general, the training of VAE is at risk of posterior collapsing especially for long sequential data. To alleviate this, modified evidence lower bounds (ELBOs) were proposed. However, these approaches heuristically control training loss using a hyper-parameter, and it is not way to solve the fundamental problem of vanilla VAE.
+In this paper, we propose a method to insert an optimization step of the latent variable and alternately update the encoder and decoder of conditional VAE for maximizing ELBOs. 
+In experiments, we applied the latent optimization VAE (LOVAE) on ZINC database, consisting of string representation of molecules, for the inverse molecular design. 
+We showed that the proposed LOVAE achieves better performance than vanilla VAE in terms of ELBOs and molecular generation performance. In addition, the proposed method showed better performance in property satisfaction and property maximization tasks compared to existing works.

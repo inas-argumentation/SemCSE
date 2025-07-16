@@ -1,0 +1,7 @@
+AGML Central: web based gel proteomic infrastructure
+SUMMARY
+AGML Central is a web-based open-source public infrastructure for dissemination of two-dimensional Gel Electrophoresis (2-DE) proteomics data in AGML format (Annotated Gel Markup Language). It includes a growing collection of converters from proprietary formats such as those produced by PDQUEST (BioRad), PHORETIX 2-D (Nonlinear Dynamics) and Melanie (GenBio SA). The resulting unifying AGML formatted entry, with or without the raw gel images, is optionally stored in a database for future reference. AGML Central was developed to provide a common platform for data dissemination and development of 2-DE data analysis tools. This resource responds to an increasing use of AGML for 2-DE public source data representation which requires automated tools for conversion from proprietary formats. Conversion and short-term storage is made publicly available, permanent storage requires prior registering. A JAVA applet visualizer was developed to visualize the AGML data with cross-reference links. In order to facilitate automated access a SOAP web service is also included in the AGML Central infrastructure.
+
+
+AVAILABILITY
+http://bioinformatics.musc.edu/agmlcentral.

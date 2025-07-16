@@ -1,0 +1,2 @@
+Reduction of Order for Systems of Ordinary Differential Equations
+The classical reduction of order for scalar ordinary differential equations (ODEs) fails for a system of ODEs. We prove a constructive result for the reduction of order for a system of ODEs that admits a solvable Lie algebra of point symmetries. Applications are given for the case of a system of two second-order ODEs which admits a solvable four-dimensional Lie algebra of point symmetries.

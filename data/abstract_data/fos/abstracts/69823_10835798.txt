@@ -1,0 +1,2 @@
+Efficient Neighborhood Selection for Gaussian Graphical Models
+This paper addresses the problem of neighborhood selection for Gaussian graphical models. We present two heuristic algorithms: a forward-backward greedy algorithm for general Gaussian graphical models based on mutual information test, and a threshold-based algorithm for walk summable Gaussian graphical models. Both algorithms are shown to be structurally consistent, and efficient. Numerical results show that both algorithms work very well.

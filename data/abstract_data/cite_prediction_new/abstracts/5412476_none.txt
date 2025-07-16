@@ -1,0 +1,2 @@
+All-optical polarization-mode dispersion monitor for return-to-zero optical signals at 40 Gbits/s and beyond.
+The operation of a polarization-mode dispersion monitor insensitive to chromatic dispersion is demonstrated at 40 Gbits/s. The high-speed processing device is based on the Kerr effect and provides an optical power output as a reading of differential group delay. The monitor is compatible with return-to-zero modulation formats at data rates in excess of 40 Gbits/s and does not require the use of high-data-rate electronics.

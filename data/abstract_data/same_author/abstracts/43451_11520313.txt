@@ -1,0 +1,2 @@
+Linear Vertex Arboricity, Independence Number and Clique Cover Number
+The linear vertex-arboricity of a graph G is defined to the minimum number of subsets into which the vertex-set G can be partitioned so that every subset induces a linear forest. In this paper, we give the upper and lower bounds for sum and product of linear vertex-arboricity with independence number and with clique cover number respectively. All of these bounds are sharp.

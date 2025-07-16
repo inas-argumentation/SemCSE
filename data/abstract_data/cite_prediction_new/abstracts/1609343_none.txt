@@ -1,0 +1,2 @@
+Multiphase modeling of tumor growth with matrix remodeling and fibrosis
+We present a multiphase mathematical model for tumor growth which incorporates the remodeling of the extracellular matrix and describes the formation of fibrotic tissue by tumor cells. We also detail a full qualitative analysis of the spatially homogeneous problem, and study the equilibria of the system in order to characterize the conditions under which fibrosis may occur.

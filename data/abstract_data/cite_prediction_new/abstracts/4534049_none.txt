@@ -1,0 +1,2 @@
+Kinematics and Simulation of a Hybrid Mechanism: MATLAB/SimMechanics
+Kinematic analysis and simulation of hybrid drive system are addressed in this study. A seven link mechanism with two degrees of freedom is selected as the configuration of the system. Kinematic analysis is performed by loop closure equations and required inputs of servo motor are given to get desired ram motion scenario. MATLAB/SimMechanics platform is used to model the hybrid driven mechanical system mechanism characteristics. The simulation results are presented herein.

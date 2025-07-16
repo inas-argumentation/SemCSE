@@ -1,0 +1,2 @@
+Improved Smoothing for Probabilistic Suffix Trees Seen as Variable Order Markov Chains
+In this paper, we compare Probabilistic Suffix Trees (PST), recently proposed, to a specific smoothing of Markov chains and show that they both induce the same model, namely a variable order Markov chain. We show a weakness of PST in terms of smoothing and propose to use an enhanced smoothing. We show that the model based on enhanced smoothing outperform the PST while needing less parameters on a protein domain detection task on public databases.

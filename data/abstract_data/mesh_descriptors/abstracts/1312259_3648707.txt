@@ -1,0 +1,15 @@
+A novel onset detection technique for brain-computer interfaces using sound-production related cognitive tasks in simulated-online system.
+OBJECTIVE
+Self-paced EEG-based BCIs (SP-BCIs) have traditionally been avoided due to two sources of uncertainty: (1) precisely when an intentional command is sent by the brain, i.e., the command onset detection problem, and (2) how different the intentional command is when compared to non-specific (or idle) states. Performance evaluation is also a problem and there are no suitable standard metrics available. In this paper we attempted to tackle these issues.
+
+
+APPROACH
+Self-paced covert sound-production cognitive tasks (i.e., high pitch and siren-like sounds) were used to distinguish between intentional commands (IC) and idle states. The IC states were chosen for their ease of execution and negligible overlap with common cognitive states. Band power and a digital wavelet transform were used for feature extraction, and the Davies-Bouldin index was used for feature selection. Classification was performed using linear discriminant analysis.
+
+
+MAIN RESULTS
+Performance was evaluated under offline and simulated-online conditions. For the latter, a performance score called true-false-positive (TFP) rate, ranging from 0 (poor) to 100 (perfect), was created to take into account both classification performance and onset timing errors. Averaging the results from the best performing IC task for all seven participants, an 77.7% true-positive (TP) rate was achieved in offline testing. For simulated-online analysis the best IC average TFP score was 76.67% (87.61% TP rate, 4.05% false-positive rate).
+
+
+SIGNIFICANCE
+Results were promising when compared to previous IC onset detection studies using motor imagery, in which best TP rates were reported as 72.0% and 79.7%, and which, crucially, did not take timing errors into account. Moreover, based on our literature review, there is no previous covert sound-production onset detection system for spBCIs. Results showed that the proposed onset detection technique and TFP performance metric have good potential for use in SP-BCIs.

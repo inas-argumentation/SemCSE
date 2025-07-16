@@ -1,0 +1,2 @@
+Benchmarking Inverse Rashba-Edelstein Magnetoelectric Devices for Neuromorphic Computing
+We propose a new design for a cellular neural network with spintronic neurons and CMOS-based synapses. Harnessing the magnetoelectric and inverse Rashba-Edelstein effects allows natural emulation of the behavior of an ideal cellular network. This combination of effects offers an increase in speed and efficiency over other spintronic neural networks. A rigorous performance analysis via simulation is provided.

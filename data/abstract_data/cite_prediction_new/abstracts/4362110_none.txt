@@ -1,0 +1,2 @@
+Obligations and the Specification of Agent Behavior
+Recently several agent architectures have been proposed that incorporate obligations. However, agent specification or verification languages that take obligations into account have received less attention. Our research question is how properties involving obligations can be specified or verified in an extension of Rao and Georgeff's B D I C T L In Section 2 we extend B D I C T L with so-called Standard Deontic Logic, and in Section 3 and 4 we introduce various single agent and multiagent properties.

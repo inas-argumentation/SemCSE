@@ -1,0 +1,2 @@
+A 180mV FFT processor using subthreshold circuit techniques
+Minimizing energy requires scaling supply voltages below device thresholds. Logic and memory design techniques allowing subthreshold operation are developed and demonstrated. The fabricated 1024-point FFT processor operates down to 180mV using a standard 0.18/spl mu/m CMOS logic process while using 155nJ/FFT at the optimal operating point.

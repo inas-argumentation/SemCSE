@@ -1,0 +1,15 @@
+A simple adaptation method improved the interpretability of prediction models for composite end points.
+OBJECTIVE
+The pros and cons of composite end points in prognostic research are discussed, and an adaptation method, designed to accurately adjust absolute risks for a composite end point to risks for the individual component outcomes, is presented.
+
+
+STUDY DESIGN AND SETTING
+An example prediction model for recurrent cardiovascular events (composite end point) was used to evaluate the performance regarding the individual component outcomes (cardiovascular death, myocardial infarction, and stroke) before and after the adaptation method.
+
+
+RESULTS
+Discrimination for the individual component outcomes (concordance index for myocardial infarction, 0.68; concordance index for stroke, 0.70) was very similar to discrimination for the original composite end point (concordance index, 0.70). For cardiovascular death, it even increased substantially (concordance index, 0.78). After adaptation, calibration plots for the component outcomes also improved, with visible convergence of the predicted risks and the observed incidences.
+
+
+CONCLUSION
+In sum, these findings show that the adaptation method is useful when validating or applying a composite end point prediction model to the individual component outcomes. Following from this, recommendations concerning reporting of composite end points in future research are also included. Without the need for extra data, composite end point prediction models can easily be directly expanded to allow for the estimation of risk for each individual component outcome, improving the interpretability for clinicians and patients.

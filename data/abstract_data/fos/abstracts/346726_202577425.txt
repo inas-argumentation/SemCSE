@@ -1,0 +1,2 @@
+A highly likely clusterable data model with no clusters
+We propose a model for a dataset in ${\mathbb R}^D$ that does not contain any clusters but yet is such that a projection of the points on a random one-dimensional subspace is likely to yield a clustering of the points. This model is compatible with some recent empirical observations.

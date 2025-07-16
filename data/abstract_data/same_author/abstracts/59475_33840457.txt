@@ -1,0 +1,2 @@
+Where Can I Get Gas Round Here? - An Application of a Design Methodology for Distributed Systems
+The first two phases, viz. requirement specification and design specification, of a design methodology for distributed systems are applied to the specification of a gas station. The methodology which is based on streams of actions is explained for this example, problems arising are discussed. Special attention is paid to the structuring of specifications.

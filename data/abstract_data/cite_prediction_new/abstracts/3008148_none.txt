@@ -1,0 +1,2 @@
+A multi-channel electrical impedance measurement system using DSP
+Electrical impedance tomography (EIT) is believed to be a distinctive imaging technology and have good prospect in the field of biomedical testing. A multi-channel electrical impedance measurement system using DSP is studied. It includes four modules: excitation source, electrode array, signal acquisition, and signal processing. The results in experiment demonstrate that the system can distinguish objects of different conductivity and locate it.

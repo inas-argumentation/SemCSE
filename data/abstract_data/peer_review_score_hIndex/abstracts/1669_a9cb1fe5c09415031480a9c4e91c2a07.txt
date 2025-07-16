@@ -1,0 +1,14 @@
+A novel method to determine the number of latent dimensions with SVD
+Determining the number of latent dimensions is a ubiquitous problem in machine
+learning. In this study, we introduce a novel method that relies on SVD to discover
+the number of latent dimensions. The general principle behind the method is to
+compare the curve of singular values of the SVD decomposition of a data set with
+the randomized data set curve. The inferred number of latent dimensions corresponds
+to the crossing point of the two curves. To evaluate our methodology, we
+compare it with competing methods such as Kaisers eigenvalue-greater-than-one
+rule (K1), Parallel Analysis (PA), Velicers MAP test (Minimum Average Partial).
+We also compare our method with the Silhouette Width (SW) technique which is
+used in different clustering methods to determine the optimal number of clusters.
+The result on synthetic data shows that the Parallel Analysis and our method have
+similar results and more accurate than the other methods, and that our methods is
+slightly better result than the Parallel Analysis method for the sparse data sets.

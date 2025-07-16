@@ -1,0 +1,15 @@
+Clinical and pharmacologic analysis of hyperfractionated daily oral etoposide.
+PURPOSE
+The antitumor effect of etoposide is increased by maintaining a low blood level, whereas high peak levels may cause myelotoxicity. We investigated whether a constant low blood level could be obtained by the administration of oral etoposide three times daily.
+
+
+PATIENTS AND METHODS
+Nineteen patients with non-small-cell lung cancer were treated with oral etoposide (25 mg three times daily for 21 days) as monotherapy or in combination with cisplatin 80 mg/m2. A pharmacokinetic model that predicted the mean blood concentration (Cmean) was developed in the 10 patients on etoposide monotherapy and validated in the nine patients on combination chemotherapy. Pharmacodynamic relationships were evaluated in each group.
+
+
+RESULTS
+Etoposide dose per body-surface area ranged from 45 to 63 mg/m2/d (median, 53), but did not correlate with plasma level. Cmean was 1.1 +/- 0.3 micrograms/mL. Peak concentrations ranged from 0.6 to 2.5 micrograms/mL. The intrapatient coefficient of variation for plasma etoposide concentrations was 22% +/- 10%. Cmean was accurately estimated as follows: Cmean = 0.098 + 0.413 x C0 + 0.458 x C2 (r = .97, P = .0001), where C0 and C2 represent concentrations before and 2 hours after administration. This model was unbiased (mean predictive error [MPE], 0.0 microgram/mL) and precise (root mean square error [RMSE], 0.1 microgram/mL). Leukopenia was the major toxicity. The surviving fraction of leukocytes (SF; nadir count/pretreatment count) was correlated to Cmean as follows: SF = 0.87 - 0.34 x Cmean (r = .67, P = .03) in the monotherapy group and SF = 0.64 - 0.33 x Cmean (R = .77, P = .03) in the combination chemotherapy group. Two and four patients treated with monotherapy and combination chemotherapy showed responses, respectively. All responders had a Cmean > or = 1.0 microgram/mL.
+
+
+CONCLUSION
+Hyperfractionated oral etoposide achieveda stable plasma level that could be predicted by measurement at only two times.

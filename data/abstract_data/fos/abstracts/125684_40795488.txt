@@ -1,0 +1,2 @@
+A two-step explicit P-stable method for solving second order initial value problems
+The conceptions of periodicity interval and P-stability were introduced by Lambert and Watson [J. Inst. Math. Appl. 18 (1976) 189] in connection with multistep methods for second order initial value problems. This paper presents a new two-step explicit P-stable method of order two for solving initial value problems of second order ordinary differential equations. Based on a special vector operation, the method can be extended to be vector applicable.

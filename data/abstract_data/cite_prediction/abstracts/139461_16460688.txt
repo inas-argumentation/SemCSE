@@ -1,0 +1,2 @@
+Three-phase three-level boost for UPS applications using FPGA
+This paper presents a three-phase three-level boost for Uninterruptible Power Supply (UPS) applications using FPGA. Its main features are: high power factor, reduced conduction losses, weight and volume, simple control strategy based on One-cycle Control (OCC), and connection between input and output enabling the use of inverter and bypass. A theoretical analysis, simulation results and preliminaries experimental results from a 9kW development stage lab model are presented.

@@ -1,0 +1,6 @@
+Construction of multi-bubble solutions for the energy-critical wave equation in dimension 5
+We construct 2-solitons of the focusing energy-critical nonlinear wave equation in space dimension 5, that is solutions \({u}\) of the equation such that 
+ 
+$$u(t) - \left[ W_1(t) + W_2(t)\right] \to 0 \quad \hbox{as } t\to +\infty$$ 
+ 
+in the energy space, where \({W_1}\) and \({W_2}\) are Lorentz transforms of the explicit standing soliton \({W(x) = ( 1+ {|x|^2}/{15} )^{-3/2}}\), with any speeds \({\ell_1\neq \ell_2}\) (\({|\ell_k|< 1}\)). The existence result also holds for the case of \({K}\)-solitons, for any \({K\geq 3}\), assuming that the speeds \({\ell_k}\) are collinear. The main difficulty of the construction is the strong interaction between the solitons due to the slow algebraic decay of \({W(x)}\) as \({|x|\to +\infty}\). This is in contrast to previous constructions of multi-solitons for other nonlinear dispersive equations (like generalized KdV and nonlinear Schrodinger equations in energy subcritical cases), where the interactions are exponentially small in time due to the exponential decay of the solitons.

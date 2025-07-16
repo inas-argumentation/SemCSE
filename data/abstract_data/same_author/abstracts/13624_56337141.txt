@@ -1,0 +1,14 @@
+Parity-violating neutron spin rotation in hydrogen and deuterium
+AbstractWe calculate the (parity-violating) spin-rotation angle of a polarized neutron beam through hydrogen and deuterium targets, using pionless effective field theory up to next-to-leading order. Our result is part of a program to obtain the five leading independent low-energy parameters that characterize hadronic parity violation from few-body observables in one systematic and consistent framework. The two spin-rotation angles provide independent constraints on these parameters. Our result for np spin rotation is $$\frac{1}
+{\rho }\frac{{d\varphi _{PV}^{np} }}
+{{dl}} = \left[ {4.5 \pm 0.5} \right] rad MeV^{ - \frac{1}
+{2}} \left( {2g^{\left( {^3 S_1 - ^3 P_1 } \right)} + g^{\left( {^3 S_1 - ^3 P_1 } \right)} } \right) - \left[ {18.5 \pm 1.9} \right] rad MeV^{ - \frac{1}
+{2}} \left( {g_{\left( {\Delta {\rm I} = 0} \right)}^{\left( {^1 S_0 - ^3 P_0 } \right)} - 2g_{\left( {\Delta {\rm I} = 2} \right)}^{\left( {^1 S_0 - ^3 P_0 } \right)} } \right)$$, while for nd spin rotation we obtain $$\frac{1}
+{\rho }\frac{{d\varphi _{PV}^{nd} }}
+{{dl}} = \left[ {8.0 \pm 0.8} \right] rad MeV^{ - \frac{1}
+{2}} g^{\left( {^3 S_1 - ^1 P_1 } \right)} + \left[ {17.0 \pm 1.7} \right] rad MeV^{ - \frac{1}
+{2}} g^{\left( {^3 S_1 - ^3 P_1 } \right)} + \left[ {2.3 \pm 0.5} \right] rad MeV^{ - \frac{1}
+{2}} \left( {3g_{\left( {\Delta {\rm I} = 0} \right)}^{\left( {^1 S_0 - ^3 P_0 } \right)} - 2g_{\left( {\Delta {\rm I} = 1} \right)}^{\left( {^1 S_0 - ^3 P_0 } \right)} } \right)$$, where the g(X-Y), in units of $$MeV^{ - \frac{3}
+{2}}$$, are the presently unknown parameters in the leading-order parity-violating Lagrangian. Using naıve dimensional analysis to estimate the typical size of the couplings, we expect the signal for standard target densities to be $$\left| {\frac{{d\varphi _{PV} }}
+{{dl}}} \right| \approx \left[ {10^{ - 7} \ldots 10^{ - 6} } \right]\frac{{rad}}
+{m}$$ for both hydrogen and deuterium targets. We find no indication that the nd observable is enhanced compared to the np one. All results are properly renormalized. An estimate of the numerical and systematic uncertainties of our calculations indicates excellent convergence. An appendix contains the relevant partial-wave projectors of the three-nucleon system.

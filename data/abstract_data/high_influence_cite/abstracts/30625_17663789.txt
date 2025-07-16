@@ -1,0 +1,23 @@
+Improved customer choice predictions using ensemble methods
+textabstractIn this paper various ensemble learning methods from machine
+learning and statistics are considered and applied to the customer
+choice modeling problem. The application of ensemble learning
+usually improves the prediction quality of flexible models like
+decision trees and thus leads to improved predictions. We give
+experimental results for two real-life marketing datasets using
+decision trees, ensemble versions of decision trees and the
+logistic regression model, which is a standard approach for this
+problem. The ensemble models are found to improve upon individual
+decision trees and outperform logistic regression.
+
+Next, an additive decomposition of the prediction error of a
+model, the bias/variance decomposition, is considered. A model
+with a high bias lacks the flexibility to fit the data well. A
+high variance indicates that a model is instable with respect to
+different datasets. Decision trees have a high variance component
+and a low bias component in the prediction error, whereas logistic
+regression has a high bias component and a low variance component.
+It is shown that ensemble methods aim at minimizing the variance
+component in the prediction error while leaving the bias component
+unaltered. Bias/variance decompositions for all models for both
+customer choice datasets are given to illustrate these concepts.

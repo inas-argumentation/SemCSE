@@ -1,0 +1,2 @@
+Selection of Sparse Sets of Influence for Meshless Finite Difference Methods
+We suggest an efficient algorithm for the selection of sparse subsets of a set of influence for the numerical discretization of differential operators on irregular nodes with polynomial consistency of a given order with the help of the QR decomposition of an appropriately weighted polynomial collocation matrix, and prove that the accuracy of the resulting numerical differentiation formulas is comparable with that of the formulas generated on the original set of influence.

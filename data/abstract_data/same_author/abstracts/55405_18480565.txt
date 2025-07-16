@@ -1,0 +1,2 @@
+Volumes of expression: artistic modelling and rendering of volume datasets
+This paper presents the design and implementation of artistic effects in modelling and rendering of volume datasets. Following different stages of a volume-based graphics pipeline, we examine various properties of volume data, and illustrate how expressive and non-photorealistic effects can be implemented. We demonstrate that the true 3D nature of volume data makes it particularly applicable for this use, allowing the addition of complex effects at the modelling stage as well as during rendering.

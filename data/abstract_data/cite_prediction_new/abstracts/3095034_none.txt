@@ -1,0 +1,2 @@
+Chinese readability assessment using TF-IDF and SVM
+This paper proposes a simple yet effective method to automatically determine the readability of Chinese articles. We use mutual information to select the most important terms from the training data, calculate TF-IDF values based on those terms, and use those values as features for SVM to build classification models that identify articles suitable for lower grade students and middle grade students in elementary school. The experiments on elementary school textbooks produce satisfactory results.

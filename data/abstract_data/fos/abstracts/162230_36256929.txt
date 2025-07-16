@@ -1,0 +1,2 @@
+An application of a global optimization parametrization method on macromolecular structure problem
+In this paper, we propose a new parametrization auxiliary function approach on solving global optimization programming of macromolecular potential energy problem that received world wide attention in recent years in terms of the characteristic of the model. Numerical experiments show the method is not only feasible but much more efficient than current method on solving potential energy optimization problem.

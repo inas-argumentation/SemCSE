@@ -1,0 +1,15 @@
+Comparison of geographic atrophy measurements from the OCT fundus image and the sub-RPE slab image.
+PURPOSE
+To compare two different approaches to measuring areas of geographic atrophy (GA) using spectral-domain optical coherence tomography (SD-OCT).
+
+
+METHODS
+Fifty eyes with GA were imaged with an SD-OCT instrument. OCT fundus images and sub- retinal pigment epithelium (RPE) slab images were generated. Three graders manually drew the GA boundaries on both en face images. An automated algorithm was used to segment the GA boundaries from the sub-RPE slabs.
+
+
+RESULTS
+The agreement between the three manual measurements on both OCT fundus images (ICC = .998) and sub-RPE slabs (ICC = .999) was excellent. Area measurements from OCT fundus images and sub-RPE slabs were highly correlated. The agreement between manual and automated measurements on the sub-RPE slabs was very good (ICC = .795).
+
+
+CONCLUSION
+Both OCT fundus images and sub-RPE slab images proved useful for measuring GA in age-related macular degeneration. The automated algorithm typically provided useful measurements of GA area from the sub-RPE slabs.

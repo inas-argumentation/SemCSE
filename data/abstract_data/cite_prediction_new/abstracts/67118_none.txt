@@ -1,0 +1,2 @@
+Retraction obstruction to time-varying stabilization
+This paper addresses the problem of the global stabilization on a total space of a fiber bundle with a compact base space. We prove that, under mild assumptions (existence of a continuous section and forward unicity of solutions), no equilibrium of a continuous system defined on such a state space can be globally asymptotically uniformly stabilized using continuous time-varying feedback.

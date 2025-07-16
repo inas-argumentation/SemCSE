@@ -1,0 +1,13 @@
+PERSONALIZED LAB TEST RESPONSE PREDICTION WITH KNOWLEDGE AUGMENTATION
+Personalized medical systems are rapidly gaining traction as opposed to “one size
+fits all” systems. The ability to predict patients’ lab test responses and provide justification for the predictions would serve as an important decision support tool and
+help clinicians tailor treatment regimes for patients. This requires one to model
+the complex interactions among different medications, diseases, and lab tests. We
+also need to learn a strong patient representation, capturing both the sequential
+information accumulated over the visits and information from other similar patients. Further, we model the drug-lab interactions and diagnosis-lab interactions
+in the form of graphs and design a knowledge-augmented approach to predict patients’ response to a target lab result. We also take into consideration patients'
+past lab responses to personalize the prediction. Experiments on the benchmark
+MIMIC-III and a real-world outpatient dataset demonstrate the effectiveness of
+the proposed solution in reducing prediction errors by a significant margin. Case
+studies show that the identified top factors for influencing the predicted lab results
+are consistent with the clinicians' understanding.

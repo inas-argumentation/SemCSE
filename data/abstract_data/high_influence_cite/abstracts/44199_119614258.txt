@@ -1,0 +1,2 @@
+A note on the extremal process of the supercritical Gaussian Free Field
+We consider both the infinite-volume discrete Gaussian Free Field (DGFF) and the DGFF with zero boundary conditions outside a finite box in dimension larger or equal to 3. We show that the associated extremal process converges to a Poisson point process. The result follows from an application of the Stein-Chen method from Arratia et al. (1989).

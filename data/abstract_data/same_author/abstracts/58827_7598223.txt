@@ -1,0 +1,6 @@
+Scalar Outcomes Suffice for Finitary Probabilistic Testing
+The question of equivalence has long vexed research in concurrency, leading to many different denotational- and bisimulation-based approaches; a breakthrough occurred with the insight that tests expressed within the concurrent framework itself, based on a special "success action", yield equivalences that make only inarguable distinctions. 
+ 
+When probability was added, however, it seemed necessary to extend the testing framework beyond a direct probabilistic generalisation in order to remain useful. An attractive possibility was the extension to multiple success actions that yielded vectors of real-valued outcomes. 
+ 
+Here we prove that such vectors are unnecessary when processes are finitary, that is finitely branching and finite-state: single scalar outcomes are just as powerful. Thus for finitary processes we can retain the original, simpler testing approach and its direct connections to other naturally scalar-valued phenomena.

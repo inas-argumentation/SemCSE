@@ -1,0 +1,2 @@
+A Path-Based Approach for Efficient Structural Join with Not-Predicates
+There has been much research on XML query processing. However, there has been little work on the evaluation of XML queries involving not-predicates. Such queries are useful and common in many real-life applications. In this paper, we present a model called XQuery tree to model queries involving not-predicates and describe a path-based method to evaluate such queries efficiently. A comprehensive set of experiments is carried out to demonstrate the effectiveness and efficiency of the proposed solution.

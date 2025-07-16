@@ -1,0 +1,2 @@
+Determination of the Hall voltage in devices with arbitrary aspect ratio and probe position
+A number of devices, that are under investigation for implementing and calibrating physical models at high operating temperatures and transient high current stress, exhibit geometrical features that do not allow for the application of the elementary Hall theory. Here, a more general calculation is carried out, that leads to the determination of the Hall voltage as a function of the position along the longitudinal direction in devices like, e.g., linear resistors or MOSFETs.

@@ -1,0 +1,2 @@
+Architectural Synthesis with Interconnection Cost Control
+Architectural synthesis tools map algorithms to architectures under various constraints and quickly provide estimations of area and performance. However, these tools do not take the interconnection cost into account whereas it becomes predominant with the technology decrease and the application complexity increase. A way to control costly interconnections during the architectural process is presented in this paper.

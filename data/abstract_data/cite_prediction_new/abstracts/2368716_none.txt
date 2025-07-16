@@ -1,0 +1,2 @@
+Average level crossing rate and fading duration in correlated MIMO subchannels
+Subject of this paper is analysis of level crossing rate and average fading duration in orthogonal subchannels of MIMO channel. For Rayleigh propagation, the exact analytical expressions are derived and compared with simulation results. Also, system with space correlation and Rice propagation is analyzed and results of Monte Carlo simulations are presented.

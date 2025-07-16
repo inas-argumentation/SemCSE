@@ -1,0 +1,2 @@
+Some Investigations for Solving Constrained Optimization Problems using Adiabatic Quantum Computation
+Adiabatic Quantum Computation has emerged as a new approach for designing quantum algorithms, which is equivalent to the circuit model but appears to be more robust and suffers from less number of bottlenecks than it. Some investigations have been undertaken in this paper for solving constrained optimization problems using Adiabatic Quantum Computation, as there is no reported approach yet for solving such problems using Quantum Algorithms.

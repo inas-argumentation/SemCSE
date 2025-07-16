@@ -1,0 +1,2 @@
+Evaluation of a Case-Based Antibiotics Therapy Adviser
+Some years ago we have developed a case-based antibiotics therapy adviser within the ICONS project. In this paper, we present steps and results of medical evaluations concerning the quality of the recommended therapies, the user friendliness of the system, and the interpretation of laboratory results. Furthermore, we have compared retrieval times of two appropriate Case-based Reasoning retrieval algorithms.

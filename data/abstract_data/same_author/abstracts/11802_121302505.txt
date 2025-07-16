@@ -1,0 +1,2 @@
+The eigenvalue-matching renormalization group
+Abstract The eigenvalue-matching renormalization-group method is extended to the computation of the universal rescaling factors in addition to the universal bifurcation rate. Both the one-dimensional quadratic map and the two-dimensional area-preserving Henon map are studied. The computation has been carried to very high orders: eleventh in the one-dimensional case and eighth in the two-dimensional case. The accuracy is so high and the algorithm so efficient that it may be used as an alternative to the direct numerical procedure.

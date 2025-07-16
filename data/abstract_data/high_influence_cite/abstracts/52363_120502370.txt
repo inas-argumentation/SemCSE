@@ -1,0 +1,15 @@
+Multiple Endemic Solutions in an Epidemic Hepatitis B Model without Vertical Transmission
+This paper examines 
+the dynamics of Hepatitis B via a Susceptible Exposed Infectious Recovered (SEIR) 
+type epidemic model. Previous studies have shown that Hepatitis B is 
+characterized by multiple endemic solutions, a matter which may be of concern 
+in developing control strategies. We identify the possible causes of multiple 
+endemic solutions in a Hepatitis B model and conclude that the dependance of 
+the probability of carriage development  (q(Λ)) 
+on the force of infection (Λ) is the main reason for multiple endemicity. Other 
+factors such as a large proportion of infants that are not vaccinated (ω) may 
+also enhance the possibility of multiple endemicity. The role of carriers may 
+also play a key role in the possibility of such complex dynamics, i.e., when infectiousness of carriers-(α) is high, the probability of existence of 
+multiple endemic equilibrium solutions is increased. In our arguments, the 
+traditional reproduction number R0G(0) 
+< 1 does not imply stability of disease-free equilibrium.

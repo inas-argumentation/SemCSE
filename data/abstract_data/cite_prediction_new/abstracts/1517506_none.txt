@@ -1,0 +1,2 @@
+HTS: A new shape descriptor based on Hough Transform
+In this paper we propose a novel method for shape analysis called HTS (Hough Transform Statistics), which uses statistics from Hough Transform space in order to characterize the shape of objects in digital images. Experimental results showed that the HTS descriptor is robust and presents better accuracy than some traditional shape description methods. Furthermore, HTS algorithm has linear complexity, which is an important requirement for content based image retrieval from large databases.

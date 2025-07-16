@@ -1,0 +1,2 @@
+Adaptive colormap selection algorithm for motion sequences
+We present a simple and intuitive algorithm for the quantization of full-color images which has been designed to apply to static images and motion sequences equally well. Our technique eliminates the perils of hardware colormap flashing which is inherent in other well known algorithms for selecting colormap representatives. We compare our technique with existing static image colormap generation techniques to show the quality of the resultant quantization.

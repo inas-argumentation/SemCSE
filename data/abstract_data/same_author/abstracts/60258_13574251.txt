@@ -1,0 +1,2 @@
+Spanning Trails Connecting Given Edges
+Abstract.Suppose that is the set of connected graphs such that a graph G∈ if and only if G satisfies both (F1) if X is an edge cut of G with |X|≤3, then there exists a vertex v of degree |X| such that X consists of all the edges incident with v in G, and (F2) for every v of degree 3, v lies in a k-cycle of G, where 2≤k≤3.In this paper, we show that if G∈ and κ′(G)≥3, then for every pair of edges e,f∈E(G), G has a trail with initial edge e and final edge f which contains all vertices of G. This result extends several former results.

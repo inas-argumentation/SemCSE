@@ -1,0 +1,2 @@
+Speed control of a PMSM motor based on the new disturbance observer
+This paper is concerned with speed control of a permanent magnet synchronous motor (PMSM) based on a new disturbance observer. The unknown disturbance is compensated so that faster speed response and smaller speed ripple can be achieved in the presence of a time-varying load. The proposed disturbance observer has a finite memory structure and thus is robust to model uncertainties. Also, due to the simple structure of the observer, it can be easily implemented.

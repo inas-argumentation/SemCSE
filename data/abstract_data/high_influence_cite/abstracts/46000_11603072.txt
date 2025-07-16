@@ -1,0 +1,2 @@
+Discrete Fredholm properties and convergence estimates for the electric field integral equation
+The Galerkin discretization of the Electric Field Integral Equation is reinvestigated. We prove quasi-optimal convergence estimates at nonresonant frequencies, using orthogonal splittings of the Galerkin space. At resonant frequencies we show that the spurious electric currents radiate only weakly in the exterior domain. This is achieved through the study of some finitely degenerated problems in terms of LBB Inf-Sup estimates and the use of discrete Helmholtz decompositions.

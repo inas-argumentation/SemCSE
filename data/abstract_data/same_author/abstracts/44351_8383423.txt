@@ -1,0 +1,2 @@
+A Support Method for Qualitative Simulation-Based Learning System
+In this paper, we mainly present a support method of our proposed e-learning system. We employ qualitative simulations because this lets the learners understand the conceptual principles in economic dynamics. First, we define some qualitative values employed on simulation graph model that consists of nodes and arcs. Then, we show the support method using our learning system based on qualitative simulation.

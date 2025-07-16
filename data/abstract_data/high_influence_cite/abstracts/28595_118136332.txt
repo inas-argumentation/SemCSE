@@ -1,0 +1,2 @@
+A uniform upper bound for the character degree sums and Gelfand-Graev-like characters for finite simple groups
+Let G be a finite non-abelian simple group and let p be a prime. We classify all pairs (G,p) such that the sum of the complex irreducible character degrees of G is greater than the index of a Sylow p-subgroup of G. Our classification includes all groups of Lie type in defining characteristic p (because every Gelfand-Graev character of G is multiplicity free and has degree equal to the above index), and a handful of well-described examples.

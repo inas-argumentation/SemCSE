@@ -1,0 +1,2 @@
+A two-unit cold standby system with allowed down-time and correlated failures and repairs
+This paper considers the stochastic behaviour of a two-unit cold standby system with allowed down-time and a single repair facility to repair the failed unit. It is assumed that the repair and failure times of a unit are associated with each other in some way or other and their joint distribution is bivariate exponential.

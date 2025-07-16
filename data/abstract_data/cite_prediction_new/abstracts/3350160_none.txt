@@ -1,0 +1,2 @@
+FPGA-based real-time LIM simulation of switching power converters
+In this work we present a FPGA implementation of the Latency Insertion Method (LIM) to perform simulation of power electronics systems with high switching frequencies (e.g. SiC based power converter with fsw = 100 - 200kHz). We describe how LIM is used to model a buck and a three phase AC/DC converter and how a FPGA solver based on this approach is implemented. Simulation test performed on a Virtex-7 are presented. All real-time simulations are performed with time steps of 40ns and smaller.

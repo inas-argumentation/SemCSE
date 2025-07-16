@@ -1,0 +1,2 @@
+Personality Recognition in Source Code Working Note: Team BESUMich
+In this paper, we describe the results of source code personality identification from Team BESUMich. We used a set of simple, robust, scalable, and language-independent features on the PR-SOCO dataset. Using leave-one-coder-out strategy, we obtained minimum RMSE on the test data for extroversion, and competitive results for other personality traits.

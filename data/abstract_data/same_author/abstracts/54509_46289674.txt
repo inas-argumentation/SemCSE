@@ -1,0 +1,2 @@
+Applying On-line Bitmap Indexing to Reduce Counting Costs in Mining Association Rules
+Abstract Counting costs have a great impact on efficiency of mining association rules in a large database of sales transactions. In this paper, we first formally analyze the facts that determine counting costs. Secondly, we present an on-line bitmap indexing technique to speed-up the counting process. Besides theoretical analysis, our implementation reports suggest that this indexing technique may reduce counting costs up to 50%, and almost at no costs.

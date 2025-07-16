@@ -1,0 +1,2 @@
+Sums of squares of binomial coefficients, with applications to Picard-Fuchs equations
+For a fixed integer N, and fixed numbers b_1,...,b_N, we consider sequences, the nth term (a_n) of which is the sum of the squares of the terms in the expansion of (b_1 + ... + b_N)^n. In the case all b_i=1, we give a formula for a recurrence relation for the a_n. Otherwise we give an algorithm for finding a recurrence relation. As an application, we give the Picard-Fuchs equations for certain families of elliptic curves.

@@ -1,0 +1,53 @@
+Zum Basisproblem der nicht in die projektive Ebene einbettbaren Graphen II
+Let Γ be the set of finite graphs which are not embeddable into the projective plane. Let M(Γ>) denote the set of the minimal graphs of Γ. In former papers [3] and [5] K. Wagner has proved the following result: Each minimal graph G of M(Γ>) which is different from the graphs G1, G2, …, G12, G14, D, F fulfils the three following conditions: 
+1. 
+(1) G is at least 3-vertex connected. 
+ 
+2. 
+(2) In G exists one vertex v, for which the graph Gv obtained from G by deleting v and all edges of G which are incident with v contains a U(K3,3). 
+ 
+3. 
+(3) For each vertex v of G, the graph Gv is either planar or contains a U(K3,3). 
+ 
+ 
+ 
+ 
+In the following we investigate the character of these graphs G. For this some essential terms are necessary. 
+ 
+Let G be a graph with the vertex set V and G′ a subgraph of G with the vertex set V′. Then G′ is called a subgraph of the nth class (designated by G′ ⊆ (n)G) if and only if the chromatic number of the subgraph G(V − V′) of G spanned by V − V′ is equal to n. 
+ 
+Let X be a connected component of the spanned subgraph G(V − V′) of G and let Y be the bipartite graph consisting of all those edges of G which combine X with G′. Then the graph Q = X ⌣ Y is called a relative component of G in relation to G′ (or “Querstuck” of G in relation to G′). 
+ 
+Let z1, z2, z3, z4, a, b be six different vertices of G from which z1, z2, z3, z4 lie on a circuit Z of G. Let W1, W2, W3 denote three paths of G with W1 = W(z1, z2), W2 = W(z3, z4), and W3 = W(a,b)1. The subgraph W1 ⌣ W2 ⌣ W3 of G is called a “Kreuzhaube” H with the basis points z1, z2, z3, z4 if and only if 
+1. 
+(1) W1 ⌣ Z = {z1, z2}, 
+ 
+2. 
+(2) W2 ⌣ Z = {z3, z4}, 
+ 
+3. 
+(3) W1 ⌣ W2 = W3 ⌣ Z = ⊘, 
+ 
+4. 
+(4) W3 ⌣ W1 = {a}, 
+ 
+5. 
+(5) W3 ⌣ W2 = {b}, 
+ 
+6. 
+(6) The two pairs of basis points z1, z2 and z3, z4 are separated from each other on Z (Fig. 1). 
+ 
+ 
+ 
+ 
+Having characterized minimal graphs of M(Γ>) in “Satz 1”, we prove the following theorem: 
+ 
+Let G be a minimal graph of M(Γ>) which is different from G1,G2,…,G12 and G14 and which contains a G′ = U(K3,3) as a subgraph of the nth class with n ≥ 1. Then only one of the following three statements holds for each of the subgraphs G′ = U(K3,3) and for each relative component Q of G in relation to G′ : 
+1. 
+(1) Q is a star (“Stern”) . 
+ 
+2. 
+(2) Q contains a “Kreuzhaube” H which has only its four basis-points with G′ = U(K3,3) in common. To be more precise: If all those vertices of Q which do not lie on G′ are contracted in one single vertex, the result is that Q becomes a star Q∗ and G becomes G∗ (with fewer vertices than G and therefore G∗ being embeddable into the projective plane), then Q in relation with each embedding of G∗ into the projective plane contains a “Kreuzhaube” which has only its four basis-points in common with that circuit of the G′ on which the endpoints of Q∗ lie at the embedding of G∗ . 
+ 
+3. 
+(3) G = P. In this equation P means the graph of M(Γ>) which one obtains from two disjoint K3,3 by identifying two neighboring edges of the one K3,3 with two neighboring edges of the other K3,3.

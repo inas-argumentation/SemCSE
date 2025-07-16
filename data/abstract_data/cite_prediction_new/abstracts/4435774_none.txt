@@ -1,0 +1,2 @@
+A Tabular Method for Guard Strengthening, Symmetrization, and Operator Reduction for Martin's Asynchronous Design Methodology
+We introduce a tabular method to perform the last two of the four phases of Martin's compilation process for asynchronous circuit design. The method is then demonstrated with three examples, illustrating that our systematic method is very straight forward, flexible, and convenient to apply, and, hence, it lends itself to automatic compilation.

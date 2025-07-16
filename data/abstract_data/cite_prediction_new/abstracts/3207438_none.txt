@@ -1,0 +1,15 @@
+National Surgical Quality Improvement Program surgical risk calculator poorly predicts complications in patients undergoing radical cystectomy with urinary diversion.
+PURPOSE
+To evaluate the accuracy of the American College of Surgeons National Surgical Quality Improvement Programs (ACS-NSQIP) surgical risk calculator in patients undergoing radical cystectomy (RC) with urinary diversion.
+
+
+MATERIALS AND METHODS
+Preoperative characteristics of patients who underwent RC with ileal conduit or orthotropic neobladder (ONB) between 2007 and 2016 were entered into the proprietary online ACS-NSQIP calculator to generate 30-day predicted risk profiles. Predicted and observed outcomes were compared by measuring Brier score (BS) and area under the receiver operating characteristic curve (AUC).
+
+
+RESULTS
+Of 954 patients undergoing RC, 609 (64%) received ileal conduit and 345 (36%) received ONB. The calculator underestimated most risks by 10%-81%. The BSs exceeded the acceptable threshold of 0.01 and AUC were less than 0.8 for all outcomes in the overall cohort. The mean (standard deviation) predicted vs. observed length of stay was 9 (1.5) vs. 10.6 (7.4) days (Pearson's r = 0.09). Among patients who received ONB, adequate BS (<0.01) was observed for pneumonia, cardiac complications, and death. The receiver operating characteristic curve analysis revealed moderate accuracy of calculator for cardiac complications (AUC = 0.69) and discharge to rehab center (AUC = 0.75) among patients who underwent RC with ONB.
+
+
+CONCLUSIONS
+The universal ACS-NSQIP calculator poorly predicts most postoperative complications among patients undergoing RC with urinary diversion. A procedure-specific risk calculator is required to better counsel patients in the preoperative setting and generate realistic quality measures.

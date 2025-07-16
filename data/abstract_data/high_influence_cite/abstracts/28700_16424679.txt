@@ -1,0 +1,15 @@
+Subtle changes in renal function are associated with differences in late survival following adult cardiac surgery.
+OBJECTIVES
+To determine the predictors of post-operative renal function following adult cardiac surgery, and to assess the influence of this on late survival.
+
+
+METHODS
+Prospectively collected data were analysed on 8032 patients who underwent coronary artery bypass grafting, valve surgery or combined procedures from 1 January 1998 until 31 December 2008, who did not require preoperative renal replacement therapy. The estimated glomerular filtration rate (eGFR) was calculated by the Modification of Diet in Renal Disease formula accounting for ethnicity pre-operatively, post-operatively on the fourth post-operative day, and the post-operative nadir based upon the peak post-operative creatinine within 30 days of surgery. Late survival data were obtained from the UK Central Cardiac Audit Database (CCAD). Appropriate frailty analyses were conducted in R and model fit was compared using Aikaike's Information Criterion. Initial analysis intended to determine predictors of post-operative renal function including pre-operative eGFR, EuroSCORE and surgical procedure including the operative procedure and bypass time. Further analysis examined its influence on late survival.
+
+
+RESULTS
+Median follow-up was 72 months (IQR 48-105) during which there were 904 late deaths. The most powerful predictor of the day 4 eGFR was the pre-operative eGFR but other factors contributed including increasing EuroSCORE and bypass time. The pre-operative eGFR was shown to be a strong and independent predictor of late outcome (P = 0.0001, HR 0.497 95%CI 0.434-564); however, model fit was significantly improved using the day 4 eGFR (P = 0.0001, HR 0.43 95%CI 0.385-0.482). No specific change in individual renal function was identified as a predictor of adverse late survival, and neither the pre-operative nor day 4 eGFR was predictive of the nadir of renal function.
+
+
+CONCLUSIONS
+Subtle early changes in renal function at the time of surgery are powerful predictors of adverse late outcome and can be predicted by pre-operative renal function.

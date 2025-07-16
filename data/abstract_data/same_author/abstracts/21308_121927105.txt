@@ -1,0 +1,2 @@
+Constants of motion in local field theory (Coleman's theorem revisited)
+We analyze the space integralsQ=∫d3xϱ(x) of finitely localized densities ϱ. It turns out that the time translated operatorsQ(t) are polynomials int ifQ annihilates the vacuum. In particular,Q(t) =Q in models with short-range forces and complete particle interpretation. These results are valid in the Haag-Araki framework of field theory as well as in the Wightman formalism. Lorentz covariance is not needed in the proofs.

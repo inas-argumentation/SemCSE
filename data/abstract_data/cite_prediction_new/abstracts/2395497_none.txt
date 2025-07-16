@@ -1,0 +1,2 @@
+Short term memory structures for dynamic neural networks
+A framework for designing and characterizing short-term memory structures for neural networks is presented. The gamma memory, a recursive linear structure, is presented as a generalization of the tapped delay line or the context memory units. The gamma memory principle can be enhanced to construct nonuniform time warping scales that may be useful in speech recognition.<<ETX>>

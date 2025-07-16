@@ -1,0 +1,6 @@
+Differentiate Everything with a Reversible Domain-Specific Language
+Reverse-mode automatic differentiation (AD) suffers from the issue of having too much space overhead to trace back intermediate computational states for backpropagation.
+The traditional method to trace back states is called checkpointing that stores intermediate states into a global stack and restore state through either stack pop or re-computing.
+The overhead of stack manipulations and re-computing makes the general purposed (or not tensor-based) AD engines unable to meet many industrial needs.
+Instead of checkpointing, we propose to use reverse computing to trace back states by designing and implementing a reversible programming eDSL, where a program can be executed bi-directionally without implicit stack operations. The absence of implicit stack operations makes the program compatible with existing compiler features, including utilizing existing optimization passes and compiling the code as GPU kernels.
+We implement AD for sparse matrix operations and some machine learning applications to show that our framework has state-of-the-art performance.

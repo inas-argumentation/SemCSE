@@ -1,0 +1,2 @@
+Bourgain–Brezis inequalities on symmetric spaces of non-compact type
+Abstract Let M be a global Riemannian symmetric space of non-compact type. We prove a duality estimate, for pairings of divergence-free L 1 vector fields, with vector fields in a critical Sobolev space on M : | ∫ M 〈 f , ϕ 〉 d V | ≤ C ‖ f ‖ L 1 ( d V ) ‖ ∇ ϕ ‖ L m ( d V ) . This estimate provides a remedy for the failure of a critical Sobolev embedding on such symmetric spaces.

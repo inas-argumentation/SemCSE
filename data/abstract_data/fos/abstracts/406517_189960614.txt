@@ -1,0 +1,2 @@
+Estimating the Gerber-Shiu function under a risk model with stochastic income by Laguerre series expansion
+Abstract In this paper, we concern the statistical estimation of the Gerber-Shiu function under a risk model with stochastic premiums. We express the Gerber-Shiu function by Laguerre series expansion and estimate it based on observed information. Moreover, we study the convergence rate of our proposed estimator and illustrate the excellent performance of the estimator by simulations with finite sample size.

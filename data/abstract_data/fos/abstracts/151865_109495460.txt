@@ -1,0 +1,21 @@
+The TACQ computer program for automatic time domain reflectometry measurements. I. Design and operating characteristics
+Despite the increased use of time domain reflectometry (TDR) for measurement of soil water content and bulk 
+electrical conductivity (BEC), there are few public releases of software for TDR system control. The TACQ program, 
+under development since the early 1990s on a wide variety of soils, allows control of multiplexed systems supporting up to 
+256 TDR probes. The program is DOS-based to ease creation of low-power, embedded computer systems; and to 
+eliminate resource conflicts and timing difficulties inherent to multi-tasking, Windows-based operating systems. So that it 
+can be easily used in embedded systems, the program was written to run with as little as 640 kbytes of RAM and 1 Mbyte 
+of expanded memory, and with a variety of graphics standards and CPUs ranging from 80186 to Pentium. Embedded 
+computer systems based on the PC-104 specification have been implemented using TACQ; and the program has been 
+integrated into a supervisory control and data acquisition system (SCADA) for irrigation scheduling and control. Using a 
+parallel port, the program controls multiplexers from both Campbell Scientific (Logan, Utah), and Dynamax (Houston, 
+Texas); and it allows reading of probes in any user-defined order if using the latter. The user has complete control over 
+multiplexer address assignments, interconnection of multiplexers, and probe locations on each multiplexer; including 
+individual settings for probe length, window width, averaging, distance to each probe, gain, and type of data acquired 
+(waveform, travel time, apparent permittivity, water content, relative voltages for bulk electrical conductivity, or a 
+combination of these). Interfaces to TDR instruments including Tektronix 1502 (modified), 1502B, and 1502C cable 
+testers are implemented through an RS-232 port. Concurrent temperature data may also be acquired (ComputerBoards 
+models CIO-DASx). System power control is implemented through the computer’s own power management capabilities, 
+and through direct control of power to the TDR instrument and video subsystem where applicable, thus allowing creation 
+of very low-power systems. The program is stable and suitable for use in environmental measurement systems that are 
+unattended for long periods of time. Waveform interpretation methods are discussed in the second paper in this series.

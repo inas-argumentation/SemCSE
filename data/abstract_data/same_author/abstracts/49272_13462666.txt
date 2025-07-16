@@ -1,0 +1,2 @@
+Timed Modal Specification - Theory and Tools
+In this paper we present the theory of Timed Modal Specifications (TMS) together with its implementation, the tool Epsilon. TMS and Epsilon are timed extensions of respectively Modal Specifications [7, 9] and the Tav system [6, 4]. Also, the theory of TMS is an extension of real-timed process calculi with the specific aim of allowing loose or partial specifications. This allows us to define a notion of refinement, generalizing in a natural way the classical notion of bisimulation.

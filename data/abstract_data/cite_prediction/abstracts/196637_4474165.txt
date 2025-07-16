@@ -1,0 +1,2 @@
+Face Detection with End-to-End Integration of a ConvNet and a 3D Model
+This paper presents a method for face detection in the wild, which integrates a ConvNet and a 3D mean face model in an end-to-end multi-task discriminative learning framework. There are two components: i) The face proposal component computes face proposals via estimating facial key-points and the 3D transformation parameters for each predicted keypoint w.r.t. the 3D mean face model. ii) The face verification component computes detection results by refining proposals based on configuration pooling.

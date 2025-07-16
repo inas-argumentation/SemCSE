@@ -1,0 +1,2 @@
+Sampling Plans Which Approximately Minimize the Maximum Expected Sample Size
+Let θ denote the unknown proportion of defectives in an indefinitely large population. A sampling plan is constructed which approximately minimizes the maximum expected sample size among all plans satisfying the conditions Pθ (plan will accept the population) ≥ 1− α if θ ≤ θ−1 Pθ (plan will accept the population) ≤ β if θ≥θ1.

@@ -1,0 +1,2 @@
+Compact Constant Mean Curvature Surfaces with Low Genus
+We describe numerical experiments that suggest the existence of certain new compact surfaces of constant mean curvature. They come in three dihedrally symmetric families, with genus ranging from 3 to 5, 7 to 10, and 3 to 9, respectively; there are further surfaces with the symmetry of the Platonic polyhedra and genera 6, 12, and 30. We use the algorithm of Oberknapp and Polthier, which defines a discrete version of Lawson's conjugate surface method.

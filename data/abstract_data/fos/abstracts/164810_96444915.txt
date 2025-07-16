@@ -1,0 +1,2 @@
+Incompressible and ideal 2D flow around a small obstacle with constant velocity at infinity
+This article is concerned with the limiting behavior of incompressible flow past a small obstacle. Previous work on this problem has dealt with flows with vanishing velocity at infinity. We examine this limit for flows that are constant at infinity in the simplest case, that of two-dimensional, ideal flow past an obstacle. This extends the work in Iftimie, Lopes Filho, and Lopes (2003).

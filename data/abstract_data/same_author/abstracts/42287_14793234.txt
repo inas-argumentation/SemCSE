@@ -1,0 +1,2 @@
+On the Amount of Nondeterminism and the Power of Verifying
+The relationship between nondeterminism and other computational resources is investigated based on the "guess-then-check" model GC. Systematic techniques are developed to construct natural complete languages for the classes defined by this model. This improves a number of previous results in the study of limited nondeterminism. Connections of the model GC to computational optimization problems are exhibited.

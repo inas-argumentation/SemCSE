@@ -1,0 +1,2 @@
+Wrapper for Ranking Feature Selection
+We propose a new feature selection criterion not based on calculated measures between attributes, or complex and costly distance calculations. Applying a wrapper to the output of a new attribute ranking method, we obtain a minimum subset with the same error rate as the original data. The experiments were compared to two other algorithms with the same results, but with a very short computation time.

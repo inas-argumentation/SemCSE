@@ -1,0 +1,15 @@
+Stroke Severity and Comorbidity Index for Prediction of Mortality after Ischemic Stroke from the Virtual International Stroke Trials Archive-Acute Collaboration.
+BACKGROUND
+There is increasing interest in the use of administrative data (incorporating comorbidity index) and stroke severity score to predict ischemic stroke mortality. The aim of this study was to determine the optimal timing for the collection of stroke severity data and the minimum clinical dataset to be included in models of stroke mortality. To address these issues, we chose the Virtual International Stroke Trials Archive (VISTA), which contains National Institutes of Health Stroke Scale (NIHSS) on admission and at 24 hours, as well as outcome at 90 days.
+
+
+METHODS
+VISTA was searched for patients who had baseline and 24-hour NIHSS. Improvement in regression models was performed by the net reclassification improvement (NRI) method.
+
+
+RESULTS
+The clinical data among 5206 patients were mean age, 69 ± 13; comorbidity index, 3.3 ± .9; median NIHSS at baseline, 12 (interquartile range [IQR] 8-17); NIHSS at 24 hours, 9 (IQR 8-15); and death at 90 days in 15%. The baseline model consists of age, gender, and comorbidity index. Adding the baseline NIHSS to model 1 improved the NRI by 0.671 (95% confidence interval [CI] 0.595-0.747) [or 67.1% correct reclassification between model 1 and model 2]. Adding the 24 hour NIHSS term to model 1 (model 3) improved the NRI by 0.929 (95% CI 0.857-1.000) for model 3 versus model 1. Adding the variable thrombolysis to model 3 (model 4) improve NRI by 0.1 (95% CI 0.023-0.178) [model 4 versus model 3].
+
+
+CONCLUSION
+The optimal model for the prediction of mortality was achieved by adding the 24-hour NIHSS and thrombolysis to the baseline model.

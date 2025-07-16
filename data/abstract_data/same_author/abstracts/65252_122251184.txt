@@ -1,0 +1,2 @@
+Latteninterpolation bei einer Funktion von zwei Veränderlichen
+SummaryIn each lattice point α,β of a rectangular net a numerical valueuαβ is given. A bicubical and twice continuously differentiable function is constructed interpolating the valuesuαβ. The method is known as «spline interpolation».

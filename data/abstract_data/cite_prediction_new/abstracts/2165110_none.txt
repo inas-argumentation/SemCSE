@@ -1,0 +1,2 @@
+Numerical Solution of Dynamic Portfolio Optimization with Transaction Costs
+We apply numerical dynamic programming to multi-asset dynamic portfolio optimization problems with proportional transaction costs. Examples include problems with one safe asset plus two to six risky stocks, and seven to 360 trading periods in a finite horizon problem. These examples show that it is now tractable to solve such problems.

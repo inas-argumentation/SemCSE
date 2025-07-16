@@ -1,0 +1,2 @@
+Linked data quality of DBpedia, Freebase, OpenCyc, Wikidata, and YAGO
+In recent years, several noteworthy large, cross-domain, and openly available knowledge graphs (KGs) have been created. These include DBpedia, Freebase, OpenCyc, Wikidata, and YAGO. Although extensively in use, these KGs have not been subject to an in-depth comparison so far. In this survey, we provide data quality criteria according to which KGs can be analyzed and analyze and compare the above mentioned KGs. Furthermore, we propose a framework for finding the most suitable KG for a given setting.

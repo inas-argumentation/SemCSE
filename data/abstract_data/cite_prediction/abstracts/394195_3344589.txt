@@ -1,0 +1,15 @@
+Validation of a Standalone Smartphone Application for Measuring Heart Rate Using Imaging Photoplethysmography.
+BACKGROUND
+The aim of this study was to determine the accuracy of a freely available smartphone application, Cardiio app (Cardiio, Inc., Cambridge, MA), to measure heart rate from the finger or face using imaging photoplethysmography, by comparing against an FDA-cleared pulse oximeter at rest, and after moderate to vigorous exercise.
+
+
+METHODS
+A total of 40 healthy adults participated in this study. Participants engaged in a period of rest, followed by 3 min of moderate to vigorous intensity cycling on a stationary bicycle. Heart rate measurements were obtained from both the finger and face of participants using the Cardiio app at rest, immediately after exercise, 1-2 min after exercise, and 2-3 min after exercise. Concurrent heart rate readings using an FDA-cleared finger pulse oximeter served as the reference measurement.
+
+
+RESULTS
+There was a very strong agreement between heart rate measurements obtained using the Cardiio app and the pulse oximeter, both at rest (r = 0.99 for finger, r = 0.97 for face) and after exercise (r = 0.99 for finger, r = 0.97 for face). At rest, the accuracy of the Cardiio app was ±1.58 beats per minute (bpm) (or ±2.27%) using the finger mode and ±2.28 bpm (or ±3.17%) for the face mode, compared to the pulse oximeter. After moderate to vigorous exercise, the accuracy of the Cardiio app was ±2.97 bpm (or ±2.79%) using the finger mode and ±5.31 bpm (or ±4.50%) for the face mode, compared to the pulse oximeter.
+
+
+CONCLUSION
+The Cardiio app provided accurate heart rate measurements from the finger and face, both at rest and after exercise.

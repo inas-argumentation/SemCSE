@@ -1,0 +1,2 @@
+Partial‐volume model for determining white matter and gray matter cerebral blood volume for analysis of gliomas
+To model the partial voluming of gray matter (GM) and white matter (WM) in perfusion imaging, and to use this model to estimate the cerebral blood volume (CBV) of pure WM and GM, which could then be used to normalize data across patients in preparation for analyzing tumor perfusion.

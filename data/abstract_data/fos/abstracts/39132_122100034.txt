@@ -1,0 +1,2 @@
+A recursive algorithm evaluating the exact reliability of a consecutive κ-within-m-out-of-n:F system
+A consecutive κ-within-m-out-of-n:F system consists of n linearly ordered components e1,3.en. The system fails if among any m subsequent components there are k or more failed ones. A recursive algorithm is presented evaluating the reliability of the system whose components are independent and have unequal failure probabilities. This algorithm is computer implementable for “not too large m” (e.g. m ≤ 15 for PC machines).

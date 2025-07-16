@@ -1,0 +1,2 @@
+Fast automatic synthesis of security protocols using backward search
+An automatic security protocol generator is proposed that used logic-based synthesis rules to guide it in a backward search for suitable protocols from protocol goals. The approach taken is unlike existing automatic protocol generators which typically carry out a forward search for candidate protocols from the protocol assumptions. A prototype generator has been built that performs well in the automatic generation of authentication and key exchange protocols.

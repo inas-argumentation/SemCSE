@@ -1,0 +1,2 @@
+Business Failures: Another Example of the Analysis of Failure Data
+The analyses of failure data given by Davis [1] all involve essentially constant or increasing conditional probabilities of failure. For business failures, however, it is reasonable to expect monotonically decreasing conditional probabilities. An analysis of data on failures of four types of business in Poughkeepsie, New York, from 1844 to 1926 [2] confirms this expectation. The conditional probabilities of failure for these four series are well described by both exponential and hyperbolic functions.

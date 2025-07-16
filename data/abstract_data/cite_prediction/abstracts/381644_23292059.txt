@@ -1,0 +1,19 @@
+The PhysIO Toolbox for Modeling Physiological Noise in fMRI Data
+BACKGROUND
+Physiological noise is one of the major confounds for fMRI. A common class of correction methods model noise from peripheral measures, such as ECGs or pneumatic belts. However, physiological noise correction has not emerged as a standard preprocessing step for fMRI data yet due to: (1) the varying data quality of physiological recordings, (2) non-standardized peripheral data formats and (3) the lack of full automatization of processing and modeling physiology, required for large-cohort studies.
+
+
+NEW METHODS
+We introduce the PhysIO Toolbox for preprocessing of physiological recordings and model-based noise correction. It implements a variety of noise models, such as RETROICOR, respiratory volume per time and heart rate variability responses (RVT/HRV). The toolbox covers all intermediate steps - from flexible read-in of data formats to GLM regressor/contrast creation - without any manual intervention.
+
+
+RESULTS
+We demonstrate the workflow of the toolbox and its functionality for datasets from different vendors, recording devices, field strengths and subject populations. Automatization of physiological noise correction and performance evaluation are reported in a group study (N=35).
+
+
+COMPARISON WITH EXISTING METHODS
+The PhysIO Toolbox reproduces physiological noise patterns and correction efficacy of previously implemented noise models. It increases modeling robustness by outperforming vendor-provided peak detection methods for physiological cycles. Finally, the toolbox offers an integrated framework with full automatization, including performance monitoring, and flexibility with respect to the input data.
+
+
+CONCLUSIONS
+Through its platform-independent Matlab implementation, open-source distribution, and modular structure, the PhysIO Toolbox renders physiological noise correction an accessible preprocessing step for fMRI data.

@@ -1,0 +1,2 @@
+Comparison of Web Proxy Caching Algorithm Performance
+Web proxy is an important intermediate network devices in the modern Internet,proxy caching algorithm not only affect the merits of the client's browsing speed,but also related to the target server's performance and the overall performance of the middle of the communication network.Presents several popular Web proxy caching algorithms to make comparison and research.

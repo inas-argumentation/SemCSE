@@ -1,0 +1,2 @@
+A Web service for efficient ontology comparison
+In this paper, we develop a Web service for ontology comparison based on a novel senses refinement algorithm, which builds senses sets to represent the semantics of the input ontologies. The senses refinement algorithm converts the measurement of ontology difference into simple set operations based on set theory, thus ensures the efficiency and accuracy of the ontology comparison. We believe our Web service is the first available online measurement tool for ontology comparison.

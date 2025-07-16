@@ -1,0 +1,8 @@
+DUAL-CAMERA NIR/MIR IMAGING FOR STEM-END/CALYX IDENTIFICATION IN APPLE DEFECT SORTING
+One of the persistent problems involved in the technology of automated machine vision apple defect sorting 
+lies in the discrimination between true defects and the stem-end/calyx of fruit. To solve this problem, a novel method was 
+developed which incorporates a near-infrared (NIR) camera and a mid-infrared (MIR) camera for simultaneous imaging 
+of the fruit being inspected. The NIR camera is sensitive to both the stem-end/calyx and true defects; whereas the MIR 
+camera is only sensitive to the stem-end and calyx. True defects can be quickly and reliably extracted by logical 
+comparison between the processed NIR and MIR images. A 98.86% recognition rate for stem-ends and a 99.34% 
+recognition rate for calyxes were achieved using a dual-camera NIR/MIR machine vision defect sorting system.

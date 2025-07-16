@@ -1,0 +1,2 @@
+Comparative Assessment of Adaptive Body-Bias SOI Pass-Transistor Logic
+We present a silicon-on-insulator (SOI) pass-transistor logic (PTL) gate with an active body bias control circuit and compare the proposed PTL gate with other types of PTL gates with different body bias circuits in two different 0.13 μm SOI CMOS technologies. The experimental results show that the proposed SOI PTL gate using the body bias controlled technique is superior in terms of performance and power consumption than other DTMOS PTL gates.

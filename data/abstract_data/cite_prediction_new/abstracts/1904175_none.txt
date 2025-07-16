@@ -1,0 +1,2 @@
+A fuel cell based domestic uninterruptible power supply
+The design process for a fuel-cell-based inverter system for domestic use is discussed. The peculiar characteristics of the fuel cell stack energy source require the use of a battery for buffering. The fuel cell characteristics and the battery requirements for this application are discussed. A large number of different possible solutions are examined. The proposed solution uses an active filter and a battery to compensate for the slow dynamics of the fuel cell.

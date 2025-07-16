@@ -1,0 +1,2 @@
+A 16b 6GS/S nyquist DAC with IMD <-90dBc up to 1.9GHz in 16nm CMOS
+Advanced communication systems require DACs with high linearity over a wide bandwidth while consuming low power and small area [1]-[6]. In this work, a 16b 6GS/s Nyquist current-steering DAC in 16nm CMOS is presented. Utilizing bounded INL calibration and thermometer DEM to tackle voltage and timing errors, this DAC achieves an INL<+/-0.25LSB, IMD<-90dBc up to 1.9GHz and SFDR>80dBc up to 900MHz while occupying an area of 0.52mm2 and dissipating 350mW from 1.0V and 3.0V supplies.

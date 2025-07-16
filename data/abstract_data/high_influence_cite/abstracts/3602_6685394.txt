@@ -1,0 +1,2 @@
+Investigation of a lattice Boltzmann model with a variable speed of sound
+A lattice Boltzmann model is considered in which the speed of sound can be varied independently of the other parameters. The range over which the speed of sound can be varied is investigated and good agreement is found between simulations and theory. The onset of nonlinear effects due to variations in the speed of sound is also investigated and good agreement is again found with theory. It is also shown that the fluid viscosity is not altered by changing the speed of sound.

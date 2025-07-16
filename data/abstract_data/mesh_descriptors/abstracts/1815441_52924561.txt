@@ -1,0 +1,15 @@
+Low microRNA-139 expression associates with poor prognosis in patients with tumors: A meta-analysis.
+BACKGROUND
+microRNA-139 (miR-139) is dysregulated in various types of tumors and plays a key role in carcinogenesis. miR-139 may be used as a diagnostic and prognostic biomarker of cancers. However, the data from the literature are not consistent. The present study aimed to verify the prognostic and diagnostic values of miR-139 in solid tumors.
+
+
+DATA SOURCES
+PubMed, Web of Science and Embase databases were searched and publications from January 2011 to August 2017 were included. We used Gene Expression Omnibus (GEO) and The Cancer Genome Atlas (TCGA) database to further validate this meta-analysis.
+
+
+RESULTS
+Eight individual studies from seven articles were included. Pooled analyses showed that low miR-139 expression was related to worse overall survival (OS) [hazard ratio (HR) = 2.27; 95% confidence intervals (CI): 1.74-2.95; P < 0.001] in solid tumors, including hepatocellular carcinoma (HCC) and glioblastoma multiforme (GBM), consisting with the results of TCGA. However, our results of CRC showed that low miR-139 expression was associated with poor OS which was contradictory with the results in TCGA database and need larger samples to validate the phenomenon; whereas for CRC patients, high miR-139 expression predicted poor RFS, which was in good accordance with TCGA results. The results of 27 microarrays from GEO database showed that miR-139 expression levels were lower in tumor tissues compared to adjacent non-tumor tissues or healthy tissues. Decreased miR-139 expression was also significantly correlated with poor differentiation grade (OR = 3.57; 95% CI: 1.44-8.85; P = 0.006). However, the combined data indicated that no associations between miR-139 expression and the following parameters such as age (pooled OR = 1.50; 95% CI: 0.69-3.24; P = 0.304), gender (pooled OR = 0.92; 95% CI: 0.56-1.51; P = 0.738), tumor size (pooled OR = 1.51; 95% CI: 0.69-3.31; P = 0.298), late tumor-node-metastasis stage (pooled OR = 1.63; 95% CI: 0.99-2.68; P = 0.057) and lymph-node-metastasis (pooled OR = 0.66; 95% CI: 0.34-1.28; P = 0.222).
+
+
+CONCLUSIONS
+Low miR-139 expression was related to poor prognosis in HCC and GBM, which could be regarded as a potential prognostic biomarker. However, its precise functional role in CRC still need to be further investigated through larger samples and multicenter studies.

@@ -1,0 +1,2 @@
+Software error detection model with applications
+This paper deals with the modeling of software errors encountered in a small and a large software system. A deterministic analysis of software failure process is presented to obtain an appropriate mean value function for a nonhomogeneous Poisson process. Several quantitative measures for software quality assessment are also proposed. Statistical techniques of inference about unknown parameters are discussed and detailed analyses of software error data from two systems are presented.

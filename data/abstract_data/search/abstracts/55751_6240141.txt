@@ -1,0 +1,2 @@
+An introduction to hidden Markov models.
+This unit introduces the concept of hidden Markov models in computational biology. It describes them using simple biological examples, requiring as little mathematical knowledge as possible. The unit also presents a brief history of hidden Markov models and an overview of their current applications before concluding with a discussion of their limitations.

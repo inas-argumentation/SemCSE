@@ -1,0 +1,2 @@
+Matching densities for Galois representations
+Given a pair of n-dimensional complex Galois representations over Q, we define their matching density to be the density, if it exists, of the set of places at which the traces of Frobenius of the two Galois representations are equal. We will show that the set of matching densities of such pairs of irreducible Galois representations (for all n) is dense in the interval [0, 1]. Under the strong Artin conjecture, this also implies the corresponding statement for cuspidal automorphic representations.

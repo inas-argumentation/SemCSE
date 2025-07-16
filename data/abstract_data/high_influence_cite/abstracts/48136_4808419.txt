@@ -1,0 +1,15 @@
+Contribution of computational model for assessment of heart tissue local stress caused by suture in LVAD implantation.
+STUDY
+Implantation of a Left Ventricular Assist Device (LVAD) may produce both excessive local tissue stress and resulting strain-induced tissue rupture that are potential iatrogenic factors influencing the success of the surgical attachment of the LVAD into the myocardium. By using a computational simulation compared to mechanical tests, we sought to investigate the characteristics of stress-induced suture material on porcine myocardium.
+
+
+METHODS
+Tensile strength experiments (n = 8) were performed on bulk left myocardium to establish a hyperelastic reduced polynomial constitutive law. Simultaneously, suture strength tests on left myocardium (n = 6) were performed with a standard tensile test setup. Experiments were made on bulk ventricular wall with a single U-suture (polypropylene 3-0) and a PTFE pledget. Then, a Finite Element simulation of a LVAD suture case was performed. Strength versus displacement behavior was compared between mechanical and numerical experiments. Local stress fields in the model were thus analyzed.
+
+
+RESULTS
+A strong correlation between the experimental and the numerical responses was observed, validating the relevance of the numerical model. A secure damage limit of 100 kPa on heart tissue was defined from mechanical suture testing and used to describe numerical results. The impact of suture on heart tissue could be accurately determined through new parameters of numerical data (stress diffusion, triaxiality stress). Finally, an ideal spacing between sutures of 2 mm was proposed.
+
+
+CONCLUSION
+Our computational model showed a reliable ability to provide and predict various local tissue stresses created by suture penetration into the myocardium. In addition, this model contributed to providing valuable information useful to design less traumatic sutures for LVAD implantation. Therefore, our computational model is a promising tool to predict and optimize LVAD myocardial suture.

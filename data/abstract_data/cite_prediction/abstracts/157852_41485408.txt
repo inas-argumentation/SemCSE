@@ -1,0 +1,2 @@
+LCL filter design for photovoltaic grid connected systems
+The use of power converters is very important in maximizing the power transfer from solar energy to the utility grid. A LCL filter is often used to interconnect an inverter to the utility grid in order to filter the harmonics produced by the inverter. This paper deal design methodology of a LCL filter topology to connect à inverter to the grid, an application of filter design is reported with m-file in Matlab.

@@ -1,0 +1,15 @@
+TH-C-19A-06: Measurements with a New Commercial Synthetic Single Crystal Diamond Detector.
+PURPOSE
+A commercial version of a synthetic single crystal diamond detector in a Scottky diode configuration was recently released as the new type 60019 microDiamond detector (PTW-Freiburg). In this study we investigate the dosimetric properties of this detector and explore if the use of the microDiamond detector can be expanded to high energy photon beams of up to 15MV and to large field measurements.
+
+
+METHODS
+Energy dependency was investigated. Photon and electron depth-dose curves were measured. Photon PDDs were measured with the Semiflex type 31010, microLion type 31018, P-Diode type 60016, SRS Diode type 60018, and the microDiamond type 60019 detector. Electron depth-dose curves were measured with a Markus chamber type 23343, an E Diode type 60017 and the microDiamond type 60019 detector (all PTW-Freiburg). Profiles were measured with the E-Diode and microDiamond at dose maximum depths.
+
+
+RESULTS
+The microDiamond detector shows no energy dependence in high energy photon or electron dosimetry. Electron PDD measurements with the E-Diode and microDiamond are in good agreement except for the bremsstrahlungs region, where values are about 0.5 % lower with the microDiamond detector. Markus detector measurements agree with E-Diode measurements in this region. For depths larger than dmax, depth-dose curves of photon beams measured with the microDiamond detector are in close agreement to those measured with the microLion detector for small fields and with those measured with a Semiflex 0.125cc ionization chamber for large fields. For profile measurements, microDiamond detector measurements agree well with microLion and P-Diode measurements in the high-dose region and the penumbra region. For areas outside the open field, P-Diode measurements are about 0.5-1.0% higher than microDiamond and microLion measurements.
+
+
+CONCLUSION
+The investigated diamond detector is suitable for a wide range of applications in high energy photon and electron dosimetry and is interesting for relative as well as absolute dosimetry.

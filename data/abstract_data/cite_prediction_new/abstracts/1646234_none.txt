@@ -1,0 +1,2 @@
+Fault protection and ride-through scheme for MVDC power distribution systems utilizing a supervisory controller
+The paper proposes a protection scheme for zonal MVDC systems that allows fault isolation and ride-through of unfaulted zones. A Supervisory Controller coordinates the actions of mechanical contactors and a switching power converter to achieve the protection and reconfiguration function necessary in MVDC systems. Experimental results demonstrate the feasibility and performance of the approach.

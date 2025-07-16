@@ -1,0 +1,2 @@
+Chords of longest circuits in locally planar graphs
+It was conjectured by Thomassen ([B. Alspach, C. Godsil, Cycle in graphs, Ann. Discrete Math. 27 (1985)], p. 466) that every longest circuit of a 3-connected graph must have a chord. This conjecture is verified for locally 4-connected planar graphs, that is, let N be the set of natural numbers; then there is a function h : N → N such that, for every 4-connected graph G embedded in a surface S with Euler genus g and face-width at least h(g), every longest circuit of G has a chord.

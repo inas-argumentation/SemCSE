@@ -1,0 +1,15 @@
+Stunting and obesity in childhood: a reassessment using longitudinal data from South Africa.
+BACKGROUND
+A series of cross-sectional studies have found a relationship between stunting and obesity in childhood. Because height appears in both the numerator of indices of stunting and the denominator of indices of obesity, random errors made by fieldworkers measuring heights can produce negative bias in estimates of this relationship.
+
+
+METHODS
+With longitudinal data, height can be instrumented with its lagged value in a two-stage probit regression model, purging the estimated association between the probability of being obese or underweight and the height-for-age z-score of this errors-in-variables bias. Such a model is fitted to a cohort of 1110 primary-school-age children measured in 1993-2004 in a panel study in KwaZulu-Natal, South Africa. The study also collected detailed data on households' demographic and socio-economic characteristics.
+
+
+RESULTS
+Risk factors for stunting, wasting and obesity differed in this population. Stunting was not associated with childhood obesity in either the cross-sectional or two-stage models. In the cross-sectional analysis, however, random measurement errors masked a negative association between children's height-for-age and their probability of being underweight or wasted that emerged in the two-stage instrumental variable models. This association was further amplified, rather than attenuated, by controlling for children's household income, racial group, residence and mother's education.
+
+
+CONCLUSIONS
+The validity of the findings of earlier cross-sectional studies of the association between stunting and obesity in childhood is dependent on the precision with which they measured height. Random measurement error can also mask an association between being stunted and underweight in cross-sectional studies.

@@ -1,0 +1,24 @@
+Analysis of the performance of a ship-borne scanning wind lidar in the Arctic and Antarctic
+Abstract. In the present study a
+non-motion-stabilized scanning Doppler lidar was operated on board of
+RV Polarstern in the Arctic (June 2014) and Antarctic (December
+2015–January 2016). This is the first time that such a system measured on an
+icebreaker in the Antarctic. A method for a motion correction of the data in
+the post-processing is presented. The wind calculation is based on vertical
+azimuth display (VAD) scans with eight directions that pass a quality
+control. Additionally a method for an empirical signal-to-noise ratio (SNR)
+threshold is presented, which can be calculated for individual measurement
+set-ups. Lidar wind profiles are compared to total of about 120 radiosonde
+profiles and also to wind measurements of the ship. The performance of the lidar measurements in comparison with radio soundings
+generally shows small root mean square deviation (bias) for wind speed of
+around 1 m s −1 (0.1 m s −1 ) and for wind direction of around
+10 ∘ (1 ∘ ). The post-processing of the non-motion-stabilized
+data shows a comparably high quality to studies with motion-stabilized
+systems. Two case studies show that a flexible change in SNR threshold can be
+beneficial for special situations. Further the studies reveal that
+short-lived low-level jets in the atmospheric boundary layer can be captured
+by lidar measurements with a high temporal resolution in contrast to routine
+radio soundings. The present study shows that a non-motion-stabilized Doppler
+lidar can be operated successfully on an icebreaker. It presents a processing
+chain including quality control tests and error quantification, which is
+useful for further measurement campaigns.

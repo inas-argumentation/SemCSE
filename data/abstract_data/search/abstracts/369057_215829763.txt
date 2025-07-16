@@ -1,0 +1,2 @@
+Object oriented simulation of computer architectures using C+
+Object oriented languages such as C+ allow class definitions which eliminate the need for writing special purpose simulators in many cases. Simulating digital logic components and computer archite.

@@ -1,0 +1,2 @@
+An NC Parallel Algorithm for Edge-Coloring Series-Parallel Multigraphs
+Many combinatorial problems can be efficiently solved in parallel for series?parallel multigraphs. The edge-coloring problem is one of a few combinatorial problems for which no NC parallel algorithm has been obtained for series?parallel multigraphs. This paper gives an NC parallel algorithm for the problem on series?parallel multigraphsG. It takesO(logn) time withO(?n/logn) processors, wherenis the number of vertices and ? is the maximum degree ofG.

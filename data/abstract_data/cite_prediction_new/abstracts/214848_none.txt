@@ -1,0 +1,2 @@
+Dynamic Modelling for Planar Extensible Continuum Robot Manipulators
+In this paper, a new dynamic model for continuum robot manipulators is derived. The dynamic model is developed based on the geometric model of extensible continuum robot manipulators with no torsional effects. The development presented in this paper is an extension of the dynamic model proposed by Mochiyama and Suzuki (2002) to include a class of extensible continuum robot manipulators. Numerical simulation results are presented for a planar 3-link extensible continuum robot manipulator.

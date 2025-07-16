@@ -1,0 +1,2 @@
+On the top-Lyapunov exponent of block-triangular stationary random matrices
+The objective of this note is to prove a useful, nontrivial technical lemma that is needed in the statistical analysis of linear stochastic systems with random system matrices. This study is motivated by the study of the quasi-maximum-likelihood identification method of certain stochastic volatility processes, called the GARCH (Generalized Autoregressive Conditional Heteroscedasticity) processes.

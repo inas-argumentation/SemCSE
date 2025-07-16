@@ -1,0 +1,2 @@
+Research on P2P Network Flow Detection Based on Improved Two Category SVM
+How to distinguish P2P network traffic becomes the focus of our study,but through the improvement of research methods to improve the classification speed is more of value.SVM is a emerging and learning method,which classify by obtain flow characteristics during the P2P network that has shown good results.Researches on the Two Category algorithm of SVM to improve the efficiency of distinguishing P2P traffic classification.

@@ -1,0 +1,2 @@
+BRRA: A Based Relevant Rectangles Algorithm for Mining Relationships in Databases
+Data mining is the discovery of previously unknown or hidden and potentially useful knowledge in databases. In this paper, we present an algorithm, called BRRA, that mines relationships in a database in order to derive compact rules set. This algorithm is based on a mathematical concept called relevant rectangles representing full association between a set of i arguments and a set of j images in a binary relation.

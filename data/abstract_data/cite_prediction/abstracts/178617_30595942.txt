@@ -1,0 +1,2 @@
+Improved phase unwrapping algorithm based on NVIDIA CUDA
+The paper presents an improved version of the region-growing algorithm for the interferometric phase unwrapping of the radar images. A method for packing/unpacking indices of points in a photograph that is based on bitwise operations is developed. A fast algorithm for generating a growth ring of target pixels and an algorithm for merging regions are created. Software implementation of the algorithm can be run on platforms using graphics devices that support the NVIDIA CUDA technology.

@@ -1,0 +1,19 @@
+Cube Testers and Key Recovery Attacks on Reduced-Round MD6 and Trivium
+CRYPTO 2008 saw the introduction of the hash function 
+MD6 and of cube attacks, a type of algebraic attack applicable to cryptographic 
+functions having a low-degree algebraic normal form over GF(2). 
+This paper applies cube attacks to reduced round MD6, finding the full 
+128-bit key of a 14-round MD6 with complexity 2\^22 (which takes less 
+than a minute on a single PC). This is the best key recovery attack announced 
+so far for MD6. We then introduce a new class of attacks called 
+cube testers, based on efficient property-testing algorithms, and apply 
+them to MD6 and to the stream cipher Trivium. Unlike the standard 
+cube attacks, cube testers detect nonrandom behavior rather than performing 
+key extraction, but they can also attack cryptographic schemes 
+described by nonrandom polynomials of relatively high degree. Applied 
+to MD6, cube testers detect nonrandomness over 18 rounds in 2\^17 complexity; 
+applied to a slightly modified version of the MD6 compression 
+function, they can distinguish 66 rounds from random in 2\^24 complexity. 
+Cube testers give distinguishers on Trivium reduced to 790 rounds from 
+random with 2^30 complexity and detect nonrandomness over 885 rounds 
+in 2\^27, improving on the original 767-round cube attack.

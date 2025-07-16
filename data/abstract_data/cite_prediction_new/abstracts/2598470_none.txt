@@ -1,0 +1,2 @@
+Fault Diagnosis of Discrete Event Systems Using Petri Nets
+This talk focuses on on-line fault diagnosis of discrete event systems based on Petri nets. In particular a diagnosis approach based on the notion of basis markings and justifications is discussed. This concept allows us to represent the reachability space in a compact manner, i.e., it requires to enumerate only a subset of the reachability space. Arbitrary labeled Petri nets are considered as the reference model. Some results on diagnosability analysis are finally recalled.

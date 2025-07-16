@@ -1,0 +1,2 @@
+Independent Sets in Random Graphs from the Weighted Second Moment Method
+We prove new lower bounds on the likely size of a maximum independent set in a random graph with a given average degree. Our method is a weighted version of the second moment method, where we give each independent set a weight based on the total degree of its vertices.

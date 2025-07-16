@@ -1,0 +1,2 @@
+Analysis and Application of Memory Error Detection and Kernel Core Dumps Based on VxWorks
+Analyzes the function principle of memory error detection and kernel core dumps based VxWorks 6.8 and summarizes the application method of these two functions. Practical application shows that in the process of VxWorks application development and debugging, the use of these two features is quick and easy enough for analysing, positioning, and finding bugs in the program.

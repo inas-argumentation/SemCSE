@@ -1,0 +1,2 @@
+Type Classes in Haskell
+This paper defines a set of type inference rules for resolving over-loading introduced by type classes. Programs including type classes are transformed into ones which may be typed by the Hindley-Milner inference rules. In contrast to other work on type classes, the rules presented here relate directly to user programs. An innovative aspect of this work is the use of second-order lambda calculus to record type information in the program.

@@ -1,0 +1,2 @@
+ALGORITHM FOR COMPUTING VOLUME OF OVERLAPPING SPHERES
+An exact analytical method for the calculation of volume of overlapping spheres is presented. In the considered procedure volume of overlapping spheres is expressed as surface integrals over closed regions. Using a natural continuous correspondence between the points of the sphere surface and the points of the plane the surface integrals are computed by the next transformation onto double integrals which are reduced onto curve integrals.

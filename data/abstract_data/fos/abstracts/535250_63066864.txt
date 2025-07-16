@@ -1,0 +1,2 @@
+Embedded Warehouse Intelligent Monitoring Alarm System
+In order to meet the needs of real-time urban rail train operations management,design an ARM9 processor-based embedded vehicle wireless video monitoring terminal.Using this terminal,you can log on to the WIFI network nearby under linux environment.Pass through the bridge connection to the monitor screen back to the dispatch center to ensure scheduling staff could grasp the situation in real-time.The experimental results show that the terminal is running normal and stable,real-time,good reliability.

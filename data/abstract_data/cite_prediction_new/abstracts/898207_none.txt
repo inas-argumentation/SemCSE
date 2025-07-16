@@ -1,0 +1,2 @@
+Domain-independent genotype to phenotype mapping through XML rules
+This paper discusses an innovative approach to mapping Genotypes to Phenotypes through XML rules. Specifically, it concentrates on the mapping process using two very different domains – Regular Expressions (REs) and Software Program Statements. The paper shows that our Genotype-Phenotype system can be applied to any domain that requires the use of REs and it can be adapted to work for any other domain with minimum effort.

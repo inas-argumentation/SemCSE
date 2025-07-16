@@ -1,0 +1,2 @@
+Estimation of the use of voip server resources by neural networks
+No researches on VoIP servers have highlighted their analytical models to study their behavior depending on the number of users. This is complex because the scheduling algorithms to solve it have limitations. The aim of our paper is to present a VoIP server modeling by neural network, having as input the number of calls and output as the use of hardware resources of the server. A generalization of this model is given at the end of our research.

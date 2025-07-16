@@ -1,0 +1,17 @@
+SIMULATING TILLAGE EFFECTS ON NONPOINT SOURCE POLLUTION FROM AGRICULTURAL LANDS USING GLEAMS
+A GLEAMS (ver. 2.10) model was calibrated and validated using three years (1990–1992) of field–measured data 
+to simulate tillage effects on nitrate–nitrogen (NO3–N) and herbicide losses with subsurface drain “tile” water beneath a 
+continuous corn production system. The model was calibrated for chisel plow systems using 1991 field data and was validated 
+against field data of two years (1990 and 1992) for chisel plow and three years (1990–1992) for moldboard plow (MB), ridge 
+till (RT), and no–till (NT) systems. The model simulations were made with a single run using data on measured tile flows; 
+nitrate–nitrogen (NO3–N), atrazine, and alachlor losses with tile flows; N–uptake; and other biomass parameters for the 
+period 1 January 1990 through 31 December 1992 for CP, MB, RT, and NT systems. All four tillage treatments, each replicated 
+three times, were applied in a randomized complete block design at Iowa State University’s Northeastern Research Center, 
+Nashua, Iowa, to collect field data. A specific calibration procedure for the nutrient component of the GLEAMS model was 
+developed adjusting the N–uptake coefficient and using steady–state N–pool values obtained after multiple years of the model 
+runs. The results of this study indicated that model simulations on subsurface drain water quality and plant parameters were 
+adequate for chisel plow systems and the percent difference, on the average, was <10% between predicted and measured data 
+with R 2 = 0.99. The change in tillage management option for MB, RT, and NT systems slightly affected the model predictions 
+on subsurface drain water quality, probably due to the lack of a macropore option in the model and perhaps also due to no 
+fall plowing in 1991 because of wet weather. However, calibration of the nutrient submodel using steady–state N–pool values 
+was successful and may be tested to simulate the long–term effects of different cropping systems on soil and water quality.

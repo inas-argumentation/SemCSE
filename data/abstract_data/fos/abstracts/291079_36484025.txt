@@ -1,0 +1,2 @@
+Observation noise and zero loci of the time series model
+The properties of zeros of time series models are examined in a linear stochastic system with white Gaussian observation noise. Each zero has a locus in the complex plane as the variance of observation noise changes from zero to infinity. An application of zero loci is presented for understanding the properties of the autoregressive model. >

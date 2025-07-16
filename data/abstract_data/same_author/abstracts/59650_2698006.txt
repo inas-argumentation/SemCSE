@@ -1,0 +1,2 @@
+Designing Information Appliances Using a Resource Replication Model
+We discuss the design of new network applications that collect and manage data and interface with users through portable devices. These applications maintain data pipelines that interact with network information servers and distill information into reduced data models that may be queried and replicated effectively through wireless networks to computing devices of very small size. We present initial design considerations for applications of this class.

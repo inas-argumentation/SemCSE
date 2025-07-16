@@ -1,0 +1,2 @@
+Sleep Transistor Design and Implementation - Simple Concepts Yet Challenges To Be Optimum
+Optimum sleep transistor design and implementation are critical to a successful power-gating design. This paper describes a number of critical considerations for the sleep transistor design and implementation including header or footer switch selection, sleep transistor distribution choices and sleep transistor gate length, width and body bias optimization for area, leakage and efficiency

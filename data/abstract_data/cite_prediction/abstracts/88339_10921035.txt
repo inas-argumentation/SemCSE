@@ -1,0 +1,2 @@
+Autoencoders, Unsupervised Learning, and Deep Architectures
+To better understand deep architectures and unsupervised learning, uncluttered by hardware details, we develop a general autoencoder framework for the comparative study of autoencoders, including Boolean autoencoders. We derive several results regarding autoencoders and autoencoder learning, including results on learning complexity, vertical and horizontal composition, and fundamental connections between critical points and clustering. Possible implications for the theory of deep architectures are discussed.

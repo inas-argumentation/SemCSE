@@ -1,0 +1,2 @@
+Lattice results for magnetic moment and quark total angular momentum of the nucleon
+We calculate magnetic moment and quark total angular momentum of the proton and neutron. All calculations are performed in quenched QCD formulation using Wilson fermion approach for 100 configurations. Lattice 16 3 × 32 was used for β = 6.0. Three values of quark mass were taken: 210, 124 and 80MeV. Value of the quark total angular momentum is consistent with the previous calculations. Contribution of the disconnected diagrams was studied for quark mass 210MeV using expansion technique.

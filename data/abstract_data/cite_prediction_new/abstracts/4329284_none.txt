@@ -1,0 +1,2 @@
+Design and implementation of an integrated boost-flyback converter
+This paper presents design and implementation of a Integrated boost-flyback converter (IBFC). Operation of the IBFC is described and its key voltage and current equations are given. The practical design of a 96W, 12V-to-48V, IBFC is demonstrated. Experiment on the prototype IBFC shows that it operates with good output voltage regulation and achieves the highest efficiency of 87%.

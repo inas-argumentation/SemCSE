@@ -1,0 +1,2 @@
+Evaluation of covariate effects on pharmacokinetics of monoclonal antibodies in oncology
+The development of monoclonal antibodies (mAbs) requires an understanding of the interindividual variability (IIV) in pharmacokinetics (PK) at the population level facilitated by population PK (PopPK) modelling. However, there is no clear rationale for selecting which covariates to screen during PopPK model development. Here, we compare the effect of covariates on PK parameters for mAbs in oncology and identify the most commonly used covariates affecting PK parameters.

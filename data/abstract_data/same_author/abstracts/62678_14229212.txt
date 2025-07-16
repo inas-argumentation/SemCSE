@@ -1,0 +1,2 @@
+Transforming SDL diagrams into a complete visual representation
+We investigate a translation of SDL diagrams into the complete visual representation of Pictorial Janus (PJ) programs in order to analyze the specification by visual debugging and animation. We additionally introduce timing concepts to PJ (Timed PJ) for a mapping of the SDL timing statements. The concepts transforming SDL interaction and process diagrams into Timed PJ are outlined by an example sketching the transformation of an Ethernet CSMA/CD protocol specification.

@@ -1,0 +1,11 @@
+A one-dimensional model of dynamics for a class of third-order systems
+For a class of third-order non-linear systems whose dynamics is governed by a differential equation of the form 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+we propose a one-dimensional model reflecting the dynamic properties of the original system. Construction of this model map has been based on analysis of the trajectory behaviour in the original third-order system. Properties of the model map have been investigated. Experiments have proved that the proposed one-dimensional map, termed a deformed spiral map, reproduces the qualitative behaviour (e.g. bifurcation sequences) of the original system with very good accuracy.

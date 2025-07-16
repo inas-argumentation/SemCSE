@@ -1,0 +1,2 @@
+Precise evaluations for lifetime variances of reliability systems with exchangeable components
+We consider the coherent and mixed systems with exchangeable components whose lifetimes have positive and finite variances. We present sharp lower and upper bounds on the variance of the system lifetime, expressed in terms of the system signature and the variance of single component. The bounds are attained by the power and Pareto distributions of the component lifetimes.

@@ -1,0 +1,2 @@
+Equations Between Regular Terms and an Application to Process Logic
+Regular terms with the Kleene operations $ \cup $, ; and $ * $ can be thought of as operators on languages, generating other languages. An equation $\tau _1 = \tau _2 $ between two such terms is said to be satisfiable just in case languages exist which make this equation true. We show that the satisfiability problem even for $ * $-free regular terms is undecidable. Similar techniques are used to show that a very natural extension of the Process Logic of Harel, Kozen and Parikh is undecidable.

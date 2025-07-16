@@ -1,0 +1,2 @@
+EFFICIENT NUMERICAL ALGORITHMS FOR THREE-DIMENSIONAL FRACTIONAL PARTIAL DIFFERENTIAL EQUATIONS
+这份报纸详细地为高效地解决三维的部分部分微分方程讨论局部地一个维的数字方法，包括部分移流散开方程和 Riesz 部分散开方程。第二命令有限差别计划习惯于 discretize 空间部分衍生物和 Crank-Nicolson 过程到时间衍生物。我们理论上证明并且数字地证实介绍数字方法是无条件地稳定的并且第二订在空间和时间方向会聚。为 Riesz 部分散开方程，特别地，减少切开的错误的想法为改进计划被用来进一步改进算法，并且无条件的稳定性和集聚严格地也被证明并且数字地验证了。[从作者抽象]

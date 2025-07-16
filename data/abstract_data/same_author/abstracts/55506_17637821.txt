@@ -1,0 +1,2 @@
+IPC Considered Harmful for Multiprocessor Workloads
+Many architectural simulation studies use instructions per cycle (IPC) to analyze performance. In this article, we challenge the commonly held view that IPC accurately reflects performance - at least for multithreaded workloads running on multiprocessors. Work-related metrics, such as time per transaction, are the most accurate and reliable way to estimate multiprocessor workload performance

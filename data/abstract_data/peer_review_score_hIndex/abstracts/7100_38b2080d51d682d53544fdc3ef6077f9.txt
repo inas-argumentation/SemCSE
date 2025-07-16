@@ -1,0 +1,7 @@
+Computing Preimages of Deep Neural Networks with Applications to Safety
+To apply an algorithm in a sensitive domain it is important to understand the set of input values that result in specific decisions. Deep neural networks suffer from an inherent instability that makes this difficult: different outputs can arise from very similar inputs. 
+
+We present a method to check that the decisions of a deep neural network are as intended by constructing the exact, analytical preimage of its predictions. Preimages generalize verification in the sense that they can be used to verify a wide class of properties, and answer much richer questions besides. We examine the functioning and failures of neural networks used in robotics, including an aircraft collision avoidance system, related to sequential decision making and extrapolation.
+
+Our method iterates backwards through the layers of piecewise linear deep neural networks. Uniquely, we compute \emph{all} intermediate values that correspond to a prediction, propagating this calculation through layers using analytical formulae for layer preimages. 
+

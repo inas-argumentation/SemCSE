@@ -1,0 +1,7 @@
+A simple implementation of a normal mixture approach to differential gene expression in multiclass microarrays
+MOTIVATION
+An important problem in microarray experiments is the detection of genes that are differentially expressed in a given number of classes. We provide a straightforward and easily implemented method for estimating the posterior probability that an individual gene is null. The problem can be expressed in a two-component mixture framework, using an empirical Bayes approach. Current methods of implementing this approach either have some limitations due to the minimal assumptions made or with more specific assumptions are computationally intensive.
+
+
+RESULTS
+By converting to a z-score the value of the test statistic used to test the significance of each gene, we propose a simple two-component normal mixture that models adequately the distribution of this score. The usefulness of our approach is demonstrated on three real datasets.

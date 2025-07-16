@@ -1,0 +1,2 @@
+Group-Based Secure Computation: Optimizing Rounds, Communication, and Computation
+A recent work of Boyle et al. (Crypto 2016) suggests that “group-based” cryptographic protocols, namely ones that only rely on a cryptographically hard (Abelian) group, can be surprisingly powerful. In particular, they present succinct two-party protocols for securely computing branching programs and \({\mathsf{NC}^1}\) circuits under the DDH assumption, providing the first alternative to fully homomorphic encryption.

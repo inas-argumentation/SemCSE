@@ -1,0 +1,2 @@
+An Attribute Reduction Algorithm Based on the Knowledge Quantity
+Attribute reduction is an important problem in rough set theory.Based on the viewpoint that attributes have different discerniblity ability in rough set theory, a new attribute reduction algorithm is presented and it quantify knowledge and prove quantify reasonableness,quantified discerniblity ability as heuristic information guiding reduct computation that can improve reduct efficiency.Though running an example,we show that this algorithm is effective.

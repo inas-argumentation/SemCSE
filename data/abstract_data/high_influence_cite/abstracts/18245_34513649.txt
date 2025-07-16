@@ -1,0 +1,15 @@
+Development of a Web-based, self-reporting symptom diary for Crohn's Disease, and its correlation with the Crohn's Disease Activity Index☆
+Background and Aims
+Crohn's Disease Activity Index (CDAI) is complex, time-consuming, and impractical. The aim of this study was to investigate whether a newly developed, simple, web-based self-reporting Crohn's Disease symptom diary (CDSD) was as effective as CDAI in assessing disease severity.
+
+
+Methods
+CDSD consisted of 5 clinical parameters based on the Harvey-Bradshaw Index (HBI), which could easily be recorded online, by using CDSD website (www.cdsd.or.kr). Images were added to help patients better understand complications. All patients were asked to visit the website and record their symptoms 7 days before their next hospital appointment. CDAI scores were calculated at the subsequent hospital visit. The collected data were analyzed to determine if the CDAI scores correlated with those obtained from CDSD, and to define a cut-off value of CDSD that would be representative of disease remission.
+
+
+Results
+Analysis of 171 visits showed a positive correlation between scores from CDSD and CDAI (Spearman correlation coefficient r = 0.720, p < 0.001). Receiver Operating Characteristic curves showed CDSD score ≤5 points as corresponding with CDAI score ≤150 points (clinical remission). Using a cut-off value of 5 points by CDSD, the positive and negative predictive values for clinical remission were 91.7% and 88.5%, respectively.
+
+
+Conclusion
+This study demonstrates that CDSD correlated well with CDAI. CDSD score of 5 is the cut-off value for clinical remission (CDAI score ≤150). Use of CDSD might permit a simple, patient-friendly assessment of CD activity, which can provide useful early-phase information on patients with CD as part of their long-term clinical assessment.

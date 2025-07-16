@@ -1,0 +1,15 @@
+Development of a Risk Prediction Model to Estimate the Probability of Malignancy in Pulmonary Nodules Being Considered for Biopsy.
+BACKGROUND
+Malignancy probability models for pulmonary nodules (PN) are most accurate when used within populations similar to those in which they were developed. Our goal was to develop a malignancy probability model that estimates the probability of malignancy for PNs considered high enough risk to recommend biopsy.
+
+
+METHODS
+This retrospective analysis included training and validation datasets of patients with PNs who had a histopathologic diagnosis of malignant or benign. Radiographic and clinical characteristics associated with lung cancer were collected. Univariate logistic regression was used to identify potential predictors. Stepdown selection and multivariate logistic regression were used to build several models, each differing according to available data.
+
+
+RESULTS
+Two hundred malignant nodules and 101 benign nodules were used to generate and internally validate eight models. Predictors of lung cancer used in the final models included age, smoking history, upper lobe location, solid and irregular/spiculated nodule edges, emphysema, fluorodeoxyglucose-PET avidity, and history of cancer other than lung. The concordance index (C-index) of the models ranged from 0.75 to 0.81. They were more accurate than the Mayo Clinic model (P < .05 for four of the models), and each had fair to excellent calibration. In an independent sample used for validation, the C-index for our model was 0.67 compared with 0.63 for the Mayo Clinic model. The ratio of malignant to benign nodules within each probability decile showed a greater potential to influence clinical decisions than the Mayo Clinic model.
+
+
+CONCLUSIONS
+We developed eight models to help characterize PNs considered high enough risk by a clinician to recommend biopsy. These models may help to guide clinicians' decision-making and be used as a resource for patient communication.

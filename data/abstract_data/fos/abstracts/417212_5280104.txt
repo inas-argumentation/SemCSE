@@ -1,0 +1,2 @@
+Simulation of light scattering from a particle upon a wafer surface.
+We simulated light scattering from a particle located on a smooth surface. We developed a new approach utilizing the discrete sources method based on a strict mathematical model for this scattering problem. The main features of the corresponding numerical algorithm are presented. The results of modeling and comparisons with other theoretical results and experimental data are shown as well.

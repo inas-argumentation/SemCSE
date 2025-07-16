@@ -1,0 +1,2 @@
+Optimization of modified volume Fresnel zone plates.
+Modified volume Fresnel zone plates (MVFZPs) fabricated with laser direct writing were optimized for higher diffraction efficiencies. The Fresnel radii in each layer of a volume zone plate were iteratively adjusted by a simulation-based direct search optimization. The results show that optimization is effective but depends strongly on the starting diffraction efficiencies determined by the MVFZP parameters. The simulations indicate that the optimized MVFZP can achieve 93% diffraction efficiency.

@@ -1,0 +1,19 @@
+Predicting complications of diabetes mellitus using advanced machine learning algorithms
+OBJECTIVE
+We sought to predict if patients with type 2 diabetes mellitus (DM2) would develop 10 selected complications. Accurate prediction of complications could help with more targeted measures that would prevent or slow down their development.
+
+
+MATERIALS AND METHODS
+Experiments were conducted on the Healthcare Cost and Utilization Project State Inpatient Databases of California for the period of 2003 to 2011. Recurrent neural network (RNN) long short-term memory (LSTM) and RNN gated recurrent unit (GRU) deep learning methods were designed and compared with random forest and multilayer perceptron traditional models. Prediction accuracy of selected complications were compared on 3 settings corresponding to minimum number of hospitalizations between diabetes diagnosis and the diagnosis of complications.
+
+
+RESULTS
+The diagnosis domain was used for experiments. The best results were achieved with RNN GRU model, followed by RNN LSTM model. The prediction accuracy achieved with RNN GRU model was between 73% (myocardial infarction) and 83% (chronic ischemic heart disease), while accuracy of traditional models was between 66% - 76%.
+
+
+DISCUSSION
+The number of hospitalizations was an important factor for the prediction accuracy. Experiments with 4 hospitalizations achieved significantly better accuracy than with 2 hospitalizations. To achieve improved accuracy deep learning models required training on at least 1000 patients and accuracy significantly dropped if training datasets contained 500 patients. The prediction accuracy of complications decreases over time period. Considering individual complications, the best accuracy was achieved on depressive disorder and chronic ischemic heart disease.
+
+
+CONCLUSIONS
+The RNN GRU model was the best choice for electronic medical record type of data, based on the achieved results.

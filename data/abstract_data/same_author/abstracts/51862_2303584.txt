@@ -1,0 +1,2 @@
+Constructing high assurance asynchronous real-time distributed systems: a proof-based system engineering approach
+Asynchronous real-time distributed systems raise fundamental issues of how to build timely systems that operate in the presence of uncertain timeliness, and furthermore, how to certify that such systems will deliver properties including timeliness and safety. In this paper, we discuss an approach for constructing certifiable asynchronous real-time distributed systems.

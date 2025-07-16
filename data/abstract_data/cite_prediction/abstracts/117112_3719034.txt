@@ -1,0 +1,19 @@
+Automating Construction of Machine Learning Models With Clinical Big Data: Proposal Rationale and Methods
+BACKGROUND
+To improve health outcomes and cut health care costs, we often need to conduct prediction/classification using large clinical datasets (aka, clinical big data), for example, to identify high-risk patients for preventive interventions. Machine learning has been proposed as a key technology for doing this. Machine learning has won most data science competitions and could support many clinical activities, yet only 15% of hospitals use it for even limited purposes. Despite familiarity with data, health care researchers often lack machine learning expertise to directly use clinical big data, creating a hurdle in realizing value from their data. Health care researchers can work with data scientists with deep machine learning knowledge, but it takes time and effort for both parties to communicate effectively. Facing a shortage in the United States of data scientists and hiring competition from companies with deep pockets, health care systems have difficulty recruiting data scientists. Building and generalizing a machine learning model often requires hundreds to thousands of manual iterations by data scientists to select the following: (1) hyper-parameter values and complex algorithms that greatly affect model accuracy and (2) operators and periods for temporally aggregating clinical attributes (eg, whether a patient's weight kept rising in the past year). This process becomes infeasible with limited budgets.
+
+
+OBJECTIVE
+This study's goal is to enable health care researchers to directly use clinical big data, make machine learning feasible with limited budgets and data scientist resources, and realize value from data.
+
+
+METHODS
+This study will allow us to achieve the following: (1) finish developing the new software, Automated Machine Learning (Auto-ML), to automate model selection for machine learning with clinical big data and validate Auto-ML on seven benchmark modeling problems of clinical importance; (2) apply Auto-ML and novel methodology to two new modeling problems crucial for care management allocation and pilot one model with care managers; and (3) perform simulations to estimate the impact of adopting Auto-ML on US patient outcomes.
+
+
+RESULTS
+We are currently writing Auto-ML's design document. We intend to finish our study by around the year 2022.
+
+
+CONCLUSIONS
+Auto-ML will generalize to various clinical prediction/classification problems. With minimal help from data scientists, health care researchers can use Auto-ML to quickly build high-quality models. This will boost wider use of machine learning in health care and improve patient outcomes.

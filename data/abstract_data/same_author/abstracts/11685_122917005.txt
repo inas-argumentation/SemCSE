@@ -1,0 +1,2 @@
+Arnold diffusion in a four-dimensional standard map
+We have studied Arnold diffusion in a four-dimensional symplectic map which is a coupled version of two standard maps. Using the stochastic pump model, we have computed the diffusion rate as a function of the coupling constant, the nonlinearity parameter, and the number of iterations. Theoretical prediction agrees well with numerical result; however, for large parameter values, deviation begins to emerge.

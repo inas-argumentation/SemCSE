@@ -1,0 +1,2 @@
+Quasiconformal maps with controlled Laplacian
+We establish that every K-quasiconformal mapping w of the unit disk $$\mathbb{D}$$D onto a C2-Jordan domain Ω is Lipschitz provided that Δw ∈ Lp($$\mathbb{D}$$D) for some p > 2. We also prove that if in this situation K → 1 with ||Δw||Lp($$\mathbb{D}$$D) → 0, and Ω→$$\mathbb{D}$$D in C1,α-sense with α > 1/2, then the bound for the Lipschitz constant tends to 1. In addition, we provide a quasiconformal analogue of the Smirnov theorem on absolute continuity over the boundary.

@@ -1,0 +1,2 @@
+Multi-hop Byzantine Reliable Broadcast Made Practical
+We revisit Byzantine-tolerant reliable broadcast algorithms in multi-hop networks. To tolerate up to f Byzantine nodes, previous solutions require an exponential number of messages to be sent over the network. We propose optimizations that preserve the safety and liveness properties of the original algorithms, while highly decreasing their observed message complexity when simulated on two families of random graphs.

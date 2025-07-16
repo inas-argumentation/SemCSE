@@ -1,0 +1,2 @@
+A Fair Scheduling Discipline for Ethernet Passive Optical Networks
+We propose a novel policy called proportional sharing with load reservation (PSLR) for scheduling upstream flows in Ethernet passive optical networks. This policy provides bandwidth guarantees on a per flow basis and redistributes the unused bandwidth among active flows in proportion to their priority level.

@@ -1,0 +1,2 @@
+Automatic tuning of simple regulators with specifications on phase and amplitude margins
+The paper describes procedures for automatic tuning of regulators of the PID type to specifications on phase and amplitude margins. The key idea is a simple method for estimating the critical gain and the critical frequency. The procedure will automatically generate the appropriate test signal. The method is not sensitive to modelling errors and disturbances. It may be used for automatic tuning of simple regulators as well as initialization of more complicated adaptive regulators.

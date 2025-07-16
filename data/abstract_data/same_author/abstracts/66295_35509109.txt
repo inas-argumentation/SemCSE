@@ -1,0 +1,2 @@
+A concavity property for the measure of product sets in groups
+Let G be a connected locally compact group with a left invariant Haar measure μ. We prove that the function ξ(x) = inf{μ(AB) : μ(A) = x} is concave for any fixed bounded set B ⊂ G. This is used to give a new proof of Kemperman’s inequality μ(AB) ≥ min(μ(A) + μ(B), μ(G)) for unimodular G.

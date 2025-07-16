@@ -1,0 +1,2 @@
+Stellar noise and planet detection. II. Radial-velocity noise induced by magnetic cycles
+For the 451 stars of the HARPS high precision program, we study correlations between the radial-velocity (RV) variation and other parameters of the Cross Correlated Function (CCF). After a careful target selection, we found a very good correlation between the slope of the RV-activity index (log(R'HK) correlation and the Teff for dwarf stars. This correlation allow us to correct RV from magnetic cycles given the activity index and the Teff.

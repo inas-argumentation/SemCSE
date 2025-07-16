@@ -1,0 +1,2 @@
+A VLSI peripheral system for monitoring and stimulating action potentials of cultured neurons
+The authors describe a VLSI peripheral system designed for the analog recording of electric signals from a network of living neurons growing on a glass plate containing 64 microelectrodes. The chip also provides for stimulating the neurons with up to four externally generated signals that can be routed to any of the microelectrodes.<<ETX>>

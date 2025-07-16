@@ -1,0 +1,2 @@
+Missing observations and panel data: A Monte-Carlo analysis
+By means of Monte-Carlo experiments the loss of efficiency of the main error components’ models estimators is analysed if from a panel data base those individuals are dropped for which the observations are complete. An empirical risk function has been estimated. This can help to measure the risk of the use of complete sub-panels instead of the original but incomplete ones.

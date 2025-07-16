@@ -1,0 +1,2 @@
+Multiplicity one theorems for Fourier-Jacobi models
+For every genuine irreducible admissible smooth representation $\pi$ of the metaplectic group $\widetilde{{\rm Sp}}(2n)$ over a $p$-adic field, and every smooth oscillator representation $\omega_\psi$ of $\widetilde{{\rm Sp}}(2n)$, we prove that the tensor product $\pi\otimes\omega_\psi$ is multiplicity free as a smooth representation of the symplectic group ${\rm Sp}(2n)$. Similar results are proved for general linear groups and unitary groups.

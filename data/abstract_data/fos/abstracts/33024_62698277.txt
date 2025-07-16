@@ -1,0 +1,2 @@
+A Home Health Care System for Family Doctor
+We propose a constitution technique of small-scale Home Health Care system for family doctor that has been developed by applying various API of JAVA. One function is vital data transmission which allows a family doctor to check the data of elderly persons with ease via Internet. Vital data is encrypted and transmitted for the purpose of security. The other function is telecommunication with voice and face image for care consulting.

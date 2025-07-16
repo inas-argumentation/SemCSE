@@ -1,0 +1,15 @@
+Deep sequencing of small RNA transcriptome reveals novel non-coding RNAs in hepatocellular carcinoma.
+BACKGROUND & AIMS
+Small non-coding RNAs (ncRNA) are increasingly recognized to play important roles in tumorigenesis. With the advent of deep sequencing, efforts have been put forth to profile the miRNome in a number of human malignancies. However, information on ncRNA in hepatocellular carcinoma (HCC), especially the non-microRNA transcripts, is still lacking.
+
+
+METHODS
+Small RNA transcriptomes of two HCC cell lines (HKCI-4 and HKCI-8) and an immortalized hepatocyte line (MIHA) were examined using Illumina massively parallel sequencing. Dysregulated ncRNAs were verified in paired HCC tumors and non-tumoral livers (n=73) by quantitative reverse transcription-polymerase chain reaction. Clinicopathologic correlations and in vitro functional investigations were further carried out.
+
+
+RESULTS
+The combined bioinformatic and biological analyses showed the presence of ncRNAs and the involvement of a new PIWI-interacting RNA (piRNA), piR-Hep1, in liver tumorigenesis. piR-Hep1 was found to be upregulated in 46.6% of HCC tumors compared to the corresponding adjacent non-tumoral liver. Silencing of piR-Hep1 inhibited cell viability, motility, and invasiveness, with a concomitant reduction in the level of active AKT phosphorylation. In the analysis of miRNA, we showed for the first time, the abundant expression of miR-1323 in HCC and its distinct association in tumors arising from a cirrhotic background. Furthermore, miR-1323 overexpression in cirrhotic HCC correlated with poorer disease-free and overall survivals of patients (p<0.009).
+
+
+CONCLUSIONS
+Our study demonstrated the value of next-generation sequencing in dissecting the ncRNome in cancer. The comprehensive definition of transcriptome unveils virtually all types of ncRNAs and provides new insight into liver carcinogenetic events.

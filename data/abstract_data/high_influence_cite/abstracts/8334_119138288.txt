@@ -1,0 +1,2 @@
+Cluster automorphism groups and automorphism groups of exchange graphs
+For a coefficient free cluster algebra $\mathcal{A}$, we study the cluster automorphism group $Aut(\mathcal{A})$ and the automorphism group $Aut(E_{\mathcal{A}})$ of its exchange graph $E_{\mathcal{A}}$. We show that these two groups are isomorphic with each other, if $\mathcal{A}$ is of finite type excepting types of rank two and type $F_4$, or if $\mathcal{A}$ is of skew-symmetric finite mutation type.

@@ -1,0 +1,2 @@
+An optimal algorithm for the boundary of a cell in a union of rays
+In this paper we study a cell of the subdivision induced by a union ofn half-lines (or rays) in the plane. We present two results. The first one is a novel proof of theO(n) bound on the number of edges of the boundary of such a cell, which is essentially of methodological interest. The second is an algorithm for constructing the boundary of any cell, which runs in optimal Θ(n logn) time. A by-product of our results are the notions of skeleton and of skeletal order, which may be of interest in their own right.

@@ -1,0 +1,15 @@
+Detecting awareness in patients with disorders of consciousness using a hybrid brain-computer interface.
+OBJECTIVE
+The bedside detection of potential awareness in patients with disorders of consciousness (DOC) currently relies only on behavioral observations and tests; however, the misdiagnosis rates in this patient group are historically relatively high. In this study, we proposed a visual hybrid brain-computer interface (BCI) combining P300 and steady-state evoked potential (SSVEP) responses to detect awareness in severely brain injured patients.
+
+
+APPROACH
+Four healthy subjects, seven DOC patients who were in a vegetative state (VS, n = 4) or minimally conscious state (MCS, n = 3), and one locked-in syndrome (LIS) patient attempted a command-following experiment. In each experimental trial, two photos were presented to each patient; one was the patient's own photo, and the other photo was unfamiliar. The patients were instructed to focus on their own or the unfamiliar photos. The BCI system determined which photo the patient focused on with both P300 and SSVEP detections.
+
+
+MAIN RESULTS
+Four healthy subjects, one of the 4 VS, one of the 3 MCS, and the LIS patient were able to selectively attend to their own or the unfamiliar photos (classification accuracy, 66-100%). Two additional patients (one VS and one MCS) failed to attend the unfamiliar photo (50-52%) but achieved significant accuracies for their own photo (64-68%). All other patients failed to show any significant response to commands (46-55%).
+
+
+SIGNIFICANCE
+Through the hybrid BCI system, command following was detected in four healthy subjects, two of 7 DOC patients, and one LIS patient. We suggest that the hybrid BCI system could be used as a supportive bedside tool to detect awareness in patients with DOC.

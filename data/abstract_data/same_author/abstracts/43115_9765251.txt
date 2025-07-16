@@ -1,0 +1,9 @@
+Minimum k Arborescences with
+Bandwidth Constraints
+Abstract
+Let $G =(V,A)$ be a digraph with source $r$. A weight function
+$w$ and bandwidth constraint function $b$ (positive integer) on
+$A$ are given. We present algorithms for
+finding $k$ $r$-arborescences in $G$
+with minimum total weight and with bandwidth constraints.
+

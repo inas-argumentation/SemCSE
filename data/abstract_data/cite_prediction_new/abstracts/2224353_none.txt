@@ -1,0 +1,2 @@
+On Quantitative Analysis of Probabilistic Protocols
+We advocate the use of approximate noninterference for the security analysis of probabilistic protocols. Our approach relies on a formalisation of the protocol in the setting of a probabilistic process algebra and a notion of process similarity based on weak probabilistic bisimulation. We illustrate this approach by presenting the analysis of a probabilistic nonrepudiation protocol which allows us to quantitatively estimate its fairness degree.

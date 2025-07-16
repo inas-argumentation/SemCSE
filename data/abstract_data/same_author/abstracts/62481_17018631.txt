@@ -1,0 +1,2 @@
+Distributed Transmission Power Control for Wireless Sensor Networks
+In wireless networks, transmission power control (TPC) can save energy and decrease transmission latency. Due to the characteristics of wireless sensor networks (WSNs), the TPC has to be distributed, which presents a significant design challenge. We propose a simple distributed approach to TPC in this paper, and evaluate its performance.

@@ -1,0 +1,2 @@
+X-band antenna design for Indonesian ground surveillance man pack radar
+In this paper, an X Band antenna for ground surveillance manpack radar was designed with 15 × 38 cm dimension using RT/Duroid 5880 substrate. The array consisted of 64 patches antenna with a carved slit to obtain a horizontal polarization. The gap between antenna feed were evaluated and the results are that that antenna gain and side lobe level will decrease as the gap became larger. This design has 200 MHz bandwidth with gain of 25.2 dB and side lobe level of −22.7 dB.

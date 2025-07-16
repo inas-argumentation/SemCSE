@@ -1,0 +1,2 @@
+Notice of RetractionAccurate Evaluation the Derivative of a Polynomial
+This paper presents an accurate compensated algorithm to evaluate the derivative of a polynomial with floating point coefficients. The algorithm is based on Horner method, utilizes error-free transformation technique to note rounding errors and compensates the straightforward evaluation in the end. Theoretical analysis and numerical experiments illustrate that our algorithm can provide last-bit accuracy.

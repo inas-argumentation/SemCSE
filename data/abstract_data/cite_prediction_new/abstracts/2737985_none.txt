@@ -1,0 +1,6 @@
+Optimal Multi-Level Lot Sizing for Requirements Planning Systems
+The wide spread use of advanced information systems such as Material Requirements Planning MRP has significantly altered the practice of dependent demand inventory management. Recent research has focused on development of multi-level lot sizing heuristics for such systems. In this paper, we develop an optimal procedure for the multi-period, multi-product, multi-level lot sizing problem by modeling the system as a constrained generalized network with fixed charge arcs and side constraints. The network permits us to relax some of the more restrictive assumptions of previous models such as those designed for product structures with single sources or successors. 
+ 
+The solution to the resulting minimum cost flow problem yields optimal lot sizing decisions for all purchases as well as manufactured goods and components in all periods over a finite planning horizon. A simple illustration, beginning with a master production schedule and bills of material, illustrates the suitablility of this approach for modeling complex requirements planning systems. 
+ 
+Optimal solutions obtained by this method may also be useful in comparing results obtained from future heuristic approaches which may be more computationally efficient.

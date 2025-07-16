@@ -1,0 +1,2 @@
+Towards Surface Realization with CCGs Induced from Dependencies
+We present a novel algorithm for inducing Combinatory Categorial Grammars from dependency treebanks, along with initial experiments showing that it can be used to achieve competitive realization results using an enhanced version of the surface realization shared task data.

@@ -1,0 +1,2 @@
+Multiplicativity of acyclic local tournaments
+A homomorphism of a digraph to another digraph is an edge-preserving vertex mapping. A digraphH is said to be multiplicative if the set of digraphs which do not admit a homomorphism toH is closed under categorical product. In this paper we discuss the multiplicativity of acyclic Hamiltonian digraphs, i.e., acyclic digraphs which contains a Hamiltonian path. As a consequence, we give a complete characterization of acyclic local tournaments with respect to multiplicativity.

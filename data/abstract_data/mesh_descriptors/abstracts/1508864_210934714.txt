@@ -1,0 +1,15 @@
+Evaluation of non-Gaussian model-based diffusion-weighted imaging in oral squamous cell carcinoma: comparison with tumour functional information derived from positron-emission tomography.
+AIM
+To evaluate and compare diffusion-weighted imaging (DWI) parameters derived from a non-Gaussian fitting model and positron-emission tomography (PET) parameters derived from 18F-fluoromisonidazole-PET (FMISO-PET) in patients with oral squamous cell carcinoma (OSCC).
+
+
+MATERIALS AND METHODS
+Primary sites were evaluated prospectively in 18 patients. DWI was performed using six b-values (0-2,500). Diffusion-related parameters of kurtosis value (K), the kurtosis-corrected diffusion coefficient (DK), diffusion heterogeneity (α), distributed diffusion coefficient (DDC), the slow diffusion coefficient (Dslow), and the apparent diffusion coefficient (ADC) were calculated from four diffusion-fitting models. Maximal standardised uptake values (SUVmax), mean standardised uptake values (SUVmean), and the tumour-to-muscle ration (TMR) of the SUV value were calculated for FMISO-PET. Spearman's correlation coefficient was used to evaluate the correlation between each non-Gaussian diffusion model parameters and PET parameter.
+
+
+RESULTS
+There was moderate correlation between FMISO-PET SUVmax and Dslow (ρ=-0.45, p=0.06). In addition, there was good correlation between TMRmax and five non-Gaussian diffusion model parameters (K: ρ=0.65, p=0.004, DK: ρ=-0.72, p=0.0008, DDC: ρ=-0.75, p=0.0003, ADC: ρ=-0.74, p=0.0005, and Dslow: ρ= -0.65, p=0.003), and between TMRmean and five non-Gaussian model parameters (K: ρ=0.64, p=0.005, DK: ρ=-0.61, p=0.007, DDC: ρ=-0.63, p=0.005, ADC: ρ=-0.61, p=0.007, and Dslow: ρ=-0.56, p=0.015).
+
+
+CONCLUSION
+Non-Gaussian diffusion model parameters can be related to tumour hypoxia.

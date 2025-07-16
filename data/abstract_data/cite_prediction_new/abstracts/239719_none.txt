@@ -1,0 +1,2 @@
+Ontology-based Reflective Iot Middleware-Enabled Agriculture Decision Support System
+Modern agricultural management relies strongly on many different sensing methodologies to provide accurate information on crop, climate, and environmental conditions. Strong challenges in Decision Support Systems still regard the way a smart IoT-based architecture is designed in order to make it robust with respect to the contextual changes it continually undergoes. In this paper we propose an extensible self-adaptive Decision Support System for managing heterogeneous data sources.

@@ -1,0 +1,2 @@
+A visual approach to XML document design and transformation
+This paper presents a visual approach to the representation and validation of multimedia document structures specified in XML and transformation of one structure to another. The underlying theory of our approach is a context-sensitive graph grammar formalism. The paper demonstrates the conciseness and expressiveness of the graph grammar formalism. An example XML structure is provided and its graph grammar representation, validation and transformation to a multimedia representation are presented.

@@ -1,0 +1,2 @@
+A reliability optimization computer algorithm for complex systems
+Abstract In this paper an algorithm for optimization in redundancy allocation, applicable regardless of system structure and nature and number of constraints, is presented. The algorithm initially uses a simple heuristic method to arrive at an approximate start solution and later provides an optimal allocation by using non-linear programming techniques (SUMT or SLUMT) and the improved algorithm of Lawler and Bell. The advantages of the algorithm proposed by us are highlighted.

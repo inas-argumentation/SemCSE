@@ -1,0 +1,2 @@
+Introduction to Arithmetic Coding-Theory and Practice
+entropy coding, compression, complexity This introduction to arithmetic coding is divided in two parts. The first explains how and why arithmetic coding works. We start presenting it in very general terms, so that its simplicity is not lost under layers of implementation details. Next, we show some of its basic properties, which are later used in the computational techniques required for a practical implementation.

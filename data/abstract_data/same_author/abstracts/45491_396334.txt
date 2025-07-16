@@ -1,0 +1,2 @@
+I/O-Efficient Structures for Orthogonal Range-Max and Stabbing-Max Queries
+We develop several linear or near-linear space and I/O-efficient dynamic data structures for orthogonal range-max queries and stabbing-max queries. Given a set of N weighted points in ℝ d , the range-max problem asks for the maximum-weight point in a query hyper-rectangle. In the dual stabbing-max problem, we are given N weighted hyper-rectangles, and we wish to find the maximum-weight rectangle containing a query point. Our structures improve on previous structures in several important ways.

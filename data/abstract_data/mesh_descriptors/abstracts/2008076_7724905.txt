@@ -1,0 +1,15 @@
+Progress toward ultrafast DNA sequencing using solid-state nanopores.
+BACKGROUND
+Measurements of the ionic current flowing through nanometer-scale pores (nanopores) have been used to analyze single DNA and RNA molecules, with the ultimate goal of achieving ultrafast DNA sequencing. However, attempts at purely electronic measurements have not achieved the signal contrast required for single nucleotide differentiation. In this report we propose a novel method of optical detection of DNA sequence translocating through a nanopore.
+
+
+METHODS
+Each base of the target DNA sequence is 1st mapped onto a 2-unit code, 2 10-bp nucleotide sequence, by biochemical conversion into Designed DNA Polymers. These 2-unit codes are then hybridized to complementary, fluorescently labeled, and self-quenching molecular beacons. As the molecular beacons are sequentially unzipped during translocation through a <2-nm-wide nanopore, their fluorescent tags are unquenched and are detected by a custom-built dual-color total internal reflection fluorescence (TIRF) microscope. The 2-color optical signal is then correlated to the target DNA sequence.
+
+
+RESULTS
+A dual-color TIRFM microscope with single-molecule resolution was constructed, and controlled fabrication of 1-dimensional and 2-dimensional arrays of solid-state nanopores was performed. A nanofluidic cell assembly was constructed for TIRF-based optical detection of voltage-driven DNA translocation through a nanopore.
+
+
+CONCLUSIONS
+We present a novel nanopore-based DNA sequencing technique that uses an optical readout of DNA translocating unzipping through a nanopore. Our technique offers better single nucleotide differentiation in sequence readout, as well as the possibility of large-scale parallelism using nanopore arrays.

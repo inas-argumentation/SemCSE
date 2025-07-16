@@ -1,0 +1,2 @@
+A note on a random walk model for texture analysis
+Wechsler and Citron recently published a random walk model with applications in texture analysis. It is shown in the current note that their chi-square test of homogeneity based on this model is misleading.

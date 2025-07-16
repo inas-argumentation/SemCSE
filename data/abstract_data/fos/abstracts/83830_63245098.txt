@@ -1,0 +1,2 @@
+Research on Paralled of the Related Characteristic Set Method Based on Distributed Maple System
+Characteristic set method is kernel of Wu's method,in order to improve the efficiency of Wu's method,analyses characteristic set method and polynomial factorization of Wu's method,uses coarse granularity parallel method,introduces a parallel method of characteristic set method and a parallel method of polynomial factorization based on distributed Maple,provides a method for studying of Wu's method parallel computing.

@@ -1,0 +1,2 @@
+Simulation of bacterial growth, cell division, and DNA synthesis.
+Abstract A computer program is described which simulates the growth and DNA replication processes in bacteria. The program is based on a particular model of DNA replication and its coordination with cell division ( 2, 5, 7 ). Results of our studies indicate that the model is consistent with a number of experimental results. We have also investigated some apparently inconsistent results and have shown how these too may be explained by the model when actual experimental conditions are simulated.

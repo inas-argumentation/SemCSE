@@ -1,0 +1,2 @@
+Strong monotonic and set-driven inductive inference
+Abstract. In an earlier paper, Kinber and Stephan posed an open problem about whether every class of languages, which can be identified strong monotonically, can also be identified by a set-driven machine. This question is solved in this paper. The answer to the question depends on whether the machines are required to be total or not! The solution of this result uncovers a finer gradation of the notion of setdrivenness.

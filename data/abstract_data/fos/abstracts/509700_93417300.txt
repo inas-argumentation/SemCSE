@@ -1,0 +1,2 @@
+Solutions to Fick's second law of diffusion with a sinusoidal excitation
+Fick's second law of diffusion was solved using the Laplace transformation for a homogeneous linear sample and a bisectional linear sample, for the boundary conditions of one end of the sample being impressed with a sinusoidal excitation of concentration or of mass flow, and the other end being a reflective or an infinitive boundary.

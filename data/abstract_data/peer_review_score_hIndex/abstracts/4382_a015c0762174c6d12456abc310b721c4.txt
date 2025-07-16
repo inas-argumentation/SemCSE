@@ -1,0 +1,20 @@
+Directing Generative Networks with Weighted Maximum Mean Discrepancy
+The maximum mean discrepancy (MMD) between two probability measures P
+and Q is a metric that is zero if and only if all moments of the two measures
+are equal, making it an appealing statistic for two-sample tests. Given i.i.d. samples
+from P and Q, Gretton et al. (2012) show that we can construct an unbiased
+estimator for the square of the MMD between the two distributions. If P is a
+distribution of interest and Q is the distribution implied by a generative neural
+network with stochastic inputs, we can use this estimator to train our neural network.
+However, in practice we do not always have i.i.d. samples from our target
+of interest. Data sets often exhibit biases—for example, under-representation of
+certain demographics—and if we ignore this fact our machine learning algorithms
+will propagate these biases. Alternatively, it may be useful to assume our data has
+been gathered via a biased sample selection mechanism in order to manipulate
+properties of the estimating distribution Q.
+In this paper, we construct an estimator for the MMD between P and Q when we
+only have access to P via some biased sample selection mechanism, and suggest
+methods for estimating this sample selection mechanism when it is not already
+known. We show that this estimator can be used to train generative neural networks
+on a biased data sample, to give a simulator that reverses the effect of that
+bias.

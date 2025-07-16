@@ -1,0 +1,2 @@
+Blockchain as a Service for IoT
+A blockchain is a distributed and decentralized ledger that contains connected blocks of transactions. Unlike other ledger approaches, blockchain guarantees tamper proof storage of approved transactions. Due to its distributed and decentralized organization, blockchain is beeing used within IoT e.g. to manage device configuration, store sensor data and enable micro-payments. This paper presents the idea of using blockchain as a service for IoT and evaluates the performance of a cloud and edge hosted blockchain implementation.

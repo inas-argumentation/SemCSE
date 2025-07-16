@@ -1,0 +1,2 @@
+A heuristic algorithm for two machine re entrant shop scheduling
+This paper considers the problem of sequencing n jobs in a two machine re entrant shopwith the objective of minimizing the maximum completion time. The shop consists of twomachines, M1 and M2 and each job has the processing route (M1 M2 M1 An O(n log n)time heuristic is presented which generates a schedule with length at most 4/3 times that ofan optimal schedule, thereby improving the best previously available worst case performanceratio of 3/2.

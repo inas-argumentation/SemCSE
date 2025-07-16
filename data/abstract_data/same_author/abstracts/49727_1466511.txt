@@ -1,0 +1,2 @@
+Activity Clustering for Leakage Management in SPMs
+This paper proposes compiler-based leakage optimization strategy for on-chip scratch-pad memories (SPMs). The idea is to keep only a small set of SPM regions active at a given time and pre-activate SPM regions based on the compiler-extracted data access pattern. Our strategy, called activity clustering, increases the length of the idle periods of SPM regions by clustering accesses to a small set of regions at a time. It thus allows an SPM to take better advantage of the underlying leakage optimization mechanism

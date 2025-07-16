@@ -1,0 +1,2 @@
+S-bases as a tool to solve reduction problems for Feynman integrals
+We suggest a mathematical definition of the notion of master integrals and present a brief review of algorithmic methods to solve reduction problems for Feynman integrals based on integration by parts relations. In particular, we discuss a recently suggested reduction algorithm which uses Grobner bases. New results obtained with its help for a family of three-loop Feynman integrals are outlined.

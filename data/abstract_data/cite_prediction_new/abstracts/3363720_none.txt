@@ -1,0 +1,10 @@
+Two-variable Logic with Counting and a Linear Order
+We study the finite satisfiability problem for the two-variable fragment of
+first-order logic extended with counting quantifiers (C2) and interpreted over
+linearly ordered structures. We show that the problem is undecidable in the
+case of two linear orders (in the presence of two other binary symbols). In the
+case of one linear order it is NEXPTIME-complete, even in the presence of the
+successor relation. Surprisingly, the complexity of the problem explodes when
+we add one binary symbol more: C2 with one linear order and in the presence of
+other binary predicate symbols is equivalent, under elementary reductions, to
+the emptiness problem for multicounter automata.

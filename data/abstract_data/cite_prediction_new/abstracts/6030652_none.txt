@@ -1,0 +1,15 @@
+Deep inspiration breath hold level variability and deformation in locoregional breast irradiation.
+PURPOSE
+The purpose of this study was to evaluate the dosimetric effect of breath hold level variability and deformation on breast, chest wall, internal mammary chain (IMC) nodes, and heart.
+
+
+METHODS AND MATERIALS
+Left-sided post-lumpectomy (n = 12) and postmastectomy (n = 3) patients underwent deep inspiration breath hold (DIBH) and exhale breath hold (EBH) computed tomography (CT) scans. Forward-planned locoregional breast plans were created on the DIBH scan. Two effects were modeled assuming no setup uncertainties: residual motion within the gating window and systematically shallow breath hold levels (BHLs). Real-time position management (RPM) was used to monitor BHL at simulation and during treatment. The RPM data were scaled to simulate BHL variation within symmetric gating window widths of ±1, 3, 5, and 7 mm; the dosimetric impact of this motion was simulated in the treatment planning system. Systematically "shallow" BHL errors were modeled using deformable image registration to map the patient trajectory from DIBH to EBH (n = 12). The deformable vector fields were scaled to produce synthetic CT scans modeling patient position during breath holds 1, 3, 5, and 7 mm shallower than simulator BHL. The original treatment plans were applied to the synthetic CTs and dose was recalculated.
+
+
+RESULTS
+Acceptable plan quality was maintained for most patients with motion within gating windows up to ±7 mm. Patients with shallow median BHLs experienced loss of coverage at simulated gating windows ±5 mm or larger. At systematic 3 mm shallow BHL error, 4/12 patients had clinical target volume IMC V80% < 99%; this increased to 11/12 patients at 5 mm. Change in heart dose from systematic BHL errors was negligible.
+
+
+CONCLUSIONS
+Motion within gating windows has minimal dosimetric impact for most BHL variability; however, loss of IMC coverage can occur even for small gating windows when BHLs are systematically shallow. This can be mitigated by restricting lower BHL tolerances or accounting for known uncertainties in planning.

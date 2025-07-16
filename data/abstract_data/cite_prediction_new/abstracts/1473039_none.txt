@@ -1,0 +1,2 @@
+EQUIVARIANT COHOMOLOGY IN ALGEBRAIC GEOMETRY LECTURE NINE : FLAG VARIETIES
+Remark 0.1. We saw that the study of cohomology and equivariant cohomology of Grassmannians leads to interesting symmetric polynomials, namely, the Schur polynomials sλ(x) and sλ(x|t). These arise in contexts other than intersection theory and representation theory. For example, Griffiths asked which polynomials P in c1(E), . . . , cn(E) are positive whenever E is an ample vector bundle on an n-dimensional variety. (That is, ∫

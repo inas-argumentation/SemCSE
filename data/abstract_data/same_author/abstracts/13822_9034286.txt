@@ -1,0 +1,2 @@
+Geometric approach to asymptotic expansion of Feynman integrals
+We present an algorithm that reveals relevant contributions in non-threshold-type asymptotic expansion of Feynman integrals about a small parameter. It is shown that the problem reduces to finding a convex hull of a set of points in a multidimensional vector space.

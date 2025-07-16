@@ -1,0 +1,2 @@
+Analysis of error recovery schemes for networks on chips
+In this article, we discuss design constraints to characterize efficient error recovery mechanisms for the NoC design environment. We explore error control mechanisms at the data link and network layers and present the schemes' architectural details. We investigate the energy efficiency, error protection efficiency, and performance impact of various error recovery mechanisms.

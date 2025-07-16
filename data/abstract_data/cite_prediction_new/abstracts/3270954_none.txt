@@ -1,0 +1,2 @@
+A Logic-Based Approach to Model Supervisory Control Systems
+We present an approach to model supervisory control systems based on extended behaviour networks. In particular, we employ them to formalize the control theory of the supervisor. By separating the reasoning in the supervisor and the action implementation in the controller, the overall system architecture becomes modular, and therefore easily changeable and modifiable.

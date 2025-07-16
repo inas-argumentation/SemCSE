@@ -1,0 +1,2 @@
+Properties of a model of information retrieval system based on thesaurus with weights
+This paper describes a model of information retrieval system based on thesaurus with weights. Definitions of the following terms: thesaurus, document description, information query, similarity of queries and descriptions of documents, similarity measure and accuracy of response are given. Inclusiveness and two other fundamental properties of the considered system are given.

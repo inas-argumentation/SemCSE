@@ -1,0 +1,2 @@
+The equivalence of fluctuation scale dependence and autocorrelations
+We define optimal per-particle fluctuation and correlation measures, relate fluctuations and correlations through an integral equation and show how to invert that equation to obtain precise autocorrelations from fluctuation scale dependence. We test the precision of the inversion with Monte Carlo data and compare autocorrelations to conditional distributions conventionally used to study high-pt jet structure.

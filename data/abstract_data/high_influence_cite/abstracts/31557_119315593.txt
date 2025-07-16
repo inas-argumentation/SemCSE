@@ -1,0 +1,2 @@
+Fourth Moment Theorems for Markov Diffusion Generators
+Inspired by the insightful article arXiv:1210.7587, we revisit the Nualart-Peccati-criterion arXiv:math/0503598 (now known as the Fourth Moment Theorem) from the point of view of spectral theory of general Markov diffusion generators. We are not only able to drastically simplify all of its previous proofs, but also to provide new settings of diffusive generators (Laguerre, Jacobi) where such a criterion holds. Convergence towards gamma and beta distributions under moment conditions is also discussed.

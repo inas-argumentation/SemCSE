@@ -1,0 +1,2 @@
+Probe Matrix Problems: Totally Balanced Matrices
+Let be a class of 0/1-matrices. A 0/1/ i¾?-matrix Awhere the i¾?s induce a submatrix is a probe matrixof if the i¾?s in Acan be replaced by 0s and 1s such that Abecomes a member of . We show that for being the class of totally balanced matrices, it can be decided in polynomial time whether Ais a probe totally balanced matrix. On our route toward proving this main result, we also prove that so-called partitioned probe strongly chordal graphs and partitioned probe chordal bipartite graphs can be recognized in polynomial time.

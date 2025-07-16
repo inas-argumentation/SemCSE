@@ -1,0 +1,2 @@
+Comparing Attention-Based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension
+•Analyze state-of-the-art neural-based models for reading comprehension •Comparison with human performance under adversarial attacks •Study human strategies to develop improved machine reading comprehension models •Data: MovieQA dataset [Tapaswi et al., 2016]: ?Crowd-sourced multiple-choice questions with five answer candidates on 408 movie plots ? 9,848 training, 1,958 development (dev), 3,128 test questions

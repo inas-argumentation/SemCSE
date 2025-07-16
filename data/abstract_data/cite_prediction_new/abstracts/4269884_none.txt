@@ -1,0 +1,12 @@
+Moduli of Coisotropic Sections and the BFV-complex
+We consider the local deformation problem of coisotropic submanifolds inside symplectic 
+or Poisson manifolds. To this end the groupoid of coisotropic sections (with respect to some 
+tubular neighbourhood) is introduced. Although the geometric content of this groupoid is evident, 
+it is usually a very intricate object. 
+We provide a description of the groupoid of coisotropic sections in terms of a differential graded 
+Poisson algebra, called the BFV-complex. This description is achieved by constructing a groupoid 
+from the BFV-complex and a surjective morphism from this groupoid to the groupoid of coisotropic 
+sections. The kernel of this morphism can be easily chracterized. 
+As a corollary we obtain an isomorphism between the moduli space of coisotropic sections and 
+the moduli space of geometric Maurer–Cartan elements of the BFV-complex. In turn, this also sheds 
+new light on the geometric content of the BFV-complex.

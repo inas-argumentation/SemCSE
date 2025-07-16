@@ -1,0 +1,2 @@
+Solving the Region Growing Problem on the Connection Machine
+This paper presents a parallel algorithm for solving the region growing problem based on the split and merge approach. The algorithm was implemented on the CM-2 and the CM-5 in the data parallel and message passing models. The performance of these implementations is examined and compared.

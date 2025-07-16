@@ -1,0 +1,15 @@
+The application of half-life in clinical decision making: Comparison of the pharmacokinetics of extended-release topiramate (USL255) and immediate-release topiramate
+OBJECTIVE
+For extended-release drugs with multi-compartment kinetics, such as topiramate, effective half-life (t1/2eff) may be a more clinically relevant parameter than elimination half-life (t1/2z). Using topiramate as a real-life example, the objective was to compare these half-life values for immediate- and extended-release topiramate (TPM-IR and USL255, respectively) to understand how drug pharmacokinetics may impact drug dosing recommendations.
+
+
+METHODS
+The t1/2z and t1/2eff for USL255 and TPM-IR were compared using data from a phase I study (N=36) of 200mg USL255 administered once daily (QD) or TPM-IR twice daily (BID); effect of sampling duration on t1/2z was investigated. To further explore the relationship between half-life and dosing, steady-state PK was simulated for USL255 and TPM-IR.
+
+
+RESULTS
+As previously reported, mean t1/2z was similar between USL255 (80.2h) and TPM-IR (82.8h); TPM-IR t1/2z was ∼4 times longer than reported in the Topamax label (21h). In contrast, USL255 displayed a 1.5 fold longer t1/2eff (55.7 vs 37.1h for TPM-IR). When t1/2z was calculated from 48 to 336h, values ranged from 28.8 to 82.8h. Simulated steady-state PK profiles of USL255 QD exhibited reduced plasma fluctuations during a dosing interval vs TPM-IR QD or BID.
+
+
+SIGNIFICANCE
+As expected for the same moiety, t1/2z of USL255 and TPM-IR were similar; however, the longer t1/2eff for USL255 better approximates differences in recommend dosing (QD USL255 vs BID TPM-IR). Further, sampling duration impacted t1/2z, diminishing its predictive value for determining dose regimens; sampling-time differences may also explain t1/2z discrepancy between TPM-IR here versus Topamax label. As expected, steady-state simulations confirm that although TPM-IR has a long t1/2z, taking TPM-IR QD would lead to large plasma fluctuations. These data demonstrate that t1/2z may be less clinically meaningful than t1/2eff, and using t1/2z for some drugs may lead to erroneous conclusions regarding dosing regimens.

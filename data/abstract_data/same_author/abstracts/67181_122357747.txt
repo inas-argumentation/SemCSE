@@ -1,0 +1,2 @@
+The permanent analogue of the Hadamard determinant theorem
+Here per A denotes the permanent of A : per A = 2 * II?»i **(») where the summation is over the whole symmetric group of degree n. It was announced [ l ] and later proved [2] that per (-4)^det-4 and the Hadamard determinant theorem suggests that the product of the main diagonal entries of A in fact separates the permanent and the determinant of A. In this note we sketch a proof of an inequality that is substantially stronger than (1). Let A{i) denote the principal submatrix of A obtained by deleting row and column i.

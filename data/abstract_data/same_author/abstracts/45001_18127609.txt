@@ -1,0 +1,2 @@
+A new method for camera motion parameter estimation
+We derive a six parameter system to estimate and compensate the effects of camera motion-zoom, pan, tilt and swing. As compared to other existing methods, this model describes more precisely the effect of different kinds of camera motions. A recursive least-squares estimator has been used to solve for the motion parameters. Experiments suggest that our algorithm converges to satisfactory results when about 10 pairs of corresponding pairs between two image frames are available.

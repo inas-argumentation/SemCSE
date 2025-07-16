@@ -1,0 +1,2 @@
+Idle cycles based concurrent error detection of RC6 encryption, [FPGAs]
+Describes a concurrent error detection (CED) technique that uses idle cycles in a data path to do the re-computation and demonstrate its benefits and drawbacks using RC6 encryption as a case study. The idle cycle based CED has low area overhead and performance penalty while maintaining strong CED capability.

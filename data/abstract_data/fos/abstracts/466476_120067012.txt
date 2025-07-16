@@ -1,0 +1,2 @@
+Construction of Neighbor-Balanced Designs in Linear Blocks
+Neighbor-balanced designs are useful to remove the neighbor effects in experiments where the performance of a treatment is affected by the treatments applied to its adjacent neighbors. In this article, neighbor-balanced designs are constructed in linear blocks of (i) equal sizes and (ii) two different sizes k 1 and k 2.

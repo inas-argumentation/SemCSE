@@ -1,0 +1,2 @@
+Classummary: Introducing Discussion Summarization to Online Classrooms
+This paper describes a novel summarization system, Classummary, for interactive online classroom discussions. This system is originally designed for Open Source Software (OSS) development forums. However, this new application provides valuable feedback on designing summarization systems and applying them to everyday use, in addition to the traditional natural language processing evaluation methods. In our demonstration at HLT, new users will be able to direct this summarizer themselves.

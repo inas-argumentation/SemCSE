@@ -1,0 +1,15 @@
+Dynamic network modeling and dimensionality reduction for human ECoG activity.
+OBJECTIVE
+Developing dynamic network models for multisite electrocorticogram (ECoG) activity can help study neural representations and design neurotechnologies in humans given the clinical promise of ECoG. However, dynamic network models have so far largely focused on spike recordings rather than ECoG. A dynamic network model for ECoG recordings, which constitute a network, should describe their temporal dynamics while also achieving dimensionality reduction given the inherent spatial and temporal correlations.
+
+
+APPROACH
+We devise both linear and nonlinear dynamic models for ECoG power features and comprehensively evaluate their accuracy in predicting feature dynamics. Linear state-space models (LSSMs) provide a general linear dynamic network model and can simultaneously achieve dimensionality reduction by describing high-dimensional signals in terms of a low-dimensional latent state. We thus study whether and how well LSSMs can predict ECoG dynamics and achieve dimensionality reduction. Further, we fit a general family of nonlinear dynamic models termed radial basis function (RBF) auto-regressive (AR) models for ECoG to study how the linear form of LSSMs affects the prediction of ECoG dynamics. Finally, we study the differences in dynamics and predictability of ECoG power features across different frequency bands. We use both numerical simulations and large-scale ECoG activity recorded from 10 human epilepsy subjects to evaluate the models.
+
+
+RESULTS
+First, we find that LSSMs can significantly predict the dynamics of ECoG power features using latent states with a much lower dimension compared to the number of features. Second, compared with LSSMs, nonlinear RBF-AR models do not improve the prediction of human ECoG power features, thus suggesting the usefulness of the linear assumption in describing ECoG dynamics. Finally, compared with other frequency bands, the dynamics of ECoG power features in 1-8 Hz (delta+theta) can be predicted significantly better and is more dominated by slow dynamics.
+
+
+SIGNIFICANCE
+Our results suggest that LSSMs with low-dimensional latent states can capture important dynamics in human large-scale ECoG power features, thus achieving dynamic modeling and dimensionality reduction. These results have significant implications for studying human brain function and dysfunction and for future design of closed-loop neurotechnologies for decoding and stimulation.

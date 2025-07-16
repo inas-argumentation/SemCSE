@@ -1,0 +1,15 @@
+Spectral analysis of the heart sounds in children with and without pulmonary artery hypertension.
+BACKGROUND
+Pulmonary artery hypertension (PAH) is difficult to recognize clinically. Digital stethoscopes offer an opportunity to re-evaluate the diagnosis of PAH. We hypothesized that spectral analysis of heart sound frequencies using recordings from a digital stethoscope would differ between children with and without PAH.
+
+
+METHODS
+We recorded heart sounds using a digital stethoscope from 27 subjects (12 males) with a median age of 7 years (3 months to 19 years) undergoing simultaneous cardiac catheterization. 13 subjects had a mean pulmonary artery pressure (mPAp)<25 mm Hg (8-24 mm Hg). 14 subjects had a mPAp≥25 mm Hg (25-97 mm Hg). We applied the fast Fourier transform, power spectral analysis, separability testing, and linear discriminant analysis with leave-one-out cross-validation to the heart sounds recorded from the cardiac apex and 2nd left intercostal space (LICS) to examine the frequency domain. The significance of the results was determined using a t-test and rank-sum test.
+
+
+RESULTS
+The relative power of the frequencies 21-22 Hz of the heart sounds recorded at the 2nd LICS was decreased significantly in subjects mPAp≥25 mm Hg versus<25 mm Hg.
+
+
+CONCLUSIONS
+Heart sound signals of patients with PAH contain significantly less relative power in the band 21-22 Hz compared to subjects with normal PAp. Information contained in the frequency domain may be useful in diagnosing PAH and aid the development of auscultation based techniques for diagnosing PAH. In the future, utilizing the diagnostic information contained in heart sounds recordings may require analysis of both the time and frequency domains.

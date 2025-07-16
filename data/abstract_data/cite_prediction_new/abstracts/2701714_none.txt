@@ -1,0 +1,15 @@
+The association between extreme precipitation and waterborne disease outbreaks in the United States, 1948-1994.
+OBJECTIVES
+Rainfall and runoff have been implicated in site-specific waterborne disease outbreaks. Because upward trends in heavy precipitation in the United States are projected to increase with climate change, this study sought to quantify the relationship between precipitation and disease outbreaks.
+
+
+METHODS
+The US Environmental Protection Agency waterborne disease database, totaling 548 reported outbreaks from 1948 through 1994, and precipitation data of the National Climatic Data Center were used to analyze the relationship between precipitation and waterborne diseases. Analyses were at the watershed level, stratified by groundwater and surface water contamination and controlled for effects due to season and hydrologic region. A Monte Carlo version of the Fisher exact test was used to test for statistical significance.
+
+
+RESULTS
+Fifty-one percent of waterborne disease outbreaks were preceded by precipitation events above the 90th percentile (P = .002), and 68% by events above the 80th percentile (P = .001). Outbreaks due to surface water contamination showed the strongest association with extreme precipitation during the month of the outbreak; a 2-month lag applied to groundwater contamination events.
+
+
+CONCLUSIONS
+The statistically significant association found between rainfall and disease in the United States is important for water managers, public health officials, and risk assessors of future climate change.

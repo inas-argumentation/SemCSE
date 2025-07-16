@@ -1,0 +1,15 @@
+SU-F-T-269: Preliminary Experience of Kuwait Cancer Control Center (KCCC) On IMRT Treatment Planning and Pre-Treatment Verification.
+PURPOSE
+The complexity of IMRT delivery requires pre-treatment quality assurance and plan verification. KCCC has implemented IMRT clinically in few sites and will extend to all sites. Recently, our Varian linear accelerator and Eclipse planning system were upgraded from Millennium 80 to 120 Multileaf Collimator (MLC) and from v8.6 to 11.0 respectively. Our preliminary experience on the pre-treatment quality assurance verification is discussed.
+
+
+METHODS
+Eight Breast, Three Prostate and One Hypopharynx cancer patients were planned with step and shoot IMRT. All breast cases were planned before the upgrade with 60% cases treated. The ICRU 83 recommendations were followed for the dose prescription and constraints to OAR for all cases. Point dose measurement was done with CIRS cylindrical phantom and PTW 0.125 cc ionization chamber. Measured dose was compared with calculated dose at the point of measurement. Map CHECK diode array phantom was used for the plan verification. Planned and measured doses were compared by applying gamma index of 3% (dose difference) / 3 mm DTA (average distance to agreement). For all cases, a plan is considered to be successful if more than 95% of the tested diodes pass the gamma test. A prostate case was chosen to compare the plan verification before and after the upgrade.
+
+
+RESULTS
+Point dose measurement results were in agreement with the calculated doses. The maximum deviation observed was 2.3%. The passing rate of average gamma index was measured higher than 97% for the plan verification of all cases. Similar result was observed for plan verification of the chosen prostate case before and after the upgrade.
+
+
+CONCLUSION
+Our preliminary experience from the obtained results validates the accuracy of our QA process and provides confidence to extend IMRT to all sites in Kuwait.

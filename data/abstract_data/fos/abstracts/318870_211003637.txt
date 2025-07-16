@@ -1,0 +1,34 @@
+Annihilator varieties of distinguished modules of reductive Lie algebras
+Abstract We provide a microlocal necessary condition for distinction of admissible representations of real reductive groups in the context of spherical pairs. Let 
+${\mathbf {G}}$
+ be a complex algebraic reductive group and 
+${\mathbf {H}}\subset {\mathbf {G}}$
+ be a spherical algebraic subgroup. Let 
+${\mathfrak {g}},{\mathfrak {h}}$
+ denote the Lie algebras of 
+${\mathbf {G}}$
+ and 
+${\mathbf {H}}$
+ , and let 
+${\mathfrak {h}}^{\bot }$
+ denote the orthogonal complement to 
+${\mathfrak {h}}$
+ in 
+${\mathfrak {g}}^*$
+ . A 
+${\mathfrak {g}}$
+ -module is called 
+${\mathfrak {h}}$
+ -distinguished if it admits a nonzero 
+${\mathfrak {h}}$
+ -invariant functional. We show that the maximal 
+${\mathbf {G}}$
+ -orbit in the annihilator variety of any irreducible 
+${\mathfrak {h}}$
+ -distinguished 
+${\mathfrak {g}}$
+ -module intersects 
+${\mathfrak {h}}^{\bot }$
+ . This generalises a result of Vogan [Vog91]. We apply this to Casselman–Wallach representations of real reductive groups to obtain information on branching problems, translation functors and Jacquet modules. Further, we prove in many cases that – as suggested by [Pra19, Question 1] – when H is a symmetric subgroup of a real reductive group G, the existence of a tempered H-distinguished representation of G implies the existence of a generic H-distinguished representation of G. Many of the models studied in the theory of automorphic forms involve an additive character on the unipotent radical of the subgroup 
+$\bf H$
+ , and we have devised a twisted version of our theorem that yields necessary conditions for the existence of those mixed models. Our method of proof here is inspired by the theory of modules over W-algebras. As an application of our theorem we derive necessary conditions for the existence of Rankin–Selberg, Bessel, Klyachko and Shalika models. Our results are compatible with the recent Gan–Gross–Prasad conjectures for nongeneric representations [GGP20]. Finally, we provide more general results that ease the sphericity assumption on the subgroups, and apply them to local theta correspondence in type II and to degenerate Whittaker models.

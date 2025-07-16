@@ -1,0 +1,2 @@
+An integral formula for the distribution of self-normalized Gaussian random samples
+Given i.i.d. Gaussian random variables and after standardizing the sample by subtracting the sample mean and dividing it by the sample deviation, we obtain an integral formula for the distribution of these self-normalized variables. Using geometrical arguments, we obtain the distribution of each and the joint distribution of two of them. These formulas can be used to calculate the expected value of the particular type of Cramér von Mises statistic to test normality.

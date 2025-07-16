@@ -1,0 +1,2 @@
+A Quality Design Solution for Object Synchronization
+This paper presents a quality design solution, the Customizable Object Synchronization pattern, for object synchronization which decouples object synchronization from object concurrency and object functionality (sequential part). The solution described by this pattern provides encapsulation, extensibility, modularity and reuse of synchronization policies.

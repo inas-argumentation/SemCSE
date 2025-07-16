@@ -1,0 +1,2 @@
+Arguing About Firewall Policy
+In this paper, we present a new framework to analyze firewall policy by using argumentation. At the core of this new idea is extending firewall rules with the concept of “reasons” and arguing about the reasons, not the rules. Depending on how the reasons are designed, the resulting framework can be useful in a number of ways: new anomalies in a firewall policy can be identified while, at the same time, stronger recommendations can be given to resolve those anomalies that are detected.

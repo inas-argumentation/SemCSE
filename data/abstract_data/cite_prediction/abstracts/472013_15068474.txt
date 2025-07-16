@@ -1,0 +1,2 @@
+Effects of different Gabor filters parameters on image retrieval by texture
+Gabor filter is widely used to extract texture features from images for image retrieval. A number of parameters (number of scales and orientations and filter mask size) are used in the Gabor filter. In the reported work so far, these parameters seem to be chosen without proper explanations. In this paper, we investigate the effects of different Gabor filter parameters on texture retrieval.

@@ -1,0 +1,2 @@
+Nanoseconds Switching for High Voltage Circuit Using Avalanche Transistors
+The avalanche transistor is suitable for switching high voltage in kilovolts region. In this paper, a simple switching circuit consists of avalanche transistor is demonstrated. Sixteen of ZTX 415 avalanche transistors were used to switch a high voltage circuit up to 4.5 kV. A PIC16F84 microcontroller was utilized as control unit to generate input trigger. The result shows that the developed circuit was able to switch applied voltage up-to 4.5 kV with an average falling time is 2.89 ns.

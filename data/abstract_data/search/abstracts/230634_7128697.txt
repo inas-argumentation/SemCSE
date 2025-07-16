@@ -1,0 +1,2 @@
+Animal inspired human robot interaction: A robotic tail for communicating state
+We present a robotic tail interface for enabling a robot to communicate its state to people. Our interface design follows an animal inspired methodology where we map the robot's state to its tail output, leveraging people's existing knowledge of and experiences with animals for human robot interaction. In this paper we detail our robotic tail design approach and our prototype implementations, and outline our future steps.

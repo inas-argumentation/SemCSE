@@ -1,0 +1,2 @@
+Mutual Information in Learning Feature Transformations
+Wepresentfeaturetransformationsusefulfor exploratorydataanalysisor for patternrecognition. Transformationsare learnedfrom exampledata setsby maximizing the mutual information betweentransformeddataandtheirclasslabels.We make useof Renyi’s quadraticentropy, andwe extendthe work of Principeet al. to mutual informationbetweencontinuousmultidimensional variablesanddiscrete-valuedclasslabels.

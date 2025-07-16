@@ -1,0 +1,2 @@
+Optimal control of a quasi-variational obstacle problem
+We consider an optimal control where the state-control relation is given by a quasi-variational inequality, namely a generalized obstacle problem. We give an existence result for solutions to such a problem. The main tool is a stability result, based on the Mosco-convergence theory, that gives the weak closeness of the control-to-state operator. We end the paper with some examples.

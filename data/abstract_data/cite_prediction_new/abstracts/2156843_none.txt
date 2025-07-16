@@ -1,0 +1,3 @@
+Transversals to Line Segments in Three-Dimensional Space
+We completely describe the structure of the connected components of transversals
+to a collection of n line segments in ℝ3. Generically, the set of transversals to four segments consists of zero or two lines. We catalog the non-generic cases and show that n≥ 3 arbitrary line segments in ℝ3 admit at most n connected components of line transversals, and that this bound can be achieved in certain configurations when the segments are coplanar, or they all lie on a hyperboloid of one sheet. This implies a tight upper bound of n on the number of geometric permutations of line segments in ℝ3.

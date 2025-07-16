@@ -1,0 +1,2 @@
+Complex linear-quadratic systems for detection and array processing
+Linear-quadratic (LQ) filters for detection and estimation are widely used in the real case. We investigate their extension in the complex case, which introduces various new questions. In particular, we calculate the optimum LQ array receiver in a non-Gaussian environment by using the deflection criterion and evaluate some of its performance.

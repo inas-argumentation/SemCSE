@@ -1,0 +1,2 @@
+Optimal State Reductions of Automata with Partially Specified Behaviors
+Nondeterministic finite automata with don’t care states, [4] namely states which neither accept nor reject, are considered. A cha- racterization of deterministic automata compatible with such a device is obtained. Furthermore, an optimal state bound for the smallest compatible deterministic automata is provided. Finally, it is proved that the problem of minimizing nondeterministic and deterministic don’t care automata is NP-complete.

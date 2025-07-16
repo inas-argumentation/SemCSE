@@ -1,0 +1,2 @@
+A note on convergence of line iterative methods for a nine-point matrix
+We prove the convergence of line iterative methods for solving the linear system arising from a nine-point compact discretization of a special two-dimensional convection diffusion equation. The results provide rigorous justification for the numerical experiments conducted elsewhere, which demonstrate the high accuracy and stability advantages of the fourth-order compact scheme. Numerical experiments are used to support our analytic results.

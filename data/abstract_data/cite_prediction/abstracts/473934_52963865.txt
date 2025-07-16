@@ -1,0 +1,19 @@
+Detection and Diagnostic Overall Accuracy Measures of Medical Tests
+BACKGROUND
+Overall accuracy measures of medical tests are often used with unclear interpretations.
+
+
+OBJECTIVES
+To develop methods of calculating the overall accuracy of medical tests in the patient population.
+
+
+METHODS
+Algebraic equations based on Bayes' theorem.
+
+
+RESULTS
+A new approach is proposed for calculating overall accuracy in the patient population. Examples and applications using published data are presented.
+
+
+CONCLUSIONS
+The overall accuracy is the proportion of the correct test results. We introduce a clear distinction between the overall accuracy measures of medical tests that are aimed at the detection of a disease in a screening of populations for public health purposes in the general population and the overall accuracy measures of tests aimed at determining a diagnosis in individuals in a clinical setting. We show that the overall detection accuracy measure is obtained in a specific study that explores test accuracy among persons with known diagnoses and may be useful for public health screening tests. It is different from the overall diagnostic accuracy that could be calculated in the clinical setting for the evaluation of medical tests aimed at determining the individual patients' diagnoses. We show that the overall detection accuracy is constant and is not affected by the prevalence of the disease. In contrast, the overall diagnostic accuracy changes and is dependent on the prevalence. Moreover, it ranges according to the ratio between the sensitivity and specificity. Thus, when the sensitivity is greater than the specificity, the overall diagnostic accuracy increases with increasing prevalence, and vice versa, that is, when the sensitivity is lower than the specificity, the overall diagnostic accuracy decreases with increasing prevalence so that another test might be more useful for diagnostic procedures. Our paper suggests a new and more appropriate methodology for estimating the overall diagnostic accuracy of any medical test. This may be important for helping clinicians avoid errors.

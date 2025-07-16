@@ -1,0 +1,2 @@
+EBIST: a novel test generator with built-in fault detection capability
+A novel design methodology for test pattern generation in BIST is presented. Here, faults and errors in the generator itself are detected. Two different design methodologies are presented. The first one guarantees all single fault/error detection and the second methodology is capable of detecting multiple faults and errors. Furthermore the proposed LFSRs do not have additional hardware overhead. Also, importantly, the test patterns generated have the potential to achieve superior fault coverage.

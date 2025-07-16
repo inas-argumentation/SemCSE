@@ -1,0 +1,2 @@
+Integrated-circuit countermeasures against information leakage through EM radiation
+EM radiation from a cryptographic processor IC contains side-channel information of secret data hidden inside the chip. This side-channel information leakage is a potential threat critical to our information society. This paper introduces several circuit-level countermeasures integrated with the cryptographic processor core for advanced hardware security.

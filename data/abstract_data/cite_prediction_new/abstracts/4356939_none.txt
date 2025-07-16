@@ -1,0 +1,2 @@
+Generalized Predictive Control Based on Toeplitz Equation and It's Application in Liquid-Level Control System
+A rapid generalized predictive control algorithm based on Toeplitz equation which is used to separate the future and past information in the predictive equation is presented in this paper. And the performance of the closed-loop system is improved further for the introduction of a weighted average strategy in the control law. Simulations and experiments verify the feasibility and rapidity of the proposed controller.

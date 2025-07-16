@@ -1,0 +1,2 @@
+Research and Implementation of Network Map Based on Flex
+According to the vector graphics technology, flexible graphics rendering capabilities and asynchronous data exchange technology of flex, develops the system architecture of WebGIS network map based on Flex and analyses the key technology of Flex asynchronous transfer that the Flex gets WebGIS data from Web page and transports it through Socket port, and describes advantages of this architecture to solve the traditional problem of transmission delay and user interactive experience of the situation.

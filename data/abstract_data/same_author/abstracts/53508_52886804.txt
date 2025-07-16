@@ -1,0 +1,2 @@
+X-tolerant signature analysis
+Stochastic coding is used to design X-tolerant signature analyzers that can detect defective chips even in the presence of unknown logic values (X's). These signature analyzers can be used for built-in-self-test applications and test data compression. Application of this technique to industrial designs shows that thousands of X's can be tolerated while reducing test response data volume by 50 to 2,000 times compared to traditional scan, with practically no impact on test quality.

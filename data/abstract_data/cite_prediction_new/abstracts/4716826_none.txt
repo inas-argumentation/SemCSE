@@ -1,0 +1,2 @@
+A refined asymptotic framework for dividend yield in predictive regressions
+I model predictability by dividend yield using a local-to-zero signal-to-noise ratio refinement. Under the local-to-unity assumption, I study the limiting behavior of the R2statistic and the slope estimate as functions of forecast horizon and sample size. The new asymptotic framework provides a theoretical explanation for many previous simulation-based results in the finance literature.

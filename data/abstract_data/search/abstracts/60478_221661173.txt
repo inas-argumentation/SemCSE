@@ -1,0 +1,2 @@
+TOTAL COLOURING OF NEW CLASSES OF GRAPHS
+The total chromatic number kh'(G) is the least number of colours needed to colour the vertices and edges of a graph G such that no incident or adjacent elements (vertices or edges) receive the same colour. The popular Total Colouring Conjecture (TCC) posed by Behzad states that, for every simple graph G, kh'(G) (G) 2. In this paper, we prove that the total chromatic number is exactly 1 4, for two new families of graphs called H double star based cubic graph and odd petal graph. AMS Subject Classification: 05C15.

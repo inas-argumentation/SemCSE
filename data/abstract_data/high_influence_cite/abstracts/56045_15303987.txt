@@ -1,0 +1,2 @@
+The Abelian/Nonabelian correspondence and Frobenius manifolds
+We propose an approach via Frobenius manifolds to the study (began in [BCK2] of the relation between rational Gromov–Witten invariants of nonabelian quotients X//G and those of the corresponding “abelianized” quotients X//T, for T a maximal torus in G. The ensuing conjecture expresses the Gromov–Witten potential of X//G in terms of the potential of X//T. We prove this conjecture when the nonabelian quotients are partial flag manifolds.

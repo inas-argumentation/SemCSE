@@ -1,0 +1,2 @@
+The synthesis of low power baseband filters for CDMA systems
+We proposed a low power filter structure that is suitable for the VLSI implementation of the baseband filters in the code division multiple access (CDMA) systems. The proposed filter not only achieves more savings in terms of the number of multipliers, but also reduces the coefficient word length in the filters. The VLSI implementation shows that the new filter reduces the power consumption up to 75% compared with the direct-form implementation of IS-95 48-tap FIR filter.

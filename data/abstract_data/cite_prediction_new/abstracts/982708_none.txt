@@ -1,0 +1,2 @@
+Implementation of signal processing algorithms for 3G and beyond
+For communication systems of third generation and beyond, the algorithmic complexity will increase significantly compared with 2G and 2.5G systems, as we can see from the example of channel estimation. The answer to these demands will consist of transceivers with re-configurable hardware accelerators in advanced CMOS technology.

@@ -1,0 +1,2 @@
+Approximating the Matrix Sign Function Using a Novel Iterative Method
+This study presents a matrix iterative method for finding the sign of a square complex matrix. It is shown that the sequence of iterates converges to the sign and has asymptotical stability, provided that the initial matrix is appropriately chosen. Some illustrations are presented to support the theory.

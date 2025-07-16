@@ -1,0 +1,2 @@
+Local Asymmetry and the Inner Radius of Nodal Domains
+Let M be a closed Riemannian manifold of dimension n. Let ϕλ be an eigenfunction of the Laplace–Beltrami operator corresponding to an eigenvalue λ. We show that the volume of {ϕλ > 0} ∩ B is ≥C|B|/λ n , where B is any ball centered at a point of the nodal set. We apply this result to prove that each nodal domain contains a ball of radius ≥C/λ n . The results in this paper extend previous results of Nazarov, Polterovich, Sodin and of the author.

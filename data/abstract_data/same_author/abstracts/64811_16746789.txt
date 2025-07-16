@@ -1,0 +1,7 @@
+Applications of beta-mixture models in bioinformatics
+SUMMARY
+We propose a beta-mixture model approach to solve a variety of problems related to correlations of gene-expression levels. For example, in meta-analyses of microarray gene-expression datasets, a threshold value of correlation coefficients for gene-expression levels is used to decide whether gene-expression levels are strongly correlated across studies. Ad hoc threshold values such as 0.5 are often used. In this paper, we use a beta-mixture model approach to divide the correlation coefficients into several populations so that the large correlation coefficients can be identified. Another important application of the proposed method is in finding co-expressed genes. Two examples are provided to illustrate both applications. Through our analysis, we also discover that the popular model selection criteria BIC and AIC are not suitable for the beta-mixture model. To determine the number of components in the mixture model, we suggest an alternative criterion, ICL-BIC, which is shown to perform better in selecting the correct mixture model.
+
+
+SUPPLEMENTARY INFORMATION
+http://odin.mdacc.tmc.edu/~yuanj/highcorgeneanno.html.

@@ -1,0 +1,2 @@
+Classicality and connectedness for state property systems and closure spaces
+It has been shown that there is a categorical equivalence between the category SPS of state property systems and the category Cl of closure spaces. In this note we prove, using this equivalence between categories, that the concept of connectedness for closure spaces can be used to formulate a decomposition theorem, which allows us to split a state property system into a number of 'pure nonclassical state property systems' and a 'totally classical state property system'.

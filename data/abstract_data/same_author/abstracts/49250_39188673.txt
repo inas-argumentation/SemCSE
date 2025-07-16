@@ -1,0 +1,2 @@
+Amortization Results for Chromatic Search Trees, with an Application to Priority Queues
+The intention in designing data structures with relaxed balance, such as chromatic search trees, is to facilitate fast updating on shared-memory asynchronous parallel architectures. To obtain this, the updating and rebalancing have been uncoupled, so extensive locking in connection with updates is avoided.

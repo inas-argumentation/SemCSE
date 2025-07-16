@@ -1,0 +1,2 @@
+The Worst Case in Shellsort and Related Algorithms
+We show that sorting a sufficiently long list of length N using Shellsort with m increments (not necessarily decreasing) requires at least Nl+c/√m comparisons in the worst case, for some constant c > 0. For m ≤ (log N/log log N)2 we obtain an upper bound of the same form. We also prove that Ω(N(log N/log log N)2) comparisons are needed regardless of the number of increments. Our approach is general enough to apply to other sorting algorithms, including Shaker-sort, for which an even stronger result is proved.

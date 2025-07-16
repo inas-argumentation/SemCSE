@@ -1,0 +1,15 @@
+Utilizing global data to estimate analytical performance on the Sigma scale: A global comparative analysis of methods, instruments, and manufacturers through external quality assurance and proficiency testing programs.
+OBJECTIVE
+To assess the analytical performance of instruments and methods through external quality assessment and proficiency testing data on the Sigma scale.
+
+
+DESIGN AND METHODS
+A representative report from five different EQA/PT programs around the world (2 US, 1 Canadian, 1 UK, and 1 Australasian) was accessed. The instrument group standard deviations were used as surrogate estimates of instrument imprecision. Performance specifications from the US CLIA proficiency testing criteria were used to establish a common quality goal. Then Sigma-metrics were calculated to grade the analytical performance.
+
+
+RESULTS
+Different methods have different Sigma-metrics for each analyte reviewed. Summary Sigma-metrics estimate the percentage of the chemistry analytes that are expected to perform above Five Sigma, which is where optimized QC design can be implemented. The range of performance varies from 37% to 88%, exhibiting significant differentiation between instruments and manufacturers. Median Sigmas for the different manufacturers in three analytes (albumin, glucose, sodium) showed significant differentiation.
+
+
+CONCLUSIONS
+Chemistry tests are not commodities. Quality varies significantly from manufacturer to manufacturer, instrument to instrument, and method to method. The Sigma-assessments from multiple EQA/PT programs provide more insight into the performance of methods and instruments than any single program by itself. It is possible to produce a ranking of performance by manufacturer, instrument and individual method. Laboratories seeking optimal instrumentation would do well to consult this data as part of their decision-making process. To confirm that these assessments are stable and reliable, a longer term study should be conducted that examines more results over a longer time period.

@@ -1,0 +1,3 @@
+The rigidity theorem of Fano--Segre--Iskovskikh--Manin--Pukhlikov--Corti--Cheltsov--de Fernex--Ein--Musta\cedilla{t}\u{a}--Zhuang
+We prove that $n$-dimensional smooth hypersurfaces of degree $n+1$ are superrigid. Starting with the work of Fano in 1915, the proof of this Theorem took 100 years and a dozen researchers to construct. 
+Here I give complete proofs, aiming to use only basic knowledge of algebraic geometry and some Kodaira type vanishing theorems. Version 2: many changes, especially in section 1.

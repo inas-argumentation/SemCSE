@@ -1,0 +1,2 @@
+The structure group for the associativity identity
+Abstract A group of elementary associativity operators is introduced so that the bracketing graphs which are the skeletons of Stasheff's associahedra become orbits and can be constructed as subgraphs of the Cayley graph of this group. A very simple proof of Mac Lane's coherence theorem is given, as well as an oriented version of this result. We also sketch a more general theory and compare the cases of associativity and left self-distributivity.

@@ -1,0 +1,8 @@
+A New Approach to Round-Optimal Secure Multiparty Computation
+We present a new approach towards constructing round-optimal secure multiparty computation (MPC) protocols against malicious adversaries without trusted setup assumptions. Our approach builds on ideas previously developed in the context of covert multiparty computation [Chandran et al., FOCS’07] even though we do not seek covert security. Using our new approach, we obtain the following results: 
+ 
+ 
+A five round MPC protocol based on the Decisional Diffie-Hellman (DDH) assumption. 
+ 
+ 
+A four round MPC protocol based on one-way permutations and sub-exponentially secure DDH. This result is optimal in the number of rounds.

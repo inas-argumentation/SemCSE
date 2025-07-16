@@ -1,0 +1,11 @@
+Towards Shape Understanding through Non-Parametric Shape Warping
+This paper pursues the idea of understanding 
+shapes of unknown objects through establishing correspondence 
+with points from the surface of known objects. A lot of geometryrelated 
+knowledge, such as functionally correct grasps or object 
+constellations, could thus be transferred from known shapes 
+to novel shapes of the same or a similar category. As one 
+critical module in such a system, this paper considers warping of 
+surfaces in 3D across significant and possibly non-smooth shape 
+variations. Results are shown for some objects from the Princeton 
+Shape Benchmark and a range scan.

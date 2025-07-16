@@ -1,0 +1,2 @@
+Automatic Music Genre Classification using Modulation Spectral Contrast Feature
+In this paper, we proposed a novel feature, called octave-based modulation spectral contrast (OMSC), for music genre classification. OMSC is extracted from long-term modulation spectrum analysis to represent the time-varying behavior of music signals. Experimental results have shown that OMSC outperforms MFCC and OSC. If OMSC is integrated with MFCC and OSC, the classification accuracy is 84.03% for seven music genre classification.

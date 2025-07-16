@@ -1,0 +1,2 @@
+Improving augmented reality applications with optical flow
+This paper presents an augmented reality application framework which does not require specialized hardware or pre-calibration. Features extracted, using SURF, are matched between consecutive frames in order to determine the motion of the detected known object with respect to the camera. Next, a bi-directional optical flow algorithm is used to maintain the performance of the system to real-time. The system has been tested on two case studies, a children's book and advertisement, and the results are reported.

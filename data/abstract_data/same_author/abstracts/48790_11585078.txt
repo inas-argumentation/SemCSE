@@ -1,0 +1,2 @@
+An Arrival Time Approach to M/G/1-type Queues with Generalized Vacations
+We propose a simple way, called the arrival time approach, of finding the queue length distributions for M/G/1-type queues with generalized server vacations. The proposed approach serves as a useful alternative to understanding complicated queueing processes such as priority queues with server vacations and MAP/G/1 queues with server vacations.

@@ -1,0 +1,2 @@
+Modified Chinese remainder theorem and its application to proxy signatures
+Chinese Remainder Theorem has been used for hundreds of years and has been applied to many domains such as integers and polynomials. An assumption made is that the component moduli are pairwise co-prime. In this paper, first we remove this assumption; then we give an algorithm to find whether a given system of congruent equations has a solution, and if so, how to find the solution in an efficient manner. Further we apply the modified Chinese Remainder Theorem to design proxy signatures.

@@ -1,0 +1,2 @@
+A high throughput-rate architecture for 8*8 2D DCT
+A new architecture for VLSI implementation of an 8 /spl times/ 8 2D discrete cosine transform (DCT) is proposed. The main merits of this architecture are: (1) the multipliers are replaced by memory look-up tables; (2) no input registers are required to save a column of input data; (3) the chip performance is independent of data width; and (4) the latency (the largest delay path) is short.<<ETX>>

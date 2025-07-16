@@ -1,0 +1,2 @@
+Asymptotics of L 1-Estimators in Moving Average Time Series Models
+L 1-estimation for time series models is very important due to its robustness. Many properties of this kind of estimators have been studied. However, some problems on this subject are still left open. In this article we derive the limiting distribution of L 1-estimators for qth order moving average (MA(q)) models under more general conditions on the distribution function near zero.

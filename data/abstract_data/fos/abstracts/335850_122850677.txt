@@ -1,0 +1,2 @@
+Slustep size probabilities for generalized poisson distributions
+A general theorem is given relating the cluster-size distribution to the Fisher-type limiting form of the distribution resulting from a Poisson distribution of such clusters. The theorem provides a new method for obtaining the cluster-size probabilities. It also yields a necessary and sufficient condition for the infinite divisibility of a distribution on the nonnegative integers. The ethod and the criterion are illustrated using the shifted logarithmic and the shifted zero-truncated Poisson distributions.

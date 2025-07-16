@@ -1,0 +1,2 @@
+Twitter Geolocation Prediction Shared Task of the 2016 Workshop on Noisy User-generated Text
+This paper describes the shared task for the English Twitter geolocation prediction associated with WNUT 2016. We discuss details of the task settings, data preparation and participant systems. The derived dataset and performance figures from each system provide baselines for future research in this realm.

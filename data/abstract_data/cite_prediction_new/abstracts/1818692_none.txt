@@ -1,0 +1,2 @@
+The Internet Backplane Protocol: A Study in Resource Sharing
+In this work we present the Internet Backplane Protocol (IBP), a middleware created to allow the sharing of storage resources, implemented as part of the network fabric. IBP allows an application to control intermediate data staging operations explicitly. As IBP follows a very simple philosophy, very similar to the Internet Protocol, and the resulting semantic might be too weak for some applications, we introduce the exNode, a data structure that aggregates storage allocations on the Internet.

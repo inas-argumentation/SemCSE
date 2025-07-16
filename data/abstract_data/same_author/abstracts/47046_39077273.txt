@@ -1,0 +1,2 @@
+Agents, Distributed Algorithms, and Stabilization
+This note illustrates the use of agents in the stabilization of distributed systems. The goal is to build stabilizing systems on the Internet, where the component processes are not under the control of a single administration. Two examples are presented to illustrate the idea: the first is that of mutual exclusion on a unidirectional ring, and the second deals with the construction of a DFS spanning tree.

@@ -1,0 +1,2 @@
+Fundamentals of Audio Class D Amplifier Design: A Review of Schemes and Architectures
+Class D amplifiers [1]-[16], or switching amplifiers, are popular components in mixed-signal IC design and widely adopted for smartphones and tablets with rich multimedia, thanks to the high-efficiency and high-output power capability. Their applications range from audio and video drivers to envelope tracking for power amplifiers.

@@ -1,0 +1,2 @@
+Logicality of Conditional Rewrite Systems
+A conditional term rewriting system is called logical if it has the same logical strength as the underlying conditional equational system. In this paper we summarize known logicality results and we present new sufficient conditions for logicality of the important class of oriented conditional term rewriting systems.

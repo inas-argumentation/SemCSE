@@ -1,0 +1,2 @@
+Estimation of slag foaming height from vibration signals in electric arc furnaces
+In this study, we estimated slag foaming height from the vibration signal in an electric arc furnace (EAF). A fast Fourier transform (FFT) was used to determine the characteristics of the vibration signal in frequency spectrum. The reference height was obtained by analyzing an image of the slag gate. Finally, we developed an estimation model by using the least mean square (LMS) algorithm on the basis of these data.

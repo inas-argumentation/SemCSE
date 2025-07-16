@@ -1,0 +1,2 @@
+An Integrated OCR Software for Mathematical Documents and Its Output with Accessibility
+This paper describes shortly a practical integrated system for scientific documents including mathematical formulae, named ‘Infty’. The system consists of three components of applications: an OCR system named ‘InftyReader’, an editor named ‘InftyEditor’ and converting tools into various formats. Those applications are linked each other via XML files.

@@ -1,0 +1,2 @@
+A decomposition theorem on Euclidean Steiner minimal trees
+The Euclidean Steiner minimal tree problem is known to be an NP-complete problem and current alogorithms cannot solve problems with more than 30 points. Thus decomposition theorems can be very helpful in extending the boundary of workable problems. There have been only two known decomposition theorems in the literature. This paper provides a 50% increase in the reservoir of decomposition theorems.

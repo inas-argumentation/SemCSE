@@ -1,0 +1,16 @@
+Effect of calibration errors on Bayesian parameter estimation for gravitational wave signals from inspiral binary systems in the advanced detectors era
+By 2015 the advanced versions of the gravitational-wave detectors Virgo and LIGO will be online. They will collect data in coincidence with enough sensitivity to potentially deliver multiple detections of gravitation waves from inspirals of compact-object binaries. This work is focused on understanding the effects introduced by uncertainties in the calibration of the interferometers. We consider plausible calibration errors based on estimates obtained during LIGO’s fifth and Virgo’s third science runs, which include frequency-dependent amplitude errors of 
+∼ 
+10 
+% 
+ and frequency-dependent phase errors of 
+∼ 
+3 
+  
+  
+degrees 
+ in each instrument. We quantify the consequences of such errors estimating the parameters of inspiraling binaries. We find that the systematics introduced by calibration errors on the inferred values of the chirp mass and mass ratio are smaller than 20% of the statistical measurement uncertainties in parameter estimation for 90% of signals in our mock catalog. Meanwhile, the calibration-induced systematics in the inferred sky location of the signal are smaller than 
+∼ 
+50 
+% 
+ of the statistical uncertainty. We thus conclude that calibration-induced errors at this level are not a significant detriment to accurate parameter estimation.

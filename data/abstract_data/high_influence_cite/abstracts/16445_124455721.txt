@@ -1,0 +1,2 @@
+Primal-dual method to smoothing TV-based model for image denoising
+The total variation-based Rudin–Osher–Fatemi model is an effective and popular prior model in the image processing problem. Different to frequently using the splitting scheme to directly solve this model, we propose the primal dual method to solve the smoothing total variation-based Rudin–Osher–Fatemi model and give some convergence analysis of proposed method. Numerical implements show that our proposed model and method can efficiently improve the numerical results compared with the Rudin–Osher–Fatemi model.

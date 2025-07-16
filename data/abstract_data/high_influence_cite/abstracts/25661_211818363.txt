@@ -1,0 +1,19 @@
+Night-to-night variability of sleep electroencephalography-based brain age measurements
+OBJECTIVE
+Brain Age Index (BAI), calculated from sleep electroencephalography (EEG), has been proposed as a biomarker of brain health. This study quantifies night-to-night variability of BAI and establishes probability thresholds for inferring underlying brain pathology based on a patient's BAI.
+
+
+METHODS
+86 patients with multiple nights of consecutive EEG recordings were selected from Epilepsy Monitoring Unit patients whose EEGs reported as within normal limits. While EEGs with epileptiform activity were excluded, the majority of patients included in the study had a diagnosis of chronic epilepsy. BAI was calculated for each 12-hour segment of patient data using a previously established algorithm, and the night-to-night variability in BAI was measured.
+
+
+RESULTS
+The within-patient night-to-night standard deviation in BAI was 7.5 years. Estimates of BAI derived by averaging over 2, 3, and 4 nights had standard deviations of 4.7, 3.7, and 3.0 years, respectively.
+
+
+CONCLUSIONS
+Averaging BAI over n nights reduces night-to-night variability of BAI by a factor of n, rendering BAI a more suitable biomarker of brain health at the individual level. A brain age risk lookup table of results provides thresholds above which a patient has a high probability of excess BAI.
+
+
+SIGNIFICANCE
+With increasing ease of EEG acquisition, including wearable technology, BAI has the potential to track brain health and detect deviations from normal physiologic function. The measure of night-to-night variability and how this is reduced by averaging across multiple nights provides a basis for using BAI in patients' homes to identify patients who should undergo further investigation or monitoring.

@@ -1,0 +1,7 @@
+The discovery net system for high throughput bioinformatics
+MOTIVATION
+Bioinformatics requires Grid technologies and protocols to build high performance applications without focusing on the low level detail of how the individual Grid components operate.
+
+
+RESULTS
+The Discovery Net system is a middleware that allows service developers to integrate tools based on existing and emerging Grid standards such as web services. Once integrated, these tools can be used to compose reusable workflows using these services that can later be deployed as new services for others to use. Using the Discovery Net system and a range of different bioinformatics tools, we built a Grid based application for Genome Annotation. This includes workflows for automatic nucleotide annotation, annotation of predicted proteins and text analysis based on metabolic profiles and text analysis.

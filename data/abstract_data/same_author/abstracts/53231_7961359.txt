@@ -1,0 +1,2 @@
+LexTrim: A Lexical Cohesion Based Approach to Parse-and-Trim Style Headline Generation
+In this paper we compare two parse-and-trim style headline generation systems. The Topiary system uses a statistical learning approach to finding topic labels for headlines, while our approach, the LexTrim system, identifies key summary words by analysing the lexical cohesion structure of a text. The performance of these systems is evaluated using the ROUGE evaluation suite on the DUC 2004 news stories collection.

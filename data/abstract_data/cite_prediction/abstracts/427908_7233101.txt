@@ -1,0 +1,2 @@
+Convolutional Laplacian sparse coding
+We propose to extend the the standard convolutional sparse representation by combining it with a non-local graph Laplacian term. This additional term is chosen to address some of the deficiencies of the ℓ1 norm in regularizing these representations, and is shown to have an advantage in both dictionary learning and an example image reconstruction problem.

@@ -1,0 +1,2 @@
+A Machine Learning Approach To Mobile Agent Platform Protection: Towards Eliminating The Curse of Dimensionality
+In the past many decades, the escalating threat of malicious mobile agents has been calling for the automated techniques of malicious mobile agent detection. The machine learning (ML) algorithms have been ascertained superior in this context rather than signature based and behavior based approaches, specifically in high dimensional feature space.

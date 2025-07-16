@@ -1,0 +1,7 @@
+Spectral disjointness of rescalings of some surface flows
+We study self-similarity problem for two classes of flows: 
+(1) special flows over circle rotations and under roof functions with symmetric logarithmic singularities 
+(2) special flows over interval exchange transformations and under roof functions which are of two types 
+* piecewise constant with one additional discontinuity which is not a discontinuity of the IET; 
+* piecewise linear over exchanged intervals with non-zero slope. 
+We show that if $\{T^f_t\}_{t\in\mathbb R}$ is as in (1) then for a full measure set of rotations, and for every two distinct natural numbers $K$ and $L$, we have that $\{T^f_{Kt}\}_{t\in\mathbb R}$ and $\{T^f_{Lt}\}_{t\in\mathbb R}$ are spectrally disjoint. Similarly, if $\{T^f_t\}_{t\in\mathbb R}$ is as in (2), then for a full measure set of IET's, a.e. position of the additional discontinuity (of $f$, in piecewise constant case) and every two distinct natural numbers $K$ and $L$, the flows $\{T^f_{Kt}\}_{t\in\mathbb R}$ and $\{T^f_{Lt}\}_{t\in\mathbb R}$ are spectrally disjoint.

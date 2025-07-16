@@ -1,0 +1,10 @@
+SLIM-QN: A Stochastic, Light, Momentumized Quasi-Newton Optimizer for Deep Neural Networks
+We propose SLIM-QN, a light stochastic quasi-Newton optimizer for training large-scale deep neural networks (DNNs).
+SLIM-QN addresses two key barriers in existing second-order methods for large-scale DNNs: 1) the high computational cost of obtaining the Hessian matrix and its inverse in every iteration (e.g. KFAC); 2) convergence instability due to stochastic training (e.g. L-BFGS).
+To tackle the first challenge,SLIM-QN directly approximates the Hessian inverse using past parameters and gradients, without explicitly constructing the Hessian matrix and then computing its inverse.
+To achieve stable convergence, SLIM-QN introduces momentum in Hessian updates together with an adaptive damping mechanism.
+We provide rigorous theoretical results on the convergence of SLIM-QN in a stochastic setting.
+We also demonstrate that SLIM-QN has much less compute and memory overhead compared to existing second-order methods. 
+To better understand the limitations and benefits of SLIM-QN, we evaluate its performance on various datasets and network architectures.
+For instance on large datasets such as ImageNet, we show that SLIM-QN achieves near optimal accuracy $1.5\times$ faster when compared with SGD ($1.36\times$ faster in wall-clock time) using the same compute resources.
+We also show that SLIM-QN can readily be applied to other contemporary non-convolutional architectures such as Transformers.

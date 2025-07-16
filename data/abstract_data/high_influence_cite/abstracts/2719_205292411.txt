@@ -1,0 +1,15 @@
+Prescription Opioid Access Patterns and Factors Associated with Increasing Number of Prescribers, Pharmacies, and Dispensings: An Observational Study Using Pharmaceutical Claims
+Objective
+To examine associations between patient factors and increasing opioid access measured by three metrics: number of unique prescribers, pharmacies, and dispensings in 12 months.
+
+
+Methods
+We used pharmaceutical claims for a random 10% sample of Australians age 18 years or older initiating or reinitiating strong opioid treatment (≥90 days of no strong opioid dispensing) between July 2010 and December 2012. We report the distribution of opioid access by metric. We used three separate zero-truncated negative binomial regressions to explore associations. We censored individuals 365 days after index date or at death, whichever occurred first.
+
+
+Results
+Approximately 69,088 persons initiated or reinitiated strong opioid treatment; they were predominantly female (59.7%) with a median age of 71 years (interquartile range [IQR] = 58-81). Over one year, persons visited a median of two prescribers (IQR = 1-3), visited one dispensing pharmacy (IQR = 1-2), and had four opioid dispensings (IQR = 2-10). Three percent of people were in the top decile of opioid access distribution for all three metrics (four or more prescribers, three or more dispensing pharmacies, and 20 or more dispensings). Increasing opioid access was strongly associated with male sex, history of pain treatment (3 to 12 months prior to index date), malignancy treatment, or treatment for three or more other medical conditions.
+
+
+Conclusions
+Delineating legitimate from extramedical opioid use based on pharmaceutical claims is imprecise. We demonstrated that "high" levels of access, defined in previous research, may reflect routine care for complex patients. Pharmaceutical claims have utility in examining population norms of prescription drug use and access patterns, and flagging persons at the extreme end of access, for at least one measure, who may warrant further investigation.

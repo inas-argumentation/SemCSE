@@ -1,0 +1,2 @@
+The role of Monte Carlo within a diagonalization/Monte Carlo scheme
+Abstract We review the method of stochastic error correction which eliminates the truncation error associated with any subspace diagonalization. Monte Carlo sampling is used to compute the contribution of the remaining basis vectors not included in the initial diagonalization. The method is part of a new approach to computational quantum physics which combines both diagonalization and Monte Carlo techniques.

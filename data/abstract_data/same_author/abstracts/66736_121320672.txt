@@ -1,0 +1,2 @@
+An efficient, accurate, simple ALE method for nonlinear finite element programs
+Abstract A simple arbitrary Lagrangian-Eulerian formulation is presented. An operator split separates the Lagrangian and Eulerian processes, allowing a Lagrangian finite element program to be extended to this formulation with little difficulty. Example problems illustrate the strengths and weaknesses of the formulation.

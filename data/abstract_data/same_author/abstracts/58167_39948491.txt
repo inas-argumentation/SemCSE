@@ -1,0 +1,2 @@
+Signed Formulas and Fuzzy Operator Logics
+The language of signed formulas offers a classical logic frame-work for multiple-valued logics. Fuzzy operator logic is cast in this frame-work, thereby making most classical inference techniques applicable to fuzzy logic. In particular, resolution for first order fuzzy operator logic is shown to be a special case of signed resolution.

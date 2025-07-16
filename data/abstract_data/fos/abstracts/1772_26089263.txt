@@ -1,0 +1,15 @@
+Technical Note: An oversampling procedure to calculate the MTF of an imaging system from a bar-pattern image.
+PURPOSE
+Line-pair resolution phantoms are used to determine the spatial resolution of medical imaging systems. In some cases, these phantoms are used to determine the maximum number of line-pairs per mm that the system can resolve. In other cases, a numerical determination of the modulation transfer function (MTF) is carried out by means of the analysis of the variance of ROIs on the image. In this note, a new procedure is implemented to calculate the presampled MTF of an imaging system.
+
+
+METHODS
+Images of a commercial line-pair phantom are acquired in a flat panel detector. After applying an edge detector and a Radon transform to the image, the direction of the bars in the phantom is calculated. Then, an area of the image that excludes the ends of the bars is determined. Every pixel in this area is used to obtain an oversampled profile on which the MTF is calculated. Every group of line-pairs conforms a periodic wave on this profile. Each of these waves is the output of the system for a square wave input with the same frequency. After extracting a wave, the MTF value for its frequency is calculated as the ratio of its first odd harmonic to the first odd harmonic of the square wave input. The amplitude of this square wave is obtained from two uniform areas on the phantom image.
+
+
+RESULTS
+The results obtained are compared to those obtained following the standard edge method, as recommended by the IEC, and show a very good agreement between both methods, in both main directions of the detector and all the dose ranges analyzed.
+
+
+CONCLUSIONS
+The presented method is shown accurate and can be used to extend the conventional use of line-pair phantoms in conventional radiology.

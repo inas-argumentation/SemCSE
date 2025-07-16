@@ -1,0 +1,15 @@
+Dosimetry revisited for the HDR 192Ir brachytherapy source model mHDR-v2.
+PURPOSE
+Recently, the manufacturer of the HDR 192Ir mHDR-v2 brachytherapy source reported small design changes (referred to herein as mHDR-v2r) that are within the manufacturing tolerances but may alter the existing dosimetric data for this source. This study aimed to (1) check whether these changes affect the existing dosimetric data published for this source; (2) obtain new dosimetric data in close proximity to the source, including the contributions from 192Ir electrons and considering the absence of electronic equilibrium; and (3) obtain scatter dose components for collapsed cone treatment planning system implementation.
+
+
+METHODS
+Three different Monte Carlo (MC) radiation transport codes were used: MCNP5, PENELOPE2008, and GEANT4. The source was centrally positioned in a 40 cm radius water phantom. Absorbed dose and collision kerma were obtained using 0.1 mm (0.5 mm) thick voxels to provide high-resolution dosimetry near (far from) the source. Dose-rate distributions obtained with the three MC codes were compared.
+
+
+RESULTS
+Simulations of mHDR-v2 and mHDR-v2r designs performed with three radiation transport codes showed agreement typically within 0.2% for r > or = 0.25 cm. Dosimetric contributions from source electrons were significant for r < 0.25 cm. The dose-rate constant and radial dose function were similar to those from previous MC studies of the mHDR-v2 design. The 2D anisotropy function also coincided with that of the mHDR-v2 design for r > or = 0.25 cm. Detailed results of dose distributions and scatter components are presented for the modified source design.
+
+
+CONCLUSIONS
+Comparison of these results to prior MC studies showed agreement typically within 0.5% for r > or = 0.25 cm. If dosimetric data for r < 0.25 cm are not needed, dosimetric results from the prior MC studies will be adequate.

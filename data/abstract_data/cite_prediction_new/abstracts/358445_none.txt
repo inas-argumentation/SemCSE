@@ -1,0 +1,2 @@
+Suppression of reverse biased diode leakage by MeV ion implantation
+MeV Ion implantation has proven useful for many applications, such as latch-up suppression, SER reduction, and buried layer formation. MeV ion implantation can also be used to form a minority carrier diffusion barrier to reduce reverse bias diode leakage, particularly at high temperatures. The reduction in diode leakage has applications in DRAMs, CCDs, etc. The use of a MeV implanted diffusion barrier improves the ability to scale DRAM cell capacitance.<<ETX>>

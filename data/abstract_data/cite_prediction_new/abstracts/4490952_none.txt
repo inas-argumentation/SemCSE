@@ -1,0 +1,2 @@
+A Concurrent Object Calculus with Types that Express Sequences
+Sequencing of messages speciied by types of objects is desirable especially in concurrent systems. Types in popular concurrent object calculi cannot support sequencing of messages. We present a calculus that supports sequencing of messages and compare it to the calculus of Vasconcelos and Honda. Type safety in our calculus does not allow a certain kind of nondeterminism supported by other calculi.

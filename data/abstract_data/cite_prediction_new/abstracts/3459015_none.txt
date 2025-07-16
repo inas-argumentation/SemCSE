@@ -1,0 +1,2 @@
+Determination of Digital Straight Segments Using the Slope
+We present a new method for the recognition of digital straight lines based on the slope. This method combines the Freeman's chain coding scheme and new discovered properties of the digital slope introduced in this paper. We also present the efficiency of our method from a testbed.

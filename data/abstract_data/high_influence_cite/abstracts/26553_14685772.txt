@@ -1,0 +1,2 @@
+BoPi - a distributed machine for experimenting Web services technologies
+BoPi is a programming language with a runtime support that allows the distribution and the execution of programs over the network. The language is a process calculus with XML values and datatypes, and with a pattern matching mechanism for deconstructing values. The compiler gives a typesafe bytecode in the form of an XML document, that may be deployed on the network. What comes out is a simple, statically typed, and formally defined core BPEL language with a basic query mechanism supplied by patterns.

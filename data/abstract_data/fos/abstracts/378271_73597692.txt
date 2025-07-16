@@ -1,0 +1,2 @@
+New Modified Method of the Chebyshev Collocation Method for Solving Fractional Diffusion Equation
+In this article a modification of the Chebyshev collocation method is applied to the solution of space fractional differential equations. The fractional derivative is considered in the Caputo sense. The finite difference scheme and Chebyshev collocation method are used. The numerical results obtained by this approach have been compared with other methods. The results show the reliability and efficiency of the proposed method.

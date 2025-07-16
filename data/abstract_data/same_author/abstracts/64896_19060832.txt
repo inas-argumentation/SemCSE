@@ -1,0 +1,2 @@
+The suboptimality of randomized tests in distributed and quantized detection systems
+The design of decentralized (or quantized) detection systems requires simultaneous optimization of quantizer mappings and ultimate fusion rule. It is shown that if the likelihood ratios of the unquantized (or raw) observations are independent and contain no point-masses of probability, the optimal test does not randomize; this is so despite the fact that the data to be fused can be considered discrete. The result is a considerable simplification in the design search. >

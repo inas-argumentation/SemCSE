@@ -1,0 +1,2 @@
+Achieving Anonymity against Major Face Recognition Algorithms
+An ever-increasing number of personal photos is stored online. This trend can be problematic, because face recognition software can undermine user privacy in unexpected ways. Face de-identification aims to prevent automatic recognition of faces thus improving user privacy, but previous work alters the image in a way that makes them indistinguishable for both computers and humans, which prevents a wide-spread use.

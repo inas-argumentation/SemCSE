@@ -1,0 +1,2 @@
+Multiple method comparison: Statistical model using percentage similarity
+Method comparison typically determines how well two methods agree. This is usually performed using the difference plot model, which measures absolute differences between two methods. This is often not applicable to data with wide ranges of absolute values. An alternative model is introduced that simplifies comparisons specifically for multiple methods compared to a gold standard.

@@ -1,0 +1,2 @@
+A CGM/BSP Parallel Similarity Algorithm
+We present a CGM/BSP algorithm for computing an alignment (or string editing) between two strings A and C, with jAj = m and jCj = n. The algorithm requires O(p) communication rounds and O( p ) local computing time, on a distributed memory parallel computer of p processors each with O(nm=p) memory. We also present implementation results obtained on Beowulf machine with 64 nodes. Topic of interest: Algorithms and applications in Bioinformatics

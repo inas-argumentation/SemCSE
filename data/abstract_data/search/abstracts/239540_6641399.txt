@@ -1,0 +1,2 @@
+Automatically Inferring Temporal Properties
+3. PROBLEM STATAMENT Temporal properties specify constraints on the order in which a program's state changes. Satisfying certain temporal properties is essential for a program to be correct. Many formal verification tools have been developed to check certain temporal properties. Researchers have demonstrated the practical value of these tools in some domains (e.g. verifying the safety of device drivers) [8, 17]

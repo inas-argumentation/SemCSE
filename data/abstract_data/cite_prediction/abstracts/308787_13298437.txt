@@ -1,0 +1,2 @@
+Hidden Conditional Random Fields
+We present a discriminative latent variable model for classification problems in structured domains where inputs can be represented by a graph of local observations. A hidden-state conditional random field framework learns a set of latent variables conditioned on local features. Observations need not be independent and may overlap in space and time.

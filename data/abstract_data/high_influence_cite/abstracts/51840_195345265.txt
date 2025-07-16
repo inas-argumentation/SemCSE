@@ -1,0 +1,2 @@
+A novel soft-aided bit-marking decoder for product codes
+We introduce a novel soft-aided hard-decision decoder for product codes adopting bit marking via updated reliabilities at each decoding iteration. Gains up to 0.8 dB vs. standard iterative bounded distance decoding and up to 0.3 dB vs. our previously proposed bit-marking decoder are demonstrated.

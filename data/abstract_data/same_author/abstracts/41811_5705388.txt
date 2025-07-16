@@ -1,0 +1,2 @@
+Three-coloring Klein bottle graphs of girth five
+We prove that every graph of girth at least five which admits an embedding in the Klein bottle is 3-colorable. This solves a problem raised by Woodburn, and complements a result of Thomassen who proved the same for projective planar and toroidal graphs.

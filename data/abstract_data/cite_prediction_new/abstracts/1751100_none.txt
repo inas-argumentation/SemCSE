@@ -1,0 +1,2 @@
+On variance stabilisation in Population Monte Carlo by double Rao-Blackwellisation
+Population Monte Carlo has been introduced as a sequential importance sampling technique to overcome poor fit of the importance function. The performance of the original Population Monte Carlo algorithm is compared with a modified version that eliminates the influence of the transition particle via a double Rao-Blackwellisation. This modification is shown to improve the exploration of the modes through a large simulation experiment on posterior distributions of mean mixtures of distributions.

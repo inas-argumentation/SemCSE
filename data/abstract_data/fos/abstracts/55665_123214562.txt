@@ -1,0 +1,2 @@
+Maximum Likelihood Estimation of Regression Models with Stochastic Trend Components
+This article is concerned with the estimation of a regression model with a stochastic trend component. It is shown that the probability of estimating the trend to be deterministic is very sensitive to the type of likelihood function used as the basis of inference.

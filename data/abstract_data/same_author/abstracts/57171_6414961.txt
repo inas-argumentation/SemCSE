@@ -1,0 +1,2 @@
+A combinatorial identity with application to Catalan numbers
+By a very simple argument, we prove that if l,m,n@?{0,1,2,...} then@?k=0l(-1)^m^-^klkm-kn2kk-2l+m=@?k=0llk2knn-lm+n-3k-l.On the basis of this identity, for d,r@?{0,1,2,...} we construct explicit F(d,r) and G(d,r) such that for any prime p>max{d,r} we have@?k=1p-1k^rC"k"+"d=F(d,r)(modp)ifp=1(mod3),G(d,r)(modp)ifp=2(mod3),where C"n denotes the Catalan number (2nn)/(n+1. For example, when p>=5 is a prime, we have@?k=1p-1k^2C"k=-23(modp)ifp=1(mod3),-13(modp)ifp=2(mod3),and@?0

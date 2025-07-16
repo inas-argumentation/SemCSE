@@ -1,0 +1,2 @@
+Sufficient conditions for a digraph to be Hamiltonian
+We describe a new type of sufficient condition for a digraph to be Hamiltonian. Conditions of this type combine local structure of the digraph with conditions on the degrees of non-adjacent vertices. The main difference from earlier conditions is that we do not require a degree condition on all pairs of non-adjacent vertices. Our results generalize the classical conditions by Ghouila-Houri and Woodall.

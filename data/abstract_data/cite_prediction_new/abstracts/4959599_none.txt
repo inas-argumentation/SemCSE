@@ -1,0 +1,2 @@
+Design and implementation of series elastic actuators for a haptic laparoscopic device
+The design of a laparoscopic haptic device based on a 4-DOFs mechanism and Series Elastic Actuators (SEA) is described and the results of the theoretical and experimental examinations are presented. With a sufficient bandwidth and low impedance, the system provided a stable interaction with soft tissues, e.g., human liver, in virtual environments.

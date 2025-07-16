@@ -1,0 +1,2 @@
+A self-applicable partial evaluator and its use in incremental compilation
+This paper presents an experimental implementation of a self-applicable partial evaluator in Prolog used for compiler generation and compiler generator generation. The partial evaluator is an extension of a simple meta interpreter for Prolog programs, and its self-application is straightforward because of its simplicity. A method of incremental compilation is also described as a promising application of the partial evaluator for knowledge-based systems.

@@ -1,0 +1,2 @@
+User-Perceived Reliability of Shared Protection Systems with a Finite Number of Repairers
+In this paper we investigate the user-perceived availability and Mean Time to Failure (MTTF) of M-for-N shared protection systems with a finite number of repairers. We assume that there are M backup units, N mutually independent users’ (working) units, and C repairers (1=

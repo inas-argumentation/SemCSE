@@ -1,0 +1,2 @@
+Counting unique-sink orientations
+Unique-sink orientations (USOs) are an abstract class of orientations of the n-cube graph. We consider some classes of USOs that are of interest in connection with the linear complementarity problem. We summarize old and show new lower and upper bounds on the sizes of some such classes. Furthermore, we provide a characterization of K-matrices in terms of their corresponding USOs.

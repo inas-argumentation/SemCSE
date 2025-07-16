@@ -1,0 +1,2 @@
+Research on the Approaches to Realizing Safety of Windows NT/ 2000
+Security is the most important and complicated issue in the programming of C / S under NT / 2000. This article analyzes the foundamental strategies to control safety and emphatically expounds data structure related to the object's safety and the relation between them.Based on above-mentioned, the article also describes the basic procedure of setting safe property of object with the use of the built-in API function.

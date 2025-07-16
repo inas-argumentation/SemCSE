@@ -1,0 +1,2 @@
+Forward Secure Multisignature with Proxy Signers Scheme
+The paper firstly proposes multisignature with proxy signers combining the concept of forward security. The common multisignature and proxy multisignature are specific to the signature,so the signature is more suitable for various applications.In our scheme,the former multisignature is still valid even if all signers' current secret keys is lost; the scheme is based on forward security which can makes signature more secure,efficient and improves the speed of signature.

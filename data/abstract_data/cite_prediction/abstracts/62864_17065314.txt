@@ -1,0 +1,2 @@
+PREA: personalized recommendation algorithms toolkit
+Recommendation systems are important business applications with significant economic impact. In recent years, a large number of algorithms have been proposed for recommendation systems. In this paper, we describe an open-source toolkit implementing many recommendation algorithms as well as popular evaluation metrics. In contrast to other packages, our toolkit implements recent state-of-the-art algorithms as well as most classic algorithms.

@@ -1,0 +1,2 @@
+Nonlinear filtering via generalized Edgeworth series and Gauss-Hermite quadrature
+In this correspondence, an approximate nonlinear filter is presented for systems with continuous time dynamics and discrete time measurements. The filter is based on a combination of generalized Edgeworth series (GES) expansion of probability density functions and Gauss-Hermite quadrature (GHQ); application to a passive tracking problem is also presented.

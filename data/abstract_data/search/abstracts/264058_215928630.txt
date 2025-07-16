@@ -1,0 +1,2 @@
+A survey on concept drift adaptation
+Concept drift primarily refers to an online supervised learning scenario when the relation between the input data and the target variable changes over time. Assuming a general knowledge of supervis.

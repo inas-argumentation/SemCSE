@@ -1,0 +1,2 @@
+The IIIT-H Indic Speech Databases
+This paper discusses the efforts in collecting speech databases for Indian languages – Bengali, Hindi, Kannada, Malayalam, Marathi, Tamil and Telugu. We discuss relevant design considerations in collecting these databases, and demonstrate their usage in speech synthesis. By releasing these speech databases in the public domain without any restrictions for non commercial and commercial purposes, we hope to promote research and developmental activities in building speech synthesis systems in Indian languages.

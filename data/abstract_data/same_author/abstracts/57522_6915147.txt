@@ -1,0 +1,7 @@
+PromoterExplorer: an effective promoter identification method based on the AdaBoost algorithm
+MOTIVATION
+Promoter prediction is important for the analysis of gene regulations. Although a number of promoter prediction algorithms have been reported in literature, significant improvement in prediction accuracy remains a challenge. In this paper, an effective promoter identification algorithm, which is called PromoterExplorer, is proposed. In our approach, we analyze the different roles of various features, that is, local distribution of pentamers, positional CpG island features and digitized DNA sequence, and then combine them to build a high-dimensional input vector. A cascade AdaBoost-based learning procedure is adopted to select the most 'informative' or 'discriminating' features to build a sequence of weak classifiers, which are combined to form a strong classifier so as to achieve a better performance. The cascade structure used for identification can also reduce the false positive.
+
+
+RESULTS
+PromoterExplorer is tested based on large-scale DNA sequences from different databases, including the EPD, DBTSS, GenBank and human chromosome 22. Experimental results show that consistent and promising performance can be achieved.

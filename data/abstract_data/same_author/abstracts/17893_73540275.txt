@@ -1,0 +1,2 @@
+Numerical approach to multi-dimensional phase transitions
+We present an algorithm for numerically analysing the bounce solution for first-order phase transitions. Our approach is well suited to treating phase transitions with several fields. The algorithm consists of two parts. In the first part the bounce solution without damping is determined; in this case energy is conserved. In the second part the continuation to the physically relevant case with damping is performed. The approach presented is numerically stable and easily implemented.

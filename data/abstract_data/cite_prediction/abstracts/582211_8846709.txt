@@ -1,0 +1,2 @@
+Deep Learning 3D Shape Surfaces Using Geometry Images
+1. Established relevance of authalic spherical parametrization for creating geometry images used subsequently in CNN. 2. Robust authalic parametrization of arbitrary shapes using area restoring diffeomorphic flow and barycentric mapping. 3. Creation of geometry images (a) with appropriate shape feature for rigid/non-rigid shape analysis, (b) which are robust to cut and amenable to learn using CNNs. Experiments Cuts & Data Augmentation

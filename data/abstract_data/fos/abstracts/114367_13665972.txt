@@ -1,0 +1,2 @@
+Multi-position data collection and dynamic beam sizing: recent improvements to the automatic data-collection algorithms on MASSIF-1
+Significant improvements to the sample-location, characterization and data-collection algorithms on the autonomous ESRF beamline MASSIF-1 are described. The workflows now include dynamic beam-diameter adjustment and multi-position and multi-crystal data collections.

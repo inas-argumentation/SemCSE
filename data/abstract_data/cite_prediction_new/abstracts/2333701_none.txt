@@ -1,0 +1,2 @@
+COMLEX: visualizing communication for research and saving lives
+One of the major causes of patient harm in hospital is poor communication. We are developing a video review and visualization platform to research and improve medics' communication skills. It intended for use by experimenters, as a deployable training tool for medics, and also for forensic review of communication. It supports pluggable analysis modules and visualizations for research teams, and configurable workflow for educators and hospital administrators.

@@ -1,0 +1,2 @@
+Channel-reuse IMDD-based 40 Gb/s/λ 16-QAM Nyquist-SCM downstream and 20 Gb/s/λ Nyquist 4 PAM upstream WDM-PON
+We experimentally demonstrate an optical intensity modulation transmitter and direct detection receiver-based channel-reuse WDM-PON. 40 Gb/s/λ downstream and 20 Gb/s/λ upstream transmissions over 45-km standard single-mode-fiber (SSMF) on a 100-GHz WDM grid are achieved.

@@ -1,0 +1,2 @@
+A New Model for Stock Price Movements Prediction Using Deep Neural Network
+In this paper, we introduce a new prediction model depend on Bidirectional Gated Recurrent Unit (BGRU). Our predictive model relies on both online financial news and historical stock prices data to predict the stock movements in the future. Experimental results show that our model accuracy achieves nearly 60% in S&P 500 index prediction whereas the individual stock prediction is over 65%.

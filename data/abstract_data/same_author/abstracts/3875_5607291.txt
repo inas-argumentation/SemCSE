@@ -1,0 +1,2 @@
+On primitive BCH codes with unequal error protection capabilities
+Presents a class of binary primitive BCH codes that have unequal-error-protection (UEP) capabilities. The authors use a previous result on the span of their minimum weight vectors to show that binary primitive BCH codes, containing second-order punctured Reed-Muller (RM) codes of the same minimum distance, are binary-cyclic UEP codes. The values of the error correction levels for this class of binary LUEP codes are estimated. >

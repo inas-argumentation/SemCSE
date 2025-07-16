@@ -1,0 +1,2 @@
+Evolutionary programming: an efficient alternative to genetic algorithms for electromagnetic optimization problems
+Evolutionary algorithms, such as genetic algorithms (GAs) evolutionary programming (EP) and evolutionary strategies (ES) have received much attention for global optimization of electromagnetic problems. The capabilities of EP are demonstrated and contrasted with those obtained using GAs on three challenging electromagnetic optimization problems, namely, the design of optimally thinned linear arrays, periodic arrays and Yagi Uda antennas.

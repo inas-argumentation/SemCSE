@@ -1,0 +1,2 @@
+A hierarchy of filters on regular uncountable cardinals
+We introduce a well-founded relation < between filters on the space of descending sequences of ordinals. For each regular uncountable cardinal κ, the length of the relation is an ordinal o(κ) ≤ (2κ)+.

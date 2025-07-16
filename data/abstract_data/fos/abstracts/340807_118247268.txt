@@ -1,0 +1,2 @@
+Deformation of the Heisenberg Algebra inside $gl(3,\mathbb{K})$
+We study non-trivial deformations of the natural imbedding of the Lie algebra $\fh_1$ of lower triangular matrices (the Heisenberg Lie algebra) into $gl(3,\mathbb{K})$, where $\mathbb{K}=\mathbb{R}$ or $|mathbb{C}$. Our first result is the calculation of the first cohomology space $H^1(\fh_1;gl(3,\mathbb{K}))$. We prove that there are no obstructions for integrability of infinitesemal deformation and, furthermore, give an explicit formula for the most general deformation.

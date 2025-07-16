@@ -1,0 +1,2 @@
+Iterative Local-Global Energy Minimization for Automatic Extraction of Objects of Interest
+We propose a novel global-local variational energy to automatically extract objects of interest from images. Previous formulations only incorporate local region potentials, which are sensitive to incorrectly classified pixels during iteration. We introduce a global likelihood potential to achieve better estimation of the foreground and background models and, thus, better extraction results. Extensive experiments demonstrate its efficacy

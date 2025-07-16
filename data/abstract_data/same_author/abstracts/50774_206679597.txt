@@ -1,0 +1,2 @@
+Crosstalk test generation on pseudo industrial circuits: a case study
+In this paper, we present data that validates the viability of a university prototype crosstalk ATPG system, XGEN, on real designs. We remodeled Intel circuits and performed test generation using actual parasitic data. A crosstalk ATPG implementation flow was developed based on Intel tools. Validation results are shown for the modified circuits. Critical issues for preserving accurate timing information and capturing crosstalk effects are discussed.

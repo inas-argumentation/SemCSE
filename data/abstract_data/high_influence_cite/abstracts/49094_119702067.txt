@@ -1,0 +1,2 @@
+The Alexander polynomial for Virtual Twist Knots
+We define a family of virtual knots generalizing the classical twist knots. We develop a recursive formula for the Alexander polynomial $\Delta_0$ (as defined by Silver and Williams) of these virtual twist knots. These results are applied to provide evidence for a conjecture that the odd writhe of a virtual knot can be obtained from $\Delta_0$.

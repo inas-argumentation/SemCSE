@@ -1,0 +1,2 @@
+Directed Feedback Vertex Set Problem is FPT
+To decide if the parameterized feedback vertex set problem in directed graph is fixed-parameter tractable is a long standing open problem. In this paper, we prove that the parameterized feed- back vertex set in directed graph is fixed-parameter tractable and give the first FPT algorithm of running time O((1.48k) k n O(1) ) for it. As the feedback arc set problem in directed graph can be transformed to a feedback vertex set problem in directed graph, hence we also show that the parameterized feedback arc set problem can be solved in

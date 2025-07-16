@@ -1,0 +1,2 @@
+Applying Aspect-Orientation in Designing Security Systems: A Case Study
+As a security policy model evolves, the design of security systems using that model could become increasingly complicated. It is necessary to come up with an approach to guide the development, reuse and evolution of the design. In this paper, we propose an aspect-oriented design approach to designing flexible and extensible security systems. A case study demonstrates that such an approach has multifold benefits and is worth further exploration.

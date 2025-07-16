@@ -1,0 +1,2 @@
+One-Sided Simultaneous Confidence Bounds on Regression Surfaces with Intercepts
+Exact one-sided simultaneous confidence bounds are obtained for general regression surfaces with intercepts and functionally independent regressors. For all values of the regressors, the distance from the regression surface to the one-sided bound is a fixed fraction (less than one) of the corresponding distance to the well-known Working-Hotelling-Scheffe two-sided bound. Tables are provided to facilitate the use of such one-sided bounds.

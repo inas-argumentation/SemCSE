@@ -1,0 +1,2 @@
+Sum of sets in several dimensions
+LetA, B be finite sets in ℝd with|A|=m≤|B|=n, and assume that there is no hyperplane containing both a translation ofA and a translation ofB. Under this condition it is proved that the number of distinct vectors in the form {a+b∶a∈A, b∈B} is at leastn+dm−d(d+1)/2. This generalizes results of Freiman (caseA=B) and Freiman, Heppes, Uhrin (caseA=−B). A more complicated estimate is also given which yields the exact bound for alln>2d.

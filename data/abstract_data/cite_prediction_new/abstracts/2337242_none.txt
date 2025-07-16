@@ -1,0 +1,2 @@
+Network-based crane control system using matrix converter
+This paper presents a matrix converter controlled crane system based on a controller area network (CAN). The squirrel caged induction motors are used to drive the crane and each motor is controlled by the matrix converter with DTC method. The position control algorithm and the network based control system using CAN are introduced. Simulation and experimental results are carried out to verify the performance of MC controlled crane system.

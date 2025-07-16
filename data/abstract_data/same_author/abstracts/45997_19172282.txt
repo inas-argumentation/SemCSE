@@ -1,0 +1,2 @@
+A Separator Theorem for One-Dimensional Graphs Under Linear Mapping
+Abstract For integers a , b >0, let G =〈 Z n , E ab 〉, where Z n = {0, 1,…, n −1} and E ab ={( i , j )∣ j =( ai + b ) mod n for i ∈ Z n }. G has a separator of size O( n /√log a n ).

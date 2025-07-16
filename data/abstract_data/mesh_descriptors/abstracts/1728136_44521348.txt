@@ -1,0 +1,15 @@
+The validity of Acuros BV and TG-43 for high-dose-rate brachytherapy superficial mold treatments.
+PURPOSE
+The purpose of this work is to validate the Acuros BV dose calculation algorithm for high-dose-rate (HDR) brachytherapy superficial mold treatments in the absence of full scatter conditions and compare this with TG-43 dose calculations. We also investigate the impact of additional back scatter material (bolus) applied above surface molds to the dose distributions under the mold.
+
+
+METHODS AND MATERIALS
+The absorbed dose at various depths was compared for simulations performed using either TG-43 or Acuros BV dose calculations. Parameter variations included treatment area, thickness of the bolus, and surface shape (flat or spherical). Film measurements were carried out in a flat phantom.
+
+
+RESULTS
+Acuros BV calculations and film measurements agreed within 1.5% but were up to 15% lower than TG-43 dose calculations when no bolus was applied above the treatment catheters. The difference in dose at the prescription depth (1 cm below the central catheter) increased with increasing treatment area: 3.3% difference for a 3 × 3.5 cm2 source loading area, 7.4% for 8 × 9 cm2, and 13.4% for 18 × 19 cm2. The dose overestimation of the TG-43 model decreased when bolus was added above the treatment catheters.
+
+
+CONCLUSIONS
+The TG-43 dosimetry formalism cannot model surface mold treatments in the absence of full scatter conditions within 5% for loading areas larger than approximately 5 × 5 cm2. The TG-43 model results in an overestimation of the delivered dose, which increases with treatment area. This confirms the need for model-based dose calculation algorithms as discussed in TG-186.

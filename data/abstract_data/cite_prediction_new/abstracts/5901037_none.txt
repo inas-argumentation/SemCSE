@@ -1,0 +1,2 @@
+Multilayer material analysis using an active millimeter wave imaging system
+In this paper we demonstrate an active millimeter wave imaging system which is able to analyze the multilayer structure of dielectric materials with respect to defects such as voids or delamination. The system is based on an ultra wide band FMCW radar with two frequency multipliers from 8 GHz to 96 GHz and an I/Q heterodyne receiver operating at W-band. These circuits have been fabricated in-house using our 100 nm InGaAs mHEMT process [1].

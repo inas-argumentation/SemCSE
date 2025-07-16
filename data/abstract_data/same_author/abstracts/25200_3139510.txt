@@ -1,0 +1,2 @@
+CMS Software Distribution on the LCG and OSG Grids
+The efficient exploitation of worldwide distributed storage and computing resources available in the grids require a robust, transparent and fast deployment of experiment specific software. The approach followed by the CMS experiment at CERN in order to enable Monte-Carlo simulations, data analysis and software development in an international collaboration is presented. The current status and future improvement plans are described.

@@ -1,0 +1,2 @@
+A predictive empirical model for pricing and resource allocation decisions
+We present a semi-parametric model that describes pricing behaviors in a market environment, and we show how that model can be used to guide resource allocation and pricing decisions in an autonomous trading agent. We validate our model by presenting experimental results obtained in the Trading Agent Competition for Supply Chain Management.

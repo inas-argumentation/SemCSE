@@ -1,0 +1,15 @@
+Three-dimensional transrectal ultrasound guided high-dose-rate prostate brachytherapy: A comparison of needle segmentation accuracy with two-dimensional image guidance.
+PURPOSE
+Conventional transrectal ultrasound guided high-dose-rate prostate brachytherapy (HDR-BT) uses an axially acquired image set for organ segmentation and 2D sagittal images for needle segmentation. Sagittally reconstructed 3D (SR3D) transrectal ultrasound enables both organ and needle segmentation and has the potential to reduce organ-needle alignment uncertainty. This study compares the accuracy of needle tip localization between the conventional 2D sagittally assisted axially reconstructed (SAAR) and SR3D approaches.
+
+
+METHODS AND MATERIALS
+Twelve patients underwent SAAR-guided HDR-BT, during which SR3D images were acquired for subsequent segmentation and analysis. A total of 183 needles were investigated. Needle end-length measurements were taken, providing a gold standard for insertion depths. Dosimetric impact of insertion depth errors (IDEs) on clinical treatment plans was assessed.
+
+
+RESULTS
+SR3D guidance provided statistically significantly smaller IDEs than SAAR guidance with a mean ± SD of -0.6 ± 3.2 mm and 2.8 ± 3.2 mm, respectively (p < 0.001). Shadow artifacts were found to obstruct the view of some needle tips in SR3D images either partially (12%) or fully (10%); however, SR3D IDEs had a statistically significantly smaller impact on prostate V100% than SAAR IDEs with mean ± SD decreases of -1.2 ± 1.3% and -6.5 ± 6.7%, respectively (p < 0.05).
+
+
+CONCLUSIONS
+SR3D-guided HDR-BT eliminates a source of systematic uncertainty from the SAAR-guided approach, providing decreased IDEs for most needles, leading to a significant decrease in dosimetric uncertainty. Although imaging artifacts can limit the accuracy of tip localization in a subset of needles, we identified a method to mitigate these artifacts for clinical implementation.

@@ -1,0 +1,2 @@
+Research on High Code Rate DQPSK Telemetry Signal's Demodulation
+This paper presents a new algorithm used to demodulate high code rate DQPSK telemetry signal by digital frequency measurement.This algorithm has high efficiency and low error code ratio.It restrain Doppler frequency and can be realized by hardware of some digital signal processor.The emulate result of the algorithm are also given.

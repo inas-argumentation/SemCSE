@@ -1,0 +1,15 @@
+Identification of incident stroke in Norway: hospital discharge data compared with a population-based stroke register.
+BACKGROUND AND PURPOSE
+The validity of hospital discharge diagnoses is essential in improving stroke surveillance and estimating healthcare costs of stroke. The aim of this study was to assess sensitivity, positive predictive value, and accuracy of discharge diagnoses compared with a stroke register.
+
+
+METHODS
+A record linkage was made between a population-based stroke register and the discharge records of the hospital serving the population of the stroke register (n=70 000). The stroke register (including patients aged 15 and older and with no upper age limit), applied here as a "gold standard," was used to estimate sensitivity, positive predictive value, and accuracy of the discharge diagnoses classification. The length of stay in hospital by stroke patients was measured.
+
+
+RESULTS
+Identifying cerebrovascular diseases by hospital discharge diagnoses (International Classification of Diseases, 9th Revision [ICD-9], codes 430 to 438.9, first admission) lead to a substantial overestimation of stroke in the target population. Restricting the retrieval to acute stroke diagnoses (ICD-9 codes 430, 431, 434, and 436) gave an incidence estimate closer to the "true" incidence rate in the stroke register. Selecting ICD-9 codes 430 to 438 of cerebrovascular diseases gave the highest sensitivity (86%). The highest positive predictive value (68%) was achieved by selecting acute stroke diagnoses (ICD-9 codes 430, 431, 434, and 436), at the expense of a lower sensitivity (81%). Accuracy of ICD codes 430 to 438.9 (n=678) revealed the highest proportion of incident strokes identified by the acute stroke diagnoses (ICD-9 codes 430, 431, 434, and 436). Seventy-four percent of hospital discharge diagnoses classified as first-ever stroke kept the original diagnosis. Only 4.6% of the discharge diagnoses were classified as nonstroke diagnoses after validation. The estimation of length of stay in the hospital was improved by selection of acute stroke diagnoses from hospital discharge data (ICD-9 codes 430, 431, 434, and 436), which gave the same estimate of length of stay, a median of 8 days (2.5 percentile=0 and 97.5 percentile=56), compared with a median of 8 days (2.5 percentile=0 and 97.5 percentile=51) based on the stroke register.
+
+
+CONCLUSIONS
+Hospital discharge data may overestimate stroke incidence and underestimate the length of stay in the hospital, unless selection routines of hospital discharge diagnoses are restricted to acute stroke diagnoses (ICD-9 codes 430, 431, 434, and 436). If supplemented by a validation procedure, including estimates of sensitivity, positive predictive value, and accuracy, hospital discharge data may provide valid information on hospital-based stroke incidence and lead to better allocation of health resources. Distinguishing subtypes of stroke from hospital discharge diagnoses should not be performed unless coding practices are improved.

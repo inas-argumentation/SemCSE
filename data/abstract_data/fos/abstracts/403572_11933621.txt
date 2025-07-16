@@ -1,0 +1,2 @@
+A PC Based FASTBUS Development System
+A general purpose FASTBUS development system and test station based on the IBM¿, PC is described. Designed to facilitate the development, testing and monitoring of the latest generation of high energy physics detectors, this system provides the user with the flexibility, performance, and speed of FASTBUS in a compact transportable package. The commercially available key components are: 1) a FASTBUS mini-crate, (2) a programmable FASTBUS Master, (3) a DMA interface and (4) a PC-type personal computer. In addition, a gateway to VME exists.

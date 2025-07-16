@@ -1,0 +1,2 @@
+Testing Structure Freeness of Regular Sets of Biomolecular Sequences
+$p\ {\overset{x}{\rightarrow}}\ q$ This paper discusses a problem of checking the structure freeness of DNA and RNA sequences. A set R of sequences over Σ is said to be structure free if for every α ∈ R, the minimum free energy of α is greater than or equal to 0. It was open whether or not there exists a polynomial time algorithm for testing the structure freeness of a given regular set R. In this paper, we will solve this problem.

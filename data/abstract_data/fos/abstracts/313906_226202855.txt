@@ -1,0 +1,2 @@
+A note on the low order assumption in class group of an imaginary quadratic number fields
+In this short note we analyze the low order assumption in the imaginary quadratic number fields. We show how this assumption is broken for Mersenne primes. We also provide a description on how to possible attack this assumption for other class of prime numbers leveraging some new mathematical tool coming from higher (cubic) number fields.

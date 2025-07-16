@@ -1,0 +1,2 @@
+Lattice Calibration with Turn-By-Turn BPM Data
+Turn-by-turn beam position monitor (BPM) data from multiple BPMs are fitted with a tracking code to calibrate magnet strengths in a manner similar to the well known LOCO code. Simulation shows that this turn-by-turn method can be a quick and efficient way for optics calibration. The method is applicable to both linacs and ring accelerators. Experimental results for a section of the SPEAR3 ring is also shown.

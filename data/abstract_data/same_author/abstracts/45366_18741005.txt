@@ -1,0 +1,2 @@
+Reasoning in Extensional Type Theory with Equality
+We describe methods for automated theorem proving in extensional type theory with primitive equality. We discuss a complete, cut-free sequent calculus as well as a compact representation of cut-free (ground) proofs as extensional expansion dags. Automated proof search can be realized using a few operations to manipulate extensional expansion dags with variables. These search operations form a basis for complete search procedures. Procedures based on these ideas are implemented in the higher-order theorem prover Tps.

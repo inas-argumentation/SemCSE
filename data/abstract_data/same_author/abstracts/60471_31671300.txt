@@ -1,0 +1,2 @@
+Searching for the Optimum Correlation Attack
+We present some new ideas on attacking stream ciphers based on regularly clocked shift registers. The nonlinear filter functions used in such systems may leak information if they interact with shifted copies of themselves, and this gives us a systematic way to search for correlations between a keystream and the underlying shift register sequence.

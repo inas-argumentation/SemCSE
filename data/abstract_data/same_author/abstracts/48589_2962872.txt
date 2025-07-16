@@ -1,0 +1,2 @@
+Finite element analysis of a class of stress-free martensitic microstructures
+This work is concerned with the finite element approximation of a class of stress-free martensitic microstructures modeled by multi-well energy minimization. Finite element energy-minimizing sequences are first constructed to obtain bounds on the minimum energy over all admissible finite element deformations. A series of error estimates are then derived for finite element energy minimizers.

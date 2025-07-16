@@ -1,0 +1,2 @@
+Tree-Structures for Set Manipulation Problems
+We discuss the use of tree-structures for finding efficient solutions for the well-known dictionary problem and generalizations thereof. In doing so, we present a number of known techniques together with recent developments. In particular, we mention recent results concerning trees of very small height suitable for implementing dictionaries, results concerning the non-uniform dictionary problem and new results on one-sided AVL trees.

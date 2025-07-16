@@ -1,0 +1,2 @@
+SeCURITy AnAlySIS oF MobIle Two-FACToR AUThenTICATIon SCheMeS
+Two-factor authentication (2FA) schemes aim at strengthening the security of login-password–based authentication by deploying secondary authentication tokens. In this context, mobile 2FA schemes require no additional hardware (such as a smartcard) to store and handle the secondary authentication token, and hence are considered as a reasonable tradeoff between security, usability, and cost. They are widely used in online banking and increasingly deployed by Internet service providers.

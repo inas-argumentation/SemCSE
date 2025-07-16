@@ -1,0 +1,15 @@
+A patient-independent CT intensity matching method using conditional generative adversarial networks (cGAN) for single x-ray projection based tumor localization.
+PURPOSE
+A convolutional neural network based tumor localization method with single x-ray projection was previously developed by us. One finding is that the intensity discrepancy between digitally reconstructed radiograph (DRR) of 3D-CT and measured x-ray projection has an impact on the performance. To address the issue, a patient-dependent intensity matching process for 3D-CT was performed using 3D-CBCT from the same patient, which was sometimes inefficient and may adversely affect the clinical implementation of the framework. To circumvent this, in this work, we propose and validate a patient-independent intensity matching method based on conditional Generative Adversarial Networks (cGAN).
+
+
+METHODS
+A 3D cGAN was trained to approximate the mapping from 3D-CT to 3D-CBCT from previous patient data. By applying the trained network to new patient, synthetic 3D-CBCT could be generated without the need to perform actual CBCT scan on that patient. The DRR of synthetic 3D-CBCT was subsequently utilized in our CNN-based tumor localization scheme. The method was tested on 12 patient data with same imaging parameters. The resulting 3D-CBCT and DRR were compared with real ones to demonstrate the efficacy of the proposed method. The tumor localization errors were also analyzed.
+
+
+RESULTS
+The difference between the synthetic and real 3D-CBCT had median value no more than 10 HU for all patients. The relative error between DRR and measured x-ray projection was less than 4.8%±2.0% for all patients. For the three patients with visible tumor in x-ray projections, the average tumor localization errors were below 1.7 mm and 0.9 mm in the superior-inferior (SI) and lateral directions.
+
+
+CONCLUSION
+A patient-independent CT intensity matching method was developed, based on which accurate tumor localization can be achieved. It does not require actual CBCT scan to be performed before treatment for each patient, therefore making it more efficient in the clinical workflow.

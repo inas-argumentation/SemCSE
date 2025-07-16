@@ -1,0 +1,2 @@
+The Comparison Research of MC Algorithm and MT Algorithm
+The surface reconstruction calculation of three-dimension medical image has been a research hot sopt recently.There are many calculation methods recently,among which the most representative ones are Marching Cubes(MC)and Marching Tetrahedra(MT).This paper analyzes the principles,data structures and the processes of the realization of these two methods;and based on the results of experiments,this paper works out their respective advantages and disadvantages.

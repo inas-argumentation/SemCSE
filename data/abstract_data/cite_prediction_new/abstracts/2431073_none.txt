@@ -1,0 +1,2 @@
+Towards First-order Deduction Based on Shannon Graphs
+We present a new approach to Automated Deduction based on the concept of Shannon graphs, which are also known as Binary Decision Diagrams (BDDs). A Skoleinized formula is first transformed into a Shannon graph, then the latter is compiled into a set of Horn clauses. These can finally be run as a Prolog program trying to refute the initial formula. It is also possible to precompile axiomatizations into Prolog and load these theories as required.

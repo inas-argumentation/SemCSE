@@ -1,0 +1,2 @@
+A scalable service for photo annotation, sharing, and search
+In this work we present the details of the implementation of Fotofiti(FF), a website that provides automatic semantic annotation of digital photographs, event management and social network integration. We describe our technique for real-time online semantic annotation using global features from both content and context. Classification experiments using various learning techniques were performed on a realworld data-set. Additionally, a scalable landmark recognition system which utilizes local features is discussed.

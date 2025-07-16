@@ -1,0 +1,10 @@
+Using Nondeterminism to Design Efficient Deterministic Algorithms
+In this paper we illustrate how nondeterminism can be used
+conveniently and effectively in designing efficient deterministic
+algorithms. In particular, our method gives a parameterized
+algorithm of running time O((5.7 k)k n) for the 3-D matching
+problem, which significantly improves the previous algorithm by
+Downey et al. The algorithm can be generalized to
+yield an improved algorithm for the r-D matching problem for any
+positive integer r. The method can also be employed in designing
+deterministic algorithms for other optimization problems as well.

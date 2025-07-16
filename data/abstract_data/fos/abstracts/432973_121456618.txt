@@ -1,0 +1,2 @@
+Jackknifed kernel quantile estimators
+A new quantile estimator is obtained by jackknifing the kernel quantile estimator. The asymptotic relative deficiency of the kernel quantile estimator relative to the jackknifed quantile estimator is investigated.

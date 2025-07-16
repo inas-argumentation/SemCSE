@@ -1,0 +1,11 @@
+Integrating transcription factor binding site information with gene expression datasets
+MOTIVATION
+Microarrays are widely used to measure gene expression differences between sets of biological samples. Many of these differences will be due to differences in the activities of transcription factors. In principle, these differences can be detected by associating motifs in promoters with differences in gene expression levels between the groups. In practice, this is hard to do.
+
+
+RESULTS
+We combine correspondence analysis, between group analysis and co-inertia analysis to determine which motifs, from a database of promoter motifs, are strongly associated with differences in gene expression levels. Given a database of motifs and gene expression levels from a set of arrays, the method produces a ranked list of motifs associated with any specified split in the arrays. We give an example using the Gene Atlas compendium of gene expression levels for human tissues where we search for motifs that are associated with expression in central nervous system (CNS) or muscle tissues. Most of the motifs that we find are known from previous work to be strongly associated with expression in CNS or muscle. We give a second example using a published prostate cancer dataset where we can simply and clearly find which transcriptional pathways are associated with differences between benign and metastatic samples.
+
+
+AVAILABILITY
+The source code is freely available upon request from the authors.

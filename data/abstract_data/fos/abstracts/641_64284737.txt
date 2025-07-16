@@ -1,0 +1,2 @@
+Study on A Conversion Method from UML Diagrams to SVG Graphics
+This paper first analyzes the mapping relationship between object model of Unified Modeling Language(UML) and Extensible Markup Language(XML) document format.According to the XMI2.0,it generates a XML document which includes UML modeling information.Then using XSLT the XML document is transformed into corresponding Scalable Vector Graphics(SVG).Finally,the UML diagrams are conversed to SVG graphics.Since the inherent advantages of SVG can be fully utilized,this method is beneficial to the online Web publication.

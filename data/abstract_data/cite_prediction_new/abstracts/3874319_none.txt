@@ -1,0 +1,15 @@
+Combining Data From Liver Disease Scoring Systems Better Predicts Outcomes of Patients With Alcoholic Hepatitis.
+BACKGROUND & AIMS
+Several models have been used to determine prognoses of patients with alcoholic hepatitis. These include static systems (the Maddrey discriminant function; age, bilirubin, international normalized ratio, creatinine [ABIC] score; and model for end-stage liver disease [MELD] score) and dynamic models (the Lille model). We aimed to combine features of all of these models to develop a better method to predict outcomes of patients with alcoholic hepatitis.
+
+
+METHODS
+We collected data from several databases of patients with severe alcoholic hepatitis treated with corticosteroids in France and the United Kingdom to create a model to predict patient survival (derivation cohort, n = 538 patients). We compared the performances of 3 joint-effect models (Maddrey+Lille, MELD+Lille, and ABIC+Lille) to determine which combination had the best prognostic value, based on known patient outcomes. The model was validated using data from trials of the effects of corticosteroids in patients in the United States, France, Korea, and Belgium (n = 604 patients).
+
+
+RESULTS
+We created a joint-effect model to predict patient survival after 2 and 6 months; in the derivation and validation cohorts it predicted outcome significantly better than either static or dynamic models alone (P < .01 for all comparisons). The joint model accurately predicted patient survival regardless of patient risk level. The MELD+Lille combination was better than the Maddrey+Lille or ABIC+Lille combination in predicting patient survival, with Akaike information criterion values of 1305, 1313, and 1312, respectively. For example, based on the MELD+Lille combination model, the predicted 6-month mortality of complete responders with MELD scores of 15-45 (Lille score, 0.16) was 8.5% to 49.7%, compared with 16.4%-75.2% for nonresponders (Lille score, 0.45). According to the joint-effect model, for 2 patients with the same baseline MELD score of 21, the patient with a Lille score of 0.45 had a 1.9-fold higher risk of death than the patient with a Lille score of 0.16 (23.7% vs 12.5%).
+
+
+CONCLUSIONS
+By combining results from static and dynamic scoring systems for liver disease, we can better predict outcomes of patients with alcoholic hepatitis, compared with either model alone. This may help patient management and design of clinical trials.

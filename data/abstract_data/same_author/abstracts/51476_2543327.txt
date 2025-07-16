@@ -1,0 +1,2 @@
+Encoding Transition Systems in Sequent Calculus
+Linear logic has been used to specify the operational semantics of various process calculi. In this paper we explore how meta-level judgments, such as simulation and bisimulation, can be established using such encodings. In general, linear logic is too weak to derive such judgments and we focus on an extension to linear logic using definitions. We explore this extension in the context of transition systems.

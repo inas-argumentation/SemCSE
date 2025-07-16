@@ -1,0 +1,2 @@
+Verification and Validation for Trustworthy Software Systems
+A continuous and proactive process for conducting verification and validation of systems involves using scenario-based testing to validate whether formal assertions correctly capture the intent of the natural language requirements. The process is automated through the use of statechart assertions and runtime execution monitoring. The statechart assertions can be used as part of a system reference model in support of independent verification and validation of trustworthy systems.

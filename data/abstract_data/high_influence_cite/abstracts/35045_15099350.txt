@@ -1,0 +1,2 @@
+An Envelope Correlation Formula for (N,N) MIMO Antenna Arrays Using Input Scattering Parameters, and Including Power Losses
+The scattering parameter formulation for the envelope correlation in an (N,N) MIMO antenna array has been modified to take the intrinsic antenna power losses into account. This method of calculation provides a major simplification over the use of antenna radiation field patterns. Its accuracy is illustrated in three examples, which also show that the locations of the correlation minima are sensitive to the intrinsic losses.

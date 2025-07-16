@@ -1,0 +1,2 @@
+VLSI Architecture for 2-D 3-Level Lifting-Based Discrete Wavelet Transform
+The Discrete Wavelet Transform (DWT) is the basis for many image compression technologies. In this paper, we propose an efficient VLSI architecture to compute lifting-based 2-D 3-level DWT coefficients concurrently. In comparison with other 2-D DWT architectures, the advantages of the proposed one have higher hardware utilization, less storage size, and regular data flow.

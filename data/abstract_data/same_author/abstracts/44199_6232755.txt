@@ -1,0 +1,2 @@
+Algorithms for minimum covering by cliques and maximum clique in claw-free perfect graphs
+An algorithm is given for determining a minimum cardinality clique cover ongraphs that do not contain claws, odd holes or odd anti-holes. These graphs are also shown to be perfect so that we obtain a new proof of the strong perfect graph theorem for claw-free graphs. A by-product of our analysis is an algorithm for determining a maximum cardinality clique on claw-free perfect graphs.

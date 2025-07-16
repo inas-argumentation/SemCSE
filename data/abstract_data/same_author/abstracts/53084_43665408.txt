@@ -1,0 +1,2 @@
+Resolution of Hartmanis' Conjecture for NL-Hard Sparse Sets
+We resolve a conjecture of Hartmanis from 1978 about sparse hard sets for nondeterministic logspace (NL). We show that there exists a sparse hard set S for NL under logspace many-one reductions if and only if NL = L (deterministic logspace).

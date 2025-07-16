@@ -1,0 +1,2 @@
+Parallel Tree Pattern Matching
+Tree pattern matching is a fundamental operation that is used in a number of programming tasks such as code optimization in compilers, symbolic computation, automatic theorem proving and term rewriting. An important special case of this operation is linear tree pattern matching in which an instance of any variable in the pattern occurs at most once. In this paper we describe a new parallel algorithm for linear tree pattern matching using a parallel random access machine model.

@@ -1,0 +1,2 @@
+Myrinet: A Gigabit per Second Local Area Network
+The Myrinet local area network employs the same technology used for packet communication and switching within massively parallel processors. In realizing this distributed MPP network, we developed specialized communication channels, cut through switches, host interfaces, and software. To our knowledge, Myrinet demonstrates the highest performance per unit cost of any current LAN.

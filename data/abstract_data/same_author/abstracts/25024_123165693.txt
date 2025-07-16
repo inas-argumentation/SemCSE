@@ -1,0 +1,4 @@
+An inequality onS wave bound states, with correct coupling constant dependence
+We prove that the number ofS wave bound states in a spherically symmetric potentialgV(r) is less than1
+$$g^{1/2} \left[ {\int\limits_0^\infty {r^2 V^ - (r)dr} \int\limits_0^\infty {V^ - (r)dr} } \right]^{1/4}$$
+ whereV− is the attractive part of the potential, in units where ħ2/2M=1.

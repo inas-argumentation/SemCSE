@@ -1,0 +1,2 @@
+Light-based solution for the dominating set problem.
+In this paper, an optical solution for the dominating set problem is provided. The solution is based on long ribbon-shaped optical filters, on which some operations can be optically applied efficiently. The provided solution requires polynomial time, exponential length of filters, and exponential number of photons to solve the dominating set problem. The provided solution is implemented experimentally using lithographic sheets, on a graph with six vertices, to find all dominating sets with two vertices.

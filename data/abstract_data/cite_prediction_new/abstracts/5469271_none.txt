@@ -1,0 +1,2 @@
+Bitrate-compatible adaptive coded modulation for software defined networks
+A novel coded modulation scheme which adaptively supports multiple modulation formats for software defined networks is proposed. With the same fundamental FEC architecture, alterable bitrates can be compatibly implemented without additional hardware recourses and performance penalty.

@@ -1,0 +1,2 @@
+A study of NMOS behavior under ESD stress: simulation and characterization
+A full-scale simulation-aided ESD design methodology was used to design a group of NMOS ESD protection units. Silicon results match the simulation data quite well. Both simulation and measurement data show good ESD performance uniformity across NMOS poly finger length and finger number in ladder structures in a large range. Optimal layout pattern for ladder structures was obtained with the aid of simulation.

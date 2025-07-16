@@ -1,0 +1,2 @@
+Training RNN simulated vehicle controllers using the SVD and evolutionary algorithms
+We describe an approach to creating a controller for The Open Car Racing Simulator (TORCS), based on The Simulated Car Racing Championship (SCRC) client, using unsupervised evolutionary learning for recurrent neural networks. Our method of training the recurrent neural network controllers relies on combining the components of the singular value decomposition of two different neural network connection matrices.

@@ -1,0 +1,10 @@
+Cardinal invariants related to permutation groups
+We consider the possible cardinalities of the following three cardinal invariants which are related to the permutation group on the set of natural numbers:
+
+ag≔ the least cardinal number of maximal cofinitary permutation groups;
+
+ap≔ the least cardinal number of maximal almost disjoint permutation families;
+
+c(Sym(N))≔ the cofinality of the permutation group on the set of natural numbers.
+
+We show that it is consistent with ZFC that ap=ag<c(Sym(N))=ℵ2; in fact we show that in the Miller model ap=ag=ℵ1<ℵ2=c(Sym(N)).

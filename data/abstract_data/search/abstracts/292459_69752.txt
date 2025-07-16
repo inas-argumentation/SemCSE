@@ -1,0 +1,2 @@
+Variography for Model Selection in Local Polynomial Regression with Spatial Data
+In this work, we apply variographic techniques from spatial statistics to the problem of model selection in local polynomial regression with multivariate data. These techniques permit selection of the kernel and smoothing matrix with less computational load and interpretation of the regularity of the regression function in different directions. Moreover, they may represent the only feasible alternative for problems of a certain dimensionality.

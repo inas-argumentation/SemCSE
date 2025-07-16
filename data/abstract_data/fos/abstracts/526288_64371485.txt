@@ -1,0 +1,2 @@
+Design and Implementation of Binary Tree Dynamic Modeling Software
+Data structure teaching is abstract, if uses some visual simulation software in the teaching process, it will be vivid. Practice has proved that TreeView component of C#.NET platform can well describe the hierarchical structure tree. With TreeView component, users can quickly develop a binary tree modeling and traversal simulation software. Using the software, users can visually, dynamically modeling and achieve traversal simulation on the logical structure of binary tree.

@@ -1,0 +1,2 @@
+Implications of Proximity Effects for Analog Design
+This paper addresses two significant proximity effects, well proximity and STI stress, as they relate to analog circuit design. Device performance is impacted by layout features located near, but not part of the device. This adds new complexities to analog design. In either case, bias points can shift by 20-30%, causing potentially catastrophic failures in circuits. We show, for the first time, that a MOSFET placed close to a well-edge creates a graded channel

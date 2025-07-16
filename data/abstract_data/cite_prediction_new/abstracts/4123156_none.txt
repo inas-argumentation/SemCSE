@@ -1,0 +1,2 @@
+Modelling and simulating non-stationary arrival processes to facilitate analysis
+This paper introduces a method to model and simulate non-stationary, non-renewal arrival processes that depends only on the analyst setting intuitive and easily controllable parameters. Thus, it is suitable for assessing the impact of non-stationary, non-exponential, and non-independent arrivals on simulated performance when they are suspected. A specific implementation of the method is also described and provided for download.

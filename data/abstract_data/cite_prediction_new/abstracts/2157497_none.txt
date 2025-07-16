@@ -1,0 +1,11 @@
+A reference dataset for the analyses of membrane protein secondary structures and transmembrane residues using circular dichroism spectroscopy
+MOTIVATION
+Empirical analyses of protein secondary structures based on circular dichroism (CD) and synchrotron radiation circular dichroism (SRCD) spectroscopic data rely on the availability of reference datasets comprised of spectra of relevant proteins, whose crystal structures have been determined. Datasets comprised of only soluble proteins have not proven suitable for analysing the spectra of membrane proteins.
+
+
+RESULTS
+A new reference dataset, MP180, has been created containing the spectra of 30 membrane proteins encompassing the secondary structure and fold space covered by all known membrane protein structures. In addition a mixed soluble and membrane protein dataset, SMP180, has been created, which includes 98 soluble protein spectra (SP) plus the MP180 spectra. Calculations of both membrane and soluble protein secondary structures using SMP180 are significantly improved with respect to those produced, using soluble protein-only datasets. The SMP180 dataset also enables determination of the percentage of transmembrane residues, thus enhancing the information previously obtainable from CD spectroscopy.
+
+
+AVAILABILITY AND IMPLEMENTATION
+Reference dataset online at the DichroWeb analysis server (http://dichroweb.cryst.bbk.ac.uk); individual protein spectra in the Protein Circular Dichroism Data Bank (http://pcddb.cryst.bbk.ac.uk).

@@ -1,0 +1,2 @@
+Asymptotic Expansions of the Lognormal Implied Volatility: A Model Free Approach
+We invert the Black-Scholes formula. We consider the cases low strike, large strike, short maturity and large maturity. We give explicitly the first 5 terms of the expansions. A method to compute all the terms by induction is also given. At the money, we have a closed form formula for implied lognormal volatility in terms of a power series in call price.

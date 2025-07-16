@@ -1,0 +1,6 @@
+Centralizer construction of the Yangian of the queer Lie superalgebra
+Consider the complex matrix Lie superalgebra \( \mathfrak{g}\mathfrak{l}_{\left. N \right|N} \) with the standard generators E ij where i, j = ±1, . . . , ± N. Define an involutive automorphism η of \( \mathfrak{g}\mathfrak{l}_{\left. N \right|N} \) by η(E ij) = E −i,−j . The queer Lie superalgebra qN is the fixed point subalgebra in \( \mathfrak{g}\mathfrak{l}_{\left. N \right|N} \) relative to η. Consider the twisted polynomial current Lie superalgebra 
+ 
+$$ \mathfrak{g} = \left\{ {X\left( t \right) \in \mathfrak{g}\mathfrak{l}_{\left. N \right|N} \left[ t \right]:\eta \left( {X\left( t \right)} \right) = X\left( { - t} \right)} \right\} $$ 
+ 
+. The enveloping algebra U(\( \mathfrak{g} \) ) of the Lie superalgebra g has a deformation, called the Yangian of qN. For each M = 1,2, . . . , denote by A N M the centralizer of qM ⊂ q N+M in the associative superalgebra U(q N+M). In this article we construct a sequence of surjective homomorphisms U(qN) ← A N 1 ← A N 2 ← . . . . We describe the inverse limit of the sequence of centralizer algebras A N 1 , A N 2 , . . . in terms of the Yangian of qN.

@@ -1,0 +1,2 @@
+Statistical Machine Translation Using the Self-Organizing Map
+The paper describes a contextual environment using the Self-Organizing Map, which can model a semantic agent (SOMAgent) that learns the correct meaning of a word used in context in order to deal with specific phenomena such as ambiguity, and to generate more precise alignments that can improve the first choice of the Statistical Machine Translation system giving linguistic knowledge.

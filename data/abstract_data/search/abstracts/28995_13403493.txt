@@ -1,0 +1,2 @@
+An improved KNN text classification algorithm based on Simhash
+An improved KNN text classification algorithm based on Simhash has been proposed by introducing Simhash and the average Hamming distance of adjacent texts as a unit, which solves the problems caused by data imbalance and the large computational overhead in the traditional KNN text classification algorithms. Experimental results demonstrate that the proposed algorithm performs a higher precision, a higher recall and a better F1 value, which shows the validity of the proposed algorithm.

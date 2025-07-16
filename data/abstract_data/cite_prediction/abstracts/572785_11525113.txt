@@ -1,0 +1,15 @@
+RobotReviewer: evaluation of a system for automatically assessing bias in clinical trials
+OBJECTIVE
+To develop and evaluate RobotReviewer, a machine learning (ML) system that automatically assesses bias in clinical trials. From a (PDF-formatted) trial report, the system should determine risks of bias for the domains defined by the Cochrane Risk of Bias (RoB) tool, and extract supporting text for these judgments.
+
+
+METHODS
+We algorithmically annotated 12,808 trial PDFs using data from the Cochrane Database of Systematic Reviews (CDSR). Trials were labeled as being at low or high/unclear risk of bias for each domain, and sentences were labeled as being informative or not. This dataset was used to train a multi-task ML model. We estimated the accuracy of ML judgments versus humans by comparing trials with two or more independent RoB assessments in the CDSR. Twenty blinded experienced reviewers rated the relevance of supporting text, comparing ML output with equivalent (human-extracted) text from the CDSR.
+
+
+RESULTS
+By retrieving the top 3 candidate sentences per document (top3 recall), the best ML text was rated more relevant than text from the CDSR, but not significantly (60.4% ML text rated 'highly relevant' v 56.5% of text from reviews; difference +3.9%, [-3.2% to +10.9%]). Model RoB judgments were less accurate than those from published reviews, though the difference was <10% (overall accuracy 71.0% with ML v 78.3% with CDSR).
+
+
+CONCLUSION
+Risk of bias assessment may be automated with reasonable accuracy. Automatically identified text supporting bias assessment is of equal quality to the manually identified text in the CDSR. This technology could substantially reduce reviewer workload and expedite evidence syntheses.

@@ -1,0 +1,2 @@
+Shape from Photometric Stereo and Contours
+In this work, we propose an alternative approach to 3D shape recovery by combining photometric stereo and shape from contours methods. Surfaces recovered by photometric stereo are aligned, adjusted and merged according to a preliminary 3D model obtained by shape from contours. Comparisons are conducted to evaluate the performances of different methods. It has been found that the proposed approach provides more accurate shape recovery than the photometric stereo and shape from contours methods.

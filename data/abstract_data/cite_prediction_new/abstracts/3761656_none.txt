@@ -1,0 +1,2 @@
+A Technical Report on PLS-Completeness of Single-Swap for Unweighted Metric Facility Location and K-Means
+Recently, [Bra17] showed that the single-swap heuristic for weighted metric uncapacitated facility location and $K$-Means is tightly PLS-complete. We build upon this work and present a stronger reduction, which proves tight PLS-completeness for the unweighted version of both problems.

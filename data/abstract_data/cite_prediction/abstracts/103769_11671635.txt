@@ -1,0 +1,2 @@
+Enabling 5G backhaul and access with millimeter-waves
+This paper presents the approach of extending cellular networks with millimeter-wave backhaul and access links. Introducing a logical split between control and user plane will permit full coverage while seamlessly achieving very high data rates in the vicinity of mm-wave small cells.

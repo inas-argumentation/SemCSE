@@ -1,0 +1,4 @@
+Intercode Regular Languages
+Intercodes are a generalization of comma-free codes. Using the structural properties of finite-state automata recognizing an intercode we develop a polynomial-time algorithm for determining whether or not a given regular language L is an intercode. If the answer is yes, our algorithm yields also the smallest index k such that L is a k-intercode. 
+ 
+Furthermore, we examine the prime intercode decomposition of intercode regular languages and design an algorithm for the intercode primality test of an intercode recognized by a finite-state automaton. We also propose an algorithm that computes the prime intercode decomposition of an intercode regular language in polynomial time. Finally, we demonstrate that the prime intercode decomposition need not be unique.

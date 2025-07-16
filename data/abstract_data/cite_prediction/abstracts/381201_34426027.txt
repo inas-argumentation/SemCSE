@@ -1,0 +1,2 @@
+A 1.8V CMOS chopper four-quadrant analog multiplier
+A 1.8V CMOS chopper four-quadrant analog multiplier, intending to serve as an autonomous IC block for low-frequency signal processing, is presented. Particular emphasis is laid upon achieving low output noise by means of chopper stabilization, while the multiplier's operation is based on the MOS Translinear Principle. The proposed design has been implemented and simulated in TSMC 0.18 µm CMOS process.

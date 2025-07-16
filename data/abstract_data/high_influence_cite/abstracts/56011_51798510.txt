@@ -1,0 +1,16 @@
+Effective viscosity of bacterial suspensions: a three-dimensional PDE model with stochastic torque.
+We present a PDE model for dilute suspensions of swimming bacteria in a three-dimensional Stokesian fluid. 
+This model is used to 
+calculate the statistically-stationary bulk deviatoric stress and effective viscosity of the suspension 
+from the microscopic details of the interaction of an elongated body with the background flow. 
+A bacterium is modeled as an impenetrable prolate spheroid 
+with self-propulsion provided by a point force, which appears in the model as an inhomogeneous delta function in the PDE. 
+The bacterium is also subject to a stochastic torque in order to model tumbling (random reorientation). 
+Due to a bacterium's asymmetric shape, interactions with prescribed generic planar background flows, such as a 
+pure straining or planar shear flow, cause the bacterium to preferentially align in 
+certain directions. Due to the stochastic torque, the steady-state distribution of orientations is unique for a given 
+background flow. 
+Under this distribution of orientations, self-propulsion produces a reduction in the effective viscosity. 
+For sufficiently weak background flows, the effect of self-propulsion on the effective viscosity dominates all other contributions, leading to an 
+effective viscosity of the suspension that is lower than the viscosity of the ambient fluid. This is in qualitative agreement with recent experiments 
+on suspensions of Bacillus subtilis.

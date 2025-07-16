@@ -1,0 +1,2 @@
+A preamplifier-latch comparator for high accuracy high speed switched-capacitors pipelined ADC
+In this paper, a gain-boosting preamplifier-latch comparator with minimum input referred offset voltage is proposed. The preamplifier utilizes telescope structure with cross-coupled active loading, which enhances the gain of preamplifier. In order to minimize the delay time of comparator, the input DC range and the ratio of PMOS/NMOS are selected carefully. The circuit is fabricated in TSMC 0.18um with 1.8V power supply.

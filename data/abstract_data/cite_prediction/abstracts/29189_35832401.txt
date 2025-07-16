@@ -1,0 +1,19 @@
+A modification of the Elixhauser comorbidity measures into a point system for hospital death using administrative data.
+BACKGROUND
+Comorbidity measures are necessary to describe patient populations and adjust for confounding. In direct comparisons, studies have found the Elixhauser comorbidity system to be statistically slightly superior to the Charlson comorbidity system at adjusting for comorbidity. However, the Elixhauser classification system requires 30 binary variables, making its use for reporting and analysis of comorbidity cumbersome.
+
+
+OBJECTIVE
+Modify the Elixhauser classification system into a single numeric score for administrative data.
+
+
+METHODS
+For all hospitalizations at the Ottawa Hospital, Canada, between 1996 and 2008, we determined if International Classification of Disease codes for chronic diagnoses were in any of the 30 Elixhauser comorbidity groups. We then used backward stepwise multivariate logistic regression to determine the independent association of each comorbidity group with death in hospital. Regression coefficients were modified into a scoring system that reflected the strength of each comorbidity group's independent association with hospital death.
+
+
+RESULTS
+Hospitalizations that were included were 345,795 (derivation: 228,565; validation 117,230). Twenty-one of the 30 groups were independently associated with hospital mortality. The resulting comorbidity score had an equivalent discrimination in the derivation and validation groups (overall c-statistic 0.763, 95% CI: 0.759-0.766). This was similar to models having all Elixhauser groups (0.760, 95% CI: 0.756-0.764) or significant groups only (0.759, 95% CI: 0.754-0.762), but significantly exceeded discrimination when comorbidity was expressed using the Charlson score (0.745, 95% CI: 0.742-0.749).
+
+
+CONCLUSION
+When analyzing administrative data, the Elixhauser comorbidity system can be condensed to a single numeric score that summarizes disease burden and is adequately discriminative for death in hospital.

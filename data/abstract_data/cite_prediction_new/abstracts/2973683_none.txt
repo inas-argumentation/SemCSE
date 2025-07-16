@@ -1,0 +1,2 @@
+Full Band Monte-Carlo Device Simulation of 0.1 - 0.5 um Strained-Si P MOSFETs
+The transport properties of p-channel MOS transistors with surface channels in strained Si have been studied using a full band Monte Carlo device simulator. It is found that the increase in Ion compared to relaXed Si decreases with reduced chan­ nel length. For strained Si grown on a SiO.7GeO.3 buffer ·the performance enhance­ ment is 66% in the case of a 0.5p,m de­ vice, whireas it is only 23% in the case of a 0.1p,m transistor.

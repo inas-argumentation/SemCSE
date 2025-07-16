@@ -1,0 +1,2 @@
+Comment on New ansatz for metric operator calculation in pseudo-Hermitian field theory
+In a recent Brief Report by Shalaby, a new first-order perturbative calculation of the metric operator for an $i{\ensuremath{\phi}}^{3}$ scalar field theory is given. It is claimed that the incorporation of derivative terms in the ansatz for the metric operator results in a local solution, in contrast to the nonlocal solution previously obtained by Bender, Brody, and Jones. Unfortunately, Shalaby's calculation is not valid because of sign errors.

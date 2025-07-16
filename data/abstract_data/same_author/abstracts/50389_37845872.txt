@@ -1,0 +1,2 @@
+The complexity of learning in PLN networks
+Abstract In this paper, the complexity of learning in the feedforward PLN network is investigated by using Markov chain theory, when its training samples are incomplete (i.e., a network with hidden nodes). We present a learning algorithm. A formula for computing the average number of steps that the learning algorithm converges is obtained when the PLN network exists a solution. In the probabilistic sense, the completeness of the learning algorithm is proved. Some computer simulations are given to verify the analysis.

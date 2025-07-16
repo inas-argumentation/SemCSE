@@ -1,0 +1,2 @@
+Genetic Algorithms in Hot Steel Rolling for Scale Defect Prediction
+— Scale defects are common surface defects in hot steel rolling. The modelling of such defects is problematic and their causes are not straightforward. In this study, we investigated genetic algorithms in search for a mathematical solution to scale formation. For this research, a high-dimensional data set from hot steel rolling process was gathered. The synchronisation of the variables as well as the allocation of the measurements made on the steel strip were solved before the modelling phase.

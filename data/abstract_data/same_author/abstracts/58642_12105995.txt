@@ -1,0 +1,2 @@
+Hiding in stream semantics of uniform concurrency
+SummaryThis paper shows how to treat the hiding operator originally defined by Hoare et al. for finite observations of processes, in an order theoretic setting based on finite and infinite streams. The main technical contribution is the continuity proof of the hiding operator based on a mixture of topological and order-theoretic arguments. As an application of the continuity of hiding, syntactic transformation rules for its calculation are derived. This calculus utilizes a general fixed point transformation technique.

@@ -1,0 +1,2 @@
+Segmenting images corrupted by correlated noise
+Image segmentation is fundamental to many image analysis problems. It aims to partition a digital image into a set of non-overlapping homogeneous regions. This paper describes a new segmentation procedure which is designed to segment images corrupted by correlated noise. This procedure is based on Rissanen's (1989) minimum description length principle.

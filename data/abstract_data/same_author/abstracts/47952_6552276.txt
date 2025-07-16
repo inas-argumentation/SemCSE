@@ -1,0 +1,6 @@
+On the geometric dilation of closed curves, graphs, and point sets
+Let G be an embedded planar graph whose edges are curves. The detour between two points p and q (on edges or vertices) of G is the ratio between the length of a shortest path connecting p and q in G and their Euclidean distance |pq|. The maximum detour over all pairs of points is called the geometric dilation δ(G). 
+ 
+Ebbers-Baumann, Grune and Klein have shown that every finite point set is contained in a planar graph whose geometric dilation is at most 1.678, and some point sets require graphs with dilation δ ≥ π/2 ≈ 1.57. They conjectured that the lower bound is not tight. 
+ 
+We use new ideas like the halving pair transformation, a disk packing result and arguments from convex geometry, to prove this conjecture. The lower bound is improved to (1 + 10-11) π/2. The proof relies on halving pairs, pairs of points dividing a given closed curve C in two parts of equal length, and their minimum and maximum distances h and H. Additionally, we analyze curves of constant halving distance (h = H), examine the relation of h to other geometric quantities and prove some new dilation bounds.

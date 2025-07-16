@@ -1,0 +1,2 @@
+Fast constructive recognition of black box orthogonal groups
+We present an algorithm that constructively recognises when a given black box group is a nontrivial homomorphic image of the orthogonal group Ω e ( d , q ) for known e, d and q. The algorithm runs in polynomial time assuming oracles for handling SL ( 2 , q ) subgroups and discrete logarithms in F q ∗ .

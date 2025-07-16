@@ -1,0 +1,2 @@
+Voice Assisted and Gesture Controlled Companion Robot
+This paper implements the design for a robot that can be controlled simply by using interactive inputs from the operator such as voice and gesture along with object tracking. The system aims to create a prototype of a futuristic automated personal assistant for domestic as well as industrial purposes. Google text to speech API and Grassfire algorithm is used to control the basic locomotion of the system. The robot consists of a gripper arm which is used to pick and hold objects as desired by the operator.

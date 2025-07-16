@@ -1,0 +1,7 @@
+Dominant spectral component analysis for transcriptional regulations using microarray time-series data
+MOTIVATION
+Microarray time-series data provides us a possible means for identification of transcriptional regulation relationships among genes. Currently, the most commonly used method in determining whether or not two genes have a potential regulatory relationship is to measure their expressional similarity using Pearson's correlation coefficient. Although this traditional correlation method has been successfully applied to find functionally correlated genes, it does have many limitations. In the hope of overcoming such circumstances and getting more insights into the transcriptional regulatory issue, we propose an autoregressive (AR)-based technique for detection of potential regulated gene pairs from time-series microarray measurements.
+
+
+RESULTS
+We use the well-known AR modeling technique to characterize temporal gene expression data from the Spellman's alpha-synchronized yeast cell-cycle experiment. In this method, time-series expression profiles are decomposed into spectral components and correlations between profiles are then computed in a component-wise sense. We show how these component-wise correlations reveal possible regulatory relationships. Our technique is applied on known transcriptional regulations and is able to identify many of those missed by the traditional correlation method.

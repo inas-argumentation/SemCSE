@@ -1,0 +1,2 @@
+Efficient Spectral-Galerkin Method II. Direct Solvers of Second- and Fourth-Order Equations Using Chebyshev Polynomials
+Efficient direct solvers based on the Chebyshev–Galerkin methods for second- and fourth-order equations are presented. They are based on appropriate base functions for the Galerkin formulation that lead to discrete systems with special structured matrices that can be efficiently inverted. Numerical results indicate that the direct solvers presented in this paper are significantly more accurate and efficient than those based on the Chebyshev-tau method.

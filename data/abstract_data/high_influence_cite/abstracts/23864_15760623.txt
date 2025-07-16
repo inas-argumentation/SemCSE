@@ -1,0 +1,2 @@
+Generalized Robust Diagnosability of Discrete Event Systems
+Abstract We address the problem of robust diagnosability of discrete event systems described by a class of automata, where each automaton in the class generates a distinct language. We introduce a new definition which generalizes all previous definitions of robust diagnosability; for this reason it is referred here to as generalized robust diagnosability. We also present a necessary and sufficient condition for the generalized robust diagnosability and propose a polynomial time algorithm for its verification.

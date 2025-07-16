@@ -1,0 +1,2 @@
+Improved Algorithm For Continuous Moving Objects Queries
+Moving objects databases are becoming more and more popular due to the increasing number of application domains that deal with moving entities. Continuous queries are important in moving objects databases. We summarize three types of continuous queries, but only two of them have been studied before. We proposed new algorithms to process the other two types of queries. Experiment results all show that our algorithm is excellent in monitoring accuracy, communication cost and CPU load balance

@@ -1,0 +1,15 @@
+Isoform-level gene expression patterns in single-cell RNA-sequencing data
+Motivation
+RNA sequencing of single cells enables characterization of transcriptional heterogeneity in seemingly homogeneous cell populations. Single-cell sequencing has been applied in a wide range of researches fields. However, few studies have focus on characterization of isoform-level expression patterns at the single-cell level. In this study, we propose and apply a novel method, ISOform-Patterns (ISOP), based on mixture modeling, to characterize the expression patterns of isoform pairs from the same gene in single-cell isoform-level expression data.
+
+
+Results
+We define six principal patterns of isoform expression relationships and describe a method for differential-pattern analysis. We demonstrate ISOP through analysis of single-cell RNA-sequencing data from a breast cancer cell line, with replication in three independent datasets. We assigned the pattern types to each of 16 562 isoform-pairs from 4929 genes. Among those, 26% of the discovered patterns were significant (P<0.05), while remaining patterns are possibly effects of transcriptional bursting, drop-out and stochastic biological heterogeneity. Furthermore, 32% of genes discovered through differential-pattern analysis were not detected by differential-expression analysis. Finally, the effects of drop-out events and expression levels of isoforms on ISOP's performances were investigated through simulated datasets. To conclude, ISOP provides a novel approach for characterization of isoform-level preference, commitment and heterogeneity in single-cell RNA-sequencing data.
+
+
+Availability and implementation
+The ISOP method has been implemented as a R package and is available at https://github.com/nghiavtr/ISOP under a GPL-3 license.
+
+
+Supplementary information
+Supplementary data are available at Bioinformatics online.

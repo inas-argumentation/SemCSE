@@ -1,0 +1,2 @@
+Gapless Hartree-Fock resummation scheme for the O(N) model
+A modified self-consistent Hartree-Fock approximation to the {lambda}{phi}{sup 4} theory with spontaneously broken O(N) symmetry is proposed. It preserves all the desirable features, like conservation laws and thermodynamic consistency, of the self-consistent Schwinger-Dyson scheme generated from a 2PI functional, also known as the {phi}-derivable scheme, while simultaneously respecting the Nambu-Goldstone theorem in the chiral-symmetry broken phase. Various approximate resummation schemes are discussed.

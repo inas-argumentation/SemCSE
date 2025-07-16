@@ -1,0 +1,2 @@
+Thermally induced parasitic ungated FET in power MESFETs
+The onset of a parasitic FET between the gate and the source (drain) has been observed by monitoring the reverse gate diode I − V characteristics of power GaAs MESFETs, subjected to accelerated aging tests. Such anomalous characteristics are attributed to localized microreactions at the gate metal-GaAs interface, which can be preferential sites for the occurrence of burn-out phenomena.

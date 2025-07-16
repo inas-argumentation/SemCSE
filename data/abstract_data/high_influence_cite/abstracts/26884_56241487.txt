@@ -1,0 +1,6 @@
+Implied volatility of foreign exchange options: A leading indicator for currency crisis identification
+In 2001, the commission of inquiry into the rapid depreciation of the exchange rate attributed the rapid 72.4% depreciation of the South African Rand from June to December 2001 to the excessive volatility caused by market participants’ expectations. This paper investigates whether the market participants’ expectations implicit in foreign exchange options can provide a signal for currency crises. To achieve this, and to capture the dynamics of nonlinearity of implied volatility in foreign exchange options, the paper uses the Markov regime switching GARCH with time varying probabilities. We find that, using implied volatility in foreign exchange options, the technique manages to identify the crisis dates identified by previous literature and to some extent offers an early signal of the crisis before it occurs.    
+ 
+   
+ 
+ Key words: Currency crisis, foreign exchange, market participants’ expectations, implied volatility, Markov regime switching, generalized autoregressive conditional heteroscedastic  (GARCH), market microstructure, Black-Scholes model, options, European options, at the money, option maturities.

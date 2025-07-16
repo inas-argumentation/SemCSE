@@ -1,0 +1,2 @@
+An Optical-Electrical Sub-Sampling Receiver Employing Continuous-Time ΔΣ Modulation
+An optical-electrical sub-sampling down-conversion receiver architecture leveraging low-jitter optical sampling is described. A simple interface between the optical and electrical domains is accomplished by combining a photodiode with a second-order continuous-time ΔΣ modulator. A prototype system implemented in 0.18 mum CMOS achieving 36.4 dB SNR in a 2 MHz BW with an OSR of 250 is demonstrated.

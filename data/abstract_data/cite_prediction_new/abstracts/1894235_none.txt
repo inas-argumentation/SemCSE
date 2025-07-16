@@ -1,0 +1,2 @@
+Minimal dimension internal models for lower triangular systems
+Recursively designed internal models have been extensively applied in the output regulation problem for lower-triangular systems. In particular, one internal model component is constructed at each step to compensate for the steady state of one plant state (or input). This design method is simple with the potential expense of high dimension when some components are duplicate. This paper proposes a novel approach of designing a minimal dimension internal model by eliminating any possible duplication.

@@ -1,0 +1,2 @@
+Existence of Optimal Weighted Least Squares Estimate for Three-Parametric Exponential Model
+Given a set of data , we present sufficient conditions which guarantee the existence of the weighted least squares estimate for a three-parametric exponential function. To this end, we suggest a classification of the data based on their increasing or decreasing trend, and on their convexity or concavity form. We discuss a choice of the initial approximation and present a numerical example.

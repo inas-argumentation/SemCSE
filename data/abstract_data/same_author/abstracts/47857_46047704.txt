@@ -1,0 +1,2 @@
+A New Decoding Algorithm for Complete Decoding of Linear Block Codes
+In this paper we present and describe an improved version of the Zero-Neighbors algorithm, which we call the Zero-Coverings algorithm. We also present a method for finding a smallest subset of codewords ( Zero-Coverings) which need to be stored to perform the Zero-Coverings algorithm. For some short codes, the sizes of Zero-Coverings are obtained by computer searches; for long codes, an asymptotic bound on the sizes of such subsets is also given.

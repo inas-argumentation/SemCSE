@@ -1,0 +1,7 @@
+Evaluation of annotation strategies using an entire genome sequence
+MOTIVATION
+Genome-wide functional annotation either by manual or automatic means has raised considerable concerns regarding the accuracy of assignments and the reproducibility of methodologies. In addition, a performance evaluation of automated systems that attempt to tackle sequence analyses rapidly and reproducibly is generally missing. In order to quantify the accuracy and reproducibility of function assignments on a genome-wide scale, we have re-annotated the entire genome sequence of Chlamydia trachomatis (serovar D), in a collaborative manner.
+
+
+RESULTS
+We have encoded all annotations in a structured format to allow further comparison and data exchange and have used a scale that records the different levels of potential annotation errors according to their propensity to propagate in the database due to transitive function assignments. We conclude that genome annotation may entail a considerable amount of errors, ranging from simple typographical errors to complex sequence analysis problems. The most surprising result of this comparative study is that automatic systems might perform as well as the teams of experts annotating genome sequences.

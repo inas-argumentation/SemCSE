@@ -1,0 +1,2 @@
+Room temperature field measurements of superconducting magnets
+During the production of the superconducting magnets for the Fermilab Energy Doubler/Saver, it is important to closely monitor the magnetic field quality. Since it is both costly and time consuming to delay these measurements until after each magnet has been placed in a cryostat, we are developing a room temperature measurement system capable of resolving a ΔB/B smaller than 1 × 10-5.

@@ -1,0 +1,2 @@
+Analytic and coanalytic families of almost disjoint functions
+If is an analytic family of pairwise eventually different functions then the following strong maximality condition fails: For any countable , no member of which is covered by finitely many functions from , there is such that for all there are infinitely many integers k such that f(k) = h(k) . However if V = L then there exists a coanalytic family of pairwise eventually different functions satisfying this strong maximality condition.

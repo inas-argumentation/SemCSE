@@ -1,0 +1,2 @@
+Task level planning of pick and place robot motions
+A task level robot system named Handey, which is under development, is described. The current system is limited to pick and place operations, and it has successfully carried out dozens of such operations involving a variety of parts in relatively complex environments. The pick and place problem is described, and approximate approaches to the problem are examined. Heuristic motion planning in Handey is then discussed.<ETX>

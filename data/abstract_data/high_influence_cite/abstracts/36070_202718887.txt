@@ -1,0 +1,2 @@
+Global stability of traveling waves for an area preserving curvature flow with contact angle condition
+We consider an evolving plane curve with two endpoints that can move freely on the $x$-axis with generating constant contact angles. We discuss the asymptotic behavior of global-in-time solutions when the evolution of this plane curve is governed by area-preserving curvature flow equation. The main result shows that any moving curve converges to a traveling wave if the moving curve starts from an embedded convex curve and remains bounded in global time.

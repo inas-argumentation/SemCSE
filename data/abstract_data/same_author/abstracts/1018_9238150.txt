@@ -1,0 +1,2 @@
+The cost of messages
+Distributed systems can be modeled as processes communicating via messages. This model abstracts the three degrees of distribution: shared memory, local network, and wide area network. Although these three forms of distribution are qualitatively the same, there are huge quantitative differences in their message transport costs and message transport reliability. This paper quantifies these differences for past, current, and future technologies. Table of

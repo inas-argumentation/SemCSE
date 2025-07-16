@@ -1,0 +1,2 @@
+Query optimization over a heterogeneously distributed scientific database
+This paper briefly discusses about the concepts about distributed databases management system and distributed query processing. It then talks about the need of distributing large Scientific datasets such as the Sloan Digital Sky Survey. The main focus of this paper is to investigate fully distributed queries involving cross-joins across a heterogeneously distributed scientific database.

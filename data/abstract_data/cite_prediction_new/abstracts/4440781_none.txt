@@ -1,0 +1,2 @@
+Artificial Neural Networks for Inverse Heat Transfer Problems
+We present a solution for an inverse heat transfer problem involving internal heat generation using artificial neural networks. The problem involves a heat conduction problem with internal heat source in cylindrical coordinates. The network is a feedforward with backpropagation algorithm. We compare the results with the Levenberg-Marquardt method and discuss advantages and disadvantages. The two methods recover very well the optimum parameters.

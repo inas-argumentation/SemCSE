@@ -1,0 +1,2 @@
+Fuzzy-enabled failure behaviour analysis for dependability assessment of networked systems
+Dependability assessment of networked component-based systems requires fine-grained modelling of the failure behaviour and propagation aspects of individual components. We have recently introduced a formalism called FI4FA, enabling the analysis of I4 (incompletion, inconsistency, interference and impermanence) failures as well as the analysis of the corresponding mitigations.

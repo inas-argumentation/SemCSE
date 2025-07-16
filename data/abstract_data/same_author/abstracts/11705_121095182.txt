@@ -1,0 +1,2 @@
+Period doubling: Universality and critical-point order
+The dependence of the universal bifurcation ratio on the order of the local maximum is studied for a family of maps $f(x)=1\ensuremath{-}a{x}^{z}$($z=2,4,6,8$). Although these maps all exhibit period doubling, the precise bifurcation ratio depends on the order $z$, and seems to be an increasing function of $z$. We have employed a renormalization-group method to calculate $\ensuremath{\delta}(z)$ to second order. They agree very well with the exact values.

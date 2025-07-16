@@ -1,0 +1,2 @@
+An Analysis of Latch Comparator Offset Due to Load Capacitor Mismatch
+This brief analyzes the effect of load capacitor mismatch on the offset of a regenerative latch comparator. Two analytical models are presented and compared with HSpice simulations. Our results indicate that in a typical 0.18-mum CMOS latch, a capacitive imbalance of only 1 fF can lead to offsets of several tens of millivolts

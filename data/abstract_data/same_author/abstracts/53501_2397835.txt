@@ -1,0 +1,2 @@
+Speed clustering of integrated circuits
+Experimental data on 0.18 /spl mu/ test chips shows strong evidence of clustering of speeds of neighboring dies on a wafer. This clustering phenomenon is utilized to develop techniques for predicting the speed of a part from the speeds of three or more of its neighbors. On-chip processor monitors are used to further improve the prediction accuracy of these techniques. Experimental data demonstrates both the effectiveness of these prediction schemes and the possibility of applying of them to reduce the cost of speed binning.

@@ -1,0 +1,2 @@
+Using Semantic Features to Improve Task Identification in Email Messages
+Automated identification of tasks in email messages can be very useful to busy email users. What constitutes a task varies across individuals and must be learned for each user. However, training data for this purpose tends to be scarce. This paper addresses the lack of training data using domain-specific semantic features in document representation for reducing vocabulary mismatches and enhancing the discriminative power of trained classifiers when the number of training examples is relatively small.

@@ -1,0 +1,15 @@
+miR-326 regulates EMT and metastasis of endometrial cancer through targeting TWIST1.
+OBJECTIVE
+Endometrial carcinoma is the most common malignancy of the female genital tract. Therefore, there is an urgent need to understand the molecular mechanism of its metastasis. This study is aimed to explore the function and underlying mechanism of miR-326 in endometrial cancer (EC).
+
+
+PATIENTS AND METHODS
+RT-PCR was used to evaluate the miR-326 expression in EC tissues and cell lines. The CKK-8 was used to detect the EC cells proliferation. Transwell assay was performed to evaluate the metastasis of EC cells. Targeted genes were predicted by a bioinformatics algorithm. Dual-luciferase reporter assays were performed to examine the regulation of putative miR-326 targets. The expression of TWIST1 and EMT-related proteins was assayed using Western blot.
+
+
+RESULTS
+Our results proved that miR-326 expression was downregulated in EC cell lines and tissue samples. In vitro assays, our results indicated that over-expression of miR-326 inhibited cell proliferation, migration, invasion, and EMT. Moreover, Bioinformatics analysis revealed Twist homolog 1 (TWIST1), a putative tumor promoter, to be a potential target of miR-326. Results from a dual-luciferase reporter system supported TWIST1 as a direct target gene of miR-326. In addition, Western blot showed that over-expression of miR-326 resulted in decreased TWIST1 expression in EC cells. Final in vitro assays revealed that knockdown of TWIST1 inhibited EC cell, migration, invasion and EMT, suggesting that miR-326 exerted its tumor-suppressive role by targeting TWIST1.
+
+
+CONCLUSIONS
+We demonstrate that miR-326 served as a tumor suppressor by targeting TWIST1, and may serve as a biomarker or therapeutic target for patients with EC.

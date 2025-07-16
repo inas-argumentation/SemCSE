@@ -1,0 +1,6 @@
+Calderón–Zygmund estimates for parabolic p(x,t)-Laplacian systems
+We prove local Calderon–Zygmund estimates for weak solutions of the evolutionary p(x,t)-Laplacian system 
+∂tu−div (a(x,t)|Du|p(x,t)−2Du)=div (|F|p(x,t)−2F) 
+under the classical hypothesis of logarithmic continuity for the variable exponent p(x,t). More precisely, we show that the spatial gradient Du of the solution is as integrable as the right-hand side F, i.e., 
+|F|p(⋅)∈Lqloc ⟹ |Du|p(⋅)∈Lqlocfor any q>1, 
+together with quantitative estimates. Thereby we allow the presence of eventually discontinuous coefficients a(x,t), requiring only a VMO condition with respect to the spatial variable x.

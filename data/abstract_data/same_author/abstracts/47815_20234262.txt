@@ -1,0 +1,2 @@
+Chromatic equivalence classes of certain generalized polygon trees
+Let P(G) denote the chromatic polynomial of a graph G. Two graphs G and H are chromatically equivalent, written G ~ H, if P(G) = P(H). Let ¢ denote the family of all generalized polygon trees with three interior regions. Xu (1994) showed that ¢ is a union of chromatic equivalence classes under the equivalence relation ',-/. In this paper, we determine infinitely many chromatic equivalence classes in ~ under ',-~'. As a byproduct, we obtain a family of chromatically unique graphs established by Peng (1995).

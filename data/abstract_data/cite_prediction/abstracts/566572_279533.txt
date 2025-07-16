@@ -1,0 +1,2 @@
+Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions
+This document provides additional details about the experiments described in (Heilman and Smith, 2010). Note that while this document provides information about the datasets and experimental methods, it does not provide further results. If you have any further questions, please feel free to contact the first author. The preprocessed datasets (i.e., tagged and parsed) will be made available for research purposes upon request.

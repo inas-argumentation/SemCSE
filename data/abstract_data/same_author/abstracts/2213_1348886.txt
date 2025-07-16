@@ -1,0 +1,2 @@
+Synthesizing enumeration techniques for language learning
+This paper provides positive and negative results on algorithmically synthesizing, from grammars and from decision procedures for classes of languages, learning machines for identifying, from positive data, grammars for the languages in those classes. In the process, the uniformly decidable classes of recursive languages that can be behaviorally correctly identified from positive data are surprisingly characterized by Angluin’s 1980 Condition 2 (the subset principle for preventing overgeneralization).

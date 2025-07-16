@@ -1,0 +1,8 @@
+On the optimality of universal classifiers for finite-length individual test sequences
+We consider pairs of finite-length individual sequences that are realizations of unknown, finite alphabet, stationary sources in a clas M of sources with vanishing memory (e.g. stationary Markov sources). 
+The task of a universal classifier is to decide whether the two sequences are emerging from the same source or are emerging from two distinct sources in M, and it has to carry this task without any prior knowledge of the two underlying probability measures. 
+Given a fidelity function and a fidelity criterion, the probability of classification error for a given universal classifier is defined. 
+Two universal classifiers are defined for pairs of $N$ -sequence: A "classical" fixed-length (FL) universal classifier and an alternative variable-length (VL) universal classifier. 
+Following Wyner and Ziv (1996) it is demonstrated that if the length of the individual sequences N is smaller than a cut-off value that is determined by the properties of the class M, any universal classifier will fail with high probability . 
+It is demonstrated that for values of N larger than the cut-off rate, the classification error relative to either one of the two classifiers tends to zero as the length of the sequences tends to infinity. 
+However, the probability of classification error that is associated with the variable-length universal classifier is uniformly smaller (or equal) to the one that is associated with the "classical" fixed-length universal classifier, for any finite length.

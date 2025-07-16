@@ -1,0 +1,2 @@
+A PTAS for minimum vertex dilation triangulation of a simple polygon with a constant number of sources of dilation
+We design a fully polynomial-time approximation scheme for the problem of finding a triangulation of a simple polygon with a constant number of sources of dilation that achieves the minimum vertex dilation.

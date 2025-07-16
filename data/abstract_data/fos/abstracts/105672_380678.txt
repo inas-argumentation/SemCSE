@@ -1,0 +1,2 @@
+PAGES - A Family of Block Ciiphers
+PAGES is block cipher family based on the design of Speck, see [1]. However, some intriguing design details of Speck were not used in the design of PAGES. PAGES has block size of 256 bit and comes in three version: PAGES-512, PAGES-768, and PAGES-1024, were the number denotes the key length. The number of rounds is 64, 96, or 128, respectively. PAGES uses variables of 128 bit, that is half the block size.

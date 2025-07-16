@@ -1,0 +1,2 @@
+Color Image Segmentation Using Global Information and Local Homogeneity
+This paper proposes a new method of color image segmentation considering both global information and local homogeneity. The method applies the mean shift algorithm in the hue and intensity subspace of HSV. The cyclic property of the hue component is also considered in the proposed method. Experiments on natural color images show promising results.

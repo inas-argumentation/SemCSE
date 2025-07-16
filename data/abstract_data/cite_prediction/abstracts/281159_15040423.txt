@@ -1,0 +1,2 @@
+Low-power 1V 5.8 GHz bulk-driven mixer with on-chip balun in 0.18μm CMOS
+Two bulk-driven down-conversion mixers with onchip baluns are presented. The inclusion of the passive balun improves gain and provides impedance matching. Implemented in 0.18 mum CMOS, the mixers operate in the 5.8 GHz ISM band and consume 1 mW from a 1 V supply. The mixer in which the RF signal is applied to the gates of the mixing transistors achieves a measured input-referred P1dB of -14 dBm, an IIP3 of -5.2 dBm, a gain of 13.6 dB, a NF of 26 dB, and an LO-to-RF isolation of greater than 50 dB.

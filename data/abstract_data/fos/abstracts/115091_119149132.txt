@@ -1,0 +1,2 @@
+Hardy-Littlewood maximal operator on reflexive variable Lebesgue spaces over spaces of homogeneous type
+We show that the Hardy-Littlewood maximal operator is bounded on a reflexive variable Lebesgue space $L^{p(\cdot)}$ over a space of homogeneous type $(X,d,\mu)$ if and only if it is bounded on its dual space $L^{p'(\cdot)}$, where $1/p(x)+1/p'(x)$ for $x\in X$. This result extends the corresponding result of Lars Diening from the Euclidean setting of $\mathbb{R}^n$ to the setting of spaces of homogeneous type $(X,d,\mu)$.

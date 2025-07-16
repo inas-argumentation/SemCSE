@@ -1,0 +1,2 @@
+Tasking Deadlocks in Ada 95 Programs and Their Detection
+Tasking deadlock is one of the most serious and complex problems concerning the reliability of concurrent systems with Ada. In this paper, tasking deadlocks which may occur in Ada 95 programs are investigated, a representation, named the Task-Wait-For Graph, for task synchronization waiting state of an Ada 95 program is proposed, and a run-time detection method for the tasking deadlocks based on the Task-Wait-For Graph is presented.

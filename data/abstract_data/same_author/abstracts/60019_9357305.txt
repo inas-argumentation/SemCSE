@@ -1,0 +1,2 @@
+Temporal Verification Diagrams
+Most formal approaches to the verification of temporal properties of reactive programs infer temporal conclusions from verification conditions that are state formulas, i.e., contain no temporal operators. These proofs can often be effectively presented by the use of verification diagrams. In this paper, we present a self-contained presentation of verification diagrams for proving various temporal properties.

@@ -1,0 +1,7 @@
+Decentralized Cross-Entropy Method for Model-Based Reinforcement Learning
+Cross-Entropy Method (CEM) is a popular approach to planning in model-based reinforcement learning.
+It has so far always taken a \textit{centralized} approach where the sampling distribution is updated \textit{centrally} based on the result of a top-$k$ operation applied to \textit{all samples}.
+We show that such a \textit{centralized} approach makes CEM vulnerable to local optima and impair its sample efficiency, even in a one-dimensional multi-modal optimization task.
+In this paper, we propose \textbf{Decent}ralized \textbf{CEM (DecentCEM)} where an ensemble of CEM instances run independently from one another and each performs a local improvement of its own sampling distribution.
+In the exemplar optimization task, the proposed decentralized approach DecentCEM finds the global optimum much more consistently than the existing CEM approaches that use either a single Gaussian distribution or a mixture of Gaussians.
+Further, we extend the decentralized approach to sequential decision-making problems where we show in 13 continuous control benchmark environments that it matches or outperforms the state-of-the-art CEM algorithms in most cases, under the same budget of the total number of samples for planning.

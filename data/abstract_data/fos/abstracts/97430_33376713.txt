@@ -1,0 +1,11 @@
+Decision analysis for small, asymptomatic intracranial arteriovenous malformations.
+OBJECT
+Asymptomatic intracranial arteriovenous malformations (AVMs) represent a clinically challenging problem because of the complex decision making that must be undertaken prior to beginning any type of treatment. In addition, the relative infrequency of these lesions means that there is relatively little experience reported in the literature. The authors use a decision-analysis technique to model the considerations that go into determining the treatment of these lesions in an effort to quantify the various risks and overall benefits conferred by the following three treatment strategies: observation/natural history, microsurgery, and stereotactic radiosurgery.
+
+
+METHODS
+The authors conducted a thorough literature search to elucidate the risks and outcomes associated with each treatment option. These values were used to build and run a comprehensive Markov model to determine a base-case analysis. All of the input variables were also subjected to sensitivity analysis to identify the most influential input variables and the crossover points in which favored strategies changed. The base-case analysis suggested that microsurgery was the favored treatment option because this hypothetical cohort accumulated 21.53 quality-adjusted life years (QALYs) over the course of the model compared with the 16.97 QALYs and 16.40 QALYs for stereotctic radiosurgery and observation, respectively. Sensitivity analysis demonstrated that overall major neurological morbidity and mortality were the most influential input variables both perioperatively and during the radiosurgical "latent" period (that is, up to 2 years posttreatment). The maximum acceptable perioperative combined major neurological morbidity and mortality rate was 6.8%. The latent period combined major neurological morbidity and mortality would need to be 0.7% to make radiosurgery favorable in this analysis.
+
+
+CONCLUSIONS
+Results of this decision analysis model suggest that microsurgery in the hands of experienced cerebrovascular surgeons, who can expect a less than 6.8% combined rate of major neurological morbidity and mortality, offers patients a greater overall quality of life over time.

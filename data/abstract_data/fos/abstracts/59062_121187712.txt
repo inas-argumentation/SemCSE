@@ -1,0 +1,2 @@
+Bounds on the Gini Index Based on Observed Points of the Lorenz Curve
+Using a geometric approach, we derive sharp upper and lower bounds on the Gini index of income inequality based on data which are grouped into intervals and consist of percentages of recipients in each income interval together with the corresponding percentages of income these recipients receive. The proposed method requires neither any assumption regarding the functional form of the underlying distribution function nor the knowledge of the mean income or the limits of the income intervals.

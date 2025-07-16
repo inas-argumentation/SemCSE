@@ -1,0 +1,2 @@
+Low-Power mm-Wave Components up to 104GHz in 90nm CMOS
+A customized 90nm device layout yields an extrapolated fmax of 300GHz. The device is incorporated into a low-power 60GHz amplifier consuming 10.5mW, providing 12dB of gain, and an output P1dB of 4dBm. An experimental 3-stage 104GHz amplifier has a measured peak gain of 9.3dB. Finally, a Colpitts oscillator at 104GHz delivers up to -5dBm of output power while consuming 6mW.

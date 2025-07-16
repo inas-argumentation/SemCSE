@@ -1,0 +1,2 @@
+A 4.9-GHz low power, low jitter, LC phase locked loop
+This paper presents a low power, low jitter LC phase locked loop (PLL) which has been designed and fabricated in a commercial 0.25-μm Silicon-on-Sapphire CMOS technology. Random jitter and deterministic jitter of the PLL are 1.3 ps and 7.5 ps, respectively. The measured tuning range, from 4.6 to 5.0 GHz, is narrower than the expected one, from 3.8 to 5.0 GHz. The narrow tuning range issue has been investigated and traced to the first stage of the divider chain. The power consumption at the central frequency is 111 mW.

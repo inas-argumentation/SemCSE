@@ -1,0 +1,2 @@
+Fast multiplication of a recursive block Toeplitz matrix by a vector and its application
+We present an algorithm for multiplying an N × N recursive block Toeplitz matrix by a vector with cost O (N log N). Its application to optimal surface interpolation is discussed.

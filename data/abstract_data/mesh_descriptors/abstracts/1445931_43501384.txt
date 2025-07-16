@@ -1,0 +1,15 @@
+A dosimetric comparison of electronic compensation, conventional intensity modulated radiotherapy, and tomotherapy in patients with early-stage carcinoma of the left breast.
+PURPOSE
+Intensity modulated radiation therapy (IMRT) has been shown to significantly reduce dose to normal tissue while maintaining coverage of the clinical target volume (CTV) in patients with intact breast cancer. We compared delivery of whole breast irradiation utilizing three techniques: electronic tissue compensation (ECOMP), inverse-planned dynamic multileaf collimation IMRT (DMLC), and tomotherapy (TOMO).
+
+
+PATIENTS AND METHODS
+Ten patients with early stage, left-sided breast cancer were selected for planning. CTV was defined as breast encompassed in a standard tangent field minus the superficial 5 mm from the skin edge. Normal tissue contours included the heart, lungs, and contralateral breast. Plans included delivery of 45 Gy in 25 fractions and were normalized to ensure > or =95% coverage of the CTV. Isodose distributions and dose-volume histograms for CTV and normal tissue were compared between plans. The time it took to plan each patient excluding contouring, as well as number of monitor units (MUs) required to execute each plan were additionally tabulated.
+
+
+RESULTS
+The TOMO plans resulted in significantly greater heterogeneity (CTV V(115)) versus ECOMP (p = 0.0029). The ECOMP plans resulted in significantly lower doses to heart, lung, and contralateral breast when compared with TOMO plans. The ECOMP plans were generated in the shortest time (12 min) and resulted in the lowest number of MUs when compared with DMLC (p = 0.002, p < 0.0001) and TOMO (p = 0.0015, p < 0.0001).
+
+
+CONCLUSIONS
+The ECOMP plans produced superior dose distributions in both the CTV and normal tissue when compared with TOMO or DMLC plans. In addition, ECOMP plans resulted in the lowest number of MUs and labor cost.

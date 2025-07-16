@@ -1,0 +1,2 @@
+Region based Image Fusion Method with Dual Tree Complex Wavelet Transform
+Dual Tree Complex Wavelet Transform is an enhancement to the discrete wavelet transform, with important additional properties: it is nearly shift invariant and directionally selective in two or higher dimensions. And also can overcome the problem of distortion in spectrial and spatial resolution of fused image with other techniques. Combined with region based fusion method, it can obtain better fusion results. All these had been proved by the experiment.

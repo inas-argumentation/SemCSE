@@ -1,0 +1,15 @@
+T1ρ-based fibril-reinforced poroviscoelastic constitutive relation of human articular cartilage using inverse finite element technology.
+Background
+Mapping of T1ρ relaxation time is a quantitative magnetic resonance (MR) method and is frequently used for analyzing microstructural and compositional changes in cartilage tissues. However, there is still a lack of study investigating the link between T1ρ relaxation time and a feasible constitutive relation of cartilage which can be used to model complicated mechanical behaviors of cartilage accurately and properly.
+
+
+Methods
+Three-dimensional finite element (FE) models of ten in vitro human tibial cartilage samples were reconstructed such that each element was assigned by material-level parameters, which were determined by a corresponding T1ρ value from MR maps. A T1ρ-based fibril-reinforced poroviscoelastic (FRPE) constitutive relation for human cartilage was developed through an inverse FE optimization technique between the experimental and simulated indentations.
+
+
+Results
+A two-parameter exponential relationship was obtained between the T1ρ and the volume fraction of the hydrated solid matrix in the T1ρ-based FRPE constitutive relation. Compared with the common FRPE constitutive relation (i.e., without T1ρ), the T1ρ-based FRPE constitutive relation indicated similar indentation depth results but revealed some different local changes of the stress distribution in cartilages.
+
+
+Conclusions
+Our results suggested that the T1ρ-based FRPE constitutive relation may improve the detection of changes in the heterogeneous, anisotropic, and nonlinear mechanical properties of human cartilage tissues associated with joint pathologies such as osteoarthritis (OA). Incorporating T1ρ relaxation time will provide a more precise assessment of human cartilage based on the individual in vivo MR quantification.

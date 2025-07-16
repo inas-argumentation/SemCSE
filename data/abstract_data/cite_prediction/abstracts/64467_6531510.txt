@@ -1,0 +1,19 @@
+From Data to Optimal Decision Making: A Data-Driven, Probabilistic Machine Learning Approach to Decision Support for Patients With Sepsis
+BACKGROUND
+A tantalizing question in medical informatics is how to construct knowledge from heterogeneous datasets, and as an extension, inform clinical decisions. The emergence of large-scale data integration in electronic health records (EHR) presents tremendous opportunities. However, our ability to efficiently extract informed decision support is limited due to the complexity of the clinical states and decision process, missing data and lack of analytical tools to advice based on statistical relationships.
+
+
+OBJECTIVE
+Development and assessment of a data-driven method that infers the probability distribution of the current state of patients with sepsis, likely trajectories, optimal actions related to antibiotic administration, prediction of mortality and length-of-stay.
+
+
+METHODS
+We present a data-driven, probabilistic framework for clinical decision support in sepsis-related cases. We first define states, actions, observations and rewards based on clinical practice, expert knowledge and data representations in an EHR dataset of 1492 patients. We then use Partially Observable Markov Decision Process (POMDP) model to derive the optimal policy based on individual patient trajectories and we evaluate the performance of the model-derived policies in a separate test set. Policy decisions were focused on the type of antibiotic combinations to administer. Multi-class and discriminative classifiers were used to predict mortality and length of stay.
+
+
+RESULTS
+Data-derived antibiotic administration policies led to a favorable patient outcome in 49% of the cases, versus 37% when the alternative policies were followed (P=1.3e-13). Sensitivity analysis on the model parameters and missing data argue for a highly robust decision support tool that withstands parameter variation and data uncertainty. When the optimal policy was followed, 387 patients (25.9%) have 90% of their transitions to better states and 503 patients (33.7%) patients had 90% of their transitions to worse states (P=4.0e-06), while in the non-policy cases, these numbers are 192 (12.9%) and 764 (51.2%) patients (P=4.6e-117), respectively. Furthermore, the percentage of transitions within a trajectory that lead to a better or better/same state are significantly higher by following the policy than for non-policy cases (605 vs 344 patients, P=8.6e-25). Mortality was predicted with an AUC of 0.7 and 0.82 accuracy in the general case and similar performance was obtained for the inference of the length-of-stay (AUC of 0.69 to 0.73 with accuracies from 0.69 to 0.82).
+
+
+CONCLUSIONS
+A data-driven model was able to suggest favorable actions, predict mortality and length of stay with high accuracy. This work provides a solid basis for a scalable probabilistic clinical decision support framework for sepsis treatment that can be expanded to other clinically relevant states and actions, as well as a data-driven model that can be adopted in other clinical areas with sufficient training data.

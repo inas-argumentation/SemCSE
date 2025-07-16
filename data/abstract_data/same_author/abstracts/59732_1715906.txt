@@ -1,0 +1,2 @@
+Cycles of length 0 modulo k in directed graphs
+We show that every digraph D with minimum outdegree δ and maximum indegree Δ contains a directed cycle of length 0(mod k), provided e[Δd + 1](1 − 1k)δ < 1. In particular, if Δ < (2δ − e)eδ the D contains an even cycle.

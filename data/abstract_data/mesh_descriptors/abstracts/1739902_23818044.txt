@@ -1,0 +1,15 @@
+Apparent diffusion coefficients of breast tumors: clinical application.
+PURPOSE
+To evaluate the usefulness of apparent diffusion coefficient (ADC) for the differential diagnosis of breast tumors and to determine the relation between ADC and tumor cellularity.
+
+
+MATERIALS AND METHODS
+One hundred and thirty-six female patients (age range, 17-83 years; average age, 51.7 years) with 140 histologically proven breast tumors underwent diffusion-weighted magnetic resonance (MR) imaging (DWI) using the spin-echo echo-planar technique, and the ADCs of the tumors were calculated using 3 different b values, 0, 500, and 1000 s/mm(2). The diagnoses consisted of fibroadenoma (FA, n=16), invasive ductal carcinoma, not otherwise specified (IDC, n=117), medullary carcinoma (ME, n=3) and mucinous carcinoma (MU, n=4). Tumor cellularity was calculated from surgical specimens. The ADCs of breast tumors and cellularity were compared between different histological types by analysis of variance and Scheffe's post hoc test. The correlation between tumor cellularity and ADC was analyzed by Pearson correlation test.
+
+
+RESULTS
+Significant differences were observed in ADCs between FA and all types of cancers (P<0.05) and between MU and other types of cancers (P<0.01) and in cellularity between FA and cancers except MU (P<0.01) and between MU and other types of cancers (P<0.01). There was an inverse correlation between ADC and tumor cellularity (P<0.01, r(2)=0.451).
+
+
+CONCLUSIONS
+The ADC may potentially help in differentiating benign and malignant breast tumors. Tumor ADC correlates inversely with tumor cellularity.

@@ -1,0 +1,2 @@
+An explicit Berry-Esséen bound for uniformly expanding maps on the interval
+For uniformly expanding maps on the interval, analogous versions of the Berry-Esséen theorem are known but only with an unexplicit upper bound in O(1/$$\sqrt n $$) without any constants being specified. In this paper, we use the recent complex cone technique to prove an explicit Berry-Essén estimate with a reasonable constant for these maps. Our method is not limited to maps on the interval however, and should apply to many situations.

@@ -1,0 +1,2 @@
+Epidemiologic research using probabilistic outcome definitions
+Epidemiologic studies using electronic healthcare data often define the presence or absence of binary clinical outcomes by using algorithms with imperfect specificity, sensitivity, and positive predictive value. This results in misclassification and bias in study results.

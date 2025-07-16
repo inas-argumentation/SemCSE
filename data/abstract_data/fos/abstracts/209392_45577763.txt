@@ -1,0 +1,2 @@
+Relations between least-squares and least-rank solutions of the matrix equation AXB=CAXB=C
+A matrix X is called a least-squares solution of the matrix equation AXB=C if it minimizes the F-norm of C-AXB, a least-rank solution of AXB=C if it minimizes the rank of C-AXB. These two types of solution are not necessarily the same. In this paper, we establish necessary and sufficient conditions for the two types of solutions to coincide by using some matrix rank formulas and nested decompositions of matrices.

@@ -1,0 +1,2 @@
+Approximation of the eigenvalue problem for the time harmonic Maxwell system by continuous Lagrange finite elements
+We propose and analyze an approximation technique for the Maxwell eigenvalue problem using H1-conforming finite elements. The key idea consists of considering a mixed method controlling the divergence of the electric field in a fractional Sobolev space H−α with α ∈ ( 1 2 , 1). The method is shown to be convergent and spectrally correct.

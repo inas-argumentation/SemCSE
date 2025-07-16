@@ -1,0 +1,2 @@
+Flat Modules and Grobner Bases over Truncated Discrete Valuation Rings
+We present basic properties of Grobner bases of submodules of a free module of finite rank over a polynomial ring R with coefficients in a graded truncated discrete valuations ring A. As an application, we give a criterion for a finitely generated R-module to be flat over A. Its non-graded version is also given.

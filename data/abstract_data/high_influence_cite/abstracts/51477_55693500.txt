@@ -1,0 +1,2 @@
+Partial correlation hypersurfaces in Gaussian graphical models
+We derive a combinatorial sufficient condition for a partial correlation hypersurface in the parameter space of a directed Gaussian graphical model to be nonsingular, and speculate on whether this condition can be used in algorithms for learning the graph. Since the condition is fulfilled in the case of a complete DAG on any number of vertices, the result implies an affirmative answer to a question raised by Lin-Uhler-Sturmfels-B\"uhlmann.

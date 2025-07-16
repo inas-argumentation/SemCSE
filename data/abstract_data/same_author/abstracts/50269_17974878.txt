@@ -1,0 +1,2 @@
+Variational Bayesian Dirichlet-Multinomial Allocation for Exponential Family Mixtures
+This paper studies a Bayesian framework for density modeling with mixture of exponential family distributions. Variational Bayesian Dirichlet-Multinomial allocation (VBDMA) is introduced, which performs inference and learning efficiently using variational Bayesian methods and performs automatic model selection. The model is closely related to Dirichlet process mixture models and demonstrates similar automatic model selection in the variational Bayesian context.

@@ -1,0 +1,2 @@
+An Agent-based Peer-to-Peer Grid Computing Architecture
+We propose a multi-agent based peer-to-peer grid computing architecture in this paper to solves the issues that the conventional grid architecture is limited in modeling computer systems with highly dynamic and autonomous computing resources, and its super-local resource management and scheduling strategy limits the utilization of the computing resources. Besides, the new architecture provides reasonable compatibility and interoperability with the conventional grid systems and clients.

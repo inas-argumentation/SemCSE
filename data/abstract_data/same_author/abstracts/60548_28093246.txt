@@ -1,0 +1,2 @@
+Semantics of constructions (II) — The initial algebraic approach
+Inductive types can be formulated by incorporating the idea of initialT-algebra. The interpretation of an inductive type of this kind boils down to finding out the initialT-algebra defined by the inductive type. In this paper the issue in the semantic domain of omega sets is examined. Based on the semantic results, a new class of inductive types, that of local inductive types, is proposed.

@@ -1,0 +1,2 @@
+Noodle: A Language for Declarative Querying in an Object-Oriented Database
+We present a language Noodle in which to specify declarative queries in an object-oriented database system. The language models object-identity, classes, relations, views, inheritance, complex objects, and methods, in addition to logical rules, and permits powerful schema querying. Noodle is intended to be used as a query language in an object-oriented database system, with the benefits of declarativeness, namely increased efficiency and reduced programming time.

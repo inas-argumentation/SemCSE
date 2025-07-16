@@ -1,0 +1,2 @@
+Dense disparity maps from sparse disparity measurements
+In this work we propose a method for estimating disparity maps from very few measurements. Based on the theory of Compressive Sensing, our algorithm accurately reconstructs disparity maps only using about 5% of the entire map. We propose a conjugate subgradient method for the arising optimization problem that is applicable to large scale systems and recovers the disparity map efficiently. Experiments are provided that show the effectiveness of the proposed approach and robust behavior under noisy conditions.

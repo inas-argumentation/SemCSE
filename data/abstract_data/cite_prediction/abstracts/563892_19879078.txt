@@ -1,0 +1,2 @@
+Wideband 80 W balanced power amplifier for ISM and LTE-bands
+An 80 W balanced GaN-HEMT power amplifier for 2.45-2.70 GHz using branch-line couplers is presented in this paper. Its performance is compared to a single-transistor solution. The analysis shows that a balanced amplifier is favorable because it simplifies measures to ensure electrical stability and allows better heat sinking.

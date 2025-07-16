@@ -1,0 +1,2 @@
+Phase-Change Technology and the Future of Main Memory
+Phase-change may enable continued scaling of main memories, but PCM has higher access latencies, incurs higher power costs, and wears out more quickly than DRAM. This article discusses how to mitigate these limitations through buffer sizing, row caching, write reduction, and wear leveling, to make PCM a viable dream alternative for scalable main memories.

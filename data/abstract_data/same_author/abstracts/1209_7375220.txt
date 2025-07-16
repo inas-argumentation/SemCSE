@@ -1,0 +1,2 @@
+Dynamic User Modeling for Sketch-Based User Interface
+This paper presents a strategy of dynamic user modeling for sketch-based user interface. A user model is defined as an incremental decision tree for a specific user. A drawing style modeling process is designed to model user's temporal drawing performances among inputting strokes, and to predict the possible shape in term of fuzzy matching. A user mediation process is proposed based on relevance feedback to capture users' drawing intentions and refine the recognition results. Experiments prove efficiency of the method.

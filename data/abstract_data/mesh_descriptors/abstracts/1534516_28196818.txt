@@ -1,0 +1,15 @@
+Duodenal complications in radiotherapy for bile duct cancer: a dose-volume histogram analysis.
+PURPOSE
+To establish a method of quantitative assessment of the duodenal exposure dose to avoid duodenal morbidity after radiotherapy for bile duct cancer.
+
+
+METHODS AND MATERIALS
+After external beam radiotherapy (ERTx) and intraluminal high-dose-rate brachytherapy (BRTx), 4 of 10 patients developed Grade 3 or 4 ulcers at the posterior wall of the duodenal bulb (PWDB) (compromised group); the remainder exhibited no duodenal complications (spared group) for 14 (range, 7-59) months after radiotherapy. The radiation exposure to the duodenal volume at risk (V(duod)) in ERTx and BRTx was individually analyzed using dose-volume histograms in terms of the mean doses (the average dose of V(duod)[D(ave)] and the median dose of V(duod) [D(median)]), dose covering 1% or 5% of V(duod) (dose covering 1% of the V(duod) [D(1)] and dose covering 5% of the V(duod) [D(5)], respectively), and the V(duod) receiving 100% or 150% of the prescribed radiation dose (V(100) and V(150), respectively) in ERTx (D(ave), D(median), D(5)) and BRTx (D(ave), D(1), D(5), V(100), V(150)). D(ave) and D(5) were converted to biologically effective doses (BEDs), and each corresponding values of ERTx and BRTx were summed presenting as BED(ave_sum) and BED(5_sum).
+
+
+RESULTS
+The PWDB was consistently involved in 100% of the prescription dose area in ERTx. The compromised group had smaller exposure doses without significant difference (SD). In BRTx, the PWDB was exposed to higher doses. The compromised group had larger dose exposures without SD and larger volume exposures (V(100), V(150)) with SD in BRTx. The BED(ave_sum) and BED(5_sum) showed no difference between the groups.
+
+
+CONCLUSIONS
+Measuring the duodenal volume exposed to determine doses that exceed the prescription in BRTx may be useful for predicting intractable complications in the combined radiotherapy.

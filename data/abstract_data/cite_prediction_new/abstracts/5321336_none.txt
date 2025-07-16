@@ -1,0 +1,4 @@
+Structure Restriction for Tracking Through Multiple Views and Occlusions
+The last advances on multiple kernel tracking consider the kernels as estimators of target features. The state space of the target is defined by the individual state space of these features. 
+ 
+The aim of this work is to construct an algorithm robust against three dimensional rotations and partial occlusions. For this purpose, we take as the state space the two dimensional position of the features and an indicator of occlusions. We extract the three dimensional structure of the target from the first tracked frames and estimate the projection of this structure on each frame. By using this information, we are able to predict the position of a feature even when the kernel provides a wrong estimation, for example during an occlusion. The experimental results showed a good performance correcting errors and in presence of partial occlusions.

@@ -1,0 +1,2 @@
+Privacy-preserving data mining demonstrator
+We present a system for demonstrating anonymized data mining on user profiles, which also evaluates the remaining utility of the generalized information through comparison of the classification results. The use case for this scenario builds around profiles containing personally identifiable information, which should be analyzed and classified by a third party. Our goal is to preserve the privacy of the users while maintaining a certain level of utility to allow data mining over the anonymized information.

@@ -1,0 +1,2 @@
+Using digrams to map controlled medical vocabularies.
+A program for matching between controlled medical vocabularies has been developed which adopts methods used in the domain of Information Retrieval. This program combines a stemmer based on fragments of words (digrams) with a similarity function. The proposed stemmer did not require any knowledge about word-formation rules and helped the identification of several kinds of word variants. The adopted similarity function assigned the highest score to the best candidate match in 99.0% of the cases.

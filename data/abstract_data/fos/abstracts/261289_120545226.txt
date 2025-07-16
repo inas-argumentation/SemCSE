@@ -1,0 +1,2 @@
+Non parametric derivative estimation with confidence bands
+We propose a spline-based derivative estimation. Derivative estimation plays an important role in the exploration of structures in curves. Consistency property of the estimator is obtained under some mild assumptions. We construct simultaneous confidence bands for the derivatives, therefore statistical inference for the relative change of curves can be derived. Finite-sample experiments confirm the asymptotic results. We illustrate the methods with applications to a fossil dataset and a US climate dataset.

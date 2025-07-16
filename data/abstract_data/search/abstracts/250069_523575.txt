@@ -1,0 +1,2 @@
+Micromirror based optical phased array for wide angle beamsteering
+Optical phased array (OPA) is a key enabling element for solid state LIDAR (light detection and ranging) In this paper, we demonstrate a novel MEMS micromirror array OPA. Vertical combdrive actuators are integrated underneath the mirrors to achieve a small pitch (2.4mm) and a large field of view (22deg at 905nm wavelength and 40deg at 1550nm) The OPA has 2ms response time, and 10V actuation voltage.

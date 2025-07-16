@@ -1,0 +1,19 @@
+Utilizing telemedicine in oncology settings: Patient favourability rates and perceptions of use analysis using Chi-Square and neural networks.
+BACKGROUND
+Telemedicine is an alternative to traditional face-to-face doctor-patient office visits. Although telemedicine is becoming more prevalent, few studies have looked at the perceived favorability rate among patients utilizing telemedicine over the traditional office visit to a provider's office considering data samples from more than 5 clinics in northern Louisiana.
+
+
+OBJECTIVE
+This study aims to measure patient favorability of using telemedicine to receive care. This study looks at the perceived positive and negative favorability rates of patients in the oncology settings. The researchers analyzed how age, income level, and education level influenced the perceived patient favorability rates and their willingness to utilize telemedicine.
+
+
+METHODS
+The investigators used Chi-Square analysis to identify favorability with respect to age education and income levels. In addition to this Artificial Neural Networks were used to identify the threshold for favorability with respect to age, income, and education.
+
+
+RESULTS
+Chi-Square tests of association showed that of the variables analyzed, only education level had a statistically significant relationship with a patient's favorability rate of telemedicine utilization. While our neural network analysis indicated that the threshold for income, age, and education are $34,999, 66 years, and a college degree.
+
+
+CONCLUSION
+In this article the investigators have successfully demonstrated the use of Artificial Neural Networks in identifying favorability of telemedicine used in addition to the traditional statistical methods such as Chi-Square. Thereby, creating a path for future research using advanced computational techniques like Artificial Neural Networks in analyzing human behavior.

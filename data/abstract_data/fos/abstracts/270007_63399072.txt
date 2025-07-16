@@ -1,0 +1,2 @@
+Application of Design Patterns in Geostatistics Modeling Software
+With the need of constructing self-owned intellectual property rights geostatistics modeling software, designs a basic structure of the software, introduces the concept of design patterns into the software design and implement, and gives the concrete realization of factory method.All of these improve the code reuse, the reliability and expansibility of the software.

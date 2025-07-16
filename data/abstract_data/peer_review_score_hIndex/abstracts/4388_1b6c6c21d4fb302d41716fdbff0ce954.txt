@@ -1,0 +1,4 @@
+Generating Realistic Stock Market Order Streams
+We propose an approach to generate realistic and high-fidelity stock market data based on generative adversarial networks.
+We model the order stream as a stochastic process with finite history dependence, and employ a conditional Wasserstein GAN to capture history dependence of orders in a stock market. 
+We test our approach with actual market and synthetic data on a number of different statistics, and find the generated data to be close to real data. 

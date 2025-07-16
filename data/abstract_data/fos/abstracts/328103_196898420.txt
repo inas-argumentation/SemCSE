@@ -1,0 +1,29 @@
+FRESCO-B: a fast cloud retrieval algorithm using oxygen B-band measurements from GOME-2
+Abstract. The FRESCO (Fast Retrieval Scheme for Clouds from the Oxygen A band)
+algorithm is a simple, fast and robust algorithm used to retrieve cloud
+information in operational satellite data processing. It has been applied to
+GOME-1 (Global Ozone Monitoring Experiment), SCIAMACHY (Scanning Imaging
+Absorption Spectrometer for Atmospheric Chartography), GOME-2 and more
+recently to TROPOMI (Tropospheric Monitoring Instrument). FRESCO retrieves
+effective cloud fraction and cloud pressure from measurements in the oxygen A
+band around 761  nm . In this paper, we propose a new version of the
+algorithm, called FRESCO-B, which is based on measurements in the oxygen B
+band around 687  nm . Such a method is interesting for vegetated
+surfaces where the surface albedo is much lower in the B band than in the A
+band, which limits the ground contribution to the top-of-atmosphere
+reflectances. In this study we first perform retrieval simulations. These
+show that the retrieved cloud pressures from FRESCO-B and FRESCO differ only
+between −10 and +10 hPa , except for high, thin clouds over
+vegetation where the difference is larger (about +15 to +30 hPa ),
+with FRESCO-B yielding higher pressure. Next, inter-comparison between
+FRESCO-B and FRESCO retrievals over 1 month of GOME-2B data reveals that the
+effective cloud fractions retrieved in the O2 A and B bands are
+very similar (mean difference of 0.003), while the cloud pressures show a
+mean difference of 11.5  hPa , with FRESCO-B retrieving higher
+pressures than FRESCO. This agrees with the simulations and is partly due to
+deeper photon penetrations of the O2 B band in clouds compared to
+the O2 A-band photons and partly due to the surface albedo bias in
+FRESCO. Finally, validation with ground-based measurements shows that the
+FRESCO-B cloud pressure represents an altitude within the cloud boundaries
+for clouds that are not too far from the Lambertian reflector model, which
+occurs in about 50 % of the cases.

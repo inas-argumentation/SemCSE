@@ -1,0 +1,2 @@
+First results of the Trip-t based T2K front end electronics performance with GM-APD
+The TRIP-t front end board (TFB) will read out Geiger-mode multi-pixel Avalanche Photo-Diodes (GM-APD) in several T2K detector systems. We report the first tests of the TFB electronics with GM-APD. Measurements of GM-APD charge spectra, energy and time resolution have been performed. Individual channel voltage trimming circuit functionality has also been tested. These results indicate very good performance of the TFB prototype with both 400 and 100 pixels GMAPD from Hamamatsu photonics.

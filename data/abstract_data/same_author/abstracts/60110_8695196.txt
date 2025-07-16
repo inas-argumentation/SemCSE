@@ -1,0 +1,2 @@
+Global Convergence Rate of Recurrently Connected Neural Networks
+We discuss recurrently connected neural networks, investigating their global exponential stability (GES). Some sufficient conditions for a class of recurrent neural networks belonging to GES are given. Sharp convergence rate is given too.

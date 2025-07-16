@@ -1,0 +1,2 @@
+Domain decomposition for least-squares finite element methods for the Stokes equations
+In this paper, we consider the solutions of the discrete linear system resulting from least-squares finite element discretization applied to the Stokes equations. Additive and multiplicative domain decomposition methods are used to solve the linear system and the uniform convergence results are established for both methods.

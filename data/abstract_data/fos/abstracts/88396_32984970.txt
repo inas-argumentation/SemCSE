@@ -1,0 +1,15 @@
+A role for dynamin in triggering ethanol tolerance.
+BACKGROUND
+A prevailing hypothesis is that the set of genes that underlie the endophenotypes of alcoholism overlap with those responsible for the addicted state. Functional ethanol tolerance, an endophenotype of alcoholism, is defined as a reduced response to ethanol caused by prior ethanol exposure. The neuronal origins of functional rapid tolerance are thought to be a homeostatic response of the nervous system that counters the effects of the drug. Synaptic proteins that regulate neuronal activity are an important evolutionarily conserved target of ethanol.
+
+
+METHODS
+We used mutant analysis in Drosophila to identify synaptic proteins that are important for the acquisition of rapid tolerance to sedation with ethanol. Tolerance was assayed by sedating flies with ethanol vapor and comparing the recovery time of flies after their first sedation and their second sedation. Temperature-sensitive paralytic mutants that alter key facets of synaptic neurotransmission, such as the propagation of action potentials, synaptic vesicle fusion, exocytosis, and endocytosis, were tested for the ability to acquire functional tolerance at both the permissive and restrictive temperatures.
+
+
+RESULTS
+The shibire gene encodes Drosophila Dynamin. We tested 2 temperature-sensitive alleles of the gene. The shi(ts1) allele blocked tolerance at both the permissive and restrictive temperatures, while shi(ts2) blocked only at the restrictive temperature. Using the temperature-sensitive property of shi(ts2) , we showed that Dynamin function is required concomitant with exposure to ethanol. A temperature-sensitive allele of the Syntaxin 1A gene, Syx1A(3-69), also blocked the acquisition of ethanol tolerance.
+
+
+CONCLUSIONS
+We have shown that shibire and Syntaxin 1A are required for the acquisition of rapid functional tolerance to ethanol. Furthermore, the shibire gene product, Dynamin, appears to be required for an immediate early response to ethanol that triggers a cellular response leading to rapid functional tolerance.

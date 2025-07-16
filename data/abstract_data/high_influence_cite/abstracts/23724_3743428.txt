@@ -1,0 +1,15 @@
+The role of biomass allocation between lamina and petioles in a game of light competition in a dense stand of an annual plant
+Background and Aims
+Models of plant three-dimensional (3-D) architecture have been used to find optimal morphological characteristics for light capture or carbon assimilation of a solitary plant. However, optimality theory is not necessarily useful to predict the advantageous strategy of an individual in dense stands, where light capture of an individual is influenced not only by its architecture but also by the architecture of its neighbours. Here, we analysed optimal and evolutionarily stable biomass allocation between the lamina and petiole (evolutionarily stable strategy; ESS) under various neighbour conditions using a 3-D simulation model based on the game theory.
+
+
+Methods
+We obtained 3-D information of every leaf of actual Xanthium canadense plants grown in a dense stand using a ruler and a protractor. We calculated light capture and carbon assimilation of an individual plant when it stands alone and when it is surrounded by neighbours in the stand. We considered three trade-offs in petiole length and lamina area: biomass allocation, biomechanical constraints and photosynthesis. Optimal and evolutionarily stable biomass allocation between petiole and lamina were calculated under various neighbour conditions.
+
+
+Key Results
+Optimal petiole length varied depending on the presence of neighbours and on the architecture of neighbours. The evolutionarily stable petiole length of plants in the stand tended to be longer than the optimal length of solitary plants. The mean of evolutionarily stable petiole length in the stand was similar to the real one. Trade-offs of biomechanical constraint and photosynthesis had minor effects on optimal and evolutionarily stable petiole length.
+
+
+Conclusion
+Actual plants realize evolutionarily stable architecture in dense stands. Interestingly, there were multiple evolutionarily stable petiole lengths even in one stand, suggesting that plants with different architectures can coexist across plant communities.

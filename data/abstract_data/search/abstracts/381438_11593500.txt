@@ -1,0 +1,2 @@
+Imaging with terahertz waves.
+We present what is to our knowledge the first imaging system based on optoelectronic terahertz time domain spectroscopy. Terahertz time domain waveforms are downconverted from the terahertz to the kilohertz frequency range, and the waveform for each pixel is frequency analyzed in real time with a digital signal processor to extract compositional information at that point. We demonstrate applications to package inspection and chemical content mapping in biological objects.

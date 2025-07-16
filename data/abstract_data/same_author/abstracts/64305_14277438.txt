@@ -1,0 +1,2 @@
+Occlusions, Discontinuities, and Epipolar Lines in Stereo
+Binocular stereo is the process of obtaining depth information from a pair of left and right views of a scene. We present a new approach to compute the disparity map by solving a global optimization problem that models occlusions, discontinuities, and epipolar-line interactions.

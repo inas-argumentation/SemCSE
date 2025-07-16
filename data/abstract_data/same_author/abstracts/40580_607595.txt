@@ -1,0 +1,2 @@
+The HUMANOID Environment for Interactive Animation of Multiple Deformable Human Characters
+We describe the HUMANOID environment dedicated to human modeling and animation for general multimedia, VR, and CAD applications integrating virtual humans. We present the design of the system and the integration of the various features: generic modeling of a large class of entities with the BODY data structure, realistic skin deformation for body and hands, facial animation, collision detection, integrated motion control and parallelization of computation intensive tasks.

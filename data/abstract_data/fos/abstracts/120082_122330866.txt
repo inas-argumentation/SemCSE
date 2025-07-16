@@ -1,0 +1,2 @@
+A one-sample adaptive distribution-free test with a stable power function
+An asymptotically efficient combination of rank statistics with a variety of score functions is studied. The results of a Monte Carlo study show that the power function of the test for location is very stable across density types varying from heavy to light tails.

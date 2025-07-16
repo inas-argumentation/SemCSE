@@ -1,0 +1,2 @@
+An algebraic dualization of fundamental groups
+1. The construction of T(A) is motivated by dualizing the fundamental group 7Ti(X) of a differentiable manifold X with a base point Xo. Let A be the -R-algebra of C functions on X equipped with the derivation d, which is the usual differentiation from A into the Amodule M = ÛA of C 1-forms on X. Recall that the shuffle algebra Sh(M) consists of the i£-module of the tensor algebra TR(M) and the shuffle multiplication o . We make Sh(M) a Hopf i£-algebra with the comultiplication f : Sh(Jkf)—>Sh(M) ®Sh(M) given by

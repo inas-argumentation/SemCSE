@@ -1,0 +1,13 @@
+An estimate of the Higgs boson mass in two loop approximation in a noncommutative differential geometry
+. An estimation of the Higgs boson mass is performed by numerically solving the renormalization group equations in the two loop approximation based on the condition 
+$g^2=(5/3)g'^2=4\lambda$ for SU(2)
+$_{\rm \tiny L}$, U(1)
+$_{\rm\tiny Y}$ gauge and the Higgs quartic coupling constants, respectively. This condition is introduced in the new scheme of our noncommutative differential geometry (NCG) for the reconstruction of the standard model. However, contrary to 
+${\rm SU(5)}$ GUT without supersymmetry, the grand unification of coupling constants is not realized in this scheme. The physical mass of the Higgs boson depends strongly on the top quark mass 
+$m_{\rm\scriptsize top}$ through the Yukawa coupling of the top quark in the 
+$\beta$ functions. The two loop effect lowers the numerical value calculated within the one loop approximation by several GeV. The Higgs boson mass varies from 150.93 GeV to 167.96 GeV corresponding to 
+$169.47\,{\rm GeV}\leq m_{\rm\scriptsize top}\leq 181.00\,{\rm GeV}$. We find 
+$m_{\rm\tiny H}=158.90$ GeV for 
+$ m_{\rm\scriptsize top}=175.01$ GeV and 
+$m_{\rm\tiny H}=166.98$ GeV for 
+$m_{\rm\scriptsize top}=180.37$ GeV.

@@ -1,0 +1,2 @@
+Analytical Modeling of the Influence of Connection Handoff on UMTS Traffic Characteristics
+The paper presents a model of a group of cells, exploiting the effects of connection handoff between cells, aimed at increasing the traffic capacity of a system. The analytical model proposed is based on the model of limited-availability group, which makes it possible to determine basic traffic characteristics in the system under consideration. The results of analytical calculations of blocking in a group of UMTS cells were compared with simulation data.

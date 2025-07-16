@@ -1,0 +1,2 @@
+On the stochastic quantization of the Chern-Simons theory
+Abstract We present in this paper a refined treatment of the stochastic quantization of Chern-Simons field theories. We show in particular that the naive Langevin equation does not lead to a well-defined equilibrium limit. Our main issue is the introduction of a nontrivial kernel in the Langevin equation which yields the correct equilibrium limit. We restrict ourselves to the free field theory case.

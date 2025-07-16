@@ -1,0 +1,2 @@
+The method of averaging in beam dynamics
+This paper introduces the method of averaging and applies it to several beam dynamics problems. Averaging is an important tool in the rigorous study of ODEs with a small parameter, and it leads to a systematic perturbation expansion complete with error bounds. First‐ and second‐order averaging theorems are presented and applied; in addition, proofs are included for the interested reader. Resonance at first and second order is treated.

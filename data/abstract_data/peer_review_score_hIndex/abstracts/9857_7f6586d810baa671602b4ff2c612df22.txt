@@ -1,0 +1,15 @@
+Finding a Jack-of-All-Trades: An Examination of Semi-supervised Learning in Reading Comprehension
+Deep learning has proven useful on many NLP tasks including reading
+comprehension. However it requires a lot of training data which are not
+available in some domains of application. Hence we examine the possibility
+of using data-rich domains to pre-train models and then apply them in
+domains where training data are harder to get. Specifically, we train a
+neural-network-based model on two context-question-answer datasets, the
+BookTest and CNN/Daily Mail, and we monitor transfer to subsets of bAbI,
+a set of artificial tasks designed to test specific reasoning abilities, and of
+SQuAD, a question-answering dataset which is much closer to real-world
+applications. Our experiments show very limited transfer if the model isn’t
+shown any training examples from the target domain however the results
+are promising if the model is shown at least a few target-domain examples.
+Furthermore we show that the effect of pre-training is not limited to word
+embeddings.

@@ -1,0 +1,10 @@
+The limb-darkened Arcturus: imaging with the IOTA/IONIC interferometer
+Aims. We undertook an H band interferometric examination of Arcturus, a star frequently used as a spatial and spectral calibrator. 
+Methods. Using the IOTA 3 telescope interferometer, we performed spectro-interferometric observations (R ≈ 35) of Arcturus. 
+Atmospheric models and prescriptions were fitted to the data to derive the brightness distribution of the photosphere. Image reconstruction 
+was performed using two software algorithms: Wisard and Mira. 
+Results. An achromatic power law proved to be a good model of the brightness distribution, with a limb darkening compatible with 
+the one derived from atmospheric model simulations using our marcs model. A Rosseland diameter of 21.05 ± 0.21 was derived, 
+corresponding to an effective temperature of Teff = 4295 ± 26 K. No companion was detected from the closure phases, with an upper 
+limit on the brightness ratio of 8 × 10^−4 at 1 AU. The dynamic range at such distance from the photosphere was established as 
+1.5 × 10^−4 (1σrms). An upper limit of 1.7×10^−3 was also derived for the level of brightness asymmetries present in the photosphere.

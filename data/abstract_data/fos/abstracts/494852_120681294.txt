@@ -1,0 +1,2 @@
+On the pitman estimator op ordered normal means
+Let be independent normal random variables with means and the common variance unity. It is assumed that We show that the Pitman estimator the generalized Bayes estimator of with respect to the uniform prior on is minimax. When k = 2, the components of for estimating θ1and θ2 are minimax (Cohen and Sackrowitz (1970)). However, for k = 3, we prove that the similar result does not hold for θ1 and θ3 Admississibility of in certain classes of estimators is also discussed.

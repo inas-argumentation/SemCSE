@@ -1,0 +1,2 @@
+Basis for the implementation of an EEG-based single-trial binary brain computer interface through the disgust produced by remembering unpleasant odors
+In order to implement an EEG-based brain computer interface (BCI), a very large number of strategies (ranging from sensory–motor, p300, auditory based, visually based) can be used. However, no technique exists which is based on the olfactory stimulation or, better, based on the imagination of olfactory

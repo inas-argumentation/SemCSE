@@ -1,0 +1,2 @@
+Stable time step estimation for multi-material Eulerian hydrocodes
+The time step estimates used in explicit, multi-material Eulerian hydrocodes are based on a series of upper bound approximations that can lead to unnecessarily small time steps. Since the cost of the calculation is proportional to the number of time steps, the underestimation of the time step size has a direct, adverse effect on the cost. An accurate method for calculating the stable time step size is presented with example calculations.

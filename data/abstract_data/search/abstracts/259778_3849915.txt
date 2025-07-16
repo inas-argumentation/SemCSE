@@ -1,0 +1,2 @@
+Sensitivity Analysis
+Recall that in order to formulate a problem as a linear program, you had to invoke a certainty assumption: you had to know what value the data took on, and you have made decisions based on that data. Often this assumption is somewhat dubious: the data might be unknown, or guessed at, or otherwise inaccurate. How can you determine the effect on the optimal decisions if the values change? Clearly some numbers in the data are more important than others. Can you find the `important' numbers?

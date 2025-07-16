@@ -1,0 +1,2 @@
+Research and Improvement of GridLOF Algorithm in Data Mining
+There are some data objects that are not coincide with the the data set,they may contain some important hidden information.Based on the analysis of GridLOF outlier mining algorithms,presents density factor of neighboring grid cells outlier mining algorithm,and makes some improvement.

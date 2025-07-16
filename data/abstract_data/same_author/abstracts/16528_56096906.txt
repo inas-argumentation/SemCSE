@@ -1,0 +1,2 @@
+Revisiting spherically symmetric relativistic hydrodynamics
+used in fluid dynamics, specifically those designed to deal with shocks, which are based on a finite volume approximation. The two cases we consider are the relativistic blast wave problem and the evolution of a Tolman-Oppenheimer-Volkoff star model, in spherical symmetry. In the first case we illustrate the implementation of relativistic Euler’s equations on a fixed background space-time, whereas in the second case we also show how to couple the evolution of the fluid to the evolution of the space-time.

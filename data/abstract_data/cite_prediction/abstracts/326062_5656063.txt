@@ -1,0 +1,2 @@
+DB2OWL : A Tool for Automatic Database-to-Ontology Mapping
+We present a tool, called DB2OWL, to automatically generate ontologies from database schemas. The mapping process starts by detecting particular cases for conceptual elements in the database and accordingly converts database components to the corresponding ontology components. We have implemented a prototype of DB2OWL tool to create OWL ontology from relational database.

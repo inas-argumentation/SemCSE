@@ -1,0 +1,2 @@
+SARFID on drone: Drone-based UHF-RFID tag localization
+This paper presents a localization system for objects tagged with UHF-RFID passive tags, where the reader is attached to a drone. The system implements the phase-based SARFID technique to locate static tags with respect to a UHF-RFID reader attached to a commercial drone. The reader antenna trajectory is achieved through a Global Positioning System. The bi-dimensional tag position is estimated with centimeter order accuracy. Only one reader antenna is required, without any reference tag.

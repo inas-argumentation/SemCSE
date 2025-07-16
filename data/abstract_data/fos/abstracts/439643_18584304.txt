@@ -1,0 +1,15 @@
+Individualized computer-aided education in mammography based on user modeling: concept and preliminary experiments.
+PURPOSE
+The authors propose the framework for an individualized adaptive computer-aided educational system in mammography that is based on user modeling. The underlying hypothesis is that user models can be developed to capture the individual error making patterns of radiologists-in-training. In this pilot study, the authors test the above hypothesis for the task of breast cancer diagnosis in mammograms.
+
+
+METHODS
+The concept of a user model was formalized as the function that relates image features to the likelihood/extent of the diagnostic error made by a radiologist-in-training and therefore to the level of difficulty that a case will pose to the radiologist-in-training (or "user"). Then, machine learning algorithms were implemented to build such user models. Specifically, the authors explored k-nearest neighbor, artificial neural networks, and multiple regression for the task of building the model using observer data collected from ten Radiology residents at Duke University Medical Center for the problem of breast mass diagnosis in mammograms. For each resident, a user-specific model was constructed that predicts the user's expected level of difficulty for each presented case based on two BI-RADS image features. In the experiments, leave-one-out data handling scheme was applied to assign each case to a low-predicted-difficulty or a high-predicted-difficulty group for each resident based on each of the three user models. To evaluate whether the user model is useful in predicting difficulty, the authors performed statistical tests using the generalized estimating equations approach to determine whether the mean actual error is the same or not between the low-predicted-difficulty group and the high-predicted-difficulty group.
+
+
+RESULTS
+When the results for all observers were pulled together, the actual errors made by residents were statistically significantly higher for cases in the high-predicted-difficulty group than for cases in the low-predicted-difficulty group for all modeling algorithms (p < or = 0.002 for all methods). This indicates that the user models were able to accurately predict difficulty level of the analyzed cases. Furthermore, the authors determined that among the two BI-RADS features that were used in this study, mass margin was the most useful in predicting individual user errors.
+
+
+CONCLUSIONS
+The pilot study shows promise for developing individual user models that can accurately predict the level of difficulty that each case will pose to the radiologist-in-training. These models could allow for constructing adaptive computer-aided educational systems in mammography.

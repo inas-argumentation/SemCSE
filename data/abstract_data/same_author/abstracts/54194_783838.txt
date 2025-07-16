@@ -1,0 +1,6 @@
+Practical Indexing XML Document for Twig Query
+Answering structural queries of XML with index is an important approach of efficient XML query processing. Among existing structural indexes for XML data, F&B index is the smallest index that can answer all branching queries. However, an F&B index for less regular XML data often contains a large number of index nodes, and hence a large amount of main memory. If the F&B index cannot be accommodated in the available memory, its performance will degrade significantly. This issue has practically limited wider application of the F&B index. 
+ 
+In this paper, we propose a disk organization method for the F&B index which shift part of the leave nodes in the F&B index to the disk and organize them judiciously on the disk. Our method is based on the observation that the majority of the nodes in a F&B index is often the leaf nodes, yet their access frequencies are not high. 
+ 
+We select some leaves to output to disk. With the support of reasonable storage structure in main memory and in disk, we design efficient query processing method). We further optimize the design of the F&B index based on the query workload. Experimental results verified the effectiveness of our proposed approach.

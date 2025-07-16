@@ -1,0 +1,2 @@
+Circuit and system design guidelines for ultra-low power sensor nodes
+Designing an ultra-low power sensor node requires careful consideration of the system-level energy budget. Depending on applications, various components can dominate total energy. In this paper, we review three different system energy budget scenarios where any of the microprocessor, memory, and timer of a sensor node can dominate the energy budget. The design space and corresponding trade-offs for these three components are explored to suggest guidelines for the design of ultra-low power sensor nodes.

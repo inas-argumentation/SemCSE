@@ -1,0 +1,2 @@
+Robustness and security of a wavelet-based CBIR hashing algorithm
+A wavelet-based robust database hashing scheme is analyzed with respect to its resilience against image modifications and hostile attacks. A method to construct a forgery is presented and possible countermeasures are discussed.

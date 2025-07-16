@@ -1,0 +1,2 @@
+Sparse Recovery Using Sparse Matrices
+In this paper, we survey algorithms for sparse recovery problems that are based on sparse random matrices. Such matrices has several attractive properties: they support algorithms with low computational complexity, and make it easy to perform incremental updates to signals. We discuss applications to several areas, including compressive sensing, data stream computing, and group testing.

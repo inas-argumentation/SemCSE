@@ -1,0 +1,2 @@
+On the Kostlan-Shub-Smale model for random polynomial systems. Variance of the number of roots
+We consider a random polynomial system with m equations and m real unknowns. Assume all equations have the same degree d and the law on the coefficients satisfies the Kostlan-Shub-Smale hypotheses. It is known that E(NX) = dm/2 where NX denotes the number of roots of the system. Under the condition that d does not grow very fast, we prove that lim supm→+∞ Var(NX/dm/2) ≤ 1. Moreover, if d ≥ 3 then Var(NX/dm/2) → 0 as m → +∞, which implies NX/dm/2 → 1 in probability.

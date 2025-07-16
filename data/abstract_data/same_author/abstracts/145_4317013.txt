@@ -1,0 +1,2 @@
+Verification of Web Service Conversations Specified in WSCL
+This paper studies one of the standards about Web service conversations, the WSCL specification. We propose a method to verify conversations in WSCL. In this method we first propose using a translator to convert WSCL documents into promela, the modeling language of the model checker SPIN. Then, we run SPIN to check the conversation model against the correctness properties specified by the designer. A toolkit for WSCL verification is introduced at the end of this paper.

@@ -1,0 +1,2 @@
+On the NP-completeness of finding an optimal strategy in games with common payoffs
+. Consider a very simple class of (finite) games: after an initial move by nature, each player makes one move. Moreover, the players have common interests: at each node, all the players get the same payoff. We show that the problem of determining whether there exists a joint strategy where each player has an expected payoff of at least r is NP-complete as a function of the number of nodes in the extensive-form representation of the game.

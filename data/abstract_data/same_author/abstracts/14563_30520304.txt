@@ -1,0 +1,2 @@
+Improving the locality of the overlap Dirac operator via approximate solutions of the Ginsparg-Wilson relation
+Abstract We determine a free field hypercubic lattice Dirac operator which is optimally close to satisfying the Ginsparg-Wilson relation. Inserting this operator into the overlap formula, we show that the analytic locality bound on the resulting overlap Dirac operator is substantially stronger than in the standard case. The improvement generally persists in gauge backgrounds when the plaquette variables are all close to unity.

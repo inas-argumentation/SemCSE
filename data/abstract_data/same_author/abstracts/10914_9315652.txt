@@ -1,0 +1,2 @@
+Which Green functions does the path integral for quasi-Hermitian Hamiltonians represent?
+We explain how Feynman diagrams and the functional integral for quasi-Hermitian theories “know” about the metric η . The answer turns out be that their derivation is based fundamentally on the Heisenberg equations of motion and the canonical equal-time commutation relations, which only take their standard form when matrix elements are evaluated using η .

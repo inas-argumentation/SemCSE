@@ -1,0 +1,2 @@
+A Parallel Volume Splatting Algorithm Based on PC-Clusters
+Splatting is a widely used object-order volume rendering algorithm. By using a hybrid data-space and image-space partitioning scheme, a parallel volume Splatting algorithm based on PC-clusters is presented in this paper. Experiment results demonstrate that the proposed method can gain high rendering speed and excellent speedups on commercial PC-clusters.

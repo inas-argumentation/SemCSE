@@ -1,0 +1,2 @@
+A monitoring sensor management system for grid environments
+Large distributed systems, such as computational grids, require a large amount of monitoring data be collected for a variety of tasks, such as fault detection, performance analysis, performance tuning, performance prediction and scheduling. Ensuring that all necessary monitoring is turned on and that the data is being collected can be a very tedious and error-prone task. We have developed an agent-based system to automate the execution of monitoring sensors and the collection of event data.

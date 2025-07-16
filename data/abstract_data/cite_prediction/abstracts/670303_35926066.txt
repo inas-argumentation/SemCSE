@@ -1,0 +1,2 @@
+Adaptive Automatic Number Plate Recognition ( ANPR ) and Extraction from Complex Images
+Vehicle number plate recognition has attracted many researchers for intelligent transportation systems such as the payment of parking fee, controlling the traffic volume, traffic data collection, etc. We are presenting an enhanced license plate extraction methodology which includes edge statistics and the morphology. The proposed methodology includes vertical edge extraction, background curve and noise removing, edge statistical analysis and morphology-based license plate extraction.

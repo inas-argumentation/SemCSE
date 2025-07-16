@@ -1,0 +1,2 @@
+On the duality of a non-convex optimization problem and the strong unicity constant in linear Chebyshev approximation
+The main goal of this paper is to define a dual problem for a special non-convex, global optimization problem and to show that a duality gap may not occur. The proof is based on the convergence of a cutting plane algorithm. The results can be applied. to a dual characterization of the strong unicity constant in linear Chebyshev approximation and the algorithm can be used to compute this constant.

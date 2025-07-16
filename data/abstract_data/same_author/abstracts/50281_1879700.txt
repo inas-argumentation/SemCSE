@@ -1,0 +1,2 @@
+Hand gesture modelling and recognition involving changing shapes and trajectories, using a Predictive EigenTracker
+We present a novel eigenspace-based framework to model a dynamic hand gesture that incorporates both hand shape as well as trajectory information. We address the problem of choosing a gesture set that models an upper bound on gesture recognition efficiency. We show encouraging experimental results on a such a representative set.

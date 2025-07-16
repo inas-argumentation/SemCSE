@@ -1,0 +1,15 @@
+CXCR6 Inhibits Hepatocarcinogenesis by Promoting Natural Killer T- and CD4+ T-Cell-Dependent Control of Senescence.
+BACKGROUND & AIMS
+Inflammation in the liver provokes fibrosis, but inflammation is also important for tumor surveillance. Inhibitors of chemokine pathways, such as CXCL16 and CXCR6 regulation of lymphocyte trafficking, are being tested as antifibrotic agents, but their effects on the development of hepatocellular carcinoma (HCC) are unclear. We assessed the roles of CXCR6-dependent immune mechanisms in hepatocarcinogenesis.
+
+
+METHODS
+C57BL/6J wild-type (WT) mice and CXCR6-deficient mice (Cxcr6eGfp/eGfp) were given injections of diethylnitrosamine (DEN) to induce liver cancer and α-galactosylceramide to activate natural killer T (NKT) cells. We also performed studies in mice with conditional, hepatocyte-specific deletion of NEMO, which develop inflammation-associated liver tumors (NemoLPC-KO and NemoLPC-KOCxcr6eGfp/eGfp mice). We collected liver tissues from patients with cirrhosis (n = 43), HCC (n = 35), and neither of these diseases (control individuals, n = 25). Human and mouse liver tissues were analyzed by histology, immunohistochemistry, flow cytometry, RNA expression arrays (from sorted hepatic lymphocytes), and matrix-assisted laser desorption/ionization imaging. Bone marrow was transferred from Cxcr6eGfp/eGfp or WT mice to irradiated C57BL/6J mice, and spleen and liver cells were analyzed by flow cytometry. CD4+ T cells or NKT cells were isolated from the spleen and liver of CD45.1+ WT mice and transferred into CXCR6-deficient mice after DEN injection.
+
+
+RESULTS
+After DEN injection, CXCR6-deficient mice had a significantly higher tumor burden than WT mice and increased tumor progression, characterized by reduced intrahepatic numbers of invariant NKT and CD4+ T cells that express tumor necrosis factor and interferon gamma. Livers of NemoLPC-KOCxcr6eGfp/eGfp mice had significantly more senescent hepatocytes than livers of NemoLPC-KO mice. In studies of bone-marrow chimeras, adoptive cell transfer experiments, and analyses of NemoLPC-KO mice, we found that NKT and CD4 T cells promote the removal of senescent hepatocytes to prevent hepatocarcinogenesis, and that this process required CXCR6. Injection of WT with α-galactosylceramide increased removal of senescent hepatocytes by NKT cells. We observed peritumoral accumulation of CXCR6-associated lymphocytes in human HCC, which appeared reduced compared with cirrhosis tissues.
+
+
+CONCLUSIONS
+In studies of mice with liver tumors, we found that CXCR6 mediated NKT-cell and CD4+ T-cell removal of senescent hepatocytes. Antifibrotic strategies to reduce CXCR6 activity in liver, or to reduce inflammation or modulate the immune response, should be tested for their effects on hepatocarcinogenesis.

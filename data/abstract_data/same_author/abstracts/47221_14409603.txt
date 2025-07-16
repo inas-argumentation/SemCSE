@@ -1,0 +1,2 @@
+Motion planning of legged robots: the spider robot problem
+We consider the problem of planning motions of a simple legged robot called the spider robot. The robot is modelled as a point where all its legs are attached, and the footholds where the robot can securely place its feet consist of a set of n points in the plane. We show that the space F of admissible and stable placements of such robots has size Θ(n2) and can be constructed in O(n2 log n) time and O(n2) space. Once F has been constructed, we can efficiently solve several problems related to motion planning.

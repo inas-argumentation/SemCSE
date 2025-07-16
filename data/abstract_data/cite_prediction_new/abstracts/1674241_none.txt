@@ -1,0 +1,2 @@
+Generic Extensions and Canonical Bases for Cyclic Quivers
+We use the monomial basis theory developed by Deng and Du to present an elementary algebraic construction of the canonical bases for both the Ringel–Hall algebra of a cyclic quiver and the positive part ${{\mathbf{U}}^{+}}$ of the quantum affine $\mathfrak{s}{{\mathfrak{l}}_{n}}$ . This construction relies on analysis of quiver representations and the introduction of a new integral PBW-like basis for the Lusztig $\mathbb{Z}[v,\,{{v}^{-1}}]$ -form of ${{\mathbf{U}}^{+}}$ .

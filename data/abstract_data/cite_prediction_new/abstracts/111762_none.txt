@@ -1,0 +1,2 @@
+A formula for the Maslov index of linear autonomous Hamiltonian systems
+The Maslov index of a Lagrangian path under a certain transversality assumption is given by an algebraic count of the intersections of the path with a co-oriented subvariety of the Lagrangian Grassmannian termed the Maslov cycle. In these notes we explicitly compute this index in the case of linear autonomous Hamiltonian systems. We will include an application in order to compute conjugate points along semi-Riemannian geodesics.

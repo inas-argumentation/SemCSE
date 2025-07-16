@@ -1,0 +1,2 @@
+Corpus-Oriented Grammar Development for Acquiring a Head-Driven Phrase Structure Grammar from the Penn Treebank
+This paper describes a method of semi-automatically acquiring an English HPSG grammar from the Penn Treebank. First, heuristic rules are employed to annotate the treebank with partially-specified derivation trees. Lexical entries are automatically extracted from the annotated corpus by inversely applying schemata to partially-specified derivation trees.

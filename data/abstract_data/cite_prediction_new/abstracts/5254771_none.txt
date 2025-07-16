@@ -1,0 +1,2 @@
+The Research of topology management baseon IPv6 network
+This paper presents the method of network topology automatic discovery in IPv4 and presents several problems which must be resolved in IPv6 network topology automatic discovery management. Explain how network topology works in Network Management, these two above are the basement of IPv6 network topology. Then this paper deeply studies these problems and finds out the designing and accomplishing methods and designs and implements a network topology management system in IPv6.

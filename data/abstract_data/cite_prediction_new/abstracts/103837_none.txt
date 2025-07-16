@@ -1,0 +1,2 @@
+Reconstructing time-to-event data from published Kaplan-Meier curves.
+Hazard ratios can be approximated by data extracted from published Kaplan-Meier curves. Recently, this curve approach has been extended beyond hazard-ratio approximation with the capability of constructing time-to-event data at the individual level. In this article, we introduce a command, ipdfc, to implement the reconstruction method to convert Kaplan-Meier curves to time-to-event data. We give examples to illustrate how to use the command.

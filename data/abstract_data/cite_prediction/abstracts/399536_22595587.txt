@@ -1,0 +1,2 @@
+BER estimation from EVM for QPSK and 16-QAM coherent optical systems
+BER estimation from measured EVM values is shown experimentally for QPSK and 16QAM optical signals with 28 GBd. Various impairments, such as gain imbalance, quadrature error and timing skew, are introduced into the transmitted signal in order to evaluate the robustness of the method. The EVM was measured using two different real-time sampling systems and the EVM measurement accuracy is discussed.

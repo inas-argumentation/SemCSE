@@ -1,0 +1,2 @@
+An Automatic Relevance Determination Prior Bayesian Neural Network for Controlled Variable Selection
+We present an Automatic Relevance Determination prior Bayesian Neural Network(BNN ARD) weight l2 norm measure as a feature importance statistic for the model x knockoff filter. We show on both simulated data and the Norwegian wind farm dataset that the proposed feature importance statistic yields statistically significant improvements relative to similar feature importance measures in both variable selection power and predictive performance on a real world dataset.

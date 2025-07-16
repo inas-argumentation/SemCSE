@@ -1,0 +1,2 @@
+The optimum processing of clipped signals: An approach based on minimum signal distortion
+The minimization of signal distortion was one approach applied successfully in the theory of optimum signal detection for arrays [3]. The processors considered operated on the input as received. In some applications it is desirable to clip the received signal before processing and the problem of optimum processing of such clipped signals then arises. Several approaches to this problem are being studied, but the present paper is concerned with that based on minimum signal distortion.

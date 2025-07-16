@@ -1,0 +1,15 @@
+Early mucosal reactions during and after head-and-neck radiotherapy: dependence of treatment tolerance on radiation dose and schedule duration.
+PURPOSE
+To more precisely localize the dose-time boundary between head-and-neck radiotherapy schedules inducing tolerable and intolerable early mucosal reactions.
+
+
+METHODS AND MATERIALS
+Total cell-kill biologically effective doses (BED(CK)) have been calculated for 84 schedules, including incomplete repair effects, but making no other corrections for the effect of schedule duration T. [BED(CK),T] scatterplots are graphed, overlying BED(CKboundary)(T) curves on the plots and using discriminant analysis to optimize BED(CKboundary)(T) to best represent the boundary between the tolerable and intolerable schedules.
+
+
+RESULTS
+More overlap than expected is seen between the tolerable and intolerable treatments in the 84-schedule [BED(CK),T] scatterplot, but this was largely eliminated by removing gap and tolerated accelerating schedules from the plot. For the remaining 57 predominantly regular schedules, the BED(CKboundary)(T) boundary increases with increasing T (p = 0.0001), curving upwards significantly nonlinearly (p = 0.00007) and continuing to curve beyond 15 days (p = 0.035). The regular schedule BED(CKboundary)(T) boundary does not describe tolerability well for accelerating schedules (p = 0.002), with several tolerated accelerating schedules lying above the boundary where regular schedules would be intolerable. Gap schedule tolerability also is not adequately described by the regular schedule boundary (p = 0.04), although no systematic offset exists between the regular boundary and the overall gap schedule tolerability pattern.
+
+
+CONCLUSIONS
+All schedules analyzed (regular, gap, and accelerating) with BED(CK) values below BED(CKboundary)(T)=69.5x(T/32.2)/sin((T/32.2)((radians)))-3.5Gy(10)(forT< or =50 days) are tolerable, and many lying above the boundary are intolerable. The accelerating schedules analyzed were tolerated better overall than are the regular schedules with similar [BED(CK),T] values.

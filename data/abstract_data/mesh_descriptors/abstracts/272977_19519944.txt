@@ -1,0 +1,15 @@
+Linked linear amplification: a new method for the amplification of DNA.
+BACKGROUND
+Linked Linear Amplification (LLA) is a new nucleic acid amplification method that uses multiple cycles of primer extension reactions. The presence of nonreplicable elements in LLA primers renders primer extension products unusable as templates for further amplification, leading to linear accumulation of products. Through the use of nested primers, linear reactions can be "linked", providing total amplification yields comparable to those obtained by PCR.
+
+
+METHODS
+The LLA model predicts (a) that amplification yield will approach that of PCR as the number of primers increases and (b) that the unique composition of LLA products will give lower carryover amplification efficiency compared with PCR. To test these hypotheses, the human ss-globin gene was amplified by 10-, 14-, or 18-primer LLA and the yield was compared with PCR. Carryover contamination was simulated by reamplifying a dilution series of LLA or PCR products. To demonstrate the clinical utility of the method, LLA coupled with allele-specific oligonucleotide (ASO) capture was used to detect the factor V Leiden mutation in a panel of 111 DNA samples.
+
+
+RESULTS
+Fourteen- and 18-primer LLA gave amplification yields comparable to PCR. However, LLA carryover amplification efficiency was four orders of magnitude lower than that of PCR. The LLA-ASO assay detected the correct factor V Leiden genotype in all 111 samples.
+
+
+CONCLUSIONS
+LLA is a robust target amplification method that is comparable to PCR in yield. However, LLA is more resistant to false results caused by carryover amplicon contamination.

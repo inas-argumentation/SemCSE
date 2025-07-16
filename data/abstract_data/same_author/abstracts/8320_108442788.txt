@@ -1,0 +1,2 @@
+Experience with the SVX-H chip in the construction of the L3 Silicon Microvertex Detector
+The SVX is a charge preamplifier with a sample and hold stage and sparse readout capability developed at the Lawrence Berkeley Laboratory. The SVX radiation hard version has been used by the SMD collaboration to build the L3 Silicon Microvertex Detector where double-sided AC coupled silicon sensors are read out. The SVX-H test procedure in the SMD detector assembly phase will be described as well as the obtained results.

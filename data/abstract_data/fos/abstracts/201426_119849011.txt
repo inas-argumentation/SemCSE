@@ -1,0 +1,2 @@
+Estimating Population Size in Logistic Capture-Recapture Models with a Known Sex Ratio
+A logistic model based on capture-recapture data with a known sex ratio is studied. The maximum likelihood estimate for population size is obtained and its large sample properties are derived. Simulation results are reported and an example is given. By using the additional information of the known sex ratio, the accuracy of the proposed method improves considerably.

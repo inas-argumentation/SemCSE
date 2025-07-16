@@ -1,0 +1,2 @@
+Enhancing application robustness through adaptive fault tolerance
+As the scale of high performance computing (HPC) continues to grow, application fault resilience becomes crucial. To address this problem, we are working on the design of an adaptive fault tolerance system for HPC applications. It aims to enable parallel applications to avoid anticipated failures via preventive migration, and in the case of unforeseeable failures, to minimize their impact through selective checkpointing. Both prior and ongoing work are summarized in this paper.

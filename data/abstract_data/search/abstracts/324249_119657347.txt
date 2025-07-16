@@ -1,0 +1,2 @@
+On the calculation of the multiplicity of a real eigenvalue of Hessenberg matrix
+Abstract In this article, we describe three algorithms: the first one is used to compute the multiplicity of a real eigenvalue of a Hessenberg matrix A R n x n in o n 3 the second for the computation of the determinant of a Hessenberg matrix in o n 2 and the third for the computation of the multiplicity of a real root of a polynomial in o n 2 It is a new matricial form and represents generalized Horner scheme.

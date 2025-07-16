@@ -1,0 +1,11 @@
+Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them
+Making classifiers robust to adversarial examples is challenging. 
+Thus, many defenses tackle the seemingly easier task of \emph{detecting} perturbed inputs.
+
+We show a barrier towards this goal. We prove a general \emph{hardness reduction} between detection and classification of adversarial examples: given a robust detector for attacks at distance $\epsilon$ (in some metric), we show how to build a similarly robust (but inefficient) \emph{classifier} for attacks at distance $\epsilon/2$---and vice-versa.
+
+Our reduction is computationally inefficient, and thus cannot be used to build practical classifiers. Instead, it is a useful sanity check to test whether empirical detection results imply something much stronger than the authors presumably anticipated.
+
+To illustrate, we revisit $14$ empirical detector defenses published over the past years. For $12/14$ defenses, we show that the claimed detection results imply an inefficient classifier with robustness far beyond the state-of-the-art--- thus casting some doubts on the results' validity.
+
+Finally, we show that our reduction applies in both directions: a robust classifier for attacks at distance $\epsilon/2$ implies an inefficient robust detector at distance $\epsilon$. Thus, we argue that robust classification and robust detection should be regarded as (near)-equivalent problems.

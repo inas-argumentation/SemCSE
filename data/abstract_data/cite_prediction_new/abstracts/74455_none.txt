@@ -1,0 +1,2 @@
+Optimizing Binary Code Produced by Valgrind (Project Report on Virtual Execution Environments Course - AVExe)
+Valgrind is a widely used framework for dynamic binary instrumentation and its mostly known by its memcheck tool. Valgrind's code generation module is far from producing optimal code. In addition it has many backends for different CPU architectures, which difficults code optimization in an architecture independent way. Our work focused on identifying sub-optimal code produced by Valgrind and optimizing it.

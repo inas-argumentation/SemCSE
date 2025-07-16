@@ -1,0 +1,2 @@
+Design specifications of a generic supply chain simulator
+This paper describes a design specification for a generic, supply-chain-simulation system. The proposed simulation system is based on schedule-driven and stock-driven control methods to support the supply chain management. The simulation system includes three processing modes: business process flows, material process flows, and information process flows. The paper also discusses interface data requirements for the proposed supply-chain-simulation system.

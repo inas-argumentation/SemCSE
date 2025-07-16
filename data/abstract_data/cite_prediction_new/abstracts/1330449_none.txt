@@ -1,0 +1,4 @@
+A methodology for the design and optimization of information processing systems
+The design of an Information Processing System (IPS) can be divided into two major problems:
+ 1. What are the requirements of an information system, e.g., what outputs should be produced?
+ 2. What is the best way to produce the required outputs, on time, given the requirements developed in 1?

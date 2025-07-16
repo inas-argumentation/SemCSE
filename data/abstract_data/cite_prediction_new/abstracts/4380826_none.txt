@@ -1,0 +1,2 @@
+Asymptotic normality of kernel estimates in a regression model for random fields
+We establish the asymptotic normality of the regression estimator in a fixed-design setting when the errors are given by a field of dependent random variables. The result applies to martingale-difference or strongly mixing random fields. On this basis, a statistical test that can be applied to image analysis is also presented.

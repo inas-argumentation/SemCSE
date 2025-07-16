@@ -1,0 +1,2 @@
+A Combinatorial Algorithm for Minimum Weighted Colorings of Claw-Free Perfect Graphs
+We present an O(n5) combinatorial algorithm for the minimum weighted coloring problem on claw-free perfect graphs, which was posed by Hsu and Nemhauser in 1984. Our algorithm heavily relies on the structural descriptions of claw-free perfect graphs given by Chavátal and Sbihi and by Maffray and Reed.

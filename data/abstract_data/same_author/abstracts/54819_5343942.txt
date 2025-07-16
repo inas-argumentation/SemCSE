@@ -1,0 +1,2 @@
+Knowledge-Based Equation Discovery in Engineering Domains
+Machine learning techniques that can compress datasets into relationships that underlie the data have great utility for engineers. Most model discovery systems are not well suited to discovering comprehensible models in engineering domains. In this paper we present KEDS, a Knowledge-based Equation Discovery System, which uses a model-driven approach to discover equations and thereby build models from engineering data.

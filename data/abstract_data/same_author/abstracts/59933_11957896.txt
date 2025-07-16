@@ -1,0 +1,2 @@
+Verification of Concurrent Programs: Temporal Proof Principles
+In this paper, the second of a series on the application of temporal logic to concurrent programs, we present proof methods for establishing invariance (safety) and eventuality (liveness) properties.

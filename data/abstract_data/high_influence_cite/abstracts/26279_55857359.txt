@@ -1,0 +1,2 @@
+Modification of the Armijo line search to satisfy the convergence properties of HS method
+The Hestenes-Stiefel (HS) conjugate gradient algorithm is a useful tool of unconstrainednumerical optimization, which has good numerical performance but no global convergence result under traditional line searches. This paper proposes a line search technique that guarantee the globalconvergence of the Hestenes-Stiefel (HS) conjugate gradient method. Numerical tests are presented tovalidate the dii¬€erent approaches.

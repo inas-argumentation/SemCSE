@@ -1,0 +1,2 @@
+A new branch and bound algorithm for minimizing mean tardiness in two-machine flowshops
+Abstract We consider the two-machine flowshop scheduling problem with the objective of minimizing mean tardiness. Presented are several properties that are used to calculate lower bounds on total tardiness of jobs for a given partial sequence and to identify sequences dominated by others. We develop a branch and bound algorithm using these bounds and dominance rule. This algorithm is compared with an existing algorithm on randomly-generated test problems.

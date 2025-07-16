@@ -1,0 +1,27 @@
+Simultaneous detection of ozone and nitrogen dioxide by oxygen anion chemical ionization mass spectrometry: a fast-time-response sensor suitable for eddy covariance measurements
+. We report on the development, characterization, and field
+deployment of a fast-time-response sensor for measuring ozone ( O3 ) and
+nitrogen dioxide ( NO2 ) concentrations utilizing chemical ionization
+time-of-flight mass spectrometry (CI-ToFMS) with oxygen anion
+( O 2 - ) reagent ion chemistry. We
+demonstrate that the oxygen anion chemical ionization mass spectrometer
+(Ox-CIMS) is highly sensitive to both O3 (180 counts s −1  pptv −1 ) and NO2 (97 counts s −1  pptv −1 ), corresponding to
+detection limits ( 3σ , 1 s averages) of 13 and 9.9 pptv,
+respectively. In both cases, the detection threshold is limited by the
+magnitude and variability in the background determination. The short-term
+precision (1 s averages) is better than 0.3 % at 10 ppbv O3 and 4 %
+at 10 pptv NO2 . We demonstrate that the sensitivity of the O3 
+measurement to fluctuations in ambient water vapor and carbon dioxide is
+negligible for typical conditions encountered in the troposphere. The
+application of the Ox-CIMS to the measurement of O3 vertical fluxes
+over the coastal ocean, via eddy covariance (EC), was tested during the summer of
+2018 at Scripps Pier, La Jolla, CA. The observed mean ozone deposition
+velocity ( vd ( O3 )) was 0.013 cm s −1 with a campaign ensemble
+limit of detection (LOD) of 0.0027 cm s −1 at the 95 % confidence
+level, from each 27 min sampling period LOD. The campaign mean and 1
+standard deviation range of O3 mixing ratios was 41.2±10.1  ppbv. Several fast ozone titration events from local NO emissions were
+sampled where unit conversion of O3 to NO2 was observed,
+highlighting instrument utility as a total odd-oxygen ( O x = O 3 + NO 2 ) sensor. The demonstrated precision, sensitivity, and time
+resolution of this instrument highlight its potential for direct
+measurements of O3 ocean–atmosphere and biosphere–atmosphere exchange
+from both stationary and mobile sampling platforms.

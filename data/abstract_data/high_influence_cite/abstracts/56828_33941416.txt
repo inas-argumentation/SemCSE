@@ -1,0 +1,2 @@
+Deconvolution method for two-dimensional spatial-response mapping of lithographic infrared antennas.
+The spatial impulse response of antenna-coupled infrared detectors with dimensions comparable with the wavelength is obtained from a two-dimensional scan of a tightly focused CO(2)-laser beam. The method uses an experimental setup with submicrometer resolution and an iterative deconvolution algorithm. The measured spatial response is compared with numerically computed near-field distributions of a dipole antenna, with good agreement.

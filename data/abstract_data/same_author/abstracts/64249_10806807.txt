@@ -1,0 +1,2 @@
+Heuristic Methods for Searching and Clustering Hierarchical Workflows
+Workflows are used nowadays in different areas of application. Emergency services are one of these areas where explicitly defined workflows help to increase traceability, control, efficiency, and quality of rescue missions. In this paper, we introduce a generic workflow model for describing fire fighting operations in different scenarios. Based on this model we also describe heuristics for calculating the similarity of workflows which can be used for searching and clustering.

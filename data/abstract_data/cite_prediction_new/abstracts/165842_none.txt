@@ -1,0 +1,2 @@
+The performance of DDPSK over LEO mobile satellite channels
+An analysis is presented for the Doppler characterization of low Earth orbit satellite and a Doppler-time curve is given. To deal with the large Doppler shifts, several demodulation schemes are compared, which show that the double differential PSK demodulate is insensitive to the time-variant Doppler shifts. Furthermore, the bit error probability of DDPSK over the RLN channel is computed.

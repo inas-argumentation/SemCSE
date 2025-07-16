@@ -1,0 +1,2 @@
+FCO sampling of digital video using perfect reconstruction filter banks
+Three-dimensional nonseparable perfect reconstruction filter banks using three-dimensional nonseparable sampling by two, FCO, are proposed. Filter structures are derived and applied to digital video. Separation into two bands is obtained, and it is shown to perform better from the perceptual point of view than interlaced sequences resulting from the quincunx sampling of a progressively scanned signal in time-vertical dimensions.

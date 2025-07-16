@@ -1,0 +1,2 @@
+Two binomial methods for evaluating the aggregate claims distribution in De Pril's individual risk model
+In this paper, we deduce two new methods for evaluating the aggregate claims distribution in De Pril's i ndi- vidual risk model and compare them with some other meth- ods by counting the dot operations (multiplications and divi- sions).

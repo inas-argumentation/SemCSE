@@ -1,0 +1,2 @@
+Labeling Emotions in Suicide Notes: Cost-Sensitive Learning with Heterogeneous Features
+This paper describes a system developed for Track 2 of the 2011 Medical NLP Challenge on identifying emotions in suicide notes. Our approach involves learning a collection of one-versus-all classifiers, each deciding whether or not a particular label should be assigned to a given sentence. We explore a variety of features types–-syntactic, semantic and surface-oriented. Cost-sensitive learning is used for dealing with the issue of class imbalance in the data.

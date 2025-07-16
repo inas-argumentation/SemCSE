@@ -1,0 +1,2 @@
+Analytic closed orbit analysis for RHIC insertion
+Analytic closed-orbit analysis is performed to evaluate the tolerance of quadrupole misalignment and dipole errors (b/sub 0/, a/sub 0/) in the RHIC insertion. Sensitivity coefficients of these errors are tabulated for different beta * values. Using these sensitivity tables, it is found that the power supplies ripple of 10/sup -4/ can cause closed orbit motion of 0.05 mm at the IP, in comparison with the RMS beam size of 0.3 mm. It is desirable to have the power supply ripple less than 10/sup -5/.<<ETX>>

@@ -1,0 +1,12 @@
+Descent Direction Stochastic Approximation Algorithm with Adaptive Step Sizes
+A stochastic approximation (SA) algorithm with new adaptive step sizes for solving 
+unconstrained minimization problems in noisy environment is proposed. New adaptive 
+step size scheme uses ordered statistics of fixed number of previous noisy function values 
+as a criterion for accepting good and rejecting bad steps. The scheme allows the algorithm to move in bigger steps and avoid steps proportional to 1/k when it is expected that 
+larger steps will improve the performance. An algorithm with the new adaptive scheme is 
+defined for a general descent direction. The almost sure convergence is established. The 
+performance of new algorithm is tested on a set of standard test problems and compared 
+with relevant algorithms. Numerical results support theoretical expectations and verify 
+efficiency of the algorithm regardless of chosen search direction and noise level. Numerical results on problems arising in machine learning are also presented. Linear regression 
+problem is considered using real data set. The results suggest that the proposed algorithm 
+shows promise.

@@ -1,0 +1,15 @@
+Image-guided radiotherapy quality control: Statistical process control using image similarity metrics.
+PURPOSE
+The purpose of this study was to demonstrate an objective quality control framework for the image review process.
+
+
+METHODS AND MATERIALS
+A total of 927 cone-beam computed tomography (CBCT) registrations were retrospectively analyzed for 33 bilateral head and neck cancer patients who received definitive radiotherapy. Two registration tracking volumes (RTVs) - cervical spine (C-spine) and mandible - were defined, within which a similarity metric was calculated and used as a registration quality tracking metric over the course of treatment. First, sensitivity to large misregistrations was analyzed for normalized cross-correlation (NCC) and mutual information (MI) in the context of statistical analysis. The distribution of metrics was obtained for displacements that varied according to a normal distribution with standard deviation of σ = 2 mm, and the detectability of displacements greater than 5 mm was investigated. Then, similarity metric control charts were created using a statistical process control (SPC) framework to objectively monitor the image registration and review process. Patient-specific control charts were created using NCC values from the first five fractions to set a patient-specific process capability limit. Population control charts were created using the average of the first five NCC values for all patients in the study. For each patient, the similarity metrics were calculated as a function of unidirectional translation, referred to as the effective displacement. Patient-specific action limits corresponding to 5 mm effective displacements were defined. Furthermore, effective displacements of the ten registrations with the lowest similarity metrics were compared with a three dimensional (3DoF) couch displacement required to align the anatomical landmarks.
+
+
+RESULTS
+Normalized cross-correlation identified suboptimal registrations more effectively than MI within the framework of SPC. Deviations greater than 5 mm were detected at 2.8σ and 2.1σ from the mean for NCC and MI, respectively. Patient-specific control charts using NCC evaluated daily variation and identified statistically significant deviations. This study also showed that subjective evaluations of the images were not always consistent. Population control charts identified a patient whose tracking metrics were significantly lower than those of other patients. The patient-specific action limits identified registrations that warranted immediate evaluation by an expert. When effective displacements in the anterior-posterior direction were compared to 3DoF couch displacements, the agreement was ±1 mm for seven of 10 patients for both C-spine and mandible RTVs.
+
+
+CONCLUSIONS
+Qualitative review alone of IGRT images can result in inconsistent feedback to the IGRT process. Registration tracking using NCC objectively identifies statistically significant deviations. When used in conjunction with the current image review process, this tool can assist in improving the safety and consistency of the IGRT process.

@@ -1,0 +1,2 @@
+The Newton Bracketing method for the minimization of convex functions subject to affine constraints
+The Newton Bracketing method [Y. Levin, A. Ben-Israel, The Newton Bracketing method for convex minimization, Comput. Optimiz. Appl. 21 (2002) 213-229] for the minimization of convex functions f:R^n->R is extended to affinely constrained convex minimization problems. The results are illustrated for affinely constrained Fermat-Weber location problems.

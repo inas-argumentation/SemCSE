@@ -1,0 +1,3 @@
+Correlation in fermion or boson systems as the minimum of entropy relative to all free states
+In the context of many-fermion systems, "correlation" refers to the inadequacy of an independent-particle model. Using "free" states as archetypes of our independent-particle model, we have proposed a measure of correlation that we called "nonfreeness" [Int. J. Quant. Inf. 5, 815 (2007)]. The nonfreeness of a many-fermion state was defined to be its entropy relative to the unique free state with the same 1-matrix. 
+In this article, we prove that the nonfreeness of a state is the minimum of its entropy relative to all free states. We also extend the definition of nonfreeness to many-boson states and discuss a couple of examples.

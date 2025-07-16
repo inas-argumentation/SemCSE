@@ -1,0 +1,2 @@
+Minimum Connected Dominating Sets of Random Cubic Graphs
+We present a simple heuristic for finding a small connected dominating set of cubic graphs. The average-case performance of this heuristic, which is a randomised greedy algorithm, is analysed on random $n$-vertex cubic graphs using differential equations. In this way, we prove that the expected size of the connected dominating set returned by the algorithm is asymptotically almost surely less than $0.5854n$.

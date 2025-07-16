@@ -1,0 +1,2 @@
+Towards Power Centric Analog Design
+Power consumption of analog systems is poorly understood today, in contrast to the very well developed analysis of digital power consumption. We show that there is good opportunity to develop also the analog power understanding to a similar level as the digital. Such an understanding will have a large impact in the design of future electronic systems, where low power consumption will be crucial. Eventually we may reach a power centric analog design methodology.

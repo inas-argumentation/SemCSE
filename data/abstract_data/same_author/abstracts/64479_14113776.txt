@@ -1,0 +1,2 @@
+Incorporating Audio Cues into Dialog and Action Scene Extraction
+In this paper, we present an approach to extract scenes in video. The approach is top-down and uses video editing rules and audio cues to extract simple dialog and action scenes. The underlying model is a finite state machine coupled with audio cues that are determined using an audio classifier.

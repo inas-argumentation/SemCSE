@@ -1,0 +1,2 @@
+Long-path laser monitor of carbon monoxide: system improvements.
+A system for measurement of long-path absorption of carbon monoxide has been redesigned for improved performance. The diode laser source is frequency stabilized by automatically correcting the laser current and is limited to a single-wavelength output by a tunable étalon. As a result, sensitivity variations of the system to CO are limited to +/-0.7%, and system response is linear with respect to CO concentrations.

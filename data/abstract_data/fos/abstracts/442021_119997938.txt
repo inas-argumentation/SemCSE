@@ -1,0 +1,2 @@
+Likelihood-Based Inference for Multivariate Skew-Normal Regression Models
+In this article, we present EM algorithms for performing maximum likelihood estimation for three multivariate skew-normal regression models of considerable practical interest. We also consider the restricted estimation of the parameters of certain important special cases of two models. The methodology developed is applied in the analysis of longitudinal data on dental plaque and cholesterol levels.

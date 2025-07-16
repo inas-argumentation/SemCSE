@@ -1,0 +1,2 @@
+On ar(1) processes with exponential white noise
+We consider the autoregressive model Xt= bXt-1= Ytwhere 0 ≤ b < 1 and Ytare independent random variables with an exponential distribution. The moments of the stationary distribution of Xtare calculated and the distribution of an approximation to the maximum likelihood estimator for b is derived. The result is used for a construction of a confidence interval for b.

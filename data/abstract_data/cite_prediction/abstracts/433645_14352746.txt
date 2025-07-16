@@ -1,0 +1,2 @@
+Simulation optimization via promising region search and surrogate model approximation
+We propose a random search algorithm for solving simulation optimization problems with continuous decision variables. The algorithm combines ideas from promising area search, shrinking ball methods, and surrogate model optimization. We discuss the local convergence property of the algorithm and provide numerical examples to illustrate its performance.

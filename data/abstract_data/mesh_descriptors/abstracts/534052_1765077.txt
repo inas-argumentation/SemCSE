@@ -1,0 +1,15 @@
+Estimation of P-values for global alignments of protein sequences
+MOTIVATION
+The global alignment of protein sequence pairs is often used in the classification and analysis of full-length sequences. The calculation of a Z-score for the comparison gives a length and composition corrected measure of the similarity between the sequences. However, the Z-score alone, does not indicate the likely biological significance of the similarity. In this paper, all pairs of domains from 250 sequences belonging to different SCOP folds were aligned and Z-scores calculated. The distribution of Z-scores was fitted with a peak distribution from which the probability of obtaining a given Z-score from the global alignment of two protein sequences of unrelated fold was calculated. A similar analysis was applied to subsequence pairs found by the Smith-Waterman algorithm. These analyses allow the probability that two protein sequences share the same fold to be estimated by global sequence alignment.
+
+
+RESULTS
+The relationship between Z-score and probability varied little over the matrix/gap penalty combinations examined. However, an average shift of +4.7 was observed for Z-scores derived from global alignment of locally-aligned subsequences compared to global alignment of the full-length sequences. This shift was shown to be the result of pre-selection by local alignment, rather than any structural similarity in the subsequences. The search ability of both methods was benchmarked against the SCOP superfamily classification and showed that global alignment Z-scores generated from the entire sequence are as effective as SSEARCH at low error rates and more effective at higher error rates. However, global alignment Z-scores generated from the best locally-aligned subsequence were significantly less effective than SSEARCH. The method of estimating statistical significance described here was shown to give similar values to SSEARCH and BLAST, providing confidence in the significance estimation.
+
+
+AVAILABILITY
+Software to apply the statistics to global alignments is available from http://barton.ebi.ac.uk.
+
+
+CONTACT
+geoff@ebi.ac.uk

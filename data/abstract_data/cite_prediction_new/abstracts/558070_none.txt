@@ -1,0 +1,2 @@
+The enumeration of fully commutative affine permutations
+We give a generating function for the fully commutative affine permutations enumerated by rank and Coxeter length, extending formulas due to Stembridge and Barcucci-Del Lungo-Pergola-Pinzani. For fixed rank, the length generating functions have coefficients that are periodic with period dividing the rank. In the course of proving these formulas, we obtain results that elucidate the structure of the fully commutative affine permutations.

@@ -1,0 +1,2 @@
+High-order numerical approximation formulas for Riemann-Liouville (Riesz) tempered fractional derivatives: construction and application (I)
+In this paper, we develop a new numerical algorithm for solving the Riesz tempered space fractional diffusion equation. The stability and convergence of the numerical scheme are discussed via the technique of matrix analysis. Finally, numerical experiments are performed to confirm the effectiveness of our numerical algorithm.

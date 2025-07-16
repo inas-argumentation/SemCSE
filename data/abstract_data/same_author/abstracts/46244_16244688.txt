@@ -1,0 +1,2 @@
+Formal Description of Time Management in Real-Time Operating Systems
+This paper describes the formal specification of the time management subsystem of a real-time operating system. Real-time process algebra (RTPA) is adopted to formally specify the system. The architecture, static behaviors, and dynamic behaviors of a CPU time manager are systematically specified that form an abstract model of the system. The formal specifications are implemented in C, on which the system performance can be tested and verified

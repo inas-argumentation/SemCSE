@@ -1,0 +1,6 @@
+PKCAM: Previous Knowledge Channel Attention Module
+Attention mechanisms have been explored with CNNs, both across the spatial and channel dimensions. 
+However, all the existing methods devote the attention modules to capture local interactions from the current feature map only, disregarded the valuable previous knowledge that is acquired by the earlier layers. 
+This paper tackles the following question: Can one incorporate previous knowledge aggregation while learning channel attention more efficiently? To this end, we propose a Previous Knowledge Channel Attention Module( PKCAM), that captures channel-wise relations across different layers to model the global context. 
+Our proposed module PKCAM is easily integrated into any feed-forward CNN architectures and trained in an end-to-end fashion with a negligible footprint due to its lightweight property. We validate our novel architecture through extensive experiments on image classification and object detection tasks with different backbones. 
+Our experiments show consistent improvements in performances against their counterparts. We also conduct experiments that probe the robustness of the learned representations.

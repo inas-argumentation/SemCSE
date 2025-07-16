@@ -1,0 +1,15 @@
+Removing ring artifacts in cone‐beam CT via TV‐Stokes and unidirectional total variation model
+PURPOSE
+It often happens that cone-beam corrupted tomography (CBCT) images have some ring artifacts due to the inconsistent response of detector pixels. Removing ring artifacts in CBCT images without impairing the image quality is critical. The purpose of this study is to implement a whole new method of removing ring artifacts in CBCT images based on TV-Stokes denoising equation and unidirectional total variation (UTV).
+
+
+METHODS
+This method is based on the polar coordinates, where the ring artifacts are shown as horizontal parallel stripes. To begin with, we design a UTV model with the constraint of zero divergence condition to only smooth vertical tangent vectors, and keep horizontal tangent vectors unchanged. In turn, the corresponding smooth normal vectors can be obtained. Next, in order to reconstruct the clean image that fits the obtained normal vectors, the UTV model about the potential clean image is added to the original TV-Stokes denoising equation.
+
+
+RESULTS
+Our method was applied to simulated data and real corrupted data to verify its performance. High-quality corrected images without ring artifacts were obtained. In the simulated experiments, our method is not only able to obtain the most complete corrected images, but also capable of acquiring the best quantitative assessments among several different methods. In the experiments of real data, the proposed method was effective in removing ring artifacts and in preserving the original details. Comparative results on several experiments illustrated that our algorithm corrects ring artifacts effectively and outperforms the two compared methods on objective indices and subjective image quality.
+
+
+CONCLUSIONS
+Benefiting from the TV-Stokes equation and the UTV model, the proposed scheme can be effectively applied to remove ring artifacts in CBCT images, simultaneously preserving the original image details and structure well. Furthermore, this new algorithm can be applied directly on reconstructed images, thus eliminating the requirement for additional imaging data.

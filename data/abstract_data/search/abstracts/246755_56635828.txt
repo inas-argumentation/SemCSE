@@ -1,0 +1,2 @@
+Using selection to improve particle swarm optimization
+This paper describes a evolutionary optimization algorithm that is a hybrid based on the particle swarm algorithm but with the addition of a standard selection mechanism from evolutionary computations. A comparison is performed between the hybrid swarm and the ordinary particle swarm that shows selection to provide an advantage for some (but not all) complex functions.

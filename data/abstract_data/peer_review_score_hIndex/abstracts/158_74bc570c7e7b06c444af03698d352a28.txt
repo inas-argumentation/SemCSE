@@ -1,0 +1,2 @@
+Eigenvalues of the Hessian in Deep Learning: Singularity and Beyond
+We look at the eigenvalues of the Hessian of a loss function before and after training. The eigenvalue distribution is seen to be composed of two parts, the bulk which is concentrated around zero, and the edges which are scattered away from zero. We present empirical evidence for the bulk indicating how over-parametrized the system is, and for the edges that depend on the input data.

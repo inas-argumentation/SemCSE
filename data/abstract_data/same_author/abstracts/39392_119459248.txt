@@ -1,0 +1,2 @@
+Analytic calculation of the 1-loop effective action for the O(N+1)-symmetric 2-dimensional nonlinear sigma-model
+Polyakov's calculation of the effective action for the 2d nonlinear sigma-Model is generalized by purely analytic means to include contributions which are not UV-divergent and which depend on the choice of block spin. An analytic approximation to the background field which determines the classical perfect action is given, and approximations to the 1-loop correction are found. The results should be useful for numerical simulations.

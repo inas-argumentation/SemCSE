@@ -1,0 +1,2 @@
+A Simple and Fast Algorithm to Obtain All Invariants of a Generalized Petri Net
+After a linear algebraic characterization of the minimal support invariant concept, it is proposed a very efficient algorithm to calculate all the minimal support invariants of Generalised and Capacity Petri Nets.

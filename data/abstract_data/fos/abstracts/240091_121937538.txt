@@ -1,0 +1,2 @@
+Numerical Prediction of Dynamic Forces on Arbitrarily Pitched Airfoils in Turbulent Flow
+N solutions for an NACA 0012 airfoil undergoing various pitching motions are compared with both previous static and new dynamic experimental data. The unsteady incompressible Reynolds-average Navier-Stokes equations for a rotating coordinate system are used. A bodyfitted grid is mapped into a rectangular coordinate system using a time-independent transformation. The set of transformed partial differential equations is solved with an implicit finite difference method.

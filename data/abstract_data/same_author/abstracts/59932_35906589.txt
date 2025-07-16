@@ -1,0 +1,2 @@
+Temporal Verification of Simulation and Refinement
+The paper presents temporal logic methods for proving simulation and refinement relations between programs. After introducing the notions of fair transition systems and the specification language of temporal logic, we present proof rules for verifying properties of programs. We then define the relations of simulation and refinement between programs and relate them to inclusion relations between computations and observations of the compared systems.

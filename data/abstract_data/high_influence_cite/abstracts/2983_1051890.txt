@@ -1,0 +1,2 @@
+Asymptotic Cyclic Expansion and Bridge Groups of Formal Proofs
+Formal proofs, even simple ones, may hide an unexpected intricate combinatorics. We define a new combinatorial invariant, the bridge group of a proof, which encodes the cyclic structure of proofs in the sequent calculus. We compute the bridge groups of two infinite families of proofs and identify them with the Baumslag–Solitar and Gersten groups. We observe that the distortion of cyclic subgroups in these groups equals the asymptotic growth of the procedure of elimination of lemmas from the proofs.

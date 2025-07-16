@@ -1,0 +1,2 @@
+Operational calculus for Fourier transform on the group $GL(2,R)$
+Consider the Fourier transform on the group $GL(2,R)$ of real $2\times 2$-matrices. We show that Fourier-images of polynomial differential operators on $GL(2,R)$ are differential-difference operators with coefficients meromorphic in parameters of representations. Expressions for operators contain shifts in imaginary direction with respect to the integration contour in the Plancherel formula. We present explicit formulas for images of partial derivations and multiplications by coordinates.

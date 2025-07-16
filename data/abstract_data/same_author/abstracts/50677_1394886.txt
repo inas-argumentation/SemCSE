@@ -1,0 +1,2 @@
+An approach for optimizing binding lifetime with mobile IPv6
+In this paper an analytical model is presented in order to provide useful insight into the performance behaviour of mobile IPv6 in the context of a binding lifetime setting. By using this model, the optimal binding lifetime can be estimated in terms of a user mobility, traffic workload, and network structure. An algorithm for dynamically setting the binding lifetime in mobile IPv6 networks is proposed based on the analytical model. The numerical results of the system simulation are also demonstrated.

@@ -1,0 +1,2 @@
+Finding Characteristic Polynomials with Jump Indices
+Jansen introduced a technique for building LFSRs that can be clocked a large number of times with a single simple operation. These may be useful in the construction of stream ciphers based on clock-controlled LFSRs. However, for LFSR sizes of typical interest, it appears generally hard to find such jumping LFSRs with particular desired parameters. In this note we explain a trick which we used to find the jumping LFSRs in MICKEY and MICKEY-128, and which may be useful for future applications.

@@ -1,0 +1,2 @@
+Resettably-Sound Resettable Zero Knowledge in Constant Rounds
+In FOCS 2001 Barak et al. conjectured the existence of zero-knowledge arguments that remain secure against resetting provers and resetting verifiers. The conjecture was proven true by Deng et al. in FOCS 2009 under various complexity assumptions and requiring a polynomial number of rounds. Later on in FOCS 2013 Chung et al. improved the assumptions requiring one-way functions only but still with a polynomial number of rounds.

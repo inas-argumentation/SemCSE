@@ -1,0 +1,13 @@
+Connected sum constructions for constant scalar curvature metrics
+We give a general procedure for gluing together
+possibly noncompact manifolds of constant scalar curvature which satisfy 
+an extra nondegeneracy hypothesis. Our aim is to provide a simple 
+paradigm for making "analytic" connected sums. In particular, we can easily
+construct complete metrics of constant positive scalar curvature on the 
+complement of certain conﬁgurations of an even number of points on the
+sphere, which is a special case of Schoen's [S1] well-known, difficult
+construction. Applications of this construction produces metrics with
+prescribed asymptotics. In particular, we produce metrics with cylindrical 
+ends, the simplest type of asymptotic behaviour. Solutions on the complement
+of an infinite number of points are also constructed by an iteration
+of our construction.

@@ -1,0 +1,15 @@
+Calibration of the brief food frequency questionnaire among patients on dialysis.
+OBJECTIVE
+Estimating dietary intake is challenging in patients with chronic diseases. The aim of this study was to calibrate the Block Brief 2000 food frequency questionnaire (BFFQ) using 3-day food diary records among patients on dialysis.
+
+
+METHODS
+Data from 3-day food diary records from 146 patients new to dialysis were reviewed and entered into National Cancer Institute self-administered 24-hour dietary recall (ASA24), a web-based dietary interview system. The information was then re-entered omitting foods reported in the diaries that were not in the BFFQ to generate a "BFFQ-restricted" set of intakes. We modeled each major dietary component (i.e., energy [total calories], protein, carbohydrate, fat) separately using linear regression. The main independent variables were BFFQ-restricted food diary estimates computed as the average of the 3 days of diaries, restricted to items included in the BFFQ, with the unrestricted 3-day food diary averages as dependent variables.
+
+
+RESULTS
+The BFFQ-restricted diary energy estimate of 1,325 ± 545 kcal was 87% of the energy intake in the full food diary (1,510.3 ± 510.4, P < .0001). The BFFQ-restricted diary carbohydrate intake was 83% of the full food diary (156.7 ± 78.7 g vs. 190.4 ± 72.7, P < .0001). The BFFQ-restricted fat intake was 90% of the full-diary-reported fat intake (50.1 ± 24.1 g vs. 56.4 ± 21.6 g, P < .0001). Daily protein intake assessments were not statistically different by BFFQ-restricted diary and full diary assessment (63.1 ± 28.5 vs. 64.1 ± 21.4 g, P = .60). The associations between BFFQ-restricted diary intake and unrestricted intake were linear. Three-day diary-reported intake could be estimated from BFFQ-restricted intake with r2 ranging from 0.36 to 0.56 (P < .0001 for energy [total calories], protein, carbohydrate, and fat). Final equations did not include adjustments for age, sex, or race because the patterns of associations were not significantly different.
+
+
+CONCLUSION
+Energy and macronutrient estimates by BFFQ are lower than estimates from 3-day food diaries, but simple calibration equations can be used to approximate total intake from BFFQ responses.

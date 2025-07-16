@@ -1,0 +1,15 @@
+Model Formulation: The Primary Care Research Object Model (PCROM): A Computable Information Model for Practice-based Primary Care Research
+OBJECTIVES
+Chronic disease prevalence and burden is growing, as is the need for applicable large community-based clinical trials of potential interventions. To support the development of clinical trial management systems for such trials, a community-based primary care research information model is needed. We analyzed the requirements of trials in this environment, and constructed an information model to drive development of systems supporting trial design, execution, and analysis. We anticipate that this model will contribute to a deeper understanding of all the dimensions of clinical research and that it will be integrated with other clinical research modeling efforts, such as the Biomedical Research Integrated Domain Group (BRIDG) model, to complement and expand on current domain models.
+
+
+DESIGN
+We used unified modeling language modeling to develop use cases, activity diagrams, and a class (object) model to capture components of research in this setting. The initial primary care research object model (PCROM) scope was the performance of a randomized clinical trial (RCT). It was validated by domain experts worldwide, and underwent a detailed comparison with the BRIDG clinical research reference model.
+
+
+RESULTS
+We present a class diagram and associated definitions that capture the components of a primary care RCT. Forty-five percent of PCROM objects were mapped to BRIDG, 37% differed in class and/or subclass assignment, and 18% did not map.
+
+
+CONCLUSION
+The PCROM represents an important link between existing research reference models and the real-world design and implementation of systems for managing practice-based primary care clinical trials. Although the high degree of correspondence between PCROM and existing research reference models provides evidence for validity and comprehensiveness, existing models require object extensions and modifications to serve primary care research.

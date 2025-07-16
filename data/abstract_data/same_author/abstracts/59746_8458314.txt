@@ -1,0 +1,2 @@
+Explicit construction of linear sized tolerant networks
+For every @e>0 and every integer m>0, we construct explicitly graphs with O(m/@e) vertices and maximum degree O(1/@e^2), such that after removing any (1-@e) portion of their vertices or edges, the remaining graph still contains a path of length m. This settles a problem of Rosenberg, which was motivated by the study of fault tolerant linear arrays.

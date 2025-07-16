@@ -1,0 +1,2 @@
+UWB at SemEval-2016 Task 5: Aspect Based Sentiment Analysis
+This paper describes our system used in the Aspect Based Sentiment Analysis (ABSA) task of SemEval 2016. Our system uses Maximum Entropy classifier for the aspect category detection and for the sentiment polarity task. Conditional Random Fields (CRF) are used for opinion target extraction. We achieve state-of-the-art results in 9 experiments among the constrained systems and in 2 experiments among the unconstrained systems.

@@ -1,0 +1,2 @@
+Mesostructure from specularity using gradient illumination
+We present a method to efficiently acquire specular mesostructure normal maps, only making use of off-the-shelf components, such as a digital still camera, an LCD screen and a linear polarizing filter. Where current methods require a specialized setup, or a considerable number of input images, we only need a cheap setup to maintain a similar level of quality. We verify the presented theory on real world examples, and provide a ground truth evaluation on photorealistic synthetic data.

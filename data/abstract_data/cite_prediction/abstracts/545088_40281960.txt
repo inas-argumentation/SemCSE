@@ -1,0 +1,2 @@
+Linearly convergent stochastic heavy ball method for minimizing generalization error
+In this work we establish the first linear convergence result for the stochastic heavy ball method. The method performs SGD steps with a fixed stepsize, amended by a heavy ball momentum term. In the analysis, we focus on minimizing the expected loss and not on finite-sum minimization, which is typically a much harder problem. While in the analysis we constrain ourselves to quadratic loss, the overall objective is not necessarily strongly convex.

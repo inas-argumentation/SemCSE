@@ -1,0 +1,11 @@
+SU-E-T-516: Measurement of the Absorbed Dose Rate in Water Under Reference Conditions in a CyberKnife Unit.
+PURPOSE
+This paper aims to measure the absorbed-dose-rate in a CyberKnife unit reference-field (6cm diameter) using three ionization chambers (IC) following the new IAEA/AAPM formalism and Gafchromic film (MD-V3-55 and EBT3) protocol according to our work reported previously.
+
+
+METHODS
+The absorbed-dose-rates were measured at 90cm and 70cm SSD in a 10cmx10cm field and at 70cm SSD in a 5.4cmx5.4cm equivalent to 6cm diameter field using a linac Varian iX. All measurements were performed at 10cm depth in water. The correction factors that account for the difference between the IC response on the reference field and the CyberKnife reference field, k_(Q_msr,Q)^(f_msr,f_ref), were evaluated and Gafchromic film were calibrated using the results obtained above. Under the CyberKnife reference conditions, the factors were used to measure the absorbed-dose-rate with IC according to the new formalism and the calibrated film was irradiated in water. The film calibration curve was used to evaluate the absorbed-dose-rate in the CyberKnife unit.
+
+
+RESULTS
+Difference up to 2.56% is observed between dose-rate measured with IC in the reference 10cmx10cm field, depending where the chamber was calibrated, which was not reflected in the correction factor k_(Q_msr,Q)^(f_msr,f_ref) where variations of ~0.15%-0.5% were obtained. Within measurements uncertainties, maximum difference of 1.8% on the absorbed-dose-rate in the CyberKnife reference field is observed between all IC and the films CONCLUSION: Absorbed-dose-rate to water was measured in a CyberKnife reference field with acceptable accuracy (combined uncertainties ~1.32%-1.73%, k=1) using three IC and films. The MD-V3-55 film as well as the new IAEA/AAPM formalism can be considered as a suitable dosimetric method to measure absorbed-dose-rate to water in small and non-standard CyberKnife fields used in clinical treatments However, the EBT3 film is not appropriated due to the high uncertainty provided (combined uncertainty ~9%, k=1) This work is partially supported by Conacyt grant 127409 and PAPIITUNAM grant IN10581.

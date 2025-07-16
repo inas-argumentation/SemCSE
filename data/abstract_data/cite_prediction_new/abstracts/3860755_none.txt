@@ -1,0 +1,15 @@
+Computer-assisted reader software versus expert reviewers for polyp detection on CT colonography.
+OBJECTIVE
+The purpose of our study was to assess the sensitivity of computer-assisted reader (CAR) software for polyp detection compared with the performance of expert reviewers.
+
+
+MATERIALS AND METHODS
+A library of colonoscopically validated CT colonography cases were collated and separated into training and test sets according to the time of accrual. Training data sets were annotated in consensus by three expert radiologists who were aware of the colonoscopy report. A subset of 45 training cases containing 100 polyps underwent batch analysis using ColonCAR version 1.2 software to determine the optimum polyp enhancement filter settings for polyp detection. Twenty-five consecutive positive test data sets were subsequently interpreted individually by each expert, who was unaware of the endoscopy report, and before generation of the annotated reference via an unblinded consensus interpretation. ColonCAR version 1.2 software was applied to the test cases, at optimized polyp enhancement filter settings, to determine diagnostic performance. False-positive findings were classified according to importance.
+
+
+RESULTS
+The 25 test cases contained 32 nondiminutive polyps ranging from 6 to 35 mm in diameter. The ColonCAR version 1.2 software identified 26 (81%) of 32 polyps compared with an average sensitivity of 70% for the expert reviewers. Eleven (92%) of 12 polyps > or = 10 mm were detected by ColonCAR version 1.2. All polyps missed by experts 1 (n = 4) and 2 (n = 3) and 12 (86%) of 14 polyps missed by expert 3 were detected by ColonCAR version 1.2. The median number of false-positive highlights per case was 13, of which 91% were easily dismissed.
+
+
+CONCLUSION
+ColonCAR version 1.2 is sensitive for polyp detection, with a clinically acceptable false-positive rate. ColonCAR version 1.2 has a synergistic effect to the reviewer alone, and its standalone performance may exceed even that of experts.

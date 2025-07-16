@@ -1,0 +1,2 @@
+Improved Combinatorial Group Testing Algorithms for Real-World Problem Sizes
+We study practically efficient methods for performing combinatorial group testing. We present efficient nonadaptive and two-stage combinatorial group testing algorithms, which identify the at most $d$ items out of a given set of $n$ items that are defective, using fewer tests for all practical set sizes. For example, our two-stage algorithm matches the information-theoretic lower bound for the number of tests in a combinatorial group testing regimen.

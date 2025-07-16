@@ -1,0 +1,18 @@
+ML Agent Safety Mechanisms based on Counterfactual Planning
+We present counterfactual planning as a design approach for creating a
+range of safety mechanisms for machine learning agents. 
+We specifically target the safety problem of keeping control over
+hypothetical future AGI agents.
+The key step in counterfactual planning is to use the agent's
+machine learning system to construct a counterfactual world model,
+designed to be different from the real world the agent is in.  A
+counterfactual planning agent determines the action that best
+maximizes expected utility in this counterfactual planning world, and
+then performs the same action in the real world.
+The design approach is built around a two-diagram graphical notation
+that provides a specific vantage point on the construction of online
+machine learning agents, a vantage point designed to make the problem
+of control more tractable.
+We show two examples where the construction of a counterfactual planning world
+acts to suppress certain unsafe agent incentives, incentives for the
+agent to take control over its own safety mechanisms.

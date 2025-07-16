@@ -1,0 +1,2 @@
+Large signal analysis of the LCC-type parallel resonant converter using discrete time domain modeling
+A discrete time domain model for the LCC-type parallel resonant converter has been derived. This model has been used to predict the large signal behavior of the converter. The peak component stresses and the dynamic response of the key state variables, as obtained from the large signal analysis, using PRO-MATLAB software are plotted. SPICE results are included to verify the analytical results. Experimental results are also presented to verify the theory.<<ETX>>

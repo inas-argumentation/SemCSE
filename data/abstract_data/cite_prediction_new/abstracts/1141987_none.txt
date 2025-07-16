@@ -1,0 +1,2 @@
+Fuzzy observer based predictive control of an activated sludge depollution bioprocess
+This paper uses a model predictive controller for nonlinear wastewater process described by Takagi-Sugeno model. An approach to design MPC based on fuzzy Kalman filter (FKF) has been proposed. The aim of this suggested method is solving a depollution control problem with controlling two reactant concentrations with two control inputs. Simulation results on the mentioned bioprocess show the performance of the designed controller.

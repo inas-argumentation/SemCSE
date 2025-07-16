@@ -1,0 +1,2 @@
+On Edge-Disjoint Spanning Trees in Hypercubes
+In this note we give a construction for obtaining the maximum number of edge-disjoint spanning trees in a hypercube. The result has applications to multicast communication in wormhole-routed parallel computers.

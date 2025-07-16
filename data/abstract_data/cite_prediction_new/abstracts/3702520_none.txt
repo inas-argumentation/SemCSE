@@ -1,0 +1,2 @@
+Performance of double k-class estimators for coefficients in linear regression models with non-spherical disturbances under asymmetric losses
+The risk associated with the estimators of the family of feasible generalized double k-class estimators under the LINEX loss function is derived in a linear regression model. The disturbances are assumed to be non-spherical and their variance-covariance matrix is unknown. A simulation study is conducted to study the risk of some important estimators in the family of feasible generalized double k-class estimators.

@@ -1,0 +1,2 @@
+Representatives of the Thom class of a vector bundle
+After a review of several methods designed to produce equivariant cohomology classes, we apply one introduced by Berline et al. (1992) to get a family of representatives of the universal Thom class of a vector bundle. Surprisingly, this family does not contain the representative given by Mathai and Quillen (1986). However, it contains the particularly simple and symmetric representative of Harvey and Lawson (1993).

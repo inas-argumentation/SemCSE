@@ -1,0 +1,2 @@
+Reengineering Of Education Institute And Coupling Measurement
+This paper is based on reengineering of Education institutes [1,2] in such a way that coupling risk should be less as compared to existing systems. Here, we will measure the complexity (based on coupling factor) of modules during reengineering of modules design. As we know that the

@@ -1,0 +1,2 @@
+$\theta$ Vacuum in a Random Matrix Model
+Inspired by recent lattice calculations, we model certain aspects of the $\theta$-vacuum using a matrix model with gaussian weights. The vacuum energy exhibits a cusp at $\theta <\pi$ that is sensitive to both the accuracy of the numerical analysis and the maximum density of winding modes present in a finite volume.

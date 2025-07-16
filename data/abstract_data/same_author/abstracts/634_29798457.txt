@@ -1,0 +1,2 @@
+Adaptive Image Segmentation Using Modified Pulse Coupled Neural Network
+This paper proposes a novel image segmentation algorithm based on Pulse Coupled Neural Network (PCNN).Unlike the traditional PCNN image segmentation methods, the presented algorithm can achieve the optimum parameters automatically. Experimental results show its good performance and robustness. The research fruits have great importance both on the theory research and practical application of PCNN.

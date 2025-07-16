@@ -1,0 +1,2 @@
+Hidden Markov Model Based Events Detection in Soccer Video
+This paper presents an algorithm developed based on hidden Markov model for cues fusion and event inference in soccer video. Four events, shoot, foul, offside and normal playing, are defined to be detected. The states of the events are employed to model the observations of the five cues, which are extracted from the shot sequences directly. The experimental results show the algorithm is effective and robust in inferring events from roughly extracted cues.

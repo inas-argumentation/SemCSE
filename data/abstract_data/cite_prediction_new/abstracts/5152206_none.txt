@@ -1,0 +1,2 @@
+13 GHz cascaded 4:1 CMOS injection locked frequency divider
+In this paper the first 4:1 injection locked frequency divider (ILFD) consisting of two cascaded divide-by-two LC-resonance ILFDs is presented. The locking range of the divider can be enhanced by optimal locking transistor biasing. For an input frequency of 13 GHz two ILFDs in standard 130 nm CMOS technology generate IQ-output signals within a locking range of 2.2 GHz without any varactor. The power consumption is 12 mW from a supply voltage of 1.5 V.

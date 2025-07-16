@@ -1,0 +1,3 @@
+Towards a deterministic KPZ equation with fractional diffusion: The stationary problem
+In this work we analyze the existence of solution to the fractional quasilinear problem, \begin{equation*} \left\{ \begin{array}{rcll} (-\Delta)^s u &= & |\nabla u|^{p}+ lf & \text{ in }\Omega , u &=& 0 &\hbox{ in } \mathbb{R}^N\setminus\Omega, u&>&0 &\hbox{ in }\Omega, \end{array}% \right. \end{equation*}% where $\Omega \subset \ren$ is a bounded regular domain ($\mathcal{C}^2$ is sufficient), $s\in (\frac 12, 1)$, $1<p$ and $f$ is a measurable nonnegative function with suitable hypotheses. 
+The analysis is done separately in three cases, subcritical, $1 2s$.

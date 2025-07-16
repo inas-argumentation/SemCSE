@@ -1,0 +1,2 @@
+Simulation Based Prediction of Refractive Index of Dielectric Thin Film Deposition by ECR Plasma CVD
+Based on experiment result, a mathematical model has been established in this paper for the relation between refractive index n of silicon oxide or nitride and gas ratio Q(N 2)/Q(SiH 4),Q(O 2)/Q(SiH 4) by artificial neural network. A good prediction is made for the refractive index n by the model when gas ratioQ(N 2)/Q(SiH 4),Q(O 2)/Q(SiH 4) are given. And the model is basic of simulation for all dielectric optical coatings deposition by ECR plasma CVD.

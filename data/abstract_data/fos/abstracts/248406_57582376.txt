@@ -1,0 +1,2 @@
+Research Security for Batch Steganography
+This paper,analyzed features and limitations with single cover steganography,proposed a theoretical model of batch steganography for lack of single cover steganography.It expresses working principle and implementation process,and derives a closed form expression for maximal payload and capacity of covers.In this paper,it analyses steganographic security of single cover and batch covers by information theory,and gives formal proof.Finally,it obtains the security constraints of perfect batch steganosystem.

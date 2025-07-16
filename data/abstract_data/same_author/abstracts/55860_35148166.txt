@@ -1,0 +1,2 @@
+The summation and bottleneck minimization for single-step searching on weighted graphs
+In this paper, three types of problems for single-step searching weighted graphs are defined. They are the summation cost minimization, the bottleneck cost minimization, and a hybrid to minimize the maximum of the summation cost and the bottleneck cost. All three are shown to be NP -hard but polynomially solvable for trees. The bottleneck minimization is shown to be reducible to the summation minimization problem.

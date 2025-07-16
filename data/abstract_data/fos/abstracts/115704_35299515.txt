@@ -1,0 +1,15 @@
+WE-FG-BRA-05: Potential Clinical Benefit of LINAC Flattening-Filter-Free (FFF) Mode - Improvement of Treatment Therapeutic Ratio.
+PURPOSE
+Ultrahigh dose-rate radiation at >40Gy/s has demonstrated astonishing normal-tissue sparing and tumor control in recent preclinical naive and tumor-bearing rodent studies when compared to the same radiation dose at a conventional dose-rate. The working mechanism of this fascinating dose-rate effect is currently under investigation. The aims of this work include investigating 1) whether LINAC FFF mode radiation at approximately 1Gy/s also has an improved therapeutic ratio compared to the same radiation dose at the conventional dose-rate of 0.05Gy/s, and 2) the dose-rate effect's potential working mechanism by studying the expression of the P53 gene, linked to tumor suppression and cell regulation after radiation damage.
+
+
+METHODS
+We used mouse model C57BL/6J, the same as that used in the ultrahigh dose-rate studies, and exposed them to total body irradiation (TBI) using the Elekta Versa accelerator 10MV photons. Mice (N=20) were given a total dose of 12Gy in both the high dose-rate group (n=10) using the FFF-mode and the conventional dose-rate group (n=10) using the conventional does rate mode. The FFF-mode treatment setup consisted of a 15cm×15cm field size setting at 53.2cm SSD while the conventional-mode set-up consisted of a 10cm×10cm field size at 100SSD. Post-radiation, animals were monitored daily for survival analysis and signs of moribundity requiring euthanasia. In addition, mouse spleens were harvested for P53 analysis at different time points.
+
+
+RESULTS
+For 12Gy TBI, the 1.3Gy/s FFF-mode high dose-rate produced a statistically significant (p=0.02) improvement in mouse survival compared to the 0.05Gy/s conventional dose-rate. An initial P53 study at the time of death time-point indicates that high dose-rate radiation induced a stronger expression of P53 than conventional dose-rate radiation.
+
+
+CONCLUSION
+Our pilot study indicates that the FFF-mode high dose-rate radiation, which has been used largely to improve clinical throughput, may provide the added clinical benefit of improving treatment therapeutic ratio. Animal Studies were performed within the LCCC Animal Studies Core Facility at the University of North Carolina at Chapel Hill. The LCCC Animal Studies Core is supported in part by an NCI Center Core Support Grant (CA16086) to the UNC Lineberger Comprehensive Cancer Center.

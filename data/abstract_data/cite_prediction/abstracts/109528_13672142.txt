@@ -1,0 +1,15 @@
+Querying archetype-based EHRs by search ontology-based XPath engineering
+BACKGROUND
+Legacy data and new structured data can be stored in a standardized format as XML-based EHRs on XML databases. Querying documents on these databases is crucial for answering research questions. Instead of using free text searches, that lead to false positive results, the precision can be increased by constraining the search to certain parts of documents.
+
+
+METHODS
+A search ontology-based specification of queries on XML documents defines search concepts and relates them to parts in the XML document structure. Such query specification method is practically introduced and evaluated by applying concrete research questions formulated in natural language on a data collection for information retrieval purposes. The search is performed by search ontology-based XPath engineering that reuses ontologies and XML-related W3C standards.
+
+
+RESULTS
+The key result is that the specification of research questions can be supported by the usage of search ontology-based XPath engineering. A deeper recognition of entities and a semantic understanding of the content is necessary for a further improvement of precision and recall. Key limitation is that the application of the introduced process requires skills in ontology and software development. In future, the time consuming ontology development could be overcome by implementing a new clinical role: the clinical ontologist.
+
+
+CONCLUSION
+The introduced Search Ontology XML extension connects Search Terms to certain parts in XML documents and enables an ontology-based definition of queries. Search ontology-based XPath engineering can support research question answering by the specification of complex XPath expressions without deep syntax knowledge about XPaths.

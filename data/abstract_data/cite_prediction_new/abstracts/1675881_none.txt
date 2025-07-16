@@ -1,0 +1,2 @@
+A numerical optimal control method for solving a large thermic process
+This work deals with the optimal regulation of a large thermal process when the final state is fixed and the control is subject to some constraints, for which we propose a relaxation method coupled with the shooting one. We study the behavior of this method. The studied example concerns the optimal control law for two ovens with three and twelve heating zones.

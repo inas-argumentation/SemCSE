@@ -1,0 +1,15 @@
+Using Network Science Measures to Predict the Lexical Decision Performance of Adults Who Stutter.
+Purpose
+Methods from network science have examined various aspects of language processing. Clinical populations may also benefit from these novel analyses. Phonological and lexical factors have been examined in adults who stutter (AWS) as potential contributing factors to stuttering, although differences reported are often subtle. We reexamined the performance of AWS and adults who do not stutter (AWNS) from a previously conducted lexical decision task in an attempt to determine if network science measures would provide additional insight into the phonological network of AWS beyond traditional psycholinguistic measures.
+
+
+Method
+Multiple regression was used to examine the influence of several traditional psycholinguistic measures as well as several new measures from network science on response times.
+
+
+Results
+AWS responded to low-frequency words more slowly than AWNS; responses for both groups were equivalent for high-frequency words. AWS responded to shorter words more slowly than AWNS, producing a reverse word-length effect. For the network measures, degree/neighborhood density and closeness centrality, but not whether a word was inside or outside the giant component, influenced response times similarly between groups.
+
+
+Conclusions
+Network analyses suggest that multiple levels of the phonological network might influence phonological processing, not just the micro-level traditionally considered by mainstream psycholinguistics.

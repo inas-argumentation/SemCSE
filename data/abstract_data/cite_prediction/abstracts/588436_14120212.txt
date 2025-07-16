@@ -1,0 +1,2 @@
+Automatic Evaluation of Machine Translation Quality
+Any scientific endeavour must be evaluated in order to assess its correctness. In many applied sciences it is necessary to check that the theory adequately matches actual observations. In Machine Translation (MT), evaluation serves two purposes: relative evaluation allows us to check whether one MT technique is better than another, while absolute evaluation gives an absolute measure of performance, eg a score of 1 may mean a perfect translation.

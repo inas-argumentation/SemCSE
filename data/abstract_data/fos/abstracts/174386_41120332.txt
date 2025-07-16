@@ -1,0 +1,15 @@
+Determination of air-kerma strength for the 192Ir GammaMedplus iX pulsed-dose-rate brachytherapy source.
+PURPOSE
+Pulsed-dose-rate (PDR) brachytherapy was originally proposed to combine the therapeutic advantages of high-dose-rate (HDR) and low-dose-rate brachytherapy. Though uncommon in the United States, several facilities employ pulsed-dose-rate brachytherapy in Europe and Canada. Currently, there is no air-kerma strength standard for PDR brachytherapy (192)Ir sources traceable to the National Institute of Standards and Technology. Discrepancies in clinical measurements of the air-kerma strength of the PDR brachytherapy sources using HDR source-calibrated well chambers warrant further investigation.
+
+
+METHODS
+In this research, the air-kerma strength for an (192)Ir PDR brachytherapy source was compared with the University of Wisconsin Accredited Dosimetry Calibration Laboratory transfer standard well chambers, the seven-distance technique [B. E. Rasmussen et al., "The air-kerma strength standard for 192Ir HDR sources," Med. Phys. 38, 6721-6729 (2011)], and the manufacturer's stated value. Radiochromic film and Monte Carlo techniques were also employed for comparison to the results of the measurements.
+
+
+RESULTS
+While the measurements using the seven-distance technique were within + 0.44% from the manufacturer's determination, there was a + 3.10% difference between the transfer standard well chamber measurements and the manufacturer's stated value. Results showed that the PDR brachytherapy source has geometric and thus radiological qualities that exhibit behaviors similar to a point source model in contrast to a conventional line source model.
+
+
+CONCLUSIONS
+The resulting effect of the pointlike characteristics of the PDR brachytherapy source likely account for the differences observed between well chamber and in-air measurements.

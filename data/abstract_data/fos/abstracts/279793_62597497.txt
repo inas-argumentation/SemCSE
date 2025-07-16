@@ -1,0 +1,2 @@
+Fast-Recovery Pin Diodes with SiGe Anode Layers
+Fast-recovery and low on-state-forward-voltage drop (Vf) in pin-diodes can be simultaneously obtained with a relaxed SiGe crystal anode layer. We have successfully fabricated 280V-class SiGe pin diodes with a recovery time of 160ns and Vf of 0.86V at a forward current density of 100A/cm2. A device simulation predicts a possibility of Vf=0.7V@100A /cm2 and a recovery time of 20ns by controlling carrier lifetimes at p and i layers independently with SiGe.

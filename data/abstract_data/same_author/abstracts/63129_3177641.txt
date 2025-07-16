@@ -1,0 +1,2 @@
+Properties of Markovian Subgraphs of a Decomposable Graph
+We explore the properties of subgraphs (called Markovian subgraphs) of a decomposable graph under some conditions. For a decomposable graph and a collection γ of its Markovian subgraphs, we show that the set of the intersections of all the neighboring cliques of contains . We also show that holds for a certain type of which we call a maximal Markovian supergraph of γ. This graph-theoretic result is instrumental for combining knowledge structures that are given in undirected graphs.

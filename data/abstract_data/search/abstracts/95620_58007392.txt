@@ -1,0 +1,2 @@
+Every Cubic Bipartite Graph has a Prime Labeling Except $K_{3,3}$K3,3
+A graph G is prime if the vertices can be distinctly labeled with the integers $1,2, \ldots |V(G)$1,2,|V(G) so that adjacent vertices have relatively prime labels. We show that every cubic bipartite graph is prime except $K_{3,3}$K3,3, which implies a number of other results. We also provide evidence to support a conjectured classification for the primality of 2 regular graphs.

@@ -1,0 +1,15 @@
+Effect of statin therapy in reducing the risk of serious non-AIDS-defining events and nonaccidental death.
+BACKGROUND
+Excessive inflammation persists despite antiretroviral treatment. Statins decrease cardiovascular (CV) disease risk by reducing low-density lipoprotein cholesterol and inflammation. We performed an exploratory analysis to evaluate whether statin therapy decreased risk of non-AIDS-defining events and nonaccidental death.
+
+
+METHODS
+A total of 3601 subjects not on a statin from the AIDS Clinical Trials Group Longitudinal Linked Randomized Trials cohort were included. Outcome was time to first clinical event (CV event, renal or hepatic disease, incident diabetes, thrombotic/embolic event, nontraumatic fracture, non-AIDS-defining malignancy, serious bacterial infection, or nonaccidental death); event categories were also analyzed separately. Inverse probability of treatment and censoring weighted Cox proportional hazard models were used to assess the causal statin effect. Differential statin effects by baseline covariates were evaluated.
+
+
+RESULTS
+Over 15 135 person-years (PY) of follow-up, 484 subjects initiated statins; 616 experienced an event (crude event rate, 4.4/100 PY on a statin and 4.1/100 PY not on a statin); the unadjusted hazard ratio (HR) was 1.17 (95% confidence interval [CI], .91-1.50). In a final weighted model, the adjusted HR (AHR) was 0.81 (95% CI, .53- 1.24). Results for other clinical events were similar, except for malignancies (AHR, 0.43 [95% CI, .19-.94]) and bacterial infections (AHR, 1.30 [95% CI, .64-2.65]). No differential statin effects by baseline covariates were detected.
+
+
+CONCLUSIONS
+Although statin therapy was not associated with a reduction in time to all non-AIDS-defining event or nonaccidental death, it was associated with a statistically significant 57% reduction in non-AIDS-defining malignancies. Confirmatory studies are needed to evaluate statin-associated reduction in risk of cancer and non-AIDS-associated morbidities.

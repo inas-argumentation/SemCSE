@@ -1,0 +1,2 @@
+Asymptotic Analysis of Some Discrete Distributions by the Saddle Point Method
+We present asymptotic formulas for the probability mass functions of three discrete distributions: the Neyman type A, the compound Poisson–Katz, and the convolution of negative binomial and Pólya–Aeppli. An approximation of the moments of the Neyman type A distribution is also given. All of these results are found by Hayman's encapsulation of the saddle point method.

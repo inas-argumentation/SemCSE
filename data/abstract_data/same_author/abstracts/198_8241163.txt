@@ -1,0 +1,7 @@
+MS-BID: a Java package for label-free LC-MS-based comparative proteomic analysis
+UNLABELLED
+MS-BID (MS Biomarker Discovery Platform) is an integrative computational pipeline for biomarker discovery using LC-MS-based comparative proteomic analysis. This platform consists of several computational tools for: (i) detecting peptides in the collected patterns; (ii) matching detected peptides across a number of LC-MS datasets and (iii) selecting discriminatory peptides between classes of samples.
+
+
+AVAILABILITY
+MS-BID source codes, binaries and documentations are freely available under LGPL from http://tools.proteomecenter.org/msBID.php.

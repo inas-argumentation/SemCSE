@@ -1,0 +1,2 @@
+Binary Self-Stabilization in Distributed Systems
+Abstract Dijkstra introduced the problem of self-stabilization in distributed systems as an interesting exercise for achieving global convergence using local actions. In all the papers dealing with self-stabilizing systems so far, it has been assumed that each component machine of the distributed system has at least three states. This paper illustrates that it is feasible to design a self-stabilizing system with two-state or binary machines at the expense of a larger atomicity.

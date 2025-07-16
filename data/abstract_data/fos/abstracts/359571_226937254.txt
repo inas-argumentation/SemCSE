@@ -1,0 +1,9 @@
+In-flight calibration results of the TROPOMI payload on board the Sentinel-5 Precursor satellite
+. After the launch of the Sentinel-5 Precursor satellite on
+13 October 2017, its single payload, the TROPOspheric
+Monitoring Instrument (TROPOMI), was commissioned for 6 months.
+In this time the instrument was tested and calibrated extensively.
+During this phase the geolocation calibration was validated using a dedicated measurement zoom mode.
+With the help of spacecraft manoeuvres the solar angle dependence of the irradiance radiometry was calibrated for both internal diffusers. This improved the results that were obtained on the ground significantly.
+Furthermore the orbital and long-term stability was tested for electronic gains, offsets, non-linearity, the dark current and the output of the internal light sources. The CCD output gain of the UV, UVIS and NIR detectors shows drifts over time which can be corrected in the Level 1b (L1b) processor.
+In-flight measurements also revealed inconsistencies in the radiometric calibration and degradation of the UV spectrometer. Degradation was also detected for the internal solar diffusers. Since the start of the nominal operations (E2) phase in orbit 2818 on 30 April 2018, regularly scheduled calibration measurements on the eclipse side of the orbit are used for monitoring and updates to calibration key data. This article reports on the main results of the commissioning phase, the in-flight calibration and the instrument's stability since launch. Insights from commissioning and in-flight monitoring have led to updates to the L1b processor and its calibration key data. The updated processor is planned to be used for nominal processing from late 2020 on.

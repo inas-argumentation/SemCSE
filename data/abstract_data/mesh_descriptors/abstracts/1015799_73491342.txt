@@ -1,0 +1,23 @@
+A Retrospective Database Study Comparing Diabetes-Related Medication Adherence and Health Outcomes for Mail-Order Versus Community Pharmacy.
+BACKGROUND
+Adherence to oral antihyperglycemic agents (AHAs) is important for managing blood glucose levels and avoiding hospitalizations or diabetes complications. Previous studies have found that use of mail-order pharmacy dispensing channels results in greater adherence than use of community pharmacies, but the link between use of mail-order pharmacies and improved clinical outcomes has not been established.
+
+
+OBJECTIVE
+To compare the effect of mail-order and community pharmacy use on adherence to oral AHAs, hemoglobin A1c (A1c) level, and glycemic control, as well as emergency department (ED) and inpatient hospital use.
+
+
+METHODS
+This retrospective cohort study of administrative claims data from January 1, 2008, to December 31, 2016, included patients with Medicare Advantage Prescription Drug plan coverage with ≥ 2 claims for the same oral AHA and a diagnosis of type 2 diabetes mellitus (T2DM). Patients were indexed to the start of the most advanced oral AHA identified to begin study observations at the start of a new treatment and assigned to mail-order or community pharmacy cohorts based on which channel dispensed ≥ 80% of their oral AHA claims; all others were excluded. Mail-order and community pharmacy patients were 1:1 propensity score matched. Matched cohorts were compared on proportion of days covered (PDC), adherence (PDC ≥ 0.8), A1c level, glycemic control, and ED and inpatient use for measurement periods of 12, 24, 36, and 48 months post-index.
+
+
+RESULTS
+19,307 mail-order and 19,307 community pharmacy users were matched. PDC was higher for mail-order pharmacy users at 12 months (0.93 vs. 0.82, P < 0.001) and sustainable through 48 months (0.87 vs. 0.77, P < 0.001). Adherence was also greater for mail-order pharmacy patients through 12 months (86% vs. 68%, P < 0.001) and sustainable through 48 months (78% vs. 62%, P < 0.001). Glycemic control as A1c < 7% was not significantly different, but control as A1c < 8% was greater for mail-order pharmacy users at 12 months (91% vs. 89%, P = 0.006) and was greater through 36 months (93% vs. 89%, P = 0.043). Effects on A1c level were not evident. Mail-order pharmacy users were less likely to have an ED visit within 12 months (26% vs. 28%, P < 0.0001), and the difference was observed through 36 months (50% vs. 54%, P < 0.0001). Similarly, fewer mail-order pharmacy users had an inpatient hospitalization within 12 months (17% vs. 19%, P < 0.0001), and the difference was observed through 48 months (43% vs. 47%, P = 0.009).
+
+
+CONCLUSIONS
+The results of the study demonstrate a benefit to patients who use mail-order pharmacies for chronic medications to treat T2DM. The study identified greater glycemic control, lower ED use, and lower hospitalization among individuals using mail-order pharmacies. These positive outcomes were evident in the near term and sustained over time.
+
+
+DISCLOSURES
+This study received no outside funding but was sponsored by Humana through regular employment activities by Schwab, Racsa, and Worley, who are employed by Humana Healthcare Research (formerly Comprehensive Health Insights). This study found benefits related to using mail-order versus community pharmacies for dispensing antihyperglycemic agents in the treatment of type 2 diabetes. Humana owns mail-order pharmacies under the Humana Pharmacy subsidiary. Mourer and Meah are paid employees of Humana Pharmacy Solutions. Rascati is employed by the University of Texas College of Pharmacy at Austin.

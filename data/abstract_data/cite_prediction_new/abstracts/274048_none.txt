@@ -1,0 +1,2 @@
+Time-frequency and time-scale canonical representations of doubly spread channels
+A general technique for the generation of canonical channel models and demonstrate the application of the technique to time-frequency and time-scale integral kernel operators is developed. As an example, the derivation of Sayeed/Aazhang's time-frequency canonical channel characterization that forms the basis for the time-frequency RAKE receiver is shown. Then, a canonical time-scale channel model for wideband communication is developed.

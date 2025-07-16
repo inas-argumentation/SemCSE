@@ -1,0 +1,2 @@
+Software-Faults: The Remaining Problem in Fault Tolerant Systems?
+This paper discusses the problems of software-faults in computer systems, and how such faults can be tolerated. After introducing some terminology, the characteristics of software faults and their effects are described. Then four approaches to software-fault tolerance are described. Finally, an architecture for fault tolerant software components is outlined.

@@ -1,0 +1,2 @@
+On second-order optimality conditions for nonlinear programming
+Necessary optimality conditions for nonlinear programming are discussed in the present research. A new second-order condition is given, which depends on a weak constant rank constraint requirement. We show that practical and publicly available algorithms (www.ime.usp.br/∼egbirgin/tango) of augmented Lagrangian type converge, after slight modifications, to stationary points defined by the new condition.

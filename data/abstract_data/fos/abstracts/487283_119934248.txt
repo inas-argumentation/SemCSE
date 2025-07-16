@@ -1,0 +1,2 @@
+Inadmissibility of the uniformly minimum variance unbiased estimator of the inverse Gaussian variance
+The uniformly minimum variance unbiased estimator (UMVUE) of the variance of the inverse Gaussian distribution is shown to be inadmissible in terms of the mean squared error, and a dominating estimator is given. A dominating estimator to the maximum likelihood estimator (MLE) of the variance and estimators dominating the MLE's and the UMVUE's of other parameters are also given.

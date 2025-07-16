@@ -1,0 +1,2 @@
+Convexity of solutions to some elliptic partial differential equations
+This paper is concerned with positive solutions $u(x)$ to some special elliptic partial differential equations in a bounded convex domain $\Omega \subset R^N $. For a decreasing function $g(t)$ the transformation $v = g(u)$ is performed and, under appropriate restrictions on $g(t)$, it is proved that $v(x)$ is convex in $\Omega $. Consequently, the level sets of $u(x)$ are convex.

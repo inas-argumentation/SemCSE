@@ -1,0 +1,2 @@
+Subtyping Calculus of Construction (Extended Abstract)
+We present in this paper a subtyping extension of Calculus of Construction. We prove that this system has good meta-theoretical properties: transitivity elimination, subject reduction, strong normalization and decidability of subtyping. This work provides a theoretical foundation for adding subtyping to proof checkers like Coq, LEGO etc.

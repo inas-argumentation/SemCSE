@@ -1,0 +1,2 @@
+Direct sampling method for monostatic radar imaging
+In this paper, we extend the use of conventional Direct sampling method (DSM) which is only applicable to the multistatic measurement data, to the monostatic measurement data for radar imaging applications. We define a novel testing function which can be used in the indicator function of DSM with monostatic data. Numerical examples demonstrate the feasibility of the proposed method.

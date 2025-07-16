@@ -1,0 +1,18 @@
+Black-Box Optimization Revisited: Improving Algorithm Selection Wizards through Massive Benchmarking
+Existing studies in black-box optimization for machine learning suffer from low
+generalizability, caused by a typically selective choice of problem instances used
+for training and testing different optimization algorithms. Among other issues,
+this practice promotes overfitting and poor-performing user guidelines. To address
+this shortcoming, we propose in this work a benchmark suite, OptimSuite,
+which covers a broad range of black-box optimization problems, ranging from
+academic benchmarks to real-world applications, from discrete over numerical
+to mixed-integer problems, from small to very large-scale problems, from noisy
+over dynamic to static problems, etc. We demonstrate the advantages of such a
+broad collection by deriving from it Automated Black Box Optimizer (ABBO), a
+general-purpose algorithm selection wizard. Using three different types of algorithm
+selection techniques, ABBO achieves competitive performance on all
+benchmark suites. It significantly outperforms previous state of the art on some of
+them, including YABBOB and LSGO. ABBO relies on many high-quality base
+components. Its excellent performance is obtained without any task-specific
+parametrization. The benchmark collection, the ABBO wizard, its base solvers,
+as well as all experimental data are reproducible and open source in OptimSuite.

@@ -1,0 +1,2 @@
+Macroeconomic forecasting in Austria: An analysis of accuracy
+In the present paper, we attempt a critical evaluation of macroeconomic forecasting in Austria. For this purpose, we calculate conventional magnitude measures of accuracy as well as probabilities of correctly predicting directional change for the forecasts made by two Austrian institutions (WIFO and IHS) and by the OECD. ARIMA models and Holt-Winters exponential smoothing serve as benchmarks for comparison.

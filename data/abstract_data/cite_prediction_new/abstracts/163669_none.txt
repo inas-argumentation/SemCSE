@@ -1,0 +1,2 @@
+Study on the use of a weighted screening method for indoor positioning systems
+Past studies of WiFi-based indoor positioning systems (IPS) have mainly been divided into the following types of positioning: proximity, trilateration, and scene analysis. This paper proposes a WiFi-based weighted screening method (WSM) to improve displacement error in trilateration. Experimental data show that this method performs better than conventional trilateration and the error correction algorithm (ECA).

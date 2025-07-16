@@ -1,0 +1,2 @@
+Image tamper detection based on demosaicing artifacts
+In this paper, we introduce tamper detection techniques based on artifacts created by Color Filter Array (CFA) processing in most digital cameras. The techniques are based on computing a single feature and a simple threshold based classifier. The efficacy of the approach was tested over thousands of authentic, tampered, and computer generated images. Experimental results demonstrate reasonably low error rates.

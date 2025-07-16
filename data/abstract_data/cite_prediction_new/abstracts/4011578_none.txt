@@ -1,0 +1,2 @@
+Heuristic search in a cognitive model of human parsing
+We present a cognitive process model of human sentence comprehension based on generalized left-corner parsing. A search heuristic based upon previously-parsed corpora derives garden path effects, garden path paradoxes, and the local coherence effect.

@@ -1,0 +1,15 @@
+Is there a general autoantibody signature for cancer?
+BACKGROUND
+There is longstanding evidence for the diagnostic potential of single autoantibodies for cancer and other diseases and more recently for the potential of complex autoantibody signatures. Here we address the question whether cancer specific signatures exist.
+
+
+METHODS
+We analysed our autoantibody screening data both newly and previously generated using a single array platform with 1827 identified immunogenic clones. These clones were tested for their reactivity against a total of 428 human sera including 191 sera of patients with different cancer entities, 60 sera of healthy individuals and 177 sera of patients with non-cancer diseases by using bioinformatics approaches.
+
+
+RESULTS
+Principal Component Analysis and hierarchical clustering revealed significant differences between the three cohorts. Evaluating the autoantibody reactivities in the three groups using Support Vector Machines, we were able to separate cancer sera from normal sera with an accuracy of 94.08%. A pathway analysis that was based on antigens with an increased reactivity in patients' sera as compared to controls indicated glycolysis as central pathway. The separation between cancer and non-cancer disease sera was possible with an accuracy of only 69.58%, which is still significantly higher than by random classification.
+
+
+CONCLUSION
+As for single autoantigens, we show that proteins that are frequently reactive with cancer sera are also frequently reactive with non-cancer sera. While these results underline the potential of autoantibody signatures for cancer diagnosis, they also caution to premature claim specificity of a signature.

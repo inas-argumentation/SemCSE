@@ -1,0 +1,2 @@
+A two failure modes system with cold stand-by units
+This short paper presents a system with two mutually exclusive failure modes and N stand-by units. The repair is considered at one failure mode. The state probability equations are developed in Laplace transform.

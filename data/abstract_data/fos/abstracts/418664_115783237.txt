@@ -1,0 +1,19 @@
+Identification of Salmonella H antigens by xTAG technology
+Objective 
+To develop a microsphere-based suspension array for simultaneous detection and identification of Salmonella H antigens by using Luminex xTAG technology and to evaluate its capability in serotyping Salmonella strains. 
+ 
+ 
+Methods 
+The fliC and fljB genes, encoding the H antigen of Salmonella, were selected as the target genes. Universal upstream primers were designed based on the highly conserved regions of fliC and fljB genes, and the corresponding specific reverse primers were designed based on the variable regions. While synthesizing, the 5′ end of each upstream primer was labeled with biotin and the 5′ end of each specific reverse primer was modified with its certain TAG sequence. After amplified and labeled with biotin and TAG sequence, the PCR products of specimens were hybridized with the mixture of various MagPlex-xTAG™ microspheres. Each set of microspheres contained its unique anti-TAG sequences. The results of hybridization were analyzed by using Luminex MagPix reader system and the median fluorescence intensity (MFI) was reported. The H antigens of 145 Salmonella strains were identified with this developed xTAG suspension array, and the results were compared with those obtained by using traditional serum agglutination test. 
+ 
+ 
+Results 
+The PCR products of different H antigens ranged from 94 bp to 245 bp and could be identified by hybridizing with MagPlex-xTAG™ microspheres. There was no cross-reaction between different H antigens or with DNAs derived from Escherichia coli, Vibrio cholerae, Vibrio parahaemolyticus and Shigella flexneri. Compared with the traditional serum agglutination test, the sensitivity and specificity of the xTAG suspension array in the identification of H antigens of 145 Salmonella strains were 95.1% and 100%, respectively. 
+ 
+ 
+Conclusion 
+The developed xTAG suspension array was a specific, accurate and effective method for simultaneous detection and identification of 31 H antigens of common Salmonella serovars strains. It could be used for determining the H antigens of more than 90 Salmonella strains within 5 hours. 
+ 
+ 
+Key words: 
+Salmonella; H antigen; xTAG technology

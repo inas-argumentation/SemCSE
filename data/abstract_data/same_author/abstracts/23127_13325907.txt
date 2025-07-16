@@ -1,0 +1,2 @@
+Application of a Neural Network and a Genetic Algorithm in the Analysis of Multi Particle Final States
+The analysis of a particle physics experiment requires the correct selection of the desired multiplicity of charged (pions or kaons) and neutral (photons) particles. Due to fluctuations in hadronic and electromagnetic showers often too many photons are reconstructed by the analysis software. The combination of a feed forward neural network and a genetic algorithm is used to separate photons and fluctuations.

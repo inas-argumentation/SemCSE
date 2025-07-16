@@ -1,0 +1,2 @@
+A 2.4 GHz 4 mW Integer-N Inductorless RF Synthesizer
+The high phase noise of ring oscillators has generally discouraged their use in RF synthesis. This paper introduces an integer-N synthesizer that employs a type-I loop to achieve a wide bandwidth, allowing the use of ring oscillators, and a master-slave sampling loop filter along with harmonic traps to suppress spurs. A 2.4 GHz prototype fabricated in 45 nm digital CMOS technology provides a loop bandwidth of 10 MHz and a spur level of -65 dBc. The phase noise is -114 dBc/Hz at 1 MHz offset.

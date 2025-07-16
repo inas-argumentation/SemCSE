@@ -1,0 +1,2 @@
+Implementing Atomic Section by Using Hybrid Concurrent Control
+Atomic section is an important language feather in multi- thread synchronizing. So far, it can only be implemented by using pessimistic or optimistic concurrent control singly. This paper introduces a flexible hybrid concurrent control system which could harmonize the two modes of concurrent control. Accordingly, a new atomic section is proposed as language level support to open an interface for both manual and compiler-assisted optimization.

@@ -1,0 +1,2 @@
+A human identification technique using images of the iris and wavelet transform
+A new approach for recognizing the iris of the human eye is presented. Zero-crossings of the wavelet transform at various resolution levels are calculated over concentric circles on the iris, and the resulting one-dimensional (1-D) signals are compared with model features using different dissimilarity functions.

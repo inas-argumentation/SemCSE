@@ -1,0 +1,6 @@
+Linear syzygy graph and linear resolution
+For each squarefree monomial ideal $I\subset S = k[x_{1},\ldots, x_{n}] $, we associate a simple graph $G_I$ by using the first linear syzygies of $I$. In cases, where $G_I$ is a cycle or a tree, we show the following are equivalent: 
+(a) $ I $ has a linear resolution 
+(b) $ I $ has linear quotients 
+(c) $ I $ is a variable-decomposable ideal 
+In addition, with the same assumption on $G_I$, we characterize all monomial ideals with a linear resolution. Using our results, we characterize all Cohen-Macaulay codimension $2$ monomial ideals with a linear resolution. As an other application of our results, we also characterize all Cohen-Macaulay simplicail complexes in cases that $G_{\Delta}\cong G_{I_{\Delta^{\vee}}}$ is a cycle or a tree.

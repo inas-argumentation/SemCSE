@@ -1,0 +1,2 @@
+The Identification of a Mixture of First‐Order Binary Markov Chains
+Let S be the number of components in a finite discrete mixing distribution. We prove that the number of waves of panel being greater than or equal to 2S is a sufficient condition for global identification of a dynamic binary choice model in which all the parameters are heterogeneous. This model results in a mixture of S binary first-order Markov Chains.

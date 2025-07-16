@@ -1,0 +1,8 @@
+Pixel Redrawn For A Robust Adversarial Defense
+Recently, an adversarial example becomes a serious problem to be aware of because it can fool trained neural networks easily.
+To prevent the issue, many researchers have proposed several defense techniques such as adversarial training, input transformation, stochastic activation pruning, etc.
+In this paper, we propose a novel defense technique, Pixel Redrawn (PR) method, which redraws every pixel of training images to convert them into distorted images.
+The motivation for our PR method is from the observation that the adversarial attacks have redrawn some pixels of the original image with the known parameters of the trained neural network.
+Mimicking these attacks, our PR method redraws the image without any knowledge of the trained neural network.
+This method can be similar to the adversarial training method but our PR method can be used to prevent future attacks.
+Experimental results on several benchmark datasets indicate our PR method not only relieves the over-fitting issue when we train neural networks with a large number of epochs, but it also boosts the robustness of the neural network.

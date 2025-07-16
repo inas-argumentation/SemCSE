@@ -1,0 +1,2 @@
+Shape preservation criteria and optimal soft morphological filtering
+New criteria for shape preservation are presented. These criteria are applied in optimizing soft morphological filters. The filters are optimized by simulated annealing and genetic algorithms which are briefly reviewed. Situations, where this kind of criteria give better results compared to the traditional MAE and MSE criteria, are illustrated.

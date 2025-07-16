@@ -1,0 +1,2 @@
+Analysis of the multi-finger dynamics for robot hand system based on EtherCAT
+A multi-finger dynamics model has been presented in this study, which contains a single finger dynamics model equation and a restraint equation between fingers based on Lagrangian multiplier controller. To validate the model, an EtherCAT master and slave platform has been developed based on FPGA. Meanwhile, the multi-finger dynamics algorithm has been designed in the TwinCAT. Finally, the experiments demonstrate this strategy can be implemented and operated by online grasping object.

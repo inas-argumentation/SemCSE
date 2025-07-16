@@ -1,0 +1,2 @@
+Edge Separators for Graphs of Bounded Genus with Applications
+We prove that every n-vertex graph of genus g and maximal degree k has an edge separator of size O(√gkn). The upper bound is best possible to within a constant factor. This extends known results on planar graphs and similar results about vertex separators. We apply the edge separator to the isoperimetric number problem, graph embeddings and lower bounds for crossing numbers.

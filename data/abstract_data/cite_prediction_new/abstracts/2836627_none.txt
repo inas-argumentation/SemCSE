@@ -1,0 +1,2 @@
+Real-time vision-based control of a nonholonomic mobile robot
+This paper considers the problem of vision-based control of a nonholonomic mobile robot. We describe the design and implementation of real-time estimation and control algorithms on a car-like robot platform using a single omni-directional camera as a sensor without explicit use of odometry. We provide experimental results for each of these vision-based control objects. The algorithms are packaged as control modes and can be combined hierarchically to perform higher level tasks involving multiple robots.

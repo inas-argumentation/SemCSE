@@ -1,0 +1,2 @@
+A Regression-Type Estimator Based on Preliminary Test of Significance
+Abstract If data on an auxiliary variable X correlated with the variable Y under study are available, regression-type estimators are often used to estimate the population mean μ y . An estimator based on a preliminary test of significance that chooses between the difference estimator and the regression estimator has been proposed. This article investigates the efficiency of the proposed regression-type estimator with respect to other regression-type estimators.

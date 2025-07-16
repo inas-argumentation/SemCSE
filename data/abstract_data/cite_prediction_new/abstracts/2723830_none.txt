@@ -1,0 +1,2 @@
+FA 8-9 : 40 On Strict Passivity and its Application to Interpolation and & , Control
+We introduce the /&-system and derive necessary and sufficient conditions for these systems to be strictly passive. Strictly passive &--systems axe characterized as having a representation in terms of a co-J-lossless matrix. A state space proof is developed and provides a Riccati equation characterization of a strictly passive &--system, as well as a formula for the co-J-lossless matrix representation. Applications to Nevanlinna Pick interpolation and an H, filtering problem are considered.

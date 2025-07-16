@@ -1,0 +1,2 @@
+Back and forth between continuous and discrete for the working computer scientist
+This paper gives a perfect, ideal, discretization of continuous notions. This is a very convenient frame to treat continuous problems or theories with the help of a computer. This is illustrated by the conversion of algorithms using real numbers into algorithms using integers only and the founding of discrete geometry.

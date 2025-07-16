@@ -1,0 +1,2 @@
+Representing uncertainty in ranking by single or multiple indicators
+Ranking a set of measurements, or ranking a set of model outputs, is a generic task for decision support. In the case of multiple indicators, a composite index is often defined. However, as Patil and Taillie (2004) point out, “every such composite involves judgements (often arbitrary or controversial) about tradeoffs or substitutability among indicators.” These concerns are addressed by the concept of partial order.

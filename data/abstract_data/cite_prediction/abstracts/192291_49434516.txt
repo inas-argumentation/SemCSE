@@ -1,0 +1,15 @@
+Cycle Consistent Adversarial Denoising Network for Multiphase Coronary CT Angiography
+PURPOSE
+In multiphase coronary CT angiography (CTA), a series of CT images are taken at different levels of radiation dose during the examination. Although this reduces the total radiation dose, the image quality during the low-dose phases is significantly degraded. Recently, deep neural network approaches based on supervised learning technique have demonstrated impressive performance improvement over conventional model-based iterative methods for low-dose CT. However, matched low- and routine- dose CT image pairs are difficult to obtain in multiphase CT. To address this problem, we aim at developing a new deep learning framework.
+
+
+METHOD
+We propose an unsupervised learning technique that can remove the noise of the CT images in the low-dose phases by learning from the CT images in the routine dose phases. Although a supervised learning approach is not applicable due to the differences in the underlying heart structure in two phases, the images are closely related in two phases, so we propose a cycleconsistent adversarial denoising network to learn the mapping between the low and high dose cardiac phases.
+
+
+RESULTS
+Experimental results showed that the proposed method effectively reduces the noise in the low-dose CT image while preserving detailed texture and edge information. Moreover, thanks to the cyclic consistency and identity loss, the proposed network does not create any artificial features that are not present in the input images. Visual grading and quality evaluation also confirm that the proposed method provides significant improvement in diagnostic quality.
+
+
+CONCLUSIONS
+The proposed network can learn the image distributions from the routine-dose cardiac phases, which is a big advantages over the existing supervised learning networks that need exactly matched low- and routine- dose CT images. Considering the effectiveness and practicability of the proposed method, we believe that the proposed can be applied for many other CT acquisition protocols. This article is protected by copyright. All rights reserved.

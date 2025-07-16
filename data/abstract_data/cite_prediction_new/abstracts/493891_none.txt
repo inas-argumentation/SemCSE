@@ -1,0 +1,2 @@
+Sangam: a distributed pair programming plug-in for Eclipse
+In pair programming, two programmers traditionally work side-by-side at one computer. However, in globally distributed organizations, long-distance collaboration is frequently necessary. Sangam is an Eclipse plug-in that allows Eclipse users in different locations to share a workspace so that they may work as if they were using the same computer. In this paper, we discuss the Sangam plug-in, and our experience developing it via distributed and collocated pair programming.

@@ -1,0 +1,15 @@
+Reconstruction of a high-quality volumetric image and a respiratory motion model from patient CBCT projections.
+PURPOSE
+To develop and evaluate a method of reconstructing a patient- and treatment day- specific volumetric image and motion model from free-breathing cone-beam projections and respiratory surrogate measurements. This Motion-Compensated Simultaneous Algebraic Reconstruction Technique (MC-SART) generates and uses a motion model derived directly from the cone-beam projections, without requiring prior motion measurements from 4DCT, and can compensate for both inter- and intrabin deformations. The motion model can be used to generate images at arbitrary breathing points, which can be used for estimating volumetric images during treatment delivery.
+
+
+METHODS
+The MC-SART was formulated using simultaneous image reconstruction and motion model estimation. For image reconstruction, projections were first binned according to external surrogate measurements. Projections in each bin were used to reconstruct a set of volumetric images using MC-SART. The motion model was estimated based on deformable image registration between the reconstructed bins, and least squares fitting to model parameters. The model was used to compensate for motion in both projection and backprojection operations in the subsequent image reconstruction iterations. These updated images were then used to update the motion model, and the two steps were alternated between. The final output is a volumetric reference image and a motion model that can be used to generate images at any other time point from surrogate measurements.
+
+
+RESULTS
+A retrospective patient dataset consisting of eight lung cancer patients was used to evaluate the method. The absolute intensity differences in the lung regions compared to ground truth were 50.8 ± 43.9 HU in peak exhale phases (reference) and 80.8 ± 74.0 in peak inhale phases (generated). The 50th percentile of voxel registration error of all voxels in the lung regions with >5 mm amplitude was 1.3 mm. The MC-SART was also applied to measured patient cone-beam projections acquired with a linac-mounted CBCT system. Results from this patient data demonstrate the feasibility of MC-SART and showed qualitative image quality improvements compared to other state-of-the-art algorithms.
+
+
+CONCLUSION
+We have developed a simultaneous image reconstruction and motion model estimation method that uses Cone-beam computed tomography (CBCT) projections and respiratory surrogate measurements to reconstruct a high-quality reference image and motion model of a patient in treatment position. The method provided superior performance in both HU accuracy and positional accuracy compared to other existing methods. The resultant reference image and motion model can be combined with respiratory surrogate measurements to generate volumetric images representing patient anatomy at arbitrary time points.

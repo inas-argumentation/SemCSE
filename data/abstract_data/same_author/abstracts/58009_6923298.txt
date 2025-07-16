@@ -1,0 +1,2 @@
+WebDAV-based hypertext annotation and trail system
+We introduce a WebDAV-based Hypertext Annotation and Trail System (HATS). HATS provides annotation editing, deleting, searching, and sharing using server side WebDAV capabilities. It supports hyper-trail storage and examination. The paper describes the HATS architecture and WebDAV annotation schema. We compare HATS with existing web annotation systems, and discuss the advantages of using WebDAV as an annotation server.

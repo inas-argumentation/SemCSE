@@ -1,0 +1,2 @@
+On the maximum induced forests of a connected cubic graph without triangles
+Let t(G) denote cardinality of a maximum induced forest of a graph G with n vertices. For connected simple cubic graphs G without triangles, it is shown that t(G)?2n3 except for two particular graphs. This lower bound is sharp and it improves a result due to J.A. Bondy, et al. 1]. Using this result, we show that Ewald Speckenmeyer's Conjecture, i.e. t(G)?2n3 for all biconnected cubic graphs G with girth 4, is true, except for two particular graphs, which we describe.

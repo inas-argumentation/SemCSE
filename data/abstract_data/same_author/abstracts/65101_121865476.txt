@@ -1,0 +1,2 @@
+Time Reversal for Gap Diffusions with Nonlocal Boundary Conditions
+We consider the infinitesimal generator of the time reversal of a time-homogeneous one-dimensional gap diffusion with state space [0, 1] given by the infinitesimal generator Ao = dDs+ - dk / dm with nonlocal boundary conditions of Feller-Wentzell-type. This leads to an infinitesimal generator which belongs to a class of generators introduced in the earlier note [W1].

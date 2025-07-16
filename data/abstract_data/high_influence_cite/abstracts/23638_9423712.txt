@@ -1,0 +1,2 @@
+Local Whittle estimator for anisotropic random fields
+A local Whittle estimator is developed to simultaneously estimate the long memory parameters for stationary anisotropic scalar random fields. It is shown that these estimators are consistent and asymptotically normal, under some weak technical conditions. A brief simulation study illustrates a practical application of the estimator.

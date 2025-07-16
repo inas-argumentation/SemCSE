@@ -1,0 +1,15 @@
+SU-E-I-81: Experimental Study of Many-View Under-Sampling CT.
+PURPOSE
+Sparse-view CT takes projections at sparser view-angles and provides a viable option to reducing radiation dose. However, a fast power switching of an x-ray tube, which is needed for the sparse-view sampling, can be challenging in many CT systems. We have recently proposed a many-view under-sampling (MVUS) technique as an alternative to sparse-view CT.
+
+
+METHODS
+We used a bench-top circular cone-beam CT projection data set of a water-phantom which includes 720 projections. The multi-slit collimator made of tungsten was mounted on the X-ray source for beam blocking. The collimator is composed periodically of slit-openings and radio-opaque rectangular areas, and the length dimension of the slits is parallel to the rotation axis. In addition, we used a sinusoidal motion of the collimator to the perpendicular direction of the rotation axis for the purpose of more uniform spatial sampling of the image. For image reconstruction, we used a total-variation minimization (TV) algorithm and modified the POCS step so that only the measured data through the collimator slits are to be used in the computation.
+
+
+RESULTS
+Image reconstruction parameters are thought to play an important role in determining the image quality. More study for the optimization of reconstruction parameters is under progress and will be reported in the conference.
+
+
+CONCLUSION
+We proposed a novel scanning method for low-dose CT, and performed a real-study to possible.

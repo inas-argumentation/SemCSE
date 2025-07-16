@@ -1,0 +1,2 @@
+On stability of delayed cellular neural networks with sigmoid output functions
+In this paper a sufficient condition is presented to ensure the complete stability of delayed CNNs. Such a condition establishes a relation between the time delay and the parameters of the networks. Specially, for a given output function f(x) tanh(x) we address a sufficient condition to ensure absolute convergence of system state.

@@ -1,0 +1,2 @@
+An architecture for building reliable distributed object-based systems
+This paper proposes an architecture for designing fault-tolerant distributed object systems. The proposed architecture attempts to bring advances in client-server, remote procedure call, reliable group communication, and object orientation technologies under a unified architecture to ease application developers' work of building reliable distributed systems. The resulting application systems should be enhanced with modularity and flexibility.

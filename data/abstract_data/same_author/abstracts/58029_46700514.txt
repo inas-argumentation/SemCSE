@@ -1,0 +1,2 @@
+Basic Sparse Computations on Data Parallel Computers
+This paper presents a preliminary experimental study of the performance of basic sparse matrix computations on the CM-200 and the CM-5 massively parallel computers. We concentrate on examining various ways of performing general sparse matrix-vector operations and the basic primitives on which there are based in SIMD data parallel mode. Various data structures for storing sparse matrices and their corresponding matrix-vector multiplications are compared.

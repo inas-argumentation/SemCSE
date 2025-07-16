@@ -1,0 +1,2 @@
+The Pessimistic Search and the Straightening Involution for Trees
+We introduce the idea of pessimistic search on a rooted tree, and develop the straightening involution to relate the inversion polynomial evaluated atq=?1 to the number of even rooted trees. We obtain a differential equation for the inversion polynomial of cyclic trees evaluated atq=?1, a problem proposed by Gessel, Sagan and Yeh. Some brief discussions about relevant topics are also presented.

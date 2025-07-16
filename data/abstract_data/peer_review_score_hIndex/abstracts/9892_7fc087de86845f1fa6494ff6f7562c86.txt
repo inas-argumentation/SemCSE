@@ -1,0 +1,9 @@
+Non-Denoising Forward-Time Diffusions
+The scope of this paper is generative modeling through diffusion processes.
+An approach falling within this paradigm is the work of Song et al. (2021), which relies on a time-reversal argument to construct a diffusion process targeting the desired data distribution.
+We show that the time-reversal argument, common to all denoising diffusion probabilistic modeling proposals, is not necessary.
+We obtain diffusion processes targeting the desired data distribution by taking appropriate mixtures of diffusion bridges.
+The resulting transport is exact by construction, allows for greater flexibility in choosing the dynamics of the underlying diffusion, and can be approximated by means of a neural network via novel training objectives.
+We develop an unifying view of the drift adjustments corresponding to our and to time-reversal approaches and make use of this representation to inspect the inner workings of diffusion-based generative models.
+Finally, we leverage on scalable simulation and inference techniques common in spatial statistics to move beyond fully factorial distributions in the underlying diffusion dynamics.
+The methodological advances contained in this work contribute toward establishing a general framework for generative modeling based on diffusion processes.

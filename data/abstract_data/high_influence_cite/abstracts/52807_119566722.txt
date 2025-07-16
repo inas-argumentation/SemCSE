@@ -1,0 +1,2 @@
+On the Stability of the p-Affine Isoperimetric Inequality
+Employing the affine normal flow, we prove a stability version of the p-affine isoperimetric inequality for p≥1 in ℝ2 in the class of origin-symmetric convex bodies. That is, if K is an origin-symmetric convex body in ℝ2 such that it has area π and its p-affine perimeter is close enough to the one of an ellipse with the same area, then, after applying a special linear transformation, K is close to an ellipse in the Hausdorff distance.

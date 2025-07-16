@@ -1,0 +1,2 @@
+A randomized algorithm for distributed consensus
+We describe a randomized, fully distributed algorithm for distributed consensus and evaluate its performance assuming probabilistically bounded message delay. Each node randomly contacts a few other nodes and incorporates their values into its own value. All the nodes are able to reach consensus in this manner after a few rounds. The results show that the randomized algorithm is flexible, efficient and robust, and offers several advantages over a deterministic algorithm.

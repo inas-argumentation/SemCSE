@@ -1,0 +1,15 @@
+MR signal-fat-fraction analysis and T2* weighted imaging measure BAT reliably on humans without cold exposure.
+OBJECTIVE
+Brown adipose tissue (BAT) is compositionally distinct from white adipose tissue (WAT) in terms of triglyceride and water content. In adult humans, the most significant BAT depot is localized in the supraclavicular area. Our aim is to differentiate brown adipose tissue from white adipose tissue using fat T2* relaxation time mapping and signal-fat-fraction (SFF) analysis based on a commercially available modified 2-point-Dixon (mDixon) water-fat separation method. We hypothesize that magnetic resonance (MR) imaging can reliably measure BAT regardless of the cold-induced metabolic activation, with BAT having a significantly higher water and iron content compared to WAT.
+
+
+MATERIAL AND METHODS
+The supraclavicular area of 13 volunteers was studied on 3T PET-MRI scanner using T2* relaxation time and SFF mapping both during cold exposure and at ambient temperature; and 18F-FDG PET during cold exposure. Volumes of interest (VOIs) were defined semiautomatically in the supraclavicular fat depot, subcutaneous WAT and muscle.
+
+
+RESULTS
+The supraclavicular fat depot (assumed to contain BAT) had a significantly lower SFF and fat T2* relaxation time compared to subcutaneous WAT. Cold exposure did not significantly affect MR-based measurements. SFF and T2* values measured during cold exposure and at ambient temperature correlated inversely with the glucose uptake measured by 18F-FDG PET.
+
+
+CONCLUSIONS
+Human BAT can be reliably and safely assessed using MRI without cold activation and PET-related radiation exposure.

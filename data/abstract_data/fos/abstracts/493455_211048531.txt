@@ -1,0 +1,15 @@
+Technical Note: A fast inverse direct aperture optimization algorithm for volumetric-modulated arc therapy.
+PURPOSE
+In a recent article, our group proposed a fast direct aperture optimization (DAO) algorithm for fixed-gantry intensity-modulated radiation therapy (IMRT) called fast inverse direct aperture optimization (FIDAO). When tested on fixed-gantry IMRT plans, we observed up to a 200-fold increase in the optimization speed. Compared to IMRT, rotational volumetric-modulated arc therapy (VMAT) is a much larger optimization problem and has many more delivery constraints. The purpose of this work is to extend and evaluate FIDAO for inverse planning of VMAT plans.
+
+
+METHODS
+A prototype FIDAO algorithm for VMAT treatment planning was developed in MATLAB using the open-source treatment planning toolkit matRad (v2.2 dev_VMAT build). VMAT treatment plans using one 3600 arc were generated on the AAPM TG-119 phantom, as well as a sample clinical liver and prostate cases. The plans were created by first performing fluence map optimization on 28° equispaced beams, followed by aperture sequencing and arc sequencing with a gantry angular sampling rate of 4°. After arc sequencing, a copy of the plan underwent DAO using the prototype FIDAO algorithm, while another copy of the plan underwent DAO using matRad's DAO method, which served as the conventional algorithm.
+
+
+RESULTS
+Both algorithms achieved similar plan quality, although the FIDAO plans had considerably fewer hotspots in the unspecified normal tissue. The optimization time (number of iterations) for FIDAO and the conventional DAO algorithm respectively were: 65s (245) vs. 602s (275) in the TG-119 phantom case; 25s (85) vs. 803s (159) in the liver case; and 99s (174) vs. 754s (149) in the prostate case.
+
+
+CONCLUSIONS
+This study demonstrated promising speed enhancements in using FIDAO for the direct aperture optimization of VMAT plans.

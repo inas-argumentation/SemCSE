@@ -1,0 +1,2 @@
+Modeling of multi open phase fault condition of multi-phase permanent magnet synchronous motors
+This paper deals with the modeling of multi-phase permanent magnet synchronous motors under multi open phase fault condition. The presented model is suitable for generic number of phases, generic shape of the rotor flux and generic number of open circuit faults. The motor model in fault condition can be used for faults occurring on both adjacent and not adjacent phases. The model can be very useful both for simulation and implementation of fault-tolerant control strategies.

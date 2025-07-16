@@ -1,0 +1,2 @@
+Automatic element addition and deletion in lens optimization.
+A mechanism is established for the automatic addition and deletion of optical elements during the course of lens optimization. Two lens-form parameters, quantifying the symmetry of the optical system and the optical-power distribution among the individual lens elements, are used as criteria in this automatic procedure. Design examples are provided that demonstrate the practicability of the scheme.

@@ -1,0 +1,22 @@
+Estimation of turbulence dissipation rate and its variability from sonic anemometer and wind Doppler lidar during the XPIA field campaign
+. Despite turbulence being a fundamental transport process in the boundary
+layer, the capability of current numerical models to represent it is
+undermined by the limits of the adopted assumptions, notably that of local
+equilibrium. Here we leverage the potential of extensive observations in
+determining the variability in turbulence dissipation rate ( ϵ ).
+These observations can provide insights towards the understanding of the
+scales at which the major assumption of local equilibrium between generation
+and dissipation of turbulence is invalid. Typically, observations of
+ ϵ require time- and labor-intensive measurements from sonic and/or
+hot-wire anemometers. We explore the capability of wind Doppler lidars to
+provide measurements of ϵ . We refine and extend an existing method
+to accommodate different atmospheric stability conditions. To validate our
+approach, we estimate ϵ from four wind Doppler lidars during the
+3-month XPIA campaign at the Boulder Atmospheric Observatory (Colorado), and
+we assess the uncertainty of the proposed method by data intercomparison
+with sonic anemometer measurements of ϵ . Our analysis of this
+extensive dataset provides understanding of the climatology of turbulence
+dissipation over the course of the campaign. Further, the variability in
+ ϵ with atmospheric stability, height, and wind speed is also
+assessed. Finally, we present how ϵ increases as nocturnal
+turbulence is generated during low-level jet events.

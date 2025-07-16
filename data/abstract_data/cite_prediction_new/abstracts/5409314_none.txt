@@ -1,0 +1,2 @@
+Uniform Intersecting Families with Covering Number Restrictions
+It is known that any k-uniform family with covering number t has at most ktt-covers. In this paper, we deal with intersecting families and give better upper bounds for the number of t-covers. Let pt(k) be the maximum number of t-covers in any k-uniform intersecting families with covering number t. We prove that, for a fixed t, formula here In the cases of t=4 and 5, we also prove that the coefficient of kt−1 in pt(k) is exactly (t2).

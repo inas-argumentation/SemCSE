@@ -1,0 +1,2 @@
+An SEIV Epidemic Model for Childhood Diseases with Partial Permanent Immunity
+An SEIV epidemic model for childhood disease with partial permanent immunity is studied. The basic reproduction number R 0 has been worked out. The local and global asymptotical stability analysis of the equilibria are performed, respectively. Furthermore, if we take the treated rate τ as the bifurcation parameter, periodic orbits will bifurcate from endemic equilibrium when τ passes through a critical value. Finally, some numerical simulations are given to support our analytic results.

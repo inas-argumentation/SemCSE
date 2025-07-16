@@ -1,0 +1,2 @@
+Improving the performance of boost PFC EMI filters
+In order to design a high performance power factor correction (PFC) EMI filter, many issues need to be considered beforehand. Some important issues including PFC noise source characteristics, its effects on EMI noise, impedance mismatch, and filter's parasitic parameters are discussed in this paper. Experiments are performed to verify the arguments. Finally, a filter is built to verify the analysis.

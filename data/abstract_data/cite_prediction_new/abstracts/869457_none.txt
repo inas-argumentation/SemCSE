@@ -1,0 +1,2 @@
+Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph
+In addition to blockchain, a new paradigm is gaining momentum in the filed of distributed ledger technology—directed acyclic graphs. This paper compares the two paradigms focusing on features relevant to distributed systems using the following representative implementations: Bitcoin, Ethereum and Nano. We examine the applied data structures for maintaining the ledger, consensus mechanisms, transaction confirmation confidence, ledger size, and scalability.

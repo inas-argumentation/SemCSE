@@ -1,0 +1,2 @@
+A Direct Algorithm for Checking Equivalence of LL(k) Grammars
+Abstract We deal with the problem of testing equivalence of two LL( k ) grammars. The problem had been shown to be decidable for general k by Rosenkrantz and Stearns [2], who solved it by reduction into an equivalence problem for special DPDA's. In a paper by Korenjak and Hopcroft [1] the equivalence problem for LL(1) grammars is solved by a branching algorithm operating directly on the grammars. Our work presents a direct branching algorithm for the general LL( k ) grammars equivalence problem.

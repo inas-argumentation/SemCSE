@@ -1,0 +1,2 @@
+The use of solution adaptive grids in solving partial differential equations
+The grid point distribution used in solving a partial differential equation using a numerical method has a substantial influence on the quality of the solution. An adaptive grid which adjusts as the solution changes provides the best results when the number of grid points available for use during the calculation is fixed. Basic concepts used in generating and applying adaptive grids are reviewed in this paper, and examples illustrating applications of these concepts are presented.

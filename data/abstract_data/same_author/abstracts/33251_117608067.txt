@@ -1,0 +1,2 @@
+Multiple Partonic Interaction Developments in Herwig
+We briefly review the status of the multiple partonic interaction model in the Herwig++ event generator. First, we show how a change in the colour structure of an event in Herwig++ results in a significant improvement in the description of soft inclusive observables in $pp$ interactions at $\sqrt{s}=900$ GeV. Then we present a comparison of some model results to ATLAS Underlying Event data at $\sqrt{s}=7$ TeV.

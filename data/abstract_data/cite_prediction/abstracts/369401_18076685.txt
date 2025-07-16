@@ -1,0 +1,2 @@
+Semi Automatic Development of FarsNet ; The Persian WordNet
+This paper describes the development process of FarsNet; a lexical ontology for the Persian language. FarsNet is designed to contain a Persian WordNet with about 10000 synsets in its first phase and grow to cover verbs' argument structures and their selectional restrictions in its second phase. In this paper we discuss the semi-automatic approach to create the first phase: the Persian WordNet.

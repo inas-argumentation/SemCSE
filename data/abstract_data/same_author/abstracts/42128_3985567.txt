@@ -1,0 +1,4 @@
+Metadata Management in Outsourced Encrypted Databases
+Database outsourcing is becoming increasingly popular introducing a new paradigm, called database-as-a-service, where a client’s database is stored at an external service provider. Outsourcing databases to external providers promises higher availability and more effective disaster protection than in-house operations. This scenario presents new research challenges on which the usability of the system is based. In particular, one important aspect is the metadata that must be provided to support the proper working of the system. 
+ 
+In this paper, we illustrate the metadata that are needed, at the client and server, to store and retrieve mapping information for processing a query issued by a client application to the server storing the outsourced database. We also present an approach to develop an efficient access control technique and the corresponding metadata needed for its enforcement.

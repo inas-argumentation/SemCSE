@@ -1,0 +1,2 @@
+The Metro Map Layout Problem
+We initiate a new problem of automatic metro map layout. In general, a metro map consists of a set of lines which have intersections or overlaps. We define a set of aesthetic criteria for good metro map layouts and present a method to produce such layouts automatically. Our method uses a variation of the spring algorithm with a suitable preprocessing step. The experimental results with real world data sets show that our method produces good metro map layouts quickly.

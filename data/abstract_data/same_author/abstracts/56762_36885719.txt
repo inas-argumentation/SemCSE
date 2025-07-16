@@ -1,0 +1,2 @@
+Exception Handling in C Programs
+This paper describes a software package which has been constructed to allow programs written in the C language to make use of exception handling facilities. The package is implemented as a set of macros and procedures and requires no modification to the C compiler or preprocessor. The operation of the package and its facilities are described, and practical experience of its use is presented. The code in the package is given in the appendix.

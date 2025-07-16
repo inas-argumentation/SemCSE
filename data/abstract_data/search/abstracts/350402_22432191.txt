@@ -1,0 +1,2 @@
+A review of the main inverter topologies applied on the integration of renewable energy resources to the grid
+This paper describes the main inverter topologies intended to connect the renewable energy resources to the grid utility. It shows the circuit configuration of the fullbridge three phase inverter, flyback inverter, Z Source inverter and neutral point clamped inverter, and it also discusses their advantages and disadvantages for each application. At last, a list of non common topologies that handle specific issues of renewable resources is presented.

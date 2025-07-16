@@ -1,0 +1,2 @@
+A perturbation-aware noise convergence methodology for high frequency microprocessors
+We present a practical flow that automates the process of analyzing noise failures and determining and implementing the most appropriate design fixes in high performance designs. For each noise problem, the flow implicitly identifies the most sensitive relevant electrical parameter(s) which it then maps to a physical solution that minimizes design perturbation. Integrated with standard physical synthesis, it was used extensively in a high volume 90 nm multi-GHz microprocessor project.

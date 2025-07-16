@@ -1,0 +1,2 @@
+A Comparison of Point Counting methods for Hyperelliptic Curves over Prime Fields and Fields of Characteristic 2
+Computing the order of the Jacobian of a hyperelliptic curve remains a hard problem. It is usually essential to calculate the order of the Jacobian to prevent certain sub-exponential attacks on the cryptosystem. This paper reports on the viability of implementations of various point-counting techniques. We also report on the scalability of the algorithms as the fields grow larger.

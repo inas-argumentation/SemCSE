@@ -1,0 +1,2 @@
+An Organic Architecture for Traffic Light Controllers
+Efficient control of traffic networks is a complex but important task. A successful network management vitally depends on the abilities of the traffic light controllers to adapt to changing traffic situations. In this paper a control architecture for traffic nodes is presented that is inspired by the principles of Organic Computing. It allows a node to quickly adapt to changing traffic situations and enables it to autonomously learn new control strategies if necessary.

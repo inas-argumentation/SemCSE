@@ -1,0 +1,2 @@
+Nonlinear parabolic SPDEs involving Dirichlet operators
+We study the problem of existence, uniqueness and regularity of probabilistic solutions of the Cauchy problem for nonlinear stochastic partial differential equations involving operators corresponding to regular (nonsymmetric) Dirichlet forms. In proofs we combine the methods of backward doubly stochastic differential equations with those of probabilistic potential theory and Dirichlet forms.

@@ -1,0 +1,2 @@
+A rule-based Home Energy Management System using the Rete algorithm
+In this paper, we propose a rule-based Home Energy Management System (HEMS) using the Rete algorithm. In the proposed system, rules for managing energy are processed by smart taps in network, and the loads for processing rules and collecting data are distributed to smart taps. In addition, the number of processes and collecting data are reduced by processing rules based on the Rete algorithm.

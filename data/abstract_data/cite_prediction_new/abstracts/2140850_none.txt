@@ -1,0 +1,2 @@
+Low loss IGBT with Partially Narrow Mesa Structure (PNM-IGBT)
+A PNM (Partially Narrow Mesa) -IGBT with a fundamentally new surface is proposed for the first time. The unique gate shape looks like a “vase” and generates an extreme injection enhancement. Its performance approaches the limits of Si-IGBT. Therefore, PNM-IGBT is able to contribute to the saturation voltage reduction and the improvement of Vce(sat)-Eoff trade off. Furthermore, it can be adapted to actual conditions because of its sufficiently rugged structure.

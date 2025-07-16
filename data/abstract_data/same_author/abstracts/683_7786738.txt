@@ -1,0 +1,2 @@
+A Modified Multi-Secret Sharing Visual Cryptography Scheme
+A modified threshold visual cryptography scheme (k, l, n)-VCS is proposed, which is used to analyze the relationship between the pixel expansion and the range of the participants¿ number. Based on (k, l, n)-VCS, a more precise definition of multi-secret sharing visual cryptography scheme is given, and a new method is presented. Experimental results demonstrate that both pixel expansion and relative difference of this method are better than those of the previous ones.

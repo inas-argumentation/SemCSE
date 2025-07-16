@@ -1,0 +1,27 @@
+Comparison of Paragram and GloVe Results for Similarity Benchmarks
+Distributional Semantics Models(DSM) derive word space from linguistic items
+in context. Meaning is obtained by defining a distance measure between vectors
+corresponding to lexical entities. Such vectors present several problems. This
+work concentrates on quality of word embeddings, improvement of word embedding
+vectors, applicability of a novel similarity metric used ‘on top’ of the
+word embeddings. In this paper we provide comparison between two methods
+for post process improvements to the baseline DSM vectors. The counter-fitting
+method which enforces antonymy and synonymy constraints into the Paragram
+vector space representations recently showed improvement in the vectors’ capability
+for judging semantic similarity. The second method is our novel RESM
+method applied to GloVe baseline vectors. By applying the hubness reduction
+method, implementing relational knowledge into the model by retrofitting synonyms
+and providing a new ranking similarity definition RESM that gives maximum
+weight to the top vector component values we equal the results for the ESL
+and TOEFL sets in comparison with our calculations using the Paragram and Paragram
++ Counter-fitting methods. For SIMLEX-999 gold standard since we cannot
+use the RESM the results using GloVe and PPDB are significantly worse compared
+to Paragram. Apparently, counter-fitting corrects hubness. The Paragram
+or our cosine retrofitting method are state-of-the-art results for the SIMLEX-999
+gold standard. They are 0.2 better for SIMLEX-999 than word2vec with sense
+de-conflation (that was announced to be state-of the-art method for less reliable
+gold standards). Apparently relational knowledge and counter-fitting is more important
+for judging semantic similarity than sense determination for words. It is to
+be mentioned, though that Paragram hyperparameters are fitted to SIMLEX-999
+results. The lesson is that many corrections to word embeddings are necessary
+and methods with more parameters and hyperparameters perform better.

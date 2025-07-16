@@ -1,0 +1,2 @@
+A Novel Nonlinear Neural Network Ensemble Model for Financial Time Series Forecasting
+In this study, a new nonlinear neural network ensemble model is proposed for financial time series forecasting. In this model, many different neural network models are first generated. Then the principal component analysis technique is used to select the appropriate ensemble members. Finally, the support vector machine regression method is used for neural network ensemble. For further illustration, two real financial time series are used for testing.

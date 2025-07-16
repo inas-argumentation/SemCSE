@@ -1,0 +1,15 @@
+SU-F-T-401: Three-Dimensional Conformal Planning Using Low-Segment Multi-Criteria Optimization for Hippocampal Avoidance Whole Brain Radiotherapy.
+PURPOSE
+Hippocampus avoidance whole brain radiotherapy (HA-WBRT) has been shown to reduce the risk of neurocognitive dysfunction. This type of treatment has the potential of insurance company payment denial due to increased cost of intensity modulated radiotherapy (IMRT), while the accepted modality for WBRT is three-dimensional conformal radiotherapy (3DCRT). The purpose of this study is to assess HA-WBRT treatment plans using 3DCRT and multi-criteria optimization (MCO) that meets the RTOG 0933 criteria.
+
+
+METHODS
+Ten patients with brain metastases at least 0.5cm away from the hippocampal avoidance region as defined in RTOG 0933 were selected in this study. HA-WBRT treatment plans with MCO 3DCRT technique (MCO-3D) was generated with beam arrangements and dose constraints following the RTOG 0933 guidelines. MCO-3D plans were compared with plans using MCO IMRT techniques (MCO-IMRT) with same beam arrangements and dose constraints. Evaluation parameters included D98% D2% and dose homogeneity index of PTV, and Dmax and D100% of the hippocampi. The OAR doses were also evaluated.
+
+
+RESULTS
+For MCO-IMRT plans, PTV D2% and hippocampi Dmax and D100% met RTOG 0933 objectives in all ten patients (PTV D2%<37.5Gy; Hippocampi Dmax<16Gy and D100%<9Gy). One patient met the RTOG 0933 PTV D98% objective (PTV D98%>25Gy) and 9/10 patients met acceptable variation (PTV D98%<25Gy). For MCO-3D plans, PTV D2% met RTOG 0933 objective for all patients; 1/10 patient for PTV D98% and 6/10 patients for Hippocampi Dmax and 7/10 patients for hippocampi D100% met RTOG 0933 objective. All the other patients met the RTOG 0933 acceptable variation requirement. (PTV D98%<25Gy; Hippocampi Dmax<17Gy and D100%<10Gy).
+
+
+CONCLUSION
+All dosimetric parameters of MCO-3D plans met the criteria of at least acceptable variation per RTOG 0933. This may be helpful in cases where there is denial of patient's medical insurance coverage due to the use of IMRT for HA-WBRT.

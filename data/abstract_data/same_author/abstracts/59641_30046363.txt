@@ -1,0 +1,2 @@
+Web Information Retrieval with Result Set Clustering
+Existing web IR systems where users have to describe information needs using terms and operators are not without problems. Particularly, they fail in helping users with information needs that are broad, vague, or hard to express through a set of keywords. This paper reports our work on enhancing a web search engine with a clustering interface. Our algorithm builds an index with the textual descriptions from search results and uses term subsumption to derive a cluster hierarchy.

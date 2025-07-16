@@ -1,0 +1,2 @@
+DFA on AES
+In this paper we describe two different DFA attacks on the AES. The first one uses a theoretical fault model that induces a fault on only one bit of an intermediate result, hence allowing us to obtain the key by using 50 faulty ciphertexts for an AES-128. The second attack uses a more realistic fault model: we assume that we may induce a fault on a whole byte. For an AES-128, this second attack provides the key by using less than 250 faulty ciphertexts.

@@ -1,0 +1,2 @@
+A note on the semiparametric approach to dimension reduction
+In this note, we present a theoretical result which relaxes a critical condition required by the semiparametric approach to dimension reduction. The asymptotic normality of the estimators still maintains under weaker assumptions. This improvement greatly increases the applicability of the semiparametric approach.

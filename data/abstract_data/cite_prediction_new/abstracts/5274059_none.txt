@@ -1,0 +1,2 @@
+Two new two-pair structures for the realization of digital filters in the pure ladder form
+Recently, Mitra, Kamat and Huey ("Cascaded lattice realization of digital filters," Int. J. Circuit meory Appl vol. 5, pp 3-11, 1977) have presented a new canonic realization method using the two-pair concept which leads to structures with pure ladder forms. This letter presents two new two-pair structures which allow one to synthesize digital transfer functions and which have identical properties to those proposed in that work.

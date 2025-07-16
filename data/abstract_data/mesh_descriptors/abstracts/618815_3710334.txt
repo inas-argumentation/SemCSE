@@ -1,0 +1,15 @@
+Default-mode network and deep gray-matter analysis in neuromyelitis optica patients.
+OBJECTIVE
+The aim of our study was to detect functional changes in default-mode network of neuromyelitis optica (NMO) patients using resting-state functional magnetic resonance images and the evaluation of subcortical gray-matter structures volumes.
+
+
+MATERIALS AND METHODS
+NMO patients (n=28) and controls patients (n=19) were enrolled. We used the integrated registration and segmentation tool, part of FMRIB's Software Library (FSL) to segment subcortical structures including the thalamus, caudate nucleus, putamen, hippocampus and amygdalae. Resting-state functional magnetic resonance images were post-processed using the Multivariate Exploratory Linear Optimized Decomposition into Independent Components, also part of FSL. Average Z-values extracted from the default-mode network were compared between patients and controls using t-tests (P values <0.05 were considered statistically significant).
+
+
+RESULTS
+There were areas of increased synchronization in the default-mode network of patients compared to controls, notably in the precuneus and right hippocampus (corrected P<0.01). The frontal area had decreased synchronization in patients compared to controls (corrected P<0.01). There were no observed differences between patients and controls in subcortical volumes or average Z-values values for default-mode network.
+
+
+CONCLUSION
+The hyperactivity of certain default-mode network areas may reflect cortical compensation for subtle structural damage in NMO patients.

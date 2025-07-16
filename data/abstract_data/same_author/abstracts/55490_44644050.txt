@@ -1,0 +1,2 @@
+Three-Dimensional Orthogonal Graph Drawing with Optimal Volume
+In this paper, we study three-dimensional orthogonal box-drawings of graphs without loops. We provide lower bounds for three scenarios: (1) drawings where vertices have bounded aspect ratio, (2) drawings where the surface of vertices is proportional to their degree, and (3) drawings without any such restrictions. Then we give constructions that match the lower bounds in all scenarios within an order of magnitude.

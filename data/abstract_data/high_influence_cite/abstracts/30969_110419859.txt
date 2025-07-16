@@ -1,0 +1,2 @@
+Boosted Features for Face Authentication
+Boosted features developed using face signatures in combination with Gentle Adaboost algorithm offer alternative features for face authentication and face recognition. Face signatures are face representations extracted from Trace transform and Gentle Adaboost is used to enhance the performance of the features extracted from the face signatures. In this paper, we demonstrate the usefulness of the constructed features with experiments on BANCA database.

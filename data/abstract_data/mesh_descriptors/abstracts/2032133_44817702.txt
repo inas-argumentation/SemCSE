@@ -1,0 +1,15 @@
+[Role of store-operated Ca2+ channels in ethanol-induced intracellular Ca2+ increase in HepG2 cells].
+OBJECTIVE
+To investigate the mechanism of ethanol-induced calcium overload in hepatocytes and the related role of store-operated calcium channels (SOCs).
+
+
+METHODS
+HepG2 cells were treated an ethanol concentration gradient with or without intervention treatment with the extracellular calcium chelator EGTA or the SOCs inhibitor 2-aminoethoxydiphenyl borate (2-APB). Effects on cell viability were assessed by the CCK8 assay. Effects on leakage of alanine aminotransferase (ALT) and aspartate aminotransferase (AST) were determined by automatic biochemical analyzer measurements of the culture supernatants. Effects on cytoplasmic free Ca2+ concentration ([Ca2+]i) were accessed by detecting fluorescence intensity of the calcium indicator Fluo-3/AM with a flow cytometer. Effects on mRNA and protein expression levels of SOCs, stromal interacting factor 1 (STIM1), and calcium release-activated calcium channel protein 1 (Orai1) were evaluated by qPCR and western blotting.
+
+
+RESULTS
+The ethanol treatment produced dose-dependent reduction in cell viability (r = -0.985, P less than 0.01) and increases in leakage of ALT (F = 15.286, P less than 0.01) and AST (F = 39.674, P less than 0.01). Compared to untreated controls, the ethanol treatments of 25, 50, 100, 200 and 400 mM induced significant increases in [Ca2+]i level (1.25+/-0.36, 1.31+/-0.15, 1.41+/-0.18, 2.29+/-0.25, 2.58+/-0.19; F = 15.286, P less than 0.01). Both intervention treatments, EGTA and 2-APB, significantly reduced the 200 mM ethanol treatment-induced [Ca2+]i increase (2.32+/-0.08 reduced to 1.79+/-0.15 (t = 7.201, P less than 0.01) and 1.86+/-0.09 (t = 8.183, P less than 0.01) respectively). EGTA and 2-APB also increased the ethanol-treated cells' viability and reduced the ALT and AST leakage. The 200 mM ethanol treatment stimulated both gene and protein expression of STIM1 and Orai1, and the up-regulation effect lasted at least 72 h after treatment.
+
+
+CONCLUSION
+Ethanol-induced dysregulation of SOCs may be an important molecular mechanism of ethanol-induced [Ca2+]i rise in hepatocytes and the related liver cell injury.

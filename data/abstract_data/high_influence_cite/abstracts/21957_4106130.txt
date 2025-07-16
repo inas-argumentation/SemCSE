@@ -1,0 +1,2 @@
+Assessment of Single Cell RNA-Seq Normalization Methods
+We have assessed the performance of seven normalization methods for single cell RNA-seq using data generated from dilution of RNA samples. Our analyses showed that methods considering spike-in External RNA Control Consortium (ERCC) RNA molecules significantly outperformed those not considering ERCCs. This work provides a guidance of selecting normalization methods to remove technical noise in single cell RNA-seq data.

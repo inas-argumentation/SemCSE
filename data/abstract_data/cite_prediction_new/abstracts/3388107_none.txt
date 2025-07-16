@@ -1,0 +1,2 @@
+Collaborative Adaptive Learning using Hybrid Filters
+A novel stable and robust algorithm for training of finite impulse response adaptive filters is proposed. This is achieved based on a convex combination of the least mean square (LMS) and a recently proposed generalised normalised gradient descent (GNGD) algorithm. In this way, the desirable fast convergence and stability of GNGD is combined with the robustness and small steady state misadjustment of LMS. Simulations on linear and nonlinear signals in the prediction setting support the analysis.

@@ -1,0 +1,2 @@
+Computing Perimeters of Regions in Images Represented by Quadtrees
+An algorithm is presented for computing the total perimeter of a region in a binary image represented by a quadtree. The algorithm explores each segment of the boundary of the region once and only once. Analysis of the algorithm shows that its average execution time is proportional to the number of leaf nodes in the quadtree.

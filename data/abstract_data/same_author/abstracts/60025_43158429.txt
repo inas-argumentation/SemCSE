@@ -1,0 +1,2 @@
+Impartiality, Justice and Fairness: The Ethics of Concurrent Termination
+The method of well founded structures for proving termination of programs is extended to concurrent programs. The more complicated case is when a program terminates only for fair executions. Different versions of fairness are introduced: Impartiality, Fairness and Justice, and Methods for proving their termination are presented.

@@ -1,0 +1,2 @@
+Gaussian and mean curvatures of rational Bézier patches
+This note derives formulae for Gaussian and mean curvatures for rational Bezier surface patches. The formulae are expressed in terms of simple geometric quantities (lengths and areas) obtained from the control mesh. These formulae provide more geometric intuition and are easier to compute than the generic formulae from differential geometry. Both the tensor product and triangular patch cases are addressed.

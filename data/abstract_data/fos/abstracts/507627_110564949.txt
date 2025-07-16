@@ -1,0 +1,2 @@
+HYPPOCAMPUS: a hypercard graphic interface toward CAMAC and VME
+The authors have implemented the standard ESONE CAMAC routines as hypercard external functions (XFCNs), using MPW 3.1 Pascal. The routines are available in a demo stack, HYPPOCAMPUS (hypercard power for CAMAC pushbutton), which is the software equivalent of the CAMAC Manual Controller. A simple VME interface is also provided. >

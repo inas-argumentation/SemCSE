@@ -1,0 +1,2 @@
+On the Possibility of One-Message Weak Zero-Knowledge
+We investigate whether it is possible to obtain any meaningful type of zero-knowledge proofs using a one-message (i.e., non-interactive) proof system. We show that, under reasonable (although not standard) assumptions, there exists a one-message proof system for every language in NP that satisfies the following relaxed form of zero knowledge:

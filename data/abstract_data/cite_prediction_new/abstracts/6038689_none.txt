@@ -1,0 +1,2 @@
+A lyapunov function and global properties for sir and seir epidemiological models with nonlinear incidence.
+Explicit Lyapunov functions for SIR and SEIR compartmental epidemic models with nonlinear incidence of the form betaI(p)S(q) for the case p </= 1 are constructed. Global stability of the models is thereby established.

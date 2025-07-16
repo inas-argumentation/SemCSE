@@ -1,0 +1,2 @@
+A Short Note on Proximity based Scoring of Documents with Multiple Fields
+The BM25 ranking function is one of the most well known query relevance document scoring functions and many variations of it are proposed. The BM25F function is one of its adaptations designed for modeling documents with multiple fields. The Expanded Span method extends a BM25 like function by taking into considerations of the proximity between term occurrences. In this note, we combine these two variations into one scoring method in view of proximity based scoring of documents with multiple fields.

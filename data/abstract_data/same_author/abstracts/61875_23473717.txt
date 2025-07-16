@@ -1,0 +1,7 @@
+FigSearch: a figure legend indexing and classification system
+UNLABELLED
+FigSearch is a prototype text-mining and classification system for figures from any corpus of full-text biological papers. The system allows users to search for figures that contain genes of interest and illustrate protein interactions. The retrieved figures are ranked by a score representing the likelihood to be of a certain type, in this case, schematic illustrations of protein interactions and signaling events. The system contains a Web interface for search, a module for classification of figures based on vector representations of figure legends and a module for indexing gene names. In a preliminary validation, the FigSearch system showed satisfactory performance according to domain experts in providing the most relevant graphical representations. This strategy may be easily extended to other figure types. Moreover, as more full-text data become available, such a system will find increased usefulness in identifying and presenting compressed biological knowledge.
+
+
+AVAILABILITY
+A searchable Web interface, FigSearch, is accessible via http://pubgeneserver.uio.no/figsearch/ for all figures from the available corpus.

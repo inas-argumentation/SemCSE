@@ -1,0 +1,19 @@
+Overestimating outcome rates: statistical estimation when reliability is suboptimal.
+OBJECTIVE
+To demonstrate how failure to account for measurement error in an outcome (dependent) variable can lead to significant estimation errors and to illustrate ways to recognize and avoid these errors.
+
+
+DATA SOURCES
+Medical literature and simulation models.
+
+
+STUDY DESIGN/DATA COLLECTION
+Systematic review of the published and unpublished epidemiological literature on the rate of preventable hospital deaths and statistical simulation of potential estimation errors based on data from these studies.
+
+
+PRINCIPAL FINDINGS
+Most estimates of the rate of preventable deaths in U.S. hospitals rely upon classifying cases using one to three physician reviewers (implicit review). Because this method has low to moderate reliability, estimates based on statistical methods that do not account for error in the measurement of a "preventable death" can result in significant overestimation. For example, relying on a majority rule rating with three reviewers per case (reliability approximately 0.45 for the average of three reviewers) can result in a 50-100 percent overestimation compared with an estimate based upon a reliably measured outcome (e.g., by using 50 reviewers per case). However, there are statistical methods that account for measurement error that can produce much more accurate estimates of outcome rates without requiring a large number of measurements per case.
+
+
+CONCLUSION
+The statistical principles discussed in this case study are critically important whenever one seeks to estimate the proportion of cases belonging to specific categories (such as estimating how many patients have inadequate blood pressure control or identifying high-cost or low-quality physicians). When the true outcome rate is low (<20 percent), using an outcome measure that has low-to-moderate reliability will generally result in substantially overestimating the proportion of the population having the outcome unless statistical methods that adjust for measurement error are used.

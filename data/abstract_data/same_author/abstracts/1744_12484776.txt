@@ -1,0 +1,2 @@
+Revolute Quadric Decomposition of Canal Surfaces and Its Applications
+Surfaces subdivision is an important means for geometric computing of surfaces in CAD. This paper proposes a new quadric subdivision for canal surfaces in this paper, RQ-sphere decomposition, that subdivides canal surfaces as a set of truncated revolute quadric with joint spheres. Experimental results show that the RQ-sphere decomposition is better than existing methods.

@@ -1,0 +1,32 @@
+Plume propagation direction determination with SO 2 cameras
+SO2 cameras are becoming an established tool for measuring sulfur dioxide
+(SO2) fluxes in volcanic plumes with good precision and high temporal
+resolution. The primary result of SO2 camera measurements are time series
+of two-dimensional SO2 column density distributions (i.e. SO2 column
+density images). However, it is frequently overlooked that, in order to
+determine the correct SO2 fluxes, not only the SO2 column density, but
+also the distance between the camera and the volcanic plume, has to be
+precisely known. This is because cameras only measure angular extents of
+objects while flux measurements require knowledge of the spatial plume
+extent. The distance to the plume may vary within the image array (i.e. the
+field of view of the SO2 camera) since the plume propagation direction
+(i.e. the wind direction) might not be parallel to the image plane of the
+SO2 camera. If the wind direction and thus the camera–plume distance are
+not well known, this error propagates into the determined SO2 fluxes and
+can cause errors exceeding 50 %. This is a source of error which is
+independent of the frequently quoted (approximate) compensation of apparently
+higher SO2 column densities and apparently lower plume propagation
+velocities at non-perpendicular plume observation angles.Here, we propose a new method to estimate the propagation direction of the
+volcanic plume directly from SO2 camera image time series by analysing
+apparent flux gradients along the image plane. From the plume propagation
+direction and the known location of the SO2 source (i.e. volcanic vent)
+and camera position, the camera–plume distance can be determined. Besides
+being able to determine the plume propagation direction and thus the wind
+direction in the plume region directly from SO2 camera images, we
+additionally found that it is possible to detect changes of the propagation
+direction at a time resolution of the order of minutes. In addition to
+theoretical studies we applied our method to SO2 flux measurements at
+Mt Etna and demonstrate that we obtain considerably more precise (up to a
+factor of 2 error reduction) SO2 fluxes. We conclude that studies on
+SO2 flux variability become more reliable by excluding the possible
+influences of propagation direction variations.

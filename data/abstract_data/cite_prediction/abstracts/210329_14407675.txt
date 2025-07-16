@@ -1,0 +1,2 @@
+IoT gateway - implementation proposal based on Arduino board
+The paper presents proposal of practical implementation simple IoT gateway based on Arduino microcontroller, dedicated to use in home IoT environment. Authors are concentrated on research of performance and security aspects of created system. By performed load tests and denial of service attack were investigated performance and capacity limits of implemented gateway.

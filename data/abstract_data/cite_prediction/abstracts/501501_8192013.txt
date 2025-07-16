@@ -1,0 +1,2 @@
+The implementation of a full EMV smartcard for a point-of-sale transaction
+This paper examines the changes in the payment card environment as they relate to EMV (named after Europay, MasterCard and Visa). This research shows that if the combined dynamic data authentication (CDA) card variant of the EMV card is deployed in a full EMV environment, given the relevant known vulnerabilities and attacks against the EMV technology, the consequences of unauthorized disclosure of the cardholder data is of significantly reduced value to a criminal.

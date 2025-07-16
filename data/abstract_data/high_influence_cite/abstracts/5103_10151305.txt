@@ -1,0 +1,2 @@
+Solvation model dependency of helix-coil transition in polyalanine.
+Helix-coil transitions in polyalanine molecules of length 10 are studied by multi-canonical Monte Carlo simulations. The solvation effects are included by either a distance-dependent dielectric permittivity or by a term that is proportional to the solvent-accessible surface area of the peptide. We found a strong dependence of the characteristics of the helix-coil transition from the details of the solvation model.

@@ -1,0 +1,2 @@
+Service Continuity in Networked Control Using Etherware
+Service continuity is the capability to provide persistent and reliable service, with graceful degradation in the presence of changes. This is particularly important for networked control systems interacting with the real world, as they have strict safety requirements and must tolerate changes such as component failures and upgrades while maintaining operational integrity. The authors describe how they address these issues in Etherware, their middleware for networked control.

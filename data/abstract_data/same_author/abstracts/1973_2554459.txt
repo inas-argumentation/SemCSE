@@ -1,0 +1,11 @@
+Refinement of optical map assemblies
+MOTIVATION
+Genomic mutations and variations provide insightful information about the functionality of sequence elements and their association with human diseases. Traditionally, variations are identified through analysis of short DNA sequences, usually shorter than 1000 bp per fragment. Optical maps provide both faster and more cost-efficient means for detecting such differences, because a single map can span over 1 million bp. Optical maps are assembled to cover the whole genome, and the accuracy of assembly is critical.
+
+
+RESULTS
+We present a computationally efficient model-based method for improving quality of such assemblies. Our method provides very high accuracy even with moderate coverage (<20 x). We utilize a hidden Markov model to represent the consensus map and use the expectation-Maximization algorithm to drive the refinement process. We also provide quality scores to assess the quality of the finished map.
+
+
+AVAILABILITY
+Code is available from www.cmb.usc.edu/people/valouev/

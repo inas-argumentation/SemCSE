@@ -1,0 +1,2 @@
+MOCA: a lightweight mobile cloud offloading architecture
+We present our work on MOCA, a lightweight Mobile Cloud Offloading Architecture, which uses an in-network cloud platform to provide offloading resources. MOCA integrates with existing mobile network architectures without requiring significant changes, and utilizes software defined networking techniques in the data plane to redirect appropriate traffic to and from the cloud platform. We show the feasibility of MOCA by a prototype implementation using a LTE/EPC mobile testbed.

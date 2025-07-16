@@ -1,0 +1,6 @@
+Network robustness as a mathematical property: training, evaluation and attack
+Neural networks are widely used in AI for their ability to detect general patterns in noisy data. Paradoxically, by default they are also known to not be particularly robust, i.e. moving a small distance in the input space can result in the network's output changing significantly.
+Many methods for improving neural network robustness have been proposed recently. This growing body of research gave rise to numerous explicit or implicit notions of robustness.  Connections between these notions are often subtle, and a systematic comparison of these different definitions was lacking in the literature.
+In this paper we attempt to address this gap by performing an in-depth comparison of the different definitions of robustness, by analysing their relationships, assumptions, interpretability and verifiability.
+By abstracting robustness as a stand-alone mathematical property, we are able to show that, having a choice of several  definitions of robustness, one can combine them in a modular way when defining training modes, evaluation metrics, and attacks on neural networks.
+We also perform experiments to compare the applicability and efficacy of different training methods for ensuring the network obeys these different definitions.

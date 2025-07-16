@@ -1,0 +1,15 @@
+Conditional survival in patients with thyroid cancer.
+BACKGROUND
+Thyroid cancer is an increasingly common malignancy. Although likelihood of survival from well-differentiated thyroid cancer can vary by disease severity, it is not known how patients' life expectancies change the farther they are from time of diagnosis.
+
+
+METHODS
+Using data from the Surveillance, Epidemiology, End Results (SEER) registry, we selected patients diagnosed with well-differentiated thyroid cancer (N=43,392) between 1998 and 2005. Patients were followed for up to 12 years. Conditional survival estimates by SEER stage and age were obtained based on Cox proportional hazards regression model of disease-specific survival.
+
+
+RESULTS
+Patients with localized thyroid cancer have excellent conditional 5-year survival, irrespective of where they are in their survivorship phase. Patients with regional thyroid cancer have relatively stable conditional 5-year survival, whereas for patients with distant thyroid cancer there is gradual improvement the farther from time of diagnosis. Age and gender influence conditional survival. Similarly, age has a strong effect on disease-specific survival for patients with thyroid cancer with localized (hazard ratio [HR] 88.7 [95% confidence interval {CI} 26.3-552), comparing age ≥80 with <30 years), regional (HR 105 [95% CI 52.6-250]), and distant disease [HR 86.8 (95% CI 32.5-354)]. Male gender is also associated with a significantly worse disease-specific survival among patients with regional disease (HR 1.56 [95% CI 1.31-1.85]) but not among patients with localized or distant disease.
+
+
+CONCLUSION
+Cancer stage, gender, age at diagnosis, and length of time already survived can influence conditional survival for patients with thyroid cancer. Understanding the conditional 5-year disease-specific survival of well-differentiated thyroid cancer is key to creating treatment plans and tailoring surveillance.

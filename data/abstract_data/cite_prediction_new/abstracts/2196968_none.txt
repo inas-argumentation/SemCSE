@@ -1,0 +1,2 @@
+Impact of mechanical stress on interface trap generation in Flash EEPROMs
+We show that the compressive mechanical stress in the channel of a Flash EEPROM cell degrades data retention characteristics through the generation and recovery of traps at the tunnel-oxide/Si substrate interface. To demonstrate this, we measured the mechanical stress and interface trap density in 0.15 /spl mu/m-rule NOR cells using convergent-beam electron diffraction and charge pumping methods. Hydrogen atoms, another possible factor, had less influence than mechanical stress.

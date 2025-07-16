@@ -1,0 +1,5 @@
+Mime: Mimicking Centralized Stochastic Algorithms in Federated Learning
+Federated learning is a challenging optimization problem due to the heterogeneity of the data across different clients. Such heterogeneity has been observed to induce \emph{client drift} and significantly degrade the performance of algorithms designed for this setting.
+In contrast, centralized learning with centrally collected data does not experience such drift, and has seen great empirical and theoretical progress with innovations such as momentum, adaptivity, etc.
+In this work, we propose a general framework {\sc Mime} which mitigates client-drift and adapts arbitrary centralized optimization algorithms (e.g. SGD, Adam, etc.) to federated learning.
+{\sc Mime} uses a combination of \emph{control-variates} and \emph{server-level statistics} (e.g. momentum) at every client-update step to ensure that each local update mimics that of the centralized method. Our thorough theoretical and empirical analyses strongly establish \mime's superiority over other baselines.

@@ -1,0 +1,2 @@
+Elimination trees and the construction of pools and stacks: preliminary version
+Shared pools and stacks are two coordination structures with a history of applications ranging from simple producer/consumer buffers to job-schedulers and procedure stacks. This paper introduces elimination trees, a novel form of diffracting trees that offer pool and stack implementations with superior response (on average constant) under high loads, while guaranteeing logarithmic time “deterministic” termination under sparse request patterns. Dan Touitou

@@ -1,0 +1,2 @@
+New leakage-resilient CCA-secure public key encryption
+. This paper shows a generic method of constructing CCA-secure public key encryption schemes with leakage-resilience on the secret key. It is based on a new kind of universal2 hash proof system which accepts an auxiliary parameter. Specifically, two schemes are presented, basing on the DCR assumption and DLIN assumption respectively.

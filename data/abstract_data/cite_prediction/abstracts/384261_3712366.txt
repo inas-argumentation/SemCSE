@@ -1,0 +1,11 @@
+Joint 3-D vessel segmentation and centerline extraction using oblique Hough forests with steerable filters
+CONTRIBUTIONS
+We propose a novel framework for joint 3-D vessel segmentation and centerline extraction. The approach is based on multivariate Hough voting and oblique random forests (RFs) that we learn from noisy annotations. It relies on steerable filters for the efficient computation of local image features at different scales and orientations.
+
+
+EXPERIMENTS
+We validate both the segmentation performance and the centerline accuracy of our approach both on synthetic vascular data and four 3-D imaging datasets of the rat visual cortex at 700 nm resolution. First, we evaluate the most important structural components of our approach: (1) Orthogonal subspace filtering in comparison to steerable filters that show, qualitatively, similarities to the eigenspace filters learned from local image patches. (2) Standard RF against oblique RF. Second, we compare the overall approach to different state-of-the-art methods for (1) vessel segmentation based on optimally oriented flux (OOF) and the eigenstructure of the Hessian, and (2) centerline extraction based on homotopic skeletonization and geodesic path tracing.
+
+
+RESULTS
+Our experiments reveal the benefit of steerable over eigenspace filters as well as the advantage of oblique split directions over univariate orthogonal splits. We further show that the learning-based approach outperforms different state-of-the-art methods and proves highly accurate and robust with regard to both vessel segmentation and centerline extraction in spite of the high level of label noise in the training data.

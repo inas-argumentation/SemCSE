@@ -1,0 +1,2 @@
+A Complexity Reduced Blind Channel Equalization Scheme for OFDM Systems
+To enhance the bandwidth efficiency in cyclic prefix (CP) assisted OFDM system, we propose a complexity reduced blind channel equalization scheme based on the finite alphabet property of the transmitted signal and we also present its simplification scheme in this paper. According to the numerical simulation results, our proposals can perform as well as the conventional pilot assisted frequency domain channel estimation (PFDCE) in high Eb/N0, but a little worse in low Eb/N0

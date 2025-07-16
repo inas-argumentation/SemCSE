@@ -1,0 +1,15 @@
+SU-E-J-91: FFT Based Medical Image Registration Using a Graphics Processing Unit (GPU).
+PURPOSE
+To evaluate the efficiency gains obtained from using a Graphics Processing Unit (GPU) to perform a Fourier Transform (FT) based image registration.
+
+
+METHODS
+Fourier-based image registration involves obtaining the FT of the component images, and analyzing them in Fourier space to determine the translations and rotations of one image set relative to another. An important property of FT registration is that by enlarging the images (adding additional pixels), one can obtain translations and rotations with sub-pixel resolution. The expense, however, is an increased computational time. GPUs may decrease the computational time associated with FT image registration by taking advantage of their parallel architecture to perform matrix computations much more efficiently than a Central Processor Unit (CPU). In order to evaluate the computational gains produced by a GPU, images with known translational shifts were utilized. A program was written in the Interactive Data Language (IDL; Exelis, Boulder, CO) to performCPU-based calculations. Subsequently, the program was modified using GPU bindings (Tech-X, Boulder, CO) to perform GPU-based computation on the same system. Multiple image sizes were used, ranging from 256×256 to 2304×2304. The time required to complete the full algorithm by the CPU and GPU were benchmarked and the speed increase was defined as the ratio of the CPU-to-GPU computational time.
+
+
+RESULTS
+The ratio of the CPU-to- GPU time was greater than 1.0 for all images, which indicates the GPU is performing the algorithm faster than the CPU. The smallest improvement, a 1.21 ratio, was found with the smallest image size of 256×256, and the largest speedup, a 4.25 ratio, was observed with the largest image size of 2304×2304.
+
+
+CONCLUSIONS
+GPU programming resulted in a significant decrease in computational time associated with a FT image registration algorithm. The inclusion of the GPU may provide near real-time, sub-pixel registration capability.

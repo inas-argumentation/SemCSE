@@ -1,0 +1,2 @@
+Mapping Web Usage Patterns to MDP Model and Mining with Reinforcement Learning
+For many web usage mining applications, it is crucial to compare navigation paths of different users. This paper presents a reinforcement learning based method for mining the sequential usage patterns of user behaviors. In detail, the temporal data set about every user is constructed from the web log file, and then the navigation paths of the users are modelled using the extended Markov decision process. The proposed method could learn the dynamical sequential usage patterns on-line.

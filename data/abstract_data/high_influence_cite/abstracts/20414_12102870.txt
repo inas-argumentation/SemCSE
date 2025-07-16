@@ -1,0 +1,2 @@
+A new efficient k-out-of-n Oblivious Transfer protocol
+This paper presents a new efficient protocol for k-out-of-n oblivious transfer which is a generalization of Parakh's 1-out-of-2 oblivious transfer protocol based on Diffie-Hellman key exchange. In the proposed protocol, the parties involved generate Diffie-Hellman keys obliviously and then use them for oblivious transfer of secrets.

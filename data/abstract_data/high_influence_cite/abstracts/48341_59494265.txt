@@ -1,0 +1,2 @@
+ON THURSTON’S CORE ENTROPY ALGORITHM
+The core entropy of polynomials, recently introduced by W. Thurston, is a dynamical invariant extending topological entropy for real maps to complex polynomials, whence providing a new tool to study the parameter space of polynomials. The base is a combinatorial algorithm allowing for the computation of the core entropy given by Thurston, but without supplying a proof. In this paper, we will describe his algorithm and prove its validity.

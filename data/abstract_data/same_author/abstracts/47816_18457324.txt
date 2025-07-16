@@ -1,0 +1,2 @@
+On the higher-order edge toughness of a graph
+For an integer c, 1?c??V(G)??1, we define the cth-order edge toughness of a graph G as tc(G)=min|X|?(G?X)?cX?E(G) & ?(G?X)>c The objective of this paper is to study this generalized concept of edge toughness. Besides giving the of the cth-order edge toughness ?c(G) of a graph G, we prove that `?c(G)?k if and only if G has k edge-disjoint spanning forests with exactly c components?. We also study the `balancity? of a graph G of order p and size q, which is defined as the smallest positive integer c such that ?c(G) = p/(p?c).

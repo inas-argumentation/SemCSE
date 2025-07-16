@@ -1,0 +1,2 @@
+Eigenvalue bounds in the gaps of Schrödinger operators and Jacobi matrices
+We consider C = A + B where A is selfadjoint with a gap ( a , b ) in its spectrum and B is (relatively) compact. We prove a general result allowing B of indefinite sign and apply it to obtain a ( δ V ) d / 2 bound for perturbations of suitable periodic Schrodinger operators and a (not quite) Lieb–Thirring bound for perturbations of algebro-geometric almost periodic Jacobi matrices.

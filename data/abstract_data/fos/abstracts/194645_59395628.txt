@@ -1,0 +1,2 @@
+A New Entropy Formula and Gradient Estimates for the Linear Heat Equation on Static Manifold
+In this paper we prove a new monotonicity formula for the heat equation via a generalized family of entropy functionals. This family of entropy formulas generalizes both Perelman’s entropy for evolving metric and Ni’s entropy on static manifold. We show that this entropy satisfies a pointwise differential inequality for heat kernel. The consequences of which are various gradient and Harnack estimates for all positive solutions to the heat equation on compact manifold.

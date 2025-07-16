@@ -1,0 +1,14 @@
+Three-Dimensional Orthogonal Graph Drawing with Optimal Volume
+An orthogonal drawing of a graph is an embedding of the graph in the 
+rectangular grid, with vertices represented by axis-aligned boxes, 
+and edges represented by paths in the grid that only possibly 
+intersect at common endpoints. In this paper we study 
+three-dimensional orthogonal drawings and provide lower bounds for 
+three scenarios:
+(1) drawings where the vertices have a bounded aspect ratio, 
+(2) drawings where the surfaces of vertices are proportional to their 
+degrees, and
+(3) drawings without any such restrictions. Then we show that these 
+lower bounds are asymptotically optimal, by providing constructions
+that in all scenarios match the lower bounds within a constant 
+factor.

@@ -1,0 +1,15 @@
+EMUDRA: Ensemble of Multiple Drug Repositioning Approaches to improve prediction accuracy
+Motivation
+Availability of large-scale genomic, epigenetic and proteomic data in complex diseases makes it possible to objectively and comprehensively identify the therapeutic targets that can lead to new therapies. The Connectivity Map has been widely used to explore novel indications of existing drugs. However, the prediction accuracy of the existing methods, such as Kolmogorov-Smirnov statistic remains low. Here we present a novel high-performance drug repositioning approach that improves over the state-of-the-art methods.
+
+
+Results
+We first designed an expression weighted cosine (EWCos) method to minimize the influence of the uninformative expression changes and then developed an ensemble approach termed ensemble of multiple drug repositioning approaches (EMUDRA) to integrate EWCos and three existing state-of-the-art methods. EMUDRA significantly outperformed individual drug repositioning methods when applied to simulated and independent evaluation datasets. We predicted using EMUDRA and experimentally validated an antibiotic rifabutin as an inhibitor of cell growth in triple negative breast cancer. EMUDRA can identify drugs that more effectively target disease gene signatures and will thus be a useful tool for identifying novel therapies for complex diseases and predicting new indications for existing drugs.
+
+
+Availability and implementation
+The EMUDRA R package is available at doi: 10.7303/syn11510888.
+
+
+Supplementary information
+Supplementary data are available at Bioinformatics online.

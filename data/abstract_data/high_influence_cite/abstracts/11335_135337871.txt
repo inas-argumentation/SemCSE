@@ -1,0 +1,30 @@
+On estimating the gross primary productivity of Mediterranean grasslands under different fertilization regimes using vegetation indices and hyperspectral reflectance
+. We applied an empirical modelling approach for gross
+primary productivity (GPP) estimation from hyperspectral reflectance of
+Mediterranean grasslands undergoing different fertilization treatments. The
+objective of the study was to identify combinations of vegetation indices
+and bands that best represent GPP changes between the annual peak of growth
+and senescence dry out in Mediterranean grasslands. In situ hyperspectral reflectance of vegetation and CO2 gas exchange
+measurements were measured concurrently in unfertilized (C) and fertilized plots
+with added nitrogen (N), phosphorus (P) or the combination of N, P and
+potassium (NPK). Reflectance values were aggregated according to their
+similarity (r≥90 %) in 26 continuous wavelength intervals (Hyp). In
+addition, the same reflectance values were resampled by reproducing the
+spectral bands of both the Sentinel-2A Multispectral Instrument (S2) and Landsat
+8 Operational Land Imager (L8) and simulating the signal that would be captured in
+ideal conditions by either Sentinel-2A or Landsat 8. An optimal procedure for selection of the best subset of predictor variables
+(LEAPS) was applied to identify the most effective set of vegetation indices
+or spectral bands for GPP estimation using Hyp, S2 or L8. LEAPS selected
+vegetation indices according to their explanatory power, showing their
+importance as indicators of the dynamic changes occurring in community
+vegetation properties such as canopy water content (NDWI) or chlorophyll
+and carotenoids ∕ chlorophyll ratio (MTCI, PSRI, GNDVI) and revealing their
+usefulness for grasslands GPP estimates. For Hyp and S2, bands performed as well as vegetation indices to estimate
+GPP. To identify spectral bands with a potential for improving GPP estimates based on vegetation
+indices, we applied a two-step procedure which clearly
+indicated the short-wave infrared region of the spectra as the most relevant
+for this purpose. A comparison between S2- and L8-based models showed similar
+explanatory powers for the two simulated satellite sensors when both
+vegetation indices and bands were included in the model. Altogether, our results describe the potential of sensors on board
+Sentinel-2 and Landsat 8 satellites for monitoring grassland phenology and
+improving GPP estimates in support of a sustainable agriculture management.

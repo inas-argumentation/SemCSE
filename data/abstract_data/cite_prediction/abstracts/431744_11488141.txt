@@ -1,0 +1,2 @@
+Novel FPGA-Based Low-Cost Hardware Architecture for the PRESENT Block Cipher
+This paper presents a novel FPGA-based design for the lightweight block cipher PRESENT and its implementation results. The proposed design allows to study area-performance trade-offs and thus constructing smaller or faster implementations. When optimized by area, the proposed design exhibits smaller latency and fewer FPGA resources than representative related works in the literature.

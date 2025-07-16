@@ -1,0 +1,2 @@
+Potential of radar for static object classification using deep learning methods
+A semantic representation of the environment is extremely beneficial in enabling autonomous driving. The objects in the vehicle's surroundings must be recognized and assigned to a proper class. Redundancy is often required for safety-relevant application. This cannot be provided by a single sensor system. This study now demonstrates the potential of radar-based object recognition using deep learning methods.

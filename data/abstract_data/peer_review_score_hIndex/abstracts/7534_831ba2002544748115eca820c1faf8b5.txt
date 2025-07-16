@@ -1,0 +1,9 @@
+Latent Domain Transfer: Crossing modalities with Bridging Autoencoders
+Domain transfer is a exciting and challenging branch of machine learning because models must learn to smoothly transfer between domains, preserving local variations and capturing many aspects of variation without labels. 
+However, most successful applications to date require the two domains to be closely related (ex. image-to-image, video-video), 
+utilizing similar or shared networks to transform domain specific properties like texture, coloring, and line shapes. 
+Here, we demonstrate that it is possible to transfer across modalities (ex. image-to-audio) by first abstracting the data with latent generative models and then learning transformations between latent spaces. 
+We find that a simple variational autoencoder is able to learn a shared latent space to bridge between two generative models in an unsupervised fashion, and even between different types of models (ex. variational autoencoder and a generative adversarial network). 
+We can further impose desired semantic alignment of attributes with a linear classifier in the shared latent space. 
+The proposed variation autoencoder enables preserving both locality and semantic alignment through the transfer process, as shown in the qualitative and quantitative evaluations.
+Finally, the hierarchical structure decouples the cost of training the base generative models and semantic alignments, enabling computationally efficient and data efficient retraining of personalized mapping functions. 

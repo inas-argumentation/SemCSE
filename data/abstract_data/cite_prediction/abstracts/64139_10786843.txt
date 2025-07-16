@@ -1,0 +1,2 @@
+Asymmetric s-curve trajectory planning for robot point-to-point motion
+In this paper, we develop an asymmetric s-curve profile method with jerk bounded to obtain high-precision motion and reduce the residual vibration. All possible instances for asymmetric s-curve profile planning are analyzed. The algorithm and its implementation are proposed with a direct and complete method. Simulation results are presented to verify the effectiveness and reliability of the proposed approach.

@@ -1,0 +1,2 @@
+FRM-Based FIR Filters with Minimum Coefficient Sensitivities
+A method for optimizing FRM-based FIR filters with optimum coefficient sensitivity is presented. This technique can be used in conjunction with nonlinear optimization techniques to design very sharp filters that do not only have very sparse coefficient values but also very low coefficient sensitivity.

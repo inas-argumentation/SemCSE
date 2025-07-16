@@ -1,0 +1,2 @@
+A formula of two-partition Hodge integrals
+JMg,n where tpi = ci(L?) is the first Chern class of L?, and Xj = Cj(E) is the j-th Chern class of the Hodge bundle. The study of Hodge integrals is an important part of intersection theory on Mg,n> Hodge integrals also naturally arise when one computes Gromov-Witten invariants by localization techniques. For example, the following generating series of Hodge integrals arises when one computes local invariants of a toric Fano surface in a Calabi-Yau 3-fold by virtual localization [33]:

@@ -1,0 +1,2 @@
+BUT-HCTLab approaches for Spoken Web Search - MediaEval 2011
+We present the three approaches submitted to the Spoken Web Search. Two of them rely on Acoustic Keyword Spotting (AKWS) while the other relies on Dynamic Time Warping. Features are 3-state phone posterior. Results suggest that applying a Karhunen-Loeve transform to the log-phone posteriors representing the query to build a GMM/HMM for each query and a subsequent AKWS system performs the best.

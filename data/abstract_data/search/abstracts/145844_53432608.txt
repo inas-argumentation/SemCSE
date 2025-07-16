@@ -1,0 +1,2 @@
+Real Time Coherent Transceiver Based on 12 Bits 24 Dimensions Golay Coded Modulation
+We present a real time implementation of TX/RX DSP for a coherent transceiver based on the extended Golay coded modulation, and improve the sensitivity by 2.9dB compared to PDM BPSK at the same bit rate, and propose a partial differential method to solve the phase ambiguity problem.

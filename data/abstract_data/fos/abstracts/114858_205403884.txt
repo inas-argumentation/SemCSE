@@ -1,0 +1,2 @@
+Asymptotical stability criterion on neural networks with multiple time-varying delays
+For neural networks with multiple time-varying delays, the problems on asymptotical stability are studied in this paper. Based on the Lyapunov method and the linear matrix inequality technique, some asymptotical stability criteria with good properties are derived. Numerical examples show the effectiveness of theoretical results.

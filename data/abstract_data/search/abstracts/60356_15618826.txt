@@ -1,0 +1,2 @@
+MPEG 7 visual shape descriptors
+This paper describes techniques and tools for shape representation and matching, developed in the context of MPEG 7 standardization. The application domains for each descriptor are considered, and the contour based shape descriptor is presented in some detail. Example applications are also shown.

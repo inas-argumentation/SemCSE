@@ -1,0 +1,2 @@
+Biorthogonal pulse position modulation for time-hopping UWB systems
+In this paper, we propose a new modulation scheme called biorthogonal pulse position modulation (BPPM) for ultra-wideband (UWB) communication systems. The BPPM signals are constructed from orthogonal pulse position modulation signals. The channel capacity and error probability of BPPM are determined for a time-hopping UWB communication system. It is shown that N-ary BPPM has better performance than N-ary PPM with the same throughput and half the computational complexity.

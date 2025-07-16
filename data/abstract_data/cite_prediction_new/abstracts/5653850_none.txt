@@ -1,0 +1,15 @@
+Chest wall toxicity after hypofractionated proton beam therapy for liver malignancies.
+PURPOSE
+Normal liver-sparing with proton beam therapy (PBT) allows for dose escalation in the treatment of liver malignancies, but it may result in high doses to the chest wall (CW). CW toxicity (CWT) data after PBT for liver malignancies are limited, with most published reports describing toxicity after a combination of hypofractionated proton and photon radiation therapy. We examined the incidence and associated factors for CWT after hypofractionated PBT for liver malignancies.
+
+
+METHODS AND MATERIALS
+We retrospectively reviewed the charts of 37 consecutive patients with liver malignancies (30 hepatocellular carcinoma, 6 intrahepatic cholangiocarcinoma, and 1 metastasis) treated with hypofractionated PBT. CWT was scored using Common Terminology Criteria for Adverse Events, version 4. Receiver-operating characteristic curves were used to identify patient and dosimetric factors associated with CWT and to determine optimal dose-volume histogram parameters/cutoffs. Cox regression univariate analysis was used to associate factors to time-dependent onset of CWT.
+
+
+RESULTS
+Thirty-nine liver lesions were treated with a median dose of 60 GyE (range, 35-67.5) in 15 fractions (range, 13-20). Median follow-up was 11 months (range, 2-44). Grade ≥2 and 3 CW pain occurred in 7 (19%) and 4 (11%) patients, respectively. Median time to onset of pain was 6 months (range, 1-14). No patients had radiographic rib fracture. On univariate analysis, CW equivalent 2 Gy dose with an α/β = 3 Gy (EQD2α/β=3), V57 >20 cm3 (hazard ratio [HR], 2.7; P = .004), V63 >17 cm3 (HR, 2.7; P = .003), and V78 >8 cm3 (HR, 2.6; P = .003) had the strongest association with grade ≥2 CW pain, as did tumor dose of >75 Gy EQD2α/β=10 (HR, 8.7; P = .03). No other patient factors were associated with CWT.
+
+
+CONCLUSIONS
+CWT after hypofractionated PBT for liver malignancies is clinically relevant. For a 15-fraction regimen, V47 >20 cm3, V50 >17 cm3, and V58 >8 cm3 were associated with higher rates of CWT. Further investigation of PBT techniques to reduce CW dose are warranted.

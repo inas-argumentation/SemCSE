@@ -1,0 +1,2 @@
+A decision-theoretic approach to reliable message delivery
+Summary. We argue that the tools of decision theory should be taken more seriously in the specification and analysis of systems. We illustrate this by considering a simple problem involving reliable communication, showing how considerations of utility and probability can be used to decide when it is worth sending heartbeat messages and, if they are sent, how often they should be sent.

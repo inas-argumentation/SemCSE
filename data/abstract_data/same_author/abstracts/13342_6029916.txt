@@ -1,0 +1,10 @@
+Absence of logarithmic scaling in the ageing behaviour of the 4D spherical model
+.The non-equilibrium dynamics of the kinetic spherical model with a
+non-conserved order-parameter, quenched to T≤Tc from a fully disordered 
+initial state, is studied at its upper critical dimension
+d=d*=4. In the scaling limit where both the waiting time s and the observation 
+time t are large and the ratio y=t/s>1 is fixed, 
+the scaling functions of the two-time autocorrelation and
+autoresponse functions do not contain any logarithmic correction factors
+and the typical size of correlated domains scales for large times
+as L(t)∼t1/2.

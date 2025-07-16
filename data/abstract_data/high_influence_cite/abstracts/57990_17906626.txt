@@ -1,0 +1,2 @@
+Determining optimal neighborhood size for ecological studies using leave-one-out cross validation
+We employed a leave-one-out cross validation to determine optimally sized neighborhood. Variations between a single point and the other points within each filter size for all the points in the study area were evaluated, and the mean squared error (MSE) for each filter was calculated. The filter with the lowest MSE was considered as the optimal neighborhood. The method is useful in determining the optimal neighborhood for both geographic and population filters.

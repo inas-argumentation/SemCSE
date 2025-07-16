@@ -1,0 +1,15 @@
+Computational Prediction of Protein Epsilon Lysine Acetylation Sites Based on a Feature Selection Method.
+AIM AND OBJECTIVE
+Lysine acetylation, as one type of post-translational modifications (PTM), plays key roles in cellular regulations and can be involved in a variety of human diseases. However, it is often high-cost and time-consuming to use traditional experimental approaches to identify the lysine acetylation sites. Therefore, effective computational methods should be developed to predict the acetylation sites. In this study, we developed a position-specific method for epsilon lysine acetylation site prediction.
+
+
+MATERIAL AND METHODS
+Sequences of acetylated proteins were retrieved from the UniProt database. Various kinds of features such as position specific scoring matrix (PSSM), amino acid factors (AAF), and disorders were incorporated. A feature selection method based on mRMR (Maximum Relevance Minimum Redundancy) and IFS (Incremental Feature Selection) was employed.
+
+
+RESULTS
+Finally, 319 optimal features were selected from total 541 features. Using the 319 optimal features to encode peptides, a predictor was constructed based on dagging. As a result, an accuracy of 69.56% with MCC of 0.2792 was achieved. We analyzed the optimal features, which suggested some important factors determining the lysine acetylation sites.
+
+
+CONCLUSION
+We developed a position-specific method for epsilon lysine acetylation site prediction. A set of optimal features was selected. Analysis of the optimal features provided insights into the mechanism of lysine acetylation sites, providing guidance of experimental validation.

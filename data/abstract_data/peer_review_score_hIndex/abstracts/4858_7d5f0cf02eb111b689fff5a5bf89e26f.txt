@@ -1,0 +1,6 @@
+Unsupervised  one-to-many image translation
+We perform completely unsupervised one-sided image to image translation between a source domain $X$ and a target domain $Y$ such that we preserve relevant underlying shared semantics (e.g., class, size, shape, etc). 
+In particular, we are interested in a more difficult case than those typically addressed in the literature, where the source and target are ``far" enough that reconstruction-style or pixel-wise approaches fail.
+We argue that transferring (i.e., \emph{translating}) said relevant information should involve both discarding source domain-specific information while incorporate target domain-specific information, the latter of which we model with a noisy prior distribution. 
+In order to avoid the degenerate case where the generated samples are only explained by the prior distribution, we propose to minimize an estimate of the mutual information between the generated sample and the sample from the prior distribution. We discover that the architectural choices are an important factor to consider in order to preserve the shared semantic between $X$ and $Y$. 
+We show state of the art results on the MNIST to SVHN task for unsupervised image to image translation.

@@ -1,0 +1,2 @@
+Linear algebraic approach to Gröbner–Shirshov basis theory
+We construct a new efficient algorithm for finding Grobner–Shirshov bases for noncommutative algebras and their representations. This algorithm uses the Macaulay matrix [F.S. Macaulay, On some formula in elimination, Proc. London Math. Soc. 33 (1) (1902) 3–27], and can be viewed as a representation theoretic analogue of the F4 algorithm developed by J.C. Faugere. We work out some examples of universal enveloping algebras of Lie algebras and of their representations to illustrate the algorithm.

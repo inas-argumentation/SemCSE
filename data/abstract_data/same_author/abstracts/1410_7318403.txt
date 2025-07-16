@@ -1,0 +1,2 @@
+Numerical solutions of coupled Burgers equations with time- and space-fractional derivatives
+In this paper, by introducing the fractional derivative in the sense of Caputo, the Adomian decomposition method is directly extended to study the coupled Burgers equations with time- and space-fractional derivatives. As a result, the realistic numerical solutions are obtained in a form of rapidly convergent series with easily computable components. The figures show the effectiveness and good accuracy of the proposed method.

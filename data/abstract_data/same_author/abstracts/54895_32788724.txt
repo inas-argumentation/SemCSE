@@ -1,0 +1,2 @@
+Tight Lower Bounds on the Size of Sweeping Automata
+A sweeping automaton is a two-way deterministic finite automaton which makes turns only at the endmarkers. We say that a sweeping automaton is degenerate if the automaton has no left-moving transitions. We show that for each positive integer n, there is a nondeterministic finite automaton An over a two-letter alphabet such that An has n states, whereas the smallest equivalent nondegenerate sweeping automaton has 2n states.

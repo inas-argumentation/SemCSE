@@ -1,0 +1,15 @@
+Accuracy of electromagnetic tracking with a prototype field generator in an interventional OR setting.
+PURPOSE
+The authors have studied the accuracy and robustness of a prototype electromagnetic window field generator (WFG) in an interventional radiology suite with a robotic C-arm. The overall purpose is the development of guidance systems combining real-time imaging with tracking of flexible instruments for bronchoscopy, laparoscopic ultrasound, endoluminal surgery, endovascular therapy, and spinal surgery.
+
+
+METHODS
+The WFG has a torus shape, which facilitates x-ray imaging through its centre. The authors compared the performance of the WFG to that of a standard field generator (SFG) under the influence of the C-arm. Both accuracy and robustness measurements were performed with the C-arm in different positions and poses.
+
+
+RESULTS
+The system was deemed robust for both field generators, but the accuracy was notably influenced as the C-arm was moved into the electromagnetic field. The SFG provided a smaller root-mean-square position error but was more influenced by the C-arm than the WFG. The WFG also produced smaller maximum and variance of the error.
+
+
+CONCLUSIONS
+Electromagnetic (EM) tracking with the new WFG during C-arm based fluoroscopy guidance seems to be a step forward, and with a correction scheme implemented it should be feasible.

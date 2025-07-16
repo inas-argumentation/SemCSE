@@ -1,0 +1,2 @@
+On Setting the Parameters of QEA for Practical Applications: Some Guidelines Based on Empirical Evidence
+In this paper, some guidelines for setting the parameters of quantum-inspired evolutionary algorithm (QEA) are presented. Although the performance of QEA is excellent, there is relatively little or no research on the effects of different settings for its parameters. The guidelines are drawn up based on extensive experiments.

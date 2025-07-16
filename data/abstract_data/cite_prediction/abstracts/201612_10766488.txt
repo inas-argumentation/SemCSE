@@ -1,0 +1,2 @@
+Purine: A bi-graph based deep learning framework
+type: op op_type: Conv name: conv1 inputs: [ bottom, weight ] outputs: [ top ] location: ip: 127.0.0.1 device: 0 thread: 1 other fields ... Example Op defined in YAML Location: The location that the blob/op resides on, including: ● ip address of the target machine ● what device it is on (CPU/GPU) Thread: Thread is needed for op because both CPU and GPU can be multiple threaded (Streams in terms of NVIDIA GPU).

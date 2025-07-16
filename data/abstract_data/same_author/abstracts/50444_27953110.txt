@@ -1,0 +1,2 @@
+Every 3-connected distance claw-free graph is Hamilton-connected
+A graph G is said to be distance claw-free (in DC) if for each vertex v in V(G) the independence number of the subgraph of G induced by the set of vertices at distance i from v is at most 2 for each i>=0. It is shown that every 3-connected graph in DC is hamilton-connected, answering affirmatively a question of Shepherd.

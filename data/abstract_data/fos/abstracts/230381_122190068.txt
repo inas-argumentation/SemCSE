@@ -1,0 +1,2 @@
+Impact of Pressure and Temperature on the Performance of Plasma Actuators
+FB = body force induced on the fluid by the actuator per unit of actuator span, mN=m FNet = net actuator force of (FB F ) per unit of actuator span, mN=m F = shear force at the wall, induced by the plasma actuator flow, per unit of actuator span, mN=m u = axial velocity component, m=s v = normal velocity component, m=s x = axial position with respect to actuator, m y = normal position above surface, m = air density, kg=m

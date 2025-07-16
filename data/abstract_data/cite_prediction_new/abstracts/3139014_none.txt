@@ -1,0 +1,2 @@
+Performance-oriented placement and routing for field-programmable gate arrays
+This paper presents a performance-oriented placement and routing tool for field-programmable gate arrays. Using recursive geometric partitioning for simultaneous placement and global routing, and a graph-based strategy for detailed routing, our tool optimizes source-sink pathlengths, channel width and total wire-length. Our results compare favorably with other FPGA layout tools, as measured by the maximum channel width required to place and route a number of industrial benchmarks.

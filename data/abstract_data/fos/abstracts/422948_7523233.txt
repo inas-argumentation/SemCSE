@@ -1,0 +1,2 @@
+Mirrors with regular hexagonal segments.
+The point-spread function and emissivity are calculated for a mirror made from regular hexagonal segments of just a few different sizes. A mirror of this type has many similar segments, which is an advantage for manufacturing, and for an approximately f/1 mirror with > or = 1000 segments and > or = 4 sizes of regular hexagons the increase in intersegment gap area is negligible. This result raises the possibility of making a mirror from very large numbers of identical small segments that are warped to the required figure.

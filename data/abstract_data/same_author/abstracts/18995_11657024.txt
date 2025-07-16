@@ -1,0 +1,2 @@
+Critical coupling for dynamical chiral-symmetry breaking.
+We study chiral-symmetry breaking in a model of quantum chromodynamics (QCD). In our study we make a critical analysis of an approximation that is often used in QCD and other theories to simplify the Schwinger-Dyson equation for the fermion self-energy. Solving the Schwinger-Dyson equation numerically, without employing the approximation, we find that chiral symmetry is restored when the running coupling constant at zero momentum transfer falls below 0.890.

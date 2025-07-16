@@ -1,0 +1,2 @@
+Parameter Optimization for Image Segmentation Algorithms: A Systematic Approach
+Image segmentation is one of the most fundamental steps of image analysis. Almost all image segmentation algorithms have their parameters that need to be optimally set for a good segmentation. The problem of automatically setting algorithm parameters on a per image basis has been largely ignored in the vision community. In this paper we present a novel solution to this problem based on classification complexity and image edge analysis.

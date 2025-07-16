@@ -1,0 +1,2 @@
+The Lutonium: a sub-nanojoule asynchronous 8051 microcontroller
+We describe the Lutonium, an asynchronous 8051 microcontroller designed for low Et/sup 2/. In 0.18 /spl mu/m CMOS, at nominal 1.8 V, we expect a performance of 0.5 nJ per instruction at 200 MIPS. At 0.5 V, we expect 4 MIPS and 40 pJ/instruction, corresponding to 25,000 MIPS/Watt. We describe the structure of a fine-grain pipeline optimized for Et/sup 2/ efficiency, some of the peripherals implementation, and the advantages of an asynchronous implementation of a deep-sleep mechanism.

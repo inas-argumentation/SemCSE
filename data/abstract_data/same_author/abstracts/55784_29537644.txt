@@ -1,0 +1,2 @@
+Ulam's searching game with lies
+Abstract We determine the minimal number of yes-no queries sufficient to find an unknown integer between 1 and 2 m if at most two of the answers may be erroneous.

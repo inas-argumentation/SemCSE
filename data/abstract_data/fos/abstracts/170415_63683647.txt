@@ -1,0 +1,2 @@
+Simulation Method of Virutal Object Based on OpenGL and Its Implementation
+Discusses the basic concept of the OpenGL,such as transformation,color,lighting,material,texture mapping and animation,then gives the method of using Borland C++ Builder 6.0 to develop OpenGL program under the Windows environment,with the example of achievement of 3D whirlabout,the step that how to load a BMP file and make it stick on the surface of object as a texture of OpenG is related in detail,it is effective and actual.

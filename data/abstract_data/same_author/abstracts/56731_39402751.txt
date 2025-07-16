@@ -1,0 +1,2 @@
+Modeling and enacting software processes using VRPML
+We evaluate a new visual process modeling language (PML), called the Virtual Reality Process Modeling Language (VRPML). This evaluation utilizes the well-known ISPW-6 benchmark problem as well as the waterfall development model as case studies, and offers comparison with other PMLs where possible. In addition to providing insights into the strengths and limitations of VRPML, this evaluation highlights important lessons learned and offers valuable guidance for the design of next-generation PMLs.

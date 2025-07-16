@@ -1,0 +1,2 @@
+A hybrid transfer of control model for adjustable autonomy multiagent systems
+Multiagent systems with agent-based adjustable autonomy are ones in which agents are provided with the ability to reason about adjusting their autonomy level depending on the situation [1]. One promising approach for the design of these systems is that of Electric Elves (E-Elves) [2]: a model for agents to reason about whether to retain autonomy or fully transfer decision-making control to another entity (user or agent).

@@ -1,0 +1,2 @@
+Monte Carlo Renormalization Group for SU(2) Lattice Gauge Theory
+We present the results of a Monte Carlo renormalization group calculation using the ..sqrt..3 block transformation introduced by Cordery, Gupta, and Novotny. The ..beta.. function for the SU(2) lattice gauge theory is calculated both along the Wilson axis and along the line K/sub A/ = -0.24K/sub F/ in the fundamental-adjoint plane.

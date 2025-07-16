@@ -1,0 +1,15 @@
+Comparing photon and proton-based hypofractioned SBRT for prostate cancer accounting for robustness and realistic treatment deliverability.
+OBJECTIVE
+To investigate whether photon or proton-based stereotactic body radiation therapy (SBRT is the preferred modality for high dose hypofractionation prostate cancer treatment. Achievable dose distributions were compared when uncertainties in target positioning and range uncertainties were appropriately accounted for.
+
+
+METHODS
+10 patients with prostate cancer previously treated at our institution (Montefiore Medical Center) with photon SBRT using volumetric modulated arc therapy (VMAT) were identified. MRI images fused to the treatment planning CT allowed for accurate target and organ at risk (OAR) delineation. The clinical target volume was defined as the prostate gland plus the proximal seminal vesicles. Critical OARs include the bladder wall, bowel, femoral heads, neurovascular bundle, penile bulb, rectal wall, urethra and urogenital diaphragm. Photon plan robustness was evaluated by simulating 2 mm isotropic setup variations. Comparative proton SBRT plans employing intensity modulated proton therapy (IMPT) were generated using robust optimization. Plan robustness was evaluated by simulating 2 mm setup variations and 3% or 1% Hounsfield unit (HU) calibration uncertainties.
+
+
+RESULTS
+Comparable maximum OAR doses are achievable between photon and proton SBRT, however, robust optimization results in higher maximum doses for proton SBRT. Rectal maximum doses are significantly higher for Robust proton SBRT with 1% HU uncertainty compared to photon SBRT (p = 0.03), whereas maximum doses were comparable for bladder wall (p = 0.43), urethra (p = 0.82) and urogenital diaphragm (p = 0.50). Mean doses to bladder and rectal wall are lower for proton SBRT, but higher for neurovascular bundle, urethra and urogenital diaphragm due to increased lateral scatter. Similar target conformality is achieved, albeit with slightly larger treated volume ratios for proton SBRT, >1.4 compared to 1.2 for photon SBRT.
+
+
+CONCLUSION
+Similar treatment plans can be generated with IMPT compared to VMAT in terms of target coverage, target conformality, and OAR sparing when range and HU uncertainties are neglected. However, when accounting for these uncertainties during robust optimization, VMAT outperforms IMPT in terms of achievable target conformity and OAR sparing. Advances in knowledge: Comparison between achievable dose distributions using modern, robust optimization of IMPT for high dose per fraction SBRT regimens for the prostate has not been previously investigated.

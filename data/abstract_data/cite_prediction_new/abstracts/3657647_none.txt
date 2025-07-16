@@ -1,0 +1,2 @@
+Boosting Scalability of OGC Standards on Massive Data Sets Through Database Technology
+Users of large-scale raster archives demand increasingly flexible functionality, ranging from simple navigation and download to complex ad-hoc aggregation, fusion, and data analysis. One often adopted response to this is to add more and more individual functions to the service; however, this is not only unwieldy for the user, but also hard to maintain. Another approach is to offer a flexible query language, following the tremendously successful example of SQL.

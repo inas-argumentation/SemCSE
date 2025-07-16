@@ -1,0 +1,4 @@
+A Design for Generating Personalised Feedback in Knowledge Construction
+As the learning paradigm shifts to a more personalised learning process, users need dynamic feedback from their knowledge path. Learning Management Systems (LMS) offer customised feedback dependent on questions and the answers given. However these LMSs are not designed to generate personalised feedback for an individual learner, tutor and instructional designer. This paper presents an approach for generating constructive feedback for all stakeholders during a personalised learning process. 
+ 
+The dynamic personalised feedback model generates feedback based on the learning objectives for the Learning Object. Feedback can be generated at Learning Object level and the Information Object level for both the individual learner and the group. The group feedback is meant for the tutors and instructional designer to improve the learning process.

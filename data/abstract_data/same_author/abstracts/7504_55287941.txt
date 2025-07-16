@@ -1,0 +1,2 @@
+AUTO-FILLING CRYOGENIC SYSTEM FOR SUPERCONDUCTING WIGGLER
+In a cryogenic plant, in which a superconducting rf cavity is present, an independent automatic filling system provides liquid helium and liquid nitrogen to the superconducting wiggler. A PID controller, the kernel of the auto-filling system, controls the valves of the liquid helium and the liquid nitrogen to facilitate a stable and precise auto-filling process. This work presents the control algorithm for the pre-cooling mode and normal auto-filling mode and presents cryogenic testing results.

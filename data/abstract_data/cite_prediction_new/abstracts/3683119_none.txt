@@ -1,0 +1,15 @@
+Theoretical distribution of load in the radius and ulna carpal joint
+PURPOSE
+The purpose of this study is to validate a model for the analysis of the load distribution through the wrist joint, subjected to forces on the axes of the metacarpals from distal to proximal for two different mesh densities.
+
+
+METHOD
+To this end, the Rigid Body Spring Model (RBSM) method was used on a three-dimensional model of the wrist joint, simulating the conditions when making a grip handle. The cartilage and ligaments were simulated as springs acting under compression and tension, respectively, while the bones were considered as rigid bodies. At the proximal end of the ulna the movement was completely restricted, and the radius was allowed to move only in the lateral/medial direction.
+
+
+RESULTS
+With these models, we found the load distributions on each carpal articular surface of radius. Additionally, the results show that the percentage of the applied load transmitted through the radius was about 86% for one mesh and 88% for the coarser one; for the ulna it was 21% for one mesh and 18% for the coarser.
+
+
+CONCLUSIONS
+The obtained results are comparable with previous outcomes reported in prior studies. The latter allows concluding that, in theory, the methodology can be used to describe the changes in load distribution in the wrist.

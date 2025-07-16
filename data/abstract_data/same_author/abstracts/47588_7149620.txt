@@ -1,0 +1,2 @@
+Pumping Lemmas for Regular Sets
+It is well known that regularity of a language implies certain properties known as pumping lemmas or iteration theorems. However, the question of a converse result has been open. We show that the usual form of pumping is very far from implying regularity but that a strengthened pumping property, the block pumping property, is equivalent to regularity. The proof involves use of the finite version of Ramsey’s theorem. We compare our results with recent results of Jaffe and Beauquier and state some open questions.

@@ -1,0 +1,2 @@
+Limited-Time Lookahead Diagnosability of Rectangular Hybrid Automata
+Abstract This paper investigates the diagnosability of Rectangular Hybrid Automata (RHAs) (Henzinger et al., 1998) used for modeling a class of hybrid systems. First, a definition of so-called Limited-Time Lookahead diagnosability (LTLa), appropriate for characterising the diagnosability of timed languages accepted by RHAs, is proposed. Then, we provide a systematic approach, for checking the LTLa diagnosability of system modeled with RHAs, and verifying some reasonable assumptions.

@@ -1,0 +1,15 @@
+Identifying subgroups among poor prognosis patients with nonseminomatous germ cell cancer by tree modelling: a validation study.
+BACKGROUND
+In order to target intensive treatment strategies for poor prognosis patients with non-seminomatous germ cell cancer, those with the poorest prognosis should be identified. These patients might profit most from more intensive treatment strategies. For this purpose, a regression tree was previously developed on 332 patients. We aimed to evaluate the performance and structure of this tree.
+
+
+PATIENTS AND METHODS
+The previously developed tree was applied to 456 patients with a poor prognosis as defined by the International Germ Cell Cancer Collaborative Group (IGCCCG). Next, we developed a new tree to evaluate whether a similar structure to the previous tree was found. We assessed the internal validity of the new tree, and compared the 2-year survival estimates of each subgroup together with the discriminative ability for both the previously developed and the new tree. Discriminative ability was measured by a concordance (c) statistic, which varies between 0.5 (no discrimination) and 1.0 (perfect discrimination).
+
+
+RESULTS
+The 2-year survival estimates in the IGCCCG data ranged from 33% to 63%. The ordering of the subgroups was different and discriminative ability was lower than originally found (c = 0.56 in the IGCCCG data versus 0.63 originally). The new tree differed considerably from the original tree, and identified poor prognosis subgroups with 2-year survival estimates from 38% to 73%. Internal validation showed similar discriminative ability for the new tree and the original tree (c = 0.59 versus 0.56).
+
+
+CONCLUSIONS
+The previously developed tree showed poor validity with respect to discriminative ability and the stability of its structure. The performance of the new tree was also unsatisfactory. Given the low proportion of patients categorised as poor prognosis, it seems that the potential to identify further subgroups with the currently available patient characteristics is limited.

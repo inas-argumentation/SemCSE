@@ -1,0 +1,13 @@
+An LES-based airborne Doppler lidar simulator and its application to wind profiling in inhomogeneous flow conditions
+. Wind profiling by Doppler lidar is common practice and highly useful in a wide range of applications.
+Airborne Doppler lidar can provide additional insights relative to ground-based systems by allowing for spatially distributed and targeted measurements.
+Providing a link between theory and measurement, a first large eddy simulation (LES)-based airborne Doppler lidar simulator (ADLS) has been developed.
+Simulated measurements are conducted based on LES wind fields, considering the coordinate and geometric transformations applicable to real-world measurements.
+The ADLS provides added value as the input truth used to create the measurements is known exactly, which is nearly impossible in real-world situations.
+Thus, valuable insight can be gained into measurement system characteristics as well as retrieval strategies. As an example application, airborne Doppler lidar wind profiling is investigated using the ADLS.
+For commonly used airborne velocity azimuth display (AVAD) techniques, flow homogeneity is assumed throughout the retrieval volume, a condition which is violated in turbulent boundary layer flow.
+Assuming an ideal measurement system, the ADLS allows to isolate and evaluate the error in wind profiling which occurs due to the violation of the flow homogeneity assumption.
+Overall, the ADLS demonstrates that wind profiling is possible in turbulent wind field conditions with reasonable errors
+(root mean squared error of  0.36 m s−1 for wind speed when using a commonly used system setup and retrieval strategy for the conditions investigated).
+Nevertheless, flow inhomogeneity, e.g., due to boundary layer turbulence, can cause an important contribution to wind profiling error and is non-negligible.
+Results suggest that airborne Doppler lidar wind profiling at low wind speeds ( 5 m s - 1 ) can be biased, if conducted in regions of inhomogeneous flow conditions.

@@ -1,0 +1,2 @@
+Eye Location under Various Illumination Conditions
+Eye location is an important step in face recognition. Locate eyes under various illumination conditions is also an important step especially for most of illumination normalization algorithms. In this paper, an algorithm uses a group of eigenfeature templates and Gabor feature templates to locate eye under various illumination conditions is proposed. Experiment results show that the performance of this algorithm is good and robust under widely changed illumination conditions

@@ -1,0 +1,2 @@
+Greedy multiprocessor server scheduling
+We show that the greedy highest density first (HDF) algorithm is ([email protected])-speed O(1)-competitive for the problem of minimizing the @?"p norms of weighted flow time on m identical machines. Similar results for minimizing unweighted flow provide insight into the power of migration.

@@ -1,0 +1,2 @@
+A characterization of the duality mapping for convex bodies
+.We characterize the duality of convex bodies in d-dimensional Euclidean vector space, viewed as a mapping from the space of convex bodies containing the origin in the interior into the same space. The question for such a characterization was posed by Vitali Milman. The property that the duality interchanges pairwise intersections and convex hulls of unions is sufficient for a characterization, up to a trivial exception and the composition with a linear transformation.

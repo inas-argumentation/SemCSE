@@ -1,0 +1,2 @@
+Ouroboros Praos: An Adaptively Secure, Semi synchronous Proof of Stake Blockchain
+We present "Ouroboros Praos" a proof of stake blockchain protocol that, for the first time, provides security against fully adaptive corruption in the semi synchronous setting: Specifically, the adversary can corrupt any participant of a dynamically evolving population of stakeholders at any moment as long the stakeholder distribution maintains an honest majority of stake; furthermore, the protocol tolerates an adversarially controlled message delivery delay unknown to protocol participants.

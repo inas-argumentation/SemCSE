@@ -1,0 +1,2 @@
+Delaunay Triangulation of Imprecise Points Simplified and Extended
+Suppose we want to compute the Delaunay triangulation of a set P whose points are restricted to a collection ${\mathcal R}$ of input regions known in advance. Building on recent work by Loffler and Snoeyink[21], we show how to leverage our knowledge of ${\mathcal R}$ for faster Delaunay computation. Our approach needs no fancy machinery and optimally handles a wide variety of inputs, eg, overlapping disks of different sizes and fat regions.

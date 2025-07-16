@@ -1,0 +1,2 @@
+QMC calculations of symmetric nuclear matter
+We present an accurate numerical study of the equation of state of nuclear matter based on realistic nucleon--nucleon interactions by means of Auxiliary Field Diffusion Monte Carlo (AFDMC) calculations. The AFDMC method samples the spin and isospin degrees of freedom allowing for quantum simulations of large nucleonic systems and represents an important step forward towards a quantitative understanding of problems in nuclear structure and astrophysics.

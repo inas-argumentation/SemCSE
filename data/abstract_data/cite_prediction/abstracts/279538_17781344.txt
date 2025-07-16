@@ -1,0 +1,2 @@
+COMPARISON OF LEARNING ALGORITHMS FOR
+This paper compares the performance of several classi er algorithms on a standard database of handwritten digits. We consider not only raw accuracy, but also rejection, training time, recognition time, and memory requirements.

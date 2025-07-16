@@ -1,0 +1,2 @@
+Asymptotic iteration method for spheroidal harmonics of higher-dimensional Kerr-(A)dS black holes
+In this work we calculate the angular eigenvalues of the (n + 4)-dimensional simply rotating Kerr-(A)dS spheroidal harmonics using the Asymptotic Iteration Method (AIM). We make some comparisons between this method and that of the Continued Fraction Method (CFM) and use the latter to check our results. We also present analytic expressions for the small rotation limit up to O(c 3 ) with the coefficient of each power up toO(� 2 ), where c = a! and � = a 2 � (a is the angular

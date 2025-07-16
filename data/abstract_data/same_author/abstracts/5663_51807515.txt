@@ -1,0 +1,2 @@
+Data formats for numerical relativity waves
+This document proposes data formats to exchange numerical relativity results, in particular gravitational waveforms. The primary goal is to further the interaction between gravitational-wave source modeling groups and the gravitational-wave data-analysis community. We present a simple and extendable format which is applicable to various kinds of gravitational wave sources including binaries of compact objects and systems undergoing gravitational collapse, but is nevertheless sufficiently general to be useful for other purposes.

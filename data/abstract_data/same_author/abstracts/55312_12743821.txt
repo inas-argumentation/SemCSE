@@ -1,0 +1,2 @@
+Response time behavior of distributed voting algorithms for managing replicated data
+Voting is a simple and yet effective way of managing replicated data in distributed systems. In this paper we analyze its response time behavior. We investigate a technique for obtaining the access time distribution for requests that access replicated data maintained by the distributed system. The technique is based on Petri net modeling and can be used to estimate the reliability of real-time applications which must access replicated data with a deadline requirement.

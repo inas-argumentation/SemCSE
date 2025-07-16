@@ -1,0 +1,2 @@
+RF Capacitance Extraction Utilizing a Series Resistance Deembedding Scheme for Ultraleaky MOS Devices
+An accurate extraction method for series resistance and capacitance based on RF S-parameter measurement in ultraleaky MOS devices is presented in this paper. The method is proven by using a three-element equivalent circuit model for a capacitor and a well-known microwave theory. The proposed method improves the measurement accuracy and significantly reduces the frequency-dependence of capacitance. This method is demonstrated for a 1.5 nm SiO2 dielectric NMOSFET.

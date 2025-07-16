@@ -1,0 +1,2 @@
+The XLDB Group at CLEF 2004
+This paper describes the participation of the XLDB Group in the CLEF monolingual ad hoc task for Portuguese. We present tumba!, a Portuguese search engine and describe its architecture and the underlying assumptions. We discuss the way we used tumba! in CLEF, providing details on our runs and our experiments with ranking algorithms.

@@ -1,0 +1,2 @@
+On Commuting Graphs for Elements of Order 3 in Symmetric Groups
+The commuting graph $\mathcal{C}(G,X)$, where $G$ is a group and $X$ is a subset of $G$, is the graph with vertex set $X$ and distinct vertices being joined by an edge whenever they commute. Here the diameter of $\mathcal{C}(G,X)$ is studied when $G$ is a symmetric group and $X$ a conjugacy class of elements of order $3$.

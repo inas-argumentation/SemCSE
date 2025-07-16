@@ -1,0 +1,2 @@
+A MOSFET dosimeter built on an off-the-shelf component for in vivo radiotherapy applications
+In this paper we detail the development of a new in vivo MOSFET dosimeter built on the CD4007, a popular off-the-shelf CMOS circuit. The dosimeter, which is aimed at radiotherapy applications, combines a simple and accurate readout procedure with a small, low-cost and cable-free sensor. The linearity (97.5%) and radiation sensitivity (6.8 mV/Gy) of this dosimeter were tested using X-ray (6 MV).

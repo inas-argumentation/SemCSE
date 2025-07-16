@@ -1,0 +1,15 @@
+Neighborhood Disadvantage and Biological Aging: Using Marginal Structural Models to Assess the Link Between Neighborhood Census Variables and Epigenetic Aging.
+Objectives
+Past research has reported an association between neighborhood disadvantage and healthy aging, but most of these studies utilize self-report measures of health or physical functioning and do not properly account for neighborhood selection effects, creating concerns regarding inflated associations. To overcome these limitations and provide a more stringent estimate of effects, the current study investigated the effect of neighborhood disadvantage on aging using newly developed epigenetic methods to assess rate of biological aging and marginal structural modeling (MSM) to account for potential confounds due to neighborhood selection.
+
+
+Methods
+We tested the hypothesis that neighborhood disadvantage accelerates aging using U.S. census data and five waves of interview data from a sample of 100 middle-aged African American women. Using a recently developed epigenetic index of aging, biological age was measured using weighted methylation values at 71 CpG sites. We calculated a measure of accelerated methylomic aging (in years) based upon the residual scores resulting from a regression of methylomic age on chronological age.
+
+
+Results
+Controlling for a variety of individual difference factors that could be confounded with neighborhood effects, including various health behaviors, neighborhood disadvantage was associated with accelerated biological aging. Using MSM to account for selection effects, a standard deviation increase in neighborhood disadvantage accelerated aging an average of 9 months.
+
+
+Conclusions
+Our findings converge with prior work to provide strong evidence that neighborhood context is a significant determinant of healthy aging.

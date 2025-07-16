@@ -1,0 +1,2 @@
+Usage refinement for ER-to-relation design transformations
+Database schema refinement based on usage is proposed as a useful next step in a practical database design methodology founded upon entity-relationship (ER) conceptual modeling and transformation to normalized relations. A simple cost model is defined and applied to several examples and a case study, illustrating the important trade-offs among query and update costs, storage requirements, and degree of normalization with its data integrity implications.

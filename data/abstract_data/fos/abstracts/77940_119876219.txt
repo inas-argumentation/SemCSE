@@ -1,0 +1,10 @@
+On a theorem of Marcinkiewicz and Zygmund for Taylor series
+LetK be the class of trigonometric series of power type, i.e. Taylor series 
+$$\sum\nolimits_{n = 0}^\infty {c_n z^n } $$
+ forz=eix, whose partial sums for allx inE, whereE is a nondenumerable subset of [0, 2π), lie on afinite number of circles (a priori depending onx) in the complex plane. The main result of this paper is that for every member of the classK, there exist a complex number ω, |ω|=1, and two positive integers 
+$$\nu , \kappa , \nu < \kappa $$
+, such that for the coefficientscn we have: 
+$$c_{\mu + \lambda \left( {\kappa - \nu } \right)} = c_\mu \omega ^\lambda , \mu = \nu ,\nu + 1, \ldots , \kappa - 1, \lambda = 1,2,3, \ldots $$
+. Thus, every member of the classK has (with minor modifications) a representation of the form: 
+$$P(x)\sum\nolimits_{n = 0}^\infty {e^{iknx} ,} $$
+ where P(x) is a suitable trigonometric polynomial andk a positive integer. The proof is elementary but rather long. This result is closely related to a theorem of Marcinkiewicz and Zygmund on the circular structure of the set of limit points of the sequence of partial sums of (C, 1) summable Taylor series.

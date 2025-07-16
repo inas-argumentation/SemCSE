@@ -1,0 +1,2 @@
+Multipartite tournaments with small number of cycles
+L. Volkmann, Discrete Math. 245 (2002) 19-53 posed the following question. Let 4 ≤ m ≤ n. Are there strong n-partite tournaments, which are not themselves tournaments, with exactly n − m + 1 cycles of length m? We answer this question in affirmative. We raise the following problem. Given m ∈ {3, 4, . . . , n}, find a characterization of strong n-partite tournaments having exactly n − m + 1 cycles of length m.

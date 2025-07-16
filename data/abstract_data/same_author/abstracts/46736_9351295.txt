@@ -1,0 +1,2 @@
+Looking Algebraically at Tractable Quantified Boolean Formulas
+We make use of the algebraic theory that has been used to study the complexity of constraint satisfaction problems, to investigate tractable quantified boolean formulas. We present a pair of results: the first is a new and simple algebraic proof of the tractability of quantified 2-satisfiability; the second is a purely algebraic characterization of models for quantified Horn formulas that were given by Kleine Buning, Subramani, and Zhao, and described proof-theoretically.

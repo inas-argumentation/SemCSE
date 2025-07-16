@@ -1,0 +1,2 @@
+802.11 Link Interference: A Simple Model and A Performance Enhancement
+Recent findings have revealed that the carrier-sensing range set in current major implementations does not detect all interference signals in 802.11 networks. In this paper, we investigate the effect of interference and develop a mathematical model for it. The accuracy of our model is verified via simulations. Based on an insight from our model, we present a simple protocol that operates on the top of 802.11 MAC layer and achieves more throughput than rate-adjustment schemes.

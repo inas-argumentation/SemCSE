@@ -1,0 +1,19 @@
+Solution to Detect, Classify, and Report Illicit Online Marketing and Sales of Controlled Substances via Twitter: Using Machine Learning and Web Forensics to Combat Digital Opioid Access
+BACKGROUND
+On December 6 and 7, 2017, the US Department of Health and Human Services (HHS) hosted its first Code-a-Thon event aimed at leveraging technology and data-driven solutions to help combat the opioid epidemic. The authors—an interdisciplinary team from academia, the private sector, and the US Centers for Disease Control and Prevention—participated in the Code-a-Thon as part of the prevention track.
+
+
+OBJECTIVE
+The aim of this study was to develop and deploy a methodology using machine learning to accurately detect the marketing and sale of opioids by illicit online sellers via Twitter as part of participation at the HHS Opioid Code-a-Thon event.
+
+
+METHODS
+Tweets were collected from the Twitter public application programming interface stream filtered for common prescription opioid keywords in conjunction with participation in the Code-a-Thon from November 15, 2017 to December 5, 2017. An unsupervised machine learning–based approach was developed and used during the Code-a-Thon competition (24 hours) to obtain a summary of the content of the tweets to isolate those clusters associated with illegal online marketing and sale using a biterm topic model (BTM). After isolating relevant tweets, hyperlinks associated with these tweets were reviewed to assess the characteristics of illegal online sellers.
+
+
+RESULTS
+We collected and analyzed 213,041 tweets over the course of the Code-a-Thon containing keywords codeine, percocet, vicodin, oxycontin, oxycodone, fentanyl, and hydrocodone. Using BTM, 0.32% (692/213,041) tweets were identified as being associated with illegal online marketing and sale of prescription opioids. After removing duplicates and dead links, we identified 34 unique “live” tweets, with 44% (15/34) directing consumers to illicit online pharmacies, 32% (11/34) linked to individual drug sellers, and 21% (7/34) used by marketing affiliates. In addition to offering the “no prescription” sale of opioids, many of these vendors also sold other controlled substances and illicit drugs.
+
+
+CONCLUSIONS
+The results of this study are in line with prior studies that have identified social media platforms, including Twitter, as a potential conduit for supply and sale of illicit opioids. To translate these results into action, authors also developed a prototype wireframe for the purposes of detecting, classifying, and reporting illicit online pharmacy tweets selling controlled substances illegally to the US Food and Drug Administration and the US Drug Enforcement Agency. Further development of solutions based on these methods has the potential to proactively alert regulators and law enforcement agencies of illegal opioid sales, while also making the online environment safer for the public.

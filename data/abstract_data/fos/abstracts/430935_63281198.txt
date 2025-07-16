@@ -1,0 +1,2 @@
+Real Time Drive of Stepper Motor Based on Windows 98 OS
+This thesis analyses the characteristic and method in real time drive of stepper motor based on windows 98 operating system. It introduces emphatically several methods of carring out pulse generator using visual c++ and analyses the advantage and disadvantage of these methods.

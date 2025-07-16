@@ -1,0 +1,37 @@
+A tropopause-related climatological a priori profile for IASI-SOFRID ozone retrievals: improvements and validation
+. The MetOp/Infrared Atmospheric Sounding Interferometer (IASI) instruments have provided data for operational meteorology and
+document atmospheric composition since 2007. IASI ozone ( O3 ) data have been used
+extensively to characterize the seasonal and interannual variabilities and the evolution
+of tropospheric O3 at the global scale. SOftware for a Fast Retrieval of IASI Data (SOFRID) is a fast retrieval algorithm that
+provides IASI O3 profiles for the whole IASI period.
+Until now, SOFRID O3 retrievals (v1.5 and v1.6) were performed with a
+single a priori profile, which resulted in important biases and probably a
+too-low variability. For the first time, we have implemented a comprehensive
+dynamical a priori profile for spaceborne O3 retrievals which takes the pixel location, time
+and tropopause height into account for SOFRID-O3 v3.5
+retrievals. In the
+present study, we validate SOFRID-O3 v1.6 and v3.5 with electrochemical concentration cell (ECC) ozonesonde profiles
+from the global World Ozone and Ultraviolet Radiation Data Centre (WOUDC) database for the 2008–2017 period. Our validation is
+based on a thorough statistical analysis using Taylor diagrams. Furthermore, we
+compare our retrievals with ozonesonde profiles both smoothed by the IASI averaging kernels and raw.
+This methodology is essential to
+evaluate the inherent usefulness of the retrievals to assess O3 variability and trends. The use of
+a dynamical a priori profile largely improves the retrievals concerning two main
+aspects: (i) it corrects high biases for low-tropospheric O3 regions such as
+the Southern
+Hemisphere, and (ii) it increases the retrieved O3 variability, leading to a
+better agreement with ozonesonde data. Concerning upper troposphere–lower stratosphere (UTLS) and stratospheric O3 ,
+the improvements are less important and the biases are very similar for both
+versions. The SOFRID tropospheric ozone columns (TOCs)
+display no significant drifts (  %) for the Northern Hemisphere
+and significant negative ones (9.5 % for v1.6 and 4.3 % for v3.5) for the Southern Hemisphere. We
+have compared our validation results to those of the Fast Optimal Retrievals on Layers for IASI (FORLI)
+retrieval software from the
+literature for smoothed ozonesonde data only. This comparison highlights three
+main differences:
+(i) FORLI retrievals contain more theoretical information about tropospheric O3 
+than SOFRID;
+(ii) root mean square differences (RMSDs) are smaller and correlation
+coefficients are higher for SOFRID than for FORLI; (iii) in the Northern
+Hemisphere, the 2010 jump detected in FORLI TOCs is not
+present in SOFRID.

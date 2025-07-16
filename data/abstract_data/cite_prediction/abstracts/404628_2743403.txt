@@ -1,0 +1,2 @@
+Decision Tree Induction Based on Efficient Tree Restructuring
+The ability to restructure a decision tree efficiently enables a variety of approaches to decision tree induction that would otherwise be prohibitively expensive. Two such approaches are described here, one being incremental tree induction (ITI), and the other being non-incremental tree induction using a measure of tree quality instead of test quality (DMTI). These approaches and several variants offer new computational and classifier characteristics that lend themselves to particular applications.

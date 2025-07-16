@@ -1,0 +1,2 @@
+Tebyan: Interactive Spelling Correction Application for Quranic Verse
+Spelling errors when writing Quranic verses require special handling in terms of detection and correction. This paper aims to demonstrate the significance of the character-level errors correction approach for written Quranic text. It concentrates mainly on discussing the Algorithm and the implementation of the system.

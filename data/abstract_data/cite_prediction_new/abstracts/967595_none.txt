@@ -1,0 +1,2 @@
+Prediction of PLL frequency discriminator non-linear distortion using the Volterra Series approach
+The nonlinear distortion of a PLL frequency discriminator is addressed using the Volterra Series approach. The analysis, made entirely in the frequency domain, allows distortion calculations for periodic and non-periodic sets of discrete excitation frequencies and random inputs. It also includes, simultaneously, the two major sources of nonlinearity: Phase Detector and VCO.

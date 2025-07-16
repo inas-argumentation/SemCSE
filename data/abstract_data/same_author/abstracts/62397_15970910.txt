@@ -1,0 +1,2 @@
+Analysis of decentralized integral controllability for nonlinear systems
+This paper extends the concept of decentralized integral controllability to nonlinear process, and presents a steady state sufficient condition by using the singular perturbation theory. A numerical method is provided to facilitate the analysis of the proposed condition and is illustrated using an example of a dual tank level control system.

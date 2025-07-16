@@ -1,0 +1,2 @@
+Comments on "A translation- and scale-invariant adaptive wavelet transform"
+Xiong et al. presented a translationand scale-invariant adaptive wavelet transform. We show that their renormalized signal (pre-wavelet transform) is already translation- and scale-invariant. Thus, it is not just invariant under the wavelet transform. We give a necessary and sufficient condition for renormalized signals to be affine transform invariant.

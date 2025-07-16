@@ -1,0 +1,15 @@
+A variable inertial system for measuring the contractile properties of human muscle.
+PURPOSE
+A flywheel system of variable inertia is described for inferring the mechanical properties of human muscle during a single explosive movement.
+
+
+METHODS
+The system consists of a lightweight aluminum disk mounted on a shaft onto which a driving cog is mounted. The inertia of the system can be varied from 0.024 to 0.69 kg.m(2) by attaching semicircular steel plates to the disk. A rotary encoder detects displacement of the wheel with a resolution of 1 degrees. Digital signals from the encoder are collected using an A/D converter interfaced to a PC. The data are then processed for the calculation of torque, velocity, power, work done, and acceleration. The mechanical properties of the muscles employed are inferred from calculations of flywheel displacement, time, and force. In addition, a pretension release mechanism can be incorporated into the system to allow isometric force to be developed before movement. This can increase power generation at the low inertias where the time of contraction is typically less than 200 ms. Seven subjects were test-retested using the device. Measures of both average and peak power were made.
+
+
+RESULTS
+When mounted in the apparatus described by Bassey and Short, the maximum values for peak and average power were on average 965 +/- 103 and 448 +/- 47 W, respectively. Upon retesting, these results were found to be reliable (cv = 3.3% and 3.0%, respectively).
+
+
+CONCLUSIONS
+The inertial system described has been shown to have validity in reproducibility and provided a suitable method of determining a number of muscle output properties during short-term single exertions. This tool could prove useful in a research or clinical setting and may also prove useful as a training device as it negates the need for a strain gauge or goniometer attachment.

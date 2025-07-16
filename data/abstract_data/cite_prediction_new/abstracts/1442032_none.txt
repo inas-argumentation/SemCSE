@@ -1,0 +1,2 @@
+Current Filamentation and Thermal Instability in a Power BJT Array Cell
+A self-consistent numerical simulation of the thermal runaway and current filamentation effects in a bipolar power device has been demonstrated. Shown algorithms can be applied to a variety of practical devices to study and optimize their thermal/electrical behavior. Transient simulation reveals complex coupling phenomena between distributed electrical and thermal effects. This information can be particularly important for device design as it is difficult to obtain experimentally.

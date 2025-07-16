@@ -1,0 +1,28 @@
+The influence of instrumental line shape degradation on NDACC gas retrievals: total column and profile
+Abstract. We simulated instrumental line shape (ILS) degradations with respect to
+typical types of misalignment, and compared their influence on each NDACC
+(Network for Detection of Atmospheric Composition Change) gas. The
+sensitivities of the total column, the root mean square (rms) of the fitting residual,
+the total random uncertainty, the total systematic uncertainty, the total uncertainty,
+degrees of freedom for signal (DOFs), and the profile with respect to different
+levels of ILS degradation for all current standard NDACC gases, i.e. O3 , HNO3 , HCl, HF, ClONO2 , CH4 , CO, N2O ,
+ C2H6 , and HCN, were investigated. The influence of an imperfect ILS
+on NDACC gases' retrieval was assessed, and the consistency under different
+meteorological conditions and solar zenith angles (SZAs) were examined. The
+study concluded that the influence of ILS degradation can be approximated by
+the linear sum of individual modulation efficiency (ME) amplitude influence
+and phase error (PE) influence. The PE influence is of secondary importance
+compared with the ME amplitude. Generally, the stratospheric gases are more
+sensitive to ILS degradation than the tropospheric gases, and the positive ME
+influence is larger than the negative ME. For a typical ILS degradation
+(10 %), the total columns of stratospheric gases O3 , HNO3 , HCl,
+HF, and ClONO2 changed by 1.9, 0.7, 4, 3, and 23 %,
+respectively, while the columns of tropospheric gases CH4 , CO, N2O ,
+ C2H6 , and HCN changed by 0.04, 2.1, 0.2, 1.1, and
+0.75 %, respectively. In order to suppress the fractional difference in the total column for ClONO2 and other NDACC gases within 10 and 1 %,
+respectively, the maximum positive ME degradations for O3 , HNO3 ,
+HCl, HF, ClONO2 , CO, C2H6 , and HCN should be less than 6,
+15, 5, 5, 5, 5, 9, and 13 %, respectively; the
+maximum negative ME degradations for O3 , HCl, and HF should be less than
+6, 12, and 12 %, respectively; the influence of ILS degradation on
+ CH4 and N2O can be regarded as being negligible.

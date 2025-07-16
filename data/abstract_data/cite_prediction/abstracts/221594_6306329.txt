@@ -1,0 +1,2 @@
+The VoltDB Main Memory DBMS
+This paper describes the VoltDB DBMS as it exists in mid 2013. The focus is on design decisions, especially in concurrency control and high availability, as well as on the application areas where the system has found acceptance. Run-time performance numbers are also included.

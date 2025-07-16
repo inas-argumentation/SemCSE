@@ -1,0 +1,2 @@
+Robust extended Kalman filtering
+Linearization errors inherent in the specification of an extended Kalman filter (EKF) can severely degrade its performance. This correspondence presents a new approach to the robust design of a discrete-time EKF by application of the robust linear design methods based on the H/sub /spl infin// norm minimization criterion. The results of simulations are presented to demonstrate an advantage for signal demodulation and nonlinear equalization applications.

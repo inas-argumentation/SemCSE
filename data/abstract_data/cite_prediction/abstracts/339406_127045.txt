@@ -1,0 +1,2 @@
+PySense: Python Decorators for Wireless Sensor Macroprogramming
+PySense aims at bringing wireless sensor (and "internet of things") macroprogramming to the audience of Python programmers. WSN macroprogramming is an emerging approach where the network is seen as a whole and the programmer focuses only on the application logic. The PySense runtime environment partitions the code and transmits code snippets to the right nodes finding a balance between energy consumption and computing performances.

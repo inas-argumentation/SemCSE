@@ -1,0 +1,14 @@
+The application of mean averaging kernels to mean trace gas distributions
+Abstract. To avoid unnecessary data traffic it is sometimes desirable to apply
+mean averaging kernels to mean profiles of atmospheric state variables.
+Unfortunately, application of averaging kernels and averaging are not
+commutative in cases when averaging kernels and state variables are
+correlated. That is to say, the application of individual averaging
+kernels to individual profiles and subsequent averaging will, in
+general, lead to different results than averaging of the original
+profiles prior to the application of the mean averaging kernels, unless
+profiles and averaging kernels are fully independent. The resulting error,
+however, can be corrected by subtraction of the covariance between the
+averaging kernel and the vertical profile. Thus, it is recommended to
+calculate the covariance profile along with the mean profile
+and the mean averaging kernel.

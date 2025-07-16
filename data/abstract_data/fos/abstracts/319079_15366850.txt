@@ -1,0 +1,15 @@
+Automatic quantitative analysis of in-stent restenosis using FD-OCT in vivo intra-arterial imaging.
+PURPOSE
+A new segmentation technique is implemented for automatic lumen area extraction and stent strut detection in intravascular optical coherence tomography (OCT) images for the purpose of quantitative analysis of in-stent restenosis (ISR). In addition, a user-friendly graphical user interface (GUI) is developed based on the employed algorithm toward clinical use.
+
+
+METHODS
+Four clinical datasets of frequency-domain OCT scans of the human femoral artery were analyzed. First, a segmentation method based on fuzzy C means (FCM) clustering and wavelet transform (WT) was applied toward inner luminal contour extraction. Subsequently, stent strut positions were detected by utilizing metrics derived from the local maxima of the wavelet transform into the FCM membership function.
+
+
+RESULTS
+The inner lumen contour and the position of stent strut were extracted with high precision. Compared to manual segmentation by an expert physician, the automatic lumen contour delineation had an average overlap value of 0.917 ± 0.065 for all OCT images included in the study. The strut detection procedure achieved an overall accuracy of 93.80% and successfully identified 9.57 ± 0.5 struts for every OCT image. Processing time was confined to approximately 2.5 s per OCT frame.
+
+
+CONCLUSIONS
+A new fast and robust automatic segmentation technique combining FCM and WT for lumen border extraction and strut detection in intravascular OCT images was designed and implemented. The proposed algorithm integrated in a GUI represents a step forward toward the employment of automated quantitative analysis of ISR in clinical practice.

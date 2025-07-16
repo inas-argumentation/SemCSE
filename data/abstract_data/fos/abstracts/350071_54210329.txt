@@ -1,0 +1,31 @@
+Development and field testing of an online instrument for measuring the real-time oxidative potential of ambient particulate matter based on dithiothreitol assay
+. We developed an online instrument for measuring the oxidative potential (OP)
+of ambient particulate matter (PM) using the dithiothreitol (DTT) assay. The
+instrument uses a mist chamber (MC) to continuously collect the ambient
+PM 2.5 in water, and then determines its DTT activity using an automated syringe pump system. The instrument was
+deployed at an urban site in the University of Illinois campus, and its field
+performance was evaluated by comparing the results with the offline DTT
+activity measurements of simultaneously collected PM-laden filters. The
+online DTT activity measurements correlated well with the offline
+measurements but were higher than both methanol (slope  =1.0 8, R2=0.93 ) and Milli-Q water (slope  =1.86 , R2=0.86 ) extracts of the PM
+filters, indicating a better efficiency of the MC for collecting the
+water-insoluble fraction of PM. The hourly measurements of ambient PM 2.5 
+OP were obtained by running the online instrument intermittently for 50 days
+with minimal manual assistance. The daytime DTT activity levels were
+generally higher than at night. However, a 4-fold increase in the hourly
+averaged activity was observed on the night of 4 July (Independence Day
+fireworks display). The diurnal profile of the hourly averaged OP during
+weekdays showed a bimodal trend, with a sharp peak in the morning (around
+07:00 LT), followed by a broader
+afternoon peak which plateaus around 14:00 LT and starts subsiding at night
+(around 19:00 LT). To investigate the association of the diurnal profile of DTT activity with
+the emission sources at the site, we collected time-segregated composite PM
+filter samples in four different time periods of the day (morning,
+07:00–10:00 LT; afternoon, 10:00–15:00 LT; evening, 15:00–19:00 LT; and
+night, 19:00–07:00 LT) and determined the diurnal variations in the redox
+active components (i.e., water-soluble Cu, Fe, Mn, organic carbon, elemental
+carbon, and water-soluble organic carbon). Based on this comparison, we
+attributed the daytime OP of ambient PM 2.5 to the vehicular (both
+exhaust and non-exhaust) emissions and resuspended dust, whereas secondary
+photochemical transformation of primary emissions appear to enhance the OP of
+PM during the afternoon and evening period.

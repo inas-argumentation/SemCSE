@@ -1,0 +1,2 @@
+Symmetrical path-cycle covers of a graph and polygonal graphs
+A near-polygonal graph is a graph @C which has a set C of m-cycles for some positive integer m such that each 2-path of @C is contained in exactly one cycle in C. If m is the girth of @C then the graph is called polygonal. We introduce a method for constructing near-polygonal graphs with 2-arc transitive automorphism groups. As special cases, we obtain several new infinite families of polygonal graphs.

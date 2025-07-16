@@ -1,0 +1,11 @@
+High-quality sequence clustering guided by network topology and multiple alignment likelihood
+MOTIVATION
+Proteins can be naturally classified into families of homologous sequences that derive from a common ancestor. The comparison of homologous sequences and the analysis of their phylogenetic relationships provide useful information regarding the function and evolution of genes. One important difficulty of clustering methods is to distinguish highly divergent homologous sequences from sequences that only share partial homology due to evolution by protein domain rearrangements. Existing clustering methods require parameters that have to be set a priori. Given the variability in the evolution pattern among proteins, these parameters cannot be optimal for all gene families.
+
+
+RESULTS
+We propose a strategy that aims at clustering sequences homologous over their entire length, and that takes into account the pattern of substitution specific to each gene family. Sequences are first all compared with each other and clustered into pre-families, based on pairwise similarity criteria, with permissive parameters to optimize sensitivity. Pre-families are then divided into homogeneous clusters, based on the topology of the similarity network. Finally, clusters are progressively merged into families, for which we compute multiple alignments, and we use a model selection technique to find the optimal tradeoff between the number of families and multiple alignment likelihood. To evaluate this method, called HiFiX, we analyzed simulated sequences and manually curated datasets. These tests showed that HiFiX is the only method robust to both sequence divergence and domain rearrangements. HiFiX is fast enough to be used on very large datasets.
+
+
+AVAILABILITY AND IMPLEMENTATION
+The Python software HiFiX is freely available at http://lbbe.univ-lyon1.fr/hifix.

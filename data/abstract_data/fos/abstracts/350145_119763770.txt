@@ -1,0 +1,2 @@
+Minimum Variance Quadratic Unbiased Estimation for the Variance Components in Simple Linear Regression with Onefold Nested Error
+The explicit forms of the minimum variance quadratic unbiased estimators (MIVQUEs) of the variance components are given for simple linear regression with onefold nested error. The resulting estimators are more efficient as the ratio of the initial variance components estimates increases and are asymptotically efficient as the ratio tends to infinity.

@@ -1,0 +1,15 @@
+SU-G-TeP1-15: Toward a Novel GPU Accelerated Deterministic Solution to the Linear Boltzmann Transport Equation.
+PURPOSE
+To develop a Graphic Processor Unit (GPU) accelerated deterministic solution to the Linear Boltzmann Transport Equation (LBTE) for accurate dose calculations in radiotherapy (RT). A deterministic solution yields the potential for major speed improvements due to the sparse matrix-vector and vector-vector multiplications and would thus be of benefit to RT.
+
+
+METHODS
+In order to leverage the massively parallel architecture of GPUs, the first order LBTE was reformulated as a second order self-adjoint equation using the Least Squares Finite Element Method (LSFEM). This produces a symmetric positive-definite matrix which is efficiently solved using a parallelized conjugate gradient (CG) solver. The LSFEM formalism is applied in space, discrete ordinates is applied in angle, and the Multigroup method is applied in energy. The final linear system of equations produced is tightly coupled in space and angle. Our code written in CUDA-C was benchmarked on an Nvidia GeForce TITAN-X GPU against an Intel i7-6700K CPU. A spatial mesh of 30,950 tetrahedral elements was used with an S4 angular approximation.
+
+
+RESULTS
+To avoid repeating a full computationally intensive finite element matrix assembly at each Multigroup energy, a novel mapping algorithm was developed which minimized the operations required at each energy. Additionally, a parallelized memory mapping for the kronecker product between the sparse spatial and angular matrices, including Dirichlet boundary conditions, was created. Atomicity is preserved by graph-coloring overlapping nodes into separate kernel launches. The one-time mapping calculations for matrix assembly, kronecker product, and boundary condition application took 452±1ms on GPU. Matrix assembly for 16 energy groups took 556±3s on CPU, and 358±2ms on GPU using the mappings developed. The CG solver took 93±1s on CPU, and 468±2ms on GPU.
+
+
+CONCLUSION
+Three computationally intensive subroutines in deterministically solving the LBTE have been formulated on GPU, resulting in two orders of magnitude speedup. Funding support from Natural Sciences and Engineering Research Council and Alberta Innovates Health Solutions. Dr. Fallone is a co-founder and CEO of MagnetTx Oncology Solutions (under discussions to license Alberta bi-planar linac MR for commercialization).

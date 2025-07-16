@@ -1,0 +1,2 @@
+Reproduction Report on "Learn to Pay Attention"
+We have successfully implemented the "Learn to Pay Attention" model of attention mechanism in convolutional neural networks, and have replicated the results of the original paper in the categories of image classification and fine grained recognition.

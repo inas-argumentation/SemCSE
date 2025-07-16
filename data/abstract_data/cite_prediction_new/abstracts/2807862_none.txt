@@ -1,0 +1,2 @@
+Ju n 20 03 Rates of convergence for constrained deconvolution problem
+Let X and Y be two independent identically distributed random variables with density p(x) and Z = αX + βY for some constants α > 0 and β > 0. We consider the problem of estimating p(x) by means of the samples from the distribution of Z. Non-parametric estimator based on the sync kernel is constructed and asymptotic behaviour of the corresponding mean integrated square error is investigated.

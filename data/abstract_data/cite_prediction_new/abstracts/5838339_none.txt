@@ -1,0 +1,2 @@
+A 50 MHz CMOS differential amplifier channel for a laser range finding device
+An integrated CMOS differential amplifier channel consisting of a transimpedance preamplifier, postamplifiers and gain control circuitry has been designed for the receiver of a pulsed time-of-flight laser range finding device. The amplifier channel has a measured total transimpedance of Z/sub t//spl ap/1.27 M/spl Omega/ with a bandwidth of BW/spl ap/60 MHz and an input-referred noise current of i/sub ni//spl ap/4.5 pA//spl radic/(Hz).<<ETX>>

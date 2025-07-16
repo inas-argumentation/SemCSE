@@ -1,0 +1,2 @@
+Android anomaly detection system using machine learning classification
+Android is one of the most popular open-source smartphone operating system and its access control permission mechanisms cannot detect any malware behavior. In this paper, new software behavior-based anomaly detection system is proposed to detect anomaly caused by malware. It works by analyzing anomalies on power consumption, battery temperature and network traffic data using machine learning classification algorithm. The result shows that this method can detect anomaly with 85.6% accuracy.

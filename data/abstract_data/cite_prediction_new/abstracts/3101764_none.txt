@@ -1,0 +1,2 @@
+Modelling Trade-by-Trade Price Movements of Multiple Assets Using Multivariate Compound Poisson Processes
+In this paper we extend Rydberg-Shephards acivity, direction and size decomposition of trade-by-trade price movements to the mulvariate case. We illustrate our ideas using a bivariate modelling problem - modelling the evolution of the prices of Ford and GM shares. Throughout we use the continuous record of trades made in the first five months of 1997 on the New York Stock Exchange (NYSE).

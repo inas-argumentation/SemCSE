@@ -1,0 +1,2 @@
+Mutual Suspicion in a Generic Object-Support System
+We are currently facing the security paradox that applications must allow integration of information from various sources (like the web) and support global co-operation between users, i.e. there is a drive towards a stronger integration of information and services from weakly authenticated sources. In large networks like the Internet or enterprise wide intranets, without a common trusted computing base and no single source of authority in the system, a policy of mutual suspicion seems a prudent approach to co-operation.

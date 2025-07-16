@@ -1,0 +1,2 @@
+Collision avoidance of unmanned ships based on artificial potential field
+The collision avoidance problem of autonomous ships is analyzed in this paper. Firstly, the background and the difficulties are reviewed. Then an improved artificial potential field method is designed to solve the collision avoidance problem of unmanned ships, and the system characteristics are investigated. Finally, simulation results demonstrate the ship's control effectiveness in the obstacle environment.

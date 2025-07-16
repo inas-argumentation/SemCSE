@@ -1,0 +1,2 @@
+Deterministic scheduling for multithreaded replicas
+Replication of objects, processes and components is essential for building reliable distributed systems. However, maintaining replica consistency in the presence of nondeterminism is a challenge. There are many sources of nondeterminism in the applications being replicated. In this paper, we focus on the nondeterminism resulting from multithreading in the applications, and present a deterministic scheduling algorithm for ensuring consistent execution of replicated multithreaded applications.

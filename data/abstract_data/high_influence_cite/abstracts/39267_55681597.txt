@@ -1,0 +1,2 @@
+Symbolic dynamics for one dimensional maps with nonuniform expansion
+Given a piecewise $C^{1+\beta}$ map of the interval, possibly with critical points and discontinuities, we construct a symbolic model for invariant measures with non-uniform expansion that do not approach the critical points and discontinuities exponentially fast almost surely. More specifically, we code the lift of these measures in the natural extension of the map.

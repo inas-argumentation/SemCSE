@@ -1,0 +1,2 @@
+Evaluating signs of determinants using single-precision arithmetic
+We propose a method of evaluating signs of 2×2 and 3×3 determinants withb-bit integer entries using onlyb and (b+1)-bit arithmetic, respectively. This algorithm has numerous applications in geometric computation and provides a general and practical approach to robustness. The algorithm has been implemented and compared with other exact computation methods.

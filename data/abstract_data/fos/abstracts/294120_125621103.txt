@@ -1,0 +1,2 @@
+Random search algorithm for optimal mixture experimental design
+ABSTRACT It is well known that it is difficult to obtain an accurate optimal design for a mixture experimental design with complex constraints. In this article, we construct a random search algorithm which can be used to find the optimal design for mixture model with complex constraints. First, we generate an initial set by the Monte-Carlo method, and then run the random search algorithm to get the optimal set of points. After that, we explain the effectiveness of this method by using two examples.

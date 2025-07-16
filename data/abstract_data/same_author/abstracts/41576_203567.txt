@@ -1,0 +1,2 @@
+Separating replication from distributed communication: problems and solutions
+Replication and distributed communication are usually tightly coupled. This code tangling forbids their independent reuse and adaptation. In this position paper, the problems resulting from coupling replication with distributed communication are discussed. In addition, a solution based on separation of concerns is proposed. The abstractions for each concern are presented, as well as their composition.

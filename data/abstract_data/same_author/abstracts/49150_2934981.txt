@@ -1,0 +1,2 @@
+On Finding the Rectangular Duals of Planar Triangular Graphs
+This paper presents a new linear-time algorithm for finding rectangular duals of planar triangular graphs. The algorithm is conceptually simpler than the previously known algorithm. The coordinates of the rectangular dual constructed by the new algorithm are integers and carry clear combinatorial meaning.

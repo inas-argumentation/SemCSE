@@ -1,0 +1,2 @@
+Information Discovery, Extraction and Integration for the Hidden Web
+In this paper, we report our initial investigations on the problems of automatically extracting data objects from a given hidden-web source (i.e., the web site with an HTML search form) and automatically assigning semantics to the extracted data. We also propose some future work to address the problem of information discovery and integration for hidden-web sources.

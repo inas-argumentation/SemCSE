@@ -1,0 +1,2 @@
+A visual odometer for autonomous helicopter flight
+This paper presents a visual odometer for autonomous helicopter flight. The odometer estimates helicopter position by visually locking on to and tracking ground objects. The paper describes the philosophy behind the odometer as well as its tracking algorithm and implementation. The paper concludes by presenting test flight data of the odometer's performance on-board indoor and outdoor prototype autonomous helicopters.

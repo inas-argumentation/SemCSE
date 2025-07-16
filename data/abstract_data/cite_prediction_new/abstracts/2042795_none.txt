@@ -1,0 +1,2 @@
+A Correlation Inequality and Its Application to aWord
+We give upper bounds for the probability that a random word of a given length contains at least one letter from each member of a given collection of sets of letters. We rst show a correlation inequality that bounds the probability of the conjunction of a number of pairwise dependent events. The bound takes into account only pairs of events that are positively correlated, yielding signiicantly tighter bounds in some interesting cases.

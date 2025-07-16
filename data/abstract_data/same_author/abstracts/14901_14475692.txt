@@ -1,0 +1,2 @@
+Latest Beam Test Results of the FONT4 ILC Intra-train Feedback System Prototype
+We present the design and preliminary results of a prototype beam-based digital feedback system for the Interaction Point of the International Linear Collider. A custom analogue front-end processor, FPGA-based digital signal processing board, and kicker drive amplifier have been designed, built, and tested on the extraction line of the KEK Accelerator Test Facility (ATF). The system was measured to have a latency of approximately 140 ns.

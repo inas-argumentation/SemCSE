@@ -1,0 +1,2 @@
+Personal Attributes Extraction in Chinese Text Based on Recurrent Neural Network
+Personal Attributes Extraction in Chinese Text Task is designed to extract person specific attributes, for example, spouse/husband, children, education, title etc. from unstructured Chinese texts. According to the characteristics of the personal attributes extraction, we propose a new method based on deep learning to extract attributes from the documents in this paper. Experiments show that this method can improve the accuracy of personal attributes extraction effectively.

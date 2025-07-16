@@ -1,0 +1,2 @@
+A Multi-Level Probabilistic Neural Network
+Based on the idea of an important cluster, a new multi-level probabilistic neural network (MLPNN) is introduced. The MLPNN uses an incremental constructive approach, i.e. it grows level by level. The construction algorithm of the MLPNN is proposed such that the classification accuracy monotonically increases to ensure that the classification accuracy of the MLPNN is higher than or equal to that of the traditional PNN. Numerical examples are included to demonstrate the effectiveness of proposed new approach.

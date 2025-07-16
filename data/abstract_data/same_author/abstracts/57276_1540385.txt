@@ -1,0 +1,2 @@
+Edge-colorings of complete graphs that avoid polychromatic trees
+Given a positive integer n and a family F of graphs, let R^*(n,F) denote the maximum number of colors in an edge-coloring of K"n such that no subgraph of K"n belonging to F has distinct colors on its edges. We determine R^*(n,T"k), where T"k is the family of trees with k edges. We derive general bounds for R^*(n,T), where T is an arbitrary tree with k edges. Finally, we present a single tree T with k edges such that R^*(n,T) is nearly as small as R^*(n,T"k).

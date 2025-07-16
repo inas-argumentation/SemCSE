@@ -1,0 +1,15 @@
+SU-G-TeP1-08: LINAC Head Geometry Modeling for Cyber Knife System.
+PURPOSE
+Knowledge of the LINAC head information is critical for model based dose calculation algorithms. However, the geometries are difficult to measure precisely. The purpose of this study is to develop linac head models for Cyber Knife system (CKS).
+
+
+METHODS
+For CKS, the commissioning data were measured in water at 800mm SAD. The measured full width at half maximum (FWHM) for each cone was found greater than the nominal value, this was further confirmed by additional film measurement in air. Diameter correction, cone shift and source shift models (DCM, CSM and SSM) are proposed to account for the differences. In DCM, a cone-specific correction is applied. For CSM and SSM, a single shift is applied to the cone or source physical position. All three models were validated with an in-house developed pencil beam dose calculation algorithm, and further evaluated by the collimator scatter factor (Sc) correction.
+
+
+RESULTS
+The mean square error (MSE) between nominal diameter and the FWHM derived from commissioning data and in-air measurement are 0.54mm and 0.44mm, with the discrepancy increasing with cone size. Optimal shift for CSM and SSM is found to be 9mm upward and 18mm downward, respectively. The MSE in FWHM is reduced to 0.04mm and 0.14mm for DCM and CSM (SSM). Both DCM and CSM result in the same set of Sc values. Combining all cones at SAD 600-1000mm, the average deviation from 1 in Sc of DCM (CSM) and SSM is 2.6% and 2.2%, and reduced to 0.9% and 0.7% for the cones with diameter greater than 15mm.
+
+
+CONCLUSION
+We developed three geometrical models for CKS. All models can handle the discrepancy between vendor specifications and commissioning data. And SSM has the best performance for Sc correction. The study also validated that a point source can be used in CKS dose calculation algorithms.

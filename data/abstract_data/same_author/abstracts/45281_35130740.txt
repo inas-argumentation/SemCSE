@@ -1,0 +1,2 @@
+Decision problems for propositional linear logic
+It is shown that, unlike most other propositional (quantifier-free) logics, full propositional linear logic is undecidable. Further, it is provided that without the model storage operator, which indicates unboundedness of resources, the decision problem becomes PSPACE-complete. Also established are membership in NP for the multiplicative fragment, NP-completeness for the multiplicative fragment extended with unrestricted weakening, and undecidability for certain fragments of noncommutative propositional linear logic.<<ETX>>

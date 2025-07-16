@@ -1,0 +1,2 @@
+Building a Chinese Shallow Parsed TreeBank for Collocation Extraction
+To automatically extract Chinese collocations and build a large-scale collocation bank, we are developing a one-million-word Chinese shallow parsed treebank. The treebank can be used not only as a training set for our shallow parser, but also as processed data from which collocations are extracted. This paper presents several issues related to this on-going project, such as our definition of shallow parsing used in Chinese collocation extraction, guideline preparation, and quality control.

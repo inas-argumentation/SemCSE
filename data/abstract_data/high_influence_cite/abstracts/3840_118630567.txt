@@ -1,0 +1,2 @@
+Tropical enumeration of curves in blowups of the projective plane
+We describe a method for recursively calculating Gromov-Witten invariants of all blowups of the projective plane. This recursive formula is different from the recursive formulas due to G\"ottsche and Pandharipande in the zero genus case, and Caporaso and Harris in the case of no blowups. We use tropical curves and a recursive computation of Gromov-Witten invariants relative a normal crossing divisor.

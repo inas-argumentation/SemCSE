@@ -1,0 +1,2 @@
+Bounded degree acyclic decompositions of digraphs
+An acyclic decomposition of a digraph is a partition of the edges into acyclic subgraphs. Trivially every digraph has an acyclic decomposition into two subgraphs. It is proved that for every integer s ≥ 2 every digraph has an acyclic decomposition into s subgraphs such that in each subgraph the outdegree of each vertex v is at most ⌊deg(v)/s - 1⌋. For all digraphs this degree bound is optimal.

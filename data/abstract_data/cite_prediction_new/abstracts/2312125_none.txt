@@ -1,0 +1,2 @@
+Detecting insider threats by monitoring system call activity
+One approach to detecting insider misbehavior is to monitor system call activity and watch for danger signs or unusual behavior. We describe an experimental system designed to test this approach. We tested the system's ability to detect common insider misbehavior by examining file system and process-related system calls. Our results show that this approach can detect many such activities.

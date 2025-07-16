@@ -1,0 +1,2 @@
+NOTE New Upper Bounds for a Canonical Ramsey Problem
+f(l,k) be the minimum n with the property that every coloring yields either with , or with all distinct. We prove that if , then as . This supports the conjecture of Lefmann, Rödl, and Thomas that .

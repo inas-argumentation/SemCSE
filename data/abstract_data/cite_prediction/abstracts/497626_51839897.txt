@@ -1,0 +1,2 @@
+Active learning for deep semantic parsing
+P is computed by a Seq2Seq model with attention, requires utterance x but not logical form y. ● Active learning score = linear combination of features using weights from binary classifier. ○ Predict if Forward S2S selects utterances. ○ Trained on ATIS dev corpus. ● Binary classifier to predict Forward S2S using ○ RNN LF language model ○ Backward S2S model ● Margins between the best and second best hypotheses ● Source token frequency ● Utterance log loss ● Encoder and decoder last hidden states Backward Classifier

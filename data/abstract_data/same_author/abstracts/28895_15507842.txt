@@ -1,0 +1,2 @@
+Creation of a dense torus in the coalescence of a black hole with a neutron star
+We used a newtonian SPH (smooth-particle hydrodynamics) code to follow the final stages of evolution of a coalescing binary system of a neutron star and a black hole. We find that the outcome of the "merger" is very sensitive to the equation of state describing the neutron star. A neutron star with a soft equation of state (polytrope with index Gamma=5/3) is completely disrupted, and a fairly large and long-lived accretion torus is formed.

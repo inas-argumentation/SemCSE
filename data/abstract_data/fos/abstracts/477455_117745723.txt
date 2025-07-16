@@ -1,0 +1,2 @@
+Estimation of transition probabilities in a two-state markov chain
+Small sample estimators for the transition probabilities of an irreducible Markov chain with two ergodic states which have smallest possible biases are proposed, It is also shown that the conventional maximum likelihood estimator of the transition probability from a state to itself tends to underestimate the true value.

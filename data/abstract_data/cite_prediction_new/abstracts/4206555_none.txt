@@ -1,0 +1,15 @@
+Electrochemical immunosensor for simultaneous detection of dual cardiac markers based on a poly(dimethylsiloxane)-gold nanoparticles composite microfluidic chip: a proof of principle.
+BACKGROUND
+The emergence of microfluidic immunosensors has provided a promising tool for improving clinical diagnoses. We developed an electrochemical immunoassay for the simultaneous detection of cardiac troponin I (cTnI) and C-reactive protein (CRP), based on microfluidic chips.
+
+
+METHODS
+The quantitative methodology was based on ELISA in poly(dimethylsiloxane)-gold nanoparticle composite microreactors. CdTe and ZnSe quantum dots were bioconjugated with antibodies for sandwich immunoassay. After the CdTe and ZnSe quantum dots were dissolved, Cd(2+) and Zn(2+) were detected by square-wave anodic stripping voltammetry to enable the quantification of the 2 biomarkers. The 2 biomarkers were measured in 20 human serum samples by using the proposed method and commercially available methods.
+
+
+RESULTS
+This immunosensor allowed simultaneous detection of serum cTnI and CRP. The linear range of this assay was between 0.01 and 50 μg/L and 0.5 and 200 μg/L, with the detection limits of approximately 5 amol and approximately 307 amol in 30-μL samples corresponding to cTnI and CRP, respectively. Slopes close to 1 and the correlation coefficient over 0.99 were obtained for both analytes.
+
+
+CONCLUSIONS
+This strategy demonstrates a proof of principle for the successful integration of microfluidics with electrochemistry that can potentially provide an alternative to protein detection in the clinical laboratory.

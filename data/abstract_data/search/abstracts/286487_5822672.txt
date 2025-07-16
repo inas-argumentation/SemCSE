@@ -1,0 +1,2 @@
+On Constructing Fibred Tableaux for BDI Logics
+In [11,13] we showed how to combine propositional BDI logics using Gabbay's fibring methodology. In this paper we extend the above mentioned works by providing a tableau based decision procedure for the combined/fibred logics. We show how to uniformly construct a tableau calculus for the combined logic using Governatori's labelled tableau system KEM.

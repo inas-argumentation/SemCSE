@@ -1,0 +1,2 @@
+Determination of network state in switching power converters
+In this paper an algorithm for piecewise-linear network state-determination is presented. The algorithm is capable of solving networks that contain piecewise-linear elements with discontinuous characteristics, frequently encountered in power electronics. No prior knowledge about the network operation is required. The algorithm has been implemented in a time-domain simulator for power electronic networks. Application examples with relatively complex power converters are presented.<<ETX>>

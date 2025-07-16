@@ -1,0 +1,2 @@
+Activity Factor Based Hardware Trojan Detection and Localization
+Due to the globalization of integrated circuit design and manufacturing, hardware Trojan has become a serious security threat. In this paper, we decompose redundant thermal maps to extract Trojan activity factor using factor analysis to implement hardware Trojan detection and location. Xilinx FPGAs configured with the benchmark circuits from Trust hub are utilized to evaluate our proposed countermeasure. The results indicate that hardware Trojans with less than 20 gates can be detected.

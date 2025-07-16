@@ -1,0 +1,2 @@
+Efficient adaptive density estimation per image pixel for the task of background subtraction
+We analyze the computer vision task of pixel-level background subtraction. We present recursive equations that are used to constantly update the parameters of a Gaussian mixture model and to simultaneously select the appropriate number of components for each pixel. We also present a simple non-parametric adaptive density estimation method. The two methods are compared with each other and with some previously proposed algorithms.

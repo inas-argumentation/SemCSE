@@ -1,0 +1,2 @@
+The Emulation Application of MATLAB in Industrial Control
+The process of constructing an emulation model of industrial control with MATLAB is introduced in the paper.With the system of adjustable pressure casting as an example,the MATLAB emulation process of control system based on the digital PID control method and fuzzy control method is related in detail and the results of emulation are given as well.It is proved that MATLAB is an available instrument to research and analyze control system.

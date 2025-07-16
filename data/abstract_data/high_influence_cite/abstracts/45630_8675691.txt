@@ -1,0 +1,2 @@
+Providing Reliable FIB Update Acknowledgments in SDN
+In this paper, we first show that transient, but grave problems such as violations of security policies can occur with real switches even when using consistent updates to Software Defined Networks. Next, we present techniques that are effective in ameliorating this problem. Our key insight is in creating a transparent layer that relies on control and data plane measurements to confirm rule updates only when the rule is visible in the data plane.

@@ -1,0 +1,23 @@
+UPPER BOUNDS ON THE ELASTIC DIFFERENTIAL CROSS SECTION.
+We derive improved axiomatic upper bounds on the elastic unpolarized differential cross section, dσdΩ, at high energies for the scattering of particles with arbitrary spin. We prove that 
+dσdω⩽s→∞σel4φ{(L+1)2[PL(cos θ)]2+sin2θ[PL′(cos θ)]2} 
+with L=12Sto In sσel), where s and t are, respectively, the squares of the c.m. energy and the c.m. momentum transfer; θ is the c.m. scattering angle. Further to, is the mass of the lowest mass state that couples to the crossed t-channel (being equal to twice the pion mass for ππ and πN scattering). This result has the following important consequences: 
+1. 
+(i) for forward scattering, 
+dσdtt=0⩽s→∞σel4t0Insσel2 
+ 
+ 
+2. 
+(ii) for fixed θ ≠ 0, π, 
+dσdω(s;cosθ)⩽s→∞14φ2st0σelsinθInsσel 
+and 
+ 
+3. 
+(iii) for fixed negative t, 
+ 
+ 
+ 
+dσdω(s,t)⩽s→∞18φt0s−tσelInsσel 
+ 
+ 
+We also give an upper bound on differential cross section involving the diffraction peak width but not having an explicit ln s dependence.

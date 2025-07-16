@@ -1,0 +1,2 @@
+A System Identification Method for Nonuniform Sampling Data Based on Missing Data Estimation
+In this letter, a system identification method for nonuniform sampling data is proposed. First, nonuniform sampling data is transformed to uniform sampling data whose sampling period is smaller than the original data. Second, a system identification method with missing data estimation is applied to the transformed data, since the transformed data contains a lot of missing data, Finally, the effectiveness of the proposed method is examined though a numerical example.

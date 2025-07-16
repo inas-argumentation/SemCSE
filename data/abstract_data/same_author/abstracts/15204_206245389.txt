@@ -1,0 +1,2 @@
+Power counting in the soft-collinear effective theory
+We describe in some detail the derivation of a power counting formula for the soft-collinear effective theory (SCET). This formula constrains which operators are required to correctly describe the infrared at any order in the Lambda_QCD/Q expansion (lambda expansion). The result assigns a unique lambda-dimension to graphs in SCET solely from vertices, is gauge independent, and can be applied independent of the process. For processes with an OPE the lambda-dimension has a correspondence with dynamical twist.

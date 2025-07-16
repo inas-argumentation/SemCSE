@@ -1,0 +1,2 @@
+An Interactive NLP Tool for Signout Note Preparation
+We present an interactive approach to ease the construction, review, and revision of Natural Language Processing models for extractive summarization. To demonstrate our approach, we propose an interactive tool to be used by clinicians to identify text for inclusion in brief patient summaries "signout notes" from full text patient notes. Lessons learned from the development and evaluation of this tool will provide insight into the generalized design of interactive NLP systems for wider clinical applications.

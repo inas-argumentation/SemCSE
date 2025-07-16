@@ -1,0 +1,2 @@
+Comparison of various feature extraction methods in digit recognition
+Digit recognition can be difficult due to different writing styles of people. Therefore, there are a lot of feature extraction methods. In this paper, commonly used feature extraction methods in digit recognition and their performance are investigated. These methods are Gradient Features, Diagonal Features, Zoninig Features, Projection Histograms Features and Chaincode Features.

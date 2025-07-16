@@ -1,0 +1,2 @@
+A Commitment Protocol Based on KEA 1 and Revocable DDH Assumptions
+This paper shows a commitment protocol which under the KEA1 and Revocable DDH assumptions securely realizes the ideal functionality FCOM of a single commitment. We use an extractor in KEA1 assumption in order to realize extractability of the protocol. By the protocol we can commit to k-bit message with O(k) bits in O(k) computations. It is as efficient as the currently most efficient UC protocol of [7] based on Okamoto-Uchiyama encryption scheme.

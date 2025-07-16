@@ -1,0 +1,2 @@
+Multi-vortices are wall vortices: A numerical proof
+Abstract We study the Abrikosov–Nielsen–Olesen multi-vortices. Using a numerical code we are able to solve the vortex equations with winding number up to n = 25 000 . We can thus check the wall vortex conjecture previously made in [S. Bolognesi, Nucl. Phys. B 730 (2005) 127; S. Bolognesi, Nucl. Phys. B 730 (2005) 150]. The numerical results show a remarkable agreement with the theoretical predictions.

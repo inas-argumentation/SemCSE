@@ -1,0 +1,26 @@
+On Sharp Identification Regions for Regression Under Interval Data
+The reliable analysis of interval data (coarsened data) is one of the 
+most promising applications of imprecise probabilities in statistics. If one 
+refrains from making untestable, and often materially unjustified, strong 
+assumptions on the coarsening process, then the empirical distribution 
+of the data is imprecise, and statistical models are, in Manski’s terms, 
+partially identified. We first elaborate some subtle differences between 
+two natural ways of handling interval data in the dependent variable of 
+regression models, distinguishing between two different types of identification 
+regions, called Sharp Marrow Region (SMR) and Sharp Collection 
+Region (SCR) here. Focusing on the case of linear regression analysis, we 
+then derive some fundamental geometrical properties of SMR and SCR, 
+allowing a comparison of the regions and providing some guidelines for 
+their canonical construction. 
+Relying on the algebraic framework of adjunctions of two mappings between 
+partially ordered sets, we characterize SMR as a right adjoint and 
+as the monotone kernel of a criterion function based mapping, while SCR 
+is indeed interpretable as the corresponding monotone hull. Finally we 
+sketch some ideas on a compromise between SMR and SCR based on a 
+set-domained loss function. 
+This paper is an extended version of a shorter paper with the same title, 
+that is conditionally accepted for publication in the Proceedings of 
+the Eighth International Symposium on Imprecise Probability: Theories 
+and Applications. In the present paper we added proofs and the seventh 
+chapter with a small Monte-Carlo-Illustration, that would have made the 
+original paper too long.

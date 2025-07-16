@@ -1,0 +1,2 @@
+Model checking Object-Z classes: Some experiments with FDR
+This paper investigates model checking Object-Z classes via their translation to the input notation of the CSP model checker FDR. Such a translation must not only be concerned with preserving the semantics of the original specification, but also with how efficiently the resulting specification can be model checked. Hence, the paper investigates alternative translation schemes and compares how efficiently the resulting specifications can be checked.

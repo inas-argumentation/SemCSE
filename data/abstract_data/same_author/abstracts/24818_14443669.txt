@@ -1,0 +1,2 @@
+The power of the Shuvaev transform
+We justify the practical use of the Shuvaev transform approach to calculate the skewed distributions, needed to describe diffractive processes, directly from the conventional diagonal global parton distributions. We address doubts which have been raised about this procedure. We construct an easily accessible package for the computation of these skewed distributions.

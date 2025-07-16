@@ -1,0 +1,15 @@
+Technical Note: New similarity index for radiotherapy and medical imaging.
+PURPOSE
+to describe a new similarity index and consider its biomedical applications.
+
+
+METHODS
+similarity index for a pair of objects is defined by the number of shared features and total number of features in these objects. Similarity measure for more than two objects is commonly defined by using pairwise similarity indices. In the current study we suggest a novel similarity index which depends on the number of features shared between multiple objects and doesn't have the limitations of the recently described similarity measures. In order to introduce the new index, we consider a concept of "commonality". For a collection of sets A1 ,A2 ....., AN , commonality of a given element equals the number of sets this element belongs to. The similarity index for the compared sets is then defined by a weighted sum of normalized commonalities.
+
+
+RESULTS
+the considered biomedical applications of the proposed index include comparison of independent delineations of critical cranial structures in MR images and comparison of isodose distributions from different radiotherapy plans.
+
+
+CONCLUSIONS
+this study describes a novel similarity index which can be used to assess similarity of multiple independent delineations of the anatomical structure or similarity of multiple dose distributions. Unlike the commonly used pairwise similarity indices, the new index is defined by the number of elements shared between multiple sets. Potential applications of the suggested similarity index for radiotherapy and medical imaging have been described.

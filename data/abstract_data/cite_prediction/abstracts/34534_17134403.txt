@@ -1,0 +1,2 @@
+A robotics simulator platform for RADOE
+This paper presents a new simulation platform for the industrial project of Robot Application Development and Operating Environment (RADOE). The simulator displays the robot models in Gazebo and Rviz interfaces concurrently starting from the bare bone framework. A Rviz interface plugin is developed for users to easily load the launch files or parameter files to the simulation platform. Experiments are designed to show some typical industrial robots integrated with their end-effectors.

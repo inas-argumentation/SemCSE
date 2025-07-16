@@ -1,0 +1,2 @@
+Learning Mixtures of Product Distributions Using Correlations and Independence
+We study the problem of learning mixtures of distributions, a natural formalization of clustering. A mixture of distributions is a collection of distributions D = {D1, . . .DT }, and mixing weights, {w1, . . . , wT } such that

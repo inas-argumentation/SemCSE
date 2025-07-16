@@ -1,0 +1,2 @@
+N^4 Fields: Neural Network Nearest Neighbor Fields for Image Transforms
+We propose a new architecture for difficult image processing operations, such as natural edge detection or thin object segmentation. The architecture is based on a simple combination of convolutional neural networks with the nearest neighbor search.

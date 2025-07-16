@@ -1,0 +1,15 @@
+Thoracic cavity segmentation algorithm using multiorgan extraction and surface fitting in volumetric CT.
+PURPOSE
+To develop and validate a semiautomatic segmentation method for thoracic cavity volumetry and mediastinum fat quantification of patients with chronic obstructive pulmonary disease.
+
+
+METHODS
+The thoracic cavity region was separated by segmenting multiorgans, namely, the rib, lung, heart, and diaphragm. To encompass various lung disease-induced variations, the inner thoracic wall and diaphragm were modeled by using a three-dimensional surface-fitting method. To improve the accuracy of the diaphragm surface model, the heart and its surrounding tissue were segmented by a two-stage level set method using a shape prior. To assess the accuracy of the proposed algorithm, the algorithm results of 50 patients were compared to the manual segmentation results of two experts with more than 5 years of experience (these manual results were confirmed by an expert thoracic radiologist). The proposed method was also compared to three state-of-the-art segmentation methods. The metrics used to evaluate segmentation accuracy were volumetric overlap ratio (VOR), false positive ratio on VOR (FPRV), false negative ratio on VOR (FNRV), average symmetric absolute surface distance (ASASD), average symmetric squared surface distance (ASSSD), and maximum symmetric surface distance (MSSD).
+
+
+RESULTS
+In terms of thoracic cavity volumetry, the mean ± SD VOR, FPRV, and FNRV of the proposed method were (98.17 ± 0.84)%, (0.49 ± 0.23)%, and (1.34 ± 0.83)%, respectively. The ASASD, ASSSD, and MSSD for the thoracic wall were 0.28 ± 0.12, 1.28 ± 0.53, and 23.91 ± 7.64 mm, respectively. The ASASD, ASSSD, and MSSD for the diaphragm surface were 1.73 ± 0.91, 3.92 ± 1.68, and 27.80 ± 10.63 mm, respectively. The proposed method performed significantly better than the other three methods in terms of VOR, ASASD, and ASSSD.
+
+
+CONCLUSIONS
+The proposed semiautomatic thoracic cavity segmentation method, which extracts multiple organs (namely, the rib, thoracic wall, diaphragm, and heart), performed with high accuracy and may be useful for clinical purposes.

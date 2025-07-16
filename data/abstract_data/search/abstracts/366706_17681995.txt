@@ -1,0 +1,2 @@
+LATTICE BOLTZMANN METHOD FOR FLUID FLOWS
+We present an overview of the lattice Boltzmann method (LBM) a parallel and efficient algorithm for simulating single phase and multiphase fluid flows and for incorporating additional physical complexities. The LBM is especially useful for modeling complicated boundary conditions and multiphase interfaces. Recent extensions of this method are described, including simulations of fluid turbulence, suspension flows, and reaction diffusion systems.

@@ -1,0 +1,2 @@
+Dynamic optimization of guided missile trajectory by use of Matlab and Dynopt Toolbox
+The paper deals with analysis of case study concerning dynamic optimization problem using Dynopt Toolbox. Particularly it focuses on problem with free time and free end point represented by example of guided missile control in two alternatives. The paper introduces Dynopt as powerful tool for most type of dynamic optimization problem, describing the way how the problem is formulated to be ready for Dynopt syntax.

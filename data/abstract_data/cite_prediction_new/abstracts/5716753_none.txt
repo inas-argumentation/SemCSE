@@ -1,0 +1,11 @@
+A complex-valued associative memory for storing patterns as oscillatory states
+.A neuron model in which the neuron state is described by a complex number is proposed. A network of these neurons, which can be used as an associative memory, operates in two distinct modes: (i) fixed point mode and (ii) oscillatory mode. Mode selection can be done by varying a continuous mode parameter, 
+$\nu$, between 
+$0$ and 
+$1$. At one extreme value of 
+$\nu$ (
+$=0$), the network has conservative dynamics, and at the other (
+$\nu = 1$), the dynamics are dissipative and governed by a Lyapunov function. Patterns can be stored and retrieved at any value of 
+$\nu$ by, (i) a one-step outer product rule or (ii) adaptive Hebbian learning. In the fixed point mode patterns are stored as fixed points, whereas in the oscillatory mode they are encoded as phase relations among individual oscillations. By virtue of an instability in the oscillatory mode, the retrieval pattern is stable over a finite interval, the stability interval, and the pattern gradually deteriorates with time beyond this interval. However, at certain values of 
+$\nu$ sparsely distributed over 
+$\nu$-space the instability disappears. The neurophysiological significance of the instability is briefly discussed. The possibility of physically interpreting dissipativity and conservativity is explored by noting that while conservativity leads to energy savings, dissipativity leads to stability and reliable retrieval.

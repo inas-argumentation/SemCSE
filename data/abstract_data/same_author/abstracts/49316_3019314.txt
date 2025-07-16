@@ -1,0 +1,2 @@
+Amortized constant relaxed rebalancing using standard rotations
+. The idea of relaxed balance is to uncouple the rebalancing in search trees from the updating in order to speed up request processing in main-memory databases. This paper defines the first relaxed binary search tree with amortized constant rebalancing using only standard single or double rotations.

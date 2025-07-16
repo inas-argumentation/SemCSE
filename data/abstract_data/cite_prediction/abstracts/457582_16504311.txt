@@ -1,0 +1,2 @@
+Synthesizing, correcting and improving code, using model checking-based genetic programming
+We show here how the use of genetic programming in combination of model checking provides a powerful way to synthesize programs. Whereas classical algorithmic synthesis provides alarming high complexity and undecidability results, the genetic approach provides a surprisingly successful heuristics. We describe several versions of a method for synthesizing sequential and concurrent systems. We show several examples where we used our approach to synthesize, improve and correct code.

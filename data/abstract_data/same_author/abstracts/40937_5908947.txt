@@ -1,0 +1,2 @@
+Hardness results on the man-exchange stable marriage problem with short preference lists
+We present two hardness results on the man-exchange stable marriage problem, one of which settles a recent conjecture of Irving on the complexity of determining whether a given instance of the stable marriage problem with short preference lists has a man-exchange stable matching.

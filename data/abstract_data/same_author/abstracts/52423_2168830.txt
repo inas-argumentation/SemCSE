@@ -1,0 +1,2 @@
+Generating and Counting Hamilton Cycles in Random Regular Graphs
+LetGbe chosen uniformly at random from the set G(r,n) ofr-regular graphs with vertex set n. We describe polynomial time algorithms thatwhp(i) find a Hamilton cycle inG, and (ii) approximately count the number of Hamilton cycles inG.

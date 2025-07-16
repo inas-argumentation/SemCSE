@@ -1,0 +1,21 @@
+Improving Disease Prevalence Estimates Using Missing Data Techniques
+The prevalence of a disease in a population 
+is defined as the proportion of people who are infected. Selection bias in 
+disease prevalence estimates occurs if non-participation in testing is 
+correlated with disease status. Missing data are commonly encountered in most 
+medical research. Unfortunately, they are often neglected or not properly 
+handled during analytic procedures, and this may substantially bias the results 
+of the study, reduce the study power, and lead to invalid conclusions. The goal 
+of this study is to illustrate how to estimate prevalence in the presence of 
+missing data. We consider a case where the variable of interest (response 
+variable) is binary and some of the observations are missing and assume that 
+all the covariates are fully observed. In most cases, the statistic of 
+interest, when faced with binary data is the prevalence. We develop a two stage 
+approach to improve the prevalence estimates; in the first stage, we use the 
+logistic regression model to predict the missing binary observations and then 
+in the second stage we recalculate the prevalence using the observed data and 
+the imputed missing data. Such a model would be of great interest in research 
+studies involving HIV/AIDS in which people usually refuse to donate blood for 
+testing yet they are willing to provide other covariates. The prevalence 
+estimation method is illustrated using simulated data and applied to HIV/AIDS 
+data from the Kenya AIDS Indicator Survey, 2007.

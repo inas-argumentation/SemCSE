@@ -1,0 +1,2 @@
+Total variation in Hamiltonian formalism and symplectic energy integrators
+We present a discrete total variation calculus in Hamiltonian formalism in this paper. Using this discrete variation calculus and generating functions for the flows of Hamiltonian systems, we derive symplectic-energy integrators of any finite order for Hamiltonian systems from a variational perspective. The relationship between the symplectic integrators derived directly from the Hamiltonian systems and the variationally derived symplectic-energy integrators is explored.

@@ -1,0 +1,2 @@
+An Embedded System Realization based on Bluetooth Technology
+In view of more and more applications of embedded system in household appliances, how to administrate all appliances effectively is a hot research field. In this paper, we analyse the architecture of the bluetooth module with emphasis and show an embedded system design model based on bluetooth technology. This system model integrates all household appliances, and can administrate them conveniently and neatly.

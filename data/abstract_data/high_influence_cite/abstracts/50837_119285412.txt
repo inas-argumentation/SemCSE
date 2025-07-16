@@ -1,0 +1,2 @@
+Rational plane curves parameterizable by conics
+We introduce the class of rational plane curves parameterizable by conics as an extension of the family of curves parameterizable by lines (also known as monoid curves). We show that they are the image of monoid curves via suitable quadratic transformations in projective plane. We also describe all the possible proper parameterizations of them, and a set of minimal generators of the Rees Algebra associated to these parameterizations, extending well-known results for curves parameterizable by lines.

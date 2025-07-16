@@ -1,0 +1,2 @@
+Visualizing next-generation sequencing data with JBrowse
+JBrowse is a web-based genome browser, allowing many sources of data to be visualized, interpreted and navigated in a coherent visual framework. JBrowse uses efficient data structures, pre-generation of image tiles and client-side rendering to provide a fast, interactive browsing experience. Many of JBrowse's design features make it well suited for visualizing high-volume data, such as aligned next-generation sequencing reads.

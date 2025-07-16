@@ -1,0 +1,2 @@
+Solutions of Some Birthday Problems Using Dirichlet Integrals
+We solve many different interesting birthday problems using Dirichlet functions (I, J, C, D). Some of them are very well-known classical problems which we generalize. These solutions are richly illustrated with numerical examples and tables. Some asymptotic expansions are given. We also prove that the expectation of getting r observations in the same cell with b cells and p i = 1 achieves its maximum when the cell probabilities are all equal, i.e., when p 1 = p 2 = … = p b = 1/b.

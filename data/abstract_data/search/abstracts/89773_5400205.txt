@@ -1,0 +1,2 @@
+A 9.4 ENOB 1V 3.8mW 100kS/s SAR ADC with Time Domain Comparator
+The ADC SAR is fabricated in a 0.18mum 2P5M CMOS process. This SAR ADC converter achieves 56fJ/conversion step FOM with 58dB SNDR. It uses a comparator, named time domain comparator, that instead of operating in the voltage domain, transforms the input and the reference voltages into pulses and compares their duration.

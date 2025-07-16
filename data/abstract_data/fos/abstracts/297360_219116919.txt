@@ -1,0 +1,20 @@
+Surface flux estimates derived from UAS-based mole fraction measurements by means of a nocturnal boundary layer budget approach
+. The carbon exchange between ecosystems and the atmosphere has a large
+influence on the Earth system and specifically on the climate. This
+exchange is therefore being studied intensively, often using the eddy
+covariance (EC) technique. EC measurements provide reliable results
+under turbulent atmospheric conditions, but under calm and stable
+conditions – as they often occur at night – these measurements
+are known to misrepresent exchange fluxes. Nocturnal boundary layer
+(NBL) budgets can provide independent flux estimates under stable
+conditions, but their application so far has been limited by rather
+high cost and practical difficulties. Unmanned aircraft systems (UASs)
+equipped with trace gas analysers have the potential to make this
+method more accessible. We present the methodology and results of
+a proof-of-concept study carried out during the ScaleX 2016 campaign.
+Successive vertical profiles of carbon dioxide dry-air mole fraction
+in the NBL were taken with a compact analyser carried by a UAS. We
+estimate an average carbon dioxide flux of 12  µ mol m - 2 s - 1 ,
+which is plausible for nocturnal respiration in this region in summer.
+Transport modelling suggests that the NBL budgets represent an area
+on the order of 100  km2 .

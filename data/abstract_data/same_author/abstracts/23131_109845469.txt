@@ -1,0 +1,2 @@
+Virtualized Batch Worker Nodes: Conception and Integration in HPC Environments
+There are various use cases where one has to separate user environments from the provided machine hardware, operating system or software setup on a cluster. To achieve this, a lightweight implementation of dynamically virtualized worker nodes in common batch systems is presented. Additionally, a summary of experiences and performance measurements obtained by running such a virtualized cluster, shared between nine different departments of the Karlsruhe Institute of Technology, is presented.

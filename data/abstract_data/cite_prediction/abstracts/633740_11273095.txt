@@ -1,0 +1,2 @@
+Bayesian Model Selection and Model Averaging.
+This paper reviews the Bayesian approach to model selection and model averaging. In this review, I emphasize objective Bayesian methods based on noninformative priors. I will also discuss implementation details, approximations, and relationships to other methods. Copyright 2000 Academic Press.

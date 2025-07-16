@@ -1,0 +1,15 @@
+Differential gene expression detection using penalized linear regression models: the improved SAM statistics
+UNLABELLED
+Differential gene expression detection using microarrays has received lots of research interests recently. Many methods have been proposed, including variants of F-statistics, non-parametric approaches and empirical Bayesian methods etc. The SAM statistics has been shown to have good performance in empirical studies. SAM is more like an ad hoc shrinkage method. The idea is that for small sample microarray data, it is often useful to pool information across genes to improve efficiency. Under Bayesian framework Smyth formally derived the test statistics with shrinkage using the hierarchical models. In this paper we cast differential gene expression detection in the familiar framework of linear regression model. Commonly used test statistics correspond to using least squares to estimate the regression parameters. Based on the vast literature of research on linear models, we can naturally consider other alternatives. Here we explore the penalized linear regression. We propose the penalized t-/F-statistics for two-class microarray data based on [Formula: see text] penalty. We will show that the penalized test statistics intuitively makes sense and through applications we illustrate its good performance.
+
+
+AVAILABILITY
+Supplementary information including program codes, more detailed analysis results and R functions for the proposed methods can be found at http://www.biostat.umn.edu/~baolin/research
+
+
+CONTACT
+baolin@biostat.umn.edu
+
+
+SUPPLEMENTARY INFORMATION
+http://www.biostat.umn.edu/~baolin/research.

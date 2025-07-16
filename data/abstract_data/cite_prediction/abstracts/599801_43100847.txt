@@ -1,0 +1,2 @@
+Cutting stock problems and solution procedures
+This paper discusses some of the basic formulation issues and solution procedures for solving oneand twodimensional cutting stock problems. Linear programming, sequential heuristic and hybrid solution procedures are described. For two-dimensional cutting stock problems with rectangular shapes, we also propose an approach for solving large problems with limits on the number of times an ordered size may appear in a pattern.

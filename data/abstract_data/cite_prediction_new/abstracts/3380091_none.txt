@@ -1,0 +1,2 @@
+Trap of trends to statistical significance: likelihood of near significant P value becoming more significant with extra data
+When faced with a P value that has failed to reach some specific threshold (generally P<0.05), authors of scientific articles may imply a “trend towards statistical significance” or otherwise suggest that the failure to achieve statistical significance was due to insufficient data. This paper presents a quantitative analysis to show that such descriptions give a misleading impression and undermine the principle of accurate reporting.

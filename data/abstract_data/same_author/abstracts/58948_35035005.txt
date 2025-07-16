@@ -1,0 +1,2 @@
+Positional Independence and Recombination in Cartesian Genetic Programming
+Previously, recombination (or crossover) has proved to be unbene-ficial in Cartesian Genetic Programming (CGP). This paper describes the implementation of an implicit context representation for CGP in which the specific location of genes within the chromosome has no direct or indirect influence on the phenotype. Consequently, recombination has a beneficial effect and is shown to outperform conventional CGP in the even-3 parity problem.

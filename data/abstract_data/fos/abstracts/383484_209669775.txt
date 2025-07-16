@@ -1,0 +1,2 @@
+Global dynamics of SIR model with switched transmission rate
+We propose a new epidemiological model, based on the classical SIR model, taking additionally into account a switching prevention strategy. The model has two distinct thresholds that determine the beginning and the end of an intervention and two different transmission rates. We study the global dynamics of the proposed two-dimensional model.

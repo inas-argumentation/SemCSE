@@ -1,0 +1,2 @@
+Applications of real-time median filtering with fast digital and analog sorters
+This paper explores applications of digital and analog hardware realizations of median filters suitable for potential use in real-time control and monitoring applications in power electronic circuits and drives. Median filters have the ability to suppress impulse noise in signals, while preserving underlying edges. Filter performance is demonstrated with results from two prototypes.

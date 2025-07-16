@@ -1,0 +1,2 @@
+Moore Penrose inverse of tensors via Einstein product
+In this paper, we define the Moore Penrose inverse of tensors with the Einstein product, and the explicit formulas of the Moore Penrose inverse of some block tensors are obtained. The general solutions of some multilinear systems are given and we also give the minimum norm least square solution of some multilinear systems using the Moore Penrose inverse of tensors.

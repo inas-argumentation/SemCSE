@@ -1,0 +1,2 @@
+A fast regular expression indexing engine
+In this paper; we describe the design, architecture, and lessons learned from the implementation of a fast regular-expression indexing engine FREE. FREE uses a prebuilt index to identify the text data units which may contain a matching string and only examines these further. In this way, FREE shows orders of magnitude performance improvement in certain cases over standard regular expression matching systems, such as lex, awk and grep.

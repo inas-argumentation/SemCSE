@@ -1,0 +1,2 @@
+On the resolution of singularities of multiple Mellin–Barnes integrals
+One of the two existing strategies of resolving singularities of multifold Mellin–Barnes integrals in the dimensional regularization parameter, or a parameter of the analytic regularization, is formulated in a modified form. The corresponding algorithm is implemented as a Mathematica code MBresolve.m

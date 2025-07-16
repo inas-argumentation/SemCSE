@@ -1,0 +1,2 @@
+Computing Roots of Graphs Is Hard
+Abstract The square of an undirected graph G is the graph G2 on the same vertex set such that there is an edge between two vertices in G2 if and only if they are at distance at most 2 in G. The kth power of a graph is defined analogously. It has been conjectured that the problem of computing any square root of a square graph, or even that of deciding whether a graph is a square, is NP-hard. We settle this conjecture in the affirmative.

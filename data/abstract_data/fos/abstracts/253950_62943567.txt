@@ -1,0 +1,2 @@
+Simulation of Routing Protocol in Ad Hoc Network Based on NS2
+There are many researchers use NS2 to study Ad Hoc network and validate their algorithms and protocols for their network researches.At first introduces the Ad Hoc network and the general steps of simulating routing protocols in Ad Hoc network using NS2,then uses a intanse of AODV routing protocol simulation to prove the NS2 simulation is suitable and effective.

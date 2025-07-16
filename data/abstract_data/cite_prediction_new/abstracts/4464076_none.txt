@@ -1,0 +1,2 @@
+Physical Modelling of Bipolar Mode Field Effect Transistor (BMFET) for Circuit Simulation
+A charge-control model of the BMFET, based on a physical analysis of its operation is presented and discussed. This model is used to derive an equivalent circuit of BMFET capable of describing, with continuity, both bipolar and unipolar regions of its characteristics. The equivalent circuit is presented in a form suitable to be easily incorporated in a circuit simulator such as SPICE.

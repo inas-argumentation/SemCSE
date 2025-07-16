@@ -1,0 +1,6 @@
+Private Non-smooth ERM and SCO in Subquadratic Steps
+We study the differentially private Empirical Risk Minimization (ERM) and Stochastic Convex Optimization (SCO) problems for non-smooth convex functions. 
+We get a (nearly) optimal bound on the excess empirical risk for ERM with $O(\frac{N^{3/2}}{d^{1/8}}+ \frac{N^2}{d})$ gradient queries, which is achieved with the help of subsampling and smoothing the function via convolution. 
+Combining this result with the iterative localization technique of Feldman et al. \cite{fkt20}, we achieve the optimal excess population loss for the SCO problem with $O(\min\{N^{5/4}d^{1/8},\frac{ N^{3/2}}{d^{1/8}}\})$ gradient queries.
+Our work makes progress towards resolving a question raised by Bassily et al. \cite{bfgt20}, giving first algorithms for private SCO with subquadratic steps. 
+In a concurrent work, Asi et al. \cite{afkt21} gave other algorithms for private ERM and SCO with subquadratic steps.

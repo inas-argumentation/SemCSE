@@ -1,0 +1,2 @@
+Analysis of positivity and stability of time-varying continuous-time linear systems and electrical circuits
+The positivity and stability of a class of time-varying continuous-time linear systems and electrical circuits are addressed. Sufficient conditions for the positivity and asymptotic stability of the system are established. It is shown that there exists a large class of positive and asymptotically stable electrical circuits with time-varying parameters. The Lyapunov method is extended to positive nonlinear systems. Examples of positive electrical circuits are presented.

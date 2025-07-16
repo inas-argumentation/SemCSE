@@ -1,0 +1,2 @@
+On local routing of two-terminal nets
+Abstract We examine the problem of finding edge-disjoint paths between pairs of vertices placed on inner as well as outer faces of a finite grid graph. For each path a global routing, which fixes the topology of the path relative to the nontrivial faces, is part of the input. We give necessary and sufficient conditions for the solvability of the problem and provide an algorithm to find a solution with running time quadratic in the size of the problem.

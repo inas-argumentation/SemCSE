@@ -1,0 +1,11 @@
+ExonHunter: a comprehensive approach to gene finding
+MOTIVATION
+We present ExonHunter, a new and comprehensive gene finding system that outperforms existing systems and features several new ideas and approaches. Our system combines numerous sources of information (genomic sequences, expressed sequence tags and protein databases of related species) into a gene finder based on a hidden Markov model in a novel and systematic way. In our framework, various sources of information are expressed as partial probabilistic statements about positions in the sequence and their annotation. We then combine these into the final prediction via a quadratic programming method, which we show to be an extension of existing methods. Allowing only partial statements is key to our transparent handling of missing information and coping with the heterogeneous character of individual sources of information. In addition, we give a new method for modeling the length distribution of intergenic regions in hidden Markov models.
+
+
+RESULTS
+On a commonly used test set, ExonHunter performs significantly better than the existing gene finders ROSETTA, SLAM and TWINSCAN, with more than two-thirds of genes predicted completely correctly.
+
+
+AVAILABILITY
+Supplementary material available at http://www.bioinformatics.uwaterloo.ca/supplements/05eh/

@@ -1,0 +1,2 @@
+Visualizing the Radiation of the Kelvin-Helmholtz Instability
+Emerging new technologies in plasma simulations allow tracking billions of particles while computing their radiative spectra. We present a visualization of the relativistic Kelvin-Helmholtz instability from a simulation performed with the fully-relativistic particle-in-cell code PIConGPU powered by 18,000 GPUs on the USA's fastest supercomputer Titan.

@@ -1,0 +1,2 @@
+Inverse NP Problems
+One characterization of the class NP is as the class of all languages for which there exists a polynomial-time verifier with the following properties: for every member of the language, there exists a polynomially-sized proof causing the verifier to accept; and, for every non-member, there is no proof causing the verifier to accept. Relative to a particular verifier, every member x of the language induces a set of proofs, namely, the set of proofs causing the verifier to accept x.

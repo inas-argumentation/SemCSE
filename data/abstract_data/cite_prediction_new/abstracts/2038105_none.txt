@@ -1,0 +1,11 @@
+Development of an automated flow injection analysis system for determination of phosphate in nutrient solutions.
+BACKGROUND
+A fully automated flow injection analysis (FIA) system was developed for determination of phosphate ion in nutrient solutions. This newly developed FIA system is a portable, rapid and sensitive measuring instrument that allows on-line analysis and monitoring of phosphate ion concentration in nutrient solutions. The molybdenum blue method, which is widely used in FIA phosphate analysis, was adapted to the developed FIA system. The method is based on the formation of ammonium Mo(VI) ion by reaction of ammonium molybdate with the phosphate ion present in the medium. The Mo(VI) ion then reacts with ascorbic acid and is reduced to the spectrometrically measurable Mo(V) ion. New software specific for flow analysis was developed in the LabVIEW development environment to control all the components of the FIA system. The important factors affecting the analytical signal were identified as reagent flow rate, injection volume and post-injection flow path length, and they were optimized using Box-Behnken experimental design and response surface methodology.
+
+
+RESULTS
+The optimum point for the maximum analytical signal was calculated as 0.50 mL min-1 reagent flow rate, 100 µL sample injection volume and 60 cm post-injection flow path length. The proposed FIA system had a sampling frequency of 100 samples per hour over a linear working range of 3-100 mg L-1 (R2  = 0.9995). The relative standard deviation (RSD) was 1.09% and the limit of detection (LOD) was 0.34 mg L-1 .
+
+
+CONCLUSION
+Various nutrient solutions from a tomato-growing hydroponic greenhouse were analyzed with the developed FIA system and the results were found to be in good agreement with vanadomolybdate chemical method findings. © 2018 Society of Chemical Industry.

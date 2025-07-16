@@ -1,0 +1,15 @@
+An object-oriented computational model to study cardiopulmonary hemodynamic interactions in humans
+BACKGROUND AND OBJECTIVE
+This work introduces an object-oriented computational model to study cardiopulmonary interactions in humans.
+
+
+METHODS
+Modeling was performed in object-oriented programing language Matlab Simscape, where model components are connected with each other through physical connections. Constitutive and phenomenological equations of model elements are implemented based on their non-linear pressure-volume or pressure-flow relationship. The model includes more than 30 physiological compartments, which belong either to the cardiovascular or respiratory system. The model considers non-linear behaviors of veins, pulmonary capillaries, collapsible airways, alveoli, and the chest wall. Model parameters were derisved based on literature values. Model validation was performed by comparing simulation results with clinical and animal data reported in literature.
+
+
+RESULTS
+The model is able to provide quantitative values of alveolar, pleural, interstitial, aortic and ventricular pressures, as well as heart and lung volumes during spontaneous breathing and mechanical ventilation. Results of baseline simulation demonstrate the consistency of the assigned parameters. Simulation results during mechanical ventilation with PEEP trials can be directly compared with animal and clinical data given in literature.
+
+
+CONCLUSIONS
+Object-oriented programming languages can be used to model interconnected systems including model non-linearities. The model provides a useful tool to investigate cardiopulmonary activity during spontaneous breathing and mechanical ventilation.

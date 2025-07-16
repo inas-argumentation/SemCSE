@@ -1,0 +1,21 @@
+Glove-Enabled Computer Operations (GECO): Design and Testing of an Extravehicular Activity Glove Adapted for Human-Computer Interface
+The Glove-Enabled Computer Operations (GECO) system enables an extravehicular 
+activity (EVA) glove to be dual-purposed as a human-computer interface device. This paper 
+describes the design and human participant testing of a right-handed GECO glove in a 
+pressurized glove box. As part of an investigation into the usability of the GECO system for 
+EVA data entry, twenty participants were asked to complete activities including (1) a Simon 
+Says Games in which they attempted to duplicate random sequences of targeted finger 
+strikes and (2) a Text Entry activity in which they used the GECO glove to enter target 
+phrases in two different virtual keyboard modes. In a within-subjects design, both activities 
+were performed both with and without vibrotactile feedback. Participants’ mean accuracies 
+in correctly generating finger strikes with the pressurized glove were surprisingly high, both 
+with and without the benefit of tactile feedback. Five of the subjects achieved mean 
+accuracies exceeding 99% in both conditions. In Text Entry, tactile feedback provided a 
+statistically significant performance benefit, quantified by characters entered per minute, as 
+well as reduction in error rate. Secondary analyses of responses to a NASA Task Loader 
+Index (TLX) subjective workload assessments reveal a benefit for tactile feedback in GECO 
+glove use for data entry. This first-ever investigation of employment of a pressurized EVA 
+glove for human-computer interface opens up a wide range of future applications, including 
+text “chat” communications, manipulation of procedures/checklists, cataloguing/annotating 
+images, scientific note taking, human-robot interaction, and control of suit and/or other 
+EVA systems.

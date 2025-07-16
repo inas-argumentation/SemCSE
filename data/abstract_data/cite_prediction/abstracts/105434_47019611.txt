@@ -1,0 +1,2 @@
+Fast Semi-dense Depth Map Estimation
+We consider the problem of depth reconstruction from downsampled sparse depth values. We compare our approach with semi-dense depth map interpolation and direct RGB-to-Depth reconstruction solutions on several datasets, including Matterport 3D dataset containing RGB and depth images of 90 building-scale scenes. We demonstrate that the proposed model can produce approximate depth map for over two hundreds images per second.

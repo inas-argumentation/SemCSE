@@ -1,0 +1,2 @@
+Solution properties and convergence of an approximate mean value analysis algorithm
+We present the solution properties and convergence results of an approximate Mean Value Analysis (MVA) algorithm, the Queue Line (QL) algorithm, for solving separable queueing networks. We formally prove that the QL algorithm is always more accurate than, and yet has the same computational complexity as the Bard-Schweitzer Proportional Estimation algorithm, the most popular approximate MVA algorithm for solving this type of queueing networks.

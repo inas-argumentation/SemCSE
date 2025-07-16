@@ -1,0 +1,2 @@
+Mobile Ad hoc Networking (MANET) Routing Protocol Performance Issues and Evaluation Considerations
+This memo first describes the characteristics of Mobile Ad hoc Networks (MANETs) and their idiosyncrasies with respect to traditional, hardwired packet networks. It then discusses the effect these differences have on the design and evaluation of network control protocols with an emphasis on routing performance evaluation considerations.

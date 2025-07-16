@@ -1,0 +1,2 @@
+Tikhonov regularization for weighted total least squares problems
+In this work, we study and analyze the regularized weighted total least squares (RWTLS) formulation. Our regularization of the weighted total least squares problem is based on the Tikhonov regularization. Numerical examples are presented to demonstrate the effectiveness of the RWTLS method.

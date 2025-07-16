@@ -1,0 +1,4 @@
+LQ Control without Riccati Equations: Stochastic Systems
+We study stochastic linear--quadratic (LQ) optimal control problems over an infinite horizon, allowing the cost matrices to be indefinite. We develop a systematic approach based on semidefinite programming (SDP). A central issue is the stability of the feedback control; and we show this can be effectively examined through the complementary duality of the SDP. Furthermore, we establish several implication relations among the SDP complementary duality, the (generalized) Riccati equation, 
+and the optimality of the LQ control problem. 
+Based on these relations, we propose a numerical procedure that provides a thorough treatment of the LQ control problem via SDP: it identifies a stabilizing feedback control that is optimal or determines that the problem possesses no optimal solution. For the latter case, we develop an e-approximation scheme that is asymptotically optimal.

@@ -1,0 +1,2 @@
+The Periodic Joint Replenishment Problem is Strongly NP-Hard
+In this paper we study the long-standing open question regarding the computational complexity of one of the core problems in supply chains management, the periodic joint replenishment problem. This problem has received a lot of attention over the years and many heuristic and approximation algorithms were suggested. However, in spite of the vast effort, the complexity of the problem remained unresolved. In this paper, we provide a proof that the problem is indeed strongly NP-hard.

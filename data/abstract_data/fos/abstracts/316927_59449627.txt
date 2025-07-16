@@ -1,0 +1,21 @@
+Extinction and optical depth retrievals for CALIPSO's Version 4 data release
+. The Cloud–Aerosol Lidar with Orthogonal Polarization
+(CALIOP) on board the Cloud–Aerosol Lidar Infrared Pathfinder Satellite
+Observations (CALIPSO) satellite has been making near-global height-resolved
+measurements of cloud and aerosol layers since mid-June 2006. Version 4.10
+(V4) of the CALIOP data products, released in November 2016, introduces
+extensive upgrades to the algorithms used to retrieve the spatial and
+optical properties of these layers, and thus there are both obvious and
+subtle differences between V4 and previous data releases. This paper
+describes the improvements made to the extinction retrieval algorithms and
+illustrates the impacts of these changes on the extinction and optical depth
+estimates reported in the CALIPSO lidar level 2 data products. The lidar
+ratios for both aerosols and ice clouds are generally higher than in
+previous data releases, resulting in generally higher extinction
+coefficients and optical depths in V4. A newly implemented algorithm for
+retrieving extinction coefficients in opaque layers is described and its
+impact examined. Precise lidar ratio estimates are also retrieved in these
+opaque layers. For semi-transparent cirrus clouds, comparisons between
+CALIOP V4 optical depths and the optical depths reported by MODIS collection
+6 show substantial improvements relative to earlier comparisons between
+CALIOP version 3 and MODIS collection 5.

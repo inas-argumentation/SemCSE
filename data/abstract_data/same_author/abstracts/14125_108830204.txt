@@ -1,0 +1,2 @@
+A CMOS charge sensitive amplifier for silicon strip detectors: Design criteria and test results
+Abstract A low noise charge sensitive amplifier has been developed with a commercial CMOS process. We present measurements of the amplifier's performance when used to read out a silicon strip detector exposed to a particle beam. A few prototypes have been exposed to large doses of radiation in order to study the radiation hardness.

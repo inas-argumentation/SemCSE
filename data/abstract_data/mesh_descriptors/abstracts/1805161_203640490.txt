@@ -1,0 +1,15 @@
+Inhibition of autophagy enhances the anticancer effect of enzalutamide on bladder cancer.
+BACKGROUND
+Emerging preclinical evidence suggests a critical role for androgen-mediated androgen receptor (AR) signaling in bladder cancer progression. However, researchers have not determined whether autophagy modulates the efficacy of an enzalutamide (ENZ) treatment in subjects with advanced bladder cancer. In this study, we investigated the synergistic effect of ENZ and autophagy inhibitors on bladder cancer.
+
+
+METHODS
+ENZ was used as an anti-AR drug, and chloroquine (CQ), 3-methyladenine (3-MA), and bafilomycin A1 (BAF) were used as autophagy inhibitors. J82, T24, and UMUC3 cell lines were used as models of bladder cancer. A bifluorescence autophagy system with the mRFP-GFP-LC3 plasmid was used to evaluate autophagy flux. Protein and mRNA levels were detected using Western blotting and qPCR, respectively. A Cell Counting Kit-8 (CCK-8) assay, colony assay, and flow cytometry analysis were used to evaluate cell proliferation and apoptosis. Four-week-old BALB/c athymic nude mice were used in the in vivo assay.
+
+
+RESULTS
+Based on the results obtained using the bifluorescence autophagy system, ENZ (10-20 μM) significantly facilitated the accumulation of autophagosomes and autolysosomes in the cytoplasm of J82 and T24 cells. Additionally, ENZ significantly increased the expression of autophagy-related genes (AMP-dependent protein kinase (AMPK), autophagy-related gene 5 (ATG5), microtubule-associated protein light chain 3B (LC3B), and UNC-51-like kinase 1 (ULK1)) and proteins (microtubule-associated protein 1 light chain 3-II/I (LC3-II/I), ATG5, and phosphorylated AMP-dependent protein kinase α (p-AMPKα)). The administration of ENZ monotherapy (10-20 μM) to J82 and T24 cells failed to alter proliferation and apoptosis. Concurrent treatment with ENZ and autophagy inhibitors distinctly triggered apoptosis and inhibited proliferation. Genetic inhibition of autophagy by specifically blocking ATG5 with siRNA also increased ENZ-induced apoptosis in J82 and T24 cells. In vivo, concurrent treatment with ENZ (25 mg/kg/day) and CQ (10 mg/kg/day) improved the therapeutic sensitivity by decreasing tumor growth and apoptosis. Additionally, overexpression of AR suppressed ENZ-induced autophagy-related genes (LC3-II/I, ATG5, and p-AMPKα) in T24 cells, and CQ exerted synergistic effects with ENZ to suppressed AR-responsive genes expression (KLK2 and KLK3) in bladder cancer. In UMUC3 cells, ENZ monotherapy directly induced anticancer effects, and concurrent treatment with ENZ and CQ also had a synergistic effect on proliferation and apoptosis.
+
+
+CONCLUSIONS
+Autophagy may be a potential mechanism underlying ENZ-resistant bladder cancer. Blockade of autophagy significantly increased ENZ-induced apoptosis in bladder cancer. Thus, concurrent treatment with autophagy inhibitors and ENZ may be a novel therapeutic strategy for bladder cancer.

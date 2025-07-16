@@ -1,0 +1,2 @@
+Pointwise trichotomy for skew-evolution semiflows on Banach spaces
+The paper introduces the notion of skew-evolution semiflows and presents the concept of pointwise trichotomy in the case of skew-evolution semiflows on a Banach space. The connection with the classical notion of trichotomy presented in [8] for evolution operators is also emphasized, and some characterizations are given. The approach of the theory is from a uniform point of view. The study can also be extended to systems with control whose state evolution can be described by skew-evolution semiflows.

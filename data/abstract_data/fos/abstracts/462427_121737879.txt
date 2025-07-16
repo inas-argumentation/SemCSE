@@ -1,0 +1,2 @@
+A random search strategy for function optimization
+A random search strategy is presented which uses clustering of best function points. This method can be used to locate starting points for other algorithms and to examine the features of a function under consideration.

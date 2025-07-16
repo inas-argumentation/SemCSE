@@ -1,0 +1,19 @@
+Dynamic medication adherence modeling in primary prevention of cardiovascular disease: a Markov microsimulation methods application.
+BACKGROUND
+Real-world patients' medication adherence is lower than that of clinical trial patients. Hence, the effectiveness of medications in routine practice may differ.
+
+
+OBJECTIVES
+The study objective was to compare the outcomes of an adherence-naive versus a dynamic adherence modeling framework using the case of statins for the primary prevention of cardiovascular (CV) disease.
+
+
+METHODS
+Statin adherence was categorized into three state-transition groups on the basis of an epidemiological cohort study. Yearly adherence transitions were incorporated into a Markov microsimulation using TreeAge software. Tracker variables were used to store adherence transitions, which were used to adjust probabilities of CV events over the patient's lifetime. Microsimulation loops "random walks" estimated the average accrued quality-adjusted life-years (QALYs) and CV events. For each 1,000-patient microsimulations, 10,000 outer loops were performed to reflect second-order uncertainty.
+
+
+RESULTS
+The adherence-naive model estimated 0.14 CV events avoided per person, whereas the dynamic adherence model estimated 0.08 CV events avoided per person. Using the adherence-naive model, we found that statin therapy resulted in 0.40 QALYs gained over the lifetime horizon on average per person while the dynamic adherence model estimated 0.22 incremental QALYs gained. Subgroup analysis revealed that maintaining high adherence in year 2 resulted in 0.23 incremental QALYs gained as compared with 0.16 incremental QALYs gained when adherence dropped to the lowest level.
+
+
+CONCLUSIONS
+A dynamic adherence Markov microsimulation model reveals risk reduction and effectiveness that are lower than with an adherence-naive model, and reflective of real-world practice. Such a model may highlight the value of improving or maintaining good adherence.

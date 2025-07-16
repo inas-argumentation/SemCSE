@@ -1,0 +1,2 @@
+DRIE process modelling — A MEMS case study on a real design
+The aim of this work is to model accurately the DRIE Bosch process used for the MEMS components fabrication. This modelling will permit, depending on the design, to obtain a 3D visualization of the substrate after etching and therefore foresee the real MEMS profile. Another objective is to determine, depending on the modelling accuracy, some process parameters which have been used on the etching equipment to reach such a 3D profile.

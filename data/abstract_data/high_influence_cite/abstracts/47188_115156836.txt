@@ -1,0 +1,2 @@
+Ergodicity for infinite particle systems with locally conserved quantities
+We analyse certain degenerate infinite dimensional sub-elliptic generators, and obtain estimates on the long-time behaviour of the corresponding Markov semigroups that describe a certain model of heat conduction. In particular, we establish ergodicity of the system for a family of invariant measures, and show that the optimal rate of convergence to equilibrium is polynomial. Consequently, there is no spectral gap, but a Liggett-Nash type inequality is shown to hold.

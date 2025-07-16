@@ -1,0 +1,6 @@
+A step-by-step approach to compute a consistent initialization for the MNA
+One of the difficulties of the numerical integration methods for differential–algebraic equations (DAEs) is the computation of consistent initial values before starting the integration, i.e. calculating values that satisfy the given algebraic constraints as well as the hidden constraints if higher index problems are considered. 
+ 
+ 
+ 
+This paper presents an approach to calculate consistent initial values for index-2 DAEs starting up from possibly inconsistent ones for systems arising from modified nodal analysis (MNA) in circuit simulation. This article is based on the results from Estevez Schwarz and Tischendorf, International Journal of Circuit Theory and Applications 2000; 28: 131–162. Several of the denotations and results that we use were introduced there in more detail. Copyright © 2001 John Wiley & Sons, Ltd.

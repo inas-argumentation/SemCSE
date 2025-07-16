@@ -1,0 +1,2 @@
+Avalanche response time in GaAs as determined from microwave admittance measurements
+Microwave admittance measurements in a high power GaAs double-drift Read diode are fitted to an analytical solution to the Read equation. The data can be explained within experimental error by the classical expression for intrinsic avalanche time\tau_{i} = l_{a}/3v_{S}. This is at variance with the prediction that τiin GaAs may be anomalously long.

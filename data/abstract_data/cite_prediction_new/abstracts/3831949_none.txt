@@ -1,0 +1,2 @@
+Finding the Missing Piece: Content-Based Video Comparison
+The contribution of this paper consists of a framework for video comparison that allows for the analysis of different movie versions. Furthermore, a second contribution is an evaluation of state-of-the-art, local feature-based approaches for content-based video retrieval in a real world scenario. Eventually, the experimental results show the outstanding performance of a simple, edge-based descriptor within the presented framework.

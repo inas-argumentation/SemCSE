@@ -1,0 +1,2 @@
+K-means Clustering Algorithm for Categorical Attributes
+Efficient partitioning of large data sets into homogeneous clusters is fundamental problem in data mining. The hierarchical clustering methods are not adaptable because of their high computational complexity. The K-means based algorithms give promising results for their efficiency. However their use in often limited to numeric data. The quality of clusters produced depends on the initialization of clusters and the order in which is based on the K-means philosophy but removes the numeric data limitation.

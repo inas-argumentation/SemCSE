@@ -1,0 +1,2 @@
+Multisets mixture learning-based ellipse detection
+We develop an ellipse detection algorithm based on the multisets mixture learning (MML) that differs from the conventional Hough transform perspective. The algorithm developed has potential advantages in terms of noise resistance, incomplete ellipse detection, and detecting a multitude of ellipses.

@@ -1,0 +1,2 @@
+RDMA data transfer and GPU acceleration methods for high-throughput online processing of serial crystallography images
+Evaluation of remote direct memory access data transfer from an X-ray detector head into a remote-processing graphics processor unit in the scope of a synchrotron serial crystallography experiment performed at 1000 images s−1.

@@ -1,0 +1,2 @@
+Hidden Markov models combining discrete symbols and continuous attributes in handwriting recognition
+Prior arts in handwritten word recognition model either discrete features or continuous features, but not both. This paper combines discrete symbols and continuous attributes into structural handwriting features and model, them by transition-emitting and state-emitting hidden Markov models. The models are rigorously defined and experiments have proven their effectiveness.

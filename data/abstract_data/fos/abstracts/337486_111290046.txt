@@ -1,0 +1,2 @@
+Experience with a Digital Noise Analysis System in Subcriticality Measurements on a Mockup of the FFTF
+A digital Fourier analyzer was programmed to perform reactor neutron noise analysis measurements and on-line processing of the data to obtain the steady-state reactivity. The system is suitable for recovering cross spectral density with low correlated-signal component and for repetitive measurements with efficient use of reactor time.

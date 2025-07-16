@@ -1,0 +1,2 @@
+Trackless online algorithms for the server problem
+A class of “simple” online algorithms for the k -server problem is identified. This class, for which the term trackless is introduced, includes many known server algorithms. The k -server conjecture fails for trackless algorithms. A lower bound of 23/11 on the competitiveness of any deterministic trackless 2 -server algorithm and a lower bound of 1+ 2 /2 on the competitiveness of any randomized trackless 2 -server problem are given.

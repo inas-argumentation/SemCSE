@@ -1,0 +1,2 @@
+On ϵ‐Collocation for Pseudodifferential Equations on a Closed Curve
+This paper is devoted to the approximate solution of one-dimensional pseudodifferential equations on a closed curve via spline collocation methods with variable collocation points and represents a continuation of [11]. We give necessary and sufficient conditions ensuring the L2-convergence for operators with smooth and piecewise continuous coefficients.

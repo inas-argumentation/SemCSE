@@ -1,0 +1,2 @@
+Distant Speech Recognition Experiments Using the AMI Corpus
+This chapter reviews distant speech recognition experimentation using the AMI corpus of multiparty meetings. The chapter compares conventional approaches using microphone array beamforming followed by single channel acoustic modelling with approaches which combine multichannel signal processing with acoustic modelling in the context of convolutional networks.

@@ -1,0 +1,11 @@
+Comparison of triple quadrupole and high-resolution TOF-MS for quantification of peptides.
+BACKGROUND
+With an increased interest in peptides and proteins as potential new drug candidates, new approaches for sensitive and selective quantitative analysis are required. LC-MS/MS analysis provides a good alternative to immunoassays with reduced method development times and increased specificity.
+
+
+RESULTS
+We have evaluated two state-of-the-art triple quadrupole and high-resolution TOF mass spectrometers with respect to their performance for quantification of six peptides (glufibrinopeptide B, somatostatin, enfuvirtide, TRI1144, C34 and exenatide). The peptides were spiked into protein-precipitated plasma supernatant. Triple quadrupole quantification was performed in SRM mode, and in high-resolution, MS narrow-width extracted chromatograms were generated for quantification. Specificity, accuracy, reproducibility and robustness were found to be comparable between the two instruments. The triple quadrupole instrument is still the most sensitive instrument for quantification of peptides with a median factor of about four-times higher sensitivity (based on LLOQ evaluation).
+
+
+CONCLUSION
+Based on sensitivity, the newest generation triple quadrupole MS systems are still the preferred technology for quantification of peptides. Since the sensitivity difference between triple quadrupole instruments and the new-generation high-resolution TOF-MS instruments is minor, the latter offer a useful alternative whenever additional selectivity is preferred or the use of a generic approach not requiring method optimization is advantageous.

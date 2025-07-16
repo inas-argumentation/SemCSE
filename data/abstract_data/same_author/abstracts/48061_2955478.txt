@@ -1,0 +1,5 @@
+The Infati Data
+The ability to perform meaningful empirical studies is of essence in research in spatio-temporal query processing. Such studies are often necessary to gain detailed insight into the functional and performance characteristics of proposals for new query processing techniques. 
+We present a collection of spatio-temporal data, collected during an intelligent speed adaptation project, termed INFATI, in which some two dozen cars equipped with GPS receivers and logging equipment took part. We describe how the data was collected and how it was "modified" to afford the drivers some degree of anonymity. 
+We also present the road network in which the cars were moving during data collection. 
+The GPS data is publicly available for non-commercial purposes. It is our hope that this resource will help the spatio-temporal research community in its efforts to develop new and better query processing techniques.

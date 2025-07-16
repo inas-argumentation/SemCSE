@@ -1,0 +1,2 @@
+Suspicious Behavior Detection: Current Trends and Future Directions
+Different real-world applications have varying definitions of suspicious behaviors. Detection methods often look for the most suspicious parts of the data by optimizing scores, but quantifying the suspiciousness of a behavioral pattern is still an open issue.

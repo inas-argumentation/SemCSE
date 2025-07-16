@@ -1,0 +1,2 @@
+A non-parametric peak finder algorithm and its application in searches for new physics
+We have developed an algorithm for non-parametric fitting and extraction of statistically significant peaks in the presence of statistical and systematic uncertainties. Applications of this algorithm for analysis of high-energy collision data are discussed. In particular, we illustrate how to use this algorithm in general searches for new physics in invariant-mass spectra using pp Monte Carlo simulations.

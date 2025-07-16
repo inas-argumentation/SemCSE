@@ -1,0 +1,2 @@
+Crosstalk Between Single-Photon Avalanche Diodes in a 0.18-μm High-Voltage CMOS Process
+Crosstalk between single-photon avalanche diodes (SPADs) fabricated by the standard CMOS process is extensively investigated. The dependence of device structure, device-to-device distance, and bias voltage on crosstalk has been experimentally studied. Our work reveals that direct-path optical crosstalk dominates in these CMOS SPADs, which is also confirmed with the first time-correlated crosstalk measurement. This work is valuable for SPAD array design and optimization in CMOS technology.

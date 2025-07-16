@@ -1,0 +1,2 @@
+Unified Analysis of Array and Object References in Strongly Typed Languages
+We present a simple, unified approach for the analysis and optimization of object field and array element accesses in strongly typed languages, that works in the presence of object references/pointers. This approach builds on Array SSA form [14], a uniform representation for capturing control and data flow properties at the level of array elements. The techniques presented here extend previous analyses at the array element level [15] to handle both array element and object field accesses uniformly.

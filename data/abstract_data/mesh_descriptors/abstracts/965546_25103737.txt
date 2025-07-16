@@ -1,0 +1,15 @@
+A questionnaire-wide association study of personality and mortality: the Vietnam Experience Study.
+OBJECTIVE
+We examined the association between the Minnesota Multiphasic Personality Inventory (MMPI) and all-cause mortality in 4462 middle-aged Vietnam-era veterans.
+
+
+METHODS
+We split the study population into half-samples. In each half, we used proportional hazards (Cox) regression to test the 550 MMPI items' associations with mortality over 15years. In all participants, we subjected significant (p<.01) items in both halves to principal-components analysis (PCA). We used Cox regression to test whether these components predicted mortality when controlling for other predictors (demographics, cognitive ability, health behaviors, and mental/physical health).
+
+
+RESULTS
+Eighty-nine items were associated with mortality in both half-samples. PCA revealed Neuroticism/Negative Affectivity, Somatic Complaints, Psychotic/Paranoia, and Antisocial components, and a higher-order component, Personal Disturbance. Individually, Neuroticism/Negative Affectivity (HR=1.55; 95% CI=1.39, 1.72), Somatic Complaints (HR=1.66; 95% CI=1.52, 1.80), Psychotic/Paranoid (HR=1.44; 95% CI=1.32, 1.57), Antisocial (HR=1.79; 95% CI=1.59, 2.01), and Personal Disturbance (HR=1.74; 95% CI=1.58, 1.91) were associated with risk. Including covariates attenuated these associations (28.4 to 54.5%), though they were still significant. After entering Personal Disturbance into models with each component, Neuroticism/Negative Affectivity and Somatic Complaints were significant, although Neuroticism/Negative Affectivity's were now protective (HR=0.73; 95% CI=0.58, 0.92). When the four components were entered together with or without covariates, Somatic Complaints and Antisocial were significant risk factors.
+
+
+CONCLUSIONS
+Somatic Complaints and Personal Disturbance are associated with increased mortality risk. Other components' effects varied as a function of variables in the model.

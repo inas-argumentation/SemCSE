@@ -1,0 +1,15 @@
+Diagnosed sleep apnea and cardiovascular disease in atrial fibrillation patients: The role of measurement error from administrative data.
+BACKGROUND
+Atrial fibrillation (AF) and obstructive sleep apnea (OSA) are common conditions, but little is known about OSA and cardiovascular risk among AF patients.
+
+
+METHODS
+Using the Truven Health MarketScan databases we constructed a prospective cohort of AF patients from 2007-2014. AF, OSA, stroke, myocardial infarction (MI), and confounders were defined using International Classification of Disease (ICD)-9-CM codes. We matched individuals with an OSA diagnosis with up to five individuals without a diagnosis by age, sex, and enrollment date. Cox proportional hazards models adjusted for confounders and high-dimensional propensity scores. We included migraines as a control outcome. Bias analysis used published sensitivities and specificities to generate rate ratios adjusted for OSA misclassification.
+
+
+RESULTS
+We matched 56,969 individuals with an OSA diagnosis to 323,246 without. During a mean follow-up of 16 months, 3,234 incident strokes and 4,639 incident MIs occurred. After adjustment, OSA diagnosis was strongly associated with reduced risk of incident stroke (hazard ratio =0.48, 95% confidence interval [0.43, 0.53]) and MI (0.40, [0.37, 0.44]) and a smaller reduced risk of migraines (0.82 [0.68, 0.99]). Bias analysis produced wide ranging or inestimable rate ratios adjusted for misclassification of OSA.
+
+
+CONCLUSIONS
+OSA diagnosis in AF patients was strongly associated with reduced risk of incident cardiovascular disease. We discuss misclassification, selection bias, and residual confounding as potential explanations.

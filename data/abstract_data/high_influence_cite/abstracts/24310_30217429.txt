@@ -1,0 +1,2 @@
+Itô formula for the infinite-dimensional fractional Brownian motion
+We introduce the stochastic integration with respect to the infinite-dimensional fractional Brownian motion. Using the techniques of the anticipating stochastic calculus, we derive an Ito formula for Hurst parameter bigger than $\frac{1}{2}$.

@@ -1,0 +1,2 @@
+An iterative H/sub 2/ controller design with D-stability constraint
+This paper deals with the mixed H/sub 2//D-stability control problem. In this paper, we give an iterative algorithm for finding a sub-optimal controller of this problem. The proposed algorithm produces a controller which satisfies a necessary condition to be globally optimal controller of the mixed H/sub 2//D-stability control problem. Numerical examples show the effectiveness of our algorithm.

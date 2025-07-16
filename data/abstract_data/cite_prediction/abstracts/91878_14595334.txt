@@ -1,0 +1,2 @@
+Implementation of a three phase inverter for BLDC motor drive
+In this paper a three phase inverter is designed for operating a brushless dc motor. Following the operating principle of a brushless dc motor, required switching is done by a microcontroller (arduino uno). Necessary gate driver circuit is also designed for proper operation of the inverter. The practical result matches with the simulation result and the motor runs successfully.

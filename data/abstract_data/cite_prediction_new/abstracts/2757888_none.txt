@@ -1,0 +1,2 @@
+Measurement of ocular torsion using iterative optical flow
+This work represents a new method for measuring ocular torsion using optical flow. Feature points are obtained from reference and current image, and the relative optical flows of each point are calculated. The feature points are selected according to the strength of corner on the signature of iris. This method is robust and effective in calculation.

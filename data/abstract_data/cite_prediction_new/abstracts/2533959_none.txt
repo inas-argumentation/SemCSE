@@ -1,0 +1,2 @@
+Peak strain detection in EFPI sensors via direct phase difference synthesis
+This paper presents a method for estimating peak strain using EFPI fiber-optic sensors. The method involves directly synthesizing the optical phase difference from the measured interference signal. Empirical results are presented which demonstrate that this method can measure peak strain to within about ±5 % of the strain measured with respect to a resistive strain gauge sensor.

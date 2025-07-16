@@ -1,0 +1,7 @@
+Neural Networks with Structural Resistance to Adversarial Attacks
+In adversarial attacks to machine-learning classifiers, small perturbations are added to input that is correctly classified. The perturbations yield adversarial examples, which are virtually indistinguishable from the unperturbed input, and yet are misclassified. In standard neural networks used for deep learning, attackers can craft adversarial examples from most input to cause a misclassification of their choice. 
+
+We introduce a new type of network units, called RBFI units, whose non-linear structure makes them inherently resistant to adversarial attacks. On permutation-invariant MNIST, in absence of adversarial attacks, networks using RBFI units match the performance of networks using sigmoid units, and are slightly below the accuracy of networks with ReLU units. When subjected to adversarial attacks based on projected gradient descent or fast gradient-sign methods, networks with RBFI units retain accuracies above 75%, while ReLU or Sigmoid see their accuracies reduced to below 1%.
+Further, RBFI networks trained on regular input either exceed or closely match the accuracy of sigmoid and ReLU network trained with the help of adversarial examples.
+
+The non-linear structure of RBFI units makes them difficult to train using standard gradient descent. We show that RBFI networks of RBFI units can be efficiently trained to high accuracies using pseudogradients, computed using functions especially crafted to facilitate learning instead of their true derivatives.

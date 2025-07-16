@@ -1,0 +1,2 @@
+A 475 mV, 4.9 GHz enhanced swing differential Colpitts VCO in 130 nm CMOS with an FoM of 196.2 dBc/Hz
+An enhanced swing differential Colpitts VCO operates as low as 400 mV and enables oscillations to go beyond both the supply voltage and ground. Operating at 475 mV, the 4.9 GHz VCO consumes 2.7 mW. The 130 nm CMOS VCO's measured phase noise is −136.2 dBc/Hz at a 3 MHz offset frequency. The resulting FoM of 196.2 dBc/Hz makes it the highest performing integrated LC oscillator published to date.

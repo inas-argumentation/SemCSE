@@ -1,0 +1,2 @@
+Cancer Classification Based on Microarray Gene Expression Data Using Deep Learning
+The classification of cancer is a major research topic in Medicine. Cancer microarray data normally contains a small number of samples, which have a large number of gene expression levels as features, however, makes the classification quite challenging. Using a deep learning algorithm based on multilayer perceptron, we show that classification performance at least as good as published results can be obtained for cancer classification.

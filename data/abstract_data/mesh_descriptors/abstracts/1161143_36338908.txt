@@ -1,0 +1,2 @@
+Protein Identification Using a Quadrupole Ion Trap Mass Spectrometer and SEQUEST Database Matching
+A procedure is described for rapid, sensitive protein identification utilizing liquid chromatography‐‐ tandem mass spectrometry. The analysis is performed on mixtures of peptides obtained by enzyme digestion. The SEQUEST computer program is used to match the sequence information in the spectra to a database of known protein sequences.

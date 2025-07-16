@@ -1,0 +1,2 @@
+Finite Outer Automorphism Groups of Crystallographic Groups
+We present an algorithmic approach to the problem of calculating finite outer automorphism groups of crystallographic groups. As an intermediate product in the process, we get automorphism groups of those groups as well. In the special case of Bieberbach groups, the algorithm can be used to get information about the structure of symmetry groups of flat manifolds.

@@ -1,0 +1,2 @@
+Security Analysis and Improvement of the SPINS Protocol
+There are many different kinds of attacks that aim at WSN.But few measures could be adopted to prevent these attacks due to WSNs nature.Accompanied with designing a secure protocol for WSN,some security issues and the corresponding resolvents are expatiated in this paper.At the same time,this paper analyzes the SPINS protocol in details,pointing out some existing security issues.Finally,this paper give some efficient improvements on the SPINS protocol.

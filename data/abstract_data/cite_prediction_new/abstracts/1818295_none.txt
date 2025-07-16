@@ -1,0 +1,15 @@
+PDE3A is hypermethylated in cisplatin resistant non-small cell lung cancer cells and is a modulator of chemotherapy response.
+OBJECTIVE
+In this study, we aimed to investigate the mechanism of PDE3A downregulation in chemoresistant non-small cell lung cancer (NSCLC) cells, its functional role in chemotherapy response and association with survival outcomes.
+
+
+MATERIALS AND METHODS
+The raw data of GDS5247 was downloaded from GEO datasets and reanalyzed. The expression of PDE3A in patients with NSCLC and its DNA methylation status were analyzed in NSCLC cohort in TCGA database. Cisplatin resistant A549/Cis cells and the parental A549 cells were used as the in vitro cell model. The association between PDE3A expression and overall survival (OS) and progression-free survival (PFS) in NSCLC patients with adenocarcinoma or squamous cell carcinoma, as well as the median OS and PFS, were assessed by Kaplan-Meier curves using Kaplan-Meier plotter.
+
+
+RESULTS
+PDE3A was significantly downregulated in chemoresistant NSCLC cells. Heat map of PDE3A expression and methylation in NSCLC patient cohort in TCGA database indicated a negative association between PDE3A expression and DNA methylation in lung adenocarcinoma. A549/Cis cells treated with 5-AZA-dC, a demethylation reagent, had significantly restored PDE3A expression. High PDE3A expression was associated with favorable OS (HR: 0.53, 95% CI: 0.41-0.68, p<0.0001) and PFS (HR: 0.54, 95% CI: 0.39-0.75, p<0.001) in patients with adenocarcinoma. However, in patients with squamous cell carcinoma, high PDE3A expression was associated with unfavorable OS (HR: 1.56, 95% CI: 1.08-2.24, p=0.017) and PFS (HR: 1.83, 95% CI: 1.02-3.29, p=0.04).
+
+
+CONCLUSIONS
+PDE3A is downregulated in chemoresistant NSCLC cells due to DNA hypermethylation. Enforced PDE3A expression can sensitize A549/Cis cells to cisplatin. High PDE3A expression is associated with better OS and PFS in patients with adenocarcinoma, but not in patients with squamous cell carcinoma.

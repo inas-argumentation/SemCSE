@@ -1,0 +1,15 @@
+RNAi-hTERT inhibition hepatocellular carcinoma cell proliferation via decreasing telomerase activity.
+BACKGROUND
+RNA interference (RNAi), which has been demonstrated as having great potentional in the fields of gene function and gene therapy, was applied to inhibit the expression of some endogenous genes. Human telomerase reverse transcriptase (hTERT) is highly expressed in hepatocellular carcinoma cells.
+
+
+MATERIALS AND METHODS
+In combination with DNA vector-based RNAi, quantitative real-time reverse transcription polymerase chain reaction, telomeric repeat amplification protocol-enzyme-linked immunosorbent assay, 3-(4,5 dimethylthiazolyl-2)-2,5-diphenyltetrazolium bromide assay, and xenograft tumor animal techniques, we first constructed three pTZU6 + 1-shRNA-hTERT vectors and their corresponding site-mutated vectors, then transfected them into hepatocarcinoma HepG2, SMMC-7721 cells, and normal liver L02 cells, respectively, injected them into xenograft hepatocarcinoma tumor tissues to induce RNAi, and then detected the alteration of cell and tumor proliferation, telomerase activity, hTERT, and c-myc expression in each treatment.
+
+
+RESULTS
+The cell proliferation of hepatocellular carcinoma cells both in vitro and in vivo was significantly inhibited by ph1-shRNA, the most effective segment targeted hTERT gene. ph1-shRNA could inhibit telomerase activity, hTERT, and c-myc expression in hepatocarcinoma cells and xenograft tumor tissues compare with the cells treated with empty vector pTZU6 + 1. However, there were no obvious effects on normal liver L02 cells. Moreover, even a single base mutation in siRNAs transcription template would significantly reduce the ability of siRNAs to induce RNA silencing.
+
+
+CONCLUSIONS
+RNAi-hTERT could inhibit the proliferation of hepatocarcinoma cells specifically via the suppression of telomease activity, hTERT, and c-myc expression. Therefore, hTERT and c-myc play key roles in hepatocarcinoma tumorgenesis, and an RNAi-targeted hTERT strategy would be a potential approach for hepatocarcinoma therapy.

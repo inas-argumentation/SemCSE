@@ -1,0 +1,2 @@
+Towards an integrated toolset for program understanding
+This paper describes some early results of a three-year project to develop an integrated toolset for program understanding. The implemented integration architecture involves both a global repository for all tools serviced by the architecture and a software bus serving communications among tools.

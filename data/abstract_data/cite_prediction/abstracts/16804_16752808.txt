@@ -1,0 +1,2 @@
+Multicriteria User Modeling in Recommender Systems
+The paper mentions that a hybrid recommender systems framework creates user-profile groups before applying a collaborative-filtering algorithm by incorporating techniques from the multiple-criteria decision-analysis (MCDA) field.

@@ -1,0 +1,7 @@
+FINDCHIRP: an algorithm for detection of gravitational waves from inspiraling compact binaries
+Matched-filter searches for gravitational waves from coalescing compact binaries by the LIGO 
+Scientific Collaboration use the FINDCHIRP algorithm: an implementation of the optimal filter with 
+innovations to account for unknown signal parameters and to improve performance on detector data 
+that has nonstationary and non-Gaussian artifacts. We provide details on the FINDCHIRP algorithm as used 
+in the search for subsolar mass binaries, binary neutron stars, neutron starblack hole binaries, and binary 
+black holes.

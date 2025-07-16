@@ -1,0 +1,2 @@
+A Fast Online Clustering Algorithm for Scatter / Gather Browsing
+We present a fast online clustering algorithm which has linear worst-case time complexity and constant running time average for the well-known online visually oriented browsing modeling called Scatter/Gather browsing (Cutting, Karger, Pedersen, and Tukey 1992). Our experiment shows when running on a single processor, this fast online clustering algorithm is few hundred times faster than the parallel Buckshot algorithm running on multiple processors.

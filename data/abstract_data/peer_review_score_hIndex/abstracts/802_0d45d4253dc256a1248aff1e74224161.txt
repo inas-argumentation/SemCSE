@@ -1,0 +1,6 @@
+Gradient-based learning for F-measure and other performance metrics
+Many important classification performance metrics, e.g. $F$-measure, are non-differentiable and non-decomposable, and are thus unfriendly to gradient descent algorithm.
+Consequently, despite their popularity as evaluation metrics, these metrics are rarely optimized as training objectives in neural network community.
+In this paper, we propose an empirical utility maximization scheme with provable learning guarantees to address the non-differentiability of these metrics. 
+We then derive a strongly consistent gradient estimator to handle non-decomposability.
+These innovations enable end-to-end optimization of these metrics with the same computational complexity as optimizing a decomposable and differentiable metric, e.g. cross-entropy loss.

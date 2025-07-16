@@ -1,0 +1,2 @@
+Symbolic Solution of Finite-Difference Equations
+An interactive computer program which has some capability for solving systems of finite difference equations is described. Although this capability is limited to linear systems, a knowledgeable user can, with the help of the program, solve a wider class of equations. Over 100 examples, covering a variety of cases, have been solved by using the program. Some representative examples are presented. Additional features which would improve the versatility of the program are also discussed.

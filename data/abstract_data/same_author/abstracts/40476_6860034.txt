@@ -1,0 +1,2 @@
+Training Second-Order Recurrent Neural Networks using Hints
+We investigate a method for inserting rules into discrete-time second-order recurrent neural networks which are trained to recognize regular languages. The rules defining regular languages can be expressed in the form of transitions in the corresponding deterministic finite-state automaton. Inserting these rules as hints into networks with second-order connections is straightforward. Our simulation results show that even weak hints seem to improve the convergence time by an order of magnitude.

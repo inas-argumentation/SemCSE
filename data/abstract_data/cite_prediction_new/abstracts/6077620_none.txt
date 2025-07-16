@@ -1,0 +1,2 @@
+Variational Regret Bounds for Reinforcement Learning
+We consider undiscounted reinforcement learning in Markov decision processes (MDPs) where both the reward functions and the state-transition probabilities may vary (gradually or abruptly) over time. For this problem setting, we propose an algorithm and provide performance guarantees for the regret evaluated against the optimal non-stationary policy. The upper bound on the regret is given in terms of the total variation in the MDP. This is the first variational regret bound for the general reinforcement learning setting.

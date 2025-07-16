@@ -1,0 +1,2 @@
+Weight and Distance Structure of Nordstrom-Robinson Quadratic Code
+The representation of the Nordstrom-Robinson optimum quadratic (15, 8) code in terms of polynomials over GF(2) (i.e.,, linear cyclic codes) leads to a nonheuristic proof of the distance properties of this code. In this paper it is shown that the weight and distance structures can be treated analogously and that the minimum distance and weight are 5. The analysis of this mechanism may be an essential step in the discovery of an entire class of nonlinear double error correcting codes.

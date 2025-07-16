@@ -1,0 +1,2 @@
+A quasi-coherent description of the the category of D-mod(Gr$_{GL(n)}$)
+In arXiv:1807.09038 we formulated a conjecture describing the derived category D-mod(Gr$_{GL(n)}$) of (all) D-modules on the affine Grassmannian of the group $GL(n)$ as the category of ind-coherent sheaves on a certain stack (it is explained in loc. cit. that this conjecture "follows" naturally from some heuristic arguments involving 3-dimensional quantum field theory). In this paper we prove a weaker version of this conjecture for the case $n=2$.

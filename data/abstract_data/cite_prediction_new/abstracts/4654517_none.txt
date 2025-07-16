@@ -1,0 +1,2 @@
+Control of a flexible link hammer in a gravitational field and its application to a home robot tapping human shoulders
+The paper deals with the motion control of a flexible link hammer within a vertical plane. The deflection of the flexible link hammer is analyzed in the condition that the hub actuator is excited by a single pulse acceleration and the head is subjected to gravity, Next, the flexible link hammer is attached to the end effector of a home robot. It is shown that the robot can tap a person on the shoulders to relieve them from stiff shoulders.

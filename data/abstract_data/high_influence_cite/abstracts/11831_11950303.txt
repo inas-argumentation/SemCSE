@@ -1,0 +1,2 @@
+Feynman-Kac formula for the solution of Cauchy's problem with time dependent Lévy generator
+We exploit an equivalence between the well-posedness of the homogeneous Cauchy problem for a time dependent Lévy generator L, and the well-posedness of the martingale problem for L, to obtain the Feynman-Kac representation of the solution of ∂u (t, x) ∂t = L (t)u (t, x) + c(t, x)u (t, x) , t > 0, x ∈ R, u (0, x) = φ (x) , φ ∈ C 0 ( R ) , where c is a bounded continuous function.

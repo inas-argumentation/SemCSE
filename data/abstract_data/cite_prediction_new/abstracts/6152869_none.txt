@@ -1,0 +1,2 @@
+5 SE � OF � & INE � AND �-EDIUM � ' RAIN � 0 ARALLELISM ON � ( ORIZONTAL � ! RCHITECTURES
+Horizontal architectures can control several functional units independently, and usually have a single flow of control. As such, they exploit only the finer parallelism, and a large number of functional units is useless when the code contains control or data dependencies. The performance in these cases can be increased, with the same total hardware, if the functional units are divided in groups, each with a private register file and with an independent flow of control.

@@ -1,0 +1,2 @@
+Predicting outcomes of professional DotA 2 matches
+We create a model to predict the outcomes of professional DotA 2 (Defense of the Ancients 2) matches in this project. DotA 2 is an esport where 2 teams of 5 human players each play against each other. By looking at the teams playing as well as each player’s in-game characters and historical performance, we should be able to predict the outcomes of matches better than chance. The result is that our best model’s performance is on par with humanlevel performance of this prediction task.

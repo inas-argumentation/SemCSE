@@ -1,0 +1,2 @@
+Ranging energy optimization for robust sensor positioning
+We address ranging energy optimization for an unsynchronized localization system, which features robust sensor positioning, in the sense that specific accuracy requirements are fulfilled within a prescribed service area. Optimization problems related to the ranging energy of a sensor and beacons are proposed, after which a practical algorithm based on semidefinite programming is presented. The effectiveness of the algorithm is illustrated by a numerical experiment.

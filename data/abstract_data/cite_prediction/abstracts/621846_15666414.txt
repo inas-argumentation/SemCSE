@@ -1,0 +1,2 @@
+Field programmable gate array based control of Dual Active Bridge DC/DC Converter for the UNIFLEX-PM project
+This paper presents a Field Programmable Gate Array (FPGA) implemented control system for a Dual Active Bridge (DAB) DC/DC Converter. This implementation was required during the UNIFLEX-PM project to reduce the required computational burden on the Digital Signal Processor (DSP) used for the grid power flow control algorithms. The presented design is verified using one of the 25kVA Dual Active Bridge DC/DC Converters from the UNIFLEX-PM experimental prototype.

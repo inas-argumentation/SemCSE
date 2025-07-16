@@ -1,0 +1,20 @@
+Piecewise Linear Neural Networks verification: A comparative study
+The success of Deep Learning and its potential use in many important safety-
+critical applications has motivated research on formal verification of Neural Net-
+work (NN) models. Despite the reputation of learned NN models to behave as
+black boxes and theoretical hardness results of the problem of proving their prop-
+erties, researchers have been successful in verifying some classes of models by
+exploiting their piecewise linear structure. Unfortunately, most of these works
+test their algorithms on their own models and do not offer any comparison with
+other approaches. As a result, the advantages and downsides of the different al-
+gorithms are not well understood. Motivated by the need of accelerating progress
+in this very important area, we investigate the trade-offs of a number of different
+approaches based on Mixed Integer Programming, Satisfiability Modulo Theory,
+as well as a novel method based on the Branch-and-Bound framework. We also
+propose a new data set of benchmarks, in addition to a collection of previously
+released testcases that can be used to compare existing methods. Our analysis not
+only allowed a comparison to be made between different strategies, the compar-
+ision of results from different solvers also revealed implementation bugs in pub-
+lished methods. We expect that the availability of our benchmark and the analysis
+of the different approaches will allow researchers to invent and evaluate promising
+approaches for making progress on this important topic.

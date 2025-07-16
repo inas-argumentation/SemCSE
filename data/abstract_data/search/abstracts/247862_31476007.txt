@@ -1,0 +1,2 @@
+An Overview: Peak to Average Power Ratio Reduction Techniques for OFDM Signals
+One of the challenging issues for Orthogonal Frequency Division Multiplexing (OFDM) system is its high Peak to Average Power Ratio (PAPR) In this paper, we review and analysis different OFDM PAPR reduction techniques, based on computational complexity, bandwidth expansion, spectral spillage and performance. We also discuss some methods of PAPR reduction for multiuser OFDM broadband communication systems.

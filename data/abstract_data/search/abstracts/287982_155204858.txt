@@ -1,0 +1,2 @@
+JavaScript and Client Side Development
+In the early chapters, you installed NodeJS and learned how to do things like run a local server. After that, you spent a good amount of time working with the browser and exploring how JavaScript works inside it. In this chapter, I will introduce tools powered by NodeJS that will enhance client side development.

@@ -1,0 +1,2 @@
+Eikonal method for calculation of coherence functions.
+A method is presented for computing the cross-spectral density of a special class of partially coherent fields in which the coherent modes obey an eikonal equation. This method allows for statistical analysis of optical systems based on simple ray tracing.

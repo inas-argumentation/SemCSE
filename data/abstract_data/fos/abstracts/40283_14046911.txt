@@ -1,0 +1,2 @@
+The least eigenvalue of graphs whose complements have only two pendent vertices
+Let G be a simple graph and A(G) be the adjacency matrix of G. The eigenvalues of A(G) are referred to as the eigenvalues of G. In this paper, we characterize the graphs with the minimal least eigenvalue among all graphs whose complements are connected and have only two pendent vertices.

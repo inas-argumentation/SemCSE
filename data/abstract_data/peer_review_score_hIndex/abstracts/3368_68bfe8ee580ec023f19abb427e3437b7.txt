@@ -1,0 +1,3 @@
+A Mixture of Variational Autoencoders for Deep Clustering
+In this study, we propose a deep clustering algorithm that utilizes a variational autoencoder (VAE) framework with a multi encoder-decoder neural architecture. This setup enforces a complementary structure that guides the learned latent representations towards a more meaningful space arrangement. It differs from previous VAE-based clustering algorithms by employing a new generative model that uses multiple encoder-decoders.
+We show that this modeling results in both better clustering capabilities and improved data generation. The proposed method is evaluated on standard datasets and is shown to outperform state-of-the-art deep clustering methods significantly.

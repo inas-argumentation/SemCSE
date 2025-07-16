@@ -1,0 +1,2 @@
+Bootstrap-based testing of equality of mean functions or equality of covariance operators for functional data
+We investigate the properties of a simple bootstrap method for testing the equality of mean functions or of covariance operators in functional data. Theoretical size and power results are derived for certain test statistics, whose limiting distributions depend on unknown infinite-dimensional parameters. Simulations demonstrate good size and power of the bootstrap-based functional tests.

@@ -1,0 +1,2 @@
+Single Sensor MPPT Algorithm for Multiple Solar Panels Configurations
+This paper proposes a method for extracting power from several solar panel modules with different characteristics using one single current sensor. This method can prove useful to reduce the board size and to increase the variety of controllers (microcontrollers or FPGAs) that are suitable for that application.

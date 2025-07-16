@@ -1,0 +1,2 @@
+'t Hooft-Polyakov monopoles in lattice SU(N)+adjoint Higgs theory
+We investigate twisted C-periodic boundary conditions in SU(N) gauge field theory with an adjoint Higgs field. We show that with a suitable twist for even N one can impose a nonzero magnetic charge relative to residual U(1) gauge groups in the broken phase, thereby creating a 't Hooft-Polyakov magnetic monopole. This makes it possible to use lattice Monte Carlo simulations to study the properties of these monopoles in the quantum theory.

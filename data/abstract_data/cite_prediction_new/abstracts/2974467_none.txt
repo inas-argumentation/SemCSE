@@ -1,0 +1,2 @@
+A new DCPLL with low jitter based on double-edge mode
+In this paper, we propose a new DCPLL (dividing ratio changeable all digital phase locked loop) with controllable dividing ratio. In a steady state, the output jitter of this circuit always becomes less than half-period of the fixed clock. Also, using selector instead of the double-edge counter can reduce the circuit scale of the proposed DCPLL.

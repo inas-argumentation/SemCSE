@@ -1,0 +1,15 @@
+Antioxidant Proteins Identification Based on Support Vector Machine.
+BACKGROUND
+Evidences have increasingly indicated that human disease, cell metabolism are deeply associated with proteins. Structural mutations and dysregulations of these proteins would contribute to the development of complex disease. Free radicals are unstable molecules that they look for electrons from surrounding atoms for stability, Once a free radical binds to an atom in the body, a chain reaction occurs, which causes damage to cells and DNA. Antioxidant protein is a substance that protects cells from free radical damage. Accurate identification of antioxidant proteins is important for understanding their role in delaying aging and preventing and treating related diseases.Therefore, computational methods to identify pantioxidant proteins have become an effective prior-pinpointing approach to the experimental verification.
+
+
+METHODS
+In this study, we use support vector machines to identify antioxidant proteins, using amino acid compositions and 9-gap dipeptide compositions as feature extraction, and feature reduction by Principal Component Analysis.
+
+
+RESULTS
+The prediction accuracy Acc of this experiment reached 98.38%, the recall rate Sn of the positive sample obtained 99.27%, the recall rate Sp of the negative sample reached 97.54%, and the MCC value was 0.9678. To evaluate our proposed method, we studied the predictive performance of 20 antioxidant proteins from National Center for Biotechnology Information(NCBI) . As a result, 20 antioxidant proteins were correctly predicted by our method. Experimental results demonstrate that the performance of our method is better than the state-of-the-art methods for identiﬁcation antioxidant proteins.
+
+
+CONCLUSION
+We collected experimental protein data from Uniport, including 253 antioxidant proteins and 1552 non-antioxidant proteins. The optimal feature extraction used in this paper is composed of amino acid composition and 9-gap dipeptide. The protein is identified by support vector machine, and the model evaluation index is obtained based on 5-fold cross-validation. Compared with the existing classification model, it is further explained that the SVM recognition model constructed in this paper is helpful for the recognition of antioxidized proteins.

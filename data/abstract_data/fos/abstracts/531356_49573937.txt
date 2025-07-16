@@ -1,0 +1,2 @@
+Breast Cancer Diagnosis via Classification Algorithms
+In this paper, we analyze the Wisconsin Diagnostic Breast Cancer Data using Machine Learning classification techniques, such as the SVM, Bayesian Logistic Regression (Variational Approximation), and K-Nearest-Neighbors. We describe each model, and compare their performance through different measures. We conclude that SVM has the best performance among all other classifiers, while it competes closely with the Bayesian Logistic Regression that is ranked second best method for this dataset.

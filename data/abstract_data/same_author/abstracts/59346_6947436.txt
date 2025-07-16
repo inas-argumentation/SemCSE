@@ -1,0 +1,2 @@
+Multilevel Master-Slave Parallel Programming Models
+We develop a multilevel master-slave (MMS) model that is useful for large-scale master-slave problems. The MMS model implements the MS model at multiple levels and allows parallel creation of slave processes. We describe an MMS structure called the minimum-generation-time (MGT) tree. The results of our experiments show that the MMS model improves the performance of parallel computation.

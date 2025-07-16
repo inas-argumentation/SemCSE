@@ -1,0 +1,2 @@
+Experimental investigation of long-haul transport at 42.7-Gb/s through concatenated optical add/drop nodes
+We compare the single-channel transmission performance of 5 different modulation formats (NRZ, RZ, CSRZ, RZ-DPSK and CSRZ-DPSK) over a long haul network with optical add/drop multiplexers at varying node spacing.

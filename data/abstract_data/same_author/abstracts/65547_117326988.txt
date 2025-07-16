@@ -1,0 +1,2 @@
+On EWMA Charts for Time Series
+Several authors have studied the effect of autocorrelation on the average run length of the Shewhart, EWMA and CUSUM chart, if the underlying observations are autocorrelated (e. g. Johnson and Bagshaw [12], Bagshaw and Johnson [3], Harris and Ross [11], Maragah and Woodall [14], Alwan [2]). As it has turned out, autocorrelation has a profound impact on the performance of these schemes. For this reason it is necessary to use time series models for control chart construction.

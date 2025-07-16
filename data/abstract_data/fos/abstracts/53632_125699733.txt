@@ -1,0 +1,2 @@
+A characteristic mass fraction difference in absorption chillers
+Absorption chillers are considered as heat transfer devices and hence most commonly modeled as heat transfer processes. The absorption of the refrigerant vapor though inherently involves mass transfer into the absorbent, which in comparison to the heat transfer usually is a slow transport process. Modeling absorption chillers, however, usually does not include this mass transfer process. This in fact neglects the dominant process in absorption chillers which is addressed in the present paper.

@@ -1,0 +1,19 @@
+Unintended effects of a computerized physician order entry nearly hard-stop alert to prevent a drug interaction: a randomized controlled trial.
+BACKGROUND
+The effectiveness of computerized physician order entry (CPOE) systems has been modest, largely because clinicians frequently override electronic alerts.
+
+
+METHODS
+To evaluate the effectiveness of a nearly "hard stop" CPOE prescribing alert intended to reduce concomitant orders for warfarin and trimethoprim-sulfamethoxazole, a randomized clinical trial was conducted at 2 academic medical centers in Philadelphia, Pennsylvania. A total of 1981 clinicians were assigned to either an intervention group receiving a nearly hard stop alert or a control group receiving the standard practice. The study duration was August 9, 2006, through February 13, 2007.
+
+
+RESULTS
+The proportion of desired responses (ie, not reordering the alert-triggering drug within 10 minutes of firing) was 57.2% (111 of 194 hard stop alerts) in the intervention group and 13.5% (20 of 148) in the control group (adjusted odds ratio, 0.12; 95% confidence interval, 0.045-0.33). However, the study was terminated early because of 4 unintended consequences identified among patients in the intervention group: a delay of treatment with trimethoprim-sulfamethoxazole in 2 patients and a delay of treatment with warfarin in another 2 patients.
+
+
+CONCLUSIONS
+An electronic hard stop alert as part of an inpatient CPOE system seemed to be extremely effective in changing prescribing. However, this intervention precipitated clinically important treatment delays in 4 patients who needed immediate drug therapy. These results illustrate the importance of formal evaluation and monitoring for unintended consequences of programmatic interventions intended to improve prescribing habits.
+
+
+TRIAL REGISTRATION
+clinicaltrials.gov Identifier: NCT00870298.

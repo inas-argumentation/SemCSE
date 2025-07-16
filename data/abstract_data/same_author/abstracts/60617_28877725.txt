@@ -1,0 +1,2 @@
+GRIP - A high-performance architecture for parallel graph reduction
+GRIP is a high-performance parallel machine designed to execute functional programs using supercombinator graph reduction. It uses a high-bandwidth bus to provide access to a large, distributed shared memory, using intelligent memory units and packet-switching protocols to increase the number of processors which the bus can support. GRIP is also being programmed to support parallel Prolog and DACTL.

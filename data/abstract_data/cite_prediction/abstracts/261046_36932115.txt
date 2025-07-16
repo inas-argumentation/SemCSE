@@ -1,0 +1,2 @@
+Optimized design of A Parking Management System Using FPGA
+The work presented in this paper gives more insight and deeper understanding of constituting modules of parking system. This paper investigates the optimized parking system through FPGA employing “logic for gathers” including multiple registers as their logic block. And we show that this algorithm is superior to an existing packing algorithm.

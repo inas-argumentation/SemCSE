@@ -1,0 +1,2 @@
+Multi-space random mapping for speaker identification
+This paper presents a work of utilizing multi-space random mapping (MRM) to formulate a dual-factor identification system, which combines speaker biometric and personal token. Our work has shown that MRM-system exhibits stronger discriminative ability when comparing test features to its counterfeit templates, which lied in other different random subspaces. This advantage thus contributes to better F-ratio and greater accuracy recognition.

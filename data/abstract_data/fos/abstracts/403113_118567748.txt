@@ -1,0 +1,2 @@
+Modeling mass entrainment in a quasi-one-dimensional shock tube code
+A quasisteady mass-entrainment model for shock tube boundary layers, specifically for use in quasi-one-dimensional codes, is described. Using this model, we calculate shock tube test times for the turbulent regime.

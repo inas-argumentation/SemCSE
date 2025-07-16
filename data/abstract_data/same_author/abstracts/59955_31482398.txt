@@ -1,0 +1,2 @@
+Specification and Implementation of Concurrently Accessed Data Structures: An Abstract Data Type Approach
+In this paper, we extended abstract data types methods to the question of the specification and the implementation of data structures accessed concurrently by several processes. Our approach provides the underlying theory for modularity and development by a stepwise refinement strategy of such systems.

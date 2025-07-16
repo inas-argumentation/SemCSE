@@ -1,0 +1,27 @@
+A multiscale ocean data assimilation approach combining spatial and spectral localisation
+Abstract. Ocean data assimilation systems encompass a wide range of scales
+that are difficult to control simultaneously using partial observation
+networks. All scales are not observable by all observation systems, which is
+not easily taken into account in current ocean operational systems. The main
+reason for this difficulty is that the error covariance matrices are usually
+assumed to be local (e.g. using a localisation algorithm in ensemble data
+assimilation systems), so that the large-scale patterns are removed from the
+error statistics. To better exploit the observational information available for all scales in
+the assimilation systems of the Copernicus Marine Environment Monitoring
+Service, we investigate a new method to introduce scale separation in the
+assimilation scheme. The method is based on a spectral transformation of the assimilation problem
+and consists in carrying out the analysis with spectral localisation for the
+large scales and spatial localisation for the residual scales. The target is
+to improve the observational update of the large-scale components of the
+signal by an explicit observational constraint applied directly on the large
+scales and to restrict the use of spatial localisation to the small-scale
+components of the signal. To evaluate our method, twin experiments are carried out with synthetic
+altimetry observations (simulating the Jason tracks), assimilated in a
+1/4∘ model configuration of the North Atlantic and the Nordic Seas. Results show that the transformation to the spectral domain and the spectral
+localisation provides consistent ensemble estimates of the state of the
+system (in the spectral domain or after backward transformation to the
+spatial domain). Combined with spatial localisation for the residual scales,
+the new scheme is able to provide a reliable ensemble update for all scales,
+with improved accuracy for the large scale; and the performance of the system
+can be checked explicitly and separately for all scales in the assimilation
+system.

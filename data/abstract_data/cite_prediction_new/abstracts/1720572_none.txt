@@ -1,0 +1,2 @@
+Gerschgorin Theorem and its Applications in Control System Problems
+In this paper, we have presented application of Gerschgorin theorem in relative stability analysis of a system represented by a polynomial. We have also presented the applications of Gerschgorin Theorem in reduced order modeling by identifying time scales and stabilization for linear time invariant systems.

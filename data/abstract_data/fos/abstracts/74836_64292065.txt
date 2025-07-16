@@ -1,0 +1,2 @@
+Steganalytic Algorithm Based on Color Characteristic of Image
+Proposes a steganalytic algorithm based on color characteristic of image,this algorithm is based on color characteristic of 24 bit BMP image.Image's feature vector was extracted on color change of cover-image and stego-image,the set of image is classified using support vector machine,and get a excellent measurement result.

@@ -1,0 +1,2 @@
+Mining associated implication networks: computational intermarket analysis
+Current attempts to analyze international financial markets include the use of financial technical analysis and data mining techniques. In this paper, we propose a new approach that incorporates implication networks and association rules to form an associated network structure. The proposed approach explicitly addresses the issue of local vs. global influences between financial markets.

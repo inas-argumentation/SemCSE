@@ -1,0 +1,2 @@
+Impact of VDMOS source metallization ageing in 3D FEM wire lift off modeling
+Based on 3D FEM electro-thermal simulations, we explore the thermal impact of source metallization ageing inducing a bonding wire lift off on a VDMOS device. This kind of failure is usually modeled by changing the geometry of the assembly[1][2], without considering the physical properties evolution of aged materials such as the source metallization [3]. This work aims to highlight the importance of taking into account material evolution due to ageing in 3D FEM electro-thermal simulations.

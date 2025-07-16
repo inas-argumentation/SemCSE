@@ -1,0 +1,15 @@
+Prognostic index score predicts outcome of patients with Stage I non-small cell lung cancer after stereotactic body radiation therapy
+OBJECTIVE
+Lung cancer is the most common causes of cancer death worldwide and patients with non-small-cell lung cancer (NSCLC) have various prognosis. We conducted this study to identify the prognostic predictors and establish a prognostic index score (PIS) for patients with Stage I NSCLC after stereotactic body radiation therapy (SBRT).
+
+
+METHODS
+A total of 131 consecutive patients with Stage I NSCLC who underwent SBRT in our institute were analyzed retrospectively. The Cox proportional hazards regression model was applied to identify the prognostic predictors. Time-dependent receiver operating characteristic analysis was performed to examine cutoff values for survival. The Kaplan-Meier method with log-rank test was used to compare survival curves.
+
+
+RESULTS
+Univariate analysis indicated that tumor location, maximum standardized uptake value (SUVmax), monocyte counts and platelet-to-lymphocyte ratio (PLR) were prognostic factors of overall survival (OS). SUVmax and PLR remained significant in multivariate analysis. Survival analysis indicated both high-SUVmax and PLR correlated with inferior OS and PFS. A PIS was constructed based on pretreatment SUVmax and PLR and a high PIS was also significantly associated with poor outcome.
+
+
+CONCLUSION
+The pretreatment SUVmax and PLR were independent prognostic factors of OS in patients with Stage I NSCLC after SBRT. PIS provides a convenient and accurate tool for predicting outcome of patients after SBRT.

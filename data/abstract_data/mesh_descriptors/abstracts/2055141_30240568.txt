@@ -1,0 +1,15 @@
+Clinically and mammographically occult breast lesions on MR images: potential effect of computerized assessment on clinical reading.
+PURPOSE
+To investigate if and how computerized analysis complements characterization of breast lesions with clinical reading at magnetic resonance imaging.
+
+
+MATERIALS AND METHODS
+The institutional review board approved the use of data obtained prospectively and analyzed either prospectively with informed patient consent or retrospectively with waiver of consent. An existing computerized analysis system was retrained with 100 breast lesions (in 78 patients with mean age of 46.5 years) and tested with 136 other lesions (in 113 patients with mean age of 48.9 years; P=.15 for age difference between groups). Seventy-five lesions in the training set were previously rated by one of three radiologists in daily clinical practice. Lesion rating (as benign, probably benign, indeterminate, suspicious, or highly suggestive of malignancy) and probability of malignancy calculated with computerized analysis were included as covariates in logistic regression analysis to obtain a combined model. The performance of the model was compared with that of clinical reading alone in a set of 72 clinically and mammographically occult lesions not used to train the computerized analysis system (in 60 patients with mean age of 43.5 years; P=.09 for age difference between training and testing groups). Receiver operating characteristic (ROC) curves were plotted, and areas under the ROC curves were calculated and compared.
+
+
+RESULTS
+Performance of reading in the clinical setting, as indicated by area under the ROC curve (Az=0.86), was similar to that of computerized analysis (Az=0.85; P=.99). Significant overall improvement in performance was obtained with the combined model (Az=0.91; P=.03). Improvement was accomplished mostly in characterization of lesions rated indeterminate or suspicious by radiologists.
+
+
+CONCLUSION
+Computerized analysis complements clinical reading and makes computer-aided diagnosis feasible. The complementary information has the potential to increase overall performance for clinically and mammographically occult lesions.

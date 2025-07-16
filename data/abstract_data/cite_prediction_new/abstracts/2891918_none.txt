@@ -1,0 +1,2 @@
+Monitoring vaccine safety using case series CUSUM charts
+We adapt the self-controlled case series method for long-term surveillance of vaccine safety using cumulative sum (CUSUM) charts. The CUSUM surveillance method we propose is applicable for detecting associations that arise in a short pre-determined risk period following vaccination. The performance of the case series CUSUM is investigated through simulations. We illustrate the method using retrospective analyses of influenza vaccine and Bell’s Palsy, and MMR vaccine and febrile convulsions.

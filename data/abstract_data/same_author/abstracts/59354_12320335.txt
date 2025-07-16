@@ -1,0 +1,2 @@
+Heuristics for a Brokering Set Packing Problem
+In this paper we formulate the combinatorial auction brokering problem as a Set Packing Problem (SPP) and apply a simulated annealing heuristic to solve SPP. Experimental results are compared with a recent heuristic algorithm and also with the CPLEX Integer Programming solver where we found that the simulated annealing approach outperforms the previous heuristic method and CPLEX obtaining results within smaller timescales.

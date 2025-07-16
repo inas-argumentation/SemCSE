@@ -1,0 +1,8 @@
+Utilizing web-based gis and sdss for hydrological land use change impact assessment
+A web-based spatial decision support system (SDSS) was developed to assist with watershed hydrologic and water 
+quality assessment for present and future land uses. The SDSS comprises integrated web-based programs, a hydrologic model, 
+web-GIS, and databases. The SDSS uses web-GIS capability for internet map browsing, real-time web-based watershed 
+delineation, and hydrologic spatial data extraction to prepare input data for the Long-Term Hydrological Impact Assessment 
+(L-THIA) model. An urbanizing watershed in suburban Lafayette, Indiana, was selected to illustrate the SDSS capability and 
+to evaluate land use change impact on direct runoff and nonpoint-source pollution. The SDSS is operational for supporting 
+local communities, regional consulting companies, and other stakeholders at: http://pasture.ecn.purdue.edu/~watergen.

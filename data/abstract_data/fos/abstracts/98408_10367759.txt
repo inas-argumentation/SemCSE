@@ -1,0 +1,2 @@
+Fourier series analysis of fractal lenses: theory and experiments with a liquid-crystal display.
+We report on a Fourier series approach that predicts the focal points and intensities produced by fractal zone plate lenses. This approach allows us to separate the effects of the fractal order from those of the lens aperture. We implement these fractal lenses onto a liquid-crystal display and show experimental verification of our theory.

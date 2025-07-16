@@ -1,0 +1,21 @@
+Comparison Of Multi-Criteria Scheduling Techniques
+We propose a novel schedule-based approach for scheduling a
+continuous stream of batch jobs on the machines of a
+computational Grid. Our new solutions represented by
+dispatching rule Earliest Gap-Earliest Deadline First (EG-EDF)
+and Tabu search are based on the idea of filling gaps in the
+existing schedule. EG-EDF rule is able to build the schedule
+for all jobs incrementally by applying technique which fills
+earliest existing gaps in the schedule with newly arriving
+jobs. If no gap for a coming job is available EG-EDF rule uses
+Earliest Deadline First (EDF) strategy for including new job
+into the existing schedule. Such schedule is then optimized
+using the Tabu search algorithm moving jobs into earliest gaps
+again. Scheduling choices are taken to meet the Quality of
+Service (QoS) requested by the submitted jobs, and to optimize
+the usage of hardware resources. Proposed solution is compared
+with FCFS, EASY backfilling, and Flexible backfilling.
+Experiments shows that EG-EDF rule is able to compute good
+assignments, often with shorter algorithm runtime w.r.t. the
+other queue-based algorithms. Further Tabu search optimization
+results in higher QoS and machine usage.

@@ -1,0 +1,17 @@
+Information transfer by quantum matterwave modulation
+Classical communication schemes that exploit wave modulation are the basis of
+the information era. The transfer of information based on the quantum
+properties of photons revolutionized these modern communication techniques.
+Here we demonstrate that also matterwaves can be applied for information
+transfer and that their quantum nature provides a high level of security. Our
+technique allows transmitting a message by a non-trivial modulation of an
+electron matterwave in a biprism interferometer. The data is encoded by a Wien
+filter introducing a longitudinal shift between separated matterwave packets.
+The transmission receiver is a delay line detector performing a dynamic
+contrast analysis of the fringe pattern. Our method relies on the Aharonov-Bohm
+effect and has no light optical analog since it does not shift the phase of the
+electron interference. A passive eavesdropping attack will cause decoherence
+and terminating the data transfer. This is demonstrated by introducing a
+semiconducting surface that disturbs the quantum state by Coulomb interaction
+and reduces the contrast. We also present a key distribution protocol based on
+the quantum nature of the matterwaves that can reveal active eavesdropping.

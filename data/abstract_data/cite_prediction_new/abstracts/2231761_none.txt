@@ -1,0 +1,2 @@
+Integral closure of ideals and annihilators of homology
+This article outgrew from an effort to understand our basic question: Are the annihilators of the non-zero Koszul homology modules $H_i$ of an unmixed ideal $I$ contained in the integral closure $\bar{I}$ of $I$? We also obtain some variations on a result of Burch, which continue the theme of the paper in that they deal with annihilators of homology and integrally closed ideals.

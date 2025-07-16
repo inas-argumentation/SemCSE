@@ -1,0 +1,2 @@
+Parametrizations for Families of ECM-Friendly Curves
+We provide a new family of elliptic curves that results in a one to two percent performance improvement of the elliptic curve integer factorization method. The speedup is confirmed by extensive tests for factors ranging from 15 to 63 bits.

@@ -1,0 +1,5 @@
+Quickest change detection for multi-task problems under unknown parameters
+We consider the quickest change detection problem where both the parameters of pre- and post- change distributions are unknown, which prevent the use of classical simple hypothesis testing. Without additional assumptions, optimal solutions are not tractable as they rely on some minimax and robust variant of the objective. As a consequence, change points might be detected too late for practical applications (in economics, health care or maintenance for instance). 
+Other approaches solve a relaxed version of the problem through the use of particular probability distributions or the use of domain knowledge. 
+
+We tackle this problem in the more complex Markovian case and we provide a new scalable approximate algorithm with near optimal performance that runs in $\mathcal{O}(1)$. 

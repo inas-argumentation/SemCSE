@@ -1,0 +1,2 @@
+The XOO7 Benchmark
+As XML becomes the standard for electronic data interchange, benchmarks are needed to provide a comparative performance analysis of XML Management Systems (XMLMS). Typically a benchmark should adhere to four criteria: relevance, portability, scalability and simplicity [1]. The data structure of a benchmark for XML must be complex enough to capture the characteristics of XML data representation. Data sets should be in various sizes. Benchmark queries should only be defined with the primitives of the language.

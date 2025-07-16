@@ -1,0 +1,2 @@
+Learning of Word Boundaries In Continuous Speech Using Time Delay Neural Networks
+This paper presents early research results for a method for training neural networks to segment previously unseen continuous speech data into words, without the use of a lexicon or a speech recognition engine, or any other forms of supervision. The initial word segmentation is derived through a simple and naï ve method, and our method then leverages the time-invariant properties of the TDNN to derive better hypotheses, which is then used to recursively re-train the neural network.

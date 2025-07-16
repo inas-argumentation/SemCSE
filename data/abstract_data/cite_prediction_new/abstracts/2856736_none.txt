@@ -1,0 +1,2 @@
+Grammatical Error Correction as Multiclass Classification with Single Model
+This paper describes our system in the shared task of CoNLL-2013. We illustrate that grammatical error detection and correction can be transformed into a multiclass classification task and implemented as a single-model system regardless of various error types with the aid of maximum entropy modeling. Our system achieves the F1 score of 17.13% on the standard test set.

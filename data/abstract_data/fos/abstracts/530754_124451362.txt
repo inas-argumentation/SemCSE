@@ -1,0 +1,2 @@
+Determination of Short-term Power Quality Disturbance Source Based-on Disturbance Power Method
+The determination of short-term power quality disturbance source is put forward by disturbance power method in this paper.Polarity of the initial peak of disturbance power is the basis for determining disturbance direction.Disturbance source is located in the branch where polarity is different.The result of simulation indicates that it is useful to recognize disturbance source of voltage swell,voltage sag and voltage interruption with this method.

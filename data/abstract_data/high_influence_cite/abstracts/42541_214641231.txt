@@ -1,0 +1,2 @@
+Green's Function for Nondivergence Elliptic Operators in Two Dimensions
+We construct the Green function for second-order elliptic equations in non-divergence form when the mean oscillations of the coefficients satisfy the Dini condition and the domain has $C^{1,1}$ boundary. We show that the Green's function is BMO in the domain and establish logarithmic pointwise bounds. We also obtain pointwise bounds for first and second derivatives of the Green's function.

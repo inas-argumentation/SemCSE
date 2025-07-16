@@ -1,0 +1,2 @@
+Technical communique On constructing Lyapunov functions for multi agent systems
+Lyapunov equations that dependon communication graph topologies provide building blocks of Lyapunov functions, which play an important role in controller design and stability analysis of multi agent systems. However, construction of such a Lyapunov equation in some published works has a flaw or requires unnecessarily strong graph conditions. This paper presents several choices of Lyapunov equations over various graph topologies. (c) 2015 Elsevier Ltd. All rights reserved.

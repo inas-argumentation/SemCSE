@@ -1,0 +1,2 @@
+Backward Stochastic Differential Equations Driven by G-Brownian Motion with Double Reflections
+In this paper, we study the reflected backward stochastic differential equations driven by G -Brownian motion with two reflecting obstacles, which means that the solution lies between two prescribed processes. A new kind of approximate Skorohod condition is proposed to derive the uniqueness and existence of the solutions. The uniqueness can be proved by a priori estimates and the existence is obtained via a penalization method.

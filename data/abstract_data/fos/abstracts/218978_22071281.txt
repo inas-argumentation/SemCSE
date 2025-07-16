@@ -1,0 +1,15 @@
+SU-C-202-01: Incorporating Time-Dependent Hypoxia in IMRT Planning.
+PURPOSE
+To incorporate uncertainties in oxygenation of tumor cells into radiation therapy planning via robust optimization. The model is demonstrated using a clinical prostate cancer case.
+
+
+METHODS
+The tumor oxygenation levels are determined based on pre- and mid-treatment PET scans. To account for oxygenation changes, we use a radio-sensitivity factor for the effective dose necessary to treat hypoxic cells. Due to the unpredictable nature of re-oxygenation of hypoxic cells, the radio-sensitivity factor and its change is modeled to reside in a time-dependent uncertainty set. This uncertainty can adapt to both pre- and mid-treatment scans, resulting in a two-stage robust treatment planning model. We develop a robust counterpart reformulation that transforms the original NP-hard problem into a linear program consisting of finitely many linear constraints, which can be solved efficiently.
+
+
+RESULTS
+The robust plan is compared to both the corresponding fractionated plan which ignores hypoxia, and to the commonly practiced dose-escalated plan that uniformly increases dose based on initial oxygen concentrations. For PTV, the robust plan improves D50 , D95 , and EUD by 4% on average compared to fractionated, and by 11% compared to the optimal escalated plan. Moreover, the robust plan spared organs at risk similar to the fractionated plan, while the escalated plan led to over 170% increase of Bladder D30 .
+
+
+CONCLUSION
+The proposed robust adaptive model can improve tumor coverage by increasing dose to hypoxic tumor voxels that is overlooked by common fractionated treatments. In addition, the robust model anticipates the re-oxygenation process, thus reducing the excess dose at later fractions in comparison to uniform dose-escalation methods.

@@ -1,0 +1,2 @@
+Distributionally Robust Solution to the Reserve Scheduling Problem With Partial Information of Wind Power
+A distributionally robust optimization (DRO) model is presented for the reserve schedule decision-making problem with partial information of wind power, aiming to find a robust solution to the uncertainty of wind power probability distribution. The stochastic problem can be converted into an equivalent deterministic bilinear matrix inequality (BMI) problem. Numerical results verify the effectiveness of the proposed method.

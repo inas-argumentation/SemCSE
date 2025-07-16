@@ -1,0 +1,2 @@
+A new high compression compressor for large multiplier
+A new high compression compressor is proposed in this paper. This compressor has 7 inputs, 2 output, 2 carry-ins from adjacent two cells and 2 carry-outs to the next two cells. It achieves higher compression ratio than 4:2 compressor, 5:2 compressor and 6:2 compressor. Simulation shows that a 64x64 bit multiplier using this proposed 7:2 compressor is not only 16% faster than multiplier built with 3:2 compressors, but also outperforms multiplier built with other commonly used compressors.

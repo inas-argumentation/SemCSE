@@ -1,0 +1,2 @@
+Dialogue Act Classification in Domain-Independent Conversations Using a Deep Recurrent Neural Network
+In this study, we applied a deep LSTM structure to classify dialogue acts (DAs) in open-domain conversations. We found that the word embeddings parameters, dropout regularization, decay rate and number of layers are the parameters that have the largest effect on the final system accuracy. Using the findings of these experiments, we trained a deep LSTM network that outperforms the state-of-the-art on the Switchboard corpus by 3.11%, and MRDA by 2.2%.

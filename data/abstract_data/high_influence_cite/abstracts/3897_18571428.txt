@@ -1,0 +1,2 @@
+A Hybrid Evolutionary Approach to Maximum Weight Clique Problem
+In this paper we propose a hybrid evolutionary approach combining steady-state genetic algorithm and a greedy heuristic for the maximum weight clique problem. The genetic algorithm generates cliques that are then extended into maximum weight clique by the heuristic. Tests on a variety of benchmark problem instances demonstrate the effectiveness of our approach.

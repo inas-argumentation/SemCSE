@@ -1,0 +1,15 @@
+SU-E-T-459: Dosimetric Consequences of Rotated Elliptical Proton Spots in Modeling In-Air Proton Fluence for Calculating Doses in Water of Proton Pencil Beams.
+PURPOSE
+We present a study of dosimetric consequences on doses in water in modeling in-air proton fluence independently along principle axes for rotated elliptical spots.
+
+
+METHODS
+Phase-space parameters for modeling in-air fluence are the position sigma for the spatial distribution, the angle sigma for the angular distribution, and the correlation between position and angle distributions. Proton spots of the McLaren proton therapy system were measured at five locations near the isocenter for the energies of 180 MeV and 250 MeV. An elongated elliptical spot rotated with respect to the principle axes was observed for the 180 MeV, while a circular-like spot was observed for the 250 MeV. In the first approach, the phase-space parameters were derived in the principle axes without rotation. In the second approach, the phase space parameters were derived in the reference frame with axes rotated to coincide with the major axes of the elliptical spot. Monte-Carlo simulations with derived phase-space parameters using both approaches to tally doses in water were performed and analyzed.
+
+
+RESULTS
+For the rotated elliptical 180 MeV spots, the position sigmas were 3.6 mm and 3.2 mm in principle axes, but were 4.3 mm and 2.0 mm when the reference frame was rotated. Measured spots fitted poorly the uncorrelated 2D Gaussian, but the quality of fit was significantly improved after the reference frame was rotated. As a Result, phase space parameters in the rotated frame were more appropriate for modeling in-air proton fluence of 180 MeV protons. Considerable differences were observed in Monte Carlo simulated dose distributions in water with phase-space parameters obtained with the two approaches.
+
+
+CONCLUSION
+For rotated elliptical proton spots, phase-space parameters obtained in the rotated reference frame are better for modeling in-air proton fluence, and can be introduced into treatment planning systems.

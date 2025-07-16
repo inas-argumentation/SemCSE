@@ -1,0 +1,2 @@
+Fault detection of gas unit of Gilan combined cycle power plant using neural network
+Fault detection is one of the most important and challenging issues in engineering application. In this article fault detection of Gilan combined cycle power plant is investigated. To do so two neural network structures are applied. The first neural network which is trained by Kalman Filter. The second structure is NARX network which is trained by levenberg-marquardt method. The results obtained show that the neural network has a great capability in fault detection.

@@ -1,0 +1,2 @@
+Constructive Data Refinement in Typed Lambda Calculus
+A new treatment of data refinement in typed lambda calculus is proposed, phrased in terms of pre-logical relations [HS99] rather than logical relations, and incorporating a constructive element. Constructive data refinement is shown to have desirable properties, and a substantial example of refinement is presented.

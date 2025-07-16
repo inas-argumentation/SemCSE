@@ -1,0 +1,11 @@
+TU-C-17A-02: An Efficient Method for Making IMRT Treatment Planning Optimizations Results Robust Against Geometrical Uncertainties.
+PURPOSE
+Systematic and random geometrical shifts of target and normal tissues can lead to delivered doses being significantly worse than planned dose distributions. We developed new methods to make treatment plans robust against geometrical uncertainties.
+
+
+METHODS
+We used prioritized prescription algorithms as a basis for development. Under the assumption that each structure moves rigidly, a 3-dimentional vector with a certain probability distribution was used to characterize the position of each structure. One important metric (e.g. mean dose for bladder) was selected to characterize the treatment quality for each structure. An additional optimization step was added to optimize both the mean of each priority Objectives: function as well as the variance values, with respect to the uncertainty probability distributions, while retaining the good quality of the initial optimization results. This method was tested on 10 de-identified prostate treatment cases.
+
+
+RESULTS
+Our optimization algorithm gave very good robust treatment plans consistently for the tested 10 prostate treatment cases, with almost the same robust quality as the traditional CTV-PTV method on targets but with much lower and more robust doses to sensitive structures, especially on structures very close or overlapping with PTV (the rectum and bladder). The method is computationally efficient: in average the method adds only 3 minutes to the overall optimization time (less than 5 minutes total time on a quad-core processor.) CONCLUSION: An optimization algorithm, compatible with prioritized (or lexicographic) optimization, was designed to generate robust treatment plans against motion uncertainties. The method optimizes both the mean and variance values of relevant dose metrics (e.g. bladder mean dose) for all interesting structures. This new algorithm theoretically works for any existing IMRT optimization algorithm and thus has great potential to improve treatment plan robustness.

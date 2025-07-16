@@ -1,0 +1,15 @@
+Smooth interpolation of orientations with angular velocity constraints using quaternions
+In this paper we present methods to smoothly interpolate 
+orientations, given N rotational key frames of an 
+object along a trajectory. The methods allow the user 
+to impose constraints on the rotational path, such as 
+the angular velocity at the endpoints of the trajectory. 
+ 
+We convert the rotations to quaternions, and then 
+spline in that non-Euclidean space. Analogous to the 
+mathematical foundations of flat-space spline curves, 
+we minimize the net “tangential acceleration” of the 
+quaternion path. We replace the flat-space quantities 
+with curved-space quantities, and numerically solve the 
+resulting equation with finite difference and optimization 
+methods.

@@ -1,0 +1,2 @@
+On Coordinated Selective Substitutions: Towards a Unified Theory of Grammars and Machines
+The notion of a coordinated table selective substitution system (a cts system ) is introduced. It provides a unifying framework for both grammars and machines (automata) and hence a really broad framework for formal language theory. An extensive number of examples is given which illustrate how a quite considerable number of grammars and automata considered in the literature may be ‘naturally’ interpreted as special instances (subclasses of the class) of cts systems.

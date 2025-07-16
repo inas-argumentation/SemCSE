@@ -1,0 +1,2 @@
+Analytical modeling of depth dose degradation in heterogeneous lung tissue for intensity modulated proton therapy planning
+Highlights Heterogeneous lung tissue causes degradation of pristine proton pencil beams. A degradation model was implemented into a treatment planning system. For large tumor volumes, degradation was negligible. The mean lung dose was not negatively affected in any of the investigated cases. Small tumor volumes surrounded by lung tissue might get a local target underdose.

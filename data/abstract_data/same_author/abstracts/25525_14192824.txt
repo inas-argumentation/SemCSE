@@ -1,0 +1,4 @@
+A Lorentzian signature model for quantum general relativity
+We give a relativistic spin network model for quantum gravity based on the Lorentz group and its q-deformation, the Quantum Lorentz Algebra. 
+We propose a combinatorial model for the path integral given by an integral over suitable representations of this algebra. This generalises the state sum models for the case of the four-dimensional rotation group previously studied in gr-qc/9709028. 
+As a technical tool, formulae for the evaluation of relativistic spin networks for the Lorentz group are developed, with some simple examples which show that the evaluation is finite in interesting cases. We conjecture that the `10J' symbol needed in our model has a finite value.

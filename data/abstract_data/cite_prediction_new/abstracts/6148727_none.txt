@@ -1,0 +1,2 @@
+The analysis of spot defect induced faults in MOS circuits
+A strategy for modeling spot defect induced faults by their corresponding Boolean functions is developed. The presented strategy is based on the principle of local conduction path analysis. This way of modeling is much more general in the sense that all kinds of faults are unified by one concept, the Boolean function. In this way testing related applications can be done efficiently and can maintain a high quality.<<ETX>>

@@ -1,0 +1,2 @@
+Video Action Classification Using Deep Predictive Coding Networks
+In this paper, we evaluate the PredNet [13] on the Something something action data set [14] and implement the PredNet+ which we train in a multi task fashion to output both classification labels and predictions. Our idea is to condition video prediction and action classification on each other. We discuss a series of observations about the PredNet and conclude that it does not completely follow the principles of the predictive coding framework.

@@ -1,0 +1,15 @@
+Modifications of Surgical Suction Tip Geometry for Flow Optimisation: Influence on Suction-Induced Noise Pollution
+Introduction
+Suction devices for clearing the surgical field are among the most commonly used tools of every surgeon because a better view of the surgical field is essential. Forced suction may produce disturbingly loud noise, which acts as a nonnegligible stressor. Especially, in emergency situations with heavy bleeding, this loud noise has been described as an impeding factor in the medical decision-making process. In addition, there are reports of inner ear damage in patients due to suction noises during operations in the head area. These problems have not been solved yet. The purpose of this study was to analyse flow-dependent suction noise effects of different surgical suction tips. Furthermore, we developed design improvements to these devices.
+
+
+Methods
+We compared five different geometries of suction tips using an in vitro standardised setup. Two commercially available standard suction tips were compared to three adapted new devices regarding their flow-dependent (10-2000 mL/min) noise emission (dB, weighting filter (A), distance 10 cm) and acoustic quality of resulting noises (Hamilton fast Fourier analysis) during active suction at the liquid-air boundary. Noise maps at different flow rates were created for all five suction devices, and the proportion of extracted air was measured. The geometries of the three custom-made suction tips (new models 1, 2, and 3) were designed considering the insights after determining the key characteristics of the two standard suction models.
+
+
+Results
+The geometry of a suction device tip has significant impact on its noise emission. For the standard models, the frequency spectrum at higher flow rates significantly changes to high-frequency noise patterns (>3 kHz). A number of small side holes designed to prevent tissue adhesion lead to increased levels of high-frequency noise. Due to modifications of the tip geometry in our new models, we are able to achieve a highly significant reduction of noise level at low flow rates (new model 2 vs. standard models p < 0.001) and also the acoustic quality improved. Additionally, we attain a highly significant reduction of secondary air intake (new model 2 vs. the other models p < 0.001).
+
+
+Conclusion
+Improving flow-relevant features of the geometry of suction heads is a suitable way to reduce noise emissions. Optimized suction tips are significantly quieter. This may help us to reduce noise-induced hearing damage in patients as well as stress of medical staff during surgery and should lead to quieter operation theatres overall. Furthermore, the turbulence reduction and reduced secondary air intake during the suction process are expected to result in protective effects on the collected blood and thus could improve the quality of autologous blood retransfusions. We are on the way to evaluate potential benefits.

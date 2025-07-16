@@ -1,0 +1,2 @@
+Human Behavior Analysis from Video Data Using Bag-of-Gestures
+Human Behavior Analysis in Uncontrolled Environments can be categorized in two main challenges: 1) Feature extraction and 2) Behavior analysis from a set of corporal language vocabulary. In this work, we present our achievements characterizing some simple behaviors from visual data on different real applications and discuss our plan for future work: low level vocabulary definition from bag-of-gesture units and high level modelling and inference of human behaviors.

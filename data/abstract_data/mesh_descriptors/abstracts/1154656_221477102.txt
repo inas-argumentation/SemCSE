@@ -1,0 +1,19 @@
+A novel tool for improving the interpretation of isotope bone scans in metastatic prostate cancer.
+OBJECTIVES
+The isotope bone scan (IBS) is the gold-standard imaging modality for detecting skeletal metastases as part of prostate cancer staging. However, its clinical utility for assessing skeletal metastatic burden is limited due to the need for subjective interpretation. We designed and tested a novel custom software tool, the Metastatic Bone Scan Tool (MetsBST), aimed at improving interpretation of IBSs, and compared its performance with that of an established software programme.
+
+
+METHODS
+We used IBS images from 62 patients diagnosed with prostate cancer and suspected bone metastases to design and implement MetsBST in MATLAB by defining thresholds used to identify the texture and size of metastatic bone lesions. The results of MetsBST were compared with those of the commercially available automated Bone Scan Index (aBSI) with regression analysis.
+
+
+RESULTS
+There was strong agreement between the MetsBST and aBSI results (R2 = 0.9189). In a subregional analysis, MetsBST quantified the extent of metastatic disease in multiple bone sites in patients receiving multimodality therapy (radium-223 and external beam radiotherapy) to illustrate the differences in bone metastatic response to different treatments.
+
+
+CONCLUSION
+The results of MetsBST and the commercial software aBSI were highly consistent. MetsBST introduces novel clinical utility by its ability to differentiate between the responses of different bone metastases to multimodality therapies.
+
+
+ADVANCES IN KNOWLEDGE
+MetsBST reduces the variability in assessment of tumour burden caused by subjective interpretation. Therefore, it is a useful aid to physicians reporting nuclear medicine scans, and may improve decision-making in the treatment of metastatic prostate cancer.

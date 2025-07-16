@@ -1,0 +1,4 @@
+Coverings of Graphs and Maps, Orthogonality, and Eigenvectors
+Lifts of graph and map automorphisms can be described in terms of voltage assignments that are, in a sense, compatible with the automorphisms. We show that compatibility of ordinary voltage assignments in Abelian groups is related to orthogonality in certain 
+$$\mathcal{Z}$$
+-modules. For cyclic groups, compatibility turns out to be equivalent with the existence of eigenvectors of certain matrices that are naturally associated with graph automorphisms. This allows for a great simplification in characterizing compatible voltage assignments and has applications in constructions of highly symmetric graphs and maps.

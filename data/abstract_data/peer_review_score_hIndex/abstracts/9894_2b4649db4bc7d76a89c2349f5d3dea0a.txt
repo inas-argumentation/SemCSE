@@ -1,0 +1,17 @@
+Enforcing constraints on outputs with unconstrained inference
+  Increasingly, practitioners apply neural networks to complex
+  problems in natural language processing (NLP), such as syntactic
+  parsing, that have rich output structures. Many such applications
+  require deterministic constraints on the output values; for example,
+  requiring that the sequential outputs encode a valid tree. While
+  hidden units might capture such properties, the network is not
+  always able to learn them from the training data alone, and
+  practitioners must then resort to post-processing. In this paper, we
+  present an inference method for neural networks that enforces
+  deterministic constraints on outputs without performing
+  post-processing or expensive discrete search over the feasible
+  space. Instead, for each input, we nudge the continuous weights
+  until the network's unconstrained inference procedure generates an
+  output that satisfies the constraints. We find that our method
+  reduces the number of violating outputs by up to 81\%, while
+  improving accuracy.

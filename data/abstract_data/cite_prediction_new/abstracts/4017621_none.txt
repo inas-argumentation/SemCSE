@@ -1,0 +1,20 @@
+Test-pattern Generation for VLSI Circuits in a Prolog Environment
+This paper presents a way of specifying, simulating and testing complex VLSI circuits in a logic programming environment. Prolog has been shown to be suitable for the above purpose in many earlier works ([7], [8], [9], [10], [11]). However, it is noted that the prolog implementations of the above tasks are slower than the corresponding implementations in procedural languages. We show that various optimizations are possible to enhance the execution speed and this, coupled with the uniformity offered by Prolog, can make it the language of choice. The suitability of Prolog for high-level fault injection and concurrent fault simulation is also investigated in this paper. A wide variety of circuits can be specified in a convenient and readable way, using Prolog, while providing a good compromise between functional simulation and formal verification of VLSI circuits. The following results are shown: 
+ 
+1. 
+ 
+Prolog eminently supports hierarchical development and mixing of descriptions at various hierarchical levels. This fact can be used in test-pattern generation by mixing the functional and implementation specifications of various modules. Only the modules that are faulty need to be expanded to their implementations and a functional description of all the other modules can be used, resulting in considerable gain in efficiency. 
+ 
+ 
+ 
+ 
+2. 
+ 
+High-level fault injection can be easily implemented in Prolog by a hierarchical naming convention described in the paper. 
+ 
+ 
+ 
+ 
+3. 
+ 
+Concurrent fault simulation can be viewed as an optimization of the Prolog control strategy and by saving some select (non-masking) results from previous computations, the wasteful recomputations can be avoided.

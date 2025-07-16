@@ -1,0 +1,2 @@
+Global dynamics of a family of 3-D Lotka–Volterra systems
+In this article, we analyse the flow of a family of three-dimensional Lotka–Volterra systems restricted to an invariant and bounded region. The behaviour of the flow in the interior of this region is simple: either every orbit is a periodic orbit or orbits move from one boundary to another. Nevertheless, the complete study of the limit sets in the boundary allows one to understand the bifurcations which take place in the region as a global bifurcation that we denote by focus-centre-focus bifurcation.

@@ -1,0 +1,2 @@
+Enclosed: a component-centric interface for designing prototype enclosures
+This paper explores the problem of designing enclosures (or physical cases) that are needed for prototyping electronic devices. We present a novel interface that uses electronic components as handles for designing the 3D shape of the enclosure. We use the .NET Gadgeteer platform as a case study of this problem, and implemented a proof-of-concept system for designing enclosures for Gadgeteer components. We show examples of enclosures designed and fabricated with our system.

@@ -1,0 +1,2 @@
+A Hankel matrix acting on Hardy and Bergman spaces
+Let μ be a finite positive Borel measure on [0, 1). Let Hμ = (μn,k)n,k≥0 be the Hankel matrix with entries μn,k = ∫ [0,1) t dμ(t) . The matrix Hμ induces formally an operator on the space of all analytic functions in the unit disc in the following sense Hμ(f)(z) = ∞ ∑

@@ -1,0 +1,2 @@
+Improving the quality of classification trees via restructuring
+The classification-hierarchy table developed by Chen and Poon (1996) provides a systematic approach to construct classification trees from given sets of classifications and their associated classes. The paper enhances their study by defining a metric to measure the "quality" of a classification tree, and providing an algorithm to improve this quality.

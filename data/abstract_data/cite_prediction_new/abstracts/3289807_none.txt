@@ -1,0 +1,2 @@
+A wideband linear amplitude modulator for polar transmitters based on the concept of interleaving delta modulation
+A wideband amplitude modulator for use with an RF polar transmitter is based on interleaving delta modulation to improve linearity and reduce switching loss, filter size, and EMI. A 0.35 /spl mu/m CMOS 0.35 mm/sup 2/ chip verifies the iDM concept.

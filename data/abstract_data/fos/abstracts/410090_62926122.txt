@@ -1,0 +1,2 @@
+Research on the Method of Rendering Caption Based on OpenGL
+Against the defect of not support Chinese caption in advanced scene simulation development tools, a new method of rendering caption is brought out, two-dimension caption display interface is designed and implemented. It supports multi-language character, multi-line display and multi-alignment format,it can fill the requirements of scene simulation development for its reusability and portability.

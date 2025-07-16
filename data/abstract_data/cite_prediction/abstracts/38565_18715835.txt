@@ -1,0 +1,2 @@
+Development of the snake-like rescue robot "kohga"
+In this paper we report the development of a new rescue robot platform. The robot is constructed by connecting multiple crawler vehicles serially, resulting a long and thin structure so that it can enter narrow space. The units are connected by 2-DOF active joints and 3-DOF passive joints, so that the robot can have both the capability to climb over obstacles as well as adaptation to irregular surfaces. Basic steering and experiments for the robot are also shown.

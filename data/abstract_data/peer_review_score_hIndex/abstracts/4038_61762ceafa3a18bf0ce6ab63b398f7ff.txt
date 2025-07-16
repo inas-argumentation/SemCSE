@@ -1,0 +1,7 @@
+Concentric Spherical GNN for 3D Representation Learning
+Learning 3D representations that generalize well to arbitrarily oriented inputs is a challenge of practical importance in applications varying from computer vision to physics and chemistry.
+We propose a novel multi-resolution convolutional architecture for learning over concentric spherical feature maps, of which the single sphere representation is a special case.
+Our hierarchical architecture is based on alternatively learning to incorporate both intra-sphere and inter-sphere information. 
+We show the applicability of our method for two different types of 3D inputs, mesh objects, which can be regularly sampled, and point clouds, which are irregularly distributed. 
+We also propose an efficient mapping of point clouds to concentric spherical images using radial basis functions, thereby bridging spherical convolutions on grids with general point clouds.
+We demonstrate the effectiveness of our approach in achieving state-of-the-art performance on 3D classification tasks with rotated data.

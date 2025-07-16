@@ -1,0 +1,2 @@
+Design and implementation of a high efficiency AC-AC Buck converter
+This paper presents an AC-AC Buck converter in which a modulation technique was applied in order to reduce losses due to dissipative snubbers. Theoretical analysis and numerical simulation were performed. A 100W prototype was built and tested. Efficiency curves show that snubber losses are minimized with the use of a simple open-loop control technique.

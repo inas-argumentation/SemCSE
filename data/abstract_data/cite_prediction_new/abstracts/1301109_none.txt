@@ -1,0 +1,2 @@
+Difference Equations in Massive Higher Order Calculations
+The calculation of massive 2‐loop operator matrix elements, required for the higher order Wilson coefficients for heavy flavor production in deeply inelas tic scattering, leads to new types of multiple infinite sums over harmonic sums and related functi ons, which depend on the Mellin parameter N. We report on the solution of these sums through higher order difference equations using the summation packageSigma.

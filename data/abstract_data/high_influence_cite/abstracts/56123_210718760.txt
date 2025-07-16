@@ -1,0 +1,2 @@
+Control-Bounded Analog-to-Digital Conversion: Transfer Function Analysis, Proof of Concept, and Digital Filter Implementation
+Control-bounded analog-to-digital conversion has many commonalities with delta-sigma conversion, but it can profitably use more general analog filters. The paper describes the operating principle, gives a transfer function analysis, presents a proof-of-concept implementation, and describes the digital filtering in detail.

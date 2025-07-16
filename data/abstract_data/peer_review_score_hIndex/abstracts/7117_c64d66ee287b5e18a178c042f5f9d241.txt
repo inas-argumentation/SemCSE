@@ -1,0 +1,8 @@
+Signed Graph Diffusion Network
+Given a signed social graph, how can we learn appropriate node representations to infer the signs of missing edges?
+Signed social graphs have received considerable attention to model trust relationships.
+Learning node representations is crucial to effectively analyze graph data, and various techniques such as network embedding and graph convolutional network (GCN) have been proposed for learning signed graphs.
+However, traditional network embedding methods are not end-to-end for a specific task such as link sign prediction, and GCN-based methods suffer from a performance degradation problem when their depth increases.
+In this paper, we propose Signed Graph Diffusion Network (SGDNet), a novel graph neural network that achieves end-to-end node representation learning for link sign prediction in signed social graphs.
+We propose a random walk technique specially designed for signed graphs so that SGDNet effectively diffuses hidden node features.
+Through extensive experiments, we demonstrate that SGDNet outperforms state-of-the-art models in terms of link sign prediction accuracy. 

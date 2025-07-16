@@ -1,0 +1,2 @@
+Scene Simulation of Ski jump Take off from Carrier Based on VEGA
+This paper establishes completed dynamic model of aircraft ramp ski jump take off and the motion of carrier on the wave .Then the software Creator and Vega are used to build 3D virtual ocean scene and the carrier model and the six freedom motions of aircraft and carrier are controlled in the API application program .The result shows that the real time motion of aircraft take off from the ramp is realized.

@@ -1,0 +1,11 @@
+Cytoscape.js: a graph theory library for visualisation and analysis
+UNLABELLED
+Cytoscape.js is an open-source JavaScript-based graph library. Its most common use case is as a visualization software component, so it can be used to render interactive graphs in a web browser. It also can be used in a headless manner, useful for graph operations on a server, such as Node.js.
+
+
+AVAILABILITY AND IMPLEMENTATION
+Cytoscape.js is implemented in JavaScript. Documentation, downloads and source code are available at http://js.cytoscape.org.
+
+
+CONTACT
+gary.bader@utoronto.ca.

@@ -1,0 +1,2 @@
+Forensic Analysis of BIOS Chips
+Data can be hidden in BIOS chips without hindering computer performance. This feature has been exploited by virus writers and computer game enthusiasts. Unused BIOS storage can also be used by criminals, terrorists and intelligence agents to conceal secrets. However, BIOS chips are largely ignored in digital forensic investigations. Few techniques exist for imaging BIOS chips and no tools are available specifically for analyzing BIOS data.

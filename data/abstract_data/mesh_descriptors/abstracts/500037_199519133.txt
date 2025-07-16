@@ -1,0 +1,15 @@
+A Noninvasive and Donor-independent Method Simultaneously Monitors Rejection and Infection in Patients With Organ Transplant.
+BACKGROUND
+Rejection and infection are 2 major complications affecting the health and survival of patients receiving an allograft organ transplantation. We describe a diagnostic assay that simultaneously monitors for rejection and infection in recipients of kidney transplant by sequencing of cell-free DNA (cfDNA) in plasma.
+
+
+METHODS
+By using cfDNA in plasma, we established a noninvasive method that simultaneously monitors rejection and infection in patients with a history of organ transplant. A total of 6200 single-nucleotide polymorphisms were captured by liquid hybridization and sequenced by next-generation sequencing. The donor-derived cfDNA (ddcfDNA) level was calculated based on maximum likelihood estimation, without relying on the donor's genotype. We also analyzed the nonhuman cfDNA to test for infections in the patients' plasma.
+
+
+RESULTS
+Artificial ddcfDNA levels quantified by a donor-dependent and donor-independent algorithm were significantly correlated, with the multivariate coefficient of determination, or R2 value, of 0.999. This technique was applied on 30 patients (32 samples) after kidney transplantation, and a significant difference was observed on the ddcfdNA levels between nonrejection and rejection. Furthermore, 1 BK virus infection and 1 cytomegalovirus infection were revealed by this method, and the enrichment efficiency of the viral sequences was 114 and 489 times, respectively, which are consistent with clinical results.
+
+
+CONCLUSION
+This method can be used to simultaneously monitor for acute rejection as well as a broad spectrum of infections for patients of allograft organ transplant because it provides comprehensive information for clinicians to optimize immunosuppression therapy.

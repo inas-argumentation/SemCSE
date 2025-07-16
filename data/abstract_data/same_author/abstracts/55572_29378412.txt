@@ -1,0 +1,2 @@
+Vertex-primitive digraphs of prime-power order are hamiltonian
+Abstract Witte [6] proved that every connected Cayley digraph of a p -group is hamiltonian. In this note we generalize Witte's result to connected vertex-primitive digraphs of prime-power order; namely, we prove that every connected vertex-primitive digraph of prime-power order is hamiltonian.

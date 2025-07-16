@@ -1,0 +1,2 @@
+Gelfand-Kirillov dimensions of simple highest weight modules for types BCD
+By using the Lusztig's $ \mathbf{a} $-function, we give a combinatorial algorithm for Gelfand-Kirillov dimensions of simple highest weight modules of Lie algebras $ \mathfrak{sp}_{2n} $, $ \mathfrak{so}_{2n} $ and $ \mathfrak{so}_{2n+1} $ in terms of their highest weights. Then we determine the associated varieties of highest weight Harish-Chandra modules of Lie groups $ Sp(2n,\mathbb{R}) $, $ SO^*(2n) $, $ SO(2, 2n-1) $ and $ SO(2,2n-2) $ by computing their Gelfand-Kirillov dimensions.

@@ -1,0 +1,15 @@
+A critical evaluation of worst case optimization methods for robust intensity-modulated proton therapy planning.
+PURPOSE
+To critically evaluate and compare three worst case optimization methods that have been previously employed to generate intensity-modulated proton therapy treatment plans that are robust against systematic errors. The goal of the evaluation is to identify circumstances when the methods behave differently and to describe the mechanism behind the differences when they occur.
+
+
+METHODS
+The worst case methods optimize plans to perform as well as possible under the worst case scenario that can physically occur (composite worst case), the combination of the worst case scenarios for each objective constituent considered independently (objectivewise worst case), and the combination of the worst case scenarios for each voxel considered independently (voxelwise worst case). These three methods were assessed with respect to treatment planning for prostate under systematic setup uncertainty. An equivalence with probabilistic optimization was used to identify the scenarios that determine the outcome of the optimization.
+
+
+RESULTS
+If the conflict between target coverage and normal tissue sparing is small and no dose-volume histogram (DVH) constraints are present, then all three methods yield robust plans. Otherwise, they all have their shortcomings: Composite worst case led to unnecessarily low plan quality in boundary scenarios that were less difficult than the worst case ones. Objectivewise worst case generally led to nonrobust plans. Voxelwise worst case led to overly conservative plans with respect to DVH constraints, which resulted in excessive dose to normal tissue, and less sharp dose fall-off than the other two methods.
+
+
+CONCLUSIONS
+The three worst case methods have clearly different behaviors. These behaviors can be understood from which scenarios that are active in the optimization. No particular method is superior to the others under all circumstances: composite worst case is suitable if the conflicts are not very severe or there are DVH constraints whereas voxelwise worst case is advantageous if there are severe conflicts but no DVH constraints. The advantages of composite and voxelwise worst case outweigh those of objectivewise worst case.

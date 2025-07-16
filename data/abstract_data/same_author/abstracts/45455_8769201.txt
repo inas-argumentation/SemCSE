@@ -1,0 +1,2 @@
+Virtual workspaces: Achieving quality of service and quality of life in the Grid
+By defining standardized protocols for discovering, accessing, monitoring, and managing remote computers, storage systems, networks, and other resources, Grid technologies make it possible—in principle—to allocate resources to applications dynamically, in an on-demand fashion [1]. However, while Grids offer users access to many diverse and powerful resources, they do little to ensure that once a resource is accessed, it fulfills user expectations for

@@ -1,0 +1,4 @@
+A model finding a new Richardson potential with different scales for confinement and asymptotic freedom, by fitting the properties of Δ++ and Ω−
+Phenomenological Richardson potential has built in asymptotic freedom (AF in short) and confinement, with only one parameter Λ in the potential. But it is known that the scales of AF and confinement are not the same. In the present work a relativistic mean field calculation for baryons is tried out with two parameters Λ and Λ′ for AF and confinement, respectively. 
+ 
+To test the two parameter potential we calculate the energies and the magnetic moments, of the triple u-quark system (Δ++) and the triple s-quark system (Ω−) and found good values for Λ=100 MeV and Λ′=350 MeV. So we believe that the modified Richardson potential should have AF scale Λ=100 MeV and the confinement scale Λ′=350 MeV.

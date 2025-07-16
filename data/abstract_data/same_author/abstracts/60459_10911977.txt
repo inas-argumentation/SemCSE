@@ -1,0 +1,4 @@
+The GCHQ Protocol and Its Problems
+The UK government is fielding an architecture for secure electronic mail based on the NSA's Message Security Protocol, with a key escrow scheme inspired by Diffie-Hellman. Attempts have been made to have this protocol adopted by other governments and in various domestic applications. The declared policy goal is to entrench commercial key escrow while simultaneously creating a large enough market that software houses will support the protocol as a standard feature rather than charging extra for it. 
+ 
+We describe this protocol and show that, like the 'Clipper' proposal of a few years ago, it has a number of problems. It provides the worst of both secret and public key systems, without delivering the advantages of either; it does not support nonrepudiation; and there are serious problems with the replacement of compromised keys, the protection of security labels, and the support of complex or dynamic administrative structures.

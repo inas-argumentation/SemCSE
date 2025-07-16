@@ -1,0 +1,2 @@
+Fully Dynamic 2-Edge-Connectivity in Planar Graphs
+We propose a data structure for maintaining 2-edge connectivity information dynamically in a planar graph. The data structure requires linear storage and preprocessing time for its construction, supports online updates (insertion and deletion of an edge) in O(log2n) time, and answers a query (whether two vertices are in the same 2-connected component) in O(log n) time. The previous best algorithm for this problem required O(log3n) time for updates.

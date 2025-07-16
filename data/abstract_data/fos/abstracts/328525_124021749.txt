@@ -1,0 +1,2 @@
+Local estimation for varying-coefficient models with longitudinal data
+Varying-coefficient models are very useful for longitudinal data analysis. In this paper, we focus on varying-coefficient models for longitudinal data. We develop a new estimation procedure using Cholesky decomposition and profile least squares techniques. Asymptotic normality for the proposed estimators of varying-coefficient functions has been established. Monte Carlo simulation studies show excellent finite-sample performance. We illustrate our methods with a real data example.

@@ -1,0 +1,2 @@
+Statistical properties of finite sequences with high Kolmogorov complexity
+We investigate to what extent finite binary sequences with high Kolmogorov complexity are normal (all blocks of equal length occur equally frequently), and the maximal length of all-zero or all-one runs which occur with certainty.

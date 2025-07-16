@@ -1,0 +1,2 @@
+Stronger Computational Modelling of Signalling Pathways Using Both Continuous and Discrete-State Methods
+Starting from a biochemical signalling pathway model expressed in a process algebra enriched with quantitative information we automatically derive both continuous-space and discrete-state representations suitable for numerical evaluation. We compare results obtained using implicit numerical differentiation formulae to those obtained using approximate stochastic simulation thereby exposing a flaw in the use of the differentiation procedure producing misleading results.

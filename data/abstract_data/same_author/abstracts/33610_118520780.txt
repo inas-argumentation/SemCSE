@@ -1,0 +1,2 @@
+Methods and Issues in Beam-Beam Simulation
+We will review the recent developments of the beam-beam simulation using the method of particle-in-cell (PIC). The simulation results are compared with both experimental measurements and the analytical theory. Finally the numerical noise in the PIC simulation is discussed.

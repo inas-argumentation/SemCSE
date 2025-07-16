@@ -1,0 +1,2 @@
+A design of power amplifier for CMOS crystal-less wireless connectivity
+This paper describes power amplifier designs based on transformer matching architecture. The power amplifier have been designed in a 40nm CMOS technology, thus targeting automotive radar and millimeter-wave applications. Their operating ranges are 76–81 GHz and the gain is 20.04 dB at center frequency. It provides a saturated output power of 12.5 dBm with the power-added efficiency (PAE) of 15.06%, and the output 1-dB gain-compressed power (P1dB) is 8.28 dBm with the PAE of 7.8% at 79 GHz, respectively.

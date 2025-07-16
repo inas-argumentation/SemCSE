@@ -1,0 +1,2 @@
+Ontology services for curriculum development in NSDL
+We describe our effort to develop an ontology service on top of an educational digital library. The ontology is developed by relating library holdings to the educational concepts they refer to. The ontology system supports basic services like ontology-based search and complex services such as comparison of multiple curricula.

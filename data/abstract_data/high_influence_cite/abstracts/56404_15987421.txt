@@ -1,0 +1,2 @@
+The quandary of quandles: The Borel completeness of a knot invariant
+The isomorphism type of the knot quandle introduced by Joyce is a complete invariant of tame knots. Whether two quandles are isomorphic is in practice difficult to determine; we show that this question is provably hard: isomorphism of quandles is Borel complete. The class of tame knots, however, is trivial from the perspective of Borel reducibility, suggesting that equivalence of tame knots may be reducible to a more tractable isomorphism problem.

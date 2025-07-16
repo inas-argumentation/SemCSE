@@ -1,0 +1,2 @@
+Empirical progress and ampliative adaptive logics.
+In this paper, I present two ampliative adaptive logics: LA and LAk. LA is an adaptive logic for abduction that enables one to generate explanatory hypotheses from a set of observational statements and a set of background assumptions. LAk is based on LA and has the peculiar property that it selects those explanatory hypotheses that are empirically most successful. The aim of LAk is to capture the notion of empirical progress as studied by Theo Kuipers.

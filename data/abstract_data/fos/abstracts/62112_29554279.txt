@@ -1,0 +1,2 @@
+Identification of nonminimum phase FIR: systems using the third and fourth-order cumulants
+An algorithm is proposed for MA system identification using the third- and fourth-order cumulants. Asymmetric non-Gaussian input and Gaussian measurement noise are assumed. Simulation results show that the proposed algorithm is useful when the characteristics of noise are not known or when the SNR is low. >

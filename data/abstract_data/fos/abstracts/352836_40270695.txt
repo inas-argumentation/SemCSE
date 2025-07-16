@@ -1,0 +1,2 @@
+The joint essential numerical range, compact perturbations, and the Olsen problem
+Let T1, . . . , Tn be bounded linear operators on a complex Hilbert space H. Then there are compact operators K1, . . . , Kn ∈ B(H) such that the closure of the joint numerical range of the n-tuple (T1−K1, . . . , Tn−Kn) equals the joint essential numerical range of (T1, . . . , Tn). This generalizes the corresponding result for n = 1. We also show that if S ∈ B(H) and n ∈ N then there exists a compact operator K ∈ B(H) such that ‖(S −K)‖ = ‖S‖e. This generalizes results of C. L. Olsen.

@@ -1,0 +1,2 @@
+Simulating QCD with dynamical Wilson and staggered fermions
+Abstract I present a summary of the work done during the last year by the Los Alamos lattice collaboration (C. Baillie, R. Gupta, G. Kilcup, G. Guralnik, A. Patel and S. Sharpe) to study QCD with the Hybrid Monte Carlo Algorithm. The specific questions we have addressed are the finite temperature transition for both staggered and Wilson fermions and screening in the heavy q q potential with Wilson fermions. I also present a discussion of the efficiency of the fermion update algorithm.

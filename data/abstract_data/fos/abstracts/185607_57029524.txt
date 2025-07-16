@@ -1,0 +1,2 @@
+Flowsheet modeling and simulation for an industrial soda plant
+The industrial ammonia soda process models based on mass balance and energy balance were developed, and the objective functions for data reconciliation and mixed integer nonlinear programming (MINLP)were established.By training the parameters with process data obtained from a plant producing 600000 t·a-1 of 99.5% soda,the models could be used to simulate different operating situations.Simulation data would be the data source of process optimization and data reconciliation.

@@ -1,0 +1,3 @@
+Study of the Particular Solution of a Hamilton-Jacobi-Bellman Equation for a Jump-Diffusion Process
+We present an analytic solution of a differential-difference equation that appears when one solves an optimal stopping time problem with state process following a jump-diffusion process. 
+This equation occurs in the context of real options and finance options, for instance, when one derives the optimal time to undertake a decision. Due to the jump process, the equation is not local in the boundary set. The solution that we present - which takes into account the geometry of the problem - is written in a backward form, and therefore its analysis (along with its implementation) is easy to follow.

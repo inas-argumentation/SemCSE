@@ -1,0 +1,2 @@
+Fair service for mice in the presence of elephants
+We show how randomized caches can be used in resource-poor partial-state routers to provide a fair share of bandwidth to short-lived flows that are known as mice when long-lived flows known as elephants are present.

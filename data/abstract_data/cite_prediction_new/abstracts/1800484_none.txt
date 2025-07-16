@@ -1,0 +1,2 @@
+Truncated Newton Methods for Optimization with Inaccurate Functions and Gradients
+We consider unconstrained minimization problems that have functions and gradients given by black box codes with error control. We discuss several modifications of the Steihaug truncated Newton method that can improve performance for such problems. We illustrate the ideas with two examples.

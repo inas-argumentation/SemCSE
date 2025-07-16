@@ -1,0 +1,8 @@
+Two steps at a time --- taking GAN training in stride with Tseng's method
+Motivated by the training of Generative Adversarial Networks (GANs), we study methods for solving minimax problems with additional nonsmooth regularizers.
+We do so by employing \emph{monotone operator} theory, in particular the \emph{Forward-Backward-Forward (FBF)} method, which avoids the known issue of limit cycling by correcting each update by a second gradient evaluation.
+Furthermore, we propose a seemingly new scheme which recycles old gradients to mitigate the additional computational cost.
+In doing so we rediscover a known method, related to \emph{Optimistic Gradient Descent Ascent (OGDA)}.
+For both schemes we prove novel convergence rates for convex-concave minimax problems via a unifying approach. The derived error bounds are in terms of the gap function for the ergodic iterates.
+For the deterministic and the stochastic problem we show a convergence rate of $\mathcal{O}(\nicefrac{1}{k})$ and $\mathcal{O}(\nicefrac{1}{\sqrt{k}})$, respectively.
+We complement our theoretical results with empirical improvements in the training of Wasserstein GANs on the CIFAR10 dataset.

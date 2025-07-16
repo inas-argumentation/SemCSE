@@ -1,0 +1,2 @@
+Contributed Discussion to Bayesian Solution Uncertainty Quantification for Differential Equations
+We begin by introducing the main ideas of the paper under discussion, and we give a brief description of the method proposed. Next, we discuss an alternative approach based on B spline expansion, and lastly we make some comments on the method's convergence rate.

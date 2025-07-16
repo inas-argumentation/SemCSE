@@ -1,0 +1,2 @@
+A formal approach for passive testing of protocol data portions
+Passive testing is a process of detecting faults in a system under test by passively observing its input/output behaviors only without interrupting its normal operations, and proves to be a promising technique for network fault management. We study passive testing of data portions of network protocols and present two algorithms, using an event-driven extended finite state machine model. Experimental results on the Internet routing protocol OSPF (open shortest path first) are reported.

@@ -1,0 +1,2 @@
+Error diffusion using 2x2 color correction and increment matching
+Introduction of 2 X 2 centering can significantly reduce the number of dot patterns required in color calibration. As a result, local calibration can be performed using direct measurement and fast table lookup. In this paper, 2 X 2 calibration is applied to error diffusion. A novel concept for error diffusion is introduced. It matches the color increment instead of color. The concept makes integration of error diffusion and 2 X 2 calibration natural and free of causality issue.

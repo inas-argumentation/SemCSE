@@ -1,0 +1,2 @@
+A generic passive matching network for multiplexers
+A systematic approach to matching an arbitrary number of bulk acoustic wave or surface acoustic wave filters is proposed. The filters can be modeled as capacitor networks at frequencies above and below their passbands. The generic matching network consists of a single shunt inductor (or a transmission line) and series capacitors in front of each filter.

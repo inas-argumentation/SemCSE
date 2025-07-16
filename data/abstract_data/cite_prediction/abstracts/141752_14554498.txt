@@ -1,0 +1,2 @@
+A Markerless Augmented Reality Approach Based on Real-Time 3 D Reconstruction using Kinect
+In this paper we present a markerless augmented reality (MAR) approach based on real-time 3D reconstruction using a low-cost depth camera, the Kinect. We intend to use this MAR approach for 3D medical visualization. In the actual state of developing, our approach is based on the KinectFusion algorithm with some minor adaptations, as long as our goal is not reconstruct scenes but use the reconstructed model as a reference to MAR. Keywords-Augmented Reality; 3D Reconstruction; Kinect;

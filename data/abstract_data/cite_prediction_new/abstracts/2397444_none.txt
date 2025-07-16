@@ -1,0 +1,15 @@
+Cholesteryl esters associated with acyl-CoA:cholesterol acyltransferase predict coronary artery disease in patients with symptoms of acute coronary syndrome.
+OBJECTIVES
+Identifying the likelihood of a patient having coronary artery disease (CAD) at the time of emergency department (ED) presentation with chest pain could reduce the need for stress testing or coronary imaging after myocardial infarction (MI) has been excluded. The authors aimed to determine if a novel cardiac biomarker consisting of plasma cholesteryl ester (CE) levels typically derived from the activity of the enzyme acyl-CoA:cholesterol acyltransferase (ACAT2) are predictive of CAD in a clinical model.
+
+
+METHODS
+A single-center prospective cohort design enrolled participants with symptoms of acute coronary syndrome (ACS) undergoing coronary computed tomography angiography (CCTA) or invasive angiography. Plasma samples were analyzed for CE composition with mass spectrometry. The primary endpoint was any CAD determined at angiography. Multivariable logistic regression analyses were used to estimate the relationship between the sum of the plasma concentrations from cholesteryl palmitoleate (16:1) and cholesteryl oleate (18:1) (defined as ACAT2-CE) and the presence of CAD. The added value of ACAT2-CE to the model was analyzed comparing the C-statistics and integrated discrimination improvement (IDI).
+
+
+RESULTS
+The study cohort was composed of 113 participants with a mean (± standard deviation [SD]) age of 49 (±11.7) years, 59% had CAD at angiography, and 23% had an MI within 30 days. The median (interquartile range [IQR]) plasma concentration of ACAT2-CE was 938 μmol/L (IQR = 758 to 1,099 μmol/L) in patients with CAD and 824 μmol/L (IQR = 683 to 998 μmol/L) in patients without CAD (p = 0.03). When considered with age, sex, and the number of conventional CAD risk factors, ACAT2-CE levels were associated with a 6.5% increased odds of having CAD per 10 μmol/L increase in concentration. The addition of ACAT2-CE significantly improved the C-statistic (0.89 vs. 0.95, p = 0.0035) and IDI (0.15, p < 0.001) compared to the reduced model. In the subgroup of low-risk observation unit patients, the CE model had superior discrimination compared to the Diamond-Forrester classification (IDI = 0.403, p < 0.001).
+
+
+CONCLUSIONS
+Plasma levels of ACAT2-CE have strong potential to predict a patient's likelihood of having CAD when considered in a clinical model but not when used alone. In turn, a clinical model containing ACAT2-CE could reduce the need for cardiac imaging after the exclusion of MI.

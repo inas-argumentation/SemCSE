@@ -1,0 +1,2 @@
+Toward a Theory of Input Acceptance for Transactional Memories
+Transactional memory (TM) systems receive as an input a stream of events also known as a workload , reschedule it with respect to several constraints, and output a consistent history. In multicore architectures, the transactional code executed by a processor is a stream of events whose interruption would waste processor cycles. In this paper, we formalize the notion of TM workload into classes of input patterns, whose acceptance helps understanding the performance of a given TM.

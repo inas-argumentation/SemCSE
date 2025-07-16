@@ -1,0 +1,2 @@
+Improved method for detecting local discontinuities in CMB data by finite differencing
+An unexpected distribution of temperatures in the CMB could be a sign of new physics. In particular, the existence of cosmic defects could be indicated by temperature discontinuities via the Kaiser-Stebbins effect. In this paper, we show how performing finite differences on a CMB map, with the noise regularized in harmonic space, may expose such discontinuities, and we report the results of this process on the 7-year Wilkinson Microwave Anisotropy Probe data.

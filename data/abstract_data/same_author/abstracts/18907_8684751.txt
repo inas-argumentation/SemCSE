@@ -1,0 +1,2 @@
+Incorporating radial flow in the lattice gas model for nuclear disassembly
+We consider extensions of the lattice gas model to incorporate radial flow. Experimental data are used to set the magnitude of radial flow. This flow is then included in the Lattice Gas Model in a microcanonical formalism. For magnitudes of flow seen in experiments, the main effect of the flow on observables is a shift along the $E^*/A$ axis.

@@ -1,0 +1,2 @@
+Applications of AI techniques for chip-architecture planning
+AI techniques are well suited to support the designer of digital chips during the high level synthesis step chip-architecture planning. This paper presents applications of object oriented representation, deduction rules, a truth maintenance system and justifications in this area.

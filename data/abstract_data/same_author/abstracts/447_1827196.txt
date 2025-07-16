@@ -1,0 +1,2 @@
+Network architecture to support QoS in mobile ad hoc networks [video streaming applications]
+We present a quality of service (QoS) architecture for supporting real-time data transmission in mobile ad hoc networks (MANETs). The QoS architecture includes a QoS transport layer, QoS routing, queue management and a priority MAC protocol. Through simulations, we find that the QoS architecture reduces packet delay and greatly improves the quality of real-time video streams in MANETs.

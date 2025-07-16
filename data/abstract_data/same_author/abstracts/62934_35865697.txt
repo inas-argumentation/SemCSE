@@ -1,0 +1,2 @@
+Integral Attacks on Reduced-Round ARIA Block Cipher
+The security of ARIA against integral attack is analyzed in this paper. First we modify the 3-round integral distinguishers proposed by Li et al., and by analyzing the property of the diffusion layer of ARIA we present new 4-round integral distinguishers. Moreover, based on the 4-round integral distinguishers and the partial sum technique we improve integral attack result on 6-round ARIA and propose integral attack on 7-round ARIA. The results are the best integral attack results on reduced-round ARIA so far.

@@ -1,0 +1,19 @@
+Exploring the performance limits of the ALICE Time Projection Chamber and Transition Radiation Detector for measuring identified hadron production at the LHC
+The Time Projection Chamber (TPC) and Transition Radiation Detector (TRD) are the 
+main tracking and particle identification devices in the ALICE experiment at the CERN 
+LHC. This thesis studies aspects of their performance beyond the original designs. This 
+includes extending the TPC momentum measurement for cosmic rays to sub-TeV scale, 
+investigating a robust identification method for electrons and hadrons by the TRD, and 
+developing new approaches to characterize the TPC and TRD signals. These studies lead 
+to an intriguing observation of the transition radiation from sub-TeV cosmic muons, and 
+a universal method -- the TPC coherent fit -- to extract yields of different particle species 
+with momentum from 0.5 to above 20 GeV/c. 
+ 
+With the TPC coherent fit, transverse momentum spectra (0.6 < pt < 20 GeV/c) of pions, 
+kaons and protons at mid-rapidity (|y|<~0.8) in pp collisions at sqrt(s) = 2.76 and 7 TeV and 
+Pb-Pb collisions at sqrt(s_NN) = 2.76 TeV at the LHC are measured. In this unified approach 
+both the anomalous enhancement of the proton-to-pion ratio at moderate pt (2-8 GeV/c) 
+(the so-called baryon anomaly) and the nuclear modification of particle yields up to 
+high pt (> 10 GeV/c) in Pb-Pb collisions are observed. The particle production is also 
+studied in jets from pp collisions at 7 TeV and the results are well described by Perugia-0 
+tune of PYTHIA6.

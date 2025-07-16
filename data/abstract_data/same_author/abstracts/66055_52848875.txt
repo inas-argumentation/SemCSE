@@ -1,0 +1,2 @@
+Efficient parallel recognition of some circular arc graphs, II
+Based on Tucker's work, we present an accurate proof of the characterization of proper circular arc graphs and obtain the first efficient parallel algorithm which not only recognizes proper circular arc graphs but also constructs proper circular arc representations. The algorithm runs inO(log2n) time withO(n3) processors on a Common CRCW PRAM. The sequential algorithm can be implemented to run inO(n2) time and is optimal if the input graph is given as an adjacency matrix, so to speak.

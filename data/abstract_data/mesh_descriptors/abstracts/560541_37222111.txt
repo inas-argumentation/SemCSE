@@ -1,0 +1,15 @@
+Membrane funnel-based spray ionization for protein/peptide analysis by Fourier transform ion cyclotron resonance mass spectrometry.
+RATIONALE
+Samples analyzed in proteomic studies by nanoelectrospray ionization (nanoESI) are extremely limited in quantity requiring careful sample handling to prevent loss upon transfer and to maintain sample concentration. To alleviate the operational process and reduce the cost of nanoESI, it is essential to develop more robust, simple and sensitive analytical variants of the process. Membrane funnel-based spray was developed for analysis of proteins/peptides in this study.
+
+
+METHODS
+The membrane funnel was fabricated from thin flexible membrane by a punching method using a homemade device. The performance of the membrane funnel-based spray was demonstrated by analyzing peptides, proteins and trypsin-digested samples in comparison of nanoESI and the Teflon sheet based microfunnel.
+
+
+RESULTS
+Compared with the microfunnel, the membrane funnel can be fabricated easily by punching a thin flexible membrane using a sharp needle. Only 50 nL of sample was required for an analysis. The membrane funnel enhanced the spray sensitivity 100-fold. A total of 5 amol of on-spot sample loading was sufficient to provide a measurable signal on a 9.4 Tesla Fourier transform ion cyclotron resonance mass spectrometry system. High-mass proteins (up to 66 kDa) could be analyzed using this funnel-based spray system. Good sequence coverage was obtained for tryptic digested samples.
+
+
+CONCLUSIONS
+A rapid, simple and cheap membrane funnel-based sample plate fabrication method was developed. The membrane funnel-based spray is a promising new variant of nanoESI capable of fast and sensitive analysis of peptides/proteins with great potential that could be extended to other applications, including quantitative analysis at high throughput and imaging mass spectrometry.

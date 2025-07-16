@@ -1,0 +1,2 @@
+TAO: a harmonic mean of Lisp, Prolog and Smalltalk
+This paper presents a new language, TAO, designed for an intelligent tota l programming system called NUE (New Unified Environment) . Though TAO looks lik e another newcomer of Lisp dialects at a glance, it takes in features of Prolog [1] , Smalltalk [2] and even Fortran . Indeed, TAO unifies procedural and functiona l programming with logic programming and object oriented programming in the contex t of Lisp's s-expression . TAO is a "harmonic" mean of Lisp, Prolog and Smalltalk i n the sense :

@@ -1,0 +1,2 @@
+Distribution of the largest of a set of equicorrelated normal variables
+A method is given for finding the cumulative distribution of the largest of a set of equicorrelated normal variables, or indeed the rth ranked of such a sec. the method, which works very well for positive correlation, may be adopted readily for negative correlation and provides, at present, the only computationally feasible method for handling negative correlation.

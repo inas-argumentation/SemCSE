@@ -1,0 +1,2 @@
+MindNet: An Automatically-Created Lexical Resource
+We will demonstrate MindNet, a lexical resource built automatically by processing text. We will present two forms of MindNet: as a static lexical resource, and, as a toolkit which allows MindNets to be built from arbitrary text. We will also introduce a web-based interface to MindNet lexicons (MNEX) that is intended to make the data contained within MindNets more accessible for exploration. Both English and Japanese MindNets will be shown and will be made available, through MNEX, for research purposes.

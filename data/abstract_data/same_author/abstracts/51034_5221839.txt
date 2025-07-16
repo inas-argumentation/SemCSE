@@ -1,0 +1,17 @@
+Modelling life cycle related and individual shape variation in biological specimens
+The main purpose of this research is to develop methods for automatic 
+identification of biological specimens in digital photographs and drawings 
+held in a database. Incorporation of taxonomic drawings into a visual indexing 
+system has not been attempted to date. Diatoms are a single cell microscopic 
+algae that provide a particularly suitable case study. Identification of 
+diatoms is a challenging task due to the huge number of the species, blurred 
+boundaries between species, and life cycle related shape changes. A novel 
+model based on principal curves representing the life cycle related shape 
+variation of a number of diatom species has been developed. Our model 
+is suitable for reconstruction purposes, allowing us to produce drawings of a 
+variety of diatom shapes, thus providing a link between the photographs and 
+drawings. We present the classification results of photographed and drawn 
+specimens based on the model and compare our results to another recent system 
+for diatom identification. Finally, given a diatom specimen, we are able 
+not only to identify the species it belongs to but also to pinpoint the stage in 
+the life cycle it represents.

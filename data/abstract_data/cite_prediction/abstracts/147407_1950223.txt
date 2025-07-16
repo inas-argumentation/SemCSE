@@ -1,0 +1,2 @@
+The beacon openflow controller
+Beacon is a Java-based open source OpenFlow controller created in 2010. It has been widely used for teaching, research, and as the basis of Floodlight. This paper describes the architectural decisions and implementation that achieves three of Beacon's goals: to improve developer productivity, to provide the runtime ability to start and stop existing and new applications, and to be high performance.

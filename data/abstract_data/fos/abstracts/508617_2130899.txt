@@ -1,0 +1,6 @@
+Public Key Broadcast Encryption with Low Number of Keys and Constant Decryption Time
+In this paper we propose three public key BE schemes that have efficient complexity measures. The first scheme, called the BE-PI scheme, has O(r) header size, O(1) public keys and O(log N) private keys per user, where r is the number of revoked users. This is the first public key BE scheme that has both public and private keys under O(logN) while the header size is O(r). These complexity measures match those of efficient secret key BE schemes. 
+ 
+Our second scheme, called the PK-SD-PI scheme, has O(r) header size, O(1) public key and O(log2 N) private keys per user. They are the same as those of the SD scheme. Nevertheless, the decryption time is remarkably O(1). This is the first public key BE scheme that has O(1) decryption time while other complexity measures are kept low. The third scheme, called, the PK-LSD-PI scheme, is constructed in the same way, but based on the LSD method. It has O(r/Ɛ) ciphertext size and O(log1+Ɛ N) private keys per user, where 0 < Ɛ < 1. The decryption time is also O(1). 
+ 
+Our basic schemes are one-way secure against full collusion of revoked users in the random oracle model under the BDH assumption. We can modify our schemes to have indistinguishably security against adaptive chosen ciphertext attacks.

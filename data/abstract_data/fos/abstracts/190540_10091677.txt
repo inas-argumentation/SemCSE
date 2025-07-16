@@ -1,0 +1,2 @@
+Detection and correction of underassigned rotational symmetry prior to structure deposition
+An X-ray structural model can be reassigned to a higher symmetry space group using the presented framework if its noncrystallographic symmetry operators are close to being exact crystallographic relationships. About 2% of structures in the Protein Data Bank can be reclassified in this way.

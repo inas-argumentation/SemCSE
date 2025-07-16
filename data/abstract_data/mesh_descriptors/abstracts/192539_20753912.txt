@@ -1,0 +1,2 @@
+Fast and accurate predictions of protein NMR chemical shifts from interatomic distances.
+We present a method, CamShift, for the rapid and accurate prediction of NMR chemical shifts from protein structures. The calculations performed by CamShift are based on an approximate expression of the chemical shifts in terms of polynomial functions of interatomic distances. Since these functions are very fast to compute and readily differentiable, the CamShift approach can be utilized in standard protein structure calculation protocols.

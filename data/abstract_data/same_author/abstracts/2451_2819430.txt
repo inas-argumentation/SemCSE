@@ -1,0 +1,2 @@
+Comments on "Leading-One Prediction with Concurrent Position Correction"
+In this report, we first point out and analyse an error in the implementation of the pre-encoding logic in the LOP module proposed in [1], and then present a modification method.

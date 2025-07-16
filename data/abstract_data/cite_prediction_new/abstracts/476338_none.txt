@@ -1,0 +1,2 @@
+Initialization of Parallel Branch-and-bound Algorithms
+Four different initialization methods for parallel Branch-and-bound algorithms are described and compared with reference to several criteria. A formal analysis of their idle times and efficiency follows. It indicates that the efficiency of three methods depends on the branching factor of the search tree. Furthermore, the fourth method offers the best efficiency of the overall algorithm when a centralized OPEN set is used. Experimental results by a PRAM simulation support these statements.

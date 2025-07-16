@@ -1,0 +1,2 @@
+An Introduction to Real-Time Object-Z
+Abstract. This paper presents Real-Time Object-Z: an integration of the object-oriented, state-based specification language Object-Z with the timed trace notation of the timed refinement calculus. This integration provides a method of formally specifying and refining systems involving continuous variables and real-time constraints. The basis of the integration is a mapping of the existing Object-Z history semantics to timed traces.

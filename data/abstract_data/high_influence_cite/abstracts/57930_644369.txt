@@ -1,0 +1,2 @@
+Towards Modeling and Model Checking Fault-Tolerant Distributed Algorithms
+Fault-tolerant distributed algorithms are central for building reliable, spatially distributed systems. In order to ensure that these algorithms actually make systems more reliable, we must ensure that these algorithms are actually correct. Unfortunately, model checking state-of-the-art fault-tolerant distributed algorithms (such as Paxos) is currently out of reach except for very small systems.

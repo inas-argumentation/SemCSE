@@ -1,0 +1,2 @@
+Dynamical behaviour of epidemiological models with sub-optimal immunity and nonlinear incidence
+In this paper we analyze the dynamics of two families of epidemiological models which correspond to transitions from the SIR (susceptible-infectious-resistant) to the SIS (susceptible-infectious-susceptible) frameworks. In these models we assume that the force of infection is a nonlinear function of density of infectious individuals, I. Conditions for the existence of backwards bifurcations, oscillations and Bogdanov-Takens points are given.

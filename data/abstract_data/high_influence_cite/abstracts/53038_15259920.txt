@@ -1,0 +1,13 @@
+Polish spaces, computable approximations, and bitopological spaces
+Answering a question of J. Lawson (formulated also earlier, in 1984, by Kamimura and Tang [Theoret. Comput. Sci. 34 (1984) 275–288]) we show that every Polish space admits a bounded complete computational model, as defined below. This results from our construction, in each Polish space 〈X,τ〉, of a countable family C of non-empty closed subsets of X such that: 
+(cp) 
+each subset of C with the finite intersection property has non-empty intersection; 
+ 
+(br) 
+if x∈T and T∈τ then there exists C∈C such that x∈int(C) and C⊂T; and 
+ 
+(r∗) 
+for every C∈C and x∈X⧹C there is a D∈C such that C⊂int(D) and x∉D. 
+ 
+ 
+These conditions assure us that there is another compact topology τ∗⊂τ on X such that the bitopological space 〈X,τ,τ ∗〉, is pairwise regular. The existence of such a topology is also shown equivalent to admitting a bounded complete computational model.

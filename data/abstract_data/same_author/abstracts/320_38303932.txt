@@ -1,0 +1,2 @@
+Fuzzy inference based on fuzzy concept lattice
+In this paper, a fuzzy inference method based on the notion of fuzzy concept lattice is studied. We first propose a new form of fuzzy concept lattice, and then based on three kinds of known fuzzy concept lattices and our new fuzzy concept lattice, two coherent fuzzy inference methods, the lower approximate fuzzy inference and the upper approximate fuzzy inference, are proposed, and the combined use of the two methods will make the fuzzy inference more precise.

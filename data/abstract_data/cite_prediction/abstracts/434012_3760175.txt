@@ -1,0 +1,19 @@
+Understanding vasopressor intervention and weaning: risk prediction in a public heterogeneous clinical time series database
+Background
+The widespread adoption of electronic health records allows us to ask evidence-based questions about the need for and benefits of specific clinical interventions in critical-care settings across large populations.
+
+
+Objective
+We investigated the prediction of vasopressor administration and weaning in the intensive care unit. Vasopressors are commonly used to control hypotension, and changes in timing and dosage can have a large impact on patient outcomes.
+
+
+Materials and Methods
+We considered a cohort of 15 695 intensive care unit patients without orders for reduced care who were alive 30 days post-discharge. A switching-state autoregressive model (SSAM) was trained to predict the multidimensional physiological time series of patients before, during, and after vasopressor administration. The latent states from the SSAM were used as predictors of vasopressor administration and weaning.
+
+
+Results
+The unsupervised SSAM features were able to predict patient vasopressor administration and successful patient weaning. Features derived from the SSAM achieved areas under the receiver operating curve of 0.92, 0.88, and 0.71 for predicting ungapped vasopressor administration, gapped vasopressor administration, and vasopressor weaning, respectively. We also demonstrated many cases where our model predicted weaning well in advance of a successful wean.
+
+
+Conclusion
+Models that used SSAM features increased performance on both predictive tasks. These improvements may reflect an underlying, and ultimately predictive, latent state detectable from the physiological time series.

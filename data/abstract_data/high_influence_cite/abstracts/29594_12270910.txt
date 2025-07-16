@@ -1,0 +1,4 @@
+The Evans function and the Weyl-Titchmarsh function
+We describe relations between the Evans function, a modern tool in the study of stability of traveling waves and other patterns for PDEs, and the classical Weyl-Titchmarsh function for 
+ singular Sturm-Liouville differential expressions and for matrix Hamiltonian systems. Also, for the scalar Schrodinger equation, we discuss a related issue of approximating 
+ eigenvalue problems on the whole line by that on finite segments.

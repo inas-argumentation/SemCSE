@@ -1,0 +1,2 @@
+A note on rapidity distributions at the LHC
+We discuss the difference between the distribution of secondaries measured in terms of pseudorapidity and that using the correct rapidity variable. We show a set of examples obtained using Monte Carlo simulations. We also consider the production of particles of low transverse momentum where coherence effects may occur, which are not yet included in the present Monte Carlos.

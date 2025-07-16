@@ -1,0 +1,15 @@
+When is respiratory management necessary for partial breast intensity modulated radiotherapy: a respiratory amplitude escalation treatment planning study.
+PURPOSE
+The impact of typical respiratory motion amplitudes (∼2 mm) on partial breast irradiation (PBI) is minimal; however, some patients have larger respiratory amplitudes that may negatively affect dose homogeneity. Here we determine at what amplitude respiratory management may be required to maintain plan quality.
+
+
+METHODS AND MATERIALS
+Ten patients were planned with PBI IMRT. Respiratory motion (2-20 mm amplitude) probability density functions were convolved with static plan fluence to estimate the delivered dose. Evaluation metrics included target coverage, ipsilateral breast hotspot, homogeneity, and uniformity indices.
+
+
+RESULTS
+Degradation of dose homogeneity was the limiting factor in reduction of plan quality due to respiratory motion, not loss of coverage. Hotspot increases were observed even at typical motion amplitudes. At 2 and 5 mm, 2/10 plans had a hotspot greater than 107% and at 10 mm this increased to 5/10 plans. Target coverage was only compromised at larger amplitudes: 5/10 plans did not meet coverage criteria at 15 mm amplitude and no plans met minimum coverage at 20 mm.
+
+
+CONCLUSIONS
+We recommend that if respiratory amplitude is greater than 10 mm, respiratory management or alternative radiotherapy should be considered due to an increase in the hotspot in the ipsilateral breast and a decrease in dose homogeneity.

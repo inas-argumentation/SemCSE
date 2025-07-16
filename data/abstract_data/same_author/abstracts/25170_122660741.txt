@@ -1,0 +1,2 @@
+High precision bidimensional readout for LST
+Abstract We describe a high precision bidimensional readout for a large plastics Limited Streamer Tube (LST) system, using induced charge analog readout for the coordinate along the wires and digital readout with drift time for the other. In a test we easily obtained a resolution in the drift coordinate of about 150 μm with the possibility of solving left/right ambiguity using digital strip information.

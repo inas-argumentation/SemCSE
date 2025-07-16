@@ -1,0 +1,2 @@
+Structure-activity relationship oriented languages for chemical structure representation
+A family of chemical structure description languages for structure-activity studies is proposed. It is based on the description of mutual displacement of potentially active (descriptor) centers in molecules and includes the fragmental notation SSFN, the topological system DCAM, and the topographical system DCGM. An approach to the automated selection of pharmacophores using the above languages is discussed.

@@ -1,0 +1,2 @@
+Adaptive Nonlocal Filtering: A Fast Alternative to Anisotropic Diffusion for Image Enhancement
+Nonlinear anisotropic diffusion algorithms provide significant improvement in image enhancement as compared to linear filters. However, the excessive computational cost of solving nonlinear PDEs precludes their use in real-time vision applications. In the present paper, we show that two orders of magnitude speed improvement is provided by a new image filtering paradigm in which an adaptively determined vector field specifies nonlocal application points for an image filter.

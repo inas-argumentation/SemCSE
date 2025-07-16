@@ -1,0 +1,2 @@
+Two conjectures equivalent to the perfect graph conjecture
+Abstract In this note, we study the graphs with the property that each of their induced subgraphs has circular clique number (defined in Section 2) the same as its clique number, prove that a graph satisfies such a property if and only if neither itself nor its complement contains an induced subgraph isomorphic to an odd cycle of length at least five, and then give two conjectures which are equivalent to the perfect graph conjecture.

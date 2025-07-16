@@ -1,0 +1,2 @@
+CAUCHY'S EQUATION AND SUFFICIENT STATISTICS ON ARCWISE CONNECTED SPACES'
+1. Summary. We show that a measure-theoretic extension of Cauchy's functional equation, namely, g(x1)+g(x2) = h(f(x1,x2)) a.e., for real-valued functions defined on measure spaces equipped with a "reasonably compatible" arcwise connected topology is equivalent to a theorem which characterizes one-parameter exponential families on such measure spaces in terms of a real-valued sufficient statistic.

@@ -1,0 +1,2 @@
+Adaptive Neural-Network Control for Redundant Nonholonomic Mobile Modular Manipulators
+This paper discusses the trajectory following issue for redundant nonholonomic mobile modular manipulators. Dynamic model is established and an adaptive neural-network controller is developed to control the end-effector to follow a desired spacial trajectory. The proposed algorithm doesn't need any priori dynamics and provides a new solution for stabilization of redundant robotic self-motions. Simulation results for a real robot demonstrate the proposed algorithm is effective.

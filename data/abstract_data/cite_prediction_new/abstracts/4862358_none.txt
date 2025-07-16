@@ -1,0 +1,2 @@
+A hybrid model for mesoscopic simulation of recrystallization
+A brief summary of simulation techniques for recrystallization is given. The limitations of the Potts model and the cellular automaton model as used in their standard forms for grain growth and recrystallization are noted. A new approach based on a hybrid of the Potts model (MC) and the cellular automaton (CA) model is proposed in order to obtain the desired limiting behavior for both curvature-driven and stored energy-driven grain boundary migration.

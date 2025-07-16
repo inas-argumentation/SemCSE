@@ -1,0 +1,2 @@
+Research on Request-Routing Techniques in Content Distribution Network
+In this paper, we give the main demand of realizing CDN, compare and analyze DNS based request routing, application-layer based request routing and content-layer based request routing, point out that content-layer based request routing is the developing direction of CDN request routing in the future.

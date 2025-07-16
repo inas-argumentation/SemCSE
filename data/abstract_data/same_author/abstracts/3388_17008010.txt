@@ -1,0 +1,2 @@
+Managing Trusted Keys in Internet-Scale Systems
+In this paper we examine open issues in deploying cryptographic protections for Internet scale systems, and explore a new direction dubbed Public Space to address the challenge of distributing and maintaining trusted keys.

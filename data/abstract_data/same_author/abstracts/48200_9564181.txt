@@ -1,0 +1,2 @@
+Navigating Clustered Graphs Using Force-Directed Methods
+Graphs which arise in Information Visualization applications are typically very large: thousands, or perhaps millions of nodes. Current graph drawing methods successfully deal with (at best) a few hundred nodes. This paper describes a strategy for the visualization and navigation of graphs. The strategy has three elements:

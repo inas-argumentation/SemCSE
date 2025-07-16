@@ -1,0 +1,4 @@
+Structuring and Design of Reactive Systems Using RSDS and B
+With the advent of comprehensive safety standards for software intensive safety related systems, such as IEC 61508 and its speciali-sations for particular industry sectors (medical, machinery, process, etc), there is a need to establish combinations of techniques which can be used by industry to demonstrate conformance to these standards for particular developments. In this paper we describe one such combination of techniques, involving statecharts and B, which is aimed at reactive control system development. 
+ 
+We define strategies for controller decomposition which allow safety invariants to be distributed into subcontroller requirements, and define techniques for the automatic synthesis of controllers from invariants. A case study of a train control system is used to illustrate the ideas.

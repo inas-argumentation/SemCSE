@@ -1,0 +1,2 @@
+Time Hopping technique for faster reinforcement learning in simulations
+A technique called Time Hopping is proposed for speeding up reinforcement learning algorithms. It is applicable to continuous optimization problems running in computer simulations. Making shortcuts in time by hopping between distant states combined with off-policy reinforcement learning allows the technique to maintain higher learning rate. Experiments on a simulated biped crawling robot confirm that Time Hopping can accelerate the learning process more than seven times.

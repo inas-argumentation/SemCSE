@@ -1,0 +1,2 @@
+Cosmology with Gamma-Ray Bursts Using k-correction
+In the case of Gamma Ray Bursts with measured redshift, we can calculate the k-correction to get the fluence and energy that were actually produced in the comoving system of the GRB. To achieve this we have to use well-fitted parameters of GRB spectrum, available in the GCN database. The output of the calculations is the comoving isotropic energy E iso , but this is not the endpoint: this data can be useful forestimating the Ω M parameter of the Universe and for making a GRB Hubble diagram usig Amati’s relation.

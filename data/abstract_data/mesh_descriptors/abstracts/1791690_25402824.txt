@@ -1,0 +1,15 @@
+Assessment of adjuvant therapy in resected head and neck cancer with high-risk features.
+OBJECTIVES
+Subgroup analysis from two randomized trials showed a survival benefit for adjuvant chemoradiation (CRT) over radiation alone (RT) in patients with extracapsular spread (ECS) of involved lymph nodes and/or positive margins (PM) in resected head and neck cancer (HNSCC). However, results were not analyzed separately for patients with ECS or PM and were not stratified by tumor subsite/HPV status. We therefore sought to determine whether adjuvant CRT is associated with a survival benefit, separately among patients with ECS or PM and stratified by subsite/HPV status.
+
+
+METHODS
+Using the National Cancer Database (NCDB), we identified 6948 patients diagnosed with HNSCC between 2010 and 13 who underwent surgical resection and had either ECS or PM. The impact of adjuvant therapy on OS from surgery was evaluated using Cox proportional hazards regression adjusting for clinical and demographic factors.
+
+
+RESULTS
+Adjuvant CRT was associated with a significant survival benefit over RT alone among patients with ECS (aHR 0.83, 95%CI 0.71-0.97) but not among those with PM (aHR 0.89, 95%CI 0.77-1.04). In patients with HPV-negative tumors, CRT was associated with a benefit over RT alone in the setting of ECS (aHR 0.83, 95%CI 0.70-0.98) but not PM (aHR 0.91, 95%CI 0.78-1.06). However, in patients with HPV-positive oropharynx tumors, CRT was not associated with a benefit over RT in ECS (aHR 0.94, 95%CI 0.47-1.88) but appeared beneficial in PM (aHR 0.54, 95%CI 0.32-0.90).
+
+
+CONCLUSIONS
+CRT appears beneficial over RT in ECS among patients with HPV-negative tumors, and beneficial in PM among patients with HPV-positive tumors.

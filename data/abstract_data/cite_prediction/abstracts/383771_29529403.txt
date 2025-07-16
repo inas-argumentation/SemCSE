@@ -1,0 +1,2 @@
+Off The Beaten Lane: AI Challenges In MOBAs Beyond Player Control
+MOBAs represent a huge segment of online gaming and are growing as both an eSport and a casual genre. The natural starting point for AI researchers interested in MOBAs is to develop an AI to play the game better than a human but MOBAs have many more challenges besides adversarial AI. In this paper we introduce the reader to the wider context of MOBA culture, propose a range of challenges faced by the community today, and posit concrete AI projects that can be undertaken to begin solving them.

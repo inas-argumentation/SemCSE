@@ -1,0 +1,2 @@
+A Password Authentication Protocol Used in Movable Device
+Password authentication has been adopted as one of the most commonly used solutions in our life.The traditional password authentication protocol which has been used in fixed devices can not be used in movable devices because of its low efficiency.Proposes a high efficiency password authentication protocol that can be used in movable devices.This protocol can resist kinds of secure threatens.And gives the secure analysis of our protocol.

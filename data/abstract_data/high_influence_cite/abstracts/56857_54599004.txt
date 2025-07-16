@@ -1,0 +1,2 @@
+T-Q relations for the integrable two-species asymmetric simple exclusion process with open boundaries
+We study the integrable two-species asymmetric simple exclusion process (ASEP) for two inequivalent types of open, non particle conserving boundary conditions. Employing the nested off-diagonal Bethe ansatz method, we construct for each case the corresponding homogeneous $T$-$Q$ relations and obtain the Bethe ansatz equations. Numerical checks for small system sizes show completeness for some Bethe ansatz equations, and partial completeness for others.

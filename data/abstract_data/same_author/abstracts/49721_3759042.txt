@@ -1,0 +1,2 @@
+Extremal graphs for intersecting cliques
+For any two positive integers n?r?1, the well-known Turan Theorem states that there exists a least positive integer ex(n,Kr) such that every graph with n vertices and ex(n,Kr)+1 edges contains a subgraph isomorphic to Kr. We determine the minimum number of edges sufficient for the existence of k cliques with r vertices each intersecting in exactly one common vertex.

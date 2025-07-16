@@ -1,0 +1,2 @@
+Evaluating Data-Driven Style Transformation for Gesturing Embodied Agents
+This paper presents an empirical evaluation of a method called "Style transformation" which consists of modifying an existing gesture sequence in order to obtain a new style where the transformation parameters have been extracted from an existing captured sequence. This data-driven method can be used either to enhance key-framed gesture animations or to taint captured motion sequences according to a desired style.

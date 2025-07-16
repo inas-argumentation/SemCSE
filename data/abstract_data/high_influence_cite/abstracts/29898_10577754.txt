@@ -1,0 +1,2 @@
+Observer-based consensus control strategy for multi-agent system with communication time delay
+This paper proposes an observer-based consensus control strategy for multi-agent system (MAS) with communication time delay. The condition of stability for MIMO agents is derived by Lyapunov theorem. It gives systematic design procedure under assumed unidirectional network. Furthermore, new consensus control law using observers is proposed for the networked MAS with communication delays. Experimental results show effectiveness of our proposed output consensus approaches.

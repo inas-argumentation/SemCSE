@@ -1,0 +1,2 @@
+Hall algebras and quantum groups associated to Dynkin quivers
+For Dynkin quivers, we find the Laurent polynomials $\widetilde{X}_{a, c}^{b}(v)$ and use $\widetilde{X}_{a, c}^{b}(v)$ to construct the Hall algebra $\hc_v(\cc(\cp))$ over $\mz[v, v^{-1}]$, where $\widetilde{X}_{a, c}^{b}(|\mf_q|)$'s are structure constants used by Bridgeland. The Laurent polynomials $\widetilde{X}_{a, c}^{b}(v)$ are explicitly given in $A_1$ case. As an application, we obtain the full quantum groups $U_t(\sg)$ associated to the Dynkin quivers for arbitrary $t\not=0,\pm1$.

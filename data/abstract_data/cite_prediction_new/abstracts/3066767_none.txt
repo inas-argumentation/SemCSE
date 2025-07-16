@@ -1,0 +1,2 @@
+Finite Nonassociative Algebras Obtained from Twisted Polynomials over Chain Rings
+Let S be a unital ring and σ ∈ Aut(S) a ring automorphism. We construct unital nonassociative algebras out of the twisted polynomial ring S[t;σ] and polynomials f(t) ∈ S[t;σ], whose leading coefficient is a unit. If S is a commutative finite chain ring, these algebras yield examples of generalized Galois rings and can be employed to construct linear codes over commutative finite chain rings.

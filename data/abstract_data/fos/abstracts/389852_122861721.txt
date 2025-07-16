@@ -1,0 +1,2 @@
+Local Linear Estimation of Recurrent Jump—Diffusion Models
+In this article, we provide a nonparametric estimation of first and second infinitesimal moments of the underlying jump diffusion model. We show that under certain regularity conditions the nonparametric estimations of first and second infinitesimal moments based on the local linear estimator are consistent and asymptotically follow normal distributions.

@@ -1,0 +1,2 @@
+A Detection Statistic for Random-Valued Impulse Noise
+This paper proposes an image statistic for detecting random-valued impulse noise. By this statistic, we can identify most of the noisy pixels in the corrupted images. Combining it with an edge-preserving regularization, we obtain a powerful two-stage method for denoising random-valued impulse noise, even for noise levels as high as 60%. Simulation results show that our method is significantly better than a number of existing techniques in terms of image restoration and noise detection.

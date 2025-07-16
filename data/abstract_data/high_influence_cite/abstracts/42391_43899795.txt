@@ -1,0 +1,2 @@
+A plug-in rule for bandwidth selection in circular density estimation
+A new plug-in rule procedure for bandwidth selection in kernel circular density estimation is introduced. The performance of this proposal is checked throughout a simulation study considering a variety of circular distributions exhibiting multimodality, peakedness and/or skewness. The plug-in rule behavior is also compared with other existing bandwidth selectors. The method is illustrated with some classical datasets.

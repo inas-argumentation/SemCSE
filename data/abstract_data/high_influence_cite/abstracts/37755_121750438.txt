@@ -1,0 +1,2 @@
+The Fourier collocation method for the Cahn-Hilliard equation☆
+Abstract In this paper, a Fourier collocation method for numerically solving Cahn-Hilliard equations with periodic boundary conditions is developed. We establish their semidiscrete and fully discrete schemes that inherit the energy dissipation property and mass conservation property from the associated continuous problem. We prove existence and uniqueness of the numerical solution and derive the optimal error bounds. We perform some numerical experiments which confirm our results.

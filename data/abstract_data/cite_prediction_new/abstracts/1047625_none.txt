@@ -1,0 +1,2 @@
+Extensions of the fuzzy pattern matching approach to diagnosis
+The paper presents a refined representation framework (distinction is made between effects that are possible for sure or just not impossible, and (ab)normal values information is used). Then, multiple-fault and "cascading-fault" diagnosis are discussed.

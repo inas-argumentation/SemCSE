@@ -1,0 +1,2 @@
+A bound for multicolor Ramsey numbers
+Abstract The Ramsey number R(G 1 , G 2 , …, G n ) is the smallest integer p such that for any n -edge coloring (E 1 ,E 2 , …, E n ) of K p , K p [E i ] contains G i for some i , G i as a subgraph in K p [E i ] . Let R(m 1 ,m 2 , …, m n )≔R(K m 1 ,K m 2 , …, K m n ),R(m;n)≔R(m 1 ,m 2 ,…,m n ) if m i =m for i=1, 2,…,n . A formula is obtained for R(G 1 ,G 2 , …, G n ) .

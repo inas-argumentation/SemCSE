@@ -1,0 +1,2 @@
+An Efficient Adaptive Distribution-Free Test for Location
+An adaptive distribution-free test procedure for location based on a one-parameter family of score functions is proposed. The family of score functions is derived from the symmetric lambda distributions introduced by Tukey. The resulting test attains Pittman efficiency one for a large set of underlying lambda distributions. In addition, the test has Pitman efficiency 3/π at the normal alternative. The procedure can easily be extended to the multisample problem.

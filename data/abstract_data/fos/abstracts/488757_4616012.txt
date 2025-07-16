@@ -1,0 +1,2 @@
+Multiplexed imaging by means of optically generated Kronecker products: 1. The basic concept.
+Atechnique for multiplexed imaging is described. By using mask combinations, this technique requires far fewer encoding masks to generate the same number of masking operations than do more traditional approaches. It is also theoretically capable of higher optical throughput efficiencies. The method is readily adaptable to new image geometries and to applications in multispectral imaging.

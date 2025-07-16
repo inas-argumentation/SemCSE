@@ -1,0 +1,2 @@
+The Early Search for Tractable Ways of Reasoning about Programs
+This article traces the history - up to around 1990 - of research on reasoning about programs. The main focus is on sequential imperative programs but some comments are made on concurrency. The main thesis is that the idea of reasoning about programs has been around since they were first written; the search has been to find tractable methods.

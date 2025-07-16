@@ -1,0 +1,2 @@
+Blind Signature Schemes Based on the Elliptic Curve Discrete Logarithm Problem
+A blind signature is a form of digital signature in which the content of a message is blinded before it is signed. The first blind digital signature scheme was proposed by Chaum in 1982. Chaum constructed the blind signatures as a key tool for developing anonymous electronic cash system. In this paper we propose two blind signature schemes and an elliptic curve version of Shao's signature scheme. Our schemes are based on the difficulty of solving the elliptic curve discrete logarithm problem.

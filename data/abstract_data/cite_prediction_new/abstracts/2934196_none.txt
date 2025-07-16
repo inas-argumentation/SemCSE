@@ -1,0 +1,15 @@
+Lung toxicity in radioiodine therapy of thyroid carcinoma: development of a dose-rate method and dosimetric implications of the 80-mCi rule.
+UNLABELLED
+Based on an extensive dataset analyzed by Benua et al., a whole-body retention threshold of 2.96 GBq (80 mCi) at 48 h has been used to limit the radioactivity of (131)I administered to thyroid cancer patients with diffuse pulmonary metastases. In this work, the 80-mCi activity retention limit is used to derive lung-absorbed doses and dose rates. The resulting dose-rate-based limits make it possible to account for patient-specific differences in lung geometry. This is particularly important, for example, in pediatric patients exhibiting diffuse lung metastases. The approach also highlights the impact of altered radioiodine kinetics as seen with recombinant human thyroid-stimulating hormone.
+
+
+METHODS
+The dose-rate constraint (DRC) was defined as the absorbed dose rate to the lungs of the adult female reference phantom when 80 mCi of (131)I are in the body and 90% of this is uniformly distributed in the lungs. With this definition, the 80-mCi rule was generalized by calculating the activity required to yield a dose rate equal to DRC using lung-to-lung S factor values corresponding to different reference phantoms.
+
+
+RESULTS
+A DRC value of 43.6 cGy/h was obtained. Applying this DRC to the adult male phantom and to the phantom of a 15-y-old yields equivalent 48-h activity limits of 3.72 GBq (101 mCi) and 2.45 GBq (66.2 mCi), respectively. Depending on model parameters, the absorbed doses to lungs ranged from 57 to 112 Gy; the photon-only portion, which better reflects the dose to normal lung parenchyma, ranged from 4.9 to 55 Gy.
+
+
+CONCLUSION
+A dose-rate-based version of the 80-mCi rule is derived and used to demonstrate application of this rule to pediatric patients and to adult male patients. The implications of the 80-mCi rule are also examined. The assumption of uniform energy deposition in the lungs leads to substantially overestimated absorbed doses. Severe radiation-induced lung toxicity, expected at normal lung absorbed doses of 25-27 Gy, is avoided, probably because most of the local electron dose is delivered to tumor tissue instead of to normal lung parenchyma. The possibility of using a DRC to adjust treatment for different clinical situations is illustrated. The analysis suggests that a dosimetry-based approach will be particularly important in the treatment of patients with lung metastases when a recombinant human thyroid-stimulating hormone protocol is used.

@@ -1,0 +1,2 @@
+Automatic Spark Strategies and Granularity for a Parallel Functional Language Reducer
+This paper considers the issue of dynamic task control in the context of a parallel Haskell implementation on the GRIP multiprocessor. For the first time, we report the effect of our task control strategies on task granularity, as measured in terms of dynamic heap allocations. This gives a concrete means of measuring the effectiveness of these strategies other than wall-clock timings, which are notoriously uninformative.

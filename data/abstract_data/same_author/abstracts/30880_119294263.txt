@@ -1,0 +1,2 @@
+Modifications for numerical stability of black hole evolution
+We experiment with several new modifications for the Baumgarte-Shapiro-Shibata-Nakamura (BSSN) formulation of the Einstein field equations and demonstrate how these modifications affect the stability of numerical black hole evolution calculations. With these modifications, we evolve both single non-rotating excised Kerr-Schild black holes and punctured binary black holes, and obtain accurate and stable simulations.

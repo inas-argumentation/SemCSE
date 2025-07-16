@@ -1,0 +1,2 @@
+Bayesian Implementation: The Necessity of Infinite Mechanisms
+We demonstrate the existence of a social choice function in an environment where there are two outcomes and two players each of whom can be of two types, which can only be implemented in Bayesian-Nash equilibrium by a mechanism where both players have an infinite number of messages. This stands in dramatic contrast to the case of Nash implementation in complete information, finite environments. Journal of Economic Literature Classification Numbers: 025, 026.

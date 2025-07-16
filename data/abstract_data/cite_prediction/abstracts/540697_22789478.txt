@@ -1,0 +1,2 @@
+Action recognition with deep neural networks
+In this work, we have invesigated the action recognition problem using the Charades Action Recognition Dataset with 157 action classes. We have compared the results of different techniques such as extreme learning machines, support vector machines, and decision trees, applied on the features extracted with deep neural networks and the scene-action conditional probabilities.

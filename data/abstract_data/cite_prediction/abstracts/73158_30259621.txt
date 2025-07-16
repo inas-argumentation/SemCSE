@@ -1,0 +1,2 @@
+Current Injected Equivalent Circuit Approach to Modeling of Switching DC-DC Converters in Discontinuous Inductor Conduction Mode
+A new current injected equivalent circuit approach (CIECA) to modeling switching dc-dc converter power stages is developed, which starts with current injected approach, and results in a set of equations which describe completely input and output properties and an equivalent linear circuit model valid at small signal low frequency levels.

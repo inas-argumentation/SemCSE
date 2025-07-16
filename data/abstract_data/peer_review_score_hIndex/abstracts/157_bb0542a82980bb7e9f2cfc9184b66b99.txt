@@ -1,0 +1,19 @@
+Analyzing Inverse Problems with Invertible Neural Networks
+For many applications, in particular in natural science, the task is to
+determine hidden system parameters from a set of measurements. Often,
+the forward process from parameter- to measurement-space is well-defined,
+whereas the inverse problem is ambiguous: multiple parameter sets can
+result in the same measurement. To fully characterize this ambiguity, the full
+posterior parameter distribution, conditioned on an observed measurement,
+has to be determined. We argue that a particular class of neural networks
+is well suited for this task – so-called Invertible Neural Networks (INNs).
+Unlike classical neural networks, which attempt to solve the ambiguous
+inverse problem directly, INNs focus on learning the forward process, using
+additional latent output variables to capture the information otherwise
+lost. Due to invertibility, a model of the corresponding inverse process is
+learned implicitly. Given a specific measurement and the distribution of
+the latent variables, the inverse pass of the INN provides the full posterior
+over parameter space. We prove theoretically and verify experimentally, on
+artificial data and real-world problems from medicine and astrophysics, that
+INNs are a powerful analysis tool to find multi-modalities in parameter space,
+uncover parameter correlations, and identify unrecoverable parameters.

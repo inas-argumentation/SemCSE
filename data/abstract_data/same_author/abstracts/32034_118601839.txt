@@ -1,0 +1,2 @@
+The non-forward BFKL equation and infrared effects
+An iterative solution best suited for a Monte Carlo implementation is presented for the non-forward BFKL equation in a generic color representation. We introduce running coupling effects compatible with bootstrap to all orders in perturbation theory. A numerical analysis is given showing a smooth transition from a hard to a soft pomeron when accounting for running effects.

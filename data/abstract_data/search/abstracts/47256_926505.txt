@@ -1,0 +1,2 @@
+Underwater Depth Estimation and Image Restoration Based on Single Images
+In underwater environments, the scattering and absorption phenomena affect the propagation of light, degrading the quality of captured images. In this work, the authors present a method based on a physical model of light propagation that takes into account the most significant effects to image degradation: absorption, scattering, and backscattering. The proposed method uses statistical priors to restore the visual quality of the images acquired in typical underwater scenarios.

@@ -1,0 +1,2 @@
+Improving cyberbullying detection with user context
+The negative consequences of cyberbullying are becoming more alarming every day and technical solutions that allow for taking appropriate action by means of automated detection are still very limited. Up until now, studies on cyberbullying detection have focused on individual comments only, disregarding context such as users' characteristics and profile information. In this paper we show that taking user context into account improves the detection of cyberbullying.

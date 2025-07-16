@@ -1,0 +1,2 @@
+Inverse Spectral Problem for Dirac Operators by Spectral Data
+This work deals with the solution of the inverse problem by spectral data for Dirac operators with piecewise continuous coefficient and spectral parameter contained in boundary condition. The main theorem on necessary and sufficient conditions for the solvability of inverse problem is proved. The algorithm of the reconstruction of potential according to spectral data is given.

@@ -1,0 +1,6 @@
+Stochastic Steiner Trees Without a Root
+This paper considers the Steiner tree problem in the model of two-stage stochastic optimization with recourse. This model, the focus of much recent research [11, 16, 8, 18], tries to capture the fact that many infrastructure planning problems have to be solved in the presence of uncertainty, and that we have make decisions knowing merely market forecasts (and not the precise set of demands); by the time the actual demands arrive, the costs may be higher due to inflation. 
+ 
+In the context of the Stochastic Steiner Tree problem on a graph G = (V,E), the model can be paraphrased thus: on Monday, we are given a probability distribution π on subsets of vertices, and can build some subset EM of edges. On Tuesday, a set of terminals D materializes (drawn from the same distribution π). We now have to buy edges ET so that the set EM ∪ ET forms a Steiner tree on D. The goal is to minimize the expected cost of the solution. 
+ 
+We give the first constant-factor approximation algorithm for this problem. To the best of our knowledge, this is the first O(1)-approximation for the stochastic version of a non sub-additive problem. In fact, algorithms for the unrooted stochastic Steiner tree problem we consider are powerful enough to solve the Multicommodity Rent-or-Buy problem, itself a topic of recent interest [3, 7, 15].

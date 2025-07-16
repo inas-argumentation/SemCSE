@@ -1,0 +1,2 @@
+A Linear-Time Algorithm for the Weighted Feedback Vertex Problem on Interval Graphs
+We present a linear-time algorithm for finding a minimum weighted feedback vertex set on interval graphs using the dynamic programming technique. Since the weighted feedback vertex problem, the weighted C 3,1 problem, the maximum weighted 2-colorable subgraph problem and the maximum weighted 2-independent set problem are equivalent on chordal graphs, we can solve the latter three problems in linear-time on interval graphs, too.

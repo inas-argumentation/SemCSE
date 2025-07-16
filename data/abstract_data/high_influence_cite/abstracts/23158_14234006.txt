@@ -1,0 +1,4 @@
+On the Small Ball Inequality in All Dimensions
+Let h_R denote an L ^{\infty} normalized Haar function adapted to a dyadic rectangle R contained in the unit cube in dimension d. We establish a non-trivial lower bound on the L^{\infty} norm of the `hyperbolic' sums $$ \sum _{|R|=2 ^{-n}} \alpha(R) h_R (x) $$ The lower bound is non-trivial in that we improve the average case bound by n^{\eta} for some positive \eta, a function of dimension d. As far as the authors know, this is the first result of this type in dimension 4 and higher. 
+This question is related to Conjectures in (1) Irregularity of Distributions, (2) Approximation Theory and (3) Probability Theory. The method of proof of this paper gives new results on these conjectures in all dimensions 4 and higher. 
+This paper builds upon prior work of Jozef Beck, from 1989, and first two authors from 2006. These results were of the same nature, but only in dimension 3.

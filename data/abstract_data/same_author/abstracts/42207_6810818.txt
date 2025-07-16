@@ -1,0 +1,2 @@
+Improved Parameterized Upper Bounds for Vertex Cover
+This paper presents an O(1.2738k + kn)-time polynomial-space parameterized algorithm for Vertex Cover improving the previous O(1.286k + kn)-time polynomial-space upper bound by Chen, Kanj, and Jia. The algorithm also improves the O(1.2745kk4 + kn)-time exponential-space upper bound for the problem by Chandran and Grandoni.

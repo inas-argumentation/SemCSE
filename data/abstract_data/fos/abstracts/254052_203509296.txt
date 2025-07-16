@@ -1,0 +1,49 @@
+Ice particle sampling from aircraft - influence of the probing position on the ice water content
+. The ice water content (IWC) of cirrus clouds is an
+essential
+parameter determining their radiative properties and thus is
+important for climate simulations. Therefore, for a reliable
+measurement of IWC on board research aircraft, it is important to
+carefully design the ice crystal sampling and measuring devices.
+During the ML-CIRRUS field campaign in 2014 with the German
+Gulfstream GV HALO (High Altitude and Long Range Research Aircraft),
+IWC was recorded by three closed-path total water together with one
+gas-phase water instrument. The hygrometers were supplied by inlets
+mounted on the roof of the aircraft fuselage. Simultaneously, the
+IWC is determined by a cloud particle spectrometer attached under an
+aircraft wing. Two more examples of simultaneous IWC measurements by
+hygrometers and cloud spectrometers are presented, but the inlets of
+the hygrometers were mounted at the fuselage side (M-55 Geophysica,
+StratoClim campaign 2017) and bottom (NASA WB57, MacPex campaign 2011).
+This combination of instruments and inlet positions provides the
+opportunity to experimentally study the influence of the ice
+particle sampling position on the IWC with the approach of
+comparative measurements. As expected from theory and shown by
+computational fluid dynamics (CFD) calculations, we found that the
+IWCs provided by the roof inlets deviate from those measured under
+the aircraft wing. As a result of the inlet position in the shadow zone
+behind the aircraft cockpit, ice particle populations with mean
+mass sizes larger than about 25  µ m radius are subject to
+losses, which lead to strongly underestimated IWCs. On the other
+hand, cloud populations with mean mass sizes smaller than about 12  µ m are dominated by particle enrichment and thus
+overestimated IWCs. In the range of mean mass sizes between 12 and
+25  µ m, both enrichment and losses of ice crystals can occur,
+depending on whether the ice crystal mass peak of the size distribution – in these
+cases bimodal – is on the smaller or larger mass
+mode.
+The resulting deviations of the IWC reach factors of up to 10 or
+even more for losses as well as for enrichment. Since the mean mass
+size of ice crystals increases with temperature, losses are more
+pronounced at higher temperatures, while at lower temperatures IWC is
+more affected by enrichment.
+In contrast, in the cases where the hygrometer inlets were mounted
+at the fuselage side or bottom, the agreement of IWCs is most
+frequently within a factor of 2.5 or better – due to
+less disturbed ice particle sampling, as expected from theory – independently of the
+mean ice crystal sizes. The rather large scatter between IWC
+measurements reflects, for example, cirrus cloud inhomogeneities and
+instrument uncertainties as well as slight sampling biases which
+might also occur on the side or bottom of the fuselage and under the
+wing. However, this scatter is in the range of other studies and
+represent the current best possible IWC recording on fast-flying
+aircraft.

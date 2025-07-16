@@ -1,0 +1,2 @@
+Adaptive biased weight-based RGPO/RGPI ECCM algorithm
+An adaptive algorithm is presented to counter against the RGPO/RGPI jamming. Using the error range information, a biased weight is updated in every range tracking interval in the presence of the jammer and that the target can be then focused.

@@ -1,0 +1,2 @@
+Discovering Interesting Association Rules by Clustering
+There are a great many metrics available for measuring the interestingness of rules In this paper, we design a distinct approach for identifying association rules that maximizes the interestingness in an applied context More specifically, the interestingness of association rules is defined as the dissimilarity between corresponding clusters In addition, the interestingness assists in filtering out those rules that may be uninteresting in applications Experiments show the effectiveness of our algorithm.

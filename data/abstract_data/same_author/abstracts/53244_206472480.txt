@@ -1,0 +1,2 @@
+Energy-Efficient Thread-Level Speculation
+Chip multiprocessors with thread-level speculation have become the subject of intense research, this article refutes the claim that such a design is necessarily too energy inefficient. In addition, it proposes out-of-order task spawning to exploit more sources of speculative task-level parallelism

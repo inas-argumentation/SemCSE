@@ -1,0 +1,2 @@
+DARBOUX TRANSFORMATION FOR THE ONE-DIMENSIONAL STATIONARY DIRAC EQUATION WITH NON-HERMITIAN INTERACTION
+The Darboux algorithm is applied to an exactly solvable one-dimensional stationary Dirac equation, with non-Hermitian, pseudoscalar interaction V0(x). This generates a hierarchy of exactly solvable Dirac Hamiltonians, , defined by new non-Hermitian interactions V1(x), which are also pseudoscalar. It is shown that are isospectral to the initial Hamiltonian h0, except for certain missing states.

@@ -1,0 +1,2 @@
+A lower bound for sectional genera of ample and spanned vector bundles on algebraic surfaces
+Let E be an ample and spanned vector bundle of rank r over a complex projective surface S. It is shown that the sectional genus g(S, det E) is bounded from below by the number b = max{q(S), 2 rX(c9s)} and pairs (S, E) satisfying b < g(S, det E) < b + 1 are characterized.

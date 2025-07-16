@@ -1,0 +1,2 @@
+Design fuzzy controllers for complex systems with an application to 3-stage inverted pendulums
+Abstract In this paper, we propose an experience-based decoupling method for designing fuzzy logic controllers. Knowledge about the system is utilized partially by fuzzy rules and partially by the decoupling structure. By introducing a decoupling method, we are able to reduce the number of rules; by introducing some mediate (state) variables, we are able to use the same set of fuzzy rules for three-stage inverted pendulum and one-stage inverted pendulum.

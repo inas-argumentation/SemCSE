@@ -1,0 +1,2 @@
+Design of CAECC-Cellular Automata Based Error Correcting Code
+A new scheme for designing error detecting and error correcting codes around cellular automata (CA) is reported. A simple and efficient scheme for generating SEC-DED codes is presented which can also be extended for generating codes with higher distances. A CA-based hardware scheme for very fast decoding (and correcting) of the codewords is also reported. >

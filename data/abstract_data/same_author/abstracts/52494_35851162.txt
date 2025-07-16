@@ -1,0 +1,2 @@
+Large holes in sparse random graphs
+We show that there is a function α(r) such that for each constantr≧3, almost everyr-regular graph onn vertices has a hole (vertex induced cycle) of size at least α(r)n asn→∞. We also show that there is a function β(c) such that forc>0 large enough,Gn, p,p=c/n almost surely has a hole of size at least β(c)n asn→∞.

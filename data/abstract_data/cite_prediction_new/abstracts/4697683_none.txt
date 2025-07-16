@@ -1,0 +1,2 @@
+Relating Top Down with Bottom Up Approaches in the Evaluation of ABS with Large Collateral Pools
+This paper uses a conditional law of large numbers and a conditional central limit theorem to provide simplified asymptotic valuation formulas for credit derivatives on baskets, including synthetic and cash-flow CDOs. In particular, approximate pricing procedures are provided for synthetic and cash-flow CDOs. In the process, this paper also clarifies the relation between the "top-down" and "bottom-up" approaches for pricing credit derivatives.

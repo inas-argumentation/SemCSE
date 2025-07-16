@@ -1,0 +1,8 @@
+Learning objects from pixels
+We show how discrete objects can be learnt in an unsupervised fashion from pixels, and how to perform reinforcement learning using this object representation.
+
+More precisely, we construct a differentiable mapping from an image to a discrete tabular list of objects, where each object consists of a differentiable position, feature vector, and scalar presence value that allows the representation to be learnt using an attention mechanism.
+
+Applying this mapping to Atari games, together with an interaction net-style architecture for calculating quantities from objects, we construct agents that can play Atari games using objects learnt in an unsupervised fashion. During training, many natural objects emerge, such as the ball and paddles in Pong, and the submarine and fish in Seaquest.
+
+This gives the first reinforcement learning agent for Atari with an interpretable object representation, and opens the avenue for agents that can conduct object-based exploration and generalization.

@@ -1,0 +1,6 @@
+ROMUL: Scale Adaptative Population Based Training
+In most pragmatic settings, data augmentation and regularization are essential, and require hyperparameter search.
+Population based training (PBT) is an effective tool for efficiently finding them as well as schedules over hyperparameters.
+In this paper, we compare existing PBT algorithms and contribute a new one: ROMUL, for RObust MULtistep search, which adapts its stepsize over the course of training.
+We report competitive results with standard models on CIFAR (image classification) as well as Penn Tree Bank (language modeling), which both depend on heavy regularization.
+We also open-source hoptim, a PBT library agnostic to the training framework, which is simple to use, reentrant, and provides good defaults with ROMUL.

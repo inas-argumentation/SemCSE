@@ -1,0 +1,2 @@
+LOD a lot A Queryable Dump of the LOD Cloud
+LOD a lot democratizes access to the Linked Open Data (LOD) Cloud by serving more than 28 billion unique triples from 650 K datasets over a single self indexed file. This corpus can be queried online with a sustainable Linked Data Fragments interface, or downloaded and consumed locally: LOD a lot is easy to deploy and demands affordable resources (524 GB of disk space and 15.7 GB of RAM) enabling Web scale repeatable experimentation and research even by standard laptops.

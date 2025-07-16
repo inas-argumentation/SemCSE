@@ -1,0 +1,2 @@
+Random Regular Graphs Of Non-Constant Degree: Independence And Chromatic Number
+Let r = r(n) → ∞ with 3 l r l n1−η for an arbitrarily small constant η > 0, and let Gr denote a graph chosen uniformly at random from the set of r-regular graphs with vertex set l1, 2, …, nr. We prove that, with probability tending to 1 as n → ∞, Gr has the following properties: the independence number of Gr is asymptotically 2n log r/r and the chromatic number of Gr is asymptotically r/2nlogr.

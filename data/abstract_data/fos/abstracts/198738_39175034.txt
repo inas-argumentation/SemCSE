@@ -1,0 +1,2 @@
+Simple Calculations of Proton SEU Cross Sections from Heavy Ion Cross Sections
+Simple expressions, based on previous analytical and empirical models for the energy deposited by protons through their p+Si interactions, are proposed for calculating proton induced SEU cross sections from heavy ion cross sections in devices with sub-micron sensitive volumes. Calculations for modern devices yield good agreement with the experiments. The implications on calculating SEU rates in space are discussed

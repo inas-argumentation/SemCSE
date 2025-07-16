@@ -1,0 +1,2 @@
+Parallel two dimensional witness computation
+An optimal parallel CRCW-PRAM algorithm to compute witnesses for all non-period vectors of an m1 × m2 pattern is given. The algorithm takes O(log log m) time and does O(m1 × m2) work, where m = max{m1, m2}. This yields a work optimal algorithm for 2D pattern matching which takes O(log log m) preprocessing time and O(1) text processing time.

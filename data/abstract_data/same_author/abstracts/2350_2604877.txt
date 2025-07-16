@@ -1,0 +1,2 @@
+A Biometric Key-Binding and Template Protection Framework Using Correlation Filters
+We describe a new framework to bind cryptographic keys with biometric signatures using correlation filters. This scheme combines correlation filter based biometric recognition with biometric key-binding while offering template protection, revocability, diversity and security. We demonstrate the effectiveness of our scheme via numerical results on the CMU-PIE face database.

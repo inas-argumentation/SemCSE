@@ -1,0 +1,2 @@
+The trees for which maximum multiplicity implies the simplicity of other eigenvalues
+Among those real symmetric matrices whose graph is a given tree T, the maximum multiplicity is known to be the path cover number of T. An explicit characterization is given for those trees for which whenever the maximum multiplicity is attained, all other multiplicities are 1.

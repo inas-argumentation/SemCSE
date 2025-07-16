@@ -1,0 +1,2 @@
+Computational cost of Chirp Z-transform and Generalized Goertzel algorithm
+Two natural competitors in the area of narrow-band spectrum analysis, namely the Chirp Z-transform (CZT) and the Generalized Goertzel algorithm (GGA), are taken and compared, with the focus on the computational cost. We present results showing that for real-input data, the GGA is preferable over the CZT in a range of practical situations. This is shown both in theory and in practice.

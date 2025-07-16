@@ -1,0 +1,2 @@
+An Ultra-Low-Power Power Management IC for Wireless Sensor Nodes
+A power interface IC is designed and demonstrated to convert and manage power for a wireless tire pressure sensor node. Power conversion is performed using on-chip switched-capacitor converters with size-optimized devices and level-shifting gate drivers. A synchronous rectifier efficiently harvests energy from an electromagnetic shaker and control circuitry regulates the output voltage while minimizing power consumption. The converters achieve efficiencies approaching 80%.

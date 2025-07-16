@@ -1,0 +1,2 @@
+Spectral solution of the viscous blunt-body problem
+The viscous blunt-body problem is solved with a shock-fitted Chebyshev spectral method. No explicit artificial viscosity or filtering is needed to obtain smooth, converged solutions. The method is applied to two problems. First, results for the flow over a right circular cylinder in the Mach number range of 5.5-6.0 are compared with experimental data. Second, a solution for a Mach 25 flow over a hyperbolic cone is compared with a viscous shock-layer calculation.

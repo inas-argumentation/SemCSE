@@ -1,0 +1,15 @@
+Real-Time 3D Image Guidance Using a Standard LINAC: Measured Motion, Accuracy, and Precision of the First Prospective Clinical Trial of Kilovoltage Intrafraction Monitoring-Guided Gating for Prostate Cancer Radiation Therapy.
+PURPOSE
+Kilovoltage intrafraction monitoring (KIM) is a new real-time 3-dimensional image guidance method. Unlike previous real-time image guidance methods, KIM uses a standard linear accelerator without any additional equipment needed. The first prospective clinical trial of KIM is underway for prostate cancer radiation therapy. In this paper we report on the measured motion accuracy and precision using real-time KIM-guided gating.
+
+
+METHODS AND MATERIALS
+Imaging and motion information from the first 200 fractions from 6 patient prostate cancer radiation therapy volumetric modulated arc therapy treatments were analyzed. A 3-mm/5-second action threshold was used to trigger a gating event where the beam is paused and the couch position adjusted to realign the prostate to the treatment isocenter. To quantify the in vivo accuracy and precision, KIM was compared with simultaneously acquired kV/MV triangulation for 187 fractions.
+
+
+RESULTS
+KIM was successfully used in 197 of 200 fractions. Gating events occurred in 29 fractions (14.5%). In these 29 fractions, the percentage of beam-on time, the prostate displacement was >3 mm from the isocenter position, reduced from 73% without KIM to 24% with KIM-guided gating. Displacements >5 mm were reduced from 16% without KIM to 0% with KIM. The KIM accuracy was measured at <0.3 mm in all 3 dimensions. The KIM precision was <0.6 mm in all 3 dimensions.
+
+
+CONCLUSIONS
+Clinical implementation of real-time KIM image guidance combined with gating for prostate cancer eliminates large prostate displacements during treatment delivery. Both in vivo KIM accuracy and precision are well below 1 mm.

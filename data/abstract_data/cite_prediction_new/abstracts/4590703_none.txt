@@ -1,0 +1,27 @@
+A finite element model of the shoulder: application to the comparison of normal and osteoarthritic joints.
+OBJECTIVE
+The objective of the present study was to develop a numerical model of the shoulder able to quantify the influence of the shape of the humeral head on the stress distribution in the scapula. The subsequent objective was to apply the model to the comparison of the biomechanics of a normal shoulder (free of pathologies) and an osteoarthritic shoulder presenting primary degenerative disease that changes its bone shape.
+
+
+DESIGN
+Since the stability of the glenohumeral joint is mainly provided by soft tissues, the model includes the major rotator cuff muscles in addition to the bones.
+
+
+BACKGROUND
+No existing numerical model of the shoulder is able to determine the modification of the stress distribution in the scapula due to a change of the shape of the humeral head or to a modification of the glenoid contact shape and orientation.
+
+
+METHODS
+The finite element method was used. The model includes the three-dimensional computed tomography-reconstructed bone geometry and three-dimensional rotator cuff muscles. Large sliding contacts between the reconstructed muscles and the bone surfaces, which provide the joint stability, were considered. A non-homogenous constitutive law was used for the bone as well as non-linear hyperelastic laws for the muscles and for the cartilage. Muscles were considered as passive structures. Internal and external rotations of the shoulders were achieved by a displacement of the muscle active during the specific rotation (subscapularis for internal and infrapinatus for external rotation).
+
+
+RESULTS
+The numerical model proposed is able to describe the biomechanics of the shoulder during rotations. The comparison of normal vs. osteoarthritic joints showed a posterior subluxation of the humeral head during external rotation for the osteoarthritic shoulder but no subluxation for the normal shoulder. This leads to important von Mises stress in the posterior part of the glenoid region of the pathologic shoulder while the stress distribution in the normal shoulder is fairly homogeneous.
+
+
+CONCLUSION
+This study shows that the posterior subluxation observed in clinical situations for osteoarthritic shoulders may also be cause by the altered geometry of the pathological shoulder and not only by a rigidification of the subscapularis muscle as often postulated. This result is only possible with a model including the soft tissues provided stability of the shoulder.
+
+
+RELEVANCE
+One possible cause of the glenoid loosening is the eccentric loading of the glenoid component due to the translation of the humeral head. The proposed model would be a useful tool for designing new shapes for a humeral head prosthesis that optimizes the glenoid loading, the bone stress around the implant, and the bone/implant micromotions in a way that limits the risks of loosening.

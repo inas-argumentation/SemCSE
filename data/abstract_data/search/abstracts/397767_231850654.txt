@@ -1,0 +1,2 @@
+Blind Radius Directed Equalizer with Likelihood based Selection for Probabilistically Shaped and High Order QAM
+We propose a novel equalization algorithm for high order and shaped M QAM. Our blind RDE utilizes conditional filter updates based on the assignment likelihood of amplitude levels. Compared to traditional RDE we demonstrate a convergence rate of 99% for up to 93% higher DGD.

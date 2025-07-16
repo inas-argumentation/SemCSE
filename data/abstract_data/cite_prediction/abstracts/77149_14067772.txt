@@ -1,0 +1,2 @@
+A novel approach to cancer staging: application to esophageal cancer.
+A novel 3-step random forests methodology involving survival data (survival forests), ordinal data (multiclass forests), and continuous data (regression forests) is introduced for cancer staging. The methodology is illustrated for esophageal cancer using worldwide esophageal cancer collaboration data involving 4627 patients.

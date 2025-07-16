@@ -1,0 +1,2 @@
+Geodesics in CAT(0) Cubical Complexes
+We describe an algorithm to compute the geodesics in an arbitrary CAT(0) cubical complex. A key tool is a correspondence between cubical complexes of global non positive curvature and posets with inconsistent pairs. This correspondence also gives an explicit realization of such a complex as the state complex of a reconfigurable system, and a way to embed any interval in the integer lattice cubing of its dimension.

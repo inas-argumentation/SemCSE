@@ -1,0 +1,2 @@
+Global behavior of 1D compressible isentropic Navier-Stokes equations with a non-autonomous external force
+In this paper, we study a free boundary problem for compressible Navier-Stokes equations with density-dependent viscosity and a non-autonomous external force. The viscosity coefficient μ is proportional to ρθwith 0 < θ < 1, where ρ is the density. Under certain assumptions imposed on the initial data and external force f, we obtain the global existence and regularity. Some ideas and more delicate estimates are introduced to prove these results.

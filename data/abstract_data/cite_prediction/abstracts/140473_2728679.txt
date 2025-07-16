@@ -1,0 +1,2 @@
+Learning Activity Patterns Performed With Emotion
+This paper is a preliminary work towards the design of a model able to generate realistic motion sequences conditioned on a number of contextual variables like age, morphology, emotion etc. We focus in a first step on the design of contextual markovian models able to perform recognition of activities performed under various emotions even in the case no training samples are available for a particular (activity, emotion) pair, a zero shot learning setting.

@@ -1,0 +1,2 @@
+ON THE NULL DISTRIBUTIONS OF THE ENTROPY TESTS FOR THE GAUSSIAN AND INVERSE GAUSSIAN MODELS
+Vasicek [1]used the “convolution of twelve uniforms” for a Monte Carlo tabulation of the 5% critical values for his entropy test for normality. We employ a superior normal generator to construct a corrected and extended tabulation for his test. Interestingly, it is shown that, the same tables can be used for implementing Mudholkar and Tian's [2]entropy test for the composite inverse Gaussian hypothesis. The finding extends the known Gaussian, inverse Gaussian analogies.

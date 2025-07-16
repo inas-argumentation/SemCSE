@@ -1,0 +1,15 @@
+The use of compensators to optimise the three dimensional dose distribution in radiotherapy of the intact breast.
+BACKGROUND AND PURPOSE
+Dose heterogeneity in tangential breast irradiation has been shown to be as high as 20% and may lead to problems in local control and cosmesis. In this study, dose heterogeneity in three dimensions (3D) in the breast irradiated with wedged tangential beams is assessed and the improvement which can be made by the use of individualised two dimensional (2D) compensators is established. The compensation required is calculated in two ways: (I) by an iterative technique giving a uniform dose on a plane through the isocentre normal to the central axis of each beam, and (II) by inverse planning using an optimisation technique based on simulated annealing.
+
+
+MATERIALS AND METHODS
+A total of 17 patients with histologically proven T0-3, N0, N1, M0 breast cancer undergoing breast irradiation following wide local excision, were CT scanned using contiguous 1 cm slices from approximately 2 cm superior to 2 cm inferior of the irradiated volume. The dose distributions are determined using a 3D algorithm that calculates primary and scatter dose separately using a differential scatter air ratio method and corrects both for the presence of heterogeneities. The iterative technique achieves a dose variation of better than 0.5% on the plane through the isocentre with compensation on both beams. Compensation for the lateral beam only is calculated using the optimisation technique in order to minimise the scatter dose to the contralateral breast. The optimisation algorithm minimises the dose variance over the target and sets upper dose limits for the lung and the remainder of the irradiated volume.
+
+
+RESULTS
+For the group of patients the average dose heterogeneity in 3D using wedges is 12% (range 8-17%), which reduces to 8% (5-16%) using compensation on a plane and to 5% (4-7%) using the optimisation technique.
+
+
+CONCLUSIONS
+Inverse planning is normally used for complex radiotherapy techniques but when applied to tangential breast irradiation, can reduce the dose heterogeneity through the breast as a whole to as little as 4%, with potential benefits in local control and cosmesis.

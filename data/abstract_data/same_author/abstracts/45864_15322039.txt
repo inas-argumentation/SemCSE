@@ -1,0 +1,2 @@
+Tree coloring of distance graphs with a real interval set
+Let RR be the set of real numbers and DD be a subset of the positive real numbers. The distance graph  G(R,D)G(R,D) is a graph with the vertex set RR and two vertices xx and yy are adjacent if and only if |x−y|∈D|x−y|∈D. In this work, the vertex arboricity (i.e., the minimum number of subsets into which the vertex set V(G)V(G) can be partitioned so that each subset induces an acyclic subgraph) of G(R,D)G(R,D) is determined for DD being an interval between 1 and δδ.

@@ -1,0 +1,2 @@
+Stripe patterns and a projection-valued formulation of the eikonal equation
+We describe recent work on striped patterns in a system of block copolymers. A by-product of the characterization of such patterns is a new formulation of the eikonal equation. In this formulation, the unknown is a field of projection matrices of the form P=e⊗e, where e is a unit vector field. We describe how this formulation is better adapted to the description of striped patterns than the classical eikonal equation, and illustrate this with examples.

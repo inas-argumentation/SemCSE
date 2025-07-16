@@ -1,0 +1,11 @@
+Synthetic microarray data generation with RANGE and NEMO
+MOTIVATION
+For testing and sensitivity analysis purposes, it is beneficial to have known transcription networks of sufficient size and variability during development of microarray data and network deconvolution algorithms. Description of such networks in a simple language translatable to Systems Biology Markup Language would allow generation of model data for the networks.
+
+
+RESULTS
+Described herein is software (RANGE: RAndom Network GEnerator) to generate large random transcription networks in the NEMO (NEtwork MOtif) language. NEMO is recognized by a grammar for transcription network motifs using lex and yacc to output Systems Biology Markup Language models for either specified or randomized gene input functions. These models of known networks may be input to a biochemical simulator, allowing the generation of synthetic microarray data.
+
+
+AVAILABILITY
+http://range.sourceforge.net

@@ -1,0 +1,2 @@
+The E_8-manifold, singular fibers and handlebody decompositions
+The E_8-manifold has several natural framed link descriptions, and we give an efficient method (via `grapes') for showing that they are indeed the same 4-manifold. This leads to explicit handle pictures for the perturbation of singular fibers in an elliptic surface to a collection of fishtails. In the same vein, we show how the degeneration of a regular fiber to a singular fiber in an elliptic surface provides rich examples of Gromov's compactness theorem.

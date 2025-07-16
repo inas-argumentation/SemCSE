@@ -1,0 +1,2 @@
+On Some Properties of the Optimally Refined Proportional Sampling Strategy
+The optimally refined proportional sampling strategy has been recommended as a better alternative to random testing, when dividing the input domain into equal-sized partitions is easy. This paper investigates some properties of the optimally refined proportional sampling strategy. This investigation provides some useful information on how well the optimally refined proportional sampling strategy outperforms random testing.

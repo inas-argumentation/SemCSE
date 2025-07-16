@@ -1,0 +1,2 @@
+Finite Separating Sets in Locally Finite Graphs
+An (m, n)-separator of an infinite graph ? is a smallest finite set of vertices whose deletion leaves at least m finite components and at least n infinite components. It is shown that a vertex of ? of finite valence belongs to only finitely many (0, 2)-separators. Various results concerning the interrelation of (m, n)-separators (especially (0, 2)-separators) are obtained for locally finite graphs. Particular attention is given in the case that ? is vertex-transitive or edge-transitive.

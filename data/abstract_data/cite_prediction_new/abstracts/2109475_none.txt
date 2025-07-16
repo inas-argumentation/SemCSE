@@ -1,0 +1,3 @@
+Calculating communication costs with Sessions Types and Sizes
+We present a small object-oriented language with communication primitives. The language allows the assignment of binary session types to communication channels in order to govern the interaction between different objects and to statically calculate communication costs. Class declarations are annotated with size information in order to determine the cost of sending and receiving objects. This paper describes our first steps in the creation of a session-based, object-oriented 
+language for communication optimization purposes.

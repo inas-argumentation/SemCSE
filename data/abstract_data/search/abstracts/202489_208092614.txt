@@ -1,0 +1,2 @@
+A barrier optimization framework for NUMA multi core system
+Parallel program performance often critically depends on barrier performance. In modern NUMA multi core machines, barrier synchronization performance is significantly affected by cache coherence communication between cores, especially when the scale of NUMA systems is large, complex interconnected networks, memory hierarchies, and cache coherence protocols make optimization of barrier algorithm hard.

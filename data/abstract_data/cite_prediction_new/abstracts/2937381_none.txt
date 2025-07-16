@@ -1,0 +1,2 @@
+Winning strategies for aperiodic subtraction games
+We provide a winning strategy for sums of games of MARK-t, an impartial game played on the nonnegative integers where each move consists of subtraction by an integer between 1 and t-1 inclusive, or division by t, rounding down when necessary. Our algorithm computes the Sprague-Grundy values for arbitrary n in quadratic time. This solves a problem posed by Aviezri Fraenkel. In addition, we characterize the P-positions and N-positions for the game in mis\`ere play.

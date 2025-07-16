@@ -1,0 +1,2 @@
+Data Assimilation: The Ensemble Kalman Filter
+Statistical definitions. Analysis scheme. Sequential data assimilation. Variational inverse problems. Nonlinear variational inverse problems. Probabilistic formulation. Generalized Inverse. Ensemble methods. Statistical optimization. Sampling strategies for the EnKF. Model errors. Square Root Analysis schemes. Rank issues. Spurious correlations, localization, and inflation. An ocean prediction system. Estimation in an oil reservoir simulator.

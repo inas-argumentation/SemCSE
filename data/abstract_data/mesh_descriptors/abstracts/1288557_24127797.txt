@@ -1,0 +1,15 @@
+Dosimetric impact and theoretical clinical benefits of fiducial markers for dose escalated prostate cancer radiation treatment.
+PURPOSE
+To assess the impact of fiducial markers and daily kilovoltage imaging (FM-kV) on dose-volume histogram (DVH) parameters and normal tissue complication probabilities (NTCPs) for the rectum and bladder during prostate cancer radiotherapy.
+
+
+METHODS AND MATERIALS
+Two different setup scenarios were compared for 20 patients treated with three-dimensional conformal radiotherapy (3D-CRT) for localized prostate cancer to a total dose of 76 Gy: a traditional setup with planning target volume (PTV) margins associated with skin mark alignment vs. another setup using FM-kV. Various DVH parameters were compared, including Radiation Therapy Oncology Group (RTOG) dose-volume constraints for the rectum and bladder. Analysis of NTCPs was also performed according to the Lyman model.
+
+
+RESULTS
+With the traditional setup, 85% of patients had rectal V70(Gy) >25% compared with 45% with FM-kV. Moreover, 30% of patients with traditional setup vs. 5% with FM-kV did not fulfill at least 3 RTOG constraint parameters for the rectum. Mean rectal and bladder dose were 4.7 Gy and 6.7 Gy less, respectively, with FM-kV. The NTCP for the rectum was 11.5% with the traditional setup and 9% with FM-kV. This indicates that with FM-kV, the prescription dose could be increased by 2.1 Gy while keeping the same level of late rectal toxicity as with the traditional setup.
+
+
+CONCLUSIONS
+Use of FM-kV is an efficient way of lowering the proportion of patients not fulfilling RTOG rectal and bladder dose-volume constraints. The results of the NTCP analysis suggest that the PTV margin reduction allowed by FM-kV should decrease the rate of late rectal toxicities or may allow moderate dose escalation.

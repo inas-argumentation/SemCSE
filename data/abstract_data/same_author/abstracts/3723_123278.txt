@@ -1,0 +1,2 @@
+Enhanced speech in noisy multiple speaker environment
+Noisy environments seriously degrade the performance of speech recognition systems. Here we implement a high performance speech enhancement algorithm. Data from speech separation challenge were used to evaluate the method. It was observed that the enhanced speech significantly improved the recognition performance. In 2 out of 4 SNR cases, over 100% relative percentage improvements were achieved. Standalone software prototype has been developed and evaluated.

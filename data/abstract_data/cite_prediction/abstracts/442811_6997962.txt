@@ -1,0 +1,2 @@
+A Discrete Model for Inelastic Deformation of Thin Shells
+We introduce a method for simulating the inelastic deformation of thin shells: we model plasticity and fracture of curved, deformable objects such as light bulbs, egg-shells and bowls. Our novel approach uses triangle meshes yet evolves fracture lines unrestricted to mesh edges. We present a novel measure of bending strain expressed in terms of surface invariants such as lengths and angles. We also demonstrate simple techniques to improve the robustness of standard timestepping as well as collisionresponse algorithms.

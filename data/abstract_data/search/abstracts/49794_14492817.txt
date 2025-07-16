@@ -1,0 +1,2 @@
+Bayesian Based Iterative Method of Image Restoration
+An iterative method of restoring degraded images was developed by treating images, point spread functions, and degraded images as probability frequency functions and by applying Bayes's theorem. The method functions effectively in the presence of noise and is adaptable to computer operation.

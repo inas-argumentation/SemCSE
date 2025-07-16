@@ -1,0 +1,4 @@
+Termination of programs represented as interpreted graphs
+This work is concerned with the termination problem of interpreted graphs. An <i>interpreted graph</i> can be considered as an abstract model of algorithms; it consists of a directed graph, where:
+ 1. With each vertex <i>v</i>, there is associated a domain <i>D<sub>v</sub></i>, and
+ 2. With each arc <i>a</i> leading from vertex <i>v</i> to vertex <i>v</i>', there is associated a total test predicate <i>P<sub>a</sub></i>(<i>D<sub>v</sub></i> → {<i>T, F</i>}) and a total function <i>f<sub>a</sub></i> (<i>D<sub>v</sub></i>* → <i>D<sub>v</sub></i>'), where <i>D<sub>v</sub></i>* = {<i>x</i> | <i>x</i> ∈ <i>D<sub>v</sub></i> ∧ <i>P<sub>a</sub></i> (<i>x</i>) = <i>T</i>}.

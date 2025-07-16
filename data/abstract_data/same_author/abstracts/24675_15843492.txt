@@ -1,0 +1,2 @@
+Relativistic Effects in Transverse Flow in the Molecular Dynamics Framework
+In order to investigate relativistic effects we compare the transverse flow calculated by using the four versions of the QMD approaches with that of the full covariant RQMD approach. From the comparison we conclude that the simplified RQMD (RQMD/S), which uses the common time coordinate to all particles, can be used instead of RQMD up to 6 GeV/u.

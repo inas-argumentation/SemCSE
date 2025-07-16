@@ -1,0 +1,11 @@
+UNSUPERVISED SENTENCE EMBEDDING USING DOCUMENT STRUCTURE-BASED CONTEXT
+We present a new unsupervised method for learning general-purpose sentence embeddings.
+Unlike existing methods which rely on local contexts, such as words
+inside the sentence or immediately neighboring sentences, our method selects, for
+each target sentence, influential sentences in the entire document based on a document
+structure. We identify a dependency structure of sentences using metadata
+or text styles. Furthermore, we propose a novel out-of-vocabulary word handling
+technique to model many domain-specific terms, which were mostly discarded by
+existing sentence embedding methods. We validate our model on several tasks
+showing 30% precision improvement in coreference resolution in a technical domain,
+and 7.5% accuracy increase in paraphrase detection compared to baselines.

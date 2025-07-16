@@ -1,0 +1,23 @@
+Validation and utility of a computerized South Asian names and group recognition algorithm in ascertaining South Asian ethnicity in the national renal registry.
+BACKGROUND
+The UK Renal Registry (UKRR) reports on equity and quality of renal replacement therapy (RRT). Ethnic origin is a key variable, but it is only recorded for 76% patients overall in the UKRR and there is wide variation in the degree of its completeness between renal centres. Most South Asians have distinctive names.
+
+
+AIM
+To test the relative performance of a computerized name recognition algorithm (SANGRA) in identifying South Asian names using the UKRR database.
+
+
+DESIGN
+Cross-sectional study of patients (n = 27 832) starting RRT in 50 renal centres in England and Wales from 1997 to 2005.
+
+
+METHODS
+Kappa statistics were used to assess the degree of agreement of SANGRA coding with existing ethnicity information in UKRR centres.
+
+
+RESULTS
+In 12 centres outside London (number of patients = 7555) with 11% (n = 747) self-ascribed South Asian ethnicity, the level of agreement between SANGRA and self-ascribed ethnicity was high (kappa=0.91, 95% CI 0.90-0.93). In two London centres (n = 779) with 21% (n = 165) self-ascribed South Asian ethnicity, SANGRA's agreement with self-ascribed ethnicity was lower (kappa=0.60, 95% CI 0.54-0.67), primarily due to difficulties in distinguishing between South Asian ethnicity and other non-White ethnic minorities. Use of SANGRA increased numbers defined as South Asian from 1650 to 2076 with no overall change in percentage of South Asians. Kappa values showed no obvious association with degree of missing data returns to the UKRR.
+
+
+CONCLUSION
+SANGRA's use, taking into account its lower validity in London, allows increased power and generalizability for both ethnic specific analyses and for analyses where adjustment for ethnic origin is important.

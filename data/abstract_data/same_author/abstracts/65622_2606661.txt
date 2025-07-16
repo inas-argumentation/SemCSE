@@ -1,0 +1,2 @@
+Investigating Programs in Terms of Partial Graphs
+A common feature of most theoretical investigations on semantics, correctness, and termination is a strict distinction between one descriptional tool used for the flow of control of the program and another for single program steps. This paper exhibits a unified approach to the presentation of these concepts in terms of TARSKI's and RIGUET's relational algebra. Partial graphs and programs are introduced and formally manipulable relational notions of semantics, correctness, and termination are obtained.

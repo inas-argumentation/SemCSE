@@ -1,0 +1,2 @@
+A note on maximizing a submodular set function subject to a knapsack constraint
+In this paper, we obtain an (1-e^-^1)-approximation algorithm for maximizing a nondecreasing submodular set function subject to a knapsack constraint. This algorithm requires O(n^5) function value computations.

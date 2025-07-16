@@ -1,0 +1,4 @@
+Coadjoint orbits for $A_{n-1}^+, B_{n}^{+}$, and $D_{n}^{+}$
+A complete description of the coadjoint orbits for A_{n-1}^{+}, the nilpotent Lie algebra of n-by-n strictly upper triangular matrices, has not yet been obtained, though there has been steady progress on it ever since the orbit method was devised. 
+We apply methods developed by Andre' to find defining equations for the elementary coadjoint orbits for the maximal nilpotent Lie subalgebras of the orthogonal 
+Lie algebras, and we also determine all the possible dimensions of coadjoint orbits in the case of A_{n-1}^{+}.

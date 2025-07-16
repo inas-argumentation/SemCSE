@@ -1,0 +1,15 @@
+Accurate colorectal tumor segmentation for CT scans based on the label assignment generative adversarial network.
+PURPOSE
+Colorectal tumor segmentation is an important step in the analysis and diagnosis of colorectal cancer. This task is a time consuming one since it is often performed manually by radiologists. This paper presents an automatic postprocessing module to refine the segmentation of deep networks. The label assignment generative adversarial network (LAGAN) is improved from the generative adversarial network (GAN) and assigns labels to the outputs of deep networks. We apply the LAGAN to segment colorectal tumors in computed tomography (CT) scans and explore the performances of different combinations of deep networks.
+
+
+MATERIAL AND METHODS
+A total of 223 patients with colorectal cancer (CRC) are enrolled in the study. The CT scans of the colorectal tumors are first segmented by FCN32 and Unet separately, which output probabilistic maps. Then, the probabilistic maps are labeled by the LAGAN and finally, the binary segmentation results are obtained. The LAGAN consists of a generating model and a discriminating model. The generating model utilizes the probabilistic maps from deep networks to imitate the distribution of the ground truths, and the discriminating model attempts to distinguish generations and ground truths. Through competitive training, the generating model of the LAGAN can realize label assignments for the probabilistic maps.
+
+
+RESULTS
+The LAGAN increases the DSC of FCN32 from 81.83% ± 0.35% to 90.82% ± 0.36%. In the Unet-based segmentation, the LAGAN increases the DSC from 86.67% ± 0.70% to 91.54% ± 0.53%. It takes approximately 10 ms to refine a single CT slice.
+
+
+CONCLUSIONS
+The results demonstrate that the LAGAN is a robust and flexible module, which can be used to refine the segmentation of diverse deep networks. Compared with other networks, the LAGAN can achieve desirable segmented accuracy for colorectal tumors.

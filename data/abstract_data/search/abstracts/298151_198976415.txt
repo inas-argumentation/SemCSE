@@ -1,0 +1,2 @@
+Formal Statement of Results for General Piecewise Linear Activations
+and write rbz1 ,bzk for the density of the joint distribution of the biases bz1 bzk We say a neuron z is good at x if there exists a path of neurons from z to the output in the computational graph of N so that each neuron z along this path is open at x (i.e. ph'(z(x) bz) 6= 0) Then, for any bounded, measurable set K Rin and any k 1, nin, the average (nin k) dimensional volume

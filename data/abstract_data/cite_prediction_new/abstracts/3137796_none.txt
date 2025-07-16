@@ -1,0 +1,2 @@
+Gevrey class regularity for the attractor of the laser equations
+Constantin, Foais and Gibbon proved that the laser equations (Lorenz PDE) define a dynamical system in L2 with a C attractor. We extend this theorem to show that the attractor is contained in every Gevrey class, Gs, for 1<s<. This demonstrates a remarkable smoothing mechanism for this hyperbolic system. We consider the consequences of this theorem for finite-dimensionality of the dynamics.

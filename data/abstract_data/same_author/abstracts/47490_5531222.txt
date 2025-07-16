@@ -1,0 +1,4 @@
+Divide and Compose: SCC Refinement for Language Emptiness
+We propose a refinement approach to symbolic SCC analysis, which performs large parts of the computation on abstracted systems, and on small subsets of the state space. For language-emptiness checking, it quickly discards uninteresting parts of the state space; for the remaining states, it adapts the model checking computation to the strength of the SCCs at hand. 
+ 
+We present a general framework for SCC refinement, which uses a compositional approach to generate and refine overapproximations. We show that our algorithm significantly outperforms the one of Emerson and Lei.

@@ -1,0 +1,13 @@
+A VIRTUAL CHICKEN FOR CLIMATE CONTROL DESIGN: STATIC AND DYNAMIC SIMULATIONS OF HEAT LOSSES
+The simulation of the effects of different control strategies on the interior climate in animal houses has been a 
+frequent focus of research work for the last 30 years. Only in a few cases have realistic computer simulations of animal occupants 
+been used in the development of new climate control strategies. The aim of this research was to develop a virtual chicken 
+(VirChick) for computer-aided design and engineering of climate controllers for poultry houses. The objective was to develop 
+a dynamic simulation model of the energy and mass transfer between the chicken and its thermal environment as a first step 
+in the making of a VirChick. A static as well as dynamic model of heat loss for VirChick was developed. Two experiments were 
+performed to generate data for the evaluation of the static heat loss model. It was demonstrated that the modeling results for 
+the heat loss components were in agreement with data found in the literature. Furthermore, on the basis of three dynamic 
+experiments, it was demonstrated that dynamic responses of total heat loss to step variations in temperature (ranging from 
+18°C to 35°C) could be modeled with a correlation coefficient between measured and simulated total heat loss of 0.83 to 0.96. 
+In the future, such a virtual chicken can be equipped with many more properties, such as realistic locomotion, 
+thermoregulatory and other behaviors, artificial intelligence, etc.

@@ -1,0 +1,2 @@
+Robust appearance-based tracking of moving object from moving platform
+We present a robust algorithm for tracking moving objects from a moving platform. Robustness is achieved by incorporating temporal differencing and shape detection in an appearance-based object tracking algorithm. In addition, the incorporation of these two methods also improves accuracy and computational efficiency of detection. Some experimental results using airborne-video tracking are given to illustrate the effectiveness of this method.

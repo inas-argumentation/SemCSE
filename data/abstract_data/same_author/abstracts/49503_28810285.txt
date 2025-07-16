@@ -1,0 +1,2 @@
+Workflow management and resource discovery for an intelligent grid
+A computational grid provides coordinated and transparent access to computing resources for grid users. Workflow management and resource discovery are two important functions of an intelligent grid. Workflow management refers to automatic workflow creation and coordinated workflow execution, and resource discovery facilitates resource allocation and claiming. In this paper we discuss workflow management and resource discovery in an intelligent grid environment.

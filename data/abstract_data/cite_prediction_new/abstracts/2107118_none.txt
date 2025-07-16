@@ -1,0 +1,2 @@
+Area-efficient cross-coupled charge pump for on-chip solar cell
+In this paper, an area-efficient cross-coupled charge pump for standalone chip using on-chip solar cell is proposed. The proposed cross-coupled charge pump outputs higher voltage than conventional cross-coupled charge pump on the same area by adding capacitors to drive MOS transistors. The proposed circuit is fabricated in 0.18um standard CMOS process, and outputs 80mV higher than the conventional circuit with 500mV input and 100kHz clock frequency.

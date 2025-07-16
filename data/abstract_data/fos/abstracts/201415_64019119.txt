@@ -1,0 +1,2 @@
+The Application of TreeControl and ListControl in the Software for News Release Processing
+TreeControl and ListControl are both used in Dialog. ListControl displays a list of items which can be browsed and selected by users. TreeControl shows hierarchical information in form of Tree format. As an example of the program based dialog, the Software for News Release Processing is discussed in this paper. The classes of TreeControl and ListControl are coded, and their applications are explained in dialog programming.

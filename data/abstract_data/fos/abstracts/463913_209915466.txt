@@ -1,0 +1,2 @@
+Global fixed-time stabilization for switched stochastic nonlinear systems under rational switching powers
+This note studies global fixed-time stabilization for switched stochastic nonlinear systems under rational switching powers. With the aid of stochastic fixed-time stability theorem, a new control approach is presented to ensure that the system state globally reaches zero almost surely in fixed time independent of initial conditions. The developed scheme is used to controller design of the liquid-level system.

@@ -1,0 +1,2 @@
+Provably Accelerated Randomized Gossip Algorithms
+In this work we present novel provably accelerated gossip algorithms for solving the average consensus problem. The proposed protocols are inspired from the recently developed accelerated variants of the randomized Kaczmarz method a popular method for solving linear systems. In each gossip iteration all nodes of the network update their values but only a pair of them exchange their private information. Numerical experiments on popular wireless sensor networks showing the benefits of our protocols are also presented.

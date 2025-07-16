@@ -1,0 +1,2 @@
+Web Service Dependency Discovery Tool for SOA Management
+In this paper we identify the importance of the problem of discovering dynamic dependencies among Web services. The approach we take is to automate the identification of traces of dependent messages, based on the correlation of messages exchanged among services. We infer service dependencies based on the correlated message traces.

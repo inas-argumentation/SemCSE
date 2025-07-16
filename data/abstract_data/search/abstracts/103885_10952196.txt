@@ -1,0 +1,2 @@
+Using Discriminant Eigenfeatures for Image Retrieval
+This paper describes the automatic selection of features from an image training set using the theories of multidimensional discriminant analysis and the associated optimal linear projection. We demonstrate the effectiveness of these most discriminating features for view based class retrieval from a large database of widely varying real world objects presented as "well framed" views, and compare it with that of the principal component analysis.

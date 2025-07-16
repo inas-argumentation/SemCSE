@@ -1,0 +1,2 @@
+Paralelizacao de uma Aplicacao de Deteccao e Eliminacao de Ruidos em Streaming de Video com a DSL SPar
+Resumo. Restauracao de imagem e uma importante etapa de qualquer sistema de computacao grafica. Este trabalho tem como objetivo apresentar e avaliar o paralelismo de Denoiser, uma aplicacao para deteccao e eliminacao de ruido em streaming de video. Foram avaliados o speed up e programabilidade das interfaces SPar, Thread Building Blocks e FastFlow. Os resultados mostram que a SPar obteve bons resultados de programabilidade e desempenho.

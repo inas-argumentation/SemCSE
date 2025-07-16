@@ -1,0 +1,2 @@
+Design of IP/DVB Gateway Based on BCM1250 Processor
+The connection of IP network and television network needs the conversion of transmission protocols,based on BCM1250 processor,develops an IP/DVB gateway device to bridge between IP network and DVB network for exchanging data.Using this gateway,the Cable accessing network can receive and transmit IP data,the gateway can support 0～180Mbps data rate,it is extendable for output.

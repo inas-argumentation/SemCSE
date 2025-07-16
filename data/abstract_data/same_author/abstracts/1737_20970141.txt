@@ -1,0 +1,2 @@
+An Efficient Implementation of RBF-Based Progressive Point-Sampled Geometry
+In this paper we address practical implementation issues of generating a progressive representation of point-sampled geometry. Fast and stable algorithms are proposed to efficiently implement a progressive version of the modified RBF Shepard's method. Comparisons with several well-known methods are presented, showing that the proposed algorithms can achieve good balance between geometric error reduction and time efficiency.

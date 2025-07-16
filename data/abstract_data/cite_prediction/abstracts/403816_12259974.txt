@@ -1,0 +1,2 @@
+PWM rectifier with LCL-filter using different current control structures
+The control of a PWM rectifier with LCL-filter using a minimum number of sensors is analyzed. In addition to the DC-link voltage either the converter or line current is measured. Two different ways of current control are shown, analyzed and compared by simulations as well as experimental investigations. Main focus is spent on active damping of the LCL filter resonance and on robustness against line inductance variations.

@@ -1,0 +1,11 @@
+PyLasso: a PyMOL plugin to identify lassos
+Summary
+Entanglement in macromolecules is an important phenomenon and a subject of multidisciplinary research. As recently discovered, around 4% of proteins form new entangled motifs, called lassos. Here we present the PyLasso-a PyMOL plugin to identify and analyse properties of lassos in proteins and other (bio)polymers, as well as in other biological, physical and mathematical systems. The PyLasso is a useful tool for all researchers working on modeling of macromolecules, structure prediction, properties of polymers, entanglement in fluids and fields, etc.
+
+
+Availability and implementation
+The PyLasso and tutorial videos are available at http://pylasso.cent.uw.edu.pl.
+
+
+Contact
+jsulkowska@cent.uw.edu.pl.

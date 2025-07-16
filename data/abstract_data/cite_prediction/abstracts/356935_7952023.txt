@@ -1,0 +1,2 @@
+Corrections of the NIST Statistical Test Suite for Randomness
+It is well known that the NIST statistical test suite was used for the evaluation of AES candidate algorithms. We have found that the test setting of Discrete Fourier Transform test and Lempel-Ziv test of this test suite are wrong. We give four corrections of mistakes in the test settings. This suggests that re-evaluation of the test results should be needed.

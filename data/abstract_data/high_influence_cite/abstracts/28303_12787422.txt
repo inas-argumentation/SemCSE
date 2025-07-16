@@ -1,0 +1,2 @@
+A Remark about Linear Switched Systems in the Plane
+Abstract In this note we prove that if a switched system F formed by a pair of linear vector fields of R 2 is asymptotically controllable, then the discrete time operator associated to F admits at least one real eigenvalue λ, with |λ|

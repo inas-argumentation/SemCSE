@@ -1,0 +1,2 @@
+Optimality conditions for weak efficiency to vector optimization problems with composed convex functions
+We consider a convex optimization problem with a vector valued function as objective function and convex cone inequality constraints. We suppose that each entry of the objective function is the composition of some convex functions. Our aim is to provide necessary and sufficient conditions for the weakly efficient solutions of this vector problem. Moreover, a multiobjective dual treatment is given and weak and strong duality assertions are proved.

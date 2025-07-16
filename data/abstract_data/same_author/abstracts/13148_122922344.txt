@@ -1,0 +1,2 @@
+A simple model for radiation damping
+Increasing interest has been shown in the method of matched asymptotic expansions for the construction and solution of the equations of motion in general relativity. This paper discusses a simple model which can, in principle, be solved exactly. A comparison of the two solutions shows that the matched asymptotic expansion technique determines correctly the final damping rate and frequency (at least to fourth order in a small parameter), but the phase information is spurious.

@@ -1,0 +1,2 @@
+Impact of Sparse Pixel Vectorization Algorithm Parameters on Line Segmentation Performance
+We present the impact of parameters in the Sparse Pixel Vectorization algorithm on the performance of the algorithm, which is evaluated using a pixel level performance evaluation protocol. Both theoretical and experimental analyses are presented, which show that the experimental results are well in accordance with the theoretical analyses. Both prove the robustness of the algorithm. Meanwhile the parameter values for the best performance of the algorithm are also found.

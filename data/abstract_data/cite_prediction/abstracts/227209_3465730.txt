@@ -1,0 +1,2 @@
+Missing Data Recovery Based on Tensor-CUR Decomposition
+Tensor completion is a higher way analog of matrix completion, which has proven to be a powerful tool for data analysis. In this paper, we formulate the missing data recovery problem of a three-way tensor as a tensor completion problem. We propose a novel tensor completion method based on tensor-CUR decomposition to estimate the missing data from limited samples. Computational experiments demonstrate that the proposed method yields a superior performance over other existing approaches.

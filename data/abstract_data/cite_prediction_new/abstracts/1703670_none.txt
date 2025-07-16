@@ -1,0 +1,11 @@
+Model-based Aeroservoelastic Design and Load Alleviation of Large Wind Turbines
+This paper presents an aeroservoelastic modeling approach for dynamic load alleviation 
+in large wind turbines with trailing-edge aerodynamic surfaces. The tower, potentially on a 
+moving base, and the rotating blades are modeled using geometrically non-linear composite 
+beams, which are linearized around reference conditions with arbitrarily-large structural 
+displacements. Time-domain aerodynamics are given by a linearized 3-D unsteady vortexlattice 
+method and the resulting dynamic aeroelastic model is written in a state-space 
+formulation suitable for model reductions and control synthesis. A linear model of a single 
+blade is used to design a Linear-Quadratic-Gaussian regulator on its root-bending moments, 
+which is finally shown to provide load reductions of about 20% in closed-loop on the full 
+wind turbine non-linear aeroelastic model.

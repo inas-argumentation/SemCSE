@@ -1,0 +1,2 @@
+The beat of a fuzzy drum: fuzzy Bessel functions for the disc
+The fuzzy disc is a matrix approximation of the functions on a disc which preserves rotational symmetry. In this paper we introduce a basis for the algebra of functions on the fuzzy disc in terms of the eigenfunctions of a properly defined fuzzy laplacian. In the commutative limit they tend to the eigenfunctions of the ordinary laplacian on the disc, i.e. Bessel functions of the first kind, thus deserving the name of fuzzy Bessel functions.

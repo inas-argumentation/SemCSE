@@ -1,0 +1,15 @@
+Simple quantitative measurement based on DWI to objectively judge DWI-FLAIR mismatch in a canine stroke model.
+PURPOSE
+Diffusion-weighted imaging (DWI) - fluid attenuated inversion recovery (FLAIR) mismatch was proven useful to time the onset of wake-up stroke; however, identifying the status of FLAIR imaging has been mostly subjective. We aimed to evaluate the value of relative DWI signal intensity (rDWI), and relative apparent diffusion coefficient (rADC) in identifying the FLAIR status in the acute period.
+
+
+METHODS
+Autologous clot was used to embolize left middle cerebral artery in 20 dogs. Magnetic resonance imaging was performed 3-6 hours and 24 hours after embolization. DWI-FLAIR mismatch was defined as hyperintense signal detected on DWI, but not on FLAIR. The mean values of rDWI or rADC of FLAIR- and FLAIR+ lesions were compared and the critical cutoff values of rDWI and rADC for identifying the FLAIR status were determined.
+
+
+RESULTS
+Stroke models were successfully established in all animals. DWI+ lesions were found in all 20 dogs from three hours, while FLAIR+ lesions were found in three, 11, 16, 19, and 20 dogs at five time points after embolization, respectively. The mean rDWI values were significantly different between FLAIR- and FLAIR+ lesions (P < 0.001), but rADC values were not (P = 0.73). Using rDWI=1.90 as the threshold value, excellent diagnostic efficacy was achieved (AUC, 0.88; sensitivity, 0.77; specificity, 0.88). However, rADC appeared not useful (AUC, 0.48; sensitivity, 0.52; specificity, 0.58) in identifying the FLAIR status.
+
+
+CONCLUSION
+In our embolic canine stroke model, rDWI was useful to identify FLAIR imaging status in the acute period, while rADC was not.

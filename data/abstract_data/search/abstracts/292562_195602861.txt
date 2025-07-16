@@ -1,0 +1,2 @@
+Single Image Haze Removal Using Dark Channel Prior
+In this paper, we propose a simple but effective image prior dark channel prior to remove haze from a single input image. The dark channel prior is a kind of statistics of outdoor haze free images.

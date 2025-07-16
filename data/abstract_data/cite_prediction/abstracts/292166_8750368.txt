@@ -1,0 +1,19 @@
+Automated assessment of cognitive health using smart home technologies.
+BACKGROUND
+The goal of this work is to develop intelligent systems to monitor the wellbeing of individuals in their home environments.
+
+
+OBJECTIVE
+This paper introduces a machine learning-based method to automatically predict activity quality in smart homes and automatically assess cognitive health based on activity quality.
+
+
+METHODS
+This paper describes an automated framework to extract set of features from smart home sensors data that reflects the activity performance or ability of an individual to complete an activity which can be input to machine learning algorithms. Output from learning algorithms including principal component analysis, support vector machine, and logistic regression algorithms are used to quantify activity quality for a complex set of smart home activities and predict cognitive health of participants.
+
+
+RESULTS
+Smart home activity data was gathered from volunteer participants (n=263) who performed a complex set of activities in our smart home testbed. We compare our automated activity quality prediction and cognitive health prediction with direct observation scores and health assessment obtained from neuropsychologists. With all samples included, we obtained statistically significant correlation (r=0.54) between direct observation scores and predicted activity quality. Similarly, using a support vector machine classifier, we obtained reasonable classification accuracy (area under the ROC curve=0.80, g-mean=0.73) in classifying participants into two different cognitive classes, dementia and cognitive healthy.
+
+
+CONCLUSIONS
+The results suggest that it is possible to automatically quantify the task quality of smart home activities and perform limited assessment of the cognitive health of individual if smart home activities are properly chosen and learning algorithms are appropriately trained.

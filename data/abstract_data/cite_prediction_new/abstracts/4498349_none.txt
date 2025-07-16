@@ -1,0 +1,2 @@
+A High Performance Direct Torque Control of PMBLDC Motor using AI
+This paper deals with the direct torque control (DTC) of PMBLDC motor using Artificial Intelligence (AI) to improve the performance of the DTC scheme. Though the conventional controllers are commonly used in practice, they have failed to perform satisfactorily under nonlinear conditions and parameter variations. In the proposed work, an AI based control scheme is introduced to control the torque and the flux linkage angle of the DTC scheme. Torque error and flux linkage angle of the DTC (...)

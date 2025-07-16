@@ -1,0 +1,15 @@
+Comparison of diameter and perimeter methods for tumor volume calculation.
+PURPOSE
+Lesion volume is often used as an end point in clinical trials of oncology therapy. We sought to compare the common method of using orthogonal diameters to estimate lesion volume (the diameter method) with a computer-assisted planimetric technique (the perimeter method).
+
+
+METHODS
+Radiologists reviewed 825 magnetic resonance imaging studies from 219 patients with glioblastoma multiforme. Each study had lesion volume independently estimated via the diameter and perimeter methods. Cystic areas were subtracted out or excluded from the outlined lesion. Inter- and intrareader variability was measured by using multiple readings on 48 cases. Where serial studies were available in noncystic cases, a mock response analysis was used.
+
+
+RESULTS
+The perimeter method had a reduced interreader and intrareader variability compared with the diameter method (using SD of differences): intrareader, 1.76 mL v 7.38 mL (P < .001); interreader, 2.51 mL v 9.07 mL (P < .001) for perimeter and diameter results, respectively. Of the 121 noncystic cases, 23 had serial data. In six (26.1%) of those 23, a classification difference occurred when the perimeter method was used versus the diameter method.
+
+
+CONCLUSION
+Variability of measurements was reduced with the computer-assisted perimeter method compared with the diameter method, which suggests that changes in volume can be detected more accurately with the perimeter method. The differences between these techniques seem large enough to have an impact on grading the response to therapy.

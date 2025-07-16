@@ -1,0 +1,8 @@
+Extending the Framework of Equilibrium Propagation to General Dynamics
+The biological plausibility of the backpropagation algorithm has long been doubted by neuroscientists. Two major reasons are that neurons would need to send two different types of signal in the forward and backward phases, and that pairs of neurons would need to communicate through symmetric bidirectional connections.
+We present a simple two-phase learning procedure for fixed point recurrent networks that addresses both these issues.
+In our model, neurons perform leaky integration and synaptic weights are updated through a local mechanism.
+Our learning method extends the framework of Equilibrium Propagation to general dynamics, relaxing the requirement of an energy function.
+As a consequence of this generalization, the algorithm does not compute the true gradient of the objective function,
+but rather approximates it at a precision which is proven to be directly related to the degree of symmetry of the feedforward and feedback weights.
+We show experimentally that the intrinsic properties of the system lead to alignment of the feedforward and feedback weights, and that our algorithm optimizes the objective function.

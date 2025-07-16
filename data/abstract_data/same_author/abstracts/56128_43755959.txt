@@ -1,0 +1,2 @@
+Semantics of Separation-Logic Typing and Higher-Order Frame Rules
+We show how to give a coherent semantics to programs that are well-specified in a version of separation logic for a language with higher types: idealized algol extended with heaps (but with immutable stack variables). In particular, we provide simple sound rules for deriving higher-order frame rules, allowing for local reasoning.

@@ -1,0 +1,2 @@
+Eigenmode Simulations of Third Harmonic Superconducting Accelerating Cavities for FLASH and the European XFEL
+The third harmonic nine-cell cavity (3.9 GHz) for FLASH and the European XFEL has been investigated using simulations performed with the computer code CST Microwave Studio. The band structure of monopole, dipole, quadrupole and sextupole modes for an ideal cavity has been studied. The higher order modes for the nine-cell structure are compared with that of the cavity mid-cell. The R/Q of these eigenmodes are calculated.

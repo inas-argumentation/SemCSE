@@ -1,0 +1,18 @@
+Feature Transformers: A Unified Representation Learning Framework for Lifelong Learning
+Despite the recent advances in representation learning, lifelong learning continues
+to be one of the most challenging and unconquered problems. Catastrophic forgetting
+and data privacy constitute two of the important challenges for a successful
+lifelong learner. Further, existing techniques are designed to handle only specific
+manifestations of lifelong learning, whereas a practical lifelong learner is expected
+to switch and adapt seamlessly to different scenarios. In this paper, we present a
+single, unified mathematical framework for handling the myriad variants of lifelong
+learning, while alleviating these two challenges. We utilize an external memory
+to store only the features representing past data and learn richer and newer
+representations incrementally through transformation neural networks - feature
+transformers. We define, simulate and demonstrate exemplary performance on a
+realistic lifelong experimental setting using the MNIST rotations dataset, paving
+the way for practical lifelong learners. To illustrate the applicability of our method
+in data sensitive domains like healthcare, we study the pneumothorax classification
+problem from X-ray images, achieving near gold standard performance.
+We also benchmark our approach with a number of state-of-the art methods on
+MNIST rotations and iCIFAR100 datasets demonstrating superior performance.

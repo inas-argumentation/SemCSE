@@ -1,0 +1,15 @@
+Analysis of dose to patient, spouse/caretaker, and staff, from an implanted trackable radioactive fiducial for use in the radiation treatment of prostate cancer.
+PURPOSE
+A fiducial tracking system based on a novel radioactive tracking technology is being developed for real-time target tracking in radiation therapy. In this study, the authors calculate the radiation dose to the patient, the spouse/caretaker, and the medical staff that would result from a 100 microCi Ir192 radioactive fiducial marker permanently implanted in the prostate of a radiation therapy patient.
+
+
+METHODS
+Local tissue dose was calculated by Monte Carlo simulation. The patient's whole body effective dose equivalent was calculated by summing the doses to the sensitive organs. Exposure of the spouse/caretaker was calculated from the NRC guidelines. Exposure of the medical staff was based on estimates of proximity to and time spent with the patient.
+
+
+RESULTS
+The local dose is below 40 Gy at 5 mm from the marker and below 10 Gy at 10 mm from the marker. The whole body effective dose equivalent to the patient is 64 mSv. The dose to the spouse/caretaker is 0.25 mSv. The annual exposures of the medical staff are 0.2 mSv for a doctor performing implantations and 0.34 mSv for a radiation therapist positioning patients for therapy.
+
+
+CONCLUSIONS
+The local dose is not expected to have any clinically significant effect on the surrounding tissue which is irradiated during therapy. The dose to the patient is small in comparison to the whole body dose received from the therapy itself. The exposure of all other people is well below the recommended limits. The authors conclude that there is no radiation exposure related contraindication for use of this technology in the radiation treatment of prostate cancer.

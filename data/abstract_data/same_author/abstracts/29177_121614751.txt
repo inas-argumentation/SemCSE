@@ -1,0 +1,2 @@
+A warning on proving gauge independence using the functional integral method
+We show that the proof for gauge independence of Green functions by functional integral methods is not always reliable because using similar formalism we could show that the fermionic two-point function in U(1) gauge theory is gauge independent, which is an incorrect result. A two-dimensional integral with similar structure is analysed and a possible explanation for this flaw is given.

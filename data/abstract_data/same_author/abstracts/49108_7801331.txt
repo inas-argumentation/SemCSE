@@ -1,0 +1,2 @@
+FPGA implementation of digital filters synthesized using the frequency-response masking technique
+The effective length of a filter designed using the frequency-response masking technique is very high and requires a very large number of delay elements. In this paper, we present some useful techniques for reducing the data transfer between the FPGA and external memory when the random logic are implemented using FPGA and the delay elements are implemented using external memory such as DRAM.

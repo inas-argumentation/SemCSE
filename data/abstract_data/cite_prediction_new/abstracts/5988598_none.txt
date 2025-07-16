@@ -1,0 +1,2 @@
+Computing endomorphism rings of abelian varieties of dimension two
+Generalizing a method of Sutherland and the author for elliptic curves, we design a subexponential algorithm for computing the endomorphism rings of ordinary abelian varieties of dimension two over finite fields. Although its correctness and complexity analysis rest on several assumptions, we report on practical computations showing that it performs very well and can easily handle previously intractable cases.

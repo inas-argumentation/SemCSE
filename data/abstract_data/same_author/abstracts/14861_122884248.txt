@@ -1,0 +1,2 @@
+Instanton superfield calculations for SU(N) SQCD in the higgs phase
+We present a superfield formalism for instanton calculations in SQCD with arbitrary numbers N, M of colors and flavors and with non-vanishing classical scalar expectation values. Various correlators can be computed economically. In the limit of large expectation values the results are in full agreement wih clustering and other general arguments. For M = N − 1 a superpotential is shown to be generated at the one-instanton level; this fixes the values of the scalars without use of the Konishi anomaly.

@@ -1,0 +1,18 @@
+Spectral and Time Domain Parameters for The Classification of Atrial Fibrillation
+Atrial fibrillation (AF) is the most common type of arrhythmia. This work presents a pattern analysis 
+ 
+approach to automatically classify electrocardiographic (ECG) records as normal sinus rhythm or AF. Both 
+ 
+spectral and time domain features were extracted and their discrimination capability was assessed 
+ 
+individually and in combination. Spectral features were based on the wavelet decomposition of the signal 
+ 
+and time parameters translated heart rate characteristics. The performance of three classifiers was evaluated: 
+ 
+k-nearest neighbour (kNN), artificial neural network (ANN) and support vector machine (SVM). The MITBIH 
+ 
+arrhythmia database was used for validation. The best results were obtained when a combination of 
+ 
+spectral and time domain features was used. An overall accuracy of 99.08 % was achieved with the SVM 
+ 
+classifier.

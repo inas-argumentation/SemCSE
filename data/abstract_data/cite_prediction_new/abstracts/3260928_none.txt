@@ -1,0 +1,2 @@
+Detection diversity joint-decision MLSE to compensate chromatic dispersion impairment on optical DPSK
+The proposed receiver, which is based on joint-decision MLSE (JD-MLSE), employs direct detection with conventional balanced differential detection to compensate chromatic dispersion (CD) impairment on phase shift keying (PSK). The receiver can reach a lower BER and has a higher CD tolerance than balanced differential detection with MLSE, demonstrated by simulation and experiment. Applied to a 10-Gb/s DPSK experimental system, this receiver can equalize 3800-ps/nm dispersion.

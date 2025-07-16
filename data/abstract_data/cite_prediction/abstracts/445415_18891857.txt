@@ -1,0 +1,2 @@
+Snakemake - a scalable bioinformatics workflow engine
+Summary: Snakemake is a workflow engine that provides a readable Python-based workflow definition language and a powerful execution environment that scales from single-core workstations to compute clusters without modifying the workflow. It is the first system to support the use of automatically inferred multiple named wildcards (or variables) in input and output filenames. Availability: http://snakemake.googlecode.com. Contact: johannes.koester@uni-due.de Received on May 14, 2012; revised on June 28, 2012; accepted on

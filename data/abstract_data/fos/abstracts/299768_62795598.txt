@@ -1,0 +1,2 @@
+Fonctions maximales centrées de Hardy–Littlewood sur les groupes de Heisenberg
+By getting uniformly asymptotic estimates for the Poisson kernel on Heisenberg groups H2n+1, we prove that there exists a constant A > 0, independent of n ∈ N∗, such that for all f ∈ L(H2n+1), we have ‖Mf‖L1,∞ ≤ An‖f‖1, where M denotes the centered Hardy–Littlewood maximal function defined by the Carnot–Carathéodory distance or by the Korányi norm.

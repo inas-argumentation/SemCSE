@@ -1,0 +1,2 @@
+Predicting the RF Impedance of Cells in Series for Automotive Traction Battery Applications
+The impedance of series pairs of 18650 format cylindrical lithium ion battery cells has been measured over the frequency range from 100 kHz to 200 MHz using a vector network analyser, and simulated using a full wave 3D field solver. The results indicate that a hybrid simulation approach, based on a simple 3D model coupled with an equivalent circuit model derived from measurements on a single cell, can be used to predict the properties of series cell assemblies.

@@ -1,0 +1,2 @@
+A Check on Gross Errors in Certain Variance Computations
+In stratified samples, the variance of ratio estimates often includes the variance of the variable used for stratification. The upper bounds of this variance and the corresponding rel-variance are derived for use in checking gross errors, and “typical” values of the variance are also presented.

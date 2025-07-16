@@ -1,0 +1,5 @@
+MACHINE VS MACHINE: MINIMAX-OPTIMAL DEFENSE AGAINST ADVERSARIAL EXAMPLES
+Recently, researchers have discovered that the state-of-the-art object classifiers can be fooled easily by small perturbations in the input unnoticeable to human eyes.  It is known that an attacker can generate strong adversarial examples if she knows the classifier parameters. Conversely, a defender can robustify the classifier by retraining if she has the adversarial examples. 
+The cat-and-mouse game nature of attacks and defenses raises the question of the presence of equilibria in the dynamics.
+In this paper, we present a neural-network based attack class to approximate a larger but intractable class of attacks, and 
+formulate the attacker-defender interaction as a zero-sum leader-follower game. We present sensitivity-penalized optimization algorithms to find minimax solutions, which are the best worst-case defenses against whitebox attacks. Advantages of the learning-based attacks and defenses compared to gradient-based attacks and defenses are demonstrated with MNIST and CIFAR-10.

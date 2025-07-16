@@ -1,0 +1,2 @@
+Schauder bases and the bounded approximation property in separable Banach spaces
+Let E be a separable Banach space with the -bounded approximation property. We show that for each > 0 there is a Banach space F with a Schauder basis such thatE is isometrically isomorphic to a 1-complemented subspace ofF and, moreover, the sequence (Tn) of canonical projections in F has the properties sup2N kTnk + and limsup n!1 kTnk :

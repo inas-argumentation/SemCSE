@@ -1,0 +1,2 @@
+Subgame perfect implementation: A necessary and almost sufficient condition
+We present a necessary and almost sufficient condition for subgame perfect implementation of social choice correspondences. In societies with at least three individuals, any social choice correspondence which satisfies no veto power and our necessary Condition α is subgame perfect implementable. Thus Condition α is analogous to monotonicity which, by Maskin's celebrated characterization, is necessary and, in a similar way, almost sufficient for Nash implementation.

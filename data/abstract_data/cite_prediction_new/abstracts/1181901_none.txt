@@ -1,0 +1,2 @@
+Social Choice and Networks Lecture Date : October 5 , 2010 Lecture : Errors in Binary Voting
+According to this definition, there are two candidates, namely −1 and 1, and there are n voters casting their direct votes for each candidate. The function f receives a configuration of votes and determines the outcome. As in the previous lectures, we have some natural assumptions about the function f . Definition 2. A voting scheme is monotone if for each x, y ∈ {−1, 1} we have x ≥ y =⇒ f(x) ≥ f(y). Here x ≥ y means that xi ≥ yi for each i.

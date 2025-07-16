@@ -1,0 +1,15 @@
+Fully automated nipple detection in digital breast tomosynthesis
+BACKGROUND AND OBJECTIVE
+We propose a nipple detection algorithm for use with digital breast tomosynthesis (DBT) images. DBT images have been developed to overcome the weaknesses of 2D mammograms for denser breasts by providing 3D breast images. The nipple location acts as an invaluable landmark in DBT images for aligning the right and left breasts and describing the relative location of any existing lesions.
+
+
+METHODS
+Nipples may be visible or invisible in a breast image, and therefore a nipple detection method must be able to detect the nipples for both cases. The detection method for visible nipples based on their shape is simple and highly efficient. However, it is difficult to detect invisible nipples because they do not have a prominent shape. Fibroglandular tissue in a breast is anatomically connected with the nipple. Thus, the nipple location can be detected by analyzing the location of such tissue. In this paper, we propose a method for detecting the location of both visible and invisible nipples using fibroglandular tissue and changes in the breast area.
+
+
+RESULTS
+Our algorithm was applied to 138 DBT images, and its nipple detection accuracy was evaluated based on the mean Euclidean distance. The results indicate that our proposed method achieves a mean Euclidean distance of 3.10±2.58mm.
+
+
+CONCLUSIONS
+The nipple location can be a very important piece of information in the process of a DBT image registration. This paper presents a method for the automatic nipple detection in a DBT image. The extracted nipple location plays an essential role in classifying any existing lesions and comparing both the right and left breasts. Thus, the proposed method can help with computer-aided detection for a more efficient DBT image analysis.

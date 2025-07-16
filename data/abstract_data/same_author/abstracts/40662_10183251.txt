@@ -1,0 +1,2 @@
+Approximating low-congestion routing and column-restricted packing problems
+Abstract We contribute to a body of research asserting that the fractional and integral optima of column-sparse integer programs are “nearby”. This yields improved approximation algorithms for some generalizations of the knapsack problem, with applications to low-congestion routing in networks, file replication in distributed databases, and other packing problems.

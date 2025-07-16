@@ -1,0 +1,2 @@
+Modified P&O MPPT technique for photovoltaic systems
+Maximum power point tracking (MPPT) techniques are widely applied in photovoltaic system to produce the maximum power of the PV generator. In this paper, we presented a modified variable step size P&O MPPT algorithm. The proposed method can greatly improve the response time and precision MPPT steady state simultaneously. The proposed approach has been tested in MATLAB / Simulink environment, and the results show that the new algorithm is more accurate and faster than the traditional P&O method.

@@ -1,0 +1,2 @@
+Specific heat at constant volume in the thermodynamic model
+A thermodynamic model for multifragmentation which is frequently used appears to give very different values for specific heat at constant volume depending upon whether canonical or grand canonical ensemble is used. The cause for this discrepancy is analysed.

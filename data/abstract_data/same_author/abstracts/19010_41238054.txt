@@ -1,0 +1,2 @@
+PEP Insertion Quadrupole Design Features
+The insertion quadrupoles for the PEP storage ring must have a very uniform gradient to focus the circulating beams to a very small size at the interaction point for high luminosity. Quads have been built which achieve the desired field within the full pole aperture radius to approximately one part in 104. The design features which permitted this achievement are described.

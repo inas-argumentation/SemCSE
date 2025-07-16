@@ -1,0 +1,2 @@
+A note about shortest cycle covers
+Let G be a graph with odd edge-connectivity r. It is proved in this paper that if r>3, then G has a 3-cycle (1,2)-cover of total length at most ((r+1)|E(G)|)/r.

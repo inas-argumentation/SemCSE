@@ -1,0 +1,7 @@
+The metric space of proteins-comparative study of clustering algorithms
+MOTIVATION
+A large fraction of biological research concentrates on individual proteins and on small families of proteins. One of the current major challenges in bioinformatics is to extend our knowledge to very large sets of proteins. Several major projects have tackled this problem. Such undertakings usually start with a process that clusters all known proteins or large subsets of this space. Some work in this area is carried out automatically, while other attempts incorporate expert advice and annotation.
+
+
+RESULTS
+We propose a novel technique that automatically clusters protein sequences. We consider all proteins in SWISSPROT, and carry out an all-against-all BLAST similarity test among them. With this similarity measure in hand we proceed to perform a continuous bottom-up clustering process by applying alternative rules for merging clusters. The outcome of this clustering process is a classification of the input proteins into a hierarchy of clusters of varying degrees of granularity. Here we compare the clusters that result from alternative merging rules, and validate the results against InterPro. Our preliminary results show that clusters that are consistent with several rather than a single merging rule tend to comply with InterPro annotation. This is an affirmation of the view that the protein space consists of families that differ markedly in their evolutionary conservation.

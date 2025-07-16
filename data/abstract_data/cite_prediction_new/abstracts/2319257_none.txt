@@ -1,0 +1,2 @@
+A Fault Diagnosis Method for Analog Circuit Based on GRBF Network and Frequency Spectrum Analysis
+GRBF neural network and frequency spectrum analysis are applied to fault diagnosis for component of power electronic equipment in certain facility. By collecting the voltage signals of key points and proceeding Fourier analysis, the structural parameters of GRBF network are determined. Fault determination mode is established. Both experimental and simulation results show that the proposed method is feasible.

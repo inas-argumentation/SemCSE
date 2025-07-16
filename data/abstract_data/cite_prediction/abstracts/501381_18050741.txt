@@ -1,0 +1,2 @@
+Algorithms for Unevenly Spaced Time Series : Moving Averages and Other Rolling Operators
+This paper describes algorithms for efficiently calculating certain rolling time series operators for unevenly spaced data. In particular, we show how to calculate simple moving averages (SMAs), exponential moving averages (EMAs), and related operators in linear time with respect to the number of observations in a time series. A web appendix provides an implementation of these algorithms in the programming language C and a package (forthcoming) for the statistical software R.

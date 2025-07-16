@@ -1,0 +1,2 @@
+Fault diameter of Cartesian product graphs
+The (k-1)-fault diameter D"k(G) of a k-connected graph G is the maximum diameter of G-F for any F@?V(G) with |F|=1 for i=1,2.

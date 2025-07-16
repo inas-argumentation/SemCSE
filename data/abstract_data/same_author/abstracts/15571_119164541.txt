@@ -1,0 +1,2 @@
+Efficient, reliable and fast high-level triggering using a bonsai boosted decision tree
+High-level triggering is a vital component of many modern particle physics experiments. This paper describes a modification to the standard boosted decision tree (BDT) classifier, the so-called bonsai BDT, that has the following important properties: it is more efficient than traditional cut-based approaches; it is robust against detector instabilities, and it is very fast. Thus, it is fit-for-purpose for the online running conditions faced by any large-scale data acquisition system.

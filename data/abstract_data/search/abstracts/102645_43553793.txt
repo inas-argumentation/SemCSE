@@ -1,0 +1,2 @@
+Team/Goal Keeper Coordination in the RoboCup Mid Size League
+In this paper we describe the coordination strategies that were designed to achieve effective cooperation between a robot goal keeper and the rest of the ART (Azzurra Robot Team) team that participates in the RoboCup F 2000 (mid size) competitions. The paper introduces the multi robot environment on which cooperation in ART is based and, in particular, its communication sub system. Some case studies and the results of their application in the ART team are then described.

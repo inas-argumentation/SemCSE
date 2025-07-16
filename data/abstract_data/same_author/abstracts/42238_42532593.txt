@@ -1,0 +1,2 @@
+A Sound and Complete Fuzzy Logic System Using Zadeh's Implication Operator
+We present a formalization of fuzzy logic based on Zadeh's implication operator a→b=max{1-a, b}. Our logical system allows the specification of both lower and upper bounds of the truth value of a formula. We present a specific system of axioms and inference rules which are both sound and complete. We also provide a generalization of the classical resolution method which acts as a decision procedure in a finite fuzzy theory.

@@ -1,0 +1,2 @@
+Verifying Web Services Composition: A Transformation-Based Approach
+Web services composition is an emerging paradigm for enabling application integration. BPEL is a promising language describing composition in form of business processes, but is lack of sound formal semantic. This paper presents the transformation of BPEL to CP-nets in a constructive way. Therefore we can translate composition specified in BPEL into CPnets, which can be analyzed and verified by many specialized tools. So we make tool support available for verifying BPEL composition.

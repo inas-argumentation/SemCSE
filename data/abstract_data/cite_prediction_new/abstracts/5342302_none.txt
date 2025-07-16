@@ -1,0 +1,2 @@
+On the "Local-to-Global" Issue in Self-Organisation: Chemical Reactions with Custom Kinetic Rates
+The "local-to-global" issue in self-organisation is about finding a way to engineer local mechanisms according to the emergent, global behaviour desired for the system at hand. In this paper, we propose an approach to deal with such issue, by modelling the local mechanisms as artificial chemical reactions and by carefully designing their kinetic rates as "custom" functional expressions.

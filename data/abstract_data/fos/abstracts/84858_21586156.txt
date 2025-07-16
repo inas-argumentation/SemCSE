@@ -1,0 +1,15 @@
+SU-E-T-54: Dosimetric Verification of Monte Carlo Dose Calculations for a GammaMed HDR 192Ir Brachytherapy Source Using Various Detector Types, and Non-Reference Condition Correction Factors KNR.
+PURPOSE
+To dosimetrically verify a Monte Carlo model of a GammaMed HDR brachytherapy source using various detector types, namely an unshielded diode (EDD-5), a semiflex air-filled ion chamber (PTW Freiburg), a TLD type 100H (LiF:Mg,Cu,P) and a radiochromic EBT3 film. The applicability of the sensitivity correction factor kNR, correcting the spectral dependence of the detector response, was investigated for the diode and TLD detectors.
+
+
+METHODS
+The EGSnrc Monte Carlo program was used to model the source and to compute lateral dose profiles and photon fluence spectra within a water phantom of dimensions (Radius = 20 cm, Height =40 cm). Special detector holders were constructed for the dosimetric verification of the source using four different detector types. Factor kNR was calculated using the ratio of the weighted responses Yt of a given detector t at radial distance r = 1 cm from the source and that under non-reference conditions x (other off-axis points); kNR = Yt(xref)/Yt(x). Gamma index 3%, 3mm was used to compare measured against Monte Carlo profiles.
+
+
+RESULTS
+Between radial positions from 1-10 cm from the source, the average deviation of measurements from Monte Carlo simulations using the gamma criterion were (values in braces); diode (0.46), semiflex (0.69), TLD 100H (1.6) and EBT3 (0.44). Considering measurement points closer to the source, the lowest average deviations were obtained with the semiflex chamber despite possible dose averaging effects. Precise dosimetry at the source surface is challenging, for example due to problems by water diffusion into the film.
+
+
+CONCLUSION
+The modeled GammaMed HDR has been successfully validated in a medium-sized cylindrical water phantom. This study demonstrates that the semiflex chamber is suitably applicable without kNR corrections, while the unshielded diode or TLD 100H are equivalently applicable for high-precission measurements on application of kNR.

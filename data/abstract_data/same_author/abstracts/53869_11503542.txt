@@ -1,0 +1,6 @@
+Monitoring Continuous Band-Join Queries over Dynamic Data
+A continuous query is a standing query over a dynamic data set whose query result needs to be constantly updated as new data arrive. We consider the problem of constructing a data structure on a set of continuous band-join queries over two data sets R and S, where each band-join query asks for reporting the set { (r,s)∈ R× S | a≤ r–s≤ b} for some parameters a and b, so that given a data update in R or S, one can quickly identify the subset of continuous queries whose results are affected by the update, and compute changes to these results. 
+ 
+We present the first nontrivial data structure for this problem that simultaneously achieves subquadratic space and sublinear query time. This is achieved by first decomposing the original problem into two independent subproblems, and then carefully designing data structures suitable for each case, by exploiting the particular structure in each subproblem. 
+ 
+A key step in the above construction is a data structure whose performance increases with the degree of clusteredness of the band-joins being indexed. We believe that this structure is of independent interest and should have broad impact in practice. We present the details in [1].

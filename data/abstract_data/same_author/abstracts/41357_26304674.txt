@@ -1,0 +1,2 @@
+A Framework for Defining Distances Between First-Order Logic Objects
+Several learning systems, such as systems based on clustering and instance based learning, use a measure of distance between objects. Good measures of distance exist when objects are described by a fixed set of attributes as in attribute value learners. More recent learning systems however, use a first order logic representation. These systems represent objects as models or clauses. This paper develops a general framework for distances between such objects and reports a preliminary evaluation.

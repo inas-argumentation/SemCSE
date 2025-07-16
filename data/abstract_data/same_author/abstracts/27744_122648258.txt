@@ -1,0 +1,2 @@
+Solutions of Diophantine equations and degree-one polynomial zeros of Racah coefficients
+It is shown that the complete set of polynomial zeros of degree one of the Racah coefficients can be obtained only from the full eight-parameter solution of the multiplicative Diophantine equation: xyz=uvw subject to the constraint z=x+y+u+v+w. All other parametric solutions obtained are shown to represent only proper subsets of the complete set.

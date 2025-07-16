@@ -1,0 +1,2 @@
+A new iteration method for the matrix equation AX=B
+An iteration method for the matrix equation AX=B is constructed. By this iteration method, the least-norm solution for the matrix equation can be obtained when the matrix equation is consistent and the least-norm least-squares solutions can be obtained when the matrix equation is not consistent. The related optimal approximation solution is also obtained by this iteration method. A preconditioned method for improving the iteration rate is put forward. Finally, some numerical examples are given.

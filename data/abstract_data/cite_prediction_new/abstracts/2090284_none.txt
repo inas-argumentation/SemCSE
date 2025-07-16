@@ -1,0 +1,2 @@
+Comparisons of 6LoWPAN Implementations on Wireless Sensor Networks
+This paper introduces our work on the communication stack of wireless sensor networks. We present the IPv6 approach for wireless sensor networks called 6LoWPAN in its IETF charter. We then compare the different implementations of 6LoWPAN subsets for several sensor nodes platforms. We present our approach for the 6LoWPAN implementation which aims to preserve the advantages of modularity while keeping a small memory footprint and a good efficiency.

@@ -1,0 +1,2 @@
+Lattice Modeling for SPEAR3
+We use measured or simulated magnetic fields for dipoles and quadrupoles to build a lattice model for SPEAR3. In a non-symplectic approach the phase space coordinate mapping on the fields is based on numerical integration of the equation of motion. In a symplectic approach we approximate the fields with proper fringe field models. Complication of the use of rectangular gradient dipoles in SPEAR3 is considered. Results of the model is compared to measurements on the real machine.

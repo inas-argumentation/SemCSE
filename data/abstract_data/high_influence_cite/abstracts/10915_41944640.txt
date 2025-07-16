@@ -1,0 +1,15 @@
+Patient selection for cardiac surgery: Time to consider subgroups within risk categories?
+BACKGROUND
+Medical guidelines increasingly use risk stratification and implicitly assume that individuals classified in the same risk category form a homogeneous group, while individuals with similar, or even identical, predicted risks can still be very different. We evaluate a strategy to identify homogeneous subgroups typically comprising predicted risk categories to allow further tailoring of treatment allocation and illustrate this strategy empirically for cardiac surgery patients with high postoperative mortality risk.
+
+
+METHODS
+Using a dataset of cardiac surgery patients (n=6517) we applied cluster analysis to identify homogenous subgroups of patients comprising the high postoperative mortality risk group (EuroSCORE ≥ 15%). Cluster analyses were performed separately within younger (<75 years) and older (≥ 75 years) patients. Validity measures were calculated to evaluate quality and robustness of the identified subgroups.
+
+
+RESULTS
+Within younger patients two distinct and robust subgroups were identified, differing mainly in preoperative state and indication of recent myocardial infarction or unstable angina. In older patients, two distinct and robust subgroups were identified as well, differing mainly in preoperative state, presence of chronic pulmonary disease, previous cardiac surgery, neurological dysfunction disease and pulmonary hypertension.
+
+
+CONCLUSIONS
+We illustrated a feasible method to identify homogeneous subgroups of individuals typically comprising risk categories. This allows a single treatment strategy--optimal only on average, across all individuals in a risk category--to be replaced by subgroup-specific treatment strategies, bringing us another step closer to individualized care. Discussions on allocation of cardiac surgery patients to different interventions may benefit from focusing on such specific subgroups.

@@ -1,0 +1,2 @@
+Renormalization-group transformations on quantum states.
+We construct a general renormalization-group transformation on quantum states, independent of any Hamiltonian dynamics of the system. We illustrate this procedure for translational invariant matrix product states in one dimension and show that product, Greenberger-Horne-Zeilinger, W, and domain wall states are special cases of an emerging classification of the fixed points of this coarse-graining transformation.

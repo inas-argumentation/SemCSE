@@ -1,0 +1,2 @@
+A Hausman test with trending data
+Abstract A simple Hausman test for errors in variables is investigated when there is a trend in the data. It is shown that both the asymptotic null distribution and the consistency of the test remain intact in this non-standard situation.

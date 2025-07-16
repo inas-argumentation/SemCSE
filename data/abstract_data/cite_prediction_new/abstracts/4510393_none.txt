@@ -1,0 +1,2 @@
+Giving More Adaptation Flexibility to Authors of Adaptive Assessments
+In this paper, we present AthenaQTI, a tool for authoring personalized assessments, which gives the author significant flexibility in terms of the adaptation that s/he can incorporate in the assessments s/he builds. We focus on presenting the functionality of the authoring environment and the tool’s conformance to the IMS- QTI specification, a fact that gives it the advantage of interoperability. Furthermore, we briefly describe the user model and the philosophy of its manipulation.

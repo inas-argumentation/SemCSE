@@ -1,0 +1,2 @@
+Gaussian radial basis functions and the approximation of input–output maps
+Radial basis functions are of interest in connection with a variety of approximation problems in the neural networks area, and in other areas as well. Here we show that the members of some interesting families of shift‐varying input–output maps, that take a function space into a function space, can be uniformly approximated, over an infinite time or space domain, in a certain special way using Gaussian radial basis functions. Copyright © 2003 John Wiley & Sons, Ltd.

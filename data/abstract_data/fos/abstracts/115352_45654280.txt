@@ -1,0 +1,2 @@
+Existence results for a nonlinear transport equation in bounded geometry on L1-spaces
+In the paper (Latrach, 2001) [22] the existence of solutions to the boundary value problem (1) , (2) was discussed on L p spaces for p ∈ ( 1 , ∞ ) in bounded geometry. Due to the lack of compactness on L 1 -spaces, the analysis did not cover the case p = 1 . The purpose of this work is to extend the results of [22] to the case p = 1 . Our analysis uses the concept of Dunford–Pettis operators and a new version of the Darbo fixed point theorem for the measure of weak noncompactness.

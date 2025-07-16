@@ -1,0 +1,2 @@
+Competition graphs of semiorders and the conditions C(p) and C*(p)
+Given a digraph D, its competition graph has the same vertex set and an edge between two vertices x and y if there is a vertex u so that (x, u) and (y, u) are arcs of D. Motivated by a problem of communications, we study the competition graphs of the special digraphs known as semiorders. This leads us to define a conditions on digraphs called C(p) and C(p) and to study the graphs arising as competition graphs of acyclic digraphs satisfying conditions C(p) or C∗(p).

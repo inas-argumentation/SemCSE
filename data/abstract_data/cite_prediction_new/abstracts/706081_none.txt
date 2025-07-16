@@ -1,0 +1,5 @@
+Heimdal and Windows 2000 Kerberos - How to Get Them to Play Together
+As a practical means of achieving better security and single sign-on, the Kerberos network authentication system has been in wide use in the Unix world for many years. 
+Microsoft has included its own implementation in Windows 2000, replacing the NTLM authentication system from older Windows NT versions. This facilitates sharing account information between Unix and Windows machines, as there is no need to keep different passwords. 
+ 
+Although Microsoft's Kerberos implementation mostly follows the specification, there are a number of deviations and extensions, not all of which are well documented. Consequently, it is not always obvious how to fit Windows 2000 clients and servers into an existing Kerberos environment. In this paper we discuss the differences between the two systems and describe how we got our Kerberos implementation, Heimdal, to work with Windows 2000.

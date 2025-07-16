@@ -1,0 +1,2 @@
+Bayesian Estimation for Deformed Modified Power Series Distribution
+In this article, posterior distribution, posterior moments, and predictive distribution for the modified power series distributions deformed at any of a support point under linex and generalized entropy loss function are derived. It is assumed that the prior information can be summarized by a uniform, Beta, two-sided power, Gamma, or generalized Pareto distributions. The obtained results are demonstrated on the generalized Poisson and the generalized negative binomial distribution deformed at a given point.

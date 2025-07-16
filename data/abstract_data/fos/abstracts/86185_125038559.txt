@@ -1,0 +1,2 @@
+Exact Interval Estimation for the Scale Family Under General Progressive Type-II Censoring
+In this article, we consider a general progressively Type-II censored life test where the lifetime distribution of each test unit belongs to the scale family. We derive an exact confidence interval for the scale parameter. Using Monte Carlo simulation method, we assess the expected lower and upper limits of the proposed confidence interval for the exponential distribution. Finally, we present a numerical example to illustrate the proposed procedure.

@@ -1,0 +1,2 @@
+Approximate Matrix and Tensor Diagonalization by Unitary Transformations: Convergence of Jacobi-Type Algorithms
+We propose a gradient-based Jacobi algorithm for a class of maximization problems on the unitary group, with a focus on approximate diagonalization of complex matrices and tensors by unitary transformations. We provide weak convergence results, and prove local linear convergence of this algorithm.The convergence results also apply to the case of real-valued tensors.

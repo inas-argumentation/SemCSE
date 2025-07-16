@@ -1,0 +1,15 @@
+A N0 Predicting Model for Sentinel Lymph Node Biopsy Omission in Early Breast Cancer Upstaged From Ductal Carcinoma in Situ.
+BACKGROUND
+A prediction model with high sensitivity for the detection of negative axillary involvement can reduce additional axillary surgery in patients with ductal carcinoma in situ (DCIS) upstaged to invasive cancer while saving patients with pure DCIS from unnecessary axillary surgeries. Using a nationwide database, we developed and validated a scoring system for guidance in selective sentinel lymph node biopsy omission.
+
+
+PATIENTS AND METHODS
+A total of 41,895 patients with clinically node-negative breast cancer from the Korean Breast Cancer Registry were included. The study cohort was randomly divided for the development and validation of the prediction model. Missing data were filled in using multiple imputation. Factors that were significantly associated with axillary lymph node (ALN) metastasis in > 50% of datasets were included in the final prediction model.
+
+
+RESULTS
+The frequency of ALN metastasis in the total cohort was 24.5%. After multivariable logistic regression analysis, variables that were associated with ALN metastasis were palpability, multifocality, location, size, histologic type, grade, lymphovascular invasion, hormone receptor expression, and Ki-67 level. A scoring system was developed using these factors. The areas under the receiver operating characteristic curve for the scoring system was 0.750 in both training and validating sets. The cutoff value for performing sentinel lymph node biopsy was determined as a score of 4 to obtain prediction sensitivity higher than 95%.
+
+
+CONCLUSIONS
+A scoring system to predict the probability of ALN metastasis was developed and validated. The application of this system in the clinic may reduce unnecessary axillary surgeries in patients with DCIS and minimize additional axillary surgery for upstaged patients with invasive cancer.

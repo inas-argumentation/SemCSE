@@ -1,0 +1,2 @@
+An investigation of the information contained in faulty signatures
+Abstract This paper describes a new method of analyzing faulty signatures from both single input and multiple input signature registers (MISRs). In particular, the information contained in the faulty signature of an MISR is investigated. The matrix formulation presents an alternative method of determining the relationship between an error and its syndrome for diagnostic purposes. The results provide new insights into applying MISRs for Built-In Self Test.

@@ -1,0 +1,2 @@
+Research and Implementation of Zero-If CDMA RF Transmitter
+This paper analyzes the RF transmitter architectures for mobile phone systems,firstly.Then,theoretical analysis and system simulations with the tool of ADS software are taken carefully aimed at the key technologies of Zero-If architecture.Finally,a practical scheme of Zero-If transmitter architecture for CDMA mobile communication experiment system is proposed with emphasis on the key parameters and design methods.

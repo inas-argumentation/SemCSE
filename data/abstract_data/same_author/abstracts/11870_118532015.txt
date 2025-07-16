@@ -1,0 +1,2 @@
+Covariant formulations of BSSN and the standard gauge
+The BSSN and standard gauge equations are written in covariant form with respect to spatial coordinate transformations. The BSSN variables are defined as tensors with no density weights. This allows us to evolve a given set of initial data using two different coordinate systems and to relate the results using the familiar tensor transformation rules. Two variants of the covariant equations are considered. These differ from one another in the way that the determinant of the conformal metric is evolved.

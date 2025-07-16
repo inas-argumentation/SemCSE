@@ -1,0 +1,2 @@
+Extending Finite Model Searching with Congruence Closure Computation
+The model generation problem, regarded as a special case of the Constraint Satisfaction Problem (CSP), has many applications in AI, computer science and mathemstics. In this paper, we describe how to increase propagation of constraints by using the ground congruence closure algorithm. The experimental results show that using the congruence closure algorithm can reduce the search space for some benchmark problems.

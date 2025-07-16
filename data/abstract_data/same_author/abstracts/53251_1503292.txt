@@ -1,0 +1,2 @@
+A Potential IRI Based Phishing Strategy
+We anticipate a potential phishing strategy by obfuscation of Web links using Internationalized Resource Identifier (IRI). In the IRI scheme, the glyphs of many characters look very similar while their Unicodes are different. Hence, certain different IRIs may show high similarity. The potential phishing attacks based on this strategy are very likely to happen in the near future with the boosting utilization of IRI. We report this potential phishing strategy to provoke much further dissections of related counter measures.

@@ -1,0 +1,10 @@
+Relational Learning with Variational Bayes
+In psychology, relational learning refers to the ability to recognize and respond to
+relationship among objects irrespective of the nature of those objects. Relational
+learning has long been recognized as a hallmark of human cognition and a key
+question in artificial intelligence research. In this work, we propose an unsupervised
+learning method for addressing the relational learning problem where we
+learn the underlying relationship between a pair of data irrespective of the nature
+of those data. The central idea of the proposed method is to encapsulate the relational
+learning problem with a probabilistic graphical model in which we perform
+inference to learn about data relationships and other relational processing tasks.

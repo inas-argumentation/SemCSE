@@ -1,0 +1,2 @@
+Irradiated Silicon Gate MOS Device Bias Annealing
+N-channel silicon gate MOS transistors exhibit positive threshold shifts when bias annealed following ionizing irradiation exposure. The threshold shift is probably due to electrons tunneling into the oxide and recombining at trapping centers near the Si/Sio2 interface. The threshold shifts are large enough in some cases to cause functional failures of MOS integrated circuits.

@@ -1,0 +1,2 @@
+The Equivalence of Maximum Likelihood and Weighted Least Squares Estimates in the Exponential Family
+In this article it is shown that weighted least squares estimators for the coefficients of a multiple regression model are the same as the maximum likelihood estimators when the dependent observations are from a member of the regular exponential class of distributions.

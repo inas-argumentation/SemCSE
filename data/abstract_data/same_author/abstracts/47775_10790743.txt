@@ -1,0 +1,2 @@
+Efficient string matching algorithms for combinatorial universal denoising
+Inspired by the combinatorial denoising method DUDE, we present efficient algorithms for implementing this idea for arbitrary contexts or for using it within subsequences. We also propose effective, efficient denoising error estimators so we can find the best denoising of an input sequence over different context lengths. Our methods are simple, drawing from string matching methods and radix sorting. We also present experimental results of our proposed algorithms.

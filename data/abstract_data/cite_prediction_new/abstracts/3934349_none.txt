@@ -1,0 +1,2 @@
+APOPCALEAPS: Automatic Music Generation with CHRiSM
+We present a new system for automatic music generation, in which music is modeled using very high level probabilistic rules. The probabilistic parameters can (at least in principle) be learned automatically from examples, resulting in a system for personalized music generation.

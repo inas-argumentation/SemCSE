@@ -1,0 +1,2 @@
+MILS-related information flow control in the avionic domain: A view on security-enhancing software architectures
+Electronic architectures in the aerospace domain get more and more integrated and interconnected due to functional and architectural reasons. Such a tight integration raises the need to control information flows between different security domains on-board and off-board aircraft.

@@ -1,0 +1,2 @@
+Exact solution of a reaction-diffusion process with three-site interactions
+The one-dimensional reaction diffusion process AA→A and A∅A→AAA is exactly solvable through the empty interval method if the diffusion rate equals the coagulation rate. Independently of the particle production rate, the model is always in the universality class of diffusion-annihilation. This allows us to check analytically the universality of finite-size scaling in a non-equilibrium critical point.

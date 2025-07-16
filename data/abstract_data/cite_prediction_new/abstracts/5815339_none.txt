@@ -1,0 +1,2 @@
+Effective Methods to Avoid the Internet Censorship
+We speculated the techniques used by Internet censorship and compared the general methods to break through, including VPN, SSH, IPV6, proxy tools, hosts file modify and web proxy. A new method we called Proxy Pool was put forward in this paper. All our experiments were done under Internet censorship.

@@ -1,0 +1,19 @@
+Efficiently applying attention to sequential data with the Recurrent Discounted Attention unit
+Recurrent Neural Networks architectures excel at processing sequences by
+modelling dependencies over different timescales. The recently introduced
+Recurrent Weighted Average (RWA) unit captures long term dependencies
+far better than an LSTM on several challenging tasks. The RWA achieves
+this by applying attention to each input and computing a weighted average
+over the full history of its computations. Unfortunately, the RWA cannot
+change the attention it has assigned to previous timesteps, and so struggles
+with carrying out consecutive tasks or tasks with changing requirements.
+We present the Recurrent Discounted Attention (RDA) unit that builds on
+the RWA by additionally allowing the discounting of the past.
+We empirically compare our model to RWA, LSTM and GRU units on
+several challenging tasks. On tasks with a single output the RWA, RDA and
+GRU units learn much quicker than the LSTM and with better performance.
+On the multiple sequence copy task our RDA unit learns the task three
+times as quickly as the LSTM or GRU units while the RWA fails to learn at
+all. On the Wikipedia character prediction task the LSTM performs best
+but it followed closely by our RDA unit. Overall our RDA unit performs
+well and is sample efficient on a large variety of sequence tasks.

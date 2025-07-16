@@ -1,0 +1,14 @@
+GenEval: A Benchmark Suite for Evaluating Generative Models
+Generative models are important for several practical applications, from low level image processing tasks, to model-based planning in robotics. More generally,
+the study of generative models is motivated by the long-standing endeavor to model uncertainty and to discover structure by leveraging unlabeled data.
+Unfortunately, the lack of an ultimate task of interest has hindered progress in the field, as there is no established way to
+compare models and, often times, evaluation is based on mere visual inspection of samples drawn from such models.
+
+In this work, we aim at addressing this problem by introducing a new benchmark evaluation suite, dubbed \textit{GenEval}.
+GenEval hosts a large array of distributions capturing many important
+properties of real datasets, yet in a controlled setting, such as lower intrinsic dimensionality, multi-modality, compositionality,
+independence and causal structure. Any model can be easily plugged for evaluation, provided it can generate samples.
+
+Our extensive evaluation suggests that different models have different strenghts, and that GenEval is a great tool to gain insights about how models and metrics work.
+We offer GenEval to the community~\footnote{Available at: \it{coming soon}.} and believe that this benchmark will facilitate comparison and development of
+new generative models.

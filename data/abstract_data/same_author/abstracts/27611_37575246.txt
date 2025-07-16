@@ -1,0 +1,2 @@
+Adiabatic quantum computation and Deutsch's algorithm
+We show that by a suitable choice of a time-dependent Hamiltonian, Deutsch's algorithm can be implemented by an adiabatic quantum computer. We extend our analysis to the Deutsch-Jozsa problem and estimate the required running time for both global and local adiabatic evolutions.

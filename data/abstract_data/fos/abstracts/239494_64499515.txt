@@ -1,0 +1,2 @@
+The Principle of Attack by Guessing the Sequence Number of TCP and it's Counter Measures
+In this article through analyzing of the process of TCP connection, the author tries to probe the attack by the way of guessing TCP sequence number and puts for ward a series of counter measures we should take to protect our computers from begng attacked by the Black Guest using this method.

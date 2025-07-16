@@ -1,0 +1,2 @@
+Linearization method for finding Cramer-Rao bounds in signal processing
+A new approach for finding and interpreting Cramer-Rao bounds in signal processing is presented in this correspondence. Using the linearization method in nonlinear models and the decoupling technique in linear models, the new method simplifies the burdensome derivations in finding Cramer-Rao bounds and offers insight to their interpretations.

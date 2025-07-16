@@ -1,0 +1,2 @@
+Clustering Web Surfers with Probabilistic Models in a Real Application
+The problem of modeling and predicting a Web surfer's browsing patterns has gained increasing attention in recent years. In this paper we present our experience in clustering Web surfers using a mixture of Markov models with a real application of Livelink log data. We propose different techniques to improve the clustering performance, and evaluate the techniques through experiments.

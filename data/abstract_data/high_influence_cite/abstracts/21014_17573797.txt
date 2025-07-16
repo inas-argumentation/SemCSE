@@ -1,0 +1,2 @@
+A simulation model for Nakagami-m fading channels, m<1
+This paper proposes a mathematical model for simulating a Nakagami-m (1960) fading channel, m<1. It is shown that the m fading process can be expressed as a product of a square-root-beta process and a complex Gaussian process. Extension of the proposed model to simulate correlated diversity channels is also given. Numerical results demonstrate that the statistical properties of the samples generated from the proposed model are close to the required ones.

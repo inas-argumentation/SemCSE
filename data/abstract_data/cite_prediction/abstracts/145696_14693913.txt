@@ -1,0 +1,2 @@
+Feature Subset Selection Using a Genetic Algorithm
+Practical pattern classi cation and knowledge discovery problems require selection of a subset of attributes or features (from a much larger set) to represent the patterns to be classi ed. This paper presents an approach to the multi-criteria optimization problem of feature subset selection using a genetic algorithm. Our experiments demonstrate the feasibility of this approach for feature subset selection in the automated design of neural networks for pattern classi cation and knowledge discovery.

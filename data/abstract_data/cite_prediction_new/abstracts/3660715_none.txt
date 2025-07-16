@@ -1,0 +1,2 @@
+Homeplug-AV CSMA/CA Evaluation in a Real In-Building Scenario
+This letter proposes an extension of the HomePlug-AV CSMA/CA mathematical model. The existing models do not take into account the existence of different transmission rates between each transmitter-receiver pair. These differences are due to the modulation and coding used by the transmitter to overcome the channel limitations. The proposed model is evaluated by means of simulation in an in-building scenario.

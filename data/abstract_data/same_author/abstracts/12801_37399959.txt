@@ -1,0 +1,2 @@
+Evolution in opening angle combining DGLAP and BFKL logarithms
+We present an evolution equation which simultaneously sums the leading BFKL and DGLAP logarithms for the integrated gluon distribution in terms of a single variable, namely the emission angle of the gluon. This form of evolution is appropriate for Monte Carlo simulations of events of high energy $$pp$$pp (and $$p\bar{p}$$pp¯) interactions, particularly where small $$x$$x events are sampled.

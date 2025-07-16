@@ -1,0 +1,2 @@
+Classifier chains for multi label classification
+The widely known binary relevance method for multi label classification, which considers each label as an independent binary problem, has often been overlooked in the literature due to the perceive.

@@ -1,0 +1,2 @@
+A Polynomial Algorithm for Homomorphisms to Oriented Cycles
+W. Gutjahr, E. Welzl, and G. Woeginger have given a polynomial time algorithm to decide whether a given digraph is homomorphic to an oriented path. The corresponding problem for oriented cycles (i.e., given a digraph G, is it homomorphic to a fixed oriented cycle C?) remained open. We prove that if C is an unbalanced cycle then this problem is polynomial time decidable.

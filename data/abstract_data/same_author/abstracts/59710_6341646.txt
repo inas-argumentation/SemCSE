@@ -1,0 +1,2 @@
+The Number of Spanning Trees in Regular Graphs
+Let C(G) denote the number of spanning trees of a graph G. It is shown that there is a function ϵ(k) that tends to zero as k tends to infinity such that for every connected, k-regular simple graph G on n vertices C(G) = {k[1 − δ(G)]}n. where 0 ≤ δ(G) ≤ ϵ(k).

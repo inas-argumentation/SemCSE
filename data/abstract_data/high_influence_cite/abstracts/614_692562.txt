@@ -1,0 +1,2 @@
+Local and Distributed Rendezvous of Underactuated Rigid Bodies
+This paper solves the rendezvous problem for a network of underactuated rigid bodies such as quadrotor helicopters. A control strategy is presented that makes the centres of mass of the vehicles converge to an arbitrarily small neighborhood of one another. The convergence is global, and each vehicle can compute its own control input using only an on-board camera and a three-axis rate gyroscope. No global positioning system is required, nor any information about the vehicles' attitudes.

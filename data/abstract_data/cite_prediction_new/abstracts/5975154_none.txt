@@ -1,0 +1,2 @@
+EFFICIENT METHOD FOR REDUNDANCY RESOLUTION OF A 7 DOF MANIPULATOR
+In this paper we are presenting a method to solve the inverse kinematics problem of a redundant manipulator with seven degrees of freedom and a human like workspace based on mathematical equations, Fuzzy Logic implementation and Simulink models. For better visualization of the kinematics simulation a CAD model that mimics the real robotic arm was created into SolidWorks® and then the CAD parts were converted into SimMechanics model.

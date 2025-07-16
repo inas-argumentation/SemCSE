@@ -1,0 +1,4 @@
+Learning Private Representations with Focal Entropy
+How can we learn a representation with good predictive power while preserving user privacy?
+We present an adversarial representation learning method to sanitize sensitive content from the representation in an adversarial fashion.
+Specifically, we propose focal entropy - a variant of entropy embedded in an adversarial representation learning setting to leverage privacy sanitization. Focal entropy enforces maximum uncertainty in terms of confusion on the subset of privacy-related similar classes, separated from the dissimilar ones. As such, our proposed sanitization method yields deep sanitization of private features yet is conceptually simple and empirically powerful. We showcase feasibility in terms of classification of facial attributes and identity on the CelebA dataset as well as CIFAR-100. The results suggest that private components can be removed reliably. 

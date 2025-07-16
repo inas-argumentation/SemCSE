@@ -1,0 +1,2 @@
+Automatic parallel parking with geometric continuous-curvature path planning
+This paper presents the experimental results of our path planning for a passenger vehicle in parallel parking problems. The generation of the path planning consists in two parts: create a simple geometric path for the parallel parking in one or more maneuvers by circle arcs and then transform it into a continuous-curvature path with the use of clothoids. Experimental results of the parking and of the localization of the vehicle confirm the chosen approach.

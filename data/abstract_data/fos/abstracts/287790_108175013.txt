@@ -1,0 +1,2 @@
+Low cost photomultiplier high-voltage readout system. [Large aperture solenoid spectrometer at SLAC]
+A low-cost high-voltage readout system has been implemented to offer stand-alone digital readout capability as well as fast data transfer to a host computer. The system is flexible enough to permit use of a DVM or ADC and commercially available analogue multiplexers.

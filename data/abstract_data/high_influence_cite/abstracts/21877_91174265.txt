@@ -1,0 +1,20 @@
+Version 2 of the EUMETSAT OSI SAF and ESA CCI sea-ice concentration climate data records
+. We introduce the OSI-450, the SICCI-25km and the SICCI-50km climate data
+records of gridded global sea-ice concentration. These three records are
+derived from passive microwave satellite data and offer three distinct
+advantages compared to existing records: first, all three records provide
+quantitative information on uncertainty and possibly applied filtering at
+every grid point and every time step. Second, they are based on dynamic tie
+points, which capture the time evolution of surface characteristics of the
+ice cover and accommodate potential calibration differences between satellite
+missions. Third, they are produced in the context of sustained services
+offering committed extension, documentation, traceability, and user support.
+The three records differ in the underlying satellite data (SMMR & SSM/I
+& SSMIS or AMSR-E & AMSR2), in the imaging frequency channels (37 GHz
+and either 6 or 19 GHz), in their horizontal resolution (25 or 50 km), and
+in the time period they cover. We introduce the underlying algorithms and
+provide an evaluation. We find that all three records compare well with
+independent estimates of sea-ice concentration both in regions with very high
+sea-ice concentration and in regions with very low sea-ice concentration. We
+hence trust that these records will prove helpful for a better understanding
+of the evolution of the Earth's sea-ice cover.

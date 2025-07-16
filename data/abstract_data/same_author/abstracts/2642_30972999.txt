@@ -1,0 +1,2 @@
+Perfect Power Testing
+Bach and Sorenson present two algorithms for testing whether a number n is a perfect power, with average running time O(log2 n) under the assumption that n is chosen uniformly from an interval of length at least (log n)3 log log log n. We modify their algorithms to reduce the interval to polynomial size.

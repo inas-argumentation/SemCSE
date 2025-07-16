@@ -1,0 +1,2 @@
+WSN for traffic monitoring using Raspberry Pi board
+This paper introduces low-cost non-intrusive sensory that can collect traffic data based on Raspberry Pi single board computer. Image information acquired by Raspberry Pi HD camera module is analyzed for moving objects presence. After evaluation of detected object count, size, class and motion vector object properties are sent to server node by RF transceiver. Sensor low-power consumption ensures possibility to operate from battery for an extended period of time.

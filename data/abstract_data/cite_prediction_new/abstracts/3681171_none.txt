@@ -1,0 +1,2 @@
+Active Neutral-Point-Clamped Multilevel Converters
+This paper proposes a multilevel power conversion concept based on the combination of neutral-point-clamped (NPC) and floating capacitor converters. In the proposed scheme, the voltage balancing across the floating capacitors is achieved by using a proper selection of redundant switching states, and the neutral-point voltage is controlled by the classical dc offset injection. Experimental results are illustrated in the paper to demonstrate the system operation

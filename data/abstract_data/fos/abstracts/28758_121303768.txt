@@ -1,0 +1,2 @@
+Computing the probability of hash table/urn overflow
+We analyze the probability of a random distribution of n balls into m urns of size b resulting in no overflows. This solves the computational problem associated with a classical combinatorial extreme-value distribution. The problem arose during the analysis of a technique, called perfect hashing, for organizing data in computer files. The results and techniques presented can be used to solve several problems in the analysis of hashing techniques

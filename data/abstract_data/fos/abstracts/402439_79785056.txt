@@ -1,0 +1,2 @@
+Editorial Board of Advisors
+We give a simple proof of Euler’s remarkable theorem that for a nondegenerate triangle, the set of points eligible to be the incenter is precisely the orthocentroidal disc, punctured at the nine-point center. The problem is handled algebraically with complex coordinates. In particular, we show how the vertices of the triangle may be determined from the roots of a complex cubic whose coefficients are functions of the classical centers.

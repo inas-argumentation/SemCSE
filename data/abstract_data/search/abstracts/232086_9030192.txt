@@ -1,0 +1,2 @@
+Mixed Initiative Planning in MAPGEN: Capabilities and Shortcomings
+MAPGEN (Mixed initiative Activity Plan GENerator) is a mixed initiative system that employs automated constraint based planning, scheduling, and temporal reasoning to assist the Mars Exploration Rover mission operations staff in generating the daily activity plans. This paper describes the mixed initiative capabilities of MAPGEN, identifies shortcomings with the deployed system, and discusses ongoing work to address some of these shortcomings.

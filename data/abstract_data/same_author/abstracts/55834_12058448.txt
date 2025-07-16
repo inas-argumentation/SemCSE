@@ -1,0 +1,2 @@
+Learning information extraction patterns from tabular Web pages without manual labelling
+We describe a domain independent approach to automatically constructing information extraction patterns for semistructured Web pages. The approach was tested on three corpora containing a series of tabular Web sites from different domains and achieved a success rate of at least 80%. A significant strength of the system is that it can infer extraction patterns from a single training page and does not require any manual labeling of the training page.

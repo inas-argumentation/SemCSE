@@ -1,0 +1,2 @@
+Existence of balanced incomplete block designs for many sets of treatments
+A range of methods is presented for the recursive construction of sets of orthogonal balanced incomplete block designs. To enable these methods, some new types of designs are defined. Some examples of these are given, and pairs of orthogonal BIBDs constructed for k = 3, λ = 2, for all but 12 values of v where v ≡ 0, 1 (mod 3) with v ≥ 6.

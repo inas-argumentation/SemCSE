@@ -1,0 +1,2 @@
+Topologically Constrained Segmentation with Topological Maps
+This paper presents incremental algorithms used to compute Betti numbers with topological maps. Their implementation, as topological criterion for an existing bottom-up segmentation, is explained and results on artificial images are shown to illustrate the process.

@@ -1,0 +1,15 @@
+The Effect of Variations in Ionic Conductance Values on the Dynamics of a Mathematical Model of Non-Spiking A-Type Horizontal Cells in the Rabbit Retina
+A previous study proposed a mathematical 
+model of A-type horizontal cells in the rabbit retina. This model, which was 
+constructed based on the Hodgkin-Huxley model, was described by a system of 
+nonlinear ordinary differential equations. The model contained five types of 
+voltage-dependent ionic conductances: sodium, calcium, delayed rectifier 
+potassium, transient outward potassium, and anomalous rectifier potassium 
+conductances. The previous study indicated that when the delayed rectifier 
+potassium conductance had a small value, depolarizing stimulation could change 
+the dynamic state of the model from a hyperpolarized steady state to a 
+depolarized steady state. However, how this change was affected by variations 
+in the ionic conductance values was not clarified in detail in the previous 
+study. To clarify this issue, in the present study, we performed numerical 
+simulation analysis of the model and revealed the differences among the five 
+types of ionic conductances.

@@ -1,0 +1,11 @@
+Topological charge on the lattice: a field theoretical view of the geometrical approach
+We construct sequences of ``field theoretical'' (analytical) lattice 
+topological charge density operators which formally approach geometrical 
+definitions in 2-d $CP^{N-1}$ models and 4-d $SU(N)$ Yang Mills theories. The 
+analysis of these sequences of operators suggests a new way of looking at the 
+geometrical method, showing that geometrical charges can be interpreted as 
+limits of sequences of field theoretical (analytical) operators. In 
+perturbation theory renormalization effects formally tend to vanish along such 
+sequences. But, since the perturbative expansion is asymptotic, this does not 
+necessarily lead to well behaved geometrical limits. It indeed leaves open the 
+possibility that non-perturbative renormalizations survive.

@@ -1,0 +1,2 @@
+Fast Diagnosis of Multiprocessor Systems with Random Faults
+Les processeurs dans un systeme multiprocesseur tombent en panne de facon independante avec probabilite constante 0 0 pendant chaque test. Les processeurs defectueux sont non fiables comme testeurs: ils peuvent meme se comporter malicieusement. Les tests sont independants et pendant chaque unite de temps un processeur peut etre implique dans un seul test

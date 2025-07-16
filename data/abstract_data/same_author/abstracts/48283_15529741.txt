@@ -1,0 +1,2 @@
+A tight lower bound for the Steiner ratio in Minkowski planes
+Abstract A minimum Steiner tree for a given set X of points is a network interconnecting the points of X having minimum possible total length. The Steiner ratio for a metric space is the largest lower bound for the ratio of lengths between a minimum Steiner tree and a minimum spanning tree on the same set of points in the metric space. In this note, we show that for any Minkowski plane, the Steiner ratio is at least 2 3 . This settles a conjecture of Cieslik (1990) and also Du et al. (1991).

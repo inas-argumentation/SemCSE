@@ -1,0 +1,2 @@
+An improved renormalization group transformation in four dimensions
+A new transformation for Monte Carlo renormalization group analysis of four-dimensional gauge theories is developed. This RG transformation has a scale factor of √3. In addition no gauge fixing is required in the construction of the link variables on the renormalized lattice. The Z(2) theory is analyzed as a test case.

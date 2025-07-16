@@ -1,0 +1,34 @@
+SAETTA: high-resolution 3-D mapping of the total lightning activity in the Mediterranean Basin over Corsica, with a focus on a mesoscale convective system event
+. Deployed on the mountainous island of Corsica for thunderstorm
+monitoring purposes in the Mediterranean Basin, SAETTA is a network of 12 LMA
+(Lightning Mapping Array, designed by New Mexico Tech, USA) stations that
+allows the 3-D mapping of very high-frequency (VHF) radiation emitted by cloud discharges in the
+60–66 MHz band. It works at high temporal ( ∼40  ns in each 80  µ s time window) and spatial (tens of meters at best) resolution
+within a range of about 350 km. Originally deployed in May 2014, SAETTA was
+commissioned during the summer and autumn seasons and has now been permanently
+operational since April 2016 until at least the end of 2020. We first
+evaluate the performances of SAETTA through the radial, azimuthal, and
+altitude errors of VHF source localization with the theoretical model of
+Thomas et al. (2004). We also compute on a 240 km  ×  240 km domain
+the minimum altitude at which a VHF source can be detected by at least six
+stations by taking into account the masking effect of the relief. We then
+report the 3-year observations on the same domain in terms of number of
+lightning days per square kilometer (i.e., total number of days during which
+lightning has been detected in a given 1 km square pixel) and in terms of
+lightning days integrated across the domain. The lightning activity is first
+maximum in June because of daytime convection driven by solar energy input,
+but concentrates on a specific hot spot in July just above the intersection
+of the three main valleys. This hot spot is probably due to the low-level
+convergence of moist air fluxes from sea breezes channeled by the three
+valleys. Lightning activity increases again in September due to numerous
+small thunderstorms above the sea and to some high-precipitation events.
+Finally we report lightning observations of unusual high-altitude discharges
+associated with the mesoscale convective system of 8 June 2015. Most of
+them are small discharges on top of an intense convective core during
+convective surges. They are considered in the flash classification of Thomas
+et al. (2003) to be small–isolated and short–isolated flashes. The other high-altitude discharges, much less numerous, are long-range flashes that develop
+through the stratiform region and suddenly undergo upward propagations
+towards an uppermost thin layer of charge. This latter observation is
+apparently consistent with the recent conceptual model of Dye and Bansemer (2019) that explains such an upper-level layer of charge in the stratiform
+region by the development of a non-riming ice collisional charging in a
+mesoscale updraft.

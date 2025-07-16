@@ -1,0 +1,2 @@
+A Planner for Exploratory Data Analysis
+Statistical exploratory data analysis (EDA) poses a difficult search problem. The EDA process lends itself however to a planning formulation. We have built a system, called AIDE, to help users explore data. AIDE relies on partial hierarchical planning, a form of planning appropriate for tasks in complex, uncertain environments. Our description of the EDA task and the AIDE system provides a case study of the application of planning to a novel domain.

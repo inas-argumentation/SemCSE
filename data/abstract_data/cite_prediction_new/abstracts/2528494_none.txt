@@ -1,0 +1,2 @@
+Informing System Design Through Organizational Learning
+This paper describes a cycle in which organizational learning and work serve each other. Experience in a real-world software development project has led us to identify several key challenges for informing software design through organizational learning. A discussion of these challenges presents steps taken toward addressing them, as well as barriers remaining. The Group Interactive Memory Manager (GIMMe) system is presented along with early results from use of the system in software design projects.

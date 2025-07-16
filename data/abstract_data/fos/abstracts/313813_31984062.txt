@@ -1,0 +1,23 @@
+Association of BMI and pediatric urologic postoperative events: Results from pediatric NSQIP.
+BACKGROUND
+Elevated body mass index (BMI) is a well-known risk factor for perioperative complications in adults, but has not been investigated in children undergoing urologic procedures. Given the low rate of complications associated with urologic surgery, a large sample is required for their characterization, but BMI is frequently not available in administrative databases. Here we report results from the first nationally based, prospectively assembled cohort analyzed with respect to the association of BMI with 30-day postoperative events for pediatric urologic procedures.
+
+
+OBJECTIVE
+To determine the association of elevated BMI with overall 30-day postoperative events and wound complications in a large national sample of children undergoing urologic procedures.
+
+
+STUDY DESIGN
+We queried the 2012 Pediatric National Surgical Quality Improvement Program database (NSQIP), defining obesity as a BMI above the 95th percentile and overweight above the 85th percentile, per CDC definitions. We used BMI <85th percentile as a referent group. Complications were collected within 30 days of the procedure. Comorbidity was classified on a linear scale using a validated pediatric-specific comorbidity score, and procedures were classified as genital, abdominal without bowel involvement, or abdominal with bowel involvement. Univariate and multivariate logistic models were used to test significance of associations.
+
+
+RESULTS
+2871 patients aged 2-18 years were analyzed. Of these, 420 (14.6%) were overweight and 440 (15.3%) were obese. A summary of 30-day events and complications is shown in the structured abstract table. On multivariate analysis adjusting for age, gender, class of procedure, and comorbidity, BMI remained a significant risk factor for 30-day events when comparing BMI ≥85th percentile to BMI <85th percentile (OR 1.36, 95% CI 1.03-1.8, p = 0.035). An exploratory subgroup analysis examining the rate of wound complications demonstrated an odds ratio of 2.36 (95% CI 1.28-4.35, p = 0.006) for BMI >85th percentile on multivariate analysis.
+
+
+DISCUSSION
+Overweight/obese status increased the odds of overall complications by 36%, and of wound complications by 140%. In adults there is a known profound effect of body composition on wound complications, but in children this association is less clear, and has not been studied in the pediatric urologic literature on a large scale. The mechanisms linking BMI to pediatric postoperative complications are unclear, but cytokine mechanisms or changes in the response to inflammation have been postulated. Limitations of this study include restriction to those urologic procedures included in ACS-NSQIPP and sorted into broad general categories. We did not control for secondary procedures. BMI/BMI percentile may not be appropriate measures of body composition in patients with atypical body habitus or proportions (e.g. myelomeningocele).
+
+
+CONCLUSION
+BMI in the pediatric NSQIP urologic population was found to be associated with overall complication after adjustment for case type and preoperative comorbidity in a large national sample assembled for assessment of perioperative outcomes. An exploratory analysis uncovered more than two-fold increase in odds of wound complication in obese/overweight patients compared with a normal weight referent population. These results may be useful in preoperative counseling patients regarding perioperative risk.

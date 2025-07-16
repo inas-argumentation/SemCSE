@@ -1,0 +1,2 @@
+Renewal theory in the analysis of tries and strings
+We give a survey of a number of simple applications of renewal theory to problems on random strings and tries: insertion depth, size, insertion mode and imbalance of tries; variations for b-tries and Patricia tries; Khodak and Tunstall codes.

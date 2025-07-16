@@ -1,0 +1,2 @@
+NEW GENETIC ALGORITHM WITH GREEDY HEURISTIC FOR CLUSTERING PROBLEMS WITH UNKNOWN NUMBER OF GROUPS
+In this research, we propose new modification of the genetic algorithm with greedy heuristic witch allows to solve series of clustering problems with unknown number of groups (clusters) The applicability and efficiency of new method is experimentally proved. Achieved results are compared with other algorithms which solve each of problems separately. Experiments show that new algorithm is faster than other methods for various problems.

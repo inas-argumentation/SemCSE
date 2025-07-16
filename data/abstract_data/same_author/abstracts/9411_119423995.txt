@@ -1,0 +1,2 @@
+Landau-Pomeranchuk-Migdal resummation for dilepton production
+We consider the thermal emission rate of dileptons from a QCD plasma in the small invariant mass ($Q^2 \\sim \\gs^2 T^2$) but large energy ($q^0 \\gsim T$) range. We derive an integral equation which resums multiple scatterings to include the LPM effect; it is valid at leading order in the coupling. Then we recast it as a differential equation and show a simple algorithm for its solution. We present results for dilepton rates at phenomenologically interesting energies and invariant masses.

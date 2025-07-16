@@ -1,0 +1,2 @@
+Topologies induced by group actions
+We introduce some canonical topologies induced by actions of topological groups on groups and rings. For $H$ being a group [or a ring] and $G$ a topological group acting on $H$ as automorphisms, we describe the finest group [ring] topology on $H$ under which the action of $G$ on $H$ is continuous. We also study the introduced topologies in the context of Polish structures. In particular, we prove that there may be no Hausdorff topology on a group $H$ under which a given action of a Polish group on $H$ is continuous.

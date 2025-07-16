@@ -1,0 +1,2 @@
+On Temporal Aggregate Processing Based on Time Points
+Temporal aggregation is an extension of conventional aggregate on the domain and range of aggregates to include the time concept. In this paper, we propose a new tree-based temporal aggregation processing method. The time complexity of the proposed method is better than those of the existing methods. The experimental results indicate that our proposed method ourperforms the existing methods.

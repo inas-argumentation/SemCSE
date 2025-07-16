@@ -1,0 +1,2 @@
+Object-based analog VLSI vision circuits
+Describes two analog VLSI chips that perform object-based computations. The first chip computes length of various contours in an image and the second chip performs figure-ground separation of a scene.<<ETX>>

@@ -1,0 +1,2 @@
+The Glory of the Past
+An extension of propositional temporal logic that includes operators referring to a bounded past is considered. An exponential time decision procedure and a complete axiomatic system are presented. A suggested normal form leads to a syntactic classification of safety and liveness formulae. The adequacy of temporal logic to modular verification is examined. Finally we present the notion of α-fairness which is proved to fully capture the behavior of probabilistic finite state programs.

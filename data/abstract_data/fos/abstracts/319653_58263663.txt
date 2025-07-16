@@ -1,0 +1,2 @@
+Volume Rendering on Immersive Projection Technology
+When three-dimensional data is visualized, the volume rendering has been well used for more than a decade. However, this method is difficult to be implemented on CAVE system because it needs enormous computation. We enabled CAVE system to implement it by using texture mapping so that the system could be used to visualize complex scalar data, CT data and so on.

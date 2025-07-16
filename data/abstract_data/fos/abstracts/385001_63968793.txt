@@ -1,0 +1,2 @@
+WLAN Security Solution Based on Chinese Remainder Theorem
+Because of the uncertainty of WLAN users,Proposes a WLAN security solution based on the Chinese Remainder Theorem,which can help to identify legitimate users.The program has the advantage of using simple module operation,the user will be able to judge for the right to visit AP,update users,needn't a modification of the others' private key,easy management and fast.

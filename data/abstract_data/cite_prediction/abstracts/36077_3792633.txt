@@ -1,0 +1,2 @@
+Intelligent Digital Learning: Agent-Based Recommender System
+In the context of intelligent digital learning, we propose an agent-based recommender system that aims to help learners overcome their gaps by suggesting relevant learning resources. The main idea is to provide them with appropriate support in order to make their learning experience more effective. To this end we design an agent-based cooperative system where autonomous agents are able to update recommendation data and to improve the recommender outcome on behalf of their past experiences in the learning platform.

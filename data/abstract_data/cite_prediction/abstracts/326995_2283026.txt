@@ -1,0 +1,2 @@
+Fast Patch-based Style Transfer of Arbitrary Style
+ The use of an auxiliary pretrained CNN improves visual quality.  But the current approaches are either slow (optimizationbased) or limited in the number of styles (trained style network).  We present an approach that is both efficient and adaptable to any style.  We train on 80,000 natural images and 80,000 paintings. For every content patch, swap it with the best matching style patch, which we define using the normalized cross-correlation: ARTISTIC STYLE TRANSFER STYLE SWAP : PATCH-BASED STYLE TRANSFER

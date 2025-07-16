@@ -1,0 +1,4 @@
+TS-BERT: A fusion model for Pre-trainning Time Series-Text Representations
+There are many tasks to use news text information and stock data to predict the crisis. In the existing research, the two usually play one master and one follower in the prediction task.
+Use one of the news text and the stock data as the primary information source for the prediction task and the other as the auxiliary information source.
+This paper proposes a fusion model for pre-training time series-Text representations, in which news text and stock data have the same status and are treated as two different modes to describe crises. Our model has achieved the best results in the task of predicting financial crises.

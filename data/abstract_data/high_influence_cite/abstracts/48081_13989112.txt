@@ -1,0 +1,2 @@
+Convexity of the set of feasible injections and revenue adequacy in FTR markets
+The feasible set of power injections for the constrained power flow equations is nonconvex when practical transmission capacity and bus voltage limits are imposed. The projection onto the space of active power injections may be "close" to convex, but this is not sufficient to guarantee revenue adequacy for the settlement of financial transmission rights.

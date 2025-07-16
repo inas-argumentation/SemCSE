@@ -1,0 +1,2 @@
+The over-constrained airport gate assignment problem
+In this paper, we study the over-constrained airport gate assignment problem where the objectives are to minimize the number of ungated flights and total walking distances or connection times. We first use a greedy algorithm to minimize ungated flights. Exchange moves are employed to facilitate the use of heuristics. Simulated annealing and a hybrid of simulated annealing and tabu search are used. Experimental results are good and exceed those previously obtained.

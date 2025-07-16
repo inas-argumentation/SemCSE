@@ -1,0 +1,6 @@
+Covering graphs by the minimum number of equivalence relations
+AbstractAn equivalence graph is a vertex disjoint union of complete graphs. For a graphG, let eq(G) be the minimum number of equivalence subgraphs ofG needed to cover all edges ofG. Similarly, let cc(G) be the minimum number of complete subgraphs ofG needed to cover all its edges. LetH be a graph onn vertices with maximal degree ≦d (and minimal degree ≧1), and letG=
+$$\bar H$$
+ be its complement. We show that
+$$\log _2 n - \log _2 d \leqq eq(G) \leqq cc(G) \leqq 2e^2 (d + 1)^2 \log _e n.$$
+ The lower bound is proved by multilinear techniques (exterior algebra), and its assertion for the complement of ann-cycle settles a problem of Frankl. The upper bound is proved by probabilistic arguments, and it generalizes results of de Caen, Gregory and Pullman.

@@ -1,0 +1,2 @@
+Parameter Reconstruction for General Transport Equation
+We consider the inverse problem for the general transport equation with external field, source term and absorption coefficient. We show that the source and the absorption coefficients can be uniquely reconstructed from the boundary measurement, in a Lipschitz stable manner. Specifically, the uniqueness and stability are obtained by using the Carleman estimate in which a special weight function is designed to pick up information on the desired parameter.

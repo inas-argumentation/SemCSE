@@ -1,0 +1,2 @@
+Poisson convergence of numbers of vertices of a given degree in random graphs
+The asymptotic distributions of the number of vertices of a given degree in random graphs, where the probabilities of edges may not be the same, are given. Using the method of Poisson convergence, distributions in a general and particular cases (complete, almost regular and bipartite graphs) are obtained.

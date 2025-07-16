@@ -1,0 +1,2 @@
+Asymptotic holdability
+Given an autonomous linear control system and a linear subspace S \subset R^{n} , we say that an initial state is asymptotically holdable in S if the trajectory can be held arbitrarily near S on any specified compact initial interval, subject to an L 1 bound on input energy which depends on the initial state and the interval. It is shown that asymptotic holdability is equivalent to holdability obtaining under a certain impulse control process. A geometric characterization is given.

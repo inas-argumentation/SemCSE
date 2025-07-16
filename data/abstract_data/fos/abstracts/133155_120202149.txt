@@ -1,0 +1,2 @@
+Calculation of divergent channel flows with a multiple-time-scale turbulence model
+Numerical calculations of turbulent reattaching shear layers in a divergent channel are presented. The turbulence is described by a multiple-time-scale turbulence model. The turbulent flow equations are solved by a control-volume-based finite-difference method. The computational results are compared with those obtained using K-e turbulence models and algebric Reynolds stress turbulence models.

@@ -1,0 +1,2 @@
+On the Synthesis of a Stabilizing Feedback Control
+Starting from states near to a closed set S we want to steer S and to stay always close to S. Unfortunately, open-loop controls are very sensitive to disturbances and can lead to very bad practical results. For that reason, we propose an approach for constructing a discontinuous feedback control law that asymptotically stabilizes the system in a neighborhood of the set S.

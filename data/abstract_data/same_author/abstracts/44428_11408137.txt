@@ -1,0 +1,2 @@
+Building Adaptive Camera Models for Video Surveillance
+We address the limited automatic scanning functionality of standard PTZ camera systems. We present an adaptive, scene-specific model using standard PTZ camera hardware. The adaptive model is constructed automatically by detecting human activity in motion history images (MHIs) using an iterative candidacy-classification-reduction process. The target motion is quantified and employed in the construction of a global activity map, which in turn is used to direct or navigate the camera

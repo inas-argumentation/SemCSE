@@ -1,0 +1,2 @@
+A new inductive approach to the lace expansion for self-avoiding walks
+Summary. We introduce a new inductive approach to the lace expansion, and apply it to prove Gaussian behaviour for the weakly self-avoiding walk on ℤd where loops of length m are penalised by a factor e−β/m p (04, p≥0; (2) d≤4, . In particular, we derive results first obtained by Brydges and Spencer (and revisited by other authors) for the case d>4, p=0. In addition, we prove a local central limit theorem, with the exception of the case d>4, p=0.

@@ -1,0 +1,2 @@
+Linear Broadcast Routing
+Abstract In this paper we examine the problem of performing broadcasts in networks where the messages are constrained to follow linear paths. Many high speed networks, where routing is done in specialized hardware, have this characteristic. We show that the general problem is NP-complete but find a polynomial time approximation algorithm which is guaranteed to provide a solution which is within twice the optimal. We also suggest some generalizations of this work and propose several open problems.

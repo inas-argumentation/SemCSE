@@ -1,0 +1,3 @@
+3. On negatively dependent sampling schemes, variance reduction, and probabilistic upper discrepancy bounds
+We study some notions of negative dependence of a sampling scheme that can be used to derive variance bounds for the corresponding estimator or discrepancy bounds for the underlying random point set that are at least as good as the corresponding bounds for plain Monte Carlo sampling. 
+We provide new pre-asymptotic bounds with explicit constants for the star discrepancy and the weighted star discrepancy of sampling schemes that satisfy suitable negative dependence properties. Furthermore, we compare the different notions of negative dependence and give several examples of negatively dependent sampling schemes.

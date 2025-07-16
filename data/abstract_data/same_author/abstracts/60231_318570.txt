@@ -1,0 +1,2 @@
+Improved wavelet decoding via set theoretic estimation
+In this letter, we show that the performance of a wavelet decoder can be improved via a set theoretic approach at low bit rates. The traditional decoding rule is replaced by iterative projection-onto-convex-set (POCS) operations to exploit a priori information about the quantization and geometric constraints of the image source. Experimental results have shown that the proposed set theoretic estimation based scheme is capable of improving both the subjective and the objective performance of wavelet decoders.

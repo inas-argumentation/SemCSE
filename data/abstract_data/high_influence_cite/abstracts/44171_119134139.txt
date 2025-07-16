@@ -1,0 +1,2 @@
+The rate of escape of the most visited site of Brownian motion
+Let $\{L^z_t\}$ be the jointly continuous local times of a one-dimensional Brownian motion and let $L^*_t=\sup_{z\in \mathbb R} L^z_t$. Let $V_t$ be any point $z$ such that $L^z_t=L^*_t$, a most visited site of Brownian motion. Lifshits and Shi conjectured that if $\gamma>1$, then \[\liminf_{t\to \infty} \frac{|V_t|}{\sqrt t/(\log t)^\gamma}=\infty, \qquad {\rm a.s.}, \] with an analogous result for simple random walk. Version 1 purported to prove the conjecture; we point out an error in the proof.

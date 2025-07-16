@@ -1,0 +1,4 @@
+On spikes concentrating on line-segments to a semilinear Neumann problem
+We consider the following singularly perturbed Neumann problem 
+−e2Δu+u−up=0in Ω,u>0in Ω,∂u∂ν=0on ∂Ω, 
+where p is subcritical and Ω is a smooth and bounded domain in Rn. We construct a new class of solutions which consist of large number of spikes concentrating on an interior straight-line intersecting with ∂Ω orthogonally. Our results show that higher-dimensional concentration can exist without resonance condition.

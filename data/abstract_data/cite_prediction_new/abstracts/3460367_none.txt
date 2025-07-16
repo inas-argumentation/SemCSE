@@ -1,0 +1,2 @@
+A Vision System for the Unfolding of Highly Non-rigid Objects on a Table by One Manipulator
+In this paper, a systematic approach is presented in order to detect and classify the characteristic features of a folded piece of fabric to be unfolded by a robot. The manipulations can be made by only one manipulator on a working table and with machine vision feedback. The main goal of this method is to detect, evaluate and classify the regions of interest (ROIs) which, in the particular case, are the corners of the fabric lying on the table.

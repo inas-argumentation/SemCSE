@@ -1,0 +1,2 @@
+SMT-based scheduling of distributed mediator for web service composition
+It is important to achieve a correct composition of web services in Service Oriented Architecture(SOA). Mediators modifies incompatibility of data used in several services to establish proper interaction among them. In this paper, we consider a distributed mediator model and propose a method for scheduling in the distributed mediator using an SMT solver.

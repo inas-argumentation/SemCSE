@@ -1,0 +1,2 @@
+ARWeather — An Augmented Reality Weather ystem
+This paper presents the design and development of an ARWeather simulation application, which can simulate various types of precipitation: rain, snow, and hail. We analysed various real occurrences weather types and how they could be simulated in a mobile Augmented Reality system. The Tinmith system is wearable computer system for the development and deployment of the final ARWeather system that allows for autonomous and free movement for the user. The users can move freely inside the simulated weather without limitation.

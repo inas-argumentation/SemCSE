@@ -1,0 +1,2 @@
+Single-Event Characterization of the 20 nm Xilinx Kintex UltraScale Field-Programmable Gate Array under Heavy Ion Irradiation
+This study examines the single-event response of the Xilinx 20 nm Kintex UltraScale Field-Programmable Gate Array irradiated with heavy ions. Results for single-event latch-up and single-event upset on configuration SRAM cells and Block RAM memories are provided.

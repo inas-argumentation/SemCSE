@@ -1,0 +1,15 @@
+Using computer-extracted image features for modeling of error-making patterns in detection of mammographic masses among radiology residents.
+PURPOSE
+Mammography is the most widely accepted and utilized screening modality for early breast cancer detection. Providing high quality mammography education to radiology trainees is essential, since excellent interpretation skills are needed to ensure the highest benefit of screening mammography for patients. The authors have previously proposed a computer-aided education system based on trainee models. Those models relate human-assessed image characteristics to trainee error. In this study, the authors propose to build trainee models that utilize features automatically extracted from images using computer vision algorithms to predict likelihood of missing each mass by the trainee. This computer vision-based approach to trainee modeling will allow for automatically searching large databases of mammograms in order to identify challenging cases for each trainee.
+
+
+METHODS
+The authors' algorithm for predicting the likelihood of missing a mass consists of three steps. First, a mammogram is segmented into air, pectoral muscle, fatty tissue, dense tissue, and mass using automated segmentation algorithms. Second, 43 features are extracted using computer vision algorithms for each abnormality identified by experts. Third, error-making models (classifiers) are applied to predict the likelihood of trainees missing the abnormality based on the extracted features. The models are developed individually for each trainee using his/her previous reading data. The authors evaluated the predictive performance of the proposed algorithm using data from a reader study in which 10 subjects (7 residents and 3 novices) and 3 experts read 100 mammographic cases. Receiver operating characteristic (ROC) methodology was applied for the evaluation.
+
+
+RESULTS
+The average area under the ROC curve (AUC) of the error-making models for the task of predicting which masses will be detected and which will be missed was 0.607 (95% CI,0.564-0.650). This value was statistically significantly different from 0.5 (p<0.0001). For the 7 residents only, the AUC performance of the models was 0.590 (95% CI,0.537-0.642) and was also significantly higher than 0.5 (p=0.0009). Therefore, generally the authors' models were able to predict which masses were detected and which were missed better than chance.
+
+
+CONCLUSIONS
+The authors proposed an algorithm that was able to predict which masses will be detected and which will be missed by each individual trainee. This confirms existence of error-making patterns in the detection of masses among radiology trainees. Furthermore, the proposed methodology will allow for the optimized selection of difficult cases for the trainees in an automatic and efficient manner.

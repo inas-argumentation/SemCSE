@@ -1,0 +1,2 @@
+The general harmonic-oscillator brackets: Compact expression, symmetries, sums and Fortran code
+We present a very simple expression and a Fortran code for the fast and precise calculation of three-dimensional harmonic-oscillator transformation brackets. The complete system of symmetries for the brackets along with analytical expressions for sums, containing products of two and three brackets, is given.

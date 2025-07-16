@@ -1,0 +1,2 @@
+Hopf bifurcation and strange attractors in Chebyshev spectral solutions of the Burgers equation
+In this paper we apply the Chebyshev pseudospectral (collocation) and spectral methods to the solution of the Burgers equation. The results provide evidence for the existence of strange attractors. It is shown that there is a critical viscosity v c above which the solution is stable and below which the motion becomes highly unstable in favor of motion on a strange attractor.

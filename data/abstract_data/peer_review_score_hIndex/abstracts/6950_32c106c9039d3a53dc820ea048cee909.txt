@@ -1,0 +1,6 @@
+Ablation Path Saliency
+We consider the saliency problem for black-box classification. In image classification, this means highlighting the part of the image that is most relevant for the current decision.
+We cast the saliency problem as finding an optimal ablation path between two images. An ablation path consists of a sequence of ever smaller masks, joining the current image to a reference image in another decision region. The optimal path will stay as long as possible in the current decision region. This approach extends the ablation tests in [Sturmfels et al. (2020)]. The gradient of the corresponding objective function is closely related to the integrated gradient method [Sundararajan et al. (2017)]. In the saturated case (when the classifier outputs a binary value) our method would reduce to the meaningful perturbation approach [Fong & Vedaldi (2017)], since crossing the decision boundary as late as
+possible would then be equivalent to finding the smallest possible mask lying on
+the decision boundary.
+Our interpretation provides geometric understanding of existing saliency methods, and suggests a novel approach based on ablation path optimisation.

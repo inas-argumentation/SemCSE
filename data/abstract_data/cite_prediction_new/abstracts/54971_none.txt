@@ -1,0 +1,2 @@
+A Sparse Approximate Inverse Preconditioner for the Conjugate Gradient Method
+A method for computing a sparse incomplete factorization of the inverse of a symmetric positive definite matrix $A$ is developed, and the resulting factorized sparse approximate inverse is used as an explicit preconditioner for conjugate gradient calculations. It is proved that in exact arithmetic the preconditioner is well defined if $A$ is an H-matrix. The results of numerical experiments are presented.

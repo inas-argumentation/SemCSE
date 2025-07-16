@@ -1,0 +1,2 @@
+Design of Bisearch Algorithm Association Rules Based on Concept Lattice
+Designs a bisearch algorithm for searching frequent closed itemset.Itemsets are compartmentalized by dimension.The algorithm plots out the dimension interval half-and-half and the itemsets in the former are computed when passing the database.The passes of database are effectively reduced by the bisearch algorithm.

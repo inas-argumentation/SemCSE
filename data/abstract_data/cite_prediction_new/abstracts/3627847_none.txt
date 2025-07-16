@@ -1,0 +1,9 @@
+The Differential Quadrature Solution of Reaction-Diffusion Equation Using Explicit and Implicit Numerical Schemes
+In this paper, two 
+different numerical schemes, namely the Runge-Kutta fourth order method and the 
+implicit Euler method with perturbation method of the second degree, are applied to solve the 
+nonlinear thermal wave in one and two dimensions using the differential 
+quadrature method. The aim of this paper is to make comparison between previous 
+numerical schemes and detect which is more efficient and more accurate by 
+comparing the obtained results with the available analytical ones and computing 
+the computational time.

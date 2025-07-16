@@ -1,0 +1,14 @@
+Automatic structures, rational growth, and geometrically finite hyperbolic groups
+SummaryWe show that the set
+$$S\mathfrak{A}(G)$$
+ of equivalence classes of synchronously automatic structures on a geometrically finite hyperbolic groupG is dense in the product of the sets
+$$S\mathfrak{A}(P)$$
+ over all maximal parabolic subgroupsP. The set
+$$BS\mathfrak{A}(G)$$
+ of equivalence classes of biautomatic structures onG is isomorphic to the product of the sets
+$$BS\mathfrak{A}(P)$$
+ over the cusps (conjugacy classes of maximal parabolic subgroups) ofG. Each maximal parabolicP is a virtually abelian group, so
+$$S\mathfrak{A}(P)$$
+ and
+$$BS\mathfrak{A}(P)$$
+ were computed in [NS1].We show that any geometrically finite hyperbolic group has a generating set for which the full language of geodesics forG is regular. Moreover, the growth function ofG with respect to this generating set is rational. We also determine which automatic structures on such a group are equivalent to geodesic ones. Not all are, though all biautomatic structures are.

@@ -1,0 +1,16 @@
+ENRICHMENT OF FEATURES FOR CLASSIFICATION USING AN OPTIMIZED LINEAR/NON-LINEAR COMBINATION OF INPUT FEATURES
+Automatic classification of objects is one of the most important tasks in engineering
+and data mining applications. Although using more complex and advanced
+classifiers can help to improve the accuracy of classification systems, it can be
+done by analyzing data sets and their features for a particular problem. Feature
+combination is the one which can improve the quality of the features. In this paper,
+a structure similar to Feed-Forward Neural Network (FFNN) is used to generate an
+optimized linear or non-linear combination of features for classification. Genetic
+Algorithm (GA) is applied to update weights and biases. Since nature of data sets
+and their features impact on the effectiveness of combination and classification
+system, linear and non-linear activation functions (or transfer function) are used
+to achieve more reliable system. Experiments of several UCI data sets and using
+minimum distance classifier as a simple classifier indicate that proposed linear and
+non-linear intelligent FFNN-based feature combination can present more reliable
+and promising results. By using such a feature combination method, there is no
+need to use more powerful and complex classifier anymore.

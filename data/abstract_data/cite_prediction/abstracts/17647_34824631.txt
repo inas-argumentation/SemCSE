@@ -1,0 +1,2 @@
+Computational Neuroscience Offers Hints for More General Machine Learning
+Machine Learning has traditionally focused on narrow artificial intelligence solutions for specific problems. Despite this, we observe two trends in the state-of-the-art: One, increasing architectural homogeneity in algorithms and models. Two, algorithms having more general application: New techniques often beat many benchmarks simultaneously. We review the changes responsible for these trends and look to computational neuroscience literature to anticipate future progress.

@@ -1,0 +1,2 @@
+Real-time power quality monitoring using MEMS based wireless current sensors
+Real time monitoring of current phasors is fundamental for power quality analysis. In this paper, we outline a theoretical approach for a real-time wireless power quality monitoring system based on sensing current and voltage phasors at the facility.

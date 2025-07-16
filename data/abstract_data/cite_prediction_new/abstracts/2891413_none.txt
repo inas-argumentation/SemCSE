@@ -1,0 +1,2 @@
+On the computational complexity of a game of cops and robbers
+We study the computational complexity of a perfect-information two-player game proposed by Aigner and Fromme (1984) [1]. The game takes place on an undirected graph where n simultaneously moving cops attempt to capture a single robber, all moving at the same speed. The players are allowed to pick their starting positions at the first move. The question of the computational complexity of deciding this game was raised by Goldstein and Reingold (1995) [9]. We prove that the game is hard for PSPACE.

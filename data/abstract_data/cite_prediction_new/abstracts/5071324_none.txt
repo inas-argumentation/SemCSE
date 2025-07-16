@@ -1,0 +1,2 @@
+Reduced respiratory motion artifacts using structural similarity in fast 2D dynamic contrast enhanced MRI of liver lesions
+The purpose of this work was to improve dynamic contrast enhanced MRI (DCE‐MRI) of liver lesions by removing motion corrupted images as identified by a structural similarity (SSIM) algorithm, and to assess the effect of this correction on the pharmacokinetic parameter Ktrans using automatically determined arterial input functions (AIFs).

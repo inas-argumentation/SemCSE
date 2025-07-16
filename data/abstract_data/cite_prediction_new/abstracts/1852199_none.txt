@@ -1,0 +1,2 @@
+Piecewise FARIMA models for long-memory time series
+We consider the problem of modelling a long-memory time series using piecewise fractional autoregressive integrated moving average processes. The number as well as the locations of structural break points (BPs) and the parameters of each regime are assumed to be unknown. A four-step procedure is proposed to find out the BPs and to estimate the parameters of each regime. Its effectiveness is shown by Monte Carlo simulations and an application to real traffic data modelling is considered.

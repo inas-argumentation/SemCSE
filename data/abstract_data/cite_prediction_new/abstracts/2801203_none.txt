@@ -1,0 +1,2 @@
+VRPN: a device-independent, network-transparent VR peripheral system
+The Virtual-Reality Peripheral Network (VRPN) system provides a device-independent and network-transparent interface to virtual-reality peripherals. VRPN's application of factoring by function and of layering in the context of devices produces an interface that is novel and powerful. VRPN also integrates a wide range of known advanced techniques into a publicly-available system. These techniques benefit both direct VRPN users and those who implement other applications that make use of VR peripherals.

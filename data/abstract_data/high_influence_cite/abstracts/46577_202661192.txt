@@ -1,0 +1,2 @@
+Periodic asymptotic dynamics of the measure solutions to an equal mitosis equation
+We prove, in the framework of measure solutions, that the equal mito-sis equation present persistent asymptotic oscillations. To do so we adopt a duality approach, which is also well suited for proving the well-posedness when the division rate is unbounded. The main difficulty for characterizing the asymptotic behavior is to define the projection onto the subspace of periodic (rescaled) solutions. We achieve this by using the generalized relative entropy structure of the dual problem.

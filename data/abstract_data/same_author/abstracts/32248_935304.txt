@@ -1,0 +1,2 @@
+Progress towards simulating heavy ion beams for inertial fusion energy based on 1) a Darwin model field solver, and 2) a semi-Lagrangian Vlasov solver
+We introduce in this paper two numerical methods, a Darwin model field solver and a semi-Lagrangian Vlasov solver, which may be appealing for beam simulations and discuss their properties.

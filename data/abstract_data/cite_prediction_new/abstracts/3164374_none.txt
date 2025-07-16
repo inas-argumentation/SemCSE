@@ -1,0 +1,2 @@
+Performance Variations of a 66GHz Static CML Divider in 90nm CMOS
+A 66GHz maximum operating clock frequency is measured for a 90nm CMOS static CML divide-by-2 with a 25.5mW latch power dissipation. Statistical self-oscillation frequency measurements exhibit a mean of 42.6 and 39.2GHz at 25degC and 85degC, and a 2.8GHz standard deviation. The mean dissipated power is 44.3mW at 1.4V, with a 2.2mW standard deviation

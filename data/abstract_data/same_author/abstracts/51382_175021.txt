@@ -1,0 +1,11 @@
+Research in Data Broadcast and Dissemination
+The proliferation of the Internet and intranets, the development of wireless and satellite networks, and the availability of asymmetric, high-bandwidth links to the home, have fueled the development of a wide range of new “dissemination-based” applications. These applications involve the timely distribution of data to a large set of consumers, and include stock and sports tickers, traffic information systems, electronic personalized newspapers, and entertainment delivery. Dissemination-oriented applications have special characteristics that render traditional client-server data management approaches ineffective. These include: 
+ 
+ 
+tremendous scale. 
+ 
+ 
+a high-degree of overlap in user data needs. 
+ 
+ 
+asymmetric data flow from sources to consumers.

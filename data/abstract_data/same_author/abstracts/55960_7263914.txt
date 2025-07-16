@@ -1,0 +1,2 @@
+Integration of Heterogeneous Knowledge Sources in the CALO Query Manager
+We report on our effort to build a real system for integrating heterogeneous knowledge sources with different query answering and reasoning capabilities. We are conducting this work in the context of CALO (Cognitive Assistant that Learns and Organizes), a multidisciplinary project funded by DARPA to create cognitive software systems.

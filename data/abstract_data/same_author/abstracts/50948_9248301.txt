@@ -1,0 +1,7 @@
+PGTdb: a database providing growth temperatures of prokaryotes
+UNLABELLED
+Included in Prokaryotic Growth Temperature database (PGTdb) are a total of 1334 temperature data from 1072 prokaryotic organisms, Bacteria and Archaea: PGTdb integrates microbial growth temperature data from literature survey with their nucleotide/protein sequence and protein structure data from related databases. A direct correlation is observed between the average growth temperature of an organism and the melting temperature of proteins from the organism. Therefore, this database is useful not only for microbiologists to obtain cultivation condition, but also for biochemists and structure biologists to study the correlation between protein sequences/structures and their thermostability. In addition, the taxonomy and ribosomal RNA sequence(s) of an organism are linked through NCBI Taxonomy and the Ribosomal RNA Operon Copy Number Database umdb, respectively. PGTdb is the only integrated database on the Internet to provide the growth temperature data of the prokaryotes and the combined information of their nucleotide/protein sequences, protein structures, taxonomy and phylogeny.
+
+
+AVAILABILITY
+http://pgtdb.csie.ncu.edu.tw

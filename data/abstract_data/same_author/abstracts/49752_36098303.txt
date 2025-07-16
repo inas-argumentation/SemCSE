@@ -1,0 +1,2 @@
+Partitioning Vertices of a Tournament into Independent Cycles
+Let k be a positive integer. A strong digraph G is termed k-connected if the removal of any set of fewer than k vertices results in a strongly connected digraph. The purpose of this paper is to show that every k-connected tournament with at least 8k vertices contains k vertex-disjoint directed cycles spanning the vertex set. This result answers a question posed by Bollobas.

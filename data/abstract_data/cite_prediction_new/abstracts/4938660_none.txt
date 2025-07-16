@@ -1,0 +1,2 @@
+TRIO: A logic language for executable specifications of real-time systems
+We motivate the need for a formal specification language for real-time applications and for a support environment providing tools for reasoning about formal specifications. Then we introduce TRIO, a logic-based specification language. TRIO is first introduced informally through examples. Then a formal declarative semantics is provided, which can accommodate a variety of underlying time structures. Finally, the problem of executing TRIO formal specifications is discussed, and a solution is presented.

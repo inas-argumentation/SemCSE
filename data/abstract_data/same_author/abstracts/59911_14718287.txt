@@ -1,0 +1,2 @@
+Orthogonal Polyhedra: Representation and Computation
+In this paper we investigate orthogonal polyhedra, i.e. polyhedra which are finite unions of full-dimensional hyper-rectangles. We define representation schemes for these polyhedra based on their vertices, and show that these compact representation schemes are canonical for all (convex and non-convex) polyhedra in any dimension. We then develop efficient algorithms for membership, face-detection and Boolean operations for these representations.

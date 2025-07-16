@@ -1,0 +1,19 @@
+The influence of MRI scan position on image registration accuracy, target delineation and calculated dose in prostatic radiotherapy.
+OBJECTIVE
+To investigate the necessity of performing MRI in the radiotherapy position when using MRI for prostatic radiotherapy.
+
+
+METHODS
+20 prostate patients received a CT, diagnostic MRI and an MRI scan in the radiotherapy position. The quality of registration between CT and MRI was compared between the two MRI set-ups. The prostate and seminal vesicles were contoured using all scans and intensity modulated radiotherapy (IMRT) plans were generated. Changes in the target volume and IMRT plans were investigated. Two-tailed paired Student's t-tests determined the statistical significance.
+
+
+RESULTS
+There was a decrease in the mean distance from the centre of the bony anatomy between CT and MRI (from 3.9 to 1.9 mm, p-value<0.0001) when the MRI scan was acquired in the radiotherapy position. Assuming that registering CT with an MRI scan in the radiotherapy position is the gold standard for delineating the prostate and seminal vesicles, using a planning target volume delineated on the CT with a diagnostic MRI scan viewed separately, resulted in a mean conformation number of 0.80 instead of the expected 0.98 (p<0.0001).
+
+
+CONCLUSION
+By registering CT with an MRI scan in the radiotherapy position, there is a statistically significant improvement in the registration and IMRT quality.
+
+
+ADVANCES IN KNOWLEDGE
+To achieve an acceptable registration and IMRT quality in prostatic radiotherapy, neither CT with a separate diagnostic MRI nor CT registered to a diagnostic MRI will suffice. Instead, a CT registered with an MRI in the radiotherapy position should be used.

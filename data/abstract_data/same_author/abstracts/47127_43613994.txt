@@ -1,0 +1,2 @@
+On the Equivalence of Recursive and Nonrecursive Datalog Programs
+We study the problem of determining whether a given recursive Datalog program is equivalent to a given nonrecursive Datalog program. Since nonrecursive Datalog programs are equivalent to unions of conjunctive queries, we study also the problem of determining whether a given recursive Datalog program is contained in a union of conjunctive queries. For this problem, we prove doubly exponential upper and lower time bounds. For the equivalence problem, we prove triply exponential upper and lower time bounds.

@@ -1,0 +1,19 @@
+Reconstruction of effective connectivity in the case of asymmetric phase distributions
+BACKGROUND
+The interaction of different brain regions is supported by transient synchronization between neural oscillations at different frequencies. Different measures based on synchronization theory are used to assess the strength of the interactions from experimental data. One method of estimating the effective connectivity between brain regions, within the framework of the theory of weakly coupled phase oscillators, was implemented in Dynamic Causal Modelling (DCM) for phase coupling (Penny et al., 2009). However, the results of such an approach strongly depend on the observables used to reconstruct the equations (Kralemann et al., 2008). In particular, an asymmetric distribution of the observables could result in a false estimation of the effective connectivity between the network nodes.
+
+
+NEW METHOD
+In this work we built a new modelling part into DCM for phase coupling, and extended it with a distortion function that accommodates departures from purely sinusoidal oscillations.
+
+
+RESULTS
+By analysing numerically generated data sets with an asymmetric phase distribution, we demonstrated that the extended DCM for phase coupling with the additional modelling component, correctly estimates the coupling functions.
+
+
+COMPARISON WITH EXISTING METHODS
+The new method allows for different intrinsic frequencies among coupled neuronal populations and provides results that do not depend on the distribution of the observables.
+
+
+CONCLUSIONS
+The proposed method can be used to analyse effective connectivity between brain regions within and between different frequency bands, to characterize m:n phase coupling, and to unravel underlying mechanisms of the transient synchronization.

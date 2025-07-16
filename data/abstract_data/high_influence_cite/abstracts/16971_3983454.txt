@@ -1,0 +1,13 @@
+INTEGRODIFFERENTIAL EQUATIONS FOR CONTINUOUS MULTISCALE WAVELET SHRINKAGE
+The relations between wavelet shrinkage and nonlinear diffusion for 
+ discontinuity-preserving signal denoising are fairly well-understood 
+ for single-scale wavelet shrinkage, but not for the practically 
+ relevant multiscale case. In this paper we show that 1-D multiscale 
+ continuous wavelet shrinkage can be linked to novel integrodifferential 
+ equations. They differ from nonlinear diffusion filtering and corresponding 
+ regularisation methods by the fact that they involve smoothed derivative 
+ operators and perform a weighted averaging over all scales. Moreover, 
+ by expressing the convolution-based smoothed derivative operators by 
+ power series of differential operators, we show that multiscale wavelet 
+ shrinkage can also be regarded as averaging over pseudodifferential 
+ equations.

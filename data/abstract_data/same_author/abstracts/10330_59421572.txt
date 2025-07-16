@@ -1,0 +1,2 @@
+The development of a rad-hard CMOS chip for the binary readout of the ATLAS semiconductor tracker
+A new version of the ABC (Atlas Binary Chip) has been submitted to Honeywell. The design contains many enhancements over the original ABC: new DAC circuitry for improved radiation hardness, faster and more robust logic parts and new interface elements to the CAFE chip. Each of these design elements will be described in detail as well as the status of the ongoing test program. Additionally, plans for production testing of ABC’s will be presented.

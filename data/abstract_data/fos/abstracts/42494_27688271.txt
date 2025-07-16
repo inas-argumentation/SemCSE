@@ -1,0 +1,15 @@
+SU-E-J-59: Dual Imaging Guided Localization System for Spine Radiosurgery.
+PURPOSE
+To compare localization accuracies between an ExacTrac and cone beam computed tomography (CBCT) systems for single fraction spine adiosurgery. The work also aimed to evaluate the inherent systematic deviation of both ExacTrac and CBCT systems to achieve highly accurate localization in the spine radiosurgery.
+
+
+METHODS
+ExacTrac and CBCT imaging systems were evaluated using the linac isocenter as the mutual reference point. First, a BB was placed in an anthropomorphic pelvic phantom. The phantom was localized with both imaging systems and the procedure was repeated 12 times. These results were used to devise a localization protocol using both imaging systems in spine radiosurgery, and employed for 51 patients (81 isocenters) prescribed for single fraction treatment. The displacement discrepancy between the isocenter and two systems were quantified in four dimensions (three translations, one rotation). A Student's two-tailed t-test was used to test for significant differences between the two imaging systems.
+
+
+RESULTS
+The phantom study showed 1.4±0.5, 0.6±0.5, and 0.1±0.5 mm differences between the two imaging systems in the anterior/posterior (A/P), superior/inferior (S/I) and left/right (L/R) directions, respectively. The angular difference was minimal along all three axes. The patient study revealed similar isocenter discrepancies between ExacTrac and CBCT of 1.1 ± 0.7 mm, 1.0±0.9 mm, and 0.2±0.9 mm in the A/P, S/I, and L/R directions, respectively, with the A/P and S/I directions showing statistical significance ((t(80) = 13.5 and 7.6 respectively, p = 0.000). The couch yaw discrepancy was 0 ± 0.3°. Overall, 1 mm systematic differences were observed in the A/P and S/I directions between ExacTrac and CBCT localization systems, both in phantom and patient. A procedure was developed to mitigate this systematic discrepancy.
+
+
+CONCLUSIONS
+These findings have justified our patient localization tolerance levels of 2 mm translation and 1 degree rotation for spine SRS treatment.

@@ -1,0 +1,2 @@
+Comparison of CORSIKA and COSMOS simulations
+Ultra‐high‐energy cosmic rays (UHECRs) refer to cosmic rays with energy above 1018 eV. UHECR experiments utilize simulations of extensive air shower to estimate the properties of UHECRs. The Telescope Array (TA) experiment employs the Monte Carlo codes of CORSIKA and COSMOS to obtain EAS simulations. In this paper, we compare the results of the simulations obtained from CORSIKA and COSMOS and report differences between them in terms of the longitudinal distribution, Xmax‐value, calorimetric energy, and energy spectrum at ground.

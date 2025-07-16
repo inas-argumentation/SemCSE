@@ -1,0 +1,15 @@
+Online Magnetic Resonance Image Guided Adaptive Radiation Therapy: First Clinical Applications.
+PURPOSE
+To demonstrate the feasibility of online adaptive magnetic resonance (MR) image guided radiation therapy (MR-IGRT) through reporting of our initial clinical experience and workflow considerations.
+
+
+METHODS AND MATERIALS
+The first clinically deployed online adaptive MR-IGRT system consisted of a split 0.35T MR scanner straddling a ring gantry with 3 multileaf collimator-equipped (60)Co heads. The unit is supported by a Monte Carlo-based treatment planning system that allows real-time adaptive planning with the patient on the table. All patients undergo computed tomography and MR imaging (MRI) simulation for initial treatment planning. A volumetric MRI scan is acquired for each patient at the daily treatment setup. Deformable registration is performed using the planning computed tomography data set, which allows for the transfer of the initial contours and the electron density map to the daily MRI scan. The deformed electron density map is then used to recalculate the original plan on the daily MRI scan for physician evaluation. Recontouring and plan reoptimization are performed when required, and patient-specific quality assurance (QA) is performed using an independent in-house software system.
+
+
+RESULTS
+The first online adaptive MR-IGRT treatments consisted of 5 patients with abdominopelvic malignancies. The clinical setting included neoadjuvant colorectal (n=3), unresectable gastric (n=1), and unresectable pheochromocytoma (n=1). Recontouring and reoptimization were deemed necessary for 3 of 5 patients, and the initial plan was deemed sufficient for 2 of the 5 patients. The reasons for plan adaptation included tumor progression or regression and a change in small bowel anatomy. In a subsequently expanded cohort of 170 fractions (20 patients), 52 fractions (30.6%) were reoptimized online, and 92 fractions (54.1%) were treated with an online-adapted or previously adapted plan. The median time for recontouring, reoptimization, and QA was 26 minutes.
+
+
+CONCLUSION
+Online adaptive MR-IGRT has been successfully implemented with planning and QA workflow suitable for routine clinical application. Clinical trials are in development to formally evaluate adaptive treatments for a variety of disease sites.

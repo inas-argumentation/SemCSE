@@ -1,0 +1,2 @@
+Optimality of marginal likelihood estimating equations
+In the presence of nuisance parameters, Godambe (1976) showed an optimality property of the conditional efficient score. We derive analogous results for marginal likelihood when the remainder of the likelihood is conditionally complete. The method of deriving this result is shown to be useful for deriving other optimality results. including optimality of the partial score.

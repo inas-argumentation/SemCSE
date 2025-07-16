@@ -1,0 +1,2 @@
+An improved worst-case to average-case connection for lattice problems
+We improve a connection of the worst-case complexity and the average-case complexity of some well-known lattice problems. This fascinating connection was first discovered by Ajtai (1995). We improve the exponent of this connection from 8 to 3.5+/spl epsiv/.

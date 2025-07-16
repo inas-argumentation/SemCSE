@@ -1,0 +1,15 @@
+Probe-based quantitative PCR assay for detecting constitutional and somatic deletions in the NF1 gene: application to genetic testing and tumor analysis.
+BACKGROUND
+About 5% of patients with neurofibromatosis type 1 (NF1) bear constitutional microdeletions that encompass NF1 (neurofibromin 1) and neighboring genes. These patients are characterized by the development of a high number of dermal neurofibromas (dNFs), mental retardation, and an increased risk of developing a malignant peripheral nerve sheath tumor (MPNST). Additionally, 10% of somatic second hits identified in dNFs are caused by deletions involving the NF1 gene. To detect constitutional and somatic deletions, we developed a probe-based quantitative PCR (qPCR) assay for interrogating the copy number status of 11 loci distributed along a 2.8-Mb region around the NF1 gene.
+
+
+METHODS
+We developed the qPCR assay with Universal ProbeLibrary technology (Roche) and designed a Microsoft Excel spreadsheet to analyze qPCR data for copy number calculations. The assay fulfilled the essential aspects of the MIQE (minimum information for publication of quantitative real-time PCR experiments) guidelines and used the qBase relative quantification framework for calculations.
+
+
+RESULTS
+The assay was validated with a set of DNA samples with known constitutional or somatic NF1 deletions. The assay showed high diagnostic sensitivity and specificity and distinguished between Type-1, Type-2, and atypical constitutional microdeletions in 14 different samples. It also identified 16 different somatic deletions in dNFs. These results were confirmed by multiplex ligation-dependent probe amplification.
+
+
+CONCLUSIONS
+The qPCR assay provides a methodology for detecting constitutional NF1 microdeletions that could be incorporated as an additional technique in a genetic-testing setting. It also permits the identification of somatic NF1 deletions in tissues with a high percentage of cells bearing 2 copies of the NF1 gene.

@@ -1,0 +1,2 @@
+Coverage Inducing Priors in Nonstandard Inference Problems
+We consider the construction of set estimators that possess both Bayesian credibility and frequentist coverage properties. We show that under mild regularity conditions there exists a prior distribution that induces (1 − α) frequentist coverage of a (1 − α) credible set. In contrast to the previous literature, this result does not rely on asymptotic normality or invariance, so it can be applied in nonstandard inference problems. Supplementary materials for this article are available online.

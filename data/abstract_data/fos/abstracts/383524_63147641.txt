@@ -1,0 +1,2 @@
+Solver Optimization of Combination Problem based on LINGO
+Solvering a large-scale linear programming is the mostly function of LINGO 9.0. But the dissertation is not been found to use LINGO to solver combination problem. This paper constructs a Attack-Function from a typical question - queen Problem, turns the combination problem into a linear problem, Then solves it with LINGO, and gets good application effects. However because of the limit of the software, the dimensions of the solution is limited.

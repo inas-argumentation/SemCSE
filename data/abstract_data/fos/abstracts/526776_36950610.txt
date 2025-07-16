@@ -1,0 +1,2 @@
+On some systems of difference equations
+Abstract In this note we show that the following systems of difference equations u n + 1 = v n 1 + v n , v n + 1 = u n 1 + u n , u n + 1 = v n 1 + u n , v n + 1 = u n 1 + v n , u n + 1 = u n 1 + v n , v n + 1 = v n 1 + u n with n ∈ N 0 and complex initial values u 0 and v 0 , are solvable explicitly by means of Riccati equations, and based on the formulae for the general solutions we present the behaviour of their solutions as n → ∞ . While the result is natural for the first system, it is a bit surprising for the other two systems.

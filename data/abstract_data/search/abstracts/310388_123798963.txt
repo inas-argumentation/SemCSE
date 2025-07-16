@@ -1,0 +1,2 @@
+Performance and Analysis of 1.06mm Direct Detection Wind Lidar
+The 1064nm direct detection Doppler wind lidar based on a Fabry Perot etalon is described in the paper.The design of the Doppler wind lidar is presented,and the performance and the accuracy of the system are estimated.The simulated results show that the error in the velocity dynamic range is less than 2m/s up to 10km,and the error increases with the large radial velocity.The accuracy,resolution and measurement period can be improved with the current parameters of the Mie lidar system.

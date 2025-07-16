@@ -1,0 +1,15 @@
+Experimental assessments of intrafractional prostate motion on sequential and simultaneous boost to a dominant intraprostatic lesion.
+PURPOSE
+To investigate experimentally the impact of intrafractional prostate motion on the delivered dose to a dominant intraprostatic lesion (DIL) using volumetric modulated arc therapy (VMAT) and intensity modulated radiation therapy (IMRT) with sequential and simultaneous boost.
+
+
+METHODS
+A series of six IMRT and VMAT treatment plans were generated, evaluated, and compared for two patient CT scans with dissimilar anatomies. Plans were generated for the prostate with and without the DIL. Plans were delivered using a Varian CLINAC and 2D dose distributions were measured using mapcheck(TM)-mapphan(TM) system. The effect of the prostate intrafractional motion on the delivery of the plans was studied by delivering the plans to the mapcheck(TM)-mapphan(TM) system on a programmable motion platform. Prostate intrafractional motion was simulated based on six different motion patterns from the literature obtained on Calypso system (Calypso System, Calypso Medical, Seattle, WA, USA) in a clinical study that provided continuous, real-time localization, and monitoring of the prostate. Absolute dose differences and Gamma analysis were used to assess the quality of a total of 42 plans with motion and without motion.
+
+
+RESULTS
+Dose escalation to the whole prostate from 76 to 86 Gy caused the rectum and bladder to exceed normal tissue tolerances in both patients. All the DIL boost plans satisfied the planning criteria and delivery quality assurance when motion was not present. For a single fraction, the motion pattern with large constant shift caused the largest dose delivery discrepancy with mean Gamma value (1.14-1.44) and the lowest plan passing percentage (18.9%-35.7%), while the motion pattern with continuous random changes during treatment had the least impact on dose delivery with mean Gamma value (0.33-0.55) and the highest passing percentage (81.9%-100%) for all the investigated plans. For dose escalation to DIL in the presence of intrafractional prostate motion, a significant difference was observed between the different motion patterns (p < 0.05), but no significant difference in the sensitivity to motion between the various plans was observed (p = 0.30). Based on Gamma analysis, treatment courses in which 15% of the fractions are dominated by severe motion proved to be significantly different from those dominated by random motion (p < 0.05).
+
+
+CONCLUSIONS
+The impact of intrafractional prostate motion on dose delivery is sensitive to different motion patterns but not to different delivery techniques. Dose escalation to DIL using either sequential or simultaneous boost plans with 7 mm PTV margin is achievable in the presence of intrafractional prostate motion, even if the severe motion comprised 8.6% (3 out of the 35) treatment fractions.

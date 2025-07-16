@@ -1,0 +1,2 @@
+On a model for the storage of files on a hardware I : Statistics at a fixed time and asymptotics
+We consider a generalized version in continuous time of the parking problem of Knuth. Files arrive following a Poisson point process and are stored on a hardware identified with the real line. We specify the distribution of the space of unoccupied locations at a fixed time and give its asymptotics when the hardware is becoming full.

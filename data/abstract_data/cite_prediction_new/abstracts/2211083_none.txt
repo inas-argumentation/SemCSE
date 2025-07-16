@@ -1,0 +1,2 @@
+Magnetic Pole Identification for PMSM at Zero Speed Based on Space Vector PWM
+This paper contributes to an improved magnetic pole identification based on space vector PWM for an arbitrary initial rotor position of PM synchronous machines. The principle of magnetic pole identification is discussed and the N-S pole identification method based on space vector PWM presented. The improved identification method is verified by experiment results

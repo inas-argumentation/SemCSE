@@ -1,0 +1,3 @@
+A polynomial time computable metric between point sets
+. Measuring the similarity or distance between sets of points in a metric space is an important problem in machine learning and has also applications in other disciplines e.g. in computational geometry, philosophy of science, methods for updating or changing theories, 
+$\ldots$. Recently Eiter and Mannila have proposed a new measure which is computable in polynomial time. However, it is not a distance function in the mathematical sense because it does not satisfy the trian gle inequality. We introduce a new measure which is a metric while being computable in polynomial time. We also present a variant which computes a normalised metric and a variant which can associate different weights with the points in the set.

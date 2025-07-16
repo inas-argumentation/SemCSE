@@ -1,0 +1,2 @@
+Some statistical issues in the comparison of speech recognition algorithms
+The authors present two simple tests for deciding whether the difference in error rates between two algorithms tested on the same data set is statistically significant. The first (McNemar's test) requires the errors made by an algorithm to be independent events and is found to be most appropriate for isolated word algorithms. The second (a matched pairs test) can be used even when errors are not independent events and is more appropriate for connected speech.<ETX>

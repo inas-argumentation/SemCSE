@@ -1,0 +1,15 @@
+Regulation of Wnt signaling by the nuclear pore complex.
+BACKGROUND & AIMS
+The function of beta-catenin as a transcriptional coactivator of T-cell factor-4 (TCF-4) is crucial for colorectal carcinogenesis. However, beta-catenin has no nuclear localization signal, and the mechanisms by which beta-catenin is imported into the nucleus and forms a complex with the TCF-4 nuclear protein are poorly understood.
+
+
+METHODS
+Proteins of 2 colorectal cancer cell lines, HCT-116 and DLD1, were immunoprecipitated with anti-TCF-4 antibody and analyzed directly by nanoflow liquid chromatography and mass spectrometry. The functional significance of nuclear pore complex (NPC) proteins in Wnt signaling was evaluated by in vitro and in vivo sumoylation, luciferase reporter, and colony formation assays.
+
+
+RESULTS
+TCF-4 interacted with a large variety of NPC proteins including ras-related nuclear protein (Ran), Ran binding protein-2 (RanBP2), and Ran GTPase-activating protein-1 (RanGAP1). The NPC protein RanBP2 functioned as the small ubiquitin-related modifier (SUMO) E3 ligase of TCF-4, and sumoylation of TCF-4 enhanced the interaction between TCF-4 and beta-catenin. The overexpression of NPC proteins increased the nuclear import of the TCF-4 and beta-catenin proteins and enhanced the transcriptional activity. NPC proteins increased the growth of colorectal cancer cells, whereas sentrin-specific protease-2 inhibited it.
+
+
+CONCLUSIONS
+Through a comprehensive proteomics approach, we revealed that NPC functions as a novel regulator of Wnt signaling and is possibly involved in colorectal carcinogenesis. A new drug targeting the interactions of TCF-4 with NPC proteins as well as their sumoylation activity might be effective for suppressing aberrant Wnt signaling and the proliferation of colorectal cancer cells.

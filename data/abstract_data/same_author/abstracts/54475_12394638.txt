@@ -1,0 +1,2 @@
+Planar Graphs with Circular Chromatic Numbers between 3 and 4
+This paper proves that for every rational number r between 3 and 4, there exists a planar graph G whose circular chromatic number is equal to r. Combining this result with a recent result of Moser, we arrive at the conclusion that every rational number r between 2 and 4 is the circular chromatic number of a planar graph.

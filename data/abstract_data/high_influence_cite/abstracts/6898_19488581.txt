@@ -1,0 +1,2 @@
+Time-discretization of stochastic 2-D Navier-Stokes equations with a penalty-projection method
+A time-discretization of the stochastic incompressible Navier--Stokes problem by penalty method is analyzed. Some error estimates are derived, combined, and eventually arrive at a speed of convergence in probability of order 1/4 of the main algorithm for the pair of variables velocity and pressure. Also, using the law of total probability, we obtain the strong convergence of the scheme for both variables.

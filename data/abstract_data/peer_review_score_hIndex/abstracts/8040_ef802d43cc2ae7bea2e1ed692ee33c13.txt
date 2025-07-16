@@ -1,0 +1,4 @@
+Recursive Neighborhood Pooling for Graph Representation Learning
+While massage passing based Graph Neural Networks (GNNs) have become increasingly popular architectures for learning with graphs, recent works have revealed important shortcomings in their expressive power. In response, several higher-order GNNs have been proposed, which substantially increase the expressive power, but at a large computational cost.
+  Motivated by this gap, we introduce and analyze a new recursive pooling technique of local neighborhoods that allows different tradeoffs of computational cost and expressive power. First, we show that this model can count subgraphs of size $k$, and thereby overcomes a known limitation of low-order GNNs. Second, we prove that, in several cases, RNP-GNNs can greatly reduce computational complexity compared to the existing higher-order $k$-GNN and Local Relational Pooling (LRP) networks. 
+ 

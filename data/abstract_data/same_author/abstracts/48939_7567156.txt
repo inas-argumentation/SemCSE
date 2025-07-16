@@ -1,0 +1,2 @@
+Optimized Encodings of Fragments of Type Theory in First Order Logic
+The paper presents sound and complete translations of several fragments of Martin-Lof's monomorphic type theory to first order predicate calculus. The translations are optimised for the purpose of automated theorem proving in the mentioned fragments. The implementation of the theorem prover Gandalf and several experimental results are described.

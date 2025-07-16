@@ -1,0 +1,2 @@
+The Z-Transformation graph for an outerplane bipartite graph has a Hamilton path
+The Z-transformation graph of perfect matchings of a plane bipartite graph G has the perfect matchings of G as vertices, two perfect matchings being adjacent if their symmetric difference forms a cycle that is the boundary of an interior face of G. In this note, we prove that the Z-transformation graph of perfect matchings of an outerplane bipartite graph has a Hamilton path.

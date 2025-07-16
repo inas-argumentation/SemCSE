@@ -1,0 +1,2 @@
+Analysis and Research on Energy Consumption of MAC Layer Nodes of IEEE802.15.4/ZigBee
+Energy consumption is one of the important performance parameter of wireless sensor networks, investigates the technology standard of ZigBee wireless sensor networks. At the MAC layer, explores and analyzes its mechanism of sleep and power-saving mode. Based on this, performs the feasibility analysis of applying IEEE802.15.4 standard to wireless links with a low energy consumption and low data transmission rate.

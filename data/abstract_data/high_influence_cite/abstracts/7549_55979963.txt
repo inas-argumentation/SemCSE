@@ -1,0 +1,17 @@
+Vibration and Dynamic Response Control of Nonuniform Composite Rotating Blades
+This paper addresses the free vibration, dynamic response, and the 
+active control of composite rotating pretwisted blades modeled as 
+nonuniform thin-walled beams, fixed at the hub at a setting 
+angle, and incorporating piezoelectrically induced damping 
+capabilities. In this sense, a distributed piezoelectric actuator 
+system activated through the application of an out-of-phase 
+electrical current is used to suppress the dynamic response of the 
+rotating beam subjected to a Heaviside pulse. The blade model 
+incorporates nonclassical effects such as transverse shear, 
+secondary warping, and rotary inertias, and includes the 
+centrifugal and Coriolis force fields. A velocity feedback control 
+law relating the piezoelectrically induced bending moment at the 
+beam tip with appropriately selected kinematical response 
+quantities is used, and the beneficial effects of its 
+implementation upon the closed loop eigenvibration and dynamic 
+characteristics of the blade are highlighted.

@@ -1,0 +1,2 @@
+Average-Case Analysis via Incompressibility
+We will demonstrate how to use Kolmogorov complexity to do the average-case analysis via some examples. These examples include: longest common subsequence problem and shortest common supersequence problem [9, 11], problems in computational geometry [14], average case analysis of Heapsort [19, 17], average nni-distance between two binary rooted leave-labeled trees [23], compact routing in computer networks.

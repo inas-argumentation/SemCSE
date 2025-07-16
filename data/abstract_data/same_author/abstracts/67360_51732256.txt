@@ -1,0 +1,2 @@
+Nonlinear equations of evolution and nonlinear accretive operators in Banach spaces
+where (assuming that the conjugate space X* of X is strictly convex), / is the mapping of X into X* which assigns to each x of X the bounded linear functional w = J(x) such that (w, x) = \\w\\'\\x\\ and IMHWI. I t is our object in the present note to present some new and sharper results on two related topics: (1) The existence theory of solutions for the initial value problem for nonlinear equations of evolution of the form (2) du/di + T(t)u(t) = ƒ(/, u(t)) (t è 0)

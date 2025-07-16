@@ -1,0 +1,2 @@
+Constructing semisimple subalgebras of real semisimple Lie algebras
+We consider the problem of constructing semisimple subalgebras of real (semi-) simple Lie algebras. We develop computational methods that help to deal with this problem. Our methods boil down to solving a set of polynomial equations. In many cases the equations turn out to be sufficiently “pleasant” to be able to solve them. In particular this is the case for Ssubalgebras.

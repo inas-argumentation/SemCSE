@@ -1,0 +1,2 @@
+Texture analysis with variational hidden Markov trees
+A variational Bayes formulation of the hidden Markov tree (HMT) model is proposed for texture analysis, utilizing a multilevel wavelet decomposition of imagery. The variational method yields an approximation to the full posterior of the HMT parameters. Texture classification is based on the posterior predictive distribution or marginalized evidence, with example results presented.

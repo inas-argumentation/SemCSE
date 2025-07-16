@@ -1,0 +1,2 @@
+Optimal Allocation Based on Cost, Testing Effort and Reliability
+In this paper, we investigate a software resource allocation problem. We incorporate generalized modified weibull testing effort function in software reliability growth model to get a better description of the software debugging process. The main purpose is to minimize the cost of software development when the number of remaining faults and a desired reliability objective are given. A real software failure project is demonstrated the effectiveness of proposed models.

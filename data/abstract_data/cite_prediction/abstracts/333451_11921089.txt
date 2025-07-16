@@ -1,0 +1,2 @@
+Transforming Web Tables to a Relational Database
+HTML tables represent a significant fraction of web data. The often complex headers of such tables are determined accurately using their indexing property. Isolated headers are factored to extract category hierarchies. Web tables are then transformed into a canonical form and imported into a relational database. The proposed processing allows for the formulation of arbitrary SQL queries over the collection of induced relational tables. Keywords—table segmentation; Wang categories; header paths; relational table SQL queries

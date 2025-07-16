@@ -1,0 +1,2 @@
+Binarization effects in a correlator with noisy input data.
+Correlations of binarized data and gray-scale data in the presence of additive noise are compared using two performance criteria (mean ratio and peak-to-sidelobe ratio). General expressions are provided to evaluate these performance measures as a function of input data length, bandwidth, and signal-to-noise ratio. We find that binarized correlators outperform gray-scale correlators when the input SNR(i) exceeds a threshold level that depends on input bandwidth and sequence length.

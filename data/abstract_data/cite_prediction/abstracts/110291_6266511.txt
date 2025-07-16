@@ -1,0 +1,2 @@
+A Faster R-CNN Multi-Object Detector on a Nvidia Jetson TX1 Embedded System: Demo
+This paper details the implementation of the deep Faster R-CNN algorithm (Faster R-CNN model) for multi-object detection on Nvidia Jetson TX1 Embedded System. The Jetson TX1 device is a development board proposed by NVIDIA for applications requiring high computational performance in a low-power envelope.

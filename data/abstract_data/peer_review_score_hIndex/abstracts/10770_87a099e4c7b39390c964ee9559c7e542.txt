@@ -1,0 +1,2 @@
+Concentration inequalities under sub-Gaussian and sub-exponential conditions
+We prove analogues of the popular bounded difference inequality (also called McDiarmid's inequality) for functions of independent random variables under sub-gaussian and sub-exponential conditions. Applied to vector-valued concentration and the method of Rademacher complexities these inequalities allow an easy extension of uniform convergence results for PCA and linear regression to the case potentially unbounded input- and output variables.

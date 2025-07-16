@@ -1,0 +1,2 @@
+Guest Editors' Introduction: Mining Software Archives
+Modern programming environments automatically collect lots of data on software development, notably changes and defects. The field of mining software archives is concerned with the automated extraction, collection, and abstraction of information from this data. This is the introduction to a special issue of IEEE Software presenting a selection of the exciting research that is taking place in the field.

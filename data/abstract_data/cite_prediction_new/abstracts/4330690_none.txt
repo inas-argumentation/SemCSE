@@ -1,0 +1,2 @@
+Partial Regularity of Weak Solutions of the Viscoelastic Navier-Stokes Equations with Damping
+We prove an analogue of the Caffarelli--Kohn--Nirenberg theorem for weak solutions of a system of PDEs that model a viscoelastic fluid in the presence of an energy damping mechanism. The system was recently introduced as a possible method of establishing the global-in-time existence of weak solutions of the well-known Oldroyd system.

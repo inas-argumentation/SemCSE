@@ -1,0 +1,2 @@
+A Monotone Function Given By a Low-Depth Decision Tree That Is Not an Approximate Junta
+We present a family a monotone functions fd :f0; 1g n !f0; 1g so that fd can be computed as a depth-d decision tree and so that fd disagrees with any k-junta on a constant fraction of inputs for any k = exp(o( p d)). This gives a negative answer to a problem

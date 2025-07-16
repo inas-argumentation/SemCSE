@@ -1,0 +1,15 @@
+Can binary early warning scores perform as well as standard early warning scores for discriminating a patient's risk of cardiac arrest, death or unanticipated intensive care unit admission?
+INTRODUCTION
+Although the weightings to be summed in an early warning score (EWS) calculation are small, calculation and other errors occur frequently, potentially impacting on hospital efficiency and patient care. Use of a simpler EWS has the potential to reduce errors.
+
+
+METHODS
+We truncated 36 published 'standard' EWSs so that, for each component, only two scores were possible: 0 when the standard EWS scored 0 and 1 when the standard EWS scored greater than 0. Using 1564,153 vital signs observation sets from 68,576 patient care episodes, we compared the discrimination (measured using the area under the receiver operator characteristic curve--AUROC) of each standard EWS and its truncated 'binary' equivalent.
+
+
+RESULTS
+The binary EWSs had lower AUROCs than the standard EWSs in most cases, although for some the difference was not significant. One system, the binary form of the National Early Warning System (NEWS), had significantly better discrimination than all standard EWSs, except for NEWS. Overall, Binary NEWS at a trigger value of 3 would detect as many adverse outcomes as are detected by NEWS using a trigger of 5, but would require a 15% higher triggering rate.
+
+
+CONCLUSIONS
+The performance of Binary NEWS is only exceeded by that of standard NEWS. It may be that Binary NEWS, as a simplified system, can be used with fewer errors. However, its introduction could lead to significant increases in workload for ward and rapid response team staff. The balance between fewer errors and a potentially greater workload needs further investigation.

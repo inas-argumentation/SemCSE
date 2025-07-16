@@ -1,0 +1,2 @@
+A wideband noise-canceling CMOS LNA exploiting a transformer
+A broadband LNA incorporating single-ended to differential conversion, has been successfully implemented using a noise-canceling technique and a single on-chip transformer. The LNA achieves a high voltage gain of 19dB, a wideband input match (2.5-4.0 GHz), and a noise figure of 4-5.4 dB, while consuming only 8mW. The LNA is implemented in a 90nm CMOS process with 6 metal layers

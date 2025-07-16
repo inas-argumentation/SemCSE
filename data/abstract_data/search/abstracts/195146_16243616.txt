@@ -1,0 +1,2 @@
+Local Convergence of the Alternating Least Squares Algorithm for Canonical Tensor Approximation
+A local convergence theorem for calculating canonical low rank tensor approximations (PARAFAC, CANDECOMP) by the alternating least squares algorithm is established. The main assumption is that the Hessian matrix of the problem is positive definite modulo the scaling indeterminacy. A discussion, whether this is realistic, and numerical illustrations are included. Also regularization is addressed.

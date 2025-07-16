@@ -1,0 +1,2 @@
+Aircraft Engine Gas Path Fault Diagnosis Based on Fuzzy Inference
+The working condition of aircraft engines is very complicated and severe. Gas path faults such as degradation of performances, decreasing of work efficiency are the most common fault patterns. In this paper, a fuzzy inference system is established. 9 measured parameters of an aircraft engine are selected as features parameters to detect 21 kinds of gas path fault patterns. The data preprocessing methods and the effect of measurement noise are also discussed.

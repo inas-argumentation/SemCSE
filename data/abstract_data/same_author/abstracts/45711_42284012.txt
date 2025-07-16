@@ -1,0 +1,14 @@
+Efficient Algorithms for k-Terminal Cuts on Planar Graphs
+The minimum k-terminal cut problem is of considerable theoretical interest and arises in several
+applied areas such as parallel and distributed computing, VLSI circuit design, and networking. In this paper
+we present two new approximation and exact algorithms for this problem on an n-vertex undirected weighted
+planar graph G. For the case when the k terminals are covered by the boundaries of m > 1 faces of G, we
+give a min{O(n2 log n logm), O(m2n1.5 log2n + kn)} time algorithm with a (2–2/k)-approximation ratio
+(clearly, m \le k). For the case when all k terminals are covered by the boundary of one face of G, we give an
+O(nk3 + (n log n)k2) time exact algorithm, or a linear time exact algorithm if k = 3, for computing an optimal
+k-terminal cut. Our algorithms are based on interesting observations and improve the previous algorithms when
+they are applied to planar graphs. To our best knowledge, no previous approximation algorithms specifically
+for solving the k-terminal cut problem on planar graphs were known before. The (2–2/k)-approximation
+algorithm of Dahlhaus et al. (for general graphs) takes O(kn2 log n) time when applied to planar graphs. Our
+approximation algorithm for planar graphs runs faster than that of Dahlhaus et al. by at least an O(k/logm)
+factor (m \le k).

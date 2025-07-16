@@ -1,0 +1,2 @@
+New interpolation algorithm for evaluation a spatial profile of plasma densities in radio frequency discharges.
+A new interpolation to estimate a spatial profile of plasma densities of unmeasured regions for two-dimensional probe diagnostics is proposed. Our algorithm is based on the plasma diffusion characteristics. From a comparison with a well known interpolation, Modified Shepard, it has been found that our method gives more accurate plasma density profile, especially at the edge region of the measurement substrate, and improves computational efficiency.

@@ -1,0 +1,2 @@
+Expansion by regions: revealing potential and Glauber regions automatically
+When performing asymptotic expansions using the strategy of expansion by regions, it is a non-trivial task to find the relevant regions. The recently published Mathematica code asy.m automates this task, but it has not been able to detect potential regions in threshold expansions or Glauber regions. In this work we present an algorithm and its implementation in the update asy2.m which also reveals potential and Glauber regions automatically.

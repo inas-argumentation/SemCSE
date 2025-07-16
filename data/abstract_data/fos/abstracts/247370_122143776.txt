@@ -1,0 +1,2 @@
+A martingale approach to the problem of dimensionality and performance of bayesian classifiers: asymptotic results
+A martingale approach to the problem of performance of Bayesian classifiers with increasing feature dimensionality is applied here . Martingale limit theorems are also used to demonstrate that the expected probability of correct classification tends monotonically to unity for two general classification problems.

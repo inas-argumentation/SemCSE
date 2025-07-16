@@ -1,0 +1,19 @@
+The effect of MLC speed and acceleration on the plan delivery accuracy of VMAT.
+OBJECTIVE
+To determine a new metric utilizing multileaf collimator (MLC) speeds and accelerations to predict plan delivery accuracy of volumetric modulated arc therapy (VMAT).
+
+
+METHODS
+To verify VMAT delivery accuracy, gamma evaluations, analysis of mechanical parameter difference between plans and log files, and analysis of changes in dose-volumetric parameters between plans and plans reconstructed with log files were performed with 40 VMAT plans. The average proportion of leaf speeds ranging from l to h cm s(-1) (Sl-h and l-h = 0-0.4, 0.4-0.8, 0.8-1.2, 1.2-1.6 and 1.6-2.0), mean and standard deviation of MLC speeds were calculated for each VMAT plan. The same was carried out for accelerations in centimetre per second squared (Al-h and l-h = 0-4, 4-8, 8-12, 12-16 and 16-20). The correlations of those indicators to plan delivery accuracy were analysed with Spearman's correlation coefficient (rs).
+
+
+RESULTS
+The S1.2-1.6 and mean acceleration of MLCs showed generally higher correlations to plan delivery accuracy than did others. The highest rs values were observed between S1.2-1.6 and global 1%/2 mm (rs = -0.698 with p < 0.001) as well as mean acceleration and global 1%/2 mm (rs = -0.650 with p < 0.001). As the proportion of MLC speeds and accelerations >0.4 and 4 cm s(-2) increased, the plan delivery accuracy of VMAT decreased.
+
+
+CONCLUSION
+The variations in MLC speeds and accelerations showed considerable correlations to VMAT delivery accuracy.
+
+
+ADVANCES IN KNOWLEDGE
+As the MLC speeds and accelerations increased, VMAT delivery accuracy reduced.

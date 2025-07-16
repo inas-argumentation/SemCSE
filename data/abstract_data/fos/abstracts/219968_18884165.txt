@@ -1,0 +1,2 @@
+Plug-and-Play IP Security - Anonymity Infrastructure instead of PKI
+We present the Plug-and-Play IP Security (PnP-IPsec) protocol. PnP-IPsec automatically establishes IPsec security associations between gateways, avoiding the need for manual administration and coordination between gateways, and the dependency on IPsec public key certificates - the two problems which are widely believed to have limited the use of IPsec mostly to intra-organization communication.

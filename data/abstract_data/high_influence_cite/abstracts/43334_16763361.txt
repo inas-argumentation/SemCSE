@@ -1,0 +1,2 @@
+Virasoro operators in the continuous basis of string field theory
+In this work we derive two important tools for working in the κ basis of string field theory. First we give an analytical expression for the finite part of the spectral density ρfin. This expression is relevant when both matter and ghost sectors are considered. Then we calculate the form of the matter part of the Virasoro generators Ln in the κ basis, which construct string field theory's derivation QBRST. We find that the Virasoro generators are given by one dimensional delta functions with complex arguments.

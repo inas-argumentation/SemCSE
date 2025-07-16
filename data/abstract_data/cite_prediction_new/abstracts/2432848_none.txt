@@ -1,0 +1,2 @@
+Cascade and Triangular Source Coding With Side Information at the First Two Nodes
+We consider the cascade and triangular rate-distortion problem where side information is known to the source encoder and to the first user but not to the second user. We characterize the rate-distortion region for these problems, as well as some of their extensions. For the quadratic Gaussian case, we show that it is sufficient to consider jointly Gaussian distributions, which leads to an explicit solution.

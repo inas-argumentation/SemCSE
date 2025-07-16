@@ -1,0 +1,2 @@
+Research of Multi-stage emergency resource scheduling model
+Emergency Command System is the core and the central of the Emergency Management support system. Reasonable allocation of emergency resources, layout, scheduling is the base of emergency command system to play a role efficiently. Based on the present problems of emergency resource transporting scheduling, the emergency resource scheduling problem is solved using linear programming, dynamic programming and dynamic game theory. A multi-stage resource scheduling model is designed.

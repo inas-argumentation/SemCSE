@@ -1,0 +1,8 @@
+Evaluation of moving bed biofilm reactor (MBBR) by applying adaptive neuro-fuzzy inference systeme (ANFIS), radial basis function (RBF) and Fuzzy Regression Analysis
+The purpose of this study is to investigate the accuracy of predictions of aniline removal efficiency in a moving bed biofilm reactor (MBBR) by various methods, namely by RBF, ANFIS, and fuzzy regression analysis. The reactor was operated in an aerobic batch and was filled by light expanded clay aggregate (LECA) as a carrier for the treatment of Aniline synthetic wastewater. Exploratory data analysis was used to detect relationships between the independent and the dependent evaluated data. The models were found to be efficient and robust tools in predicting MBBR performance. Results showed that increasing the neurons in the hidden layer would improve the function of RBF network. The ANFIS model made according to the membership functions of generalized bell, triangular, and Gaussian with R2 equals to 0.99 and RMS error of 0.027 for the anticipation of the concentration of Aniline and R2 equals to 0.99 and RMS error of 0.034 for the prediction of removal COD efficiency. 
+Highlights 
+ 
+Application of ANN-based models (RBF network), ANFIS models and Fuzzy regression as a robust tool in predicting MBBR efficiency 
+Determination of process efficiency in various operation conditions for the treatment of aniline  synthetic wastewater 
+ 
+ANFIS had more ability than fuzzy regression analysis in simulating and predicting removal efficiency in different experimental conditions.

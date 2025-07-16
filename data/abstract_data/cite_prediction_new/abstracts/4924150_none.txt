@@ -1,0 +1,2 @@
+Implementation issues of Bio-AXS: an object-oriented framework for integrating biological data and applications
+Bio-AXS is an object-oriented framework tool that aims at integrating genomic databases as well as related applications. This approach provides the expected flexibility, reusability and extensibility requirements of this domain. We present here an overview of Bio-AXS implementation issues that show how this tool may be effectively used in practice.

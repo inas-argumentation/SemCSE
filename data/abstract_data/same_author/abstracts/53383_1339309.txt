@@ -1,0 +1,2 @@
+Financial APT-Based Gaussian TFA Learning for Adaptive Portfolio Management
+Adaptive portfolio management has been studied in the literature of neural nets and machine learning. The recently developed Temporal Factor Analysis (TFA) model mainly targeted for further study of the Arbitrage Pricing Theory (APT) is found to have potential applications in portfolio management. In this paper, we aim to illustrate the superiority of APT-based portfolio management over return-based portfolio management.

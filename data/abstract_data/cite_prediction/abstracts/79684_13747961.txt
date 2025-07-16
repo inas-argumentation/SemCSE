@@ -1,0 +1,2 @@
+Improving Entity Linking by Modeling Latent Relations between Mentions
+• In-domain: 91% F1 on the dev set, 5 we reduced the learning rate from 10−4 to 10−5. We then stopped the training when F1 was not improved after 20 epochs. We did the same for ment-norm except that the learning rate was changed at 91.5% F1. Note that all the hyper-parameters except K and the turning point for early stopping were set to the values used by Ganea and Hofmann (2017). Systematic tuning is expensive though may have further ncreased the result of our models.

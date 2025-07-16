@@ -1,0 +1,2 @@
+Online Hardware Task Scheduling and Placement Algorithm on Partially Reconfigurable Devices
+In this paper, we propose an online hardware task scheduling and placement algorithm and evaluate it performance. Experimental results on large random task set show that our algorithm outperforms the existing algorithms in terms of reduced total wasted area up to 89.7%, has 1.5 % shorter schedule time and 31.3% faster response time.

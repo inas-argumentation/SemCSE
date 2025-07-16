@@ -1,0 +1,2 @@
+Detecting DNA cytosine methylation using nanopore sequencing
+In nanopore sequencing devices, electrolytic current signals are sensitive to base modifications, such as 5 methylcytosine (5 mC) Here we quantified the strength of this effect for the Oxford Nanopore Technologies MinION sequencer. By using synthetically methylated DNA, we were able to train a hidden Markov model to distinguish 5 mC from unmethylated cytosine. We applied our method to sequence the methylome of human DNA, without requiring special steps for library preparation.

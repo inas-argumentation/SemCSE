@@ -1,0 +1,2 @@
+Diagnosis of Propeller Fault of Electric Propulsion Ship Based on Stator Current
+The ship propeller math model of the electric propulsion ship is established,and the relation between the propeller torque and the motor stator current is studied. The spectrum analysis of the motor stator current is performed to diagnose the fault of the propeller of the electric propulsion ship. The method is proved effective by simulation test.

@@ -1,0 +1,2 @@
+On solving large systems of polynomial equations appearing In discrete differential geometry
+The poster describes methods that combined find all solutions of a very large overdetermined polynomial algebraic system for only up to 22 unknowns but with billions of equations all homogeneous of degree 8 with on average millions of terms each. This problem resulted from the classification of all integrable 3-dimensional scalar discrete quasilinear equations Q3 = 0 on an elementary cubic cell of the lattice Z3.

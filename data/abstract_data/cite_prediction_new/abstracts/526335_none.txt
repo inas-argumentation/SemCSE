@@ -1,0 +1,2 @@
+Algorithm for Finding the Center of Circular Fiducials
+A technique to estimate the center of circles under noisy conditions is described. The technique, which is a version of the Hough transform uses bisectors of circle cords instead of edge direction information (used by the Hough transform), in order to reduce the computational effort. The technique is shown to perform well with and without noise.

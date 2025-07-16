@@ -1,0 +1,2 @@
+Edge-colouring random graphs
+Let pn denote the proportion of n-vertex graphs in class 2, that is, such that the chromatic index exceeds the maximum vertex degree. We extend a result of Erdős and Wilson, and show that n−(12 + e)n < pn < n−(18 − e)n for n sufficiently large.

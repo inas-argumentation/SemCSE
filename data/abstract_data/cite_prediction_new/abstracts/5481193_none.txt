@@ -1,0 +1,2 @@
+The Complexity of the List Homomorphism Problem for Graphs
+We completely classify the computational complexity of the list H-colouring problem for graphs (with possible loops) in combinatorial and algebraic terms: for every graph H, the problem is either NP-complete, NL-complete, L-complete or is first-order definable; descriptive complexity equivalents are given as well via Datalog and its fragments. Our algebraic characterisations match important conjectures in the study of constraint satisfaction problems.

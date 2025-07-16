@@ -1,0 +1,11 @@
+Predicting RNA structures: the model of the RNA element binding Rev meets the NMR structure.
+BACKGROUND
+How accurate are the predictions of RNA three-dimensional structures? Assessing this accuracy requires the detailed comparison of the prediction with the experimentally determined structure. Previously, sequence variation in RNA aptamers that bind the Rev protein was used to infer a three-dimensional model of the Rev-binding element (RBE) RNA. Although much of this model has been substantiated by subsequent experimental data, its validity remains to be determined by confronting it with the structure determined by NMR spectroscopy.
+
+
+RESULTS
+A series of different criteria such as geometric parameters (root mean square deviation, interproton distances, torsions and puckering), helicoidal parameters (base pairing and base stacking) and stability considerations (conformational energies) have been evaluated to identify common and distinguishing structural characteristics of the model and the NMR structure.
+
+
+CONCLUSIONS
+The detailed comparison of the two structures reveals striking structural similarities at both the global and local level that validate the RNA modeling approach that we have used. Analysis of the structural differences and the precision of the model suggest that the limitations of the method are related to the amount of structural information available for modeling.

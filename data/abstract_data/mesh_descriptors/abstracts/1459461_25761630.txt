@@ -1,0 +1,15 @@
+Role of principal component analysis in predicting toxicity in prostate cancer patients treated with hypofractionated intensity-modulated radiation therapy.
+PURPOSE
+To determine if principal component analysis (PCA) and standard parameters of rectal and bladder wall dose-volume histograms (DVHs) of prostate cancer patients treated with hypofractionated image-guided intensity-modulated radiotherapy (hypo-IMRT) can predict acute and late gastrointestinal (GI) toxicity.
+
+
+METHODS AND MATERIALS
+One hundred twenty-one patients underwent hypo-IMRT at 3 Gy/fraction, 5 days/week to either 60 Gy or 66 Gy, with daily online image guidance. Acute and late GI and genitourinary (GU) toxicity were recorded weekly during treatment and at each follow-up. All Radiation Therapy Oncology Group (RTOG) criteria toxicity scores were dichotomized as <2 and ≥2. Standard dosimetric parameters and the first five to six principal components (PCs) of bladder and rectal wall DVHs were tested for association with the dichotomized toxicity outcomes, using logistic regression.
+
+
+RESULTS
+Median follow-up of all patients was 47 months (60 Gy cohort = 52 months; 66 Gy cohort = 31 months). The incidence rates of ≥2 acute GI and GU toxicity were 14% and 29%, respectively, with no Grade ≥3 acute GU toxicity. Late GI and GU toxicity scores ≥2 were 16% and 15%, respectively. There was a significant difference in late GI toxicity ≥2 when comparing the 66 Gy to the 60 Gy cohort (38% vs. 8%, respectively, p = 0.0003). The first PC of the rectal DVH was associated with late GI toxicity (odds ratio [OR], 6.91; p < 0.001), though it was not significantly stronger than standard DVH parameters such as Dmax (OR, 6.9; p < 0.001) or percentage of the organ receiving a 50% dose (V50) (OR, 5.95; p = 0 .001).
+
+
+CONCLUSIONS
+Hypofractionated treatment with 60 Gy in 3 Gy fractions is well tolerated. There is a steep dose response curve between 60 Gy and 66 Gy for RTOG Grade ≥2 GI effects with the dose constraints employed. Although PCA can predict late GI toxicity for patients treated with hypo-IMRT for prostate cancer, it provides no additional information over using more standard DVH parameters.

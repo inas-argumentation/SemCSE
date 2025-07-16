@@ -1,0 +1,2 @@
+Integrating a periodic and recurrent tasks on fair-scheduled multiprocessors
+We propose two server implementations for multiplexing aperiodic and recurrent real-time tasks in fair-scheduled multiprocessor systems. We also provide admission-control tests for scheduling hard aperiodic tasks. Further, we consider several complexities, most of which arise because of the parallelism available in multiprocessor systems, and present techniques to handle them. Finally, we present experimental results that demonstrate the effectiveness of our implementations.

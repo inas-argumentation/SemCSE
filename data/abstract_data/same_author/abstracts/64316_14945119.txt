@@ -1,0 +1,2 @@
+Applying AutoBayes to the analysis of planetary nebulae images
+We take a typical scientific data analysis task, the analysis of planetary nebulae images taken by the Hubble Space Telescope, and describe how program synthesis can be used to generate the necessary analysis programs from high-level models. We describe the AutoBayes synthesis system, discuss its fully declarative specification language, and present the automatic program derivation starting with the scientists' original analysis.

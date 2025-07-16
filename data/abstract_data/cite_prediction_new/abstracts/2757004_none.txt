@@ -1,0 +1,2 @@
+Finite Precision Controllers for Robust Pole Assignment of Linear Systems with Nonlinear Uncertain Structure
+Finite precision dynamic output feedback controllers are proposed for robust pole assignment of SISO linear systems with nonlinear uncertain structure. The realizability of the controller is guaranteed by designing an independent from the uncertainties controller. Necessary and sufficient conditions for the problem to have a solution, as well as the general solution for the controller parameters are derived.

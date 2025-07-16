@@ -1,0 +1,2 @@
+Design of a 220 GHz gyrotron oscillator
+The design of a 15 kW,220 GHz gyrotron operating in TE03 mode is presented according to the linear theory and the nonlinear self-consistent theory of gyrotrons.The gyrotron's electron beam current is 2 A and its electron beam voltage is 20 kV.The results of the simulation using PIC code show that the efficiency of beam-wave interaction is as high as 37%.

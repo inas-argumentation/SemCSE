@@ -1,0 +1,15 @@
+Optimal detection of fetal chromosomal abnormalities by massively parallel DNA sequencing of cell-free fetal DNA from maternal blood.
+BACKGROUND
+Massively parallel DNA sequencing of cell-free fetal DNA from maternal blood can detect fetal chromosomal abnormalities. Although existing algorithms focus on the detection of fetal trisomy 21 (T21), these same algorithms have difficulty detecting trisomy 18 (T18).
+
+
+METHODS
+Blood samples were collected from 1014 patients at 13 US clinic locations before they underwent an invasive prenatal procedure. All samples were processed to plasma, and the DNA extracted from 119 samples underwent massively parallel DNA sequencing. Fifty-three sequenced samples came from women with an abnormal fetal karyotype. To minimize the intra- and interrun sequencing variation, we developed an optimized algorithm by using normalized chromosome values (NCVs) from the sequencing data on a training set of 71 samples with 26 abnormal karyotypes. The classification process was then evaluated on an independent test set of 48 samples with 27 abnormal karyotypes.
+
+
+RESULTS
+Mapped sites for chromosomes of interest in the sequencing data from the training set were normalized individually by calculating the ratio of the number of sites on the specified chromosome to the number of sites observed on an optimized normalizing chromosome (or chromosome set). Threshold values for trisomy or sex chromosome classification were then established for all chromosomes of interest, and a classification schema was defined. Sequencing of the independent test set led to 100% correct classification of T21 (13 of 13) and T18 (8 of 8) samples. Other chromosomal abnormalities were also identified.
+
+
+CONCLUSION
+Massively parallel sequencing is capable of detecting multiple fetal chromosomal abnormalities from maternal plasma when an optimized algorithm is used.

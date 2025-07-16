@@ -1,0 +1,2 @@
+An Extension of Lambda-Calculus for Functional Programming
+An implementation oriented modification of lambda-calculus is presented together with some additional conversion rules for list manipulations. The resulting set of axioms is very simple and provides for a theoretical foundation of the semantics of functional programming. At the same time it can be used directly for the implementation of a powerful graph-reduction algorithm.

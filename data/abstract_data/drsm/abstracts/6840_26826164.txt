@@ -1,0 +1,31 @@
+Whole exome sequencing in recurrent early pregnancy loss.
+STUDY HYPOTHESIS
+Exome sequencing can identify genetic causes of idiopathic recurrent pregnancy loss (RPL).
+
+
+STUDY FINDING
+We identified compound heterozygous deleterious mutations affecting DYNC2H1 and ALOX15 in two out of four families with RPL. Both genes have a role in early development. Bioinformatics analysis of all genes with rare and putatively pathogenic mutations in miscarriages and couples showed enrichment in pathways relevant to pregnancy loss, including the complement and coagulation cascades pathways.
+
+
+WHAT IS KNOWN ALREADY
+Next generation sequencing (NGS) is increasingly being used to identify known and novel gene mutations in children with developmental delay and in fetuses with ultrasound-detected anomalies. In contrast, NGS is rarely used to study pregnancy loss. Chromosome microarray analysis detects putatively causative DNA copy number variants (CNVs) in ∼2% of miscarriages and CNVs of unknown significance (predominantly parental in origin) in up to 40% of miscarriages. Therefore, a large number of miscarriages still have an unknown cause.
+
+
+STUDY DESIGN, SAMPLES/MATERIALS, METHODS
+Whole exome sequencing (WES) was performed using Illumina HiSeq 2000 platform on seven euploid miscarriages from four families with RPL. Golden Helix SVS v8.1.5 was used for data assessment and inheritance analysis for deleterious DNA variants predicted to severely disrupt protein-coding genes by introducing a frameshift, loss of the stop codon, gain of the stop codon, changes in splicing or the initial codon. Webgestalt (http://bioinfo.vanderbilt.edu/webgestalt/) was used for pathway and disease association enrichment analysis of a gene pool containing putatively pathogenic variants in miscarriages and couples in comparison to control gene pools.
+
+
+MAIN RESULTS AND THE ROLE OF CHANCE
+Compound heterozygous mutations in DYNC2H1 and ALOX15 were identified in miscarriages from two families with RPL. DYNC2H1 is involved in cilia biogenesis and has been associated with fetal lethality in humans. ALOX15 is expressed in placenta and its dysregulation has been associated with inflammation, placental, dysfunction, abnormal oxidative stress response and angiogenesis. The pool of putatively pathogenic single nucleotide variants (SNVs) and small insertions and deletions (indels) detected in the miscarriages showed enrichment in 'complement and coagulation cascades pathway', and 'ciliary motility disorders'. We conclude that CNVs, individual SNVs and pool of deleterious gene mutations identified by exome sequencing could contribute to RPL.
+
+
+LIMITATIONS, REASONS FOR CAUTION
+The size of our sample cohort is small. The functional effect of candidate mutations should be evaluated to determine whether the mutations are causative.
+
+
+WIDER IMPLICATIONS OF THE FINDINGS
+This is the first study to assess whether SNVs may contribute to the pathogenesis of miscarriage. Furthermore, our findings suggest that collective effect of mutations in relevant biological pathways could be implicated in RPL.
+
+
+STUDY FUNDING AND COMPETING INTERESTS
+The study was funded by Canadian Institutes of Health Research (grant MOP 106467) and Michael Smith Foundation of Health Research Career Scholar salary award to ERS.

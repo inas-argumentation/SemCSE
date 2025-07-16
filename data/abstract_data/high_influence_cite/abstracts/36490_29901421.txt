@@ -1,0 +1,14 @@
+LL conflict resolution using the embedded left LR parser
+A method for resolving LL(k) conflicts using small LR(k) parsers (called 
+ embedded left LR(k) parsers) is described. An embedded left LR(k) parser is 
+ capable of (a) producing the prefix of the left parse of the input string and 
+ (b) stopping not on the end-of-file marker but on any string from the set of 
+ lookahead strings fixed at the parser generation time. The conditions 
+ regarding the termination of the embedded left LR(k) parser if used within 
+ LL(k) (and similar) parsers are defined and examined in-depth. It is proved 
+ that an LL(k) parser augmented with a set of embedded left LR(k) parsers can 
+ parse any deterministic context-free grammar in the same asymptotic time as 
+ LR(k) parser. As the embedded left LR(k) parser produces the prefix of the 
+ left parse, the LL(k) parser augmented with embedded left LR(k) parsers still 
+ produces the left parse and the compiler writer does not need to bother with 
+ different parsing strategies during the compiler implementation.

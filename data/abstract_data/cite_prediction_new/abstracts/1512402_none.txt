@@ -1,0 +1,2 @@
+Space complexity: what makes planar graphs special?
+The purpose of this article is to survey several useful properties of planar graphs that can be exploited specifically in the context of space bounded computation to obtain ecient algorithms. For completeness we also point out some situations where planar restrictions remain computationally as hard as general graphs.

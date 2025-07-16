@@ -1,0 +1,2 @@
+Reinforcement learning in a nutshell
+We provide a concise introduction to basic approaches to reinforcement learning from the machine learning perspective. The focus is on value function and policy gradient methods. Some selected recent trends are highlighted.

@@ -1,0 +1,2 @@
+The minimum vertex degree for an almost-spanning tight cycle in a 3-uniform hypergraph
+We prove that any $3$-uniform hypergraph whose minimum vertex degree is at least $\left(\frac{5}{9} + o(1) \right)\binom{n}{2}$ admits an almost-spanning tight cycle, that is, a tight cycle leaving $o(n)$ vertices uncovered. The bound on the vertex degree is asymptotically best possible. Our proof uses the hypergraph regularity method, and in particular a recent version of the hypergraph regularity lemma proved by Allen, Bottcher, Cooley and Mycroft.

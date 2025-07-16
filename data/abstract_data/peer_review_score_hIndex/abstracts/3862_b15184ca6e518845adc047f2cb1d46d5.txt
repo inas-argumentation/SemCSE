@@ -1,0 +1,8 @@
+Visual Imitation Learning with Recurrent Siamese Networks
+People are incredibly skilled at imitating others by simply observing them. They achieve this even in the presence of significant morphological differences and capabilities. Further, people are able to do this from raw perceptions of the actions of others, without direct access to the abstracted demonstration actions and with only partial state information. People therefore solve a difficult problem of understanding the salient features of both observations of others and the relationship to their own state when learning to imitate specific tasks.
+However, we can attempt to reproduce a similar demonstration via trail and error and through this gain more understanding of the task space.
+To reproduce this ability an agent would need to both learn how to recognize the differences between itself and some demonstration and at the same time learn to minimize the distance between its own performance and that of the demonstration.
+In this paper we propose an approach using only visual information to learn a distance metric between agent behaviour and a given video demonstration.
+We train an RNN-based siamese model to compute distances in space and time between motion clips while training an RL policy to minimize this distance.
+Furthermore, we examine a particularly challenging form of this problem where the agent must learn an imitation based task given a single demonstration.
+We demonstrate our approach in the setting of deep learning based control for physical simulation of humanoid walking in both 2D with $10$ degrees of freedom (DoF) and 3D with $38$ DoF.

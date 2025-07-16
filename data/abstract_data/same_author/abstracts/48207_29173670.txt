@@ -1,0 +1,2 @@
+Dynamic Visualization of Spatially Referenced Information
+This paper proposes a dynamic visualization approach that combines the graph metaphor and the spatial metaphor for visualizing and navigating spatially referenced data. It provides users with a “marching” scheme for viewing a series of graphs G1, G2, ... Gn that are related to a spatial map. Moreover, It provides three types of navigation mechanisms. This dynamic visualization can facilitate the processes of spatially referenced data mining.

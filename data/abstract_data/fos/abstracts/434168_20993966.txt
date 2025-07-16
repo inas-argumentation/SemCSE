@@ -1,0 +1,15 @@
+Dependence of image quality on geometric factors in breast tomosynthesis.
+PURPOSE
+Accurate and precise knowledge of the geometric relationships between the physical components (x-ray source, pivot point, and elements of the x-ray detector) critically influences the quality of reconstructed images in digital breast tomosynthesis (DBT). The sensitivity of image reconstruction to geometric inaccuracies is investigated by simulation of image formation and reconstruction for a DBT system.
+
+
+METHODS
+A mathematical simulation of a partial isocentric system is described. A block "phantom" containing small calcific particles is used to evaluate the effect of three linear and three angular parameters on localization of structures within the reconstructed image and on lesion contrast. Two types of geometric errors are studied: fixed offset inaccuracies and random interprojection inaccuracies in the context of a filtered back projection reconstruction algorithm.
+
+
+RESULTS
+It is shown that, in general, fixed offset errors lead to little degradation of image quality. However, a lack of precision in interprojection geometric parameters can cause a loss in lesion contrast and introduce artifacts. For example, projection mismatches of the gantry angle of 0.14 degrees (standard deviation) can reduce reconstructed lesion intensity by 20%. Reconstruction is particularly sensitive to detector yaw angle mismatches; even small fixed offset errors (0.31 degrees) in detector yaw can reduce lesion intensity by 20%. Interprojection variations in geometric parameters can also cause localization errors. For example, if detector yaw variations between projections occur and these are not accounted for, a standard deviation of 0.34 degrees can be expected to induce 1 mm root-mean-square error shift in lesion location.
+
+
+CONCLUSIONS
+In a simulation of image acquisition in DBT, the sensitivities in image quality to six geometric parameters were evaluated. Image reconstructions are relatively tolerant of fixed offset errors except for detector yaw. However, uncorrected variations in interprojection geometric parameters induce losses in lesion contrast and localization. Lesion contrast is affected more strongly by these errors compared to lesion localization in tomosynthesis.

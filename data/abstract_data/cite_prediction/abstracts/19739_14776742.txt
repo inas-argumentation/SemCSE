@@ -1,0 +1,2 @@
+HDR Deghosting: How to Deal with Saturation?
+We present a novel method for aligning images in an HDR (high-dynamic-range) image stack to produce a new exposure stack where all the images are aligned and appear as if they were taken simultaneously, even in the case of highly dynamic scenes. Our method produces plausible results even where the image used as a reference is either too dark or bright to allow for an accurate registration.

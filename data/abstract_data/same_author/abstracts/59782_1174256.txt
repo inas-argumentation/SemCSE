@@ -1,0 +1,4 @@
+The chromatic difference sequence of the Cartesian product of graphs
+The chromatic difference sequence cds(G) of a graph G with chromatic number n is defined by cds(G) = (a(1), a(2),…, a(n)) if the sum of a(1), a(2),…, a(t) is the maximum number of vertices in an induced t-colorable subgraph of G for t = 1, 2,…, n. The Cartesian product of two graphs G and H, denoted by G□H, has the vertex set V(G□H = V(G) x V(H) and its edge set is given by (x1, y1)(x2, y2) ϵ E(G□H) if either x1 = x2 and y1 y2 ϵ E(H) or y1 = y2 and x1x2 ϵ E(G). 
+ 
+We obtained four main results: the cds of the product of bipartite graphs, the cds of the product of graphs with cds being nondrop flat and first-drop flat, the non-increasing theorem for powers of graphs and cds of powers of circulant graphs.

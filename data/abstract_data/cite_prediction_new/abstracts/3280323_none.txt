@@ -1,0 +1,2 @@
+HMM Training by Using a Self-Organizing Map for Time Series Prediction
+For individual investors to analyze changes in stock prices and foreign exchange rates to predict future trends is an extremely difficult task. In order to enable such predictions based on the analysis of time series data sets, this research proposes a method combining a Self-Organizing Map with a Hidden Markov Model and provides evidence for its usefulness in making predictions.

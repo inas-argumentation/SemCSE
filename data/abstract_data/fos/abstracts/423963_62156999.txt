@@ -1,0 +1,2 @@
+The single-server machine interference model with balking, reneging and an additional server for longer queues
+This paper treats the single-server machine interference model: M/M/1/m/m with balking, reneging and an additional server for longer queues. The discipline considered here is first in, first out (FIFO). The steady-state probabilities and some measures of effectiveness are derived in an explicit form. Finally, some particular cases for the two models M/M/1/m/m and M/M/2/m/m are deduced.

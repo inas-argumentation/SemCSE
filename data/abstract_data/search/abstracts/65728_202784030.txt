@@ -1,0 +1,2 @@
+An adaptive approach to vehicle trajectory prediction using multimodel Kalman filter
+With the aim to improve road safety services in critical situations, vehicle trajectory and future location prediction are important tasks. An infinite set of possible future trajectories can exit

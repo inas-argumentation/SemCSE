@@ -1,0 +1,8 @@
+Strong Robustness of Randomized Rumor Spreading Protocols
+Randomized rumor spreading is a classic protocol to disseminate information in a network. At SODA 2008, a quasirandom version of this protocol was proposed and competitive bounds for its run-time were proven. This prompts the question: to what extent does the quasirandom protocol inherit the second principal advantage of randomized rumor spreading, namely robustness against transmission failures? 
+ 
+A tentative solution was proposed at ICALP 2009 where it was demonstrated that if each transmission reaches its destination with a probability of p ? (0,1], the run-time increases by a factor of approximately 4/p. In this paper, we follow up on this research and provide a result precise up to (1 ±o(1)) factors. We limit ourselves to the network in which every two vertices are connected by a direct link. Run-times accurate to their leading constants are unknown for all other non-trivial networks. 
+ 
+For networks on n nodes, we show that after $(1+\varepsilon)(\log_{1+p}n+\frac{1}{p}\ln n)$ rounds, the quasirandom protocol with probability 1 ? n ? c(?, p) has informed all nodes in the network. Note that this is faster than the intuitively natural 1/p factor increase over the run-time of approximately log2 n + ln n for the non-corrupted case. 
+ 
+We also provide a corresponding lower bound for the classical model. This demonstrates that the quasirandom model is at least as robust as the fully random model despite the greatly reduced degree of independent randomness.

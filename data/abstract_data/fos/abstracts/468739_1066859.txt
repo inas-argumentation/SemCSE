@@ -1,0 +1,2 @@
+Numerical method for the propagation of quantum-mechanical wave functions in phase space.
+A recently proposed phase-space representation for quantum mechanics provides a formal means for investigating the correspondence between classical and quantum mechanics. To explore the implications of this new representation, we introduce a numerical method for propagating an initial wave function directly in phase space. We illustrate the usefulness of the proposed method by analyzing two simple quantum-mechanical systems in phase space

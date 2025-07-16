@@ -1,0 +1,2 @@
+An Undetectable Computer Virus
+One of the few solid theoretical results in the study of computer viruses is Cohen's 1987 demonstration that there is no algorithm that can perfectly detect all possible viruses [1] This brief paper adds to the bad news, by pointing out that there are computer viruses which no algorithm can detect, even under a somewhat more liberal definition of detection. We also comment on the senses of "detect" used in these results, and note that the immediate impact of these results on computer virus detection in the real world is small.

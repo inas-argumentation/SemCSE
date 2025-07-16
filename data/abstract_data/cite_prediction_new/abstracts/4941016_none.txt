@@ -1,0 +1,2 @@
+Robust Model-Based Fault Tolerant Control of a Mobile Structure - Application to an Inverted Pendulum
+A model-based approach to design a robust fault tolerant control of a mobile structure is studied. The method considers the application of robust control techniques to integrate the control design and the fault diagnosis. The main purpose of this approach is to design a robust controller insensitive to the effects of faults and a fault detector filter. This approach is applied to a particular unstable mobile structure, an inverted pendulum.

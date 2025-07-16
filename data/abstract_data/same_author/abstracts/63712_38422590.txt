@@ -1,0 +1,2 @@
+Action Recognition Using Space-Time Shape Difference Images
+A common approach to human action recognition is to use 2-D silhouettes in the space-time volume as a basis for further extraction of useful features. In this paper, we present a novel motion representation based on difference images. We show that this representation exploits the dynamics of motion, and show its effectiveness in action recognition. Moreover, experimental results demonstrate that this method is highly accurate and is not sensitive to the resolution of the video.

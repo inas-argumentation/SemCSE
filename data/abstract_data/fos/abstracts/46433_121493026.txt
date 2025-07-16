@@ -1,0 +1,2 @@
+Testing a markov chain for independence
+A bootstrap procedure is proposed for testing whether an observed Markov chain is actually an independent process, based on the observed transition probability matrix. The results of simulations showing the power and size of the bootstrap test are presented. The asymptotic distribution of the non-unit eigenvalues is given under the null hypothesis.

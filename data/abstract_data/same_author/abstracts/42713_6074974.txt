@@ -1,0 +1,2 @@
+Vertex Ranking of Asteroidal Triple-Free Graphs
+We present an efficient algorithm for computing the vertex ranking number of an asteroidal triple-free graph. Its running time is bounded by a polynomial in the number of vertices and the number of minimal separators of the input graph.

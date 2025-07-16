@@ -1,0 +1,2 @@
+Weight enumerator of some irreducible cyclic codes
+In this article, we show explicitly all possible weight enumerators for every irreducible cyclic code of length $$n$$n over a finite field $${\mathbb {F}}_q$$Fq, in the case which each prime divisor of $$n$$n is also a divisor of $$q-1$$q-1.

@@ -1,0 +1,2 @@
+Bounds for the cohomology and the Castelnuovo regularity of certain surfaces
+Let X ⊆ P r be a reduced, irreducible and non-degenerate projective variety over an algebraically closed field K of characteristic 0. Let reg( x ) be the Castelnuovo-Mumford regularity of the sheaf of ideals associated to X . Then it is an open problem—due to D. Eisenbud (see e.g. [E-Go])—whether (0.1) reg( X ) ≤ deg( x ) - codim ( x ) + 1, where deg( x ) denotes the degree of X and codim( x ) denotes the codimension of X . In many cases, this inequality has been proven to hold true.

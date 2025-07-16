@@ -1,0 +1,2 @@
+Semi-fragile Watermarking in Biometric Systems: Template Self-Embedding
+Embedding biometric templates as image-dependent watermark information in semi-fragile watermark embedding is proposed. Experiments in an iris recognition environment show that the embedded templates can be used to verify sample data integrity and may serve additionally to increase robustness in the biometric recognition process.

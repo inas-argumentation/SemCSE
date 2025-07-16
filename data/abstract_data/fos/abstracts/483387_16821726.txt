@@ -1,0 +1,2 @@
+World's First Class C Web Census: The First Step in a Complete Census of the Web
+Our research goal is to measure the exact size of the World Wide Web (i.e., a census). The measure we are interested in is the number of publicly accessible web servers on port 80. We present the results from an initial survey of 3.5% of all addressable IP addresses. This is the largest survey of the Web performed to date. We then present results from the world’s first census of all Class C IP addresses. We also describe our approach for a full census of the Internet.

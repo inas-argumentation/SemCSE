@@ -1,0 +1,2 @@
+Experimenting with object navigation in parallel object databases
+This paper addresses the problem of selecting the best object navigation strategy for a query to be run in parallel, when considering multiple alternative strategies. This is done by performing experiments with three pointer-based join algorithms, running simple and complex queries in a parallel ODMG-compliant object database system. We believe our results provide insights into how physical properties of queries impact on the performance of different joins operators in a parallel environment.

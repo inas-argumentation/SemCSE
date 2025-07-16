@@ -1,0 +1,2 @@
+One Publicly Verifiable Secret Sharing Scheme based on linear code
+In order to solve the problem that all participants in the secret sharing scheme constructed by the linear code may be malicious, we use Shoemakers' PVSS (Publicly Verifiable Secret Sharing) model to construct a PVSS Scheme. This scheme using general access structure which makes different people have different rights in the sharing scheme. Furthermore, private channels are not required between the dealer and the participants, and the non-interactive scheme can be publicly verified.

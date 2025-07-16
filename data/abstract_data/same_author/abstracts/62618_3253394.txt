@@ -1,0 +1,2 @@
+Dynamic tool integration in heterogeneous computer networks
+Tool installation and automation of administrative tasks in heterogeneous computer networks becomes of increasing importance with the availability of complex heterogeneous computer networks. This paper introduces a new approach for dynamic network tool management, i.e., TRMS. A variant of TRMS using SNMP-a well established standard for network administration-is outlined and illustrated by the application of the integration and management of design tools for Printed Circuit Boards (PCBs).

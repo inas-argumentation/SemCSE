@@ -1,0 +1,2 @@
+THE GAUSS–LEGENDRE SKY PIXELIZATION FOR THE CMB POLARIZATION (GLESP-POL) ERRORS DUE TO PIXELIZATION OF THE CMB SKY
+We present the development of the method for numerical analysis of polarization in the Gauss–Legendre sky pixelization (GLESP) scheme for CMB maps. This incorporation of the polarization transforms in the pixelization scheme GLESP completes the creation of our new method for numerical analysis of CMB maps. A comparison of GLESP and HEALPix calculations is done.

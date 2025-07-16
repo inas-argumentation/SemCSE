@@ -1,0 +1,15 @@
+A novel dose-volume metric for optimizing therapeutic ratio through fractionation: retrospective analysis of lung cancer treatments.
+PURPOSE
+To explore the potential of a novel dose-volume based metric to assist in the selection of optimal fractionation schedules for lung cancer patients.
+
+
+METHODS
+Selecting the dose per fraction that maximizes the therapeutic ratio via a linear-quadratic effect on normal tissue complication probability and tumor cell survival is an optimization problem. The mathematical solution reveals that the optimal fractionation schedule is determined by a generalized dose ratio between the normal tissue and the tumor, here termed the bifurcation number B, that can be derived from the dose-volume histogram of the normal tissue. The bifurcation number characterizes the volume effect of a normal tissue and its dependency on the fractionation schedule. The clinical relevance of the bifurcation number was evaluated in 46 patients previously treated for nonsmall cell lung cancer (NSCLC) according to various fractionation protocols. Bifurcation numbers were computed for both lung and esophagus as the normal tissues.
+
+
+RESULTS
+The value of the bifurcation number determines whether the volume effect reverses the traditional radiobiological advantage of small dose per fraction for the normal tissue. If B is smaller than the ratio of alpha/beta ratios between normal tissue and tumor, then a single fraction is optimal; otherwise the optimal treatment is an infinite number of doses (hence the name "bifurcation" number). These fractionation schedules correspond clinically to hypo- and standard/hyperfractionation, respectively. Compared with traditional dose-volume metrics, the bifurcation number is a unitless ratio and independent of dose fractionation. The B-numbers derived from the clinical treatment plans are also strongly consistent with historically prescribed clinical fractionation protocols for NSCLC treatments. The B-numbers for esophagus and lung for all patients receiving a high dose per fraction protocol (>7.5 Gy/fraction) were all smaller than the B-numbers for the patients receiving standard 2 Gy/fraction, with the numbers for the 3 Gy/fraction group in between.
+
+
+CONCLUSIONS
+The bifurcation numbers are strongly consistent with prescribed clinical fractionation protocols for NSCLC treatments. Due to their scale-free property the B-numbers may assist in the selection of an appropriate fractionation once the dose distribution has been optimized.

@@ -1,0 +1,2 @@
+A color adjustment convolutional neural network for image superresolution
+In this paper, we propose superresolution convolutional neural network with color adjustment layer to obtain high quality images. We added a color adjustment layer to the last convolutional neural network layer to correct the color error.

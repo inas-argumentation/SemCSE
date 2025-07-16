@@ -1,0 +1,2 @@
+High voltage charge pump using standard CMOS technology
+An integrated high voltage charge pump circuit utilising intrinsic process features is introduced. It can produce +20 V to +50 V output from a typical 5 V input. The reported charge pumps achieved the highest density and highest output voltages of the industry. Measurements show output ripples of 400 mV for frequencies around 10 MHz and output load of 28 pF. The reported integrated high voltage charge pump circuits was implemented on 0.8 /spl mu/m DALSA semiconductor technology using standard CMOS devices.

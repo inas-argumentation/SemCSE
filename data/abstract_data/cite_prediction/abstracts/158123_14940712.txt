@@ -1,0 +1,2 @@
+An analysis of the GTZAN music genre dataset
+A significant amount of work in automatic music genre recognition has used a dataset whose composition and integrity has never been formally analyzed. For the first time, we provide an analysis of its composition, and create a machine-readable index of artist and song titles. We also catalog numerous problems with its integrity, such as replications, mislabelings, and distortions.

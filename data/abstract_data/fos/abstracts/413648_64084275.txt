@@ -1,0 +1,2 @@
+Design and Implementation of General Online Examination System
+Most of the current examination systems are limited to a particular discipline or professional but ignore its versatility.Based on the needs analysis of generic online examination system which helps to understand the system's functional requirements,designs the system function modules,such as student test,question bank management,exam graded and examination analysis.And gives the implementation details of the key modules and to achieve a perfect generic online examination system.

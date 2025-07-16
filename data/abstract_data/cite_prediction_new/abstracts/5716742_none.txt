@@ -1,0 +1,24 @@
+Loss assessment of building and contents damage from the potential earthquake risk in Seoul, South Korea
+. After the 2016 Gyeongju earthquake and the 2017 Pohang
+earthquake struck the Korean peninsula, securing financial stability
+regarding earthquake risks has become an important issue in South Korea. Many domestic
+researchers are currently studying potential earthquake risk. However,
+empirical analyses and statistical approaches are ambiguous in the case of
+South Korea because no major earthquake has ever occurred on the Korean peninsula
+since the Korean Meteorological Agency started monitoring earthquakes in 1978.
+This study focuses on evaluating possible losses due to earthquake risk in
+Seoul, the capital of South Korea, by using a catastrophe model methodology
+integrated with GIS (Geographic Information Systems). Building
+information, such as structure and location, is taken from the building
+registration database and the replacement cost for buildings is obtained from
+insurance information. As the seismic design code in the KBC (Korea Building
+Code) is similar to the seismic design code of the UBC (Uniform Building Code),
+the damage functions provided by HAZUS-Multi-hazard (HAZUS-MH) are used to assess the damage
+state of each building in event of an earthquake. A total of 12 earthquake scenarios
+are evaluated by considering the distribution and characteristics of active
+fault zones on the Korean peninsula and damages, with total loss amounts are
+calculated for each of the scenarios. The results of this study show that
+loss amounts due to potential earthquakes are significantly lower than those
+of previous studies. The challenge of this study is to implement an
+earthquake response spectrum and to reflect the actual asset value of buildings
+in Seoul.

@@ -1,0 +1,2 @@
+Semi-global stabilization and output regulation of constrained linear plants via measurement feedback
+We developed the design of observer-based measurement feedback controllers for constrained semi-global stabilization and constrained semi-global output regulation for linear systems with right invertible constraints. The observers use high-gain feedback. To avoid the possible constraint violation caused by peaking phenomenon associated with an high-gain observer, appropriate saturation mechanisms are employed in the control laws.

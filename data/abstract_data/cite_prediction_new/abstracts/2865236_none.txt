@@ -1,0 +1,2 @@
+Yield enhancement by multi-level linear modeling of non-idealities in an interpolated flash ADC
+The paper discusses a diagnostic technique for interpolated flash A/D converters based on a multi-level linear model. It allows identification of non-ideality sources, such as layout imperfections or thermal gradients, in the first silicon and provides guidance for the improvement of yield by layout refinement, thus outperforming Monte Carlo techniques which do not usually account for layout-related issues.

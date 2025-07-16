@@ -1,0 +1,2 @@
+Antenna-in-package solution for millimeter-wave applications implemented in a microwave-compatible multilayer PCB technology
+A multi-layer PCB technology is used to implement an antenna-in-package solution for millimeter-wave-frequency applications. The antenna is a 1×2 array of dipoles fed by a vialess balun structure. The measurement and simulation results are compared for return loss and radiation pattern characteristics.

@@ -1,0 +1,2 @@
+A Microinverter for Building-Integrated Photovoltaics
+A transformerless microinverter is described that is intended for integration into building materials such as residential roof shingles. The inverter achieves low profile (3 mm), high efficiency (95.1%) and high-reliability capacitive energy storage using 125°C ceramics. It is intended to interface a 25 W photovoltaic array such as a small thin-film residential roof shingle to the 120 V ac utility. Design tradeoffs involving cost and efficiency are described, and operation of an experimental prototype is documented.

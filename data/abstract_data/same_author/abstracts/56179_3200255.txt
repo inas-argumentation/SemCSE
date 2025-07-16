@@ -1,0 +1,2 @@
+Neural Network Based Classification Using Blur Degradation and Affine Deformation Invariant Features
+Identification of affine deformed and simultaneously blur degraded images is an important task in pattern analysis. Use of global moment features has been one of the most popular techniques for pattern recognition and classification. In this paper, we introduce an approach to derive blur and affine combined moment invariants(BACIs). A neural network(NN) model is then employed to classify objects using these BACIs.

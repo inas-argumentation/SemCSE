@@ -1,0 +1,15 @@
+SU-E-J-77: Clinical Evaluation of a Three-Dimensional Optical Surface Based Imaging Device for Breast Treatment Setup.
+PURPOSE
+The purpose of this work is to evaluate the accuracy of a three-dimensional surface based optical imaging device for treatment setup of breast patients. A commercial system has been used to acquire live surface contour data, which are registered with a reference surface contour for setup corrections. This work is to investigate the accuracy of this system when compared with conventional portal images.
+
+
+METHODS
+The system was clinically applied to twenty breast cancer patients receiving radiotherapy treatment. For each patient, conventional portal imaging before the first fraction was acquired and approved by clinicians. After approval of portal images, a reference surface contour was acquired. This reference contour was subsequently used to guide daily patient setup followed by weekly portal images. A total of 89 sets of portal images were acquired for these patients. On days when portal images were taken, optical images were used to guide for initial patient setup, then portal images were taken and evaluated in order to make direct comparison between the optical imaging system and the conventional portal images.
+
+
+RESULTS
+Among 89 sets of portal images taken after optical imaging guidance, 11 (12%) sets of portal images required further adjustments in order to achieve clinically acceptable criteria. The average vector adjustments for these 11 fractions were 0.65 cm ± 0.30 cm. Average vector shifts made according to the optical imaging for all fractions of 20 patients was 0.66 ± 0.33 cm.
+
+
+CONCLUSIONS
+Our data show that the commercial optical system can improve the accuracy of treatment setup for breast patients without additional radiation exposure. The observed discrepancy between the portal images and optimal images requires further investigation. The optical imaging guidance can be routinely used between normally scheduled portal imaging.

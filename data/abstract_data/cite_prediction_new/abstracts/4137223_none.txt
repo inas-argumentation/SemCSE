@@ -1,0 +1,2 @@
+Integration of declarative paradigms: benefits and challenges
+We discuss the benefits of integrating the most important declarative programming paradigms namely functional and logic programming. Although many problems need to be solved to provide a true amalgamation of these paradigms, such an integration seems to be possible and has positive effects on teaching, research and application of declarative languages.

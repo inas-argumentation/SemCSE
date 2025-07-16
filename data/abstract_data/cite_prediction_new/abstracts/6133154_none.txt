@@ -1,0 +1,2 @@
+TIPPtool: Compositional Specification and Analysis of Markovian Performance Models
+In this short paper we briefly describe a tool which is based on a Markovian stochastic process algebra. The tool offers both model specification and quantitative model analysis in a compositional fashion, wrapped in a userfriendly graphical front-end.

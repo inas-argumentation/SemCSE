@@ -1,0 +1,2 @@
+Statistical Concurrent Non-Malleable Zero Knowledge
+The notion of Zero Knowledge introduced by Goldwasser, Micali and Rackoff in STOC 1985 is fundamental in Cryptography. Motivated by conceptual and practical reasons, this notion has been explored under stronger definitions. We will consider the following two main strengthened notions.

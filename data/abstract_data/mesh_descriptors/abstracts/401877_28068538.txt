@@ -1,0 +1,15 @@
+Comparison of artificial neural networks with logistic regression in prediction of gallbladder disease among obese patients.
+BACKGROUND
+Obesity is a risk factor for gallbladder disease. The authors retrospectively analyse the prevalence and risk factors of gallbladder disease using logistic regression and artificial neural networks among obese patients in Taiwan.
+
+
+METHODS
+Artificial neural networks is a popular technique, which can detect complex patterns within data. They have not been applied to risk of gallbladder disease in obese population. We studied the risk factors associated with gallstones in 117 obese patients who were undergoing bariatric surgery between February 1999 and October 2005. Artificial neural networks, constructed with three-layered back-propagation algorithm, were trained to predict the risk of gallbladder disease. Thirty input variables including clinical data (gender, age, body mass index and associated diseases), laboratory evaluation and histopathologic findings of gallbladder were obtained from the patient records. The result was compared with a logistic regression model developed from the same database.
+
+
+RESULTS
+Artificial neural networks demonstrated better average classification rate and lower Type II errors than those of logistic regression. The risk factors from both data mining techniques were diastolic blood pressure, inflammatory condition, abnormal glucose metabolism and cholesterolosis. The biological significance of inflammatory condition in obese population requires further investigation.
+
+
+CONCLUSION
+Artificial neural networks might be a useful tool to predict the risk factors and prevalence of gallbladder disease and gallstone development in obese patients on the basis of multiple variables related to laboratory and pathological features. The performance of artificial neural networks was better than traditional modeling techniques.

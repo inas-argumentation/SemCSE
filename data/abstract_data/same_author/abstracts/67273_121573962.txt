@@ -1,0 +1,2 @@
+Some inequalities that arise in measure theory
+The Lebesgue measure, λ ( E + F ), of the algebraic sum of two Borel sets, E, F of the classical “middle-thirds’ Cantor set on the circle can be estimated by evaluating the Cantor meaure, μ of the summands. For example log λ ( E + F ) exceeds a fixed scalar multiple of log μ ( E )+ log μ ( F ). Several numerical inequalities which are required to prove this and related results look tantalizingly simple and basic. Here we isolate them from the measure theory and present a common format and proof.

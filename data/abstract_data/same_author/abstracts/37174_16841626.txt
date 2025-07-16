@@ -1,0 +1,2 @@
+Large momentum expansion of two-loop self-energy diagrams with arbitrary masses
+For two-loop two-point diagrams with arbitrary masses, an algorithm to derive the asymptotic expansion at large external momentum squared is constructed. By using a general theorem on asymptotic expansions of Feynman diagrams, the coefficients of the expansion are calculated analytically. For some two-loop diagrams occurring in the Standard Model, comparison with results of numerical integration shows that our expansion works well in the region above the highest physical threshold.

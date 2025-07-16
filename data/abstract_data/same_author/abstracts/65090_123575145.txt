@@ -1,0 +1,2 @@
+FURTHER MONOTONICITY PROPERTIES FOR SPECIALIZED RENEWAL PROCESSES
+Abstract : Define Z(t) to be the forward recurrence time at t for a renewal process with interarrival time distribution, F, which is assumed to be IMRL (increasing mean residual life). It is shown that E phi (z(t)) is increasing in t or = 0 for all increasing convex phi. An example demonstrates that Z(t) is not necessarily stochastically increasing nor is the renewal function necessarily concave. Both of these properties are known to hold for F DFR (decreasing failure rate). (Author)

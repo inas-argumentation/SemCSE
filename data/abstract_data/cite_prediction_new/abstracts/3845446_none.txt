@@ -1,0 +1,2 @@
+K-path centrality: a new centrality measure in social networks
+This paper proposes an alternative way to identify nodes with high betweenness centrality. It introduces a new metric, κ-path centrality, and a randomized algorithm for estimating it, and shows empirically that nodes with high κ-path centrality have high node betweenness centrality. Experimental evaluations on diverse real and synthetic social networks show improved accuracy in detecting high betweenness centrality nodes and significantly reduced execution time when compared to known randomized algorithms.

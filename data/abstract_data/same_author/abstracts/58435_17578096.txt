@@ -1,0 +1,2 @@
+Deformation of Dynamic Surfaces
+Based on dynamic fourth order partial differential equations, we present an iterative finite difference algorithm. With C++ language and OpenGL graphics library, we implement the finite difference algorithm into a user interface and develop shape control parameters, density, damping coefficient, boundary tangents and external forces into user handles for dynamic manipulation of surface deformations. Using the developed user interface, we investigate how these user handles influence the deformation of dynamic surfaces.

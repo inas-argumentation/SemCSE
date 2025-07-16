@@ -1,0 +1,2 @@
+A characterization of and new consistent tests for symmetry
+Let X and Y be independent and identically distributed random variables having a continuous distribution function. We study new consistent tests for symmetry around a known median based on the fact that the distribution of X is symmetric around 0 if, and only if, |X| and |max(X,Y)| have the same distribution.

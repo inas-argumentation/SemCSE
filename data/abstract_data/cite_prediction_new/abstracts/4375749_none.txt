@@ -1,0 +1,2 @@
+A convolutional code decoder design using Viterbi algorithm with register exchange history unit
+In this paper, results of a design of a convolutional code decoder using Viterbi algorithm with path-history unit based on register-exchange architecture are considered. Some functional simulation results for the design are given. Various uses of a designed scheme are possible, mainly in communication systems.

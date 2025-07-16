@@ -1,0 +1,2 @@
+Degree bounds for the circumference of 3-connected graphs
+Let C be a longest cycle in the 3-connected graph G and let H be a component of G V (C) such that jV (H)j 3. We supply estimates of the form jC j 2d (u)þ 2d (v) (4 8), where u; v are suitably chosen non-adjacent vertices in G. Also the exceptional classes for 1⁄4 6;7;8 are characterized. 2005 Wiley Periodicals, Inc. J Graph Theory 50: 55–78, 2005

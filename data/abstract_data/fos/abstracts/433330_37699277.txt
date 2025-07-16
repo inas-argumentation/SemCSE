@@ -1,0 +1,2 @@
+Concurrent measurement of heart rate and instrumental avoidance behavior in the Rhesus monkey.
+A graphical method has been developed for the concurrent recording of heart beats and lever responses during behavioral experiments. The EKG signal fed into any DC amplifier goes to a fixed level trigger circuit and relay driver with its own power supply. The signal from this drives any standard cumulative recorder. Lever response rates are recorded concurrently on an additional cumulative recorder using the same paper speed.

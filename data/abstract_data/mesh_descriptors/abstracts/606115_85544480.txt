@@ -1,0 +1,15 @@
+MRI-based texture analysis of the primary tumor for pre-treatment prediction of bone metastases in prostate cancer.
+PURPOSE
+To identify texture features of multiparametric MRI (mp-MRI) for pre-treatment prediction of bone metastases (BM) in patients with prostate cancer (PCa).
+
+
+PATIENTS AND METHODS
+One-hundred and seventy-six patients with clinicopathologically confirmed PCa were enrolled，and the data was gathered from January 2008 to January 2018. A total of 976 texture features were extracted from T2-weighted (T2-w) and dynamic contrast-enhanced T1-weighted (DCE T1-w) MRI. Step regression, ridge regression and LASSO regression method model was applied to select features and develop the predicting model for BM. The performance of the radiomics features, PSA level and Gleason Score were explored with the respect to the receiver operating characteristics (ROC) curve. Multivariable logistic regression analysis starting with the following clinical risk factors (PSA level, Gleason Score and age) and imaging biomarkers were applied to develop diagnostic model for BM in PCa.
+
+
+RESULTS
+The texture features, which consisted of 15 selected features, were significantly associated with BM (P < 0.01). The combined MRI features derived from T2-w and DCE T1-w showed better prognostic performance (AUC = 0.898) than features derived from single sequence (T2WI AUC = 0.875, DCE T1-w AUC = 0.870) and Gleason Score (AUC = 0.731) for pre-treatment prediction of BM in PCa. MRI -based imaging biomarker combined with clinical risk factors (free PSA, age and Gleason score) yielded the highest AUC(AUC = 0.916). Multivariate regression analysis showed that the imaging biomarker was an independent risk factor for the detection of bone metastases along with f-PSA level (free PSA) and Gleason score.
+
+
+CONCLUSION
+Multiparametric MRI-based texture feature was significant predictor for BM in PCa. Clinical risk factors combined with MRI-based texture feature could further improve the prediction performance, which provide an illustrative example of precision medicine and may affect treatment strategies.

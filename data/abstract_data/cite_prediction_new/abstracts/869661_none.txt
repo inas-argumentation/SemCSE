@@ -1,0 +1,2 @@
+A DC Motor Driven by a DC/DC Boost Converter-Inverter: Modeling and Simulation
+In this paper the new topology DC/DC Boost power converter-inverter-DC motor that allows bidirectional rotation of the motor shaft is presented. In this direction, the system mathematical model is developed considering its different operation modes. Afterwards, the model validation is performed via numerical simulations by using Matlab-Simulink.

@@ -1,0 +1,2 @@
+PRE-FIGHT DETECTION Classification of Fighting Situations Using Heirachical AdaBoost
+: This paper investigates the detection and classification of fighting and pre and post fighting events when viewed from a video camera. Specifically we investigate normal, pre, post and actual fighting sequences and classify them. A hierarchical AdaBoost classifier is described and results using this approach are pre- sented. We show it is possible to classify pre-fighting situations using such an approach and demonstrate how it can be used in the general case of continuous sequences.

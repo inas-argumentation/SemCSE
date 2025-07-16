@@ -1,0 +1,2 @@
+D-optimal statistical designs with restricted string property
+This paper applies Frechet derivatives to derive asymp-totically D-optimal statistical designs where the designmatrix is a (O,l)-matrix having exactly one run [of length at most k(, the number of parameters) of l's in each row. These asymptotic results have been utilized in dealing with the more intractable design problem with a finite number of observations. The problemof E-optimality has also been considered.

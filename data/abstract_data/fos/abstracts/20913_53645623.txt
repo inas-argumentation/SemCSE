@@ -1,0 +1,2 @@
+More Efficient Lattice PRFs from Keyed Pseudorandom Synthesizers
+We develop new constructions of lattice-based PRFs using keyed pseudorandom synthesizers. We generalize all of the known ‘basic’ parallel lattice-based PRFs–those of [BPR12], [BLMR13], and [BP14]–to build highly parallel lattice-based PRFs with smaller modulus (and thus better reductions from worst-case lattice problems) while still maintaining computational efficiency asymptotically equal to the fastest known lattice-based PRFs at only the cost of larger key sizes.

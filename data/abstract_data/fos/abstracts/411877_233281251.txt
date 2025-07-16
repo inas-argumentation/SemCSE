@@ -1,0 +1,14 @@
+Retrieval and evaluation of tropospheric-aerosol extinction profiles using multi-axis differential optical absorption spectroscopy (MAX-DOAS) measurements over Athens, Greece
+. In this study, we report on the retrieval of aerosol extinction profiles from ground-based scattered sunlight multi-axis differential optical
+absorption spectroscopy (MAX-DOAS) measurements, carried out at Athens, Greece. It is the first time that aerosol profiles are retrieved from
+MAX-DOAS measurements in Athens. The reported aerosol vertical distributions at 477  nm are derived from the oxygen dimer ( O4 )
+differential-slant-column-density observations at different elevation angles by applying the BRemen Optimal estimation REtrieval for Aerosol and trace gaseS (BOREAS) retrieval algorithm. Four case studies have been
+selected for validation purposes; the retrieved aerosol profiles and the corresponding aerosol optical depths (AODs) from the MAX-DOAS are compared
+with lidar extinction profiles and with sun-photometric measurements (Aerosol Robotic Network, AERONET, observations), respectively. Despite the different approach of each
+method regarding the retrieval of the aerosol information, the comparison with the lidar measurements at 532  nm reveals a very good
+agreement in terms of vertical distribution, with r>0.90 in all cases. The AODs from the MAX-DOAS and the sun photometer (the latter at
+500  nm ) show a satisfactory correlation (with 0.45  r  0.7 in three out of the four cases). The comparison indicates that the
+MAX-DOAS systematically underestimates the AOD in the cases of large particles (small Angstrom exponent) and for measurements at small
+relative azimuthal angles between the viewing direction and the sun. Better agreement is achieved in the morning, at large relative azimuthal
+angles. Overall, the aerosol profiles retrieved from MAX-DOAS measurements are of good quality; thus, new perspectives are opened up for assessing
+urban aerosol pollution on a long-term basis in Athens from continuous and uninterrupted MAX-DOAS measurements.

@@ -1,0 +1,2 @@
+Forecast efficiency of systematically sampled time series
+In this paper we consider the effect of the sampling interval in systematically sampled time series on the forecast efficiency. We find that for sufficientlv long sampled series the loss in forecasting accuracy by using the sampled instead of the original series is small

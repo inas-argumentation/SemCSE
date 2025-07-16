@@ -1,0 +1,2 @@
+LISA data analysis: Source identification and subtraction
+The Laser Interferometer Space Antenna will operate as an AM-FM receiver for gravitational waves. For binary systems, the source location, orientation and orbital phase are encoded in the amplitude and frequency modulation. The same modulations spread a monochromatic signal over a range of frequencies, making it difficult to identify individual sources. We present a method for detecting and subtracting individual binary signals from a data stream with many overlapping signals.

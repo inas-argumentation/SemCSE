@@ -1,0 +1,2 @@
+Comparing Face Detection and Recognition Techniques
+This paper implements and compares different techniques for face detection and recognition. One is find where the face is located in the images that is face detection and second is face recognition that is identifying the person. We study three techniques in this paper: Face detection using self organizing map (SOM), Face recognition by projection and nearest neighbor and Face recognition using SVM.

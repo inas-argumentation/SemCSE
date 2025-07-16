@@ -1,0 +1,15 @@
+Dicer Sequencing, Whole Genome Methylation Profiling, mRNA and smallRNA Sequencing Analysis in Basal Cell Carcinoma.
+BACKGROUND/AIMS
+Perturbations in the expression of microRNAs (miRNAs) and their maturing machinery components such as Dicer have been previously described for basal cell carcinoma (BCC). However, the mutational status of Dicer in BCC is unclear. Further, the sclerodermiform subtype of BCC (sBCC) has not been previously investigated regarding its methylation profile or its smallRNA expression profile via RNA sequencing. We conducted this study to investigate the mutational status of Dicer in BCC.
+
+
+METHODS
+Dicer sequencing was performed on the Illumina MiSeq System in a total of 16 BCC samples (8 nodular BCCs, 8 sBCCs) and mapped against the human reference genome (i.e., hg19). Dicer sequencing was performed in all 16 BCC samples. We performed whole genome methylation profiling with Infinium MethylationEPIC BeadChips as well as mRNA and smallRNA sequencing in 5 sBCCs with the Illumina NextSeq500 next-generation sequencing system.
+
+
+RESULTS
+Compared to the wildtype Dicer sequence, we found 5 to 7 variants per sBCC sample including insertion, deletion, and multiple nucleotide variants. Global methylation profiles were highly similar between groups. mRNA sequencing revealed S100A9, KRT14, KRT10, S100A8, S100A7, COX1, KRT1, COX3, and smallRNA sequencing analysis miR-21, miR-99a, miR26-a-2, let-7f, let-7g, let-7i, miR-100, and miR-205 were the most strongly expressed in sBCCs.
+
+
+CONCLUSION
+We identified a variety of Dicer mutations that could play a role in aberrant miRNA expression in BCC. The noted RNA sequences should be further evaluated in functional studies to explore their potential pathogenetic role in sBCC.

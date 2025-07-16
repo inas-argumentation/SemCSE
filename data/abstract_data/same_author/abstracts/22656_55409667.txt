@@ -1,0 +1,6 @@
+Spinor two-point functions in maximally symmetric spaces
+AbstractThe two-point function for spinors on maximally symmetric four-dimensional spaces is obtained in terms of intrinsic geometric objects. In the massless case, Weyl spinors in anti de Sitter space can not satisfy boundary conditions appropriate to the supersymmetric models. This is because these boundary conditions break chiral symmetry, which is proven by showing that the “order parameter”
+$$\left\langle {\bar \psi \psi } \right\rangle $$
+ for a massless Dirac spinor is nonzero. We also give a coordinate-independent formula for the bispinor
+$$S(x)\bar S(x')$$
+ introduced by Breitenlohner and Freedman [1], and establish the precise connection between our results and those of Burges, Davis, Freedman and Gibbons [2].

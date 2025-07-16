@@ -1,0 +1,30 @@
+The MIPAS/Envisat climatology (2002–2012) of polar stratospheric cloud volume density profiles
+. A global data set of vertical profiles of polar stratospheric cloud (PSC)
+volume density has been derived from Michelson Interferometer for Passive
+Atmospheric Sounding (MIPAS) space-borne infrared limb measurements between
+2002 and 2012. To develop a well characterized and efficient retrieval
+scheme, systematic tests based on limb-radiance simulations for PSCs from in
+situ balloon observations have been performed. The finally selected
+wavenumber range was
+831–832.5  cm−1 . Optical constants of nitric acid trihydrate (NAT)
+have been used to derive maximum and minimum profiles of volume density which
+are compatible with MIPAS observations under the assumption of small,
+non-scattering and larger, scattering PSC particles. These max/min profiles
+deviate from their mean value at each altitude by about 40 %–45 %,
+which is attributed as the maximum systematic error of the retrieval.
+Further, the retrieved volume density profiles are characterized by a random
+error due to instrumental noise of 0.02–0.05  µm3 cm−3 , a
+detection limit of about 0.1–0.2  µm3 cm−3 and a vertical
+resolution of around 3  km . Comparisons with coincident observations
+by the Cloud-Aerosol Lidar with Orthogonal Polarization (CALIOP) on the
+CALIPSO (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations)
+satellite showed good agreement regarding the vertical profile shape.
+Quantitatively, in the case of supercooled ternary solution (STS) PSCs, the
+CALIOP dataset fits to the MIPAS retrievals obtained under the assumptions of
+small particles. Unlike for STS and NAT, in the case of ice PSCs the MIPAS
+retrievals are limited by the clouds becoming optically thick in the
+limb-direction. In these cases, the MIPAS volume densities represent lower
+limits. Among other interesting features, this climatology helps to study
+quantitatively the on-set of PSC formation very near to the South Pole and
+the large variability of the PSC volume densities between different Arctic
+stratospheric winters.

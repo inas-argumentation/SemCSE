@@ -1,0 +1,2 @@
+First level trigger using pixel detector for the CMS experiment
+A proposal for a pixel-based Level 1 trigger for the Super-LHC is presented. The trigger is based on fast track reconstruction using the full pixel granularity exploiting a readout which connects different layers in specific trigger towers. The trigger will implement the current CMS high level trigger functionality in a novel concept of intelligent detector. A possible layout is discussed and implications on data links are evaluated.

@@ -1,0 +1,2 @@
+Minimax Estimation of the First Derivative by Finite Number of Noisy Observations
+The minimax estimation of the first derivative for some functional class by noisy observations of the function's values at finite number of points is considered. A new way to formalize the problem makes it possible to calculate the non-asymptotic optimal estimate. The calculations can be reduced to a computer algorithm or carried out analytically under weak assumptions on random variables.

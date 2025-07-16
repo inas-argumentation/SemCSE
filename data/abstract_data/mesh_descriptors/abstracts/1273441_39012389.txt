@@ -1,0 +1,15 @@
+Druggable cancer secretome: neoplasm-associated traits.
+BACKGROUND
+The genome association databases provide valuable clues to identify novel targets for cancer diagnosis and therapy. Genes harboring phenotype-associated polymorphisms for neoplasm traits can be identified using diverse bioinformatics tools. The recent availability of various protein expression datasets from normal human tissues, including the body fluids, enables for baseline expression profiling of the cancer secretome. Chemoinformatics approaches can help identify drug-like compounds from the protein 3D structures.
+
+
+MATERIALS AND METHODS
+The National Center for Biotechnology Information (NCBI) Phenome Genome Integrator (PheGenI) tool was enriched for neoplasm-associated traits. The neoplasm genes were characterized using diverse bioinformatics tools for pathways, gene ontology, genome-wide association, protein expression and functional class. Chemogenomics analysis was performed using the canSAR protein annotation tool.
+
+
+RESULTS
+The neoplasm-associated traits segregated into 1,305 genes harboring 2,837 single nucleotide polymorphisms (SNPs). Also identified were 65 open reading frames (ORFs) encompassing 137 SNPs. The neoplasm genes and the associated SNPs were classified into distinct tumor types. Protein expression in the secretome was seen for 913 of the neoplasm-associated genes, including 17 novel uncharacterized ORFs. Druggable proteins, including enzymes, transporters, channel proteins and receptors, were detected. Thirty-four novel druggable lead genes emerged from these studies, including seven cancer lead targets. Chemogenomics analysis using the canSAR protein annotation tool identified 168 active compounds (<1 μM) for the neoplasm genes in the body fluids. Among these, 7 most active lead compounds with drug-like properties (1-600 nM) were identified for the cancer lead targets, encompassing enzymes and receptors.
+
+
+CONCLUSION
+Over seventy percent of the neoplasm trait-associated genes were detected in the body fluids, such as ascites, blood, tear, milk, semen, urine, etc. Ligand-based druggabililty analysis helped establish lead prioritization. The association of these proteins with diverse cancer types and other diseases provides a framework to develop novel diagnosis and therapy targets.

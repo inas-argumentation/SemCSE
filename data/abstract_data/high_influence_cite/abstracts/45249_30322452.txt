@@ -1,0 +1,2 @@
+On the wave operator for dissipative potentials with small imaginary part
+We determine the range of the incoming wave operator for the pair of operators $(-\Delta, -\Delta + V_1(x) - i\epsilon V_2(x))$ on $L^2(\bR^n)$ under the conditions $n\ge 3$ and $0$ is a regular point of $-\Delta + V_1$, $V_2 \ge 0$ and $\epsilon >0$ is small enough. This implies that the dissipative scattering operator is bijective.

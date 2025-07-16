@@ -1,0 +1,12 @@
+Direct Evolutionary Optimization of Variational Autoencoders with Binary Latents
+Discrete latent variables are considered important to model the generation process of real world data, which has motivated research on Variational Autoencoders (VAEs) with discrete latents. However, standard VAE training is not possible in this case, which has motivated different strategies to manipulate discrete distributions in order to train discrete VAEs similarly to conventional ones.
+Here we ask if it is also possible to keep the discrete nature of the latents fully intact by applying a direct discrete optimization for the encoding model. The studied approach is consequently strongly diverting from standard VAE training by altogether sidestepping absolute standard VAE mechanisms such as sampling approximation, reparameterization trick and amortization.                                                                              
+
+Discrete optimization is realized in a variational setting using truncated posteriors in conjunction with evolutionary algorithms (using a recently suggested approach). For VAEs with binary latents, we first show how such a discrete variational method (A)~ties into gradient ascent for network weights and (B)~uses the decoder network to select latent states for training.                       
+                                                                                                    
+More conventional amortized training is, as may be expected, more efficient than direct discrete optimization, and applicable to large neural networks.
+However, we here find direct optimization to be efficiently scalable to hundreds of latent variables using smaller networks.
+More importantly, we find the effectiveness of direct optimization to be highly competitive in 'zero-shot' learning (where high effectiveness for small networks is required).
+In contrast to large supervised neural networks, the here investigated VAEs can denoise a single image without previous training on clean data and/or training on large image datasets.                                                
+
+More generally, the studied approach shows that training of VAEs is indeed possible without sampling-based approximation and reparameterization, which may be interesting for the analysis of VAE training in general. In the regime of few data, direct optimization, furthermore, makes VAEs competitive for denoising where they have previously been outperformed by non-generative approaches.

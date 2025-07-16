@@ -1,0 +1,2 @@
+Haar features for FACS AU recognition
+We examined the effectiveness of using Haar features and the Adaboost boosting algorithm for FACS action unit (AU) recognition. We evaluated both recognition accuracy and processing time of this new approach compared to the state-of-the-art method of classifying Gabor responses with support vector machines. Empirical results on the Cohn-Kanade facial expression database showed that the Haar+Adaboost method yields AU recognition rates comparable to those of the Gabor+SVM method but operates at least two orders of magnitude more quickly

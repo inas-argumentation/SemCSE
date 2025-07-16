@@ -1,0 +1,2 @@
+On the discrete-time dynamics of a PCA learning algorithm
+Abstract We propose a principal component analysis algorithm based on our previous work and analyze its deterministic discrete-time (DDT) system. We prove that its DDT system is always bounded for the small constant learning gain and can almost always deliver a principal component. The difference between Oja's algorithm and our proposed algorithm cannot be observed from their corresponding deterministic continuous-time systems.

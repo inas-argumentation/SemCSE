@@ -1,0 +1,2 @@
+Two‐stepping to increase peptide spectra matches in large databases
+Metaproteomics and proteogenomic studies face unique challenges in peptide spectra identification due to the very large number of sequences in search databases. Conventional, stringent filtering needed to avoid false positives limits results in these studies due to increasing false negatives, that is, poor sensitivity. Jagtap et al. (Proteomics 2013, 13, 1352–1357) find a solution to this issue by employing a facile two‐step search strategy.

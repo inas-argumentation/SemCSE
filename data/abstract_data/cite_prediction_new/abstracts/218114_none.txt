@@ -1,0 +1,2 @@
+State-space formulae for the factorization of all-pass matrix functions
+We consider the factorization of an all-pass matrix function E(s) using proper stable minimum-phase factors. Stale-space formulae for the stable minimum-phase factors of E(s) are derived (when they exist), as well as state-space formulae for the Wiener-Hopf factors. This is achieved using the state-space characterization of all-pass matrix functions given by Glover (1984) in conjunction with the results of Green and Anderson (1987).

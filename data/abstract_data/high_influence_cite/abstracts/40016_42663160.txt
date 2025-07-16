@@ -1,0 +1,18 @@
+SABUMO-dTest: Design and evaluation of an intelligent collaborative distributed testing framework
+Software development must increasingly adapt to teams whose members work 
+ together but are geographically separated leading to distributed development 
+ projects. Such projects consist of teams working together, but sited in 
+ different geographic locations. Under these conditions, Global Software 
+ Engineering is having a profound impact on the way products are conceived, 
+ designed, constructed and tested. One of the problems with this area is the 
+ lack of tools which supports the distributed process. Focusing on the testing 
+ process, this paper presents SABUMO-dTest, a framework based on Semantic 
+ technologies that allows software organizations to represent testing 
+ processes with the final aim of trading their services or modeling their 
+ testing needs in a social and competitive environment. The proposed framework 
+ benefits from a set of shared and controlled vocabularies that permit 
+ knowledge and process sharing with potential partners, experts and testing 
+ service providers. The evaluation of the system included two kinds of 
+ projects, the ones in which testing was not determined by SABUMO-dTest and 
+ the ones developed under its influence. Results show remarkable outcomes in 
+ SABUMO-dTest driven projects.

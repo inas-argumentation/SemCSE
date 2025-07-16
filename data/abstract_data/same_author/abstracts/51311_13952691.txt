@@ -1,0 +1,2 @@
+On skew information
+In this paper, we show that skew information introduced by Wigner and Yanase, which is a natural informational extension of variance for pure states, can be interpreted as a measure of quantum uncertainty. By virtue of skew information, we establish a new uncertainty relation in the spirit of Schrodinger, which incorporates both incompatibility (encoded in the commutator) and correlations (encoded in a new correlation measure related to skew information) between observables, and moreover is stronger than the conventional ones.

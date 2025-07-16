@@ -1,0 +1,2 @@
+QFN based packaging concepts for millimeter-wave transceivers
+This paper introduces the idea of a low-cost surface-mountable millimeter-wave radar sensor. Different packaging topologies are compared with the potential of integrating the whole radar frontend together with the antennas into a single QFN package. The pros and cons of the different packaging concepts are discussed and finally, a 120 GHz off-chip antenna design for integration into a QFN package and its measurements are presented.

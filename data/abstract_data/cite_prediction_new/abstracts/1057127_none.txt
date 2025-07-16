@@ -1,0 +1,15 @@
+Quaternion-based study of angular velocity of the cardiac vector during myocardial ischaemia.
+BACKGROUND
+Early detection of acute ischaemia through non-invasive methods remains a challenge in health research. Ischaemic condition caused by a decrease in the blood supply in a cardiac region induces hypoxia and metabolic abnormalities that contribute to the electrical instability of the heart and to the development of slow conduction in damaged tissue.
+
+
+METHODS
+Herein, a percutaneous transluminal coronary angiography (PTCA) is considered as a model of supply ischaemia. We use the concept of quaternion to develop a robust method for assessing the angular velocity of cardiac vector in the orthogonal XYZ leads obtained from 92 patients undergoing the PTCA procedure. The maxima of angular velocity in both ventricular depolarization and repolarization are combined with traditional linear velocity indexes in order to obtain a detector of ischaemic episodes (Ischaemia Detector, ID).
+
+
+RESULTS
+ID achieves 98%/100% of sensitivity/specificity when differentiating healthy subjects from patients with early ischaemia. Furthermore, it also shows high accuracy when the comparison is made between ischaemic subjects and patients with different non-ischaemic pathologic ST-deviations which are known to cause false positives, reaching 95%/98% of sensitivity/specificity. Moreover, the study of significant reductions (p<0.001) of angular velocity components allows extraction of distinct ischaemic common features which are useful for analyzing the dependence of vectorcardiogram signal on each site of occlusion. The sensitivity of injury location reaches values of 88% (RCA), 87% (LAD) and 80% (LCx).
+
+
+CONCLUSIONS
+The high performance of the proposed method establishes a promising outcome for application in computerized assistance in clinical practice.

@@ -1,0 +1,2 @@
+Motion Detection Circuits for a Time-To-Travel Algorithm
+The paper describes a new motion detection circuit that extracts motion information based on a time-to-travel algorithm. The front-end photoreceptor adapts over 7 decades of background intensity and motion information can be extracted down to a contrast value of 2.5%. Results from the circuits which were fabricated in a 2-metal 2-poly 1.5mum CMOS process, show that the motion information can be extracted over 2 decades of speed.

@@ -1,0 +1,2 @@
+Person Re-Identification via Recurrent Feature Aggregation
+We address the person re-identification problem by exploiting a globally feature representation from a sequence of tracked human regions/patches; We show that a progressive fusion framework based on LSTM aggregates the frame-wise human region representation and yields a sequence level feature representation; Experimental results on two person re-identification benchmarks demonstrate that the proposed method performs favorably against state-of-the-art person re-identification methods.

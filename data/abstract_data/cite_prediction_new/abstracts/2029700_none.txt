@@ -1,0 +1,4 @@
+Review study of tunable intermediate-resonator for selective wireless power transfer system over various distances
+This paper presents a selective magnetic resonant wireless power transfer (WPT) system, consisting of a transmitter (TX), a tunable intermediate-resonator, and a receiver (RX). In the proposed WPT system, the tunable intermediate-resonator can be either a relay resonator or an intermediate-RX by varying its variable resistance, demonstrating the flexibility of the intermediate resonator to be used for different topologies and applications. This flexibility will enable the proposed WPT system to transfer 
+maximum energy efficiency to various distances between the TX and the RX, to longer distances for the WPT relay system and 
+to shorter distances for the intermediate-RX system. In this case, the WPT intermediate-RX system has a larger power transfer efficiency than the WPT relay system.

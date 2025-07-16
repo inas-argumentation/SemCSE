@@ -1,0 +1,2 @@
+Circular chromatic number of Kneser graphs
+This paper proves that for any positive integer n, if m is large enough, then the reduced Kneser graph KG2(m,n) has its circular chromatic number equal its chromatic number. This answers a question of Lih and Liu (J. Graph Theory 41 (2002) 62). For Kneser graphs, we prove that if m≥2n2(n - 1), then KG(m,n) has its circular chromatic number equal its chromatic number. This provides strong support for a conjecture of Johnson, Holroyd, and Stahl (J. Graph Theory 26 (1997) 137).

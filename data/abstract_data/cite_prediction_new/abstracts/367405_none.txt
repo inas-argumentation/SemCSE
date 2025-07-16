@@ -1,0 +1,2 @@
+A 5.3GHz digital-to-time-converter-based fractional-N all-digital PLL
+Advanced deep-submicron CMOS processes are well-suited for a digital implementation of phase-locked loop-(PLL) based frequency synthesizers. Recently, several RF all-digital phase-locked loops (ADPLL) have been reported [2,4,5]. While ADPLLs come close to achieving the phase-noise performance of analog PLLs, the in-band spur level requirement is still challenging. In this paper we present a new digital-to-time-converter-(DTC) based ADPLL architecture where the time resolution can be easily scaled.

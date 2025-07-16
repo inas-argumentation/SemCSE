@@ -1,0 +1,2 @@
+Observation-based proactive communication in team cooperation
+Observation and communication are important aspects of agent teamwork. We employ the agent's observability as the major means for individual agents to reason about the environment and other team members. We focus on how to represent agents' observability and how to include it into the basic reasoning for proactive communication. The syntax and the operational semantics of observability are given. Preliminary experiments are carried out to study the effectiveness of different aspects of observability.

@@ -1,0 +1,2 @@
+Three-jet cross sections in hadron-hadron collisions at next-to-leading order.
+We present a new QCD-event generator for hadron colliders which can calculate one-, two-, and three-jet cross sections at next-to-leading order accuracy. We study the transverse energy spectrum of three-jet hadronic events using the k(radially) algorithm. We show that the next-to-leading order correction significantly reduces the renormalization and factorization scale dependence of the three-jet cross section.

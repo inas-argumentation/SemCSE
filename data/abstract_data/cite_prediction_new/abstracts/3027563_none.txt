@@ -1,0 +1,2 @@
+About ordering sequences in minimum-phase sequences
+In the previous EUSIPCO 2004 paper, we have shown that certain types of sequences can be ordered such that the new sequence is a minimum-phase one. We also pointed out that this property is not valid for all real sequences. In this paper we prove that the set of points from the N-dimensional real or complex set having this characteristic is a non-empty open set. Moreover, we illustrate some new features of the sequences that can be ordered as minimum-phase sequences.

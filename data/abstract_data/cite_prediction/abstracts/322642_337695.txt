@@ -1,0 +1,15 @@
+Creation of a 3D printed temporal bone model from clinical CT data.
+PURPOSE
+Generate and describe the process of creating a 3D printed, rapid prototype temporal bone model from clinical quality CT images.
+
+
+MATERIALS AND METHODS
+We describe a technique to create an accurate, alterable, and reproducible rapid prototype temporal bone model using freely available software to segment clinical CT data and generate three different 3D models composed of ABS plastic. Each model was evaluated based on the appearance and size of anatomical structures and response to surgical drilling.
+
+
+RESULTS
+Mastoid air cells had retained scaffolding material in the initial versions. This required modifying the model to allow drainage of the scaffolding material. External auditory canal dimensions were similar to those measured from the clinical data. Malleus, incus, oval window, round window, promontory, horizontal semicircular canal, and mastoid segment of the facial nerve canal were identified in all models. The stapes was only partially formed in two models and absent in the third. Qualitative feel of the ABS plastic was softer than bone. The pate produced by drilling was similar to bone dust when appropriate irrigation was used.
+
+
+CONCLUSION
+We present a rapid prototype temporal bone model made based on clinical CT data using 3D printing technology. The model can be made quickly and inexpensively enough to have potential applications for educational training.

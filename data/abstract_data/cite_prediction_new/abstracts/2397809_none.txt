@@ -1,0 +1,2 @@
+Evolving Behaviour Trees for the Mario AI Competition Using Grammatical Evolution
+This paper investigates the applicability of Genetic Programming type systems to dynamic game environments. Grammatical Evolution was used to evolved Behaviour Trees, in order to create controllers for the Mario AI Benchmark. The results obtained reinforce the applicability of evolutionary programming systems to the development of artificial intelligence in games, and in dynamic systems in general, illustrating their viability as an alternative to more standard AI techniques.

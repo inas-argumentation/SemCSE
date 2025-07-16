@@ -1,0 +1,2 @@
+Metallized Film Capacitor Lifetime Evaluation and Failure Mode Analysis
+One of the main concerns for power electronic engineers regarding capacitors is to predict their remaining lifetime in order to anticipate costly failures or system unavailability. This may be achieved using a Weibull statistical law combined with acceleration factors for the temperature, the voltage, and the humidity. This paper discusses the different capacitor failure modes and their effects and consequences.

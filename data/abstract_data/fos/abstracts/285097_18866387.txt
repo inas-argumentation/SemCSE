@@ -1,0 +1,2 @@
+A note on the Bayesian regret of Thompson Sampling with an arbitrary prior
+We consider the stochastic multi-armed bandit problem with a prior distribution on the reward distributions. We show that for any prior distribution, the Thompson Sampling strategy achieves a Bayesian regret bounded from above by $14 \sqrt{n K}$. This result is unimprovable in the sense that there exists a prior distribution such that any algorithm has a Bayesian regret bounded from below by $1/20 \sqrt{n K}$.

@@ -1,0 +1,2 @@
+Generalized inverse of the Laplacian matrix and some applications
+The generalized inverse L† of the Laplacian matrix of a connected graph is examined and some of its properties are established. In some physical and chemical considerations the quantity rij = {L†)ii + (L†)jj — (L†)ij - (L†)ji is encountered; it is called resistance distance. Based on the results obtained for L† we prove some previously known and deduce some new properties of the resistance distance. .

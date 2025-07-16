@@ -1,0 +1,2 @@
+Homogeneous Domination Design using Dual Observers: A Tool for Global Output Feedback Stabilization of Nonlinear Systems with Polynomially Growing Unmeasurable States
+This paper considers a formulation for the global output feedback stabilization of a planar nonlinear system whose nonlinear functions are polynomially bounded in the unmeasurable states. The primary novelty of this method is the utilization of a dual observer approach, estimating linear and higher-order states in parallel.

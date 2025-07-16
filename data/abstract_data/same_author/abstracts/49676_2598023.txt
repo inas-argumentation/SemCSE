@@ -1,0 +1,2 @@
+Constructing and querying peer-to-peer warehouses of XML resources
+We present KADOP, a distributed infrastructure for warehousing XML resources in a peer-to-peer framework. KADOP allows users to build a shared, distributed repository of resources such as XML documents, semantic information about such documents, Web services, and collections of such items. KADOP leverages several existing technologies and models: it uses distributed hash tables as a peer communication layer, and ActiveXML as a model for constructing and querying the resources in the peer network.

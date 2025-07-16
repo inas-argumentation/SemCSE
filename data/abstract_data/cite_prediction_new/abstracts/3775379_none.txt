@@ -1,0 +1,15 @@
+A Reproducible and Individualized Method to Predict Osmolality of Compounded Pediatric Parenteral Nutrition Solutions.
+BACKGROUND
+Osmolality is a well-known factor in complications associated with parenteral nutrition (PN). The osmolality of compounded pediatric PN solutions is often inappropriately approximated by theoretical osmolarity, which carries a major risk of underestimation, especially in highly concentrated solutions. Only a few studies have proposed equations to overcome this problem, and to date their accuracy in settings other than those of their development has not been assessed. We propose a reproducible method to develop a predictive model of osmolality adapted to local practice, and we compare its predictive performance to osmolarity calculation and other equations.
+
+
+METHODS
+From measures performed on dilutions of basic components of PN solutions, a predictive model establishing the relationship between the quantitative and qualitative composition of a PN solution and its osmolality was developed. This model was validated in routine practice on daily compounded pediatric PN solutions, and its predictive performance was compared with osmolarity calculation, 2 previously published predictive equations, and multilinear regression.
+
+
+RESULTS
+We measured the osmolality of 321 routinely produced PN solutions. The model predicted osmolality with a mean relative error of -0.28% (±2.75%). All the other ways to approximate osmolality were less precise and sometimes provided critically underestimated values (from -16.67% to -33.24%).
+
+
+CONCLUSIONS
+Our model predicted osmolality accurately and may be used in routine practice in any setting once adapted to the local production practice. Approximations by osmolarity severely underestimate actual osmolality. Keeping osmolarity <800 mOsm/L seems sufficient to ensure that actual osmolality does not exceed 1000 mOsm/kg.

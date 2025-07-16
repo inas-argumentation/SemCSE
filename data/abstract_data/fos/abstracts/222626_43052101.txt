@@ -1,0 +1,15 @@
+SU-G-IeP1-13: Sub-Nyquist Dynamic MRI Via Prior Rank, Intensity and Sparsity Model (PRISM).
+PURPOSE
+Accelerated dynamic MRI is important for MRI guided radiotherapy. Inspired by compressive sensing (CS), sub-Nyquist dynamic MRI has been an active research area, i.e., sparse sampling in k-t space for accelerated dynamic MRI. This work is to investigate sub-Nyquist dynamic MRI via a previously developed CS model, namely Prior Rank, Intensity and Sparsity Model (PRISM).
+
+
+METHODS
+The proposed method utilizes PRISM with rank minimization and incoherent sampling patterns for sub-Nyquist reconstruction. In PRISM, the low-rank background image, which is automatically calculated by rank minimization, is excluded from the L1 minimization step of the CS reconstruction to further sparsify the residual image, thus allowing for higher acceleration rates. Furthermore, the sampling pattern in k-t space is made more incoherent by sampling a different set of k-space points at different temporal frames.
+
+
+RESULTS
+Reconstruction results from L1-sparsity method and PRISM method with 30% undersampled data and 15% undersampled data are compared to demonstrate the power of PRISM for dynamic MRI.
+
+
+CONCLUSION
+A sub- Nyquist MRI reconstruction method based on PRISM is developed with improved image quality from the L1-sparsity method.

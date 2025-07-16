@@ -1,0 +1,2 @@
+Quantitative Tverberg Theorems Over Lattices and Other Discrete Sets
+This paper presents a new variation of Tverberg’s theorem. Given a discrete set S of $$\mathbb {R}^{d}$$Rd, we study the number of points of S needed to guarantee the existence of an m-partition of the points such that the intersection of the m convex hulls of the parts contains at least k points of S. The proofs of the main results require new quantitative versions of Helly’s and Carathéodory’s theorems.

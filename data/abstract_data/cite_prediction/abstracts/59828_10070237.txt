@@ -1,0 +1,2 @@
+Real-time 3D Ball Recognition using Perspective and Catadioptric Cameras
+In this paper we present methods capable of performing ball recognition and tracking on a RoboCup Midsize robot in three-dimensions in real-time. The system uses information from a perspective as well as a catadioptric camera to yield stereoscopic depth. Robustness, accuracy and efficiency are evaluated.

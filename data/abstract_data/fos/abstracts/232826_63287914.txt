@@ -1,0 +1,2 @@
+Detecting OS of Remote Host Via TCP/IPStack Fingerprint
+The paper analyzes the implementation principle and detail of TCP/IP protocol and describes how to detect what Operating System of remote host is via TCP/IP stack in detail. This is vital valuable for network security works.

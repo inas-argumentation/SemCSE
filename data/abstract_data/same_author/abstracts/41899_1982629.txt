@@ -1,0 +1,2 @@
+Efficient embedding K-ary complete trees into hypercubes
+Dilated embedding and precise embedding of K-ary complete trees into hypercubes are studied. For dilated embedding, a nearly optimal algorithm is proposed which embeds a K-ary complete tree of height h, T/sub K/(h), into an (h/spl minus/1)/spl lsqb/logK/spl rsqb/+/spl lsqb/log(K+2)/spl rsqb/ dimensional hypercube with dilation max(2, /spl phi/(K)*), /spl phi/(K+2). For precise embedding, we show a (K/spl minus/1)h+1 dimensional hypercube is large enough to contain T/sub K/(h) as its subgraph for K/spl ges/3.<<ETX>>

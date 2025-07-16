@@ -1,0 +1,2 @@
+Odysseus: a High-Performance ORDBMS Tightly-Coupled with Spatial Database Features
+We have earlier proposed the tight-coupling architecture for adding new data types into the DBMS engine. In this paper, we introduce the Odysseus ORDBMS and present its tightly-coupled spatial database features. We demonstrate a geographical information system (GIS) implemented using Odysseus.

@@ -1,0 +1,2 @@
+THE ROLE OF DIAGONALIZATION WITHIN A DIAGONALIZATION/MONTE CARLO SCHEME
+We discuss a method called quasi-sparse eigenvector diagonalization which finds the most important basis vectors of the low energy eigenstates of a quantum Hamiltonian. It can operate using any basis, either orthogonal or non-orthogonal, and any sparse Hamiltonian, either Hermitian, non-Hermitian, finite-dimensional, or infinite-dimensional. The method is part of a new computational approach which combines both diagonalization and Monte Carlo techniques.

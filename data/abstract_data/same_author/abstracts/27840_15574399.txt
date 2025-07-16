@@ -1,0 +1,8 @@
+Foundational aspects of nonlocality
+Nonlocality refers to correlations between spatially separated parties that are stronger than those explained by the existence of local hidden variables. Quantum mechanics is known to allow some nonlocal correlations between particles in a phenomena known as entanglement. We explore several aspects of nonlocality in general and how they relate to quantum mechanics. 
+ 
+First, we construct a hierarchy of theories with nonlocal correlations stronger than those allowed in quantum mechanics and derive several results about these theories. We show that these theories include codes that can store an amount of information exponential in the number of physical bits used. We use this result to demonstrate an unphysical consequence of theories with stronger-than-quantum correlations: learning even an approximate description of states in such theories would be practically impossible. 
+ 
+Next, we consider the difficult problem of determining whether specific correlations are nonlocal. We present a novel learning algorithm and show that it provides an outer bound on the set of local states, and can therefore be used to identify some nonlocal states. 
+ 
+Finally, we put nonlocal correlations to work by showing that the entanglement present in the vacuum of a quantum field can be used to detect spacetime curvature. We quantify how the entangling power of the quantum field varies as a function of spacetime curvature.

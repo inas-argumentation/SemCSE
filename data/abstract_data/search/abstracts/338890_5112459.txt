@@ -1,0 +1,2 @@
+Probabilistic Satisfiability: Logic Based Algorithms and Phase Transition
+In this paper, we study algorithms for probabilistic satisfiability (PSAT) an NP complete problem, and their empiric complexity distribution. We define a PSAT normal form, based on which we propose two logic based algorithms: a reduction of normal form PSAT instances to SAT, and a linearalgebraic algorithmwith a logic based column generation strategy. We conclude that both algorithms present a phase transition behaviour and that the latter has a much better performance.

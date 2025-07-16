@@ -1,0 +1,15 @@
+Longitudinal health-related quality of life analysis in oncology with time to event approaches, the STATA command qlqc30_TTD
+BACKGROUND AND OBJECTIVE
+Health-related quality of life (HRQoL) has become one relevant and available alternative endpoint of clinical trials in cancer research to evaluate efficiency of care both for the patient and health system. HRQoL in oncology is mainly assessed using the 30-item European Organisation for Research and Treatment of Cancer Quality of Life-Questionnaire Core 30 (EORTC QLQ-C30). The EORTC QLQ-C30 questionnaire is usually assessed at different times along the clinical trials in order to analyze the kinetics of HRQoL evolution and to fully assess the impact of the treatment on the patient's HRQoL level. In this perspective, the realization of a longitudinal HRQoL analysis is essential and the time to HRQoL score deterioration approach is a method which is more and more used in clinical trials.
+
+
+METHOD
+Using the Stata software, we developed a QLQ-C30 specific command, qlqc30_TTD, which implements longitudinal strategies based on the time to event methods by considering the time to HRQoL score deterioration. This user-written command providing automatic execution of the Time To Deterioration (TTD) and Time Until Definitive Deterioration (TUDD) methods.
+
+
+RESULT
+The program implements all published definitions and provides the Kaplan-Meier curves for each dimension (by group) and a table with the Hazard Ratio and Log-Rank test.
+
+
+CONCLUSION
+The longitudinal analysis of HRQoL data in cancer clinical trials remains complex with only few programs like ours computed. This program will be of great help and will allow a more systematic and quicker analysis of the HRQoL data in clinical trials in oncology.

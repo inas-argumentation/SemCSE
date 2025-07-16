@@ -1,0 +1,8 @@
+Separating models of learning with faulty teachers
+We study the power of two models of faulty teachers in Angluin's exact learning model. The first model we consider is learning from equivalence and incomplete membership query oracles introduced by Angluin and Slonim [1]. In this model, the answers to a random subset of the learner's membership queries may be missing. The second model we consider is random persistent classification noise in membership queries introduced by Goldman et al. [2]. In this model, the answers to a random subset of the learner's membership queries are flipped. 
+ 
+We show that the incomplete membership query oracle is strictly stronger than the membership query oracle with persistent noise under the assumption that the problem of PAC learning parities with noise is intractable. 
+ 
+We also show that under the standard cryptographic assumptions the incomplete membership query oracle is strictly weaker than the perfect membership query oracle. This strengthens the result of Simon [3] and resolves an open question of Bshouty and Eiron [4]. 
+ 
+Our techniques are based on ideas from coding theory and cryptography.

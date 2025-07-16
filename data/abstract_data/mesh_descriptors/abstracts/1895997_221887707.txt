@@ -1,0 +1,19 @@
+Administrative Databases Utilized for Sports Medicine Research Demonstrate Significant Differences in Underlying Patient Demographics and Resulting Surgical Trends.
+PURPOSE
+To discern differences between the PearlDiver and MarketScan databases with regards to patient demographics, costs, re-operations, and complication rates for isolated meniscectomy.
+
+
+METHODS
+We queried the PearlDiver Humana Patient Records Database and the IBM® MarketScan® Commercial Claims and Encounters database for all patients who had record of meniscectomy denoted by CPT-29880 or CPT-29881 codes between January 1, 2007 and December 31, 2016. Those that had any other knee procedure at the same time as the meniscectomy were excluded, and the first instance of isolated meniscectomy was recorded. Patient demographics, Charlson Comorbidity Index (CCI), reoperations, 30- and 90-day complication rates, and costs were collected from both databases. Pearson's χ2 test with Yate's continuity correction and the student t-test were used to compare the two databases, and an alpha value of 0.05 was set as significant.
+
+
+RESULTS
+We identified 441,147 patients with isolated meniscectomy from the MarketScan database (0.36% of total database), approximately 10 times the number of patients (n = 49,924; 0.20% of total database) identified from PearlDiver. The PearlDiver population was significantly older (median age: 65-69) than the MarketScan cohort, where all patients were younger than 65 (median age: 52; p < 0.001). Average CCI was significantly lower for MarketScan (0.172, SD: 0.546) compared to PearlDiver (1.43, SD: 2.05; p < 0.001), even when restricting the PearlDiver cohort to patients under 65 (1.02, SD: 1.74; p < 0.001). The PearlDiver < 65 sub-cohort also had increased 30- (RR: 1.53 (1.40-1.67)) and 90-day (RR: 1.56 (1.47-1.66)) post-operative complications compared to MarketScan. Overall, laterality coding was more prevalent in the PearlDiver database.
+
+
+CONCLUSION
+For those undergoing isolated meniscectomy, the MarketScan database comprised an overall larger and younger cohort of patients with fewer comorbidities, even when examining only subjects under 65 years of age.
+
+
+LEVEL OF EVIDENCE
+Level III, retrospective comparative study.

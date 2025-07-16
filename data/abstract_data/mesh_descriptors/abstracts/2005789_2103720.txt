@@ -1,0 +1,15 @@
+Process mining routinely collected electronic health records to define real-life clinical pathways during chemotherapy
+BACKGROUND
+There is growing interest in the use of routinely collected electronic health records to enhance service delivery and facilitate clinical research. It should be possible to detect and measure patterns of care and use the data to monitor improvements but there are methodological and data quality challenges. Driven by the desire to model the impact of a patient self-test blood count monitoring service in patients on chemotherapy, we aimed to (i) establish reproducible methods of process-mining electronic health records, (ii) use the outputs derived to define and quantify patient pathways during chemotherapy, and (iii) to gather robust data which is structured to be able to inform a cost-effectiveness decision model of home monitoring of neutropenic status during chemotherapy.
+
+
+METHODS
+Electronic Health Records at a UK oncology centre were included if they had (i) a diagnosis of metastatic breast cancer and received adjuvant epirubicin and cyclosphosphamide chemotherapy or (ii) colorectal cancer and received palliative oxaliplatin and infusional 5-fluorouracil chemotherapy, and (iii) were first diagnosed with cancer between January 2004 and February 2013. Software and a Markov model were developed, producing a schematic of patient pathways during chemotherapy.
+
+
+RESULTS
+Significant variance from the assumed care pathway was evident from the data. Of the 535 patients with breast cancer and 420 with colorectal cancer there were 474 and 329 pathway variants respectively. Only 27 (5%) and 26 (6%) completed the planned six cycles of chemotherapy without having unplanned hospital contact. Over the six cycles, 169 (31.6%) patients with breast cancer and 190 (45.2%) patients with colorectal cancer were admitted to hospital.
+
+
+CONCLUSION
+The pathways of patients on chemotherapy are complex. An iterative approach to addressing semantic and data quality issues enabled the effective use of routinely collected patient records to produce accurate models of the real-life experiences of chemotherapy patients and generate clinically useful information. Very few patients experience the idealised patient pathway that is used to plan their care. A better understanding of real-life clinical pathways through process mining can contribute to care and data quality assurance, identifying unmet needs, facilitating quantification of innovation impact, communicating with stakeholders, and ultimately improving patient care and outcomes.

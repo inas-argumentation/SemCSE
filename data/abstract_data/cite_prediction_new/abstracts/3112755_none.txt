@@ -1,0 +1,7 @@
+Right-permutative cellular automata on topological Markov chains
+In this paper we consider cellular automata $(G,\Phi)$ with 
+algebraic local rules and such that $G$ is a topological Markov 
+chain which has a structure compatible to this local rule. We 
+characterize such cellular automata and study the convergence of 
+the Cesaro mean distribution of the iterates of any probability 
+measure with complete connections and summable decay.

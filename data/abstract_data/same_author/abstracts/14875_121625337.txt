@@ -1,0 +1,4 @@
+Free fermions and WZW theories on nonsimple groups
+We consider conformally and Kac-Moody invariant theories based on the groupsG=G(N)×G(Ñ) whereG(N) is any of the classical groups. For the valuesk=Ñ,
+$$\tilde k = N$$
+ of the Kac-Moody central charges, the monodromy problem involved in the computation of the four point function for primary fields in the defining representation ofG possesses two distinct solutions. As a consequence, the WZW theory onG (with an additionalU(1) factor ifG(N)=SU (N)) cannot be equivalent to a theory of free fermions.

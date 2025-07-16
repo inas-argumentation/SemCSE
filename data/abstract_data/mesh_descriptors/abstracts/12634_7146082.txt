@@ -1,0 +1,15 @@
+Predicting survival of men with recurrent prostate cancer after radical prostatectomy.
+INTRODUCTION
+To develop and externally validate a novel nomogram aimed at predicting cancer-specific mortality (CSM) after biochemical recurrence (BCR) among prostate cancer (PCa) patients treated with radical prostatectomy (RP) with or without adjuvant external beam radiotherapy (aRT) and/or hormonal therapy (aHT).
+
+
+MATERIALS & METHODS
+The development cohort included 689 consecutive PCa patients treated with RP between 1987 and 2011 with subsequent BCR, defined as two subsequent prostate-specific antigen values >0.2 ng/ml. Multivariable competing-risks regression analyses tested the predictors of CSM after BCR for the purpose of 5-year CSM nomogram development. Validation (2000 bootstrap resamples) was internally tested. External validation was performed into a population of 6734 PCa patients with BCR after treatment with RP at the Mayo Clinic from 1987 to 2011. The predictive accuracy (PA) was quantified using the receiver operating characteristic-derived area under the curve and the calibration plot method.
+
+
+RESULTS
+The 5-year CSM-free survival rate was 83.6% (confidence interval [CI]: 79.6-87.2). In multivariable analyses, pathologic stage T3b or more (hazard ratio [HR]: 7.42; p = 0.008), pathologic Gleason score 8-10 (HR: 2.19; p = 0.003), lymph node invasion (HR: 3.57; p = 0.001), time to BCR (HR: 0.99; p = 0.03) and age at BCR (HR: 1.04; p = 0.04), were each significantly associated with the risk of CSM after BCR. The bootstrap-corrected PA was 87.4% (bootstrap 95% CI: 82.0-91.7%). External validation of our nomogram showed a good PA at 83.2%.
+
+
+CONCLUSIONS
+We developed and externally validated the first nomogram predicting 5-year CSM applicable to contemporary patients with BCR after RP with or without adjuvant treatment.

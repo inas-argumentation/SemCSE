@@ -1,0 +1,2 @@
+Transient solution of an M/M/ queue with catastrophes
+In this paper, we consider an M/M/ queue with catastrophes. We study the model and obtain the time dependent solution by using continued fraction techniques. The corresponding steady state probabilities are also deduced. Further, we have obtained some important measures of the studied model. At the end, we provide some numerical examples to visualize the applicability of the model in practical situations.

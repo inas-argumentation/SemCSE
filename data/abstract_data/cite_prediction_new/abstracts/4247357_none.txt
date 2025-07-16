@@ -1,0 +1,2 @@
+A UML-Compatible Formal Language for System Architecture Description
+This paper presents ArchiTRIO (Architectural TRIO), a new temporal logic language which combines a subset of the UML notation with a precise formal semantics inspired from the authors' experiences. ArchiTRIO allows developers to use standard UML 2.0 notation to describe non-critical aspects of systems, but it also offers a complementary formal notation, fully integrated with the UML one, to represent those system aspects that require precise modeling.

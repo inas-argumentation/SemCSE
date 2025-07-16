@@ -1,0 +1,2 @@
+A connection between covers of the integers and unit fractions
+For integers a and n>0, let a(n) denote the residue class {[email protected]?Z:x=a(modn)}. Let A be a collection {a"s(n"s)}"s"="1^k of finitely many residue classes such that A covers all the integers at least m times but {a"s(n"s)}"s"="1^k^-^1 does not. We show that if n"k is a period of the covering function w"A(x)=|{1=

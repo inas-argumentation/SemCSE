@@ -1,0 +1,2 @@
+An Analytical Comparison of Approaches to Personalizing PageRank
+PageRank, the popular link-analysis algorithm for ranking web pages, assigns a query and user independent estimate of "importance" to web pages. Query and user sensitive extensions of PageRank, which use a basis set of biased PageRank vectors, have been proposed in order to personalize the ranking function in a tractable way. We analytically compare three recent approaches to personalizing PageRank and discuss the tradeoffs of each one.

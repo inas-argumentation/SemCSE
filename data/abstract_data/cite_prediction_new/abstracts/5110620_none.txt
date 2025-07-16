@@ -1,0 +1,2 @@
+A 2D climate energy balance model coupled with a 3D deep ocean model
+We study a three dimensional climate model which represents the coupling of the mean surface temperature with the ocean temperature. We prove the existence of a bounded weak solution by a fixed point argument.

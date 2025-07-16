@@ -1,0 +1,2 @@
+A survey of noise reduction methods for distant supervision
+We survey recent approaches to noise reduction in distant supervision learning for relation extraction. We group them according to the principles they are based on: at-least-one constraints, topic-based models, or pattern correlations. Besides describing them, we illustrate the fundamental differences and attempt to give an outlook to potentially fruitful further research. In addition, we identify related work in sentiment analysis which could profit from approaches to noise reduction.

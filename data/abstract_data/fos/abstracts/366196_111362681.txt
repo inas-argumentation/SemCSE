@@ -1,0 +1,2 @@
+Circuits for Pulse Rise Time Discrimination in Proportional Counters
+It is possible to distinguish X-ray events from particle events in proportional counters on the basis of the difference in rise time between the pulses that result from both kinds of event. A number of different circuit configurations for achieving rise time discrimination have been evaluated and their performance compared. Rise time spectra of Fe55 and Co60 have been obtained in several different gas mixtures.

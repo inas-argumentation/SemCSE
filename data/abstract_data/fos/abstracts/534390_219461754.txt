@@ -1,0 +1,36 @@
+Atmospheric observations of the water vapour continuum in the near-infrared windows between 2500 and 6600 cm −1
+. Water vapour continuum absorption is potentially
+important for both closure of the Earth's energy budget and remote sensing
+applications. Currently, there are significant uncertainties in its
+characteristics in the near-infrared atmospheric windows at
+2.1 and 1.6  µ m. There have been several attempts to measure the continuum in the
+laboratory; not only are there significant differences amongst these
+measurements, but there are also difficulties in extrapolating the laboratory
+data taken at room temperature and above to temperatures more widely
+relevant to the atmosphere. Validation is therefore required using field
+observations of the real atmosphere. There are currently no published
+observations in atmospheric conditions with enough water vapour to detect a
+continuum signal within these windows or where the self-continuum component
+is significant. We present observations of the near-infrared water vapour
+continuum from Camborne, UK, at sea level using a Sun-pointing,
+radiometrically calibrated Fourier transform spectrometer in the window
+regions between 2000 and 10 000 cm −1 . Analysis of these data is challenging,
+particularly because of the need to remove aerosol extinction and the large
+uncertainties associated with such field measurements. Nevertheless, we
+present data that are consistent with recent laboratory datasets in the 4 and
+2.1  µ m windows (when extrapolated to atmospheric temperatures). These
+results indicate that the most recent revision (3.2) of the
+MT_CKD foreign continuum, versions of which are widely used
+in atmospheric radiation models, requires strengthening by a factor of
+ ∼5 in the centre of the 2.1  µ m window. In the
+higher-wavenumber window at 1.6  µ m, our estimated self- and foreign-continua are significantly stronger than MT_CKD. The possible
+contribution of the self- and foreign-continua to our derived total continuum
+optical depth is estimated by using laboratory or MT_CKD
+values of one, to estimate the other. The obtained self-continuum shows some
+consistency with temperature-extrapolated laboratory data in the centres of
+the 4 and 2.1  µ m windows. The 1.6  µ m region is more sensitive to
+atmospheric aerosol and continuum retrievals and therefore more uncertain
+than the more robust results at 2.1 and 4  µ m. We highlight the
+difficulties in observing the atmospheric continuum and make the case for
+additional measurements in both the laboratory and field and discuss the
+requirements for any future field campaign.

@@ -1,0 +1,2 @@
+A Linear Belief Function Approach to Portfolio Evaluation
+We show how to use linear belief functions to represent market information and financial knowledge, including complete ignorance, statistical observations, subjective speculations, distributional assumptions, linear relations, and empirical asset pricing models. We then appeal to Dempster's rule of combination to integrate the knowledge for assessing an overall belief on portfolio performance, and to update this belief by incorporating additional information.

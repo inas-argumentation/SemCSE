@@ -1,0 +1,2 @@
+Tempered Fermions in the hybrid Monte Carlo algorithm
+Parallel tempering is used to simulate at many quark masses simultaneously, and to change the mass used for a given configuration, while remaining in equilibrium. The algorithm is best for small quark masses, especially if a chiral extrapolation is required.

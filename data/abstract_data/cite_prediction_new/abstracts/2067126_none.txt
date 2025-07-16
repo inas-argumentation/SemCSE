@@ -1,0 +1,2 @@
+On Representation of Sequential and Parallel Functions
+The class of monotonic (in the sense of Scott [3]) functions is divided into subclasses of sequential and parallel ones and the problem of comparative power of different sequential and parallel functions with respect to composition (theorems 1–5) and recursion (theorem 6) is then investigated. In particular, theorem 6 answers the question of D.Scott [4] concerning the power of his Logic for Computable Functions.

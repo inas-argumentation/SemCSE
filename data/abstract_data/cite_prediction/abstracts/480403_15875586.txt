@@ -1,0 +1,2 @@
+USING BLOCK-LEVEL FEATURES FOR GENRE CLASSIFICATION , TAG CLASSIFICATION AND MUSIC SIMILARITY ESTIMATION
+In our submission we use a set of block-level features for three different tasks, namely genre classification, tag classification and music similarity estimation. This abstract presents the feature set that is used and some specific details of the three submitted algorithms.

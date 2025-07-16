@@ -1,0 +1,2 @@
+Chapter 2 SHORTEST PATH PROBLEMS WITH RESOURCE CONSTRAINTS
+In most vehicle routing and crew scheduling applications solved by column generation, the subproblem corresponds to a shortest path problem with resource constraints (SPPRC) or one of its variants. This chapter proposes a classification and a generic formulation for the SPPRCs, briefly discusses complex modeling issues involving resources, and presents the most commonly used SPPRC solution methods. First and foremost, it provides a comprehensive survey on the subject.

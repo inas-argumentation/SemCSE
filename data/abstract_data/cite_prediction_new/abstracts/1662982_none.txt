@@ -1,0 +1,18 @@
+An analysis of diagnoses that drive readmission: What can we learn from the hospitals in Southern New England with the highest and lowest readmission performance?
+Background: The Hospital Readmission Reduction Program was instituted by the Centers for Medicare & Medicaid Services in 2012 to incentivize hospitals to reduce readmissions.
+
+
+OBJECTIVE
+To examine the most common diagnoses driving readmissions among fee-for-service Medicare beneficiaries in the hospitals with the highest and lowest readmission performance in Southern New England from 2014 to 2016.
+
+
+METHODS
+This is a retrospective observational study using publicly available Hospital Compare data and Medicare Part A claims data. Hospitals were ranked based on risk-adjusted excess readmission ratios. Patient demographic and hospital characteristics were compared for the two cohorts using t-tests. The percentages of readmissions in each cohort attributable to the top three readmission diagnoses were examined.
+
+
+RESULTS
+Highest-performing hospitals readmitted a significantly lower percentage of black patients (p=0.03), were less urban (p<0.01), and had higher Hospital Compare Star ratings (p=0.01). Lowest-performing hospitals readmitted higher percentages of patients for sepsis (9.4% [95%CI: 8.8%-10.0%] vs. 8.1% [95%CI: 7.4%-8.7%]) and complications of device, implant, or graft (3.2% [95%CI: 2.5%-3.9%] vs. 0.2% [95%CI: 0.1%-0.6%]), compared to highest-performing hospitals.
+
+
+CONCLUSIONS
+Ongoing efforts to improve care transitions may be strengthened by targeting early infection surveillance, promoting adherence to surgical treatment guidelines, and improving communication between hospitals and post-acute care facilities. [Full article available at http://rimed.org/rimedicaljournal-2017-08.asp].

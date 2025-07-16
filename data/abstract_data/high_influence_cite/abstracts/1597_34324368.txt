@@ -1,0 +1,15 @@
+Low dose interpolated average CT for thoracic PET/CT attenuation correction using an active breathing controller.
+PURPOSE
+The temporal mismatch between PET and standard helical CT (HCT) causes substantial respiratory artifacts in PET reconstructed images when using HCT as the attenuation map. Previously we developed an interpolated average CT (IACT) method for attenuation correction (AC) and demonstrated its merits in simulations. In this study we aim to apply IACT in patients with thoracic lesions using an active breathing controller (ABC).
+
+
+METHODS
+Under local ethics approval, we recruited 15 patients with a total of 18 lesions in different thoracic regions: left upper lobe (2), right upper lobe (4), right hilum (3), right lower lobe (3), left hilum (2), and esophagus (4). All patients underwent whole body PET scans 1 h after 300-480 MBq (18)F-FDG injection, depending on the patients' weight. The PET sinograms were reconstructed with AC using: (i) standard HCT [120 kV, smart mA (30-150 mA), 0.984:1 pitch] and (ii) IACT obtained from end-inspiration and end-expiration breath-hold HCTs (120 kV, 10 mA, 0.984:1 pitch) aided by ABC. IACT was obtained by averaging the intensity of two extreme phases and the interpolated phases between them, where the nonlinear interpolation was obtained by B-spline registration and with an empirical sinusoidal function. The SUV max, SUV mean, and the differences of centroid-of-lesion (d) between PET and different CT schemes were measured for each lesion.
+
+
+RESULTS
+From visual inspection, the respiratory artifacts and blurring generally reduced in the thoracic region for PET IACT. Matching between CT and PET improved for PET IACT, with an average decrease of d for 1.34 ± 1.79 mm as compared to PET HCT. The SUV max and SUV mean were consistently higher for PET IACT versus PET HCT for all lesions, with (30.95 ± 18.63)% and (22.39 ± 15.91)% average increase, respectively.
+
+
+CONCLUSIONS
+IACT-ABC reduces respiratory artifacts, PET/CT misregistration and enhances lesion quantitation. This technique is a robust and low dose AC protocol for clinical oncology application especially in the thoracic region.

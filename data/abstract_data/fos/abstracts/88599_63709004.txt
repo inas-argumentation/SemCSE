@@ -1,0 +1,2 @@
+Design and Research on RFID Security Protocol Based on Hash-Chain
+RFID system has many security problems when it runs in open environment.Analyses the different safety potentials and the authentication process of several typical security protocols.And proposes two kinds of security models such as self-destroying Hash chain and Random Hash chain for the different application occasions based on Hash chain protocol to prevent replay attack,counterfeit attack,wiretapping attack,and position tracking effectively.

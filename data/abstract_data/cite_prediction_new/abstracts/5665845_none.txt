@@ -1,0 +1,19 @@
+All-Cause Mortality for Life Insurance Applicants with a History of Prostate Cancer.
+OBJECTIVE
+- To determine the all-cause mortality of life insurance applicants diagnosed with prostate cancer currently or at some time in the past.
+
+
+BACKGROUND
+- Prostate cancer is common and a frequent cause of cancer death. Both the frequency of prostate cancer in men and its propensity for causing premature mortality require insurance company medical directors and underwriters to have a good understanding of prostate cancer-related mortality trends, patterns, and outcomes in the insured population.
+
+
+METHODOLOGY
+- Life insurance applicants with reported prostate cancer were extracted from data covering United States residents between November 2007 and November 2014. Information about these applicants was matched to the Social Security Death Master (SSDMF) file for deaths occurring from 2007 to 2011 and to another commercially available death source file (Other Death Source, ODS) for deaths occurring from 2007 to 2014 to determine vital status. Actual to Expected (A/E) mortality ratios were calculated using the Society of Actuaries 2015 Valuation Basic Table (2015VBT), select and ultimate table (age last birthday) and the 2013 US population as expected mortality ratios. All expected bases were not smoker distinct.
+
+
+RESULTS
+- The study covered applicants between the ages of 45 and 75 and had approximately 405,000 person-years of exposure. Older aged applicants had a lower mortality ratio than those who were younger. Applicants 45 to 54 had the highest mortality ratios in the first year after diagnosis which steadily decreased in years 6 to 10 with an increase in the mortality ratio for those over 10 years from diagnosis. Relative mortality rate was close to unity for those with localized cancer across all age groups. The mortality ratio was 2 to 4 times greater for those with cancer in 1 positive node, and much greater with 3 positive nodes. For each time-from-diagnosis category, the relative mortality ratios compared to age were highest in the 45-54 age group. The A/E mortality ratios based on the 2015VBT were consistently 3 to 4 times that of the mortality ratios based on the 2013 US population.
+
+
+CONCLUSION
+- The mortality patterns of insurance applicants with prostate cancer were similar to that observed in individuals with prostate cancer in the general population. Applicant age, time to diagnosis and cancer severity were the most significant variables to predict mortality.

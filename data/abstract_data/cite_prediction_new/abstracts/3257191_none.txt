@@ -1,0 +1,2 @@
+Advertising Budgeting, Wearout and Copy Replacement
+In this paper we offer a formulation for the "Copy Life Cycle" phenomenon. In particular, we introduce simultaneously three decision variables, the optimal advertising expenditures during a given planning horizon, the optimal times for copy replacements and the optimal investments in the new copies. The analysis and the solution of the problem is carried out by a mixed optimization technique based on dynamic programming and optimal control theory.

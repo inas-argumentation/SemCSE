@@ -1,0 +1,2 @@
+Improved adaptive Gaussian mixture model for background subtraction
+Background subtraction is a common computer vision task. We analyze the usual pixel level approach. We develop an efficient adaptive algorithm using Gaussian mixture probability density. Recursive equations are used to constantly update the parameters and but also to simultaneously select the appropriate number of components for each pixel.

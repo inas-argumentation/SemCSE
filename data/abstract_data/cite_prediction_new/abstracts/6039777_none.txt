@@ -1,0 +1,2 @@
+Estimation of longitudinal and lateral vehicle velocities: An algebraic approach
+This paper presents a new approach for estimating vehicle velocities at its gravity center. The proposed strategy relies on recent algebraic techniques for numerical differentiation and diagnosis. We do not use any tire model in order to obtain an estimation, which is robust with respect to model uncertainties (friction, ...). All available measurements in a mass-production car are however exploited.

@@ -1,0 +1,2 @@
+Quantize Classical Field Theories with Boundaries Canonically
+We study the problem of quantizing the classical fields with intrinsic second class constraints in a finite volume in this paper. To illustrate our idea clearly, we study the classical Schrodinger field in a finite volume. We work in the discrete version and take the discrete boundary conditions (BCs) as primary Dirac constraints, both Dirichlet and Neumann BCs are considered. We find it is possible to treat the BCs and intrinsic constraints on the same footing.

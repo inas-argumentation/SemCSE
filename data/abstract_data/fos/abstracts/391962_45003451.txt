@@ -1,0 +1,15 @@
+WE-D-BRE-06: Quantification of Dose-Response for High Grade Esophagtis Patients Using a Novel Voxel-To-Voxel Method.
+PURPOSE
+Radiation induces an inflammatory response in the esophagus, discernible on CT studies. This work objectively quantifies the voxel esophageal radiation-response for patients with acute esophagitis. This knowledge is an important first-step towards predicting the effect of complex dose distributions on patient esophagitis symptoms.
+
+
+METHODS
+A previously validated voxel-based methodology of quantifying radiation esophagitis severity was used to identify the voxel dose-response for 18 NSCLC patients with severe esophagitis (CTCAE grading criteria, grade2 or higher). The response is quantified as percent voxel volume change for a given dose. During treatment (6-8 weeks), patients had weekly 4DCT studies and esophagitis scoring. Planning CT esophageal contours were deformed to each weekly CT using a demons DIR algorithm. An algorithm using the Jacobian Map from the DIR of the planning CT to all weekly CTs was used to quantify voxel-volume change, along with corresponding delivered voxel dose, to the planning voxel. Dose for each voxel for each time-point was calculated on each previous weekly CT image, and accumulated using DIR. Thus, for each voxel, the volume-change and delivered dose was calculated for each time-point. The data was binned according to when the volume-change first increased by a threshold volume (10%-100%, in 10% increments), and the average delivered dose calculated for each bin.
+
+
+RESULTS
+The average dose resulting in a voxel volume increase of 10-100% was 21.6 to 45.9Gy, respectively. The mean population dose to give a 50% volume increase was 36.3±4.4Gy, (range:29.8 to 43.5Gy). The average week of 50% response was 4.1 (range:4.9 to 2.8 weeks). All 18 patients showed similar dose to first response curves, showing a common trend in the initial inflammatoryresponse.
+
+
+CONCLUSION
+We extracted the dose-response curve of the esophagus on a voxel-to-voxel level. This may be useful for estimating the esophagus response (and patient symptoms) to complicated dose distributions.

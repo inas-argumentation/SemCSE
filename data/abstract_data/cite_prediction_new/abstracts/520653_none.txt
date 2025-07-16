@@ -1,0 +1,2 @@
+FLOWSHOP SCHEDULES WITH SEQUENCE DEPENDENT SETUP TIMES
+The flowshop scheduling problem with sequence dependent setup times is considered and shown to be NP-complete. A traveling salesman problem formulation is proposed for the case where jobs are processed continuously through the shop. These results are used to describe an approximate algorithm for the case where limited or infinite intermediate storage space is available to hold partially completed jobs. The effectiveness of the proposed approximate approach is discussed and some empirical results are reported.

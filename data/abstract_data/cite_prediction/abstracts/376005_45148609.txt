@@ -1,0 +1,19 @@
+Security Challenges in Healthcare Cloud Computing: A Systematic Review.
+BACKGROUND
+Healthcare data are very sensitive records that should not be made available to unauthorized people in order for protecting patient's information security. However, in progressed technologies as cloud computing which are vulnerable to cyber gaps that pose an adverse impact on the security and privacy of patients' electronic health records and in these situations, security challenges of the wireless networks need to be carefully understood and considered. Recently, security concerns in cloud computing environment are a matter of challenge with rising importance.
+
+
+OBJECTIVE
+In this study a systematic review to investigate the security challenges in cloud computing was carried out. We focused mainly on healthcare cloud computing security with an organized review of 210 full text articles published between 2000 and 2015.
+
+
+METHOD
+A systematic literature review was conducted including PubMed, Science direct, Embase, ProQuest, Web of science, Cochrane, Emerald, and Scopus databases.
+
+
+FINDINGS
+Using the strategies described, 666 references retrieved (for research question one 365, research question two 201, and research question three 100 references).
+
+
+IMPROVEMENTS
+Review of articles showed that for ensuring healthcare data security, it is important to provide authentication, authorization and access control within cloud's virtualized network. Issues such as identity management and access control, Internet-based access, authentication and authorization and cybercriminals are major concerns in healthcare cloud computing. To manage these issues many involved events such as Hybrid Execution Model, VCC-SSF, sHype Hypervisor Security Architecture, Identity Management, and Resource Isolation approaches have to be defined for using cloud computing threat management processes.

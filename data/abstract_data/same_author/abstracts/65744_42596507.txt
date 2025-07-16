@@ -1,0 +1,2 @@
+On complete Bergman metrics
+(Strictly speaking, one should put (1)n212 in front of J; but this is not essential in the following discussion.) Suppose F is ample in the following sense: (A. 1). For every z in M, there exists an f in F which does not vanish at z. (A.2). For every holomorphic vector Z at z, there exists an f in F such thatf vanishes at z and Z(f *) O0, where ff * dzl'A ... Adzn with respect to a local coordinate system zl, * * *, zn of M. If F satisfies the conditions (A.1) and (A.2), then the Bergman metric ds2 is defined by 02 log K* ds2 =dzad2f azcaaV

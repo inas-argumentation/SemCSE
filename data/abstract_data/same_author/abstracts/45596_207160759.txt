@@ -1,0 +1,2 @@
+Data structures and algorithms for disjoint set union problems
+This paper surveys algorithmic techniques and data structures that have been proposed tosolve thesetunion problem and its variants, Thediscovery of these data structures required anew set ofalgorithmic tools that have proved useful in other areas. Special attention is devoted to recent extensions of the original set union problem, and an attempt is made to provide a unifying theoretical framework for this growing body of algorithms.

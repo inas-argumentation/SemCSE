@@ -1,0 +1,2 @@
+A Low-Loss Compact Linear Varactor Based Phase-Shifter
+Design trade-offs are presented for varactor-based variable phase-shifters in terms of size, tuning range, bandwidth/phase linearity and large-signal performance. Based on this study, a compact, low-loss (0.6dB/90deg @ 1.0 GHz), wideband and extremely linear varactor-based phase shifter is presented.

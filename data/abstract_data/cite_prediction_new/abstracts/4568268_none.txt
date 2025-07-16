@@ -1,0 +1,2 @@
+A neural network based approach to automated e-mail classification
+We present a neural network based system for automated e-mail filing into folders and anti-spam filtering. The experiments show that it is more accurate than several other techniques. We also investigate the effects of various feature selection, weighting and normalization methods, and also the portability of the anti-spam filter across different users.

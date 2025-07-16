@@ -1,0 +1,2 @@
+Variable selection and ranking for analyzing automobile traffic accident data
+Variable ranking and feature selection are important concepts in data mining and machine learning. This paper introduces a new variable ranking technique named Sum Max Gain Ratio (SMGR). The new technique is evaluated within the domain of traffic accident data and against a more generalized dataset. In certain cases, SMGR is empirically shown to provide similar results to established approaches with significantly better runtime performance.

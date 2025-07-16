@@ -1,0 +1,2 @@
+Low energy register allocation beyond basic blocks
+An approach of performing register allocation beyond basic blocks for low energy is presented. With careful analysis of boundary conditions between consecutive blocks, our approach achieves allocation results benefiting the whole program. By allowing the allocation results to propagate down block by block without backtracking, we avoid excessive computational cost.

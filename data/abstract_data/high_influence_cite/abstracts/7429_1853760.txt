@@ -1,0 +1,15 @@
+User-centered design in brain-computer interfaces - A case study
+OBJECTIVE
+The array of available brain-computer interface (BCI) paradigms has continued to grow, and so has the corresponding set of machine learning methods which are at the core of BCI systems. The latter have evolved to provide more robust data analysis solutions, and as a consequence the proportion of healthy BCI users who can use a BCI successfully is growing. With this development the chances have increased that the needs and abilities of specific patients, the end-users, can be covered by an existing BCI approach. However, most end-users who have experienced the use of a BCI system at all have encountered a single paradigm only. This paradigm is typically the one that is being tested in the study that the end-user happens to be enrolled in, along with other end-users. Though this corresponds to the preferred study arrangement for basic research, it does not ensure that the end-user experiences a working BCI. In this study, a different approach was taken; that of a user-centered design. It is the prevailing process in traditional assistive technology. Given an individual user with a particular clinical profile, several available BCI approaches are tested and - if necessary - adapted to him/her until a suitable BCI system is found.
+
+
+METHODS
+Described is the case of a 48-year-old woman who suffered from an ischemic brain stem stroke, leading to a severe motor- and communication deficit. She was enrolled in studies with two different BCI systems before a suitable system was found. The first was an auditory event-related potential (ERP) paradigm and the second a visual ERP paradigm, both of which are established in literature.
+
+
+RESULTS
+The auditory paradigm did not work successfully, despite favorable preconditions. The visual paradigm worked flawlessly, as found over several sessions. This discrepancy in performance can possibly be explained by the user's clinical deficit in several key neuropsychological indicators, such as attention and working memory. While the auditory paradigm relies on both categories, the visual paradigm could be used with lower cognitive workload. Besides attention and working memory, several other neurophysiological and -psychological indicators - and the role they play in the BCIs at hand - are discussed.
+
+
+CONCLUSION
+The user's performance on the first BCI paradigm would typically have excluded her from further ERP-based BCI studies. However, this study clearly shows that, with the numerous paradigms now at our disposal, the pursuit for a functioning BCI system should not be stopped after an initial failed attempt.

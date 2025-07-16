@@ -1,0 +1,9 @@
+Improving the Forward Link of the Future AirportData Link by Space-Time Coding
+In the context of the future communication system 
+for the airport surface operations (AeroMACS), we investigate 
+the 2×1 Alamouti scheme applied to the 802.16e standard for improving 
+the performance of the forward link. We propose a novel 
+space-time coding realization which preserves the original frame 
+structure of WiMAX, analyzing its performance in a realistic 
+airport environment. Simulation results show the performance 
+of the system over different scenarios.

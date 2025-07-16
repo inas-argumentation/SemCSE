@@ -1,0 +1,2 @@
+Distributed Clustering Algorithm for Finding Virtual Backbone in Ad Hoc Networks
+An important objective in designing a protocol is to save scarce resources like energy and bandwidth, and avoid the broadcast storm problem [1]. One way of addressing these problems is by forming a small virtual backbone. In this paper, we present a distributed clustering algorithm for forming a small backbone in ad-hoc network, based on connected dominating set. The time and message complexity of the algorithm is in O(n).

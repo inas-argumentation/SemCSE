@@ -1,0 +1,19 @@
+A New App for At-Home Cognitive Training: Description and Pilot Testing on Patients with Multiple Sclerosis
+BACKGROUND
+Cognitive impairment is common in people with neurological diseases and severely affects their social and professional life. It has been shown that intensive and personalized cognitive rehabilitation (CR), based on working memory exercises, leads to improved cognitive status of healthy and cognitive-impaired subjects. New technologies would help to promote accessible, at-home, and self-managed CR interventions.
+
+
+OBJECTIVE
+The aim of this paper is to describe the design of Cognitive Training Kit (COGNI-TRAcK), an app for mobile devices, to self-administer an at-home, intensive, and personalized CR intervention based on working memory exercises, and test its disposability-to-use (usability, motivation to use, compliance to treatment) on cognitive-impaired patients with multiple sclerosis (MS).
+
+
+METHODS
+COGNI-TRAcK includes user-friendly interfaces for personal data input and management and for CR intervention configurations. Inner routines automatically implement adaptive working load algorithms and allow data processing and analysis. A dedicated team developed COGNI-TRAcK with C# programming language, by using the platform Xamarin Studio 4.0.10 for Android (API level 15 and following). Three exercises based on working memory are now available. To assess the disposability-to-use of the system, patients with MS were selected as likely users due to the young age of disease onset. Cognitive-impaired patients with MS (N=16) with a mean age of 49.06 years (SD 9.10) and a mean score of 3.75 (SD 1.92) on the Expanded Disability Status Scale (EDSS) were submitted to an 8-week at-home intervention administered by the app. The intervention consisted of 5 daily scheduled 30-minute sessions per week. Disposability-to-use of COGNI-TRAcK was investigated by means of a questionnaire administered to patients at the end of the training.
+
+
+RESULTS
+The adherence to the treatment was 84% (33.4/40). Of the patients with MS, 94% (15/16) understood the instructions given, 100% (16/16) felt independent to use COGNI-TRAcK at home, 75% (12/16) found the exercises interesting, and 81% (13/16) found the exercises useful and were motivated to use the app again. Moreover, during the exercises, patients with MS were highly motivated to perform well (mean score 3.19/4, SE 0.16), experienced rather low levels of stress (mean score 2.19/4, SE 0.26), were not bored (mean score 1.81/4, SE 0.30), and felt amusement (mean score 2.25/4, SE 0.23).
+
+
+CONCLUSIONS
+As COGNI-TRAcK is highly usable, motivating, and well-accepted by patients with MS, its effectiveness can now be investigated. To improve COGNI-TRAcK, new releases should contain more working memory exercises, have enhanced perceived amusement, and promote Internet communication procedures for data transfer and fostering remote control of the intervention.

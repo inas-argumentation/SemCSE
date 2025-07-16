@@ -1,0 +1,2 @@
+Image morphing based on mutual information and optimal mass transport
+Time domain image interpolation, or image morphing, refers to a class of techniques for generating a series of smoothly changing intermediate images between two given related images. In this note, we present a novel approach based on the theoiy of optimal mass transport, using mutual information (MI) as the similarity measurement. The potential applications also include image registmtion, compression and coding.

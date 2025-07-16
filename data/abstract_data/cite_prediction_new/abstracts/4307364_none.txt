@@ -1,0 +1,2 @@
+HIGHER INTEGRABILITY FOR WEAK SOLUTIONS OF HIGHER ORDER DEGENERATE PARABOLIC SYSTEMS
+We consider a class of higher order nonlinear degenerate parabolic systems, whose easiest model is the parabolic p-Laplacean system √ ΩT (u·φ t -|D m u | p-2 D m u·D m φ)dz= √ Ω T Σm-1 k=0 B k (·,D m u)·D k φdz and show higher integrability for weak solutions, proving that D m u ∈L p implies that D m u ∈L p+e for some e > 0.

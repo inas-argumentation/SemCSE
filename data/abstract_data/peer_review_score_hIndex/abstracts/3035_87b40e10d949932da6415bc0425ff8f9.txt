@@ -1,0 +1,7 @@
+Policy Optimization with Stochastic Mirror Descent
+Improving sample efficiency has been a longstanding goal in reinforcement learning.
+In this paper, we propose the $\mathtt{VRMPO}$: a sample efficient policy gradient method with stochastic mirror descent.
+A novel variance reduced policy gradient estimator is the key of $\mathtt{VRMPO}$ to improve sample efficiency.
+Our $\mathtt{VRMPO}$ needs only $\mathcal{O}(\epsilon^{-3})$ sample trajectories to achieve an $\epsilon$-approximate first-order stationary point, 
+which matches the best-known sample complexity.
+We conduct extensive experiments to show our algorithm outperforms state-of-the-art policy gradient methods in various settings.

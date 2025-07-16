@@ -1,0 +1,2 @@
+Efficient Parallel Evaluation of Boolean Expressions
+A Boolean expression wilth n literals, i.e., n distinct appearances of variables, can be evaluated by a parallel processing system in at most 1.81 log2n steps, or, equivalently, by a network constructed with two-input AND and OR gates and having at most 1.81 log2n levels.

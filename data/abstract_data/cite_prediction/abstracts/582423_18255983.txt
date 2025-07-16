@@ -1,0 +1,2 @@
+Learning to Play Othello with N-Tuple Systems
+This paper investigates the use of n-tuple systems as position value functions for the game of Othello. The architecture is described, and then evaluated for use with temporal difference learning. Performance is compared with prev iously developed weighted piece counters and multi-layer perceptrons. The n-tuple system is able to defeat the best performing of these after just five hundred ga mes of selfplay learning. The conclusion is that n-tuple networks learn faster and better than the other more conventional approaches.

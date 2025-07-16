@@ -1,0 +1,2 @@
+Liveness and Acceleration in Parameterized Verification
+The paper considers the problem of uniform verification of parameterizedsystems by symbolic model checking, using formulas in fs1s (a syntactic variant of the 2nd order logic ws1s) for the symbolic representation of sets of states. The technical difficulty addressed in this work is that, in many cases, standard model-checking computations fail to converge.

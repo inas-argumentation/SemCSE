@@ -1,0 +1,15 @@
+Derivation of a clinical decision instrument to identify adult patients with mild traumatic intracranial hemorrhage at low risk for requiring ICU admission.
+STUDY OBJECTIVE
+The objective of this study is to derive a clinical decision instrument with a sensitivity of at least 95% (with upper and lower bounds of the 95% confidence intervals [CIs] within a 5% range) to identify adult emergency department patients with mild traumatic intracranial hemorrhage who are at low risk for requiring critical care resources during hospitalization and thus may not need admission to the ICU.
+
+
+METHODS
+This was a prospective, observational study of adult patients with mild traumatic intracranial hemorrhage (initial Glasgow Coma Scale [GCS] score 13 to 15, with traumatic intracranial hemorrhage) presenting to a Level I trauma center from July 2009 to February 2013. The need for ICU admission was defined as the presence of an acute critical care intervention (intubation, neurosurgical intervention, blood product transfusion, vasopressor or inotrope administration, invasive monitoring for hemodynamic instability, urgent treatment for arrhythmia or cardiopulmonary resuscitation, and therapeutic angiography). We derived the clinical decision instrument with binary recursive partitioning (with a misclassification cost of 20 to 1). The accuracy of the decision instrument was compared with the treating physician's (emergency medicine faculty) clinical impression.
+
+
+RESULTS
+A total of 600 patients with mild traumatic intracranial hemorrhage were enrolled; 116 patients (19%) had a critical care intervention. The derived instrument consisted of 4 predictor variables: admission GCS score less than 15, nonisolated head injury, aged 65 years or older, and evidence of swelling or shift on initial cranial computed tomography scan. The decision instrument identified 114 of 116 patients requiring an acute critical care intervention (sensitivity 98.3%; 95% CI 93.9% to 99.5%) if at least 1 variable was present and 192 of 484 patients who did not have an acute critical care intervention (specificity 39.7%; 95% CI 35.4% to 44.1%) if no variables were present. Physician clinical impression was slightly less sensitive (90.1%; 95% CI 83.1% to 94.4%) but overall similar to the clinical decision instrument.
+
+
+CONCLUSION
+We derived a clinical decision instrument that identifies a subset of patients with mild traumatic intracranial hemorrhage who are at low risk for acute critical care intervention and thus may not require ICU admission. Physician clinical impression had test characteristics similar to those of the decision instrument. Because the results are based on single-center data without a validation cohort, external validation is required.

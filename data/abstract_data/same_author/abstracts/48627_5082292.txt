@@ -1,0 +1,7 @@
+Survival prediction of diffuse large-B-cell lymphoma based on both clinical and gene expression information
+MOTIVATION
+It is important to predict the outcome of patients with diffuse large-B-cell lymphoma after chemotherapy, since the survival rate after treatment of this common lymphoma disease is <50%. Both clinically based outcome predictors and the gene expression-based molecular factors have been proposed independently in disease prognosis. However combining the high-dimensional genomic data and the clinically relevant information to predict disease outcome is challenging.
+
+
+RESULTS
+We describe an integrated clinicogenomic modeling approach that combines gene expression profiles and the clinically based International Prognostic Index (IPI) for personalized prediction in disease outcome. Dimension reduction methods are proposed to produce linear combinations of gene expressions, while taking into account clinical IPI information. The extracted summary measures capture all the regression information of the censored survival phenotype given both genomic and clinical data, and are employed as covariates in the subsequent survival model formulation. A case study of diffuse large-B-cell lymphoma data, as well as Monte Carlo simulations, both demonstrate that the proposed integrative modeling improves the prediction accuracy, delivering predictions more accurate than those achieved by using either clinical data or molecular predictors alone.

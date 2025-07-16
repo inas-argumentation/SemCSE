@@ -1,0 +1,2 @@
+The maximal PN sequences over GF(p)
+Abstract In this paper analysis of the maximal pseudorandom sequences (PN sequences) over a Galois Field GF(p) is given. The first part of the paper deals with the properties of the sequences of vectors generated over GF(p) . In the second part the autocorrelation function of the pseudorandom sequences is discussed.

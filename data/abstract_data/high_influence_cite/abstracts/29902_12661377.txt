@@ -1,0 +1,2 @@
+K-processes, scaling limit and aging for the REM-like trap model
+We study K-processes, which are Markov processes in a denumerable state space, all of whose elements are stable, with the exception of a single state, starting from which the process enters finite sets of stable states with uniform distribution. We show how these processes arise, in a particular instance, as scaling limits of the REM-like trap model ``at low temperature'', and subsequently derive aging results for those models in this context.

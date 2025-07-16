@@ -1,0 +1,2 @@
+On Grouping in Relational Algebra
+The concept of grouping in relational algebra is well-known from its connection to aggregation. In this paper we generalize the grouping notion by defining a simultaneous grouping of more than one relation, and we discuss the application of operations on grouping elements other than just arithmetic aggregation. Finally we show that this grouping mechanism can be added to relational algebra without increasing its computational power.

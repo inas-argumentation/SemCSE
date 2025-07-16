@@ -1,0 +1,2 @@
+Calculation of charged-particle registration efficiency of detectors
+The registration efficiency for protons with energies to 350 MeV by thick scintillation detectors is calculated. The calculation is performed by statistical modeling of the particle trajectories in the detector material with allowance for particle escape due to nuclear reactions and multiple scattering. The calculation satisfactorily describes the experimentally obtained proton registration efficiency of a NaI(Tl) crystal.

@@ -1,0 +1,2 @@
+Exploring laser-wakefield-accelerator regimes for near-term lasers using particle-in-cell simulation in Lorentz-boosted frames
+Modelling the interaction of an intense laser with a plasma in an optimal ‘Lorentz boosted’ frame of reference decreases by many orders of magnitude the computation time needed to simulate a laser-driven particle accelerator. This provides a powerful tool for optimizing the characteristics of accelerators driven by the next generation of high-intensity lasers, which will be able to deliver powers beyond a petawatt.

@@ -1,0 +1,30 @@
+Characterizing uncertainties in atmospheric inversions of fossil fuel CO2 emissions in California
+Abstract. Atmospheric inverse modelling has become an increasingly useful tool for
+evaluating emissions of greenhouse gases including methane, nitrous oxide, and
+synthetic gases such as hydrofluorocarbons (HFCs). Atmospheric inversions for
+emissions of CO2 from fossil fuel combustion (ffCO2) are
+currently being developed. The aim of this paper is to investigate potential
+errors and uncertainties related to the spatial and temporal prior
+representation of emissions and modelled atmospheric transport for the
+inversion of ffCO2 emissions in the US state of California. We
+perform simulation experiments based on a network of ground-based
+observations of CO2 concentration and radiocarbon in CO2
+(a tracer of ffCO2), combining prior (bottom-up) emission models
+and transport models currently used in many atmospheric studies. The
+potential effect of errors in the spatial and temporal distribution of prior
+emission estimates is investigated in experiments by using perturbed versions
+of the emission estimates used to create the pseudo-data. The potential
+effect of transport error was investigated by using three different
+atmospheric transport models for the prior and pseudo-data simulations. We
+find that the magnitude of biases in posterior total state emissions arising
+from errors in the spatial and temporal distribution in prior emissions in
+these experiments are 1 %–15 % of posterior total state emissions and
+are generally smaller than the 2σ uncertainty in posterior emissions.
+Transport error in these experiments introduces biases of −10 % to
++6 % into posterior total state emissions. Our results indicate that
+uncertainties in posterior total state ffCO2 estimates arising from
+the choice of prior emissions or atmospheric transport model are on the order
+of 15 % or less for the ground-based network in California we consider. We
+highlight the need for temporal variations to be included in prior emissions
+and for continuing efforts to evaluate and improve the representation of
+atmospheric transport for regional ffCO2 inversions.

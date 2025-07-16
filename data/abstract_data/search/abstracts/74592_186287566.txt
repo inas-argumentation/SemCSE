@@ -1,0 +1,2 @@
+System and method for automatic direct forwarding of information in a network
+A method of automatically routing a message between communication units in a network, comprising: Sending a first message to a first server; and in response to receiving a redirection message from the first server, the redirection message comprises an identification of a destination server associated with a destination communication unit and a target range, wherein the target area includes a plurality of communication units that are associated with the target server.

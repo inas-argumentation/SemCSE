@@ -1,0 +1,2 @@
+The damped Mathieu equation
+We establish an asymptotic lower bound for the minimum excitation needed to cause instability for the damped Mathieu equation. The methods used are Floquet theory and Liapunov-Schmidt, and we use a fact about the width of the instability interval for the undamped Mathieu equation. Our results are compared with published numerical data.

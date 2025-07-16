@@ -1,0 +1,2 @@
+Feature Extraction and Selection in Tool Condition Monitoring System
+In order to predict tool state, this paper introduces the application of feature extraction and feature selection by automatic relevance determination (ARD) to explore the optimal feature set of AE signals in tool condition monitoring system(TCMS). The experiment results confirm that this selected AE feature set is more effective and efficient to recognize tool state over various cutting conditions.

@@ -1,0 +1,2 @@
+Issues in active vision : attention and cueintegration /
+In this paper which is a summary of our talk, we stress a systems approach for research in active vision. We also argue that design and analysis of seeing agents should be accompanied by experiments, requiring implementations, i.e. a constructive approach. In particular, we discuss two issues that we have worked with: use and integration of multiple cues and attention.

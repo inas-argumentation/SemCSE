@@ -1,0 +1,2 @@
+Deterministic Rendezvous in Graphs
+Two mobile agents having distinct identifiers and located in nodes of an unknown anonymous connected graph, have to meet at some node of the graph. We present fast deterministic algorithms for this rendezvous problem.

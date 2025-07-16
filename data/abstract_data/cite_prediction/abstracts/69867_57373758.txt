@@ -1,0 +1,2 @@
+Recurrent Neural Networks for Time Series Forecasting
+Time series forecasting is difficult. It is difficult even for recurrent neural networks with their inherent ability to learn sequentiality. This article presents a recurrent neural network based time series forecasting framework covering feature engineering, feature importances, point and interval predictions, and forecast evaluation. The description of the method is followed by an empirical study using both LSTM and GRU networks.

@@ -1,0 +1,2 @@
+On discrete-domain multidimensional sinusoidal models
+We consider three-dimensional sinusoidal frequency model in a random field. Three-dimensional frequency model has wide applications in statistical signal processing. In this article, we mainly consider the usual least squares estimators and the estimators that can be obtained by maximizing the periodogram function. We obtain consistency and asymptotic normality property of both the estimators. It is observed that they are asymptotically equivalent. Finally we generalize the results to the multidimensional case.

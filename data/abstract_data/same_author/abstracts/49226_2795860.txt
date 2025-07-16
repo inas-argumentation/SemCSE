@@ -1,0 +1,2 @@
+On-line seat reservations via off-line seating arrangements
+When reservations are made to for instance a train, it is an on-line problem to accept or reject, i.e., decide if a person can be fitted in given all earlier reservations. However, determining a seating arrangement, implying that it is safe to accept, is an off-line problem with the earlier reservations and the current one as input. We develop algorithms with optimal running time to handle problems of this nature.

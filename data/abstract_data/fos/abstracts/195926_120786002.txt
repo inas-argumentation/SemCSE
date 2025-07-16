@@ -1,0 +1,2 @@
+Some Estimators of Finite Population Variance of Stratified Sample Mean
+This article proposes a ratio-type estimator for estimating the variance of the stratified sample mean using auxiliary information. The proposed estimator is found to perform better than the usual unbiased variance estimator, stratified ratio and regression estimators, and stratified version of Prasad and Singh (1992) estimator. We use five data sets to compare the performances of all of the estimators considered here.

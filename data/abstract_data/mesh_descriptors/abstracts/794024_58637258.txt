@@ -1,0 +1,19 @@
+Early Postoperative Actigraphy Poorly Predicts Hypoactive Delirium.
+STUDY OBJECTIVES
+Delirium is a postoperative complication accompanied by disturbances in attention, cognition, arousal, and psychomotor activity. Wrist actigraphy has been advocated to study inactivity and inferred sleep patterns during delirium. We hypothesized that altered patterns of motor activity or immobility, reflective of disordered sleep and wakefulness patterns, would serve as predictive markers of hypoactive postoperative delirium.
+
+
+METHODS
+Eighty-four elderly surgical patients were classified into three groups based on the timing of hypoactive delirium following surgery: intact with no delirium throughout postoperative days (POD) 0-5 (n = 51), delirium during POD 0-1 (n = 24), and delirium during POD 2-5 (n = 13). Delirium was detected on daily Confusion Assessment Method evaluations and chart review. Actigraphy measures were calculated from accelerometry signals acquired on the first postoperative day (POD 0, 16:00-23:00) and night (POD 0, 23:00-POD 1, 06:00).
+
+
+RESULTS
+Actigraphy metrics showed substantial interpatient variability. Among the three patient groups, only those without delirium showed greater movement during the day compared to night and also fewer minutes of night immobility (P = .03 and P = .02, Wilcoxon rank-sum tests). These patients were poorly discriminated from those with delirium during either POD 0-1 or POD 2-5, using differences in day and night activity (C-statistic, 95% confidence interval [CI]: 0.66 [0.53-0.79] and C-statistic, 95% CI: 0.71 [0.55-0.87], respectively). Inclusion of low-frequency signals improved performance of immobility measures without affecting those based on activity. Cognitively intact patients during POD 0-5 were distinguished from those with delirium during POD 0-1, based on differences in the number of day and night immobile minutes (C-statistic 0.65, 95% CI: [0.53-0.78]). Actigraphy metrics with the strongest association to delirium incidence were not reliably correlated with an increased risk during POD 0-5, when accounting for patient age, sex, intensive care unit admission, and Charlson Comorbidity Index (adjusted odds ratio of 1.7, 95% CI: [1.0-3.0], P = .09, likelihood ratio test).
+
+
+CONCLUSIONS
+Early postoperative wrist actigraphy metrics that serve as markers of sleep and wakefulness offer limited capacity as sole predictors or markers of hypoactive delirium.
+
+
+CLINICAL TRIAL REGISTRATION
+Registry: ClinicalTrials.gov; Title: Electroencephalography Guidance of Anesthesia to Alleviate Geriatric Syndromes (ENGAGES) Study; Identifier: NCT02241655; URL: https://clinicaltrials.gov/ct2/show/NCT02241655.

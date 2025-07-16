@@ -1,0 +1,2 @@
+FPGA-Based Assessment of Midori and Gift Lightweight Block Ciphers
+Lightweight block ciphers are today of paramount importance to provide security services in constrained environments. Recent studies have questioned the security properties of Present, which makes it evident the need to study alternative ciphers. In this work we provide hardware architectures for Midori and Gift, and compare them against implementations for Present and Gimli under fair conditions. The hardware description for our designs is made publicly available.

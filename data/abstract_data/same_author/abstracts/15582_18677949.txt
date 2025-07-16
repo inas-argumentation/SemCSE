@@ -1,0 +1,2 @@
+Separating Signals from Non-Interfering Backgrounds using Probabilistic Event Weightings
+A common situation in experimental physics is to have a signal which can not be separated from a non-interfering background through the use of any cut. In this paper, we describe a procedure for determining, on an event-by-event basis, a quality factor (Q-factor) that a given event originated from the signal distribution. This Q-factor can then be used as an event weight in subsequent analysis procedures, allowing one to more directly access the true spectrum of the signal.

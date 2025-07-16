@@ -1,0 +1,6 @@
+An automatic video indexing method based on shot classification
+With the recent increase in the number of news videos and in their value, their automatic indexing has been anticipated. Among various proposals for this problem, the use of textual data has been actively considered, and some applications of this type have actually been developed. Nonetheless, most of these approaches are textual data oriented, and a few of them consider the correspondences between their indexes (keywords) and image contents which are essentials for an image database. 
+ 
+ 
+ 
+This paper proposes an automatic video indexing method which takes advantage of the characteristic of news videos: similar images have similar contents. The method tags indexes selectively according to typical image content. The method has been applied to actual news videos, and indexing has been successful for between 25% and 93% of “typical shots,” and for between 75% and 100% of “captionized shots.” © 2001 Scripta Technica, Syst Comp Jpn, 32(9): 32–41, 2001

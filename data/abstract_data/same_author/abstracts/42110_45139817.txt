@@ -1,0 +1,2 @@
+Alternative methods for the reconstruction of trees from their traversals
+It is well-known that given the inorder traversal of a binary tree's nodes, along with either one of its preorder or postorder traversals, the original binary tree can be reconstructed using a recursive algorithm. In this short note we provide a short, elegent, iterative solution to this classical problem.

@@ -1,0 +1,2 @@
+Analysis of bifurcations for non-linear stochastic non-smooth vibro-impact system via top Lyapunov exponent
+Bifurcations are discussed by the criterion of top Lyapunov exponent. Based on the local map and Kaminski's algorithms, a general formulation of the top Lyapunov exponents is proposed for non-linear vibro-impact oscillators with Gaussian white noise perturbation. The analytical results are verified by phase portraits and bifurcation diagrams for a classical stochastic Duffing vibro-impact oscillator. Both results are consistent.

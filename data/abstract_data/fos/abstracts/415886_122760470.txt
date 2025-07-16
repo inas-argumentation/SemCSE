@@ -1,0 +1,2 @@
+Full-band Monte Carlo simulations of photo excitation in silicon diode structures
+In this study, a full-band particle-based simulator is used to model photo-generated electron–hole pairs in Si to investigate ultra-fast charge transport. This work is motivated by previous simulations of transient transport in III–V material as well as recent experimental measurements of optically excited Si pin diodes. The simulation results show evidence of velocity overshoot at high fields (greater than 100 kV cm−1), and can be attributed to momentum relaxation.

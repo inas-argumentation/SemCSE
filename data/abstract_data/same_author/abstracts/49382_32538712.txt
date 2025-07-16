@@ -1,0 +1,2 @@
+On the sizes of graphs embeddable in surfaces of nonnegative Euler characteristic and their applications to edge choosability
+There are two main theorems stated in the introduction section. Theorem A gives upper bounds on the sizes of graphs that are 2-cell embedded in a surface of nonnegative Euler characteristic and contain no cycles of specified lengths. Some of these bounds are used in Theorem B to confirm the List Edge Coloring Conjecture for such graphs with maximum degree exceeding prescribed thresholds.

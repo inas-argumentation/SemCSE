@@ -1,0 +1,6 @@
+Accelerating Optimization using Neural Reparametrization
+We tackle the problem of accelerating certain optimization problems related to steady states in ODE and energy minimization problems common in physics. 
+We reparametrize the optimization variables as the output of a neural network. 
+We then find the conditions under which this neural reparameterization could speed up convergence rates during gradient descent.
+We find that to get the maximum speed up the neural network needs to be a special graph convolutional network (GCN) with its aggregation function constructed from the gradients of the loss function.
+We show the utility of our method on two different optimization problems on graphs and point-clouds. 

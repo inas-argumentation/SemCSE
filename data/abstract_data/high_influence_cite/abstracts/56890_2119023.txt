@@ -1,0 +1,2 @@
+On P systems with bounded parallelism
+A framework that describes the evolution of P systems with bounded parallelism is defined by introducing basic formal features that can be then integrated into a structural operational semantics. This approach investigates a generic strategy of selecting membranes and rules and applying the rules. P systems with boundary rules are used to illustrate the case and an example dealing with an evolution strategy involving bounded parallelism is discussed.

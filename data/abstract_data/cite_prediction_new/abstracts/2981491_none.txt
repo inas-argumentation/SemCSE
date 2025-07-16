@@ -1,0 +1,2 @@
+A dual-band bagley power divider using modified Π-network
+A new methodology to design a dual-band 3-way Bagley power divider is presented. The general method of using π-network as well as the proposed modified π-network has been discussed. The proposed π-network mimics a λ/2 line at two different frequencies. Design equations in closed form are obtained by using transmission line concepts and simple network analysis techniques. The proposed design is validated using Agilent ADS. This modification also leads to wider bandwidth as observed by a careful simulation.

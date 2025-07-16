@@ -1,0 +1,15 @@
+Germline genetic contributions to risk for esophageal adenocarcinoma, Barrett's esophagus, and gastroesophageal reflux.
+BACKGROUND
+Esophageal adenocarcinoma (EA) is an increasingly common cancer with poor survival. Barrett's esophagus (BE) is the main precursor to EA, and every year 0.12% to 0.5% of BE patients progress to EA. BE typically arises on a background of chronic gastroesophageal reflux (GERD), one of the risk factors for EA.
+
+
+METHODS
+We used genome-wide association data to investigate the genetic architecture underlying GERD, BE, and EA. We applied a method to estimate the variance explained (array heritability, h(2)g) and the genetic correlation (rg) between GERD, BE, and EA by considering all single nucleotide polymorphisms (SNPs) simultaneously. We also estimated the polygenic overlap between GERD, BE, and EA using a prediction approach. All tests were two-sided, except in the case of variance-explained estimation where one-sided tests were used.
+
+
+RESULTS
+We estimated a statistically significant genetic variance explained for BE (h(2)g = 35%; standard error [SE] = 6%; one-sided P = 1 × 10(-9)) and for EA (h(2)g = 25 %; SE = 5%; one-sided P = 2 × 10(-7)). The genetic correlation between BE and EA was found to be high (rg = 1.0; SE = 0.37). We also estimated a statistically significant polygenic overlap between BE and EA (one-sided P = 1 × 10(-6)), which suggests, together with the high genetic correlation, that shared genes underlie the development of BE and EA. Conversely, no statistically significant results were obtained for GERD.
+
+
+CONCLUSIONS
+We have demonstrated that risk to BE and EA is influenced by many germline genetic variants of small effect and that shared polygenic effects contribute to risk of these two diseases.

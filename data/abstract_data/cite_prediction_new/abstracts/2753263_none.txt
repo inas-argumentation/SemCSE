@@ -1,0 +1,2 @@
+Implicit finite difference approximation for time fractional diffusion equations
+Time fractional diffusion equations are used when attempting to describe transport processes with long memory where the rate of diffusion is inconsistent with the classical Brownian motion model. In this paper we develop an implicit unconditionally stable numerical method to solve the one-dimensional linear time fractional diffusion equation, formulated with Caputo's fractional derivative, on a finite slab. Several numerical examples of interest are also included.

@@ -1,0 +1,2 @@
+An Improved Algorithm for Concurrency Control in Distributed Database Systems
+Abstract Deadlock and livelock prevention is critical in concurrency control of distributed database systems. This paper presents an improved algorithm for concurrency control, which not only prevents deadlock and livelock problems but also improves system efficiency by lowering restart ratio and communication cost. The proposed algorithm is effective in environments where most transactions have one-way request (either forward waiting or backward waiting).

@@ -1,0 +1,2 @@
+A parallel implementation of the cylindrical algebraic decomposition algorithm
+In this paper, we describe a parallelization scheme for Collins' cylindrical algebraic decomposition algorithm for quantifier elimination in the theory of real closed fields. We first discuss a parallel implementation of the computer algebra system SAC2 in which a complete sequential implementation of Collins' algorithm already exists. We report some initial results on the speedup obtained, drawing on a suite of examples previously given by Arnon.

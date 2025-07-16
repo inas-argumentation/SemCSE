@@ -1,0 +1,15 @@
+SU-D-WAB-01: Functional Imaging Based Radiotherapy for Locally Advanced Lung Cancer with Motion Management.
+PURPOSE
+To develop a new treatment planning framework incorporating lung functional information in addition to anatomy information.
+
+
+METHODS
+Ten patients were retrospectively evaluated. Fractional regional ventilation maps, obtained by performing subtraction of spatially matched and corrected 4DCT images, were selected for this study. Instead of utilizing the function information in the same manner across patients, tailor-made utility functions based on each patient's pulmonary function distribution (developed from the histogram of the fraction ventilation values) were used. Patients' breathing traces extracted from the Varian RPM system were used to obtain probability mass functions (PMFs) of tumor locations. Our method incorporated PMFs to account for motion uncertainty while utilizing the personalized utility function in the optimization objective during planning (referred as FPMF plan).
+
+
+RESULTS
+Conventional ITV-based plans and FPMF-based plans were both classified as satisfactory plans by the physician. However, the latter delivered 22% less dose to normal tissue. Quantitative results were collected based on conventional dose/dose-volume metrics and function dose/dose-volume metrics. Although the plans were comparable with conventional dose/dose-volume metrics, reductions of 35% and 48% in fV20 and fV30, respectively, were achieved by FPMF-based plan (p-value < 0.01). Compared with clinical plans (generated without functional information), FPMF plans successfully spared the high ventilation volume based on each patient's unique condition. The effect of applying personalized utility function was observed across patients.
+
+
+CONCLUSION
+Organ-function-based radiotherapy has been presented to incorporate patient's pulmonary function in hopes of reducing the risk of complications. Respiratory motion management is incorporated with robust optimization method. This research is supported by Varian Medical Systems.

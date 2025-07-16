@@ -1,0 +1,15 @@
+Can compression be reduced for breast tomosynthesis? Monte carlo study on mass and microcalcification conspicuity in tomosynthesis.
+PURPOSE
+To assess, in a voxelized anthropomorphic breast phantom, how the conspicuity of breast masses and microcalcifications may be affected by applying reduced breast compression in tomosynthesis.
+
+
+MATERIALS AND METHODS
+A breast tomosynthesis system was modeled by using a Monte Carlo program and a voxelized anthropomorphic breast phantom. The Monte Carlo program created simulated tomosynthesis projection images, which were reconstructed by using filtered back-projection software. Reconstructed images were analyzed for mass and microcalcification conspicuity, or the ratio of the lesion contrast to the anatomic and quantum noise surrounding the lesion. This analysis was performed at two compression levels (standard and 12.5% reduction) and for two breast compression thicknesses (4 and 6 cm). The change in conspicuity was analyzed for significance by using a bootstrap method and a paired Student t test.
+
+
+RESULTS
+While keeping the glandular radiation dose constant with respective standard and reduced compression levels, the mean mass conspicuities were 1.39 +/- 0.15 (standard error of the mean) and 1.46 +/- 0.22 for a 4-cm breast compression phantom and 1.26 +/- 0.15 and 1.22 +/- 0.20 for a 6-cm breast phantom, and the mean microcalcification conspicuities were 16.2 +/- 2.87 and 18.6 +/- 2.63 for a 4-cm breast phantom and 11.4 +/- 1.11 and 10.6 +/- 1.18 for a 6-cm breast compression phantom.
+
+
+CONCLUSION
+For constant glandular dose, mass and microcalcification conspicuity remained approximately constant with decreased compression. Constant conspicuity implies that reduced compression would have a minimal effect on radiologists' performance, which suggests that there is justification for a measured reduction of breast compression for breast tomosynthesis, increasing the comfort of women undergoing the examination.

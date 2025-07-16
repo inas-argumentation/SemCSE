@@ -1,0 +1,2 @@
+Wavelets and other bases for fast numerical linear algebra
+. The fundamental ideas of wavelets are introduced within the context of mathematical physics. We present essential background notions of mathematical bases, and discuss Fourier, polynomial, and wavelets bases in this light. We construct several types of wavelets and wavelet-like bases and illustrate their use in algorithms for the solution of a variety of integral and differential equations.

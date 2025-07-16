@@ -1,0 +1,2 @@
+Kinematic Analysis of the vertebra of an eel like robot
+The kinematic analysis of a spherical wrist with parallel architecture is the object of this article. This study is part of a larger French project, which aims to design and to build an eel like robot to imitate the eel swimming. To implement direct and inverse kinematics on the control law of the prototype, we need to evaluate the workspace without any collisions between the different bodies. The tilt and torsion parameters are used to represent the workspace.

@@ -1,0 +1,15 @@
+Comparison of Treatment Effects Measured by the Hazard Ratio and by the Ratio of Restricted Mean Survival Times in Oncology Randomized Controlled Trials.
+PURPOSE
+We aimed to compare empirically the treatment effects measured by the hazard ratio (HR) and by the difference (and ratio) of restricted mean survival times (RMST) in oncology randomized trials.
+
+
+METHODS
+We selected oncology randomized controlled trials from five leading journals during the last 6 months of 2014. We reconstructed individual patient data for one time-to-event outcome from each trial, preferably the primary outcome. We reanalyzed each trial and compared the treatment effect estimated by the HR with that by the difference (and ratio) of RMST. We estimated an average ratio of the HR to the ratio of RMST; an average ratio less than one indicates more optimistic assessments with HRs.
+
+
+RESULTS
+We analyzed 54 randomized controlled trials totaling 33,212 patients. The selected outcome was overall survival in 21 (39%) trials. There was evidence of nonproportionality of hazards in 13 (24%) trials. The HR and RMST-based measures were in agreement regarding the statistical significance of the effect, except in one case. The median HR was 0.84 (Q1 to Q3 range, 0.67 to 0.97) and the median difference in RMST was 1.12 months (range, 0.22 to 2.75 months). The average ratio of the HR to the ratio of RMST was 1.11 (95% CI, 1.07 to 1.15), with substantial between-trial variability (I(2) = 86%). Results were consistent by outcome type (overall survival v other outcomes) and whether the proportional hazard assumption held or not.
+
+
+CONCLUSION
+On average, the HR provided significantly larger treatment effect estimates than the ratio of RMST. The HR may seem large when the absolute effect is small. RMST-based measures should be routinely reported in randomized trials with time-to-event outcomes.

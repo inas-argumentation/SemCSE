@@ -1,0 +1,2 @@
+Comprehensive Electro-Thermal Compact Model of a 3.3kV-1200A IGBT-module
+This paper proposes the development of a complete compact model of an IGBT-module, for use in a circuit simulation environment. The model includes all major electro-thermal effects and such features as the self-heating of the silicon dies and package related parasitic effects. An accurate selection of simulation examples, derived from a railway traction application scenario, demonstrates the validity and the versatility of the proposed solution.

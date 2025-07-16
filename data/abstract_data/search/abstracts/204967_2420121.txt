@@ -1,0 +1,2 @@
+Combinatorial Model Categories Have Presentations
+Abstract We show that every combinatorial model category is Quillen equivalent to a localization of a diagram category (where "diagram category" means diagrams of simplicial sets) This says that every combinatorial model category can be built from a category of "generators" and a set of "relations."

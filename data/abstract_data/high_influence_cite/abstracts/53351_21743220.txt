@@ -1,0 +1,30 @@
+Cloud droplet size distribution broadening during diffusional growth: ripening amplified by deactivation and reactivation
+. Cloud droplet size distributions (CDSDs), which are related to cloud albedo
+and rain formation, are usually broader in warm clouds than predicted from
+adiabatic parcel calculations. We investigate a mechanism for the CDSD
+broadening using a moving-size-grid cloud parcel model that considers the
+condensational growth of cloud droplets formed on polydisperse,
+submicrometer aerosols in an adiabatic cloud parcel that undergoes vertical
+oscillations, such as those due to cloud circulations or turbulence. Results
+show that the CDSD can be broadened during condensational growth as a result
+of Ostwald ripening amplified by droplet deactivation and reactivation, which
+is consistent with early work. The relative roles of the solute effect,
+curvature effect, deactivation and reactivation on CDSD broadening are
+investigated. Deactivation of smaller cloud droplets, which is due to the
+combination of curvature and solute effects in the downdraft region, enhances
+the growth of larger cloud droplets and thus contributes particles to the
+larger size end of the CDSD. Droplet reactivation, which occurs in the
+updraft region, contributes particles to the smaller size end of the CDSD. In
+addition, we find that growth of the largest cloud droplets strongly depends
+on the residence time of cloud droplet in the cloud rather than the magnitude
+of local variability in the supersaturation fluctuation. This is because the
+environmental saturation ratio is strongly buffered by numerous smaller cloud
+droplets. Two necessary conditions for this CDSD broadening, which generally
+occur in the atmosphere, are as follows: (1) droplets form on aerosols of different
+sizes, and (2) the cloud parcel experiences upwards and downwards motions.
+Therefore we expect that this mechanism for CDSD broadening is possible in
+real clouds. Our results also suggest it is important to consider both
+curvature and solute effects before and after cloud droplet activation in a
+cloud model. The importance of this mechanism compared with other mechanisms
+on cloud properties should be investigated through in situ measurements and
+3-D dynamic models.

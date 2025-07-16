@@ -1,0 +1,2 @@
+Compositional Specification and Reuse of a Generic Cooperative Agent Model
+In this paper, one of the informally described models of agent cooperation (Jennings, 1995) has been used to develop and formally specify a generic model of a cooperative agent (GCAM). The compositional development method for multi-agent systems DESIRE supported the principled design of this model of cooperation. To illustrate reusability of the generic model, two application domains have been addressed: collaborative engineering design, and Call Center support.

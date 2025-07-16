@@ -1,0 +1,12 @@
+The application of chordal graphs to inferring phylogenetic trees of languages
+Phylogenetic methods are used to build 
+evolutionary trees of languages given 
+character data that may include lexical, 
+phonological, and morphological information. Such data rarely admits a perfect 
+phylogeny. We explore the use of the 
+more permissive conservative Dollo phylogeny as an alternative or complementary 
+approach. We propose a heuristic search 
+algorithm based on the notion of chordal 
+graphs. We test this approach by generating phylogenetic trees from three datasets, 
+and comparing them to those produced by 
+other researchers.

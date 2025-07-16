@@ -1,0 +1,2 @@
+Timed and Hybrid Statecharts and Their Textual Representation
+A structured operational semantics is presented for Timed and Hybrid Statecharts, which are generalizations of the visual specification language of Statecharts intended to model real-time and hybrid systems. In order to study some of the basic features of Statecharts and the extensions necessary to treat real-time and continuous behaviors without being distracted by the graphical representation, we introduce a concurrent real-time language that can be viewed as a textual representation of Statecharts.

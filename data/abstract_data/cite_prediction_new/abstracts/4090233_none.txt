@@ -1,0 +1,19 @@
+Energy Minimization and Flux Domain Structure
+in the Intermediate State of a Type-I Superconductor
+The intermediate state of a type-I
+superconductor involves a fine-scale mixture of normal
+and superconducting domains. We take the viewpoint, due
+to Landau, that the realizable domain patterns
+are (local) minima of a nonconvex variational
+problem. We examine the scaling law of the minimum
+energy and the qualitative properties of domain patterns 
+achieving that law. Our analysis is restricted to the 
+simplest possible case: a superconducting plate
+in a transverse magnetic field. Our methods 
+include explicit geometric constructions leading
+to upper bounds and ansatz-free inequalities leading 
+to lower bounds. The problem is unexpectedly rich 
+when the applied field is near-zero or near-critical.
+In these regimes there are two small parameters, and 
+the ground state patterns depend on the relation between
+them.

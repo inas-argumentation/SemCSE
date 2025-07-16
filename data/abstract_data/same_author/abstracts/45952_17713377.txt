@@ -1,0 +1,2 @@
+Feedback based Dynamic Autonomous Web Service Composition
+Web services are becoming very important in applications from electronic commerce to application interoperation. While numerous efforts have focused on service composition, plan selection among similar plans with different performance has not been addressed. We propose a feedback based dynamic autonomous composition strategy for the automated composition of web services described in semantic Web. The strategy is tested in a simulated environment with good experimental results.

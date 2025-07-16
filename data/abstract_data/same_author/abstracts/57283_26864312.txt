@@ -1,0 +1,2 @@
+Planar Hamiltonian chordal graphs are cycle extendable
+A cycle C in a graph G is extendable if there exists a cycle C' in G such that V(C) ⊆ V(C') and |V(C')| = |V(C)| + 1. A graph G is cycle extendable if G contains at least one cycle and every non-Hamiltonian cycle in G is extendable. Hendry (Discrete Math. 85 (1990) 59) asked if every Hamiltonian chordal graph is cycle extendable. We prove that every planar Hamiltonian chordal graph is cycle extendable.

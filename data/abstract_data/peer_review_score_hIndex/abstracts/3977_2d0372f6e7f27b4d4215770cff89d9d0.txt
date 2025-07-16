@@ -1,0 +1,10 @@
+Prediction Under Uncertainty with Error Encoding Networks
+In this work we introduce a new framework for performing temporal predictions
+in the presence of uncertainty. It is based on a simple idea of disentangling com-
+ponents of the future state which are predictable from those which are inherently
+unpredictable, and encoding the unpredictable components into a low-dimensional
+latent variable which is fed into the forward model. Our method uses a simple su-
+pervised training objective which is fast and easy to train. We evaluate it in the
+context of video prediction on multiple datasets and show that it is able to consi-
+tently generate diverse predictions without the need for alternating minimization
+over a latent space or adversarial training.

@@ -1,0 +1,17 @@
+Align-RUDDER: Learning From Few Demonstrations by Reward Redistribution
+Reinforcement Learning algorithms require a large number of samples to solve complex tasks with sparse and delayed rewards. 
+Complex tasks are often  hierarchically composed of sub-tasks.
+A step in the Q-function indicates solving a sub-task, where the expectation of the return increases. 
+RUDDER identifies these steps and then redistributes reward to them, thus immediately giving reward if sub-tasks are solved. 
+Since the delay of rewards is reduced, learning is considerably sped up.
+However, for complex tasks, current exploration strategies struggle with discovering episodes with high rewards.
+Therefore, we assume that episodes with high rewards are given as demonstrations and do not have to be discovered by exploration.
+Typically the number of demonstrations is small and RUDDER's LSTM model does not learn well.
+Hence, we introduce Align-RUDDER, which is RUDDER with two major modifications. 
+First, Align-RUDDER assumes that episodes with high rewards are given as demonstrations, 
+replacing RUDDER’s safe exploration and lessons replay buffer.
+Second, we substitute RUDDER’s LSTM model by a profile model that is obtained from multiple sequence alignment of demonstrations. 
+Profile models can be constructed from as few as two demonstrations.
+Align-RUDDER inherits the concept of reward redistribution, which speeds up learning by reducing the delay of rewards. 
+Align-RUDDER outperforms competitors on complex artificial tasks with delayed reward and few demonstrations.
+On the MineCraft ObtainDiamond task, Align-RUDDER is able to mine a diamond, though not frequently.

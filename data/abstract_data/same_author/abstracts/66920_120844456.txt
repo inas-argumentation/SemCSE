@@ -1,0 +1,6 @@
+Time-optimal control under state-dependent control restraints
+We consider the control system
+$$\dot x = Ax + Bu,$$
+ subject to the state-dependent control restraint
+$$u(t) \in \Omega \cap (\mathcal{H}{\text{ + }}Cx(t)\} ,$$
+ where Ω is a compact convex set, ℋ is a subspace, andC is a matrix. The existence of time-optimal maximal controls is proven. A natural application of this result is in solving time-optimal problems under the control restraintu(t)∈Ω and the requirement that the outputy=Sx be maintained at zero during the transfer, whereS is a given matrix. An example is provided.

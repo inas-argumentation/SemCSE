@@ -1,0 +1,2 @@
+Zheng and Seberry’s public key encryption scheme revisited
+In this paper, we prove that a slightly modified version of Zheng and Seberry’s public key encryption scheme presented at Crypto ’92 is secure against adaptive chosen ciphertext attacks in the random oracle model, assuming the Gap Diffie–Hellman problem is intractable. A further contribution of this paper is to show that Soldera, Seberry, and Qu’s recent security analysis of Zheng and Seberry’s scheme is in fact flawed.

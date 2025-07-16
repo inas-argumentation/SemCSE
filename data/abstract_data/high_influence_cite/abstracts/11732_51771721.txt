@@ -1,0 +1,2 @@
+On the extension of isometries between the unit spheres of a C*-algebra and B(H)
+Given two complex Hilbert spaces $H$ and $K$, let $S(B(H))$ and $S(B(K))$ denote the unit spheres of the C$^*$-algebras $B(H)$ and $B(K)$ of all bounded linear operators on $H$ and $K$, respectively. We prove that every surjective isometry $f: S(B(K)) \to S(B(H))$ admits an extension to a surjective complex linear or conjugate linear isometry $T: B(K)\to B(H)$. This provides a positive answer to Tingley's problem in the setting of $B(H)$ spaces.

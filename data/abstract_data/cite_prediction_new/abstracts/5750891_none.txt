@@ -1,0 +1,13 @@
+Simulation of cogeneration combined cycle plant flexibilization by thermochemical energy storage
+In the course of the “Energiewende” the German electricity market is undergoing major changes. The stateaided 
+priority of renewable generation has led to a significant decline in electricity prices. This reduces the 
+profit margin of cogeneration units, but on the other hand it increases the economic impact of flexibilization 
+potential like heat storage systems. 
+In this work, a 100 MWel combined-cycle power plant supplying heat and power to a paper mill is investigated. 
+Currently the plant is operated heat-controlled and is therefore unable to react to changing electricity spot 
+prices. With the integration of a heat storage, the plant is enabled to switch to power-controlled mode. 
+To evaluate the technical impact of the storage, the plant and a thermochemical MgO/Mg(OH)2 storage are 
+modelled using the stationary process simulation tool EBSILON. Different operation modes are investigated 
+and results are used to derive a mixed integer linear programming model to optimize the operation of the 
+plant/storage system. Taking into account measurements of the heat demand and EPEX spot prices, a benefit 
+of some 100k €/a is possible compared to normal operation mode.

@@ -1,0 +1,2 @@
+COVER TIME FOR THE FROG MODEL ON TREES
+The frog model is a branching random walk on a graph in which particles branch only at unvisited sites. Consider an initial particle density of $\unicode[STIX]{x1D707}$ on the full $d$ -ary tree of height $n$ . If $\unicode[STIX]{x1D707}=\unicode[STIX]{x1D6FA}(d^{2})$ , all of the vertices are visited in time $\unicode[STIX]{x1D6E9}(n\log n)$ with high probability. Conversely, if $\unicode[STIX]{x1D707}=O(d)$ the cover time is $\exp (\unicode[STIX]{x1D6E9}(\sqrt{n}))$ with high probability.

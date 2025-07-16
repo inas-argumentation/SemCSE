@@ -1,0 +1,2 @@
+Proof Nets and the Complexity of Processing Center Embedded Constructions
+This paper shows how proof nets can be used to formalize the notion of “incomplete dependency” used in psycholinguistic theories of the unacceptability of center embedded constructions. Such theories of human language processing can usually be restated in terms of geometrical constraints on proof nets. The paper ends with a discussion of the relationship between these constraints and incremental semantic interpretation.

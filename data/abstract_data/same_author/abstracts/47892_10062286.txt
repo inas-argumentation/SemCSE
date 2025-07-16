@@ -1,0 +1,2 @@
+Integrating Object-Z with timed automata
+When designing a complex system, Object-Z is a powerful logic-based language for modeling the system state aspects, and timed automata is an excellent graph-based notation for capturing timed control behaviour of the system. This paper presents an effective combination of the two techniques with novel composition and communication mechanisms. The combined notation enhances Object-Z with realtime modeling capability and also extends timed automata with enhanced structure and state modeling features.

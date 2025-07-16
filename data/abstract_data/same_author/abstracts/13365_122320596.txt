@@ -1,0 +1,4 @@
+The ising quantum chain with defects. I: The exact solution
+The Ising quantum chain with n arbitrarily placed defects is solved exactly. At the bulk critical point, the model is conformally invariant if and only if the defects form a commensurate structure. The central charge is obtained and is found to be a discontinuous function of the distances of the defects, while the critical exponents (generalized corner exponents) depend continuously on the positions of the defects. 
+ 
+It is argued that the discontinuous behavior of the central charge is a general feature not restricted to the Ising model.

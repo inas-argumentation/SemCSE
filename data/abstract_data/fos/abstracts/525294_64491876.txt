@@ -1,0 +1,2 @@
+Survey of Constraint-Handling Method on Multi-Objective Optimization Problems
+It is the key dealing with constraints to solve multi-Objective Optimization problem.Regularly,constraint-handling method includes deleting the infeasible solutions,using a penalty functions,adjusting algorithm,and etc.Recently,a constraint-handling technique based on multi-Objective Optimization is being concerned.

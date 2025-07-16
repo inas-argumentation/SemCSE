@@ -1,0 +1,2 @@
+Visualizations with Venn and Euler Diagrams
+Venn and Euler diagrams intuitively visualize relationships and relative cardinalities of data sets. They are used extensively in areas as biosciences, business and criminology to facilitate data reasoning and analysis. However, current automatic drawing techniques do not always produce desirable diagrams. My research aims to develop novel algorithms to automatically draw readable diagrams that facilitate data analysis. It includes software, theory, and studies demonstrating how such diagrams aid probabilistic judgment.

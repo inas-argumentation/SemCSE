@@ -1,0 +1,2 @@
+A one-parameter family of second-order iteration methods
+A new one-parameter family of iteration methods for finding simple roots of nonlinear equations is developed. Error analysis providing the second-order convergence is given. Numerical experience shows that the method is comparable to the well-known Newton’s method.

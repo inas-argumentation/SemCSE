@@ -1,0 +1,2 @@
+Game strategies in network security
+This paper presents a game theoretic method for analyzing the security of computer networks. We view the interactions between an attacker and the administrator as a two player stochastic game and construct a model for the game. Using a nonlinear program, we compute Nash equilibria or best response strategies for the players (attacker and administrator) We then explain why the strategies are realistic and how administrators can use these results to enhance the security of their network.

@@ -1,0 +1,2 @@
+Lumped Inductance Method in Analysis of the Analog Dynamic Memory System
+ADDAMS System Inc. (1990{1993) suggested a memory system using a simple feedback loop circuit for an analog signal. The circuit includes a time-delay element with no gain. If the perturbations and noises can be neglected, then this circuit is capable of permanently storing a signal, whose time duration is shorter than the time-delay function in this loop. In this paper, we shall discuss the stability of signal and the role of perturbations in the feedback system.

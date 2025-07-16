@@ -1,0 +1,2 @@
+MCPLOTS: a particle physics resource based on volunteer computing
+The mcplots.cern.ch web site (mcplots) provides a simple online repository of plots made with high-energy-physics event generators, comparing them to a wide variety of experimental data. The repository is based on the hepdata online database of experimental results and on the rivet Monte Carlo analysis tool. The repository is continually updated and relies on computing power donated by volunteers, via the lhc@home 2.0 platform.

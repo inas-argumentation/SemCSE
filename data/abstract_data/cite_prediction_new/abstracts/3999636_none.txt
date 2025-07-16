@@ -1,0 +1,2 @@
+A SiGe Monocycle Impulse Generator for Impulse Radio Ultra-Wideband Applications
+A compact 0.56 mm x 0.56 mm SiGe ultra-wideband (UWB) impulse generator is presented. The realized circuit generates ultra-short, symmetrical pulses with a peak-to-peak amplitude of 260 mV. The spectrum of the generated pulses has a -10 dB bandwidth of 7.5 GHz centered around 6 GHz. The pulse shape is similar to the first derivative of the Gaussian pulse and the corresponding power spectral density fits very well into the FCC regulatory spectrum mask.

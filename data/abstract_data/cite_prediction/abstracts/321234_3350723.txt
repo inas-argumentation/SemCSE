@@ -1,0 +1,2 @@
+Overview of the torque-controlled humanoid robot TORO
+This paper gives an overview on the torque-controlled humanoid robot TORO, which has evolved from the former DLR Biped. In particular, we describe its mechanical design and dimensioning, its sensors, electronics and computer hardware. Additionally, we give a short introduction to the walking and multi-contact balancing strategies used for TORO.

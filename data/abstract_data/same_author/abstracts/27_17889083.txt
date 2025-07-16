@@ -1,0 +1,2 @@
+Managing computing resources in active intranets
+The objective of this paper is to present an economic pricing-based resource management technique for Intranets that has the capability of managing Intranet resources from an organizational perspective. We discuss the adoption of this pricing scheme at three stages: application level, node level, and data-stream level implementations. These three levels demonstrate how a pricing based approach can be used with the current technology and also be migrated to evolving network architectures such as active networks.

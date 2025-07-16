@@ -1,0 +1,2 @@
+Generalized Grassmann variables for anyon field theory
+Abstract Just as fermion fields have to be represented by anticommuting variables, anyon fields require q -commuting ones. Properties of such variables and their integration rules are discussed here, mainly for the case of semions ( q = ± i ).

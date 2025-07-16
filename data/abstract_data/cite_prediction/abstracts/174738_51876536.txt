@@ -1,0 +1,2 @@
+An Empirical Study of Building a Strong Baseline for Constituency Parsing
+This paper investigates the construction of a strong baseline based on general purpose sequence-to-sequence models for constituency parsing. We incorporate several techniques that were mainly developed in natural language generation tasks, e.g., machine translation and summarization, and demonstrate that the sequenceto-sequence model achieves the current top-notch parsers’ performance without requiring explicit task-specific knowledge or architecture of constituent parsing.

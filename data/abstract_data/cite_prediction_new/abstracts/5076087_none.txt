@@ -1,0 +1,2 @@
+On the Development of an Enhanced Least-Loaded Strategy for the CORBA Load Balancing and Monitoring Service
+The least-loaded strategy (LL) is a built-in dynamic algorithm for the proposed standard CORBA Load Balancing and Monitoring Service. This paper describes this algorithm and identifies three improvement opportunities. We propose a strategy, called enhanced least-loaded (eLL), that incorporates the corresponding improvements. Simulation results demonstrate that eLL has potentially better average performance than LL.

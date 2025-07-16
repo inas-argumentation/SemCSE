@@ -1,0 +1,2 @@
+Weighted Neighbourhood Sequences in Non-Standard Three-Dimensional Grids - Metricity and Algorithms
+Recently, a distance function was defined on the face-centered cubic and body-centered cubic grids by combining weights and neighbourhood sequences. These distances share many properties with traditional path-based distance functions, such as the city-block distance, but are less rotational dependent. We present conditions for metricity and algorithms to compute the distances.

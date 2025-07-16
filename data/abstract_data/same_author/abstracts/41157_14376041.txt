@@ -1,0 +1,2 @@
+Feasible region approximation using convex polytopes
+A new technique for polytope approximation of the feasible region for a design is presented. This method is computationally less expensive than the simplicial approximation method. Results on several circuits are presented. It is shown that the quality of the polytope approximation is substantially better than an ellipsoidal approximation.<<ETX>>

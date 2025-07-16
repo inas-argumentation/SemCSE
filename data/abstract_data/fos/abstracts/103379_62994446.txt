@@ -1,0 +1,2 @@
+Association Rules based on Partition of Granularities and the Application
+In this paper, we propose a new concept for association rules, namely Multi-Granularities Association Rule. We also enhance the existing algorithm to incorporate the Multi-Granularities concept . Based on the concept of MGAR, we propose an application on text categorization to verify its practicability.

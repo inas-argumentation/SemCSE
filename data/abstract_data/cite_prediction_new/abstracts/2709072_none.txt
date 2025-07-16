@@ -1,0 +1,2 @@
+The glarma Package for Observation-Driven Time Series Regression of Counts
+We review the theory and application of generalized linear autoregressive moving average observation-driven models for time series of counts with explanatory variables and describe the estimation of these models using the R package glarma. Forecasting, diagnostic and graphical methods are also illustrated by several examples.

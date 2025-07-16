@@ -1,0 +1,2 @@
+Structural properties of positive periodic discrete-time linear systems: canonical forms
+The reachability and controllability properties of positive periodic discrete-time linear systems are studied. Using the directed graph of the state matrices and the concepts of colored vertices and colored union of directed graphs, a characterization of these properties is established and hence, canonical forms are deduced.

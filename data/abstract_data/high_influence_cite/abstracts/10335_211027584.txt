@@ -1,0 +1,12 @@
+Convergence and stability of the one-leg θ method for stochastic differential equations with piecewise continuous arguments
+The equivalent relation is established here about the stability of stochastic
+ differential equations with piecewise continuous arguments(SDEPCAs) and that
+ of the one-leg ? method applied to the SDEPCAs. Firstly, the convergence of
+ the one-leg ? method to SDEPCAs under the global Lipschitz condition is
+ proved. Secondly, it is proved that the SDEPCAs are pth(p 2 (0; 1)) moment
+ exponentially stable if and only if the one-leg ? method is pth moment
+ exponentially stable for some sufficiently small step-size. Thirdly, the
+ corollaries that the pth moment exponential stability of the SDEPCAs (the
+ one-leg ? method) implies the almost sure exponential stability of the
+ SDEPCAs (the one-leg ? method) are given. Finally, numerical simulations are
+ provided to illustrate the theoretical results.

@@ -1,0 +1,2 @@
+Higher Order Modes in Third Harmonic Cavities at FLASH
+Transverse modes in the 3.9 GHz cavities, designed and fabricated by FNAL, are reported on. These modes have the potential to cause significant emittance dilution if they are not sufficiently suppressed. Recent probebased-experiments have indicated significant discrepancies between modes predicted in stand-alone 9cell cavities compared to those in 4-cavity modules. We employ the code HFSS [1] to analyze these modes, coupled through beam tubes whose cut-off is above that of the first dipole band.

@@ -1,0 +1,2 @@
+Growth rate expressions for two substrates one of which is inhibitory
+The Double-Monod and weighted models for specific growth rate coefficient as a function of two nutrients differ significantly when the nutrient concentrations are low. The weighted model agrees with actual data quite well for non-toxic nutrients but fails badly when applied to inhibitory nutrients. However, the Andrews equation can be modified slightly for use in conjunction with the weighted model to handle growth rate limitation when one nutrient inhibits growth rate.

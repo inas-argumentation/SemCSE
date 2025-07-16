@@ -1,0 +1,16 @@
+Non-Abelian monopoles and the vortices that confine them
+Nonabelian magnetic monopoles of Goddard-Nuyts-Olive-Weinberg type have 
+recently been shown to appear as the dominant infrared degrees of freedom in a 
+class of softly broken ${\cal N}=2$ supersymmetric gauge theories in which the 
+gauge group $G$ is broken to various nonabelian subgroups $H $ by an adjoint 
+Higgs VEV. When the low-energy gauge group $H$ is further broken completely by 
+e.g. squark VEVs, the monopoles representing $\pi_2(G/H)$ are confined by the 
+nonabelian vortices arising from the breaking of $H$, discussed recently 
+(hep-th/0307278). By considering the system with $G=SU(N+1)$, $ H = {SU(N) 
+\times U(1) {\o}{\mathbb Z}_N}$, as an example, we show that the total magnetic 
+flux of the minimal monopole agrees precisely with the total magnetic flux 
+flowing along the single minimal vortex. 
+ The possibility for such an analysis reflects the presence of free parameters 
+in the theory - the bare quark mass $m$ and the adjoint mass $\mu$ - such that 
+for $m \gg \mu$ the topologically nontrivial solutions of vortices and of 
+unconfined monopoles exist at distinct energy scales.

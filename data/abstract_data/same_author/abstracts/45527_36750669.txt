@@ -1,0 +1,2 @@
+A minimum broadcast graph on 26 vertices
+Broadcasting is the process of information dissemination in a communication network in which a message, originated by one member, is transmitted to all members of the network. A broadcast graph is a graph which permits broadcasting from any originator in minimum time. The broadcast function B(n) is the minimum number of edges in any broadcast graph on n vertices. In this paper, we construct a broadcast graph on 26 vertices with 42 edges to prove B(26) = 42.

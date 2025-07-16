@@ -1,0 +1,2 @@
+Statistical transmission experiments using a real-time 12.1 Gb/s OFDM transmitter
+A highest speed 12.1 Gb/s real-time OFDM transmitter is reported with optimized Q-factor (Q=3D22.3 dB). Statistical performance measurements using BER testing prove similar error distributions for 231-1 PRBS data at fibers linear and nonlinear transmission regime.

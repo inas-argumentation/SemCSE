@@ -1,0 +1,2 @@
+Cycles in Multipartite Tournaments
+An n-partite tournament is an orientation of a complete n-partite graph. We show that if D is a strongly connected n-partite (n ≥ 3) tournament, then every partite set of D has at least one vertex, which lies on an m-cycle for all m in {3, 4,..., n}. This result extends those of Bondy (J. London Math. Soc.14 (1976), 277-282) and Gutin (J. Combin. Theory Ser. B58 (1993), 319-321).

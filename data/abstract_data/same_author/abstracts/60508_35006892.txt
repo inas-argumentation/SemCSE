@@ -1,0 +1,2 @@
+The Effect of Morphological Filters on Texture Boundary Localization
+We extend the theoretical results obtained by Stevenson et al. (1987) to two distributions and provide a quantitative comparison of 1D morphological filter edge localization with two classical types of kernel-based smoothing filters (the mean and the close relative to morphological filters, the median filter). Implications in the context of statistical texture segmentation are briefly discussed.

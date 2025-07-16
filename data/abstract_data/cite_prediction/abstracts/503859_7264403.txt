@@ -1,0 +1,2 @@
+Review of position-sensorless operation of brushless permanent-magnet machines
+The operation of a brushless permanent-magnet machine requires rotor-position information, which is used to control the frequency and phase angle of the machine's winding currents. Sensorless techniques for estimating rotor position from measurements of voltage and current have been the subject of intensive research. This paper reviews the state of the art in these sensorless techniques, which are broadly classified into three types: motional electromotive force, inductance, and flux linkage.

@@ -1,0 +1,12 @@
+A method for computing unsteady fully nonlinear interfacial waves
+We derive a time-stepping method for unsteady fully nonlinear two-dimensional motion of a two-layer fluid. Essential parts of the method are: use of Taylor series expansions of the prognostic equations, application of spatial finite difference
+ formulae of high order, and application of Cauchy's theorem to solve the Laplace equation, where the latter is found to be advantageous in avoiding instability. The
+ method is computationally very efficient. The model is applied to investigate unsteady
+ trans-critical two-layer flow over a bottom topography. We are able to simulate a set of laboratory experiments on this problem described by Melville & Helfrich (1987), finding a very good agreement between the fully nonlinear model and the experiments, where they reported bad agreement with weakly nonlinear Korteweg–de
+ Vries theories for interfacial waves. The unsteady transcritical regime is identified.
+ In this regime, we find that an upstream undular bore is generated when the speed of the
+ body is less than a certain value, which somewhat exceeds the critical speed. In the remaining regime, a train of solitary waves is generated upstream. In both cases a corresponding constant level of the interface behind the body is developed. We also perform
+ a detailed investigation of upstream generation of solitary waves by a moving
+ body, finding that wave trains with amplitude comparable to the thickness of
+ the thinner layer are generated. The results indicate that weakly nonlinear theories in many cases have quite limited applications in modelling unsteady transcritical two-layer
+ flows, and that a fully nonlinear method in general is required.

@@ -1,0 +1,2 @@
+One-directional adjacency matrices in spatial autoregressive model: A land price example and Monte Carlo results
+In the context of spatial econometrics, we discuss the specification of one-directional effects, not mutual dependencies. Using an empirical study (a spatial autoregressive model of land price data in Fukui Prefecture, Japan) and Monte Carlo simulation results (contiguity matrices built based on regular lattices using the rook criteria), we show that spatial dependencies might not be recognized if such dependencies are assumed to be reciprocal.

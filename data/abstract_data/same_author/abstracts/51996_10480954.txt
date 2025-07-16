@@ -1,0 +1,2 @@
+Isomorphisms of Finite Cayley Digraphs of Bounded Valency
+LetGbe a finite group,Sa subset ofG\{1}, and let Cay(G,S) denote the Cayley digraph ofGwith respect toS. If, for all subsetsS,TofG\{1} of size at mostm, Cay(G,S)?Cay(G,T) implies thatS?=Tfor some??Aut(G), thenGis called anm-DCI-group. In this paper, we prove that, form?2, allm-DCI-groups are of the formU×V, where (|U|, |V|)=1,Uis abelian andVbelongs to an explicitly determined list of groups. Moreover Sylow subgroups of such groups satisfy some very restrictive conditions.

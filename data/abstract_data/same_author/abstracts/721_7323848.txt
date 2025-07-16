@@ -1,0 +1,2 @@
+The 10GHz 4:1 MUX and 1:4 DEMUX implemented via the gigahertz SiGe FPGA
+This paper describes the implementation of a scalable SiGe FPGA that serves as a high speed FPGA test platform. A new configurable block (Basic Cell) has been evolved from the Xilinx 6200 specification, and is designed to perform in the gigahertz range. Two chips, a 4:1 multiplexer and 1:4 demultiplexer, were designed using the IBM SiGe 7HP process. The two designs can process 10 Gbps data streams.

@@ -1,0 +1,2 @@
+Generalized Robinson-Schensted-Knuth correspondence
+The Robinson-Schensted-Knuth correspondence RSK associates with any permutation a pair of paths in a Young graph. The duality theorem for finite partially ordered sets associates with each such set a Young diagram. An independent account is given of the theory of these correspondences, in which the first of them arises on the basis of the second as a concrete version of the construction of “two-dimensional growth,” generalizing RSK to a large class of graded graphs.

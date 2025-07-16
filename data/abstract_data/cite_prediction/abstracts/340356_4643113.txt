@@ -1,0 +1,2 @@
+CleanONTO: Evaluating Taxonomic Relationships in Ontologies
+Consistent ontologies are vital for the growth of the Semantic Web. We describe and appraise the OntoClean methodology and the different implementations available to evaluate taxonomic relationships in ontologies. We propose a new system, CleanONTO, which uses definitions to describe each concept, where definitions are paths from the concept to the root node of the ontology. In the current study, these definitions (paths) have been extracted from WordNet.

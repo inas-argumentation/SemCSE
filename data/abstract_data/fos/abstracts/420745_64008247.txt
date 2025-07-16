@@ -1,0 +1,2 @@
+Application of the Pipe of JXTA in P2P Communication
+With the development of computer network,P2P technique is applied more and more broadly.JXTA,which acts as a solution of P2P technique,is gradually becoming the focus in the domain of P2P technique.Researches on the pipe communication mechanism of JXTA.According to this,discusses how to complete P2P communication in the two kinds of interface of JXTA that shell and programming.This implementation is valuable for building communicative environment inside an institution.

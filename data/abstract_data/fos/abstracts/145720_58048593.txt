@@ -1,0 +1,2 @@
+Applying Apriori Algorithm to Sequential Patterns Mining
+Sequential patterns mining is a important task of data mining,and Apriori algorithm is an effective method to association rules mining.The paper introduces how to apply Apriori algorithm to sequential patterns mining.

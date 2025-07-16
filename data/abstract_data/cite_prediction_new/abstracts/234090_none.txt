@@ -1,0 +1,2 @@
+A video stream processor for real-time detection and correction of specular reflections in endoscopic images
+This paper presents the architecture and FPGA implementation of a video processor for detection and correction of specular reflections in endoscopic images by using an inpainting algorithm. Stream processing and parallelism are used to exceed real-time performance on NTSC format video without the need for an external memory. The system was implemented in a XC2VP30 FPGA and uses 91% of available slices. Image quality is significantly enhanced.

@@ -1,0 +1,2 @@
+Graphs with a small number of distinct induced subgraphs
+Let G be a graph on n vertices. We show that if the total number of isomorphism types of induced subgraphs of G is at most en 2 , where e −21 , then either G or its complement contain an independent set on at least (1 - 4e) n vertices. This settles a problem of Erdos and Hajnal.

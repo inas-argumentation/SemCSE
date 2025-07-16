@@ -1,0 +1,15 @@
+Commissioning of a fluoroscopic‐based real‐time markerless tumor tracking system in a superconducting rotating gantry for carbon‐ion pencil beam scanning treatment
+PURPOSE
+To perform the final quality assurance of our fluoroscopic-based markerless tumor tracking for gated carbon-ion pencil beam scanning (C-PBS) radiotherapy using a rotating gantry system, we evaluated the geometrical accuracy and tumor tracking accuracy using a moving chest phantom with simulated respiration.
+
+
+METHODS
+The positions of the dynamic flat panel detector (DFPD) and x-ray tube are subject to changes due to gantry sag. To compensate for this, we generated a geometrical calibration table (gantry flex map) in 15° gantry angle steps by the bundle adjustment method. We evaluated five metrics: (a) Geometrical calibration was evaluated by calculating chest phantom positional error using 2D/3D registration software for each 5° step of the gantry angle. (b) Moving phantom displacement accuracy was measured (±10 mm in 1-mm steps) with a laser sensor. (c) Tracking accuracy was evaluated with machine learning (ML) and multi-template matching (MTM) algorithms, which used fluoroscopic images and digitally reconstructed radiographic (DRR) images as training data. The chest phantom was continuously moved ±10 mm in a sinusoidal path with a moving cycle of 4 s and respiration was simulated with ±5 mm expansion/contraction with a cycle of 2 s. This was performed with the gantry angle set at 0°, 45°, 120°, and 240°. (d) Four types of interlock function were evaluated: tumor velocity, DFPD image brightness variation, tracking anomaly detection, and tracking positional inconsistency in between the two corresponding rays. (e) Gate on/off latency, gating control system latency, and beam irradiation latency were measured using a laser sensor and an oscilloscope.
+
+
+RESULTS
+By applying the gantry flex map, phantom positional accuracy was improved from 1.03 mm/0.33° to <0.45 mm/0.27° for all gantry angles. The moving phantom displacement error was 0.1 mm. Due to long computation time, the tracking accuracy achieved with ML was <0.49 mm (=95% confidence interval [CI]) for imaging rates of 15 and 7.5 fps; those at 30 fps were decreased to 1.84 mm (95% CI: 1.79 mm-1.92 mm). The tracking positional accuracy with MTM was <0.52 mm (=95% CI) for all gantry angles and imaging frame rates. The tumor velocity interlock signal delay time was 44.7 ms (=1.3 frame). DFPD image brightness interlock latency was 34 ms (=1.0 frame). The tracking positional error was improved from 2.27 ± 2.67 mm to 0.25 ± 0.24 mm by the tracking anomaly detection interlock function. Tracking positional inconsistency interlock signal was output within 5.0 ms. The gate on/off latency was <82.7 ± 7.6 ms. The gating control system latency was <3.1 ± 1.0 ms. The beam irradiation latency was <8.7 ± 1.2 ms.
+
+
+CONCLUSIONS
+Our markerless tracking system is now ready for clinical use. We hope to shorten the computation time needed by the ML algorithm at 30 fps in the future.

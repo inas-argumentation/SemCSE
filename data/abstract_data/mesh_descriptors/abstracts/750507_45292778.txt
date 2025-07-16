@@ -1,0 +1,15 @@
+Is a single arc sufficient in volumetric-modulated arc therapy (VMAT) for complex-shaped target volumes?
+PURPOSE
+To compare step-and-shoot intensity-modulated radiotherapy (ss-IMRT) with volumetric-modulated arc therapy (VMAT) for complex-shaped target volumes with a simultaneous integrated boost (SIB).
+
+
+MATERIALS AND METHODS
+This retrospective planning study was based on 20 patients composed of prostate cancer (n=5), postoperative (n=5) or primary (n=5) radiotherapy for pharyngeal cancer and for cancer of the paranasal sinuses (n=5); a SIB with two or three dose levels was planned in all patients. For each patient, one ss-IMRT plan with direct-machine-parameter optimization (DMPO) and VMAT plans with one to three arcs (SmartArc technique) were generated in the Pinnacle planning system.
+
+
+RESULTS
+Single arc VMAT improved target coverage and dose homogeneity in radiotherapy for prostate cancer. Two and three VMAT arcs were required to achieve equivalent results compared to ss-IMRT in postoperative and primary radiotherapy for pharyngeal cancer, respectively. In radiotherapy for cancer of the paranasal sinuses, multiarc VMAT resulted in increased spread of low doses to the lenses and decreased target coverage in the region between the orbits.
+
+
+CONCLUSIONS
+The complexity of the target volume determined whether single arc VMAT was equivalent to ss-IMRT. Multiple arc VMAT improved results compared to single arc VMAT at cost of increased delivery times, increased monitor unites and increased spread of low doses.

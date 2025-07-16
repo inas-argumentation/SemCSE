@@ -1,0 +1,2 @@
+Asymptotic behaviour of the Galerkin and the finite element collocation methods for a parabolic equation
+The asymptotic convergence of the solution of a parabolic equation is proved. The proof is based on two methods namely, the Galerkin method expressed in terms of linear splines and the Finite Element Collocation method expressed by cubic spline basis functions. Both methods are considered in continuous time. The asymptotic rate of convergence for the two methods is found to be of order O(h^2).

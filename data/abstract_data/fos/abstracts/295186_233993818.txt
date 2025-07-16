@@ -1,0 +1,11 @@
+Introducing the extended volatility range proton-transfer-reaction mass spectrometer (EVR PTR-MS)
+. Proton-transfer-reaction mass spectrometry (PTR-MS) is widely used in atmospheric sciences for measuring volatile organic compounds in real time. In the most widely used type of PTR-MS instruments, air is directly introduced into a chemical ionization reactor via an inlet capillary system. The reactor has a volumetric exchange time of ∼0.1  s,
+enabling PTR-MS analyzers to measure at a frequency of 10 Hz. The time
+response does, however, deteriorate if low-volatility analytes interact with surfaces in the inlet or in the instrument. Herein, we present the
+extended volatility range (EVR) PTR-MS instrument which mitigates this
+issue. In the EVR configuration, inlet capillaries are made of passivated
+stainless steel, and all wetted metal parts in the chemical ionization
+reactor are surface-passivated with a functionalized hydrogenated amorphous
+silicon coating. Heating the entire setup (up to 120  ∘ C) further
+improves the time-response performance. We carried out time-response performance tests on a set of 29 analytes
+having saturation mass concentrations C0 in the range between 10−3 and 105 µg m−3 . The 1 / e -signal decay times after instant removal of the analyte from the sampling flow were between 0.2 and 90 s for gaseous analytes. We also tested the EVR PTR-MS instrument in combination with the chemical analysis of aerosols online (CHARON) particle inlet, and 1 / e -signal decay times were in the range between 5 and 35 s for particulate analytes. We show on a set of example compounds that the time-response performance of the EVR PTR-MS instrument is comparable to that of the fastest flow tube chemical ionization mass spectrometers that are currently in use. The fast time response can be used for rapid ( ∼1  min equilibration time) switching between gas and particle measurements. The CHARON EVR PTR-MS instrument can thus be used for real-time monitoring of both gaseous and particulate organics in the atmosphere. Finally, we show that the CHARON EVR PTR-MS instrument also rapidly detects highly oxygenated species (with up to eight oxygen atoms) in particles formed by limonene ozonolysis.

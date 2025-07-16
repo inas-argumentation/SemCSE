@@ -1,0 +1,2 @@
+Tomographic measurements on superconducting qubit states
+We propose an approach to reconstruct any superconducting charge qubit state by using quantum state tomography. This procedure requires a series of measurements on a large enough number of identically prepared copies of the quantum system. The experimental feasibility of this procedure is explained and the time scales for different quantum operations are estimated according to experimentally accessible parameters. Based on the state tomography, we also investigate the possibility of the process tomography.

@@ -1,0 +1,7 @@
+Learning Representations for Faster Similarity Search
+In high dimensions, the performance of nearest neighbor algorithms depends crucially on structure in the data.
+While traditional nearest neighbor datasets consisted mostly of hand-crafted feature vectors, an increasing number of datasets comes from representations learned with neural networks.
+We study the interaction between nearest neighbor algorithms and neural networks in more detail.
+We find that the network architecture can significantly influence the efficacy of nearest neighbor algorithms even when the classification accuracy is unchanged.
+Based on our experiments, we propose a number of training modifications that lead to significantly better datasets for nearest neighbor algorithms.
+Our modifications lead to learned representations that can accelerate nearest neighbor queries by 5x.

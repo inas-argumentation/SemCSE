@@ -1,0 +1,2 @@
+Implementing the Syntax of Japanese Numeral Classifiers
+While the sortal constraints associated with Japanese numeral classifiers are wellstudied, less attention has been paid to the details of their syntax. We describe an analysis implemented within a broadcoverage HPSG that handles an intricate set of numeral classifier construction types and compositionally relates each to an appropriate semantic representation, using Minimal Recursion Semantics.

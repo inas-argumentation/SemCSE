@@ -1,0 +1,3 @@
+A generalization of conjectures of Bogomolov and Lang over finitely generated fields
+Let K be a finitely generated field over Q, and A an abelian variety over K. Let : A(K^a) x A(K^a) --> R be an arithmetic height pairing on A, where K^a is the algebric closure of K. For x_1,..., x_l \in A(K^a), we denote det( ) by d(x_1,..., x_l). Let G be a subgroup of finite rank in A(K^a), and X a subvariety of A_{K^a}. Fix a basis {g_1,..., g_n} of G_Q. In this note, we prove a generalization of Poonen's theorem: 
+If the set {x \in X(K^a) | d(g_1,..., g_n, x) <= e} is Zariski dense in X for every positive number e, then X is a translation of an abelian subvariety by an element of G_{div}.

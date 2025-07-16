@@ -1,0 +1,2 @@
+FORK: A FORward-looKing Actor for Model-Free Reinforcement Learning
+In this paper, we propose a new type of Actor, named forward-looking Actor or FORK for short, for Actor-Critic algorithms. FORK can be easily integrated into a model-free Actor-Critic algorithm. Our experiments on six Box2D and MuJoCo environments with continuous state and action spaces demonstrate significant performance improvement FORK can bring to the state-of-the-art algorithms. A variation of FORK can further solve BipedalWalkerHardcore in as few as four hours using a single GPU.

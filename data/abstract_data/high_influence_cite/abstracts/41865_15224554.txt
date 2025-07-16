@@ -1,0 +1,2 @@
+OSCILLATORY WAVES IN DISCRETE SCALAR CONSERVATION LAWS
+We study Hamiltonian difference schemes for scalar conservation laws with monotone flux function and establish the existence of a three-parameter family of periodic traveling waves (wavetrains). The proof is based on an integral equation for the dual wave profile and employs constrained maximization as well as the invariance properties of a gradient flow. We also discuss the approximation of wavetrains and present some numerical results.

@@ -1,0 +1,2 @@
+Implement of Mechanism for Communication Security in Mobile Agent System
+This paper at first introduces the basic system structure of Mobile Agent; Then analysesthe implement of mechanism for communication security. The mechanisms include ELGamalcartographic system and authentication of RMI interactions and of TCP streams which arebased challenge-response. The arithmetic for implement have been talked. At last we analysesome examples.

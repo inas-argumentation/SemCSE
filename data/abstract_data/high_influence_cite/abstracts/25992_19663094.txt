@@ -1,0 +1,15 @@
+Intensity correction method customized for multi-animal abdominal MR imaging with 3T clinical scanner and multi-array coil.
+PURPOSE
+Simultaneous magnetic resonance (MR) imaging of multiple small animals in a single session increases throughput of preclinical imaging experiments. Such imaging using a 3-tesla clinical scanner with multi-array coil requires correction of intensity variation caused by the inhomogeneous sensitivity profile of the coil. We explored a method for correcting intensity that we customized for multi-animal MR imaging, especially abdominal imaging.
+
+
+METHOD
+Our institutional committee for animal experimentation approved the protocol. We acquired high resolution T₁-, T₂-, and T₂*-weighted images and low resolution proton density-weighted images (PDWIs) of 4 rat abdomens simultaneously using a 3T clinical scanner and custom-made multi-array coil. For comparison, we also acquired T₁-, T₂-, and T₂*-weighted volume coil images in the same rats in 4 separate sessions. We used software created in-house to correct intensity variation. We applied thresholding to the PDWIs to produce binary images that displayed only a signal-producing area, calculated multi-array coil sensitivity maps by dividing low-pass filtered PDWIs by low-pass filtered binary images pixel by pixel, and divided uncorrected T₁-, T₂-, or T₂*-weighted images by those maps to obtain intensity-corrected images. We compared tissue contrast among the liver, spinal canal, and muscle between intensity-corrected multi-array coil images and volume coil images.
+
+
+RESULTS
+Our intensity correction method performed well for all pulse sequences studied and corrected variation in original multi-array coil images without deteriorating the throughput of animal experiments. Tissue contrasts were comparable between intensity-corrected multi-array coil images and volume coil images.
+
+
+CONCLUSION
+Our intensity correction method customized for multi-animal abdominal MR imaging using a 3T clinical scanner and dedicated multi-array coil could facilitate image interpretation.

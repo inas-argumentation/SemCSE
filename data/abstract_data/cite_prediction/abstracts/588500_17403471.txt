@@ -1,0 +1,2 @@
+Introducing DRAIL - a Step Towards Declarative Deep Relational Learning
+We introduce DRAIL, a new declarative framework for specifying Deep Relational Models. Our framework separates structural considerations, which express domain knowledge, from the learning architecture to simplify the process of building complex structural models. We show the DRAIL formulation of two NLP tasks, Twitter Part-of-Speech tagging and Entity-Relation extraction. We compare the performance of different deep learning architectures for these structural learning tasks.

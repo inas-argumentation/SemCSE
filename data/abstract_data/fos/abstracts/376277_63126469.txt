@@ -1,0 +1,2 @@
+High Precision Data Acquisition System Based on C8051 and AD7732
+On the basis of C8051F310 and AD7732,designs a lower cost high precision data acquisition system,presents the specific hardware system in details,and designs and realizes four channel signals by using two AD chips controlled by SCM.This system is applied on several testing instruments.

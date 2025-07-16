@@ -1,0 +1,15 @@
+Cystic Fibrosis Mutation Detection with SPR Biosensor in Real Samples via Multiple Surfaces Binding Method.
+AIM AND OBJECTIVE
+Surface Plasmon Resonance (SPR) based biosensor system was developed for the detection of Delta F508 (ΔF508del) Cystic Fibrosis (CF) mutation in both synthetic and real samples.
+
+
+MATERIAL AND METHOD
+In order to provide an effective hybridization between probe and the Polymerase Chain Reaction (PCR) amplicons (target), streptavidin was bound to the surface and biotin-tag probe was sent to the streptavidin-coated surface. For the target preparation, blood samples were collected from the patients who suffer from CF. Following the DNA isolation; samples were amplified with PCR with biotin-tag. Before sending the biotin-tag PCR amplicons onto the modified surface, amplicons were also interacted with the helper oligonucleotides to prevent re-annealing of the denatured DNA strands. This kind of 'multiple surface binding' method helps increasing the sensitivity of the detection.
+
+
+RESULTS
+The limit of detection (S/N= 3) was calculated as 12.24 pico-mole/ml for PCR-like synthetic long target sequence and 13x105 molecules for real samples in less than half an hour.
+
+
+CONCLUSION
+Using the both biotin-tag probe and the helper oligonucleotides together, hybridization was achieved much more efficiently than traditional denaturation protocols for real samples and biotinfree hybridization detection. To the best of our knowledge, the procedure described in this study is one of the simplest, rapid and sensitive methods for CF mutation detection with SPR based biosensor system in real samples.

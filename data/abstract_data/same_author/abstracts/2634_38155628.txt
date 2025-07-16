@@ -1,0 +1,8 @@
+Tight Bounds for Finding Degrees from the Adjacency Matrix
+King and Smith-Thomas[5] have shown that to find a sink (a vertex with outdegree 0 and indegree n−1) in an n vertex directed graph, 3n-⌊log n⌋-3 probes to its adjacency matrix are necessary and sufficient in the worst case. We first generalize this result to show that for any integer k between 0 and n−1, 
+ 
+ 
+to find a vertex of outdegree k in a simple n vertex directed graph, Θ(n(n−k)) probes to its adjacency matrix are necessary and sufficient in the worst case, and 
+ 
+ 
+to find a vertex of degree k in an n vertex undirected graph, Θ(n2) probes to its adjacency matrix are necessary and sufficient in the worst case.

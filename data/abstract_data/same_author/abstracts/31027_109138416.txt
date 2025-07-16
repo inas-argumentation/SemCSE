@@ -1,0 +1,2 @@
+Three-dimensional electrostatic field simulation of a resistive plate chamber
+An electrostatic solver, namely neBEM (nearly exact Boundary Element Method), has been implemented to carry out three-dimensional electrostatic field computation of Resistive Plate Chamber (RPC). The solver has provided a detailed study on the effects of dimension and material of various chamber components on the field configuration. Its accuracy has been verified by comparing its outputs with other reported solutions.

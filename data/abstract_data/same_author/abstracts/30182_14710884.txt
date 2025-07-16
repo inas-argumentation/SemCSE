@@ -1,0 +1,5 @@
+Autonomic Management of Large Clusters and Their Integration into the Grid
+Abstract
+We present a framework for the co-ordinated, autonomic management of multiple clusters in a compute center and their integration into a Grid environment. Site autonomy and the automation of administrative tasks are prime aspects in this framework. The system behavior is continuously monitored in a steering cycle and appropriate actions are taken to resolve any problems.
+
+All presented components have been implemented in the course of the EU project DataGrid: The Lemon monitoring components, the FT fault-tolerance mechanism, the quattor system for software installation and configuration, the RMS job and resource management system, and the Gridification scheme that integrates clusters into the Grid.

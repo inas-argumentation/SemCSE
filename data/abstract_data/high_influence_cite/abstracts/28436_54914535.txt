@@ -1,0 +1,2 @@
+The Hybrid Steepest Descent Method for Split Variational Inclusion and Constrained Convex Minimization Problems
+We introduced an implicit and an explicit iteration method based on the hybrid steepest descent method for finding a common element of the set of solutions of a constrained convex minimization problem and the set of solutions of a split variational inclusion problem.

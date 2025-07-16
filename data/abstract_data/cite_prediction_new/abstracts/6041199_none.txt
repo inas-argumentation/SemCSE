@@ -1,0 +1,15 @@
+Coronary artery disease severity modifies associations between glycemic control and both mortality and myocardial infarction.
+AIMS
+This study examined whether the association between hemoglobin A1c (HbA1c) and short-term clinical outcomes is moderated by CAD severity.
+
+
+METHODS
+We studied 17,394 US Veterans with type 2 diabetes who underwent elective cardiac catheterization between 2005 and 2013. CAD severity was categorized as obstructive, non-obstructive, or no CAD. Using multivariable Cox proportional hazards regression, we assessed associations between time-varying HbA1c and two-year all-cause mortality and non-fatal MI, with an interaction term between HbA1c and CAD severity.
+
+
+RESULTS
+61%, 22%, and 17% of participants had obstructive, non-obstructive, and no CAD, respectively. CAD severity modified the relationship between HbA1c and each outcome (interaction p-value 0.0005 for mortality and <0.0001 for MI). Low HbA1c (<42 mmol/mol) was associated with increased mortality, relative to HbA1c of 48-52 mmol/mol, in individuals with obstructive CAD (HR 1.52 [1.17, 1.97]) and non-obstructive CAD (HR 2.61 [1.61, 4.23]), but not in those with no CAD (HR 0.91 [0.46, 1.79]). In contrast, higher HbA1c levels (≥53 mmol/mol) were associated with increased MI risk only in individuals with obstructive CAD.
+
+
+CONCLUSIONS
+The associations between HbA1c and mortality and MI were moderated by CAD severity. Measures of cardiovascular disease severity may inform optimal individualized diabetes management.

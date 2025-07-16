@@ -1,0 +1,2 @@
+K-sample subsampling in general spaces: The case of independent time series
+The problem of subsampling in two-sample and K-sample settings is addressed where both the data and the statistics of interest take values in general spaces. We focus on the case where each sample is a stationary time series, and construct subsampling confidence intervals and hypothesis tests with asymptotic validity. Some examples are also given, and the problem of optimal block size choice is discussed.

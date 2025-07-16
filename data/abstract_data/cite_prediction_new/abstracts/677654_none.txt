@@ -1,0 +1,2 @@
+INTERNAL DIFFUSION-LIMITED AGGREGATION ON NON-AMENABLE GRAPHS
+The stochastic growth model Internal Diffusion Limited Aggregation was defined in 1991 by Diaconis and Fulton. Several shape results are known when the underlying state space is the d-dimensional lattice, or a discrete group with exponential growth. We prove an extension of the shape result of Blachere and Brofferio for Internal Diffusion Limited Aggregation on a wide class of Markov chains on non-amenable graphs.

@@ -1,0 +1,6 @@
+On Flat Minima, Large Margins and Generalizability
+The intuitive connection to robustness and convincing empirical evidence have made the flatness of the loss surface an attractive measure of generalizability for neural networks. 
+     Yet it suffers from various problems such as computational difficulties, reparametrization issues, and a growing concern that it may only be an epiphenomenon of optimization methods. 
+     We provide empirical evidence that under the cross-entropy loss once a neural network reaches a non-trivial training error, the flatness correlates (via Pearson Correlation Coefficient) well to the classification margins, which allows us to better reason about the concerns surrounding flatness. 
+     Our results lead to the practical recommendation that when assessing generalizability one should consider a margin-based measure instead, as it is computationally more efficient, provides further insight, and is highly correlated to flatness. 
+     We also use our insight to replace the misleading folklore that small-batch methods generalize better because they are able to escape sharp minima. Instead, we argue that large-batch methods did not have enough time to maximize margins and hence generalize worse. 

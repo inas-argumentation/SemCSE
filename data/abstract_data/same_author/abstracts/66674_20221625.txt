@@ -1,0 +1,2 @@
+Classes of spatially inhomogeneous pseudodifferential operators.
+One can obtain sharp information on a pseudodifferential operator p(x,D) by embedding the symbol p in a symbolic calculus specially designed to reflect the behavior of p. We sketch the development of symbolic calculi arising in this connection, and use our results to give simple proofs of the sharp Gårding inequality and of sufficiency of Nirenberg-Traves' condition (P) for local solvability of equations of principal type.

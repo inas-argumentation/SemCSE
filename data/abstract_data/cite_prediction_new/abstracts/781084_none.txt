@@ -1,0 +1,19 @@
+Application of microarray analysis on computer cluster and cloud platforms.
+BACKGROUND
+Analysis of recent high-dimensional biological data tends to be computationally intensive as many common approaches such as resampling or permutation tests require the basic statistical analysis to be repeated many times. A crucial advantage of these methods is that they can be easily parallelized due to the computational independence of the resampling or permutation iterations, which has induced many statistics departments to establish their own computer clusters. An alternative is to rent computing resources in the cloud, e.g. at Amazon Web Services.
+
+
+OBJECTIVES
+In this article we analyze whether a selection of statistical projects, recently implemented at our department, can be efficiently realized on these cloud resources. Moreover, we illustrate an opportunity to combine computer cluster and cloud resources.
+
+
+METHODS
+In order to compare the efficiency of computer cluster and cloud implementations and their respective parallelizations we use microarray analysis procedures and compare their runtimes on the different platforms.
+
+
+RESULTS
+Amazon Web Services provide various instance types which meet the particular needs of the different statistical projects we analyzed in this paper. Moreover, the network capacity is sufficient and the parallelization is comparable in efficiency to standard computer cluster implementations.
+
+
+CONCLUSION
+Our results suggest that many statistical projects can be efficiently realized on cloud resources. It is important to mention, however, that workflows can change substantially as a result of a shift from computer cluster to cloud computing.

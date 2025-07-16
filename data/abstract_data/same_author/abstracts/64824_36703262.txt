@@ -1,0 +1,2 @@
+Limited Feedback Precoding Scheme for Downlink Multiuser MIMO Systems
+In this letter, we propose a limited feedback precoding scheme based upon grassmannian beamforming and user selection for downlink multiuser MIMO systems. Conventional random beamforming scheme only enjoys significant performance gains with a large number of users, which limits its practical application. With proper codebook size the proposed scheme outperforms conventional random beamforming scheme when the number of users is small or moderate.

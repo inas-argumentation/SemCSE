@@ -1,0 +1,2 @@
+Improving Conditional Branch Prediction on Speculative Multithreading Architectures
+Dynamic conditional branch prediction is an indispensable technique for increasing performance in modern processors. However, currently proposed schemes suffer from loss of accuracy when applied to speculative multithreading CMP architectures. In this paper, we quantitatively investigate this problem and present a hardware scheme to improve the prediction accuracy. Evaluation results show that an improvement of 1.4% in average can be achieved in SPECint95.

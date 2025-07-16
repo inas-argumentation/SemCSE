@@ -1,0 +1,2 @@
+A field-based collaboration strategy in MADCE
+In this paper, we propose a field-based collaboration algorithm that can be applied to searching the local-best co-agent within field. The dynamic "field" structure of the collaborating objects limits the range of information communicating and sharing, and adjusts the load of Agents dynamically. An efficient method for Agent's collaboration in MADCE is presented, which can balance the system load, reduce the executive cost, and broaden the ability of Distributed Computing Environment.

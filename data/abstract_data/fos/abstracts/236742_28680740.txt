@@ -1,0 +1,2 @@
+Re-Assembly Buffer Requirements in a Packet Voice Network
+Abstract A packet voice receiver for voice channels carried on a data network must compensate for random network delays by buffering packets before delivery. This paper analyzes a generally applicable protocol devised by Barberis and Pazzaglia which waits for late packets. The results include nonstationary buffer length distribution and mean values, as a function of time in the talkspurt. These results may be used in the design of a packet voice receiver.

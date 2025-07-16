@@ -1,0 +1,2 @@
+Decision Processes in Agent-Based Automated Contracting
+The Magnet system meets many of the challenges of modeling decision making for customer agents in automated contract negotiation. In order to model decision making in the uncertain environment of contract negotiation, we use the Expected Utility Theory. We describe that theory, followed by more detailed descriptions of the customer agents' key decision-making processes and our search algorithm. First, we offer an overview of the Magnet environment.

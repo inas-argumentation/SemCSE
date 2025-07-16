@@ -1,0 +1,2 @@
+On the Independence Number of Random Cubic Graphs
+We show that as n∞, the independence number α(G), for almost all 3-regular graphs G on n vertices, is at least (6 log(3/2) – 2 – ϵ)n, for any constant ϵ>0. We prove this by analyzing a greedy algorithm for finding independent sets. © 1994 John Wiley & Sons, Inc.

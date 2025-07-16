@@ -1,0 +1,2 @@
+Vom lokalen Hypertext zum verteilten Hypermediasystem
+This article describes two aspects of current hypermedia research: open hypertext systems and individual user contexts. The first aspect is supported by protocols, architectures, and codes that are a matter of current standardization. The second aspect is discussed on the background of the prototype system CONCORDE. This hypertext system enables application-specific user-support by typed and constrained links as well as private contexts.

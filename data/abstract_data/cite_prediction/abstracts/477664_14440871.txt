@@ -1,0 +1,2 @@
+Pareto Multi Objective Optimization
+The goal of this chapter is to give fundamental knowledge on solving multi-objective optimization problems. The focus is on the intelligent metaheuristic approaches (evolutionary algorithms or swarm-based techniques). The focus is on techniques for efficient generation of the Pareto frontier. A general formulation of MO optimization is given in this chapter, the Pareto optimality concepts introduced, and solution approaches with examples of MO problems in the power systems field are given

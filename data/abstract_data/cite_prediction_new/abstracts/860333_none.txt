@@ -1,0 +1,2 @@
+A Comprehensive Implementation of Conceptual Spaces
+The highly influential framework of conceptual spaces provides a geometric way of representing knowledge. Instances are represented by points and concepts are represented by regions in a (potentially) high-dimensional space. Based on our recent formalization, we present a comprehensive implementation of the conceptual spaces framework that is not only capable of representing concepts with inter-domain correlations, but that also offers a variety of operations on these concepts.

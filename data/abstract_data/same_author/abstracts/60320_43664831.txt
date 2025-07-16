@@ -1,0 +1,2 @@
+Learning Bayesian Networks Structure with Continuous Variables
+In this paper, a new method for learning Bayesian networks structure with continuous variables is proposed. The continuous variables are discretized based on hybrid data clustering. The discrete values of a continuous variable are obtained by using father node structure and Gibbs sampling. Optimal dimension of discretized continuous variable is found by MDL principle to the Markov blanket. Dependent relationship is refined by optimization regulation to Bayesian network structure in iteration learning.

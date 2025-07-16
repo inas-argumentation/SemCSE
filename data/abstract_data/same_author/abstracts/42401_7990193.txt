@@ -1,0 +1,2 @@
+Tool to Generate a Local Internet Weather Report
+This paper reports the results of some experiments conducted to measure the Internet congestion, viewed from a local perspective. A user-friendly graphical tool was developed to reflect the “local internet weather”. For a typical user this information is more relevant than the global characteristics, however, the existing tools to measure Internet traffic are not designed with the individual non-technical user in mind.

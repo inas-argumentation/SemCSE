@@ -1,0 +1,2 @@
+Mutual Exclusion on a Hypercube
+Abstract We present a decentralized, symmetric mutual exclusion algorithm that is tailored to the hypercube architecture. Our algorithm has better time complexity than a suitable hypercube adaptation of Maekawa′s O(√N) Mutual Exclusion algorithm. We show that, in the presence of contention, our algorithm has a shorter Blocking Delay than Maekawa′s algorithm. In the absence of contention, our algorithm achieves optimal Round-trip Delay under both the n-port and the one-port communication models.

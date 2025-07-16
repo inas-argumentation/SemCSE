@@ -1,0 +1,22 @@
+Controls on surface soil drying rates observed by SMAP and simulated by the Noah land surface model
+. Drydown periods that follow precipitation events provide an
+opportunity to assess controls on soil evaporation on a continental scale. We
+use SMAP (Soil Moisture Active Passive) observations and Noah simulations
+from drydown periods to quantify the role of soil moisture, potential
+evaporation, vegetation cover, and soil texture on soil drying rates. Rates
+are determined using finite differences over intervals of 1 to 3 days. In the
+Noah model, the drying rates are a good approximation of direct soil
+evaporation rates, and our work suggests that SMAP-observed drying is also
+predominantly affected by direct soil evaporation. Data cover the domain of
+the North American Land Data Assimilation System Phase 2 and span the first
+1.8 years of SMAP's operation. Drying of surface soil moisture observed by SMAP is faster than that
+simulated by Noah. SMAP drying is fastest when surface soil moisture levels
+are high, potential evaporation is high, and when vegetation cover is low.
+Soil texture plays a minor role in SMAP drying rates. Noah simulations show
+similar responses to soil moisture and potential evaporation, but vegetation
+has a minimal effect and soil texture has a much larger effect compared to
+SMAP. When drying rates are normalized by potential evaporation, SMAP
+observations and Noah simulations both show that increases in vegetation
+cover lead to decreases in evaporative efficiency from the surface soil.
+However, the magnitude of this effect simulated by Noah is much weaker than
+that determined from SMAP observations.

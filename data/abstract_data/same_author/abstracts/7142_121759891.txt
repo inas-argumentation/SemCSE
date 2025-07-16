@@ -1,0 +1,2 @@
+The GRACE system for the minimal supersymmetric standard model
+The algorithm of constructing the Feynman amplitudes for the GRACE system is extended to processes involving supersymmetric particles. New vertex amplitude subroutines needed to compute these processes are now part of the CHANEL library.

@@ -1,0 +1,2 @@
+Stability analysis and parasitic effects of negative impedance converter circuits
+Stability is a major obstacle preventing practical applications of negative impedance converters (NIC) such as electrically small antenna matching. Return ratio method with a mesh or nodal analysis in frequency domain can provide an insight of the overall stability and performance of a NIC. This paper studies the stability of two types of NICs, based on tunneling diode and cross-coupled pair MOSFET. The influence of device capacitances, load impedance, and bias network are discussed.

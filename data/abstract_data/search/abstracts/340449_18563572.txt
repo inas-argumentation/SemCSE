@@ -1,0 +1,2 @@
+Steganalysis of binary text images
+We present in this paper a technique for the steganalysis of electronic text documents. The proposed method averages the similar patterns together in a binary text image to estimate the original patterns. The proposed method can detect the existence of a secret message hidden by any boundary flipping techniques as well as estimate the message length and locate the flipped pixels.

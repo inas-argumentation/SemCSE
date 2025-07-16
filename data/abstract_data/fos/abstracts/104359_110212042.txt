@@ -1,0 +1,2 @@
+Reliability analysis of a system with dependent units
+The paper deals with the reliability analysis of a system consisting of n identical units (connected in parallel) subject to exponential failure distribution. An explicit expression for the mean time to system failure has been obtained.

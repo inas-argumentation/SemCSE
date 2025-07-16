@@ -1,0 +1,2 @@
+On the nonexistence of 2-cycles for the 3x+1 problem
+This article generalizes a proof of Steiner for the nonexistence of 1-cycles for the 3x + 1 problem to a proof for the nonexistence of 2-cycles. A lower bound for the cycle length is derived by approximating the ratio between numbers in a cycle. An upper bound is found by applying a result of Laurent, Mignotte, and Nesterenko on linear forms in logarithms. Finally numerical calculation of convergents of log(2) 3 shows that 2-cycles cannot exist.

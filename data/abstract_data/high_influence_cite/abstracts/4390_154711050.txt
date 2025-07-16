@@ -1,0 +1,2 @@
+An empirical study of interest rate determination rules
+This paper finds empirical support for a Taylor (1993) type interest rate determination rule. The model is solved analytically, estimated and used for simulation, impulse response analyses and forecasting with quarterly time series data for the UK and annual time series data for Germany, France, Japan, the UK and the US. The results confirm that such rules implicitly exists during the period of analysis.

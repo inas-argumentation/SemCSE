@@ -1,0 +1,2 @@
+A comparable study of image approximations to the reaction field
+The recently developed high-order accurate multiple image approximation to the reaction field for a charge inside a dielectric sphere [J. Comput. Phys., 223 (2007) 846-864] is compared favorably to other commonly employed reaction field schemes. These methods are of particular interest because they are useful in the study of biological macromolecules by the Monte Carlo and Molecular Dynamics methods.

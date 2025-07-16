@@ -1,0 +1,2 @@
+On the Covering Steiner Problem
+The Covering Steiner problem is a common generalization of the k-MST and Group Steiner problems. An instance of the Covering Steiner problem consists of an undirected graph with edge-costs, and some subsets of vertices called groups, with each group being equipped with a non-negative integer value (called its requirement); the problem is to find a minimum-cost tree which spans at least the required number of vertices from every group. When all requirements are equal to 1, this is the Group Steiner problem.

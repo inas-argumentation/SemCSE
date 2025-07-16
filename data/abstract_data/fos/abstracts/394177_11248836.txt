@@ -1,0 +1,2 @@
+Random Walks through the Ensemble: Linking Spectral Statistics with Wave-Function Correlations in Disordered Metals.
+We use a random walk in the ensemble of impurity configurations to generate a Brownian motion model for energy levels in disordered conductors. Treating arc-length along the random walk as fictitous time, the resulting Langevin equation relates spectral statistics to eigenfunction correlations. Solving this equation at energy scales large compared with the mean level spacing, we obtain the spectral form factor, and its parametric dependence.

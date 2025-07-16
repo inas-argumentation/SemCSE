@@ -1,0 +1,2 @@
+Completed Logic Programs and their Consistency
+Abstract We present two sufficient conditions, a negative-cycle-free condition and an order-consistency condition, for a logic program to have a Herbrand model of its completion. They yield new classes of logic programs whose completions are consistent.

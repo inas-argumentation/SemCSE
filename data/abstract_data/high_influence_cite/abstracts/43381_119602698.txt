@@ -1,0 +1,2 @@
+Convergence of infinite element methods for scalar waveguide problems
+We consider the numerical solution of scalar wave equations in domains which are the union of a bounded domain and a finite number of infinite cylindrical waveguides. The aim of this paper is to provide a new convergence analysis of both the perfectly matched layer method and the Hardy space infinite element method in a unified framework. We treat both diffraction and resonance problems. The theoretical error bounds are compared with errors in numerical experiments.

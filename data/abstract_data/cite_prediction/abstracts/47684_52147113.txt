@@ -1,0 +1,2 @@
+Smart Helmet for Accident Detection and Notification
+Aim to create a system utilizing the Internet of Things (IoT) concept to detect accidents in two wheelers using a microcontroller and accelerometer and notify the authorities as well as the emergency contact of the rider. Also, plot the accidents occurring in the city for further analysis.

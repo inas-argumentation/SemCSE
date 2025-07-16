@@ -1,0 +1,4 @@
+Berechnung von Ionisierungsspannungen aus der Thomas-Fermi-Gleichung mit Diracs Austauschkorrektion
+ZusammenfassungEs wird gezeigt, daß die Bedeutung eines in die Gleichung eingehenden Parameters dE/dN ist (E Energie, N Anzahl Elektronen). Die Analogie mit dem Gibbsschen chemischen Potential wird kurz diskutiert. Für die Ionisierungs-Spannungen gelten Ausdrücke von der Form
+$$ - \frac{1}{e}\int\limits_{N - 1}^N {\frac{{d E}}{{d N}}d N} $$
+. Die Auswertung dieser Integrale wird mit Hilfe der noch nicht veröffentlichten numerischen Lösung von H. Jensen ausgeführt.

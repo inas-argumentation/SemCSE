@@ -1,0 +1,2 @@
+Generalized Cascade Synchronization of Discrete-time Henon-like Map
+This Letter addresses the generalized cascade synchronization problem of discrete-time hyperchaotic systems. By choosing a general kind of proportional scaling error functions and based on rigorous control theory, we take the discrete-time Henon-like map as a example to achieve the generalized cascade synchronization. Numerical simulations are used to show the effectiveness of the proposed technique.

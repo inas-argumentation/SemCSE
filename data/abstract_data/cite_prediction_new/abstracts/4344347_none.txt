@@ -1,0 +1,2 @@
+The improvement and realization of a kind of Mean-Shift tracking algorithm
+This paper puts forward an improved model of Mean-Shift tracking algorithm. Aiming at the problem of unchanged kernel function bandwidth in the tracking process, it puts forward the improved Camshift algorithm and discusses the object model updating algorithm based on Kalman filter. The experiment shows that the Mean-Shift tracking algorithm by using LabVIEW can track a single object and multi-objects in outdoor scenes and can be applied in video monitoring.

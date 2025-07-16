@@ -1,0 +1,2 @@
+Unsupervised Learning of Pattern Templates from Unannotated Corpora for Proper Noun Extraction
+This paper describes an approach to extracting proper nouns in the very large text corpora without using the lexicon or cue word dictionary. At first, we train the pattern for extracting the proper nouns by applying the initial proper names into the unannotated corpora that does not have any tags yet. And then we continuously apply the pattern templates into the corpora in order to extract new proper nouns until certain period.

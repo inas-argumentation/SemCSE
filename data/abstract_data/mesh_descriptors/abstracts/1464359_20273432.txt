@@ -1,0 +1,15 @@
+HIV-1-specific cytolytic T-lymphocyte activity correlates with lower viral load, higher CD4 count, and CD8+CD38-DR- phenotype: comparison of statistical methods for measurement.
+OBJECTIVES
+The objective of this study was to use novel statistical methods to determine the correlation between HIV-1-specific cytolytic T-lymphocyte (CTL) activity and HIV-1 plasma viral load, in a blinded study of HIV-infected patients at various stages of clinical disease.
+
+
+METHODS
+Peripheral blood mononuclear cells (PBMC) were collected and stored at enrollment and 2 weeks later, from 15 HIV-infected individuals who were receiving stable antiretroviral therapy for the previous 6 weeks and during the study period. HIV-1-specific CTL activity was measured using an antigen-specific PBMC in vitro stimulation method. Measurements of plasma viral load, as well as CD4+ and CD8+ T lymphocytes expressing T-cell activation markers (DR and CD38) were also performed at each time point. CTL activity was quantified using three separate statistical methods: area under the net HIV-specific lysis curve (AUC), lytic units (LU20), and linear regression (LR) of net HIV-specific lysis.
+
+
+RESULTS
+HIV-1 nef-, pol- and gag-specific CTL activity (AUC method) was significantly higher in subjects with a plasma viral load < or = 30,000 RNA copies/ml, than in those with viral load >30,000 RNA copies/ml. When plasma viral load was analyzed as a continuous variable, there was a strong correlation between higher CTL activity and lower viral load for nef (r2 = .77; p < .001), pol (r2 = .63; p < .001) and gag (r2 = 0.75; p < .001) targets by the AUC, but not for the LU20 analysis. Using the LR analysis, which is less dependent on in vitro PBMC growth than the AUC analysis, an independent association was demonstrated between nef- and gag-specific CTL activity and lower viral load. Measurement of CTL activity was also significantly correlated with a higher percentage of circulating CD8+DR-CD38- T lymphocytes.
+
+
+CONCLUSIONS
+In this blinded study using an in vitro stimulation of frozen PBMC, higher HIV-1 nef-, pol-, and gag-specific CTL activity correlated with lower plasma viral load, particularly in patients with a CD4 count <500 cells/mm3. Two new statistical methods for estimating CTL activity, AUC and LR analyses, were superior to the standard lytic unit (LU20) method for demonstrating this correlation. These data also demonstrated that higher circulating CD8+ T lymphocytes with a DR-CD38-phenotype, correlate with a lower plasma viral and load and higher HIV-specific CTL activity. This suggests that lymphocytes with this double-negative phenotype may include circulating HIV-specific CD8+ CTL.

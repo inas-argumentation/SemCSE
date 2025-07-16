@@ -1,0 +1,4 @@
+Memory Subsystem Characterization in a 16-Core Snoop-Based Chip-Multiprocessor Architecture
+In this paper we present an exhaustive evaluation of the memory subsystem in a chip-multiprocessor (CMP) architecture composed of 16 cores. The characterization is performed making use of a new simulator that we have called DCMPSIM and extends the Rice Simulator for ILP Multiprocessors (RSIM) with the functionality required to model a contemporary CMP in great detail. 
+ 
+To better understand the behavior of the memory subsystem, we propose a taxonomy of the L1 cache misses found in CMPs which subsequently we use to determine where the hot spots of the memory hierarchy are and, thus, where computer architects have to place special emphasis to improve the performance of future dense single-chip multiprocessors, which will integrate 16 or more processor cores.

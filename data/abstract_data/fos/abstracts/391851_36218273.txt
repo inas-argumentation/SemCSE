@@ -1,0 +1,15 @@
+FEM design and simulation of a short, 10 MV, S-band Linac with Monte Carlo dose simulations.
+PURPOSE
+Current commercial 10 MV Linac waveguides are 1.5 m. The authors' current 6 MV linear accelerator-magnetic resonance imager (Linac-MR) system fits in typical radiotherapy vaults. To allow 10 MV treatments with the Linac-MR and still fit within typical vaults, the authors design a 10 MV Linac with an accelerator waveguide of the same length (27.5 cm) as current 6 MV Linacs.
+
+
+METHODS
+The first design stage is to design a cavity such that a specific experimental measurement for breakdown is applicable to the cavity. This is accomplished through the use of finite element method (FEM) simulations to match published shunt impedance, Q factor, and ratio of peak to mean-axial electric field strength from an electric breakdown study. A full waveguide is then designed and tuned in FEM simulations based on this cavity design. Electron trajectories are computed through the resulting radio frequency fields, and the waveguide geometry is modified by shifting the first coupling cavity in order to optimize the electron beam properties until the energy spread and mean energy closely match values published for an emulated 10 MV Linac. Finally, Monte Carlo dose simulations are used to compare the resulting photon beam depth dose profile and penumbra with that produced by the emulated 10 MV Linac.
+
+
+RESULTS
+The shunt impedance, Q factor, and ratio of peak to mean-axial electric field strength are all matched to within 0.1%. A first coupling cavity shift of 1.45 mm produces an energy spectrum width of 0.347 MeV, very close to the published value for the emulated 10 MV of 0.315 MeV, and a mean energy of 10.53 MeV, nearly identical to the published 10.5 MeV for the emulated 10 MV Linac. The depth dose profile produced by their new Linac is within 1% of that produced by the emulated 10 MV spectrum for all depths greater than 1.5 cm. The penumbra produced is 11% narrower, as measured from 80% to 20% of the central axis dose.
+
+
+CONCLUSIONS
+The authors have successfully designed and simulated an S-band waveguide of length of 27.5 cm capable of producing a 10 MV photon beam. This waveguide operates well within the breakdown threshold determined for the cavity geometry used. The designed Linac produces depth dose profiles similar to those of the emulated 10 MV Linac (waveguide-length of 1.5 m) but yields a narrower penumbra.

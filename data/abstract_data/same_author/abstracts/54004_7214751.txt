@@ -1,0 +1,2 @@
+A conforming finite element method for overlapping and nonmatching grids
+In this paper we propose a finite element method for nonmatching overlapping grids based on the partition of unity. Both overlapping and nonoverlapping cases are considered. We prove that the new method admits an optimal convergence rate. The error bounds are in terms of local mesh sizes and they depend on neither the overlapping size of the subdomains nor the ratio of the mesh sizes from different subdomains. Our results are valid for multiple subdomains and any spatial dimensions.

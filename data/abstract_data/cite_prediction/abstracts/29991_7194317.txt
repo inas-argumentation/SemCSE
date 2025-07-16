@@ -1,0 +1,2 @@
+Identifying licensing of jar archives using a code-search approach
+Free and open source software strongly promotes the reuse of source code. Some open source Java components/libraries are distributed as jar archives only containing the bytecode and some additional information. For whoever wanting to integrate this jar in her own project, it is important to determine the license(s) of the code from which the jar archive was produced, as this affects the way that such component can be used.

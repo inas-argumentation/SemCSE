@@ -1,0 +1,2 @@
+On the Relations Between Arboricity and Independent Number Or Covering Number
+In this paper, the following results are obtained: a(G) + β(G) ⩽ p + 1, ⌈p2⌉ ⩽ a(G)β(G), ⌈p2⌉ ⩽ a′(G) + gb′(G) ⩽ pa′(G) + α′(G) ⩽ 2⌈p2⌉ (δ ⩽ 1) and all bounds are sharp, where p = ¦V(G)¦, ⌈x⌉ denotes the smallest integer greater than or equal to x, a(G) is the vertex arboricity, a′(G) is the edge arboricity, α′(G) is the edge covering number, β(G) is the vertex independent number, β′(G) is the edge independent number, and δ is the minimum degree of G.

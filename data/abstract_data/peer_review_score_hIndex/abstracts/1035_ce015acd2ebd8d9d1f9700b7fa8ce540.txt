@@ -1,0 +1,13 @@
+Mapping the hyponymy relation of wordnet onto vector Spaces
+ In this paper, we investigate mapping the hyponymy relation of
+ wordnet to feature vectors.
+  We aim to model lexical knowledge in such a way that it can be used as
+  input in generic machine-learning models, such as phrase entailment
+  predictors.
+  We propose two models. The first one leverages an existing mapping of
+  words to feature vectors (fasttext), and attempts to classify
+  such vectors as within or outside of each class. The second model is fully supervised,
+  using solely wordnet as a ground truth. It maps each concept to an
+  interval or a disjunction thereof.
+  On the first model, we approach, but not quite attain state of the
+  art performance. The second model can achieve near-perfect accuracy.

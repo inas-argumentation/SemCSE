@@ -1,0 +1,2 @@
+An Improved 100 GHz Equivalent Circuit Model of a Through Silicon Via With Substrate Current Loop
+This letter presents a new wideband equivalent circuit model for through silicon via (TSV) with consideration of the effective substrate current loop in silicon substrate and proximity effect on the currents in the TSV. The proposed model can accurately predict the electrical performance of the TSV at wide frequency range. The proposed model correlates well up to 100 GHz when compared to the full wave electromagnetic simulation.

@@ -1,0 +1,2 @@
+Uighur Continuous Digital Speech Recognition Based on HTK
+According to the operating principle of HTK,designs Uighur continuous digital recognition training steps for revaluation of embedded training,phoneme-based units for the establishment of the HMM,establishs Uighur non-specific people small vocabulary billion less digital speech recognition.

@@ -1,0 +1,2 @@
+Cointopia : Blockchain Analysis using Online Forums
+In this paper we detail the results of exploratory data analysis against the Bitcoin blockchain, and compare various communities identified through mention and usage in online forums and datasets. By comparing these disparate communities, we manage to identify trends in convergence and adoption, cluster different addresses into groups with similar characteristics, and uniquely identify individuals that may be engaged in suspicious activity and merit further investigation.

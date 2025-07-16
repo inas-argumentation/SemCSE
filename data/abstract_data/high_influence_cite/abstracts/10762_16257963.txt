@@ -1,0 +1,2 @@
+Performance Of H-Lu Preconditioning For Sparse Matrices
+Abstract In this paper we review the technique of hierarchical matrices and put it into the context of black-box solvers for large linear systems. Numerical examples for several classes of problems from medium- to large-scale illustrate the applicability and efficiency of this technique. We compare the results with those of several direct solvers (which typically scale quadratically in the matrix size) as well as an iterative solver (algebraic multigrid) which scales linearly (if it converges in O(1) steps).

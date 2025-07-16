@@ -1,0 +1,2 @@
+Identifying Apple Surface Defects Based on Gabor Features and SVM Using Machine Vision
+In this paper, a novel method to recognize defect regions of apples based on Gabor wavelet transformation and SVM using machine vision is proposed. The method starts with background removal and object segmentation by threshold. Texture features are extracted from each segmented object by using Gabor wavelet transform, and these features are introduced to support vector machines (SVM) classifiers. Experimental results exhibit correctly recognized 85% of the defect regions of apples.

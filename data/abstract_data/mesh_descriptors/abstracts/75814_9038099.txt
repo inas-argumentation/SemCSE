@@ -1,0 +1,19 @@
+Postoperative recurrence analysis of breast cancer patients based on clinical serum markers using discriminant methods.
+BACKGROUND
+Breast cancer is a common gynecological malignant tumor and currently its clinical diagnosis mainly depends on methods of iconography and measurement of serum level.
+
+
+OBJECTIVE
+To analyze correlation between serum index levels and prognosis of patients with breast cancer in one week and six months after operation, and to establish support vector machine (SVM) model to evaluate its effectiveness.
+
+
+METHODS
+One hundred sixty eight patients diagnosed with breast cancer at Affiliated Cancer Hospital of Zhengzhou University were collected, 46 of which did palindromia while other 122 didn't six months after operation. Serum CA153, CA125 and CEA levels of different periods in two groups were analyzed from their differences. Through receiver operating characteristic (ROC) curve analysis, their diagnostic threshold values were calculated, at the same time, SVM model was built.
+
+
+RESULTS
+There was a significant difference between serum index levels of recurrence group and non-recurrence group in one week and six months after operation (P< 0.05); SVM model was established with an accuracy of 96.67% (29/30), a sensitivity of 90% (9/10) and a specificity of 100% (20/20).
+
+
+CONCLUSIONS
+Serum CAl53, CEA and CA125 levels after operation have certain instructional significance for prognosis of breast cancer patients, and the established SVM model has high clinical application value.

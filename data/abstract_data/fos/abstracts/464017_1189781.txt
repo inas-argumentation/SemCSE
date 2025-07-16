@@ -1,0 +1,2 @@
+Polar camera for space-variant pattern recognition.
+Optical pattern recognition invariant to a rotation between the input and reference opjects is described. This is achieved by a space-variant optical system using coordinate transformations. The use of a polar camera to realize the coordinate transformation in real-time and the application of this system to real imagery rather than simple geometrical objects are presented for the first time.

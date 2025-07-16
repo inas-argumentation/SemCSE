@@ -1,0 +1,2 @@
+Parallel Restructuring and Evaluation of Expressions
+In this paper we describe a boolean network of size O ( N 2 log N ) which accepts a fully parenthesized N -variable expression over a given semiring and produces its value in O (log N ) time. The network consists of two components: a preprocessor and a universal evaluator. The preprocessor computes the destinations of the expression terms and routes them to the correct input terminals of the universal evaluator.

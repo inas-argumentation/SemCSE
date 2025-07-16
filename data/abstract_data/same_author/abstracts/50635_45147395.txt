@@ -1,0 +1,2 @@
+Analysis of a Token Ring Protocol for Voice Transmission
+For voice transmissions in a local-area network, it is desirable to have a small coefficient of variation for the interdeparture time of voice packets at the destination. This may be achieved by the proper design of the medium access protocol. A token ring protocol with provision for voice traffic is considered. An analytic model is developed to study the performance of this protocol with respect to voice traffic. Numerical results showing the effect of model parameters on interdeparture time are presented.

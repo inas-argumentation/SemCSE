@@ -1,0 +1,2 @@
+Shortest Paths in Planar Graphs with Real Lengths in O(nlog2n/loglogn) Time
+Given an n vertex planar directed graphwith real edge lengths and with no negative cycles, we show how to compute single source shortest path distances in the graph in O(n log2 n/ log log n) time with O(n) space. This improves on a recent O(n log2 n) time bound by Klein et al.

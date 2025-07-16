@@ -1,0 +1,2 @@
+Comments on Olson's logistic function for technology diffusion
+with C, the cumulative number of adopters at time t, N the unknown number of firms eventually adopting the technology, and pt the probability of a successful adoption in period t. Although Olson does not explicitly state that adopters act independently of one another, assume that they do. He correctly argues that the random variable y, is binomial; that is, conditional on N and the cumulative number of adopters at time t being n, so that

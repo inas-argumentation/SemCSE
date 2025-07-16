@@ -1,0 +1,4 @@
+Unlinkable Randomizable Signature and Its Application in Group Signature
+We formalize a generic method of constructing efficient group signatures, specifically, we define new notions of unlinkable randomizable signature, indirectly signable signature and Σ-protocol friendly signature. 
+ 
+We conclude that designing efficient secure group signatures can be boiled down to designing ordinary signatures satisfying the above three properties, which is supported by observations that almost all currently known secure efficient group signatures have alternative constructions in this line without deteriorating the efficiency.

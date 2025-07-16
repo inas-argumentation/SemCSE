@@ -1,0 +1,4 @@
+The Complexity of Satisfiability for Fragments of Hybrid Logic-Part I
+The satisfiability problem of hybrid logics with the downarrow binder is known to be undecidable. This initiated a research program on decidable and tractable fragments. 
+ 
+In this paper, we investigate the effect of restricting the propositional part of the language on decidability and on the complexity of the satisfiability problem over arbitrary, transitive, total frames, and frames based on equivalence relations. We also consider different sets of modal and hybrid operators. We trace the border of decidability and give the precise complexity of most fragments, in particular for all fragments including negation. For the monotone fragments, we are able to distinguish the easy from the hard cases, depending on the allowed set of operators.

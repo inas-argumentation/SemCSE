@@ -1,0 +1,2 @@
+A Unified Framework for Approximating Multiway Partition Problems
+We present a simple and unified framework for developing and analyzing approximation algorithms for some multiway partition problems (with or without terminals), including the k-way cut (or kcut), multiterminal cut (or multiway cut), hypergraph partition and target split.

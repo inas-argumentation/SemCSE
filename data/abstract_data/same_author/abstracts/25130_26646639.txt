@@ -1,0 +1,2 @@
+The COMPASS event store
+COMPASS, the fixed-target experiment at CERN studying the structure of the nucleon and spectroscopy, has collected over 500 TB during 2002 and 2003 runs. These data, together with the reconstructed events information, were put from the beginning in a database infrastructure based on Objectivity/DB and on the hierarchical storage manager CASTOR. Starting from 2003 Oracle has been adopted as the database technology. The experience in the usage of the databases is reviewed, and the evolution of the system outlined.

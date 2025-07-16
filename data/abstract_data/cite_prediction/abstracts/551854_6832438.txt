@@ -1,0 +1,2 @@
+Evaluation of Commonsense Knowledge with Mechanical Turk
+Efforts to automatically acquire world knowledge from text suffer from the lack of an easy means of evaluating the resulting knowledge. We describe initial experiments using Mechanical Turk to crowdsource evaluation to nonexperts for little cost, resulting in a collection of factoids with associated quality judgements. We describe the method of acquiring usable judgements from the public and the impact of such large-scale evaluation on the task of knowledge acquisition.

@@ -1,0 +1,2 @@
+Design and Research on Amplifier Circuit for Pyroelectric Infrared Sensor
+Introduces the working principle and performance of pyroelectric infrared sensor,and analyses the characteristics of pyroelectric infrared sensor signal output,then designs an preamplifier based on this type of sensor,and uses the microcontroller for analysis of the amplified signal to finish the detection of human motion.Uses Altium Designer 6.9 to simulate the preamplifier, verifies the validities and reliability of the preamplifier.

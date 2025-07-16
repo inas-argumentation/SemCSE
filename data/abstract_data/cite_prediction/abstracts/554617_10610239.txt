@@ -1,0 +1,2 @@
+Parking Lots Space Detection
+A problem faced in major metropolitan areas, is the search for parking space. In this paper, we proposed a novel way for automatic parking lots detection. In our approach, we first extract features by generating detection patchs and building Gaussian ground model from input video frames. Then this model is used to train an eight-calss multi-SVM classifier. Finally, the classfication is optimized globally via applying Markov Random Field.

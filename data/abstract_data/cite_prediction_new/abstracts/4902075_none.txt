@@ -1,0 +1,127 @@
+The Influence of Ambient Temperature and the Energy and Protein Content of Food on Nitrogenous Excretion in the Egyptian Fruit Bat (Rousettus aegyptiacus)
+The diets of frugivorous and nectarivorous vertebrates contain much water and generally have high energy but low protein contents. Therefore, we tested the prediction that to save energy under conditions of high energy demands and high water intake, frugivorous Egyptian fruit bats (Rousettus aegyptiacus) will increase both the absolute quantity and the proportion of ammonia in their urine. We also examined whether such changes occur when protein intake is low and water intake is high. We did three feeding trials. In trials 1 and 2, bats were fed one of four liquid diets containing constant soy protein concentrations but varying in sucrose concentration and were kept at ambient temperatures (Ta) of 30°C and 12°C, respectively. In trial 3, bats were kept at 
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$$T_{\mathrm{a}\,}=12^{\circ }\mathrm{C}\,$$
+\end{document} and fed one of four liquid diets with equal sucrose concentrations but varying protein concentrations. In trial 1, food intake at a sucrose concentration of 256 mmol/kg H2O was initially high but decreased to a constant rate with further increases in sucrose concentration, while in trial 2, food intake decreased exponentially with increasing sucrose concentration. As predicted, at 12°C with varying sucrose concentration, both the absolute quantity and the fraction of ammonia in the bats’ urine increased significantly with food intake (
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$$P< 0.02$$
+\end{document} ), while the absolute quantity of urea and the fraction of urea nitrogen excreted decreased significantly with food intake (
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$$P< 0.03$$
+\end{document} ). Varying sucrose concentration had no significant effect on nitrogen excretion at 
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$$T_{\mathrm{a}\,}=30^{\circ }\mathrm{C}\,$$
+\end{document} . Varying protein concentration had no significant effect on nitrogen excretion at 
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$$T_{\mathrm{a}\,}=12^{\circ }\mathrm{C}\,$$
+\end{document} . We suggest that Egyptian fruit bats can increase ammonia excretion in response to increased energetic demands, and we calculate that they can save energy equal to ∼2% of their daily metabolic rate by doing so.

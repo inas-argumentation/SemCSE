@@ -1,0 +1,2 @@
+Fast lattice decodability of space-time block codes
+We study fast decodability for general rate space-time block codes. We derive bounds on the number of generators that can be in mutually orthogonal groups and use these to show that that the ML decoding complexity of a full-rate n × n space-time block code is unfortunately quite high: at least of the order of |S|n2+1, where S is the effective real constellation. We also show that g-group decodability is not possible for full-rate codes.

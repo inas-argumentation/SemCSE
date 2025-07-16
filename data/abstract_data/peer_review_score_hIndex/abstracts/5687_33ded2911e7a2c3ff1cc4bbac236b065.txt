@@ -1,0 +1,7 @@
+Fast Geometric Projections for Local Robustness Certification
+Local robustness ensures that a model classifies all inputs within an $\ell_p$-ball consistently, which precludes various forms of adversarial inputs.
+In this paper, we present a fast procedure for checking local robustness in feed-forward neural networks with piecewise-linear activation functions.
+Such networks partition the input space into a set of convex polyhedral regions in which the network’s behavior is linear; 
+hence, a systematic search for decision boundaries within the regions around a given input is sufficient for assessing robustness.
+Crucially, we show how the regions around a point can be analyzed using simple geometric projections, thus admitting an efficient, highly-parallel GPU implementation that excels particularly for the $\ell_2$ norm, where previous work has been less effective.
+Empirically we find this approach to be far more precise than many approximate verification approaches, while at the same time performing multiple orders of magnitude faster than complete verifiers, and scaling to much deeper networks.

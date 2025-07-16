@@ -1,0 +1,2 @@
+Metalearning with Hebbian Fast Weights
+We unify recent neural approaches to one-shot learning with older ideas of associative memory in a model for metalearning. Our model learns jointly to represent data and to bind class labels to representations in a single shot. It builds representations via slow weights, learned across tasks through SGD, while fast weights constructed by a Hebbian learning rule implement one-shot binding for each new task. On the Omniglot, Mini-ImageNet, and Penn Treebank one-shot learning benchmarks, our model achieves state-of-the-art results.

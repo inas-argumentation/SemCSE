@@ -1,0 +1,2 @@
+Mixed Consistency Model: Meeting Data Sharing Needs of Heterogeneous Users
+Heterogeneous users usually have different requirements as far as consistency of shared data is concerned. This paper proposes and investigates a mixed consistency model to meet this heterogeneity challenge in large scale distributed systems that support shared objects. This model allows combining strong (sequential) consistency and weak (causal) consistency. The paper defines the model, motivates it and proposes a protocol implementing it

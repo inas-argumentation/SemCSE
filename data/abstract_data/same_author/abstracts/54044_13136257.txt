@@ -1,0 +1,2 @@
+An agent-based architecture for distributed interfaces and timed media in a storytelling application
+This paper presents an agent-based architecture that enables the presentation of interactive timed media to distributed and networked devices. The architecture provides an automatic mapping of the same document to different environments. It uses a hierarchy of PAC (Presentation-Abstraction-Control) agents, which allows separating the presentation aspects from the control aspects and dynamically registering the new PAC agents to the system.

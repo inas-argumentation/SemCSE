@@ -1,0 +1,2 @@
+Low operating voltage and short settling time CMOS charge pump for MEMS applications
+A 16-stage constant-threshold-voltage type charge pump was designed and fabricated in a standard CMOS 0.18-pm process. With an input clock voltage of less than 1 2 V , the maximum possible output voltage is 14.8 V, with a 65 psec rise time. The charge pump employs metal-insulator-metal (MIM) capacitors in order to minimize the chip area (0.8 x 0.9 mm’). This circuit is intended for generating on-chip actuation voltages for microelectro-mechanical devices and systems (MEMS).

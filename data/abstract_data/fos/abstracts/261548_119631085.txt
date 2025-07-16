@@ -1,0 +1,2 @@
+Time regularity of the solutions to second order hyperbolic equations
+We consider the Cauchy problem for a second order weakly hyperbolic equation, with coefficients depending only on the time variable. We prove that if the coefficients of the equation belong to the Gevrey class $\gamma^{s_{0}}$ and the Cauchy data belong to $\gamma^{s_{1}}$, then the Cauchy problem has a solution in $\gamma^{s_{0}}([0,T^{*}];\gamma^{s_{1}}(\mathbb{R}))$ for some T*>0, provided 1≤s1≤2−1/s0. If the equation is strictly hyperbolic, we may replace the previous condition by 1≤s1≤s0.

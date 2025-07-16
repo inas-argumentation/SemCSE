@@ -1,0 +1,2 @@
+Testing Equivalences for Processes
+Abstract Given a set of processes and a set of tests on these processes we show how to define in a natural way three different equivalences on processes. These equivalences are applied to a particular language CCS. We give associated complete proof systems and fully abstract models. These models have a simple representation in terms of trees.

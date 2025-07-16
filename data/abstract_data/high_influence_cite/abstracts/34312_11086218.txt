@@ -1,0 +1,2 @@
+Space Mapping With Multiple Coarse Models for Optimization of Microwave Components
+The performance of space mapping (SM) optimization algorithms depends primarily on the quality of the underlying coarse model. Models available in the microwave area can be cheap but inaccurate or accurate but too expensive. Here, we consider a multicoarse-model technique that allows us to combine the merits of both types of coarse models to substantially reduce the overall computational cost of optimization in comparison to traditional SM.

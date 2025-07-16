@@ -1,0 +1,15 @@
+Correction of MRI-induced geometric distortions in whole-body small animal PET-MRI.
+PURPOSE
+The fusion of positron emission tomography (PET) and magnetic resonance imaging (MRI) data can be a challenging task in whole-body PET-MRI. The quality of the registration between these two modalities in large field-of-views (FOV) is often degraded by geometric distortions of the MRI data. The distortions at the edges of large FOVs mainly originate from MRI gradient nonlinearities. This work describes a method to measure and correct for these kind of geometric distortions in small animal MRI scanners to improve the registration accuracy of PET and MRI data.
+
+
+METHODS
+The authors have developed a geometric phantom which allows the measurement of geometric distortions in all spatial axes via control points. These control points are detected semiautomatically in both PET and MRI data with a subpixel accuracy. The spatial transformation between PET and MRI data is determined with these control points via 3D thin-plate splines (3D TPS). The transformation derived from the 3D TPS is finally applied to real MRI mouse data, which were acquired with the same scan parameters used in the phantom data acquisitions. Additionally, the influence of the phantom material on the homogeneity of the magnetic field is determined via field mapping.
+
+
+RESULTS
+The spatial shift according to the magnetic field homogeneity caused by the phantom material was determined to a mean of 0.1 mm. The results of the correction show that distortion with a maximum error of 4 mm could be reduced to less than 1 mm with the proposed correction method. Furthermore, the control point-based registration of PET and MRI data showed improved congruence after correction.
+
+
+CONCLUSIONS
+The developed phantom has been shown to have no considerable negative effect on the homogeneity of the magnetic field. The proposed method yields an appropriate correction of the measured MRI distortion and is able to improve the PET and MRI registration. Furthermore, the method is applicable to whole-body small animal imaging routines including different standard MRI sequences.

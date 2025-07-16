@@ -1,0 +1,2 @@
+A GaInP/GaAs HBT-Based Low Phase Noise Oscillator in X Band for Metrology Application
+This paper presents the design, realisation and measurement of a X band oscillator at 9.2 GHz in the frame of the PHARAO project (The In-Orbit Cold Atom Atomic Clock Project) lead by the CNES. It has been designed following innovative method which has led to a ultra low phase noise of ¿80 dBc/Hz@100 Hz from carrier with a ¿30 dB/decade slope.

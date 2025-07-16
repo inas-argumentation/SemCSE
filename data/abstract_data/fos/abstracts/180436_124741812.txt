@@ -1,0 +1,2 @@
+On goodness-of-fit tests for Aalen's additive model based on left-truncated right-censored or doubly censored data
+Gandy and Jensen (2005) proposed goodness-of-fit tests for Aalen's additive risk model. In this article, we demonstrate that the approach of Gandy and Jensen (2005) can be applied to left-truncated right-censored (LTRC) data and doubly censored data. A simulation study is conducted to investigate the performance of the proposed tests. The proposed tests are illustrated using heart transplant data.

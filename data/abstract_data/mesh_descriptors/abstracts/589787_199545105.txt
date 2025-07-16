@@ -1,0 +1,19 @@
+Post-acquisition processing confounds in brain volumetric quantification of white matter hyperintensities
+BACKGROUND
+Disparate research sites using identical or near-identical magnetic resonance imaging (MRI) acquisition techniques often produce results that demonstrate significant variability regarding volumetric quantification of white matter hyperintensities (WMH) in the aging population. The sources of such variability have not previously been fully explored.
+
+
+NEW METHOD
+3D FLAIR sequences from a group of randomly selected aged subjects were analyzed to identify sources-of-variability in post-acquisition processing that can be problematic when comparing WMH volumetric data across disparate sites. The methods developed focused on standardizing post-acquisition protocol processing methods to develop a protocol with less than 0.5% inter-rater variance.
+
+
+RESULTS
+A series of experiments using standard MRI acquisition sequences explored post-acquisition sources-of-variability in the quantification of WMH volumetric data. Sources-of-variability included: the choice of image center, software suite and version, thresholding selection, and manual editing procedures (when used). Controlling for the identified sources-of-variability led to a protocol with less than 0.5% variability between independent raters in post-acquisition WMH volumetric quantification.
+
+
+COMPARISON WITH EXISTING METHOD(S)
+Post-acquisition processing techniques can introduce an average variance approaching 15% in WMH volume quantification despite identical scan acquisitions. Understanding and controlling for such sources-of-variability can reduce post-acquisition quantitative image processing variance to less than 0.5%.
+
+
+DISCUSSION
+Considerations of potential sources-of-variability in MRI volume quantification techniques and reduction in such variability is imperative to allow for reliable cross-site and cross-study comparisons.

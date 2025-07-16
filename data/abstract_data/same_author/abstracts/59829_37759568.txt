@@ -1,0 +1,2 @@
+Graphs and digraphs with given girth and connectivity
+Abstract In this paper, we show that for any given two positive integers g and k with g ⩾3, there exists a graph (digraph) G with girth g and connectivity k . Applying this result, we give a negative answer to the problem proposed by M. Junger, G. Reinelt and W.R. Pulleyblank (1985).

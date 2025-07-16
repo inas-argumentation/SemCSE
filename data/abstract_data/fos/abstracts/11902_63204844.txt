@@ -1,0 +1,2 @@
+Research on Application of Web Log Mining Based on SQL Server 2005
+Presents a Web log mining solution based on SQL Server 2005,load the Web log data into database by SSIS,prepares the Web log data by SQL clause or stored procedure in SQL Server Management Studio,then applys the SSAS to complete data mining task,through an instance of mining applying association rule algorithm to prove the solution is valid.

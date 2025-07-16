@@ -1,0 +1,2 @@
+Discriminant Analysis and Its Application in DNA Sequence Motif Recognition
+Identification of functional motifs in a DNA sequence is fundamentally a statistical pattern recognition problem. Discriminant analysis is widely used for solving such problems. This paper will review two basic parametric methods: LDA (linear discriminant analysis) and QDA (quadratic discriminant analysis). Their usage in recognition of splice sites and exons in the human genome will be demonstrated.

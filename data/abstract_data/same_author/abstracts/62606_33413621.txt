@@ -1,0 +1,2 @@
+Graphical Structure-Oriented Search in a Hypertext System
+In this paper, we describe the query module of the hypertext system CONCORDE and its user interface. We have created a facility for searching the structure of the hypertext besides common contentrelated retrieval facilities. The user interface enables the user to create a query by direct manipulation of a graphical query interface. So, the user is able to exploit hypertext structures even for querying not just for browsing.

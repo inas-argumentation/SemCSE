@@ -1,0 +1,2 @@
+Optimal number of uses for an intermittently-used system
+This paper studies an intermittently-used system which fails by continuous deterioration with age or by discrete deterioration with use. The system is replaced before failure at number N of uses. The optimal number N* to minimize the expected cost rate is discussed for three particular cases. The case where the system deteriorates with both operating time and use time is considered.

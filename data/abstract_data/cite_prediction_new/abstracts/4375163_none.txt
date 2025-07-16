@@ -1,0 +1,2 @@
+Optimal multiple description and multiresolution scalar quantizer design
+The author presents new algorithms for fixed-rate multiple description and multiresolution scalar quantizer design. The algorithms both run in time polynomial in the size of the source alphabet and guarantee globally optimal solutions. To the authorpsilas knowledge, these are the first globally optimal design algorithms for multiple description and multiresolution quantizers.

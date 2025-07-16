@@ -1,0 +1,15 @@
+Trends in Cardiac Mortality in Patients With Locally Advanced Non-Small Cell Lung Cancer.
+PURPOSE
+To use the Surveillance, Epidemiology, and End Results (SEER) database to compare cardiac-specific mortality (CSM) between left- and right-sided locally advanced non-small cell lung cancer (LA-NSCLC) patients treated with definitive radiation therapy; and to stratify these patients over fixed time intervals to assess for differences in events by treatment era.
+
+
+METHODS AND MATERIALS
+The SEER database was queried for patients with stage III NSCLC who received radiation therapy to compare CSM between left- and right-sided primary cases at 5 time intervals: 1988-1992, 1993-1997, 1998-2002, 2003-2007, and 2008-2012. Cumulative incidence of CSM was compared between left- and right-sided patients using Gray's test. The multivariate Fine and Gray competing risk model was used to compare CSM while accounting for other-cause mortality.
+
+
+RESULTS
+Of 884,610 lung cancer patients, 52,624 met inclusion criteria; of these, 31,549 (60%) were right-sided and 21,075 (40%) were left-sided. When evaluating CSM in each of the 5 time periods, the overall incidence of CSM decreased over time. There was a statistically significant (P<.05) difference based on laterality in all time periods except 1988-1992 (P=.14). The subdistribution hazard ratio for CSM based on disease laterality in all time periods was 1.30 (95% confidence interval 1.18-1.42) and did not discernibly differ by time interval. On multivariate analysis using the Fine and Gray competing risk model, left-sided laterality independently predicted for CSS from 1993 to 2007 (P<.05).
+
+
+CONCLUSIONS
+Cardiac-specific mortality has decreased over time, and left-sided disease independently predicted for CSS during 1993-2007 but not 2008-2012. The time course of cardiac mortality seems to be early, consistent with other studies. These findings underscore the importance of minimizing cardiac irradiation during radiation treatment planning.

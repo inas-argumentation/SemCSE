@@ -1,0 +1,2 @@
+Moving Object Tracking in Video Using MATLAB
+In this paper a method is described for tracking moving objects from a sequence of video frame. This method is implemented by using optical flow (Horn-Schunck) in matlab simulink. It has a variety of uses, some of which are: humancomputer interaction, security and surveillance, video communication and compression, augmented reality, traffic control, medical imaging and video editing. Keywords— augmented, surveillance, medical imaging,

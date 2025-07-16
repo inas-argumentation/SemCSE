@@ -1,0 +1,2 @@
+Magic identities for conformal four-point integrals
+We propose an iterative procedure for constructing classes of off-shell four-point conformal integrals which are identical. The proof of the identity is based on the conformal properties of a subintegral common for the whole class. The simplest example are the so-called `triple scalar box' and `tennis court' integrals. In this case we also give an independent proof using the method of Mellin–Barnes representation which can be applied in a similar way for general off-shell Feynman integrals.

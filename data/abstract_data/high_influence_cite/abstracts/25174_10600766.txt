@@ -1,0 +1,2 @@
+The collapse of the bounded width hierarchy
+We show that every constraint satisfaction problem over a fixed constraint language that has bounded relational width has also relational width (2, 3). Together with known results this gives a trichotomy for width: a constraint satisfaction problem has either relational width 1, or relational width (2, 3) (and no smaller width), or does not have bounded relational width.

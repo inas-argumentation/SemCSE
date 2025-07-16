@@ -1,0 +1,2 @@
+Bernoulli Numbers and the Probability of a Birthday Surprise
+A birthday surprise is the event that, given k uniformly random samples from a sample space of size n, at least two of them are identical. We show that Bernoulli numbers can be used to derive arbitrarily exact bounds on the probability of a birthday surprise. This result can be used in arbitrary precision calculators, and it can be applied to better understand some questions in communication security and pseudorandom number generation.

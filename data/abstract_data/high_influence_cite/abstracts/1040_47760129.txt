@@ -1,0 +1,2 @@
+GLOBAL FLUCTUATIONS FOR LINEAR STATISTICS OF β-JACOBI ENSEMBLES
+We study the global fluctuations for linear statistics of the form as n → ∞, for C1 functions f, and λ1, …, λn being the eigenvalues of a (general) β-Jacobi ensemble. The fluctuation from the mean turns out to be given asymptotically by a Gaussian process. We compute the covariance matrix for the process and show that it is diagonalized by a shifted Chebyshev polynomial basis; in addition, we analyze the deviation from the predicted mean for polynomial test functions, and we obtain a law of large numbers.

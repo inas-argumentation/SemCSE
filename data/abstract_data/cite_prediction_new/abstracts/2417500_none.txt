@@ -1,0 +1,15 @@
+Effects on radiation oncology treatments involving various neuromodulation devices.
+OBJECT
+Where no society-based or manufacturer guidance on radiation limits to neuromodulation devices is available, this research provides the groundwork for neurosurgeons and radiation oncologists who rely on the computerized treatment plan clinically for cancer patients. The focus of the article is to characterize radiation parameters of attenuation and scatter when an incident therapeutic x-ray beam is directed upon them. At the time of this writing, manufacturers of Neuromodulation products do not recommend direct exposure of the device in the beam nor provide guidance for the maximum dose for these devices.
+
+
+METHODS
+Ten neuromodulation models were chosen to represent the finite class of devices marketed by Medtronic before 2011. CT simulations permitted computer treatment modeling for dose distribution analysis as used routinely in radiation oncology for patients. Phantom case results were directly compared to actual clinical patient cases. Radiation detection measurements were then correlated to computational results. Where the x-ray beam passes through the device and is attenuated, dose reduction was identified with Varian Eclipse computer modeling for these posterior locations.
+
+
+RESULTS
+Although the computer algorithm did not identify physical processes of side-scatter and back-scatter, these phenomena were proven by radiation measurement to occur. In general, the computer results underestimated the level of change seen by measurement.
+
+
+CONCLUSIONS
+For these implantable neurostimulators, the spread in dose changes were found to be -6.2% to -12.5% by attenuation, +1.7% to +3.8% by side-scatter, and +1.1% to +3.1% by back-scatter at 6 MV. At 18 MV, these findings were observed to be -1.4% to -7.0% by attenuation, +1.8% to 5.7% by side-scatter, and 0.8% to 2.7% by back-scatter. No pattern for the behavior of these phenomena was deduced to be a direct consequence of device size.

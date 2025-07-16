@@ -1,0 +1,2 @@
+Angular spectrum simulation of X-ray focusing by Fresnel zone plates
+An efficient computing simulation routine has been implemented to model explicitly several types of Fresnel zone plate taking advantage of the circular symmetry. This code was used to evaluate an optimized approach for stacking of two high-resolution Fresnel zone plates.

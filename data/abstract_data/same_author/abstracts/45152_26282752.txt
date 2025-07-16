@@ -1,0 +1,2 @@
+Using discriminant analysis for multi-class classification
+Discriminant analysis is known to learn discriminative feature transformations. We study its use in multiclass classification problems. The performance is tested on a large collection of benchmark datasets.

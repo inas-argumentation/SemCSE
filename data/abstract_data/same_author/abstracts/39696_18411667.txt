@@ -1,0 +1,2 @@
+Hybrid Monte Carlo algorithm for lattice QCD with two flavors of dynamical Ginsparg-Wilson quarks
+We study aspects concerning numerical simulations of lattice QCD with two flavors of dynamical Ginsparg-Wilson quarks with degenerate masses. A hybrid Monte Carlo algorithm is described and a formula for the fermionic force is derived for two specific implementations. The implementation with the optimal rational approximation method is favored in both CPU time and memory consumption.

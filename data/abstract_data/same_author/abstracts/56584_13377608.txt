@@ -1,0 +1,2 @@
+Cryptanalysis of SPEED
+The cipher family SPEED (and an associated hashing mode) was recently proposed in Financial Cryptography '97. This paper cryptanalyzes that proposal, in two parts: First, we discuss several troubling potential weaknesses in the cipher. Next, we show how to efficiently break the SPEED hashing mode using differential related-key techniques, and propose a differential attack on 48-round SPEED. These results raise some significant questions about the security of the SPEED design.

@@ -1,0 +1,2 @@
+Chapter 18 DEPENDENCY-BASED EVALUATION OF MINIPAR
+In this paper, we first present a dependency-based method for parser evaluation. We then use the method to evaluate a broad-coverage parser, called MINIPAR, with the SUSANNE corpus. The method allows us to evaluate not only the overall performance of the parser, but also its performance with respect to different grammatical relationships and phenomena. The evaluation results show that MINIPAR is able to cover about 79% of the dependency relationships in the SUSANNE corpus with about 89% precision.

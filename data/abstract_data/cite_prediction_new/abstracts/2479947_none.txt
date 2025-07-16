@@ -1,0 +1,2 @@
+Modeling of a multi-core processor thermal dynamics for development of Dynamic Thermal Management controllers
+This paper demonstrates a process by which multi-core processor thermal dynamics are modeled using a combination of commercially available high fidelity numerical simulators and system identification techniques. The process produces reduced order models suitable for Dynamic Thermal Management (DTM) controller designs. An example microprocessor package is provided to illustrate the technique. A simple DTM controller is developed and applied to the modeled system.

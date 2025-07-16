@@ -1,0 +1,2 @@
+A Resource Distribution Scheme with Incentive Mechanism in P2P
+Proposes a resource distribution scheme with incentive called RDS-I.The RDS-I distributes the requested resource to the user based on the contribution amount which the users have provided to the P2P network.The common resource distribution is based on the service amount provided by each user.So,this mechanism encourages the user to provide more service and information to the P2P network.Compares the RDS-I with the others.The performance analysis validates the rationality and advantage of the RDS-I.

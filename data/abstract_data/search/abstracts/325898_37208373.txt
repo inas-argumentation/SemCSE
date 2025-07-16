@@ -1,0 +1,2 @@
+Kerr induced nonlinearity reduction in coherent optical OFDM by low complexity support vector machine regression based equalization
+We experimentally demonstrate 7 dB reduction of nonlinearity penalty in 40 Gb/s CO OFDM at 2000 km using support vector machine regression based equalization. Simulation in WDM CO OFDM shows up to 12 dB enhancement in Q factor compared to linear equalization.

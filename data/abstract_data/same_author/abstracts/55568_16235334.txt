@@ -1,0 +1,2 @@
+Illumination-Invariant Motion Detection Using Colour Mixture Models
+This paper tackles the problem of robust change detection in image sequences from static cameras. Motion cues are detected using frame differencing with an adaptive background estimation modelled by a mixture of Gaussians. Illumination invariance and elimination or detection of shadows is achieved by using a colour chromaticity representation of the image data. The combination of the colourand intensity-based models results in some promising applications.

@@ -1,0 +1,2 @@
+Proposal of All-Optical Label Recognition Using Self-Routing Circuits
+We propose a new label recognition system for photonic packet switching using self-routing of labels by demultiplexers and all-optical switches. The demultiplexers also employ all-optical switches which are controlled by control bit of the label.

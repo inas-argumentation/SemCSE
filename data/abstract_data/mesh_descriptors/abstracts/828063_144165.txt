@@ -1,0 +1,2 @@
+The Evolution and Recognition of Protein Sequence Repeats
+Many proteins sequences contain motifs which display similarity. The similarities between the repeats are a result of gene duplication and/or gene fusion. The evolutionary role of repeats within protein sequences is considered and some repeat examples are given ranging from tandem repeats to multiple types of repeats which are sequentially interspersed. Existing computer methods to delineate repeats in individual protein sequences are discussed and a novel sensitive repeat recognition method is introduced.

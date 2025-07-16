@@ -1,0 +1,4 @@
+NLO QCD corrections to Drell-Yan processes in the SANC framework
+AbstractNLO QCD corrections to charged and neutral current Drell-Yan processes are computed with help of the computer system SANC. At the partonic level both quark-antiquark and quark-gluon scattering channels are taken into account. Subtraction of collinear singularities in the massive quark scheme is compared with the one in the $$
+\overline {MS} 
+$$ scheme. Numerical results at the hadronic level are received for the LHC conditions with help of Monte-Carlo integrators and event generator programs based on the standard SANC modules. Comparison with analogous results of the MCFM package is shown.

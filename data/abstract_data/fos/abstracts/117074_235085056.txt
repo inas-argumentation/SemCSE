@@ -1,0 +1,22 @@
+A method for random uncertainties validation and probing the natural variability with application to TROPOMI on board Sentinel-5P total ozone measurements
+Abstract. In this paper, we discuss the method for validation of random uncertainties
+in the remote sensing measurements based on evaluation of the structure
+function, i.e., root-mean-square differences as a function of increasing
+spatiotemporal separation of the measurements. The limit at the zero
+mismatch provides the experimental estimate of random noise in the data. At
+the same time, this method allows probing of the natural variability of the
+measured parameter. As an illustration, we applied this method to the
+clear-sky total ozone measurements by the TROPOspheric Monitoring Instrument
+(TROPOMI) on board the Sentinel-5P satellite. We found that the random uncertainties reported by the TROPOMI inversion
+algorithm, which are in the range 1–2 DU, agree well with the experimental
+uncertainty estimates by the structure function. Our analysis of the structure function has shown the expected results on
+total ozone variability: it is significantly smaller in the tropics compared
+to mid-latitudes. At mid-latitudes, ozone variability is much larger in
+winter than in summer. The ozone structure function is anisotropic (being
+larger in the latitudinal direction) at horizontal scales larger than
+10–20 km.
+The structure function rapidly grows with the separation distance. At
+mid-latitudes in winter, the ozone values can differ by 5 % at
+separations 300–500 km. The method discussed is a powerful tool in experimental estimates of the
+random noise in data and studies of natural variability, and it can be used
+in various applications.

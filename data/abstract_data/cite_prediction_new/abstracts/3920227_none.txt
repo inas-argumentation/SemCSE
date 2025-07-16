@@ -1,0 +1,2 @@
+Applying Model Management to Classical Meta Data Problems
+Model management is a new approach to meta data management that offers a higher level programming interface than current techniques. The main abstractions are models (e.g., schemas, interface definitions) and mappings between models. It treats these

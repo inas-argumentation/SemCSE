@@ -1,0 +1,2 @@
+Variational full waveform inversion
+Seismic full waveform inversion (FWI) can produce high resolution images of the Earth's subsurface. Since full waveform modelling is significantly nonlinear with respect to velocities, Monte Carlo

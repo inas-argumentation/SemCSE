@@ -1,0 +1,2 @@
+A Network-Flow Model for Racially Balancing Schools
+This paper is concerned with developing a procedure for assigning students to public schools optimally, given that a specified racial balance must be attained in each school. The criterion for optimality is to minimize the total number of miles traveled. The problem is formulated as a minimum-cost flow problem in a single-commodity network. A summary of the results achieved by the model for the Gainesville, Florida, school system is discussed.

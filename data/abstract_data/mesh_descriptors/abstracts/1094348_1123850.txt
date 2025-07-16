@@ -1,0 +1,15 @@
+Computer-aided diagnosis in full digital mammography.
+RATIONALE AND OBJECTIVES
+The authors clarify the detection rates for breast cancerous tumors and clustered microcalcifications with computer-aided diagnosis (CAD) based on Fuji Computed Radiography. The authors also determine whether mammographic reading with CAD contributes to the discovery of breast cancer.
+
+
+METHODS
+Data acquired by Fuji Computed Radiography 9000, which consisted of 4148 digital mammograms including 267 cases of breast cancer, was transferred directly to an analysis workstation where an original software program determined extraction rates for breast tumors and clustered microcalcifications. Furthermore, using another 344 mammograms from 86 women, observer performance studies were conducted on five doctors for receiver operating characteristic (ROC) analysis.
+
+
+RESULTS
+Sensitivity to breast cancerous tumors and clustered microcalcifications were 89.9% and 92.8%, respectively false-positive rates were 1.35 and 0.40 per image, respectively. The observer performance studies indicate that an average Az value for the five doctors was greater with the CAD system than with a film-only reading without CAD, and that a reading with CAD was significantly superior at P < 0.022.
+
+
+CONCLUSIONS
+It has been shown that CAD based on Fuji Computed Radiography offers good detection rates for both breast cancerous tumors and clustered microcalcifications, and that the reading of mammograms with this CAD system would provide potential improvement in diagnostic accuracy for breast cancer.

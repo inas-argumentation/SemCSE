@@ -1,0 +1,2 @@
+REAL-TIME ONSET DETECTION WITH RECURRENT NEURAL NETWORKS
+We present a new onset detection algorithm which operates online in real time without delay. Our method incorporates a recurrent neural network to model the sequence of onsets based solely on causal audio signal information. Comparative performance against existing state-of-the-art online and offline algorithms was evaluated using a very large database. The new method – despite being an online algorithm – shows performance only slightly short of the best existing offline methods while outperforming standard approaches.

@@ -1,0 +1,2 @@
+Design and Implementation of a Portable Remote Debugger for Parallel Programs Based on Multi-platform
+This paper introduces the design and implementation of a remote debugger for parallel programs based on multi-platform. It has been implemented the portability of platform and module, supporting remote debugging Unix/Linux platform's PVM or MPI parallel programs on Windows platform. Compared with the related work, it reduces the complication of developing parallel programs, and improves the efficiency of using cluster system. It has highly practical value.

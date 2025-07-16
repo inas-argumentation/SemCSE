@@ -1,0 +1,2 @@
+Architectural Mismatch: Why Reuse Is Still So Hard
+In this article, David Garlan, Robert Allen, and John Ockerbloom reflect on the state of architectural mismatch, a term they coined in their 1995 IEEE Software article, "Architectural Mismatch: Why Reuse Is So Hard." Although the nature of software systems has changed dramatically since the earlier article was published, the challenge of architectural mismatch remains an important concern for the software engineering field.

@@ -1,0 +1,2 @@
+Analysis of Space-time Block Coding (STBC) Performance in MIMO System
+This paper analyzes channel model in MIMO system and diversity technology,and discussed in detail the space-time block coding(STBC) based on transmission diversity.To the STBC's encoding,decoding and the transmission performance have detailed research;and simulated it performance on the Rayleigh fading channel.

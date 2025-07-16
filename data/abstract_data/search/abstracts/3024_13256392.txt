@@ -1,0 +1,2 @@
+The Internet Key Exchange (IKE)
+ISAKMP [MSST98] provides a framework for authentication and key exchange but does not define them. ISAKMP is designed to be key exchange independant; that is, it is designed to support many different key exchanges.

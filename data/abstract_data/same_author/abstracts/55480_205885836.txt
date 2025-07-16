@@ -1,0 +1,2 @@
+On Predecessors of Finite Languages
+We continue the study of finite grammatical families by characterizing when a family has a predecessor. This characterization implies that (i) the existence of predecessors for finite families is decidable and (ii) the collection of context-free grammatical families, each family of which contains all regular languages, is not maximal dense.

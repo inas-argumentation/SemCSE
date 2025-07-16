@@ -1,0 +1,4 @@
+Streaming Algorithms for Data in Motion
+We propose two new data stream models: the reset model and the delta model, motivated by applications to databases, and to tracking the location of spatial points. 
+ 
+We present algorithms for several problems that fit within the stream constraint of polylogarithmic space and time. These include tracking the "extent" of the points and Lp sampling.

@@ -1,0 +1,2 @@
+Fast Hydraulic and Thermal Erosion on the GPU Balázs Jákó
+Computer games, TV series, movies, simulators, and many other computer graphics applications use external scenes where a realistic looking terrain is a vital part of the viewing experience. Creating such terrains is a challenging task. In this paper we propose a method that generates realistic virtual terrains by simulation of hydraulic and thermal erosion on a predefined height field terrain. The model is designed to be executed interactively on parallel architectures like graphics processors.

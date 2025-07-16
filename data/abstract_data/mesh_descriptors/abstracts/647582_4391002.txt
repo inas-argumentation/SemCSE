@@ -1,0 +1,15 @@
+Differentiation between malignant and benign breast masses: combination of semi-quantitative analysis on DCE-MRI and histogram analysis of ADC maps.
+AIM
+To investigate the performance of combined semi-quantitative analysis on dynamic contrast enhanced (DCE) magnetic resonance imaging (MRI) and histogram analysis of diffusion-weighted imaging (DWI) for distinguishing malignant from benign breast masses.
+
+
+MATERIALS AND METHODS
+This study included 178 patients with breast masses (benign:malignant=88:9) who underwent both DCE-MRI and DWI. The semi-quantitative parameters, derived from DCE-MRI, included maximum slope of increase (MSI), signal intensity slope (SIslope), initial percentage of enhancement (Einitial), percentage of peak enhancement (Epeak), early signal enhancement ratio (ESER), and second enhancement percentage (SEP). Histogram parameters derived from apparent diffusion coefficient (ADC) maps included ADCmin, ADCmax, ADCmean, ADC10, ADC25, ADC50, ADC75, ADC90, skewness, and kurtosis. All parameters were compared between malignant and benign groups, and their differences were tested using independent-samples t-test or Mann-Whitney test. Receiver operating characteristic (ROC) curves were used to determine the diagnostic value of each significant parameter.
+
+
+RESULTS
+Among semi-quantitative parameters, SIslope exhibited the best diagnostic performance in predicting malignancy (cut-off value, 0.096; ROC, 0.756; sensitivity, 86.7%; specificity, 61.4%). Among histogram parameters, ADC10 exhibited the best diagnostic performance in predicting malignancy (cut-off value, 1.051; ROC, 0.885; sensitivity, 86.7%; specificity, 84.1%). The optimal diagnostic performance of combined ADC10 and SIslope (area under curve [AUC], 0.888; sensitivity, 82.2%; specificity, 95.5%) was significantly better than SIslope alone (p<0.001). Moreover, the combination showed higher AUC (0.888 versus 0.885) than ADC10 alone, but the difference was not statistically significant (p=0.914).
+
+
+CONCLUSION
+SIslope and ADC10 are significant predictors for breast malignancy. The combination of DCE-MRI and DWI improves differentiating performance.

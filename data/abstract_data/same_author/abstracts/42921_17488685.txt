@@ -1,0 +1,2 @@
+Large deviations and the generalized processor sharing scheduling for a two-queue system
+We establish the optimal asymptotic decay rate of per-session queue length tail distributions for a two-queue system where a single constant rate server serves the two queues using the Generalized Processor Sharing (GPS) scheduling discipline. The result is obtained using the sample-path large deviation principle and has implications in call admission control for high-speed communication networks.

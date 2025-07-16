@@ -1,0 +1,2 @@
+The SPEED Cipher
+SPEED is a private key block cipher. It supports three variable parameters: (1) data length — the length of a plaintext/ciphertext of SPEED can be 64, 128 or 256 bits. (2) key length — the length of an encryption/decryption key of SPEED can be any integer between 48 and 256 (inclusive) and divisible by 16. (3) rounds — the number of rounds involved in encryption/decryption can be any integer divisible by 4 but not smaller than 32.

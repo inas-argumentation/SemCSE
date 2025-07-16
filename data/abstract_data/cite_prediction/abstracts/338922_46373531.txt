@@ -1,0 +1,2 @@
+Reducing Duplicate Filters in Deep Neural Networks
+This paper investigates the presence of duplicate neurons or filters in neural networks. This phenomenon is prevalent in networks and increases with the number of filters in a layer. We observe the emergence of duplicate filters over training iterations, study the factors that affect their concentration and compare existing network reducing operations. We validate our findings using convolutional and fully-connected networks on the CIFAR-10 dataset.

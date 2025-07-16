@@ -1,0 +1,2 @@
+Numerical Experiences with Partitioning of Unstructured Meshes
+The problem of partitioning unstructured meshes for parallel computing is considered. Four existing algorithms as well as a new hybrid algorithm are tested. The numerical results favour the recursive spectral bisection algorithm and the hybrid algorithm. A generalisation of the recursive spectral bisection algorithm to deal with an arbitrary number of processors is discussed.

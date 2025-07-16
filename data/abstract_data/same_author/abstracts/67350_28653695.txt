@@ -1,0 +1,2 @@
+Degree of mapping for nonlinear mappings of monotone type.
+A classical degree function is constructed for pseudomonotone mappings from a reflexive Banach space to its dual, using Galerkin approximations. This generalizes the Leray-Schauder degree when the Banach space is a Hilbert space and yields a flexible analytical tool for the study of nonlinear elliptic problems of higher order in divergence form.

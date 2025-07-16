@@ -1,0 +1,2 @@
+Conditional Plausibility Measures and Bayesian Networks
+A general notion of algebraic conditional plausibility measures is defined. Probability measures, ranking functions, possibility measures, and (under the appropriate definitions) sets of probability measures can all be viewed as defining algebraic conditional plausibility measures. It is shown that the technology of Bayesian networks can be applied to algebraic conditional plausibility measures.

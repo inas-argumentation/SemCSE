@@ -1,0 +1,2 @@
+3-D Deformable Registration of Medical Images Using a Statistical Atlas
+Registration between 3-D images of human anatomies enables cross-subject diagnosis. However, innate differences in the appearance and location of anatomical structures between individuals make accurate registration difficult. We characterize such anatomical variations to achieve accurate registration.

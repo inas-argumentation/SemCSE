@@ -1,0 +1,2 @@
+Langevin simulation of the nonlocal Ginzburg–Landau model for superconductors in a magnetic field
+We investigate the vortex state for the unconventional superconductors by numerical simulation of the phenomenological nonlocal Ginzburg-Landau Hamiltonian using Langevin equation. We obtain rhomboid vortex lattice structure which is very near to the square lattice in the low temperatures. We evaluate the specific heat and obtain a cusp which indicates the melting of the vortex lattice.

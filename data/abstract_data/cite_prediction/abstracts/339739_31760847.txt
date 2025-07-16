@@ -1,0 +1,2 @@
+Analysis and Review of Encryption and Decryption for Secure Communication
+The Process of Encryption and Decryption is performed by using Symmetric key cryptography and public key cryptography for Secure Communication. In this paper, we studied that how the process of Encryption and Decryption is perform in case of Symmetric key and public key cryptography using AES and DES algorithms and modified RSA algorithm.

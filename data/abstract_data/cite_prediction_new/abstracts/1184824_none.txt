@@ -1,0 +1,2 @@
+Linear convex stochastic control problems over an infinite horizon
+A stochastic control problem over an infinite horizon which involves a linear system and a convex cost functional is analyzed. We prove the convergence of the dynamic programming algorithm associated with the problem, and we show the existence of a stationary Borel measurable optimal control law. The approach used illustrates how results on infinite time reachability [1] can be used for the analysis of dynamic programming algorithms over an infinite horizon subject to state constraints.

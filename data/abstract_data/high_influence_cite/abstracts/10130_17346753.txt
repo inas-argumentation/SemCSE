@@ -1,0 +1,2 @@
+Robust and simultaneous reconstruction of actuator and sensor faults via sliding mode observer
+This paper proposes a method for robust and simultaneous actuator and sensor faults reconstruction of linear uncertain system based on sliding mode observer (SMO). In comparison with existing work, the observer contains two discontinuous terms to solve the problem of simultaneous faults. The idea is to introduce an appropriate filter on the systems output to transform the sensor faults in the fictitious actuator faults and hence the proposed SMO can be applied.

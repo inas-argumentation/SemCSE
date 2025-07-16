@@ -1,0 +1,2 @@
+Implicit Three-Dimensional Finite Differencing of Maxwell's Equations
+An alternating implicit differencing scheme (AIDS) is described for advancing the time-domain form of Maxwell's curl equations. This scheme is a perturbation of the Crank-Nicolson method, and thus should have no stability limitation on ¿t. Test problems have been run with ¿t incremented by factors of 10 up to 106 × the Courant-limit. In no case was any instability observed, although most runs yielded erroneous solutions if ¿t was more than 103 × the Courant limit.

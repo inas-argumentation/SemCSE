@@ -1,0 +1,2 @@
+Square Meshes are not Optimal for Convex Hull Computation
+Recently it has been noticed that for semigroup computations and for selection, rectangular meshes with multiple broadcasting yield faster algorithms than their square counterparts. The contribution of this paper is to provide yet another example of a fundamental problem for which this phenomenon occurs.

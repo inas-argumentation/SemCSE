@@ -1,0 +1,2 @@
+Clear evidence of redundant operators in Monte Carlo studies of the Ising model.
+After reviewing the notion of redundant operators and the procedure for deriving them analytically for Ising systems, we present Monte Carlo renormalization-group data that clearly show their occurrence as eigenoperators in d = 2.

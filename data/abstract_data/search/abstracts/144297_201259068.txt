@@ -1,0 +1,2 @@
+Finite time blow up for a nonlocal in time nonlinear heat equation in an exterior domain
+Abstract We consider the nonlocal in time nonlinear heat equation t u D u 1 G 1 g 0 t t s g u s p d s w x t x 0 x D c with Dirichlet boundary conditions u t x f t x 0 t x 0 x D where D is the unit open ball in R N N 2 D c is its complement, p 1 0 g 1 and w 0 We show that if u 0 0 and D c H x w x d x 0 where H is a certain harmonic function on D c then for all p 1 we have no global solutions.

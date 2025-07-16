@@ -1,0 +1,2 @@
+Forward smoothing and online expectation maximisation in Gaussian linear state space models
+In this work, we studied forward only smoothing recursion in Gaussian linear state space (GLSS) models. We exploited a stochastic approximation of this recursion to develop an online version of the expectation maximisation (EM) algorithm for GLSS models. We compared the performance of online EM with the conventional EM and demonstrated the advantages of its use in case of long data sequences.

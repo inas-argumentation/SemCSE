@@ -1,0 +1,2 @@
+Continual Learning through Evolvable Neural Turing Machines
+Continual learning, i.e. the ability to sequentially learn tasks without catastrophic forgetting of previously learned ones, is an important open challenge in machine learning. In this paper we take a step in this direction by showing that the recently proposed Evolving Neural Turing Machine (ENTM) approach is able to perform one shot learning in a reinforcement learning task without catastrophic forgetting of previously stored associations.

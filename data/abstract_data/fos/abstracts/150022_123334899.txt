@@ -1,0 +1,2 @@
+Applications of parallel processors to some hard discrete problems
+A part of investigation of problems in discrete mathematics involves using the computer. Such problems may or may not be exponential in complexity. This paper investigates the effect of complexity in such investigations and points out that such investigations are in essence an experimental science.

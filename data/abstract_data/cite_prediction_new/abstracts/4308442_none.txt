@@ -1,0 +1,2 @@
+Why do the [PhSiO(1.5)](8,10,12) cages self-brominate primarily in the ortho position? Modeling reveals a strong cage influence on the mechanism.
+(PhSiO1.5)8,10,12 cages are bulky, electron withdrawing like CF3; yet self-brominate (60 °C), favoring ortho substitution: PhT8 (≈85%), PhT10 (≈75%) and PhT12 (60%). First-principles calculations suggest bromination initiates when Br2 is "trapped" via H-bonding to ortho-H's, followed by polarization via strong interactions with cage faces, possibly cage LUMOs.

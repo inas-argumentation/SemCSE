@@ -1,0 +1,2 @@
+XCHOKe: malicious source control for congestion avoidance at Internet gateways
+The paper describes an algorithm to control flows from nonadaptive sources in the Internet in a simple and lightweight fashion. The algorithm, called XCHOKe, is an extension to CHOKe and RED. The paper presents experimental results from simulations that demonstrate that the algorithm outperforms current well-known algorithms for buffer management in providing better protection for TCP flows under varying degrees of attack from non-adaptive flows.

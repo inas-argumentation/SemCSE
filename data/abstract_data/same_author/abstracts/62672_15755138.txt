@@ -1,0 +1,2 @@
+Classification Trees for Random Tests and Functional Coverage
+This article presents the classification tree method for functional verification to close the gap from the specification of a test plan to SystemVerilog (Chandra and Chakrabarty, 2001) test bench generation. Our method supports the systematic development of test configurations and is based on the classification tree method for embedded systems (CTM/ES) (Chakrabarty et al., 2000) extending CTM/ES for random test generation as well as for functional coverage and property specification

@@ -1,0 +1,2 @@
+Computation of the Excitability Index for Linear Oscillators
+The problem of numerical evaluation of the excitability index for oscillatory systems is considered. It is shown that the speed-gradient excitation provides exact solution to the maximum energy problem for a second order linear oscillator over the infinite time interval. Upper and lower bounds for the total energy of the system in the steady-state oscillation mode and the excitability index are estimated. Exact value of the accessible system energy for the harmonic excitation case is found.

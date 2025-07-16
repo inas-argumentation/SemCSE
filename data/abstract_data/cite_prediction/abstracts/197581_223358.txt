@@ -1,0 +1,2 @@
+Reinforcement learning for the unit commitment problem
+In this work we solve the day-ahead unit commitment (UC) problem, by formulating it as a Markov decision process (MDP) and finding a low-cost policy for generation scheduling. We present two reinforcement learning algorithms, and devise a third one. We compare our results to previous work that uses simulated annealing (SA), and show a 27% improvement in operation costs, with running time of 2.5 minutes (compared to 2.5 hours of existing state-of-the-art).

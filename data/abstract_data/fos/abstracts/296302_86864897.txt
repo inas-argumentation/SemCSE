@@ -1,0 +1,2 @@
+Radiation interaction between two solid half-spaces
+A solution to the radiation interaction problem between two solid halfspaces is obtained. A Green's function method reduces the problem to the solution of two nonlinear integral equations for the surface temperatures which are solved by utilizing analytical and numerical techniques.

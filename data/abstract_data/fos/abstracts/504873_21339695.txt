@@ -1,0 +1,2 @@
+Tools for Man Machine Communication in the PETRA Control System
+A standardized control console for man machine communication in computerized processes has been developed. Four identical setups of this type are used for the control and operation of PETRA. A description of the selected interactive communication devices and the electrical and mechanical design objectives are given. Details of the PADAC interface standard and the graphic color video system designed for the PETRA controls are described.

@@ -1,0 +1,2 @@
+Demonstration of an O/E/O receiverless link in an integrated multi-channel laser neuron
+We present an integrated, multi-channel laser processor. It utilizes a novel photodetector-to-laser O/E/O receiverless link to receive multiple wavelength inputs. To our knowledge, this is the first laser neuron compatible with a wavelength-based networking scheme.

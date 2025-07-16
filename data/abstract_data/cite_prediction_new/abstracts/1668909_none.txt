@@ -1,0 +1,2 @@
+Automatic interpolation by fair, shape-preserving, G2 space curves
+A new approach to generating a non-planar shape-preserving interpolating curve is presented. The resulting curve is a piecewise rational cubic that is G 2 continuous. It is obtained through an optimisation process involving some “fairness criteria”, in order to achieve a visually pleasing curve.

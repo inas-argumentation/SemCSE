@@ -1,0 +1,2 @@
+Unsupervised representation learning of structured radio communication signals
+We explore unsupervised representation learning of radio communication signals in raw sampled time series representation. We demonstrate that we can learn modulation basis functions using convolutional autoencoders and visually recognize their relationship to the analytic bases used in digital communications. We also propose and evaluate quantitative metrics for quality of encoding using domain relevant performance metrics.

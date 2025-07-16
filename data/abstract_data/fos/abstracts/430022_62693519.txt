@@ -1,0 +1,2 @@
+Quadrilateral-star transformation—II. Algorithmic aspects
+The evaluation of system probability of failure based on transformation approach basically needs the knowledge of two equally important aspects, viz. (i) transformation equations and (ii) systematic methodology for network reduction using transformations. The present paper discusses various features of the second aspects such as transformation selection criteria, subnetwork configurations and their identification scheme, network reduction process, algorithm etc.

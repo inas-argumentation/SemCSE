@@ -1,0 +1,2 @@
+Analysis of Unintentional Insider Threats Deriving from Social Engineering Exploits
+Organizations often suffer harm from individuals who bear no malice against them but whose actions unintentionally expose the organizations to risk-the unintentional insider threat (UIT). In this paper we examine UIT cases that derive from social engineering exploits. We report on our efforts to collect and analyze data from UIT social engineering incidents to identify possible behavioral and technical patterns and to inform future research and development of UIT mitigation strategies.

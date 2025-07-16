@@ -1,0 +1,2 @@
+Spatial texture analysis: a comparative study
+In this paper we compare some of the traditional, and some fairly new, techniques of texture analysis on the MeasTex and VisTex benchmarks to illustrate their relative abilities. The methods considered include autocorrelation (ACF), co-occurrence matrices (CM), edge frequency (EF), Law's masks (LM), run length (RL), binary stack method (BSM), texture operators (TO), and texture spectrum (TS). In addition, we illustrate the advantage of using feature selection on a combined set that improves the overall recognition performance.

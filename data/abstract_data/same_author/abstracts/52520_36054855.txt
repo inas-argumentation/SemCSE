@@ -1,0 +1,2 @@
+MQML-Message Queuing Markup Language
+Message Queuing allows applications to use components that communicate with one another using queued messages. In this paper, we propose a Message Queuing Markup Language (MQML), which is an XML based markup language designed to describe e-business applications and enterprise integration. The MQML language is extensible. The detailed description of the MQML is presented in this paper. An research prototype is given to validate the effectiveness and value of our proposed MQML for enterprise integration.

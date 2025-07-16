@@ -1,0 +1,2 @@
+Detectors and correctors: a theory of fault-tolerance components
+Two primitive components, namely detectors and correctors, provide a basis for achieving the different types of fault tolerance properties required in computing systems. We develop the theory of these primitive tolerance components, characterizing precisely their role in achieving the different types of fault tolerance. Also, we illustrate how they can be used to formulate extant design methods and argue that they sometimes offer the potential for better designs than those obtained from extant methods.

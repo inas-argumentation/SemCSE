@@ -1,0 +1,6 @@
+Boundedness of total cross-sections in potential scattering. II
+AbstractIf, in addition to the condition
+$$\frac{1}{{(4\pi )^2 }}\int {d^3 xd^3 x'} \frac{{|V(x)||V(x')|}}{{|x - x'|^2 }}< 1$$
+ in units where 2M/ħ2 = 1, which guarantees that the total cross-section averaged over incident directions is finite, we have also
+$$\frac{1}{{(4\pi )}}\int {d^3 xd^3 x'} \frac{{|V(x)||V(x')|}}{{|x - x'|}}$$
+ finite, the total cross-section is finite for all energies and all directions of the incident beam.

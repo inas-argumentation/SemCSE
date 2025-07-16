@@ -1,0 +1,2 @@
+Relating STDP to BCM
+We demonstrate that the BCM learning rule follows directly from STDP when pre- and postsynaptic neurons fire uncorrelated or weakly correlated Poisson spike trains, and only nearest-neighbor spike interactions are taken into account.

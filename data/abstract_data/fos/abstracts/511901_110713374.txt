@@ -1,0 +1,2 @@
+Analysis of latch-up neighborhood effects in VLSI CMOS input and output stages
+The influence of electron and hole injection from neighboring structures on the latch-up hardness of an inverter in non-epitaxial CMOS is measured on specially designed test structures and compared with the results of two-dimensional numerical simulation provided by the program BAMBI. An analysis of the basic effects is given and remedial measures to avoid neighborhood effects are described.

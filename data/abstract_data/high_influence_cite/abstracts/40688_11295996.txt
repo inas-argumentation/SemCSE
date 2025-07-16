@@ -1,0 +1,2 @@
+Relations Between Two Common Types of Rectangular Tilings
+Partitioning a multi-dimensional data set (array) into rectangular regions subject to some constraints (error measures) is an important problem arising from applications in parallel computing, databases, VLSI design, and so on. In this paper, we consider two most common types of partitioning used in practice: the Arbitrary partitioning and (p×p) partitioning, and study their relationships under three widely used error metrics: Max-Sum, Sum-SVar and Sum-SLift.

@@ -1,0 +1,15 @@
+Ionizing radiation regulates the expression of AMP-activated protein kinase (AMPK) in epithelial cancer cells: modulation of cellular signals regulating cell cycle and survival.
+PURPOSE
+To analyze the (i) expression of AMPK in a variety of epithelial cancer cells, (ii) regulation of AMPK subunit expression by ionizing radiation (IR) and (iii) impact of AMPK on signaling pathways regulating cell cycle and survival.
+
+
+METHODS AND MATERIALS
+Human lung, prostate, and breast normal and cancer cells were treated with 0 or 8 Gy IR and mRNA and protein levels of AMPK were evaluated by RT-PCR and immunoblotting 24 or 48 h later. Untreated and radiated wild type (WT) and AMPKα(-/-) mouse embryonic fibroblasts (MEFs) were analyzed by immunoblotting using total- and phosphorylation-specific antibodies. Histone H2Ax was examined by fluorescence microscopy. The cell cycle and survival of WT and AMPKα(-/-) MEFs was also evaluated following 8 Gy by IR.
+
+
+RESULTS
+AMPK subunits were found widely expressed in normal and cancer epithelial cells. IR increased subunit protein levels and stimulated gene transcription in cancer cells. AMPKα(-/-)-MEFs showed enhanced basal total levels of ATM and phosphorylation of its substrates histone H2Ax, but inhibited response of these markers and of checkpoint kinase Chk2 phosphorylation to IR. AMPKα(-/-)-MEFs showed increased basal levels of p53 and cyclin-dependent kinase inhibitors p21(cip1), but lack of response of both genes to IR. These cells had increased basal levels and activation of the Akt-mTOR-p70(S6K)/4-EBP1 signalling pathway. IR increased Akt, p70(S6K) and 4-EBP1 phosphorylation in WT-MEFs, but this was reduced in AMPKα(-/-)-MEFs. AMPKα(-/-)-MEFs failed to arrest at the G2-M checkpoint after IR and showed a trend for radio-resistance in proliferation assays.
+
+
+CONCLUSIONS
+AMPK is widely expressed in human normal and cancer epithelial cells and its gene transcription, protein levels, and enzymatic activity is stimulated by IR. Work with AMPKα knockout cells suggests that AMPK (i) may mediate a suppressive regulation on basal expression and activity of ATM and its downstream effector pathways Chk2/p53-p21(cip1) and Akt-mTOR, (ii) facilitates the normal response of these pathways to IR and, (iii) mediates the IR-induced G2-M checkpoint.

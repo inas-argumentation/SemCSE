@@ -1,0 +1,2 @@
+Computation of Trailing Edge Noise with a Discontinuous Galerkin Method
+Trailing edge noise of a semi-infinite, thin, flat plate situated in low Mach number flow is computed in two spatial dimensions. The Acoustic Perturbation Equations (APE), which are employed as governing equations, are discretized via a Discontinuous Galerkin Method (DGM). Results are compared with theory and Finite Difference (FD) computations. Next to the radiated sound field, special attention is paid to the conditions very close to the trailing edge (TE).

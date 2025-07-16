@@ -1,0 +1,2 @@
+Comparative Analysis of Different SPWM Techniques for Modular Multilevel Inverter
+In this paper, the comparison is shown between three different techniques of sinusoidal pulse width modulation i.e. phase disposition PWM, phase opposition PWM and alternate phase opposition disposition PWM used for modular multilevel inverter. The simulation of single phase three, five and seven level modular multilevel inverter has been carried out in MATLAB/Simulink and output waveforms of the same are included along with its FFT analysis.

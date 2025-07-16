@@ -1,0 +1,2 @@
+Precoded V-BLAST for ISI MIMO channels
+The V-BLAST (vertical Bell labs layered space-time) system is one of the MIMO systems designed to achieve a good multiplexing gain. In the recent literature, a V-BLAST precoder has been added in the transmitter which exploits channel information. This precoder forces each symbol stream to have identical MSE (mean square error). It can be viewed as an alternative to the bitloading method. In this paper, this precoded V-BLAST is extended to the case of ISI MIMO channels. Both the FIR and OFDM types of transceivers are derived

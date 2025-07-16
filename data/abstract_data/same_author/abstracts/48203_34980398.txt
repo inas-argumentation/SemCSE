@@ -1,0 +1,2 @@
+Efficient Checkers for Number-Theoretic Computations
+Blum has recently proposed a new approach to the problem of program correctness, the program checker. Here, efficient program checkers are presented for two important number theory problems, integer GCD and modular exponentiation. The former result answers an open problem posed by Blum. The latter result paves the way for more robust cryptographic programs, as modular exponentiation is the basis for several cryptosystems. Taken together, these results lay the foundation for more reliable number-theoretic programs.

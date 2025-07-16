@@ -1,0 +1,2 @@
+A concise necessary and sufficient condition for the existence of a galled-tree
+Galled-trees are a special class of graphical representation of evolutionary history that has proven amenable to efficient, polynomial-time algorithms. The goal of this paper is to construct a concise necessary and sufficient condition for the existence of a galled-tree for M, a set of binary sequences that purportedly have evolved in the presence of recombination. Both root-known and root-unknown cases are considered here

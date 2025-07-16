@@ -1,0 +1,6 @@
+Coresets for Kernel Clustering
+We devise the first coreset for kernel $k$-Means, and use it to obtain new, more efficient, algorithms. Kernel $k$-Means has superior clustering capability compared to classical $k$-Means particularly when clusters are separable non-linearly, but it also introduces significant computational challenges. We address this computational issue by constructing a coreset, which is a reduced dataset that accurately preserves the clustering costs.
+
+Our main result is the first coreset for kernel $k$-Means, whose size is independent of the number of input points $n$, and moreover is constructed in time near-linear in $n$. This result immediately implies new algorithms for kernel $k$-Means, such as a $(1+\epsilon)$-approximation in time near-linear in $n$, and a streaming algorithm using space and update time $\mathrm{poly}(k \epsilon^{-1} \log n)$. 
+
+We validate our coreset on various datasets with different kernels. Our coreset performs consistently well, achieving small errors while using very few points. We show that our coresets can speed up kernel $k$-Means++ (the kernelized version of the widely used $k$-Means++ algorithm), and we further use this faster kernel $k$-Means++ for spectral clustering. In both applications, we achieve up to 1000x speedup while the error is comparable to baselines that do not use coresets.

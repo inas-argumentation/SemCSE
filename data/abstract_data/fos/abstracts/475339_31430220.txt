@@ -1,0 +1,2 @@
+Two-dimensional AR spectral estimation using a two-dimensional minimum free energy method
+We present a 2-D extension of the minimum free energy (MFE) autoregressive parameter and spectral estimation technique. MFE can outperform the multidimensional Levinson algorithm producing superior spectral estimation of 2-D sinusoids in white Gaussian noise. MFE spectral estimates are found to be comparable to modified covariance method estimates. MFE also outperforms the conventional Fourier method for closely spaced sinusoids at low signal-to-noise ratio and low data set size.

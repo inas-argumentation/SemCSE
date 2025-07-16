@@ -1,0 +1,2 @@
+Program Derivation in Type Theory: A Partitioning Problem
+Martin-Lof's type theory is a theory in which one can write both specifications and programs. By interpreting propositions as types, predicate logic is available when formulating a specification. The rules of type theory are formulated as tactics which makes a “top down” construction of programs possible. These ideas are illustrated by a formal derivation of a program for a partitioning problem.

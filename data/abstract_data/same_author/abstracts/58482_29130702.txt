@@ -1,0 +1,2 @@
+Some degree bounds for the circumference of graphs
+Let C be a longest cycle in a connected graph G and L(G) the length of the longest path in G. Suppose L(G-V(C))>=k-1, where [email protected]?{3,4,5}. It is known that c(G)=|C|>=(k+1)@d-(k-1)(k+1) if G is (k+1)-connected, and n=|V(G)|>=(k+1)@d-k(k-1) if G is k-connected. In this paper the exceptional classes for these estimates, when the connectivity is reduced by one, are essentially determined.

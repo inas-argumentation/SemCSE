@@ -1,0 +1,2 @@
+Young's Natural Representations of $\mathcal{S}_4$
+We calculate all inequivalent irreducible representations of $\S_4$ by specifying the matrices for adjacent transpositions and indicating how to obtain general permutations in $\S_4$ from these transpositions. We employ standard Young tableaux methods as found in Sagan's \emph{The Symmetric Group: Representations, Combinatorial Algorithms, and Symmetric Functions} (2001).

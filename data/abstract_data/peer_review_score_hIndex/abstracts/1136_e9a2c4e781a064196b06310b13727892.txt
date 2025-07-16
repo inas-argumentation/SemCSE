@@ -1,0 +1,8 @@
+Evaluation of Defensive Methods for DNNs against Multiple Adversarial Evasion Models
+Due to deep cascades of nonlinear units, deep neural networks (DNNs) can automatically learn non-local generalization priors from data and have achieved high performance in various applications.
+However, such properties have also opened a door for adversaries to generate the so-called adversarial examples to fool DNNs. Specifically, adversaries can inject small perturbations to the input data and therefore decrease the performance of deep neural networks significantly.
+Even worse, these adversarial examples have the transferability to attack a black-box model based on finite queries without knowledge of the target model. 
+Therefore, we aim to empirically compare different defensive strategies against various adversary models and analyze the cross-model efficiency for these robust learners. We conclude that the adversarial retraining framework also has the transferability, which can defend adversarial examples without requiring prior knowledge of the adversary models.
+We compare the general adversarial retraining framework with the state-of-the-art robust deep neural networks, such as distillation, autoencoder stacked with classifier (AEC), and our improved version, IAEC, to evaluate their robustness as well as the vulnerability in terms of the distortion required to mislead the learner.
+Our experimental results show that the adversarial retraining framework can defend most of the adversarial examples notably and consistently without adding additional
+vulnerabilities or performance penalty to the original model.

@@ -1,0 +1,2 @@
+Estimates of parameters in a probability model for first livebirth interval.
+This article is concerned with the problem of estimating the risk of conception, the risk of fetal loss and the length of the nonsusceptible period due to a fetal loss using a model proposed by George [4] for the first livebirth interval. Algorithms are provided to obtain maximum likelihood estimates of the parameters of the model from complete, censored and grouped samples. The methods are illustrated using data on 554 Hutterite women.

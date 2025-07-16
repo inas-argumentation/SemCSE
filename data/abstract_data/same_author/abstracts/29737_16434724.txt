@@ -1,0 +1,2 @@
+A New parton shower algorithm: Shower evolution, matching at leading and next-to-leading order level
+In this paper we outline a new parton shower algorithm based on the Catani-Seymour dipole factorization. Our motivation is to have an algorithm which can naturally cooperate with the NLO calculations.

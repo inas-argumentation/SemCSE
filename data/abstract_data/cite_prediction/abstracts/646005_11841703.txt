@@ -1,0 +1,2 @@
+The HASYv2 dataset
+This paper describes the HASY dataset of handwritten symbols. HASY is a publicly available, free of charge dataset of single symbols similar to MNIST. It contains 168 233 instances of 369 classes. HASY contains two challenges: A classification challenge with 10 pre-defined folds for 10-fold cross-validation and a verification challenge.

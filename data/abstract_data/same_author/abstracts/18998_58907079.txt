@@ -1,0 +1,10 @@
+A Quantum Sensor for Neutrino Mass Measurements
+There are few experiments aiming at determining directly the mass of the electron antineutrino with 
+a sensitivity of 0.2 eV by analyzing the end of the -decay spectrum of specific nuclei. This 
+sensitivity can be only reached if the uncertainties arising from systematic effects are very small and very well determined. The same holds for experiments aiming at improving the sensitivity in the determination of the mass of the electron neutrino using electron-capture ()-decaying nuclei. One important input in these cases is an accurate Q-value of the decay which 
+can be unambiguously determined from the difference of the mass of the mother and the daughter 
+nuclei by means of Penning traps. In order to reach the required sensitivity, a novel device called Quantum Sensor is under construction at the University of Granada (Spain). The device will allow measuring atomic masses, and therefore Q-values from decays with unprecedented accuracy and 
+sensitivity, using fluorescence photons from a laser-cooled ion instead of electronic detection. This 
+paper will give an overview on Q-value measurements performed with Penning traps, relevant for 
+neutrino mass spectrometry, describing the Quantum Sensor and the facility under construction. It 
+will end by presenting the status of the project.

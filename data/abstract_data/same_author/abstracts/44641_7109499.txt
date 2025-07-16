@@ -1,0 +1,2 @@
+Statistical learning for effective visual information retrieval
+For effective retrieval of visual information, statistical learning plays a pivotal role. Statistical learning in such a context faces at least two major mathematical challenges: scarcity of training data, and imbalance of training classes. We present these challenges and outline our methods for addressing them: active learning, recursive subspace co-training, adaptive dimensionality reduction, class-boundary alignment, and quasi-bagging.

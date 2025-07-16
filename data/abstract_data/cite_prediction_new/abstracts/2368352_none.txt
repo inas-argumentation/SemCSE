@@ -1,0 +1,2 @@
+Discretizing LTI Descriptor (Regular) Differential Input Systems with Consistent Initial Conditions
+A technique for discretizing efficiently the solution of a Linear descriptor (regular) differential input system with consistent initial conditions, and Time-Invariant coefficients (LTI) is introduced and fully discussed. Additionally, an upper bound for the error that derives from the procedure of discretization is also provided. Practically speaking, we are interested in such kind of systems, since they are inherent in many physical, economical and engineering phenomena.

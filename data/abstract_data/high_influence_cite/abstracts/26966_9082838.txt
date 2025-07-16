@@ -1,0 +1,2 @@
+Interference Alignment and Spatial Degrees of Freedom for the K User Interference Channel
+We show that the sum capacity of the K user frequency selective (or time-varying) interference channel is C(SNR) = (K/2) log(SNR) +o(log(SNR)) meaning that the channel has a total of K/2 degrees of freedom per orthogonal time and frequency dimension. Linear schemes of interference alignment and zero forcing suffice to achieve all the degrees of freedom and multi-user detection is not required.

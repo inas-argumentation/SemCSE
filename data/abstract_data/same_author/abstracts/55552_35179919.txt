@@ -1,0 +1,2 @@
+WebQuest Markup Language (WQML) for Sharable Inquiry-Based Learning
+WebQuest is a model for constructivist inquiry-based learning in which the information used by learners is collected from the Web. A WebQuest exists in form of a Web site that contains a defined set of componential Web pages. In this paper, we specify the WebQuest Markup Language (WQML) for WebQuest construction. WQML enables WebQuests to be implemented as sharable courseware objects and thus to be interoperable with most learning management systems (LMS).

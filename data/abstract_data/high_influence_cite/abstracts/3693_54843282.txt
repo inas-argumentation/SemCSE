@@ -1,0 +1,2 @@
+Properties of Poisson processes directed by compound Poisson-Gamma subordinators.
+In the paper we consider time-changed Poisson processes where the time is expressed by compound Poisson-Gamma subordinators $G(N(t))$ and derive the expressions for their hitting times. We also study the time-changed Poisson processes where the role of time is played by the processes of the form $G(N(t)+at)$ and by the iteration of such processes.

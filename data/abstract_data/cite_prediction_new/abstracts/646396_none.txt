@@ -1,0 +1,2 @@
+Visual Tracking of Laparoscopic Instruments in Standard Training Environments
+We propose a method for accurately tracking the spatial motion of standard laparoscopic instruments from video. By exploiting the geometric and photometric invariants common to standard FLS training boxes, the method provides robust and accurate tracking of instruments from video. The proposed method requires no modifications to the standard FLS training box, camera or instruments.

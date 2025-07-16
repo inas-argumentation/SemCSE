@@ -1,0 +1,15 @@
+SU-D-202-01: Functional Lung Avoidance and Response-Adaptive Escalation (FLARE) RT: Feasibility of a Precision Radiation Oncology Strategy.
+PURPOSE
+NSCLC patient RT is planned without consideration of spatial heterogeneity in lung function or tumor response, which may have contributed to failed uniform dose escalation in a randomized trial. The feasibility of functional lung avoidance and response-adaptive escalation (FLARE) RT to reduce dose to [9 9m Tc]MAA-SPECT/CT perfused lung while redistributing 74Gy within [1 8 F]FDG-PET/CT biological target volumes was assessed.
+
+
+METHODS
+Eight Stage IIB-IIIB NSCLC patients underwent FDG-PET/CT and MAA-SPECT/CT treatment planning scans. Perfused lung objectives were derived from scatter/collimator/attenuation-corrected MAA-SPECT uptake relative to ITV-subtracted lung to maintain <20Gy mean lung dose (MLD). Prescriptions included 60Gy to PTV and concomitant boost of 74Gy mean to biological target volumes (BTV=GTV+PET margin) scaled to each BTV voxel by relative FDG-PET SUV. Dose-painting-by-numbers prescriptions were integrated into commercial TPS via previously reported ROI discretization. Dose constraints for lung, heart, cord, and esophagus were defined. FLARE RT plans were optimized with VMAT, proton pencil beam scanning (PBS) with 3%-3mm robust optimization, and combination PBS (avoidance) plus VMAT (escalation). Dosimetric differences were evaluated by Friedman non-parametric paired test with multiple sampling correction.
+
+
+RESULTS
+PTV and normal tissue objectives were not violated in 24 FLARE RT plans. Population median of mean BTV dose was 73.7Gy (68.5-75.5Gy), mean FDG-PET peak dose was 89.7Gy (73.5-103Gy), MLD was 12.3Gy (7.5-19.6Gy), and perfused MLD was 4.8Gy (0.9-12.1Gy). VMAT achieved higher dose to the FDG-PET peak subvolume (p=0.01), while PBS delivered lower dose to lung (p<0.001). Voxelwise linear correlation between BTV dose and FDG-PET uptake was higher for VMAT (R=0.93) and PBS+VMAT (R=0.94) compared to PBS alone (R=0.89).
+
+
+CONCLUSION
+FLARE RT is feasible with VMAT and PBS. A combination of PBS for functional lung avoidance and VMAT for FDG-PET dose escalation balances target/normal tissue objective tradeoffs. These results support future testing of FLARE RT safety and efficacy within a precision radiation oncology trial. This work was supported by a Research Scholar grant from the Radiological Society of North American Research & Education Foundation.

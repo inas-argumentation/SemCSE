@@ -1,0 +1,11 @@
+Cryptochrome Antagonizes Synchronization of Drosophila’s Circadian Clock to Temperature Cycles
+BACKGROUND
+In nature, both daily light:dark cycles and temperature fluctuations are used by organisms to synchronize their endogenous time with the daily cycles of light and temperature. Proper synchronization is important for the overall fitness and wellbeing of animals and humans, and although we know a lot about light synchronization, this is not the case for temperature inputs to the circadian clock. In Drosophila, light and temperature cues can act as synchronization signals (Zeitgeber), but it is not known how they are integrated.
+
+
+RESULTS
+We investigated whether different groups of the Drosophila clock neurons that regulate behavioral rhythmicity contribute to temperature synchronization at different absolute temperatures. Using spatially restricted expression of the clock gene period, we show that dorsally located clock neurons mainly mediate synchronization to higher (20°C:29°C) and ventral clock neurons to lower (16°C:25°C) temperature cycles. Molecularly, the blue-light photoreceptor CRYPTOCHROME (CRY) dampens temperature-induced PERIOD (PER)-LUCIFERASE oscillations in dorsal clock neurons. Consistent with this finding, we show that in the absence of CRY very limited expression of PER in a few dorsal clock neurons is able to mediate behavioral temperature synchronization to high and low temperature cycles independent of light.
+
+
+CONCLUSIONS
+We show that different subsets of clock neurons operate at high and low temperatures to mediate clock synchronization to temperature cycles, suggesting that temperature entrainment is not restricted to measuring the amplitude of such cycles. CRY dampens temperature input to the clock and thereby contributes to the integration of different Zeitgebers.

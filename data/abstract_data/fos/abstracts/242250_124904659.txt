@@ -1,0 +1,2 @@
+SOLUTION OF BOUNDARY-LAYER EQUATION WITH ELECTRIC-SIMULATION METHOD
+The calculation procedure of electric-simulation method for the solution of boundary-layer equation is proposed. The calculations of the laminar velocity of a fluid flowing along a flat plate as well as at the entrance of a circular pipe were given as examples to illustrate the correctness of this method. It seems to be particular useful for the solution of those problems where complex boundary conditions, variable physical properties, large temperature gradients etc. are concerned.

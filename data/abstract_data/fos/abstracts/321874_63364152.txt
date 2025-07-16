@@ -1,0 +1,2 @@
+Design and Implementation of Intelligence Responder Based on VHDL State Machine
+According to the requirements of intelligence responder design,this system must include some functions as follows: responder identification,answer in time,cumulative scores of each group and dynamic display function.Uses VHDL state machine,design ideas clear,readable programming and easy to understand,simple to understand.Thus enhances the flexibility and reliability of design,reduces the circuit design cost and shortens the design cycle.

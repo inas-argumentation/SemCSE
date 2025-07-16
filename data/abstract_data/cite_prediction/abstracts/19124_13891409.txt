@@ -1,0 +1,2 @@
+Bloom filter based routing for content-based publish/subscribe
+Achieving expressive and efficient content-based routing in publish/subscribe systems is a difficult problem. Traditional approaches prove to be either inefficient or severely limited in their expressiveness and flexibility. We present a novel routing method, based on Bloom filters, which shows high efficiency while simultaneously preserving the flexibility of content-based schemes. The resulting implementation is a fast, flexible and fully decoupled content-based publish/subscribe system.

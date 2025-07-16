@@ -1,0 +1,2 @@
+Image Inpainting and Object Removal with Deep Convolutional GAN
+In this project, we implemented Deep Convolutional Generative and Adversarial Neural Network to solve landscape picture inpaint problem. The resulting model beats most of the existing published solutions so far.

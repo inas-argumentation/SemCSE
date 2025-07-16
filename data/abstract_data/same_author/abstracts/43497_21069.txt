@@ -1,0 +1,2 @@
+Analyzing Safety Requirements for Process-Control Systems
+Safety-requirements analysis is typically conducted either ad hoc or with the unbridled use of formal methods. The approach presented in this paper offers the freedom to mix formal and traditional engineering methods and apply them at different abstraction levels to give a higher assurance that the software's contribution to system risk is acceptable. >

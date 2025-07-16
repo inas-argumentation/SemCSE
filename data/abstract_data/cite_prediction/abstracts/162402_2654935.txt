@@ -1,0 +1,2 @@
+Machine Learning Model Interpretability for Precision Medicine
+Interpretability of machine learning models is critical for data-driven precision medicine efforts. However, highly predictive models are generally complex and are difficult to interpret. Here using Model-Agnostic Explanations algorithm, we show that complex models such as random forest can be made interpretable. Using MIMIC-II dataset, we successfully predicted ICU mortality with 80% balanced accuracy and were also were able to interpret the relative effect of the features on prediction at individual level.

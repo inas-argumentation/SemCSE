@@ -1,0 +1,20 @@
+EFloat: Entropy-coded Floating Point Format for Deep Learning
+In a large class of deep learning models, specifically vector
+embedding models in NLP, we observe that floating point exponent
+values tend to cluster around few unique values, presenting entropy
+encoding opportunities. The proposed EFloat floating point number
+format encodes frequent exponent values and signs with Huffman codes
+to minimize the average exponent field width while keeping the
+original exponent range unchanged. Saved bits then become available to
+the significand increasing the EFloat numeric precision on average by
+4.3 bits compared to other low-precision floating point formats of
+equal bit budget. We currently use the EFloat format for compressing
+and saving memory used in large NLP deep learning models while I/O and
+memory bandwidth savings in GPUs and AI accelerators are also
+possible.  Using RMS-error as a precision metric, we demonstrate that
+EFloat provides more accurate floating point representation than other
+formats with the same bit budget. EF12 with 12-bit budget has less end-to-end application error than the 16-bit BF16.
+EF16 RMS-error is 17 to 35 times less than BF16 RMS-error for a range of datasets.
+Using the NDCG metric for evaluating ranked results of similarity and dissimilarity queries in NLP,
+we demonstrate that EFloat matches the result quality of other floating
+point representations with larger bit budgets.

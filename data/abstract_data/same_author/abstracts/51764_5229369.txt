@@ -1,0 +1,2 @@
+Compositional design of multitolerant repetitive byzantine agreement
+We illustrate in this paper a compositional and stepwise method for designing programs that offer a potentially unique tolerance to each of their fault-classes. More specifically, our illustration is a design of a repetitive agreement program that offers two tolerances: (a) it masks the effects of Byzantine failures and (b) it is stabilizing in the presence of transient and Byzantine failures.

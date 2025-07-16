@@ -1,0 +1,2 @@
+COSMO-RS : From quantum chemistry to cheminformatics
+The COSMO-RS method [1,2], an efficient combination of dielectric continuum quantum chemistry and statistical thermodynamics, and its program implementation COSMOtherm meanwhile are widely accepted as a most fundamental and most predictive access to many fluid phase equilibrium properties as activity coefficients, partition coefficients and solubilities. This was further underlined by winning the First Industrial Fluid Phase Simulation Challenge organized by NIST in 2002.

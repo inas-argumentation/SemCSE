@@ -1,0 +1,2 @@
+Enhanced belief propagation decoding of polar codes through concatenation
+The bit-channels of finite-length polar codes are not fully polarized, and a proportion of such bit-channels are neither completely “noiseless” nor completely “noisy”. By using an outer low-density parity-check code for these intermediate channels, we show how the performance of belief propagation (BP) decoding of the overall concatenated polar code can be improved. A simple example reports an improvement in Eb /N0 of 0.3 dB with respect to the conventional BP decoder.

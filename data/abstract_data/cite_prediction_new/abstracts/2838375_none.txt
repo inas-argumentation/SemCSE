@@ -1,0 +1,2 @@
+The JAVELIN Question-Answering System at TREC 2003: A Multi-Strategh Approach with Dynamic Planning
+The JAVELIN system evaluated at TREC 2003 is an integrated architecture for open-domain question answering. JAVELIN employs a modular approach that addresses individual aspects of the QA task in an abstract manner. The System implements a planner that controls the execution and information o w, as well as a multiple answer seeking strategies used differently depending on the type of question.

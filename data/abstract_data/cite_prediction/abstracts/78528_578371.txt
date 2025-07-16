@@ -1,0 +1,2 @@
+Efficient Computation and Model Selection for the Support Vector Regression
+In this letter, we derive an algorithm that computes the entire solution path of the support vector regression (SVR). We also propose an unbiased estimate for the degrees of freedom of the SVR model, which allows convenient selection of the regularization parameter.

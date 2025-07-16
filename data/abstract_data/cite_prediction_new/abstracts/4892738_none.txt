@@ -1,0 +1,11 @@
+Determinants of excitability in cardiac myocytes: mechanistic investigation of memory effect.
+UNLABELLED
+The excitability of a cardiac cell depends upon many factors, including the rate and duration of pacing. Furthermore, cell excitability and its variability underlie many electrophysiological phenomena in the heart. In this study, we used a detailed mathematical model of the ventricular myocyte to investigate the determinants of excitability and gain insight into the mechanism by which excitability depends on the rate and duration of pacing (the memory effect).
+
+
+RESULTS
+i) The primary determinant of excitability depends upon the duration (T) of the stimulus. ii) For a short T, excitability is determined by the difference between the threshold membrane potential and the resting membrane potential. iii) For a long T, excitability is determined by the resting membrane resistance, R(m). iv) In the case of long T, pacing induced changes in [Na(+)](i) and [Ca(2+)](i) over time affect R(m) and excitability by shifting the current-voltage (IV) curve in the vertical direction and are responsible for the memory effect.
+
+
+CONCLUSIONS
+The results have important implications during an arrhythmia, where a cardiac cell may be subjected to rapid repetitive excitation for an extended period of time. Effective anti-arrhythmic strategies may be developed to exploit the R(m) dependence of excitability for a long T.

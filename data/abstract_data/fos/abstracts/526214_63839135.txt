@@ -1,0 +1,2 @@
+A New Method of Arcs Recognition Based on Bar Tracking
+Recognition for arcs is an important and difficult problem in the study on vectorization of scanned image of engineering drawings. This paper presents an algorithm for recognizing arcs using bar tracking, which acquires the points chains of arcs and combined lines using bar tracking, then the combined lines are segmented, at last the arcs are fitted and validated. In experiments, we test the algorithm using benchmark data and real drawings. The experiments indicate that the algorithm is fast and effective.

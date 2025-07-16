@@ -1,0 +1,2 @@
+A multilayer active hybrid-ring using ground-slot coupling technique
+A ground-slot coupling technique is applied to design a novel multilayer active hybrid-ring power divider. The prototype consists of three ground slots to couple the signal between circuit layers, and two single-stage HEMT amplifiers to boost the coupled signal. It is tested at C-band with 40% -3dB bandwidth. At 5 GHz center frequency, it has 8 dB small-signal gain and 10 dBm output P1 dB.

@@ -1,0 +1,2 @@
+Passive wireless permittivity sensor based on frequency-coded chipless RFID tags
+This paper proposes to integrate the functions of identification and sensing into a passive chipless RFID tag. A frequency-coded tag which contains a dual-band capacitive-loaded resonator is proposed. The first resonance is used for identification and the second one is used for sensing the permittivity of the material attached to the tag. A theoretical model is proposed and simulated and measured results are presented.

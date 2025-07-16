@@ -1,0 +1,2 @@
+Inductive Synthesis of Recursive Functional Programs
+One of the most challenging subfields, and a still little researched niche of machine learning, is the inductive synthesis of recursive programs from incomplete specifications, such as examples for the desired input/output behavior [1,2,3,4].

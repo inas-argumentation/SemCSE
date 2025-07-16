@@ -1,0 +1,2 @@
+The parameter estimation of the electrothermal model of inductors
+This paper presents the electrothermal model of inductors dedicated to the analysis of dc-dc converters in SPICE and the proposed method of determining parameters of this model. The parameter estimation algorithm of this model is described in detail. The results of verifi cation of the correctness of the model and the estimation procedure for arbitrarily selected choking coils are presented. Very good agreement between the calculated and measured characteristics of the considered choking-coils was obtained.

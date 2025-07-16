@@ -1,0 +1,15 @@
+Noise variance analysis using a flat panel x-ray detector: a method for additive noise assessment with application to breast CT applications.
+PURPOSE
+A simplified linear model approach was proposed to accurately model the response of a flat panel detector used for breast CT (bCT).
+
+
+METHODS
+Individual detector pixel mean and variance were measured from bCT projection images acquired both in air and with a polyethylene cylinder, with the detector operating in both fixed low gain and dynamic gain mode. Once the coefficients of the linear model are determined, the fractional additive noise can be used as a quantitative metric to evaluate the system's efficiency in utilizing x-ray photons, including the performance of different gain modes of the detector.
+
+
+RESULTS
+Fractional additive noise increases as the object thickness increases or as the radiation dose to the detector decreases. For bCT scan techniques on the UC Davis prototype scanner (80 kVp, 500 views total, 30 frames/s), in the low gain mode, additive noise contributes 21% of the total pixel noise variance for a 10 cm object and 44% for a 17 cm object. With the dynamic gain mode, additive noise only represents approximately 2.6% of the total pixel noise variance for a 10 cm object and 7.3% for a 17 cm object.
+
+
+CONCLUSIONS
+The existence of the signal-independent additive noise is the primary cause for a quadratic relationship between bCT noise variance and the inverse of radiation dose at the detector. With the knowledge of the additive noise contribution to experimentally acquired images, system modifications can be made to reduce the impact of additive noise and improve the quantum noise efficiency of the bCT system.

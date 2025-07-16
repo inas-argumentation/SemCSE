@@ -1,0 +1,15 @@
+Multimodality non-rigid image registration for planning, targeting and monitoring during CT-guided percutaneous liver tumor cryoablation.
+RATIONALE AND OBJECTIVES
+The aim of this study was to develop non-rigid image registration between preprocedure contrast-enhanced magnetic resonance (MR) images and intraprocedure unenhanced computed tomographic (CT) images, to enhance tumor visualization and localization during CT imaging-guided liver tumor cryoablation procedures.
+
+
+MATERIALS AND METHODS
+A non-rigid registration technique was evaluated with different preprocessing steps and algorithm parameters and compared to a standard rigid registration approach. The Dice similarity coefficient, target registration error, 95th-percentile Hausdorff distance, and total registration time (minutes) were compared using a two-sided Student's t test. The entire registration method was then applied during five CT imaging-guided liver cryoablation cases with the intraprocedural CT data transmitted directly from the CT scanner, with both accuracy and registration time evaluated.
+
+
+RESULTS
+Selected optimal parameters for registration were a section thickness of 5 mm, cropping the field of view to 66% of its original size, manual segmentation of the liver, B-spline control grid of 5 × 5 × 5, and spatial sampling of 50,000 pixels. A mean 95th-percentile Hausdorff distance of 3.3 mm (a 2.5 times improvement compared to rigid registration, P < .05), a mean Dice similarity coefficient of 0.97 (a 13% increase), and a mean target registration error of 4.1 mm (a 2.7 times reduction) were measured. During the cryoablation procedure, registration between the preprocedure MR and the planning intraprocedure CT imaging took a mean time of 10.6 minutes, MR to targeting CT image took 4 minutes, and MR to monitoring CT imaging took 4.3 minutes. Mean registration accuracy was <3.4 mm.
+
+
+CONCLUSIONS
+Non-rigid registration allowed improved visualization of the tumor during interventional planning, targeting, and evaluation of tumor coverage by the ice ball. Future work is focused on reducing segmentation time to make the method more clinically acceptable.

@@ -1,0 +1,2 @@
+Design of a microstripe bandpass filter with a wide stopband
+This paper develops a novel microstrip bandpass filter with a wide stopband. With the assistance of open stubs and one open-circuit coupled line using symmetrical feeding, a wide stopband with a sufficient rejection level can be achieved. Detail design and synthesis procedures are provided. Moreover, the electromagnetic simulator IE3D is used, and the prototype of the bandpass filter is fabricated and measured. Good agreement between measured and simulated results demonstrates feasibility of the proposed filter.

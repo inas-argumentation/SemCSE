@@ -1,0 +1,15 @@
+MO-D-108-10: 3D Reconstruction of Scintillation Light Emission From Mono-Energetic Proton Beams Using a Limited Projection Approach: A Simulation Study.
+PURPOSE
+Large-volume scintillator detectors show promise for fast, highresolution measurements of proton treatment fields, but previous work has been limited to observing 2D projections of the 3D scintillation light distribution. The purpose of this work is to develop a 3D reconstruction method for a scintillation dosimetry system consisting of a tank of liquid scintillator imaged by CCD cameras.
+
+
+METHODS
+To reconstruct the scintillation light produced by proton beams in 3D, we applied the maximum-a-posteriori (MAP) algorithm using projections from three views (2 orthogonal side projections and 1 forward projection). However, the small number of viewing angles in our system limits the efficiency of this approach. In this study, we exploited the axial symmetry of proton beams to create an improved initial estimation of the light distribution. Monte Carlo calculations were performed to simulate the light emission from a volume of liquid scintillator irradiated with proton pencil beams. Projection images of the light emission were calculated from the simulated data with known camera and scintillator artifacts. We compared the MAP reconstructed emissions obtained using a standard backprojection initial estimate with those using our proposed profile-based initial estimation.
+
+
+RESULTS
+From our simulations, the root mean square (RMS) error of the MAP reconstruction was 5.6% using the backprojection estimate. It was reduced to 4.9% using the profile-based estimate. In addition, our new approach also reduced visual artifacts in the low dose region. Using the profile-based estimate, reconstruction converged at about 6 iterations. Using the backprojection estimate, 14 iterations were required for convergence.
+
+
+CONCLUSION
+The proposed method allows more accurate 3D reconstruction with fewer artifacts and requiring fewer iterations. The application is useful in proton beam calibration and has the potential to make 3D quality assurance possible for intensity modulated proton therapy.

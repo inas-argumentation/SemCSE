@@ -1,0 +1,2 @@
+Finding the shortest boundary guard of a simple polygon
+There are many different kinds of guards in a simple polygon that have been proposed and discussed. In this paper, we consider a new type of guard, boundary guard, which is a guard capable of moving along a boundary of a polygon and every interior point of the polygon can be seen by the mobile guard. We propose an algorithm to 1nd the shortest boundary guard of a simple polygon P in O(n log n) time, where n is the number of vertices of P.

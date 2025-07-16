@@ -1,0 +1,2 @@
+Efficient computation of the extreme solutions of X + A*X-1A = Q and X - A*X-1A = Q
+We propose a new quadratically convergent algorithm, having a low computational cost per step and good numerical stability properties, which allows the simultaneous approximation of the extreme solutions of the matrix equations X + A*X -1 A = Q and X - A*X -1 A = Q. The algorithm is based on the cyclic reduction method.

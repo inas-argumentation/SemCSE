@@ -1,0 +1,2 @@
+Deductive verification of real-time systems using STeP
+We present a modular framework for proving temporal properties of real-time systems, based on clocked transition systems and linear-time temporal logic. We show how deductive verification rules, verification diagrams, and automatic invariant generation can be used to establish properties of real-time systems in this framework. As an example, we present the mechanical verification of the generalized railroad crossing case study using the Stanford Temporal Prover, STeP.

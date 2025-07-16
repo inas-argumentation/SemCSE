@@ -1,0 +1,2 @@
+A Note on Pattern Recognition Based on Fuzzy Encoding
+We propose a new method for pattern recognition based on fuzzy encoding. Fuzzy inference rules (FIRs) to recognize a given pattern are generated with the set of encoded patterns. A given pattern is recognized to carry out defuzzification of the patterns from the FIRs. Computational experiments were carried out, and the results of the experiments showed that the performance of our new method is much better than that of neural networks.

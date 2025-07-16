@@ -1,0 +1,4 @@
+Lane–Emden systems with negative exponents
+We study the elliptic system 
+{−Δu=u−pv−qin Ω,−Δv=u−rv−sin Ω,u=v=0on ∂Ω, 
+in a bounded domain Ω⊂RN (N⩾1) with a smooth boundary, p,s⩾0 and q,r>0. We investigate the existence, non-existence, and uniqueness of C2(Ω)∩C(Ω¯) solutions in terms of p, q, r and s. A necessary and sufficient condition for the C1-regularity of solutions up to the boundary is also obtained.

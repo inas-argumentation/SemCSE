@@ -1,0 +1,15 @@
+Minibeam radiation therapy for the management of osteosarcomas: a Monte Carlo study.
+PURPOSE
+Minibeam radiation therapy (MBRT) exploits the well-established tissue-sparing effect provided by the combination of submillimetric field sizes and a spatial fractionation of the dose. The aim of this work is to evaluate the feasibility and potential therapeutic gain of MBRT, in comparison with conventional radiotherapy, for osteosarcoma treatments.
+
+
+METHODS
+Monte Carlo simulations (PENELOPE/penEasy code) were used as a method to study the dose distributions resulting from MBRT irradiations of a rat femur and a realistic human femur phantoms. As a figure of merit, peak and valley doses and peak-to-valley dose ratios (PVDR) were assessed. Conversion of absorbed dose to normalized total dose (NTD) was performed in the human case. Several field sizes and irradiation geometries were evaluated.
+
+
+RESULTS
+It is feasible to deliver a uniform dose distribution in the target while the healthy tissue benefits from a spatial fractionation of the dose. Very high PVDR values (⩾20) were achieved in the entrance beam path in the rat case. PVDR values ranged from 2 to 9 in the human phantom. NTD(2.0) of 87 Gy might be reached in the tumor in the human femur while the healthy tissues might receive valley NTD(2.0) lower than 20 Gy. The doses in the tumor and healthy tissues might be significantly higher and lower than the ones commonly delivered used in conventional radiotherapy.
+
+
+CONCLUSIONS
+The obtained dose distributions indicate that a gain in normal tissue sparing might be expected. This would allow the use of higher (and potentially curative) doses in the tumor. Biological experiments are warranted.

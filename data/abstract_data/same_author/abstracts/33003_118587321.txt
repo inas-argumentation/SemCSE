@@ -1,0 +1,2 @@
+A Lattice Study of the Gluon Propagator in the Landau Gauge
+We present the results of two high-statistics studies of the gluon propagator in the Landau gauge, at $\beta=6.0$, on different lattice volumes. The dependence of the propagator on the momenta is well described by the expression $G(k^2) = \Big[ M^2+Z\cdot k^2(k^2/ \Lambda^2)^\eta)\Big]^{-1}$. We obtain a precise determination of $\eta=0.532(12)$, and verify that $M^2$ does not vanish in the infinite volume limit.

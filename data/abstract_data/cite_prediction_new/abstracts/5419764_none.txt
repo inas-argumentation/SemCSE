@@ -1,0 +1,40 @@
+Evaluation and uncertainty investigation of the NO2, CO and NH3 modeling over China under the framework of MICS-Asia III
+. Despite the significant progress in improving
+chemical transport models (CTMs), applications of these modeling endeavors
+are still subject to large and complex model uncertainty. The Model
+Inter-Comparison Study for Asia III (MICS-Asia III) has provided the
+opportunity to assess the capability and uncertainty of current CTMs in East
+Asian applications. In this study, we have evaluated the multi-model
+simulations of nitrogen dioxide (NO2), carbon monoxide (CO) and ammonia
+(NH3) over China under the framework of MICS-Asia III. A total of 13
+modeling results, provided by several independent groups from different
+countries and regions, were used in this study. Most of these models used the same
+modeling domain with a horizontal resolution of 45 km and were driven by
+common emission inventories and meteorological inputs. New observations over the
+North China Plain (NCP) and Pearl River Delta (PRD) regions were also
+available in MICS-Asia III, allowing the model evaluations over highly
+industrialized regions. The evaluation results show that most models
+captured the monthly and spatial patterns of NO2 concentrations in the
+NCP region well, though NO2 levels were slightly underestimated. Relatively
+poor performance in NO2 simulations was found in the PRD region, with
+larger root-mean-square error and lower spatial correlation coefficients,
+which may be related to the coarse resolution or inappropriate spatial
+allocations of the emission inventories in the PRD region. All models
+significantly underpredicted CO concentrations in both the NCP and PRD
+regions, with annual mean concentrations that were 65.4 % and 61.4 %
+underestimated by the ensemble mean. Such large underestimations suggest
+that CO emissions might be underestimated in the current emission inventory. In
+contrast to the good skills for simulating the monthly variations in NO2
+and CO concentrations, all models failed to reproduce the observed monthly
+variations in NH3 concentrations in the NCP region. Most models
+mismatched the observed peak in July and showed negative correlation
+coefficients with the observations, which may be closely related to the
+uncertainty in the monthly variations in NH3 emissions and the NH3
+gas–aerosol partitioning. Finally, model intercomparisons have been
+conducted to quantify the impacts of model uncertainty on the simulations of
+these gases, which are shown to increase with the reactivity of species. Models
+contained more uncertainty in the NH3 simulations. This suggests that
+for some highly active and/or short-lived primary pollutants, like NH3,
+model uncertainty can also take a great part in the forecast uncertainty
+in addition to the emission uncertainty. Based on these results, some
+recommendations are made for future studies.

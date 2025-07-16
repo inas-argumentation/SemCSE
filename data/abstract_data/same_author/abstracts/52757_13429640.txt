@@ -1,0 +1,2 @@
+Curves of width one and the river shore problem
+We consider the problem of finding the shortest curve in the plane that has unit width. This problem was first posed as the “river shore” puzzle by Ogilvy (1972) and is related to the area of on-line searching. Adhikari and Pitman (1989) proved that the optimal solution has length 2.2782 ... We present a simpler proof, which exploits the fact that the width of a polygon does not decrease under a certain convexification operation.

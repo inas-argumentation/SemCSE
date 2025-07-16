@@ -1,0 +1,6 @@
+The sensitivity of analysis of variance tests with respect to random between groups variation
+ResumenEn este artículo se analiza la varianza cuando los datos experimentales Xti (observacióni-ésima del grupot-éximo) son de la forma
+$$X_{ti} = \Lambda + U_t + Z_{ti} $$
+ siendo las variables Zti mutuamente independientes, con media cero, y las correspondientes al mismo grupo con idéntica distribución. Las Ut son también independientes entre sí, de los Zvi y todas con la misma distribución.Estudia la probabilidad de que sea
+$$\frac{{S_1 }}{{S - 1}}/\frac{{S_2 }}{{N - s}} > F_{s - 1, N - s, \alpha } $$
+ calculando al efecto los diversos momentos de S1 y S2.Introduce ciertas simplificaciones suponiendo que las U y Z están normalmente distribuídas, y a continuación agrega la hipótesis de que las Z tienen la misma distribución normal. En estas condiciones compara las probabilidades obtenidas ajustando (1) una curva de Gram-Charlier y (2) del tipo SU y SB con las obtenidas exactamente mediante la función de potencia para tener una idea de la bondad del método.

@@ -1,0 +1,2 @@
+Asymptotic Growth Bounds for the Vlasov-Poisson System in a Half Space
+In [7] the Vlasov-Poisson system was investigated in a half space and then global existence result was obtained. In this paper, we show that the size of the velocity support of the distribution function grows at most like the power 16 of the time variable.

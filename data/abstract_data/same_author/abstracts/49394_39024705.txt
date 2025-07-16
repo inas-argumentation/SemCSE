@@ -1,0 +1,2 @@
+The Linear 2-Arboricity of Planar Graphs
+Abstract. Let G be a planar graph with maximum degree Δ and girth g. The linear 2-arboricity la2(G) of G is the least integer k such that G can be partitioned into k edge-disjoint forests, whose component trees are paths of length at most 2. We prove that (1) la2(G)≤⌈(Δ+1)/2⌉+12; (2) la2(G)≤⌈(Δ+1)/2⌉+6 if g≥4; (3) la2(G)≤⌈(Δ+1)/2⌉+2 if g≥5; (4) la2(G)≤⌈(Δ+1)/2⌉+1 if g≥7.

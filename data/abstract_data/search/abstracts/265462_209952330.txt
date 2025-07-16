@@ -1,0 +1,2 @@
+Phase Transitions and Thermodynamic Properties of the Potts Model with Spin States Number q 4 on a Hexagonal Lattice
+Phase transitions and thermodynamic properties of the 2D ferromagnetic Potts model with the number of spin states q 4 on a hexagonal lattice are investigated by the Mote Carlo method based on the Wang Landau algorithm. The orders of the phase transitions are investigated using the Binder fourth order cumulant method and histogram analysis of data. It is established that a first order transition is observed in the model being investigated.

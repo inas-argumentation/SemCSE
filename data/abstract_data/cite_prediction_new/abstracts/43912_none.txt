@@ -1,0 +1,2 @@
+Business Process Modeling and Execution - A Compiler for Distributed Microservices
+In this paper, we propose to rethink the dominant logic of how to model business processes. We think that an actor based approach supports in a much better way the fundamental nature of business processes. We present a proposal for a compiler architecture to model and execute business processes as a set of communicating microservices that are hosted on a general purpose virtual machine for distributed execution.

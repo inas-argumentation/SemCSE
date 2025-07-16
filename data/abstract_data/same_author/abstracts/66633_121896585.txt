@@ -1,0 +1,2 @@
+An existence theorem for second order parabolic equations
+0. THE EXISTENCE THEOREM. Let aii, bz for 1 <i, j<! n be real valued functions of class C3 defined on a connected open set X in real Euclidean n-space, such that for each x = (xi, * * *, xa) in X, aii(x) is a positive definite symmetric matrix. Let B (X) be the Banach space of all real-valued bounded measurable functions f on X, with the norm Iffl = =supxEx If(x) I. Then there exists a family of linear transformations pt on B (X), 0 < t < oo, such that

@@ -1,0 +1,2 @@
+Constructive Induction by Analogy
+ABSTRACT Concept-learners can be viewed as problem-solvers : they receive as input a set of examples and produce as output a consistent concept-description. In this paradigm, we derive from each solved concept-learning problem a second-order schema, and apply it in analoguous concept-learning situations in order to learn and/or invent new concepts. In this way, a change of representation is achieved and the learning process itself is learned.

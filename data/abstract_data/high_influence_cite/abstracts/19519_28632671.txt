@@ -1,0 +1,15 @@
+Integrating Tumor and Stromal Gene Expression Signatures With Clinical Indices for Survival Stratification of Early-Stage Non-Small Cell Lung Cancer.
+BACKGROUND
+Accurate survival stratification in early-stage non-small cell lung cancer (NSCLC) could inform the use of adjuvant therapy. We developed a clinically implementable mortality risk score incorporating distinct tumor microenvironmental gene expression signatures and clinical variables.
+
+
+METHODS
+Gene expression profiles from 1106 nonsquamous NSCLCs were used for generation and internal validation of a nine-gene molecular prognostic index (MPI). A quantitative polymerase chain reaction (qPCR) assay was developed and validated on an independent cohort of formalin-fixed paraffin-embedded (FFPE) tissues (n = 98). A prognostic score using clinical variables was generated using Surveillance, Epidemiology, and End Results data and combined with the MPI. All statistical tests for survival were two-sided.
+
+
+RESULTS
+The MPI stratified stage I patients into prognostic categories in three microarray and one FFPE qPCR validation cohorts (HR = 2.99, 95% CI = 1.55 to 5.76, P < .001 in stage IA patients of the largest microarray validation cohort; HR = 3.95, 95% CI = 1.24 to 12.64, P = .01 in stage IA of the qPCR cohort). Prognostic genes were expressed in distinct tumor cell subpopulations, and genes implicated in proliferation and stem cells portended poor outcomes, while genes involved in normal lung differentiation and immune infiltration were associated with superior survival. Integrating the MPI with clinical variables conferred greatest prognostic power (HR = 3.43, 95% CI = 2.18 to 5.39, P < .001 in stage I patients of the largest microarray cohort; HR = 3.99, 95% CI = 1.67 to 9.56, P < .001 in stage I patients of the qPCR cohort). Finally, the MPI was prognostic irrespective of somatic alterations in EGFR, KRAS, TP53, and ALK.
+
+
+CONCLUSION
+The MPI incorporates genes expressed in the tumor and its microenvironment and can be implemented clinically using qPCR assays on FFPE tissues. A composite model integrating the MPI with clinical variables provides the most accurate risk stratification.

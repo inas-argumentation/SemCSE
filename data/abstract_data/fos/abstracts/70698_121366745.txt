@@ -1,0 +1,2 @@
+Empirical bayes methods for a two-way multiplicative-interaction model
+Empirical Bayes methods are used to estimate cell probabi-lities under a multiplicative-Interaction model for a two-way contingency table. The methods assign uniform and normal priors with unknown variances to the main effects and the separable scores. A priori the analysis assumes exchangeability of sets of parameters. The unknown variance components are estimated empirically from the data via the EM algorithm as discussed by Laird (1978)and Dempster, Laird and Rubin (1977). An example Is Included.

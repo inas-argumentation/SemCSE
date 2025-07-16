@@ -1,0 +1,11 @@
+Extending the pathway analysis framework with a test for transcriptional variance implicates novel pathway modulation during myogenic differentiation
+MOTIVATION
+We describe an extension of the pathway-based enrichment approach for analyzing microarray data via a robust test for transcriptional variance. The use of a variance test is intended to identify additional patterns of transcriptional regulation in which many genes in a pathway are up- and down-regulated. Such patterns may be indicative of the reciprocal regulation of pathway activators and inhibitors or of the differential regulation of separate biological sub-processes and should extend the number of detectable patterns of transcriptional modulation.
+
+
+RESULTS
+We validated this new statistical approach on a microarray experiment that captures the temporal transcriptional profile of muscle differentiation in mouse C2C12 cells. Comparisons of the transcriptional state of myoblasts and differentiated myotubes via a robust variance test implicated several novel pathways in muscle cell differentiation previously overlooked by a standard enrichment analysis. Specifically, pathways involved in cell structure, calcium-mediated signaling and muscle-specific signaling were identified as differentially modulated based on their increased transcriptional variance. These biologically relevant results validate this approach and demonstrate the flexible nature of pathway-based methods of data analysis.
+
+
+AVAILABILITY
+The software is available as Supplementary Material.

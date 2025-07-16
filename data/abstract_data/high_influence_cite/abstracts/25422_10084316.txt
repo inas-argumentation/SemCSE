@@ -1,0 +1,2 @@
+Definable versions of theorems by Kirszbraun and Helly
+Kirszbraun's Theorem states that every Lipschitz map S ! R n , where S R m , has an extension to a Lipschitz map R m ! R n with the same Lipschitz constant. Its proof relies on Helly's Theorem: every family of compact subsets of R n , having the property that each of its subfamilies consisting of at most n + 1 sets share a common point, has a non-empty intersection. We prove versions of these theorems valid for denable maps and sets in arbitrary denably complete expansions of ordered elds.

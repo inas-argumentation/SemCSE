@@ -1,0 +1,2 @@
+Essentially No Barriers in Neural Network Energy Landscape
+Training neural networks involves finding minima of a high-dimensional non-convex loss function. Relaxing from linear interpolations, we construct continuous paths between minima of recent neural network architectures on CIFAR10 and CIFAR100. Surprisingly, the paths are essentially flat in both the training and test landscapes. This implies that minima are perhaps best seen as points on a single connected manifold of low loss, rather than as the bottoms of distinct valleys.

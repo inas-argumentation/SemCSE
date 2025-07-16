@@ -1,0 +1,2 @@
+The Large-Sample Power of Tests Based on Permutations of Observations
+The paper investigates the power of a family of nonparametric tests which includes those known as tests based on permutations of observations. Under general conditions the tests are found to be asymptotically (as the sample size tends to ∞) as powerful as certain related standard parametric tests. The results are based on a study of the convergence in probability of certain random distribution functions. A more detailed summary will be found at the end of the Introduction.

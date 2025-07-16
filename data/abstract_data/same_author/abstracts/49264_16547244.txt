@@ -1,0 +1,2 @@
+CMC: A Tool for Compositional Model-Checking of Real-Time Systems
+In this paper we present a tool (CMC) for compositional model-checking of real-time systems. CMC is based on a completely different method compared to existing real-time verification tools (HYTECH, KRONOS, UPPAAL). After a description of the method, we illustrate its efficiency by considering two examples: the Fischer’s mutual exclusion protocol and a railroad crossing system.

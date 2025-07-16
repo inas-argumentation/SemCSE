@@ -1,0 +1,2 @@
+A Class of Low-Density Parity-Check Codes Constructed Based on Reed-Solomon Codes with Two Information Symbols
+This letter presents an algebraic method for constructing regular low-density parity-check (LDPC) codes based on Reed-Solomon codes with two information symbols. The construction method results in a class of LDPC codes in Gallager's original form. Codes in this class are free of cycles of length 4 in their Tanner graphs and have good minimum distances. They perform well with iterative decoding.

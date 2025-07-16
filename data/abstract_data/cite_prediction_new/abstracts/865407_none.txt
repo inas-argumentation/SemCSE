@@ -1,0 +1,2 @@
+Fault Detection Problems and their Impact on the Design of Digital Circuits
+This communication presents the principal methods for detecting faults in logical structures. As a consequence of their limitations (size of the structures) methods for modifying the circuits in order to obtain easily testable and/or self-checking systems are given.

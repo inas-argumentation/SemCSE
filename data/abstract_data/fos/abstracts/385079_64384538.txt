@@ -1,0 +1,2 @@
+Comparison of Solution of XML Data Stored to Database Based on .NET Platform
+XML plays an important role when system process data exchanged.For the design of twoway data transmission between XML and database,the design and implementation of XML data being stored to the database is one of key research.Through the comparative study of different design options,knows the advantages and disadvantages of various design solution,the research provides basis guidance for the actual application development.

@@ -1,0 +1,2 @@
+The electronics readout system for the OPAL vertex drift chamber
+Abstract The Vertex Drift Chamber for the OPAL experiment at LEP provides high quality track coordinates using multihit subnanosecond timing to detect the drifted electrons. This paper explains the electronic techniques that have been devised and implemented for the detector. The overall performance of the system is demonstrated with measurements from the final OPAL chamber.

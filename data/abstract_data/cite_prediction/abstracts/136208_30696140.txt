@@ -1,0 +1,2 @@
+50–60 GHz waveguide to microstrip transition on LTCC for enabling integrated MMIC packaging
+This paper reports the design of 50–60 GHz probe type waveguide to microstrip transition on LTCC substrate, which acts as an initial development towards integrated MMIC hermetic packaging in millimeter-wave systems. The transition shows a simulated return loss better than 15 dB and insertion loss less than 0.4 dB in back to back configuration. The measured insertion loss is 1.2 to 1.8 dB with return loss bettering 12 dB in the range of 50–60 GHz.

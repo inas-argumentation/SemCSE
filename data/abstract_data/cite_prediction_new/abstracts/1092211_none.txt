@@ -1,0 +1,2 @@
+Approximation of the Stokes problem by residual-free macro bubbles
+Linear-constant velocity-pressure elements are enriched with residual-free macro bubbles. Static condensation prompts a stabilized method for this element, where mesh-dependent jumps of the normal stress are added across internal edges of the underlying macroelements. This procedure renders the SIMPLEST element stable.

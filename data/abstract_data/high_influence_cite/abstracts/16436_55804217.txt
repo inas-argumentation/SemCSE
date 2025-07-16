@@ -1,0 +1,2 @@
+Automated Proof-searching for Strong Kleene Logic and its Binary Extensions via Correspondence Analysis
+Using the method of correspondence analysis, Tamminga obtains sound and complete natural deduction systems for all the unary and binary truth-functional extensions of Kleene’s strong three-valued logic K3 . In this paper, we extend Tamminga’s result by presenting an original finite, sound and complete proof-searching technique for all the truth-functional binary extensions of K3.

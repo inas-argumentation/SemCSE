@@ -1,0 +1,2 @@
+Efficiently computing frequent tree-like topology patterns in a Web environment
+Data mining has recently emerged in a number of real life applications, such as banking, supermarketing, and interneting. The authors investigate a novel data mining problem derived from the applications of WWW. They present an efficient algorithm for solving the problem. The initial implementation suggests that the algorithm is very efficient and scalable in practice.

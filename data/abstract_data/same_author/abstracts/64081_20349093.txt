@@ -1,0 +1,2 @@
+Multiple Vector Seeds for Protein Alignment
+We present a framework for improving local protein alignment algorithms. Specifically, we discuss how to extend local protein aligners to use a collection of vector seeds [3] to reduce noise hits. We model picking a set of vector seeds as an integer programming problem, and give algorithms to choose such a set of seeds. A good set of vector seeds we have chosen allows four times fewer false positive hits, while preserving essentially identical sensitivity as BLASTP.

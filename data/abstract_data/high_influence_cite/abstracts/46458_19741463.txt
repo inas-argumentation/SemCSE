@@ -1,0 +1,15 @@
+Toward clinical application of manganese-enhanced MRI of retinal function
+PURPOSE
+The application of manganese-enhanced MRI (MEMRI) to measure retinal function in humans is unclear. To begin to address this gap, we tested the hypothesis that an FDA-approved manganese-based MRI contrast agent, Teslascan, is useful for measuring functional intraretinal ionic regulation.
+
+
+METHODS
+Anesthetized dark- or light-adapted male healthy Sprague-Dawley rats were infused for 30 min with 10 micromol/kg of Teslascan (clinically relevant dose; n = 5), 100 micromol/kg Teslascan (n = 5), or saline (n = 5). Four hours post-administration, high resolution MEMRI data were collected. Intraretinal signal intensities and enhancements were measured. Modelling was performed to estimate apparent retinal transfer constant K(i) and to determine optimal data acquisition parameters.
+
+
+RESULTS
+In light-adapted rats, intraretinal enhancements responded in a dose-response manner. In addition, in the outer retina the effect of light-adaptation was to reduce significantly Mn(2+) uptake and K(i) compared to dark-adaptation. A non-significant change was also observed in the inner retina. Modelling shows Mn(2+) plasma concentration reaching a plateau after about 2 h. Apparent K(i) values for the clinically relevant dose are 3-6 x 10(-3) min(-1), decreasing to 0.5-0.6 x 10(-3) min(-1) at the higher dose. Intraretinal signal is almost linear with K(i). Optimal TR for a spin-echo sequence is 0.4-1.4s.
+
+
+CONCLUSION
+First time evidence is presented that a clinically relevant dose and route of Teslascan can be used to measure intraretinal function. The potential for future clinical application of MEMRI in a broad range of retinopathies is high.

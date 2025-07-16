@@ -1,0 +1,2 @@
+Generator Reversal
+We consider the problem of training generative models with deep neural networks as generators, i.e. to map latent codes to data points. Whereas the dominant paradigm combines simple priors over codes with complex deterministic models, we propose instead to use more flexible code distributions. These distributions are estimated non-parametrically by reversing the generator map during training. The benefits include: more powerful generative models, better modeling of latent structure and explicit control of the degree of generalization.

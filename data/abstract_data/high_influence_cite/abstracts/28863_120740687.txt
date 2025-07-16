@@ -1,0 +1,2 @@
+On the asymptotically simplicity of periodic eigenvalues and Titchmarsh's formula
+We consider Sturm-Liouville equation $y^{\prime\prime}+(\lambda-q)y=0$ where $q\in L^{1}[0,a]$. We obtain various conditions on the Fourier coefficients of q such that the periodic eigenvalues having the form given by Titchmarsh are asymptotically simple. Under these conditions, we give some asymptotic estimates for the spectral gaps.

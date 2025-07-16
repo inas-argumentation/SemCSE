@@ -1,0 +1,15 @@
+Evaluation of the dosimetric impact of non-exclusion of the rectum from the boost PTV in IMRT treatment plans for prostate cancer patients.
+PURPOSE
+In dose escalation trial, for prostate cancer patients, zero CTV-PTV margins towards the rectum are often applied in the boost phase in order to avoid excessive dose delivery to the rectum. In this study, the dosimetric impact of non-exclusion of the rectum from the boost PTV is evaluated. Treatment plans created according to the protocol used in our institute for patients in a Dutch hypofractionated trial (HYPO), where the rectum is excluded from the boost PTV, were compared to plans designed with a modified version of this protocol (HYPO-exp) for which the rectal exclusion was not performed. Differences in target coverage and rectum dose were quantified.
+
+
+METHODS AND MATERIALS
+Treatment plans were generated for 36 prostate cancer patients. In the HYPO plans, the CTV-PTV margins around the prostate were 6 mm (7.5 mm at the caudal side) and 10 mm around the seminal vesicles (PTV1). For the boost phase, these margins were reduced to 5 mm, but no margin was taken at the overlap with the rectum (PTV2). The margin prescription for HYPO-exp was identical to that for HYPO, except that the zero CTV-PTV margin towards the rectum was omitted. For the HYPO and HYPO-exp plans, a simultaneous integrated boost technique using IMRT was applied to deliver 72.2 Gy to PTV1 and 78 Gy to PTV2. For all plans, the dose to the rectum was compared using V(50), V(60), V(70), the equivalent uniform dose (EUD), considering alpha=9 and 1, respectively, and normal tissue complication probabilities (NTCPs). In addition, the dose coverage of PTV1 and PTV2 and the minimum dose in those volumes were quantified. To assess the clinical impact of differences in dose delivery to the rectum, both IMRT plans were also compared to a plan (DESC) based on the treatment protocol applied in our institute in a former national dose escalation trial, which in the meantime has a median follow-up of six years.
+
+
+RESULTS
+Compared to HYPO, V(70) and the rectal EUD calculated with alpha=9 were slightly higher for HYPO-exp, but the differences were not statistically significant. V(50), V(60) and the rectal EUD calculated with alpha=1 were similar for both the IMRT plans. In contrast, each of these parameters was significantly lower compared to DESC (p<0.001). The coverage of the boost PTV, used in HYPO-exp, by at least 95% of the prescribed dose was significantly better for HYPO-exp than for HYPO (p<0.001). In the overlap of this volume with the rectum, the minimum dose increased by 1.1+/-1.2 Gy for HYPO-exp (p=0.002) and the mean dose by 1.2+/-1.5 Gy (p=0.001).
+
+
+CONCLUSION
+By omitting the zero margin towards the rectum, underdosages in the target volume are reduced significantly, while a clinically relevant increase in rectum exposure is not observed.

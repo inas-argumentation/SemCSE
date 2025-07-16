@@ -1,0 +1,2 @@
+A new representation and projection model for tomography, based on separable B-splines
+Data modelization in tomography is a key point for iterative reconstruction. The design of the projector, i.e. the numerical model of projection, is mostly influenced by the representation of the object of interest, decomposed on a discrete basis of functions.

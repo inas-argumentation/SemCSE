@@ -1,0 +1,2 @@
+Bias in Natural Actor-Critic Algorithms
+We show that two popular discounted reward natural actor-critics, NAC-LSTD and eNAC, follow biased estimates of the natural policy gradient. We derive the first unbiased discounted reward natural actor-critics using batch and iterative approaches to gradient estimation and prove their convergence to globally optimal policies for discrete problems and locally optimal policies for continuous problems. Finally, we argue that the bias makes the existing algorithms more appropriate for the average reward setting.

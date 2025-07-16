@@ -1,0 +1,2 @@
+Charge Controlled Class DE Series Resonant Converter - New Concept
+This article analyses modes of operation of class DE voltage source inverter with series resonant circuit. The new control method which has been proposed realizes optimal mode of operation and the control of the output power of the power converter. The method, based on the detection of the frequency and the maximum of the output current, was checked with simulation investigations. This method provides optimal mode of control even if the load current varies in time.

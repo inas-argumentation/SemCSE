@@ -1,0 +1,2 @@
+Fast switching of drift step recovery diodes based on all epi-Si growth
+DSRDs are fast HV opening switching devices. Traditionally, these deep junction devices are fabricated on silicon wafers by deep diffusion. We present DSRD results based on silicon epitaxial layers with as-grown junctions. Static measurements showed a rectifying behavior with leakage currents proportional to device dimension. Pulsed power measurements showed that the switching rate was dependant on the DSRD current density.

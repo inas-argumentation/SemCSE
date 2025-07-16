@@ -1,0 +1,2 @@
+Efficient computation of the delay-optimized finite length MMSE-DFE
+We present new fast algorithms for computing the optimum settings of a finite-length minimum-mean-square-error decision feedback equalizer (MMSE-DFE) from channel and noise estimates. These algorithms are based on displacement structure theory and generalize the algorithms of Al-Dhahir and Cioffi (see ibid., vol.43, no.11, 1995) by including delay optimization. Both symbol-spaced and fractionally spaced feedforward filters are considered.

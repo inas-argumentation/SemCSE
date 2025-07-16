@@ -1,0 +1,2 @@
+Piecewise reproducing kernel method for linear impulsive delay differential equations with piecewise constant arguments
+In this paper, we introduce a piecewise reproducing kernel method for impulsive delay differential equations with piecewise constant arguments. The method is an improved reproducing kernel method. Compared with the classical reproducing kernel method, the solutions obtained using the present method can give good approximations for a larger time interval. Some numerical examples are used to show the effectiveness and simplicity of the method.

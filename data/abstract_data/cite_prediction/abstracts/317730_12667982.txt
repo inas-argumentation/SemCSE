@@ -1,0 +1,2 @@
+Accelerated Machine Learning Using TensorFlow and SYCL on OpenCL Devices
+Machine learning is being used in more and more artificial intelligence applications. While existing machine learning frameworks mostly support NVIDIA CUDA GPUs, there has been little research dedicated to targeting other devices through open standards such as OpenCL. In this paper, we explain how machine learning applications can harness the power of OpenCL using open standards and how, by using SYCL, TensorFlow can be extended to include customized operations running on OpenCL devices.

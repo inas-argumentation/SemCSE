@@ -1,0 +1,2 @@
+Design and implementation of statistical rate monotonic scheduling in KURT Linux
+We present the design and implementation of statistical rate monotonic scheduling (SRMS) on the KURT Linux operating system. We overview the technical issues we had to address to integrate SRMS into KURT Linux and present the API we have developed for scheduling periodic real-time tasks using SRMS.

@@ -1,0 +1,2 @@
+Demonstration of a neutral atom controlled NOT quantum gate.
+We present the first demonstration of a CNOT gate between two individually addressed neutral atoms. Our implementation of the CNOT uses Rydberg blockade interactions between neutral atoms held in optical traps separated by >8 microm. Using two different gate protocols we measure CNOT fidelities of F=0.73 and 0.72 based on truth table probabilities. The gate was used to generate Bell states with fidelity F=0.48+ 0.06. After correcting for atom loss we obtain an a posteriori entanglement fidelity of F=0.58.

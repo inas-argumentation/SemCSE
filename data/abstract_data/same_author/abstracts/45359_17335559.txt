@@ -1,0 +1,2 @@
+Finding Optimal Bipartitions of Points and Polygons
+We give efficient algorithms to compute an optimal bipartition of a set of points or a set of simple polygons in the plane. We examine various criteria involving the perimeter and the area of the convex hulls of the two subsets.

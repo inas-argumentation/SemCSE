@@ -1,0 +1,6 @@
+Using Trees to Depict a Forest
+When a database query has a large number of results, the user can only be shown one page of results at a time. One popular approach is to rank results such that the "best" results appear first. However, standard database query results comprise a set of tuples, with no associated ranking. It is typical to allow users the ability to sort results on selected attributes, but no actual ranking is defined. 
+ 
+An alternative approach to the first page is not to try to show the best results, but instead to help users learn what is available in the whole result set and direct them to finding what they need. In this paper, we demonstrate through a user study that a page comprising one representative from each of k clusters (generated through a k-medoid clustering) is superior to multiple alternative candidate methods for generating representatives of a data set. 
+ 
+Users often refine query specifications based on returned results. Traditional clustering may lead to completely new representatives after a refinement step. Furthermore, clustering can be computationally expensive. We propose a tree-based method for efficiently generating the representatives, and smoothly adapting them with query refinement. Experiments show that our algorithms outperform the state-of-the-art in both result quality and efficiency.

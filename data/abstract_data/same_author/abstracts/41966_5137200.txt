@@ -1,0 +1,2 @@
+Recent Advances in Access Control Models
+Past generations of access control models, when faced with an access request, have issued a simple “yes” or “no” answer to the access request resulting in access being granted or denied. Recent advances in application areas have introduced new dimensions to access control needs, and for many applications such as business-to-business (B2B) applications and auctions “yes/no” responses are just not enough.

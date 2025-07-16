@@ -1,0 +1,2 @@
+Multi-Coloured Hamilton Cycles In Random Edge-Coloured Graphs
+We define a space of random edge-coloured graphs Gn,m,κ which correspond naturally to edge κ-colourings of Gn,m. We show that there exist constants K0, K1 ≤ 21 such that, provided m ≥ K0n log n and κ ≥ K1n, then a random edge-coloured graph contains a multi-coloured Hamilton cycle with probability tending to 1 as the number of vertices n tends to infinity.

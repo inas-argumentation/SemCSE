@@ -1,0 +1,2 @@
+Maximum and anti-maximum principles for the general operator of second order with variable coefficients
+This paper is devoted to the study of existence of solutions of the nonlinear second-order differential equation u^''(t)+p(t)u^'(t)+f(t,u(t))=0 together with different types of linear boundary conditions. To this end we assume the existence of a pair of ordered lower and upper solutions and deduce comparison results for the general linear operator L(p,q)u(t)=u^''(t)+p(t)u^'(t)+q(t)u(t) together with the condisered boundary conditions.

@@ -1,0 +1,2 @@
+Metro add-drop network applications of cascaded dispersion-compensated interleaver pairs using a recirculating loop
+A 50-GHz channel spaced dispersion-compensated interleaver pair for a metro add-drop network application was demonstrated using a recirculating loop. After five cascaded nodes (ten interleavers), a 2.5-dB sensitivity differential at bit-error-rate level around 10/sup -9/ was observed between the compensated and uncompensated pairs within a /spl plusmn/10-GHz detuning frequency window.

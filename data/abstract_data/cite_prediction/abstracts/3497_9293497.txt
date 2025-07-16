@@ -1,0 +1,2 @@
+Design of an Intelligent Agent for Personalization of Moodle's Contents
+This paper presents the architecture of an Intelligent Learning Management System (ILMS) applied to Moodle. In particular, we present the design and implementation of an agent that select the teaching strategy according to the student's learning style. The chosen teaching strategy is used to filter the learning objects that are displayed to the students.

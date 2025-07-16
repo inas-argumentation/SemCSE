@@ -1,0 +1,2 @@
+Automated generation of formal safety conditions from railway interlocking tables
+This paper describes a tool for extracting formal safety conditions from interlocking tables for railway interlocking systems. The tool has been applied to generate safety conditions for the interlocking system at Stenstrup station in Denmark, and the SAL model checker tool has been used to check that these conditions were satisfied by a model of the relay circuits implementing the interlocking system at Stenstrup station.

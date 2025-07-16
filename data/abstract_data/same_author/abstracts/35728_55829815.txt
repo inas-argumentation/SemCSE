@@ -1,0 +1,2 @@
+Simulation of slow extraction in the Main Injector
+Recent modifications to the tracking code TEAPOT have allowed us to simulate both ramp and slow extraction in the Fermilab Main Injector at 120 GeV/c. This calculation includes all the magnetic field and alignment errors. Preliminary results from this calculation are presented here and compared with other calculations. Further studies to optimize the strength and ramp of the extraction elements are in progress.<<ETX>>

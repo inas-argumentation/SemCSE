@@ -1,0 +1,15 @@
+WE-G-213CD-06: Implementation of Real-Time Tumor Tracking Using Robotic Couch.
+PURPOSE
+The purpose of this study was to present a novel method for real- time tumor tracking using a commercially available robotic treatment couch, and to evaluate tumor tracking accuracy.
+
+
+METHODS
+Commercially available robotic couches are capable of positioning patients with high level of accuracy; however, currently there is no provision for compensating tumor motion using these systems. Elekta's existing commercial couch (PreciseTM Table) was used without changing its design. To establish the real-time couch motion for tracking, a novel control system was developed and implemented. The tabletop could be moved in horizontal plane (laterally and longitudinally) using two Maxon-24V motors with gearbox combination. Vertical motion was obtained using robust 70V-Rockwell Automation motor. For vertical motor position sensing, we used Model 755A-Accu- Coder encoder. Two Baumer-ITD_01_4mm shaft encoders were used for the lateral and longitudinal motions of the couch. Motors were connected to the Advance Motion Controls (AMC) amplifiers: for the vertical motion, motor AMC-20A20-INV amplifier was used, and two AMC-Z6A8 amplifiers were applied for the lateral and longitudinal couch motions. The Galil DMC-4133 controller was connected to standard PC computer using USB port. The system had two independent power supplies: Galil PSR-12- 24-12A, 24vdc power supply with diodes for controller and 24vdc motors and amplifiers, and Galil-PS300W72 72vdc power supply for vertical motion. Control algorithms were developed for position and velocity adjustment.
+
+
+RESULTS
+The system was tested for real-time tracking in the range of 50mm in all 3 directions (superior-inferior, lateral, anterior- posterior). Accuracies were 0.15, 0.20, and 0.18mm, respectively. Repeatability of the desired motion was within ± 0.2mm.
+
+
+CONCLUSIONS
+Experimental results of couch tracking show feasibility of real-time tumor tracking with high level of accuracy (within sub-millimeter range). This tracking technique potentially offers a simple and effective method to minimize healthy tissues irradiation.Acknowledgement: Study supported by Elekta,Ltd. Study supported by Elekta, Ltd.

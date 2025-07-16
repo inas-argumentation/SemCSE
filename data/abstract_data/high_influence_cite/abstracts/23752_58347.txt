@@ -1,0 +1,2 @@
+Quantitative Constraint Logic Programming for Weighted Grammar Applications
+Constraint logic grammars provide a powerful formalism for expressing complex logical descriptions of natural language phenomena in exact terms. Describing some of these phenomena may, however, require some form of graded distinctions which are not provided by such grammars. Recent approaches to weighted constraint logic grammars attempt to address this issue by adding numerical calculation schemata to the deduction scheme of the underlying CLP framework.

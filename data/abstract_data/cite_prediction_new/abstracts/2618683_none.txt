@@ -1,0 +1,2 @@
+Optimized output baluns for wideband differential class D PAs
+This paper presents wideband baluns optimized for current made class D (CMCD) amplifiers. A tuned harmonic impedance space for the CMCD power amplifier (PA) can be defined for a maximum percent bandwidth of 100%. The present paper, therefore, examines wideband baluns to attach single-ended loads to the differential class D PA and offers an optimized planar balun with a bandwidth of 141%.

@@ -1,0 +1,2 @@
+An Optimal Parallel Algorithm for Formula Evaluation
+A new approach to Buss’s ${\textbf{NC}}^1 $ algorithm [Proc. 19th ACM Symposium on Theory of Computing, Association for Computing Machinery, New York, 1987, pp. 123–131] for evaluation of Boolean formulas is presented. This problem is shown to be complete for ${\textbf{NC}}^1 $ over ${\textbf{AC}}^0 $ reductions. This approach is then used to solve the more general problem of evaluating arithmetic formulas by using arithmetic circuits.

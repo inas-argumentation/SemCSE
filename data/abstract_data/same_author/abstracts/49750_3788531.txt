@@ -1,0 +1,2 @@
+Degree-Light-Free Graphs and Hamiltonian Cycles
+Abstract. Let G and H be graphs. G is said to be degree-light H-free if G is either H-free or, for every induced subgraph K of G with K≅H, and every {u,v}⊆K, distK(u,v)=2 implies max {d(u),d(v)}≥|V(G)|/2. In this paper, we will show that every 2-connected graph with either degree-light {K1,3, P6}-free or degree-light {K1,3, Z}-free is hamiltonian (with three exceptional graphs), where P6 is a path of order 6 and Z is obtained from P6 by adding an edge between the first and the third vertex of P6 (see Figure 1).

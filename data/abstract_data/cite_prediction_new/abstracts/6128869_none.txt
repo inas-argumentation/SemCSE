@@ -1,0 +1,2 @@
+Precise Calculation of the SEP of 128- and 512-Cross-QAM in AWGN
+An exact intuitive geometric infinite double series for the average symbol error probability of 128-cross-QAM and 512-cross-QAM in additive white Gaussian noise is derived. New simple and precise approximations for the average symbol error probabilities are also derived.

@@ -1,0 +1,2 @@
+Distance Bounding Protocols on TH UWB Radios
+Relay attacks pose a real threat to the security of wireless communications. Distance bounding protocols have been designed to thwart these attacks. In this paper, we study the way to adapt distance bounding protocols to time hopping ultra wide band (TH UWB) radios. Two protocols are proposed which are based on the milestones of the TH UWB radio: the time hopping sequence and the mapping code. The security and the different merits of those protocols are analyzed.

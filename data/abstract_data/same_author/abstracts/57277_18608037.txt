@@ -1,0 +1,2 @@
+Edge-Colorings with No Large Polychromatic Stars
+Abstract. Given a graph G and a positive integer r, let fr(G) denote the largest number of colors that can be used in a coloring of E(G) such that each vertex is incident to at most r colors. For all positive integers n and r, we determine fr(Kn,n) exactly and fr(Kn) within 1. In doing so, we disprove a conjecture by Manoussakis, Spyratos, Tuza and Voigt in [4].

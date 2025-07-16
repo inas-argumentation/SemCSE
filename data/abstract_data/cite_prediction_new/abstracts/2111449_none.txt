@@ -1,0 +1,2 @@
+Double field oriented sensorless control of cage induction motor
+The paper presents a vector control strategy for induction motor without mechanical sensor using double field-orientation procedure. It combines the advantages of both, rotor-and stator-field orientation. As a consequence the computation of control variables and also the speed identification calculus is independent of the rotor resistance, which improves the performance/robustness of the system.

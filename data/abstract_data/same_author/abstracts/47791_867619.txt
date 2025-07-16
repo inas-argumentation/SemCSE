@@ -1,0 +1,2 @@
+Estimating Dominance Norms of Multiple Data Streams
+There is much focus in the algorithms and database communities on designing tools to manage and mine data streams. Typically, data streams consist of multiple signals. Formally, a stream of multiple signals is (i,a i,j ) where i’s correspond to the domain, j’s index the different signals and a i,j ≥ 0 give the value of the jth signal at point i. We study the problem of finding norms that are cumulative of the multiple signals in the data stream.

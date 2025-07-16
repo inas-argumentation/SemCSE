@@ -1,0 +1,2 @@
+Minimal Cost Reachability/Coverability in Priced Timed Petri Nets
+We extend discrete-timed Petri nets with a cost model that assigns token storage costs to places and firing costs to transitions, and study the minimal cost reachability/coverability problem. We show that the minimal costs are computable if all storage/transition costs are non-negative, while even the question of zero-cost coverability is undecidable in the case of general integer costs.

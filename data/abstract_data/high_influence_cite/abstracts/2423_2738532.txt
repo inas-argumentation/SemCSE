@@ -1,0 +1,6 @@
+Network Performance Assessment Using Adaptive Traffic Sampling
+Multimedia and real-time services are spreading all over the Internet. The delivery quality of such contents is closely related to its network performance, for example in terms such as low latency or few packet losses. 
+ 
+Both customers and operators want some feedback from the network in order to assess the real provided quality. There are proposals about distributed infrastructures for the on-line reporting of these quality metrics. The issue all these infrastructures must face is the high resource requirements to keep up with accurate and live reporting. 
+ 
+This paper proposes an adaptive sampling methodology to control the resources needed for the network performance reporting. Moreover, the solution keeps up with accurate live reporting of the main network performance metrics. The solution is tested in a European wide testbed with real traffic which permits to assess the accuracy and to study the resources consumption of the system.

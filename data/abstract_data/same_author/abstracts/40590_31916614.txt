@@ -1,0 +1,12 @@
+Monochromatic Paths and Triangulated Graphs
+This paper considers two properties of graphs, one geometrical and one topological, and shows that they are strongly related. Let G be a graph with four distinguished and distinct vertices, w1, w2, b1, b2. Consider the two properties, TRI+(G) and MONO(G), defined as follows. 
+TRI+(G): There is a planar drawing of G such that 
+all 3-cycles of G are faces; 
+all faces of G are triangles except for the single face which is the 4-cycle (w1-b1-w2-b2-w1). 
+ 
+ 
+MONO(G): G contains the 4-cycle (w1-b1-w2-b2-w1) and, for any labeling of the vertices of G by the colors {white, black} such that w1 and w2 are white, while b1 and b2 are black, precisely one of the following holds. 
+There is a path of white vertices connecting w1 and w2. 
+There is a path of black vertices connecting b1 and b2. 
+ 
+Our main result is that a graph G enjoys property TRI+(G) if and only if it is minimal with respect to property MONO. Building on this, we show that one can decide in polynomial time whether or not a given graph G has property MONO(G).

@@ -1,0 +1,2 @@
+Formal refinement and model checking of an echo cancellation unit
+This article presents an approach, which combines theorem proving-based refinement with model checking for state based real-time systems. Our verification flow starts from UML state diagrams, which are translated to the formal B language and are model checked for real-time properties. By means of the B language and a B theorem prover, refined state diagrams are verified against their abstract representation. The approach is presented by means of the refinement of a digital echo cancellation unit.

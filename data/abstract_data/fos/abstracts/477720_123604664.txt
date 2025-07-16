@@ -1,0 +1,2 @@
+Empirical power comparisons of two mrpp rank tests
+Simulated powers of the MRPP two-sample rank test statistic ?1- are compared with the powers of the MRPP test statistic ?2(the two-sided Wilcoxon-Mann-Whitney test) for large samples from several underlying populations. Powers are obtained using two approximate distributions of ?1 involving three and four moments respectively, The use of the fourth moment indicates that an approximation to the null distribution of ? based on four moments can perform better

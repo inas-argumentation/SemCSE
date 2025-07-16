@@ -1,0 +1,12 @@
+Motion-Alert: Automatic Anomaly Detection in Massive Moving Objects
+With recent advances in sensory and mobile computing technology, enormous amounts of data about moving objects are being collected. With such data, it becomes possible to automatically identify suspicious behavior in object movements. Anomaly detection in massive sets of moving objects has many important applications, especially in surveillance, law enforcement, and homeland security. 
+ 
+Due to the sheer volume of spatiotemporal and non-spatial data (such as weather and object type) associated with moving objects, it is challenging to develop a method that can efficiently and effectively detect anomalies in complex scenarios. The problem is further complicated by the fact that anomalies may occur at various levels of abstraction and be associated with different time and location granularities. In this paper, we analyze the problem of anomaly detection in moving objects and propose an efficient and scalable classification method, Motion-Alert, which proceeds with the following three steps. 
+ 
+Object movement features, called motifs, are extracted from the object paths. Each path consists of a sequence of motif expressions, associated with the values related to time and location. 
+ 
+To discover anomalies in object movements, motif-based generalization is performed that clusters similar object movement fragments and generalizes the movements based on the associated motifs. 
+ 
+With motif-based generalization, objects are put into a multi-level feature space and are classified by a classifier that can handle high-dimensional feature spaces. 
+ 
+We implemented the above method as one of the core components in our moving-object anomaly detection system, motion-alert. Our experiments show that the system is more accurate than traditional classification techniques.

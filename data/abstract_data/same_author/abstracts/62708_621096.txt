@@ -1,0 +1,2 @@
+A systematic approach to the test of combined HW/SW systems
+Today we can identify a big gap between requirement specification and the generation of test environments. This article extends the Classification Tree Method for Embedded Systems (CTM/ES) to fill this gap by new concepts for the precise specification of stimuli for operational ranges of continuous control systems. It introduces novel means for continuous acceptance criteria definition and for functional coverage definition.

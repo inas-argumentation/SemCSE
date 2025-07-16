@@ -1,0 +1,2 @@
+A chiral lagrangian with broken scale: a Fortran code with the thermal contributions of the dilaton field
+The Chiral Dilaton Model is a chiral lagrangian in which the breaking of scale invariance is regulated by the expectation value of a scalar field, called dilaton. Here we provide a Fortran code \cite{epaps,ind}, as a tool to make calculations within the Chiral Dilaton Model at finite density and temperature. The calculations are improved respect to previous works [arXiv:0704.3707,arXiv:0805.4188] by including the thermal contributions of the dilaton field.

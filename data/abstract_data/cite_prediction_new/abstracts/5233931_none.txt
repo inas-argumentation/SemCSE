@@ -1,0 +1,2 @@
+Iris-Based Person Identification Using Gabor Wavelets and Moments
+In this paper, we presented an iris recognition algorithm based on Gabor wavelets and invariant moments. The proposed system includes three modules: image preprocessing, feature extraction, and recognition modules.

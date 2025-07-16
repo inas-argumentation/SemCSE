@@ -1,0 +1,2 @@
+Power variation & stochastic volatility: a review and some new results
+In this paper we review some recent work on limit results on realised power variation, that is sums of powers of absolute increments of various semimartingales. A special case of this analysis is realised variance and its probability limit, quadratic variation. Such quantities often appear in financial econometrics in the analysis of volatility. The paper also provides some new results and discusses open issues.

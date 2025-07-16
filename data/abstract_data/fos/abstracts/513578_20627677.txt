@@ -1,0 +1,15 @@
+Technical Note: High temporal resolution characterization of gating response time.
+PURPOSE
+Low temporal latency between a gating ON/OFF signal and the LINAC beam ON/OFF during respiratory gating is critical for patient safety. Here the authors describe a novel method to precisely measure gating lag times at high temporal resolutions.
+
+
+METHODS
+A respiratory gating simulator with an oscillating platform was modified to include a linear potentiometer for position measurement. A photon diode was placed at linear accelerator isocenter for beam output measurement. The output signals of the potentiometer and diode were recorded simultaneously at 2500 Hz with an analog to digital converter for four different commercial respiratory gating systems. The ON and OFF of the beam signal were located and compared to the expected gating window for both phase and position based gating and the temporal lag times extracted.
+
+
+RESULTS
+For phase based gating, a real-time position management (RPM) infrared marker tracking system with a single camera and a RPM system with a stereoscopic camera were measured to have mean gate ON/OFF lag times of 98/90 and 86/44 ms, respectively. For position based gating, an AlignRT 3D surface system and a Calypso magnetic fiducial tracking system were measured to have mean gate ON/OFF lag times of 356/529 and 209/60 ms, respectively.
+
+
+CONCLUSIONS
+Temporal resolution of the method was high enough to allow characterization of individual gate cycles and was primary limited by the sampling speed of the data recording device. Significant variation of mean gate ON/OFF lag time was found between different gating systems. For certain gating devices, individual gating cycle lag times can vary significantly.

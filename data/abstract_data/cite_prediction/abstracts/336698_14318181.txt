@@ -1,0 +1,2 @@
+Support Vector Machines Based on a Semantic Kernel for Text Categorization
+We propose to solve a text categorization task using a new metric between documents, based on a priori semantic knowledge about words. This metric can be incorporated into the definition of radial basis kernels of Support Vector Machines or directly used in a K-nearest neighbors algorithm. Both SVM and KNN are tested and compared on the 20 newsgroups database. Support Vector Machines provide the best accuracy on test data.

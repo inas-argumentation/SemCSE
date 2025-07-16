@@ -1,0 +1,2 @@
+Automatic Component Selection with Semantic Technologies
+Selecting a suitable set of available software components for a component-based software system is a laborious task, often too complex to perform manually. We present a novel approach to automatic component selection that respects dependencies between the required components, an issue not considered by existing approaches. Our approach, which utilizes semantic technologies, is based on comprehensive semantic descriptions of software components and their functionalities.

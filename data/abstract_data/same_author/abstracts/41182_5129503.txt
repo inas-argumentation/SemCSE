@@ -1,0 +1,2 @@
+Detailed layer assignment for MCM routing
+A new routing environment model, called the k-MCM model, is developed to take into account the unique features of a multilayer MCM, such as the availability of “segmented vias” , and the presence of two “active” or terminal-bearing layers. A detailed layer assignment problem is formulated on the k-MCM model. A fast heuristic algorithm for the layer assignment problem is proposed. and experimental results on twelve test examples with net counts up to 842 are presented.

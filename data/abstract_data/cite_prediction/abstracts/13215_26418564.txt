@@ -1,0 +1,2 @@
+Interactive region segmentation for manga
+Manga (Japanese comics) are popular all over the world, and are created digitally. In this paper, we propose an interactive segmentation method tailored for manga. The proposed method enables annotators to select areas in manga efficiently. Our experimental results showed that the proposed framework works better than Adobe Photoshop CC, which is the most widely used commercial image editing software.

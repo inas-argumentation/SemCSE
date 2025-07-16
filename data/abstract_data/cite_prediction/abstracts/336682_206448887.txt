@@ -1,0 +1,2 @@
+Predicting Student Performance Using Personalized Analytics
+To help solve the ongoing problem of student retention, new expected performance-prediction techniques are needed to facilitate degree planning and determine who might be at risk of failing or dropping a class. Personalized multiregression and matrix factorization approaches based on recommender systems, initially developed for e-commerce applications, accurately forecast students' grades in future courses as well as on in-class assessments.

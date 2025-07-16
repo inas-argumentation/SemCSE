@@ -1,0 +1,2 @@
+Unifying Keywords and Visual Contents in Image Retrieval
+We're interested in using keywords and visual content together in image retrieval. We used a seamless joint querying and relevance feedback scheme based on keywords and lowlevel visual content, incorporating keyword similarities. We developed an algorithm for a learned word similarity matrix and conducted experiments that validated our approach.

@@ -1,0 +1,15 @@
+The effects of alcohol on the nonhuman primate brain: a network science approach to neuroimaging.
+BACKGROUND
+Animal studies have long been an important tool for basic research as they offer a degree of control often lacking in clinical studies. Of particular value is the use of nonhuman primates (NHPs) for neuroimaging studies. Currently, studies have been published using functional magnetic resonance imaging (fMRI) to understand the default-mode network in the NHP brain. Network science provides an alternative approach to neuroimaging allowing for evaluation of whole-brain connectivity. In this study, we used network science to build NHP brain networks from fMRI data to understand the basic functional organization of the NHP brain. We also explored how the brain network is affected following an acute ethanol (EtOH) pharmacological challenge.
+
+
+METHODS
+Baseline resting-state fMRI was acquired in an adult male rhesus macaque (n = 1) and a cohort of vervet monkeys (n = 10). A follow-up scan was conducted in the rhesus macaque to assess network variability and to assess the effects of an acute EtOH challenge on the brain network.
+
+
+RESULTS
+The most connected regions in the resting-state networks were similar across species and matched regions identified as the default-mode network in previous NHP fMRI studies. Under an acute EtOH challenge, the functional organization of the brain was significantly impacted.
+
+
+CONCLUSIONS
+Network science offers a great opportunity to understand the brain as a complex system and how pharmacological conditions can affect the system globally. These models are sensitive to changes in the brain and may prove to be a valuable tool in long-term studies on alcohol exposure.

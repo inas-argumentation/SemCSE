@@ -1,0 +1,2 @@
+A Single-Phase AC Power Supply Based on Modified Quasi-Z-Source Inverter
+This paper presents a single-phase ac power supply circuit that based on modified voltage-fed quasi-Z-source inverter topology; it suits to the light or the heavy load and is fit for the resistive, inductive, or capacitive load. The topology, operating principle, voltage gain, control method, and its realization by DSP are described in this paper. The feasibility and rationality of the system is verified by the simulation and experimental results.

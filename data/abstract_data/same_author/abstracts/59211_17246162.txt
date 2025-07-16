@@ -1,0 +1,2 @@
+A Tool Set for deciding Behavioral Equivalences
+This paper deals with verification methods based on equivalence relations between labeled transition systems. More precisely, we are concerned by two practical needs: how to efficiently minimize and compare labeled transition systems with respect to bisimulation or simulation-based equivalence relations.

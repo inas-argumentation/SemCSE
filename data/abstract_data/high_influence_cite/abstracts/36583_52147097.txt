@@ -1,0 +1,15 @@
+Radioembolization lung shunt estimation based on a 90Y pretreatment procedure: A phantom study
+PURPOSE
+Prior to 90 Y radioembolization, a pretreatment procedure is performed, in which 99m Tc-macroaggerated albumin (99m Tc-MAA) is administered to estimate the amount of activity shunting to the lungs. A high lung shunt fraction (LSF) may impose lower prescribed treatment activity or even impede treatment. Accurate LSF measurement is therefore important, but is hampered by the use of MAA particles, which differ from 90 Y microspheres. Ideally, 90 Y microspheres would also be used for the pretreatment procedure, but this would require the activity to be lower than an estimated safety threshold of about 100 MBq to avoid unintended radiation damage. However, 90 Y is very challenging to image, especially at low activities (<100 MBq). The purpose of this study was to evaluate the performance of three nuclear imaging techniques in estimating the LSF in a low activity 90 Y pretreatment scan, using an anthropomorphic phantom: (a) positron emission tomography/computed tomography (PET/CT), (b) Bremsstrahlung single photon emission tomography/computed tomography (SPECT/CT), and (c) planar imaging.
+
+
+METHODS
+The lungs and liver of an anthropomorphic phantom were filled with 90 Y chloride to acquire an LSF of 15%. Several PET/CT (Siemens Biograph mCT), Bremsstrahlung SPECT/CT (Siemens Symbia T16) and planar images (Siemens Symbia T16) were acquired at a range of 90 Y activities (1586 MBq down to 25 MBq). PET images were reconstructed using a clinical protocol (attenuation correction, TOF, scatter and random correction, OP-OSEM), SPECT images were reconstructed using both a clinical protocol (attenuation correction, OSEM) and a Monte Carlo (MC)-based reconstruction method (MC-based detector, scatter, and attenuation modeling, OSEM), for planar images the geometric mean was calculated. In addition, in all cases except clinical SPECT, background correction was included. The LSF was calculated by assessing the reconstructed activity in the lungs and in the liver, as delineated on the CT images. In addition to the 15% LSF, an extra "cold" region was included to simulate an LSF of 0%.
+
+
+RESULTS
+PET reconstructions accurately estimated the LSF (absolute difference <2 percent point (pp)) when total activity was over 200 MBq, but greatly overestimated the LSF (up to 25pp) when activity decreased. Bremsstrahlung SPECT clinical reconstructions overestimated the LSF (up to 13pp) when activity was both high and low. Similarly, planar images overestimated the LSF (up to 23pp). MC-based SPECT reconstructions accurately estimated the LSF with an absolute difference of less than 1.3pp for activities as low as 70 MBq.
+
+
+CONCLUSIONS
+Bremsstrahlung SPECT/CT can accurately estimate the LSF for a 90 Y pretreatment procedure using a theoretically safe 90 Y activity as low as 70 MBq, when reconstructed with an MC-based model.

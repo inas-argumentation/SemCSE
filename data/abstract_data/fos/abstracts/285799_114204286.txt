@@ -1,0 +1,2 @@
+Keyboard Defects Detection Based on Template Matching Method
+A method based on the template matching is proposed for the defects detection of keyboard. The local threshold method is used to calculate the threshold value for image binarization. Two features are used for target segmentation. One is the sum of white pixels value in vertical. The other is the height-width ratio of target contours. After getting the character region, a template is used to matching with the area to be detected. The experiments show the method is feasible.

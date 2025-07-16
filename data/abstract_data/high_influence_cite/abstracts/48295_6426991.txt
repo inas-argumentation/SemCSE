@@ -1,0 +1,33 @@
+Energy-Efficient Methods for Highly Correlated Spatio-Temporal Environments in Wireless Sensor Network Communications
+Continuous-monitoring (CM) 
+of natural phenomenon is one of the major streams of applications in wireless 
+sensor networks (WSNs), where aggregation and clustering techniques are 
+beneficial as correlation dominates in both spatial and temporal aspects of 
+sensed phenomenon. Conversely, in Event Driven Reporting (EDR), the efficient 
+transmission of sensitive data related to some predefined alarm cases is of 
+major importance. As such, reporting latency is a more important performance 
+parameter. However, in some applications, the transmission of both CM and EDR 
+data is encouraged or even required. For either CM or EDR applications, system 
+performance can be greatly improved when both the number of packets to be 
+transmitted as well as the packet size is reduced. This is especially true for 
+highly dense sensor networks where many nodes detect the same values for the 
+sensed phenomenon. Building on this, this paper focuses on studying and 
+proposing compression techniques to improve the system performance in terms of 
+energy consumption and reporting latency in both CM and EDR applications. 
+Furthermore, we extend our analysis to hybrid networks where CM and EDR are 
+required simultaneously. Specifically, this paper presents a simple aggregation 
+technique named smart aggregation (SAG) for the CM applications and an event 
+driven scheme named compression cluster scheme in spatial correlated region 
+(CC_SCR). The proposed SAG exploits both spatial and temporal correlations 
+where CC_SCR exploits the spatial correlation of such networks by data 
+compression. Rationalizing the developments is attained by simulations that 
+compare energy efficiency of the proposed SAG with k-hop aggregation and CM based event driven reporting (CMEDR) 
+schemes. Results of CC_SCR show that the technique may reduce the energy 
+consumption drastically. In some specific cases the reduction becomes more 
+than 10 times compared to a classical clustering scheme. Two different strategies 
+for the transmission of event reports through the CM infrastructure are 
+incorporated: PER and NPER protocols. Both strategies take advantage of the 
+cluster-based architecture which assigns a TDMA schedule for the CM data 
+transmission while using NP/CSMA for the transmission of the event information. 
+Consequently, no extra energy is consumed for separate event clusters. As such, 
+the number of packets to be transmitted is greatly reduced.

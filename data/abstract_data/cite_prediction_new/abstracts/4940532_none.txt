@@ -1,0 +1,2 @@
+Modelling Hybrid Petri Nets to analyze contingencies in Power Systems
+This paper proposes the use of Hybrid Petri Nets for processing information of Power Systems under transient conditions. It is ordered a group of digital samples coming from substation equipment as Phasor Measurement Units, Relays and Circuit Breakers. Finally are tested Hybrid Petri Net in the task of identifying the fault cause to assist Control Center operators.

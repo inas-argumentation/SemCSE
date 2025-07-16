@@ -1,0 +1,2 @@
+On a backward problem for multidimensional Ginzburg-Landau equation with random data
+In this paper, we consider a backward in time problem for Ginzburg-Landau equation in multidimensional domain associated with some random data. The problem is ill-posed in the sense of Hadamard. To regularize the instable solution, we develop a new regularized method combined with statistical approach to solve this problem. We prove a upper bound, on the rate of convergence of the mean integrated squared error in $L^2 $ norm and $H^1$ norm.

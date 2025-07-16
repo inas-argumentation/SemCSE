@@ -1,0 +1,2 @@
+Frequency and recovery effects in high-κ BTI degradation
+Net end-of-life aging prediction under realistic use conditions is the key objective for any product aging model. In this paper, a net degradation model is introduced and effects such as recovery, subsequent degradation, frequency, duty cycle, and recovery bias are evaluated. The high-κ recovery behavior observed is consistent with SiO2 gate stacks, which allows the use of SiO2 models to predict recovery in both NMOS and PMOS high-κ transistors.

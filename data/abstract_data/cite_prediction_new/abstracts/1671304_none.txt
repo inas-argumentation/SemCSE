@@ -1,0 +1,2 @@
+A stage structured predator-prey model with disease in the prey
+A non-linear mathematical model for a prey-predator community is proposed and analyzed. In the model, prey gets infected and predator population is structured into two stages of life, immature and mature with a time lag between two stages. Boundedness and non-negativity of the solutions of the system have been proved. Criterion for the stability of the system in the absence of delay is derived and bifurcation is found. The critical value of delay parameter for which stability change may occur is obtained.

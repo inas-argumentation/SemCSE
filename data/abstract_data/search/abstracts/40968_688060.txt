@@ -1,0 +1,2 @@
+Consistent pitch marking
+The pitch marking algorithm presented in this paper avoids inconsistency errors between pitch markers in subsequent fundamental periods by adding the requirements of waveform and pitch consistency. The approach is as follow s. Candidate pitch markers satisfying userdefined properties for pitch marking are selected first. Dynamic programming is then used to find the sequence of candidate pitch markers that optimally satisfies the waveform and pitchconsistency requirements. The algorithm is described in detail and results are presented.

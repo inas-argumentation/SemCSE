@@ -1,0 +1,2 @@
+Application of a New Neural Network Model in Data Mining
+Considering that the traditional neural networks exist problems,proposes a new neural network model named Legendre feed-forward neural network model.More importantly,proposes a weights immediate determination method based on pseudo-inverse for Legendre feed-forward neural network and applies it in data mining.Experiment result shows the algorithm has fast convergence rate and excellent classification performance.

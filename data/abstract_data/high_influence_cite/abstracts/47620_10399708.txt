@@ -1,0 +1,2 @@
+Construction of commutative filters for LES on unstructured meshes
+A method of constructing discrete filters for large eddy simulation of turbulent flows on unstructured meshes is presented. The commutation error between differentiation and filtering can be made arbitrarily small with these filters. The filtering method is applied to various test cases to demonstrate commutation. An extension to three dimensions and implementation into an unstructured solver for LES are discussed.

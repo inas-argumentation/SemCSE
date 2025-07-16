@@ -1,0 +1,2 @@
+NMR chemical shifts and structure refinement in proteins
+SummaryComputation of the 13Cα chemical shifts (or shieldings) of glycine, alanine and valine residues in bovine and Drosophila calmodulins and Staphylococcal nuclease, and comparison with experimental values, is reported using a gauge-including atomic orbital quantum-chemical approach. The full ≈24 ppm shielding range is reproduced (overall r.m.s.d.=1.4 ppm) using ‘optimized’ protein structures, corrected for bond-length/bond-angle errors, and rovibrational effects.

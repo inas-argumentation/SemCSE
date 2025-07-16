@@ -1,0 +1,2 @@
+Stochastic convergence of weighted sums in normed linear spaces
+Let X be a (real) separable Banach space, let {Vk} be a sequence of random elements in X, and let {ank} be a double array of real numbers such that limn-->[infinity] ank = 0 for all k and [Sigma][infinity]k=1 ank

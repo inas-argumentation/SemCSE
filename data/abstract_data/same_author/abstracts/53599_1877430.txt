@@ -1,0 +1,2 @@
+Mobile Robot Navigation Using Particle Swarm Optimization and Adaptive NN
+This paper presents a novel design for mobile robot using particle swarm optimization (PSO) and adaptive NN control. The adaptive NN control strategy guarantees that robot with nonholonomic constraints can follow smooth trajectories. Based on this property, a PSO algorithm for path planning is proposed. The path planning generates smooth path with low computational cost to avoid obstacles, so that robot can use smooth control strategy to track the trajectory.

@@ -1,0 +1,2 @@
+Data space oriented scheduling in embedded systems
+With the widespread use of embedded devices such as PDAs, printers, game machines, cellular telephones, achieving high performance demands an optimized operating system (OS) that can take full advantage of the underlying hardware components. This paper presents a locality conscious process scheduling strategy for embedded environments. The objective of our scheduling strategy is to maximize reuse in the data cache. It achieves this by restructuring the process codes based on data sharing patterns between processes.

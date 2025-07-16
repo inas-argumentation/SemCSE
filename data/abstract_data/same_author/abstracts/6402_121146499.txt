@@ -1,0 +1,2 @@
+Prototype tests of two controlled geometry drift chambers
+This report presents results on the performance of two new drift chamber geometries, which were optimized for space resolution and two-track separation. The best performance requires isochronous drift collection, low electron diffusion, and careful signal shaping. The role of the mobility of electrons and positive ions is emphasized. We tested two geometries, and at a gas pressure of 1 atm we found σ ⋍ 60–70 μ m for the single-track resolution and Δ ⋍ 600 μ m for the two-track separation.

@@ -1,0 +1,2 @@
+Analysis of a memristor based 1T1M crossbar architecture
+The recently discovered memristor has the potential to be the building block of a high-density memory system. A memristor based crossbar memory system was analyzed in terms of timing and switching energy using SPICE. The memristor model in the simulations was designed to match the I–V characteristics of three different published devices. The simulation results for each device were compared to demonstrate the performance of a one transistor one memristor (1T1M) memristor crossbar.

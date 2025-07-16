@@ -1,0 +1,2 @@
+Word Graphs: The Third Set
+This is the third paper in a series of natural language processing in term of knowledge graphs. A word is a basic unit in natural language processing. This is why we study word graphs. Word graphs were already built for prepositions and adwords (including adjectives, adverbs and Chinese quantity words) in two other papers [2], [3]. In this paper, we propose the concept of the logic word and classify logic words into groups in terms of semantics and the way they are used in describing reasoning processes.

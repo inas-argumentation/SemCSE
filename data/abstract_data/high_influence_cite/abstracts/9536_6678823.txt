@@ -1,0 +1,3 @@
+Blocked algorithms for the reduction to Hessenberg-triangular form revisited
+
+We present two variants of Moler and Stewart’s algorithm for reducing a matrix pair to Hessenberg-triangular (HT) form with increased data locality in the access to the matrices. In one of these variants, a careful reorganization and accumulation of Givens rotations enables the use of efficient level 3 BLAS. Experimental results on four different architectures, representative of current high performance processors, compare the performances of the new variants with those of the implementation of Moler and Stewart’s algorithm in subroutine DGGHRD from LAPACK, Dackland and Kågström’s two-stage algorithm for the HT form, and a modified version of the latter which requires considerably less flops.

@@ -1,0 +1,15 @@
+Comparison of cancer diagnosis recording between the Clinical Practice Research Datalink, Cancer Registry and Hospital Episodes Statistics.
+INTRODUCTION
+The Clinical Practice Research Datalink (CPRD) is a large electronic dataset of primary care medical records. For the purpose of epidemiological studies, it is necessary to ensure accuracy and completeness of cancer diagnoses in CPRD.
+
+
+METHOD
+Cases included had a colorectal, oesophagogastric (OG), breast, prostate or lung cancer diagnosis recorded in a least one of CPRD, Cancer Registry (CR) or Hospital Episodes Statistics(HES) between 2000 and 2013. Agreement in diagnosis between the datasets, difference in dates, survival at one and five-years, and whether patient characteristics differed according to the dataset or the timing of diagnosis were investigated.
+
+
+RESULTS
+116,769 patients were included. For each cancer, approximately 10% of cases identified from CPRD or HES were not confirmed in the CR. 25.5% colorectal, 26.0% OG, 8.9% breast, 32.0% lung and 18.6% prostate cases identified from the CR were missing in CPRD. The diagnosis date was recorded later in CPRD compared with CR for each cancer, ranging from 81.1% for prostate to 59.6% for colorectal, especially if the diagnosis was an emergency. Compared with the CR and HES, the adjusted risk of a missing diagnosis in CPRD was significantly higher if the patient was older, had more co-morbidities or was diagnosed as an emergency. Survival at one and five-years was highest for CPRD.
+
+
+CONCLUSION
+Patient demographics and the route of diagnosis impact the accuracy of cancer diagnosis in CPRD. Although CPRD provides invaluable primary care data, patients should ideally be identified from the CR to reduce bias.

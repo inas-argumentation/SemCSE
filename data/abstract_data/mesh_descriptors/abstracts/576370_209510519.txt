@@ -1,0 +1,15 @@
+Association between lncRNA H19 polymorphisms and cancer susceptibility based on a meta-analysis from 25 studies.
+BACKGROUND
+Long non-coding RNA H19 polymorphisms were reported to be related to cancer susceptibility. However, the results from individual studies have been controversial or inconsistent. To clarify the associations between H19 single nucleotide polymorphisms (rs2107425, rs217727, rs2735971, rs2839698, rs3024270, and rs3741219) and the cancer susceptibility more accurately.
+
+
+METHODS
+Relevant publications were searched from PubMed and EMBASE up to May 31, 2019, for studies in English only. The reference lists of the retrieved studies were also investigated. Pooled odds ratio (OR) with 95% confidence interval (CI) was calculated to find out the relationship between the H19 polymorphisms and cancer susceptibility. All of the data were analyzed using Stata 12.0.
+
+
+RESULTS
+The results showed that rs2107425 polymorphisms was associated with an increasing cancer susceptibility in Asian (T vs C: OR 1.13, 95% CI 1.01-1.28; TT+CT vs CC: OR 1.21, 95% CI 1.03-1.44; CT vs CC: OR 1.21, 95% CI 1.01-1.44) and decreasing risk in Caucasian (T vs C: OR 0.90, 95% CI 0.84-0.97; TT+CT vs CC: OR 0.84, 95% CI 0.75-0.94; CT vs CC: OR 0.82, 95% CI 0.72-0.94). And rs217727 polymorphism was associated with an increasing cancer susceptibility in the Asian (A vs G: OR 1.09, 95% CI 1.02-1.17; AA+GA vs GG: OR 1.12, 95% CI 1.01-1.21; AA vs GG: OR 1.18, 95% CI 1.02-1.36). Additionally, rs2839698 polymorphism was associated with an increasing risk overall (A vs G: OR 1.18, 95% CI 1.06-1.31), in breast cancer (A vs G: OR 1.67, 95% CI 1.14-2.45; AA+AG vs GG: OR 1.98, 95% CI 1.20-3.25; AG vs GG: OR 1.89, 95% CI 1.16-3.07), in Asian (A vs G: OR 1.09, 95% CI 1.03-1.14; AA+AG vs GG: OR 1.11, 95% CI 1.04-1.21; AA vs AG+GG: OR 1.12, 95% CI 1.01-1.25; AA vs GG: OR 1.15, 95% CI 1.01-1.49; AG vs GG: OR 1.09, 95% CI 1.02-1.17), and in Caucasian (AA vs AG+GG: OR 1.81, 95% CI 1.25-2.61).
+
+
+CONCLUSION
+H19 rs2107425, rs217727 and rs2839698 were associated with an increasing cancer susceptibility in Asian. Rs2107425 was associated with a decreasing risk and rs2839698 was associated with an increasing risk in Caucasian. No significant association was found in H19 rs2735971, rs3024270 and rs3741219 polymorphisms and cancer susceptibility.

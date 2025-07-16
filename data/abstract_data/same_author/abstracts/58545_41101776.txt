@@ -1,0 +1,2 @@
+Agent Communication Languages: Rethinking the Principles
+Agent communication languages have been used for years in proprietary multiagent systems. Yet agents from different vendors--or even different research projects--cannot communicate with each other. The author looks at the underlying reasons and proposes a conceptual shift from individual agent representations to social interaction.

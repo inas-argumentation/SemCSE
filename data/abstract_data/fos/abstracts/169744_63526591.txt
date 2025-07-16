@@ -1,0 +1,2 @@
+Analysis and Forecasting of Bugs Based on Time Series Model
+The number of bugs which are found in the large-scale software testing are a random time series and have no fixed quantitative rule,but we can study their quantitative relationship by mathematical model. After processing and analysis the bugs came from an actual DBMS, an ARMA(p,q) model was built. By this model,we not only can forecast the number of bugs in the future, but also find the quality control problems in software development.

@@ -1,0 +1,2 @@
+PNP-eSCR ESD protection device with tunable trigger and holding voltage for high voltage applications
+A novel ESD device (PNP with embedded SCR), with tunable VT1 and VH, is proposed for high voltage applications. Tuning is achieved through design and process options. The trigger mechanism is determined by the series connection of PNP(s) and diode. The holding voltage is determined by the eSCR and additional PNP(s).

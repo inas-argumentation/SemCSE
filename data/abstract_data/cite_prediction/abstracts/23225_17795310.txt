@@ -1,0 +1,2 @@
+A 1V 11fJ/conversion-step 10bit 10MS/s asynchronous SAR ADC in 0.18µm CMOS
+This paper presents a 10-bit SAR ADC using a variable window function to reduce the unnecessary switching in DAC network. At 10-MS/s and 1-V supply, the ADC consumes only 98 µW and achieves an SNDR of 60.97 dB, resulting in an FOM of 11 fJ/Conversion-step. The prototype is fabricated in a 0.18µm CMOS technology.

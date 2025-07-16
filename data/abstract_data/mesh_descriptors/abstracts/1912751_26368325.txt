@@ -1,0 +1,15 @@
+A score model for predicting post-liver transplantation survival in HBV cirrhosis-related hepatocellular carcinoma recipients: a single center 5-year experience.
+BACKGROUND
+The prognostic prediction of liver transplantation (LT) guides the donor organ allocation. However, there is currently no satisfactory model to predict the recipients' outcome, especially for the patients with HBV cirrhosis-related hepatocellular carcinoma (HCC). The present study was to develop a quantitative assessment model for predicting the post-LT survival in HBV-related HCC patients.
+
+
+METHODS
+Two hundred and thirty-eight LT recipients at the Liver Transplant Center, First Affiliated Hospital, Zhejiang University School of Medicine between 2008 and 2013 were included in this study. Their post-LT prognosis was recorded and multiple risk factors were analyzed using univariate and multivariate analyses in Cox regression.
+
+
+RESULTS
+The score model was as follows: 0.114X(Child-Pugh score)-0.002X(positive HBV DNA detection time)+0.647X(number of tumor nodules)+0.055X(max diameter of tumor nodules)+0.231XlnAFP+0.437X(tumor differentiation grade). The receiver operating characteristic curve analysis showed that the area under the curve of the scoring model for predicting the post-LT survival was 0.887. The cut-off value was 1.27, which was associated with a sensitivity of 72.5% and a specificity of 90.7%, respectively.
+
+
+CONCLUSION
+The quantitative score model for predicting post-LT survival proved to be sensitive and specific.

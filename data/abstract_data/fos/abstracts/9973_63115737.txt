@@ -1,0 +1,2 @@
+Research and Implement of Embedded Browser Framework Based on μcLinux
+Introduces a sample framework of embedded browser. It has characteristics of modulation, custom-made and easy expansion. With the Document Object Tree mechanism, the framework manages widgets more effectively, simplifies the browser's development and provides good expansibility. And then introduces, the embedded browser on μcLinux OS is introduced, which has been designed and implemented based on this framework.

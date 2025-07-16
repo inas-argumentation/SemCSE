@@ -1,0 +1,2 @@
+The complete inclusion structure of leaf power classes
+Let k>=2 be an integer and G=(V,E) be a finite simple graph. A tree T is a k-leaf root of G, if V is the set of leaves of T and, for any two distinct x,y@?V, the distance between x and y in T is at most k if and only if xy@?E. We say that G is a k-leaf power if there is a k-leaf root of G. The main result of this paper is that, for all 2@?k

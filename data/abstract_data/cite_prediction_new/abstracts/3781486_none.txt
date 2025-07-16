@@ -1,0 +1,2 @@
+3D Recursive Extrapolation Operators - a Comparison
+To visualize the 3-D subsurface of the earth, 3-D migration algorithms are needed that give accurate results within a reasonable computation time. The backbone of every recursive depth migration algorithm is a 3-D extrapolation algorithm.

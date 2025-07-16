@@ -1,0 +1,2 @@
+Open-loop Nash equilibrium of N-person nonzero sum linear-quadratic differential games with magnitude restraints
+We prove the existence of an open-loop Nash equilibrium of an N-person nonzero sum linear-quadratic differential game with bounded controllers. Due to the method employed, the computational method of [4, Section 5] can be used to approximate the equilibrium costs.

@@ -1,0 +1,2 @@
+Making Eigenvector-Based Reputation Systems Robust to Collusion
+Eigenvector based methods in general, and Google’s PageRank algorithm for rating web pages in particular, have become an important component of information retrieval on the Web. In this paper, we study the efficacy of, and countermeasures for, collusions designed to improve user rating in such systems.

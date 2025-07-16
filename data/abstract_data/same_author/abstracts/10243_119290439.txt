@@ -1,0 +1,2 @@
+An alternative construction of the positive inner product in non-Hermitian quantum mechanics
+Within the context of non-Hermitian quantum mechanics, we use the generators of eigenvectors of the Hamiltonian to construct a unitary inner product space. Such models have been of interest in recent years, for instance, in the context of PT symmetry, although our construction extends to the larger class of so-called pseudo-Hermitian operators. We provide a detailed example to illustrate the concept and compare with known results.

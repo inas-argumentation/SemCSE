@@ -1,0 +1,2 @@
+Variational Inference for Beta-Bernoulli Dirichlet Process Mixture Models
+A commonly used paradigm in diverse application areas is to assume that an observed set of individual binary features is generated from a Bernoulli distribution with probabilities varying according to a Beta distribution. In this paper, we present our nonparametric variational inference algorithm for the Beta-Bernoulli observation model. Our primary focus is clustering discrete binary data using the Dirichlet process (DP) mixture model.

@@ -1,0 +1,2 @@
+BLACK-SCHOLES vs. KASSOUF OPTION PRICING: AN EMPIRICAL COMPARISON
+This paper presents a comparison of the Black-Scholes and Kassouf models for the pricing of options. Graphical presentations of simulated call option prices show the effects of changing the different variables on the prices of options. An empirical study using observed option prices shows that there is little practical difference between the values given by the two models, and that an investment strategy based upon using either of the two models would yield about the same return.

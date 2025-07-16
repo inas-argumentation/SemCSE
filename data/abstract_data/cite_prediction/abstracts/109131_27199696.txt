@@ -1,0 +1,2 @@
+The development of a wideband ‘rocket’ phased array feed
+We describe a new phased array feed design. The array is composed of elements based on a solid of revolution fed by twin wire transmission lines. An infinite array model is used to simulate the noise performance of the array and this model is compared with a full EM simulation of the finite array and measured noise data. The modelling indicates that this array is an excellent candidate for a phased array feed (PAF) for radio-astronomy applications.

@@ -1,0 +1,2 @@
+Approaching Textual Entailment with LFG and FrameNet Frames
+We present a baseline system for modeling textual entailment that combines deep syntactic analysis with structured lexical meaning descriptions in the FrameNet paradigm. Textual entailment is approximated by degrees of structural and semantic overlap of text and hypothesis, which we measure in a match graph. The encoded measures of similarity are processed in a machine learning setting.1

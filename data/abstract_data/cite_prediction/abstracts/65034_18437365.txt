@@ -1,0 +1,2 @@
+Best Practices for Automated Traceability
+Automated traceability applies information-retrieval techniques to generate candidate links, sharply reducing the effort of manual approaches to build and maintain a requirements trace matrix as well as providing after-the-fact traceability in legacy documents.The authors describe nine best practices for implementing effective automated traceability.

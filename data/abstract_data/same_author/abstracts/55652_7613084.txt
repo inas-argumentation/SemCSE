@@ -1,0 +1,2 @@
+A fully abstract semantics of classes for Object-Z
+This paper presents a fully abstract semantics of classes for the object oriented formal specification language Object-Z. Such a semantics includes no unnecessary syntactic details and, hence, describes a class in terms of the external behaviour of its objects only. The semantics, based on an extension of existing process models, defines a notion of behavioural equivalence which is stronger than that of CSP and weaker than that of CCS.

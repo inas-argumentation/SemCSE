@@ -1,0 +1,2 @@
+Matched-Filter Response to a Linear FM Signal Transmitted Through a Phased Array
+The response of a linear phased array with a matched filter connected at its output is investigated when a linear FM signal is incident on the array at an arbitrary angle. The filter is assumed to be matched to the linear FM signal. The dispersion produced by the array results in a mismatch at the receiver which depends on the scan angle and on the type of feed system used with the array. The distortion of the compressed pulse is studied for the series end-fed arrays, the series

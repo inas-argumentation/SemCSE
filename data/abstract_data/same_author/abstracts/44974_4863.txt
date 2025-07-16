@@ -1,0 +1,2 @@
+On Finite Alphabets and Infinite Bases II: Completed and Ready Simulation
+We prove that the equational theory of the process algebra BCCSP modulo completed simulation equivalence does not have a finite basis. Furhermore, we prove that with a finite alphabet of actions, the equational theory of BCCSP modulo ready simulation equivalence does not have a finite basis. In contrast, with an infinite alphabet, the latter equational theory does have a finite basis.

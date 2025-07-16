@@ -1,0 +1,2 @@
+On the Learnability of Deep Random Networks
+In this paper we study the learnability of deep random networks from both theoretical and practical points of view. On the theoretical front, we show that the learnability of random deep networks with sign activation drops exponentially with its depth. On the practical front, we find that the learnability drops sharply with depth even with the state-of-the-art training methods, suggesting that our stylized theoretical results are closer to reality.

@@ -1,0 +1,2 @@
+Hamilton Cycles in 2-Connected Regular Bipartite Graphs
+Abstract Haggkvist conjectured in 1976 that every 2-connected k -regular bipartite graph G on at most 6 k vertices is hamiltonian. Chetwynd and Haggkvist have shown that G is hamiltonian if G has at most 4.2 k vertices. The upper bound on | V ( G )| was subsequently improved to 5 k − 12 and then 5 k − 8 by Ash and Min Aung, respectively. We shall essentially verify Haggkvist′s conjecture by showing that every 2-connected k -regular bipartite graph on at most 6 k − 38 vertices is hamiltonian.

@@ -1,0 +1,9 @@
+Nonconvex Continual Learning with Episodic Memory
+Continual learning aims to prevent catastrophic forgetting while learning a new task without accessing data of previously learned tasks. 
+The memory for such learning scenarios build a small subset of the data for previous tasks and is used in various ways such as quadratic programming and sample selection. 
+Current memory-based continual learning algorithms are formulated as a constrained optimization problem and rephrase constraints as a gradient-based approach.
+However, previous works have not provided the theoretical proof on convergence to previously learned tasks.
+In this paper, we propose a theoretical convergence analysis of continual learning based on stochastic gradient descent method.
+Our method, nonconvex continual learning (NCCL), can achieve the same convergence rate when the proposed catastrophic forgetting term is suppressed at each iteration.
+We also show that memory-based approaches have an inherent problem of overfitting to memory, which degrades the performance on previously learned tasks, namely catastrophic forgetting.
+We empirically demonstrate that NCCL successfully performs continual learning with episodic memory by scaling learning rates adaptive to mini-batches on several image classification tasks.  

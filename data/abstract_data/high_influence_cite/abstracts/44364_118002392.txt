@@ -1,0 +1,2 @@
+Upper bounds on product and multiplier empirical processes
+We study two empirical processes of special structure: firstly, the centred multiplier process indexed by a class F, f→|∑i=1N(ξif(Xi)−Eξf)|, where the i.i.d. multipliers (ξi)i=1N need not be independent of (Xi)i=1N, and secondly, (f,h)→|∑i=1N(f(Xi)h(Xi)−Efh)|, the centred product process indexed by the classes F and H.

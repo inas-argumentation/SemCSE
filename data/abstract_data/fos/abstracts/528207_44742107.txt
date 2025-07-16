@@ -1,0 +1,2 @@
+A computational approach to soliton solutions of the Kadomtsev-Petviashvili equation
+In this paper, we present a computational approach to develop soliton solutions of the nonlinear Kadomtsev-Petviashvili equation. Our approach rests mainly on the Adomian decomposition method to include few components of the decomposition series. The proposed framework is presented in a general way so that it can be used in nonlinear evolution equations of the same type. Numerical examples are tested to illustrate the proposed scheme.

@@ -1,0 +1,19 @@
+Stress insulin resistance is a marker for mortality in traumatic brain injury.
+BACKGROUND
+Both hyper- and hypoglycemia have been associated with poor outcome in traumatic brain injury (TBI). Neither the risks nor benefit of tight glucose control (goal range, 80-110 mg/dL) have been documented in the TBI population.
+
+
+OBJECTIVE
+To analyze whether densely collected blood glucose data, using a computerized algorithm, to maintain tight glycemic control will reveal significant differences in blood glucose control between survivors and nonsurvivors in patients with TBI.
+
+
+METHODS
+From October 2005 to April 2006, all ventilated, critically ill surgical patients with TBI Abbreviated Injury Scale score of >or=3 were placed on an automated, euglycemia protocol with every 2-hour blood glucose sampling. Mortalities within 24 hours were excluded. The protocol calculates the insulin rate using a linear equation (rate = blood glucose - 60[M]). M is an adapting multiplier and used here as a marker for insulin resistance (IR).
+
+
+RESULTS
+Of 1,636 trauma intensive care unit admissions 160 patients, (median Injury Severity Score 34, mortality 13.1%) had 10,071 samples collected. Median glucose 115.6 mg/dL, with 41% of values between 80 and 110 mg/dL, 81% between 80 and 150 mg/dL, and 0.3% <40 mg/dL. The median blood glucose was statistically different but not clinically different among the patients who lived and died (114; interquartile range, 109-132 vs. 118; 111-136, p = 0.01). The median insulin dose was a unit per hour higher among the patient who died (4.2; 2.7-5.9 vs. 3.2; 2.4-5.0, p = 0.006). A logistic regression model demonstrated insulin rate (odds ratio 0.736, 95% confidence interval, 0.549-0.985, p = 0.039) to be the only independent predictor of mortality among the measures of blood glucose control.
+
+
+CONCLUSION
+Nonsurvivors with TBI have significantly higher markers of IR (insulin rate and multiplier). Markers of glucose control (median glucose, hypoglycemic episodes, and the percentage of values in range) did not differ clinically among groups. Despite this stress IR, tight glycemic control appears possible and safe with low levels of hypoglycemic episodes in the TBI population.

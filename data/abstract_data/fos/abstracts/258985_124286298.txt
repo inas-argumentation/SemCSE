@@ -1,0 +1,2 @@
+Regularization Methods for Identification of Structural Damage
+Generally, various non-unique solutions may be obtained from ill-conditioned equations. Several methods are available to obtain a unique (minimum energy) solution to a modified and thus well-conditioned problem. Such modification can be accomplished with an additional penalty term (Bayesian approach in estimation) in the quadratic loss function which makes the problem convex.

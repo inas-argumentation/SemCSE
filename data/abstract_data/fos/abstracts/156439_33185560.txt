@@ -1,0 +1,2 @@
+Estimation of azimuth and elevation angles for a plane wave sine wave with a 3-D array
+Provides expressions for the Cramer-Rao lower bounds for the estimates of azimuth and elevation made with an arbitrary 3-D array of sensors. These results are formulated for a plane wave sine wave signal in uncorrelated Gaussian noise. In addition, sufficient conditions on the array geometry are given which ensure that the azimuth and elevation angle estimates are uncoupled. >

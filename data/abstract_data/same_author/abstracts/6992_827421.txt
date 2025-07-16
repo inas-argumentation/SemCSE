@@ -1,0 +1,8 @@
+The critical equation of state of the 2-D ising model
+We compute the 2n-point coupling constants in the high-temperature phase of 
+the 2d Ising model by using transfer-matrix techniques. This provides the first 
+few terms of the expansion of the effective potential (Helmholtz free energy) 
+and of the equation of state in terms of the renormalized magnetization. 
+ By means of a suitable parametric representation, we determine an analytic 
+extension of these expansions, providing the equation of state in the whole 
+critical region in the t,h plane.

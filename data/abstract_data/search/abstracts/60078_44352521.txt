@@ -1,0 +1,2 @@
+Regularization and Semi supervised Learning on Large Graphs
+We consider the problem of labeling a partially labeled graph. This setting may arise in a number of situations from survey sampling to information retrieval to pattern recognition in manifold settings. It is also of potential practical importance, when the data is abundant, but labeling is expensive or requires human assistance.

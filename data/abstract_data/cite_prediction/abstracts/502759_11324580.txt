@@ -1,0 +1,2 @@
+Design of novel capacitive type torque sensor for robotic applications
+This paper introduces a novel capacitive type torque sensor. The developed torque sensor measures single axis torque value by using two capacitance transducing cells. To make a linear relation between the capacitance and the deformation, the shape of flexure hinge is considered to be deformed constantly. Also, the nonlinear curve fitting method is used to fit the capacitance linearly. Finally, the performance of the sensor is verified in reference to a commercial torque sensor.

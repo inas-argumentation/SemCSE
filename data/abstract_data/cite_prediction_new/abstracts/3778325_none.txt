@@ -1,0 +1,2 @@
+Generation of analog and digital transfer functions having a monotonic magnitude response [filter design applications]
+A new method for the generation of transfer functions of filters, resulting in monotonic magnitude responses, is proposed. Not only filters having existing monotonic responses can be obtained using this approach, but additional filters having such responses can be generated, thereby originating a large family of such filters both in the analog and the digital domains.

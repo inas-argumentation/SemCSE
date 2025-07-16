@@ -1,0 +1,14 @@
+A simple necessary and sufficient condition for the enrichment of the Crouzeix-Raviart element
+We provide a simple condition, which is both necessary and sucient, that 
+ guarantees the existence of an enriched Crouzeix-Raviart element. Our main 
+ result shows that this latter can be easily expressed in terms of the 
+ approximation error in a multivariate generalized trapezoidal type cubature 
+ formula. Furthermore, we will derive simple explicit formulas for its 
+ associated basis functions, and then prove how to use them to characterize 
+ all admissible added degrees of freedom, that generate well defined enriched 
+ Crouzeix-Raviart elements. We also show that the approximation error using 
+ the proposed enriched element can be written as the error of the 
+ (non-enriched) Crouzeix-Raviart element plus a perturbation that depends on 
+ the enrichment function. Finally, we estimate the approximation error in L2 
+ norm, with explicit constants in both two and three dimensions. A complement 
+ to this result is also given for any dimension.

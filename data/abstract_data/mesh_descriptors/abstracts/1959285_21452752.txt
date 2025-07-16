@@ -1,0 +1,15 @@
+DEMAT: A multi-institutional dosimetry audit of rotational and static intensity-modulated radiotherapy.
+PURPOSE
+Static beam intensity-modulated-radiation-therapy (IMRT) and/or Volumetric-Modulated-Arc-Therapy (VMAT) are now available in many regional radiotherapy departments. The aim of this multi-institutional audit was to design a new methodology based on radiochromic films to perform an independent quality control.
+
+
+METHODS
+A set of data were sent to all participating centres for two clinical localizations: prostate and Head and Neck (H&N) cancers. The agreement between calculations and measurements was verified in the Octavius phantom (PTW) by point measurements using ionization chambers and by 2D measurements using EBT3 radiochromic films. Due to uncertainties in the whole procedure, criteria were set to 5% and 3% in local dose and 3mm in distance excluding doses lower than 10% of the maximum doses. No normalization point or area was used for the quantitative analysis.
+
+
+RESULTS
+13 radiotherapy centres participated in this audit involving 28 plans (12 IMRT, 16 VMAT). For point measurements, mean errors were -0.18±1.54% and 0.00±1.58% for prostate and H&N cases respectively. For 2D measurements with 5%/3mm criteria, gamma map analysis showed a pixel pass rate higher than 95% for prostate and H&N. Mean gamma index was lower than 0.4 for prostate and 0.5 for H&N. Both techniques yielded similar results.
+
+
+CONCLUSION
+This study showed the feasibility of an independent quality control by peers for conventional IMRT and VMAT. Results from all participating centres were found to be in good agreement. This regional study demonstrated the feasibility of our new methodology based on radiochromic films without dose normalization on a specific point.

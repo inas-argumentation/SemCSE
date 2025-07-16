@@ -1,0 +1,2 @@
+Asymptotic distributions and subsampling in spectral analysis for almost periodically correlated time series
+The aim of this article is to establish asymptotic distributions and consistency of subsampling for spectral density and for magnitude of coherence for non-stationary, almost periodically correlated time series. We show the asymptotic normality of the spectral density estimator and the limiting distribution of a magnitude of coherence statistic for all points from the bifrequency square. The theoretical results hold under $\alpha$-mixing and moment conditions.

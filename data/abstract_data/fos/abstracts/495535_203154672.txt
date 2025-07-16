@@ -1,0 +1,33 @@
+Assimilation of GNSS tomography products into the Weather Research and Forecasting model using radio occultation data assimilation operator
+. From Global Navigation Satellite Systems (GNSS) signals,
+accurate and high-frequency atmospheric parameters can be determined in
+all-weather conditions. GNSS tomography is a technique that takes advantage
+of these parameters, especially of slant troposphere observations between
+GNSS receivers and satellites, traces these signals through a 3-D grid of
+voxels, and estimates by an inversion process the refractivity of the water
+vapour content within each voxel. In the last years, the GNSS tomography
+development focused on numerical methods to stabilize the solution, which
+has been achieved to a great extent. Currently, we are facing new challenges
+and possibilities in the application of GNSS tomography in numerical weather
+forecasting, the main research objective of this paper. In the first
+instance, refractivity fields were estimated using two different GNSS
+tomography models (TUW, WUELS), which cover the area of central Europe
+during the period of 29 May–14 June 2013, when heavy-precipitation events
+were observed. For both models, slant wet delays (SWDs) were calculated based
+on estimates of zenith total delay (ZTD) and horizontal gradients, provided
+for 88 GNSS sites by Geodetic Observatory Pecny (GOP). In total, three sets
+of SWD observations were tested (set0 without compensation for hydrostatic
+anisotropic effects, set1 with compensation of this effect, set2 cleaned by
+wet delays outside the inner voxel model), in order to assess the impact of
+different factors on the tomographic solution. The GNSS tomography outputs
+have been assimilated into the nested (12 and 36 km horizontal resolution)
+Weather Research and Forecasting (WRF) model, using its three-dimensional
+variational data assimilation (WRFDA 3D-Var) system, in particular, its radio
+occultation observation operator (GPSREF). As only total refractivity is
+assimilated in GPSREF, it was calculated as the sum of the hydrostatic part
+derived from the ALADIN-CZ model and the wet part from the GNSS tomography.
+We compared the results of the GNSS tomography data assimilation to the
+radiosonde (RS) observations. The validation shows the improvement in the
+weather forecasting of relative humidity (bias, standard deviation) and
+temperature (standard deviation) during heavy-precipitation events. Future
+improvements to the assimilation method are also discussed.

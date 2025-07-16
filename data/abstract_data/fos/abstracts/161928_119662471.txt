@@ -1,0 +1,2 @@
+Kazhdan-Lusztig polynomials for the Hermitian symmetric pair $(B_N,A_{N-1})$
+We provide combinatorial rules to compute Kazhdan--Lusztig polynomials for the Hermitian symmetric pair $(B_N,A_{N-1})$ when the Hecke algebra has unequal parameters. They are obtained by filling regions delimited by paths with ballot strips. We also extend the binary tree algorithm introduced by Lascoux and Sch\"utzenberger to our case.

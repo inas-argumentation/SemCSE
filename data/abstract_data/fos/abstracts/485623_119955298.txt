@@ -1,0 +1,2 @@
+A Symbolic System for Classifying Multivariate Procedures.
+Procedures are classified according to whether the dependent or independent variable sets consist of single or multiple variables, whether they are categorical or metric in nature, and whether or not they are statistically held constant.

@@ -1,0 +1,2 @@
+A Two-Stage Iterative Decoding of LDPC Codes for Lowering Error Floors
+In iterative decoding of LDPC codes, trapping sets often lead to high error floors. In this work, we propose a two-stage iterative decoding to break trapping sets. Simulation results show that the error floor performance can be significantly improved with this decoding scheme.

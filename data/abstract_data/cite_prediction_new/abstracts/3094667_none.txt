@@ -1,0 +1,2 @@
+Finite difference approximate solutions for the strongly damped extensible beam equations
+Approximate solutions are considered for the strongly damped extensible beam equations using the method of lines and an implicit finite difference scheme. Existence and stability of the corresponding methods are studied and error estimates are also obtained. Energy conservation and decay properties of the finite difference approximate solutions are shown using the discrete energy method. Numerical results are also given in order to check the properties of analytical solutions.

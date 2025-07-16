@@ -1,0 +1,2 @@
+A Near-Tight Lower Bound on the Time Complexity of Distributed Minimum-Weight Spanning Tree Construction
+This paper presents a lower bound of $\Omega(D+\sqrt n/\log n)$ on the time required for the distributed construction of a minimum-weight spanning tree (MST) in weighted n-vertex networks of diameter $D=\Omega(\log n)$, in the bounded message model. This establishes the asymptotic near-optimality of existing time-efficient distributed algorithms for the problem, whose complexity is $O(D + \sqrt n \log^* n)$.

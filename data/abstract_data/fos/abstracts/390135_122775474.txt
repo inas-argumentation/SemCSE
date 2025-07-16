@@ -1,0 +1,2 @@
+An inverse calculation technique for quasi-three-dimensional turbomachinery cascades
+This article describes a technique for the rapid calculation of three-dimensional gas turbine blade shapes for preliminary design purposes. An inverse blade design technique is combined with a generalized form of the radial equilibrium equation for turbomachinery to produce physically meaningful flow cascades. Such cascades can provide feedback as to potential structural, heat transfer, or manufacturing problems very early in the turbomachine design process.

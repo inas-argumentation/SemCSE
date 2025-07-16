@@ -1,0 +1,2 @@
+Reasoning with Temporal Logic on Truncated Paths
+We consider the problem of reasoning with linear temporal logic on truncated paths. A truncated path is a path that is finite, but not necessarily maximal. Truncated paths arise naturally in several areas, among which are incomplete verification methods (such as simulation or bounded model checking) and hardware resets. We present a formalism for reasoning about truncated paths, and analyze its characteristics.

@@ -1,0 +1,2 @@
+Containment Modeling of Content Management Systems
+Containment models are a specialized form of entity-relationship model in which the only allowed form of relationship is a 'contains' relationship. This paper builds on the authors' previous work on containment modeling by clarifying the graphical notation and increasing the expressiveness of the model in a way that expands the technique to systems outside the hypertext domain. Examples from the hypertext, hypertext versioning, and configuration management domains illustrate the cross-domain applicability of this technique.

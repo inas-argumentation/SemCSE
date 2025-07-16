@@ -1,0 +1,2 @@
+A 5-20 GHz, low power FPGA implemented by SiGe HBT BiCMOS technology
+A high speed, low power FPGA design is presented in this paper. This gigahertz FPGA design has an improved XC6200 structure. Redundant multiplexers are eliminated from critical signal path to enhance the performance of the previous design. By balancing between the power consumption and performance, the simulated clock rate is from 5 GHz to 20 GHz and the power consumption is from 4 mW to 12 mW per single cell in the IBM 7HP SiGe HBT BiCMOS process.

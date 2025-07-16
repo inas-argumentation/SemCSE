@@ -1,0 +1,7 @@
+Discovering disease-genes by topological features in human protein-protein interaction network
+MOTIVATION
+Mining the hereditary disease-genes from human genome is one of the most important tasks in bioinformatics research. A variety of sequence features and functional similarities between known human hereditary disease-genes and those not known to be involved in disease have been systematically examined and efficient classifiers have been constructed based on the identified common patterns. The availability of human genome-wide protein-protein interactions (PPIs) provides us with new opportunity for discovering hereditary disease-genes by topological features in PPIs network.
+
+
+RESULTS
+This analysis reveals that the hereditary disease-genes ascertained from OMIM in the literature-curated (LC) PPIs network are characterized by a larger degree, tendency to interact with other disease-genes, more common neighbors and quick communication to each other whereas those properties could not be detected from the network identified from high-throughput yeast two-hybrid mapping approach (EXP) and predicted interactions (PDT) PPIs network. KNN classifier based on those features was created and on average gained overall prediction accuracy of 0.76 in cross-validation test. Then the classifier was applied to 5262 genes on human genome and predicted 178 novel disease-genes. Some of the predictions have been validated by biological experiments.

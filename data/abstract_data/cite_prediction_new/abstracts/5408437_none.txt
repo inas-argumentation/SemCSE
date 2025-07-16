@@ -1,0 +1,2 @@
+Efficient Distributed Control of Enterprise-Wide and Cross-Enterprise Workflows
+In large workflow management systems (WfMS), it is particularly important to control workflows (WF) in an efficient manner. A very critical factor within this context is the resulting communication overhead. For this reason we have developed an approach for distributed WF control, which tries to keep the communication overhead low. In this paper, this approach is described and examined by means of a simulation.

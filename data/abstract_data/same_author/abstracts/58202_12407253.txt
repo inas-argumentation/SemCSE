@@ -1,0 +1,2 @@
+Probabilistic analysis of algorithms for the Dutch national flag problem
+A detailed probabilistic analysis is given of algorithms for the Dutch national flag problem. We derive central and local limit theorems for the cost, as well as probabilities of large deviations. Performance of a related algorithm is also studied.

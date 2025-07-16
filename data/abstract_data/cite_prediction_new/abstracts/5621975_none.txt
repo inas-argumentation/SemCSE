@@ -1,0 +1,2 @@
+Cooperative space-time coding using distributed turbo codes
+Cooperative communication is an effective way of achieving spatial diversity when it is impossible to employ multiple antennas, e.g., due to space limitations in mobile devices. We propose two approaches of distributed turbo coding for a coded cooperative scenario in which we aim to maintain the same band-width efficiency and transmit power as in the non-cooperative case, yet exploiting spatial diversity. Somewhat unexpected, we find that the less complex of the two algorithms we propose outperforms the other one.

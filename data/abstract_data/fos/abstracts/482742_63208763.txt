@@ -1,0 +1,2 @@
+Bandwidth-satisfied Live Streaming Overlay Multicast Algorithm
+To solve the bottleneck of bandwidth and the QoS of live streaming delivery,the algorithm of Bandwidth-Satisfied overlay multicast(BOM) is suggested by constrained the bandwidth,delay and jitter.BOM can balance the overlay traffic and the load on the SvBs,and build the layered overlay multicast tree and minimize the cost of multicast tree.It is testified availability and scalability for Large-Scale Live Streaming group communication by in GT-ITM network simulation environment.

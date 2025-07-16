@@ -1,0 +1,2 @@
+System Specification and Refinement in Temporal Logic
+We consider two types of specifications of reactive systems: requirement specification which lists properties the system should satisfy, and System specification which describes the response of the system to each incoming input. Some of the differences between these two styles of specification are analyzed with the conclusion that both types are needed in an orderly system development.

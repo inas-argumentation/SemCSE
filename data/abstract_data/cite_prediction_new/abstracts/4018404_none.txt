@@ -1,0 +1,2 @@
+Approximation and Hardness Results for the Maximum Edge q-coloring Problem
+We consider the problem of coloring edges of a graph subject to the following constraint: for every vertex v, all the edges incident to v have to be colored with at most q colors. The goal is to find a coloring satisfying the above constraint and using the maximum number of colors.

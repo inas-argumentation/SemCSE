@@ -1,0 +1,2 @@
+IKM at SemEval-2017 Task 8: Convolutional Neural Networks for stance detection and rumor verification
+This paper describes our approach for SemEval-2017 Task 8. We aim at detecting the stance of tweets and determining the veracity of the given rumor. We utilize a convolutional neural network for short text categorization using multiple filter sizes. Our approach beats the baseline classifiers on different event data with good F1 scores. The best of our submitted runs achieves rank 1 st among all scores on subtask B.

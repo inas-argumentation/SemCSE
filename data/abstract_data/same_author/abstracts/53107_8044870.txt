@@ -1,0 +1,2 @@
+The Steiner ratio conjecture for six points
+The Steiner problem is to find a shortest network (tree) S in the plane R 2 connecting a given set X of n points. Let T be a shortest tree connecting the points of X and with vertices only at these points. T is called a minimal spanning tree. Let L S and L T denote the lengths of S and T, respectively, and let ρ=L S /L T . ρ is called the Steiner ratio. In this paper one proves the Steiner ratio conjecture for six points. One uses a variational approach

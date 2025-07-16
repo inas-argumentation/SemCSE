@@ -1,0 +1,15 @@
+Rapid multiplexed phenotypic screening identifies drug resistance functions for three novel efflux pumps in Acinetobacter baumannii.
+OBJECTIVES
+Drug efflux pumps are one of the key machineries in bacterial drug resistance. Although quite a few of these transport systems have been functionally characterized in various organisms, due to large-scale genome sequencing efforts and improved prediction pipelines there are increasing numbers of putative drug efflux genes annotated. For phenotype identification of the proteins encoded by these genes, we developed a novel high-throughput phenotype screening strategy and demonstrated its utility in identifying phenotypes for putative efflux systems encoded by the human pathogen Acinetobacter baumannii.
+
+
+METHODS
+Seventeen putative drug efflux systems from A. baumannii were heterologously expressed in Escherichia coli. For rapid and economical phenotype screening we employed a combination of multiplexed Biolog Phenotype Microarrays and quantitative PCR. Using this method we screened these putative drug efflux pumps against 240 antimicrobial conditions, equating to 4080 simultaneous phenotypic tests.
+
+
+RESULTS
+Of the 17 putative drug efflux systems, phenotypes were confirmed for two pumps and novel drug resistance phenotypes were identified for three new A. baumannii drug transporters, which exemplified the power of this method as a high-throughput screening technique. One of the phenotypically characterized putative drug efflux systems was classified within the ATP-binding cassette superfamily of transport proteins and represents the first drug resistance protein characterized from this superfamily in A. baumannii. The remaining two proteins were members of the major facilitator superfamily of efflux pumps.
+
+
+CONCLUSIONS
+This method has broad potential for high-throughput phenotype characterization of putative drug efflux systems in a range of organisms.

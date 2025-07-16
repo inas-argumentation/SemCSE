@@ -1,0 +1,2 @@
+On local smoothing of nonparametric curve estimators
+Abstract We develop new local versions of familiar smoothing methods, such as cross-validation and smoothed cross-validation, in the contexts of density estimation and regression. These new methods are locally adaptive in the sense that they capture smooth local fluctuations in the curve by using smoothly varying bandwidths that change as the character of the curve changes. Moreover, the new methods are accurate, easy to apply, and computationally expedient.

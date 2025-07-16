@@ -1,0 +1,15 @@
+Incorporating biologic measurements (SF(2), CFE) into a tumor control probability model increases their prognostic significance: a study in cervical carcinoma treated with radiation therapy.
+PURPOSE
+To assess whether incorporation of measurements of surviving fraction at 2 Gy (SF(2)) and colony-forming efficiency (CFE) into a tumor control probability (tcp) model increases their prognostic significance.
+
+
+METHODS AND MATERIALS
+Measurements of SF(2) and CFE were available from a study on carcinoma of the cervix treated with radiation alone. These measurements, as well as tumor volume, dose, and treatment time, were incorporated into a Poisson tcp model (tcp(alpha,rho)). Regression analysis was performed to assess the prognostic power of tcp(alpha,rho) vs. the use of either tcp models with biologic parameters fixed to best-fit estimates (but incorporating individual dose, volume, and treatment time) or the use of SF(2) and CFE measurements alone.
+
+
+RESULTS
+In a univariate regression analysis of 44 patients, tcp(alpha,rho) was a better prognostic factor for both local control and survival (p < 0.001 and p = 0.049, respectively) than SF(2) alone (p = 0.009 for local control, p = 0.29 for survival) or CFE alone (p = 0.015 for local control, p = 0.38 for survival). In multivariate analysis, tcp(alpha,rho) emerged as the most important prognostic factor for local control (p < 0.001, relative risk of 2.81). After allowing for tcp(alpha,rho), CFE was still a significant independent prognostic factor for local control, whereas SF(2) was not. The sensitivities of tcp(alpha,rho) and SF(2) as predictive tests for local control were 87% and 65%, respectively. Specificities were 70% and 77%, respectively.
+
+
+CONCLUSIONS
+A Poisson tcp model incorporating individual SF(2), CFE, dose, tumor volume, and treatment time was found to be the best independent prognostic factor for local control and survival in cervical carcinoma patients.

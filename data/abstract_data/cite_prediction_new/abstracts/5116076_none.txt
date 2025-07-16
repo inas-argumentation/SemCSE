@@ -1,0 +1,2 @@
+Improving Business Process Interoperability by Shared Ledgers
+External business processes involve collaboration with different participants. An integration between systems is usually case by case. We propose a system connection paradigm that the connection across systems are based on a mutual agreed shared ledger, and together with business processes modelling capability on the ledger. Such a paradigm reduces the need to manually settlement; a common base ledger makes connection solution reusable so that the overall development cost is reduced.

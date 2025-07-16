@@ -1,0 +1,2 @@
+An Improved Decoding Algorithm for Finite-Geometry LDPC Codes
+In this letter, we propose a new modification to the belief propagation (BP) decoding algorithm for Finite-Geometry low-density parity-check (LDPC) codes. The modification is based on introducing feedback into the iterative process, which can break the oscillations of bit log-likelihood ratio (LLR) values. Simulations show that, with a given maximum iteration, the "feedback BP" (FBP) algorithm can achieve better performance than the conventional belief propagation algorithm.

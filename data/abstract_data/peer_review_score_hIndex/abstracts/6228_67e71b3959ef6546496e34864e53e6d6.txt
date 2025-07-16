@@ -1,0 +1,7 @@
+Overfitting Detection of Deep Neural Networks without a Hold Out Set
+Overfitting is an ubiquitous problem in neural network training and usually mitigated using a holdout data set.
+Here we challenge this rationale and investigate criteria for overfitting without using a holdout data set.
+Specifically, we train a model for a fixed number of epochs multiple times with varying fractions of randomized labels and for a range of regularization strengths. 
+A properly trained model should not be able to attain an accuracy greater than the fraction of properly labeled data points. Otherwise the model overfits. 
+We introduce two criteria for detecting overfitting and one to detect underfitting. We analyze early stopping, the regularization factor, and network depth.
+In safety critical applications we are interested in models and parameter settings which perform well and are not likely to overfit. The methods of this paper allow characterizing and identifying such models.

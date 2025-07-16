@@ -1,0 +1,5 @@
+Irreducible dual of p-adic U(5)
+We study the parabolically induced complex representations of the unitary group in 5 variables, $ U(5), $ defined over a p-adic field. 
+Let $ F $ be a p-adic field. Let $ E : F $ be a field extension of degree two. Let $ Gal(E : F ) = \{ 1 , \sigma \}. $ We write $ \sigma(x) = \overline{x} \; \forall x \in E. $ Let $ E^* := E \setminus \{ 0 \} $ and let $ E^1 := \{x \in E \mid x \overline{x} = 1 \}. $ 
+$ U(5) $ has three proper standard Levi subgroups, the minimal Levi subgroup $ M_0 \cong E^* \times E^* \times E^1 $ and the two maximal Levi subgroups $ M_1 \cong GL(2, E) \times E^1 $ and $ M_2 \cong E^* \times U(3). $ 
+We consider representations induced from $ M_0 $ and from non-cuspidal, not fully-induced representations of $ M_1 $ and $ M_2. $ We determine the points and lines of reducibility and the irreducible subquotients of these representations.

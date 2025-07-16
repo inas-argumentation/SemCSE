@@ -1,0 +1,15 @@
+Characterization of scintillator-based detectors for few-ten-keV high-spatial-resolution x-ray imaging.
+PURPOSE
+High-spatial-resolution x-ray imaging in the few-ten-keV range is becoming increasingly important in several applications, such as small-animal imaging and phase-contrast imaging. The detector properties critically influence the quality of such imaging. Here the authors present a quantitative comparison of scintillator-based detectors for this energy range and at high spatial frequencies.
+
+
+METHODS
+The authors determine the modulation transfer function, noise power spectrum (NPS), and detective quantum efficiency for Gadox, needle CsI, and structured CsI scintillators of different thicknesses and at different photon energies. An extended analysis of the NPS allows for direct measurements of the scintillator effective absorption efficiency and effective light yield as well as providing an alternative method to assess the underlying factors behind the detector properties.
+
+
+RESULTS
+There is a substantial difference in performance between the scintillators depending on the imaging task but in general, the CsI based scintillators perform better than the Gadox scintillators. At low energies (16 keV), a thin needle CsI scintillator has the best performance at all frequencies. At higher energies (28-38 keV), the thicker needle CsI scintillators and the structured CsI scintillator all have very good performance. The needle CsI scintillators have higher absorption efficiencies but the structured CsI scintillator has higher resolution.
+
+
+CONCLUSIONS
+The choice of scintillator is greatly dependent on the imaging task. The presented comparison and methodology will assist the imaging scientist in optimizing their high-resolution few-ten-keV imaging system for best performance.

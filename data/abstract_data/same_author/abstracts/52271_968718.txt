@@ -1,0 +1,6 @@
+Coarse Grained Parallel Algorithms for Detecting Convex Bipartite Graphs
+In this paper, we present parallel algorithms for the coarse grained multicomputer (CGM) and the bulk synchronous parallel computer (BSP) for solving two well known graph problems: (1) determining whether a graph G is bipartite, and (2) determining whether a bipartite graph G is convex. 
+ 
+Our algorithms require O(log p) and O(log2 p) communication rounds, respectively, and linear sequential work per round on a CGM with p processors and N/p local memory per processor, N=|G|. The algorithms assume that N/p ≥ pƐ for some fixed Ɛ > 0, which is true for all commercially available multiprocessors. Our results imply BSP algorithms with O(log p) and O(log2 p) supersteps, respectively, O(g log(p)N/p) communication time, and O(log(p)N/p) local computation time. 
+ 
+Our algorithm for determining whether a bipartite graph is convex includes a novel, coarse grained parallel, version of the PQ tree data structure introduced by Booth and Lueker. Hence, our algorithm also solves, with the same time complexity as indicated above, the problem of testing the consecutive-ones property for (0, 1) matrices as well as the chordal graph recognition problem. These, in turn, have numerous applications in graph theory, DNA sequence assembly, database theory, and other areas.

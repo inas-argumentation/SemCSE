@@ -1,0 +1,2 @@
+28GHz Phased Array Transceiver in 28nm Bulk CMOS for 5G Prototype User Equipment and Base Stations
+A 28GHz phased array transceiver with RF/IF conversion in 28nm bulk CMOS supports up to 12 antenna elements each on 2 MIMO layers. The transceiver is targeted for small antenna arrays in mobile user equipment, implements an AMPM compensated PA, passive 3b phase shifters and supports tiling to extend the antenna array size for prototype basestation applications. Radiated results are presented for both UE and basestation size arrays.

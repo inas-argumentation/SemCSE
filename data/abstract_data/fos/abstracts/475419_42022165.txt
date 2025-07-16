@@ -1,0 +1,6 @@
+Fusion of structural and textural features for melanoma recognition
+Melanoma is one the most increasing cancers since past decades. For accurate detection and classification, discriminative features are required to distinguish between benign and malignant cases. In this study, the authors introduce a fusion of structural and textural features from two descriptors. The structural features are extracted from wavelet and curvelet transforms, whereas the textural features are extracted from different variants of local binary pattern operator. The proposed method is implemented on 200 images from PH
+ 2
+ dermoscopy database including 160 non-melanoma and 40 melanoma images, where a rigorous statistical analysis for the database is performed. Using support vector machine (SVM) classifier with random sampling cross-validation method between the three cases of skin lesions given in the database, the validated results showed a very encouraging performance with a sensitivity of 78.93%, a specificity of 93.25% and an accuracy of 86.07%. The proposed approach outperforms the existing methods on the PH
+ 2
+ database.

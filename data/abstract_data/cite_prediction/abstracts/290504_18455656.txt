@@ -1,0 +1,2 @@
+The study of evasion of packed PE from static detection
+Static detection of packed portable executables (PEs) relies primarily on structural properties of the packed PE, and also on anomalies in the packed PE caused by packing tools. This paper outlines weaknesses in this method of detection. We show that these structural properties and anomalies are contingent features of the executable, and can be more or less easily modified to evade static detection.

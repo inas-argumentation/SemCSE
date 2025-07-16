@@ -1,0 +1,2 @@
+Compaction management in distributed key value datastores
+Compactions are a vital maintenance mechanism used by datastores based on the log structured merge tree to counter the continuous buildup of data files under update intensive workloads. While compa.

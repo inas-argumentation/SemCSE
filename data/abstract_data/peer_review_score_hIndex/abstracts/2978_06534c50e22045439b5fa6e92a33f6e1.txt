@@ -1,0 +1,8 @@
+Learning Sparse Structured Ensembles with SG-MCMC and Network Pruning
+An ensemble of neural networks is known to be more robust and accurate than an individual network, however usually with linearly-increased cost in both training and testing. 
+In this work, we propose a two-stage method to learn Sparse Structured Ensembles (SSEs) for neural networks.
+In the first stage, we run SG-MCMC with group sparse priors to draw an ensemble of samples from the posterior distribution of network parameters. In the second stage, we apply weight-pruning to each sampled network and then perform retraining over the remained connections.
+In this way of learning SSEs with SG-MCMC and pruning, we not only achieve high prediction accuracy since SG-MCMC enhances exploration of the model-parameter space, but also reduce memory and computation cost significantly in both training and testing of NN ensembles.
+This is thoroughly evaluated in the experiments of learning SSE ensembles of both FNNs and LSTMs.
+For example, in LSTM based language modeling (LM), we obtain 21\% relative reduction in LM perplexity by learning a SSE of 4 large LSTM models, which has only 30\% of model parameters and 70\% of computations in total, as compared to the baseline large LSTM LM.
+To the best of our knowledge, this work represents the first methodology and empirical study of integrating SG-MCMC, group sparse prior and network pruning together for learning NN ensembles.

@@ -1,0 +1,2 @@
+Localized data assimilation in the ionosphere-thermosphere using a sampled-data unscented Kalman filter
+We apply the unscented Kalman filter (UKF) to data assimilation based on the vertical one-dimensional global ionosphere-thermosphere model, which models the highly coupled, strongly nonlinear Earth's upper atmosphere. To reduce the computational complexity of UKF, we introduce a localized, sampled-data update scheme with frozen-intersample error covariance, and examine its performance through numerical simulation.

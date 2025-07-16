@@ -1,0 +1,15 @@
+Semi-relaxed Gromov-Wasserstein divergence and applications on graphs
+Comparing structured objects such as graphs is a fundamental operation
+involved in many learning tasks. To this end, the Gromov-Wasserstein (GW)
+distance, based on Optimal Transport (OT), has proven to be successful in
+handling the specific nature of the associated objects. More specifically,
+through the nodes connectivity relations, GW operates on graphs, seen as
+probability measures over specific spaces. At the core of OT is the idea of
+conservation of mass, which imposes a coupling between all the nodes from
+the two considered graphs. We argue in this paper that this property can be
+detrimental for tasks such as graph dictionary or partition learning, and we
+relax it by proposing a new semi-relaxed Gromov-Wasserstein divergence.
+Aside from immediate computational benefits, we discuss its properties, and
+show that it can lead to an efficient graph dictionary learning algorithm.
+We empirically demonstrate its relevance for complex tasks on graphs such as
+partitioning, clustering and completion.

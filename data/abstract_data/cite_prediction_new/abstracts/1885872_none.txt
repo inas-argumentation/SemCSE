@@ -1,0 +1,2 @@
+A brief introduction to optimization via simulation
+Optimization via simulation (OvS) is an exciting and fast developing area for both research and practice. In this article, we introduce three types of OvS problems: the R&S problems, the continuous OvS problems and the discrete OvS problems, and discuss the issues and current research development for these problems. We also give some suggestions on how to use commercial OvS software in practice.

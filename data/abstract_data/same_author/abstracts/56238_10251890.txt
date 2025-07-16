@@ -1,0 +1,2 @@
+A Logic Based Approach for Dynamic Access Control
+The PolicyUpdatersystem is a fully-implemented access control system that provides policy evaluations as well as dynamic policy updates These functions are achieved by the use of a logic-based language $\mathcal{L}$ to represent the underlying access control policies, constraints and update propositions The system performs authorisation query evaluations and conditional policy updates by translating the language $\mathcal{L}$ to a normal logic program in a form suitable for evaluation using the Stable Model semantics.

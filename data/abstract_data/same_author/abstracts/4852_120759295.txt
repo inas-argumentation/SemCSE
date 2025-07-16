@@ -1,0 +1,2 @@
+Finite difference solution of the partial-wave Schrodinger equation
+A method is developed for the numerical determination of bound states and the eigenvalues of the Lippmann-Schwinger kernel for any local interaction. The eigenvalues of the scattering kernel are analytically continued from negative energies to positive energies by means of Pade approximants. The method is applied to calculations on low energy neutron-proton scattering.

@@ -1,0 +1,21 @@
+Statistical inverse problems for non-Gaussian non-stationary stochastic processes defined by a set of realizations
+This paper presents an innovative approach to analyze the transitory response of complex and nonlinear systems, 
+which are excited by non-Gaussian and non-stationary random fields, by solving of a statistical inverse problem 
+with experimental measurements. Based on a double expansion, it is particularly adapted to the modeling of 
+stochastic processes that are only characterized by a relatively small set of independent realizations. 
+First, an adaptation of the classical Karhunen-Loeve expansion is presented. Indeed, for the past fifty years, the 
+use of reduced basis has spread to many scientific fields to condense the statistical properties of stochastic 
+processes, and among these bases, the Karhunen-Loeve basis plays a major role as it allows the minimization of 
+the total mean square error. Such a basis corresponds to the Hilbertian basis that is constructed as the 
+eigenfunctions of the covariance operator of the stochastic process of interest. When the available information 
+about this stochastic process is characterized by a limited set of independent realizations, this covariance function is however unknown. Therefore, there is no reason for the set gathering the eigenfunctions associated with any estimator of the covariance to be still optimal. 
+Secondly, the random vector, which gathers the projection coefficients of the stochastic process on this basis, is characterized using a polynomial chaos expansion approach. The dimension of this random vector being very high (around several hundreds), advanced identification techniques are introduced to allow performing relevant convergence analyses and identifications. The non-Gaussian non-stationary stochastic process is identified using the experimental measurements and consequently, constitutes a realistic stochastic modeling. The proposed method is then applied to the risk assessment of a non-linear structure submitted to seismic loadings, for which measured seismic accelerations are available. 
+ 
+REFERENCES 
+R. Ghanem, P. D. Spanos, Stochastic Finite Elements: A Spectral Approach, rev. ed., Dover Publications, New York, 2003. 
+O. Le Maitre, O. Knio, Spectral Methods for Uncertainty Quantification, Springer, 2010. 
+G. Perrin, C. Soize, D. Duhamel, C. Funfschilling, Identification of polynomial chaos representations in high dimension from a set of realizations, SIAM J. Sci. Comput., 34(6), A2917–A2945, 2012. 
+G. Perrin, C. Soize, D. Duhamel, C. Funfschilling, A posteriori error and optimal reduced basis for stochastic processes 
+defined by a finite set of realizations, SIAM/ASA J. Uncertainty Quantification, 2, 745-762 (2014). 
+C. Soize, Identification of high-dimension polynomial chaos expansions with random coefficients for non-Gaussian tensor-valued 
+random fields using partial and limited experimental data., Computer Methods in Applied Mechanics and Engineering, 199 (33-36), 2150–2164, 2010.

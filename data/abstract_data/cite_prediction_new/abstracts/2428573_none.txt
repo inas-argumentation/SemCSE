@@ -1,0 +1,2 @@
+Wind Speed Forecast under a Distributed Learning Approach
+In this paper we apply a distributed learning approach to improve the perfomance of wind speed forecast. We use data obtained from 54 different weather stations in the U. S. and without sharing data between sites, we share model information between them, to improve the performance over local models trained with only local data. We show that sharing the information of the distributed models, improves the forecast we could obtain by only using locally trained models.

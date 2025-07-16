@@ -1,0 +1,2 @@
+Learning Structured Weight Uncertainty in Bayesian Neural Networks
+*Our work models DNN weights in each layer with MVG priors as: p(W l) ,MN (W l; M l,U l,V l) *MVG brings the model flexibility but also challenge for posterior inference. *Reparameterization of MVG B` ~MN B` P M `Q`,L (1) ,L (2) Gaussian where W P `B`Q` P and Q` come from orthogonal decomposition, U P `L P V Q`L (2) Q T Therefore, This trick decomposes W of MVG to three matrices, with B` being independent Gaussian elements, P and Q` orthogonal matrices.

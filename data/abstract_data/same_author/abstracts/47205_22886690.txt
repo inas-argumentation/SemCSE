@@ -1,0 +1,3 @@
+Channel routing in knock-knee mode: Simplified algorithms and proofs
+We give unified and simplified algorithms and proofs for three results on channel routing in knock-knee mode. LetP be a channel routing problem with densitydmax.(a)[Rivest/Baratz/Miller, Preparata/Lipski]. If all nets inP are two-terminal nets thendmax tracks suffice.(b)[Preparata/Sarrafzadeh]. If all nets inP are two- or three-terminal nets then [3dmax/2] tracks suffice.(c)[Sarrafzadeh/Preparata]. 2dmax-1 tracks always suffice.
+ In all three cases a solution can be found in linear time; this is an improvement in case (b).

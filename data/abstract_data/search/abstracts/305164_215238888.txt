@@ -1,0 +1,2 @@
+Forecasting in multivariate irregularly sampled time series with missing values
+Sparse and irregularly sampled multivariate time series are common in clinical, climate, financial and many other domains. Most recent approaches focus on classification, regression or forecasting tasks on such data. In forecasting, it is necessary to not only forecast the right value but also to forecast when that value will occur in the irregular time series. In this work, we present an approach to forecast not only the values but also the time at which they are expected to occur.

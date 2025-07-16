@@ -1,0 +1,15 @@
+Spatiospectral denoising framework for multispectral optoacoustic imaging based on sparse signal representation.
+PURPOSE
+One of the major challenges in dynamic multispectral optoacoustic imaging is its relatively low signal-to-noise ratio which often requires repetitive signal acquisition and averaging, thus limiting imaging rate. The development of denoising methods which prevent the need for signal averaging in time presents an important goal for advancing the dynamic capabilities of the technology.
+
+
+METHODS
+In this paper, a denoising method is developed for multispectral optoacoustic imaging which exploits the implicit sparsity of multispectral optoacoustic signals both in space and in spectrum. Noise suppression is achieved by applying thresholding on a combined wavelet-Karhunen-Loève representation in which multispectral optoacoustic signals appear particularly sparse. The method is based on inherent characteristics of multispectral optoacoustic signals of tissues, offering promise for general application in different incarnations of multispectral optoacoustic systems.
+
+
+RESULTS
+The performance of the proposed method is demonstrated on mouse images acquired in vivo for two common additive noise sources: time-varying parasitic signals and white noise. In both cases, the proposed method shows considerable improvement in image quality in comparison to previously published denoising strategies that do not consider multispectral information.
+
+
+CONCLUSIONS
+The suggested denoising methodology can achieve noise suppression with minimal signal loss and considerably outperforms previously proposed denoising strategies, holding promise for advancing the dynamic capabilities of multispectral optoacoustic imaging while retaining image quality.

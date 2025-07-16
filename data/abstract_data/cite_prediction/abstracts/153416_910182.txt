@@ -1,0 +1,2 @@
+Convolutional Radio Modulation Recognition Networks
+We study the adaptation of convolutional neural networks to the complex temporal radio signal domain. We compare the efficacy of radio modulation classification using naively learned features against using expert features, which are currently used widely and well regarded in the field and we show significant performance improvements. We show that blind temporal learning on large and densely encoded time series using deep convolutional neural networks is viable and a strong candidate approach for this task.

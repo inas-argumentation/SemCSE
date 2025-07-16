@@ -1,0 +1,2 @@
+Pseudo maximum-likelihood estimation of the univariate GARCH (1,1) and asymptotic properties
+One provides in this paper the pseudo-likelihood estimator (PMLE) and asymptotic theory for the GARCH (1,1) process. Strong consistency of the pseudo-maximum-likelihood estimator (MLE) is established by appealing to conditions given in Jeantheau (1998) concerning the existence of a stationary and ergodic solution to the multivariate GARCH (p, q) process. One proves the asymptotic normality of the PMLE by appealing to martingales' techniques.

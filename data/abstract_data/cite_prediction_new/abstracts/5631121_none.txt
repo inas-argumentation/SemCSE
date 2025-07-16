@@ -1,0 +1,2 @@
+A self-optimizing adaptive LQG control scheme for input-output systems
+We consider the optimal control problem of an unknown linear system in input-output form based on the linear quadratic Gaussian (LQG) control design method. A self-tuning LQG control scheme is proposed which is shown to be stable and self-optimizing. Optimality is achieved by using an identification algorithm which incorporates a cost-biasing term favoring the parameters with smaller LQG optimal cost and a second term aiming at moderating the time-variability of the estimate.

@@ -1,0 +1,2 @@
+Performance evaluation of joint monitoring control charts
+Shewhart Cucconi and Shewhart Lepage are two nonparametric control charts used for monitoring joint shifts in the process location and scale parameters. This study investigates impact of the light and heavy tailed distributions on the performances of these charts. The e ect of reference and test samples is also a part of this study.

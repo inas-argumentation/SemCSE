@@ -1,0 +1,2 @@
+Design of Grid Computing Environment for Operative Weather Nowcasting
+Weather nowcasting is a meteorological forecast which alerts civil protection institutions in case of heavy rain events, tornadoes, fires or heat waves and so on. This technique needs to process different data in a very short time. This paper, critically describes the design process of a computational infrastructure for weather nowcasting using both web and Grid technologies as a suitable solution for the use of nowcasting in an operative and concrete context.

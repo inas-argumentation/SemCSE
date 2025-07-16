@@ -1,0 +1,2 @@
+Supporting Reusable Use Cases
+Use cases are a part of common practice for capturing functional requirements for object-oriented software development. But, as with any artifact, there is a cost of producing them. Reusing use cases can reduce this cost. We discuss how use cases can be made reusable, in particular looking at the reusability of essential use cases. We also introduce Ukase, a web-based use case management tool that provides support for the reuse of use cases.

@@ -1,0 +1,2 @@
+A robust bulk-solvent correction and anisotropic scaling procedure
+A robust method for determining bulk-solvent and anisotropic scaling parameters for macromolecular refinement is described. A maximum-likelihood target function for determination of flat bulk-solvent model parameters and overall anisotropic scale factor is also proposed.

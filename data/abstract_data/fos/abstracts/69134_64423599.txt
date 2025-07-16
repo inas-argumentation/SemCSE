@@ -1,0 +1,2 @@
+Research and Application of Digital Specimen Metadata in the Geological Digital Museum
+Discusses the principle and method of constituting digital specimen metadata in the geological digital museum, and describes the digital geological specimen with three metadata subsets, then gives a detail description of metadata element in every subset from seven attribute characters.At last develops specimens MIS, which can convert any metadata field to multipurpose XML files, it is easy to share digital specimens in different museums.

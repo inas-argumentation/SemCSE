@@ -1,0 +1,2 @@
+RESEARCH ON AUTONOMOUS STAR IDENTIFICATION ALGORITHM BASED ON NEURAL NETWORK
+The neural logic network(NLN) is a neural network model that combines the strength of both neural networks and expert systems.This paper proposes an autonomous star identification algorithm using fuzzy neural logic networks.Compared with the directmatch algorithm usea in large fieldofview multistar positioning system,this algorithm can obtain both high accuracy and fast recognition speed.

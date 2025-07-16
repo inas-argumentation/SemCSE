@@ -1,0 +1,2 @@
+A texture-based method for modeling the background and detecting moving objects
+This paper presents a novel and efficient texture-based method for modeling the background and detecting moving objects from a video sequence. Each pixel is modeled as a group of adaptive local binary pattern histograms that are calculated over a circular region around the pixel. The approach provides us with many advantages compared to the state-of-the-art. Experimental results clearly justify our model.

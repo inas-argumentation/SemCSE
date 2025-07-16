@@ -1,0 +1,2 @@
+Parametrization and smooth approximation of surface triangulations
+A method based on graph theory is investigated for creating global parametrizations for surface triangulations for the purpose of smooth surface fitting. The parametrizations, which are planar triangulations, are the solutions of linear systems based on convex combinations. A particular parametrization, called shape-preserving, is found to lead to visually smooth surface approximations.

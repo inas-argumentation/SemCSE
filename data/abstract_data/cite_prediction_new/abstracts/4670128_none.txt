@@ -1,0 +1,2 @@
+Efficient RF energy harvesting by using multiband microstrip antenna arrays with multistage rectifiers
+This paper covers the design, implementation and usage of a matched multiband microstrip antenna intended to collect RF energy efficiently in commonly used portions of the selected cellular frequency spectrum including the ISM bands. Multistage Schottky rectifier antenna (rectenna) array circuit is proposed for high energy conversion efficiency to improve battery life and portability. Design details for the multiband microstrip antenna prototype is presented.

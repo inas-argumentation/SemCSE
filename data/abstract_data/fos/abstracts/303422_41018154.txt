@@ -1,0 +1,2 @@
+A class of Runge-Kutta formulae of order three and four with reduced evaluations of function
+Traditionally, an explicit Runge-Kutta method of order three requires three evaluations of function and an explicit Runge-Kutta method of order four requires four evaluations of function. In this paper, a class of Runge-Kutta processes of order three and order four with reduced evaluations of function are proposed. The numerical experiments shows that these new Runge-Kutta processes are more attractive than the traditional ones.

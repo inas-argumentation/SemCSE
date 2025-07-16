@@ -1,0 +1,2 @@
+Reprogramming Wireless Sensor Networks by using SDN-WISE: A hands-on demo
+SDN-WISE is a Software Defined Networking solution for Wireless Sensor Networks (WSNs). The aim of SDN-WISE is to simplify the management of the network, the development of novel applications, and the experimentation of new networking solutions in WSNs. Objectives of this demo are to demonstrate how different logical WSNs can coexist exploiting the same sensor nodes and show how easy is it to program the behavior of sensor nodes by few lines of code.

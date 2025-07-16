@@ -1,0 +1,2 @@
+Weakly Hamiltonian-connected ordinary multipartite tournaments
+Abstract We characterize weakly Hamiltonian-connected ordinary multipartite tournaments. Our result generalizes such a characterization for tournaments by Thomassen and implies a polynomial algorithm to decide the existence of a Hamiltonian path connecting two given vertices in an ordinary multipartite tournament and finds one, if it exists.

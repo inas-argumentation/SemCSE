@@ -1,0 +1,2 @@
+Application of fuzzy set theory in detecting x ray edges
+An algorithm for extracting different regional boundaries of x ray images is described which includes three stage enhancement of the image in the fuzzy property plane and a smoother before the detection of edges. The property plane is extracted from the spatial domain using S and p functions and fuzzifiers. The operator 'contrast intensifier' is used as an enhancement tool. The final edge detection is achieved using \max or \min operator.

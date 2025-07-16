@@ -1,0 +1,2 @@
+OPTIMAL SPC PERMUTATIONS ON A CURE CONNECTED SIMD COMPUTER
+In this paper, we develop an algorithm to perform BPC permutations on a cube connected SIMD computer. The class of BPC permutations includes many of the frequently occurring permutations such as matrix transpose, vector reversal, bit shuffle, and perfect shuffle. Our algorithm is shown to be optimal in the sense that it uses the fewest possible number of unit routes to accomplish any BPC permutation.

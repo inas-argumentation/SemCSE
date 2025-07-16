@@ -1,0 +1,2 @@
+The generalization of generalized automata: expression automata
+We explore expression automata with respect to determinism and minimization. We define determinism of expression automata using prefix-freeness. This approach is, to some extent, similar to that of Giammarresi and Montalbano's definition of deterministic generalized automata. We prove that deterministic expression automata languages are a proper subfamily of the regular languages. We close by defining the minimization of deterministic expression automata.

@@ -1,0 +1,2 @@
+Based on Script Template Generating Wrapper Classes from an XML Schema
+This article describes how to take an XML schema, and Based on a script template to generate a set of wrapper classes from it that allow you to manipulate an XML document via simple strongly typed objects. Thus removing the need for developers to get bogged down in the complexities of schemas. Using this technique you can produce wrapper classes for C#, C++, VB.NET, VB6 Java.

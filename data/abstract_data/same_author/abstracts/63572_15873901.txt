@@ -1,0 +1,9 @@
+Algebraic Pattern Matching in Join Calculus
+We propose an extension of the join calculus with pattern matching on
+algebraic data types. Our initial motivation is twofold: to provide an
+intuitive semantics of the interaction between concurrency and pattern
+matching; to define a practical compilation scheme from extended join
+definitions into ordinary ones plus ML pattern matching. To assess the
+correctness of our compilation scheme, we develop a theory of the applied join
+calculus, a calculus with value passing and value matching. We implement this
+calculus as an extension of the current JoCaml system.

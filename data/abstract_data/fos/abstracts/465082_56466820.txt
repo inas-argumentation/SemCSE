@@ -1,0 +1,38 @@
+Discriminating between clouds and aerosols in the CALIOP version 4.1 data products
+. The Cloud-Aerosol
+Lidar and Infrared Pathfinder Satellite Operations (CALIPSO) mission released
+version 4.1 (V4) of their lidar level 2 cloud and aerosol data products in
+November 2016. These new products were derived from the CALIPSO V4 lidar
+level 1 data, in which the calibration of the measured backscatter data at
+both 532 and 1064 nm was significantly improved. This paper describes
+updates to the V4 level 2 cloud–aerosol discrimination (CAD) algorithm that
+more accurately differentiate between clouds and aerosols throughout the
+Earth's atmosphere. The level 2 data products are improved with new CAD
+probability density functions (PDFs) that were developed to accommodate
+extensive calibration changes in the level 1 data. To enable more reliable
+identification of aerosol layers lofted into the upper troposphere and lower
+stratosphere, the CAD training dataset used in the earlier data releases was
+expanded to include stratospheric layers and representative examples of
+volcanic aerosol layers. The generic “stratospheric layer” classification
+reported in previous versions has been eliminated in V4, and cloud–aerosol
+classification is now performed on all layers detected everywhere from the
+surface to 30 km. Cloud–aerosol classification has been further extended to
+layers detected at single-shot resolution, which were previously classified
+by default as clouds. In this paper, we describe the underlying rationale
+used in constructing the V4 PDFs and assess the performance of the V4 CAD
+algorithm in the troposphere and stratosphere. Previous misclassifications of
+lofted dust and smoke in the troposphere have been largely improved, and
+volcanic aerosol layers and aerosol layers in the stratosphere are now being
+properly classified. CAD performance for single-shot layer detections is also
+evaluated. Most of the single-shot layers classified as aerosol occur within
+the dust belt, as may be expected. Due to changes in the 532 nm calibration
+coefficients, the V4 feature finder detects ∼9.0  % more features at
+night and ∼2.5  % more during the day. These features are typically
+weakly scattering and classified about equally as clouds and aerosols. For
+those tropospheric layers detected in both V3 and V4, the CAD classifications
+of more than 95 % of all cloud and daytime aerosol layers remain
+unchanged, as do the classifications of ∼89  % of nighttime aerosol
+layers. Overall, the nighttime net cloud and aerosol fractions remain
+unchanged from V3 to V4, but the daytime net aerosol fraction is increased by
+about 2 % and the daytime net cloud fraction is decreased by about
+2 %.

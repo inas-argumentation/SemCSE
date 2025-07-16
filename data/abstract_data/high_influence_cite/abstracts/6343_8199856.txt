@@ -1,0 +1,4 @@
+A Language Modeling Approach for Temporal Information Needs
+This work addresses information needs that have a temporal dimension conveyed by a temporal expression in the user’s query. Temporal expressions such as “in the 1990s” are frequent, easily extractable, but not leveraged by existing retrieval models. One challenge when dealing with them is their inherent uncertainty. It is often unclear which exact time interval a temporal expression refers to. 
+ 
+We integrate temporal expressions into a language modeling approach, thus making them first-class citizens of the retrieval model and considering their inherent uncertainty. Experiments on the New York Times Annotated Corpus using Amazon Mechanical Turk to collect queries and obtain relevance assessments demonstrate that our approach yields substantial improvements in retrieval effectiveness.

@@ -1,0 +1,2 @@
+Distributed Policies for Data Management - Making Policies Mobile
+This paper presents the challenges facing developers of multi-tier information systems in providing effective consistent data policy enforcement, such as access control in these architectures. It introduces “Mobile Policy”(MoP) as a potential solution and presents a framework for using mobile policy in the business logic tier of multi-tier information systems.

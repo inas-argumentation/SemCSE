@@ -1,0 +1,15 @@
+Loss of atm sensitises p53-deficient cells to topoisomerase poisons and antimetabolites.
+BACKGROUND
+Ataxia-telangiectasia is a pleiotropic autosomal recessive disorder caused by mutations in the ATM gene. In addition to a profound cancer predisposition, another hallmark of ataxia-telangiectasia is radiosensitivity. Recently, p53-null mouse fibroblasts have been reported to be radiosensitised by the concurrent loss of ATM.
+
+
+MATERIALS AND METHODS
+We compared the sensitivity of atm(+/+)/p53(-/-) and atm(-/-)/p53(-/-) mouse embryonic fibroblasts to different classes of chemotherapeutic agents using the MTT assay, Trypan Blue exclusion and fluorescence-activated cell sorting for cell cycle and apoptosis analyses.
+
+
+RESULTS
+Loss of ATM function in p53-deficient cells resulted in a 2- to 4-fold increase in sensitivity to the topoisomerase I poisons camptothecin and topotecan, to the topoisomerase II poisons doxorubicin, epirubicin and etoposide, and to the antimetabolites 5-fluorouracil and gemcitabine, but not to the platinum compounds cisplatin, carboplatin and oxaliplatin, the taxanes docetaxel and paclitaxel, or to busulfan. Loss of ATM function did not result in increased apoptosis, but resulted in increased Trypan Blue staining in response to epirubicin, suggesting that processes other than apoptosis may mediate cytotoxicity. ATM deficiency did not alter the extent of G(1)/S or G(2)/M cell cycle phase accumulation produced by epirubicin, suggesting that enhanced sensitivity was not due to failure of checkpoint activation.
+
+
+CONCLUSIONS
+We provide further evidence that ATM is involved in regulating cellular defences against some cytotoxic agents in the absence of p53. Tumour-targeted functional inhibition of ATM may be a valuable strategy for increasing the efficacy of anticancer agents in the treatment of p53-mutant cancers.

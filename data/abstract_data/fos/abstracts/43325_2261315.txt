@@ -1,0 +1,15 @@
+A Comparison of 8 Nutrition-Related Tests to Predict Mortality in Hemodialysis Patients.
+OBJECTIVE
+Protein-energy wasting (PEW) describes a state of decreased protein and energy fuels and is highly prevalent in hemodialysis patients. As PEW is associated with mortality, it should be detected accurately and easily. This study investigated which nutrition-related test predicts mortality and morbidity best in hemodialysis patients.
+
+
+DESIGN AND SUBJECTS
+Data were used from CONTRAST, a cohort of end-stage kidney disease patients. Subjective Global Assessment (SGA), Malnutrition Inflammation Score (MIS), Geriatric Nutritional Risk Index (GNRI), composite score of Protein-Energy Nutritional Status (cPENS), serum albumin, serum creatinine, body mass index, and normalized protein nitrogen appearance rate were assessed at baseline. End points were all-cause mortality, cardiovascular events, and infection. Discriminative value of every test was assessed with Harrell's C statistic and calibration tested using the Hosmer-Lemeshow goodness-of-fit test. Ultimately, in every test, 4 groups were created to compare (1) hazard ratios (HR; worst vs best group), (2) HR increase per group, and (3) HR of worst group versus other groups.
+
+
+RESULTS
+In total, 489 patients were analyzed. Median follow-up was 2.97 years (interquartile range, 1.67-4.47 years). MIS, GNRI, albumin, and creatinine discriminated all-cause mortality equally. SGA, cPENS, body mass index, and normalized protein nitrogen appearance were inferior. cPENS and creatinine were inadequately calibrated. Of the remaining tests, GNRI predicted mortality less when comparing HRs. MIS and albumin predicted mortality equally well. In a subanalysis, these also predicted infection equally well, but MIS predicted cardiovascular events better.
+
+
+CONCLUSION
+Of the 8 investigated nutrition-related tests, MIS and albumin predict mortality best in hemodialysis patients. As one has no added value over the other, we conclude that mortality is most easily predicted in hemodialysis patients by serum albumin.

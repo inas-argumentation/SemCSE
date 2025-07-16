@@ -1,0 +1,15 @@
+Alcohol Availability and Onset and Recurrence of Alcohol Use Disorder: Examination in a Longitudinal Cohort with Cosibling Analysis
+BACKGROUND
+Recent reviews of associations of alcohol availability with alcohol outcomes suggest findings are highly inconsistent and highlight a lack of longitudinal and causal evidence. Effect modification (moderation or statistical interaction), which could contribute to the inconsistent picture in the existing literature, has not been systematically assessed. We examined associations of alcohol availability with onset and recurrence of alcohol use disorder (AUD) using multilevel, longitudinal population data from Sweden and tested hypothesized effect modifiers to identify groups for whom increased alcohol availability may be particularly risky. We also employed cosibling models to assess potential causality for AUD onset by accounting for genetic and shared-environment confounders.
+
+
+METHODS
+Data come from all individuals born in Sweden between 1950 and 1975 who were registered in a residential neighborhood at the end of 2005 (N = 2,633,922). We used Cox proportional hazards models to investigate time to AUD onset and logistic regression to assess the odds of AUD recurrence over an 8-year period.
+
+
+RESULTS
+Living in a neighborhood with at least 1 alcohol outlet of any type was associated with a small increase in the likelihood of developing AUD, with an adjusted hazard ratio (HR) of 1.16 (95% CI: 1.13 to 1.19). Among people with a prior AUD registration, alcohol availability was not significantly associated with recurrence of AUD, with an adjusted odds ratio of 1.02 (95% CI: 1.00 to 1.05). Associations of alcohol availability with AUD onset varied according to sex, age, education, neighborhood deprivation, and urbanicity. HRs from the sibling models were similar to those in the general population models, with an adjusted HR = 1.19 (95% CI: 1.15 to 1.24).
+
+
+CONCLUSIONS
+Effects varied among neighborhood residents, but greater alcohol availability was a risk factor for AUD onset (but not relapse) in all groups examined except women. Cosibling models suggest there may be a causal relationship of greater alcohol availability with adult-onset AUD.

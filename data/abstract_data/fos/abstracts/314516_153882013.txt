@@ -1,0 +1,2 @@
+Implementing the Kalai-Smorodinsky bargaining solution
+The bargaining game is proposed where the agents bid fractions of dictatorship that are used by all non-winners of the auction to threaten acceptance of the winner's proposal. That procedure non-cooperatively implements the Kalai-Smorodinsky bargaining solution.

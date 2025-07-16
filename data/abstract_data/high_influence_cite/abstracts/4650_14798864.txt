@@ -1,0 +1,11 @@
+MinK-dependent internalization of the IKs potassium channel.
+AIMS
+KCNQ1-MinK potassium channel complexes (4alpha:2beta stoichiometry) generate IKs, the slowly activating human cardiac ventricular repolarization current. The MinK ancillary subunit slows KCNQ1 activation, eliminates its inactivation, and increases its unitary conductance. However, KCNQ1 transcripts outnumber MinK transcripts five to one in human ventricles, suggesting KCNQ1 also forms other heteromeric or even homomeric channels there. Mechanisms governing which channel types prevail have not previously been reported, despite their significance: normal cardiac rhythm requires tight control of IKs density and kinetics, and inherited mutations in KCNQ1 and MinK can cause ventricular fibrillation and sudden death. Here, we describe a novel mechanism for this control.
+
+
+METHODS AND RESULTS
+Whole-cell patch-clamping, confocal immunofluorescence microscopy, antibody feeding, biotin feeding, fluorescent transferrin feeding, and protein biochemistry techniques were applied to COS-7 cells heterologously expressing KCNQ1 with wild-type or mutant MinK and dynamin 2 and to native IKs channels in guinea-pig myocytes. KCNQ1-MinK complexes, but not homomeric KCNQ1 channels, were found to undergo clathrin- and dynamin 2-dependent internalization (DDI). Three sites on the MinK intracellular C-terminus were, in concert, necessary and sufficient for DDI. Gating kinetics and sensitivity to XE991 indicated that DDI decreased cell-surface KCNQ1-MinK channels relative to homomeric KCNQ1, decreasing whole-cell current but increasing net activation rate; inhibiting DDI did the reverse.
+
+
+CONCLUSION
+The data redefine MinK as an endocytic chaperone for KCNQ1 and present a dynamic mechanism for controlling net surface Kv channel subunit composition-and thus current density and gating kinetics-that may also apply to other alpha-beta type Kv channel complexes.

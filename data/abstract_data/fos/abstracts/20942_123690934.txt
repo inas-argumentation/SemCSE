@@ -1,0 +1,2 @@
+Strict Monotonicity in Comparative Statics
+This note provides sufficient conditions to draw strict monotone comparative statics conclusions in optimization problems. These results extend the lattice-theoretic results of Milgrom and Shannon (1994) by imposing a stronger differential version of the single crossing property and arguing from first- order conditions. We illustrate the importance of these results through examples involving holdup problems and optimal tax problems.

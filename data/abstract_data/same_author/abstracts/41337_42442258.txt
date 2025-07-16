@@ -1,0 +1,2 @@
+An approach to animating Z specifications
+This paper presents the ZANS approach to animating a large subset of Z specifications. Unlike most other animation approaches that are based on functional or logical programming paradigms, the approach presented transforms the specifications into an imperative intermediate language, which can also serve as the basis of code synthesis from Z specifications. ZANS is showing promise of being an effective tool for requirements validation and assisting students learning Z specification languages.

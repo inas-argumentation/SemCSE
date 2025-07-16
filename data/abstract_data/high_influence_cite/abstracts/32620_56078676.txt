@@ -1,0 +1,2 @@
+Error Estimates for a Multidimensional Meshfree Galerkin Method with Diffuse Derivatives and Stabilization
+A meshfree method with diffuse derivatives and a penalty stabilization is developed. An error analysis for the approximation of the solution of a general elliptic differential equation, in several dimensions, with Neumann boundary conditions is provided. Theoretical and numerical results show that the approximation error and the convergence rate are better than the diffuse element method.

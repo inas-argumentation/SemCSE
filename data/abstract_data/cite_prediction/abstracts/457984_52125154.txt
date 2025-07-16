@@ -1,0 +1,2 @@
+Advances in Digital Forensics XIV
+This chapter describes a method for obtaining a quantitative measure of the relative weight of each individual item of evidence in a digital forensic investigation using a Bayesian network. The resulting evidential weights can then be used to determine a near-optimal, cost-effective triage scheme for the investigation in question.

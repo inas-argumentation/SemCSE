@@ -1,0 +1,19 @@
+Identification of G-quadruplex DNA/RNA binders: Structure-based virtual screening and biophysical characterization.
+BACKGROUND
+Recent findings demonstrated that, in mammalian cells, telomere DNA (Tel) is transcribed into telomeric repeat-containing RNA (TERRA), which is involved in fundamental biological processes, thus representing a promising anticancer target. For this reason, the discovery of dual (as well as selective) Tel/TERRA G-quadruplex (G4) binders could represent an innovative strategy to enhance telomerase inhibition.
+
+
+METHODS
+Initially, docking simulations of known Tel and TERRA active ligands were performed on the 3D coordinates of bimolecular G4 Tel DNA (Tel2) and TERRA (TERRA2). Structure-based pharmacophore models were generated on the best complexes and employed for the virtual screening of ~257,000 natural compounds. The 20 best candidates were submitted to biophysical assays, which included circular dichroism and mass spectrometry at different K+ concentrations.
+
+
+RESULTS
+Three hits were here identified and characterized by biophysical assays. Compound 7 acts as dual Tel2/TERRA2 G4-ligand at physiological KCl concentration, while hits 15 and 17 show preferential thermal stabilization for Tel2 DNA. The different molecular recognition against the two targets was also discussed.
+
+
+CONCLUSIONS
+Our successful results pave the way to further lead optimization to achieve both increased selectivity and stabilizing effect against TERRA and Tel DNA G4s.
+
+
+GENERAL SIGNIFICANCE
+The current study combines for the first time molecular modelling and biophysical assays applied to bimolecular DNA and RNA G4s, leading to the identification of innovative ligand chemical scaffolds with a promising anticancer profile. This article is part of a Special Issue entitled "G-quadruplex" Guest Editor: Dr. Concetta Giancola and Dr. Daniela Montesarchio.

@@ -1,0 +1,2 @@
+Performance analysis of graphene based transistors: Modelling and simulation
+Graphene Nanoribbon FETs and Graphene Nanoribbon Tunnel FETs channel current models are simulated in MATLAB followed by implementation in PSpice as equivalent circuit models. Several characteristics of these transistors are compared to those of MOSFETs, keeping identical gate length of 20 nm for performance analysis. Based on the simulation results, it is found that graphene based transistors exhibit superior performance compared to MOSFETs.

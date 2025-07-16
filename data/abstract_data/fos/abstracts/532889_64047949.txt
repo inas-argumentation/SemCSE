@@ -1,0 +1,2 @@
+Implementation of Two-Dimensional Objectives Coordinate Positioning Based on Machine Vision
+Under unknown camera internal parameters conditions,proposes a method to achieve two-dimensional positioning in a single image.Deduces the transformation matrix which converted image pixel coordinates to body coordinate system,and describes the method and step of the transformation matrix.Experimental verification of the study revealed that this method is easy to achieve and has a high positioning accuracy(P=1.47mm),the max error is 2.95mm.

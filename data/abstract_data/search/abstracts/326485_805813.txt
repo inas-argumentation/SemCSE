@@ -1,0 +1,2 @@
+An Identity Based Encryption Scheme Based on Quadratic Residues
+We present a novel public key cryptosystem in which the public key of a subscriber can be chosen to be a publicly known value, such as his identity. We discuss the security of the proposed scheme, and show that this is related to the difficulty of solving the quadratic residuosity problem.

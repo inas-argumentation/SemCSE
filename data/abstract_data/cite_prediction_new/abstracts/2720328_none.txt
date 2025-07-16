@@ -1,0 +1,2 @@
+Automatically organizing digital photographs using time and content
+We present similarity-based methods to cluster digital photos by time and image content. This approach is general, unsupervised, and makes minimal assumptions regarding the structure or statistics of the photo collection. We describe versions of the algorithm using temporal similarity with and without content-based similarity, and compare the algorithms with existing techniques, measured against ground-truth clusters created by humans.

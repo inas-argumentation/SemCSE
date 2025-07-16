@@ -1,0 +1,2 @@
+Standard Model Higgs boson production in association with a top anti-top pair at NLO with parton showering
+We present predictions for the production cross-section of a Standard Model Higgs boson in association with a pair at next-to-leading order accuracy using matrix elements obtained from the HELAC-Oneloop package. The NLO prediction was interfaced to the PYTHIA and HERWIG shower Monte Carlo programs with the help of POWHEG-Box, allowing for decays of massive particles, showering and hadronization, thus leading to final results at the hadron level.

@@ -1,0 +1,2 @@
+Circle grid fractal pattern for calibration at different camera zoom levels
+Camera calibration patterns and fiducial markers are basic technique for 3D measurement to create Computer Graphics (CG) and Augmented Reality (AR). A checkerboard is widely used as a calibration pattern and a circle or ring grid provides higher precision [Datta et al. 2009], and matrix codes are common as AR markers.

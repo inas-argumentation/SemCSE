@@ -1,0 +1,15 @@
+Increasing session-to-session transfer in a brain-computer interface with on-site background noise acquisition.
+OBJECTIVE
+A brain-computer interface (BCI) usually requires a time-consuming training phase during which data are collected and used to generate a classifier. Because brain signals vary dynamically over time (and even over sessions), this training phase may be necessary each time the BCI system is used, which is impractical. However, the variability in background noise, which is less dependent on a control signal, may dominate the dynamics of brain signals. Therefore, we hypothesized that an understanding of variations in background noise may allow existing data to be reused by incorporating the noise characteristics into the feature extraction framework; in this way, new session data are not required each time and this increases the feasibility of the BCI systems.
+
+
+APPROACH
+In this work, we collected background noise during a single, brief on-site acquisition session (approximately 3 min) immediately before a new session, and we found that variations in background noise were predictable to some extent. Then we implemented this simple session-to-session transfer strategy with a regularized spatiotemporal filter (RSTF), and we tested it with a total of 20 cross-session datasets collected over multiple days from 12 subjects. We also proposed and tested a bias correction (BC) in the RSTF.
+
+
+MAIN RESULTS
+We found that our proposed session-to-session strategies yielded a slightly less or comparable performance to the conventional paradigm (each session training phase is needed with an on-site training dataset). Furthermore, using an RSTF only and an RSTF with a BC outperformed existing approaches in session-to-session transfers.
+
+
+SIGNIFICANCE
+We inferred from our results that, with an on-site background noise suppression feature extractor and pre-existing training data, further training time may be unnecessary.

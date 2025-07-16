@@ -1,0 +1,2 @@
+ELEMENT-FREE GALERKIN METHOD WITH WAVELET BASIS FUNCTION AND ITS APPLICATION IN ENGINEERING
+This paper deals with a new Element-Free Galerkin method (EFG) with a wavelet basis. After using discrete wavelet basis function instead of polynomial series, the performance of EFG is enhanced. It inherits the localization and multiresolution character of wavelet transform and overcomes the mesh-sensitivity and the stress field discontinuity of finite element method. The new numerical method advances the theory of EFG and expands its applicability.

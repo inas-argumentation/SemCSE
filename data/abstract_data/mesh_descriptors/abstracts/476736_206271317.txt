@@ -1,0 +1,19 @@
+Discriminative spatial-frequency-temporal feature extraction and classification of motor imagery EEG: An sparse regression and Weighted Naïve Bayesian Classifier-based approach
+BACKGROUND
+Common spatial pattern (CSP) is most widely used in motor imagery based brain-computer interface (BCI) systems. In conventional CSP algorithm, pairs of the eigenvectors corresponding to both extreme eigenvalues are selected to construct the optimal spatial filter. In addition, an appropriate selection of subject-specific time segments and frequency bands plays an important role in its successful application.
+
+
+NEW METHOD
+This study proposes to optimize spatial-frequency-temporal patterns for discriminative feature extraction. Spatial optimization is implemented by channel selection and finding discriminative spatial filters adaptively on each time-frequency segment. A novel Discernibility of Feature Sets (DFS) criteria is designed for spatial filter optimization. Besides, discriminative features located in multiple time-frequency segments are selected automatically by the proposed sparse time-frequency segment common spatial pattern (STFSCSP) method which exploits sparse regression for significant features selection. Finally, a weight determined by the sparse coefficient is assigned for each selected CSP feature and we propose a Weighted Naïve Bayesian Classifier (WNBC) for classification.
+
+
+RESULTS
+Experimental results on two public EEG datasets demonstrate that optimizing spatial-frequency-temporal patterns in a data-driven manner for discriminative feature extraction greatly improves the classification performance.
+
+
+COMPARISON WITH EXISTING METHODS
+The proposed method gives significantly better classification accuracies in comparison with several competing methods in the literature.
+
+
+CONCLUSIONS
+The proposed approach is a promising candidate for future BCI systems.

@@ -1,0 +1,11 @@
+Existential and Positive Theories of Equations in Graph Products
+We prove that the existential theory of equations 
+with normalized rational constraints in 
+a fixed graph product of finite monoids, free monoids, and 
+free groups is PSPACE-complete.
+Under certain restrictions this result also holds
+if the graph product is part of the input.
+As the second main result we prove that the positive theory of equations
+with recognizable constraints
+in graph products of finite and free groups is 
+decidable.

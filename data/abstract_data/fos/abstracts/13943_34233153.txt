@@ -1,0 +1,15 @@
+SU-E-T-56: Brain Metastasis Treatment Plans for Contrast-Enhanced Synchrotron Radiation Therapy.
+PURPOSE
+Iodine-enhanced radiotherapy is an innovative treatment combining the selective accumulation of an iodinated contrast agent in brain tumors with irradiations using monochromatic medium energy x-rays. The aim of this study is to compare dynamic stereotactic arc-therapy and iodineenhanced SSRT.
+
+
+METHODS
+Five patients bearing brain metastasis received a standard helical 3D-scan without iodine. A second scan was acquired 13 min after an 80 g iodine infusion. Two SSRT treatment plans (with/without iodine) were performed for each patient using a dedicated Monte Carlo (MC) treatment planning system (TPS) based on the ISOgray TPS. Ten coplanar beams (6×6 cm2, shaped with collimator) were simulated. MC statistical error objective was less than 5% in the 50% isodose. The dynamic arc-therapy plan was achieved on the Iplan Brainlab TPS. The treatment plan validation criteria were fixed such that 100% of the prescribed dose is delivered at the beam isocentre and the 70% isodose contains the whole target volume. The comparison elements were the 70% isodose volume, the average and maximum doses delivered to organs at risk (OAR): brainstem, optical nerves, chiasma, eyes, skull bone and healthy brain parenchyma.
+
+
+RESULTS
+The stereotactic dynamic arc-therapy remains the best technique in terms of dose conformation. Iodine-enhanced SSRT presents similar performances to dynamic arc-therapy with increased brainstem and brain parenchyma sparing. One disadvantage of SSRT is the high dose to the skull bone. Iodine accumulation in metastasis may increase the dose by 20-30%, allowing a normal tissue sparing effect at constant prescribed dose. Treatment without any iodine enhancement (medium-energy stereotactic radiotherapy) is not relevant with degraded HDVs (brain, parenchyma and skull bone) comparing to stereotactic dynamic arc-therapy.
+
+
+CONCLUSION
+Iodine-enhanced SSRT exhibits a good potential for brain metastasis treatment regarding the dose distribution and OAR criteria.

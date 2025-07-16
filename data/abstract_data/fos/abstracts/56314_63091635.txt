@@ -1,0 +1,2 @@
+Research and Improvement of Search Engine Technology Based on Lucene
+Introduces the indexing and ranking technology of Lucene,and improves the ranking technique.Using the open sorce text search technology of Lucene develops retrieval systems for full text,designing for indexer,searcher,Chinese analyzer and other modules,completes an applicationfor search engine that is based on Lucene.The improved fulltext retrieval system based onLucene can provide Chinese language search services better and more accurately provide userswith the information they need.

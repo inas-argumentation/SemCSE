@@ -1,0 +1,2 @@
+MIMO Gaussian X Channel: Noisy Interference Regime
+The two-user multiple-input multiple-output (MIMO) Gaussian X channel (XC) consists of two transmitters and two receivers, with each transmitter having an independent message to each receiver. The sum capacity of the two-user MIMO Gaussian XC is determined in a noisy interference regime. This sum capacity is achieved by using Gaussian codebooks for the messages on both the direct links (or both the cross links) and treating the interference from the cross links (or direct links) as noise.

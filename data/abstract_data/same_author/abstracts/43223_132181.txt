@@ -1,0 +1,2 @@
+A note on proactive password checking
+Nowadays, proactive password checking algorithms are based on the philosophy of the dictionary attack, and they often fail to prevent some weak passwords with low entropy. In this paper, a new approach is proposed to deal with this new class of weak passwords by (roughly) measuring entropy. A simple example is given to exploit effective patterns to prevent low-entropy passwords as the first step of entropy-based proactive password checking.

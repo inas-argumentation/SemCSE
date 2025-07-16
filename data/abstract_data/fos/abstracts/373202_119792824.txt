@@ -1,0 +1,2 @@
+Estimation from samples containing bad repetitions
+We consider the problem of estimating a population mean when the sample contains repeats of some items, which may cause bias of the usual estimates. Our procedure is to classify the observations arid use the sample mean of the midpoints of the non-empty classes. This procedure works well if the distribution is symmetric and light-tailed.

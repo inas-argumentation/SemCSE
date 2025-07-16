@@ -1,0 +1,2 @@
+A many-server fluid limit for the Gt/G//st+G/ queueing model experiencing periods of overloading
+A many-server heavy-traffic functional weak law of large numbers is established for the G t / G I / s t + G I queueing model, which has customer abandonment (the + G I ), time-varying arrival rate and staffing (the subscript t ) and non-exponential service and patience distributions (the two G I ’s). This limit provides support for a previously proposed deterministic fluid approximation, and extends a previously established limit for the special case of exponential service times.

@@ -1,0 +1,2 @@
+Research on Modeling of Printing English Words Recognition Based on HMM
+Discusses a printing English words recognize method based on Hidden Markov Model.The entire text image is segmented into letters,and extracts each letter's 8-direction features,then adopts a vector quantization method and sends the feature vectors to HMM for training or recognition.According to segmentation,proposes some improvements in VQ method and training algorithm,so as to improve the recognition rate consequently.

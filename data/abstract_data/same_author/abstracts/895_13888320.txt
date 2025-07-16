@@ -1,0 +1,2 @@
+A framework for implementing role-based access control using CORBA security service
+The paper shows how role-based access control (RBAC) models could be implemented using CORBA Security service. A con guration of CORBA protection system is de ned. We provide de nitions of RBAC0 and RBAC1 implementations in the framework of CORBA Security and describe what is required from an implementation of CORBA Security service in order to support RBAC0RBAC3 models.

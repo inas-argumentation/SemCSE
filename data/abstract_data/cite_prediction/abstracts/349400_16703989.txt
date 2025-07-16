@@ -1,0 +1,2 @@
+Analysis of digital bang-bang clock and data recovery for multi-gigabit/s serial transceivers
+A Harmonic Balance method for analyzing digital bang-bang clock and data recovery (CDR) is proposed in this paper. The jitter tolerance performance of the CDR is predicted by a function with variables that can be easily correlated to design parameters. A 6.25Gb/s serial transceiver was fabricated in 90nm CMOS technology. Measurements show that the jitter tolerance performance can be accurately predicted by the proposed method.

@@ -1,0 +1,2 @@
+Spanning Local Tournaments in Locally Semicomplete Digraphs
+Abstract We investigate the existence of a spanning local tournament with possibly high connectivity in a highly connected locally semicomplete digraph. It is shown that every (3k − 2)-connected locally semicomplete digraph contains a k-connected spanning local tournament. This improves the result of Bang-Jensen and Thomassen for semicomplete digraphs and of Bang-Jensen [1] for locally semicomplete digraphs.

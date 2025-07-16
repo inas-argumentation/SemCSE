@@ -1,0 +1,2 @@
+Probe of a Bug of DropDownList in C#.NET and the Resolvent
+This article discusses the attribute-SelectedIndex of DropDownList Control, which is frequently used in the development environment of C#.NET. By tracing the program in detail, it find out the reason of this bug. The scheme of how to avoid and resolvent it is also given.

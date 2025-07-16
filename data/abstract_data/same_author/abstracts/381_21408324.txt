@@ -1,0 +1,2 @@
+A Stability Property of T. Chan's Preconditioner
+In this short note, we prove that T. Chan's preconditioner proposed in {TChan} [SIAM J. Sci. Statist. Comput., 9 (1988), pp. 766--771] is stable for matrices that are normal and stable.

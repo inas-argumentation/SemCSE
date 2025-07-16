@@ -1,0 +1,2 @@
+Query Optimization in Relational Database Systems
+Query optimization is an important technique for the design and implementation of a database management system.It is a crucial factor that affects the performance of a database.Investigates the query optimization techniques of a relational database system,which is based on the discussion of the factors involved in query optimization such as file organization,storage medium,query strategy,query algorithm,the operation mode of query and stored mapping algorithm,etc.

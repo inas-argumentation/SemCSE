@@ -1,0 +1,2 @@
+Generalized Gel’fand invariants and characteristic identities for quantum groups
+The generalized Gel’fand invariants for an arbitrary quantum group are explicitly constructed, and their eigenvalues in any irreducible representation are computed. These invariants enable one to develop characteristic identities for the quantum group, and as a natural application, these identities are used to construct projection operators for tensor products of representations. To illustrate the general theory, the quantum group Uq(gl(m)) is studied in detail.

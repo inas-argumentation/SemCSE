@@ -1,0 +1,26 @@
+Errors in nanoparticle growth rates inferred from measurements in chemically reacting aerosol systems
+Abstract. In systems in which aerosols are being formed by chemical transformations,
+individual particles grow due to the addition of molecular species. Efforts
+to improve our understanding of particle growth often focus on attempts to
+reconcile observed growth rates with values calculated from models. However,
+because it is typically not possible to measure the growth rates of
+individual particles in chemically reacting systems, they must be inferred
+from measurements of aerosol properties such as size distributions, particle
+number concentrations, etc. This work discusses errors in growth rates
+obtained using methods that are commonly employed for analyzing atmospheric
+data. We analyze “data” obtained by simulating the formation of aerosols in
+a system in which a single chemical species is formed at a constant rate,
+ R . We show that the maximum overestimation error in measured growth rates
+occurs for collision-controlled nucleation in a single-component system in
+the absence of a preexisting aerosol, wall losses, evaporation or dilution,
+as this leads to the highest concentrations of nucleated particles. Those
+high concentrations lead to high coagulation rates that cause the nucleation
+mode to grow faster than would be caused by vapor condensation alone. We also
+show that preexisting particles, when coupled with evaporation, can
+significantly decrease the concentration of nucleated particles. This can
+lead to decreased discrepancies between measured growth rate and true growth
+rate by reducing coagulation among nucleated particles. However, as particle
+sink processes become stronger, measured growth rates can potentially be
+lower than true particle growth rates. We briefly discuss nucleation
+scenarios in which the observed growth rate approaches zero while the true
+growth rate does not.

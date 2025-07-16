@@ -1,0 +1,2 @@
+Video Summarization of Laparoscopic Cholecystectomies
+We compared image features with a distance metric and support vector machine to identify the critical view of a laparoscopic cholecystectomy. Our accuracy was up to 91%. We are currently experimenting with particle analysis, edge analysis, and feature clus-tering to create a more robust image classifier.

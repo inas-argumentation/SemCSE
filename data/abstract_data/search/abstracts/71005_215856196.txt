@@ -1,0 +1,2 @@
+Cost efficient SHA hardware accelerators
+This paper presents a new set of techniques for hard ware implementations of Secure Hash Algorithm (SHA) hash functions. These techniques consist mostly in operation rescheduling and hardware reuti.

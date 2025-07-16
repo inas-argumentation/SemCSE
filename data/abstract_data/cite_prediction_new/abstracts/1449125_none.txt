@@ -1,0 +1,2 @@
+Fault Injection Analysis on a Reed Solomon Decoder
+This paper shows improvement in the efficiency of self checking circuit with the use of exhaustive fault injection with analysis of property of circuit is shown. Experimental results from fault injection on a Reed-Solomon Decoder demonstrated that by observing the occurred errors and the correspondent detection module has been possible to reduce the number of detection module, while paying a small reduction of the percentage of SEUs that can be detected.

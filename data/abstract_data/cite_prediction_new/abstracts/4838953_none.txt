@@ -1,0 +1,2 @@
+Designing a virtualized testbed for dynamic multimedia service composition
+Researchers have been proposing new protocols and services to improve performance, reliability, and scalability of the Internet. There have been several testbed platforms to test such protocols and services. In this paper, as an approach to develop a service-oriented Future Internet testbed, we discuss a preliminary design to enable programmable computing/networking and support sustainable experiments that dynamically combine distributed services.

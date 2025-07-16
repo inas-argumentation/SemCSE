@@ -1,0 +1,15 @@
+Implications of long-term care capacity response policies for an aging population: a simulation analysis.
+INTRODUCTION
+The demand for long-term care (LTC) services is likely to increase as a population ages. Keeping pace with rising demand for LTC poses a key challenge for health systems and policymakers, who may be slow to scale up capacity. Given that Singapore is likely to face increasing demand for both acute and LTC services, this paper examines the dynamic impact of different LTC capacity response policies, which differ in the amount of time over which LTC capacity is increased, on acute care utilization and the demand for LTC and acute care professionals.
+
+
+METHODS
+The modeling methodology of System Dynamics (SD) was applied to create a simplified, aggregate, computer simulation model for policy exploration. This model stimulates the interaction between persons with LTC needs (i.e., elderly individuals aged 65 years and older who have functional limitations that require human assistance) and the capacity of the healthcare system (i.e., acute and LTC services, including community-based and institutional care) to provide care. Because the model is intended for policy exploration, stylized numbers were used as model inputs. To discern policy effects, the model was initialized in a steady state. The steady state was disturbed by doubling the number of people needing LTC over the 30-year simulation time. Under this demand change scenario, the effects of various LTC capacity response policies were studied and sensitivity analyses were performed.
+
+
+RESULTS
+Compared to proactive and quick adjustment LTC capacity response policies, slower adjustment LTC capacity response policies (i.e., those for which the time to change LTC capacity is longer) tend to shift care demands to the acute care sector and increase total care needs.
+
+
+CONCLUSIONS
+Greater attention to demand in the acute care sector relative to demand for LTC may result in over-building acute care facilities and filling them with individuals whose needs are better suited for LTC. Policymakers must be equally proactive in expanding LTC capacity, lest unsustainable acute care utilization and significant deficits in the number of healthcare professionals arise. Delaying LTC expansion could, for example, lead to increased healthcare expenditure and longer wait lists for LTC and acute care patients.

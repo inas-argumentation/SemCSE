@@ -1,0 +1,2 @@
+Some algorithm for computing the minimum distance of evaluation codes
+Our purpose is to present some computations and estimates for the minimum distance of some families of evaluation codes. We introduce the Feng-Rao distance of an algebraic-geometry code and its extension to codes from order domains. Finally we give an algorithm to compute the Feng-Rao distance of a code from an order domain and we show its implementation in the computer algebra system SINGULAR.

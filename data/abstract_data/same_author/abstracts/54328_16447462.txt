@@ -1,0 +1,2 @@
+Accommodating interference in the formal design of concurrent object-based programs
+This paper is about formal development methods for concurrent programs. Interference is the bane of the quest for compositional methods for concurrency. Concepts from object-oriented languages are argued to be a promising way of taming interference. Two approaches to development are described which are applicable to differing degrees of interference.

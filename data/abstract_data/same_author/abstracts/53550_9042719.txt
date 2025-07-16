@@ -1,0 +1,2 @@
+Using a Swap Instruction to Coalesce Loads and Stores
+A swap instruction, which exchanges a value in memory with a value of a register, is available on many architectures. The primary application of a swap instruction has been for process synchronization. As an experiment we wished to see how often a swap instruction can be used to coalesce loads and stores to improve the performance of a variety of applications. The results show that both the number of accesses to the memory system (data cache) and the number of executed instructions are reduced.

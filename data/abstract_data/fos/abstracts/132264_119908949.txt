@@ -1,0 +1,2 @@
+Nonparametrie recursive estimator for mean residual life and vitality function under dependence conditions
+In this paper, we develop a nonparametrie recursive estimator for the vitality and mena residual life function, based on kernel density estimators under mixing dependence conditions. The consistency and asymptotic normality of the estimator are established, under suitable regularity conditions. It is also shown that the Integrated Mean Squared Error converges to zero. The paper is concluyed with some simulation results.

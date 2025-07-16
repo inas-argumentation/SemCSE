@@ -1,0 +1,2 @@
+Cooperative distributed sequential spectrum sensing
+We consider cooperative spectrum sensing for cognitive radios. We develop an energy efficient detector with low detection delay using sequential hypothesis testing. Sequential Probability Ratio Test (SPRT) is used at both the local nodes and the fusion center. We also analyse the performance of this algorithm and compare with the simulations. Modelling uncertainties in the distribution parameters are considered. Slow fading with and without perfect channel state information at the cognitive radios is taken into account.

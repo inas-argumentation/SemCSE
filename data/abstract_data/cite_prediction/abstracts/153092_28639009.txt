@@ -1,0 +1,2 @@
+Linguistic realisation as machine translation: Comparing different MT models for AMR-to-text generation
+In this paper, we study AMR-to-text generation, framing it as a translation task and comparing two different MT approaches (Phrasebased and Neural MT). We systematically study the effects of 3 AMR preprocessing steps (Delexicalisation, Compression, and Linearisation) applied before the MT phase. Our results show that preprocessing indeed helps, although the benefits differ for the two MT models. The implementation of the models are publicly available1.

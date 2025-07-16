@@ -1,0 +1,2 @@
+The Improvement on Control Scheme of Boiler Desuperheating System in Power Plant
+In view of the pure delay in boiler desuperheating system in power plant, an advanced Smith predictor is proposed in this paper.The simulation shows that the Smith predictor has strong robustness with the variant model parameter and can overcome the instability due to conventional PID adjust method.

@@ -1,0 +1,2 @@
+Spatial Distribution Maps for Atom Probe Tomography
+This paper proposes obtaining structural information by directly imaging offsets between neighboring atom positions after reconstruction. This technique requires much less memory and CPU processing time than either FT implementation described above. Additionally, in certain situations position-dependent reconstruction aberrations can be estimated across much of the field of view by direct examination of peak shapes in the resulting 3D spatial distribution functions

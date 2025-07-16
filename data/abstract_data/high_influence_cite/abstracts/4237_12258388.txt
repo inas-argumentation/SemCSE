@@ -1,0 +1,2 @@
+Canonical heights and entropy in arithmetic dynamics
+A system of transformations is associated to a rational point on an elliptic curve. The sequence entropy is connected to the canonical height, and in some cases there is a canonically defined quotient system whose entropy is the canonical height and for which the fibre entropy is accounted for by local heights at primes of bad reduction. The proofs use transcendence theory and a strong form of Siegel's theorem. We go on to extend these ideas to the morphic heights of Call and Goldstine.

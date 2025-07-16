@@ -1,0 +1,15 @@
+Lack of relationship between systemic exposure for the component drug of the fluorouracil, epirubicin, and 4-hydroxycyclophosphamide regimen in breast cancer patients.
+PURPOSE
+The aim of this study was to investigate the covariance between the pharmacokinetics of the three components of the FEC regimen, epirubicin (EPI), fluorouracil (5-FU), and the cyclophosphamide (CP) metabolite 4-hydroxycyclophosphamide (4-OHCP), in breast cancer patients.
+
+
+PATIENTS AND METHODS
+Data from 21 women were collected over a total of 35 cycles. 5-FU (300 to 600 mg/m2) and CP (300 to 600 mg/m2) were administered as bolus injections, whereas EPI (15 to 60 mg/m2) was administered either as a bolus injection or as an infusion. The pharmacokinetics of the component drugs were monitored using a limited sampling scheme. Population pharmacokinetic models for each of the three drugs were developed using the program NONMEM.
+
+
+RESULTS
+The data for 5-FU were best described by a one-compartment model with nonlinear elimination, where the maximal rate of elimination (Vmax) and the concentration at which the elimination was half-maximal (Km) were 105 mg/L.h and 27 mg/L, respectively. EPI concentration-time profiles showed a triexponential decline, with a mean terminal half-life of 24 hours and a clearance (CL) of 59 L/h. The elimination of 4-OHCP was monoexponential, with a mean half-life of 7 hours. The interindividual coefficients of variation (CVs) in CL were 30%, 22%, and 41% for 5-FU, EPI, and 4-OHCP, respectively. The corresponding values for intrapatient course-to-course variability in CL were 11%, 8%, and 27%. No significant correlation in any of the pharmacokinetic parameters between the drugs was found.
+
+
+CONCLUSION
+Individualization of dosing of the FEC regimen using therapeutic drug monitoring and attempts to find concentration-response relationships may be successful, but requires that the exposure of all three drugs is considered simultaneously.

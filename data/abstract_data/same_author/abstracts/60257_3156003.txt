@@ -1,0 +1,2 @@
+A Cooperative Coevolutionary Multiobjective Algorithm Using Non-dominated Sorting
+The following paper describes a cooperative coevolutionary algorithm which incorporates a novel collaboration formation mechanism. It encourages rewarding of components participating in successful collaborations from each sub-population. The successfulness of the collaboration is measured by a non-dominated sorting procedure. The algorithm has demonstrated it can perform comparably with the NSGA-II on some multiobjective function optimization problems.

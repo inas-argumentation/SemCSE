@@ -1,0 +1,2 @@
+Advanced 0.13um smart power technology from 7V to 70V
+This paper presents BCD process integrating 7V to 70V power devices on 0.13um CMOS platform for various power management applications. BJT, Zener diode and Schottky diode are available and non-volatile memory is embedded as well. LDMOS shows best-in-class specific Ron (R<sub>SP</sub>) vs. BV<sub>DSS</sub> characteristics (i.e., 70V NMOS has R<sub>SP</sub> of 69mΩ-mm<sup>2</sup> with BV<sub>DSS</sub> of 89V). Modular process scheme is used for flexibility to various requirements of applications.

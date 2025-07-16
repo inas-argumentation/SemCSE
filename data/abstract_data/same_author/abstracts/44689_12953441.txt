@@ -1,0 +1,2 @@
+A Simultaneous Search Problem
+Abstract. We introduce a new search problem motivated by computational metrology. The problem is as follows: we would like to locate two unknown numbers x,y ∈ [0,1] with as little uncertainty as possible, using some given number k of probes. Each probe is specified by a real number r∈ [0,1] . After a probe at r , we are told whether x≤ r or x \geq r , and whether y≤ r or y\geq r . We derive the optimal strategy and prove that the asymptotic behavior of the total uncertainty after k probes is 13/7 2-(k+1)/2 for odd k and 13/10 2-k/2 for even k .

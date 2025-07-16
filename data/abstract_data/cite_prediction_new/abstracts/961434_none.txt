@@ -1,0 +1,2 @@
+Generating Parallel Applications of Spatial Interaction Models 1
+We describe an application generator enabling portable parallel applications of spatial interaction modellingto be produced automatically from high-level speciications of their parameters. The generator is capable of deening a whole family of models and their applications, and generates programs which execute only slightly more slowly than corresponding hand-coded versions.

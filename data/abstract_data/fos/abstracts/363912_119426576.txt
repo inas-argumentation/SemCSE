@@ -1,0 +1,2 @@
+A note on the asymptotic variance of the gray and williams measure of partial association
+The correct asymptotic variancef or the partial association analog of Goodman and Kruskal's T measure of associati o n based on proportional prediction is derived for both full multinomial sampling and product multinomial sampling. These results are illustrated within the context of an example data set.

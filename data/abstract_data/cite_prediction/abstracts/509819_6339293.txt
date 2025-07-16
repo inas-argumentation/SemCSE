@@ -1,0 +1,2 @@
+A saturating lumped-parameter model for an interior PM synchronous machine
+This paper presents a lumped-parameter magnetic model for an interior permanent-magnet synchronous machine. The model accounts for the effects of saturation through a nonlinear reluctance-element network used to estimate the-axis inductance. The magnetic model is used to calculate inductance and torque in the presence of saturation. Furthermore, these calculations are compared to those from finite-element analysis with good agreement.

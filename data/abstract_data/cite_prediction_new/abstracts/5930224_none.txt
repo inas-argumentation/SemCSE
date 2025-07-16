@@ -1,0 +1,2 @@
+The boundary non-Crossing probabilities for Slepian process
+In this contribution we derive an explicit formula for the boundary non-crossing probabilities for Slepian processes associated with the piecewise linear boundary function. This formula is used to develop an approximation formula to the boundary non-crossing probabilities for general continuous boundaries. The formulas we developed are easy to implement in calculation the boundary non-crossing probabilities.

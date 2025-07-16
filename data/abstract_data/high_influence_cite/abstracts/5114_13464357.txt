@@ -1,0 +1,2 @@
+On quadratic invariants and symplectic structure
+We show that the theorems of Sanz-Serna and Eirola and Sanz-Serna concerning the symplecticity of Runge-Kutta and Linear Multistep methods, respectively, follow from the fact that these methods preserve quadratic integral invariants and are closed under differentiation and restriction to closed subsystems.

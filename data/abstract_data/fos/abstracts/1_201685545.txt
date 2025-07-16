@@ -1,0 +1,2 @@
+On the Degree-Insensitive SI-GDH problem and assumption
+Fujioka, Takashima, Terada and Yoneyama, in their 2018 work on an authenticated key exchange protocol using supersingular isogenies, use new assumptions in their security proof of the scheme. In particular, they define the degree-sensitive and degree-insensitive SI-GDH assumptions and problems. These assumptions include a decision oracle that is used in the security proofs. We give evidence that those assumptions are not well defined. Hence, the security proofs in their paper do not seem to be correct.

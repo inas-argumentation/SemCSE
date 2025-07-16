@@ -1,0 +1,2 @@
+Constraint checking with partial information
+Constraints are a valuable tool for managing information across multiple databases, as well as for general purposes of assuring data integrity. However, efficient implementation of constraint checking is difficult. In this paper we explore techniques for assuring constraint satisfaction without performing a complete evaluation of the constraints. We consider methods that use only constraint definitions, methods that use constraints and updates, and methods that use constraints, updates, and “local” data.

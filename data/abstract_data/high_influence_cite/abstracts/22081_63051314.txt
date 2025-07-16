@@ -1,0 +1,2 @@
+Feature Selection in Small Databases: A Medical-Case Study
+Predictions made by using machine learning classification models are recurrent in many research fields for a variety of reasons. In some cases, feature selection can efficiently improve the accuracy of classifications, while reducing the computational requirements. However, some predictive studies are characterized by a high dimensionality or based on small datasets.

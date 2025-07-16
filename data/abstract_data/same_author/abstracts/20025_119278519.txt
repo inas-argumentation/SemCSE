@@ -1,0 +1,2 @@
+Stable one-dimensional integral representations of one-loop N-point functions in the general massive case. I — Three point functions
+A bstractIn this article we provide representations for the one-loop three point functions in 4 and 6 dimensions in the general case with complex masses. The latter are part of the GOLEM library used for the computation of one-loop multileg amplitudes. These representations are one-dimensional integrals designed to be free of instabilites induced by inverse powers of Gram determinants, therefore suitable for stable numerical implementations.

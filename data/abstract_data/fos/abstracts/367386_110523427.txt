@@ -1,0 +1,2 @@
+EMI-induced failures in integrated circuit operational amplifiers
+Abstract A correlation between failures caused by electromagnetic interference (EMI) and the step response of all-bipolar and FET-input operational amplifiers is discussed. Additionally guidelines for the design of low EMI-susceptibility integrated-circuit opamps are presented. Finally, as an application example, the design and performance of a simple low-probability electromagnetic interference induced failures integrated BiCMOS opamp are reported.

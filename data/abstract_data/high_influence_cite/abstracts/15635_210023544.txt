@@ -1,0 +1,3 @@
+Non-radial scattering theory for nonlinear Schrödinger equations with potential
+We consider a class of intercritical nonlinear Schrodinger equations with potential 
+\[ i\partial_t u +\Delta u - Vu = \pm |u|^\alpha u, \quad (t,x) \in \mathbb{R} \times \mathbb{R}^3, \] where $\frac{4}{3}<\alpha<4$ and $V$ is a real-valued potential. By adapting recent arguments of [B. Dodson and J. Murphy, Math. Res. Lett. 25(6):1805--1825], we establish the energy scattering for the equation with non-radial initial data.

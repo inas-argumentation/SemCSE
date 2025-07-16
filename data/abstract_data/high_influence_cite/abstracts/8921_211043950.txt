@@ -1,0 +1,2 @@
+Optimal Scenario Generation for Heavy-tailed Chance Constrained Optimization
+We consider a generic class of chance-constrained optimization problems with heavy-tailed (i.e., power-law type) risk factors. In this setting, we use the scenario approach to obtain a constant approximation to the optimal solution with a computational complexity that is uniform in the risk tolerance parameter. We additionally illustrate the efficiency of our algorithm in the context of solvency in insurance networks.

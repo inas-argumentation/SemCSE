@@ -1,0 +1,2 @@
+P-Components and the Homogeneous Decomposition of Graphs
+In this paper we introduce and investigate the notion of p-connectedness. As it turns out, this concept leads naturally to a unique tree representation for arbitrary graphs: the leaves of this tree are the p-connected components along with weak vertices, that is, vertices of the graph that belong to no p-connected component. We then show how to refine this decomposition to obtain a new decomposition that extends the well-known modular decomposition.

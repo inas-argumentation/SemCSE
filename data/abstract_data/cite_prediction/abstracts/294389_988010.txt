@@ -1,0 +1,2 @@
+Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions
+We present a novel graph-based summarization framework (Opinosis) that generates concise abstractive summaries of highly redundant opinions. Evaluation results on summarizing user reviews show that Opinosis summaries have better agreement with human summaries compared to the baseline extractive method. The summaries are readable, reasonably well-formed and are informative enough to convey the major opinions.

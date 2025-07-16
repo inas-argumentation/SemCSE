@@ -1,0 +1,2 @@
+Discriminative Information Retrieval for Knowledge Discovery
+We propose a framework for discriminative Information Retrieval (IR) atop linguistic features, trained to improve the recall of tasks such as answer candidate passage retrieval, the initial step in text-based Question Answering (QA). We formalize this as an instance of linear feature-based IR (Metzler and Croft, 2007), illustrating how a variety of knowledge discovery tasks are captured under this approach, leading to a 44% improvement in recall for candidate

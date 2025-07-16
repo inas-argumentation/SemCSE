@@ -1,0 +1,7 @@
+Tolerating some redundancy significantly speeds up clustering of large protein databases
+MOTIVATION
+Sequence clustering replaces groups of similar sequences in a database with single representatives. Clustering large protein databases like the NCBI Non-Redundant database (NR) using even the best currently available clustering algorithms is very time-consuming and only practical at relatively high sequence identity thresholds. Our previous program, CD-HI, clustered NR at 90% identity in approximately 1 h and at 75% identity in approximately 1 day on a 1 GHz Linux PC (Li et al., Bioinformatics, 17, 282, 2001); however even faster clustering speed is needed because the size of protein databases are rapidly growing and many applications desire a lower attainable thresholds.
+
+
+RESULTS
+For our previous algorithm (CD-HI), we have employed short-word filters to speed up the clustering. In this paper, we show that tolerating some redundancy makes for more efficient use of these short-word filters and increases the program's speed 100 times. Our new program implements this technique and clusters NR at 70% identity within 2 h, and at 50% identity in approximately 5 days. Although some redundancy is present after clustering, our new program's results only differ from our previous program's by less than 0.4%.

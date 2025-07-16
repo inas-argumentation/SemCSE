@@ -1,0 +1,37 @@
+Ensemble-based satellite-derived carbon dioxide and methane column-averaged dry-air mole fraction data sets (2003–2018) for carbon and climate applications
+Abstract. Satellite retrievals of column-averaged dry-air mole
+fractions of carbon dioxide ( CO2 ) and methane ( CH4 ), denoted
+ XCO2 and XCH4 , respectively, have been used in recent years to
+obtain information on natural and anthropogenic sources and sinks and for
+other applications such as comparisons with climate models. Here we present
+new data sets based on merging several individual satellite data products in
+order to generate consistent long-term climate data records (CDRs) of these
+two Essential Climate Variables (ECVs). These ECV CDRs, which cover the time
+period 2003–2018, have been generated using an ensemble of data products
+from the satellite sensors SCIAMACHY/ENVISAT and TANSO-FTS/GOSAT and (for
+ XCO2 ) for the first time also including data from the Orbiting Carbon Observatory 2 (OCO-2) satellite. Two types of products have been generated:
+(i) Level 2 (L2) products generated with the latest version of the
+ensemble median algorithm (EMMA) and (ii) Level 3 (L3) products obtained
+by gridding the corresponding L2 EMMA products to obtain a monthly
+ 5 ∘ × 5 ∘ data product in Obs4MIPs (Observations for Model Intercomparisons Project) format. The L2 products consist of daily NetCDF (Network Common Data Form) files, which contain in addition to the main
+parameters, i.e., XCO2 or XCH4 , corresponding uncertainty
+estimates for random and potential systematic uncertainties and the
+averaging kernel for each single (quality-filtered) satellite observation.
+We describe the algorithms used to generate these data products and present
+quality assessment results based on comparisons with Total Carbon Column
+Observing Network (TCCON) ground-based retrievals. We found that the
+ XCO2 Level 2 data set at the TCCON validation sites can be
+characterized by the following figures of merit (the corresponding values
+for the Level 3 product are listed in brackets) – single-observation random
+error ( 1σ ): 1.29 ppm (monthly: 1.18 ppm); global bias: 0.20 ppm (0.18 ppm); and spatiotemporal bias or relative accuracy ( 1σ ): 0.66 ppm
+(0.70 ppm). The corresponding values for the XCH4 products are single-observation random error ( 1σ ): 17.4 ppb (monthly: 8.7 ppb); global
+bias: −2.0  ppb ( −2.9  ppb); and spatiotemporal bias ( 1σ ): 5.0 ppb (4.9
+ppb). It has also been found that the data products exhibit very good
+long-term stability as no significant long-term bias trend has been
+identified. The new data sets have also been used to derive annual XCO2 
+and XCH4 growth rates, which are in reasonable to good agreement with
+growth rates from the National Oceanic and Atmospheric Administration (NOAA)
+based on marine surface observations. The presented ECV data sets are
+available (from early 2020 onwards) via the Climate Data Store (CDS,
+ https://cds.climate.copernicus.eu/ , last access: 10 January 2020) of the Copernicus Climate
+Change Service (C3S, https://climate.copernicus.eu/ , last access: 10 January 2020).

@@ -1,0 +1,2 @@
+An agent strategy for automated stock market trading combining price and order book information
+This paper proposes a novel automated agent strategy for stock market trading, developed in the context of the Penn-Lehman automated trading (PLAT) simulation platform by Kearns, M., and Ortiz, L., (2003). We provide a comprehensive experimental validation of our strategy using historic order book data from the NASDAQ market

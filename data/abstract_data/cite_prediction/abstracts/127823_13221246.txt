@@ -1,0 +1,2 @@
+Guided Manipulation Planning at the DARPA Robotics Challenge Trials
+We document the empirical results from Carnegie Mellon University’s entry into the DARPA Robotics Challenge. Our system seamlessly and intelligently integrates recent advances in autonomous manipulation with the perspective and intuition of an expert human operator. Virtual fixtures are used as the common language between the operator and the motion planner. The planning system then solves a guided manipulation problem to perform disaster-response tasks.

@@ -1,0 +1,2 @@
+The Hybrid Monte Carlo Algorithm and the chiral transition
+In this talk the author describes tests of the Hybrid Monte Carlo Algorithm for QCD done in collaboration with Greg Kilcup and Stephen Sharpe. We find that the acceptance in the glubal Metropolis step for Staggered fermions can be tuned and kept large without having to make the step-size prohibitively small. We present results for the finite temperature transition on 4/sup 4/ and 4 x 6/sup 3/ lattices using this algorithm.

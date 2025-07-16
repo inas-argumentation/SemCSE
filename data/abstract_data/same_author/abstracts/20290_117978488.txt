@@ -1,0 +1,12 @@
+Fixed Points: Fermion Mass Predictions
+Familiar theoretical relationships exist amongst the masses of the light fermions in SU(5):1 
+ 
+$$ \frac{{{m_d}}}{{{m_e}}} \approx \frac{{{m_s}}}{{{m_{\mu }}}} \simeq 4\pm \frac{\hbox{$\scriptstyle 1$}}{\hbox{$\scriptstyle 2$}} \quad \frac{{{m_b}}}{{{m_{\tau }}}} \simeq 2.75\pm .25 $$ 
+ 
+These result from essentially three ingredients: (a) the Higgs mechanism which relates the fermion mass to the Higgs-Yukawa (HY) coupling constant by \( {m_f} = {g_f} /\sqrt {2} \approx {g_f} \cdot (175\quad GeV) \) (b) the renormalization group (RG) equations which describe the evolution of the (HY) couplings down from MX to low energies and (c) the boundary conditions from SU(5), assuming a 5 and 24 of Higgs, which relate g−1/3 quark (MX) = g−1 lepton (MX) within a given generation. Thus one obtains: 
+ 
+$$ \frac{{^{m} - 1/3}}{{^{m} - 1}} = \frac{{^{g} - 1/{{3}^{{(\mu )}}}}}{{^{g} - {{1}^{{(\mu )}}}}} \approx {{\left( {\frac{{{{\alpha }_{3}}\left( \mu \right)}}{{{{\alpha }_{3}}\left( {{{M}_{X}}} \right)}}} \right)}^{{8/2{{b}_{0}}}}} + {{\left. {\left( {electroweak} \right)} \right|}_{{\mu \simeq {{m}_{{quark}}}}}} $$ 
+ 
+(2) 
+ 
+and the numerical results of eq. (1) follow to one loop accuracy with Λs ~. 4 GeV. We note that ingredients (b) and (c) do not apply to models with composite Higgs bosons (e.g. ETC) or composite fermions on a scale of M′ < MX since the RG equations demand pointlike particles over the entire range of the desert. Though the results for md/me and ms/mμ are questionable we note that they are qualitatively correct. We take the “prediction” for mb/mτ to be a successful result of SU(5) and we seek to extend the above analysis to much heavier objects; either a very heavy top-quark or a heavy fourth generation of quarks and leptons.

@@ -1,0 +1,2 @@
+Reconstructing degree sequences from k-vertex-deleted subgraphs
+Abstract Let k ⩾3 be an integer. We show that the degree sequences of all sufficiently large graphs are determined by their k -vertex-deleted subgraphs. In particular, this is shown for all graphs on at least f ( k ) vertices, where f ( k ) is a certain function which is asymptotic to ke .

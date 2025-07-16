@@ -1,0 +1,2 @@
+The RPC based IFR system at BaBar experiment: Preliminary results
+Abstract The IFR system is a RPC-based detector used to identify muons and neutral hadrons in the BaBar experiment at PEP II machine in SLAC. The RPC system can be used to reconstruct the trajectory of muons, pions and neutral hadrons interacting in the iron of the IFR. The different range and hit pattern allow to discriminate different particles crossing the IFR. An overview of the system design and the preliminary results on the IFR performances are reported.

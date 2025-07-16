@@ -1,0 +1,2 @@
+Bayesian Neural Networks for Predicting Learning Curves
+The performance of deep neural networks (DNNs) crucially relies on good hyperparameter settings. Since the computational expense of training DNNs renders traditional blackbox optimization infeasible, recent advances in Bayesian optimization model the performance of iterative methods as a function of time to adaptively allocate more resources to promising hyperparameter settings. Here, we propose a specialized Bayesian neural network to model DNN learning curves jointly across hyperparameter configurations.

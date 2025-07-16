@@ -1,0 +1,2 @@
+Europarl: A Parallel Corpus for Statistical Machine Translation
+We collected a corpus of parallel text in 11 languages from the proceedings of the European Parliament, which are published on the web1. This corpus has found widespread use in the NLP community. Here, we focus on its acquisition and its application as training data for statistical machine translation (SMT). We trained SMT systems for 110 language pairs, which reveal interesting clues into the challenges ahead.

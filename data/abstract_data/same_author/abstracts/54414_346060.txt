@@ -1,0 +1,2 @@
+A Multi-scale Algorithm for the Linear Arrangement Problem
+Finding a linear ordering of the vertices of a graph is a common problem arising in diverse applications. In this paper we present a linear-time algorithm for this problem, based on the multi-scale paradigm. Experimental results are similar to those of the best known approaches, while the running time is significantly better, enabling it to deal with much larger graphs. The paper contains a general multi-scale construction, which may be used for a broader range of ordering problems.

@@ -1,0 +1,2 @@
+Design of Ku-Band Substrate Integrated Waveguide Phase Shifter
+—Recently, there has been a lot of interest in the substrate integrated waveguide (SIW) technology concept allowing the integration of waveguides in the substrate, replacing the rectangular metal waveguide sidewalls by two rows of metal rods. The electric field distribution in the rectangular waveguide SIW, denoted RSIW, is similar to that of a conventional rectangular waveguide. In this paper, a Ku-band substrate integrated waveguide phase shifter is conceived and optimized by Ansoft HFSS code.

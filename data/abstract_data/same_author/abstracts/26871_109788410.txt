@@ -1,0 +1,2 @@
+A prototype RF power source for CSNS/RCS
+A prototype RF power source has been built to supply high RF power to a ferrite-loaded cavity, which is a part of R&D of the Rapid Cycling Synchrotron of China Spallation Neutron Source (CSNS/RCS). A direct fast RF feedback amplifier, a 4:1 impedance transformer and auto tuning grid were locally located to compensate the heavy beam loading of CSNS/RCS. Design and commissioning of the RF power source is discussed here, also with some advice on system improvement.

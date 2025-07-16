@@ -1,0 +1,2 @@
+On Encoding p-pi in m-pi
+This paper is about the encoding of pπ, the polyadic π-calculus, in mπ, the monadic π-calculus. A type system for mπ processes is introduced which captures the interaction regime underlying the encoding of pπ processes respecting a sorting. A full-abstraction result is shown: two pπ processes are typed barbed congruent iff their mπ encodings are monadic-typed barbed congruent.

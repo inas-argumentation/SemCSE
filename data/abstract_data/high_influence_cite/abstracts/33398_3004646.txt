@@ -1,0 +1,2 @@
+Consistent Query Answering By Minimal-Size Repairs
+This paper briefly reviews the recent literature on consistent query answering, an approach to handle database inconsistency in a systematic and logical manner based on the notion of repair. It discusses some computational and semantic limitations of consistent query answering, and summarizes selected research directions in this area

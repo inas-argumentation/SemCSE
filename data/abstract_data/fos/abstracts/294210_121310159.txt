@@ -1,0 +1,2 @@
+Terminal-pair reliability of network system using flow augmenting path search algorithm
+Abstract This paper considers a network reliability problem as a special type of flow problem and presents an algorithm to evaluate the exact 2-terminal reliability of networks on the basis of the factoring theorem and a backtracking technique. It employs a polygon-to-chain reduction in addition to series and parallel reduction techniques to reduce execution time. In comparisons, it presents a better performance than other existing algorithms.

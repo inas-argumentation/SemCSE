@@ -1,0 +1,2 @@
+Identifying Planar Regions in a Scene using Uncalibrated Stereo Vision
+We describe the use of well-known uncalibrated stereo algorithms for detecting planar regions in a scene from the transformation of feature locations between views. Simulations indicate that a typical setup would have a resolution of the order of one centimetre. A fully operational system is not yet complete, but here we present a number of steps towards achieving this goal.

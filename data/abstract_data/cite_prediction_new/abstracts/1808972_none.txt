@@ -1,0 +1,2 @@
+Ju l 2 00 6 On the “ Matrix Approach ” to Interacting Particle Systems
+Derrida et al. and Schütz and Stinchcombe gave algebraic formulas for the correlation functions of the partially asymmetric simple exclusion process. Here we give a fairly general recipe of how to get these formulas and extend them to the whole time evolution (starting from the generator of the process), for a certain class of interacting systems. We then analyze the algebraic relations obtained to show that the matrix approach does not work with some models such as the voter and the contact processes.

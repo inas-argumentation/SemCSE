@@ -1,0 +1,2 @@
+The circular chromatic number of series-parallel graphs of large odd girth
+Suppose G is a series-parallel graph. We prove that if G has odd girth at least 6k - 1 then χc(G) ≤ 8k/(4k - 1); if G has odd girth at least 6k + 1 then χc(G) ≤ (4k + 1)/2k; if G has odd girth at least 6k + 3 then χc(G) ≤ (4k + 3)/(2k + 1).

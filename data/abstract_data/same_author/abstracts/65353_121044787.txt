@@ -1,0 +1,2 @@
+Adaptive control of partially observed linear stochastic systems
+We study the linear adaptive control problem with partial observations. The drift term depends affinely on an unknown parameter θ. We show that the Maximum Likelihood Estimate is strongly consistent. We build an adaptive filter which converges to the Kaiman filler in Cesaro average, almost surely and in the mean. We show the convergence of the average estimate cost (using a control based on the parameter estimate and the adaptive filter) to the average optimal cost, almost surely and in the mean

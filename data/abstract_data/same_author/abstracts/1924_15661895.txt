@@ -1,0 +1,2 @@
+Robust Distributed Localization with Data Inference for Wireless Sensor Networks
+We consider the range-based localization with highly insufficient inter-node distance measurements in Wireless Sensor Networks (WSNs). With an error model established, a novel distributed probabilistic localization approach which exploits the network constraints through statistical inference on missing distances is proposed. The advantage of the new approach over traditional methods is proved analytically and further confirmed by extensive simulations.

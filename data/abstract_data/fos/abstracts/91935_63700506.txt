@@ -1,0 +1,2 @@
+Combination of Model and Energy Based VAD Algorithm in Speaker Recognition System
+Voice activity detection(VAD) is an algorithm to detect the voice endpoint.It can affect the performance of speaker recognition system greatly.In this paper,we combine the energy-based VAD method and the model-based VAD method to detect the voice endpoint.On the NIST 2006 SRE corpus,the proposed VAD algorithm can obtain 19% EER reduction over the traditional energy-based system at most.

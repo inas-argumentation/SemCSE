@@ -1,0 +1,2 @@
+Terabit switching: a survey of techniques and current products
+This survey paper explains the issues in designing terabit routers and the solutions for them. The discussion includes multi-layer switching, route caching, label switching, and efficient routing table lookups. Router architecture issues including queuing and differentiated service are also discussed. A comparison of features of leading products is included.

@@ -1,0 +1,2 @@
+A minimal switching procedure for constrained ranking and selection
+Constrained ranking and selection aims to select the best system according to a primary performance measure, while also satisfying constraints on secondary performance measures. We introduce a new procedure that makes a valid selection of the best constrained system, while minimizing the number of switches between systems. Analytical and experimental results show that the procedure is both valid and efficient in terms of total cost (incorporating both switching and sampling costs).

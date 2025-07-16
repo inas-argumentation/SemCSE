@@ -1,0 +1,5 @@
+Long time small solutions to nonlinear parabolic equations
+A sharp result on global small solutions to the Cauchy problem
+$$u_t = \Delta u + f\left( {u,Du,D^2 u,u_t } \right)\left( {t > 0} \right),u\left( 0 \right) = u_0 $$
+
+ In Rn is obtained under the the assumption thatf is C1+r forr>2/n and ‖u0‖C2(Rn) +‖u0‖W12(Rn) is small. This implies that the assumption thatf is smooth and ‖u0 ‖W1k(Rn)+‖u0‖W2k(Rn) is small fork large enough, made in earlier work, is unnecessary.

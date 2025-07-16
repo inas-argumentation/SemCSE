@@ -1,0 +1,2 @@
+A novel switched compensation controller for multi-link flexible manipulators
+We present a novel control algorithm for multi-link flexible planar manipulators. The proposed scheme is a switching rule between a new nonlinear controller and a conventional PD (proportional and derivative) controller. We prove the stability of the controller using La Salle's theorem. Simulation results illustrate the improvement over PD controller.

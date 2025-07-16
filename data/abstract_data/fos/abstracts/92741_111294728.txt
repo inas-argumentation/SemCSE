@@ -1,0 +1,9 @@
+Prediction of dairy cattle housing costs with different cleaning systems
+This article presents a spreadsheet application that, as an aid to prediction of investment costs deriving from the 
+construction of dairy cattle housing, calculates cost per stall and cost per unit area of usefully occupied space as a function 
+of the number of stalls for any combination of seven common freestall barn designs with any of four different types of cleaning 
+system (tractor scraper, automatic scraper, flush system, and slotted floor). In the range of 20 to 200 stalls, the least expensive 
+cleaning system is always the tractor scraper, and the most expensive is almost always the slotted floor, which raises total 
+cost by up to 40% with respect to the tractor scraper. The least expensive designs generally consisted of three or six rows of 
+stalls, except for the design with two rows of stalls arranged tail-to-tail when the number of stalls was <58 for the automatic 
+scraper, or the design with four rows of stalls arranged tail-to-tail when the number of stalls was <52 for the tractor scraper.

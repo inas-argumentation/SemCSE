@@ -1,0 +1,15 @@
+Microscale recording from human motor cortex: implications for minimally invasive electrocorticographic brain-computer interfaces.
+OBJECT
+There is a growing interest in the use of recording from the surface of the brain, known as electrocorticography (ECoG), as a practical signal platform for brain-computer interface application. The signal has a combination of high signal quality and long-term stability that may be the ideal intermediate modality for future application. The research paradigm for studying ECoG signals uses patients requiring invasive monitoring for seizure localization. The implanted arrays span cortex areas on the order of centimeters. Currently, it is unknown what level of motor information can be discerned from small regions of human cortex with microscale ECoG recording.
+
+
+METHODS
+In this study, a patient requiring invasive monitoring for seizure localization underwent concurrent implantation with a 16-microwire array (1-mm electrode spacing) placed over primary motor cortex. Microscale activity was recorded while the patient performed simple contra- and ipsilateral wrist movements that were monitored in parallel with electromyography. Using various statistical methods, linear and nonlinear relationships between these microcortical changes and recorded electromyography activity were defined.
+
+
+RESULTS
+Small regions of primary motor cortex (< 5 mm) carry sufficient information to separate multiple aspects of motor movements (that is, wrist flexion/extension and ipsilateral/contralateral movements).
+
+
+CONCLUSIONS
+These findings support the conclusion that small regions of cortex investigated by ECoG recording may provide sufficient information about motor intentions to support brain-computer interface operations in the future. Given the small scale of the cortical region required, the requisite implanted array would be minimally invasive in terms of surgical placement of the electrode array.

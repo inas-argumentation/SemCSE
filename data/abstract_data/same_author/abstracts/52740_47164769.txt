@@ -1,0 +1,13 @@
+On Levels in Arrangements of Lines, Segments, Planes, and Triangles%
+. We consider the problem of bounding the complexity of the k th level in an arrangement of n  curves or surfaces, a problem dual to, and an extension of, the well-known k-set problem. Among other results, we prove a new bound, O(nk5/3) , on the complexity of the k th level in an arrangement of n  planes in R3 , or on the number of k -sets in a set of n  points in three dimensions, and we show that the complexity of the k th level in an arrangement of n  line segments in the plane is  
+ $O(n\sqrt{k}\alpha(n/k))$  , and that the complexity of the k th level in an arrangement of n  triangles in 3-space is O(n2k5/6α(n/k)) .
+<lsiheader>
+<onlinepub>26 June, 1998
+<editor>Editors-in-Chief: &lsilt;a href=../edboard.html#chiefs&lsigt;Jacob E. Goodman, Richard Pollack&lsilt;/a&lsigt;
+<pdfname>19n3p315.pdf
+<pdfexist>yes
+<htmlexist>no
+<htmlfexist>no
+<texexist>yes
+<sectionname>
+</lsiheader>

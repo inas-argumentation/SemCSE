@@ -1,0 +1,20 @@
+Design of a Myelin Basic Protein Biosensor based on EnFET Technology
+In this work, the design of a biosensor based on FET technology have been proposed, simulating the 
+ 
+modification to the gate of an Ion Sensitive Field-Effect Transistor (ISFET) with a synthetic polymer to 
+ 
+entrap the desired analyte which contains Myelin Basic Protein (MBP). This analyte is generally used in test 
+ 
+to find out if someone is suffering a demyelinating disease, and is commonly detected by Enzyme Linked 
+ 
+Immunosorbent Assays (ELISA). Based on this principle, we propose a simpler method, fundamented on 
+ 
+Enzyme Field-Effect Transistor (EnFET) technology in order to develop a new device applied to the 
+ 
+diagnosis of demyelinating diseases. Simulation examples are used in order to demonstrate the functionality 
+ 
+for this type of biosensor to its exposure to MBP at concentrations of 10-4 to 10-1 mol/L, where the amount 
+ 
+of analyte in the receptor located at the top of the gate will determine the level of voltage applied to create a 
+ 
+channel and activate the device.

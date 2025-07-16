@@ -1,0 +1,2 @@
+Randomized sinc interpolation of nonuniform samples
+It is well known that a bandlimited signal can be uniquely determined from nonuniformly spaced samples, provided that the average sampling rate exceeds the Nyquist rate. However, reconstruction of the continuous-time signal from nonuniform samples is more difficult than from uniform samples. This paper develops and compares simpler approximate methods for signal reconstruction from nonuniform samples.

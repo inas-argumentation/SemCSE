@@ -1,0 +1,2 @@
+Bernstein-Type Polynomials Having O(n-2) as Saturation Order
+The purpose of the paper is to construct positive, polynomial approximation processes of the form ^ L o Ä . J f t j W ' f€ 1.1], which approximate / with order G i n ' 1 ) provided f e Lip,(l ;C); if the approximation is of order &(n~), then / has to be a constant. The method consists in applying the GaussChristoffel quadrature formula to positive, polynomial convolution integrals in the Legendre transform setting. AMS-Classification: 41 A 10, 41 A 17, 41 A 25, 41 A 36, 41 A 40, 42 C 10

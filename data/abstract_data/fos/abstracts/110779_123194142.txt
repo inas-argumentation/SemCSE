@@ -1,0 +1,2 @@
+The relationship between two parameterizations of linear patterned mean and covariance models
+Andrade and Helms (1984) study problems involving estimation and testing of linearly patterned mean and covariance matrices. They parameterize their models under the null hypothesis by using linear constraints on the alternative hypothesis parameterization. In this paper, we show that the nested models that Andrade and Helms consider can be transformed into the nested models considered by Anderson (1969, 1970, 1973) and Szatrowski (1979, 1980, 1981, 1983, 1985).

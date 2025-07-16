@@ -1,0 +1,2 @@
+An algorithm for direct computation of 2-D linear prediction coefficients
+The authors present some simplifications to the method of computing two-dimensional (2-D) linear prediction coefficients (LPCs) directly from image data using an extension of the multichannel Burg algorithm. This simplification results from imposing the structure of the Burg algorithm. The method can also be used for computing prediction errors directly from the data. Results of applying the method to 2-D LP coding of images and 2-D autoregressive (AR) spectral estimation are presented. >

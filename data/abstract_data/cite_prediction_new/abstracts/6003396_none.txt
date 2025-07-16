@@ -1,0 +1,2 @@
+Evolving spiking neural networks for spatio-and spectro-temporal pattern recognition
+This paper provides a survey on the evolution of the evolving connectionist systems (ECOS) paradigm, from simple ECOS introduced in 1998 to evolving spiking neural networks (eSNN) and neurogenetic systems. It presents methods for their use for spatio-and spectro temporal pattern recognition. Future directions are highlighted.

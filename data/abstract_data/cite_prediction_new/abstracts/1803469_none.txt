@@ -1,0 +1,2 @@
+Reflectionless grating couplers for Silicon-on-Insulator photonic integrated circuits.
+We propose a novel grating coupler design which is inherently reflectionless by focusing the reflected light away from the entrance waveguide. The design rules for this reflectionless grating coupler are explained and the grating coupler design is investigated by means of 3D FDTD simulations for the case of a Silicon-on-Insulator based platform.

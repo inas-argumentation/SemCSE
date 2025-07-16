@@ -1,0 +1,2 @@
+Chained declustering: a new availability strategy for multiprocessor database machines
+A new strategy for increasing the availability of data in multiprocessor, shared-nothing database machines is presented. This technique, termed chained declustering, is demonstrated to provide superior performance in the event of failures while maintaining a very high degree of data availability. Furthermore, unlike most earlier replication strategies, the implementation of chained declustering requires no special hardware and only minimal modifications to existing software.<<ETX>>

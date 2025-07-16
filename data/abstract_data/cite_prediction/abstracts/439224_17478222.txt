@@ -1,0 +1,2 @@
+Swarm Intelligence: Foundations, Perspectives and Applications
+This chapter introduces some of the theoretical foundations of swarm intelligence. We focus on the design and implementation of the Particle Swarm Optimization (PSO) and Ant Colony Optimization (ACO) algorithms for various types of function optimization problems, real world applications and data mining. Results are analyzed, discussed and their potentials are illustrated.

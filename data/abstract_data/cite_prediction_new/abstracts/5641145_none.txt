@@ -1,0 +1,2 @@
+GSOR Method for the Equality Constrained Least Squares Problems and the Generalized Least Squares Problems
+In a recent paper [4], Li et al . gave a generalized successive overrelaxation (GSOR) method for the least squares problems. In this paper, we show that the GSOR method can be applied to the equality constrained least squares (LSE) problems and the generalized least squares (GLS) problems.

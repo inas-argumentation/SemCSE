@@ -1,0 +1,2 @@
+Adaptive exponential stabilization for a class of nonlinear retarded processes
+This paper considers the problem of adaptive exponential stabilization for a class of single-input single-output nonlinear retarded processes. The class includes certain linear retarded systems which are subject to sector-bounded actuator and sensor nonlinearities. It is shown that there is a wide range of high-gain adaptive compensators which achieve exponential stability for the class of processes under consideration.

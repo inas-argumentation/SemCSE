@@ -1,0 +1,2 @@
+Slew-rate and gain enhancement in two stage operational amplifiers
+A two stage op-amp with an effective technique to enhance slew-rate and gain is presented. The enhancement is provided by an auxiliary monitor circuit which is activated in slewing conditions, but can contribute to the gain in normal conditions. The amplifier, simulated in a 0.18 µm technology, achieves 74 dB DC gain, 160 MHz bandwidth and 26.8 V/µs slew-rate for a load capacitance of 1.75 pF with 362 µW power consumption, considering a supply voltage of 1.8 V.

@@ -1,0 +1,2 @@
+Acrophile: an automated acronym extractor and server
+We implemented a web server for acronym and abbreviation lookup, containing a collection of acronyms and their expansions gathered from a large number of web pages by a heuristic extraction process. Several different extraction algorithms were evaluated and compared. The corpus resulting from the best algorithm is comparable to a high-quality hand-crafted site, but has the potential to be much more inclusive as data from more web pages are processed.

@@ -1,0 +1,2 @@
+Detection of paddy based on ratio image of G component to R component
+In non-lab environment,ratio image of G component to R component of RGB image of paddy is used to detect the paddy body.In ratio image,the paddy is much different to the environment.With this characteristic,thresholding is applied to the segmentation of paddy image.Iteration is used to select the best thresholds in the segmentations of a great deal of paddy images and the ratio of successful segmentation is high.

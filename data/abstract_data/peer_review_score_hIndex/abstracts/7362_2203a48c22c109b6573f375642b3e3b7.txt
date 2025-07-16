@@ -1,0 +1,4 @@
+Exploiting Verified Neural Networks via Floating Point Numerical Error
+Motivated by the need to reliably characterize the robustness of deep neural networks, researchers have developed verification algorithms for deep neural networks. Given a neural network, the verifiers aim to answer whether certain properties are guaranteed with respect to all inputs in a space. However, little attention has been paid to floating point numerical error in neural network verification.
+
+We exploit floating point errors in the inference and verification implementations to construct adversarial examples for neural networks that a verifier claims to be robust with respect to certain inputs. We argue that, to produce sound verification results, any verification system must accurately (or conservatively) model the effects of any float point computations in the network inference or verification system.

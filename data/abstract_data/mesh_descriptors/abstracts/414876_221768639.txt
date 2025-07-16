@@ -1,0 +1,15 @@
+Effect of Case-Mix and Random Variation on Breast Cancer Care Quality Indicators and Their Rankability.
+OBJECTIVES
+Hospital comparisons to improve quality of care require valid and reliable quality indicators. We aimed to test the validity and reliability of 6 breast cancer indicators by quantifying the influence of case-mix and random variation.
+
+
+METHODS
+The nationwide population-based database included 79 690 patients with breast cancer from 91 Dutch hospitals between 2011 and 2016. The indicator-scores calculated were: (1) irradical breast-conserving surgery (BCS) for invasive disease, (2) irradical BCS for ductal carcinoma-in-situ, (3) breast contour-preserving treatment, (4) magnetic resonance imaging (MRI) before neo-adjuvant chemotherapy, (5) radiotherapy for locally advanced disease, and (6) surgery within 5 weeks from diagnosis. Case-mix and random variation adjustments were performed by multivariable fixed and random effect logistic regression models. Rankability quantified the between-hospital variation, representing unexplained differences that might be the result of the level of quality of care, as low (<50%), moderate (50%-75%), or high (>75%).
+
+
+RESULTS
+All of the indicators showed between-hospital variation with wide (interquartile) ranges. Case-mix adjustment reduced variation in indicators 1 and 3 to 5. Random variation adjustment (further) reduced the variation for all indicators. Case-mix and random variation adjustments influenced the indicator-scores of individual hospitals and their ranking. Rankability was poor for indicator 1, 2, and 5, and moderate for 3, 4, and 6.
+
+
+CONCLUSIONS
+The 6 indicators lacked validity and/or reliability to a certain extent. Although measuring quality indicators may stimulate quality improvement in general, comparisons and judgments of individual hospital performance should be made with caution if based on indicators that have not been tested or adjusted for validity and reliability, especially in benchmarking.

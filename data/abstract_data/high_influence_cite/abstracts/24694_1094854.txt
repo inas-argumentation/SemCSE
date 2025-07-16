@@ -1,0 +1,2 @@
+FaultySheet Detective: When Smells Meet Fault Localization
+This paper presents a tool, dubbed Faulty Sheet Detective, for aiding in spreadsheet fault localization, which combines the detection of bad smells with a generic spectrum-based fault localization algorithm.

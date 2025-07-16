@@ -1,0 +1,2 @@
+Relaxation of Euler equations and hydrodynamic instabilities
+We present a relaxed version of incompressible Euler equations that permits foliated flows involving two velocities. These relaxed equations allow a twophase evolution of some vortex sheets as an alternative to discontinuous solutions of Euler equations. In the case of two perfect fluids of different densities superposed one over the other, we show that this relaxation process yields a linearly well-posed two-phase solution.

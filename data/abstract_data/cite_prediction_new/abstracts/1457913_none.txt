@@ -1,0 +1,2 @@
+Workflow Interoperability Standards for the Internet
+Efforts toward defining a standard for workflow interoperability began in 1994 with the Workflow Reference Model from the Workflow Management Coalition (WfMC). From that model other standardization efforts have evolved: from OMG's jointflow specification to the simple Workflow Access Protocol. The WfMC's Wf-XML focuses on a simple subset of SWAP for a first version of a standard, with the aim of future extension.

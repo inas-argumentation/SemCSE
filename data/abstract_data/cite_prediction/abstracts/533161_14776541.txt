@@ -1,0 +1,2 @@
+Implementation of a Chinese Word Segmentation in Big Data Environment
+A Chinese word segmentation is implement in big data environment in this paper. We develop a word segmentation system based on Double-Array Trie tree for dictionary and improving N-Gram algorithm for OOV words discovery. This paper also present a improving Omni-segmentation by using the feature of Double-Array Trie tree. Encapsulate this Chinese word segmentation system to an Elasticsearch plugin. Practical results show the system has a better performance compare with the existing system.

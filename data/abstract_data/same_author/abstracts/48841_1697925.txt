@@ -1,0 +1,2 @@
+The Impact of Heterogeneous Bandwidth Constraints on DHT-Based Multicast Protocols
+In this paper, we consider support for bandwidth-demanding applications such as video broadcasting using DHTs. Our investigations focus on the impact of heterogeneity in the outgoing bandwidth capabilities of nodes on Scribe, a representative and relatively mature DHT-based multicast protocol. We expose important issues that arise due to the mismatch between the ID space that underlies the DHT and the outgoing bandwidth constraints on nodes.

@@ -1,0 +1,3 @@
+Real-life activity recognition: recognizing reading activities
+How can we extract high level information about human actions and complex real world situations from heterogeneous ensembles of simple, often unreliable sensors embedded in commodity devices?
+ We focus on how to use body-worn devices for activity recognition in general, and how to combine them with infrastructure sensing. We discuss how to combine them with traditional computer vision approaches for a specific high level human activity, namely knowledge acquisition (in particular recognizing reading activities).

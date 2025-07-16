@@ -1,0 +1,2 @@
+Policy driven data administration
+This paper describes architecture for Policy Driven Data Administration (PDDA), a system for managing data using policies. The architecture supports policy specification, deployment and execution requirements of a system that can autonomically manage data based on pre-specified policies.

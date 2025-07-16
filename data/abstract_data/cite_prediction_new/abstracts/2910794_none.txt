@@ -1,0 +1,2 @@
+On the Worst-Case Ratio of a Compound Multiprocessor Scheduling Algorithm
+The basic problem of nonpreemptive scheduling of independent tasks on identical processors is studied. The well-known heuristics LPT and Multifit are combined to an algorithm Mix which has a better worst-case ratio than each of its components. Exact ratios for the case of two and three processors are given.

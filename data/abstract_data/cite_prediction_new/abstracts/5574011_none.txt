@@ -1,0 +1,2 @@
+Gabor Neural Network for Endoscopic Image Registration
+In this paper we present a Gabor Wavelet Network, a wavelet neural network based on Gabor functions, applied to image registration. Although wavelet network is time consuming technique, we decrease computational costs by incorporating three techniques: gradient-based feature selection, Gabor filtering, and wavelet neural network. Similarity criterion is built upon analyzing intensity function with Gabor Wavelet Network, which carries out the image registration by both gradient-based and texture features.

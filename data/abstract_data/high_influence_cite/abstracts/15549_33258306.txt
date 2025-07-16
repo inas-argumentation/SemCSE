@@ -1,0 +1,2 @@
+Sensitivity of Folding Molecular Dynamics Simulations to Even Minor Force Field Changes
+We examine the sensitivity of folding molecular dynamics simulations on the choice between three variants of the same force field (the AMBER99SB force field and its ILDN, NMR-ILDN, and STAR-ILDN variants). Using two different peptide systems (a marginally stable helical peptide and a β-hairpin) and a grand total of more than 20 μs of simulation time we show that even relatively minor force field changes can lead to appreciable differences in the peptide folding behavior.

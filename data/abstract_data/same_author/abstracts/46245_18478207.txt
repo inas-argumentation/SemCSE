@@ -1,0 +1,2 @@
+Prefix-Free Regular-Expression Matching
+We explore the regular-expression matching problem with respect to prefix-freeness of the pattern. We show that the prefix-free regular expression gives only linear number of matching substrings in the size of a given text. Based on this observation, we propose an efficient algorithm for the prefix-free regular-expression matching problem. Furthermore, we suggest an algorithm to determine whether or not a given regular language is prefix-free.

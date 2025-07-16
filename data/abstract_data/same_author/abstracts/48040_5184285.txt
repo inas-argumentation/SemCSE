@@ -1,0 +1,4 @@
+Design and Analysis of Spatiotemporal Multicast Protocols for Wireless Sensor Networks
+AbstractWe propose a new multicast communication paradigm called “spatiotemporal multicast” for supporting applications which require spatiotemporal coordination in wireless sensor networks. In this paper we focus on a special class of spatiotemporal multicast called “mobicast” featuring a message delivery zone that moves at a constant velocity 
+$$\vec v$$
+. The key contributions of this work are: (1) the specification of mobicast and its performance metrics, (2) the introduction of four different mobicast protocols along with the analysis of their performance, (3) the introduction of two topological network compactness metrics for facilitating the design and analysis of spatiotemporal protocols, and (4) an experimental evaluation of compactness properties for random sensor networks and their effect on routing protocols.

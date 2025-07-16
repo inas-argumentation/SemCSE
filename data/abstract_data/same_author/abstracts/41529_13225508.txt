@@ -1,0 +1,2 @@
+Dynamic-Compiler-Driven Control for Microprocessor Energy and Performance
+A general dynamic-compilation environment offers power and performance control opportunities for microprocessors. The authors propose a dynamic-compiler-driven runtime voltage and frequency optimizer. A prototype of their design, implemented and deployed in a real system, achieves energy savings of up to 70 percent

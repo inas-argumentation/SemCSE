@@ -1,0 +1,2 @@
+A Linear Time Algorithm to Compute a Dominating Path in an AT-Free Graph
+An independent set { x , y , z } is called an asteroidal triple if between any pair in the triple there exists a path that avoids the neighborhood of the third. A graph is referred to as AT-free if it does not contain an asteroidal triple. We present a simple linear-time algorithm to compute a dominating path in a connected AT-free graph.

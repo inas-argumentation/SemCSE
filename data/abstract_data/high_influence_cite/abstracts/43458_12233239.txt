@@ -1,0 +1,2 @@
+Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic
+Rapidly-exploring random trees (RRTs) are popular in motion planning because they find solutions efficiently to single-query problems. Optimal RRTs (RRT*s) extend RRTs to the problem of finding the optimal solution, but in doing so asymptotically find the optimal path from the initial state to every state in the planning domain. This behaviour is not only inefficient but also inconsistent with their single-query nature.

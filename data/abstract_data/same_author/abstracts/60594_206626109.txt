@@ -1,0 +1,2 @@
+Dual Models of Permutation Problems
+A constraint satisfaction problem is a permutation problem if it has the same number of values as variables, all variables have the same domain and any solution assigns a permutation of the values to the variables. The dual CSP interchanges the variables and values; the effects of combining both sets of variables in a single CSP are discussed.

@@ -1,0 +1,2 @@
+Coding theorem and strong converse for quantum channels
+We present a new proof of Holevo's (1973, 1977) coding theorem for transmitting classical information through quantum channels, and its strong converse. The technique is largely inspired by Wolfwitz's (1964) combinatorial approach using types of sequences. As a byproduct of our approach which is independent of previous ones, both in the coding theorem and the converse, we can give a new proof of Holevo's information bound.

@@ -1,0 +1,2 @@
+An Extensible Data Model with Security Support for Dataspace Management
+Based on the iDM concept, this paper proposes an extensible data model with an 8-tuple representation, which can not only describe more complex data sources by extending the Group Component, but also contain rule-based security elements, which consist of Access Component and Authorization Component. Data model is detailed and two corresponding examples are analyzed to verify our approach.

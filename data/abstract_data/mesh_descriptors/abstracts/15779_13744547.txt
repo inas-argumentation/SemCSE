@@ -1,0 +1,15 @@
+A clinical decision support system algorithm for intravenous to oral antibiotic switch therapy: validity, clinical relevance and usefulness in a three-step evaluation study
+Objectives
+To evaluate a clinical decision support system (CDSS) based on consensus-based intravenous to oral switch criteria, which identifies intravenous to oral switch candidates.
+
+
+Methods
+A three-step evaluation study of a stand-alone CDSS with electronic health record interoperability was performed at the Erasmus University Medical Centre in the Netherlands. During the first step, we performed a technical validation. During the second step, we determined the sensitivity, specificity, negative predictive value and positive predictive value in a retrospective cohort of all hospitalized adult patients starting at least one therapeutic antibacterial drug between 1 and 16 May 2013. ICU, paediatric and psychiatric wards were excluded. During the last step the clinical relevance and usefulness was prospectively assessed by reports to infectious disease specialists. An alert was considered clinically relevant if antibiotics could be discontinued or switched to oral therapy at the time of the alert.
+
+
+Results
+During the first step, one technical error was found. The second step yielded a positive predictive value of 76.6% and a negative predictive value of 99.1%. The third step showed that alerts were clinically relevant in 53.5% of patients. For 43.4% it had already been decided to discontinue or switch the intravenous antibiotics by the treating physician. In 10.1%, the alert resulted in advice to change antibiotic policy and was considered useful.
+
+
+Conclusions
+This prospective cohort study shows that the alerts were clinically relevant in >50% (n = 449) and useful in 10% (n = 85). The CDSS needs to be evaluated in hospitals with varying activity of infectious disease consultancy services as this probably influences usefulness.

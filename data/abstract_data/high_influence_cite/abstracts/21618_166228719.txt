@@ -1,0 +1,2 @@
+Lepskii Principle in Supervised Learning
+In the setting of supervised learning using reproducing kernel methods, we propose a data-dependent regularization parameter selection rule that is adaptive to the unknown regularity of the target function and is optimal both for the least-square (prediction) error and for the reproducing kernel Hilbert space (reconstruction) norm error. It is based on a modified Lepskii balancing principle using a varying family of norms.

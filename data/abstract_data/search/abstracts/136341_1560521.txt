@@ -1,0 +1,2 @@
+Multiple objective ant colony optimisation
+Multiple Objective Optimisation is a fast growing area of research, and consequently several Ant Colony Optimisation approaches have been proposed for a variety of these problems. In this paper, a taxonomy for Multiple Objective Ant Colony Optimisation algorithms is proposed and many existing approaches are reviewed and described using the taxonomy. The taxonomy offers guidelines for the development and use of Multiple Objective Ant Colony Optimisation algorithms.

@@ -1,0 +1,5 @@
+Sparse-Complementary Convolution for Efficient Model Utilization on CNNs
+We introduce an efficient way to increase the accuracy of convolution neural networks (CNNs) based on high model utilization without increasing any computational complexity.
+The proposed sparse-complementary convolution replaces regular convolution with sparse and complementary shapes of kernels, covering the same receptive field. 
+By the nature of deep learning, high model utilization of a CNN can be achieved with more simpler kernels rather than fewer complex kernels.
+This simple but insightful model reuses of recent network architectures, ResNet and DenseNet, can provide better accuracy for most classification tasks (CIFAR-10/100 and ImageNet) compared to their baseline models. By simply replacing the convolution of a CNN with our sparse-complementary convolution, at the same FLOPs and parameters, we can improve top-1 accuracy on ImageNet by 0.33% and 0.18% for ResNet-101 and ResNet-152, respectively. A similar accuracy improvement could be gained by increasing the number of layers in those networks by ~1.5x.

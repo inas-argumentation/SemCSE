@@ -1,0 +1,2 @@
+A Study Using $n$-gram Features for Text Categorization
+In this paper, we study the effect of using-grams (sequences of words of length n) for text categorization. We use an efficient algorithm for gener ating suchn-gram features in two benchmark domains, the 20 newsgroups data set and 21,578 REU TERS newswire articles. Our results with the rule learning algorithm R IPPER indicate that, after the removal of stop words, word sequences of length 2 or 3 are most useful. Using l o er sequences reduces classification performance.

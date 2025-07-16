@@ -1,0 +1,19 @@
+A temporal constraint structure for extracting temporal information from clinical narrative
+INTRODUCTION
+Time is an essential element in medical data and knowledge which is intrinsically connected with medical reasoning tasks. Many temporal reasoning mechanisms use constraint-based approaches. Our previous research demonstrates that electronic discharge summaries can be modeled as a simple temporal problem (STP).
+
+
+OBJECTIVE
+To categorize temporal expressions in clinical narrative text and to propose and evaluate a temporal constraint structure designed to model this temporal information and to support the implementation of higher-level temporal reasoning.
+
+
+METHODS
+A corpus of 200 random discharge summaries across 18 years was applied in a grounded approach to construct a representation structure. Then, a subset of 100 discharge summaries was used to tally the frequency of each identified time category and the percentage of temporal expressions modeled by the structure. Fifty random expressions were used to assess inter-coder agreement.
+
+
+RESULTS
+Six main categories of temporal expressions were identified. The constructed temporal constraint structure models time over which an event occurs by constraining its starting time and ending time. It includes a set of fields for the endpoint(s) of an event, anchor information, qualitative and metric temporal relations, and vagueness. In 100 discharge summaries, 1961 of 2022 (97%) identified temporal expressions were effectively modeled using the temporal constraint structure. Inter-coder evaluation of 50 expressions yielded exact match in 90%, partial match with trivial differences in 8%, partial match with large differences in 2%, and total mismatch in 0%.
+
+
+CONCLUSION
+The proposed temporal constraint structure embodies a sufficient and successful implementation method to encode the diversity of temporal information in discharge summaries. Placing data within the structure provides a foundational representation upon which further reasoning, including the addition of domain knowledge and other post-processing to implement an STP, can be accomplished.

@@ -1,0 +1,3 @@
+Constructing subsets of a given packing index in Abelian groups
+By definition, the sharp packing index $\ind_P^\sharp(A)$ of a subset $A$ of an abelian group $G$ is the smallest cardinal $\kappa$ such that for any subset $B\subset G$ of size $|B|\ge\kappa$ the family $\{b+A:b\in B\}$ is not disjoint. We prove that an infinite Abelian group $G$ contains a subset $A$ with given index $\ind_P^\sharp(A)=\kappa$ if and only if one of the following conditions holds: (1) $2\le \kappa\le|G|^+$ and $k\notin \{3,4\}$; (2) $\kappa=3$ and $G$ is not isomorphic to $\oplus_{i\in I} \mathbb{Z}_3$; (3) $\kappa=4$ and $G$ is not isomorphic to $\oplus_{i\in I} \mathbb{Z}_2$ or to 
+$\mathbb{Z}_4\oplus(\oplus_{i\in I} \mathbb{Z}_2)$.

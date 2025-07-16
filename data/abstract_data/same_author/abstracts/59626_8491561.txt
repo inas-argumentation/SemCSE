@@ -1,0 +1,2 @@
+Challenges and resources for evaluating geographical IR
+This paper discusses evaluation of Geo-IR systems, arguing for a separate study of the different algorithmic components involved. It presents existing resources for evaluating the different components, together with a review on previous results in the area.

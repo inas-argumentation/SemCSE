@@ -1,0 +1,2 @@
+Existence and uniqueness results for parabolic equations with Robin type boundary conditions in a non-regular domain of R3
+This paper is devoted to the analysis of the following two-space dimensional linear parabolic equation @?"tu-@?"x"""1^2u-@?"x"""2^2u=f, subject to Robin type conditions @?"x"""1u+@bu=0, on the lateral boundary, where the coefficient @b satisfies suitable non-degeneracy assumptions. The right-hand side f of the equation is taken in L^2. The problem is set in a domain of the form t,x"1@?R^2:0

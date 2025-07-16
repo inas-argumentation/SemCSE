@@ -1,0 +1,2 @@
+Encoding Functional Relations in Scunak
+We describe how a set-theoretic foundation for mathematics can be encoded in the new system Scunak. We then discuss an encoding of the construction of functions as functional relations in untyped set theory. Using the dependent type theory of Scunak, we can define object level application and lambda abstraction operators (in the spirit of higher-order abstract syntax) mediating between functions in the (meta-level) type theory and (object-level) functional relations. The encoding has also been exported to Automath and Twelf.

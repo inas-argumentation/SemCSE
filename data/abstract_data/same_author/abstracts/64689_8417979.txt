@@ -1,0 +1,2 @@
+Group organization algorithm based on trust and reputation in agent society
+In cooperation systems such as Multi-Agent Systems, it is an important problem how group of agents is organized as well as how agents cooperate with each other. Moreover, dynamic computing environments require the dynamic organization to the cooperation systems. To this end, in this paper, we propose two organization algorithms based on trust and reputation of agents; one is a centralized and another is a distributed self-organization algorithm.

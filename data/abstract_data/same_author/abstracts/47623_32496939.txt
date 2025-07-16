@@ -1,0 +1,2 @@
+The Strong Perfect Graph Conjecture for pan-free graphs
+A graph G is perfect if for every induced subgraph F of G , the chromatic number χ ( F ) equals the largest number ω ( F ) of pairwise adjacent vertices in F . Berge's famous Strong Perfect Graph Conjecture asserts that a graph G is perfect if and only if neither G nor its complement G contains an odd chordless cycle of length at least five. Its resolution has eluded researchers for more than twenty years. We prove that the conjecture is true for a class of graphs which strictly contains the claw-free graphs.

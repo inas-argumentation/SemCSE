@@ -1,0 +1,7 @@
+Towards the shortest possible contact time: Droplet impact on cylindrical superhydrophobic surfaces structured with macro-scale features.
+HYPOTHESIS
+Recently, it has been shown that the contact time of impacting water droplets on a superhydrophobic cylindrical surface decreases when its radius becomes comparable to that of the droplet, yet the correlation of this reduction with the impact velocity is unclear. Moreover, on a flat surface, experiments involving the addition of a single macrotexture, along with covering the surface with macroscopic cylindrical ridges (ribbed pattern), have been reported to shorten the contact time. Hence, a ribbed-curved surface with an additional macrotexture may logically lead to a very short contact time. Experiments Such a surface was obtained by utilizing an extruder-type 3D printer and a copper wire was used as the additional macrotexture. The bouncing of water droplets of three different volumes on curved and ribbed-curved samples with two different diameters was investigated for varied impact velocities.
+
+
+FINDINGS
+For the curved surfaces, a scaling model for the contact time reduction with respect to the impact velocity was found. Our data show that adding a wire to the peak of a cylinder containing both micro- and macro-scale roughness (wired ribbed-curved surfaces) yields the contact time even shorter than the inertial-capillary time scale, an unprecedented phenomenon.

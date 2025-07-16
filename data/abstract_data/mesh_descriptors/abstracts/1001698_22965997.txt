@@ -1,0 +1,19 @@
+Biophysical characterization of E. coli TolC interaction with the known blocker hexaamminecobalt.
+BACKGROUND
+The tripartite efflux pump AcrAB-TolC in E. coli is involved in drug resistance by transporting antibiotics out of the cell. The outer membrane protein TolC can be blocked by various cations, including hexaamminecobalt, thereby TolC represents a potential target for reducing antimicrobial resistance as its blockage may improve efficacy of antibiotics.
+
+
+METHODS
+We utilized single channel electrophysiology measurements for studying TolC conductance in the absence and presence of the known TolC blocker hexaamminecobalt. Association and dissociation constants of hexaamminecobalt were determined using surface plasmon resonance measurements. Minimum inhibitory concentration (MIC) assays in the absence and presence of antibiotics were carried out for investigating the antibacterial effect of hexaamminecobalt and its potential to reduce MICs.
+
+
+RESULTS
+TolC gating in the absence of any ligand is voltage dependent and asymmetric at high applied voltages. Hexaamminecobalt binds to TolC with high affinity and kinetic data revealed fast association and dissociation rates. Despite potent binding to TolC, hexaamminecobalt does not possess an intrinsic antimicrobial activity against E. coli nor does it reduce MIC values of antibiotics erythromycin and fusidic acid.
+
+
+CONCLUSIONS
+TolC opening can be effectively blocked by small molecules. More potent channel blockers are needed in order to investigate the eligibility of TolC as drug target.
+
+
+GENERAL SIGNIFICANCE
+TolC, a potentially interesting pharmaceutical target can be addressed by small molecules, blocking the channel. Biophysical characterization of the binding processes will support future identification and optimisation of more potent TolC blockers in order to validate TolC as a pharmaceutical target.

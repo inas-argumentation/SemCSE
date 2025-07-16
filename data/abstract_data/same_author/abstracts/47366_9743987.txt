@@ -1,0 +1,2 @@
+Complex Visual Activity Recognition Using a Temporally Ordered Database
+We propose using a temporally ordered database for complex visual activity recognition. We use a temporal precedence relation together with the assumption of fixed bounded temporal uncertainty of occurrence time of an atomic activity and comparatively large temporal extent of the complex activity. Under these conditions we identify the temporal structure of complex activities as a semiorder and design a database that has semiorder as its data model. A query algebra is then defined for this data model.

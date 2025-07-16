@@ -1,0 +1,2 @@
+Protection against outliers using a symmetric stable law prior
+Estimation of the expectation of a multivariate normal random vector is considered. The components of the mean vector are assumed to be exchangeable. This information is modeled using a hierarchical prior with independent symmetric stable law at the first stage level. It is shown that the first stage Bayes estimator has an analytic expression and that it is robust with respect to the presence of outlying observations.

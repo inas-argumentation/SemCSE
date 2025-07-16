@@ -1,0 +1,7 @@
+Numerical evaluation of spherical geometry approximation for heating and cooling of irregular shaped food products.
+UNLABELLED
+Irregular shapes of food products add difficulties in modeling of food processes, and using actual geometries might be in expense of computing time without offering any advantages in heating and cooling processes. In this study, a three-dimensional scanner was used to obtain geometrical description of strawberry, pear, and potato, and cooling-heating simulations were carried out in a computational heat transfer program. Then, spherical assumption was applied to compare center and volume average temperature changes using volume to surface area ratios of these samples to define their characteristic length. In addition, spherical assumption for a finite cylinder and a cube was also applied to demonstrate the effect of sphericity. Geometries with sphericity values above 0.9 were determined to hold the spherical assumption.
+
+
+PRACTICAL APPLICATIONS
+Irregular shapes of food products add difficulties in modeling of heating and cooling processes of food products. In addition, using actual geometries are in expense of computational time without offering any advantages. Hence, spherical approximation for irregular geometries was demonstrated under sphericity values of 0.9. This approach might help in developing better heating and cooling processes.

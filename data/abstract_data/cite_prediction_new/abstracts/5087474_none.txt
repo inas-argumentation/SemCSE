@@ -1,0 +1,2 @@
+On the reconstructive matching of multidimensional objects
+To determine a known object position and orientation within a scene is a task of fundamental importance. A scheme called reconstructive matching (RM), which is inherently invariant to shift, rotation, and optionally to scale changes is introduced. RM decomposes the matching within the source space into a set of mutually independent processes of dimensionality reduced by one. Applied to computerized tomography (CT), the approach allows CT object matching prior to their reconstruction.

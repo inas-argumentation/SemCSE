@@ -1,0 +1,2 @@
+An Optimisation Model for Airport Taxi Scheduling ?
+In this paper we present an optimisation model for airport taxi scheduling. We introduce a mixed-integer programming formulation to represent the movement of aircraft on the surface of the airport. In the optimal schedule delays due to taxi conflicts are minimised. We discuss implementation issues for solving this optimisation problem. Numerical results with real data of Amsterdam Airport Schiphol demonstrate that the algorithms lead to significant improvements of the efficiency with reasonable computational effort.

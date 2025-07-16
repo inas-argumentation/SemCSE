@@ -1,0 +1,2 @@
+Graph-Layout für eine objektorientierte Benutzungsoberfläche
+Hypertextsysteme sind Informationssysteme, deren Inhalt durch Einheiten reprasentiert wird, die Knoten genannt werden. Diese Knoten werden durch explizite Verweise miteinander verbunden. Auf diese Weise wird Benutzern die Moglichkeit gegeben, Beziehungen zwischen Entitaten beliebiger Art auszudrucken [HCL89]. Im Gegensatz zu anderen Informationssystemen wie bspw. relationalen Datenbanken werden in Hypertextsystemen Objektinstanzen zueinander in Beziehung gesetzt, nicht etwa Objekttypen oder Relationen.

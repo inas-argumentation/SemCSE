@@ -1,0 +1,2 @@
+Font clustering and cluster identification in document images
+In this work clustering and recognition problem of fonts in document images is addressed. Various font features and their clustering behavior are investigated. Font clustering is implemented both from shape similarity or from OCR performance points of view. A font recognition algorithm is developed that can identify the font group or the individual font from which a text was created. © 2001 SPIE and IS&T. [DOI: 10.1117/1.1351820]

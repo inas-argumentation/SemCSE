@@ -1,0 +1,2 @@
+Synthesizing efficient out-of-core programs for block recursive algorithms using block-cyclic data distributions
+This paper presents a framework for synthesizing I/O-efficient out-of-core programs for block recursive algorithms, such as the fast Fourier transform and matrix transpositions. the programs are synthesized from tensor (Kronecker) product representations of algorithms. These programs are optimized for a striped two-level memory model where in the out-of-core data can have block-cyclic distributions on multiple disks.

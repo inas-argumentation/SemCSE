@@ -1,0 +1,2 @@
+Multi-valued logic synthesis
+We survey some of the methods used for manipulating, representing, and optimizing multi-valued logic with the view of both building a better understanding of the more specialized binary-valued logic, as well as motivating research towards a true multi-valued multi-level optimization package.

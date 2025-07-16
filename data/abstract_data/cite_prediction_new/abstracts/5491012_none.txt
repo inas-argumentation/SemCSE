@@ -1,0 +1,2 @@
+Data Dependent Jitter Characterization Based on Fourier Analysis
+In this paper, the authors focus on modeling the data dependent jitter (DDJ) in high-speed interconnect. To investigate the data dependent jitter, the analysis is performed with Fourier series based on the interconnect RLC model. By calculating the pattern dependent delay deviation, the data dependent jitter is characterized. To validate the modeling accuracy, the analysis results have been compared against the Cadence simulations

@@ -1,0 +1,2 @@
+A Linear Algorithm for Finding \boldmath[{g,f }]-Colorings of Partial \boldmath{k }-Trees
+Abstract. In an ordinary edge-coloring of a graph each color appears at each vertex v at most once. A [g,f] -coloring is a generalized edge-coloring in which each color appears at each vertex v at least g(v) and at most f(v) times, where g(v) and f(v) are respectively nonnegative and positive integers assigned to v . This paper gives a linear-time algorithm to find a [g,f] -coloring of a given partial k -tree using the minimum number of colors if there exists a [g,f] -coloring.

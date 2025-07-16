@@ -1,0 +1,2 @@
+Designated Verifier Signature Scheme Based on Braid Groups
+Artin’s braid groups have been recently suggested as a new source for public-key cryptography. In this paper we first propose the designated verifier group signature scheme based on the conjugacy search problem and the root problem in the braid groups which are believed to be hard problems. Furthermore, our scheme can conceal the message to be signed so that it can be applied to E-voting and calling for tenders. key words : braid groups, conjugacy search problem, root problem, designated verifier signature scheme.

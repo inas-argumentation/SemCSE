@@ -1,0 +1,2 @@
+A 2.2-mW 24-Mb/s CMOS LiFi receiver system-on-a-chip with ambient light rejection and post-equalization
+This paper presents an energy-efficient visible light communication (VLC) receiver SoC that utilizes ambient light rejection and post-equalization techniques for emerging LiFi applications. Based on ordinary phosphorescent white LEDs, a 24-Mb/s IEEE 802.15.7-compliant LiFi link is demonstrated over 1.6 m with a BER below 10−9.

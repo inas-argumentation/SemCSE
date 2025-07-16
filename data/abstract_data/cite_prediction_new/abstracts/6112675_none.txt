@@ -1,0 +1,3 @@
+A study of usability of sketching tools aimed at supporting prescriptive sketches
+Prescriptive sketches are usually drawn, after conceptual design is over, to prepare the creation of digital 3D models. Designers and draftsmen use them as "screenplays" that guide the creation of the final 3D model. Prescriptive sketches are still paper-and-pencil, in spite of the existence of some academic or even commercial, computer tools.
+ In this paper, we defend the hypothesis that this is because current computer tools are less usable than paper-andpencil sketches and do not posses significantly improved functionality. A pilot study was conducted to validate this hypothesis. Both the study and its main conclusions are described in detail.

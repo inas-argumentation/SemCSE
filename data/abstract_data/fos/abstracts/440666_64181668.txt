@@ -1,0 +1,2 @@
+Robot Soccer's Decision-making Based on Opinion Net
+An opinion is the probability which indicates a conclusion,but this fuzzy value is an unambiguous numerical value.An opinion net deals with uncertain probability,namely the probability falls into a scope.Opinion net's structure is simple and reasoning is rapid.This paper applies opinion net to robot soccer's decision-making system,presents its reasoning formulas and practices an decision-making opinion net.

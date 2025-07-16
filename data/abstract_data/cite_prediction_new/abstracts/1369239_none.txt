@@ -1,0 +1,2 @@
+The loop cohomology of a space with the polynomial cohomology algebra
+Given a simply connected space $X$ with the cohomology $H^*(X;{\mathbb Z}_2)$ to be polynomial, we calculate the loop cohomology algebra $H^*(\Omega X;{\mathbb Z}_2)$ by means of the action of the Steenrod cohomology operation $Sq_1$ on $H^*(X;{\mathbb Z}_2).$ As a consequence we obtain that $H^*(\Omega X;{\mathbb Z}_2)$ is the exterior algebra if and only if $Sq_1$ is multiplicatively decomposable on $H^{\ast}(X;{\mathbb Z}_2).$ The last statement in fact contains a converse of a theorem of A. Borel.

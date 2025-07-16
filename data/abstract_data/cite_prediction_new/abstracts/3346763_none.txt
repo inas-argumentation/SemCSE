@@ -1,0 +1,2 @@
+Ping-pong trajectory perception and prediction by a PC based High speed four-camera vision system
+A high speed vision system is vital for a robot player to play table tennis successfully. The three dimensional ping-pong trajectory should be perceived in high precision at a high frame rate. What's more, with the beginning parts of the trajectory, the following trajectory should be predicted to save enough time for successful planning and control.

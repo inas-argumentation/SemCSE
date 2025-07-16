@@ -1,0 +1,15 @@
+Multicellular dosimetric chain for molecular radiotherapy exemplified with dose simulations on 3D cell spheroids.
+PURPOSE
+Absorbed radiation dose-response relationships are not clear in molecular radiotherapy (MRT). Here, we propose a voxel-based dose calculation system for multicellular dosimetry in MRT. We applied confocal microscope images of a spherical cell aggregate i.e. a spheroid, to examine the computation of dose distribution within a tissue from the distribution of radiopharmaceuticals.
+
+
+METHODS
+A confocal microscope Z-stack of a human hepatocellular carcinoma HepG2 spheroid was segmented using a support-vector machine algorithm and a watershed function. Heterogeneity in activity uptake was simulated by selecting a varying amount of the cell nuclei to contain 111In, 125I, or 177Lu. Absorbed dose simulations were carried out using vxlPen, a software application based on the Monte Carlo code PENELOPE.
+
+
+RESULTS
+We developed a schema for radiopharmaceutical dosimetry. The schema utilizes a partially supervised segmentation method for cell-level image data together with a novel main program for voxel-based radiation dose simulations. We observed that for 177Lu, radiation cross-fire enabled full dose coverage even if the radiopharmaceutical had accumulated to only 60% of the spheroid cells. This effect was not found with 111In and 125I. Using these Auger/internal conversion electron emitters seemed to guarantee that only the cells with a high enough activity uptake will accumulate a lethal amount of dose, while neighboring cells are spared.
+
+
+CONCLUSIONS
+We computed absorbed radiation dose distributions in a 3D-cultured cell spheroid with a novel multicellular dosimetric chain. Combined with pharmacological studies in different tissue models, our cell-level dosimetric calculation method can clarify dose-response relationships for radiopharmaceuticals used in MRT.

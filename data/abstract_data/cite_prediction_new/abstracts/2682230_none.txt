@@ -1,0 +1,2 @@
+Randomized Scheduler for Temporally-Correlated Channels
+In a slowly time-varying fading broadcast channel, a proposed randomized scheduler achieves multi-user diversity gain while reducing the amount of feedback. The scheduler requests feedback of signal-to-noise ratios (SNR) from a random subset of users in conjunction with the previously scheduled user, and then selects the user with the largest SNR. With temporal correlation, this scheduler achieves near optimal sum-rate even with feedback from a small subset of users, which considerably reduces the amount of feedback.

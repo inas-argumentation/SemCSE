@@ -1,0 +1,2 @@
+Practical parallax occlusion mapping with approximate soft shadows for detailed surface rendering
+(a) (b) Figure 1. Realistic city scene rendered using parallax occlusion mapping applied to the cobblestone sidewalk in (a) and using the normal mapping technique in (b).

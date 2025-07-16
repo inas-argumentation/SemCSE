@@ -1,0 +1,2 @@
+A Peer-to-Peer Resource Sharing System with Data Grid Technology for Mobile Devices
+Increases in mobile device processing power, storage capacity, and connectivity in recent years have led to a rapid rise in mobile device use. But mobile users face challenges in making connections with other users in order to share resources. To address this issue, we propose an architecture that uses peer-to-peer protocol to establish a resource sharing platform for mobile devices, combined with a data grid to help analyze and classify resources.

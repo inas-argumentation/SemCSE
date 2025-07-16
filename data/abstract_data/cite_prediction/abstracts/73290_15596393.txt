@@ -1,0 +1,2 @@
+Metaheuristic Design Pattern: Surrogate Fitness Functions
+Certain problems have characteristics that present difficulties for metaheuristics: their objective function may be either prohibitively expensive, or they may only give a partial ordering over the solutions, lacking a suitable gradient to guide the search. In such cases, it may be more efficient to use a surrogate fitness function to replace or supplement the objective function. This paper provides a broad perspective on surrogate fitness functions, described in the form of a metaheuristic design pattern.

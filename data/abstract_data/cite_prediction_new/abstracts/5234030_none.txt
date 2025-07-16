@@ -1,0 +1,2 @@
+Towards reducing "functional only" fails for the UltraSPARC/sup TM/ microprocessors
+A description of test coverage on the UltraSPARC family of devices is presented. Techniques developed with the intent to reduce "functional only" failures are discussed along with the resulting impact to the manufacturing process.

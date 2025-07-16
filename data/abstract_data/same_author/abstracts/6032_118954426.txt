@@ -1,0 +1,3 @@
+Calculation of the quark condensate through Schwinger-Dyson equation
+In this letter, we clarify the algebra expression for calculating the quark condensate based on the non-perturbative quark propagator calculated through Schwinger-Dyson equation. The quark condensates, which characterize the low energy QCD vacuum, should not get a divergent quantity at large energy scale; the re-normalization group evolution behaviour at large energy scale therefore should be interpreted as "smeared collective effects" for it contains both perturbative and non-perturbative parts. 
+We prefer the integral expression and get a quantity which is both convergent and scale dependent.

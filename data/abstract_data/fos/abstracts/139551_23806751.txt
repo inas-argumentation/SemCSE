@@ -1,0 +1,2 @@
+The Event Handler II a Fast, Programmable, CAMAC-Coupled Data Acquisition Interface
+The purpose of this paper is to describe the architecture of the Event Handler II, a fast, programmable data acquisition interface which is linked to and through CAMAC. The special features of this interface make it a powerful tool in implementing data acquisition systems for experiments in nuclear physics.

@@ -1,0 +1,2 @@
+Design of Real-Time Communications Software Based on XMPP
+Jabber,based on XMPP protocol,develops quickest and is one of most popular techniques of instant communication.To guarantee that the real-time communication quality,applies the NAT penetration technology,through the client side and the client side real-time communication process,has guaranteed the communication timeliness effectively.Introduces the real-time communication software's server terminal and the client terminal construction design.

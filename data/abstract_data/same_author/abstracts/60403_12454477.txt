@@ -1,0 +1,11 @@
+Penalized Cox regression analysis in the high-dimensional and low-sample size settings, with applications to microarray gene expression data
+MOTIVATION
+An important application of microarray technology is to relate gene expression profiles to various clinical phenotypes of patients. Success has been demonstrated in molecular classification of cancer in which the gene expression data serve as predictors and different types of cancer serve as a categorical outcome variable. However, there has been less research in linking gene expression profiles to the censored survival data such as patients' overall survival time or time to cancer relapse. It would be desirable to have models with good prediction accuracy and parsimony property.
+
+
+RESULTS
+We propose to use the L(1) penalized estimation for the Cox model to select genes that are relevant to patients' survival and to build a predictive model for future prediction. The computational difficulty associated with the estimation in the high-dimensional and low-sample size settings can be efficiently solved by using the recently developed least-angle regression (LARS) method. Our simulation studies and application to real datasets on predicting survival after chemotherapy for patients with diffuse large B-cell lymphoma demonstrate that the proposed procedure, which we call the LARS-Cox procedure, can be used for identifying important genes that are related to time to death due to cancer and for building a parsimonious model for predicting the survival of future patients. The LARS-Cox regression gives better predictive performance than the L(2) penalized regression and a few other dimension-reduction based methods.
+
+
+CONCLUSIONS
+We conclude that the proposed LARS-Cox procedure can be very useful in identifying genes relevant to survival phenotypes and in building a parsimonious predictive model that can be used for classifying future patients into clinically relevant high- and low-risk groups based on the gene expression profile and survival times of previous patients.

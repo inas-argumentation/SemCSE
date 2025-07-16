@@ -1,0 +1,2 @@
+Back and Forth Bisimulations On Prime Event Structures
+Back and forth bisimulations have been first introduced in [DNMV90]. In this paper, we propose a definition of back and forth bisimulalion for event structures. We show that our proposal can be adapted in a uniform way to yield step back and forth bisimulalion and pomset back and forth bisimulalion. We investigate these new equivalences and compare them to other branching time semantics.

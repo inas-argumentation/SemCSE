@@ -1,0 +1,2 @@
+Estimating the Fundamental Matrix by Transforming Image Points in Projective Space
+This paper proposes a novel technique for estimating the fundamental matrix by transforming the image points in projective space. We therefore only need to perform nonlinear optimization with one parameterization of the fundamental matrix, rather than considering 36 distinct parameterizations as in previous work. We also show how to preserve the characteristics of the data noise model from the original image space.

@@ -1,0 +1,15 @@
+Fast, automatic, and accurate catheter reconstruction in HDR brachytherapy using an electromagnetic 3D tracking system.
+PURPOSE
+In high dose rate brachytherapy (HDR-B), current catheter reconstruction protocols are relatively slow and error prone. The purpose of this technical note is to evaluate the accuracy and the robustness of an electromagnetic (EM) tracking system for automated and real-time catheter reconstruction.
+
+
+METHODS
+For this preclinical study, a total of ten catheters were inserted in gelatin phantoms with different trajectories. Catheters were reconstructed using a 18G biopsy needle, used as an EM stylet and equipped with a miniaturized sensor, and the second generation Aurora(®) Planar Field Generator from Northern Digital Inc. The Aurora EM system provides position and orientation value with precisions of 0.7 mm and 0.2°, respectively. Phantoms were also scanned using a μCT (GE Healthcare) and Philips Big Bore clinical computed tomography (CT) system with a spatial resolution of 89 μm and 2 mm, respectively. Reconstructions using the EM stylet were compared to μCT and CT. To assess the robustness of the EM reconstruction, five catheters were reconstructed twice and compared.
+
+
+RESULTS
+Reconstruction time for one catheter was 10 s, leading to a total reconstruction time inferior to 3 min for a typical 17-catheter implant. When compared to the μCT, the mean EM tip identification error was 0.69 ± 0.29 mm while the CT error was 1.08 ± 0.67 mm. The mean 3D distance error was found to be 0.66 ± 0.33 mm and 1.08 ± 0.72 mm for the EM and CT, respectively. EM 3D catheter trajectories were found to be more accurate. A maximum difference of less than 0.6 mm was found between successive EM reconstructions.
+
+
+CONCLUSIONS
+The EM reconstruction was found to be more accurate and precise than the conventional methods used for catheter reconstruction in HDR-B. This approach can be applied to any type of catheters and applicators.

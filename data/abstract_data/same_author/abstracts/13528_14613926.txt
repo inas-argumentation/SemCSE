@@ -1,0 +1,5 @@
+The heavy quark potential from Wilson's exact renormalization group
+. We perform a calculation of the full momentum dependence of the gluon and ghost propagators in pure SU(3) Yang-Mills theory by integrating Wilson's exact renormalization group equations with respect to an infrared cutoff 
+$k$. The heavy quark potential in the quenched approximation can be expressed in terms of these propagators. Our results strongly indicate a 
+$1/p^4$-behaviour of the heavy quark potential for 
+$p^2 \to 0$. We show in general, that effective actions which satisfy Schwinger-Dyson equations, correspond to (quasi-) fixed points of Wilson's exact renormalization group equations.

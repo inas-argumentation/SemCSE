@@ -1,0 +1,2 @@
+Performance of multiprocessor interconnection networks
+A tutorial is provided on the performance evaluation of multiprocessor interconnection networks, to guide system designers in their design process. A classification of parallel/distributed systems is followed by a classification of multiprocessor interconnection networks. Basic terminology for performance evaluation is presented. The performance of crossbar interconnection networks, multistage interconnection networks, and multiple-bus systems is then addressed, and a comparison is made along them.<<ETX>>

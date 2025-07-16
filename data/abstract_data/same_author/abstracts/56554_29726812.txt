@@ -1,0 +1,6 @@
+Modeling Hypergraphs by Graphs with the Same Mincut Properties
+An elegant and general way to apply graph partitioning algorithms to hypergraphs would be to model hypergraphs by graphs and apply the graph algorithms to these models. Of course such models have to simulate the given hypergraphs with respect to their cut properties. 
+ 
+An edge-weighted graph (V, E) is a cut-model for an edge-weighted hypergraph (V, H) if the weight of the edges cut by any bipartition of V in the graph is the same as the weight of the hyperedges cut by the same bipartition in the hypergraph. We show that there is no cut-model in general. 
+ 
+Next we examine whether the addition of dummy vertices helps: An edge-weighted graph (V ∪ D, E) is a mincut-model for an edge-weighted hypergraph (V, H) if the weight of the hyperedges cut by a bipartition of the hypergraphs vertices is the same as the weight of a minimum cut separating the two parts in the graph. We construct such models using positive and negative weights. On the other hand, we show that there is no mincut-model in general if only positive weights are allowed.

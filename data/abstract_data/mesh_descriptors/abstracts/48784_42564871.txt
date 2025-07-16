@@ -1,0 +1,15 @@
+Preliminary clinical experiences of a motorized manipulator for magnetic resonance image-guided microwave coagulation therapy of liver tumors.
+BACKGROUND
+In magnetic resonance (MR) image-guided microwave thermocoagulation of liver tumors, the choice of the optimal puncture route is an important and time-consuming process. To assist this process, we have developed a motorized MR-compatible manipulator.
+
+
+METHODS
+The manipulator consists of a passive end effecter with 2 degrees-of-freedom (DOF) rotation and active base stages with 3 ultrasonic motors. It automatically chases the preset target point with synergetic remote-center-of-motion (RCM) control. A mechanical torque limiter and an electrical shutdown switch were added for patient safety.
+
+
+RESULTS
+The manipulator was used for this procedure in 15 cases and successfully utilized to treat liver tumors in various locations. Thoracoscopic assistance was combined with the manipulator in 6 cases. No complications were experienced.
+
+
+CONCLUSIONS
+The manipulator was found to be very effective for assisting MR-guided microwave coagulation of liver tumors.

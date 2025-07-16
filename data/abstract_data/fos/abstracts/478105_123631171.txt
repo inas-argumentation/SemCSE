@@ -1,0 +1,2 @@
+Rank tests for scale and tail-weight of distributions
+It is widely recognized that for distributions having “light” tails, a proper rank test for scale should give more weight to the extreme ranks of the observations than the central ones. In this paper, we introduce a new tail-ordering and show that the asymptotic relative efficiency of certain rank tests for scale is preserved by this ordering when one of the tests’ score function is more convex that the other.

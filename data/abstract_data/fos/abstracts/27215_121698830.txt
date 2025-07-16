@@ -1,0 +1,2 @@
+Using the Variagraph to Test Lack of Fit of a Parametric Regression Model Without Replication
+In this article we introduce the variagraph for testing for lack of fit and estimating pure error in a regression model. The variagraph is simple in concept and in implementation, and provides advantages over other methods in the literature for problems without replication. We present a lack of fit test derived from the variagraph along with these examples and discussion of further possible developments.

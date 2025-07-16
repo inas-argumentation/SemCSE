@@ -1,0 +1,19 @@
+Total spiking probability edges: A cross-correlation based method for effective connectivity estimation of cortical spiking neurons
+BACKGROUND
+Connectivity is a relevant parameter for the information flow within neuronal networks. Network connectivity can be reconstructed from recorded spike train data. Various methods have been developed to estimate connectivity from spike trains.
+
+
+NEW METHOD
+In this work, a novel effective connectivity estimation algorithm called Total Spiking Probability Edges (TSPE) is proposed and evaluated. First, a cross-correlation between pairs of spike trains is calculated. Second, to distinguish between excitatory and inhibitory connections, edge filters are applied on the resulting cross-correlogram.
+
+
+RESULTS
+TSPE was evaluated with large scale in silico networks and enables almost perfect reconstructions (true positive rate of approx. 99% at a false positive rate of 1% for low density random networks) depending on the network topology and the spike train duration. A distinction between excitatory and inhibitory connections was possible. TSPE is computational effective and takes less than 3 min on a high-performance computer to estimate the connectivity of an 1 h dataset of 1000 spike trains.
+
+
+COMPARISON OF EXISTING METHODS
+TSPE was compared with connectivity estimation algorithms like Transfer Entropy based methods, Filtered and Normalized Cross-Correlation Histogram and Normalized Cross-Correlation. In all test cases, TSPE outperformed the compared methods in the connectivity reconstruction accuracy.
+
+
+CONCLUSIONS
+The results show that the accuracy of functional connectivity estimation of large scale neuronal networks has been enhanced by TSPE compared to state of the art methods. Furthermore, TSPE enables the classification of excitatory and inhibitory synaptic effects.

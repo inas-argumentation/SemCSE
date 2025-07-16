@@ -1,0 +1,2 @@
+Tests of Fit for Normal Variance Inverse Gaussian Distributions
+Goodness–of–fit tests for the family of symmetric normal variance inverse Gaussian distributions are constructed. The tests are based on a weighted integral incorporating the empirical characteristic function of suitably standardized data. An EM– type algorithm is employed for the estimation of the parameters involved in the test statistic. Monte Carlo results show that the new procedure is competitive with classical goodness–of–fit methods. An application with financial data is also included.

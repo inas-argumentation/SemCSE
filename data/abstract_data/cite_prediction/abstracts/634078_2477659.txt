@@ -1,0 +1,2 @@
+C# solutions for a face detection and recognition system
+Key issues on using a new programming language C# in implem entation of a face detection and recognition (FDR) system are present d. Mainly the following aspects are detailed: how to acquire an image, broadcast a vi deo stream, manipulate a database, and finally, the detection/recognition phase, a ll in relation with theirs possible C#/.NET solutions. Emphasis was placed on artificial n eural network (ANN) methods for face detection/recognition along with C# objec t oriented implementation proposal.

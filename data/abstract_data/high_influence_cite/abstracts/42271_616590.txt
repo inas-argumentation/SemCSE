@@ -1,0 +1,2 @@
+Unitary equivalence to a complex symmetric matrix: Low dimensions
+Abstract A matrix T ∈ M n ( C ) is UECSM if it is unitarily equivalent to a complex symmetric (i.e., self-transpose) matrix. We develop several techniques for studying this property in dimensions three and four. Among other things, we completely characterize 4 × 4 nilpotent matrices which are UECSM and we settle an open problem which has lingered in the 3 × 3 case. We conclude with a discussion concerning a crucial difference which makes dimension three so different from dimensions four and above.

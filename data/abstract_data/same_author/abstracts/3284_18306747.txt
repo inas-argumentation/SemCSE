@@ -1,0 +1,2 @@
+Visualizing simulation and testbed of wireless sensor networks with NetTopo
+In this paper, we present an integrated framework called NetTopo for providing both simulation and visualization functions to assist the investigation of algorithms in WSNs. NetTopo provides a common virtual WSN for the purpose of interaction between sensor devices and simulated virtual nodes. Two case studies are described to prove the effectiveness of NetTopo.

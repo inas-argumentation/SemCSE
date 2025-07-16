@@ -1,0 +1,2 @@
+Necessary integrability conditions for evolutionary lattice equations
+We study the structure of solutions of the Lax equation Dt(G) = [F,G] for formal series in powers of the shift operator. We show that if an equation with a given series F of degree m admits a solution G of degree k, then it also admits a solution H of degree m such that Hk = Gm. We use this property to derive necessary integrability conditions for scalar evolutionary lattices.

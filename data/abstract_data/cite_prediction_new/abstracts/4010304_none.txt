@@ -1,0 +1,2 @@
+Comparison identification of statistical and fuzzy models of time series
+The paper presents the basic methods of time series models identification. Exemplary calculations have been carried out on the base of the currencies courses. The first part of this paper is dedicated to the statistical analysis of time series models. In other part of the paper the adaptive network-based fuzzy inference system (ANFIS) has been used for prediction of time series data. The results of comparative analysis of statistical and fuzzy models have been presented.

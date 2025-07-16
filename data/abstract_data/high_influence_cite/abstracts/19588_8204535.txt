@@ -1,0 +1,2 @@
+Exact Algorithms for Treewidth and Minimum Fill-In
+We show that the treewidth and the minimum fill-in of an $n$-vertex graph can be computed in time $\mathcal{O}(1.8899^n)$. Our results are based on combinatorial proofs that an $n$-vertex graph has $\mathcal{O}(1.7087^n)$ minimal separators and $\mathcal{O}(1.8135^n)$ potential maximal cliques. We also show that for the class of asteroidal triple-free graphs the running time of our algorithms can be reduced to $\mathcal{O}(1.4142^n)$.

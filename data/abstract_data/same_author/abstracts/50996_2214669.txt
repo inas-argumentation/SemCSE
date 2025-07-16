@@ -1,0 +1,2 @@
+Fast degree elevation and knot insertion for B-spline curves
+We give a new, simple algorithm for simultaneous degree elevation and knot insertion for B-spline curves. The method is based on the simple approach of computing derivatives using the control points, resampling the knot vector, and then computing the new control points from the derivatives. We compare our approach with previous algorithms and illustrate it with examples.

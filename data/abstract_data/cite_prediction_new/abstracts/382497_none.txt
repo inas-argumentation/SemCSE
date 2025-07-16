@@ -1,0 +1,2 @@
+Multichannel Wireless Neural Recording AFE Architectures: Analysis, Modeling, and Tradeoffs
+This paper presents theoretical analyses of three analog-to-digital-conversion-based and one analog-to-time-conversion-based AFE architectures. They are particularly focused on the significant parameters that affect the design of neural recording implants.

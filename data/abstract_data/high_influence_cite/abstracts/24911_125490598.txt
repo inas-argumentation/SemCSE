@@ -1,0 +1,9 @@
+Data-Driven Deterministic Symbolic Regression of Nonlinear Stress-Strain Relation for RANS Turbulence Modelling
+This work presents developments towards a deterministic symbolic regression method to 
+derive algebraic Reynolds-stress models for the Reynolds-Averaged Navier-Stokes (RANS) 
+equations. The models are written as tensor polynomials, for which optimal coe cients are 
+found using Bayesian inversion. These coe cient fields are the targets for the symbolic regression. 
+A method is presented based on a regularisation strategy in order to promote sparsity 
+of the inferred models and is applied to high-fidelity data. By being data-driven the method 
+reduces the assumptions commonly made in the process of model development in order to 
+increase the predictive fidelity of algebraic models.

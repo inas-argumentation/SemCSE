@@ -1,0 +1,2 @@
+Information algebra system of soft sets
+Information algebra is algebraic structure for local computation and inference. Given an initial universe set and a parameter set, we show that a soft set system over them is an information algebra. Moreover, in a soft set system, the family of all soft sets with a finite parameter subset can form a compact information algebra.

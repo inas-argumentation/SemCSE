@@ -1,0 +1,6 @@
+Hyperplane Arrangements, Parking Functions and Tree Inversions
+A (real) hyperplane arrangement is a discrete set of hyperplanes in ℝn. We will be concerned with hyperplane arrangements that “interpolate” between two well-known arrangements: (1) the set B n of hyperplanes xi = xj, for 1 ≤ i < j ≤ n, and (2) the set B n of hyperplanes xi = xj = m, for 1 ≤ i < j ≤ n and m ∈ ℤ. The arrangement B n is known as the braid arrangement or the reflection arrangement of type An−1 (i. e., the set of reflecting hyperplanes of the symmetric group 
+Open image in new window 
+which is the Coxeter group of type An−1). Similarly, B n is the affine braid arrangement or reflection arrangement of type б n i. e., the set of reflecting hyperplanes of the affine Weyl group 
+Open image in new window 
+of type A n .

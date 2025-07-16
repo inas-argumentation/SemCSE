@@ -1,0 +1,2 @@
+Lattice-Reduction-Aided MMSE Tomlinson-Harashima Precoding for MIMO Systems
+In this letter, a lattice-reduction-aided (LRA) minimum mean square error (MMSE) Tomlinson-Harashima precoding (THP) is proposed for multiple input multiple output (MIMO) systems. The extended channel is exploited to develop the LRA MMSE-THP based on the lattice reduction method. Simulation results show that the proposed scheme significantly outperforms the conventional MMSE THP and the LRA zero-forcing (ZF) THP and achieves full diversity order.

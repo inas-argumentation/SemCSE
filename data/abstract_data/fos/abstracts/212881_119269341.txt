@@ -1,0 +1,2 @@
+A superconductor in the external pair potential. Accounting of the Coulomb pseudopotential
+To increase the critical temperature of a superconductor various methods are proposed: increase of electron-phonon coupling constant (softening of the phonon spectrum, anharmonicity of lattice’s vibrations, bipolarons and bisolitons), using of nonphonon pairing mechanisms (electron-plasmon coupling and electron-exciton coupling) and others. In a work [1] it was oered to generalize the BCS model in that that the external pair potential [2] was added in BCS Hamiltonian:

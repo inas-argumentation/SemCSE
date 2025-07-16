@@ -1,0 +1,2 @@
+Single change covering designs
+A single-change covering designSC (v, k, b) on av-setV is a sequence ofb k-sets (blocks) onV which together cover every pair of elements ofV at least once, such that two successive blocks havek−1 elements in common. It is desirable to minimizeb. Some constructions and lower bounds forb are given.

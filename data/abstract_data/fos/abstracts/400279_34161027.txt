@@ -1,0 +1,2 @@
+Heavy-Ion Induced Single Event Gate Damage in Medium Voltage Power MOSFETs
+Starting from a physical model of the electric field that develops in the gate oxide during heavy-ion irradiation, we have experimentally and numerically investigated the single event gate damage observed in medium voltage power MOSFETs. Simulation results reveal that the total electric field reached during the heavy-ion impact is close to the one that is known to trigger the formation of latent damages during electro-static discharge (ESD) experiments.

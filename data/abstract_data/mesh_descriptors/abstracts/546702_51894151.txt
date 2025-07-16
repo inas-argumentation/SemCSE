@@ -1,0 +1,15 @@
+LncRNA HOTAIRM1 inhibits the progression of hepatocellular carcinoma by inhibiting the Wnt signaling pathway.
+OBJECTIVE
+To explore the possible role of long non-coding RNA (lncRNA) HOTAIRM1 in the pathogenesis of hepatocellular carcinoma (HCC) and its underlying mechanism.
+
+
+PATIENTS AND METHODS
+LncRNA HOTAIRM1 expressions in 30 pairs of hepatocellular carcinoma tissues and paracancerous tissues were detected by quantitative Reverse Transcriptase-Polymerase Chain Reaction (qRT-PCR). The survival analysis and receiver operating characteristic (ROC) curve were introduced to explore the relationship between lncRNA HOTATRM expressions and prognosis of HCC patients. The correlation between progression-free survival (PFS) and clinical variables of HCC patients was estimated by single-factor and multiple-factor regression analysis, respectively. Overexpression plasmid of lncRNA HOTAIRM1 was designed and transfected into HCC cells according to the instructions of Lipofectamine 2000. Cell proliferation and apoptosis were detected by cell counting kit-8 (CCK-8) assay and flow cytometry, respectively. Moreover, expressions of apoptosis-related genes and the Wnt pathway-related proteins were detected by Western blot.
+
+
+RESULTS
+Lower lncRNA HOTAIRM1 expressions were observed in the HCC tissues than those of the paracancerous tissues. ROC curve indicated a high sensitivity and specificity of lncRNA HOTAIRM1 for HCC. PFS in HCC patients was correlated with tumor size and lncRNA HOTAIRM1 expression, whereas not correlated with age, sex, GGT, AFP, Child-Pugh grade, HBsAg, cirrhosis, number of tumors, micro-vessel metastasis, tumor differentiation, and TNM stage of HCC. Overexpression of HOTAIRM1 led to decreased proliferative ability and increased apoptosis of HepG2 and HHCC cells. In addition, overexpressed lncRNA HOTAIRM1 remarkably increased the expression of apoptosis promotor Bax, but decreased the expressions of apoptosis inhibitors Bcl-2 and Bid. Meanwhile, expressions of related proteins in the Wnt pathway were decreased as well.
+
+
+CONCLUSIONS
+HOTAIRM1, which was downregulated in HCC, might inhibit the proliferative ability and promote the apoptosis of HCC cells by suppressing the Wnt pathway, thereby inhibiting the progression of hepatocellular carcinoma.

@@ -1,0 +1,2 @@
+Counting labelled three-connected and homeomorphically irreducible two-connected graphs
+Recursive procedures are obtained for counting isomorphism classes of three-connected graphs and of two-connected graphs without vertices of degree 2. We apply an enumeration tool developed by R. W. Robinson to count non-isomorphic 2-connected graphs: he expressed the sums of cycle indices of automorphism groups of connected graphs in terms of those of their 2-connected components, and we do the same for 2-connected graphs and their 3-connected components.

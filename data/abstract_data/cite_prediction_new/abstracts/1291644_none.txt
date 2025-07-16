@@ -1,0 +1,2 @@
+Reducing Separation Formulas to Propositional Logic
+: We show a reduction to propositional logic from a Boolean combination of inequalities of the form Vi is greater or equal Vj + C and Vi is less than Vj + C where C is a constant, and Vi, Vj are variables of type real or integer. Equalities and uninterpreted functions can be expressed in this logic as well. We discuss the advantages of using this reduction as compared to competing methods, and present experimental results that support our claims.

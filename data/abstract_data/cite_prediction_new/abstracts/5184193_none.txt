@@ -1,0 +1,2 @@
+Revenue management policies for the truck rental industry
+In this paper, we consider the problem of managing a fleet of trucks with different capacity to serve the requests of different customers that arise randomly over time. The problem is formulated via dynamic programming. Linear programming approximations of the problem are presented and their solutions are exploited to develop partitioned booking limits and bid prices policies. The numerical experiments show that the proposed policies can be profitably used in supporting the decision maker.

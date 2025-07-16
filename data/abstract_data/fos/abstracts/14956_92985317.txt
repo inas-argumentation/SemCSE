@@ -1,0 +1,2 @@
+A "hidden" characterization of polyhedral convex sets
+We prove that a closed convex subset $C$ of a complete linear metric space $X$ is polyhedral in its closed linear hull if and only if no infinite subset $A\subset X\backslash C$ can be hidden behind $C$ in the sense $[x,y]\cap C\not = \emptyset$ for any distinct points $x,y\in A$.

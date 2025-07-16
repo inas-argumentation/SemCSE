@@ -1,0 +1,2 @@
+A Characterization For Gpsd Signals In Additive Noise
+In this paper we consider a convoluted generalized power series distibution and characterize the distributions by soiutions to system of differential equations. Characterization results are derived for Poisson, binomial, geometric and Pascal (negative binomial) as special cases and later unified with Samaniego [1976, 1980] and Samaniego and Gong [1979] receiveddate="Oct1985" reviseddate="Jun1986"

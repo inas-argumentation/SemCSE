@@ -1,0 +1,2 @@
+The two-dimensional Ising model in the magnetic field: a numerical check of Zamolodchikov's conjecture
+The authors calculate numerically the transfer matrix spectrum of the 2D Ising model at T=Tc and in a magnetic field h not=0. In the limit h to 0, their results reproduce the mass spectrum conjectured by Zamolodchikov (1988). Scaling functions are also studied.

@@ -1,0 +1,2 @@
+Dynamic output feedback H/sup /spl infin// controller design of fuzzy dynamic systems using LMI techniques
+Presents output feedback H/sup /spl infin// controller design methods for fuzzy dynamic systems. Three kinds of controller design methods are proposed based on a smooth Lyapunov function or a piecewise smooth Lyapunov function. The control laws are obtained by using LMI techniques and the global stability with disturbance attenuation of the closed-loop fuzzy control system is established.

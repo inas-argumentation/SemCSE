@@ -1,0 +1,2 @@
+Some numerical methods for a maximum entropy problem
+We describe a numerical method developed to treat the statistical equilibrium model of coherent structures in two-dimensional turbulence. We explain the statistical model for which the method was designed to solve. A convergence proof is given along with several alternative methods for the same problem. The solution of this problem requires maximizing a nonlinear functional subject to nonlinear constraints.

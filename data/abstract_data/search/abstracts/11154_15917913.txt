@@ -1,0 +1,2 @@
+A framework for ontology based knowledge management
+Knowledge Management (KM) system is one kind of technology that synthetically explores various methods to realize the capture, storage and reuse of knowledge. One of objectives of KM is to promote the share and reuse of all kind of knowledge. Based on Ontology, this paper proposes a framework of KM to facilitate knowledge reuse. According to the definition of ontology, this paper presents the method of knowledge capture, and introduces the mechanism of knowledge pull and knowledge push, then gives a practical example KMSRP.

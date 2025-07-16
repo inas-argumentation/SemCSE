@@ -1,0 +1,2 @@
+A Two-Dimensional Ellipse–Rectangle Intersection Test
+We present an efficient algorithm for testing whether or not a filled rectangle and a filled ellipse intersect. The algorithm requires at most two evaluations of the quadratic polynomial that defines the ellipse and the execution of a few simple arithmetic expressions. The convexity and monotonicity properties of this polynomial are the main tools for the design of the algorithm.

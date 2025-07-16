@@ -1,0 +1,2 @@
+Local and global null controllability of time varying linear control systems
+For linear control systems with coefficients determined by a dynamical system null controllability is discussed. If uniform local null controllability holds, and if the Lyapounov exponents of the homogeneous equation are all non-positive, then the system is globally null controllable for almost all paths of the dynamical system. Even if some Lyapounov exponents are positive, an irreducibility assumption implies that, for a dense set of paths, the system is globally null controllable.

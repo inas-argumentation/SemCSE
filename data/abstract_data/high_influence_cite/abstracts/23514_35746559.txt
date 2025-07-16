@@ -1,0 +1,15 @@
+Admissions due to pneumonia and biomass burning: a spatial approach.
+OBJECTIVE
+To identify spatial patterns in rates of admission for pneumonia among children and relate them to the number of fires reported in the state of Mato Grosso, Brazil.
+
+
+METHODS
+We conducted an ecological and exploratory study of data from the state of Mato Grosso for 2008 and 2009 on hospital admissions of children aged 0 to 4 years due to pneumonia and on fires in the same period. Admission rates were calculated and choropleth maps were plotted for rates and for fire outbreaks, Moran's I was calculated and the kernel estimator used to identify "hotspots." Data were analyzed using TerraView 3.3.1.
+
+
+RESULTS
+Fifteen thousand six hundred eighty-nine children were hospitalized (range zero to 2,315), and there were 161,785 fires (range 7 to 6,454). The average rate of admissions per 1,000 inhabitants was 2.89 (standard deviation [SD] = 5.18) and the number of fires per 1,000 inhabitants was 152.81 (SD = 199.91). Moran's I for the overall number of admissions was I = 0.02 (p = 0.26), the index for rate of admission was I = 0.02 (p = 0.21) and the index for the number of fires was I = 0.31 (p < 0.01). It proved possible to identify four municipalities with elevated rates of admissions for pneumonia. It was also possible to identify two regions with high admission densities. A clustering of fires was evident along what is known as the "arc of deforestation."
+
+
+CONCLUSIONS
+This study identified municipalities in the state of Mato Grosso that require interventions to reduce rates of admission due to pneumonia and the number fires.

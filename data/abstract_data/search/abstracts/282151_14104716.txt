@@ -1,0 +1,2 @@
+Parallel processing: the Ising model and Monte Carlo dynamics
+The author investigates the dynamics of Monte Carlo simulations of the kinetic Ising model involving multi spin flip updating schemes as opposed to the conventional random single spin flip updating schemes normally used.

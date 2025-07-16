@@ -1,0 +1,2 @@
+On the Number of Spanning Trees in Random Regular Graphs
+Let $d\geq 3$ be a fixed integer.   We give an asympotic formula for the expected number of spanning trees in a uniformly random $d$-regular graph with $n$ vertices. (The asymptotics are as $n\to\infty$, restricted to even $n$ if $d$ is odd.) We also obtain the asymptotic distribution of the number of spanning trees in a uniformly random cubic graph, and conjecture that the corresponding result holds for arbitrary (fixed) $d$. Numerical evidence is presented which supports our conjecture.

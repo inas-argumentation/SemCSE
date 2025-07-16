@@ -1,0 +1,2 @@
+The Global Inverse Kinematics Solution in the Adept Six 300 Manipulator with Singularities Robustness
+In this paper the solutions both the forward and inverse kinematics problems for Adept Six 300 6R robot are presented. A matrix method was used in computations. Algorithm based on the derived formulas and logical conditions has been implemented in Adept Smart Controller Cx. Comparison between manufacturer and proposed algorithm is presented. Result of this operation has been shown on figures presenting the manipulator's smooth passage through singular points.

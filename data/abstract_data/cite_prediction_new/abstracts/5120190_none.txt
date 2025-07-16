@@ -1,0 +1,2 @@
+An integrated antenna-filter with harmonic rejection
+In this paper we present the possibility to integrate microstrip bandpass filter and patch antenna in order to suppress spurious harmonics of antenna. Compact microstrip pseudo-interdigital stepped impedance bandpass filter with improved stopband was designed. It was used to replace the microstrip line in inset microstrip-line fed patch antenna. As a result of integration full suppression of first two spurious harmonics of antenna was achieved.

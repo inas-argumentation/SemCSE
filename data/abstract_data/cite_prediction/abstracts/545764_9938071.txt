@@ -1,0 +1,11 @@
+Loss of ‘Small-World’ Networks in Alzheimer's Disease: Graph Analysis of fMRI Resting-State Functional Connectivity
+BACKGROUND
+Local network connectivity disruptions in Alzheimer's disease patients have been found using graph analysis in BOLD fMRI. Other studies using MEG and cortical thickness measures, however, show more global long distance connectivity changes, both in functional and structural imaging data. The form and role of functional connectivity changes thus remains ambiguous. The current study shows more conclusive data on connectivity changes in early AD using graph analysis on resting-state condition fMRI data.
+
+
+METHODOLOGY/PRINCIPAL FINDINGS
+18 mild AD patients and 21 healthy age-matched control subjects without memory complaints were investigated in resting-state condition with MRI at 1.5 Tesla. Functional coupling between brain regions was calculated on the basis of pair-wise synchronizations between regional time-series. Local (cluster coefficient) and global (path length) network measures were quantitatively defined. Compared to controls, the characteristic path length of AD functional networks is closer to the theoretical values of random networks, while no significant differences were found in cluster coefficient. The whole-brain average synchronization does not differ between Alzheimer and healthy control groups. Post-hoc analysis of the regional synchronization reveals increased AD synchronization involving the frontal cortices and generalized decreases located at the parietal and occipital regions. This effectively translates in a global reduction of functional long-distance links between frontal and caudal brain regions.
+
+
+CONCLUSIONS/SIGNIFICANCE
+We present evidence of AD-induced changes in global brain functional connectivity specifically affecting long-distance connectivity. This finding is highly relevant for it supports the anterior-posterior disconnection theory and its role in AD. Our results can be interpreted as reflecting the randomization of the brain functional networks in AD, further suggesting a loss of global information integration in disease.

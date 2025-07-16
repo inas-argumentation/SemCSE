@@ -1,0 +1,2 @@
+A Tutorial on Deep Learning Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks
+The flexibility of neural networks is a very powerful property. In many cases, these changes lead to great improvements in accuracy compared to basic models that we discussed in the previous tutorial. In the last part of the tutorial, I will also explain how to parallelize the training of neural networks. This is also an important topic because parallelizing neural networks has played an important role in the current deep learning movement.

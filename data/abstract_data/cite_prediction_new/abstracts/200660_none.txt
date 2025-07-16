@@ -1,0 +1,2 @@
+Computed Torque Control of a Quaternion Based Space Robot
+In this paper, the dynamical model for a two-link space robot is developed utilizing quaternion based rotation operators. The model is simulated and is shown to be free of orientation induced singularities. Furthermore, the limitations of computed torque control for this type of system is examined.

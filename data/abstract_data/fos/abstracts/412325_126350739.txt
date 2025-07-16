@@ -1,0 +1,12 @@
+Sci‐Thur PM – Colourful Interactions: Highlights 02: A deterministic solution to the first order linear Boltzmann transport equation including magnetic fields
+Purpose: 
+To develop a novel formalism including magnetic force in the linear Boltzmann transport equation (LBTE) and to solve this equation deterministically by developing a new numerical framework. 
+ 
+Methods: 
+The continuity equation in six dimensions was used to derive the magnetic force term in the LBTE. The phase space variables were discretized using the multigroup method for energy variables, the discontinuous finite element method (DFEM) for the spatial variables, and using two approaches for the angular variables: the standard discrete ordinates method (DOM), and a novel angular DFEM. The calculated dose for both techniques was compared to Monte Carlo. 
+ 
+Results: 
+It was found that the standard source iteration approach was unstable using the DOM with magnetic fields. The Krylov solver restarted GMRES(m) overcame the instability except for cases characterized by very low media densities and large magnetic fields where convergence stagnated using smaller restart parameters. Our novel angular DFEM framework overcame these instabilities for all cases tested. Comparison with Monte Carlo showed greater than 99% of points passing a 2%/2mm gamma criterion for the DOM, and 99% of points passing for the angular DFEM. 
+ 
+Conclusion: 
+A novel formalism to include magnetic force within the LBTE was derived and a new numerical framework to solve the resultant equations was developed and tested using two different angular discretization techniques. Both techniques provided excellent accuracy, but the angular DFEM proved to be more stable. Dose calculations with this formalism were proven to be highly accurate, equivalent to advanced Monte Carlo algorithms.

@@ -1,0 +1,15 @@
+SU-E-I-21: Effect of Different Fluorescent Lights with Various Colors of a Reading Room on Chromaticity of LCD.
+PURPOSE
+To examine variation of chromaticity of LCD in different types of fluorescent lights in a reading room.
+
+
+METHODS
+A color LCD (RX320, antiglare type, 450 cd/m2 , three-megapixel, Eizo Nanao), and a monochrome LCD (G31-S, anti glare type, 450 cd/m2 , three-megapixel, Eizo Nanao) were used in this study. The chromaticity in grayscale images with eighteen luminance levels were measured under five types of fluorescent lights with different color spectrums (Daylight: 6,700 K, Natural white: 5,000 K, White: 4,200 K, Warm white: 3,500 K, Light bulb: 3,000 K) by using a colorimeter (CS-200: KONICA MINOLTA). The chromaticity of LCDs was measured at various ambient lighting conditions (a dark room, 36, and 300 lux) and different types of fluorescent lights.
+
+
+RESULTS
+The chromaticity of LCDs measured under ambient lights was changed from that measured in a dark room. The chromaticity of LCDs varied with different types of fluorescent lights. As illuminance of the room increased, variations in chromaticity at relatively lower luminance levels increased. The direction of changes in chromaticity shifted to the color for each fluorescent light.
+
+
+CONCLUSIONS
+Fluorescent lights having different color spectra affect the chromaticity of LCDs.

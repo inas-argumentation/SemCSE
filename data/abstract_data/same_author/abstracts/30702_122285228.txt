@@ -1,0 +1,2 @@
+Scattering in the Framework of the Green's Function Monte-Carlo Method
+A method based on the Green's Function Monte-Carlo approach is used to solve the integral equation for the scattering wave function. The algorithm employed is explained for two-body scattering and tested for cases where the exact solution is known.

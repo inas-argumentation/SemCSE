@@ -1,0 +1,23 @@
+Disentangling Generalization in Reinforcement Learning
+  Generalization in Reinforcement Learning (RL) is usually measured according to
+  concepts from supervised learning. Unlike a supervised learning model however,
+  an RL agent must generalize across states, actions and observations from
+  limited reward-based feedback. We propose to measure an RL agent's capacity to
+  generalize by evaluating it in a contextual decision process that combines a
+  tabular environment with observations from a supervised learning dataset. The
+  resulting environment, while simple, necessitates function approximation for
+  state abstraction and provides ground-truth labels for optimal policies and
+  value functions. The ground truth labels provided by our environment enable us
+  to characterize generalization in RL across different axes: state-space,
+  observation-space and action-space. Putting this method to work, we combine
+  the MNIST dataset with various gridworld environments to rigorously evaluate
+  generalization of DQN and QR-DQN in state, observation and action spaces for
+  both online and offline learning. Contrary to previous reports about common
+  regularization methods, we find that dropout does not improve observation
+  generalization. We find, however, that dropout improves action generalization.
+  Our results also corroborate recent findings that QR-DQN is able to generalize
+  to new observations better than DQN in the offline setting. This success does
+  not extend to state generalization, where DQN is able to generalize better
+  than QR-DQN. These findings demonstrate the need for careful consideration
+  of generalization in RL, and we hope that this line of research will continue
+  to shed light on generalization claims in the literature.

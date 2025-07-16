@@ -1,0 +1,2 @@
+Automatic Vetting for Malice in Android Platforms
+Abstract In Mobile App Security Testing, Dynamic Analysis is needed to deal with certain malware features that reveals itself only at runtime. Dynamic analysis requires a set of inputs to trigger potential malicious targets during the runtime, so that malware can be exposed. In order to generate the inputs (as a sequence of events for Android Apps) we have developed two software tools: JITANA and APEX which are presented and included in this final project report.

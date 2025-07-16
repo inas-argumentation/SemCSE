@@ -1,0 +1,2 @@
+Photonic chip based all-optical XOR gate for phase-encoded signals
+We demonstrate error-free, no power penalty, all-optical XOR operation for 40 Gbit/s phase-encoded signals in a highly-nonlinear photonic chip. This scheme exploits the Kerr nonlinearity in a dispersion-engineered chalcogenide (As2S3) planar waveguide.

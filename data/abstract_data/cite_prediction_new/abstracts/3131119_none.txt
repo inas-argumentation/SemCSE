@@ -1,0 +1,2 @@
+Levels of certainty in knowledge-intensive corpora: an initial annotation study
+In this initial annotation study, we suggest an appropriate approach for determining the level of certainty in text, including classification into multiple levels of certainty, types of statement and indicators of amplified certainty. A primary evaluation, based on pairwise inter-annotator agreement (IAA) using F1-score, is performed on a small corpus comprising documents from the World Bank. While IAA results are low, the analysis will allow further refinement of the created guidelines.

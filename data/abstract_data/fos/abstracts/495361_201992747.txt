@@ -1,0 +1,15 @@
+A new clinical complexity model for the Australian Refined Diagnosis Related Groups.
+BACKGROUND
+The Australian Refined Diagnosis Related Groups (AR-DRG) underwent a major review in 2014 with changes implemented in Version 8.0 of the classification. The core to the changes was the development of a new methodology to estimate the Diagnosis Complexity Level (DCL) and to aggregate the complexity level of individual diagnoses to the complexity of an entire episode, resulting in an Episode Clinical Complexity Score (ECCS). This paper provides an overview of the new methodology and its application in Version 8.0.
+
+
+METHOD
+The AR-DRG V8.0 refinement project was overseen by a Classifications Clinical Advisory Group and a Diagnosis Related Groups (DRG) Technical Group. Admitted Patient Care National Minimum Dataset and the National Hospital Cost Data Collection were used for complexity modelling and analysis.
+
+
+RESULT
+In total, Version 8.0 comprised 807 DRGs, including 3 error DRGs. Of the 321 Adjacent DRGs (ADRGs) that had a split, 315 ADRGs used ECCS as the only splitting variable while the remaining 6 ADRGs used splitting variables other than ECCS: 2 used age and 4 used transfer.
+
+
+DISCUSSION AND CONCLUSION
+A new episode clinical complexity (ECC) model was developed and introduced in AR-DRG V8.0, replacing the original model introduced in the 1990s. Clear AR-DRG structure principles were established for revising the system. The new complexity model is conceptually based and statistically derived, and results in an improved relationship with actual variations in resource use due to episode complexity.

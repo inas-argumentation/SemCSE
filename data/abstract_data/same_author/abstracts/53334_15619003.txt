@@ -1,0 +1,2 @@
+A Graphical User Interface Design for Network Simulation
+Abstract This article describes a prototyping effort of a flexible graphical user interface (GUI) for a simulation tool called COPS. The GUI is designed to allow parameter setup for all modules in simulation model, and can be easily replaced by new GUIs implemented in different languages/graphical tools. This article provides design guidelines and implementation details of the flexible GUI.

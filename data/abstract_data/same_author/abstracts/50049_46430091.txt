@@ -1,0 +1,2 @@
+Design of VDSL Networks for the High Speed Internet Services
+VDSL is recently getting more attention as the efficient xDSL technology. VDSL can be used for next generation Grid computing. Because VDSL is last mile network, they designed multimedia supplying VDSL networks through combining it with core network or access network properly. Core network was designed with IP network and ATM network and simulated through COMNET. In the measure result (Bit rate, Delay) of the simulation, we knew that IP network is superior to ATM network in terms of measure result.

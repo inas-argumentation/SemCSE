@@ -1,0 +1,2 @@
+ECC2K-130 on NVIDIA GPUs
+A major cryptanalytic computation is currently underway on multiple platforms, including standard CPUs, FPGAs, PlayStations and Graphics Processing Units (GPUs), to break the Certicom ECC2K-130 challenge. This challenge is to compute an elliptic-curve discrete logarithm on a Koblitz curve over \(\mathbb{F}_{2^{131}}\). Optimizations have reduced the cost of the computation to approximately 277 bit operations in 261 iterations.

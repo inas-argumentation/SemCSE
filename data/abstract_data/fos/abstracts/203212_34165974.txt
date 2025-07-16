@@ -1,0 +1,2 @@
+A MWPC Read-Out System with Novel Photon Identification Capabilities
+A MWPC read-out system is described that determines the position of a photon interaction by calculating the center of gravity of the charge induced in sense wires. The width of the charge induction is determined to distinguish photon interactions from disturbing events that occur in the system. The position resolution is 0.3 mm FWHM at 6 keV. The energy range is 2 - 30 keV.

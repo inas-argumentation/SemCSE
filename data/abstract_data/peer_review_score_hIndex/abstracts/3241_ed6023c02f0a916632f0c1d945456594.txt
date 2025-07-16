@@ -1,0 +1,3 @@
+Loss meta-learning for forecasting
+Meta-learning of loss functions for supervised learning has been used to date for classification tasks, or as a way to enable few-shot learning. In this paper, we show how a fairly simple loss meta-learning approach can substantially improve regression results. Specifically, we target forecasting of time series and explore case studies grounded on real-world data, and show that meta-learned losses can benefit the quality of the prediction both in cases that are apparently naive and in practical scenarios where the performance metric is complex, time-correlated, non-differentiable, or not known a-priori.
+

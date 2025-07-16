@@ -1,0 +1,16 @@
+Random Oracles in Constantinople: Practical Asynchronous Byzantine Agreement Using Cryptography
+AbstractByzantine agreement requires a set of parties in a distributed system to
+ agree on a value even if some parties are maliciously misbehaving. A new
+ protocol for Byzantine agreement in a completely asynchronous network is
+ presented that makes use of new cryptographic protocols, specifically
+ protocols for threshold signatures and coin-tossing. These cryptographic
+ protocols have practical and provably secure implementations in the
+ random oracle model. In particular, a coin-tossing protocol based on
+ the Diffie-Hellman problem is presented and analyzed. The resulting asynchronous Byzantine agreement protocol is both practical
+ and theoretically optimal because it tolerates the maximum number of
+ corrupted parties, runs in constant expected rounds, has message and
+ communication complexity close to the optimum, and uses a trusted dealer
+ only once in a setup phase, after which it can process a virtually unlimited
+ number of transactions. The protocol is formulated as a transaction processing service in a
+ cryptographic security model, which differs from the standard
+ information-theoretic formalization and may be of independent interest.

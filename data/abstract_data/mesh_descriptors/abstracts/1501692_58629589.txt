@@ -1,0 +1,15 @@
+Effect of spiral undersampling patterns on FISP MRF parameter maps.
+PURPOSE
+Artifacts arising from undersampling are not always treatable as incoherent noise for the pattern matching process in Magnetic Resonance Fingerprinting (MRF). To estimate the effect of undersampling artifacts on MRF quantitative results, spiral sampling trajectories and their temporal variation is examined.
+
+
+METHODS
+The effect of sampling trajectories and their variation during the MRF experiment was assessed by characterizing aliasing artifacts. Temporal rearrangements of sampling trajectories were tested and evaluated in simulations and scans of phantoms and in a volunteer brain.
+
+
+RESULTS
+Results show that some temporal variations of sampling patterns can lead to spatial biases in MRF parameter maps. Observed effects are consistent with derived performance indicators for different interleaving schemes, leading to substantially improved MRF sampling patterns.
+
+
+CONCLUSION
+With the help of the presented simulation framework, MRF implementations can be investigated and improved. This was demonstrated for a spiral FISP (Fast imaging with steady-state free precession) MRF implementation, where a significantly improved interleaving scheme was identified, and confirmed by experiment.

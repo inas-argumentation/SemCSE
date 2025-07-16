@@ -1,0 +1,2 @@
+Testbed for distributed high level information fusion and dynamic resource management
+The testbed allows experimenting with highlevel distributed information fusion, dynamic resource management and configuration management given multiple constraints on the resources and their communication networks. The testbed provides general services that are useful for testing many information fusion applications. Services include a multi layer plug and play architecture, and a general multi agent framework based on John Boyd's OODA loop.

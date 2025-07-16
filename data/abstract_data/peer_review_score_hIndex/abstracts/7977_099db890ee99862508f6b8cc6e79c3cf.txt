@@ -1,0 +1,8 @@
+Deep Denoising: Rate-Optimal Recovery of Structured Signals with a Deep Prior
+Deep neural networks provide state-of-the-art performance for image denoising, where the goal is to recover a near noise-free image from a noisy image.
+The underlying principle is that neural networks trained on large datasets have empirically been shown to be able to generate natural images well from a low-dimensional latent representation of the image.
+Given such a generator network, or prior, a noisy image can be denoised by finding the closest image in the range of the prior.
+However, there is little theory to justify this success, let alone to predict the denoising performance as a function of the networks parameters.
+In this paper we consider the problem of denoising an image from additive Gaussian noise, assuming the image is well described by a deep neural network with ReLu activations functions, mapping a k-dimensional latent space to an n-dimensional image.
+We state and analyze a simple gradient-descent-like iterative algorithm that minimizes a non-convex loss function, and provably removes a fraction of (1 - O(k/n)) of the noise energy.
+We also demonstrate in numerical experiments that this denoising performance is, indeed, achieved by generative priors learned from data.

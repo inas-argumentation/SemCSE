@@ -1,0 +1,2 @@
+Observer design and practical stability of nonlinear systems under unknown time‐delay
+In the present paper, we study observer design and we establish some sufficient conditions for practical exponential stability for a class of time-delay nonlinear systems written in triangular form. In case of delay, the exponential convergence of the observer was confirmed. Based on the Lyapunov-Krasovskii functionals, the practical stability of the proposed observer is achieved. Finally, simulation findings show the feasibility of the suggested strategy.

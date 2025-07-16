@@ -1,0 +1,4 @@
+Image-based collision detection and response between arbitrary volume objects
+We present a new image-based method to process contacts between objects bounded by triangular surfaces. Unlike previous methods, it relies on image-based volume minimization, which eliminates complex geometrical computations and robustly handles deep intersections.
+ The surfaces are rasterized in three orthogonal directions, and intersections are detected based on pixel depth and normal orientation. Per-pixel contact forces are computed and accumulated at the vertices. We show how to compute pressure forces which serve to minimize the intersection volume, as well as friction forces.
+ No geometrical precomputation is required, which makes the method efficient for both deformable and rigid objects. We demonstrate it on rigid, skinned, and particle-based physical models with detailed surfaces in contacts at interactive frame rates.

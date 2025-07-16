@@ -1,0 +1,15 @@
+Pathway recognition and augmentation by computational analysis of microarray expression data
+MOTIVATION
+We present a system, QPACA (Quantitative Pathway Analysis in Cancer) for analysis of biological data in the context of pathways. QPACA supports data visualization and both fine- and coarse-grained specifications, but, more importantly, addresses the problems of pathway recognition and pathway augmentation.
+
+
+RESULTS
+Given a set of genes hypothesized to be part of a pathway or a coordinated process, QPACA is able to reliably distinguish true pathways from non-pathways using microarray expression data. Relying on the observation that only some of the experiments within a dataset are relevant to a specific biochemical pathway, QPACA automates selection of this subset using an optimization procedure. We present data on all human and yeast pathways found in the KEGG pathway database. In 117 out of 191 cases (61%), QPACA was able to correctly identify these positive cases as bona fide pathways with p-values measured using rigorous permutation analysis. Success in recognizing pathways was dependent on pathway size, with the largest quartile of pathways yielding 83% success. In cross-validation tests of pathway membership prediction, QPACA was able to yield enrichments for predicted pathway genes over random genes at rates of 2-fold or better the majority of the time, with rates of 10-fold or better 10-20% of the time.
+
+
+AVAILABILITY
+The software is available for academic research use free of charge by email request.
+
+
+SUPPLEMENTARY INFORMATION
+Data used in the paper may be downloaded from http://www.jainlab.org/downloads.html

@@ -1,0 +1,2 @@
+Clique covering the edges of a locally cobipartite graph
+We prove that a locally cobipartite graph on n vertices contains a family of at most n cliques that cover its edges. This is related to Opsut's conjecture that states the competition number of a locally cobipartite graph is at most two.

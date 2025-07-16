@@ -1,0 +1,2 @@
+Matrix-vector multiplication by using pinhole holograms.
+Optical matrix-vector multiplication by using pinhole holograms fixed in a photorefractive crystal is experimentally demonstrated. This method offers the advantages of large holographic storage capacity and high-speed programmability. It can be useful in some expert systems that require only a finite number of large matrices to be updated quickly for high-speed matrix-vector multiplication.

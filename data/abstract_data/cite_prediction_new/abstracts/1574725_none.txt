@@ -1,0 +1,2 @@
+Virtues and Problems of an Active Help System for UNIX
+An empirical study undertaken on a cross-sectionof UNIX users at an academic site reveals a role for anactive form of help system, rather than the more usualpassive kind. Sample scripts supporting this view arepresented and the kind of aid required for theseexamples is discussed. It is then proposed that toprovide such aid requires the construction andmaintenance of an individual model of each user.

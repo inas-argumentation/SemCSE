@@ -1,0 +1,12 @@
+Tinkering with black boxes: counterfactuals uncover modularity in generative models
+Deep generative models such as Generative Adversarial Networks (GANs) and
+Variational Auto-Encoders (VAEs) are important tools to capture and investigate
+the properties of complex empirical data. However, the complexity of their inner
+elements makes their functionment challenging to assess and modify. In this
+respect, these architectures behave as black box models. In order to better
+understand the function of such networks, we analyze their modularity based on
+the counterfactual manipulation of their internal variables. Our experiments on the
+generation of human faces with VAEs and GANs support that modularity between
+activation maps distributed over channels of generator architectures is achieved
+to some degree, can be used to better understand how these systems operate and allow meaningful transformations of the generated images without further training.
+erate and edit the content of generated images.

@@ -1,0 +1,15 @@
+PhosphoPOINT: a comprehensive human kinase interactome and phospho-protein database
+MOTIVATION
+To fully understand how a protein kinase regulates biological processes, it is imperative to first identify its substrate(s) and interacting protein(s). However, of the 518 known human serine/threonine/tyrosine kinases, 35% of these have known substrates, while 14% of the kinases have identified substrate recognition motifs. In contrast, 85% of the kinases have protein-protein interaction (PPI) datasets, raising the possibility that we might reveal potential kinase-substrate pairs from these PPIs.
+
+
+RESULTS
+PhosphoPOINT, a comprehensive human kinase interactome and phospho-protein database, is a collection of 4195 phospho-proteins with a total of 15 738 phosphorylation sites. PhosphoPOINT annotates the interactions among kinases, with their down-stream substrates and with interacting (phospho)-proteins to modulate the kinase-substrate pairs. PhosphoPOINT implements various gene expression profiles and Gene Ontology cellular component information to evaluate each kinase and their interacting (phospho)-proteins/substrates. Integration of cSNPs that cause amino acids change with the proteins with the phosphoprotein dataset reveals that 64 phosphorylation sites result in a disease phenotypes when changed; the linked phenotypes include schizophrenia and hypertension. PhosphoPOINT also provides a search function for all phospho-peptides using about 300 known kinase/phosphatase substrate/binding motifs. Altogether, PhosphoPOINT provides robust annotation for kinases, their downstream substrates and their interaction (phospho)-proteins and this should accelerate the functional characterization of kinomemediated signaling.
+
+
+AVAILABILITY
+PhosphoPOINT can be freely accessed in http://kinase. bioinformatics.tw/.
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary data are available at Bioinformatics online.

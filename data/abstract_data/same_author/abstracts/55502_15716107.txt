@@ -1,0 +1,2 @@
+Performance Pathologies in Hardware Transactional Memory
+Transactional memory is a promising approach to ease parallel programming. Hardware transactional memory system designs reflect choices along three key design dimensions: conflict detection, version management, and conflict resolution. The authors identify a set of performance pathologies that could degrade performance in proposed HTM designs. Improving conflict resolution could eliminate these pathologies so designers can build robust HTM systems.

@@ -1,0 +1,2 @@
+Efficient freeform optics for street lighting applications
+The recent developments of our method to design two freeform optical surfaces (either refractive or reflective) using an optimized ray mapping computation are presented. The procedure is based on the Monge-Kantorovich theory of optimal mass transport, and the related conditions for an optimal mapping. The procedure is illustrated by designing an efficient street lighting lens, achieving an optical efficiency over 92% while at the same time producing a prescribed luminance pattern on the road.

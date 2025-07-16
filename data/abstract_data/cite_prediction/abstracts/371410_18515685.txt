@@ -1,0 +1,2 @@
+Robot Positioning Using Camera-Space Manipulation With a Linear Camera Model
+This paper presents a new version of the camera-space-manipulation method (CSM). The set of nonlinear view parameters of the classic CSM is replaced with a linear model. Simulations and experiments show a similar precision error for the two methods. However, the new approach is simpler to implement and is faster.

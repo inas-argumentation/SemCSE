@@ -1,0 +1,2 @@
+Text Classification Using Association Rules, Dependency Pruning and Hyperonymization
+We present new methods for pruning and enhancing itemsets for text classification via association rule mining. Pruning methods are based on dependency syntax and enhancing methods are based on replacing words by their hyperonyms of various orders. We discuss the impact of these methods, compared to pruning based on tfidf rank of words.

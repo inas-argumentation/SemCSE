@@ -1,0 +1,15 @@
+Screening a combinatorial peptide library to develop a human glandular kallikrein 2-activated prodrug as targeted therapy for prostate cancer.
+OBJECTIVE
+Prostate cancer cells secrete the unique protease human glandular kallikrein 2 (hK2) that represents a target for proteolytic activation of cytotoxic prodrugs. The objective of this study was to identify hK2-selective peptide substrates that could be coupled to a cytotoxic analogue of thapsigargin, a potent inhibitor of the sarcoplasmic/endoplasmic reticulum calcium ATPase pump that induces cell proliferation-independent apoptosis through dysregulation of intracellular calcium levels.
+
+
+METHODS
+To identify peptide sequence requirements for hK2, a combination of membrane-bound peptides (SPOT analysis) and combinatorial chemistry using fluorescence-quenched peptide substrates was used. Peptide substrates were then coupled to 8-O-(12[L-leucinoylamino]dodecanoyl)-8-O-debutanoylthapsigargin (L12ADT), a potent analogue of thapsigargin, to produce a prodrug that was then characterized for hK2 hydrolysis, plasma stability, and in vitro cytotoxicity.
+
+
+RESULTS
+Both techniques indicated that a peptide with two arginines NH2-terminal of the scissile bond produced the highest rates of hydrolysis. A lead peptide substrate with the sequence Gly-Lys-Ala-Phe-Arg-Arg (GKAFRR) was hydrolyzed by hK2 with a Km of 26.5 micromol/L, kcat of 1.09 s(-1), and a kcat/Km ratio of 41,132 s(-1) mol/L(-1). The GKAFRR-L12ADT prodrug was rapidly hydrolyzed by hK2 and was stable in plasma, whereas the GKAFRR-L peptide substrate was unstable in human plasma. The hK2-activated thapsigargin prodrug was not activated by cathepsin B, cathepsin D, and urokinase but was an excellent substrate for plasmin. The GKAFRR-L12ADT was selectively cytotoxic in vitro to cancer cells in the presence of enzymatically active hK2.
+
+
+CONCLUSION
+The hK2-activated thapsigargin prodrug represents potential novel targeted therapy for prostate cancer.

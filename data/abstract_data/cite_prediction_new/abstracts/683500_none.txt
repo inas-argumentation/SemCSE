@@ -1,0 +1,2 @@
+AUTOMATIC LOAD FREQUENCY CONTROL OF TWO AREA POWER SYSTEM WITH CONVENTIONAL AND FUZZY LOGIC CONTROL
+The paper presents the controllers to regulate the system frequency. The performance of the controller like PI and Fuzzy Logic are proposed and compared on two area of power system. Fuzzy Logic controllers are found better than the conventional method. Simulations have been performed using Matlab.

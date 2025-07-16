@@ -1,0 +1,4 @@
+An empirical analysis of the ECB quantitative easing programme
+On 22 January 2015, the ECB finally announced its expanded asset repurchase programme, better known as quantitative easing (ECB, 2015c). In this thesis, we are examining the effect of this announcement on sovereign bond yields in the Eurozone using the event study methodology and by time series forecasting (ARMA). We are particularly interested to see if there have been some abnormal variations (i.e. changes) in yields following the above-mentioned announcement. Furthermore, we also examine the announcement on 4 September 2014, during which the precursor programmes to QE were announced. 
+ 
+We found statistically and economically significant abnormal variations in yields for our event study across all investment grade euro area government bonds, i.e. yields have generally dropped following the announcements. The graphs we obtained using ARMA forecasting help illustrate this.

@@ -1,0 +1,2 @@
+Goal-oriented sequential pattern for network banking churn analysis
+Discovering sequential patterns is one of the most important task in data mining. In this paper we propose an efficient algorithm, called Goal-oriented sequential pattern. It can provide enterprises warning signs soon before they are losing valuable customers and give them reference for decision making. Experiments comparing Apriori showed that Goal-oriented is more efficient, and performs reasonably well for the rules.

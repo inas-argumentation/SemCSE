@@ -1,0 +1,2 @@
+Grey level thresholding using second-order statistics
+This letter describes algorithms for global thresholding of grey-tone images which use second-order grey level statistics. Two measures of interaction between classes of intensity levels are defined on simple co-occurance matrices and are used to evaluate and select thresholds. One of these measures is seen to be independent of the grey level histogram and effective in selecting thresholds for images with unimodal grey level distributions. The algorithms are also used for multithresholding without modifications.

@@ -1,0 +1,2 @@
+Superconcentrators of Depths 2 and 3; Odd Levels Help (Rarely)
+It is shown that the minimum possible number of edges in an n-superconcentrator of depth 3 is @Q(n log log n), whereas the minimum possible number of edges in an n-superconcentrator of depth 2 is @W(n(log n)^3^/^2) (and is O(n(log n)^2)).

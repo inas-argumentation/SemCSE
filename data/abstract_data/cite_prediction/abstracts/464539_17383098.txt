@@ -1,0 +1,15 @@
+3D vasculature segmentation using localized hybrid level-set method
+BACKGROUND
+Intensity inhomogeneity occurs in many medical images, especially in vessel images. Overcoming the difficulty due to image inhomogeneity is crucial for the segmentation of vessel image.
+
+
+METHODS
+This paper proposes a localized hybrid level-set method for the segmentation of 3D vessel image. The proposed method integrates both local region information and boundary information for vessel segmentation, which is essential for the accurate extraction of tiny vessel structures. The local intensity information is firstly embedded into a region-based contour model, and then incorporated into the level-set formulation of the geodesic active contour model. Compared with the preset global threshold based method, the use of automatically calculated local thresholds enables the extraction of the local image information, which is essential for the segmentation of vessel images.
+
+
+RESULTS
+Experiments carried out on the segmentation of 3D vessel images demonstrate the strengths of using locally specified dynamic thresholds in our level-set method. Furthermore, both qualitative comparison and quantitative validations have been performed to evaluate the effectiveness of our proposed model.
+
+
+CONCLUSIONS
+Experimental results and validations demonstrate that our proposed model can achieve more promising segmentation results than the original hybrid method does.

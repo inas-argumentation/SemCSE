@@ -1,0 +1,2 @@
+Formal methods for the specification and design of real-time safety critical systems
+Safety-critical computers increasingly affect nearly every aspect of our lives. Computers control the planes we fly on, monitor our health in hospitals and do our work in hazardous environments. Computers with software deficiencies that fail to meet stringent timing constraints have resulted in catastrophic failures. This article surveys formal methods for specifying, designing, and verifying real-time systems so as to improve their safety and reliability.

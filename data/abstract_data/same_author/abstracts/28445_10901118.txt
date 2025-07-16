@@ -1,0 +1,2 @@
+A modified BFKL equation with unitarity
+We propose a modified Balitskii-Fadin-Kuraev-Lipatov equation from the viewpoint of the resummation technique, which satisfies the unitarity bound. The idea is to relax the strong rapidity ordering and to restrict phase space for real gluon emissions in the evaluation of the BFKL kernel. It is found that the gluon distribution function rises as a power of the Bjorken variable $x$, and then saturates at $x\to 0$. We estimate that the saturation begins to occur for $x< 10^{-4}$.

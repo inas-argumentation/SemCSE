@@ -1,0 +1,7 @@
+Soap-HT-BLAST: high throughput BLAST based on Web services
+SUMMARY
+A high throughput Basic Local Alignment Search Tool (BLAST) system based on Web services is implemented. It provides an alternative BLAST service and allows users to perform multiple BLAST queries at one run in a distributed, parallel environment through the Internet.
+
+
+AVAILABILITY
+It is available at http://mammoth.bii.a-star.edu.sg/webservices/htblast/index.html and at http://www.bii.a-star.edu.sg/jiren/download.html

@@ -1,0 +1,4 @@
+TC0 Circuits for Algorithmic Problems in Nilpotent Groups
+Recently, Macdonald et. al. showed that many algorithmic problems for finitely generated nilpotent groups including computation of normal forms, the subgroup membership problem, the conjugacy problem, and computation of subgroup presentations can be done in LOGSPACE. Here we follow their approach and show that all these problems are complete for the uniform circuit class TC^0 - uniformly for all r-generated nilpotent groups of class at most c for fixed r and c. 
+ 
+Moreover, if we allow a certain binary representation of the inputs, then the word problem and computation of normal forms is still in uniform TC^0, while all the other problems we examine are shown to be TC^0-Turing reducible to the problem of computing greatest common divisors and expressing them as linear combinations.

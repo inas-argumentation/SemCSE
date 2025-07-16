@@ -1,0 +1,11 @@
+A fully Bayesian model to cluster gene-expression profiles
+MOTIVATION
+With cDNA or oligonucleotide chips, gene-expression levels of essentially all genes in a genome can be simultaneously monitored over a time-course or under different experimental conditions. After proper normalization of the data, genes are often classified into co-expressed classes (clusters) to identify subgroups of genes that share common regulatory elements, a common function or a common cellular origin. With most methods, e.g. k-means, the number of clusters needs to be specified in advance; results depend strongly on this choice. Even with likelihood-based methods, estimation of this number is difficult. Furthermore, missing values often cause problems and lead to the loss of data.
+
+
+RESULTS
+We propose a fully probabilistic Bayesian model to cluster gene-expression profiles. The number of classes does not need to be specified in advance; instead it is adjusted dynamically using a Reversible Jump Markov Chain Monte Carlo sampler. Imputation of missing values is integrated into the model. With simulations, we determined the speed of convergence of the sampler as well as the accuracy of the inferred variables. Results were compared with the widely used k-means algorithm. With our method, biologically related co-expressed genes could be identified in a yeast transcriptome dataset, even when some values were missing.
+
+
+AVAILABILITY
+The code is available at http://genome.tugraz.at/BayesianClustering/

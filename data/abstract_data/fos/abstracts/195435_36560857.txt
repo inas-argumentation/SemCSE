@@ -1,0 +1,2 @@
+SEU Hardened Placement and Routing Based on Slack Reduction
+This paper presents an SEU hardened placement and routing scheme targeted at an application specific integrated circuit. The proposed scheme reduces the positive slack so that the incorrect value caused by SEU in a flip-flop is less likely to be captured by a subsequent flip-flop. Experimental results demonstrate that the proposed scheme can not only reduce the SEU susceptibility of traditional non-hardened circuits but also improve the SEU resistance of hardened circuits further.

@@ -1,0 +1,2 @@
+Generalized cycle crossover for graph partitioning
+We propose a new crossover that generalizes cycle crossover to permutations with repetitions and naturally suits partition problems. We tested it on graph partitioning problems obtaining excellent results.

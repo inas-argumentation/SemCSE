@@ -1,0 +1,2 @@
+Application of parallel version two dimensional fast Fourier transform algorithm, analog of the Cooley Tukey algorithm, for digital image processing of satellite data
+In modern systems of remote sensing two dimensional fast Fourier transform (FFT) has been widely used for digital processing of satellite images and subsequent image filtering. This article provides a parallel version two dimensional fast Fourier transform algorithm, analog of the Cooley Tukey algorithm and its implementation for processing the satellite image of Krasnoyarsk and its suburban areas.

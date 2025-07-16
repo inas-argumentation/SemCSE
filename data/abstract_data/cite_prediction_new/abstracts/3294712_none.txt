@@ -1,0 +1,2 @@
+Block Ciphers : The Example of AES Seminar Report for Research Seminar in Cryptography
+It means that the function takes two inputs, one being a k-bit string and the other an n-bit string and returns an n-bit string [1]. The first input is called key and the second is called plaintext and the output is called ciphertext. The key-length k and the block-length n are the parameters associated with the block cipher. If the plaintext length is n, then the ciphertext length is n, respectively.

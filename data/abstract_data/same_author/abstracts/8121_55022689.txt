@@ -1,0 +1,2 @@
+Simulation study of electron response amplification in coherent electron cooling
+In Coherent Electron Cooling (CEC), it is essential to study the amplification of electron response to a single ion in the FEL process, in order to proper align the electron beam and the ion beam in the kicker to maximize the cooling effect. In this paper, we use Genesis to simulate the amplified electron beam response of single ion in FEL amplification process, which acts as Green's function of the FEL amplifier.

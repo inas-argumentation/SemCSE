@@ -1,0 +1,2 @@
+An Absolute Bound for the Size of Diophantine m-Tuples
+Abstract A set of m positive integers is called a Diophantine m -tuple if the product of its any two distinct elements increased by 1 is a perfect square. We prove that if { a ,  b ,  c } is a Diophantine triple such that b >4 a and c >max{ b 13 , 10 20 } or c >max{ b 5 , 10 1029 }, then there is unique positive integer d such that d > c and { a ,  b ,  c ,  d } is a Diophantine quadruple. Furthermore, we prove that there does not exist a Diophantine 9-tuple and that there are only finitely many Diophantine 8-tuples.

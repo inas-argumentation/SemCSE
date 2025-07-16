@@ -1,0 +1,2 @@
+Balancing Expression Dags for More Efficient Lazy Adaptive Evaluation
+Arithmetic expression dags are widely applied in robust geometric computing. In this paper we restructure expression dags by balancing consecutive additions or multiplications. We predict an asymptotic improvement in running time and experimentally confirm the theoretical results. Finally, we discuss some pitfalls of the approach resulting from changes in evaluation order.

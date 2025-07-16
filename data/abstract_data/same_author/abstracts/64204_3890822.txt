@@ -1,0 +1,2 @@
+Breast cancer identification: KDD CUP winner's report
+We describe the ideas and methodologies that we developed in addressing the KDD Cup 2008 on early breast cancer detection, and discuss how they contributed to our success. The most important components of our solution were 1) the identification of predictive information in the patient identifier, 2) a linear SVM on the 117 provided features, and 3) a heuristic post-processing approach to optimize the evaluation criteria.

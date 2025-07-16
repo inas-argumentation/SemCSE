@@ -1,0 +1,2 @@
+Comparative analysis of serial vs parallel links in NoC
+An analytical model is employed to characterize and compare serial and parallel communication techniques in NoC interconnects. Simulations that are based on 130 nm and 70 nm technology parameters reveal up to /spl times/5.5 and /spl times/17 reduction in power and area of serial vs. 32-bit multi-layer parallel links, respectively. Lower power is dissipated by a single-layer parallel link but it occupies a larger area. We conclude that long on-chip interconnects could benefit from serial links.

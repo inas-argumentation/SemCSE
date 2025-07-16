@@ -1,0 +1,2 @@
+Total Belief Theorem and Generalized Bayes' Theorem
+This paper presents two new theoretical contributions for reasoning under uncertainty: 1) the Total Belief Theorem (TBT) which is a direct generalization of the Total Probability Theorem, and 2) the Generalized Bayes' Theorem drawn from TBT. A constructive justification of Fagin-Halpern belief conditioning formulas proposed in the nineties is also given. We also show how our new approach and formulas work through simple illustrative examples.

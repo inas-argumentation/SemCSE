@@ -1,0 +1,2 @@
+Sketch-Driven Orthogonal Graph Drawing
+We present an orthogonal graph drawing algorithm that uses a sketchy drawing of the graph as input. While the algorithm produces an orthogonal drawing with few bends in the Kandinsky model it also preserves the general appearance of the sketch. Potential applications for this kind of drawing algorithm include the generation of schematic maps from geographic networks and interactive orthogonal graph drawing.

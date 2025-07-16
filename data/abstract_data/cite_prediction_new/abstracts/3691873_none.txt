@@ -1,0 +1,2 @@
+Easy and accurate empirical transistor model parameter estimation from vectorial large-signal measurements
+The standard empirical nonlinear model parameter estimation is often cumbersome as several measurement systems are involved. We show that the model generation complexity can be reduced tremendously by only using full two-port vectorial large-signal measurements. Furthermore, realistic operating conditions can easily be included in the optimisation procedure, as we illustrate on GaAs PHEMTs.

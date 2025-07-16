@@ -1,0 +1,2 @@
+Quantum-behaved particle swarm optimization with mutation operator
+The mutation mechanism is introduced into quantum-behaved particle swarm optimization to increase its global search ability and escape from local minima. Based on the characteristic of QPSO algorithm, the variable of gbest and mbest is mutated with Cauchy distribution respectively. The experimental results on test functions show that QPSO with gbest and mbest mutation both performs better than PSO and QPSO without mutation

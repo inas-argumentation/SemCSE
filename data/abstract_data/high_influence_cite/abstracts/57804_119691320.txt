@@ -1,0 +1,2 @@
+Parabolic Harnack inequality on fractal-type metric measure Dirichlet spaces
+This paper proves the strong parabolic Harnack inequality for local weak solutions to the heat equation associated with time-dependent (nonsymmetric) bilinear forms. The underlying metric measure Dirichlet space is assumed to satisfy the volume doubling condition, the strong Poincar\'e inequality, and a cutoff Sobolev inequality. The metric is not required to be geodesic. Further results include a weighted Poincar\'e inequality, as well as upper and lower bounds for non-symmetric heat kernels.

@@ -1,0 +1,2 @@
+On the pair correlations of powers of real numbers
+A classical theorem of Koksma states that for Lebesgue almost every $x>1$ the sequence $(x^n)_{n=1}^{\infty}$ is uniformly distributed modulo one. In the present paper we extend Koksma's theorem to the pair correlation setting. More precisely, we show that for Lebesgue almost every $x>1$ the pair correlations of the fractional parts of $(x^n)_{n=1}^{\infty}$ are asymptotically Poissonian. The proof is based on a martingale approximation method.

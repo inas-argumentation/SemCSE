@@ -1,0 +1,2 @@
+A Parallel Feature Tracker for Extended Image Sequences
+This paper presents a feature tracker for long image sequences based on simultaneously estimating the motions and deformations of a collection of adjacent image patches. By sharing common corner nodes, the patches achieve greater stability than independent patch trackers. Modeling full bilinear deformations enables tracking in sequences which have large nontranslational motions and/or foreshortening effects. We demonstrate the advantages of our technique with respect to previous algorithms using experimental results.

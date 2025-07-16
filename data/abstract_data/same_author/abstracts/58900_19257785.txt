@@ -1,0 +1,2 @@
+A self-adaptive mate selection model for genetic programming
+This paper documents new extensions to the selection model in genetic programming, designed to be analogous to the more complex behaviour of selection in natural evolution. Specifically, a negative assortative mating scheme is presented in conjunction with a model of psychological evolution, allowing the mating strategy to change throughout the evolutionary process. Results show that self-adaptive mate selection accelerates evolution for several well known test problems.

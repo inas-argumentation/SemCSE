@@ -1,0 +1,2 @@
+A complementary variant of Lemke's method for the linear complementary problem
+An algorithm for the linear complementarity problem is developed which uses principal pivots only. The algorithm is shown to be equivalent to Lemke's algorithm. The advantage of the proposed algorithm is that infeasibility tests may be made after each principal pivot. One such test is equivalent to a check whether the matrix satisfies the “plus” condition of copositive plus matrices or the condition of classL2 of Eaves.

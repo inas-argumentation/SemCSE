@@ -1,0 +1,7 @@
+MergeBERT: Program Merge Conflict Resolution via Neural Transformers
+Collaborative software development is an integral part of the modern software development life cycle, essential to the success of large-scale software projects. When multiple developers make concurrent changes around the same lines of code, a merge conflict may occur. 
+Such conflicts stall pull requests and continuous integration pipelines for hours to several days, seriously hurting developer productivity.
+
+In this paper, we introduce MergeBERT, a novel neural program merge framework based on the token-level three-way differencing and a transformer encoder model. Exploiting restricted nature of merge conflict resolutions, we reformulate the task of generating the resolution sequence as a classification task over a set of primitive merge patterns extracted from real-world merge commit data.
+
+Our model achieves 63--68\% accuracy of merge resolution synthesis, yielding nearly a 3$\times$ performance improvement over existing structured, and 2$\times$ improvement over neural program merge tools. Finally, we demonstrate that MergeBERT is sufficiently flexible to work with source code files in Java, JavaScript, TypeScript, and C\# programming languages, and can generalize zero-shot to unseen languages.

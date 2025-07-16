@@ -1,0 +1,15 @@
+Dose impact in radiographic lung injury following lung SBRT: Statistical analysis and geometric interpretation.
+PURPOSE
+To demonstrate a new method of evaluating dose response of treatment-induced lung radiographic injury post-SBRT (stereotactic body radiotherapy) treatment and the discovery of bimodal dose behavior within clinically identified injury volumes.
+
+
+METHODS
+Follow-up CT scans at 3, 6, and 12 months were acquired from 24 patients treated with SBRT for stage-1 primary lung cancers or oligometastic lesions. Injury regions in these scans were propagated to the planning CT coordinates by performing deformable registration of the follow-ups to the planning CTs. A bimodal behavior was repeatedly observed from the probability distribution for dose values within the deformed injury regions. Based on a mixture-Gaussian assumption, an Expectation-Maximization (EM) algorithm was used to obtain characteristic parameters for such distribution. Geometric analysis was performed to interpret such parameters and infer the critical dose level that is potentially inductive of post-SBRT lung injury.
+
+
+RESULTS
+The Gaussian mixture obtained from the EM algorithm closely approximates the empirical dose histogram within the injury volume with good consistency. The average Kullback-Leibler divergence values between the empirical differential dose volume histogram and the EM-obtained Gaussian mixture distribution were calculated to be 0.069, 0.063, and 0.092 for the 3, 6, and 12 month follow-up groups, respectively. The lower Gaussian component was located at approximately 70% prescription dose (35 Gy) for all three follow-up time points. The higher Gaussian component, contributed by the dose received by planning target volume, was located at around 107% of the prescription dose. Geometrical analysis suggests the mean of the lower Gaussian component, located at 35 Gy, as a possible indicator for a critical dose that induces lung injury after SBRT.
+
+
+CONCLUSIONS
+An innovative and improved method for analyzing the correspondence between lung radiographic injury and SBRT treatment dose has been demonstrated. Bimodal behavior was observed in the dose distribution of lung injury after SBRT. Novel statistical and geometrical analysis has shown that the systematically quantified low-dose peak at approximately 35 Gy, or 70% prescription dose, is a good indication of a critical dose for injury. The determined critical dose of 35 Gy resembles the critical dose volume limit of 30 Gy for ipsilateral bronchus in RTOG 0618 and results from previous studies. The authors seek to further extend this improved analysis method to a larger cohort to better understand the interpatient variation in radiographic lung injury dose response post-SBRT.

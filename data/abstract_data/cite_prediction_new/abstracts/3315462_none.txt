@@ -1,0 +1,2 @@
+The Steady State Behavior of (µ/µI, lambda)-ES on Ellipsoidal Fitness Models Disturbed by Noise
+The method of differential-geometry is applied for deriving steady state conditions for the (µ/µI, λ)-ES on the general quadratic test function disturbed by fitness noise of constant strength. A new approach for estimating the expected final fitness deviation observed under such conditions is presented. The theoretical results obtained are compared with real ES runs showing a surprisingly excellent agreement.

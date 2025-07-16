@@ -1,0 +1,2 @@
+An algorithm for straightening images of curved filamentous structures.
+Flexible filamentous structures are characterized by variable curvature in electron micrographs. This frequently prevents the direct application of three-dimensional reconstruction methods to helical filaments. An algorithm for straightening the images of such filaments is presented based upon an assumption of a normal mode of bending.

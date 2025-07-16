@@ -1,0 +1,2 @@
+Fake tweet buster: a webtool to identify users promoting fake news ontwitter
+We present the "Fake Tweet Buster" (FTB), a web application that identifies tweets with fake images and users that are consistently uploading and/or promoting fake information on Twitter. To do that we mix three techniques: (i) reverse image searching, (ii) user analysis and (iii) a crowd sourcing approach to detected that kind of malicious users on Twitter. Using that information we provide a credibility classification for the tweet and the user.

@@ -1,0 +1,2 @@
+Links between PPCA and subspace methods for complete Gaussian density estimation
+High-dimensional density estimation is a fundamental problem in pattern recognition and machine learning areas. In this letter, we show that, for complete high-dimensional Gaussian density estimation, two widely used methods, probabilistic principal component analysis and a typical subspace method using eigenspace decomposition, actually give the same results. Additionally, we present a unified view from the aspect of robust estimation of the covariance matrix

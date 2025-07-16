@@ -1,0 +1,2 @@
+DynaBone: dynamic defense using multi-layer Internet overlays
+DynaBone provides a dynamic defense against distributed denial-of-service attacks among private groups of networked systems. It uses multi-layer Internet overlays to apply encryption, routing, and configuration diversity, providing multiple alternate networks over which traffic is automatically routed. The DynaBone software has been implemented and demonstrated to utilize as many as 50 concurrent interior networks, while providing a single network view to the end systems and applications.

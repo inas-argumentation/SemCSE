@@ -1,0 +1,2 @@
+Security standards taxonomy for Cloud applications in Critical Infrastructure IT
+The trend of using the Cloud will soon reach Critical Infrastructure (CI) IT. Due to the lack of relevant taxonomies and criteria catalogs, it is often difficult for software development teams who work in the CI and cloud domain to adopt the right standard or tool for the context at hand. This work motivates the investigation of the applicability of software security standards and tools for CI IT, outlines the relevant security issues and investigates gaps in existing work on this topic.

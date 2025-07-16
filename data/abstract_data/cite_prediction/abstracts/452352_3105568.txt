@@ -1,0 +1,2 @@
+Collaborative Filtering Similarity Algorithm Using Common Items
+Collaborative filtering (CF) plays an important role in reducing information overload by providing personalized services. CF is widely applied, but common items are not taken account in the similarity algorithm, which reduces the recommendation effect. To address this issue, we propose several methods to improve the similarity algorithm by considering common items, and apply the proposed methods to CF recommender systems. Experiments show that our methods demonstrate significant improvements over traditional CF.

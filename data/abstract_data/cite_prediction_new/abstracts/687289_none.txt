@@ -1,0 +1,11 @@
+The C. elegans Glycopeptide Hormone Receptor Ortholog, FSHR-1, Regulates Germline Differentiation and Survival
+BACKGROUND
+The mammalian glycopeptide hormone receptors (GPHRs) are key regulators of reproductive development, and their homologs are widely distributed throughout the animal kingdom. The C. elegans genome encodes a single GPHR family member, FSHR-1, which shares equal identity to the FSH, LH, and TSH receptors from mammals.
+
+
+RESULTS
+Because loss of fshr-1 function does not produce a visible phenotype in C. elegans, we conducted a genome-wide RNAi-feeding screen to identify genes that perform functions that overlap with those of fshr-1. This approach led to the identification of the PUF family members fbf-1 and fbf-2 (the fbfs). Whereas a weak reduction in fbf activity caused little or no discernable effect in the wild-type, an equivalent loss in the fshr-1(0) mutant background resulted in a highly penetrant germline-masculinization phenotype. Furthermore, many fshr-1(0);fbf(RNAi) animals failed to maintain a germline stem cell niche. We also show that fshr-1 and the fbfs promote germline survival and prevent apoptosis with fog-1 and fog-3 and that simultaneous loss of fshr-1 and the fbfs can override the canonical requirement for fog-1 and fog-3 in the execution of the male-germline fate. Finally, we provide evidence that FSHR-1 controls germline processes nonautonomously via the soma and that FSHR-1 acts through a canonical signaling pathway involving Galpha(s) and adenyl cyclase.
+
+
+CONCLUSIONS
+Our results indicate a conserved role for GPHR family receptors in controlling germline development and fertility. Our data suggest a model whereby FSHR-1 signaling acts in parallel to the known sex-determination pathway to control multiple aspects of germline development.

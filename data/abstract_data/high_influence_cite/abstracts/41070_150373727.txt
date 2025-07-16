@@ -1,0 +1,2 @@
+Single site factors of Gibbs measures
+It has been an open problem to identify classes of Gibbs measures less regular then Holder continuous on the full shift which are closed under factor maps. In this article we show that in fact all of the classical uniqueness regimes (Bowen, Walters, and Holder) from thermodynamic formalism are closed under factor maps between full shifts. In fact we show more generally that the classical uniqueness regimes are closed under factors between shifts of finite type provided the factor map satisfies a suitable mixing in fibers condition.

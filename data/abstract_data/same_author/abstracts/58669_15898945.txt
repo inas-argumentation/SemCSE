@@ -1,0 +1,2 @@
+Enacting and Deacting Roles in Agent Programming
+In the paper we study the dynamics of roles played by agents in multiagent systems. We capture role dynamics in terms of four operations performed by agents: ‘enactment', ‘deactment', ‘activate', and ‘deactivate'. The use of these operations is motivated, in particular for open systems. A formal semantics for these operations is provided. This formalization is aimed at serving as a basis for implementation of role dynamics in an agent programming language such as 3APL.

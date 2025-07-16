@@ -1,0 +1,15 @@
+Role of Myeloma-Derived MIF in Myeloma Cell Adhesion to Bone Marrow and Chemotherapy Response.
+BACKGROUND
+Multiple myeloma (MM) remains an incurable cancer characterized by accumulation of malignant plasma cells in the bone marrow (BM). The mechanism underlying MM homing to BM is poorly elucidated.
+
+
+METHODS
+The clinical significance of migration inhibitory factor (MIF) expression was examined by analyzing six independent gene expression profile databases of primary MM cells using the Student's t test and Kaplan-Meier test. Enzyme-linked immunosorbent assay was used to examine MIF expression. In vivo bioluminescent imaging was used to determine MM cell localization and treatment efficacy in human MM xenograft mouse models, with three to four mice per group. MM cell attachment to BM stromal cells (BMSCs) was monitored by cell adhesion assay. MIF regulation of the expression of adhesion molecules was determined by chromatin immunoprecipitation (ChIP) assay. Statistical tests were two-sided.
+
+
+RESULTS
+High levels of MIF were detected in MM BM (MIF level in BM plasma: healthy = 10.72 ± 5.788 ng/mL, n = 5; MM = 1811 ± 248.7 ng/mL, n = 10; P < .001) and associated with poor survival of patients (Kaplan-Meier test for MM OS: 87 MIF(high) patients, 86 MIF(low) patients, P = .02). Knocking down MIF impaired MM cell adhesion to BMSCs in vitro and led to formation of extramedullary tumors in SCID mice. MIF acted through surface receptor CXCR4 and adaptor COPS5 to regulate the expression of adhesion molecules ALCAM, ITGAV, and ITGB5 on MM cells. More importantly, MIF-deficient MM cells were sensitive to chemotherapy in vitro when cocultured with BMSCs and in vivo. MIF inhibitor 4-IPP sensitized MM cells to chemotherapy.
+
+
+CONCLUSIONS
+MIF is an important player and a novel therapeutic target in MM. Inhibiting MIF activity will sensitize MM cells to chemotherapy.

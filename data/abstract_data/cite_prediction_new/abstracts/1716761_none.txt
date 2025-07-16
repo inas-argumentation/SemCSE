@@ -1,0 +1,2 @@
+Discrete Time Linear Quadratic Control With Arbitrary Correlated Noise
+In this technical note a control problem for a discrete time linear stochastic system with a general correlated noise process and a cost functional that is quadratic in the system state and the control is solved. An optimal control is given explicitly as the sum of the well known linear feedback control for the associated deterministic linear-quadratic control problem and the prediction of the response of a system to the future noise process. The optimal cost is also given explicitly.

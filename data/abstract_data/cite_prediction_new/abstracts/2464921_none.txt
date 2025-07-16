@@ -1,0 +1,2 @@
+Switching sequences for a systematic error compensation in unary DACs
+In this paper switching sequences for a systematic error compensation in unary Digital-to-Analog Converters (DACs) are discussed. An efficiency of some switching sequences was simulated using MATLAB. The simulation results showed a correlation between switching sequence type and integral and differential nonlinearities (INL, DNL) reduction.

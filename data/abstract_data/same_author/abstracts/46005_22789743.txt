@@ -1,0 +1,2 @@
+New Applications of the Incompressibility Method
+The incompressibility method is an elementary yet powerful proof technique based on Kolmogorov complexity [13]. We show that it is particularly suited to obtain average-case computational complexity lower bounds. Such lower bounds have been difficult to obtain in the past by other methods. In this paper we present four new results and also give four new proofs of known results to demonstrate the power and elegance of the new method.

@@ -1,0 +1,15 @@
+Weighted cross-correlation based variational optical flow for gastric flow analysis in ultrasonic videos.
+PURPOSE
+Estimating the fluid motion in ultrasonic videos is a crucial step in the analysis of duodenogastric reflux. Severe image noise and illumination changes in the pyloric region (the region of interest) challenge the accurate estimation of gastric flow. In this paper, the authors propose an illumination-robust optical flow method based on the weighted cross-correlation.
+
+
+METHODS
+Cross-correlation was combined with the variational optical method framework as an illumination-robust local feature identifier. In consideration of accuracy near edges, they constructed visual similarity weights according to the characteristics of ultrasonic images. A processing procedure containing coarse-to-fine step and refinement was designed to get the final results. They tested the proposed method on synthetic and real ultrasonic images and compared it with other three optical flow methods. For quantitative evaluation, two metrics of angular and amplitude error were used.
+
+
+RESULTS
+The synthetic results demonstrate that the proposed method performs better on ultrasonic images, with angular error of 4.1° and amplitude error of 3.3%. In qualitative comparison, the proposed method kept the motion field smooth in the homogeneous region while preserving edge information. When they used the results of the proposed method to judge the gastric flow direction, the automatic judgments agreed well with visual observation.
+
+
+CONCLUSIONS
+The proposed method is a good tool for image velocimetry in ultrasonic images. It provides promising results to estimate the motion of gastric flow in ultrasonic videos.

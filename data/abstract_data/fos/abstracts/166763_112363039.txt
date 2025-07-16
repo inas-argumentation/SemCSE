@@ -1,0 +1,2 @@
+Sensitive charge amplifier for MWPC in particle track system
+In particle track system in Beijing, the signal from Multi-Wire Proportional Chamber(MWPC) is measured for obtaining the track of particle. Charge amplifier is an important component of this system. It can amplify and shape the small signal from MWPC before CIA(Charge Integrating ADC) converts it. The amplifier contains amplifying stage and shaping stage, and can convert the small signal from MWPC to large one whose width is 600ns.

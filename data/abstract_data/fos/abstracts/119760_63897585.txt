@@ -1,0 +1,2 @@
+Application of Genetic Algorithms in Optimization Problem
+Using a genetic algorithm to solve the optimization problem,its essence is the physical mathematics,is about optimization problem into solving the problem of the optimal solution of the objective function.Since genetic algorithm is able to overcome many of the limitations of the continuity and derivability of the objective function,cause it to have ability of solving the global optimum solution.Introduces genetic algorithm in well placement optimization,and optimizes the number of well through maximizing NPV.

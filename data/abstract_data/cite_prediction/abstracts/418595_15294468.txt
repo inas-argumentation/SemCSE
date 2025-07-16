@@ -1,0 +1,2 @@
+An Open Benchmark Suite for Evaluating Computer Architecture on Bioinformatics and Life Science Applications
+In this paper, we propose BIOPERF, a definitive benchmark suite of representative applications from the biology and life sciences community, where the codes are carefully selected to span a breadth of algorithms and performance characteristics. The BIOPERF suite is available from www.bioperf. org and includes benchmark source code, input datasets of various sizes, and information for compiling and using the benchmarks. We include parallel codes where available.

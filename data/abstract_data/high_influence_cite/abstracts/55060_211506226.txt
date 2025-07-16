@@ -1,0 +1,2 @@
+Two arithmetic applications of perturbations of composition operators.
+We estimate the spectral radius of perturbations of a particular family of composition operators, in a setting where the usual choices of norms do not account for the typical size of the perturbation. We apply this to estimate the growth rate of large moments of a Thue-Morse generating function and of the Stern sequence. This answers in particular a question of Mauduit, Montgomery and Rivat (2018).

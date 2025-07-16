@@ -1,0 +1,12 @@
+e-Infrastructures in IT: A case study on Indian national grid computing initiative – GARUDA
+National Governments are realizing the importance of new e-infrastructures to enable scientific progress
+ and enhance research competitiveness. Making e-infrastructures available to the research community is crucial
+ and is important to researchers and development teams in India. C-DAC launched the Indian National Grid
+ Computing Initiative-GARUDA with the support of Government of India. GARUDA is a collaboration of
+ science researchers and experimenters, on a nationwide grid of computational nodes, mass storage and
+ scientific instruments. GARUDA aims to provide the technological development required to enable data and
+ compute intensive, collaborative applications for the 21st century. In the PoC Phase of this project, a nation-wide
+ grid test bed was enabled to its partners. In GARUDA Foundation Phase, an open standards based production
+ grid, i.e. both a service grid as-well-as interoperable grid is built and enabled. Partners are grid
+ enabling applications of societal and national importance. The authors in this paper present the GARUDA
+ architecture, its evolution, the applications, and the deliverables of the project.

@@ -1,0 +1,2 @@
+Using Pentangular Factorizations for the Reduction to Banded Form
+Most methods for computing the singular value decomposition (SVD) first bidiagonalize the matrix. The ScaLAPACK implementation of the blocked reduction of a general dense matrix to bidiagonal form performs about one half of the operations with BLAS3. If we subdivide the task into two stages dense ? banded and banded ? bidiagonal, we can increase the portion of matrix-matrix operations and expect higher performance. We give an overview of different techniques for the first stage.

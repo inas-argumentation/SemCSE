@@ -1,0 +1,2 @@
+A Java Interface for WMPI
+Traditionally, parallel programs have been developed in Fortran and C. However, the extraordinary success of the Java language has raised an impressive hype among the community of software programmers, in such a way that it seems quite promising that parallel programmers could also use Java in their applications.

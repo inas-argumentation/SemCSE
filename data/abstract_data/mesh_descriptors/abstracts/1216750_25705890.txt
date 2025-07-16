@@ -1,0 +1,15 @@
+[CT subtraction angiography (CTSA). Results with an automated "elastic" subtraction algorithm].
+PURPOSE
+To develop and implement a method to obtain digital subtraction (DS) spiral computed tomography angiograms (SCTA) in order to avoid superimposition of bony structures and vascular calcifications on SCTA maximum intensity projections (MIPs) and shaded surface display (SSD).
+
+
+METHOD
+Two SCTA data sets, one before and one during the injection of a contrast agent bolus, were obtained with identical scan parameters. Since ordinary subtraction of the two data sets fails to reliably separate bones and calcifications from the vascular lumen because of motion, a so-called elastic subtraction procedure was designed to correct 3D misregistration between the two data sets. It automatically accommodates for local position changes between baseline and contrast images, including regionally inconsistent non-linear displacements and arbitrary rotations. This method was tested in seven patients and evaluated against ordinary DS in terms of image quality and artifacts.
+
+
+RESULTS
+In all patients "elastic" CTSA proved superior to ordinary DS. It provides automated and reliable separation of vessels from bones and calcifications. This improves the delineation of vessels in the neck and the skull base and of intracranial vessels. DS-SCTA facilitates MIPs and SSD without artifacts introduced by thresholding.
+
+
+CONCLUSION
+Elastic DS-SCTA is a robust method for automated unmasking of vessels from bones and warrants clinical trials and comparison with MR- and conventional angiography.

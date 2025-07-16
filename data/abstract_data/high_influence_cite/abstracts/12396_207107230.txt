@@ -1,0 +1,2 @@
+Annular and sectorial sparsity in optimal control of elliptic equations
+Optimal control problems are considered with linear elliptic equations in polar coordinates. The objective contains $$L^1$$L1-type norms, which promote sparse optimal controls. The particular iterated structure of these norms gives rise to either annular or sectorial sparsity patterns. Optimality conditions and numerical solution approaches are developed.

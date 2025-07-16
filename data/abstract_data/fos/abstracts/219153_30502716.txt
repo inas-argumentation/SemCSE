@@ -1,0 +1,15 @@
+Potential of high-Z contrast agents in clinical contrast-enhanced computed tomography.
+PURPOSE
+Currently, only iodine- and barium-based contrast media (CM) are used in clinical contrast-enhanced computed tomography (CE-CT). High-Z metals would produce a higher contrast at equal mass density for the x-ray spectra used in clinical CT. Using such materials might allow for significant dose reductions in CE-CT. The purpose of this study was to quantify the potential for dose reduction when using CM based on heavy metals.
+
+
+METHODS
+The contrast-to-noise ratio weighted by dose (CNRD) was determined as a function of scan protocol by means of measurements and simulations on a clinical CT scanner. For simulations, water cylinders with diameters 160, 320, 480, and 640 mm were used to cover a broad range of patient sizes. Measurements were conducted with 160 and 320 mm water-equivalent plastic cylinders. A central bore of 13 mm diameter was present in all phantoms. The tube voltage was varied from 80 to 140 kV for measurements and from 60 to 180 kV for simulations. Additional tin filtration of thicknesses 0.4, 0.8, and 1.2 mm was applied in the simulation to evaluate a range of spectral hardness. The bore was filled with a mixture of water and 10 mg/ml of pure iodine, holmium, gadolinium, ytterbium, osmium, tungsten, gold, and bismuth for the simulations and with aqueous solutions of ytterbium, tungsten, gold, and bismuth salts as well as Iopromid containing 10 mg/ml of the pure materials for the measurements. CNRDs were compared to iodine at phantom size-dependent reference voltages for all high-Z materials and the resulting dose reduction was calculated for equal contrast-to-noise ratio.
+
+
+RESULTS
+Dose reduction potentials strongly depended on phantom size, spectral hardness, and tube voltage. Depending on the added filtration, a dose reduction of 19%-60% could be reached at 80 kV with gadolinium for the 160 mm phantom, 52%-69% at 100 kV with holmium for the 320 mm phantom, 62%-78% with 120 kV for hafnium and the 480 mm phantom and 74%-86% with 140 kV for gold and the 640 mm phantom. While gadolinium might be considered at 160 mm diameter, hafnium showed the best overall performance for phantom sizes of 320 mm and above. The measurements conducted on the clinical CT scanner showed very good agreement with simulations with deviations in the order of 5 to 10%.
+
+
+CONCLUSIONS
+The results of this study encourage the development and use of CM based on high-Z materials, especially for adipose patients, where high tube voltages are necessary to reach sufficiently short scan times. Hafnium proved to be the best compromise for average-size and for adipose patients. Even higher-Z materials such as gold and bismuth showed a good overall performance in conjunction with high tube voltage, large patients or strong added filtration and may be recommended for scans under these conditions.

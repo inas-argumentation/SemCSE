@@ -1,0 +1,12 @@
+Estimation of weight percentage of scabby wheat kernels using an automatic machine vision and neural network based system
+In examining the quality of wheat for pricing purposes, or the scab–resistance of wheat as required for breeding 
+research, it is important to rapidly determine the weight percentage of scabby kernels (WPSK). This study involved 
+development of an automatic system to perform such tasks. This system is based on the color features of scabby kernels 
+captured by a machine vision system. The color features were processed to produce numerical values that were correlated 
+to WPSK using a neural network. Schemes were developed to synchronize an automatic sample feeder with image capturing, 
+followed by automatic image processing and neural network computing. Wheat kernels were distributed in a single layer for 
+image capturing, which minimized the random errors caused by overlapping of kernels and eliminated the need to acquire 
+multiple images to represent a single sample when kernels are distributed in multiple overlapping layers. Statistical analysis 
+indicates that the correlation coefficient between estimated WPSK and actual WPSK was 0.96, with a mean absolute error 
+of 1.32% and maximum absolute error of 5.22%. The system could be stabilized through an online color–compensation 
+procedure that dealt with illumination variations.

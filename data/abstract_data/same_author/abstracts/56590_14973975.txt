@@ -1,0 +1,2 @@
+Towards a privacy measurement criterion for voting systems
+This paper provides a definition for perfect privacy in electronic and other voting systems, and an entropy-based criterion to measure the deviation from perfect privacy. Its use is illustrated with examples.

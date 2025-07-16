@@ -1,0 +1,2 @@
+A simple and efficient finite element for plate bending
+A simple and efficient finite element is introduced for plate bending applications. Bilinear displacement and rotation functions are employed in conjunction with selective reduced integration. Numerical examples indicate that, despite its simplicity, the element is surprisingly accurate.

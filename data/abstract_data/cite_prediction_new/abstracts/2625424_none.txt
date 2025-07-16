@@ -1,0 +1,2 @@
+Stability of discretizations of the Stokes problem on anisotropic meshes
+Anisotropic features of the solution of flow problems are usually approximated on anisotropic (large aspect ratio) meshes. This paper reviews stability results of several velocity-pressure pairs with respect to growing aspect ratio of the elements in the mesh. For further pairs numerical tests are described. Related results are mentioned.

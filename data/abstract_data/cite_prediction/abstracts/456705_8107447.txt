@@ -1,0 +1,2 @@
+Reliable Event Dissemination in Dynamic Distributed Systems
+The proposed research addresses the problem of communicating events in a reliable and efficient manner between the producing and consuming devices. To do so, we will focus on the publish/subscribe paradigm. Commonly, this model has assumed a static topology of brokers that optimize event dissemination. The next step is to relax the conditions of the broker network in order to include fault tolerance and mobility in its elements, developing and validating new algorithms for highly dynamic publish/subscribe systems.

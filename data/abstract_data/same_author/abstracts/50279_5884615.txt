@@ -1,0 +1,6 @@
+The Directed Planar Reachability Problem
+We investigate the s-t-connectivity problem for directed planar graphs, which is hard for L and is contained in NL but is not known to be complete. We show that this problem is logspace-reducible to its complement, and we show that the problem of searching graphs of genus 1 reduces to the planar case. 
+ 
+We also consider a previously-studied subclass of planar graphs known as grid graphs. We show that the directed planar s-t-connectivity problem reduces to the reachability problem for directed grid graphs. 
+ 
+A special case of the grid-graph reachability problem where no edges are directed from right to left is known as the “layered grid graph reachability problem”. We show that this problem lies in the complexity class UL.

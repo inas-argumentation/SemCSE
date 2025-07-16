@@ -1,0 +1,2 @@
+Occlusion Robust Adaptive Template Tracking
+We propose a new method for tracking rigid objects in image sequences using template matching. A Kalman filter is used to make the template adapt to changes in object orientation or illumination. This approach is novel since the Kalman filter has been used in tracking mainly for smoothing the object trajectory. The performance of the Kalman filter is further improved by employing a robust and adaptive filtering algorithm. Special attention is paid to occlu sion handling.

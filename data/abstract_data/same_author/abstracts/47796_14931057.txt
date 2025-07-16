@@ -1,0 +1,2 @@
+Efficient Approximation Algorithms for Tiling and Packing Problems with Rectangles
+We provide improved approximation algorithms for several rectangle tiling and packing problems (RTILE, DRTILE, and d-RPACK) studied in the literature. Most of our algorithms are highly efficient since their running times are near-linear in the sparse input size rather than in the domain size. In addition, we improve the best known approximation ratios.

@@ -1,0 +1,15 @@
+[Wavefront analysis for the diagnosis of subclinical keratoconus].
+BACKGROUND
+The entity of subclinical keratoconus (SKC) has not been defined sufficiently yet. The aim of the study was to describe ocular wavefront aberrations of clinically inconspicuous fellow eyes in patients with early keratoconus (KC) as a model of SKC and to assess the feasibility of higher-order wavefront analysis to discriminate eyes with SKC from normal eyes.
+
+
+METHODS
+This prospective study included eight clinically inconspicuous fellow eyes of eight patients with newly detected KC in the contralateral eye and a paracentral inferior-superior difference (PISD) <1.4 D. In total, 15 eyes of 12 patients with newly diagnosed KC and a PISD >1.4 D were included as positive controls and 71 healthy eyes of 40 patients served as negative controls. The wavefront error was measured in all eyes with a Hartmann-Shack sensor. Discriminant analysis was performed with input from ocular HOA data and PISD. Receiver operating characteristic (ROC) curves were plotted for PISD, single Zernike coefficients, and for the output values of the discriminant functions to investigate their usefulness for discrimination between SKC eyes, early KC eyes, and healthy controls.
+
+
+RESULTS
+There were significant differences between inconspicuous fellow eyes (group 2) and controls (group 3) for PISD, for the coefficients Z3(-3), Z3(-1), Z4(0) and Z5(-1), and for the output values of the discriminant functions. The latter discriminated between groups 2 and 3 with maximum sensitivity and specificity (A(z) ROC=1), whereas discriminative ability was considerably lower for single Zernike coefficients.
+
+
+CONCLUSION
+Single Zernike coefficients did not appear to be useful for the detection of SKC. Using discriminant analysis, from PISD and higher-order Zernike coefficients a metric with very high discriminative ability between normal and SKC eyes could be constructed.

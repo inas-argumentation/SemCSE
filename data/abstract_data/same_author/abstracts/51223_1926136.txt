@@ -1,0 +1,2 @@
+On the Complexity of Optimization Problems for 3-dimensional Convex Polyhedra and Decision Trees
+We show that several well-known optimization problems involving 3-dimensional convex polyhedra and decision trees are NP-hard or NP-complete. One of the techniques we employ is a linear-time method for realizing a planar 3-connected triangulation as a convex polyhedron, which may be of independent interest.

@@ -1,0 +1,2 @@
+Distributed Formation Control While Preserving Connectedness
+This paper addresses the connectedness issue in multi-agent coordination, i.e. the problem of ensuring that the group stays connected while achieving some performance objective. In particular, we continue our previous work on rendezvous control and extend it to the formation control problem over dynamic interaction graphs. By adding appropriate weights to the edges in the graphs, we guarantee that the graphs stay connected, while achieving the desired formations

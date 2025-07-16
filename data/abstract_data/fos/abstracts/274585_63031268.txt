@@ -1,0 +1,2 @@
+Multi-channel Media Access Control Protocol for Wireless Sensor Networks
+Based on the present MAC protocols for wireless sensor networks and Ad-hoc networks and taken into account the restrictions in wireless sensor networks and the characteristic of the multi-channel communication.This paper proposes a simple and effective Multi-Channel MAC protocol for wireless sensor network.The simulation result shows that protocol improves throughput and energy efficiency,at the same time,prolongs the network lifetime.

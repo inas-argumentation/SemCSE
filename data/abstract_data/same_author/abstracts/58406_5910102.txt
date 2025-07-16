@@ -1,0 +1,2 @@
+A two level finite difference scheme for one dimensional Pennes' bioheat equation
+We develop a new two level finite difference scheme for the 1D Pennes' bioheat equation. We further prove that the scheme is stable and convergent unconditionally. Numerical experiments for a skin-heating model are conducted.

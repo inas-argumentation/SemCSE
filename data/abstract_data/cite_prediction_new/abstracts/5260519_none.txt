@@ -1,0 +1,2 @@
+Towards automated classification of fine-art painting style: A comparative study
+This paper presents a comparative study of different classification methodologies for the task of fine-art genre classification. 2-level comparative study is performed for this classification problem. 1st level reviews the performance of discriminative vs. generative models while 2nd level touches the features aspect of the paintings and compares semantic-level features vs low-level and intermediate level features present in the painting.

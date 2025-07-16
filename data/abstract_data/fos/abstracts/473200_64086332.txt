@@ -1,0 +1,2 @@
+An Algorithm for Mining Maximal Frequent Sequences
+Discovering the maximal frequent sequence is an important branch in data mining. An new algorithm, named MAXSeq, for mining maximal frequent sequences is proposed. The algorithm uses a new checking scheme, which directly checks whether the current sequence is MAX or not without the candidate maintenance. Thus that consumes less memory than the previous algorithms. Moreover, the times of database scanning and the number of potential maximal sequence are greatly decreased by using the optimization strategy.

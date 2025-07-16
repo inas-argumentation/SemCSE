@@ -1,0 +1,2 @@
+UPPAAL in 1995
+Uppaal is a tool suite for automatic verification of safety and bounded liveness properties of real-time systems modeled as networks of timed automata [12, 9, 4], developed during the past two years. In this paper, we summarize the main features of Uppaal in particular its various extensions developed in 1995 as well as applications to various case-studies, review and provide pointers to the theoretical foundation.

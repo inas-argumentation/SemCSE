@@ -1,0 +1,2 @@
+Datagram Construction in Embedded UDP Server
+In the embedded UDP server,two operations dominate the time required to process packets: copying the data and compuing the UDP checksum.In this paper,a datagram construction algorithm based on the VHDL is presented after describing a construction scheme.The time spent in copying the data and calculating the checksum is reduced with the efficient high-speed data flow processing algorithm.It can be used in the embedded UDP server very well.

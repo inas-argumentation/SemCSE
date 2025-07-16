@@ -1,0 +1,2 @@
+Queueing Network Modeling of Computer Communication Networks
+The application of queueing network models to the performance analysis of messageswitched (or packet-switched) commumcatmn networks m surveyed. The main topics covered are the analysis of end-to-end delay and the analysis of buffer management schemes. A brief discussmn on flow control is also included. A queueing network model is developed for a simple user-resource network. The mean response time of a host computer m this network is illustrated by a numerical example.

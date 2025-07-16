@@ -1,0 +1,2 @@
+INSPIRE: an interactive image assisted non-photorealistic rendering system
+We present a GPU supported interactive non-photorealistic rendering system, INSPIRE, which performs feature extraction in both image space, on intermediately rendered images, and object space, on models of various representations, e.g., point, polygon, or hybrid models, without needing connectivity information. INSPIRE obtains interactive NPR rendering with most styles of existing NPR systems, but offers more flexibility on model representations and compromises little on rendering speed.

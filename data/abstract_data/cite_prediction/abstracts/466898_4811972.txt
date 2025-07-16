@@ -1,0 +1,2 @@
+Variational Composite Autoencoders
+Learning in the latent variable model is challenging in the presence of the complex data structure or the intractable latent variable. Previous variational autoencoders can be low effective due to the straightforward encoder-decoder structure. In this paper, we propose a variational composite autoencoder to sidestep this issue by amortizing on top of the hierarchical latent variable model. The experimental results confirm the advantages of the proposed method.

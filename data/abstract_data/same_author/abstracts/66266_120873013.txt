@@ -1,0 +1,2 @@
+On the small sieve. II. sifting by composite numbers
+For any set A of natural numbers let F(x, A) denote the number of natural numbers up to x that are divisible by no element of A and let H(x, K) be the maximum of F(x, A) when A runs over the sets not containing 1 and having a sum of reciprocals not greater than K. A logarithmic asymptotic formula is given for H(x, K)—in particular it shows H(x, K) K0(e)—and some related problems are discussed.

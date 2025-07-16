@@ -1,0 +1,8 @@
+Diminishing Batch Normalization
+In this paper, we propose a generalization of the BN algorithm, diminishing batch normalization (DBN), where we update the BN parameters in a diminishing moving average way. Batch normalization (BN) is very effective in accelerating the convergence of a neural network training phase that it has become a common practice. 
+Our proposed DBN algorithm remains the overall structure of the original BN algorithm while introduces a weighted averaging update to some trainable parameters. 
+We provide an analysis of the convergence of the DBN algorithm that converges to a stationary point with respect to trainable parameters. Our analysis can be easily generalized for original BN algorithm by setting some parameters to constant. To the best knowledge of authors, this analysis is the first of its kind for convergence with Batch Normalization introduced. We analyze a two-layer model with arbitrary activation function. 
+The primary challenge of the analysis is the fact that some parameters are updated by gradient while others are not. 
+The convergence analysis applies to any activation function that satisfies our common assumptions.
+For the analysis, we also show the sufficient and necessary conditions for the stepsizes and diminishing weights to ensure the convergence. 
+In the numerical experiments, we use more complex models with more layers and ReLU activation. We observe that DBN outperforms the original BN algorithm on Imagenet, MNIST, NI and CIFAR-10 datasets with reasonable complex FNN and CNN models.

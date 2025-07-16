@@ -1,0 +1,2 @@
+Semantics of declarative goals in agent programming
+This paper addresses the notion of declarative goals as used in agent programming. Declarative goals describe desirable states, and semantics of these goals in an agent programming context can be defined in various ways. This paper defines two semantics for goals, with one based on default logic. The semantics are partly motivated by an analysis of other proposals that have been done in the literature. Further, we establish relations between and properties of these semantics.

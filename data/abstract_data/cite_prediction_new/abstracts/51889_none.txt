@@ -1,0 +1,2 @@
+Design considerations of recent advanced low-voltage low-temperature-coefficient CMOS bandgap voltage reference
+The design considerations of CMOS bandgap voltage references, focusing on low-voltage and low-temperature-coefficient methodologies, are discussed in this paper. Some recently reported circuits of bandgap voltage references are included and analyzed. Moreover, a CMOS voltage reference is also addressed.

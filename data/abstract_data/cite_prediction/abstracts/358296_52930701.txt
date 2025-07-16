@@ -1,0 +1,2 @@
+Predicting Sales Prices of the Houses Using Regression Methods of Machine Learning
+In this article we will describe our solution for “House Prices: Advanced Regression Techniques” machine learning competition, which was held on Kaggle platform. The competitor's goal was to predict house's sale price by their attributes like house area, year of building, etc. In our solution, we use classic machine learning algorithms, and our original methods, which will be described here. At the end of the competition, we took 18th place among 2124 participants from whole world (top 1%).

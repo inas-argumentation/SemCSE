@@ -1,0 +1,2 @@
+Inverse geometric approach for the simulation of close-to-circular growth. The case of multicellular tumor spheroids
+We demonstrate the power of genetic algorithms to construct a cellular automata model simulating the growth of 2D close-to-circular clusters, revealing the desired properties, such as the growth rate and, at the same time, the fractal behavior of their contours. The possible application of the approach in the field of tumor modeling is outlined.

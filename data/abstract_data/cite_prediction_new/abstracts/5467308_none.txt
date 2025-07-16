@@ -1,0 +1,2 @@
+Depth evaluation intrusion detection using Coloured Stochastic Petri Nets
+This paper investigates and simulates a coloured stochastic Petri nets model for depth evaluation intrusion detection. Network attack behaviors are very complexity sometimes, it is difficult to capture all of them. In this paper, we could realize what them happened with analyzing and simulating an intrusion. The experimental results demonstrated that the CSPN model approach was an efficient and helpful to evaluate an intrusion detection system.

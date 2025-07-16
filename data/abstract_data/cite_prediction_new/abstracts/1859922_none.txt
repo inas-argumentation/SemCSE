@@ -1,0 +1,2 @@
+A robust overlapped-SCM WDM PON with a standalone burst-mode OLT receiver
+We demonstrate an overlapped-SCM WDM PON using a burst-mode receiver capable of tracking instantaneous phase variations within the uplink. The receiver ensures proper alignment between the clock and up-converted data for efficient SCM down-conversion.

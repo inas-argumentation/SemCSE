@@ -1,0 +1,2 @@
+Performance Analysis of Various Data Mining Techniques on Banknote Authentication
+In this paper, we describe the functionality features for authenticating in Euro banknotes. We applied different data mining algorithms such as KMeans, Naive Bayes, Multilayer Perceptron, Decision trees (J48), and Expectation-Maximization(EM) to classifying banknote authentication dataset. The experiments are conducted in WEKA. The goal of this project is to obtain the higher authentication rate in banknote classification.

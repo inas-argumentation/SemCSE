@@ -1,0 +1,2 @@
+Continuous speculative program parallelization in software
+This paper addresses the problem of extracting coarse-grained parallelism from large sequential code. It builds on BOP, a system for software speculative parallelization. BOP lets a user to mark possibly parallel regions (PPR) in a program and at run-time speculatively executes PPR instances using Unix processes. This short paper presents a new run-time support called continuous speculation, which fully utilizes available parallelism to tolerate differences in PPR task size and processor speed.

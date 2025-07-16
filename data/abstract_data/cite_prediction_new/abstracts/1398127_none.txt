@@ -1,0 +1,2 @@
+AN ALTERNATIVE FORMULATION OF D'ESTE'S TRIP ASSIGNMENT MODEL
+An alternative formulation of D'Este's trip assignment model is given as a minimization problem of an objective functional. The equivalence to the origin formulation and uniqueness of the solution are proved. The minimization problem is first discretized by means of power series expansion, and then the Newtonian algorithm is employed to solve for the unknown coefficients of the series. An example is given to illustrate the effectiveness of the proposed method.

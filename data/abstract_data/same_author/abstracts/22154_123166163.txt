@@ -1,0 +1,2 @@
+Smoothing with split linear fits
+We introduce a family of smoothing algorithms that can produce discontinuous output. Unlike most commonly used smoothers, that tend to blur discontinuities in the data, this smoother can be used for smoothing with edge detection. We cite examples of other approaches to (two-dimensional) smoothing with edge detection in image processing, and apply our one-dimensional smoother to sea surface temperature data where the discontinuities arise from changes in ocean currents.

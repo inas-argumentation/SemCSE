@@ -1,0 +1,15 @@
+Objective method to report planner-independent skin/rib maximal dose in balloon-based high dose rate (HDR) brachytherapy for breast cancer.
+PURPOSE
+An objective method was proposed and compared with a manual selection method to determine planner-independent skin and rib maximal dose in balloon-based high dose rate (HDR) brachytherapy planning.
+
+
+METHODS
+The maximal dose to skin and rib was objectively extracted from a dose volume histogram (DVH) of skin and rib volumes. A virtual skin volume was produced by expanding the skin surface in three dimensions (3D) external to the breast with a certain thickness in the planning computed tomography (CT) images. Therefore, the maximal dose to this volume occurs on the skin surface the same with a conventional manual selection method. The rib was also delineated in the planning CT images and its maximal dose was extracted from its DVH. The absolute (Abdiff = [D(max) Man - D (max)DVH]) and relative (Rediff[%] = 100 x ([D(max)Man-D(max)DVH])/D(max)DVH) maximal skin and rib dose differences between the manual selection method (D(max)Man) and the objective method (D(max)DVH) were measured for 50 balloon-based HDR (25 MammoSite and 25 Contura) patients.
+
+
+RESULTS
+The average +/- standard deviation of maximal dose difference was 1.67% +/- 1.69% of the prescribed dose (PD). No statistical difference was observed between MammoSite and Contura patients for both Abdiff and Rediff[%] values. However, a statistically significant difference (p value < 0.0001) was observed in maximal rib dose difference compared with maximal skin dose difference for both Abdiff (2.30% +/- 1.71% vs 1.05% +/- 1.43%) and Rediff[%] (2.32% +/- 1.79% vs 1.21% +/- 1.41%). In general, rib has a more irregular contour and it is more proximally located to the balloon for 50 HDR patients. Due to the inverse square law factor, more dose difference was observed in higher dose range (D(max) > 90%) compared with lower dose range (D(max) < 90%): 2.16% +/- 1.93% vs 1.19% +/- 1.25% with p value of 0.0049. However, the Rediff[%] analysis eliminated the inverse square factor and there was no statistically significant difference (p value = 0.8931) between high and low dose ranges.
+
+
+CONCLUSIONS
+The objective method using volumetric information of skin and rib can determine the planner-independent maximal dose compared with the manual selection method. However, the difference was < 2% of PD, on average, if appropriate attention is paid to selecting a manual dose point in 3D planning CT images.

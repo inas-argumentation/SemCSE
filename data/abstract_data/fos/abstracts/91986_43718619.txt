@@ -1,0 +1,2 @@
+Iterative techniques to integrate different optical functions in a diffractive phase element.
+Diffractive optics allows the incorporation of several optical functions, e.g., wave shaping and focusing, in one element. A method suitable to calculate a diffractive phase element with this feature is described. Coding and quantization effects are analyzed. As an example an array generator with integrated focal power is designed.

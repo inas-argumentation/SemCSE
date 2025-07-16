@@ -1,0 +1,2 @@
+Recovering punctuation marks for automatic speech recognition
+This paper shows results of recovering punctuation over speech transcriptions for a Portuguese broadcast news corpus. The approach is based on maximum entropy models and uses word, part-of-speech, time and speaker information. The contribution of each type of feature is analyzed individually. Separate results for each focus condition are given, making it possible to analyze the differences of performance between planned and spontaneous speech.

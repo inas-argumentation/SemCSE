@@ -1,0 +1,2 @@
+Finding Double Euler Trails of Planar Graphs in Linear Time
+This paper answers an open question in the design of complimentary metal-oxide semiconductor VLSI circuits. The question asks whether a polynomial-time algorithm can decide if a given planar graph has a plane embedding ${\cal E}$ such that ${\cal E}$ has an Euler trail P = e1 e2 ... em and its dual graph has an Euler trail $P^*=e^*_1 e^*_2 \ldots e^*_m$, where $e^*_i$ is the dual edge of ei for i=1,2,...,m. This paper answers this question in the affirmative by presenting a linear-time algorithm.

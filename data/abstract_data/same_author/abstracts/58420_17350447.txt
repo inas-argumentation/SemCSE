@@ -1,0 +1,2 @@
+A note on the maximization version of the multi-level facility location problem
+We show that the maximization version of the multi-level facility location problem can be approximated by a factor of 0.5. The only previously known result is a factor of 0.47 for the two-level case obtained recently by Bumb (Oper. Res. Lett. 29(4) (2001) 155).

@@ -1,0 +1,15 @@
+Predicting the errors of predicted local backbone angles and non-local solvent- accessibilities of proteins by deep neural networks
+MOTIVATION
+Backbone structures and solvent accessible surface area of proteins are benefited from continuous real value prediction because it removes the arbitrariness of defining boundary between different secondary-structure and solvent-accessibility states. However, lacking the confidence score for predicted values has limited their applications. Here we investigated whether or not we can make a reasonable prediction of absolute errors for predicted backbone torsion angles, Cα-atom-based angles and torsion angles, solvent accessibility, contact numbers and half-sphere exposures by employing deep neural networks.
+
+
+RESULTS
+We found that angle-based errors can be predicted most accurately with Spearman correlation coefficient (SPC) between predicted and actual errors at about 0.6. This is followed by solvent accessibility (SPC∼0.5). The errors on contact-based structural properties are most difficult to predict (SPC between 0.2 and 0.3). We showed that predicted errors are significantly better error indicators than the average errors based on secondary-structure and amino-acid residue types. We further demonstrated the usefulness of predicted errors in model quality assessment. These error or confidence indictors are expected to be useful for prediction, assessment, and refinement of protein structures.
+
+
+AVAILABILITY AND IMPLEMENTATION
+The method is available at http://sparks-lab.org as a part of SPIDER2 package.
+
+
+CONTACT
+yuedong.yang@griffith.edu.au or yaoqi.zhou@griffith.edu.auSupplementary information: Supplementary data are available at Bioinformatics online.

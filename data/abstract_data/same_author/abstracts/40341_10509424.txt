@@ -1,0 +1,4 @@
+A Simply Typed Context Calculus with First-class Environments
+We introduce a simply typed λ-calculus λϰƐ" which has both contexts and environments as first-class values. In λϰƐ", holes in contexts are represented by ordinary variables of appropriate types and hole filling is represented by the functional application together with a new abstraction mechanism which takes care of packing and unpacking of the term which is used to fill in the holes of the context. λϰƐ" is a conservative extension of the simply typed λβ-calculus, enjoys subject reduction property, is confluent and strongly normalizing. 
+ 
+The traditional method of defining substitution does not work for our calculus. So, we also introduce a new method of defining substitution. Although we introduce the new definition of substitution out of necessity, the new definition turns out to be conceptually simpler than the traditional definition of substitution.

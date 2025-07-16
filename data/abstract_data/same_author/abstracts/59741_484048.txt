@@ -1,0 +1,2 @@
+An Extremal Problem for Sets with Applications to Graph Theory
+Let X1, …, Xn be n disjoint sets. For 1 ⩽ i ⩽ n and 1 ⩽ j ⩽ h let Aij and Bij be subsets of Xi that satisfy |Aij| ⩽ ri and |Bij| ⩽ si for 1 ⩽ i ⩽ n, 1 ⩽ j ⩽ h, (∪i Aij) ∩ (∪i Bij) = ⊘ for 1 ⩽ j ⩽ h, (∪i Aij) ∩ (∪i Bil) ≠ ⊘ for 1 ⩽ j < l ⩽ h. We prove that h⩽Πi=1nri+siri. This result is best possible and has some interesting consequences. Its proof uses multilinear techniques (exterior algebra).

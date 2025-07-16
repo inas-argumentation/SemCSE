@@ -1,0 +1,15 @@
+Nonabelian superconductors: vortices and confinement in N=2 SQCD
+We study nonabelian vortices (flux tubes) in SU(N) gauge theories, which are 
+responsible for the confinement of (nonabelian) magnetic monopoles. In 
+particular a detailed analysis is given of ${\cal N}=2$ SQCD with gauge group 
+SU(3) deformed by a small adjoint chiral multiplet mass. Tuning the bare quark 
+masses (which we take to be large) to a common value $m$, we consider a 
+particular vacuum of this theory in which an SU(2) subgroup of the gauge group 
+remains unbroken. We consider $5 \ge N_f \ge 4$ flavors so that the SU(2) 
+sub-sector remains non asymptotically free: the vortices carrying nonabelian 
+fluxes may be reliably studied in a semi-classical regime. We show that the 
+vortices indeed acquire exact zero modes which generate global rotations of the 
+flux in an $SU(2)_{C+F}$ group. We study an effective world-sheet theory of 
+these orientational zero modes which reduces to an ${\cal N}=2$ O(3) sigma 
+model in (1+1) dimensions. Mirror symmetry then teaches us that the dual SU(2) 
+group is not dynamically broken.

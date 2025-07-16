@@ -1,0 +1,2 @@
+Shape and topology sensitivity analysis for cracks in elastic bodies on boundaries of rigid inclusions
+We consider an elastic body with a rigid inclusion and a crack located at the boundary of the inclusion [11]. It is assumed that non-penetration conditions are imposed at the crack faces which do not allow the opposite crack faces to penetrate each other. The differentiability of the elastic energy with respect to the crack length, for the crack located at the boundary of rigid inclusion, is established [11].

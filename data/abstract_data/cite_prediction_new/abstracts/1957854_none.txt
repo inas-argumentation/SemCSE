@@ -1,0 +1,2 @@
+The impact of ASR on abstractive vs. extractive meeting summaries
+In this paper we describe a complete abstractive summarizer for meeting conversations, and evaluate the usefulness of the automatically generated abstracts in a browsing task. We contrast these abstracts with extracts for use in a meeting browser and investigate the effects of manual versus ASR transcripts on both summary types.

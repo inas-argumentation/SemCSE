@@ -1,0 +1,2 @@
+Some Recent Research Aspects of Threshold Cryptography
+In the traditional scenario in cryptography there is one sender, one receiver and an active or passive eavesdropper who is an opponent. Depending from the application the sender or the receiver (or both) need to use a secret key. Often we are not dealing with an individual sender/receiver, but the sender/receiver is an organization. The goal of threshold cryptography is to present practical schemes to solve such problems without the need to use the more general methods of mental games.

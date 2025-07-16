@@ -1,0 +1,2 @@
+Single Particle Linear and Nonlinear Dynamics
+I will give a comprehensive review of existing particle tracking tools to assess long-term particle stability for small and large accelerators in the presence of realistic magnetic imperfections and machine misalignments. The emphasis will be on the tracking and analysis tools based upon the differential algebra, Lie operator, and ''polymorphism''. Using these tools, a uniform linear and non-linear analysis will be outlined as an application of the normal form.

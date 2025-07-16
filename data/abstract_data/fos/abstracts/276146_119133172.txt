@@ -1,0 +1,2 @@
+Whittaker modules for the derivation Lie algebra of torus with two variables
+Let L be the derivation Lie algebra of $$\mathbb{C}\left[ {t_1^{ \pm 1},t_2^{ \pm 1}} \right]$$ℂ[t1±1,t2±1]. Given a triangle decomposition L = L+ ⊕ h ⊕ L−, we define a nonsingular Lie algebra homomorphism ψ: L+ → ℂ and the universal Whittaker L-module Wψ of type ψ. We obtain all Whittaker vectors and submodules of Wψ. Moreover, all simple Whittaker L-modules of type ψ are determined.

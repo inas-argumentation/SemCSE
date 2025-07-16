@@ -1,0 +1,2 @@
+Detecting the Age of a Person through Web Browsing Patterns
+As more and more people are using the internet, the demographics of these people such as their age, their gender, their location etc. are highly valued by several business enterprises. We are cognizant about the fact that each user has his/her preferences when it comes to browsing over the internet. This paper designed a system that predicts the age of the user based on his/her web browsing patterns using the A- priori algorithm.

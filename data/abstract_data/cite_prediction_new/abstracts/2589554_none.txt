@@ -1,0 +1,2 @@
+On the Symmetric Componentwise Relative Backward Error for Linear Systems of Equations
+We derive an upper bound on the symmetric componentwise relative backward error for symmetric linear systems of equations. Since the bound can be computed efficiently and, except for some artificial examples, seems to be of the same order of magnitude as the true symmetric componentwise backward error, we believe that it is suitable for practical use. Our results also provide new insight into the relationship between the symmetric and unsymmetric backward errors.

@@ -1,0 +1,2 @@
+Mining Frequent Tree-Like Patterns in Large Datasets
+In this paper, we propose a novel data mining scheme to explore the frequent hierarchical structure patterns, named tree-like patterns, with the relationship of each item on a sequence. By tree-like patterns, we are clear to find out the relation of items between the cause and effect. Finally, we discuss the different characteristics to our mined patterns with others. As a consequence, we can find out that our addressed tree-like patterns can be widely used to explore a variety of different applications.

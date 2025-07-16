@@ -1,0 +1,6 @@
+Ein Beitrag zur Berechnung der Knicklasten
+Durch die Anwendung der Fouriertransformation gelingt es, verwickelte Knickfalle einfach zu losen. Auserdem konnte auf diesem Weg ein neues Iterationsverfahren angegeben werden, das, wie in einer Arbeit noch gezeigt werden soll, sich auch auf die Stabschwingungen bei elastischer Auflagerung ausdehnen last. 
+ 
+ 
+ 
+By application of the Fourier transformation, complicated cases of buckling are easily solved. The method leads to a new iteration process that can be generalized to oscillations of bars in elastic bearings, as will be shown in a future paper.

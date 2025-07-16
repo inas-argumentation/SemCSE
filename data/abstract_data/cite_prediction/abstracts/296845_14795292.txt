@@ -1,0 +1,2 @@
+Localization and tracking of indoor mobile robot with beacons and dead reckoning sensors
+Autonomous robots must be able to localize themselves in an environment. We are interested in the real time pose estimation of a single surveillance robot based on the Odometry algorithm and Dead Reckoning using Inertial Measurement Unit (IMU) sensors. This approach is subjected to accumulated errors due to slippage and drift respectively. Algorithm proposed in this paper uses Trilateration with Extended Kalman filter. We found that our approach reduces the error.

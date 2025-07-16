@@ -1,0 +1,2 @@
+A note on the vertex-distinguishing proper coloring of graphs with large minimum degree
+Abstract We prove that the number of colors required to properly color the edges of a graph of order n and δ ( G )> n /3 in such a way that any two vertices are incident with different sets of colors is at most Δ ( G )+5.

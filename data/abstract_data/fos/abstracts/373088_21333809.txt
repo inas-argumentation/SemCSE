@@ -1,0 +1,19 @@
+TU-H-BRC-03: Evaluation of Very High-Energy Electron (VHEE) Beams in Comparison to VMAT and PBS Treatment Plans.
+PURPOSE
+The aim of this study was to evaluate the performance of very high-energy electron (VHEE) beams in comparison to clinically delivered treatment plans generated with volumetric modulated arc therapy (VMAT) and proton pencil beam scanning (PBS) technology.
+
+
+METHODS
+Three clinical cases were selected (prostate, lung, and pediatric CNS). The VHEE plans were calculated in the Monte Carlo EGSnrc code and pencil beam doses were calculated using the DOSxyznrc MC code for 100 and 200 MeV beams. Treatment plans with VHEE, VMAT, and PBS were optimized in a research version of RayStation using an in house build script in order to minimize operator bias between the different techniques.
+
+
+RESULTS
+For the prostate cancer case, the PBS plan showed lower mean organ at risk (OAR) doses compared to the other modalities. An exception was the femoral heads, due to the lateral beam arrangements. The VMAT plan showed lower mean doses to the rectum and the bladder compared to the 100 MeV VHEE plan. The lung cancer case showed minor differences between the three modalities. However, the PBS plan showed a lower contralateral lung dose. The pediatric CNS case showed a better conformity and lower spinal cord dose for the 100 MeV VHEE plan. For all cases, the 200 MeV VHEE plans were found to be similar to or better than the 100 MeV VHEE plans.
+
+
+CONCLUSION
+The present study showed that VHEE plans are similar or superior to VMAT plans with reduced mean OAR dose and increased target conformity for a variety of clinical cases. With increased VHEE energy, better conformity and even higher reductions in mean OAR doses can be achieved.
+
+
+FUNDING
+DoD, Award#:W81XWH-13-1-0165, Weston Havens Foundation, Bio-X (Stanford University), the Office of the Dean of the Medical School, the Office of the Provost (Stanford University), and the Swedish Childhood Cancer Foundation. BL and PM are founders of TibaRay,Inc. BL and PM have received research grants from Varian and RaySearch Laboratory.

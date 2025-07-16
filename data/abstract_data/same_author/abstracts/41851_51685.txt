@@ -1,0 +1,2 @@
+An improved linear edge bound for graph linkages
+A graph is said to be k-linked if it has at least 2k vertices and for every sequence S1,...,Sk, t1,...,tk of distinct vertices there exist disjoint paths P1,...,Pk such that the ends of Pi are si and ti. Bollobas and Thomason showed that if a simple graph G on n vertices is 2k-connected and G has at least 11kn edges, then G is k-linked. We give a relatively simple inductive proof of the stronger statement that 8kn edges and 2k-connectivity suffice, and then with more effort improve the edge bound to 5kn.

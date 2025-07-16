@@ -1,0 +1,2 @@
+IPML: Extending SMIL for Distributed Multimedia Presentations
+This paper addresses issues of distributing multimedia presentations in an ambient intelligent environment, exams the existing technologies and proposes IPML, a markup language that extends SMIL for distributed settings. It uses a powerful metaphor of play, with which the timing and mapping issues in distributed presentations are easily covered in a natural way.

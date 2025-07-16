@@ -1,0 +1,2 @@
+The General Distribution of the Error Rate of a Classification Procedure With Application to Logistic Regression Discrimination
+The large-sample distribution of the error rate of an arbitrary estimator of the optimal classification rule is given. The asymptotic distribution of the logistic regression estimator is found. These results are used to show that the efficiency of logistic regression classification in some nonnormal cases is low. This suggests that maximum likelihood discrimination should be used whenever possible.

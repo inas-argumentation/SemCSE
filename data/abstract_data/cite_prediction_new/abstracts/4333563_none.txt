@@ -1,0 +1,2 @@
+Estimation of centralized spectrum sensing overhead for cognitive radio networks
+We study a cognitive radio network in which a group of secondary users sense the presence of a primary user and convey this information to a fusion center. The trade-off between the bit rate required and the accuracy of the sensed information is captured using a rate-distortion framework, which provides a lower bound on the overhead required for any spectrum sensing protocol. The effect of the number of sensors and the measurement noise at the sensors on the trade-off is quantified.

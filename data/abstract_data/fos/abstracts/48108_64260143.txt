@@ -1,0 +1,2 @@
+Design and Implementation of a SoftPLC System Based on RTLinux
+The PLC is a main part of the CNC system. However, there are lot of limits to the PLC, which used in the CNC. This paper presents a new method to implement the control of the PLC, which is the SoftPLC based on the RTLinux real-time OS. Now it is applied to the development of the NC210 CNC system. Testing shows that, the SoftPLC can be fulfilled with the need of the CNC.

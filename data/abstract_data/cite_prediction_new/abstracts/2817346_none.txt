@@ -1,0 +1,2 @@
+Swarm Control of UAVs for Cooperative Hunting with DDDAS
+Swarm control is a problem of increasing importance with technological advancements. Recently, governments have begun employing UAVs for reconnaissance, including swarms of drones searching for evasive targets. An agent-based simulation for dynamic cooperative cleaning is augmented with additional behaviors and implemented into a Dynamic Data-Driven Application System (DDDAS) framework for dynamic swarm control.

@@ -1,0 +1,2 @@
+On the Aggregation Techniques in Stochastic Petri Nets and Stochastic Process Algebras
+Stochastic Petri Nets and Stochastic Process Algebras can both be used for the qualitative and quantitative analysis of parallel and distributed systems. However, sometimes the complexity of the system can make such analysis infeasible, due to the large size of the state space underlying the model. To overcome this problem different aggregation techniques have been proposed in both formalisms. Two of them are compared in this paper.

@@ -1,0 +1,2 @@
+Exploratory data analysis for counts using the empirical probability generating function 1
+We present a graphical method based on the empirical probability generating function for preliminary statistical analysis of distributions for counts. The method is especially useful in fitting a Poisson model, or for identifying alternative models as well as possible outlying observations from general discrete distributions.

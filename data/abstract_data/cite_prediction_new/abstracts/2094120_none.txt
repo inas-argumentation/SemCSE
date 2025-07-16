@@ -1,0 +1,2 @@
+A scalable hash-based mobile agent location mechanism
+In this paper, we propose a novel mobile agent tracking mechanism based on hashing. To allow our system to adapt to variable workloads, dynamic rehashing is supported The proposed mechanism scales well with both the number of agents and the number of moving and querying operations. We also report on its implementation in the Aglets platform and present performance results.

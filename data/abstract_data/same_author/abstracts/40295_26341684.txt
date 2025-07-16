@@ -1,0 +1,2 @@
+Automatic Cluster Number Determination via BYY Harmony Learning
+Selection of the number of clusters is a crucial problem in clustering. Conventionally, it was effected via cost function based criteria such as AIC and MDL. In this paper we empirically investigate automatic selection of the number of clusters via BYY harmony empirical learning. Results of experiments show that the true number of clusters can be automatically obtained during BYY harmony empirical learning. It is superior to conventional methods in that it needs much less computational cost.

@@ -1,0 +1,2 @@
+A Time-Based Peer Trust Evaluation in P2P E-commerce Environments
+In P2P e-commerce environments, as lack of central management, it is rational to investigate the trust status of unknown peers before interacting with them for possible transactions. This paper presents a novel peer trust evaluation model for P2P systems. In the model, we adopt a probabilistic approach with time dimension for evaluating the transaction trust of unknown peers according to their transaction history.

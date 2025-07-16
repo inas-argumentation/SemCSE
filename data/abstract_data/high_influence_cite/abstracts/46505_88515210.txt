@@ -1,0 +1,2 @@
+Nonparametric estimation of locally stationary Hawkes processe
+In this paper we consider multivariate Hawkes processes with baseline hazard and kernel functions that depend on time. This defines a class of locally stationary processes. We discuss estimation of the time-dependent baseline hazard and kernel functions based on a localized criterion. Theory on stationary Hawkes processes is extended to develop asymptotic theory for the estimator in the locally stationary model.

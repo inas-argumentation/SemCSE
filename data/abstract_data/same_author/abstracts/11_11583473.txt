@@ -1,0 +1,2 @@
+Architectural Mismatch: Why Reuse Is So Hard
+Why isn't there more progress toward building systems from existing parts? One answer is that the assumptions of the parts about their intended environment are implicit and either don't match the actual environment or conflict with those of other parts. The authors explore these problems in the context of their own experience with a compositional approach. >

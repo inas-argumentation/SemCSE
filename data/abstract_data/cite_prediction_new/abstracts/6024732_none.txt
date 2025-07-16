@@ -1,0 +1,2 @@
+An introduction to experimental phasing of macromolecules illustrated by SHELX; new autotracing features
+Experimental phasing of macromolecular crystals is described and explained, with the emphasis on its implementation in the programs SHELXC, SHELXD and SHELXE, which are also used in a number of macromolecular structure-solution pipelines.

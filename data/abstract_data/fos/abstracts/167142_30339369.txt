@@ -1,0 +1,15 @@
+Influence of photon beam energy on the dose enhancement factor caused by gold and silver nanoparticles: An experimental approach.
+PURPOSE
+Noble metal nanoparticles have found several medical applications in the areas of radiation detection; x-ray contrast agents and cancer radiation therapy. Based on computational methods, many papers have reported the nanoparticle effect on the dose deposition in the surrounding medium. Here the authors report experimental results on how silver and gold nanoparticles affect the dose deposition in alanine dosimeters containing several concentrations of silver and gold nanoparticles, for five different beam energies, using electron spin resonance spectroscopy (ESR).
+
+
+METHODS
+The authors produced alanine dosimeters containing several mass percentage of silver and gold nanoparticles. Nanoparticle sizes were measured by dynamic light scattering and by transmission electron microscopy. The authors determined the dose enhancement factor (DEF) theoretically, using a widely accepted method, and experimentally, using ESR spectroscopy.
+
+
+RESULTS
+The DEF is governed by nanoparticle concentration, size, and position in the alanine matrix. Samples containing gold nanoparticles afford a DEF higher than 1.0, because gold nanoparticle size is homogeneous for all gold concentrations utilized. For samples containing silver particles, the silver mass percentage governs the nanoparticles size, which, in turns, modifies nanoparticle position in the alanine dosimeters. In this sense, DEF decreases for dosimeters containing large and segregated particles. The influence of nanoparticle size-position is more noticeable for dosimeters irradiated with higher beam energies, and dosimeters containing large and segregated particles become less sensitive than pure alanine (DEF < 1).
+
+
+CONCLUSIONS
+ESR dosimetry gives the DEF in a medium containing metal nanoparticles, although particle concentration, size, and position are closely related in the system. Because this is also the case as in many real systems of materials containing inorganic nanoparticles, ESR is a valuable tool for investigating DEF. Moreover, these results alert to the importance of controlling the size-position of nanoparticles to enhance DEF.

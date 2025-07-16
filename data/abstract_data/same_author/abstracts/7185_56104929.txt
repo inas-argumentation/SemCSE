@@ -1,0 +1,2 @@
+Systematic study of 1-loop correction on sparticle decay widths using GRACE/SUSY-loop
+The 1-loop corrected decay widths of sparticles (charginos, neutralinos, gluino and sfermions) in the framework of the MSSM are calculated systematically using GRACE/SUSY-loop, which is the program package for the automatic calculation of the MSSM amplitudes in the 1-loop order. We present the renormalization scheme used in our system and show some numerical results of decay widths of sfermions and gluino using the SPS1a' parameter set and other SUSY parameter sets.

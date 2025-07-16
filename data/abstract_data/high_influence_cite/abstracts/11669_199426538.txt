@@ -1,0 +1,2 @@
+PR ] 1 4 Fe b 20 17 Dualities for Multi-State Probabilistic Cellular Automata
+In this paper a new form of duality for probabilistic cellular automata (PCA) is introduced. Using this duality, an ergodicity result for processes having a dual is proved. Also, conditions on the probabilities defining the evolution of the processes for the existence of a dual are provided. The results are applied to wide classes of PCA which include multi-opinion voter models, competition models and the Domany-Kinzel model.

@@ -1,0 +1,15 @@
+Lung perfusion imaging in small animals using 4D micro-CT at heartbeat temporal resolution.
+PURPOSE
+Quantitative in vivo imaging of lung perfusion in rodents can provide critical information for preclinical studies. However, the combined challenges of high temporal and spatial resolution have made routine quantitative perfusion imaging difficult in small animals. The purpose of this work is to demonstrate 4D micro-CT for perfusion imaging in rodents at heartbeat temporal resolution and isotropic spatial resolution.
+
+
+METHODS
+We have recently developed a dual tube/detector micro-CT scanner that is well suited to capture first pass kinetics of a bolus of contrast agent used to compute perfusion information. Our approach is based on the paradigm that similar time density curves can be reproduced in a number of consecutive, small volume injections of iodinated contrast agent at a series of different angles. This reproducibility is ensured by the high-level integration of the imaging components of our system with a microinjector, a mechanical ventilator, and monitoring applications. Sampling is controlled through a biological pulse sequence implemented in LABVIEW. Image reconstruction is based on a simultaneous algebraic reconstruction technique implemented on a graphic processor unit. The capabilities of 4D micro-CT imaging are demonstrated in studies on lung perfusion in rats.
+
+
+RESULTS
+We report 4D micro-CT imaging in the rat lung with a heartbeat temporal resolution (approximately 150 ms) and isotropic 3D reconstruction with a voxel size of 88 microm based on sampling using 16 injections of 50 microL each. The total volume of contrast agent injected during the experiments (0.8 mL) was less than 10% of the total blood volume in a rat. This volume was not injected in a single bolus, but in multiple injections separated by at least 2 min interval to allow for clearance and adaptation. We assessed the reproducibility of the time density curves with multiple injections and found that these are very similar. The average time density curves for the first eight and last eight injections are slightly different, i.e., for the last eight injections, both the maximum of the average time density curves and its area under the curve are decreased by 3.8% and 7.2%, respectively, relative to the average time density curves based on the first eight injections. The radiation dose associated with our 4D micro-CT imaging is 0.16 Gy and is therefore in the range of a typical micro-CT dose.
+
+
+CONCLUSIONS
+4D micro-CT-based perfusion imaging demonstrated here has immediate application in a wide range of preclinical studies such as tumor perfusion, angiogenesis, and renal function. Although our imaging system is in many ways unique, we believe that our approach based on the multiple injection paradigm can be used with the newly developed flat-panel slip-ring-based micro-CT to increase their temporal resolution in dynamic perfusion studies.

@@ -1,0 +1,2 @@
+Regression Verification for Programmable Logic Controller Software
+Automated production systems are usually driven by Programmable Logic Controllers (PLCs). These systems are long-living – yet have to adapt to changing requirements over time. This paper presents a novel method for regression verification of PLC code, which allows one to prove that a new revision of the plant’s software does not break existing intended behavior.

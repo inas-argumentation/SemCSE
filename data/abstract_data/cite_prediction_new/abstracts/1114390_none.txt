@@ -1,0 +1,2 @@
+A characterization of triangle-free tolerance graphs
+We prove that a triangle-free graph G is a tolerance graph if and only if there exists a set of consecutively ordered stars that partition the edges of G. Since tolerance graphs are weakly chordal, a tolerance graph is bipartite if and only if it is triangle-free. We, therefore, characterize those tolerance graphs that are also bipartite. We use this result to show that in general, the class of interval bigraphs properly contains tolerance graphs that are triangle-free (and hence bipartite).

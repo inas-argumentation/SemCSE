@@ -1,0 +1,19 @@
+New pricing approaches for bundled payments: Leveraging clinical standards and regional variations to target avoidable utilization.
+OBJECTIVES
+Develop pricing models for bundled payments that draw inputs from clinician-defined best practice standards and benchmarks set from regional variations in utilization.
+
+
+DATA
+Health care utilization and claims data for a cohort of incident Ontario ischemic and hemorrhagic stroke episodes. Episodes of care are created by linking incident stroke hospitalizations with subsequent health service utilization across multiple datasets.
+
+
+STUDY DESIGN
+Costs are estimated for episodes of care and constituent service components using setting-specific case mix methodologies and provincial fee schedules. Costs are estimated for five areas of potentially avoidable utilization, derived from best practice standards set by an expert panel of stroke clinicians. Alternative approaches for setting normative prices for stroke episodes are developed using measures of potentially avoidable utilization and benchmarks established by the best performing regions.
+
+
+PRINCIPAL FINDINGS
+There are wide regional variations in the utilization of different health services within episodes of stroke care. Reconciling the best practice standards with regional utilization identifies significant amounts of potentially avoidable utilization. Normative pricing models for stroke episodes result in increasingly aggressive redistributions of funding.
+
+
+CONCLUSIONS
+Bundled payment pilots to date have been based on the costs of historical service patterns, which effectively 'bake in' unwarranted and inefficient variations in utilization. This study demonstrates the feasibility of novel clinically informed episode pricing approaches that leverage these variations to target reductions in potentially avoidable utilization.

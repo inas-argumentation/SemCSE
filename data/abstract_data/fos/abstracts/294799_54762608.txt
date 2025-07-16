@@ -1,0 +1,34 @@
+OMI total bromine monoxide (OMBRO) data product: Algorithm, retrieval and measurement comparisons
+. This paper presents the retrieval algorithm for the
+operational Ozone Monitoring Instrument (OMI) total bromine monoxide (BrO)
+data product (OMBRO) developed at the Smithsonian Astrophysical Observatory
+(SAO) and shows comparisons with correlative measurements and retrieval
+results. The algorithm is based on direct nonlinear least squares fitting of
+radiances from the spectral range 319.0–347.5  nm . Radiances are modeled from
+the solar irradiance, attenuated by contributions from BrO and interfering
+gases, and including rotational Raman scattering, additive and
+multiplicative closure polynomials, correction for Nyquist undersampling
+and the average fitting residual spectrum. The retrieval uses albedo- and
+wavelength-dependent air mass factors (AMFs), which have been pre-computed
+using a single mostly stratospheric BrO profile. The BrO cross sections are
+multiplied by the wavelength-dependent AMFs before fitting so that the
+vertical column densities (VCDs) are retrieved directly. The fitting
+uncertainties of BrO VCDs typically vary between 4 and 7×1012 molecules cm−2 
+( ∼10  %–20 % of the measured BrO VCDs).
+Additional fitting uncertainties can be caused by the interferences from
+ O2 - O2 and H2CO and their correlation with BrO. AMF
+uncertainties are estimated to be around 10 % when the single
+stratospheric-only BrO profile is used. However, under conditions of high
+tropospheric concentrations, AMF errors due to this assumption of profile
+can be as high as 50 %. The retrievals agree well with GOME-2 observations at simultaneous nadir
+overpasses and with ground-based zenith-sky measurements at Harestua,
+Norway, with mean biases less than - 0.22 ± 1.13 × 10 13 
+and 0.12 ± 0.76 × 10 13 molecules cm−2 , respectively. Global distribution and seasonal variation of OMI
+BrO are generally consistent with previous satellite observations. Finally,
+we confirm the capacity of OMBRO retrievals to observe enhancements of BrO
+over the US Great Salt Lake despite the current retrieval setup
+considering a stratospheric profile in the AMF calculations. OMBRO
+retrievals also show significant BrO enhancements from the eruption of the
+Eyjafjallajokull volcano, although the BrO retrievals are affected under
+high SO2 loading conditions by the sub-optimum choice of SO2 cross
+sections.

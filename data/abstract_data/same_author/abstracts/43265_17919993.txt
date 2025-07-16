@@ -1,0 +1,2 @@
+A Note on the Edge-Connectivity of Cages
+A (k; g)-graph is a k-regular graph with girth g. A (k; g)-cage is a (k; g)-graph with the smallest possible number of vertices. In this paper we prove that (k; g)cages are k-edge-connected if k ≥ 3 and g is odd.

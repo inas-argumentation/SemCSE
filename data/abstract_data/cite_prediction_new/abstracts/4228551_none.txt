@@ -1,0 +1,2 @@
+A new approach to hyperbolic inverse problems II: global step
+We study the inverse problem for the second-order self-adjoint hyperbolic equation with the boundary data given on a part of the boundary. This paper is the continuation of the author's paper (Eskin 2006 A new approach to hyperbolic inverse problems Inverse Problems 22 815–33), in which we presented the crucial local step of the proof. In this paper, we prove the global step. Our method is a modification of the BC method with some new ideas. In particular, the method of determination of the metric is new.

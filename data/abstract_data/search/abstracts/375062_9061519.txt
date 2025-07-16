@@ -1,0 +1,2 @@
+QoS Analysis and Service Selection for Composite Services
+A composite service can be constructed with the arbitrary combination of sequential, parallel, loop, and conditional structures. In this paper, we propose a general solution to calculate the QoS for composite services with complex structures. We also show QoS based service selection can be conducted based on the proposed QoS calculation method. An application example is given to show the effectiveness of the method.

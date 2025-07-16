@@ -1,0 +1,2 @@
+A Monoidal Closed Category of Event Structures
+This paper introduces the following new constructions on stable event structures: the tensor product, the linear function space, and the exponential. It results in a monoidal closed category of stable event structures which can be used to interpret intuitionistic linear logic.

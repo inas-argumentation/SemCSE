@@ -1,0 +1,2 @@
+CAC procedures for leaky bucket-constrained sources
+In this paper, we apply the network calculus approach to the problem of deriving CAC procedures for leaky bucket-constrained sources having arbitrary delay constraints. We compare the relative efficiency of FIFO-based resource allocation disciplines in this context. Among those policies, ClassP, which groups sources according to their delay requirement appears to outperform the others. A comparison with GPS further illustrates its interest.

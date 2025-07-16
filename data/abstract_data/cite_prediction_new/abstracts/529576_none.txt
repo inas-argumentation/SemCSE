@@ -1,0 +1,2 @@
+TerraSAR-X Instrument Operations Rooted in the System Engineering and Calibration Project
+This paper presents the TerraSAR-X instrument operations embedded into the Instrument Operations and Calibration Segment. Special focus is on the data-take (DT) command generation. The command generation for standard DTs is discussed, and the nonnominal DT commanding is described for several examples which demonstrate the flexibility of both the TerraSAR-X instrument and the instrument operations system on-ground.

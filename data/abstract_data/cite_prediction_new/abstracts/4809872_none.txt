@@ -1,0 +1,2 @@
+Construction of a Tree From its Traversals in Optimal Time and Space
+Given the preorder traversal of a tree together with some additional structure information, the tree can be constructed in linear time with a simple algorithm. The additional information may be the inorder or postorder traversal. In one case, the binary search tree, no additional information is required. We also show how to transform the construction algorithm into a nonrecursive algorithm requiring only constant space.

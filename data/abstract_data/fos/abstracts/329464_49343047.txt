@@ -1,0 +1,2 @@
+Fashion-Gen: The Generative Fashion Dataset and Challenge
+We introduce a new dataset of 293,008 high definition (1360 x 1360 pixels) fashion images paired with item descriptions provided by professional stylists. Each item is photographed from a variety of angles. We provide baseline results on 1) high-resolution image generation, and 2) image generation conditioned on the given text descriptions. We invite the community to improve upon these baselines. In this paper, we also outline the details of a challenge that we are launching based upon this dataset.

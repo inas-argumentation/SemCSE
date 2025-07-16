@@ -1,0 +1,2 @@
+Successive one-step-ahead predictions in multiple model predictive control
+This paper proposes a multiple model predictive control scheme for the case where the scheduling variable is the output of the nonlinear plant. By means of model interpolation and successive predictions, the resulting nonlinear strategy makes use of all models available for calculating future error predictions. Consistently good performance indicated by a simulated example confirms the usefulness of the proposed method.

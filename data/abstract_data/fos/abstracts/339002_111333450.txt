@@ -1,0 +1,16 @@
+CALIBRATION OF A TDR INSTRUMENT FOR SIMULTANEOUS MEASUREMENTS OF SOIL WATER AND SOIL ELECTRICAL CONDUCTIVITY
+Time domain reflectometry (TDR) can be used to simultaneously measure in-situ water content and electrical 
+conductivity (ECTDR). The method used to determine soil electrical conductivity from TDR waveforms requires measurement 
+of the reflection voltages from a special part of the waveform. However, not all TDR instruments have this ability. The purpose 
+of our research was to extend the ability of the MP917 Moisture Point instrument (ESI Environmental Sensors, Inc.) such that 
+bulk soil electrical conductivity could be obtained. Our method involved use of resistors of known resistance to establish a 
+relationship between arbitrary voltage and the reflection coefficient. As we did not have a standard of comparison (another 
+TDR system that could measure both soil moisture content and EC), we used two probes of different lengths (150 and 220 mm). 
+If our method worked, then the two probes should calculate the same EC values. Using our method, we achieved the following: 
+determination of geometric constants for solution EC values between 0.7 and 25.7 dS m-1, ability to determine reasonably 
+accurate KCl solution EC values for each of the two probes, and ability to determine sand ECTDR that had a 1:1 agreement 
+between the 150 and 220 mm probes for moisture contents less than 0.17 m3 m-3 for non-saline and saline conditions, but not 
+for saline conditions near saturation (0.28 to 0.35 m3 m-3). For such conditions, the long probe produced ECTDR values that 
+were 1.4 times that of the short probe. Although the ECTDR values obtained from the MP917 could not be confirmed with an 
+independent measure, there appears to be sufficient response to a range of saline conditions that the relative values of ECTDR 
+provide suitable accuracy such that the usefulness of the MP917 can be extended to relative measurements of EC.

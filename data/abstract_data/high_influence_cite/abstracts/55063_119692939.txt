@@ -1,0 +1,12 @@
+On some identities in law involving exponential functionals of Brownian motion and Cauchy random variable
+Let $B=\{ B_{t}\} _{t\ge 0}$ be a one-dimensional standard Brownian motion, to which we associate the exponential additive functional $A_{t}=\int _{0}^{t}e^{2B_{s}}ds,\,t\ge 0$. Starting from a simple observation of generalized inverse Gaussian distributions with particular sets of parameters, we show, with the help of a result by Matsumoto--Yor (2000), that for every $x\in \mathbb{R}$ and for every finite stopping time $\tau $ of the process $\{ e^{-B_{t}}A_{t}\} _{t\ge 0}$, there holds the identity in law \begin{align*} 
+\left( 
+e^{B_{\tau}}\!\sinh x+\beta (A_{\tau }), \, 
+Ce^{B_{\tau}}\!\cosh x+\hat{\beta}(A_{\tau }), \, 
+e^{-B_{\tau }}\!A_{\tau } 
+\right) 
+\stackrel{(d)}{=} 
+\left( 
+\sinh (x+B_{\tau }), \, C\cosh (x+B_{\tau }), \, 
+e^{-B_{\tau }}\!A_{\tau } 
+\right) , \end{align*} which extends an identity due to Bougerol (1983) in several aspects. Here $\beta =\{ \beta (t)\} _{t\ge 0}$ and $\hat{\beta}=\{ \hat{\beta}(t)\} _{t\ge 0}$ are one-dimensional standard Brownian motions, $C$ is a standard Cauchy variable, and $B$, $\beta $, $\hat{\beta}$ and $C$ are independent. Using an argument relevant to derivation of the above identity, we also present some invariance formulae for Cauchy variable involving an independent Rademacher variable.

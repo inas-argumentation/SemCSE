@@ -1,0 +1,2 @@
+The RWTH aachen university open source speech recognition system
+We announce the public availability of the RWTH Aachen University speech recognition toolkit. The toolkit includes state of the art speech recognition technology for acoustic model training and decoding. Speaker adaptation, speaker adaptive training, unsupervised training, a finite state automata library, and an efficient tree search decoder are notable components. Comprehensive documentation, example setups for training and recognition, and a tutorial are provided to support newcomers.

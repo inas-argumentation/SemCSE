@@ -1,0 +1,3 @@
+Nano- and mesoscale modeling of cement matrix
+AbstractAtomistic simulations of cementitious material can enrich our understanding of its structural and mechanical properties, whereas current computational capacities restrict the investigation length scale within 10 nm. In this context, coarse-grained simulations can translate the information from nanoscale to mesoscale, thus bridging the multi-scale investigations. Here, we develop a coarse-grained model of cement matrix using the concept of disk-like building block. The objective is to introduce a new method to construct a coarse-grained model of cement, which could contribute to the scale-bridging issue from nanoscale to mesoscale.
+ PAC codes: 07.05.Tp, 62.25.-g, 82.70.Dd

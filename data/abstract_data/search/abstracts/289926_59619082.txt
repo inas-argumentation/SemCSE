@@ -1,0 +1,2 @@
+Grey Wolf Optimization Scenario for Security Constrained Optimal Power Flow Problem
+The paper presents novel Grey wolf Algorithm (GWA) for studying optimal power flow (OPF) issues taking into account transmission protection for effective applications considering base case and multiple contingency cases. The viability of the proposed technique is exhibited for a 14 and 30 transport frameworks to get more reliable outputs than those of the past algorithms. Case studies results are compared to past methods to confirm the superiority of the studied approach.

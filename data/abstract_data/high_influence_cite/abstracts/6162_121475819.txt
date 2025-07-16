@@ -1,0 +1,6 @@
+Invariant measures for the linear stochastic Cauchy problem and R-boundedness of the resolvent
+.We study the asymptotic behaviour of solutions of the stochastic abstract Cauchy problem
+$$ \left\{ {\begin{array}{*{20}l} {dU\left( t \right) = AU\left( t \right)dt + BdW_H \left( t \right),\quad t \geqslant 0,} \hfill\\
+{U\left( 0 \right) = 0,} \hfill\\
+\end{array}} \right. $$ where A is the generator of a C0-semigroup on a Banach space E, WH is a cylindrical Brownian motion over a separable Hilbert space H, and
+$$ B \in \user1{\mathscr L}\left( {H,E} \right) $$ is a bounded operator. Assuming the existence of a solution U, we prove that a unique invariant measure exists if the resolvent R(λ, A) is R-bounded in the right half-plane {Reλ > 0}, and that conversely the existence of an invariant measure implies the R-boundedness of R(λ, A)B in every half-plane properly contained in {Re λ > 0}. We study various abscissae related to the above problem and show, among other things, that the abscissa of R-boundedness of the resolvent of A coincides with the abscissa corresponding to the existence of invariant measures for all γ -radonifying operators B provided the latter abscissa is finite. For Hilbert spaces E this result reduces to the Gearhart-Herbst-Prüss theorem.

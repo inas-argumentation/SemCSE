@@ -1,0 +1,2 @@
+Gain scheduled steam drum level controller for Advanced Heavy Water Reactor
+Gain scheduled P-I plus feed forward controller is designed for the steam drum level of Advanced Heavy Water Reactor(AHWR) by incorporating the coupling effects due to reactor power and steam pressure transients under Alternate and Normal mode of reactor operation. A simplified thermal hydraulics model is developed for the controller design which incorporates swell and shrink effects of steam drum level as well as varying plant dynamics.

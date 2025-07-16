@@ -1,0 +1,2 @@
+Subdivision Tree Representation of Arbitrary Triangle Meshes
+We investigate a new way to represent arbitrary triangle meshes. We prove that a large class of triangle meshes, called normal triangle meshes, can be represented by a subdivision tree, where each subdivision is one of four elementary subdivision types. We also show how to partition an arbitrary triangle mesh into a small set of normal meshes. The subdivision tree representation can be used to encode mesh connectivity information. Our theoretical analysis shows that such a coding scheme is very promising.

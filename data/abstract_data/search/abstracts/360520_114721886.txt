@@ -1,0 +1,2 @@
+Neural network system identification for a low pressure non linear dynamical subsystem onboard the alicia II climbing robot
+In this work, a 'black box' non linear dynamic model for the low pressure subsystem onboard the base module Alicia II robot has been computed by using Artificial Neural Network methodology. The obtained model can be useful to implement and tune a control algorithm for the pressure inside the cup of the robot, also by using Neural Network, to prevent it to fall down.

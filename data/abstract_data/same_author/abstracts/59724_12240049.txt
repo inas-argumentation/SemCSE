@@ -1,0 +1,2 @@
+On the Edge-Expansion of Graphs
+It is shown that if n>n0(d) then any d-regular graph G=(V, E) on n vertices contains a set of u=⌊n/2⌋ vertices which is joined by at most (d/2−c√d)u edges to the rest of the graph, where c>0 is some absolute constant. This is tight, up to the value of c.

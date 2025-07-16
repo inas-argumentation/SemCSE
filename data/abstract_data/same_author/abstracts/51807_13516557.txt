@@ -1,0 +1,2 @@
+The Design of Divide and Conquer Algorithms
+Abstract The structure common to a class of divide and conquer algorithms is represented by a program scheme. A theorem is presented which relates the functionality of a divide and conquer algorithm to its structure and the functionalities of its subalgorithms. Several strategies for designing divide and conquer algorithms arise from this theorem and they are used to formally derive algorithms for sorting a list of numbers, forming the cartesian product of two sets, and finding the convex hull of a set of planar points.

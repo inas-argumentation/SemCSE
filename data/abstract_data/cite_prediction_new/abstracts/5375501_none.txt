@@ -1,0 +1,2 @@
+SWiFT: a feedback control and dynamic reconfiguration toolkit
+We introduce SWiFT, a toolkit for building adaptive system software using a control-theoretic approach. SWiFT allows systematic implementation of feedback-control mechanisms. It also provides a framework for composing simple feedback mechanisms that operate within limited domains, and for dynamically reconfiguring them. This composition allows the application to adapt efficiently across a wide range of operating conditions. We describe a streaming application to demonstrate the feasibility of this technology.

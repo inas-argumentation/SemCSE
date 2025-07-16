@@ -1,0 +1,13 @@
+Robust uncertainty estimates with out-of-distribution pseudo-inputs training
+Probabilistic models often use neural networks to control their predictive uncertainty.
+However, when making out-of-distribution (OOD) predictions, the often uncontrollable
+extrapolation properties of neural networks yield poor uncertainty predictions.
+Such models then don’t know what they don’t know, which directly limits
+their robustness w.r.t unexpected inputs. To counter this, we propose to explicitly train
+the uncertainty predictor where we are not given data to make it reliable.
+As one cannot train without data, we provide mechanisms for generating pseudo-inputs
+in informative low-density regions of the input space, and show how to leverage these
+in a practical Bayesian framework that casts a prior distribution over the model uncertainty.
+With a holistic evaluation, we demonstrate that this yields robust and interpretable predictions
+of uncertainty while retaining state-of-the-art performance on diverse tasks such as regression
+and generative modeling.

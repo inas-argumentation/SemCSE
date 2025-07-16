@@ -1,0 +1,7 @@
+Policy Optimization in Zero-Sum Markov Games: Fictitious Self-Play Provably Attains Nash Equilibria
+Fictitious Self-Play (FSP) has achieved significant empirical success in solving extensive-form games. 
+However, from a theoretical perspective, it remains unknown whether FSP is guaranteed to converge to Nash equilibria in Markov games.
+As an initial attempt, we propose an FSP algorithm for two-player zero-sum Markov games, dubbed as smooth FSP, where both agents adopt an entropy-regularized policy optimization method against each other. 
+Smooth FSP builds upon a connection between smooth fictitious play and the policy optimization framework. Specifically, in each iteration, each player infers the policy of the opponent implicitly via policy evaluation and improves its current policy by taking the smoothed best-response via a proximal policy optimization (PPO) step. 
+Moreover, to tame the non-stationarity caused by the opponent, we propose to incorporate entropy regularization in PPO for algorithmic stability. 
+When both players adopt smooth FSP simultaneously, i.e., with self-play, we prove that the sequence of joint policies converges to a neighborhood of a Nash equilibrium at a sublinear $\tilde{O}(1/T)$ rate, where $T$ is the number of iterations. To our best knowledge, we establish the first finite-time convergence guarantee for FSP-type algorithms in zero-sum Markov games.

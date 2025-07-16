@@ -1,0 +1,2 @@
+A Dual-Notch +27dBm Tx-Power Electrical-Balance Duplexer
+An electrical-balance duplexer uses series connected step-down transformers to enhance linearity and power handling capability by reducing the voltage swing across nonlinear components. Wideband, dual-notch Tx-to-Rx isolation is demonstrated experimentally with a planar inverted-F antenna. The 0.18μm CMOS prototype achieves >50dB isolation for 220MHz aggregated bandwidth or >40dB dual-notch isolation for 160MHz bandwidth, +49dBm Tx-path IIP3 and -48dBc ACLR1 for +27dBm at the antenna.

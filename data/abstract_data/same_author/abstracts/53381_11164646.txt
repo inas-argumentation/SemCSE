@@ -1,0 +1,2 @@
+Strip line detection and thinning by RPCL-based local PCA
+We solve the tasks of strip line detection and thinning in image processing and pattern recognition with the help of a statistical learning technique called rival penalized competitive learning based local principal component analysis. Due to its model selection and noise resistance ability, the technique is experimentally shown to outperform conventional Hough transform and thinning algorithms.

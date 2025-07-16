@@ -1,0 +1,2 @@
+Global existence and blowup for Choquard equations with an inverse-square potential
+In this paper, the Choquard equation with an inverse-square potential and both focusing and defocusing nonlinearities in the energy-subcritical regime is investigated. For all the cases, the local well-posedness result in $H^1(\mathbb{R}^N)$ is established. Moreover, the global existence result for arbitrary initial values is proved in the defocusing case while a global existence/blowup dichotomy below the ground state is established in the focusing case.

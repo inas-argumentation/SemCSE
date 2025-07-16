@@ -1,0 +1,2 @@
+Dependency Bagging
+In this paper, a new variant of Bagging named DepenBag is proposed. This algorithm obtains bootstrap samples at first. Then, it employs a causal discoverer to induce from each sample a dependency model expressed as a Directed Acyclic Graph (DAG). The attributes without connections to the class attribute in all the DAGs are then removed. Finally, a component learner is trained from each of the resulted samples to constitute the ensemble. Empirical study shows that DepenBag is effective in building ensembles of nearest neighbor classifiers.

@@ -1,0 +1,2 @@
+Verification of an Audio Protocol with Bus Collision Using UPPAAL
+In this paper we apply the tool Uppaal1 to an automatic analysis of a version of the Philips Audio Control Protocol with two senders and bus collision handling. This case study is significantly larger than the real-time/hybrid systems previously analysed by automatic tools. During the case study the tool Uppaal was extended with a new feature, committed locations, allowing efficient modelling of broadcast communication.

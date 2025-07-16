@@ -1,0 +1,2 @@
+Constant Modulus Based Blind Channel Estimation for OFDM Systems
+A novel blind channel estimation scheme is proposed for OFDM systems employing PSK modulation. This scheme minimizes the number of possible channels by exploiting the constant modulus property, chooses a best fit over the possible channels by exploiting the finite alphabet property of information signals, and achieves competitive performance with low computational complexity. Results comparing the new scheme with the finite-alphabet based channel estimation are presented.

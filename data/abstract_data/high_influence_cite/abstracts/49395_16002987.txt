@@ -1,0 +1,2 @@
+Isothermal water flows in low porosity porous media in presence of vapor–liquid phase change
+In this article we consider a mathematical model for a low porosity porous medium saturated by water, present both as the liquid and the vapor phase. In the isothermal case we propose a new formulation using a single nonlinear parabolic–hyperbolic equation for the fluid mixture density X . We present the derivation of the unified model and a number of numerical simulations based on regularization and Kirchhoff’s transform.

@@ -1,0 +1,15 @@
+SU-E-T-407: Dosimetric Influence of Setup Errors On RapidArc-Based SRS for Simultaneous Irradiation of Multiple Intracranial Targets.
+PURPOSE
+To evaluate the dosimetric influence of setup errors on RapidArc-based SRS for simultaneous irradiation of multiple intracranial targets.
+
+
+METHODS
+Eight patients previously treated with RapidArc™ technique for multiple intracranial lesions were included in this study. A RapidArc plan was designed to irradiate multiple targets simultaneously with one isocenter and 4 non-coplanar arcs. 1 mm margin was added to generate PTVs from GTVs. BrainLAB Novalis system was used to position the targets with 6D corrections and monitor patient position during treatment. CBCT was acquired for verification before irradiation. Velocity AI was used for image registration and dose mapping for CBCT, planning CT, contours and dose matrix. The DVHs of targets and critical structures and dose distributions were compared with the planned results and dosimetric influence from setup errors was analyzed.
+
+
+RESULTS
+We found that the translational errors were less than 1 mm in the three directions and rotational errors were less than 0.6 degree for all the patients. The overall PTV coverage decreases of ∼10 percent on average while the overall GTV coverage slightly influenced. Although prescribed dosed still covered most of GTVs, there were still some targets with a GTV coverage drop greater than 5 percent even with a 1 mm margin. Most of influenced targets were small targets and relatively far from isocenter. Our study also showed that the dosimetric influence on critical structures was negligible.
+
+
+CONCLUSIONS
+Although RapidArc technique can generate good plans for effectively treating multiple intracranial lesions simultaneously using stereotactic radiosurgery, this technique is more susceptible to the setup errors, especially rotational errors. 0.5 degree rotational error may Result in non-ignorable drop in target coverage. Our study show that a 1 mm margin for PTV and 6D positioning are necessary for a successful treatment with this technique.

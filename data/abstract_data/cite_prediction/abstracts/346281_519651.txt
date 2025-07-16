@@ -1,0 +1,15 @@
+Quality Improvement of Liver Ultrasound Images Using Fuzzy Techniques
+BACKGROUND
+Liver ultrasound images are so common and are applied so often to diagnose diffuse liver diseases like fatty liver. However, the low quality of such images makes it difficult to analyze them and diagnose diseases. The purpose of this study, therefore, is to improve the contrast and quality of liver ultrasound images.
+
+
+METHODS
+In this study, a number of image contrast enhancement algorithms which are based on fuzzy logic were applied to liver ultrasound images - in which the view of kidney is observable - using Matlab2013b to improve the image contrast and quality which has a fuzzy definition; just like image contrast improvement algorithms using a fuzzy intensification operator, contrast improvement algorithms applying fuzzy image histogram hyperbolization, and contrast improvement algorithms by fuzzy IF-THEN rules.
+
+
+RESULTS
+With the measurement of Mean Squared Error and Peak Signal to Noise Ratio obtained from different images, fuzzy methods provided better results, and their implementation - compared with histogram equalization method - led both to the improvement of contrast and visual quality of images and to the improvement of liver segmentation algorithms results in images.
+
+
+CONCLUSION
+Comparison of the four algorithms revealed the power of fuzzy logic in improving image contrast compared with traditional image processing algorithms. Moreover, contrast improvement algorithm based on a fuzzy intensification operator was selected as the strongest algorithm considering the measured indicators. This method can also be used in future studies on other ultrasound images for quality improvement and other image processing and analysis applications.

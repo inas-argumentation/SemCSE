@@ -1,0 +1,2 @@
+UIUC/MUSC at TREC 2005 Genomics Track
+We report experiment results from the collaborative participation of UIUC and MUSC in the TREC 2005 Genomics Track. We participated in both the adhoc task and the categorization task, and studied the use of some mixture language models in these tasks. Experiment results show that a structured theme-based language modeling approach is effective in improving retrieval effectiveness for the ad hoc taks and the Latent Dirichlet Allocation method is effective in dimension reduction for the categorization task.

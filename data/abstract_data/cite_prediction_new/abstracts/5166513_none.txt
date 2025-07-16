@@ -1,0 +1,2 @@
+A Note on the Call-Put Parity and a Call-Put Duality
+Along with the well-known “call-put parity” relation, that makes it possible to express the rational price of a put option in terms of the rational price of a call option, we introduce a “call-put duality” relation. This new concept offers a simple explanation of the relationship between the rational price of a put option and a call option, not only for options of the European type, but also for options of the American type.

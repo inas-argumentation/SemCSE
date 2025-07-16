@@ -1,0 +1,2 @@
+Fast Method to Optimize RF Bumper Transparency for Wide-Band Automotive Radar
+This article describes novel methods to enhance the RF integration of wideband automotive radars. The first part of the paper is introducing the context and the considered scenario. Whereas the second part is focusing on two solutions to improve the radar integration in car chassis environment. The aim is to have good RF performances on wideband operation (76–81 GHz) and on a wide range of angle of incidence for the radar having wide field of view (e.g. Blind spot radar, Pedestrian detection, …).

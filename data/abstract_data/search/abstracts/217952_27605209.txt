@@ -1,0 +1,2 @@
+Design and Implementation of Website Backup as a Service
+Maintaining reliable backups of a website can be time consuming, expensive, or both. Numerous approaches exist for website backup, each with their specific limitations. In this thesis, we propose and design a new sophisticated website backup application, which combines the best features of existing solutions and satisfies a number of requirements. We will implement a working prototype, describe its operation and explain the structure and design decisions.

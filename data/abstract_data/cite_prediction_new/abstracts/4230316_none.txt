@@ -1,0 +1,2 @@
+Inductance-Tuned LC-VCO for Reconfigurable RF Circuit Design
+This paper presents a wide tuning range LC-VCO using an on-chip variable inductor to extend tuning range. The VCO was fabricated using 0.35µm CMOS process. The tuning range was found to be 37.8% without degradation of phase noise by inductance tuning. Wide tunable VCO with an on-chip variable inductor is one of the key circuits of reconfigurable RF circuit.

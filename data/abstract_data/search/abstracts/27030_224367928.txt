@@ -1,0 +1,2 @@
+Solving Rubik's Cube
+Solving a rubik's cube is a familiar problem that already has a fixed algorithm apprehendable for humans, however, such algorithm is not optimal in the solution length. The goal of our project is to use AI methods learned in class, such as informed search, to solve a random state of the cube optimally while reducing the amount of work done in the search (decreasing search time and the number of expanded node) We will explore various heuristic functions and compare their effectiveness on the search.

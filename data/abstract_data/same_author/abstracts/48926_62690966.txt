@@ -1,0 +1,4 @@
+Fast and Controllable Simulation of the Shattering of Brittle Objects
+We present a method for the rapid and controllable simulation of the shattering of brittle objects under impact. An object is represented as a set of point masses connected by distance-preserving linear constraints. This use of constraints, rather than stiff springs, gains us a significant advantage in speed while still retaining fine control over the fracturing behavior. The forces exerted by these constraints during impact are computed using Lagrange multipliers. These constraint forces are then used to determine when and where the object will break, and to calculate the velocities of the newly created fragments. We present the details of our technique together with examples illustrating its use. 
+ 
+An earlier version of this paper was presented at Graphics Interface 2000, held in Montreal, Canada.

@@ -1,0 +1,2 @@
+Task Dependence Net as a Representation for Concurrent Ada Programs
+This paper proposes two new types of basic program dependences in concurrent programs, named the synchronization dependence and the communication dependence, and a new program representation for concurrent Ada programs, named the Task Dependence Net (TDN). The task dependence net can be used as a unified representation in a concurrent Ada programming environment.

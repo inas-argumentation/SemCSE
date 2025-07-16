@@ -1,0 +1,2 @@
+Vacuum Solutions Which Cannot Be Written in Diagonal Form
+The vacuum solution ds2 = dx2 + x2 dy2 + 2 dz dt + x dt2 of the Einstein gravitational field equation follows from the general ansatz ds2 = dx2 + ά β (x) dxάdxβ but fails to follow from it if the symmetric matrix gαβ (x) is assumed to be in diagonal form.

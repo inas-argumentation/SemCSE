@@ -1,0 +1,2 @@
+Design of biorthogonal M-channel cosine-modulated FIR/IIR filter banks
+We investigate on the problem of designing biorthogonal filter banks obtained by the cosine-modulation of an analysis and a synthesis prototype. The design procedure is developed in a general framework including both finite impulse response (FIR) and causal infinite impulse response (IIR) prototypes. Numerical examples are presented to show the effectiveness of the method.

@@ -1,0 +1,2 @@
+Incremental Techniques for Efficient Normalization of Nonlinear Rewrite Systems
+In [8] we described a nonlinear pattern-matching algorithm with the best known worst-case and optimal average-case time complexity. In this paper we first report on some experiments conducted on our algorithm. Based on these experiments we believe that our algorithm is useful in speeding up normalization of nonlinear rewrite systems even when it has a small number (≥5) of rewrite rules.

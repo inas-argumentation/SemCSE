@@ -1,0 +1,2 @@
+Analysis and Modeling of Traffic in Modern Data Communication Networks
+In performance analysis and design of communication netword modeling data traffic is important. With introduction of new applications, the characteristics of the data traffic changes. We present a brief review the different models of data traffic and how they have evolved. We present results of data traffic analysis and simulated traffic, which demonstrates that the packet train model fits the traffic at source destination level and long-memory (self-similar) model fits the traffic at the aggregate level.

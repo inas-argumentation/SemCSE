@@ -1,0 +1,2 @@
+Area-efficient high-speed 3D DWT processor architecture
+An area-efficient high-throughput architecture based on distributed arithmetic is proposed for 3D discrete wavelet transform (DWT). The 3D DWT processor was designed in VHDL and mapped to a Xilinx Virtex-E FPGA. The processor runs up to 85 MHz, which can process the five-level DWT analysis of a 128times128times128 fMRI volume image in 20 ms

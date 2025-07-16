@@ -1,0 +1,15 @@
+Image Artifact Management for Clinical Magnetic Resonance Imaging on a 7 T Scanner Using Single-Channel Radiofrequency Transmit Mode.
+OBJECTIVES
+The aim of this work was to devise mitigation strategies for addressing a range of image artifacts on a clinical 7 T magnetic resonance imaging scanner using the regulatory-approved single-channel radiofrequency transmit mode and vendor-supplied radiofrequency coils to facilitate clinical scanning within reasonable scan times.
+
+
+MATERIALS AND METHODS
+Optimized imaging sequence protocols were developed for routine musculoskeletal knee and neurological imaging. Sources of severe image nonuniformities were identified, and mitigation strategies were devised. A range of custom-made high permittivity dielectric pads were used to compensate for B1 and B1 inhomogeneities, and also for magnetic susceptibility-induced signal dropouts particularly in the basal regions of the temporal lobes and in the cerebellum.
+
+
+RESULTS
+Significant improvements in image uniformity were obtained using dielectric pads in the knee and brain. A combination of small voxels, reduced field of view B0 shimming, and high in-plane parallel imaging factors helped to minimize signal loss in areas of high susceptibility-induced field distortions. The high inherent signal-to-noise ratio at 7 T allowed for high receiver bandwidths and thin slices to minimize chemical shift artifacts. Intermittent artifacts due to radiofrequency inversion pulse limitations (power, bandwidth) were minimized with dielectric pads. A patient with 2 implanted metallic cranial fixation devices located within the radiofrequency transmit field was successfully imaged, with minimal image geometric distortions.
+
+
+CONCLUSIONS
+Challenges relating to severe image artifacts at 7 T using single-channel radiofrequency transmit functionality in the knee and brain were overcome using the approaches described in this article. The resultant high diagnostic image quality paves the way for incorporation of this technology into the routine clinical workflow. Further developmental efforts are required to expand the range of applications to other anatomical areas, and to expand the evidence- and knowledge-base relating to the safety of scanning patients with implanted metallic devices.

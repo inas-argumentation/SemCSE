@@ -1,0 +1,2 @@
+Modeling of wave behavior of substrate noise coupling for mixed-signal IC design
+A new full-wave method is introduced for substrate noise analysis and simulation. The method is based on solution of the wave equation for the magnetic potential and can be implemented using standard circuit simulators. We compare the new method with the standard quasi-static method for typical substrate profiles and investigate the limits of validity of the quasi-static method.

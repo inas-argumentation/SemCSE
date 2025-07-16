@@ -1,0 +1,2 @@
+Requirements for Traffic Engineering Over MPLS
+This document presents a set of requirements for Traffic Engineering over Multiprotocol Label Switching (MPLS) It identifies the functional capabilities required to implement policies that facilitate efficient and reliable network operations in an MPLS domain. These capabilities can be used to optimize the utilization of network resources and to enhance traffic oriented performance characteristics.

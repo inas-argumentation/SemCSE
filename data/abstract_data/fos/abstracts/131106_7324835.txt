@@ -1,0 +1,2 @@
+Time evolution of quantum fractals
+We propose a general construction of wave functions of arbitrary prescribed fractal dimension, for a wide class of quantum problems, including the infinite potential well, harmonic oscillator, linear potential, and free particle. The box-counting dimension of the probability density P(t)(x) = |Psi(x,t)|(2) is shown not to change during the time evolution. We prove a universal relation D(t) = 1+Dx/2 linking the dimensions of space cross sections Dx and time cross sections D(t) of the fractal quantum carpets.

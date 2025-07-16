@@ -1,0 +1,6 @@
+Topological types ofp-hyperelliptic real algebraic curves
+Given a natural number p, a projective irreducible smooth algebraic curve V defined over R is called p-hyperelliptic if there exists a birational isomorphism of V, of order 
+2, such that V/ has genus p. This work is concerned with the existence of such curves according to their genus g and the number k of connected components of V(R). 
+We prove that Harnack’s condition 1 k g is sufficient if V \ V (R) is connected. 
+In case V \ V (R) non-connected, the following conditions 1 k g + 1 (g + k 1(2)), and either k = g + 1 − 2q for some q, 0 q p, or k 2p + 2 with = 1 for even p, 
+ = 2 for odd p, are necessary and sufficient for the existence of the curve.

@@ -1,0 +1,2 @@
+Transformation based insertion of on-line testing resources in a high-level synthesis environment
+On-line testability is essential in designs with high reliability requirements. High-level synthesis reduces time-to-market and enables efficient design space exploration. In our work, we implement on-line testable designs in a high-level synthesis context. We refer to our new technique (inversion testing) and exploit its features, in an attempt to reduce hardware penalties.

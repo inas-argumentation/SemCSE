@@ -1,0 +1,2 @@
+Strong rank revealing LU factorizations
+Abstract For any m × n matrix A we introduce a definition of strong rank revealing LU (RRLU) factorization related to the definition presented by Pan, but with some extensions similar to the notion of strong rank revealing QR factorization developed in the joint work of Gu and Eisenstat. A pivoting strategy based on the idea of local maximum volumes is introduced and a proof of the existence of strong RRLU is given.

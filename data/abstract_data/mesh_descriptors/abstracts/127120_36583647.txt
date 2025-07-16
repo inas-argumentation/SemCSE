@@ -1,0 +1,19 @@
+A new risk score predicting 1- and 5-year mortality following acute myocardial infarction Soroka Acute Myocardial Infarction (SAMI) Project.
+BACKGROUND
+Risk stratification of patients following acute myocardial infarction (AMI), in order to identify patients whose clinical outcomes can be improved through specific medical interventions, is needed.
+
+
+OBJECTIVES
+Development and validation of a prognostic tool comprising a variety of non-cardiovascular co-morbidities, to predict mortality of hospital survivors after AMI.
+
+
+METHODS
+The study cohort included 2773 consecutive patients with AMI who were discharged live from the Soroka University Medical Center between 2002 and 2004. Two-thirds were used obtain the model (training set) and one-third to validate it (validation set). Data were collected from the hospital's routine computerized information systems. The primary outcome was post-discharge 1-year all-cause mortality. The weight of each variable in the final score was computed based on the odds ratio values of the multivariate model. Additionally, the ability of the index to predict 5-year mortality was assessed.
+
+
+RESULTS
+These are comprised of the following parameters: 4 points - age >75 years, abnormal echocardiography findings; 3 points - at least one of following: gastro-intestinal hemorrhage, COPD, malignancy, alcohol or drug addiction, neurological disorders, psychiatric disorders; 2 points - no echocardiography results, renal diseases, anemia, hyponatremia; -3 points for PCI or thrombolytic therapy; -6 points - CABG; -2 points - obesity. The c-statistics for 1-year all-cause mortality were 0.86 and 0.83 in the training and validation sets, respectively. The c-statistics for 5-year mortality was 0.858 for both sets combined.
+
+
+CONCLUSIONS
+The new score is a simple robust tool for predicting mortality in patients discharged alive following AMI.

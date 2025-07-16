@@ -1,0 +1,2 @@
+PRODUCTS OF INDECOMPOSABLE, APERIODIC, STOCHASTIC MATRICES1
+exists and all the rows of Q are the same. SIA matrices are defined differently in books on probability theory; see, for example, [l] or [2] The latter definition is more intuitive, takes longer to state, is easier to verify, and explains why the probabilist is interested in SIA matrices. A theorem in probability theory or matrix theory then says that the customary definition is equivalent to the one we have given. The latter is brief and emphasizes the property which will interest us in this note. We define O(P) by

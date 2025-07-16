@@ -1,0 +1,2 @@
+The Strong Chromatic Index of Random Graphs
+The strong chromatic index of a graph $G$, denoted by $\chi_s(G)$, is the minimum number of colors needed to color its edges so that each color class is an induced matching. In this paper we analyze the asymptotic behavior of this parameter in a random graph $G(n,p)$, for two regions of the edge probability $p=p(n)$. For the dense case, where $p$ is a constant, $0

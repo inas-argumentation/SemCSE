@@ -1,0 +1,2 @@
+An essential property of the Fourier transforms of distribution functions
+Fourier transforms of distribution functions are an important tool in the theory of probability because they have certain properties. These properties are expressed in the uniqueness theorem, the convolution theorem, and the continuity theorem (cf. [1, pp. 93, 96, 188]). This note deals with the question of whether there are any other integral transforms of distribution functions which have these properties. We consider an integral transform

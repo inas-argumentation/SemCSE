@@ -1,0 +1,2 @@
+Abstracting human control strategy in projecting light source
+In this paper, we present a method of modeling human strategy in controlling a light source in a dynamic environment. We take a simple example of how to control the light source to avoid a shadow and maintain appropriate illumination conditions on the target area of attention to illustrate the procedure and method. This work is valuable to various applications of automatic light control from surgical room and space applications to inspections.

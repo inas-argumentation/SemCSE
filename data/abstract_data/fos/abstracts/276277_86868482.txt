@@ -1,0 +1,2 @@
+Stabilization of elastic plates with variable coefficients and dynamical boundary control
+The aim of this paper is to investigate the stabilization of a hybrid system composed of a plate equation with variable coefficients and two ordinary differential equations under some suitable feedbacks. A rational energy decay rate is established by the multiplier method and the Riemannian geometry method, and the uniform energy decay rate for a simplified system is obtained.

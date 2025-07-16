@@ -1,0 +1,2 @@
+Fourier split-step parabolic equation solution of wave propagation over forest edge
+Analysis of the wave propagation over forest edge with Fourier split-step parabolic equation is presented. The terrain is approximated by piecewise linear segments to simplify implementation of boundary condition. The predicted propagation over forest edge in fir forest environment is compared with measurements, good agreement is reported and the rms error is analyzed.

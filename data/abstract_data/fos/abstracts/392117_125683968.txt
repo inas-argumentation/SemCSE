@@ -1,0 +1,2 @@
+Wavelet analysis of uniformly time-modulated processes
+Uniformly time-modulated processes (UTMP) offer a simple, though convenient model for many non stationary time series. However, in many applications, dependency is considered as a disturbing factor. For the UTMP using Weierstrass representation of modulating function, we demonstrated that the correlation between coefficients in wavelet domain is a decreasing function of number of wavelet vanishing moments and tends to zero in progressive rate as we move from finer scales to coarser scales.

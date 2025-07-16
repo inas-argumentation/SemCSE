@@ -1,0 +1,2 @@
+Wavelets and curvelets for image deconvolution: a combined approach
+We propose in this paper a new deconvolution approach, which uses both the wavelet transform and the curvelet transform in order to benefit from the advantages of each. We illustrate the results with simulations.

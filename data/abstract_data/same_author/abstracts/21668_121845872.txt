@@ -1,0 +1,2 @@
+Test of charge-to-time conversion and multi-hit TDC technique for the BELLE CDC readout
+We tested a new CDC readout scheme utilizing a Charge-to-Time conversion (QTC) technique and multi-hit TDC to record both time and charge information. The new scheme is planned to be used in the BELLE experiment at the KEK B-Factory. We built a prototype Shaper/QTC board and examined the performance with a beam test. This new scheme worked successfully. We obtained the same spatial and dEdx resolutions as those using an ordinary TDC and ADC readout scheme.

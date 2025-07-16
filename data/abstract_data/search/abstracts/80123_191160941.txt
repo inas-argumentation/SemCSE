@@ -1,0 +1,2 @@
+Risk sensitive finite horizon piecewise deterministic Markov decision processes
+Abstract This paper deals with risk sensitive piecewise deterministic Markov decision processes, where the expected exponential utility of a finite horizon reward is to be maximized. Both the transition rates and reward functions are allowed to be unbounded. Feynman Kac's formula is developed in our setup, using which along with an approximation technique, we establish the associated Hamilton Jacobi Bellman equation and the existence of risk sensitive optimal policies under suitable conditions.

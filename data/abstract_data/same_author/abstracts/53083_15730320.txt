@@ -1,0 +1,6 @@
+A Novel Information Transmission Problem and Its Optimal Solution
+We propose and study a new information transmission problem motivated by today's internet. Suppose a real number needs to be transmitted in a network. This real number may represent data or control and pricing information of the network. We propose a new transmission model in which the real number is encoded using Bernoulli trials. This differs from the traditional framework of Shannon's information theory. We propose a natural criterion for the quality of an encoding scheme. Choosing the best encoding reduces to a problem in the calculus of variations, which we solve rigorously. In particular, we show there is a unique optimal encoding, and give an explicit formula for it. 
+ 
+We also solve the problem in a more general setting in which there is prior information about the real number, or a desire to weight errors for different values non-uniformly. 
+ 
+Our tools come mainly from real analysis and measure-theoretic probability, but there is also a connection to classical mechanics. Generalizations to higher dimensional cases are open.

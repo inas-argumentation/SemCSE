@@ -1,0 +1,2 @@
+Quantum simulations of strongly coupled quark-gluon plasma
+A strongly coupled quark-gluon plasma (QGP) of heavy constituent quasi-particles is studied by a path-integral Monte-Carlo method. This approach is a quantum generalization of the classical molecular dynamics by Gelman, Shuryak, and Zahed. It is shown that this method is able to reproduce the QCD lattice equation of state. The results indicate that the QGP reveals liquid-like rather than gaslike properties. Quantum effects turned out to be of prime importance in these simulations.

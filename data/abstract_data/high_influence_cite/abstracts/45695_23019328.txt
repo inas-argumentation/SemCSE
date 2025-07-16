@@ -1,0 +1,20 @@
+Finding Good Compiler Optimization Sets - A Case-based Reasoning Approach
+Case-Based Reasoning have been used for a long times to solve several problems. The first Case-Based Reasoning 
+ 
+used to find good compiler optimization sets, for an unseen program, proposed several strategies to 
+ 
+tune the system. However, this work did not indicate the best parametrization. In addition, it evaluated the 
+ 
+proposed approach using only kernels. Our paper revisit this work, in order to present an detail analysis of an 
+ 
+Case-Based Reasoning system, applied in the context of compilers. In adition, we propose new strategies to 
+ 
+tune the system. Experiments indicate that Case-Based Reasoning is a good choice to find compiler optimization 
+ 
+sets that outperform a well-engineered compiler optimization level. Our Case-Based Reasoning approach 
+ 
+achieves an average performance of 4.84% and 7.59% for cBench and SPEC CPU2006, respectively. In addition, 
+ 
+experiments also indicate that Case-Based Reasoning outperforms the approach proposed by Purini and 
+ 
+Jain, namely Best10.

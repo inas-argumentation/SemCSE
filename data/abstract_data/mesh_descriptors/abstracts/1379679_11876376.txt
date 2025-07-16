@@ -1,0 +1,15 @@
+The St. Gallen surrogate classification for breast cancer subtypes successfully predicts tumor presenting features, nodal involvement, recurrence patterns and disease free survival.
+AIMS
+To evaluate how the St. Gallen intrinsic subtype classification for breast cancer surrogates predicts disease features, recurrence patterns and disease free survival.
+
+
+MATERIALS AND METHODS
+Subtypes were classified by immunohistochemical staining according to St. Gallen subtypes classification in a 5-tyre system: luminal A, luminal B HER2-neu negative, luminal B HER2-neu positive, HER2-neu non luminal or basal-like. Data were obtained from the records of patients with invasive breast cancer treated at our institution. Recurrence data and site of first recurrence were recorded. The chi(2) test, analysis of variance, and multivariate logistic regression analysis were used to determine associations between surrogates and clinicopathologic variables.
+
+
+RESULTS
+A total of 2.984 tumors were classifiable into surrogate subtypes. Significant differences in age, tumor size, nodal involvement, nuclear grade, multicentric/multifocal disease (MF/MC), lymphovascular invasion, and extensive intraductal component (EIC) were observed among surrogates (p < 0.0001). After adjusting for confounding factors surrogates remained predictive of nodal involvement (luminal B HER2-neu pos. OR = 1.49 p = 0.009, non-luminal HER2-neu pos. OR = 1.61 p = 0.015 and basal-like OR = 0.60, p = 0.002) while HER2-neu positivity remained predictive of EIC (OR = 3.10, p < 0.0001) and MF/MC (OR = 1.45, p = 0.02). Recurrence rates differed among the surrogates and were time-dependent (p = 0.001) and site-specific (p < 0.0001).
+
+
+CONCLUSION
+The St. Gallen 5-tyre surrogate classification for breast cancer subtypes accurately predicts breast cancer presenting features (with emphasis on prediction of nodal involvement), recurrence patterns and disease free survival.

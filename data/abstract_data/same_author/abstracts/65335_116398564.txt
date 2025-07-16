@@ -1,0 +1,6 @@
+Linear and Quasi-Linear Equations of Evolution of Hyperbolic Type
+In these lectures I shall discuss the Cauchy problem for linear and quasi-linear equations of evolution of the form 
+ 
+$$\eqalign{ & (L)\quad du + A(t)u = 0,\quad 0 \leqslant t \leqslant T,\quad u(0) = \phi , \cr & (Q)\quad du + A(u(t)u = 0,\quad 0 \leqslant t \leqslant T,\quad u(0) = \phi , \cr} $$ 
+ 
+where du = dtu = du/dt. In the case of (Q), ve shall consider only local solutions in time (solutions that exist for sufficiently small t).

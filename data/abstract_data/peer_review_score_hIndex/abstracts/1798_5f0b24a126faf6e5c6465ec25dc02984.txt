@@ -1,0 +1,2 @@
+Investigating Recurrence and Eligibility Traces in Deep Q-Networks
+Eligibility traces in reinforcement learning are used as a bias-variance trade-off and can often speed up training time by propagating knowledge back over time-steps in a single update. We investigate the use of eligibility traces in combination with recurrent networks in the Atari domain.  We illustrate the benefits of both recurrent nets and eligibility traces in some Atari games, and highlight also the importance of the optimization used in the training.

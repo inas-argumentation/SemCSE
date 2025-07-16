@@ -1,0 +1,17 @@
+Commitments Among Autonomous Agents in Information-Rich Environments
+Commitments are crucial to understanding and designing autonomous agents and multiagent systems. We propose a definition of commitments that applies especially well to agents in information-rich applications, such as electronic commerce and virtual enterprises. Our approach has a number of important features, including 
+ 
+ 
+not gratuitously translating social concepts to psychological concepts 
+ 
+ 
+distinguishing between satisfied and inapplicable commitments 
+ 
+ 
+incorporating social policies to handle the creation, satisfaction, and cancelation of commitments 
+ 
+ 
+relating commitments to organizational structure in a multiagent system 
+ 
+ 
+showing how commitments are acquired by agents as a consequence of adopting a role.

@@ -1,0 +1,2 @@
+Circular window control schemes in fast packet switches
+In this paper, we investigate a scheduling algorithm, called circular window control (CWC) scheme, for packet switch fabrics. The scheme is simple and efficient. It uses a fixed length window with circular transmission sequences to minimize possible switch and output contentions. The scheme can attain a maximal throughput of 100%; in nonblocking switches as well as banyan-based blocking switches. The performance analyses and simulation results of the CWC scheme an also presented.

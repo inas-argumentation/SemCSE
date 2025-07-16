@@ -1,0 +1,2 @@
+Reconstruction and Motion Estimation from Apparent Contours under Circular Motion
+In thispaperweaddresstheproblemof recoveringstructureandmotionfrom thecontoursof a smooth-curvedsurface.A novel andsimplertechniquefor computingthestructureof anobjectfrom its profilesis introduced.Experimentswith real datashow encouragingresults,which are comparableto thoseobtainedfrom muchmore sophisticatedtechniques.Furthermore,a new methodfor motion estimationfrom sequencesof profilesis proposed. Preliminaryresultsdemonstratethefeasibilityof thealgorithm.

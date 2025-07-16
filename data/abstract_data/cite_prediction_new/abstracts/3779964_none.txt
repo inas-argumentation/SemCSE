@@ -1,0 +1,2 @@
+Modeling aventurescent gems with procedural textures
+In this paper we present the results of an investigation on how one can model aventurescence, an interesting and optically appealing property of some gemstones. Our goal was to find a method that is both efficient and reasonably realistic, and that can still be used in the context of a global illumination rendering system.

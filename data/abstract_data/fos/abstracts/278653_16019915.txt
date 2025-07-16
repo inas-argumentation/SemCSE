@@ -1,0 +1,2 @@
+Theoretical Attacks on E2E Voting Systems
+We give a survey of existing attacks against end-to-end verifiable voting systems in the academic literature. We discuss attacks on the integrity of the election, attacks on the privacy of voters, and attacks aiming at coercion of voters. For each attack, we give a brief overview of the voting system and a short description of the attack and its consequences.

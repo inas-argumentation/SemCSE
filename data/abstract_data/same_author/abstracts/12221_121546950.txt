@@ -1,0 +1,4 @@
+How to use electrodeless drift chambers in experiments at accelerators
+Several types of wide-gap electrodeless drift chambers, including those with dimensions 1×1 m2, have been tested at accelerator beams. The chambers work with high efficiency (>99%), good spatial resolution (σ = 0.2−0.4 mm) and good linearity at flux rates up to 2×105 particles−1 per wire in spill, which corresponds to 3×106 particles/s m2 on colliders. 
+ 
+It is shown that at the proper mode of operation beam intensity oscillations within the range of up to 4×105 particles/spill per wire do not affect the chamber efficiency.

@@ -1,0 +1,2 @@
+Almost sure stability of the delayed Markovian jump RDNNs
+In this paper, we consider the almost sure stability of the delayed reaction–diffusion neural networks (RDNNs) with Markovian jump parameters and Dirichlet boundary conditions. By constructing new Lyapunov functional and utilizing some inequality techniques we give sufficient conditions ensuring the almost sure stability. The criteria can also ensure the almost sure global exponential stability when the input is equal to zero. Two numerical examples are given to demonstrate the effectiveness of the proposed approach.

@@ -1,0 +1,2 @@
+4-PAM/FM with noncoherent detection for a Pan-European paging system
+The paper presents the performance of a simulcast digital radio paging system, computed and measured in the presence of both additive white Gaussian noise (AWGN) and Rayleigh fading plus AWGN. A number of combinations of time delay, frequency offset, amplitude imbalance among the signals are considered. The results presented have been utilized for contributing to the definition of ERMES, the new European radio message system. >

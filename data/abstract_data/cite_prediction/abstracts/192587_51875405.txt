@@ -1,0 +1,2 @@
+Denoising Distantly Supervised Open-Domain Question Answering
+Careful Reading Fast Skimming p1: As the capital of Ireland, Dublin is ... p3: Dublin is the capital of Ireland. Besides, Dublin is one of famous tourist cities in Ireland and ... p1: As the capital of Ireland, Dublin is ... p3: Dublin is the capital of Ireland. Besides, Ottawa is one of famous tourist cities in Ireland and ... Paragraph Selector Paragraph Reader P(pi |q,P) P(a|q,pi ) P(a|q,P)= P(a|q,pi )P(pi |q,P) pi∈P ∑ Question:

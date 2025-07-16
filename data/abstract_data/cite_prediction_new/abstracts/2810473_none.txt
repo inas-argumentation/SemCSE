@@ -1,0 +1,15 @@
+Block‐matching sparsity regularization‐based image reconstruction for low‐dose computed tomography
+PURPOSE
+Low-dose computed tomography (CT) imaging has been widely explored because it can reduce the radiation risk to human bodies. This presents challenges in improving the image quality because low radiation dose with reduced tube current and pulse duration introduces severe noise. In this study, we investigate block-matching sparsity regularization (BMSR) and devise an optimization problem for low-dose image reconstruction.
+
+
+METHOD
+The objective function of the program is built by combining the sparse coding of BMSR and analysis error, which is subject to physical data measurement. A practical reconstruction algorithm using hard thresholding and projection-onto-convex-set for fast and stable performance is developed. An efficient scheme for the choices of regularization parameters is analyzed and designed.
+
+
+RESULTS
+In the experiments, the proposed method is compared with a conventional edge preservation method and adaptive dictionary-based iterative reconstruction. Experiments with clinical images and real CT data indicate that the obtained results show promising capabilities in noise suppression and edge preservation compared with the competing methods.
+
+
+CONCLUSIONS
+A block-matching-based reconstruction method for low-dose CT is proposed. Improvements in image quality are verified by quantitative metrics and visual comparisons, thereby indicating the potential of the proposed method for real-life applications.

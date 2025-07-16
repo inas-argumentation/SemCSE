@@ -1,0 +1,2 @@
+Modeling Functional Data Sources as Relations
+In this paper we present a model of functional access to data that, we argue, is suitable for modeling a class of data repositories characterized by functional access, such as web sites. We discuss the problem of modeling such data sources as a set of relations, of determining whether a given query expressed on these relations can be translated into a combination of functions defined by the data sources, and of finding an optimal plan to do so.

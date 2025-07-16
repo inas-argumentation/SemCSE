@@ -1,0 +1,2 @@
+Design and Application of Short Message Sending Interface Based on Web Service
+In the modern office system,the service of short message is in widespread use.In terms of the actual features of education management system,uses.NET framework to establish a short message sending platform based on Web Service,which adopts industrial USB interface,GSM Modem,Short Message Cat as hardware platform.Designs the necessary interface for short message sending and solves technical problems in the practical application.

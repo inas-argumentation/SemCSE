@@ -1,0 +1,2 @@
+Parallel Trace-Driven Simulation of Packet-Switched Multiplexer Under Priority Scheduling Policy
+We proposed an approximate parallel simulation for packet loss of packet-switched multiplexer with priority scheduling policy. The speedup of the algorithm over the sequential simulation is O(N), where N is the number of processors. For packets with priority level m, the number Lm of lost packets computed in the algorithm is bounded by the exact number LmE within 2(N−1) packets. That is, |Lm−LmE| ⩽2(N−1).

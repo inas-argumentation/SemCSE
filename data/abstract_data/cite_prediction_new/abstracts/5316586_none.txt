@@ -1,0 +1,11 @@
+CATEGORY MODEL TO MODELING THE SURFACE TEXTURE KNOWLEDGE-BASE
+The next generations of Geometrical Product Specification (GPS) standards are considered to be too 
+theoretical, abstract, complex and over-elaborate. And it is not easier for industry to understand and 
+implement them efficiently in a short time. An intelligent knowledge-based system, “VirtualSurf” is 
+being developed to solve the problem, particularly for surface texture knowledge, which is a critical 
+part of GPS. This system will provide expert knowledge of surface texture to link surface function, 
+specification of micro- and nano-geometry through manufacture, and verification. The intelligent 
+knowledge-base should be capable of incorporating knowledge from multiple sources (standards, 
+books, experts, etc), adding new knowledge from these sources and still remain a coherent reliable 
+system. A new data model – category model, based on category theory will be adopted to construct 
+this system.

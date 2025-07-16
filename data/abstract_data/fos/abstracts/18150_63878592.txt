@@ -1,0 +1,2 @@
+Analysis and Application of Role-based Access Control Models
+This paper describes three access control mechanisms?押 Discretionary Access Control, Mandatory Access Control, Role-based Access Control. Then it emphatically analyses three RBAC models?押 RBAC96, EHRBAC, ARBAC97. Finally, it introduces application of RBAC technology and presents an implementation model of RBAC .

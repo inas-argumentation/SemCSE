@@ -1,0 +1,2 @@
+Monte Carlo Techniques for Estimating the Fiedler Vector in Graph Applications
+Determiningthe Fiedler vector of the Laplacian or adjacency matrices of graphs is the most computationally intensive component of several applications, such as graph partitioning, graph coloring, envelope reduction, and seriation. Often an approximation of the Fiedler vector is sufficient.We discuss issues involved in the use of Monte Carlo techniques for this purpose.

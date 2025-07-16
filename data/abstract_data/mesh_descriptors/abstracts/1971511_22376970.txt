@@ -1,0 +1,15 @@
+Usefulness of artificial neural network for differential diagnosis of hepatic masses on CT images.
+RATIONALE AND OBJECTIVE
+Our purpose in this study is to apply an artificial neural network (ANN) for differential diagnosis of certain hepatic masses on computed tomographic (CT) images and evaluate the effect of ANN output on radiologist diagnostic performance.
+
+
+MATERIALS AND METHODS
+We collected 120 cases of hepatic disease. We used a single three-layer feed-forward ANN with a back-propagation algorithm. The ANN is designed to differentiate four hepatic masses (hepatocellular carcinoma, intrahepatic peripheral cholangiocarcinoma, hemangioma, and metastasis) by using nine clinical parameters and 24 radiological findings in dual-phase contrast-enhanced CT images. Thus, the ANN consisted of 33 input units and four output units. Subjective ratings for the 24 radiological findings were provided independently by two attending radiologists. All clinical cases were used for training and testing of the ANN by implementation of a round-robin technique. In the observer test, CT images of all 120 cases (30 cases for each disease) were used. CT images were viewed by seven radiologists first without and then with ANN output. Radiologist performance was evaluated by using receiver operating characteristic (ROC) analysis on a continuous rating scale.
+
+
+RESULTS
+Averaged area under the ROC curve for ANN alone was 0.961. The diagnostic performance of seven radiologists increased from 0.888 to 0.934 (P < .02) when they used ANN output.
+
+
+CONCLUSION
+The ANN can provide useful output as a second opinion to improve radiologist diagnostic performance in the differential diagnosis of hepatic masses seen on contrast-enhanced CT.

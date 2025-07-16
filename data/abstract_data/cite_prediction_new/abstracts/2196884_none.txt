@@ -1,0 +1,15 @@
+A computer-generated stereotactic "Virtual Subdural Grid" to guide resective epilepsy surgery.
+BACKGROUND AND PURPOSE
+In selected patients undergoing epilepsy surgery, subdural electrode grids play an important role in localizing the epileptogenic zone and identifying eloquent cortex. Determining the relationship of the electrodes to underlying brain architecture traditionally has been difficult. This report describes and validates the use of an original computer-aided method that displays a representation of the electrode positions, based on postimplantation CT or MR findings, coregistered with a 3D-rendered image of the brain, on an image-guided surgery system.
+
+
+METHODS
+Seventeen patients underwent the procedure with visual verification of the actual and virtual grids undertaken during the second (postimplantation) surgery. The accuracy of the Virtual Grid electrode positions was further studied in a subgroup of five patients during surgery by plotting the distance from the actual electrode positions by using an infrared stereotactic probe.
+
+
+RESULTS
+The accuracy of the Virtual Grid electrode positions by visual inspection was satisfactory in all 17 cases. In the five cases in which quantitative measurements were performed, the mean error for the CT derived electrode positions was 3.4 mm (range 0.5-5.4) compared with the mean error for the MR-derived electrode positions of 2.5 mm (range 0.5-5.2).
+
+
+CONCLUSION
+The Virtual Grid electrode positions were highly accurate in localizing the actual position of the subdural electrodes with both CT- and MR-derived images. The MR-derived electrodes demonstrated a trend toward better accuracy, but the CT images were quicker and easier to process. This technology has the potential to minimize both human and technical errors, allowing for a more precise tailoring of the cortical resection in epilepsy surgery.

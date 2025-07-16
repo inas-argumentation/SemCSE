@@ -1,0 +1,3 @@
+A fast multi-scale method for drawing large graphs
+We present a multi-scale layout algorithm for the aesthetic drawing of undirected graphs with straight-line edges. The algorithm is extremely fast, and is capable of drawing graphs of substantially larger size than any other algorithm we are awars of. For example, the algorithm achieves optimal drawings of 1000 vertex graphs in less than 3 seconds. The paper contains graphs with over 6000 nodes. The proposed algorithm embodies a new multi-scale scheme for drawing graphs, which can significantly improve the speed of essentially any force-directed method.
+Graphs have become an important part of recently proposed user interfaces, hence the relevance of this paper to work on interface issues.

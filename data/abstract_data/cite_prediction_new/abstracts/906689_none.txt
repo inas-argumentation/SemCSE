@@ -1,0 +1,2 @@
+Interaction with a mixed-initiative system for exploratory data analysis
+Exploratory data analysis (EDA) plays an increasingly important role in statistical analysis. EDA is difficult, however, even with the help of modern statistical software. We have developed an assistant for data exploration, based on Al planning techniques, that addresses some of the strategic shortcomings of conventional software. This paper describes the design and behavior of the system and discusses an experimental evaluation that demonstrates the effectiveness of our approach.

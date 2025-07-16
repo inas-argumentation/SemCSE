@@ -1,0 +1,4 @@
+Optimization and Adaptive Generalization of Three layer Neural Networks
+While there has been substantial recent work studying  generalization of neural networks, 
+the ability of deep nets in automating the process of feature extraction still evades a thorough mathematical understanding.  
+As a step toward this goal, we analyze learning and generalization of a three-layer neural network with ReLU activations in a regime that goes beyond the linear approximation of the network, and is hence not captured by the common Neural Tangent Kernel. We show that despite nonconvexity of the empirical loss, a variant of SGD converges in polynomially many iterations to a good solution that generalizes. In particular, our generalization bounds are adaptive: they automatically optimize over a family of kernels that includes the Neural Tangent Kernel, to provide the tightest bound.  

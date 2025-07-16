@@ -1,0 +1,2 @@
+bSSFP phase correction and its use in magnetic resonance electrical properties tomography
+Balanced steady‐state free precession (bSSFP) sequence is widely used because of its high SNR and high speed. However, bSSFP images suffer from “banding artifact” caused by B0 inhomogeneity. In this article, we propose a method to remove this artifact in bSSFP phase images and investigate the usage of the corrected phase images in phase‐based magnetic resonance electrical properties tomography (MREPT).

@@ -1,0 +1,22 @@
+Unitarity restrictions on meson-nucleon helicity-flip amplitudes and slope of the diffraction peak
+SummaryWe generalize the MacDowell-Martin bound on the slope parameterbA for the spinless case to the case of spin-0-spin-1/2 elastic scattering with parity conservation. We give the optimal answer for all energies as well as the simpler (slightly weaker) bound
+
+$$cb^A \geqslant \frac{{\sigma _{tot}^2 }}{{36\pi \sigma _{el} }}\left[ {\sqrt {1 + \frac{{9\pi \sigma _{el} }}{{4k^2 \sigma _{tot}^2 }}} + 1} \right] - \frac{1}{{4k^2 }} (k = c.m. momentum).$$
+
+ Here the superscript A refers to the absorptive-part contribution. We also obtain unitarity restrictions on the helicity-flip amplitude
+
+$$cf_{ + - }^A (t)/\sqrt { - t} |_{t = 0} $$
+
+ in terms ofσtot,σel, andbA(s).RiassuntoSi generalizza il limite di McDowell- Martin sul parametro di inclinazionebA per il caso privo di spin fino al caso dello seattering elastico tra spin nullo e spin 1/2 con conservazione della parità. Si dà una risposta ottimale per tutte le energie così come per il limite più semplice (leggermente più debole)
+
+$$cb^A \geqslant \frac{{\sigma _{tot}^2 }}{{36\pi \sigma _{el} }}\left[ {\sqrt {1 + \frac{{9\pi \sigma _{el} }}{{4k^2 \sigma _{tot}^2 }}} + 1} \right] - \frac{1}{{4k^2 }}(k = impulso del centro di massa).$$
+
+ L'esponente A si riferisce al contributo della parte assorbente. Si ottengono restrizioni di unitarietà sull'ampiezza dell'elicità-flip
+
+$$cf_{ + - }^A (t)/\sqrt { - t} |_{t = 0} $$
+
+ in termini diσtot,σel, ebA(S).РезюмеМы обобщаем гранипу МкДовелла-Мартина для параметра наклонаbA для бесспинового случая на случай упругого рассеяния спина 0 на спине 1/2 с сохранением четности. Мы приводим онтимальный ответ для всех энергий, а также более простую гранипу гдеk—импульс в системе центра масс. Здесь индекс Ν относится к абсорбционному вкладу. Мы также получаем ограничения на амплитуду с изменением спиральности
+
+$$cf_{ + - }^A (t)/\sqrt { - t} |_{t = 0} $$
+
+ в терминахσполн,σупр иbA(S).

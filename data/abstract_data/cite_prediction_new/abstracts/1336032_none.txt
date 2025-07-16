@@ -1,0 +1,3 @@
+On some new invariants for strong shift equivalence for shifts of finite type
+We introduce a new computable invariant for strong shift equivalence of shifts of finite type. The invariant is based on an invariant introduced by Trow, Boyle, and Marcus, but has the advantage of being readily computable. 
+We summarize briefly a large-scale numerical experiment aimed at deciding strong shift equivalence for shifts of finite type given by irreducible $2\times 2$-matrices with entry sum less than 25, and give examples illustrating to power of the new invariant, i.e., examples where the new invariant can disprove strong shift equivalence whereas the other invariants that we use can not.

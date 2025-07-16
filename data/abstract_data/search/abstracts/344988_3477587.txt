@@ -1,0 +1,2 @@
+Variational Inference for Policy Gradient
+Inspired by the seminal work on Stein Variational Inference and Stein Variational Policy Gradient, we derived a method to generate samples from the posterior variational parameter distribution by \textit{explicitly} minimizing the KL divergence to match the target distribution in an amortize fashion. Consequently, we applied this varational inference technique into vanilla policy gradient, TRPO and PPO with Bayesian Neural Network parameterizations for reinforcement learning problems.

@@ -1,0 +1,2 @@
+A Two-Stage Template Approach to Person Detection in Thermal Imagery
+We present a two-stage template-based method to detect people in widely varying thermal imagery. The approach initially performs a fast screening procedure using a generalized template to locate potential person locations. Next an AdaBoosted ensemble classifier using automatically tuned filters is employed to test the hypothesized person locations. We demonstrate and evaluate the approach using a challenging dataset of thermal imagery

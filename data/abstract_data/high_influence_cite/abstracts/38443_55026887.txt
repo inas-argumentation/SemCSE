@@ -1,0 +1,24 @@
+Rainfall retrieval with commercial microwave links in São Paulo, Brazil
+. In the last decade there has been a growing interest from the
+hydrometeorological community regarding rainfall estimation from commercial
+microwave link (CML) networks. Path-averaged rainfall intensities can be
+retrieved from the signal attenuation between cell phone towers. Although
+this technique is still in development, it offers great opportunities for the
+retrieval of rainfall rates at high spatiotemporal resolutions very close to
+the Earth's surface. Rainfall measurements at high spatiotemporal resolutions
+are highly valued in urban hydrology, for instance, given the large impact
+that flash floods exert on society. Flash floods are triggered by intense
+rainfall events that develop over short time scales. Here, we present one of the first evaluations of this measurement technique
+for a humid subtropical climate. Rainfall estimation for subtropical climates
+is highly relevant, as many countries with few surface rainfall
+observations are located in such areas. The test bed of the current study is
+the Brazilian city of Sao Paulo. The open-source algorithm RAINLINK was
+applied to retrieve rainfall intensities from (power) attenuation
+measurements. The performance of RAINLINK estimates was evaluated for 145 
+of the 213 CMLs in the Sao Paulo metropolitan area for which we
+received data, for 81 days between October  2014 and January  2015 . We
+evaluated the retrieved rainfall intensities and accumulations from CMLs
+against those from a dense automatic gauge network. Results were found to be
+promising and encouraging when it comes to capturing the city-average
+rainfall dynamics. Mixed results were obtained for individual CML estimates,
+which may be related to erroneous metadata.

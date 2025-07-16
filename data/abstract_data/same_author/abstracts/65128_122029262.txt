@@ -1,0 +1,2 @@
+Internal variables and fine-scale oscillations in micromagnetics
+We derive the field energy of micromagnetics by computing the limiting energy of a lattice of dipoles as a typical lattice parameter goes to zero. Different limiting energies are obtained, depending upon whether the dipoles do not oscillate (strong convergence), oscillate on a scale much larger than the scale of the lattice (weak-long) or oscillate on the scale of the lattice (weak-short). The analysis suggests a framework and some methods for the direct derivation of continuum theory from molecular theory.

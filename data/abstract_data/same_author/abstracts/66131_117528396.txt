@@ -1,0 +1,6 @@
+Characterization of Open Strips by Harmonic Quadrature
+Let D be an open subset of ℝ n (n ≥ 2) of finite n-dimensional Lebesgue-measure λ n (D). Assume furthermore that the point 0 of ℝ n belongs to D. Then a theorem of Kuran states, if 
+ 
+$$ {1 \over {{\lambda _n}\left( D \right)}}\int_D {hd{\lambda _n} = h\left( 0 \right)} $$ 
+ 
+for all harmonic and integrable functions on D, then D is an open ball centred at 0. The main aim of this paper is to show that a similar characterization holds for the open strip, too.

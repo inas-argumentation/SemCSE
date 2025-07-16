@@ -1,0 +1,2 @@
+Multi agent Coordination using Reinforcement Learning with a Relay Agent
+This paper focuses on distributed reinforcement learning in cooperative multi agent systems, where several simultaneously and independently acting agents have to perform a common foraging task. To do that, a novel cooperative action selection strategy and a new kind of agents, called "relay agent" are proposed. The conducted simulation tests indicate that our proposals improve coordination between learners and are extremely efficient in terms of cooperation in large, unknown and stationary environments.

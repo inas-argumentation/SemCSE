@@ -1,0 +1,2 @@
+Spinorial Representations of Orthogonal Groups
+Let $G$ be a real compact Lie group, such that $G=G^0\rtimes C_2$, with $G^0$ simple. Here $G^0$ is the connected component of $G$ containing the identity and $C_2$ is the cyclic group of order $2$. We give a criterion for whether an orthogonal representation $\pi: G \to \mathrm{O}(V)$ lifts to $\mathrm{Pin}(V)$ in terms of the highest weights of $\pi$. We also calculate the first and second Stiefel-Whitney classes of the representations of the Orthogonal groups.

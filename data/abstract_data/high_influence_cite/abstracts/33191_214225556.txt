@@ -1,0 +1,2 @@
+ApproXON: Heuristic Approximation to the E-Field-Threshold for Deep Brain Stimulation Volume-of-Tissue-Activated Estimation
+This paper introduces a heuristic approximation of the e-field threshold used for volume-of-tissue-activated computation in deep brain stimulation. Pulse width and axon diameter are used as predictors. An open source implementation in MATLAB is provided together with an integration in the open LeadDBS deep brain stimulation research toolbox.

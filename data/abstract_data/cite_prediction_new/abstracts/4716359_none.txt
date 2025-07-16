@@ -1,0 +1,2 @@
+Brain tumor segmentation from MRI data sets using region growing approach
+Brain segmentation is an important part of medical image processing. Most commonly, it aims at locating various lesions and pathologies inside the human brain. In this paper, a new brain segmentation algorithm is proposed. The method is seeded region growing approach which was developed to segment the area of the brain affected by a tumor. The proposed algorithm was described. Results of testing the developed method on real MRI data set are presented and discussed.

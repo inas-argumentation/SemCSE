@@ -1,0 +1,2 @@
+Numerical investigation of a technological CO2 laser with a closed gasdynamic channel
+A brief description is given of a new mathematical model developed for comprehensive calculations of the parameters of an electric-discharge CO2 laser, comprising a discharge chamber, optical resonator-amplifier, focusing system, nozzle, diffuser, coolers, compressor, and connecting pipes. A file of programs developed for this purpose was applied to investigate numerically a technological CO2 laser with an output power of 10 kW.

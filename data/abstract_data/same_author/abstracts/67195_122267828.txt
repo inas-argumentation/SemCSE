@@ -1,0 +1,4 @@
+APPROXIMATIONS TO SOME TEST STATISTICS FOR PERMUTATION TESTS IN A COMPLETELY RANDOMIZED DESIGN1
+Summary 
+ 
+Under a randomization model for a completely randomized design permutation tests are considered based on the usual F statistic and on a multi-response permutation procedure statistic. For the first statistic the first two moments are obtained so a comparision with the distribution under the normal theory model can be made. The second statistic is shown to converge in distribution to an infinite weighted sum of chi-squared variates, the weights being the limits of the eigenvalues of a matrix depending on the distance measure used and the order statistics of the observations.

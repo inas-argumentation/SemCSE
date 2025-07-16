@@ -1,0 +1,2 @@
+Note on some errors in the evidence of periodicity in short time series.
+Several fundamental errors are in Truman Kelley's “The Evidence of Periodicity in Time Series.” These involve a confusion of numbers of observations and degrees of freedom, the interpretation of probabilities obtained in tests of hypotheses and the appropriateness of periodigram analysis for detecting the existence of periodicity in time series.

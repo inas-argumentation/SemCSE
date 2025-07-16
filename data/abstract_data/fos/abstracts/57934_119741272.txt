@@ -1,0 +1,2 @@
+Likelihood ratio test for discordancy with slippage alternatives
+A likelihood ratio test for discordancy in the sample is considered with slippage alternatives. It is shown for a wide class of univariate distributions that only the extreme observations in the sample need to be tested for discordancy. This result provides a firmer support to many commonly used discordancy tests that take only extreme observations as candidates. The problem of testing multiple discordant observations is also discussed.

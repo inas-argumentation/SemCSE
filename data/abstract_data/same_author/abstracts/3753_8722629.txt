@@ -1,0 +1,2 @@
+Modeling p53 Signaling Pathways by Using Multiset Processing
+We present an approach to modeling and simulating the protein p53 signaling pathways by means of a particular class of P systems, called ARMS (Abstract Rewriting Systems on Multisets). The results of the computer simulations are presented; they agree with the biological observations.

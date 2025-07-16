@@ -1,0 +1,2 @@
+A Nonlinear Control Law for Hover to Level Flight for the Quad Tiltrotor UAV
+This paper presents recent advances in the project: development of a convertible unmanned aerial vehicle (UAV). This aircraft is able to change its flight configuration from hover to level flight and vice versa by means of a transition maneuver, while maintaining the aircraft in flight. For this purpose a nonlinear control strategy based on Lyapunov design is given. Numerical results are presented showing the effectiveness of the proposed approach.

@@ -1,0 +1,2 @@
+Lessons Learned from AlphaGo
+The game of Go is known to be one of the most complicated board games. Competing in Go against a professional human player has been a long-standing challenge for AI. In this paper we shed light on the AlphaGo program that could beat a Go world champion, which was previously considered non-achievable for the state of the art AI.

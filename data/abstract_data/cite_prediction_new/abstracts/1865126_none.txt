@@ -1,0 +1,2 @@
+Recognition, Understanding and Aestheticization of Freehand Drawing Flowcharts
+In this paper a concept of FCA, a system for recognizing, understanding and aestheticization of freehand drawing flow charts is described. The system is based on a proposed by the author FlowGram graph grammar describing flow charts drawing. An open format FlowChartML for flow charts description is also proposed. The aestheticization criterion is formulated that allows for automatic beautification of flow charts. First experiments with the FCA system are also described.

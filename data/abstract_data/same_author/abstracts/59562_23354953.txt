@@ -1,0 +1,2 @@
+Improving Data Access in P2P Systems
+The authors present Gridella, a Gnutella-compatible P2P system. Gridella is based on the Peer-Grid (P-Grid) approach, which draws on research in distributed and cooperative information systems to provide a decentralized, scalable data access structure. Gridella improves the highly chaotic and inefficient Gnutella infrastructure with directed search and advanced concepts, thus enhancing efficiency and providing a model for further analysis and research.

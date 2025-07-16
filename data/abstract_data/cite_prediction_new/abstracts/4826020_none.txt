@@ -1,0 +1,16 @@
+A General Framework of Continuation Methods for Complementarity Problems
+A general class of continuation methods is presented which, in particular, solve linear complementarity problems with compositive-plus and L*-matrices. Let a, b ∈ Rn be nonnegative vectors. We embed the complementarity problem with a continuously differentiable mapping f: Rn â Rn in an artificial system of equations 
+ 
+*âââFx, y = µa, I¶bâandâx, y â¥ 0, 
+ 
+where F: R2n â R2n is defined by 
+ 
+Fx, y = x1y1, ', xnyn, y-fx 
+ 
+and µ â¥ 0 and I¶ â¥ 0 are parameters. A pair x, y is a solution of the complementarity problem if and only if it solves * for µ = 0 and I¶ = 0. A general idea of continuation methods founded on the system * is as follows: 
+ 
+1 Choose n-dimensional vectors a â¥ 0 and b > 0 such that the system * has a trivial solution x1, y1 for some µ1, I¶1 â¥ 0. 
+ 
+2 Trace solutions of * from x1, y1 with µ = µ1 and I¶ = I¶1 as the parameters µ and I¶ are decreased to zero. 
+ 
+This idea provides a theoretical basis for various methods such as Lemke's method and a method of tracing the central trajectory of linear complementarity problems.

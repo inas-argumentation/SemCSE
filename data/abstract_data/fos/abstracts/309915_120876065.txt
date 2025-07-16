@@ -1,0 +1,2 @@
+A Monte Carlo Study of Some Two-Sample Rank Tests with Censored Data
+The powers of several nonparametric tests for the two-sample problem with censored data are compared by simulation. The tests studied include Gehan's, Efron's, and Peto's, and Prentice's generalized Wilcoxon tests, along with the logrank test. The test with the greatest power changes with the sample sizes, censoring mechanism, and distribution of the random variables. The test that performed the best overall was the Peto-Prentice generalized Wilcoxon statistic with an asymptotic variance estimate.

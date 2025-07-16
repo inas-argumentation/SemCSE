@@ -1,0 +1,2 @@
+Monte Carlo valuation of American options: facts and new algorithms to improve existing methods
+The aim of this paper is to discuss efficient algorithms for the pricing of American options by two recently proposed Monte Carlo type methods, namely the Malliavian calculus and the regression based approaches. We explain how both technics can be exploded with improved complexity and efficiency. We also discuss several technics for the estimation of the corresponding hedging strategies. Numerical tests and comparisons, including the quantization approach, are performed.

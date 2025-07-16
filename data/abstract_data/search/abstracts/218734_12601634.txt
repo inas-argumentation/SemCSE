@@ -1,0 +1,2 @@
+Training a Support Vector Machine in the Primal
+Most literature on support vector machines (SVMs) concentrates on the dual optimization problem. In this letter, we point out that the primal problem can also be solved efficiently for both linear and nonlinear SVMs and that there is no reason for ignoring this possibility. On the contrary, from the primal point of view, new families of algorithms for large scale SVM training can be investigated.

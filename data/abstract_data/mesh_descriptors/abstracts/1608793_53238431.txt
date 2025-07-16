@@ -1,0 +1,15 @@
+HPV status predicts for improved survival following chemotherapy in metastatic squamous cell carcinoma of the oropharynx.
+OBJECTIVE
+We sought to further define prognostic and predictive value of human papillomavirus (HPV) status in metastatic squamous cell carcinoma of the oropharynx (OPC).
+
+
+MATERIALS AND METHODS
+A Surveillance, Epidemiology, and End Results custom database identified 5940 adult patients, >18-years-old, with primary SCCHN and known HPV status, diagnosed from 2013 to 2014. Wilcoxon rank-sum and Mantel-Haenszel χ2 tests compared distributions of continuous and categorical covariates. Fine-Gray competing risks regressions estimated hazard ratios by HPV status, and predictive analyses were performed including the interaction term HPV status × Receipt of Chemotherapy.
+
+
+RESULTS
+182 of 5940 patients (4.0%) had metastatic OPC at diagnosis (106/3925 [2.7%] HPV+ and 76/1894 [4.0%] HPV-). HPV+ disease was prognostic for improved 20-month cancer-specific mortality (CSM) (47.1% vs 72.5%, HR 0.43, 95% CI 0.26-0.74, p = 0.002) on univariable analysis. HPV status was predictive of response to chemotherapy-adjusted HRs for receipt of chemotherapy were 0.11 (95% CI 0.03-0.37) and 0.34 (95% CI 0.18-0.64) for HPV+ versus HPV- disease, respectively (PHPV status∗Chemotherapy = 0.036).
+
+
+CONCLUSION
+HPV status has known prognostic value in locally advanced OPC, but data on metastatic OPC are sparse. In this work, we demonstrate that HPV status is strongly prognostic for CSM in metastatic OPC and show for the first time that HPV status predicts for response to chemotherapy.

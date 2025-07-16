@@ -1,0 +1,12 @@
+Reinforcement learning in continuous state- and action-space
+Reinforcement learning in the continuous state-space poses the problem of the inability to store the values of all state-action pairs in a lookup table, due to both storage limitations and the inability to visit all states sufficiently often to learn the correct values. 
+This can be overcome with the use of function approximation techniques with generalisation capability, such as artificial neural networks, to store the value function. When this is applied we can select the optimal action by comparing the values of each possible action; however, when the action-space is continuous this is not possible. 
+ 
+In this thesis we investigate methods to select the optimal action when artificial neural networks are used to approximate the value function, through the application of numerical optimization techniques. Although it has been stated in the literature that 
+gradient-ascent methods can be applied to the action selection [47], it is also stated that solving this problem would be infeasible, and therefore, is claimed that it is necessary to utilise a second artificial neural network to approximate the policy function [21, 55]. 
+ 
+The major contributions of this thesis include the investigation of the applicability of action selection by numerical optimization methods, including gradient-ascent along with other derivative-based and derivative-free numerical optimization methods,and the proposal of two novel algorithms which are based on the application of two alternative action selection methods: NM-SARSA [40] and NelderMead-SARSA. 
+ 
+We empirically compare the proposed methods to state-of-the-art methods from the literature on three continuous state- and action-space control benchmark problems 
+from the literature: minimum-time full swing-up of the Acrobot; Cart-Pole balancing problem; and a double pole variant. We also present novel results from the application of the existing direct policy search method genetic programming to the Acrobot 
+benchmark problem [12, 14].

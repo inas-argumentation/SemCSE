@@ -1,0 +1,2 @@
+Remote Failure Analysis of Micro-Based Instrumentation
+Microprocessors have brought flexibility and versatility to a wide range of instrumentation. They have brought new problems as well. Two such problems–the difficulty of remote reprogramming and the need in certain circumstances for peripheral storage–can be especially troublesome for the design engineer who needs to test his prototype instruments at the site of application.

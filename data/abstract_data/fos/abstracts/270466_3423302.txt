@@ -1,0 +1,2 @@
+A New Approach to Black-Box Concurrent Secure Computation
+We consider the task of constructing concurrently composable protocols for general secure computation by making only black-box use of underlying cryptographic primitives. Existing approaches for this task first construct a black-box version of CCA-secure commitments which provide a strong form of concurrent security to the committed value(s). This strong form of security is then crucially used to construct higher level protocols such as concurrently secure OT/coin-tossing (and eventually all functionalities).

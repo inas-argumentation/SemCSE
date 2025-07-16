@@ -1,0 +1,2 @@
+Groups with few maximal sum-free sets
+We show that, in contrast to the integers setting, almost all even order abelian groups $G$ have exponentially fewer maximal sum-free sets than $2^{\mu(G)/2}$, where $\mu(G)$ denotes the size of a largest sum-free set in $G$. This confirms a conjecture of Balogh, Liu, Sharifzadeh and Treglown.

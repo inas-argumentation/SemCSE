@@ -1,0 +1,2 @@
+OpenMusic: visual programming environment for music composition, analysis and research
+OpenMusic is an open source environment dedicated to music composition. The core of this environment is a full-featured visual programming language based on Common Lisp and CLOS (Common Lisp Object System) allowing to design processes for the generation or manipulation of musical material. This language can also be used for general purpose visual programming and other (possibly extra-musical) applications.

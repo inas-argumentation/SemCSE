@@ -1,0 +1,2 @@
+Development of Client/Server Application with Visual Foxpro
+As front end of Client/Server architecture,Visual Foxpro provides lots of approaches to access data of server.This paper discusses how to develop Client/Server application with remote view and SQL pass-through(SPT)techniques of Visual Foxpro.

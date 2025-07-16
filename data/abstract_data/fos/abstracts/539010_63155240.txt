@@ -1,0 +1,2 @@
+Design of a Desktop Operating System Based on Linux Kernel Compatible with Windows Application
+Linux kernel-based desktop operating system is used more and more widely,but there that a big problem that the lack of supported applications.Proposes a new Chinese-language operating system.Based on Linux kernel,and using Wine's running environment to provide the support for Windows applications,this operating system has the advantages of a secure and stable Linux kernel,and a large number of support applications of Windows.

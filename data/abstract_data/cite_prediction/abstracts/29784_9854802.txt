@@ -1,0 +1,2 @@
+Link Prediction in Bipartite Networks-Predicting Yelp Reviews
+In this paper, we aim to predict new user reviews on businesses in the Yelp social network. We formulate this as a network link prediction problem by modeling Yelp dataset as a bipartite network between users and businesses. We implement link prediction algorithms with various proximity metrics, thoroughly evaluate the effectiveness of each algorithm and conclude that Delta, AdamicAdar and Common Neighbors algorithms perform the best in precision.

@@ -1,0 +1,2 @@
+Influence analysis for high-dimensional time series with an application to epileptic seizure onset zone detection
+Highlights ► We present a novel method for the causal analysis of high-dimensional time series. ► This method combines factor models and Granger causal analysis. ► An application is the detection of epileptic seizure onset zone based on ECoG data.

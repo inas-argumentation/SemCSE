@@ -1,0 +1,2 @@
+Distributed consensus filter on directed graphs with switching topologies
+We consider distributed estimation on a directed graph with switching topologies. Motivated by a recent PI consensus filter, we modify the protocol and remove the requirement of bi directional exchange of neighboring gains for fixed topologies. We then extend the protocol to switching topologies and propose a new hybrid consensus filter design. Convergence results under both balanced directed and general directed graphs are given for switching graphs. We finally show satisfactory simulation results.

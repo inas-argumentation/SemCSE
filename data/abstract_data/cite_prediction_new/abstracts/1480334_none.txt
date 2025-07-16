@@ -1,0 +1,16 @@
+Complexity of some arithmetic problems for binary polynomials
+We study various combinatorial complexity measures of
+Boolean functions related to some natural arithmetic problems about
+binary polynomials, that is, polynomials over $$ \mathbb{F}_2 $$. 
+In particular, we consider
+the Boolean function deciding whether a given polynomial over $$ \mathbb{F}_2 $$
+is squarefree. We obtain an exponential lower bound on the size of a
+decision tree for this function, and derive an asymptotic formula, having
+a linear main term, for its average sensitivity. This allows us to estimate
+other complexity characteristics such as the formula size, the average decision
+tree depth and the degrees of exact and approximative polynomial
+representations of this function. Finally, using a different method, we
+show that testing squarefreeness and irreducibility of polynomials over
+$$ \mathbb{F}_2 $$ cannot be done in $$ \textrm{AC}^0[p] $$ 
+for any odd prime p. Similar results are
+obtained for deciding coprimality of two polynomials over $$ \mathbb{F}_2 $$ as well.

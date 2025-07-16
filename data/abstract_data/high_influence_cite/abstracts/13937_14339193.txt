@@ -1,0 +1,2 @@
+Numerical schemes for a pseudo-parabolic Burgers equation : discontinuous data and long-time behaviour
+We consider a simplified model for vertical non-stationary groundwater flow, which includes dynamic capillary pressure effects. Specifically, we consider a viscous Burgers-type equation that is extended with a third-order term containing mixed derivatives in space and time. We analyse the one-dimensional boundary value problem and investigate numerically its long-time behaviour. The numerical schemes discussed here take into account possible discontinuities of the solution.

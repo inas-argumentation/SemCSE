@@ -1,0 +1,2 @@
+Flexible Constrained Techniques for Source Separation
+Traditional blind source separation (BSS) technique aims to recover all source signals from their mixtures simultaneously. In many practical situations, someone is only interested in specific source signal. Here prior information called reference signal is introduced to guide signal separating process. As a result, a flexible constrained algorithm is deduced for extraction of the desired source signal exclusively. Computer simulations illustrate its validity and usefulness.

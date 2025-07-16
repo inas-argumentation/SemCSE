@@ -1,0 +1,2 @@
+Data Mining Techniques for Associations, Clustering and Classification
+This paper provides a survey of various data mining techniques for advanced database applications. These include association rule generation, clustering and classification. With the recent increase in large online repositories of information, such techniques have great importance. The focus is on high dimensional data spaces with large volumes of data. The paper discusses past research on the topic and also studies the corresponding algorithms and applications.

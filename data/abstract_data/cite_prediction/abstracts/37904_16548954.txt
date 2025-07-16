@@ -1,0 +1,2 @@
+Hugo: Entity-based News Search and Summarisation
+We describe Hugo -- a service initially available on iOS that solicits a structured, semantic query and returns entity-specific news articles. Retrieval is powered by a semantic annotation pipeline that includes named entity linking and automatic summarisation. Search and entity linking use an in-house knowledge base initialised with Wikipedia data and continually curated to include new entities. Hugo delivers timely knowledge about a user's professional network, in particular new people they want to know more about.

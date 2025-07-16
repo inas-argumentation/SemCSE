@@ -1,0 +1,2 @@
+Proofs for large sample properties of generalized method of moments estimators
+I present proofs for the consistency of generalized method of moments (GMM) estimators presented in Hansen (1982) Some basic approximation results provide the groundwork for the analysis of a class of such estimators. Using these results, I establish the large sample convergence of GMM estimators under alternative restrictions on the estimation problem.

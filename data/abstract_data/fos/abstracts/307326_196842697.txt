@@ -1,0 +1,30 @@
+Assessment of the total precipitable water from a sun photometer, microwave radiometer and radiosondes at a continental site in southeastern Europe
+. In this study, we discuss the differences in the total precipitable water
+(TPW), retrieved from a Cimel sun photometer operating at a continental site
+in southeast Europe, between version 3 (V3) and version 2 (V2) of the
+AErosol RObotic NETwork (AERONET) algorithms. In addition, we evaluate the
+performance of the two algorithms comparing their product with the TPW
+obtained from a collocated microwave radiometer and nearby radiosondes during
+the period 2007–2017. The TPW from all three instruments was highly
+correlated, showing the same annual cycle, with lower values during winter
+and higher values during summer. The sun photometer and the microwave radiometer
+depict the same daily cycle, with some discrepancies during early morning and
+late afternoon due to the effect of solar zenith angle on the measurements of
+the photometer. The TPW from V3 of the AERONET algorithm has small
+differences compared with V2, mostly related to the use of the new
+laboratory-based temperature coefficients used in V3. The microwave
+radiometer measurements are in good agreement with those obtained by the
+radiosonde, especially during night-time when the differences between the two
+instruments are almost negligible. The comparison of the sun photometer data
+with high-quality independent measurements from radiosondes and the radiometer
+shows that the absolute differences between V3 and the other two datasets are
+slightly higher compared with V2. However, V3 has a lower dependence from the
+TPW and the internal sensor temperature, indicating a better performance of
+the retrieving algorithm. The calculated one-sigma uncertainty for V3 as
+estimated, from the comparison with the radiosondes, is about 10 %, which is
+in accordance with previous studies for the estimation of uncertainty for V2.
+This uncertainty is further reduced to about 6 % when AERONET V3 is
+compared with the collocated microwave radiometer. To our knowledge, this is
+the first in-depth analysis of the V3 TPW, and although the findings presented
+here are for a specific site, we believe that they are representative of
+other mid-latitude continental stations.

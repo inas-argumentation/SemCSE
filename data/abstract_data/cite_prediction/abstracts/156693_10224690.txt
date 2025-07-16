@@ -1,0 +1,2 @@
+A keyword search system using open source software
+Provides an overview of a speech-to-text (STT) and keyword search (KWS) system architecture build primarily on the top of the Kaldi toolkit and expands on a few highlights. The system was developed as a part of the research efforts of the Radical team while participating in the IARPA Babel program. Our aim was to develop a general system pipeline which could be easily and rapidly deployed in any language, independently on the language script and phonological and linguistic features of the language.

@@ -1,0 +1,2 @@
+A Survey on Key Frame Based Video Summarization Techniques
+The large amount of videos usage increase the volume of data, more time to access and more man power is required. Video summarization is the solution for this problem. Summarized video can be used to review the important aspect of particular video, indexing and faster browsing. Video summarization techniques are classified into key frame based classification and skim based classification. This paper focuses on process and techniques of key frame based classification.

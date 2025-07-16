@@ -1,0 +1,2 @@
+Identifying Rare Diseases from Behavioural Data: A Machine Learning Approach
+Rare diseases are hard to identify and diagnose. Our goal is to use self-reported behavioural data to distinguish people with rare diseases from people with more common chronic illnesses. To this effect, we adapt a state of the art machine learning algorithm to make this classification. We find that using this method, and an appropriate set of questions, we can accurately identify people with rare diseases.

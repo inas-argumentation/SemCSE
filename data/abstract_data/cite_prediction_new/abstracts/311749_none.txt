@@ -1,0 +1,2 @@
+Strategies to improve steering handling performance for steer-by-wire system
+This paper describes SBW system structure and principle, establishes the dynamistic model of vehicle and SBW system. As is well known, the steering characteristics indicate handling performance on a vehicle and are important for safe driving, in this paper, a strategy to improve vehicle's stability and fast respond is proposed, which is based on ideal transmission ration and utilize yaw rate feedback to control steering. Simulations are carried out to show the validity of the proposed method.

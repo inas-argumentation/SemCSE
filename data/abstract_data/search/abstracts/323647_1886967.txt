@@ -1,0 +1,2 @@
+Commentary on "On solving a multiobjective fixed charge problem with imprecise fractional objectives"
+Abstract Upmanyu and Saxena (Applied Soft Computing 40 (2016) 64 69) proposed a method for solving a multiobjective fixed charge problem having multiple fractional objective functions which are all of a fuzzy nature. The aim of this note is to aware the researchers that the method, proposed by Upmanyu and Saxena, is not valid and hence, to propose a method for solving this type of fixed charge problem is still an open challenging research problem.

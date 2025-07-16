@@ -1,0 +1,2 @@
+Supporting Semi-Automatic Semantic Annotation of Multimedia Resources
+Ontologies provide an attractive basis for the representation of semantic information to be attached to multimedia information. However, the flexibility available to develop one’s own ontology or partially reuse an existing ontology means that human input is unavoidable in the process of creating the annotations. We address the issue of how to use ontology reasoning services and natural language generation to provide presentations of relevant ontology structures for human use.

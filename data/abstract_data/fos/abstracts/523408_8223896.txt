@@ -1,0 +1,15 @@
+SU-F-P-36: Automation of Linear Accelerator Star Shot Measurement with Advanced XML Scripting and Electronic Portal Imaging Device.
+PURPOSE
+To verify a method used to automatically acquire jaw, MLC, collimator and couch star shots for a Varian TrueBeam linear accelerator utilizing Developer Mode and an Electronic Portal Imaging Device (EPID).
+
+
+METHODS
+An XML script was written to automate motion of the jaws, MLC, collimator and couch in TrueBeam Developer Mode (TBDM) to acquire star shot measurements. The XML script also dictates MV imaging parameters to facilitate automatic acquisition and recording of integrated EPID images. Since couch star shot measurements cannot be acquired using a combination of EPID and jaw/MLC collimation alone due to a fixed imager geometry, a method utilizing a 5mm wide steel ruler placed on the table and centered within a 15×15cm2 open field to produce a surrogate of the narrow field aperture was investigated. Four individual star shot measurements (X jaw, Y jaw, MLC and couch) were obtained using our proposed as well as traditional film-based method. Integrated EPID images and scanned measurement films were analyzed and compared.
+
+
+RESULTS
+Star shot (X jaw, Y jaw, MLC and couch) measurements were obtained in a single 5 minute delivery using the TBDM XML script method compared to 60 minutes for equivalent traditional film measurements. Analysis of the images and films demonstrated comparable isocentricity results, agreeing within 0.3mm of each other.
+
+
+CONCLUSION
+The presented automatic approach of acquiring star shot measurements using TBDM and EPID has proven to be more efficient than the traditional film approach with equivalent results.

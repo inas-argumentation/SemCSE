@@ -1,0 +1,2 @@
+Approximation of Walrasian equilibrium in single-minded auctions
+We consider a social optimization model of pricing scheme in single-minded auctions, in cases where Walrasian equilibrium does not exist. We are interested in the maximization of the ratio, R, of happy bidders over all agents, in a feasible allocation-pricing scheme. We show NP-hardness of the optimization problem, establish lower and upper bounds of R, as well as develop greedy algorithms to approximate the optimal value of R.

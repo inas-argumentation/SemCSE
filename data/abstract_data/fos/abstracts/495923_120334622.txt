@@ -1,0 +1,2 @@
+Some shrinkage estimators for the variance of exponential density
+This paper deals with the problem of estimation of variance in exponential density when a prior point estimate (or guess value) θ02, say, of the variance θ2 is available. Some shrinkage estimators for the variance θ2 are suggested and compared with Pandey and Singh's (1977) estimators.

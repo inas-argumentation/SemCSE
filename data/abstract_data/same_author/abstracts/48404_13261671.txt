@@ -1,0 +1,2 @@
+Spatio-temporal video search using the object based video representation
+Object-based video representation provides great promises for new search and editing functionalities. Feature regions in video sequences are automatically segmented, tracked, and grouped to form the basis for content-based video search and higher levels of abstraction. We present a new system for video object segmentation and tracking using feature fusion and region grouping. We also present efficient techniques for spatio-temporal video query based on the automatically segmented video objects.

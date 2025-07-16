@@ -1,0 +1,13 @@
+Generating optimal DAG-structured query evaluation plans
+In many database queries relations are access multiple times during query processing. In these cases
+ query processing can be accelerated by sharing scan operators and possibly other operators based upon the
+ common relations. The standard approach to achieve sharing works as follows. In a first phase, a non-shared
+ tree-shaped plan is generated via a traditional plan generator. In a second phase, common instances
+ of a scan are detected and shared. After that, other possible operators are shared. The result is
+ an operator DAG (directed acyclic graph).
+ The limitation of this approach is obvious. As sharing influences plan costs, a separation of
+ the optimization into two phases comprises the danger of missing the optimal plan, since the first optimization
+ phase does not know about sharing.
+ We remedy this situation by (1) introducing a general framework for reasoning about sharing and
+ (2) sketching how this framework can be integrated into a plan generator, which then constructs optimal
+ DAG-structured query evaluation plans.

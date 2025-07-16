@@ -1,0 +1,8 @@
+A LEGENDRE-GAUSS COLLOCATION METHOD FOR NONLINEAR DELAY DIFFERENTIAL EQUATIONS
+In this paper, we introduce an efficient Legendre-Gauss collocation method for solving nonlinear delay 
+differential equations with variable delay. 
+We analyze the convergence of the single-step and multi-domain versions of the proposed method, and 
+show that the scheme enjoys 
+high order accuracy and can be implemented in a stable and efficient manner. 
+We also make numerical comparison with other 
+methods.

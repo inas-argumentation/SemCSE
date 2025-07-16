@@ -1,0 +1,2 @@
+Distributed Reproducible Research Using Cached Computations
+The ability to make scientific findings reproducible is increasingly important. The authors describe a simple framework in which scientists can perform and distribute reproducible research via cached computations. This article describes a prototype implementation as well as a case study application.

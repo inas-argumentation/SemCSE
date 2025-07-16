@@ -1,0 +1,2 @@
+A proof of a conjecture of minus domination in graphs
+Let γ-(G) be the minus domination number of a graph G. It has been conjectured in Discrete Math. 199 (1999) 35 that γ-(G) ≥ 4((1 + n)1/2 - 1) - n for all bipartite graph of order n. In this paper we prove this conjecture.

@@ -1,0 +1,2 @@
+Minimum adjusted Rand index for two clusterings of a given size
+In an unpublished presentation, Steinley reported that the minimum adjusted Rand index for the comparison of two clusterings of size $r$ is $-1/r$. However, in a subsequent paper Chacon noted that this apparent bound can be lowered. Here, it is shown that the lower bound proposed by Chacon is indeed the minimum possible one. The result is even more general, since it is valid for two clusterings of possibly different sizes.

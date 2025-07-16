@@ -1,0 +1,2 @@
+Requirements for a Semantic Web Rule Language
+The need for integrating rules within the Semantic Web framework was clear since the early developments. However, up to the last few years, the research community focused its efforts on the design of the so called Ontology Layer. Nowadays, this layer is fairly mature in the form of Description Logics based languages [1, 6] such as the OWL Web Ontology Language [2], which is now a W3C recommendation. In this paper, we argue for three characteristics that a Semantic Web rule langauge should have.

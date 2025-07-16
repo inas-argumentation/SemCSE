@@ -1,0 +1,15 @@
+SU-F-T-386: Analysis of Three QA Methods for Predicting Dose Deviation Pass Percentage for Lung SBRT VMAT Plans.
+PURPOSE
+To investigate the significance of using pinpoint ionization chambers (IC) and RadCalc (RC) in determining the quality of lung SBRT VMAT plans with low dose deviation pass percentage (DDPP) as reported by ScandiDos Delta4 (D4). To quantify the relationship between DDPP and point dose deviations determined by IC (ICDD), RadCalc (RCDD), and median dose deviation reported by D4 (D4DD).
+
+
+METHODS
+Point dose deviations and D4 DDPP were compiled for 45 SBRT VMAT plans. Eighteen patients were treated on Varian Truebeam linear accelerators (linacs); the remaining 27 were treated on Elekta Synergy linacs with Agility collimators. A one-way analysis of variance (ANOVA) was performed to determine if there were any statistically significant differences between D4DD, ICDD, and RCDD. Tukey's test was used to determine which pair of means was statistically different from each other. Multiple regression analysis was performed to determine if D4DD, ICDD, or RCDD are statistically significant predictors of DDPP.
+
+
+RESULTS
+Median DDPP, D4DD, ICDD, and RCDD were 80.5% (47.6%-99.2%), -0.3% (-2.0%-1.6%), 0.2% (-7.5%-6.3%), and 2.9% (-4.0%-19.7%), respectively. The ANOVA showed a statistically significant difference between D4DD, ICDD, and RCDD for a 95% confidence interval (p < 0.001). Tukey's test revealed a statistically significant difference between two pairs of groups, RCDD-D4DD and RCDD-ICDD (p < 0.001), but no difference between ICDD-D4DD (p = 0.485). Multiple regression analysis revealed that ICDD (p = 0.04) and D4DD (p = 0.03) are statistically significant predictors of DDPP with an adjusted r2 of 0.115.
+
+
+CONCLUSION
+This study shows ICDD predicts trends in D4 DDPP; however this trend is highly variable as shown by our low r2 . This work suggests that ICDD can be used as a method to verify DDPP in delivery of lung SBRT VMAT plans. RCDD may not validate low DDPP discovered in D4 QA for small field SBRT treatments.

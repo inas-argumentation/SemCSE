@@ -1,0 +1,7 @@
+Stability Regularization for Discrete Representation Learning
+We present a method for training neural network models with discrete stochastic variables.
+The core of the method is \emph{stability regularization}, which is a regularization procedure based on the idea of noise stability developed in Gaussian isoperimetric theory in the analysis of Gaussian functions.
+Stability regularization is method to make the output of continuous functions of Gaussian random variables close to discrete, that is binary or categorical, without the need for significant manual tuning.
+The method allows control over the extent to which a Gaussian function's output is close to discrete, thus allowing for continued flow of gradient.
+The method can be used standalone or in combination with existing continuous relaxation methods.
+We validate the method in a broad range of experiments using discrete variables including neural relational inference, generative modeling, clustering and conditional computing.

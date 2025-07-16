@@ -1,0 +1,2 @@
+A Mixture of Experts Image Enhancement Scheme for CCTV Images
+The main aim of this paper is to present a mixture of experts framework for the selection of an optimal image enhancement. This scheme selects the best image enhancement algorithm from a bank of algorithms on a per image basis. The results show that this scheme considerably improves the quality of test images collected from CCTV.

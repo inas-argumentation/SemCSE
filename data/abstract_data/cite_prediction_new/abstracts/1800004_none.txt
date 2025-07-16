@@ -1,0 +1,2 @@
+En route to more efficient conservative parallel event simulation
+This paper presents some techniques to improve the performance of a conservative algorithm, YADDES, for asynchronous discrete event simulation. A guideline is developed for minimizing the complexity of lookahead computation and a modular approach is proposed for reducing the overhead for simulating large numbers of components.<<ETX>>

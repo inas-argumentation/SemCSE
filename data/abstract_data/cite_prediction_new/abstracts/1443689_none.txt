@@ -1,0 +1,58 @@
+Studies of nano-structured liquids in confined geometries and at surfaces.
+This is a progress report on elucidating the behaviour of liquids, 
+in particular water, in confined geometry on the nano- to mesoscale, 
+and at interfaces. There are important measurements still 
+to make, conclusions still to be drawn, and above all leaps of 
+understanding still to be made. However, a number of important 
+features in the behaviour of these systems have recently become 
+clearer. 
+Nano-structuring of liquids and their crystals changes their 
+Gibbs free energy, and hence their dynamics. This may most readily 
+be probed by monitoring the alteration of phase changes as a 
+function of temperature, together with changes in other parameters, 
+particularly the confinement diameter. Such studies may be 
+performed by monitoring the change in the pressure (at constant 
+temperature) of the liquid in its own vapour (Kelvin equation), or 
+by monitoring the change in the freezing/melting temperature 
+(at constant pressure) of a crystal in its own liquid (Gibbs–Thomson 
+equation). 
+In the latter case the melting and freezing temperatures of liquids 
+are modified by the changes in the volumetric Gibbs free energy 
+due to nanostructuring; this is related to the surface energy of 
+the curved interface between the crystal and its own liquid. This is 
+thus dependent on the geometry of the interface between the crystal 
+and its liquid. There is still discussion on this point as to the exact 
+geometric constants and functional forms that are applicable 
+for different confining geometries. Experimental evidence is presented 
+for the cases of cylindrical pores (SBA-15), and for pores 
+that on average are spherical (sol–gel). However, reconciling this 
+comparative data with melting/freezing temperatures in each of 
+these systems still pose a number of questions. 
+It is well known that bulk brittle ice has a hexagonal structure, 
+while brittle ice that forms in pores may be cubic in structure [1,2], 
+Figs. 10 and 11. Adjacent surfaces appear to further alter the 
+dynamics and structure of confined liquids and their crystals, leading 
+in the case of a water/ice system to a state of enhanced rotational 
+motion (plastic ice) just below the confined freezing/ 
+melting transitions. This plastic ice layer appears to form at both 
+the ice–silica interface and the ice–vapour surface, and reversibly 
+transforms to brittle ice at lower temperatures. There is good evidence 
+to suggest that the plastic ice at a silica interface transforms 
+to cubic ice, while the plastic ice at vapour surfaces transforms to 
+hexagonal ice. That this plastic ice may correspond to a layer at the 
+crystal surface is suggested by the presence of only amorphous ice 
+in confined systems with small dimensions (<3 nm diameter), 
+whereas systems with larger dimensions (10 nm) contain brittle 
+cubic ice and also some hexagonal ice (if a vapour interface is present); 
+even larger systems (>30 nm) contain predominately hexagonal 
+ice. It is conjectured that this layer of plastic ice at vapour 
+surfaces may be present at the myriad of such interfaces in macroscopic 
+systems, such as snow-packs, glaciers and icebergs, and may 
+be an explanation for the need for plastic terms in the macroscopic 
+dynamical models of these systems [3]. 
+These results also point the way forward for a wide-range of 
+cryoporometric metrology studies of systems that are ‘difficult’ 
+for NMR, such as high iron content clays and rocks, as well as aged 
+concrete. Results are presented for cryoporometric measurements 
+on meteorite samples with a significant metallic content, exhibiting 
+T2 relaxation times down to 2.5 us.

@@ -1,0 +1,2 @@
+Performance Evaluation of Knowledge Extraction Methods
+This paper shows the precision, the recall and the F-measure for the knowledge extraction methods (under Open Information Extraction paradigm): ReVerb, OLLIE and ClausIE. For obtaining these three measures a subset of 55 newswires corpus was used. This subset was taken from the Reuters-21578 text categorization and test collection database. A handmade relation extraction was applied for each one of these newswires.

@@ -1,0 +1,32 @@
+Models of the Lateral Heterogeneity of the Earth Consistent with Eigenfrequency Splitting Data
+Summary 
+ 
+Let ωk k = 1,2,…, 2l+1, denote the 2l+1 non-degenerate split eigenfrequencies associated with some isolated elastic-gravitational normal mode multiplet of the Earth, and let 
+ 
+ 
+ 
+ 
+ 
+ 
+denote the corresponding degenerate eigenfrequency of the spherically averaged and non-rotating terrestrial monopole. The multiplet variance 
+ 
+ 
+ 
+ 
+ 
+ 
+is a quantity which, correct to first order, depends only upon the small deviations of the Earth away from the terrestrial monopole, i.e. upon the slow angular rotation, the hydrostatic ellipsoidal shape, and the lateral heterogeneity. If it is assumed that the N observed Fourier spectral peaks ωi, i = 1,2,…, N, which have been assigned to any multiplet constitute a random sampling with replacement of the 2l+1 split eigenfrequencies ωk, k= 1, 2,…, 21+1, then the sample mean 
+ 
+ 
+ 
+ 
+ 
+ 
+and the sample variance 
+ 
+ 
+ 
+ 
+ 
+ 
+provide estimates of ωo and Δω2, respectively. This paper analyses the recently compiled sample variances for the fundamental toroidal and spheroidal multiplets oTl and oSl in an attempt to infer certain gross features and properties of the lateral heterogeneity of the Earth. This requires a preliminary correction of the raw sample variance data for the bias introduced by random errors in the observed Fourier spectral peaks ωi, i = 1, 2,…, N, as well as an a priori estimation of the contribution to the splitting from the rotation and the hydrostatic ellipsoidal shape of the Earth. These adjustments are sufficiently large and uncertain that any formal inversion of fundamental mode multiplet variance data seems unwarranted at this time; instead, direct calculations have been performed for a number of hypothetical models of the lateral heterogeneity of the Earth. A comparison of the results of these calculations with observed multiplet variances points strongly to two main conclusions; the first is that there must be significant lateral heterogeneity in the lower mantle, and the second is that oceanic-continental differences must persist to depths of at least several hundred kilometres.

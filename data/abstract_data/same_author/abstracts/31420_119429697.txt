@@ -1,0 +1,2 @@
+New acoustic instrumentation for the SIMPLE superheated droplet detector
+Previous acoustic instrumentation of the SIMPLE detector has relied on the use of a low-cost piezoelectric transducer, which was generally unable to provide discrimination between true bubble nucleation events and ambiental sources of acoustic noise. The use of a high-quality electret microphone and adaptive electronics is shown to provide this capacity through reduced noise levels and distinct fast Fourier transforms of the event registration.

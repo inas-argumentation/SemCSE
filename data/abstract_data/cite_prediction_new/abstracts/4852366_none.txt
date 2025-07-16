@@ -1,0 +1,2 @@
+Application of linear regression to videokeratoscope data for tilted surfaces
+Purpose: To investigate the use of linear regression analysis performed on the tabular data display of the EyeSys videokeratoscope (VK). When a radius squared vs distance squared scatterplot is produced from aspheric surface data the equivalent conic section can be deduced from the intercept and slope of the linear regression line. Non‐linear plots are often produced. Linear regression may then be applied in a number of ways.

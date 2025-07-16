@@ -1,0 +1,2 @@
+Edge coloring of graphs with small average degrees
+Let G be a simple graph with average degree d? and maximum degree Δ. It is proved, in this paper that G is not critical if d?≤6 and Δ?8, or d?≤203 and Δ?9. This result generalizes earlier results of Vizing (Metody Diskret. Analiz. 5 (1965) 9), Mel'nikov (Mat. Zametki 7 (1970) 671) and Hind and Zhao (Discrete Math. 190 (1998) 107) and Yan and Zhao (Graphs Combin. 16 (2) (2000) 245). It also improves a result by Fiorini (Math. Proc. Cambridge Philos. Soc. 77 (1975) 475) on the number of edges of critical graphs for certain Δ.

@@ -1,0 +1,2 @@
+Research on Image Classfication Technology in Digital Libraries
+Proposes a SVM method, it can efficiently classify huge image database through the color and text content of image. In order to estimate the performance of this method, compares it with the method used in artificial neural network, experiment shows that this method is better than others.

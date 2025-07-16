@@ -1,0 +1,2 @@
+Mixed legendre-hermite spectral method for heat transfer in an infinite plate
+Nonisotropic heat transfer in an infinite plate is considered. A weak formulation is derived, which is appropriate for its numerical simulation. The mixed Legendre-Hermite spectral method is proposed for this problem. Its convergence is proved. Numerical results show the efficiency of this new approach.

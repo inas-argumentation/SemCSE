@@ -1,0 +1,2 @@
+Odysseus: a high-performance ORDBMS tightly-coupled with IR features
+We propose the notion of tight-coupling [K. Whang et al., (1999)] to add new data types into the DBMS engine. In this paper, we introduce the Odysseus ORDBMS and present its tightly-coupled IR features (US patented). We demonstrate a Web search engine capable of managing 20 million Web pages in a non-parallel configuration using Odysseus.

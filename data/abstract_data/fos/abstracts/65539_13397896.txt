@@ -1,0 +1,15 @@
+WE-G-BRF-09: Force- and Image-Adaptive Strategies for Robotised Placement of 4D Ultrasound Probes.
+PURPOSE
+To allow continuous acquisition of high quality 4D ultrasound images for non-invasive live tracking of tumours for IGRT, image- and force-adaptive strategies for robotised placement of 4D ultrasound probes are developed and evaluated.
+
+
+METHODS
+The developed robotised ultrasound system is based on a 6-axes industrial robot (adept Viper s850) carrying a 4D ultrasound transducer with a mounted force-torque sensor. The force-adaptive placement strategies include probe position control using artificial potential fields and contact pressure regulation by a PD controller strategy. The basis for live target tracking is a continuous minimum contact pressure to ensure good image quality and high patient comfort. This contact pressure can be significantly disturbed by respiratory movements and has to be compensated. All measurements were performed on human subjects under realistic conditions. When performing cardiac ultrasound, rib- and lung shadows are a common source of interference and can disrupt the tracking. To ensure continuous tracking, these artefacts had to be detected to automatically realign the probe. The detection is realised by multiple algorithms based on entropy calculations as well as a determination of the image quality.
+
+
+RESULTS
+Through active contact pressure regulation it was possible to reduce the variance of the contact pressure by 89.79% despite respiratory motion of the chest. The results regarding the image processing clearly demonstrate the feasibility to detect image artefacts like rib shadows in real-time.
+
+
+CONCLUSION
+In all cases, it was possible to stabilise the image quality by active contact pressure control and automatically detected image artefacts. This fact enables the possibility to compensate for such interferences by realigning the probe and thus continuously optimising the ultrasound images. This is a huge step towards fully automated transducer positioning and opens the possibility for stable target tracking in ultrasoundguided radiation therapy requiring contact pressure of 5-10 N. This work was supported by the Graduate School for Computing in Medicine and Life Sciences funded by Germany's Excellence Initiative [DFG GSC 235/1].

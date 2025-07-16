@@ -1,0 +1,2 @@
+Binary Polar Codes are Optimized Codes for Bitwise Multistage Decoding
+Polar codes are considered the latest major breakthrough in coding theory. Polar codes were introduced by Arikan in 2008. It is shown that the binary polar codes are the same as the optimised codes for bitwise multistage decoding, which have been discovered before by Stolte in 2002. The equivalence between the techniques used for the constructions and decodings of both codes is established.

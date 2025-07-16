@@ -1,0 +1,15 @@
+Interior region-of-interest reconstruction using a small, nearly piecewise constant subregion.
+PURPOSE
+To develop a method to reconstruct an interior region-of-interest (ROI) image with sufficient accuracy that uses differentiated backprojection (DBP) projection onto convex sets (POCS) [H. Kudo et al., "Tiny a priori knowledge solves the interior problem in computed tomography," Phys. Med. Biol. 53, 2207-2231 (2008)] and a tiny knowledge that there exists a nearly piecewise constant subregion.
+
+
+METHODS
+The proposed method first employs filtered backprojection to reconstruct an image on which a tiny region P with a small variation in the pixel values is identified inside the ROI. Total variation minimization [H. Yu and G. Wang, "Compressed sensing based interior tomography," Phys. Med. Biol. 54, 2791-2805 (2009); W. Han et al., "A general total variation minimization theorem for compressed sensing based interior tomography," Int. J. Biomed. Imaging 2009, Article 125871 (2009)] is then employed to obtain pixel values in the subregion P, which serve as a priori knowledge in the next step. Finally, DBP-POCS is performed to reconstruct f(x,y) inside the ROI. Clinical data and the reconstructed image obtained by an x-ray computed tomography system (SOMATOM Definition; Siemens Healthcare) were used to validate the proposed method. The detector covers an object with a diameter of approximately 500 mm. The projection data were truncated either moderately to limit the detector coverage to Ø 350 mm of the object or severely to cover Ø199 mm. Images were reconstructed using the proposed method.
+
+
+RESULTS
+The proposed method provided ROI images with correct pixel values in all areas except near the edge of the ROI. The coefficient of variation, i.e., the root mean square error divided by the mean pixel values, was less than 2.0% or 4.5% with the moderate or severe truncation cases, respectively, except near the boundary of the ROI.
+
+
+CONCLUSIONS
+The proposed method allows for reconstructing interior ROI images with sufficient accuracy with a tiny knowledge that there exists a nearly piecewise constant subregion.

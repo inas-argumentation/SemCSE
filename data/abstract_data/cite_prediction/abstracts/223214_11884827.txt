@@ -1,0 +1,2 @@
+Data Clustering Using a Modified Kuwahara Filter
+In this paper we propose a new density based clustering algorithm. As with other density based clustering algorithms our approach does not require the number of clusters as input. A modification of the Kuwahara filter, used in image processing, is used to generate a special density map in which the brightness of pixels is indicative of the density of the data points. A framework for clustering is derived and its performance is demonstrated on a number of different data sets.

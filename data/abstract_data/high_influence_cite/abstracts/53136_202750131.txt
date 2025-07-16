@@ -1,0 +1,2 @@
+Runge-Kutta Lawson schemes for stochastic differential equations
+In this paper, we present a framework to construct general stochastic Runge--Kutta Lawson schemes. We prove that the schemes inherit the consistency and convergence properties of the underlying Runge--Kutta scheme, and can have larger stability regions. Some numerical examples that verify these results are provided.

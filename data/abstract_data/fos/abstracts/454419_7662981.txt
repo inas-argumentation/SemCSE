@@ -1,0 +1,2 @@
+Normal bases expansion of the discrete cosine transform
+In this correspondence, we show that the discrete cosine transform (DCT) can be obtained by projecting the discrete Fourier transform from the extension field to the basefield. Applying the framework of projection operator, a fast fully recursive algorithm for computing the DCT is also presented.

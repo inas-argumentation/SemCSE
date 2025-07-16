@@ -1,0 +1,2 @@
+A high performance lateral PNP transistor structure
+This paper proposes a novel lateral PNP type structure that is fully compatible with existing single polysilicon BiCMOS processes and offers a valid alternative to shallow polysilicon emitter transistors. We have used both an analytical approach and a more accurate computer aided design, obtaining 0.9 GHz and 4.4 GHz cutoff frequency for 2 /spl mu/m and 0.8 /spl mu/m minimum feature transistors, respectively.

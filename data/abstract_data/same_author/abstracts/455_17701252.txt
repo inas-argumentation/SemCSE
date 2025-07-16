@@ -1,0 +1,2 @@
+Rule-based scene extraction from video
+Instead of clustering video shots into scenes using low level image features, in this paper, we propose a rule-based model to extract simple dialog or action scenes. Through analyzing video editing rules and observing temporal appearance patterns of shots in dialog scenes of movies, we deduce a set of rules to recognize dialog or action scenes. Based on these rides, a finite state machine is designed to extract dialog or action scenes from videos automatically.

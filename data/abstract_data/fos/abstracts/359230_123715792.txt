@@ -1,0 +1,2 @@
+An Intelligible Non-Recursive Algorithm of Traversing Binary Tree
+There are many non-recursive algorithms of traversing binary tree, the limitation of those is obscurity of their process. By analyzing how every node enters and exits stack in the process of traversing binary tree, illustrates a very intelligible non-recursive algorithm of traversing bi-nary tree. The algorithm is realized and its correctness is illuminated, analyzes its time and space complexities. The algorithm applies to three modes of traversing binary tree.

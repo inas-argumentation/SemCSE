@@ -1,0 +1,2 @@
+Nonlinear adaptive convergence index filters and their characteristics
+This paper presents nonlinear adaptive filters which are applied to gradient vector fields. The general convergence index of a gradient vector to the pixel of interest or the line of interest is defined and the convergence degree which is the output of the filter is defined as the average of convergence indices over the region of support. Three kinds of filters are proposed. The fundamental characteristics of the proposed filters are given.

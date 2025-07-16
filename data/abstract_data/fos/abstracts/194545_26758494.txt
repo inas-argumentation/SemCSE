@@ -1,0 +1,15 @@
+Interactive contour delineation of organs at risk in radiotherapy: Clinical evaluation on NSCLC patients.
+PURPOSE
+Accurate delineation of organs at risk (OARs) on computed tomography (CT) image is required for radiation treatment planning (RTP). Manual delineation of OARs being time consuming and prone to high interobserver variability, many (semi-) automatic methods have been proposed. However, most of them are specific to a particular OAR. Here, an interactive computer-assisted system able to segment various OARs required for thoracic radiation therapy is introduced.
+
+
+METHODS
+Segmentation information (foreground and background seeds) is interactively added by the user in any of the three main orthogonal views of the CT volume and is subsequently propagated within the whole volume. The proposed method is based on the combination of watershed transformation and graph-cuts algorithm, which is used as a powerful optimization technique to minimize the energy function. The OARs considered for thoracic radiation therapy are the lungs, spinal cord, trachea, proximal bronchus tree, heart, and esophagus. The method was evaluated on multivendor CT datasets of 30 patients. Two radiation oncologists participated in the study and manual delineations from the original RTP were used as ground truth for evaluation.
+
+
+RESULTS
+Delineation of the OARs obtained with the minimally interactive approach was approved to be usable for RTP in nearly 90% of the cases, excluding the esophagus, which segmentation was mostly rejected, thus leading to a gain of time ranging from 50% to 80% in RTP. Considering exclusively accepted cases, overall OARs, a Dice similarity coefficient higher than 0.7 and a Hausdorff distance below 10 mm with respect to the ground truth were achieved. In addition, the interobserver analysis did not highlight any statistically significant difference, at the exception of the segmentation of the heart, in terms of Hausdorff distance and volume difference.
+
+
+CONCLUSIONS
+An interactive, accurate, fast, and easy-to-use computer-assisted system able to segment various OARs required for thoracic radiation therapy has been presented and clinically evaluated. The introduction of the proposed system in clinical routine may offer valuable new option to radiation oncologists in performing RTP.

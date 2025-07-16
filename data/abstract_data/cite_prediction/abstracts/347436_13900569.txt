@@ -1,0 +1,2 @@
+Additive Manufacturing Defect Detection using Neural Networks
+Currently defect detection in additive manufacturing is predominately done by traditional image processing, approximation, and statistical methods. Two important aspects of defect detection are edge detection and porosity detection. Both problems appear to be good candidates to apply machine learning. This project describes the implementation of neural networks as an alternative method for defect detection. Results from current methods and the neural networks are compared for both speed and accuracy.

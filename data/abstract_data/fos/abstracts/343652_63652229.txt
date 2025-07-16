@@ -1,0 +1,2 @@
+Multi-Dimensional Analysis Based on the Data Cube of the Students' Evaluation
+Many school information systems are transaction oriented,while the accumulation of a large number of educational data,but do not have the education teaching management decision support ability.Uses OLAP to make domain dimension modeling for the students data by subject based on my school student data of the original OA system,and uses Oracle database AWM tools to achieve the establishment of student data cube and the multi-dimensional and multi-granularity analysis.

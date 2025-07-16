@@ -1,0 +1,2 @@
+A tool supporting efficient model checking of concurrent specifications
+We show a tool supporting efficient model checking of LOTOS programs. LOTOS is a well-known specification language for concurrent and distributed systems. The main functionality of the tool is the syntactic reduction of a program with respect to a logic formula expressing a property to be checked. The method is useful to reduce the state-explosion problem in model checking. The tool is integrated with the Concurrency Workbench of North Carolina. The tool also supports a windows user interface.

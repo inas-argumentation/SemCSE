@@ -1,0 +1,15 @@
+Quality control for quantitative multicenter whole-body PET/MR studies: A NEMA image quality phantom study with three current PET/MR systems.
+PURPOSE
+Integrated positron emission tomography/magnetic resonance (PET/MR) systems derive the PET attenuation correction (AC) from dedicated MR sequences. While MR-AC performs reasonably well in clinical patient imaging, it may fail for phantom-based quality control (QC). The authors assess the applicability of different protocols for PET QC in multicenter PET/MR imaging.
+
+
+METHODS
+The National Electrical Manufacturers Association NU 2 2007 image quality phantom was imaged on three combined PET/MR systems: a Philips Ingenuity TF PET/MR, a Siemens Biograph mMR, and a GE SIGNA PET/MR (prototype) system. The phantom was filled according to the EANM FDG-PET/CT guideline 1.0 and scanned for 5 min over 1 bed. Two MR-AC imaging protocols were tested: standard clinical procedures and a dedicated protocol for phantom tests. Depending on the system, the dedicated phantom protocol employs a two-class (water and air) segmentation of the MR data or a CT-based template. Differences in attenuation- and SUV recovery coefficients (RC) are reported. PET/CT-based simulations were performed to simulate the various artifacts seen in the AC maps (μ-map) and their impact on the accuracy of phantom-based QC.
+
+
+RESULTS
+Clinical MR-AC protocols caused substantial errors and artifacts in the AC maps, resulting in underestimations of the reconstructed PET activity of up to 27%, depending on the PET/MR system. Using dedicated phantom MR-AC protocols, PET bias was reduced to -8%. Mean and max SUV RC met EARL multicenter PET performance specifications for most contrast objects, but only when using the dedicated phantom protocol. Simulations confirmed the bias in experimental data to be caused by incorrect AC maps resulting from the use of clinical MR-AC protocols.
+
+
+CONCLUSIONS
+Phantom-based quality control of PET/MR systems in a multicenter, multivendor setting may be performed with sufficient accuracy, but only when dedicated phantom acquisition and processing protocols are used for attenuation correction.

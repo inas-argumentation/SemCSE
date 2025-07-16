@@ -1,0 +1,2 @@
+Testing the Temperature Limits of GaN-Based HEMT Devices
+The high temperature stability of AlGaN/GaN and lattice-matched InAlN/GaN heterostructure FETs has been evaluated by a stepped temperature test routine under large-signal operation. While AlGaN/GaN high-electron mobility transistors (HEMTs) have failed in an operating temperature range of 500°C, InAlN/GaN HEMTs have been operated up to 900°C for 50 h (in vacuum). Failure is thought to be still contact metallization stability related, indicating an extremely robust InAlN/GaN heterostructure configuration.

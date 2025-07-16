@@ -1,0 +1,2 @@
+A low leakage low cost-PMOS based power supply clamp with active feedback for ESD protection in 65nm CMOS technologies
+A novel PMOS based power supply protection clamp is presented which is designed to operate in a state-of-the art 65 nm, low leakage CMOS process. The design is shown to be amenable to the inherent challenges posed by low cost I/O transistors. Robust ESD and electrical operation is shown as well as immunity to transient latch-up.

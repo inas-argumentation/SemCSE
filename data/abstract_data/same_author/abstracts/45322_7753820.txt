@@ -1,0 +1,2 @@
+Approximate Geometric Pattern Matching Under Rigid Motions
+We present techniques for matching point-sets in two and three dimensions under rigid-body transformations. We prove bounds on the worst-case performance of these algorithms to be within a small constant factor of optimal and conduct experiments to show that the average performance of these matching algorithms is often better than that predicted by the worst-case bounds.

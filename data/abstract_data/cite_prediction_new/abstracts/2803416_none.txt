@@ -1,0 +1,2 @@
+A new approach for history matching of oil and gas reservoir
+This work proposes a new approach for history matching using Kernel PCA to adjust the reservoir permeability field obeying geostatistical constraint. Although there are several methodologies in literature for history matching, most of them don't take into account geostatistical restrictions. Besides, history matching is a problem of huge dimensionality. So, Kernel PCA was chosen due to its ability to compress and accurately reconstruct data in addition to being able to extract non-linear characteristics.

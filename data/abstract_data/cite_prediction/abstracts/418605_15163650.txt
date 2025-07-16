@@ -1,0 +1,2 @@
+Comparison of GARCH, Neural Network and Support Vector Machine in Financial Time Series Prediction
+This article applied GARCH model instead AR or ARMA model to compare with the standard BP and SVM in forecasting of the four international including two Asian stock markets indices.These models were evaluated on five performance metrics or criteria. Our experimental results showed the superiority of SVM and GARCH models, compared to the standard BP in forecasting of the four international stock markets indices.

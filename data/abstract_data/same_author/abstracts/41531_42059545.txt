@@ -1,0 +1,2 @@
+Quasi-Gaussian Particle Filtering
+The recently-raised Gaussian particle filtering (GPF) introduced the idea of Bayesian sampling into Gaussian filters. This note proposes to generalize the GPF by further relaxing the Gaussian restriction on the prior probability. Allowing the non-Gaussianity of the prior probability, the generalized GPF is provably superior to the original one. Numerical results show that better performance is obtained with considerably reduced computational burden.

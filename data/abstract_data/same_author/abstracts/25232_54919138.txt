@@ -1,0 +1,2 @@
+The Carlsberg Meridian Telescope CCD drift scan survey
+This paper contains the general data reduction methods used in processing the data from the Carlsberg Meridian Telescope CCD drift scan survey. An efficient method to calibrate the fluctuations in the positions of the images caused by atmospheric turbulence is described. The external accuracy achieved is 36 mas in right ascension and declination. A description of the recently released catalogue is given.

@@ -1,0 +1,12 @@
+Classification of lubricants according to cavitation criteria
+Cavitation in lubrication liquids has long been known to be detrimental to components in hydraulic systems. Damage has been detected in journal bearings, especially under severe dynamic loading, gears, squeeze film dampers and valves. 
+These findings have led to intensive studies of metal resistance to cavitation erosion, in order to minimize the damage. Results of these studies have been: 
+1. (a) classification of known materials according to their resistance to cavitation erosion; 
+2. (b) development of new materials and processes to increase their durability. 
+One of the main achievements in this respect was the establishment of the ASTM G32-92 Standard Method of Vibratory Cavitation Erosion Test. However, very little was done with respect to the liquid phase, e.g. the lubricants. As a consequence there is no standard procedure for testing of lubricants for their cavitation properties and no relevant specifications in national and international standards. 
+ 
+This study includes theoretical and experimental investigations. The theoretical approach examines the lubricant in elastohydrodynamically lubricated (EHL) contacts. Using numerical simulations, based on Reynolds equation and elastic deformation theory, the pressure profile and film shape have been computed. It is further investigated how the operating conditions affect the properties, e.g. ?cavitation energy? of zones of sub-ambient pressure values and if a correlation between these results and cavitation erosion criteria can be found. 
+ 
+The experimental approach includes testing of 20 liquid lubricants, belonging to the following four groups: mineral oils, mineral-based oils, bio degradable oils and synthetic oils. Testing was performed by vibrating a standard aluminium tip in each oil and periodically recording the gravimetric results. These results enabled the classification of the lubricants according to their cavitance, which is inversely proportional to the mass of solid material eroded by a cavitating liquid under controlled conditions. 
+ 
+The results of both approaches can be combined into an engineering tool in the future. This tool may serve the designer to improve the use of existing lubricants and the lubrication industry as an aid for the development of new lubricants with increased cavitance in hydraulic systems.

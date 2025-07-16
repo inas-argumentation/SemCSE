@@ -1,0 +1,2 @@
+Risk-Based Maintenance Approach : A Case of Circuit Breaker Condition Based Monitoring
+-This paper presents an overview of resource optimization approach for transmission system maintenance selection and scheduling. The approach is based on failure rate estimation and risk reduction calculation followed by resource optimization. It also presents probabilistic models developed for circuit breakers and power transformers. An effort is made to quantify the effect of maintenance using the circuit breaker monitor’s data.

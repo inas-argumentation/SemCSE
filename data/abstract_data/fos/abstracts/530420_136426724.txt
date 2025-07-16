@@ -1,0 +1,2 @@
+Strain-Based Damage Deactivation in Concrete
+Motivated by the 'mode I' microcrack opening and closing mechanism, a procedure for the deactivation of the damage is developed. Strain based projection operators are used to negate the damage effects in the secant-stiffness tensors for coupled elastoplasticity damage formulation. A particular coupled formulation employing a second-order damage tensor and Prager-Drucker plasticity is presented. The resulting model is shown to capture the material constitutive behavior observed in plain concrete.

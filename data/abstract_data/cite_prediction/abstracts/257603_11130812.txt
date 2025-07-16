@@ -1,0 +1,2 @@
+Training CNNs with Low-Rank Filters for Efficient Image Classification
+I We train CNNs with composite layers of oriented low-rank filters, of which the network learns the most effective linear combination I In effect our networks learn a basis space for filters, based on simpler low-rank filters I We propose an initialization for composite layers of heterogeneous filters, to train such networks from scratch I Our models are faster and use less parameters I With a small number of full filters, our models also generalize better

@@ -1,0 +1,2 @@
+Distributing the Derivation and Maintenance of Subset Descriptor Rules
+This draft paper describes a solution to the rule maintenance problem for data descriptor rules derived from data that may subsequently change. The method utilises any available computers in the local area network, to derive and maintain rule sets.

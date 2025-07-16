@@ -1,0 +1,2 @@
+Singing Style Transfer Using Cycle-Consistent Boundary Equilibrium Generative Adversarial Networks
+Can we make a famous rap singer like Eminem sing whatever our favorite song? Singing style transfer attempts to make this possible, by replacing the vocal of a song from the source singer to the target singer. This paper presents a method that learns from unpaired data for singing style transfer using generative adversarial networks.

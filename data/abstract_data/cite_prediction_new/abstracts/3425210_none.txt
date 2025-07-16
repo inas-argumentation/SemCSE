@@ -1,0 +1,2 @@
+An analytic approach to pheromone-based coordination
+Stigmergetic coordination of large numbers of simple agents in natural agent systems yields complex and stable coordinated system-level behavior. The Pheromone Infrastructure, an enhancement of the runtime environment of software agent systems, supports the use of stigmergetic coordination mechanisms in synthetic ecosystems. This paper discusses how such mechanisms may be tuned and evaluated, employing a formal representation of the processes in the Pheromone Infrastructure.

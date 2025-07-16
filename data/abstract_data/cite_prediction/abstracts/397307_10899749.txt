@@ -1,0 +1,2 @@
+FocusStack: Orchestrating Edge Clouds Using Focus of Attention
+Managing resources in Internet of Things (IoT) edge devices presents new challenges: massive scale, novel security issues, and new resource types. We propose that edge devices can be managed as part of infrastructure-as-a-service clouds. Our approach, FocusStack, uses situational awareness to solve problems of inefficient messaging and mixed-initiative control that IoT device management raises for traditional cloud platforms.

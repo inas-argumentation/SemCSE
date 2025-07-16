@@ -1,0 +1,2 @@
+The Existence of a Pattern Which Is 5-avoidable but 4-unavoidable
+A word W avoids a pattern P if for any substitution α of the letters of P with nonempty words, α(P) is not a subword of W. The avoidability index of a pattern P is the smallest n for which P is avoided by infinitely many words over an n-letter alphabet. Heretofore, every known avoidable pattern has had avoidability index 2, 3 or 4. This paper shows that the pattern Pρ = abvacwbaxbcycdazdcd has avoidability index 5.

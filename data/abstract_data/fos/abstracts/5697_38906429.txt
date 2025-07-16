@@ -1,0 +1,15 @@
+SU-F-T-123: The Simulated Effect of the Breath-Hold Reproducibility Treating Locally-Advanced Lung Cancer with Pencil Beam Scanned Proton Therapy.
+PURPOSE
+The breath-hold (BH) technique has been suggested to mitigate motion and reduce target coverage degradation due to motion effects. The aim of this study was to investigate the effect of inter-BH residual motion on the dose distribution for pencil beam scanned (PBS) proton therapy of locally-advanced lung cancer patients.
+
+
+METHODS
+A dataset of visually-guided BH CT scans was acquired (10 scans per patient) taken from five lung cancer patients: three intra-fractionally repeated CT scans on treatment days 2,16 and 31, in addition to the day 0 planning CT scan. Three field intensity-modulated proton therapy (IMPT) plans were constructed on the planning CT scan. Dose delivery on fraction 2, 16 and 31 were simulated on the three consecutive CT scans, assuming BH duration of 20s and soft tissue match. The dose was accumulated in the planning CT using deformable image registration, and scaled to simulate the full treatment of 66Gy(RBE) in 33 fractions.
+
+
+RESULTS
+The mean dose to the lungs and heart, and maximum dose to the spinal cord and esophagus were within 1% of the planned dose. The CTV V95% decreased and the inhomogeneity (D5%-D95%) increased on average 4.1% (0.4-12.2%) and 5.8% (2.2-13.4%), respectively, over the five patient cases.
+
+
+CONCLUSION
+The results showed that the BH technique seems to spare the OARs in spite of inter-BH residual motion. However, small degradation of target coverage occurred for all patients, with 3/5 patients having a decrease in V95% ≤1%. For the remaining two patients, where V95% decreased up to 12%, the cause could be related to treatment related anatomical changes and, as in photon therapy, plan adaptation may be necessary to ensure target coverage. This study showed that BH could be a potential treatment option to reliably mitigate motion for the treatment of locally-advanced lung cancer using PBS proton therapy.

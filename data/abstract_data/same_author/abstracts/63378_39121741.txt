@@ -1,0 +1,2 @@
+A Secure and Efficient (t, n) Threshold Verifiable Multi-secret Sharing Scheme
+Ting-Yi Chang et al.(2005) have proposed an efficient (t, n) threshold verifiable multi-secret sharing (VMSS) scheme, which is more secure than the one adopted in Lin and Wu (1999) and it can provide more efficient performance than the other VMSS schemes in terms of computational complexity. However, this paper will show that Chang et al.’s scheme is in fact insecure by presenting a conspiracy attack on it. Furthermore, a more secure scheme is proposed.

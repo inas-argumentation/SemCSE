@@ -1,0 +1,15 @@
+WE-DE-BRA-05: Monte Carlo Simulation of a Novel Multi-Layer MV Imager.
+PURPOSE
+To develop and validate a Monte Carlo (MC) model of a novel multi-layer imager (MLI) for megavolt (MV) energy beams. The MC model will enable performance optimization of the MLI design for clinical applications including patient setup verification, tumor tracking and MVCBCT.
+
+
+METHODS
+The MLI is composed of four layers of converter, scintillator and light detector, each layer similar to the current clinical AS1200 detector (Varian Medical Systems, Inc). The MLI model was constructed using the Geant4 Application for Tomographic Emission (GATE v7.1) and includes interactions for x-ray photons, charged particles and optical photons. Computational experiments were performed to assess Modulation Transfer Function (MTF), Detective Quantum Efficiency (DQE) and Noise Power Spectrum normalized by photon fluence and average detector signal (qNNPS). Results were compared with experimental measurements. The current work incorporates, in one model, the complete chain of events occurring in the imager; i.e. starting from x-ray interaction to charged particle transport and energy deposition to subsequent generation, interactions and detection of optical photons.
+
+
+RESULTS
+There is good agreement between measured and simulated MTF, qNNPS and DQE values. Normalized root mean squared error (NRMSE) between measured and simulated values over all four layers was 2.18%, 2.43% and 6.05% for MTF, qNNPS and DQE respectively. The relative difference between simulated and measured values for qNNPS(0) was 1.68% and 1.57% for DQE(0). Current results were obtained using a 6MV Varian Truebeam™ spectrum.
+
+
+CONCLUSION
+A comprehensive Monte Carlo model of the MLI prototype was developed to allow optimization of detector components. The model was assessed in terms of imaging performance using standard metrics (i.e. MTF, qNNPS, DQE). Good agreement was found between simulated and measured values. The model will be used to assess alternative detector constructions to facilitate advanced clinical imaging applications including MV-CBCT and tumor tracking. The project was supported, partially, by a grant from Varian Medical Systems, Inc., and Award No. R01CA188446-01 from the National Cancer Institute. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Cancer Institute or the National Institutes of Health.

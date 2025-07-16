@@ -1,0 +1,2 @@
+A Simplified Algorithm for Testing Microprocessors
+In this paper, we present a number of algorithms to test the instruction decoding function of microprocessors. The algorithms are based on the knowledge of some timing and control information available to users through microprocessor manuals and data sheets. The tests are functional in nature. We also establish the order of complexity of the algorithms presented in this paper. As an example, the test complexity for a microprocessor is computed and the results are compared with a known algorithm.

@@ -1,0 +1,15 @@
+Evaluation of Tissue Deformation during Radiofrequency and Microwave Ablation Procedures: Influence of Output Energy Delivery.
+PURPOSE
+To quantitatively analyze tissue deformation during radiofrequency (RF) and microwave ablation for varying output energy levels.
+
+
+METHODS
+A total of 46 fiducial markers which were classified into outer, middle and inner lines, were positioned into a single plane around an RF or microwave ablation applicator in each ex-vivo bovine liver sample (8×6×4 cm, n = 18). RF (500 kHz; ~35 W average) or microwave (2.4 GHz; 50-100W output, ~35-70W delivered) ablation was performed for 10 min (n = 4-6 each setting). CT images were acquired over the entire liver volume every 15s. Principle strain magnitude and direction were determined from fiducial marker displacement. Normal and shear strain were then calculated such that negative strain denoted contraction and positive strain denoted expansion. Temporal variations, the final magnitudes and angles of the strain were compared across energy delivery settings, using one-way ANOVA with post-hoc Tukey HSD tests.
+
+
+RESULTS
+On average, tissue strain rates peak at around 1 min and decayed exponentially over time. No evidence of tissue expansion was observed. The tissue strains from RF and 50 W, 75 W, and 100 W microwave ablation at 10 min were -8.5%, -38.9%, -54.4% and -65.7%, respectively, from the inner region and -3.6%, -23.7%, -41.8% and -44.3%, respectively, from the outer region. Negative strain magnitude was positively correlated to energy delivery in the inner region (Spearman's ρ=-0.99). Microwaves at higher powers (75-100 W) induced significantly more strain than at lower power (50 W) or after RF ablation (p<0.01). Principal strain angles ranged from 0.8° to -8.1°, indicating that tissue deformed more in the direction transverse to the applicator than along the direction of the applicator.
+
+
+CONCLUSIONS
+The influence of output energy on tissue deformation during RF and microwave ablation was analyzed. Microwave ablation created significantly greater contraction than RF ablation with similar energy delivery. During microwave ablation, more contraction was noted at higher power levels and in close proximity to the antenna. Contraction primarily transverse to the antenna produces ablation zones that are more elongated than the original tissue volume. This article is protected by copyright. All rights reserved.

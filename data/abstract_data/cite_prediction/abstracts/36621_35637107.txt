@@ -1,0 +1,15 @@
+Evaluation of segmentation methods on head and neck CT: Auto-segmentation challenge 2015.
+PURPOSE
+Automated delineation of structures and organs is a key step in medical imaging. However, due to the large number and diversity of structures and the large variety of segmentation algorithms, a consensus is lacking as to which automated segmentation method works best for certain applications. Segmentation challenges are a good approach for unbiased evaluation and comparison of segmentation algorithms.
+
+
+METHODS
+In this work, we describe and present the results of the Head and Neck Auto-Segmentation Challenge 2015, a satellite event at the Medical Image Computing and Computer Assisted Interventions (MICCAI) 2015 conference. Six teams participated in a challenge to segment nine structures in the head and neck region of CT images: brainstem, mandible, chiasm, bilateral optic nerves, bilateral parotid glands, and bilateral submandibular glands.
+
+
+RESULTS
+This paper presents the quantitative results of this challenge using multiple established error metrics and a well-defined ranking system. The strengths and weaknesses of the different auto-segmentation approaches are analyzed and discussed.
+
+
+CONCLUSIONS
+The Head and Neck Auto-Segmentation Challenge 2015 was a good opportunity to assess the current state-of-the-art in segmentation of organs at risk for radiotherapy treatment. Participating teams had the possibility to compare their approaches to other methods under unbiased and standardized circumstances. The results demonstrate a clear tendency toward more general purpose and fewer structure-specific segmentation algorithms.

@@ -1,0 +1,2 @@
+Towards trusted composition in software design
+In this paper, we investigate the issues on software composition at the design level. A formal framework for component composition, replacement, refinement in software design is proposed. This framework can help software designers to design software systems from existing design components and to rigorously analyze these systems. Thus, wrong design decisions, errors, and inconsistencies can be detected early in the development process.

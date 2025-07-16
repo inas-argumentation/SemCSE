@@ -1,0 +1,15 @@
+ComBat harmonization for radiomic features in independent phantom and lung cancer patient computed tomography datasets.
+PURPOSE
+To evaluate the Combatting Batch effect (ComBat) harmonization algorithm's ability to reduce the variation in radiomic features arising from different imaging protocols and independently verify published results.
+
+
+METHODS
+The Gammex computed tomography (CT) electron density phantom and Quasar body phantom were imaged using 32 different chest imaging protocols. 107 radiomic features were extracted from 15 spatially varying spherical contours between 1.5cm and 3cm in each of the lung300 density, lung450 density, and wood inserts. The Kolmogorov-Smirnov test was used to determine significant differences in the distribution of the features and the Concordance Correlation Coefficient (CCC) was uses to measure the repeatability of the features from each protocol variation class (kVp, pitch, etc.) before and after ComBat harmonization. P-values were corrected for multiple comparisons using the Benjamini-Hochberg-Yekutieli procedure. Finally, the ComBat algorithm was applied to human subject data using 6 different thorax imaging protocols with 135 patients. Spherical contours of un-irradiated lung (2cm) and vertebral bone (1cm) were used for radiomic feature extraction.
+
+
+RESULTS
+ComBat harmonization reduced the percentage of features from significantly different distributions to 0-2% or preserved 0% across all protocol variations for the lung300, lung450 and wood inserts. For the human subject data, ComBat harmonization reduced the percentage of significantly different features from 0-59% for bone and 0-19% for lung to 0% for both.
+
+
+CONCLUSION
+This work verifies previously published results and demonstrates that ComBat harmonization is an effective means to harmonize radiomic features extracted from different imaging protocols to allow comparisons in large multi-institution datasets. Biological variation can be explicitly preserved by providing the ComBat algorithm with clinical or biological variables to protect. ComBat harmonization should be tested for its effect on predictive models.

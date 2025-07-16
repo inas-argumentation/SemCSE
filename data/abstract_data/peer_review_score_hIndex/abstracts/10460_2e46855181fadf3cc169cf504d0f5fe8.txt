@@ -1,0 +1,9 @@
+Local $K$-means: An Efficient Optimization Algorithm And Its Generalization
+Until now, $k$-means is still one of the most popular clustering algorithms because of its simplicity and efficiency, although it has been proposed for a long time.
+In this paper, we considered a variant of $k$-means that takes the $k$-nearest neighbor ($k$-NN) graph as input and proposed a novel clustering algorithm called Local K-Means (LKM).
+We also developed a general model that unified LKM, KSUMS, and SC, and discussed the connection among them.
+In addition, we proposed an efficient optimization algorithm for the unified model. 
+Thus, not only LKM but also SC can be optimized with a linear time complexity with respect to the number of samples. 
+Specifically, the computational overhead is $O(nk)$, where $n$ and $k$ are denote the number of samples and nearest neighbors, respectively.
+Extensive experiments have been conducted on 11 synthetic and 16 benchmark datasets from the literature. 
+The effectiveness, efficiency, and robustness to outliers of the proposed method have been verified by the experimental results.

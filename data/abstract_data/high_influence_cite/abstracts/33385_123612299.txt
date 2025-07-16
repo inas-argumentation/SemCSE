@@ -1,0 +1,2 @@
+A finite difference scheme for solving the Timoshenko beam equations with boundary feedback
+In this study, we derive a finite difference for a Timoshenko beam with boundary feedback by the method of reduction of order on uniform meshes. It is proved by the discrete energy method that the scheme is uniquely solvable, unconditionally stable and second order convergent in L"~ norm. Numerical results demonstrate the theoretical results.

@@ -1,0 +1,2 @@
+Strong uniform consistency rates of kernel estimators of cumulative distribution functions
+In this paper we consider the uniform strong consistency, along with a rate, of the cumulative distribution function (CDF) estimator. We extend the extended Glivenko–Cantelli lemma (for empirical distribution function) in Fabian and Hannan (1985, pp. 80–83) to the kernel estimator of the CDF.

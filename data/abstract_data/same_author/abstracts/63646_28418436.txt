@@ -1,0 +1,2 @@
+A Novel Multiple Input Multiple Output Transceiver for Ultra-Wideband Technology
+In this paper, we investigate a novel MIMO transceiver with space-time-hopping code combing pulse position modulation (STH-PPM) for UWB time division multiple access (TDMA) system. Moreover, we propose a new approach called second-order statistics (SOS) with unknown channel state information (CSI) for receiver detection. This new transceiver does not require any training or pilot symbols or decision feedbacks, and it performs well in flat fading channel.

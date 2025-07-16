@@ -1,0 +1,2 @@
+Image Watermarking Using LSB (Least Significant Bit)
+With the rapid development and wide use of Internet, information transmission faces a big challenge of security. People need a safe and secured way to transmit information. Digital watermarking is a technique of data hiding, which provide security of data. This paper presents a watermarking technique which least significant bits (LSB), its steps and its process with matlab images.

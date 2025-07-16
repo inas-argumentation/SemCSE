@@ -1,0 +1,2 @@
+Development of a recognition algorithm for THz spectra
+A new algorithm for the processing of THz absorption spectra is developed. It grants further applications of the THz radiation in the field of security control or chemical substance identification. The algorithm processes the whole spectra with small information content by means of continuous wavelet transformation (CWT).

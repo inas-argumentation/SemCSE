@@ -1,0 +1,2 @@
+EM-C: Programming with Explicit Parallelism and Locality for EM-4 Multiprocessor
+EM-C is a parallel extension of the C programming language designed for efficient parallel programming in the EM-4 multiprocessor.

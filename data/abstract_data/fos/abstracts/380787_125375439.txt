@@ -1,0 +1,2 @@
+Mixed sampling plan based on exponentially weighted moving average statistic
+We will design a new mixed acceptance sampling plan based on the exponentially weighted moving average statistic in this article. The plan parameters of the proposed plan are determined by an optimization problem. The efficiency of the proposed plan is compared with the existing attribute sampling plan. An industrial example is given for illustration purpose.

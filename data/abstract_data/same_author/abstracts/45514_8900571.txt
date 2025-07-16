@@ -1,0 +1,2 @@
+Computing a Segment Center for a Planar Point Set
+\indent Given a set $S$ of $n$ points in the plane and a segment $e$, a {\em center placement} of $e$ is a placement (allowing translation and rotation) that minimizes the maximum distance from $e$ to the points of $S$. We present an algorithm for computing a center placement for $S$, whose running time is $O(n^{2} \alpha (n) \, \mbox {log} ^{3}n),$ where $\alpha (n)$ is the inverse Ackermann function. The algorithm makes use of the parametric searching technique of Megiddo.

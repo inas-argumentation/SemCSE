@@ -1,0 +1,2 @@
+Open-source Tools for Creation, Maintenance, and Storage of Lexical Resources for Language Generation from Ontologies
+This paper describes reusable, open-source tools for creation, maintenance, storage, and access of Language Resources (LR) needed for generating natural language texts from ontologies. One advantage of these tools is that they provide a user-friendly interface for NLG LR manipulation. They also provide unified models for accessing NLG lexicons and mappings between lexicons and ontologies.

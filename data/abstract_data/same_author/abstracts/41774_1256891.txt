@@ -1,0 +1,2 @@
+A Supervised Approach to the Evaluation of Image Segmentation Methods
+Evaluation is an important step in developing a segmentation algorithm for an image analysis system. We first give a review of segmentation evaluation methods, and then demonstrate how a supervised evaluation method based on shape features is used in the development of a segmentation algorithm for fluorescence images of white blood cells.

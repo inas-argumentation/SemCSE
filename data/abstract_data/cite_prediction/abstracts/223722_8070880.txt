@@ -1,0 +1,2 @@
+Boosting Recurrent Neural Networks for Time Series Prediction
+We adapt a boosting algorithm to the problem of predicting future values of time series, using recurrent neural networks as base learners. The experiments we performed show that boosting actually provides improved results and that the weighted median is better for combining the learners than the weighted mean.

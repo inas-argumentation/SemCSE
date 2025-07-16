@@ -1,0 +1,2 @@
+Visualization of the continental drift in real-time
+We present an approach to simulate and visualize the paleontological change of the terrestrial globe through time. As input, maps of the Earth at different points in time, each showing a specific stage in the Earth’s development, are used. To display the continuous change of Earth through time, smooth transitions between consecutive input maps are computed by manual correspondence matching. Our system makes it is possible to display the Earth’s paleogeographic development as an interactive globe in real-time.

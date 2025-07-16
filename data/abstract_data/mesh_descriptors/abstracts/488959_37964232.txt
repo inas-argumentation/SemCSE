@@ -1,0 +1,2 @@
+A simple method to forecast good promoters of Escherichia coli by means of doublet frequencies.
+A training sample (taken offhand) of 14 promoter sequences, 70 or 69 base pairs in length each, with their (relative) promoter strengths given by Deuschle et al. (1986), is used to find a relation between some sequence characteristics and the promoter strength. The analysis is based on the doublet frequencies of purines and pyrimidines in the promoter sequence under study.

@@ -1,0 +1,2 @@
+Network Publishing Languages
+Abstract Our general model of Web publishing traces the path of items from author to delivery. As a bottom-up approach to implementing publications, we describe the use of high-level scripting languages that embody publishing concepts and procedures. Languages can be implemented by combining an interpreter with appropriate Libraries (ie. written in Perl). A top-down approach involves extending the SGML DSSSL standards to define the features and processes associated with classes of publications.

@@ -1,0 +1,2 @@
+High Speed Reed-Solomon Encoder Algorithm and FPGA Realization
+In this paper,we analyze several encoder algorithms and encoder realization methods based on the theory of reed-solomn.We research the high speed RS encoder algorithm and the realization of FPGA,and design a (204,188) RS encoder in accordance with DVB-C standard. After encoding process is produced, the result are given.

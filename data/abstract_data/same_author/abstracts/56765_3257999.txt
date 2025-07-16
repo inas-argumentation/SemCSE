@@ -1,0 +1,2 @@
+Safe-for-Space Threads in Standard ML
+Threads can easily be implemented using first-class continuations, but the straightforward approaches for doing so lead to space leaks, especially in a language with exceptions like Standard ML. We show how these space leaks arise and give a new implementation for threads that is safe for space.

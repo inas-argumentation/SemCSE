@@ -1,0 +1,11 @@
+Development of a mathematical model to describe the transport of monocyte chemoattractant protein-1 through a three-dimensional collagen matrix.
+INTRODUCTION
+Monocyte chemoattractant protein-1 is a bioactive molecule that is expressed in significant amounts in all stages of atherosclerosis. The role of monocyte chemoattractant protein-1 in this disease is to recruit monocytes across the endothelium and into the arterial tissue. Eventually, the monocytes differentiate into cholesterol-engorged macrophages called "foam cells" that result in atherosclerotic plaque formation. The mechanism that monocyte chemoattractant protein-1 uses to mediate monocyte transendothelial migration is believed to be via its concentration gradient. However, the formation of the monocyte chemoattractant protein-1 concentration gradient in the extracellular matrix is still poorly understood.
+
+
+METHODS
+A three-dimensional in vitro vascular tissue model has been developed to study the cellular mechanisms involved in the early stages of atherosclerosis. In the present study, a mathematical model is used to determine the gradient of monocyte chemoattractant protein-1 in the collagen matrix of the three-dimensional in vitro vascular tissue model. Experiments were performed to investigate the stability of monocyte chemoattractant protein-1 and the interaction between monocyte chemoattractant protein-1 and the collagen matrix.
+
+
+RESULTS AND CONCLUSIONS
+Monocyte chemoattractant protein-1 is stable for at least 24 h under experimental conditions and monocyte chemoattractant protein-1 interacts with the collagen matrix. The diffusion coefficient for the transport of monocyte chemoattractant protein-1 in the collagen matrix and the rate constant for the binding of monocyte chemoattractant protein-1 to collagen were determined to be 0.108 mm(2) h(-1) and 0.858 h(-1), respectively. Numerical results from the model indicate that the concentration gradients of both soluble and matrix-bound (or static) monocyte chemoattractant protein-1 are formed inside the collagen matrix.

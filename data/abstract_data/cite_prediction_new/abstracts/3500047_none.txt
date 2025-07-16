@@ -1,0 +1,2 @@
+Maximal Information Divergence from Statistical Models defined by Neural Networks
+We review recent results about the maximal values of the Kullback-Leibler information divergence from statistical models defined by neural networks, including naive Bayes models, restricted Boltzmann machines, deep belief networks, and various classes of exponential families. We illustrate approaches to compute the maximal divergence from a given model starting from simple sub- or super-models. We give a new result for deep and narrow belief networks with finite-valued units.

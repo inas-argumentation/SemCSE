@@ -1,0 +1,15 @@
+Research Paper: A Continuous-speech Interface to a Decision Support System: I. Techniques to Accommodate for Misrecognized Input
+OBJECTIVE
+Develop a continuous-speech interface that allows flexible input of clinical findings into a medical diagnostic application.
+
+
+DESIGN
+The authors' program allows users to enter clinical findings using their own vernacular. It displays from the diagnostic program's controlled vocabulary a list of terms that most closely matches the input, and allows the user to select the single best term. The interface program includes two components: a speech-recognition component that converts utterances into text strings, and a language-processing component that matches recognized text strings with controlled-vocabulary terms. The speech-recognition component is composed of commercially available speech-recognition hardware and software, and developer-created grammars, which specify the language to be recognized. The language-processing component is composed of a translator, which extracts a canonical form from both recognized text strings and controlled-vocabulary terms, and a matcher, which measures the similarity between the two canonical forms.
+
+
+RESULTS
+The authors discovered that grammars constructed by a physician, who could anticipate how users might speak findings, supported speech recognition better than did grammars constructed programmatically from the controlled vocabulary. However, this programmatic method of grammar construction was more time efficient and better supported long-term maintenance of the grammars. The authors also found that language-processing techniques recovered some of the information lost due to speech misrecognition, but were dependent on the completeness of supporting synonym dictionaries.
+
+
+CONCLUSIONS
+The authors' program demonstrated the feasibility of using continuous speech to enter findings into a medical application. However, improvements in speech-recognition technology and language-processing techniques are needed before natural continuous speech becomes an acceptable input modality for clinical applications.

@@ -1,0 +1,3 @@
+Another Solution to the Thue Problem of Non-Repeating Words
+In this work we consider morphisms that preserve well-known non-repeating properties: squarefreeness, cubefreeness, overlap-freeness and weak squarefreeness. Up to the present moment only the morphisms preserving three out of four non-repeating properties have been known. The problem of the existence of weakly squarefree morphisms was open. 
+The essential result of this work is the positive solution to this problem. An example of the morphism preserving all four properties is provided. Also, it is proved that there are no morphisms with the same properties and a lower rank.

@@ -1,0 +1,2 @@
+k-Best Cuts for Circular-Arc Graphs
+Given a set of n weighted circular-arcs on a unit circle, and an integer k, the k Best Cuts for Circular-Arcs problem, abbreviated as k-BCCA problem, is to find a placement of k points, called cuts, on the circle such that the total weight of the arcs that contain at least one cut is maximized.

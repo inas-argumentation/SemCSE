@@ -1,0 +1,15 @@
+A spatio-temporal Bayesian network classifier for understanding visual field deterioration
+OBJECTIVE
+Progressive loss of the field of vision is characteristic of a number of eye diseases such as glaucoma which is a leading cause of irreversible blindness in the world. Recently, there has been an explosion in the amount of data being stored on patients who suffer from visual deterioration including field test data, retinal image data and patient demographic data. However, there has been relatively little work in modelling the spatial and temporal relationships common to such data. In this paper we introduce a novel method for classifying visual field (VF) data that explicitly models these spatial and temporal relationships.
+
+
+METHODOLOGY
+We carry out an analysis of our proposed spatio-temporal Bayesian classifier and compare it to a number of classifiers from the machine learning and statistical communities. These are all tested on two datasets of VF and clinical data. We investigate the receiver operating characteristics curves, the resulting network structures and also make use of existing anatomical knowledge of the eye in order to validate the discovered models.
+
+
+RESULTS
+Results are very encouraging showing that our classifiers are comparable to existing statistical models whilst also facilitating the understanding of underlying spatial and temporal relationships within VF data. The results reveal the potential of using such models for knowledge discovery within ophthalmic databases, such as networks reflecting the 'nasal step', an early indicator of the onset of glaucoma.
+
+
+CONCLUSION
+The results outlined in this paper pave the way for a substantial program of study involving many other spatial and temporal datasets, including retinal image and clinical data.

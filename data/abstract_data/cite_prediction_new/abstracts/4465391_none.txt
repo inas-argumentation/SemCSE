@@ -1,0 +1,16 @@
+Bandwidth Efficient Diversity Scheme Using STTC Concatenated With STBC: MIMO Systems
+Multiple-input multiple-output (MIMO) systems are
+widely in use to improve quality, reliability of wireless transmission
+and increase the spectral efficiency. However in MIMO systems,
+multiple copies of data are received after experiencing various
+channel effects. The limitations on account of complexity due to
+number of antennas in case of conventional decoding techniques have
+been looked into. Accordingly we propose a modified sphere decoder
+(MSD-1) algorithm with lower complexity and give rise to system
+with high spectral efficiency. With the aim to increase signal
+diversity we apply rotated quadrature amplitude modulation (QAM)
+constellation in multi dimensional space. Finally, we propose a new
+architecture involving space time trellis code (STTC) concatenated
+with space time block code (STBC) using MSD-1 at the receiver for
+improving system performance. The system gains have been verified
+with channel state information (CSI) errors.

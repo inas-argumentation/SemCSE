@@ -1,0 +1,2 @@
+IEC 61850 substation configuration language as a basis for automated security and SDN configuration
+IEC61850 has revolutionized the way substations are configured and maintained. Substation Configuration Language (SCL) defines the parameters needed to configure individual devices and combine them into a working system. Security is implemented by IEC62351 and there are potential vulnerabilities. Best practice recommendations are for defense in depth. SCL contains sufficient information to auto-configure network equipment, firewalls, IDS and SDN based networks.

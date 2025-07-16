@@ -1,0 +1,2 @@
+Large Games: Fair and Stable Outcomes
+Abstract We establish that for a broad class of large games with sidepayments, fair out-comes are nearly stable. More precisely, the Shapley value of a large game is in the e-core and e is very small if the game is very large. The proof uses two other results of independent interest: for large games the power of improvement is concentrated in small coalitions, and the Shapley value of a small syndicate acting together is nearly the sum of the Shapley values which accrue to the members acting alone.

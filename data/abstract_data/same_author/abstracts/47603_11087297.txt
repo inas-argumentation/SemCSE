@@ -1,0 +1,2 @@
+Fairness in DQDB revisited: a new solution
+The main contribution of this work is to a new way of looking at fairness in a DQDB system. Our scheme is very simple and efficient to implement and compares favorably with the leading rate-controlled schemes proposed in the literature. In addition, simulation results show that in the presence of non-uniform loads, such as a file server being brought up, our scheme converges rapidly to a fair steady state.<<ETX>>

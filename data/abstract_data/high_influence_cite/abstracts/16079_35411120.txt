@@ -1,0 +1,25 @@
+Application of Slantlet Transform Based Support Vector Machine for Power Quality Detection and Classification
+Concern towards power quality (PQ) has 
+increased immensely due to the growing usage of high technology devices which 
+are very sensitive towards voltage and current variations and the de-regulation 
+of the electricity market. The impact of these voltage and current variations 
+can lead to devices malfunction and production stoppages which lead to huge 
+financial loss for the production company. The deregulation of electricity 
+markets has made the industry become more competitive and distributed. Thus, a 
+higher demand on reliability and quality of services will be required by the 
+end customers. To ensure the power supply is at the highest quality, an 
+automatic system for detection and localization of PQ activities in power 
+system network is required. This paper proposed to use Slantlet Transform (SLT) 
+with Support Vector Machine (SVM) to detect and localize several PQ 
+disturbance, i.e. voltage sag, voltage swell, oscillatory-transient, 
+odd-harmonics, interruption, voltage sag plus odd-harmonics, voltage swell plus 
+odd-harmonics, voltage sag plus transient and pure sinewave signal were 
+studied. The analysis on PQ disturbances signals was performed in two steps, 
+which are extraction of feature disturbance and classification of the dis- turbance 
+based on its type. To take on the characteristics of PQ signals, feature vector 
+was constructed from the statistical value of the SLT signal coefficient and 
+wavelets entropy at different nodes. The feature vectors of the PQ disturbances 
+are then applied to SVM for the classification process. The result shows that 
+the proposed method can detect and localize different type of single and 
+multiple power quality signals. Finally, sensitivity of the proposed algorithm 
+under noisy condition is investigated in this paper.

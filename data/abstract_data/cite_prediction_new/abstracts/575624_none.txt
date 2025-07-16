@@ -1,0 +1,15 @@
+Variable selection and multivariate methods for the identification of microorganisms by flow cytometry.
+BACKGROUND
+When exploited fully, flow cytometry can be used to provide multiparametric data for each cell in the sample of interest. While this makes flow cytometry a powerful technique for discriminating between different cell types, the data can be difficult to interpret. Traditionally, dual-parameter plots are used to visualize flow cytometric data, and for a data set consisting of seven parameters, one should examine 21 of these plots. A more efficient method is to reduce the dimensionality of the data (e.g., using unsupervised methods such as principal components analysis) so that fewer graphs need to be examined, or to use supervised multivariate data analysis methods to give a prediction of the identity of the analyzed particles.
+
+
+MATERIALS AND METHODS
+We collected multiparametric data sets for microbiological samples stained with six cocktails of fluorescent stains. Multivariate data analysis methods were explored as a means of microbial detection and identification.
+
+
+RESULTS
+We show that while all cocktails and all methods gave good accuracy of predictions (>94%), careful selection of both the stains and the analysis method could improve this figure (to > 99% accuracy), even in a data set that was not used in the formation of the supervised multivariate calibration model.
+
+
+CONCLUSIONS
+Flow cytometry provides a rapid method of obtaining multiparametric data for distinguishing between microorganisms. Multivariate data analysis methods have an important role to play in extracting the information from the data obtained. Artificial neural networks proved to be the most suitable method of data analysis.

@@ -1,0 +1,2 @@
+Lifetime prediction modeling of non-insulated TO-220AB packages with lead-based solder joints during power cycling
+In this paper, a physical model is proposed to estimate the TRIAC solder joint fatigue during power cycling. The lifetime prediction is based on the following assumptions: the case temperature swing (DTcase) is the main acceleration factor, the solder joints are the weakest materials in the non-insulated TO-220AB TRIAC package and the plastic strain within the solder layer due to shearing is the failure cause.

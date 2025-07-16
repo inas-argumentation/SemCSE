@@ -1,0 +1,2 @@
+First uptime and downtime joint distribution of a duplication system with random switching time
+This paper deals with a 2-unit cold standby redundant system with random switching time and imperfect switchover. In model I we study the system without preventive maintenance (PM), but in model II we study the same system with PM. For the two models we find: (1) the joint distribution of the first uptime and downtime of the system; (2) the sojourn time distribution of the system down as a marginal distribution of the joint distribution; (3) the mean downtime.

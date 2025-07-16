@@ -1,0 +1,2 @@
+Some Case-Refinement Strategies for Case-Based Criminal Summary Judgments
+We report means for simplifying case instances in a case-based reasoning system for criminal summary judgments in Taiwan. We merge similar case instances, remove irrelevant terms, and weight important terms. The best method combination reduces the size of the case database by more than 60% of the most complete case database while maintaining the classification quality at about 80%.

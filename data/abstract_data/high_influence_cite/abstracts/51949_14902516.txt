@@ -1,0 +1,2 @@
+A new BIST scheme for low-power and high-resolution DAC testing
+. A BIST scheme for testing on chip DAC is presented in this paper. We discuss the generation of on chip testing stimuli and the measurement of digital signals with a narrow-band digital filter. We validate the scheme with software simulation and point out the possibility of ADC BIST with verified DACicus-journals.

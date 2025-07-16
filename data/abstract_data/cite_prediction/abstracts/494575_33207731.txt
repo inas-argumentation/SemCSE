@@ -1,0 +1,2 @@
+Face detection and tracking: Using OpenCV
+An application for tracking and detecting faces in videos and in cameras which can be used for multipurpose activities. The intention of the paper is deep study of face detection using open CV. A tabular comparison is performed in order to understand the algorithms in an easier manner. It talks about various algorithms like Adaboost, Haar cascades. This paper aims to help in understanding the best prerequisites for face detection.

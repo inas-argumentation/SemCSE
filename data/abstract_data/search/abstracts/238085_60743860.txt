@@ -1,0 +1,2 @@
+A dual channel Sigma Delta voiceband PCM codec
+A dual channel Sigma Delta voiceband codec meeting AT&T/CCITT specifications is described. The active area per channel is 13 mm/sup 2/ in a 1.5 mu m CMOS process. It has only one power supply, and the maximum power dissipation is 90 mW per channel. The crosstalk between channels is less than 71 dB.<ETX>

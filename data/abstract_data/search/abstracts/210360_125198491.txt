@@ -1,0 +1,2 @@
+Single index partially functional linear regression model
+In this paper, we propose a flexible single index partially functional linear regression model, which combines single index model with functional linear regression model. All the unknown functions are estimated by B spline approximation. Under some mild conditions, the convergence rates and asymptotic normality of the estimators are obtained. Finally, simulation studies and a real data analysis are conducted to investigate the performance of the proposed methodologies.

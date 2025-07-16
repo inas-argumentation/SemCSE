@@ -1,0 +1,2 @@
+An algorithm to construct Gröbner bases for solving integration by parts relations
+This paper is a detailed description of an algorithm based on a generalized Buchberger algorithm for constructing Grobner-type bases associated with polynomials of shift operators. The algorithm is used to calculate Feynman integrals and has proved to be efficient in several complicated cases.

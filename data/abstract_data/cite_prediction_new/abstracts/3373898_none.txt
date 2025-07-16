@@ -1,0 +1,2 @@
+3D automatic remeshing applied to model modification
+The design process usually involves modifications of an initial design solution. At this point in time, design tools do not allow us to perform these modifications efficiently enough. Particularly, when using FE methods, a new FE model has to be rebuilt in order to take into account any modification of the geometric model. We propose an original approach that allows the automatic remeshing of 3D parts, which provides a better integration of FE methods into the entire CAD/CAM process.

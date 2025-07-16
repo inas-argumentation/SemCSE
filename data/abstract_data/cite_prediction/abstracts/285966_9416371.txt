@@ -1,0 +1,2 @@
+Fire and smoke detection without sensors: Image processing based approach
+In this paper, novel models for fire and smoke detection using image processing is provided. The models use different colour models for both fire and smoke. The colour models are extracted using a statistical analysis of samples extracted from different type of video sequences and images. The extracted models can be used in complete fire/smoke detection system which combines colour information with motion analysis.

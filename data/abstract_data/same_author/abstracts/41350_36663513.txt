@@ -1,0 +1,2 @@
+Integrity Constraints and Interactive Concept-Learning
+We show how our interactive concept-learner Clint can be enhanced with capabilities to handle integrity constraints. In this version of Clint, the user may supply general first order logic clauses as integrity constraints to the system. The system will then assure that these constraints are satisfied by the learned knowledge base.

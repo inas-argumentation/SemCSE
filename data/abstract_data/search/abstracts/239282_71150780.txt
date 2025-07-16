@@ -1,0 +1,2 @@
+20.2 A 40MHz BW 320MS/s Passive Noise Shaping SAR ADC With Passive Signal Residue Summation in 14nm FinFET
+SAR ADCs are popular in mobile WiFi applications due to their low power and small area. SNR of 60 70dB is necessary to meet the noise budget for the downlink chain in the 802.11 ac/ax standards. Comparator noise and quantization noise are typically the dominant noise sources limiting the SNR. Recently, noise shaping SAR (NS SAR) ADCs have become popular to increase SNR by reducing these two noise sources through noise shaping.

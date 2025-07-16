@@ -1,0 +1,19 @@
+Undecidable First-Order Theories of Affine Geometries
+Tarski initiated a logic-based approach to formal geometry that studies
+first-order structures with a ternary betweenness relation \beta, and a
+quaternary equidistance relation \equiv. Tarski established, inter alia, that
+the first-order (FO) theory of (R^2,\beta,\equiv) is decidable. Aiello and van
+Benthem (2002) conjectured that the FO-theory of expansions of (R^2,\beta) with
+unary predicates is decidable. We refute this conjecture by showing that for
+all n>1, the FO-theory of the class of expansions of (R^2,\beta) with just one
+unary predicate is not even arithmetical. We also define a natural and
+comprehensive class C of geometric structures (T,\beta), and show that for each
+structure (T,\beta) in C, the FO-theory of the class of expansions of (T,\beta)
+with a single unary predicate is undecidable. We then consider classes of
+expansions of structures (T,\beta) with a restricted unary predicate, for
+example a finite predicate, and establish a variety of related undecidability
+results. In addition to decidability questions, we briefly study the
+expressivities of universal MSO and weak universal MSO over expansions of
+(R^n,\beta). While the logics are incomparable in general, over expansions of
+(R^n,\beta), formulae of weak universal MSO translate into equivalent formulae
+of universal MSO.

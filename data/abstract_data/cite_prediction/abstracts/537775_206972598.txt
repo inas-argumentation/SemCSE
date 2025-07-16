@@ -1,0 +1,2 @@
+A high speed configurable FPGA architecture for k-mean clustering
+This paper presents a high speed configurable FPGA architecture for k-means clustering. The proposed architecture is highly pipelined, parallel and fully configurable. It can achieve an operating frequency of 400 MHz, which is at least three times faster than prior works. The proposed architecture addresses the high speed and throughput requirements of machine vision, multi-media and data mining applications.

@@ -1,0 +1,2 @@
+Tunable optical de-aggregation of a 40-Gbit/s 16-QAM signal into two 20-Gbit/s 4-PAM signals using a coherent frequency comb and nonlinear processing
+We experimentally de-aggregate the 16-QAM signal (EVM 6.9%) onto two 4-PAM signals (EVM 8.5%). Tunability of the approach over modulation format and bit rate is also shown by de-aggregating QPSK signals at two different baud rates.

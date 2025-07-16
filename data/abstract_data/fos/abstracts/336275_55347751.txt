@@ -1,0 +1,2 @@
+The Compensation Strategy for Extraneous Torque of Electric Load Simulator
+The electric load simulator is a typical nonlinear time varying uncertain system and its performance is affected mainly by the extraneous torque. Methods of compensating the extraneous torque are discussed in detail. These concluded that the selection of the feedforward compensation parameters and the acquisition methods of the feedforward signal, and the application of compound control strategy. These methods are the key technologies and research emphasis for the load simulator design in the future.

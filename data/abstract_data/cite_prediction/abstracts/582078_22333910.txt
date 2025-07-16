@@ -1,0 +1,2 @@
+LIPN-UAM at EmoInt-2017: Combination of Lexicon-based features and Sentence-level Vector Representations for Emotion Intensity Determination
+This paper presents the combined LIPNUAM participation in the WASSA 2017 Shared Task on Emotion Intensity. In particular, the paper provides some highlights on the system that was presented to the shared task, partly based on the Tweetaneuse system used to participate in a French Sentiment Analysis task (DEFT2017). We combined lexicon-based features with sentence-level vector representations to obtain a random forest model.

@@ -1,0 +1,2 @@
+A New Time-domain Detection Approach with Blind Separation Based on Neural Network
+In this paper a new technique is proposed for time-domain detection in energy detection. The proposed scheme is based on a independent-component analysis (ICA): blind separation of unknown source signals. This method not only improves the nicety of time-domain detection for narrow band signal and the sinusoidal signal but also reduces the power of the whole detection system.

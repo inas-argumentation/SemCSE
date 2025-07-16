@@ -1,0 +1,13 @@
+On Discretization of Delays in Timed Automata and Digital Circuits
+In this paper we solve the following problem: “given a digital circuit composed of gates whose real-valued delays are in an integer-bounded interval, is there a way to discretize time while preserving the qualitative behavior of the circuit?” This problem is described as open in [BS94]. When “preservation of qualitative behavior” is interpreted in a strict sense, as having all original sequences of events with their original ordering we obtain the following two results: 
+ 
+1) 
+ 
+For acyclic (combinatorial) circuits whose inputs change only once, the answer is positive: there is a constant δ, depending on the maximal number of possible events in the circuit, such that if we restrict all events to take place at multiples of δ, we still preserve qualitative behaviors. 
+ 
+ 
+ 
+ 
+2) 
+ 
+For cyclic circuits the answer is negative: a simple circuit with three gates can demonstrate a qualitative behavior which cannot be captured by any discretization.

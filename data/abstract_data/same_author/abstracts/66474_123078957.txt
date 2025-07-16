@@ -1,0 +1,6 @@
+Ein Beitrag zur Statik der Kreisplatten
+Durch die Anwendung der Hankeltransformation ist es gelungen, Differentialgleichungen auf einem neuen einfachen Weg zu losen. Das Verfahren wurde zur Bestimmung der Durchbiegung von Kreisplatten bei rotationssymmetrischer Lastverteilung herangezogen. Auf demselben Weg lassen sich Verfahren zur Behandlung der Druckverteilung unter Kreisplatten, die auf einem elastischen Medium aufliegen, finden. Ebenfalls kann auf diesem Weg die „Warmebeulung von Kreisplatten” behandelt werden. 
+ 
+ 
+ 
+Applying the Hankel transformation, it is recently possible to solve differential equations in an easy way. The author makes use of this method to determine the deflexion of circular plates under rotationally-symmetrical strain. The same method is applicable to the determination of the pressure distribution under elastically bedded circular plates. The “buckling by heat” of circular plates can be treated in the same way.

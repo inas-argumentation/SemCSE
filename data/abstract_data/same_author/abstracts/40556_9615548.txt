@@ -1,0 +1,2 @@
+Dynamic Belief Hierarchies
+Typically some of an agent's beliefs are more reliable than others. Consequently we give a hierarchical definition of belief, according to which an agent's beliefs form a coherent hierarchy and new beliefs are defined with reference to it. We then show how preferential entailment can be used to formalize the persistence and revision of belief hierarchies, and discuss the the relationship between our theory and the AGM theory of belief revision.

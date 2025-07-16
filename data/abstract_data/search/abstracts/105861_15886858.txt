@@ -1,0 +1,2 @@
+Web Search for a Planet: The Google Cluster Architecture
+Amenable to extensive parallelization, Google's web search application lets different queries run on different processors and, by partitioning the overall index, also lets a single query use multiple processors. to handle this workload, Googless architecture features clusters of more than 15,000 commodity class PCs with fault tolerant software. This architecture achieves superior performance at a fraction of the cost of a system built from fewer, but more expensive, high end servers.

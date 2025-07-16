@@ -1,0 +1,2 @@
+Optimization of fiber length for EDFA to enhance the channel capacity of DWDM system
+To be used in present day long haul DWDM systems, the bandwidth of the EDFA has to be large enough to allow enough number of multiplexed channels to be amplified. In this work it is observed that increase in the amplifier length results in an increase of its gain when there is a suitable pumping power in accordance with the increase of the length. The proposed EDFA amplifies thirty signal wavelengths spaced 1.25nm apart in the 1535 to 1571.25 nm range for 6m EDF length.

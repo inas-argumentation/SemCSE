@@ -1,0 +1,11 @@
+Accuracy improvement for identifying translation initiation sites in microbial genomes
+MOTIVATION
+At present the computational gene identification methods in microbial genomes have a high prediction accuracy of verified translation termination site (3' end), but a much lower accuracy of the translation initiation site (TIS, 5' end). The latter is important to the analysis and the understanding of the putative protein of a gene and the regulatory machinery of the translation. Improving the accuracy of prediction of TIS is one of the remaining open problems.
+
+
+RESULTS
+In this paper, we develop a four-component statistical model to describe the TIS of prokaryotic genes. The model incorporates several features with biological meanings, including the correlation between translation termination site and TIS of genes, the sequence content around the start codon; the sequence content of the consensus signal related to ribosomal binding sites (RBSs), and the correlation between TIS and the upstream consensus signal. An entirely non-supervised training system is constructed, which takes as input a set of annotated coding open reading frames (ORFs) by any gene finder, and gives as output a set of organism-specific parameters (without any prior knowledge or empirical constants and formulas). The novel algorithm is tested on a set of reliable datasets of genes from Escherichia coli and Bacillus subtillis. MED-Start may correctly predict 95.4% of the start sites of 195 experimentally confirmed E.coli genes, 96.6% of 58 reliable B.subtillis genes. Moreover, the test results indicate that the algorithm gives higher accuracy for more reliable datasets, and is robust to the variation of gene length. MED-Start may be used as a postprocessor for a gene finder. After processing by our program, the improvement of gene start prediction of gene finder system is remarkable, e.g. the accuracy of TIS predicted by MED 1.0 increases from 61.7 to 91.5% for 854 E.coli verified genes, while that by GLIMMER 2.02 increases from 63.2 to 92.0% for the same dataset. These results show that our algorithm is one of the most accurate methods to identify TIS of prokaryotic genomes.
+
+
+AVAILABILITY
+The program MED-Start can be accessed through the website of CTB at Peking University: http://ctb.pku.edu.cn/main/SheGroup/MED_Start.htm.

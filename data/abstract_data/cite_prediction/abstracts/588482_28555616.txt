@@ -1,0 +1,2 @@
+Design of advanced waveguide filters for passive intermodulation measurement setups
+This paper addresses the design and development of advanced waveguide filters for passive intermodulation (PIM) measurement set-ups. After describing the severe specifications that such filters must met, some key guidelines to choose a particular filter configuration, response and layout are discussed. The design procedure is also briefly described. A design example, which is included in a manufactured waveguide multiplexer for measuring rejected PIM, is also shown.

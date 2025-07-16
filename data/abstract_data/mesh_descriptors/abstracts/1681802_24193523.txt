@@ -1,0 +1,19 @@
+Exogenous and endogenous orienting of visuospatial attention in P300-guided brain computer interfaces: A pilot study on healthy participants
+OBJECTIVE
+Studies on brain computer interfaces (BCIs) have been mainly concerned with algorithm improvement for better signal classification. Fewer studies, however, have addressed to date the role of cognitive mechanisms underlying the elicitation of brain-signals in BCIs. We tested the effect of visuospatial attention orienting on a P300-guided BCI, by comparing the effectiveness of three visual interfaces, which elicited different modalities of visuospatial attention orienting (exogenous vs. endogenous).
+
+
+METHODS
+Twelve healthy participants performed 20 sessions, using the abovementioned P300-guided BCI interfaces to control a cursor. Brain waves were recorded on each trial and were subsequently classified on-line using an ad hoc algorithm. Each time the P300 was correctly classified, the cursor moved towards the target position.
+
+
+RESULTS
+The "endogenous" interface was associated with significantly higher performance than the other two interfaces during the testing sessions, but not in the follow-up sessions.
+
+
+CONCLUSIONS
+Endogenous visuospatial attention orienting can be effectively implemented to increase the performance of P300-guided BCIs.
+
+
+SIGNIFICANCE
+The study of visuospatial attention underlying participants' performance is essential for implementing efficient visual BCIs.

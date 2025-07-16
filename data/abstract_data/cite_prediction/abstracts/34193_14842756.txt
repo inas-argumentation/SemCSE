@@ -1,0 +1,2 @@
+High-Order Contrasts for Independent Component Analysis
+This article considers high-order measures of independence for the independent component analysis problem and discusses the class of Jacobi algorithms for their optimization. Several implementations are discussed. We compare the proposed approaches with gradient-based techniques from the algorithmic point of view and also on a set of biomedical data.

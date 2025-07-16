@@ -1,0 +1,2 @@
+Improved edge-coloring with three colors
+We show an O(1.344) = O(2) algorithm for edge-coloring an n-vertex graph using three colors. Our algorithm uses polynomial space. This improves over the previous, O(2) algorithm of Beigel and Eppstein [1]. We apply a very natural approach of generating inclusion-maximal matchings of the graph. The time complexity of our algorithm is estimated using the “measure and con-

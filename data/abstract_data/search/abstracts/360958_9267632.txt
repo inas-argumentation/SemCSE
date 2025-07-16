@@ -1,0 +1,2 @@
+A universal algorithm for sequential data compression
+A universal algorithm for sequential data compression is presented. Its performance is investigated with respect to a nonprobabilistic model of constrained sources. The compression ratio achieved by the proposed universal code uniformly approaches the lower bounds on the compression ratios attainable by block to variable codes and variable to block codes designed to match a completely specified source.

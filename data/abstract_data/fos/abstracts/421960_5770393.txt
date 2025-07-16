@@ -1,0 +1,2 @@
+ARMA Prediction of Widely Linear Systems by Using the Innovations Algorithm
+A new autoregressive moving average (ARMA) predictor for widely linear systems is presented by using the innovations algorithm and under an improper treatment. The main characteristics of this predictor are its facility of implementation from a practical standpoint and a better performance with respect to the conventional predictor obtained from a proper processing.

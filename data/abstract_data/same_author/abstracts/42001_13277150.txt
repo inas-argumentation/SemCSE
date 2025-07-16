@@ -1,0 +1,2 @@
+Mutual consistency in decentralized distributed systems
+In this paper we set forth a simple and efficient algorithm for managing replicated data in a decentralized distributed system, which allows for inserts, deletes, updates, and synonyms and which achieves a high degree of availability in the face of node or communication failures. We focus on the approach developed recently by Fischer and Michael and exploit the knowledge of the semantics of the database operations.

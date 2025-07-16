@@ -1,0 +1,2 @@
+ROBUST SPATIAL ESTIMATION OF THE SIGNAL-TO-INTERFERENCE RATIO (SIR) FOR NON-STATIONARY MIXTURES
+The proposed paper deals with the robust estimation of frequency-dependent signal-to-interference ratios (SIRs) and spatial coherence functions in the DFT domain for non-stationary wideband signals. It can be used to realize, e.g., optimum adaptive beamformers or can be used as a confldence measure in combination with automatic speech recognition in noisy environments.

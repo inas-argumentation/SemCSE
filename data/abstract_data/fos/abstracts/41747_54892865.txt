@@ -1,0 +1,29 @@
+Cloud geometry from oxygen-A-band observations through an aircraft side window
+. During the ACRIDICON-CHUVA (Aerosol, Cloud, Precipitation,
+and Radiation Interactions and Dynamics of Convective Cloud Systems–Cloud
+Processes of the Main Precipitation Systems in Brazil: A Contribution to
+Cloud Resolving Modeling and to the GPM (Global Precipitation Measurement)) aircraft campaign in September 2014 over the
+Amazon, among other topics, aerosol effects on the development of cloud
+microphysical profiles during the burning season were studied. Hyperspectral
+remote sensing with the imaging spectrometer specMACS provided cloud
+microphysical information for sun-illuminated cloud sides. In order to derive
+profiles of phase or effective radius from cloud side observations, vertical
+location information is indispensable. For this purpose, spectral
+measurements of cloud-side-reflected radiation in the oxygen A absorption
+band collected by specMACS were used to determine absorption path length
+between cloud sides and the instrument aboard the aircraft. From these data,
+horizontal distance and eventually vertical height were derived. It is shown that, depending on aircraft altitude and sensor viewing
+direction, an unambiguous relationship of absorption and distance exists and
+can be used to retrieve cloud geometrical parameters. A comparison to
+distance and height information from stereo image analysis (using data of an
+independent camera) demonstrates the efficiency of the approach. Uncertainty
+estimates due to method, instrument and environmental factors are provided.
+The main sources of uncertainty are unknown in cloud absorption path
+contributions due to complex 3-D geometry or unknown microphysical
+properties, variable surface albedo and aerosol distribution. A systematic
+difference of 3.8 km between the stereo and spectral method is found which can
+be attributed to 3-D geometry effects not considered in the method's
+simplified cloud model. If this offset is considered, typical differences
+found are 1.6 km for distance and 230 m for vertical position at a typical
+distance around 20 km between sensor and convective cloud elements of
+typically 1–10 km horizontal and vertical extent.

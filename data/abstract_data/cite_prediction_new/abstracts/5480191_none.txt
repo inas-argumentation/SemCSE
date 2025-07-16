@@ -1,0 +1,2 @@
+A Note on Redundant Rules in Rule-Based Constraint Programming
+Constraint propagation can sometimes be described conveniently in a rule-based way. Propagation is then fixpoint computation with rules. In the typical case when no specific strategy guides the fixpoint computation, it is preferable to have a minimal set of rules. We propose a natural criterion for redundancy of a rule, and describe a test for a class of rules. Its relevance is demonstrated by applying it to several rule sets from two important approaches to automatic rule generation.

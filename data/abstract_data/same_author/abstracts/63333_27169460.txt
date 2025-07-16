@@ -1,0 +1,2 @@
+Local lemma: a new strategy of pruning in SAT solvers
+This paper proposes a search tree pruning strategy for SAT solving. It is called Local Lemma, because it generates lemmas from explored subtrees and these lemmas are valid only in a part of the search tree. The paper explains the basic principle of the strategy, illustrates it with an example, and presents some experimental results.

@@ -1,0 +1,2 @@
+Abstract: QuaSI - Quantile Sparse Image - A Prior for Spatio-Temporal Denoising of Retinal OCT Data
+Optical Coherence Tomography (OCT) is a standard non-invasive imaging modality widely used in opthalmology. Due to its high spatial resolution OCT has become a standard imaging technique. However, speckle noise caused by photon interference during the acquisition is its major drawback.

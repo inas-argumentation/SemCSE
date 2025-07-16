@@ -1,0 +1,2 @@
+Transverse knots and Khovanov homology
+We define an invariant of transverse links in the standard contact 3-sphere as a distinguished element of the Khovanov homology of the link. The quantum grading of this invariant is the self-linking number of the link. For knots, this gives a bound on the self-linking number in terms of Rasmussen's invariant s(K). We prove that our invariant vanishes for transverse knot stabilizations, and that it is non-zero for quasipositive braids. We also discuss a connection to Heegaard Floer invariants.

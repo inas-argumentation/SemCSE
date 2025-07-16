@@ -1,0 +1,11 @@
+Academic data warehouse design using a hybrid methodology
+In the last years, data warehousing has got attention from Universities which 
+ are now adopting business intelligence solutions in order to analyze crucial 
+ aspects of the academic context. In this paper, we present the architecture 
+ of a Business Intelligence system for academic organizations. Then, we 
+ illustrate the design process of the data warehouse devoted to the analysis 
+ of the main factors affecting the importance and the quality level of every 
+ University, such as the evaluation of the Research and the Didactics. The 
+ design process we describe is based on a hybrid methodology that is largely 
+ automatic and relies on an ontological approach for the integration of the 
+ different data sources.

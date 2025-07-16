@@ -1,0 +1,2 @@
+A simple approximated solution method for solving fractional trust region subproblems of nonlinearly equality constrained optimization
+In this paper, a fractional model is used to solve nonlinearly constrained optimization problems. In order to solve the fractional trust region subproblems simply, we propose an approximated solution method by cyclically fixing the fractional coefficient part of the approximate function. The global convergence of the fractional trust region method is proved, and the numerical results show that the new algorithm is effective and stable.

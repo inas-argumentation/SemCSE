@@ -1,0 +1,2 @@
+Real-time monitoring of atmospheric aerosol at New Haven, CT for fluorescence spectra, particle size and concentration
+A real-time aerosol-particle monitoring system is developed to measure size, concentration, and UV-laser-induced-fluorescence spectra. Data for atmospheric particles at New Haven, CT are measured over 48-hours and heirarchically cluster into various categories.

@@ -1,0 +1,2 @@
+k-Path Partitions in Trees
+For a fixed positive integer k, the k-path partition problem is to partition the vertex set of a graph into the smallest number of paths such that each path has at most k vertices. The 2-path partition problem is equivalent to the edge-cover problem. This paper presents a linear-time algorithm for the k-path partition problem in trees. The algorithm is applicable to the problem of finding the minimum number of message originators necessary to broadcast a message to all vertices in a tree network in one or two time units.

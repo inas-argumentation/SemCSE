@@ -1,0 +1,2 @@
+Harper-type lower bounds and the bandwidths of the compositions of graphs
+We give a general Harper-type lower bound for the bandwidth of a graph which is a common generalization of several known results. As applications we get a lower bound for the bandwidth of the composition of two graphs. By using this we determine the bandwidths of some composition graphs such as ( P r × P s )[ H ], ( P r × C s )[ H ] (2 r ≠ s ), ( C r × C s )[ H ] (6 ⩽ 2 r ⩽ s ), etc., for any graph H . Interestingly, the bandwidths of these graphs have nothing to do with the structure of H in general.

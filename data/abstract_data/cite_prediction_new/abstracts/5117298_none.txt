@@ -1,0 +1,2 @@
+Reconnecting the internet with ariba: self-organizing provisioning of end-to-end connectivity in heterogeneous networks
+End-to-End connectivity in today's Internet can no longer be taken for granted. Middleboxes, mobility, and protocol heterogeneity complicate application development and often result in application-specific solutions. In our demo we present ariba: an overlay-based approach to handle such network challenges and to provide consistent homogeneous network primitives in order to ease application and service development.

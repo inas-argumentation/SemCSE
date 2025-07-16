@@ -1,0 +1,2 @@
+Improving Sentence Completion in Dialogues with Multi-Modal Features
+With the aim of investigating how humans understand each other through language and gestures, this paper focuses on how people understand incomplete sentences. We trained a system based on interrupted but resumed sentences, in order to find plausible completions for incomplete sentences. Our promising results are based on multi-modal features.

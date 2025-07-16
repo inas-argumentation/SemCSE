@@ -1,0 +1,2 @@
+A sequential two sample t test using welch type modification for unequal variances
+The sequential analogue of the Behrens-Fisher problem is considered, The pooled-variance two sample sequential t test is modified to account for unequal variances. Operating cha-racteristic and average-sample-number curves are calculated for both the pooled variance and the modified t tests by computer simulations, An example is given using data from a tissue assay for breast cancer tumors.

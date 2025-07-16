@@ -1,0 +1,2 @@
+Cryptanalysis of Xinyu et al.'s NTRU-lattice based key exchange protocol
+Xinyu et al. proposed a public key exchange protocol, which is based on the NTRU-lattice based cryptography. In this paper, we show that how Xinyu et al.'s NTRU-KE: A lattice based key exchange protocol can be broken, under the assumption that a man-in-the middle attack is used for extracting private keys of users who participated in the key exchange protocol.

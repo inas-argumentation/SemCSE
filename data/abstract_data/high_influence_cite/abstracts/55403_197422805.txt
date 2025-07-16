@@ -1,0 +1,23 @@
+Comparison of Physician Therapeutic Inertia for Management of Patients With Multiple Sclerosis in Canada, Argentina, Chile, and Spain.
+Importance
+There is growing interest in understanding and addressing factors that govern the decision-making process in multiple sclerosis (MS) care. Therapeutic inertia (TI) is the failure to escalate therapy when goals are unmet. Limited data are available on the prevalence of TI and factors affecting therapeutic decisions in the management of patients with MS worldwide.
+
+
+Objectives
+To compare TI across 4 countries (Canada, Argentina, Chile, and Spain) and to identify factors contributing to TI.
+
+
+Design, Setting, and Participants
+Prospective cohort study conducted between July 10, 2017, and May 4, 2018. Participants were exposed to behavioral experiments in which instruments were used to assess their risk preferences (eg, aversion to ambiguity) and therapeutic decisions in 10 simulated MS case scenarios. Mixed-effects linear and logistic regression analyses were performed to determine the association between the participants' baseline characteristics and TI. The association of unmeasured confounders was assessed by the E-value and a bootstrapping analysis. This multicenter study included neurologists practicing at academic and community centers in Canada, Argentina, Chile, and Spain who make therapeutic decisions for patients with MS.
+
+
+Main Outcomes and Measures
+The primary outcome was the prevalence of TI. The TI score was calculated by dividing the number of case scenarios in which participants showed TI by the number of case scenarios that measured TI. Higher TI scores indicated greater degrees of TI. The secondary outcome was the identification of factors that contributed to TI.
+
+
+Results
+Of 300 neurologists with expertise in MS care who were invited to be part of the study, 226 (75.3%) agreed to participate. Among those who initially showed interest in participating, 195 physicians (86.3%) completed the study, while 31 did not. The mean (SD) age of participants was 43.3 (11.2) years; 52.3% were male. Therapeutic inertia was present in 72.8% (142 of 195) of participants, leading to suboptimal decisions in 20.4% (318 of 1560) of case scenarios. The prevalence of TI among the Canadian group was the lowest compared with the other 3 countries (60.0% [33 of 55] vs 77.9% [109 of 140]; P = .01). For the primary outcome, the TI score in the Canadian group (mean [SD], 0.98 [1.15]) was significantly lower compared with groups from other countries (mean [SD], 1.70 [1.43] for Argentina, 2.24 [1.54] for Chile, and 2.56 [1.64] for Spain) (P = .001). The mixed-effects linear models revealed that participants from Argentina, Chile, and Spain (combined) had higher TI scores compared with their Canadian counterparts (β coefficient, 0.90; 95% CI, 0.52-1.28; P < .001). A higher number of patients with MS per week (OR, 0.44; 95% CI, 0.22-0.88), years of practice (OR, 0.93; 95% CI, 0.86-0.99), and participation from Canada (OR, 0.47; 95% CI, 0.23-0.96) were associated with a lower likelihood of TI. Aversion to ambiguity was associated with a 2-fold higher likelihood of TI (OR, 2.25; 95% CI, 1.02-5.00). All 95% CIs of the β coefficients of covariates were lower than the E-value of 2.35, making it unlikely for the results to be due to the association of unmeasured confounders.
+
+
+Conclusions and Relevance
+This study showed that Canadian participants had the lowest prevalence and magnitude of TI. Higher TI scores were associated with a lower expertise in MS care and with a greater tendency for aversion to ambiguity.

@@ -1,0 +1,2 @@
+Pedestrian detection with an improved Adaboost
+This paper focuses on improving the performance of Adaboost (Adaptive Boosting) by using weak classifiers that make classification with a confidence score. Single thresholds and nearest neighbor classifiers are used as base classifiers. The proposed method is applied to the problem of pedestrian detection in still images. Haar-like basic features are used to construct weak classifiers.

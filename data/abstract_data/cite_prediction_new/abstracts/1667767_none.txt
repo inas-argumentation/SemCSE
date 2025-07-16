@@ -1,0 +1,19 @@
+Semi-automated 3-dimensional intracardiac echocardiography: development and initial clinical experience of a new system to guide ablation procedures.
+BACKGROUND
+Pre-interventional three-dimensional (3D) reconstruction of the heart by CT or MRI provides important information on cardiac anatomy for electrophysiological interventions. However, updates of 3D-imaging modalities with high soft-tissue contrast are not available during ablation procedures.
+
+
+OBJECTIVE
+We describe the development and first clinical testing of a close to real-time visualization of cardiac anatomy by intracardiac echocardiography (ICE).
+
+
+METHODS
+An electronic phased-array 5-10 MHz ICE-catheter (AcuNav/Siemens/64 elements) was inserted via a straightened femoral vein sheath (12F) and placed in the right atrium in 5 pigs. A custom-made prototype stepper motor allowed automatic rotation around the longitudinal axis from 90 degrees to 360 degrees in 2-5 degrees steps. For every plane 2D images of a complete cardiac cycle were acquired, triggered by respiration and ECG. The ultrasound images were digitized and 3D-reconstruction was performed by a prototype software. After experimental validation the system was tested in 6 patients during electrophysiological studies.
+
+
+RESULTS
+From a single location in the right atrium, 3D-acquisition and reconstruction of both atria and ventricles with good image quality were achieved within 3-5 minutes. Doppler-mode facilitated identification of the great vessels including the pulmonary veins and their entry into the heart. 3D-visualization of ablation catheters was also possible in all patients and pigs.
+
+
+CONCLUSION
+Semi-automated 3D intracardiac echocardiography from a single site inside the right atrium provides the electrophysiologist with a detailed image of both atria and ventricles with repeated updates of the cardiac anatomy.

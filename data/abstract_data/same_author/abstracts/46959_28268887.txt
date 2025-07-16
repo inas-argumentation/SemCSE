@@ -1,0 +1,2 @@
+Normalizing XML Element Trees as Well-Designed Document Structures for Data Integration
+Normalizing the design of XML Schemas is important in the data integration with predefined integrated content. As the essential of XML schemas, XML element tree are introduced to represent all the possible data structure of the same type XML documents. The strategy of declaring elements is proposed. It is depicted that a general picture of XML element tree consistent with Keys to identify any part of such a tree.

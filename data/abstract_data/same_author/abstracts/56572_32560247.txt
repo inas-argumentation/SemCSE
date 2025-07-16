@@ -1,0 +1,2 @@
+Markov Truncated Differential Cryptanalysis of Skipjack
+Using Markov chains, we systematically compute all the truncated differentials of Skipjack, assuming the nonlinear G boxes are random permutations. We prove that an attacker with one random truncated differential from each of 2128 independently-keyed encryption oracles has advantage of less than 2-16 in distinguishing whether the oracles are random permutations or the Skipjack algorithm.

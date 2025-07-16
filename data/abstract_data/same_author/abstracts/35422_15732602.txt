@@ -1,0 +1,2 @@
+Infrared Sensitivity in Damping Rate for Very Soft Moving Fermions in Finite Temperature QED
+We calculate the fermion damping rate to second order in powers of the external momentum $p$ in the context of QED at finite temperature using the hard-thermal-loop (HTL) summation scheme. We find that the coefficient of order $p^{2}$ is divergent in the infrared whereas the two others are finite. This result suggests that the htl-based pertubation is infrared sensitive at next-to-leading order.

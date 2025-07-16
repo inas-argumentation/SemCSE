@@ -1,0 +1,9 @@
+On the Convergence of Nonconvex Continual Learning with Adaptive Learning Rate
+One of the objectives of continual learning is to prevent catastrophic forgetting in learning multiple tasks sequentially.
+The memory based continual learning stores a small subset of the data for previous tasks and applies various methods such as quadratic programming and sample selection.
+Some memory-based approaches are formulated as a constrained optimization problem and rephrase constraints on the objective for memory as the inequalities on gradients.
+However, there have been little theoretical results on the convergence of continual learning.
+In this paper, we propose a theoretical convergence analysis of memory-based continual learning with stochastic gradient descent.
+The proposed method called nonconvex continual learning (NCCL) adapts the learning rates of both previous and current tasks with the gradients.
+The proposed method can achieve the same convergence rate as the SGD method for a single task when the catastrophic forgetting term which we define in the paper is suppressed at each iteration.
+It is also shown that memory-based approaches inherently overfit to memory, which degrades the performance on previously learned tasks. Experiments show that the proposed algorithm improves the performance of continual learning over existing methods for several image classification tasks. 

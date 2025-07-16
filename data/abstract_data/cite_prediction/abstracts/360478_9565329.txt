@@ -1,0 +1,2 @@
+Big data from smart grids
+This paper gives a general introduction to “Big Data” in general and to Big Data in smart grids in particular. Large amounts of data (Big Data) contains a lots of information, however developing the analytics to extract such information is a big challenge due to some of the particular characteristics of Big Data. This paper investigates some existing analytic algorithms, especially deep learning algorithms, as tools for handling Big Data. The paper also explains the potential for deep learning application in smart grids.

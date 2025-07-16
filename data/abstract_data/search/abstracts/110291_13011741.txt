@@ -1,0 +1,2 @@
+Orthogonal least squares learning algorithm with local adaptation process for the radial basis function networks
+We introduce a local adaptation process in the orthogonal least squares (OLS) learning algorithm for the selection of radial basis function (RBF) networks. Using simulation results, we show that the proposed algorithm can find significantly better subset models than the OLS algorithm.

@@ -1,0 +1,2 @@
+A linear time 5/3-approximation for the minimum strongly-connected spanning subgraph problem
+A linear time 5/3-approximation algorithm is presented for the NP-hard problem of finding a minimum strongly-connected spanning subgraph. It is based on cycle contraction that was first introduced by Khuller, Raghavachari and Young [SIAM J. Comput. 24 (1995) 859-872]. We improve their result by contracting special cycles and utilizing a more efficient data structure.

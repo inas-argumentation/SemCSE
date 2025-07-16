@@ -1,0 +1,2 @@
+A beam steering unit for active phased array antennas based on FPGA synthesized delay lines and PLLs
+This paper introduces the design and implementation of a high performance, reconfigurable four channel beam steering unit (BSU) for active phased array antennas based on FPGA synthesized delay lines and PLLs. The unit allows a per channel programmable time delay equivalent to a phase shift tuning step of about 1.4deg. A prototype has been implemented to validate the viability of the proposed approach across the 2.4 GHz industrial scientific medical (ISM) band.

@@ -1,0 +1,2 @@
+A Spam Filter System Based on P2P Architecture
+Nilsimsa algorithm plays an important part in the anti-spam technique. In the paper, we design a P2P based Anti-spam system using CAN Overlay, and demonstrate the effectiveness of our mechanism by simulation at last.

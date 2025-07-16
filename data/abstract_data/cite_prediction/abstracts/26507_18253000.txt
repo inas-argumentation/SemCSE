@@ -1,0 +1,2 @@
+Design and modeling of a gas-electric hybrid quad tilt-rotor UAV with morphing wing
+In this work, a gas-electric hybrid quad tilt-rotor UAV with morphing wing is designed. The mechanical design, propulsion system design and control architecture are explained. Dynamic model of the aerial vehicle is developed including the effects of tilting rotors, variable fuel weight, and morphing wing lift-drag forces and pitching moments.

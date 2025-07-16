@@ -1,0 +1,15 @@
+Targeted gene expression in the chicken eye by in ovo electroporation.
+PURPOSE
+The chicken embryo lens is a classical model system for developmental and cell biology studies. To understand the molecular mechanisms that underlie the morphological changes that occur during lens development, it is important to develop an effective gene transfer method that permits the analysis of gene functions in vivo. In ovo electroporation has been successfully used for introducing DNA into neural and mesenchymal tissues of chicken embryos. In this study, we explored the possibility of using this technique to manipulate gene expression in lens epithelial and fiber cells, as well as in other cells of the chicken eye.
+
+
+METHODS
+Two DNA constructs were used in this study. pCAX contains a chicken beta-actin promoter fused to the CMV IE enhancer to drive enhanced green fluorescent protein (EGFP) expression. pMES-cNf2 uses the same chimeric promoter to drive the expression of the chicken neurofibromatosis 2 (cNf2) and EGFP proteins in the same cell. Plasmid DNA was injected into the lumen of the lens vesicle in chicken embryos at stage 15. For corneal epithelial and retinal cell electroporation, DNA was placed near the surface ectoderm in the eye region or injected into the vitreous cavity, respectively. Electroporation was performed with one electrode above the eye and the other underneath the head of the embryo. Chicken embryos were harvested at different time points for EGFP expression analysis by immunohistochemistry. 5-bromo-2'-deoxyuridine (BrdU) incorporation assays were used to evaluate the effects of cNf2 on lens epithelial cell proliferation.
+
+
+RESULTS
+A strong EGFP signal can be detected in lens cells 4 h after electroporation. The transfected cells maintain high levels of EGFP expression for at least 5 days. Overexpressing cNf2 in lens epithelial cells significantly inhibits cell proliferation. Ectopic expression of EGFP in corneal epithelial and retinal cells was also achieved by in ovo electroporation.
+
+
+CONCLUSIONS
+We have demonstrated that exogenous DNA can be effectively introduced into lens, corneal and retinal cells in the living embryo by in ovo electroporation. In comparison to viral infection and transgenic mouse approaches, in ovo electroporation offers an easier and quicker way to manipulate gene expression during embryonic development. This technique will be a useful tool for exploring the molecular mechanisms of lens and eye development.

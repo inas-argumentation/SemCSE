@@ -1,0 +1,11 @@
+Finding the k most vital edges with respect to minimum spanning tree
+Abstract. For a connected, undirected and weighted graph G = (V,E), the problem of finding the k most vital edges of G with respect to minimum spanning tree is to find k edges in G whose removal will cause greatest weight increase in the minimum spanning tree of the remaining graph. This problem is known to be NP-hard for arbitraryk. In this paper, we first describe a simple exact algorithm for this problem, based on t he approach of edge replacement in the minimum spanning tree of G. Next we present polynomial-time randomized algorithms that produce optimal and approximate solutions to this problem. For 
+$|V|=n$ and 
+$|E|=m$, our algorithm producing optimal solution has a time complexity of O(mn) with probability of success at least 
+$e^{-\frac{\sqrt{2k}}{k-2}}$, which is 0.90 for 
+$k\geq 200$ and asymptotically 1 when k goes to infinity. The algorithm producing approximate solution runs in 
+$O(mn+nk^2\log k)$ time with probability of success at least 
+$1-\frac{1}{4}(\frac{2}{n})^{k/2-2}$, which is 0.998 for 
+$k\geq 10$, and produces solution within factor 2 to the optimal one. Finally we show that both of our randomized algorithms can be easily parallelized. On a CREW PRAM, the first algorithm runs in O(n) time using 
+$n^2$ processors, and the second algorithm runs in 
+$O(\log^2n)$ time using mn/logn processors and hence is RNC.

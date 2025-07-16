@@ -1,0 +1,2 @@
+Current mode filters using two output inverting CCII
+Current mode Tow Thomas filter using two‐output inverting second‐generation current conveyor is given, the circuit has low input impedance, employs two grounded capacitors and three grounded resistors and has independent control on Q. A universal current mode filter capable of realizing the five filter functions is also given. Both circuits have low sensitivities to all circuit components. Spice simulation results are included. Copyright © 2007 John Wiley & Sons, Ltd.

@@ -1,0 +1,2 @@
+Effect of DC link discharge resistor on transient stability of DFIG wind generator
+For a Doubly Fed Induction Generator (DFIG) the effect of discharge resistor in series with DC link capacitor is investigated in respect to its transient stability performance. Observations are carried out with different values of resistor for different types of fault and fault location. For the study, 9MW wind farm model in MATLAB simulink module is considered where generators are lumped into a single mass. Time domain analysis is performed for the assessment.

@@ -1,0 +1,11 @@
+Learning Invariant Reward Functions through Trajectory Interventions
+Inverse reinforcement learning methods aim to retrieve the reward function of
+a Markov decision process based on a dataset of expert demonstrations. The
+commonplace scarcity of such demonstrations potentially leads to the absorption of
+spurious correlations in the data by the learning model, which as a result, exhibits
+behavioural overfitting to the expert dataset when trained on the obtained reward
+function. We study the generalization properties of the maximum entropy method
+for solving the inverse reinforcement learning problem for both exact and approximate
+formulations and demonstrate that by applying an instantiation of the invariant
+risk minimization principle, we can recover reward functions which induce better
+performing policies across domains in the transfer setting.

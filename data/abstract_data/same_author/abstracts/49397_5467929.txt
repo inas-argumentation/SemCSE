@@ -1,0 +1,2 @@
+Some sufficient conditions for a planar graph of maximum degree six to be Class 1
+Let G be a planar graph of maximum degree 6. In this paper we prove that if G does not contain either a 6-cycle, or a 4-cycle with a chord, or a 5- and 6-cycle with a chord, then @g^'(G)=6, where @g^'(G) denotes the chromatic index of G.

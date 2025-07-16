@@ -1,0 +1,2 @@
+Object ownership for dynamic alias protection
+Interobject references in object-oriented programs allow arbitrary aliases between objects. By breaching objects' encapsulation boundaries, these aliases can make programs hard to understand and especially hard to debug. We propose using an explicit, run-time notion of object ownership to control aliases between objects in dynamically typed languages. Dynamically checking object ownership as a program runs ensures the program maintains the encapsulation topology intended by the programmer.

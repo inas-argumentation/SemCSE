@@ -1,0 +1,15 @@
+Adaptive cone-beam CT planning improves long-term biochemical disease-free survival for 125I prostate brachytherapy.
+PURPOSE
+Determining the independent effect of additional intraoperative adaptive C-arm cone-beam CT (CBCT) planning vs. transrectal ultrasound (TRUS)-guided interactive planning alone in 125I brachytherapy for prostate cancer (PCa) on biochemical disease-free survival (BDFS).
+
+
+METHODS AND MATERIALS
+T1/T2-stage PCa patients receiving TRUS-guided brachytherapy from 2000 to 2014 were analyzed. From October 2006, patients received additional intraoperative adaptive CBCT planning for dosimetric evaluation and subsequent remedial seed placement in underdosed areas. Patients were stratified according to the National Comprehensive Cancer Network (NCCN) risk classification. Kaplan-Meier analysis was used to estimate BDFS (primary outcome), overall survival, and PCa-specific survival (secondary outcomes). Cox regression was used to assess the relation between CBCT use and biochemical failure (BF) and overall mortality.
+
+
+RESULTS
+In all, 1623 patients were included. Median followup was 99 months (interquartile range 70-115) for TRUS patients (n = 613) and 51 months (interquartile range 29-70) for CBCT patients (n = 1010). BF occurred 203 times and 206 patients died, 26 from PCa. For TRUS and CBCT patients, 7-year BDFS was 87.2% vs. 93.5% (log rank: p = 0.04) for low, 75.9% vs. 88.5% (p < 0.001) for intermediate, and 57.1% vs. 85.0% for high-risk patients (p < 0.001). For TRUS and CBCT patients, 7-year PCa-specific survival was 96.0% vs. 100% (p < 0.0001). After Cox regression, CBCT patients had lower hazard of BF: hazard ratio (HR) 0.25 (95% confidence interval [CI]: 0.18-0.33; p < 0.0001). Corrected for confounders, CBCT remained a predictor of BF: HR 0.51 (95% CI: 0.31-0.86; p = 0.01) but not for overall mortality: HR 0.66 (95% CI: 0.40-1.07; p = 0.09).
+
+
+CONCLUSIONS
+Additional intraoperative adaptive CBCT planning in 125I prostate brachytherapy leads to a significant increase in BDFS in all NCCN risk groups.

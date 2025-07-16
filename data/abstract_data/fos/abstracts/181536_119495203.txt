@@ -1,0 +1,2 @@
+A modified Kramers approach to describing the fission of excited atomic nuclei
+We present a detailed comparison of the analytical Kramers fission rate (KFR) and the dynamic quasi-stationary rate (QSFR) obtained by numerical simulation. It turns out that for the polynomial potential, the KFR regularly exceeds the QSFR by more than 5%. We obtain KFR corrections that allow us to reduce this disparity to 1%.

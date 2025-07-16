@@ -1,0 +1,2 @@
+Reconstructing discontinuities in multidimensional inverse scattering problems: smooth errors vs small errors.
+Constructing parametrices instead of Green’s functions to solve integral equations produces a new class of algorithms for nondestructive evaluation. These algorithms allow reconstruction of discontinuities of parameters of the physical medium in 2- and 3-D problems with variable background and arbitrary source-receiver geometry. An example of such algorithms is presented.

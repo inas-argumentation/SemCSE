@@ -1,0 +1,2 @@
+ST-tool: a CASE tool for security requirements engineering
+Security requirements engineering is emerging as a branch of software engineering, spurred by the realization that security must be dealt with early on during the requirements phase. We propose ST-tool, a CASE tool developed for modeling and analyzing functional and security requirements.

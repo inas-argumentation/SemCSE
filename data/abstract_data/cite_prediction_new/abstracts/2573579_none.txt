@@ -1,0 +1,2 @@
+Sensor-based probabilistic roadmaps for car-like robots
+This work deals with the sensor-based motion planning problem for car-like robots. Sensor-based versions of PRM and Lazy-PRM are used to exploit the information obtained from sensors and to compute a feasible collision-free path. The algorithm tries to reach the goal by executing the local method in the known free region. If it succeeds, a feasible path to the goal is found and the algorithm finishes. Otherwise, the algorithm executes more scans to extend its free space, and so on. Experimental results are promising.

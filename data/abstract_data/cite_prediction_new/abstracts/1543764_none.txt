@@ -1,0 +1,2 @@
+Quasi-static Evolution in Nonassociative Plasticity: The Cap Model
+Non-associative elasto-plasticity is the working model of plasticity for soil and rocks mechanics. Yet, it is usually viewed as non-variational. In this work, we prove a contrario the existence of a variational evolution for such a model under a natural capping assumption on the hydrostatic stresses and a less natural mollication of the stress admissibility constraint. The obtained elasto-plastic evolution is expressed for times that are conveniently rescaled.

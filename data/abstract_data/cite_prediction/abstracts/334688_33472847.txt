@@ -1,0 +1,2 @@
+Demo : Fall Detection Using 3 D Head Trajectory Extracted From a Single Camera Video Sequence
+In Western societies, the population grows old, and we must think about solutions to help them to stay at home in a secure environment. By providing a specific analysis of people behavior, computer vision offers a good solution for healthcare systems, and particularly for fall detection. This demo will show the results of a new method to detect falls using a monocular camera. The main characteristic of this method is the use of head 3D trajectories for fall detection.

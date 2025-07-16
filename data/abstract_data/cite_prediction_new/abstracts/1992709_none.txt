@@ -1,0 +1,2 @@
+Step-up simultaneous tests for identifying active effects in orthogonal saturated designs
+A sequence of null hypotheses regarding the number of negligible effects (zero effects) in orthogonal saturated designs is formulated. Two step-up simultaneous testing procedures are proposed to identify active effects (nonzero effects) under the commonly used assumption of effect sparsity. It is shown that each procedure controls the experimentwise error rate at a given a level in the strong sense.

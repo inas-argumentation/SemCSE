@@ -1,0 +1,2 @@
+Comparison of Adaptive Methods for Clutter Removal in PCL Radar
+The paper presents a comparison of classical adaptive filters for suppression of direct path interference and ground clutter in Passive Coherent Location (PCL) radar. The following algorithms were tested: Least Mean Squares, Recursive Least Squares and Least Square Lattice. The filtering methods were compared from the convergence rate, computational complexity and frequency filtering properties point of view.

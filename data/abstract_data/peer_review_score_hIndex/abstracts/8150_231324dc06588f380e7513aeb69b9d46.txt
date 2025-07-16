@@ -1,0 +1,11 @@
+HybridNet: A Hybrid Neural Architecture to Speed-up Autoregressive  Models
+This paper introduces HybridNet, a hybrid neural network to speed-up autoregressive
+models for raw audio waveform generation. As an example, we propose
+a hybrid model that combines an autoregressive network named WaveNet and a
+conventional LSTM model to address speech synthesis. Instead of generating
+one sample per time-step, the proposed HybridNet generates multiple samples per
+time-step by exploiting the long-term memory utilization property of LSTMs. In
+the evaluation, when applied to text-to-speech, HybridNet yields state-of-art performance.
+HybridNet achieves a 3.83 subjective 5-scale mean opinion score on
+US English, largely outperforming the same size WaveNet in terms of naturalness
+and provide 2x speed up at inference.

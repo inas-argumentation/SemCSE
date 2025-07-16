@@ -1,0 +1,2 @@
+A Method for Watermarking Java Programs via Opaque Predicates
+In this paper, we present a method for watermarking Java programs that uses opaque predicates, improving upon those presented in two previous papers [13, 9]. We present two algorithms: the first is simpler to implement and to analyze, but certain distortive attacks can make watermark extraction difficult; the second is more complex, but under realistic assumptions yields good resistance to all usual types of attacks.

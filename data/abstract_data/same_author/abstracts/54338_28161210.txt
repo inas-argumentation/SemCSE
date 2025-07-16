@@ -1,0 +1,2 @@
+Modularizing the Formal Description of a Database System
+Specification languages have been proposed, and are being developed, which offer ways of splitting specifications into separate components or modules. It is important that such languages are able to cope with modularizations which are required by realistic specification tasks. This paper offers a challenge problem in modularization based on a description is of an existing database system. The chosen modularization is motivated by the need to separate coherent units about which useful properties can be deduced.

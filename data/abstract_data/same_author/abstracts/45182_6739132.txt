@@ -1,0 +1,7 @@
+Improving MHC binding peptide prediction by incorporating binding data of auxiliary MHC molecules
+MOTIVATION
+Various computational methods have been proposed to tackle the problem of predicting the peptide binding ability for a specific MHC molecule. These methods are based on known binding peptide sequences. However, current available peptide databases do not have very abundant amounts of examples and are highly redundant. Existing studies show that MHC molecules can be classified into supertypes in terms of peptide-binding specificities. Therefore, we first give a method for reducing the redundancy in a given dataset based on information entropy, then present a novel approach for prediction by learning a predictive model from a dataset of binders for not only the molecule of interest but also for other MHC molecules.
+
+
+RESULTS
+We experimented on the HLA-A family with the binding nonamers of A1 supertype (HLA-A*0101, A*2601, A*2902, A*3002), A2 supertype (A*0201, A*0202, A*0203, A*0206, A*6802), A3 supertype (A*0301, A*1101, A*3101, A*3301, A*6801) and A24 supertype (A*2301 and A*2402), whose data were collected from six publicly available peptide databases and two private sources. The results show that our approach significantly improves the prediction accuracy of peptides that bind a specific HLA molecule when we combine binding data of HLA molecules in the same supertype. Our approach can thus be used to help find new binders for MHC molecules.

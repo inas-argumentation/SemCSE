@@ -1,0 +1,19 @@
+Ultraviolet B inhibition of DNMT1 activity via AhR activation dependent SIRT1 suppression in CD4+ T cells from systemic lupus erythematosus patients.
+BACKGROUND
+Previous studies have reported that ultraviolet B (UVB) inhibits DNA methyltransferase1 (DNMT1) activity in CD4+ T cells from systemic lupus erythematosus (SLE) patients. Silent mating type information regulation 2 homolog 1 (SIRT1) is a type of Class III histone deacetylases (HDACs), and has been reported to play roles in the pathogenesis of different autoimmune diseases and can modulate DNMT1 activity. Moreover, aryl hydrocarbon receptor (AhR) has been reported to link UVB with SLE. However, the exact mechanisms by which DNMT1 activity is inhibited by UVB in lupus CD4+ T cells remain largely unknown.
+
+
+OBJECTIVE
+To elucidate the exact mechanisms by which DNMT1 activity is inhibited by UVB in lupus CD4+ T cells.
+
+
+METHODS
+Twenty-two newly diagnosed active SLE patients and 30 healthy controls were enrolled in the study. CD4+ T cells were isolated, cultured and treated. DNMT1 activity assay, quantitative real-time PCR (qRT-PCR), Western blotting, RNA interference using small interfering RNA and Chromatin Immunoprecipitation (ChIP) assay were employed.
+
+
+RESULTS
+DNMT1 activity was inhibited in si-SIRT1-transfected CD4+ T cells, and increased by the established SIRT1 activator, SRT1720. Moreover, the mRNA and protein expression of SIRT1 were suppressed by UVB exposure in lupus CD4+ T cells. UVB-inhibited DNMT1 activity was reversed by SRT1720 in si-control-transfected lupus CD4+ T cells, but not in si-SIRT1-transfected lupus CD4 + T cells. Furthermore, AhR activation by VAF347 reduced the mRNA and protein expression of SIRT1. ChIP using an antibody against AhR in normal CD4+ T cells revealed a 16-fold stronger signal at the site about 1.6kb upstream from the translation start site of the SIRT1 promoter. Finally, UVB could activate AhR and inhibit the mRNA and protein expression of SIRT1. AhR knockdown abrogated the inhibition of UVB-mediated SIRT1 mRNA and protein expression and DNMT1 activity in lupus CD4+ T cells.
+
+
+CONCLUSION
+UVB suppressed SIRT1 expression via activating AhR, and subsequently inhibited DNMT1 activity in CD4+ T cells from SLE patients.

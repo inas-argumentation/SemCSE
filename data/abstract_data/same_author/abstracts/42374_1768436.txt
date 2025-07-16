@@ -1,0 +1,2 @@
+Modular Rewriting Semantics in Practice
+We present a general method to achieve modularity of semantic definitions of programming languages specified as rewrite theories, so that semantic rules do not have to be redefined in language extensions. We illustrate the practical use of this method by means of two language case studies: two different semantics for CCS, and three different semantics for the GNU bc language.

@@ -1,0 +1,2 @@
+Skewed Mirror Symmetry in the 3D Reconstruction of Polyhedral Models
+We aim to reconstruct three-dimensional polyhedra from axonometric line drawings. Existence of mirror symmetry in polyhedra can assist the reconstruction process. We present a new approach for determining planes of mirror symmetry of such polyhedral objects based on prior detection of their planar faces and any axes of symmetry of these faces. The axes are obtained from skewed facial symmetries, for which we also give a new method of determination.

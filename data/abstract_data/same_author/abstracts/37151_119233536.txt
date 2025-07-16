@@ -1,0 +1,2 @@
+Using the cathode surface of straw tube for measuring the track coordinates along the wire
+The coordinate detectors based on straw tubes provide a high accuracy of the radial coordinate measurement using the drift time and a small amount of matter in the way of the measured particles. However, the measurement of the coordinate along the wire constitutes a problem. This paper proposes a method for measuring the hit coordinate along the wire with an accuracy better than 1 mm in a straw tube detector using the signals from the cathodes of the detector.

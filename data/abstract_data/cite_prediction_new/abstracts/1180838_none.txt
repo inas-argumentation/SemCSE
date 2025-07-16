@@ -1,0 +1,2 @@
+A Multicast Routing Algorithm for LEO Satellite Networks
+In LEO satellite networks, the traditional multicast routing algorithm exist the problem of high computational complexity. In this paper, a fast iterative distributed multicast routing algorithm was developed based on the inherent characteristics of satellite networks which using distributed computing model and significantly reducing the algorithm computational complexity. Simulations show that fast algorithm has low computational complexity, a better average delay performance and overhead compared with the MRA.

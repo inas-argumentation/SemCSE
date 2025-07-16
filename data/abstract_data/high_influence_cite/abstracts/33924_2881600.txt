@@ -1,0 +1,3 @@
+Super-Exponential Decay of Diffraction Managed Solitons
+This is the second part of a series of papers where we develop rigorous decay estimates for breather solutions of an averaged version of the non-linear Schrödinger equation. In this part we study the diffraction managed discrete non-linear Schrödinger equation, an equation which describes coupled waveguide arrays with periodic diffraction management geometries. We show that, for vanishing average diffraction, any solution $${f \in l^2(\mathbb{Z})}$$ of the non-linear and non-local diffraction management equation decays super-exponentially. More precisely, we have the bound
+$$\limsup_{|x|\to\infty}\big((|x|+1)\ln(|x|+1)\big)^{-1}\, \ln|f(x)|\le -\frac{1}{4}$$for any diffraction management soliton.

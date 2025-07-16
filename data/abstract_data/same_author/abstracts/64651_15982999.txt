@@ -1,0 +1,2 @@
+Metamodeling: An Emerging Representation Paradigm for System-Level Design
+The use of metamodeling in system design allows abstraction of concepts germane to a number of varying modeling domains, and provides the ability of exploiting meta-information for a variety of system design tasks such as analysis, verification, synthesis, and test generation. This article provides an overview of emerging metamodeling techniques and their applications.

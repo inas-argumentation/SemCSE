@@ -1,0 +1,15 @@
+TH-CD-BRA-05: First Water Calorimetric Dw Measurement and Direct Measurement of Magnetic Field Correction Factors, KQ,B, in a 1.5 T B-Field of An MRI Linac.
+PURPOSE
+Reference dosimetry in MR-guided radiotherapy is performed in the presence of a B-field. As a consequence the response of ionization chambers changes considerably and depends on parameters not considered in traditional reference dosimetry. Therefore future Codes of Practices need ionization chamber correction factors to correct for both the change in beam quality and the presence of a B-field. The objective was to study the feasibility of water calorimetric absorbed-dose measurements in a 1.5 T B-field of an MRLinac and the direct measurement of kQ,B calibration of ionization chambers.
+
+
+METHODS
+Calorimetric absorbed dose to water Dw was measured with a new water calorimeter in the bore of an MRLinac (TPR20,10 of 0.702). Two waterproof ionization chambers (PTW 30013, IBA FC-65G) were calibrated inside the calorimeter phantom (ND,w,Q,B). Both measurements were normalized to a monitor ionization chamber. Ionization chamber measurements were corrected for conventional influence parameter. Based on the chambers' Co-60 calibrations (ND,w,Q0), measured directly against the calorimeter. In this study the correction factors kQ,B was determined as the ratio of the calibration coefficients in the MRLinac and in Co-60. Additionally, kB was determined based on kQ values obtained with the IAEA TRS-398 Code of Practice.
+
+
+RESULTS
+The kQ,B factors of the ionization chambers mentioned above were respectively 0.9488(8) and 0.9445(8) with resulting kB factors of 0.961(13) and 0.952(13) with standard uncertainties on the least significant digit(s) between brackets.
+
+
+CONCLUSION
+Calorimetric Dw measurements and calibration of waterproof ionization chambers were successfully carried out in the 1.5 T B-field of an MRLinac with a standard uncertainty of 0.7%. Preliminary kQ,B and kB factors were determined with standard uncertainties of respectively 0.8% and 1.3%. The kQ,B agrees with an alternative method within 0.4%. The feasibility of water calorimetry in the presence of B-fields was demonstrated by the direct determination of Dw and kQ,B. This work was supported by EMRP grant HLT06. The EMRP is jointly funded by the EMRP participating countries within EURAMET and the European Union.

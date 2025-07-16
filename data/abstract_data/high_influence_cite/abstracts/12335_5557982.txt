@@ -1,0 +1,2 @@
+Spanning embeddings of arrangeable graphs with sublinear bandwidth
+The Bandwidth Theorem of Bottcher, et al. [Mathematische Annalen 343 2009, 175-205] gives minimum degree conditions for the containment of spanning graphs H with small bandwidth and bounded maximum degree. We generalise this result to a-arrangeable graphs H with ΔHi¾?n/logn, where n is the number of vertices of H.

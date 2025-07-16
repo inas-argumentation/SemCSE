@@ -1,0 +1,2 @@
+A Crowd Analysis Framework for Detecting Violence Scenes
+This work examines violence detection in video scenes of crowds and proposes a crowd violence detection framework based on a 3D convolutional deep learning architecture, the 3D ResNet model with 50 layers. The proposed framework is evaluated on the Violent Flows dataset against several state of the art approaches and achieves higher accuracy values in almost all cases, while also performing the violence detection activities in (near) real time.

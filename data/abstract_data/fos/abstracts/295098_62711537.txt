@@ -1,0 +1,2 @@
+Computerization of the R-ABC algorithm
+The R-ABC algorithm is a simple algorithm for evaluating the symbolic terminal-pair reliability of a complex system. However, this algorithm is not computerized. This paper tries to computerize the R-ABC algorithm.

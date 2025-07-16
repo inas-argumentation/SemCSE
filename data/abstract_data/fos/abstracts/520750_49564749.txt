@@ -1,0 +1,4 @@
+New Losses for Generative Adversarial Learning
+Generative Adversarial Networks (Goodfellow et al., 2014), a major breakthrough in the field of generative modeling, learn a discriminator to estimate some distance between the target and the candidate distributions. 
+This paper examines mathematical issues regarding the way the gradients for the generative model are computed in this context, and notably how to take into account how the discriminator itself depends on the generator parameters. 
+A unifying methodology is presented to define mathematically sound training objectives for generative models taking this dependency into account in a robust way, covering both GAN, VAE and some GAN variants as particular cases.

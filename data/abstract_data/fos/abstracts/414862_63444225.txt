@@ -1,0 +1,2 @@
+The Implementation of BusinessObjects in Application
+In this paper we briefly introduce the function of BusinessObjects' User Model and the technique of OLE automation. Thus demonstrate the needs and feasibilities for an application to control BusinessObjets. Finally take Delphi as an example and show this technique.

@@ -1,0 +1,2 @@
+Generating Music using an LSTM Network
+A model of music needs to have the ability to recall past details and have a clear, coherent understanding of musical structure. Detailed in the paper is a neural network architecture that predicts and generates polyphonic music aligned with musical rules. The probabilistic model presented is a Bi-axial LSTM trained with a “kernel” reminiscent of a convolutional kernel. When analyzed quantitatively and qualitatively, this approach performs well in composing polyphonic music. Link to the code is provided[1].

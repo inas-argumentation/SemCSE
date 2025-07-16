@@ -1,0 +1,2 @@
+Laser beam profile shaping with interlaced binary diffraction gratings.
+A new CO(2) laser beam profile shaper was designed and tested. With high-power efficiency, it transforms a fundamental mode laser beam profile into a flattop profile at a focal plane. The shaper uses an interlaced binary diffraction grating that modulates the E field both in phase and amplitude and generates an apodized and clipped sinc(x) distribution in the object plane.

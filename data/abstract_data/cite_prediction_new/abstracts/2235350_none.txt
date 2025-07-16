@@ -1,0 +1,2 @@
+Finite Element Modelling and Simulation of Phase Transformations in Shape Memory Alloy Thin Films
+A unified variational framework and finite element simulations of phase transformation dynamics in a shape memory alloy thin film are reported in this paper. The computational model is based on an approach that combines the lattice-based kinetics involving the order variables and nonequilibrium thermodynamics. Algorithmic and computational issues are discussed. Numerical results on phase nucleation under mechanical loading are reported.

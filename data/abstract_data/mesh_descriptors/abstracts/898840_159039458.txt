@@ -1,0 +1,15 @@
+Tumor localization accuracy for high-precision radiotherapy during active breath-hold.
+BACKGROUND
+Conventionally fractionated and stereotactic body radiation therapy (SBRT) for thoracoabdominal tumors may utilize breath-hold techniques. However, there are concerns that differential amounts of inspired airflow may result in unplanned tumor dislocation and underdosing. Thus, we investigated tumor localization accuracy associated with lung volume variations during breath-hold treatment via an automated-gating interface.
+
+
+METHODS
+Twelve patients received breath-hold treatment with the active breathing coordinator (ABC) through an automated-gating interface. All breath-hold volumes were recorded at CT simulation, setup imaging, and during treatment, and analyzed as a function of airflow rate into the ABC. The variation of breath-hold volumes was calculated for each fraction over entire course. Intrafraction target motion related to the breathing variation was investigated based on daily imaging acquired before the breath-hold treatment. Correlation between target location and breath-hold variation was statistically analyzed.
+
+
+RESULTS
+The air volume held by the ABC increased as the airflow rate increased on inhalation and decreased on exhalation. The mean range of airflow rate was 0.77 L/s and 0.29 L/s in the conventionally fractionated and SBRT patients, respectively. The maximum air volume difference with respect to the reference volume at the CT simulation was 1.0 L for conventional fractionation and 0.16 L for SBRT. The target dislocation caused by 0.25 L of air volume difference was 6 mm for SBRT. Three patients showed significant correlation between the target location and breath-hold variations.
+
+
+CONCLUSIONS
+This investigation shows that because variations in the breath-hold volume may cause target dislocation, patient-specific breath-hold setting is required to improve tumor localization accuracy.

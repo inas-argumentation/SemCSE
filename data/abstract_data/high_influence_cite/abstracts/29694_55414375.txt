@@ -1,0 +1,24 @@
+The influence of humidity on the performance of a low-cost air particle mass sensor and the effect of atmospheric fog
+. While low-cost particle sensors are increasingly being
+used in numerous applications, most of them have no heater or dryer at the
+inlet to remove water from the sample before measurement. Deliquescent
+growth of particles and the formation of fog droplets in the atmosphere can
+lead to significant increases in particle number concentration (PNC) and
+mass concentrations reported by such sensors. We carried out a detailed
+study using a Plantower PMS1003 low-cost particle sensor, both in the
+laboratory and under actual ambient field conditions, to investigate its
+response to increasing humidity and the presence of fog in the air. We found
+significant increases in particle number and mass concentrations at relative
+humidity above about 75 %. During a period of fog, the total PNC increased
+by 28 %, while the PNC larger than 2.5  µ m increased by over 50 %.
+The PM 10 concentration reported by the PMS1003 was 46 % greater than
+that on the standard monitor with a charcoal dryer at the inlet. While there
+is a causal link between particle pollution and adverse health effects, the
+presence of water on the particles is not harmful to humans. Therefore, air
+quality standards for particles are specifically limited to solid particles
+and standard particle monitoring instruments are fitted with a heater or
+dryer at the inlet to remove all liquid material from the sample before the
+concentrations are measured. This study shows that it is important to
+understand that the results provided by low-cost particle sensors, such as
+the PMS1003, cannot be used to ascertain if air quality standards are being
+met.

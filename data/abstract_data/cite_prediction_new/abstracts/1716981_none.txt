@@ -1,0 +1,2 @@
+Systematic realization of low-frequency oscillators using composite passive-active resistors
+A systematic method for realizing low-frequency oscillators is described. The method is applicable to any simple harmonic oscillator configuration and is based on replacing a selected passive resistor with a composite passive-active resistor. Two possible configurations for the composite resistor are discussed. The classical Wien-bridge oscillator is then modified using one of these configurations. PSPICE circuit simulations and experimental results are included.

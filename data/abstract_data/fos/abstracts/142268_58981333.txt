@@ -1,0 +1,2 @@
+The Optimization of the Relevant Query of Multiple Relative Clauses
+The Relative Database queries and operates through SQL. Because SQL is not a processizational language, SQL sentences that users write are not generally optimum.So it becomes the task of the data base management system to optimize the inquiry about SQL. This paper introduces the application of the technology of the query's optimization in the relevant sub-query about the multiple relative clauses by using the instance as the foundation and combining the theory of the database.

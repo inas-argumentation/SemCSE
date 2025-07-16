@@ -1,0 +1,2 @@
+3D Rigid Facial Motion Estimation from Disparity Maps
+This paper proposes an approach to estimate 3D rigid facial motions through a stereo image sequence. The approach uses a disparity space as the main space in order to represent all the 3D information. A robust algorithm based on the RANSAC approach is used to estimate the rigid motions through the image sequence. The disparity map is shown to be a robust feature against local motions of the surface and is therefore a very good alternative to the traditional use of the set of interest points.

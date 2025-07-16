@@ -1,0 +1,2 @@
+Algebraic and geometric convergence of discrete representations into PSL(2,C)
+Anderson and Canary have shown that if the algebraic limit of a sequence of discrete, faithful representations of a finitely generated group into PSL(2,C) does not contain parabolics, then it is also the sequence's geometric limit. We construct examples that demonstrate the failure of this theorem for certain sequences of unfaithful representations, and offer a suitable replacement.

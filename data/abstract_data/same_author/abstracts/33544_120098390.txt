@@ -1,0 +1,2 @@
+Improved actions, redundant operators and scaling in lattice SU(3)
+Schwinger-Dyson equations are used to systematically calculate redundant operators in lattice QCD and their role in perturbatively improved actions is analyzed. The criteria for improved actions in Monte Carlo simulations are discussed and their usefulness also. In particular the renormalized trajectory is estimated for the b = 3 renormalization group transformation in a four-parameter space and its scaling behavior is studied for future use in spectrum calculations.

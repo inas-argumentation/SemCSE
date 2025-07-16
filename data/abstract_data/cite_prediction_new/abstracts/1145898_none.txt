@@ -1,0 +1,2 @@
+Proof of conjecture in: The basic reproduction number obtained from Jacobian and next generation matrices - A case study of dengue transmission modelling
+The spectral radius of the next generation matrix provides an expression for the basic reproduction number. Instead of calculating the dominant eigenvalue of the characteristic equation corresponding to the next generation matrix, a threshold parameter can be obtained by handling the coefficients of this equation. Here we prove two conjectures presented in 9.

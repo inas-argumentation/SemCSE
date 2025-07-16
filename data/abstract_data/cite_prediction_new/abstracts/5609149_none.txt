@@ -1,0 +1,2 @@
+Designing a wireless sensor network for vehicular traffic and CO2 pollution monitoring in an urban area
+This project will present a wireless sensors network. Each sensor node measures noise and CO2 pollution levels inside a specific urban area and a coordinator node stores these measurements in a database made with Java. Finally the obtained results are presented.

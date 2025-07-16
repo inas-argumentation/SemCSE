@@ -1,0 +1,2 @@
+Temperature-dependent errors in nuclear lattice simulations
+We study the temperature dependence of discretization errors in nuclear lattice simulations. We find that for systems with strong attractive interactions the predominant error arises from the breaking of Galilean invariance. We propose a local 'well-tempered' lattice action which eliminates much of this error. The well-tempered action can be readily implemented in lattice simulations for nuclear systems as well as cold atomic Fermi systems.

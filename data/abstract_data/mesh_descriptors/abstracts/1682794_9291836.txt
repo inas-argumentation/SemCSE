@@ -1,0 +1,15 @@
+Disrupted Functional Brain Connectome in Individuals at Risk for Alzheimer's Disease
+BACKGROUND
+Alzheimer's disease disrupts the topological architecture of whole-brain connectivity (i.e., the connectome); however, whether this disruption is present in amnestic mild cognitive impairment (aMCI), the prodromal stage of Alzheimer's disease, remains largely unknown.
+
+
+METHODS
+We employed resting-state functional magnetic resonance imaging and graph theory approaches to systematically investigate the topological organization of the functional connectome of 37 patients with aMCI and 47 healthy control subjects. Frequency-dependent brain networks were derived from wavelet-based correlations of both high- and low-resolution parcellation units.
+
+
+RESULTS
+In the frequency interval .031-.063 Hz, the aMCI patients showed an overall decreased functional connectivity of their brain connectome compared with control subjects. Further graph theory analyses of this frequency band revealed an increased path length of the connectome in the aMCI group. Moreover, the disease targeted several key nodes predominantly in the default-mode regions and key links primarily in the intramodule connections within the default-mode network and the intermodule connections among different functional systems. Intriguingly, the topological aberrations correlated with the patients' memory performance and differentiated individuals with aMCI from healthy elderly individuals with a sensitivity of 86.5% and a specificity of 85.1%. Finally, we demonstrated a high reproducibility of our findings across different large-scale parcellation schemes and validated the test-retest reliability of our network-based approaches.
+
+
+CONCLUSIONS
+This study demonstrates a disruption of whole-brain topological organization of the functional connectome in aMCI. Our finding provides novel insights into the pathophysiological mechanism of aMCI and highlights the potential for using connectome-based metrics as a disease biomarker.

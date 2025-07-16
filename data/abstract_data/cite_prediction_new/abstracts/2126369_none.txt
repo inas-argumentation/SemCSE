@@ -1,0 +1,2 @@
+Corrective Rescheduling to Alleviate Bus Voltage Violations
+This paper deals with the problem of alleviating bus voltage limit violations. The voltage violations are removed by obtaining the PV-bus voltage corrections. The model is in terms of incremental variables and utilises sensitivity coefficiente. Linear set of coordination equations is obtained for getting optimal PV-bus voltage corrections so as to alleviate bus voltage violations.

@@ -1,0 +1,2 @@
+CTH08-2: EXIT Chart Analysis for Doubly Generalized LDPC Codes
+The design of generalized low-density parity-check (GLDPC) codes at both check and bit nodes over AWGN channel is considered in this paper. The new codes are referred to as doubly generalized LDPC codes. EXIT charts are used to optimize the parameters of these codes. Closed forms of EXIT functions for some subcodes are presented. Both analysis and simulations show that this method can provide more flexibility in constructing codes with good threshold.

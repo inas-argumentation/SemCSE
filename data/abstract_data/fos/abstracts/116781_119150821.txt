@@ -1,0 +1,2 @@
+Vector variational problem with knitting boundary conditions
+We consider a variational problem with a polyconvex integrand and nonstandard boundary conditions that can be treated as minimization of the stress energy during the suturing process in the plastic surgery. Ex- istence of minimizers is proved as well as necessary optimality conditions are discussed.

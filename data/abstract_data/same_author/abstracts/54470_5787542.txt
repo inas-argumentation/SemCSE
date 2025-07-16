@@ -1,0 +1,2 @@
+Relaxed game chromatic number of trees and outerplanar graphs
+This paper studies the relaxed game chromatic number of trees and outerplanar graphs. It is proved that if G is a tree then χ g d ( G )⩽2 for d ⩾2. If G is an outerplanar graph, then χ g d ( G )⩽5 for d ⩾2, and χ g d ( G )⩾3 for d ⩽4.

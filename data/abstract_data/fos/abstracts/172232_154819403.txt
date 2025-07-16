@@ -1,0 +1,2 @@
+Continuous implementation of constrained rational expectations equilibria
+We investigate the implementability of the Social Choice Correspondence induced by Constrained Rational Expectations Equilibria. We construct an “almost continuous” mechanism that implements it, provided that information held by each agent is non-exclusive

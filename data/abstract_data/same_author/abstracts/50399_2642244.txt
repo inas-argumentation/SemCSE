@@ -1,0 +1,7 @@
+CrossChip: a system supporting comparative analysis of different generations of Affymetrix arrays
+SUMMARY
+To increase compatibility between different generations of Affymetrix GeneChip arrays, we propose a method of filtering probes based on their sequences. Our method is implemented as a web-based service for downloading necessary materials for converting the raw data files (*.CEL) for comparative analysis. The user can specify the appropriate level of filtering by setting the criteria for the minimum overlap length between probe sequences and the minimum number of usable probe pairs per probe set. Our website supports a within-species comparison for human and mouse GeneChip arrays.
+
+
+AVAILABILITY
+http://www.crosschip.org

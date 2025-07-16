@@ -1,0 +1,26 @@
+Multipoint high-fidelity CFD-based aerodynamic shape optimization of a 10 MW wind turbine
+. The wind energy industry relies heavily on computational fluid dynamics (CFD)
+to analyze new turbine designs. To utilize CFD earlier in the design
+process, where lower-fidelity methods such as blade element momentum (BEM)
+are more common, requires the development of new tools. Tools that utilize
+numerical optimization are particularly valuable because they reduce the
+reliance on design by trial and error. We present the first comprehensive 3-D
+CFD adjoint-based shape optimization of a modern 10 MW offshore wind
+turbine. The optimization problem is aligned with a case study from
+International Energy Agency (IEA) Wind Task 37, making it possible to compare
+our findings with the BEM results from this case study and therefore allowing
+us to determine the value of design optimization based on high-fidelity
+models. The comparison shows that the overall design trends suggested by the
+two models do agree, and that it is particularly valuable to consult the
+high-fidelity model in areas such as root and tip where BEM is inaccurate. In
+addition, we compare two different CFD solvers to quantify the effect of
+modeling compressibility and to estimate the accuracy of the chosen grid
+resolution and order of convergence of the solver. Meshes up to 14×106 cells are used in the optimization whereby flow details are resolved.
+The present work shows that it is now possible to successfully optimize
+modern wind turbines aerodynamically under normal operating conditions using
+Reynolds-averaged Navier–Stokes (RANS) models. The key benefit of a 3-D RANS
+approach is that it is possible to optimize the blade planform and
+cross-sectional shape simultaneously, thus tailoring the shape to the actual
+3-D flow over the rotor. This work does not address evaluation of extreme
+loads used for structural sizing, where BEM-based methods have proven very
+accurate, and therefore will likely remain the method of choice.

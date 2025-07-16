@@ -1,0 +1,32 @@
+Nested coordinate Bethe wavefunctions from the Bethe/Gauge correspondence
+In [1, 2], Nekrasov applied the Bethe/Gauge correspondence to derive the 
+ 
+ $$ \mathfrak{su} $$
+ 
+ su
+ 
+ 
+ (2) XXX spin-chain coordinate Bethe wavefunction from the IR limit of a 20 
+ 
+ $$ \mathcal{N} $$
+ 
+ N
+ 
+ 
+ = (2, 2) supersymmetric A
+ 1 quiver gauge theory with an orbifold-type codimension-2 defect. Later, Bullimore, Kim and Lukowski implemented Nekrasov’s construction at the level of the UV A
+ 1 quiver gauge theory, recovered his result, and obtained further extensions of the Bethe/Gauge correspondence [3]. In this work, we extend the construction of the defect to A
+ 
+ M
+ quiver gauge theories to obtain the 
+ 
+ $$ \mathfrak{su} $$
+ 
+ su
+ 
+ 
+ 
+ (M + 1) XXX spin-chain nested coordinate Bethe wavefunctions. The extension to XXZ spin-chain is straightforward. Further, we apply a Higgsing procedure to obtain more general A
+ 
+ M
+ quivers and the corresponding wavefunctions, and interpret this procedure (and the Hanany-Witten moves that it involves) on the spin-chain side in terms of Izergin-Korepin-type specializations (and re-assignments) of the parameters of the coordinate Bethe wavefunctions.

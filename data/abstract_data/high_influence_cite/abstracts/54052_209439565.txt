@@ -1,0 +1,2 @@
+Discretizations of Stochastic Evolution Equations in Variational Approach Driven by Jump-Diffusion
+Stochastic evolution equations with compensated Poisson noise are considered in the variational approach. Here the Poisson noise is assumed to be time-homogeneous with $\sigma$-finite intensity measure on a metric space. By using finite element methods and Galerkin approximations, some explicit and implicit discretizations for this equation are presented and their convergence is proved.

@@ -1,0 +1,14 @@
+A COMPARISON OF FOUR EVAPOTRANSPIRATION MODELS IN A GREENHOUSE ENVIRONMENT
+Advances in evapotranspiration modeling have led to a variety of formulas and terms used in irrigation control 
+research. Four models that represent the progression from outdoor, “big leaf” estimates to indoor, greenhouse–specific 
+formulations are compared in this article. Each of the models was algebraically reduced to common and consistent terms. 
+The data from a lysimeter study were used to compare evapotranspiration combination models using evapotranspiration (ET) 
+rates of a ‘Red Sunset’ Red Maple tree (Acer rubrum ‘Red Sunset’) grown in a controlled–environment greenhouse. The 
+measured ET was compared with two empirical climatic factors (solar irradiance and vapor pressure deficit) and with 
+calculated ET based on four evapotranspiration models: (1) Penman, (2) Penman–Monteith, (3) Stanghellini, and (4) Fynn. 
+A measure of the model performance is given by the Nash–Sutcliffe R2, or model efficiency. The relationship between measured 
+and calculated ET for the Stanghellini model was calculated to have a model efficiency of R2 = 0.872, while the other models 
+yielded correlations of R2 = 0.214, R2 = 0.481, R2 = –0.848 for Penman, Penman–Monteith, and Fynn, respectively. The 
+differences between the models are discussed, revealing the importance of the leaf area index factor and a sub–model for 
+irradiance in the plant canopy. Based on the coefficient of determination, vapor pressure deficit alone yielded a good linear 
+correlation to measured ET (r2 = 0.884), while solar irradiance alone resulted in r2 = 0.652.

@@ -1,0 +1,2 @@
+Vector-valued multiresolution analysis on local fields
+In this paper, we study vector-valued multiresolution analysis on local fields of positive characteristic p. The associated subspace V0 of L 2 (K,ℂ N )$L^2(K, \mathbb {C}^N)$ has an orthonormal basis, a collection of translates of the scaling function ϕ of the form {ϕ(t-u(k))} k∈ℙ $\lbrace \varphi (t- u(k))\rbrace _{ k \in \mathbb {P}}$ , where ℙ={0,1,2,...}$\mathbb {P}=\lbrace 0, 1, 2,\ldots \rbrace $ . We find the necessary and sufficient condition for the existence of associated wavelets.

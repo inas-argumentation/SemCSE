@@ -1,0 +1,2 @@
+H∞ finite-time control of unknown uncertain systems with actuator failure
+This paper investigates the finite-time H∞ adaptive control of linear systems with unknown mismatched uncertainties. To deal with outage and stuck failures on the actuator and the uncertainties, a new finite-time adaptive H∞ control strategy is proposed. With the established strategy, the resultant closed-loop system is finite-time bounded with the required H∞ level. The validity of the proposed method is demonstrated by an existing rocket fairing model.

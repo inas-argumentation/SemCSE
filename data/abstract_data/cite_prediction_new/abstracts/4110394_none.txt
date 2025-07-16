@@ -1,0 +1,2 @@
+A New Foveation Ray Casting Approach for Real-Time Rendering of 3D Scenes
+This paper presents a real-time foveation rendering algorithm to simulate the gaze contingent vision of a 3Dscene. The novelty of our approach lies in two aspects, namely, an image-space adaptive sampling mask adhering to the Contrast Sensitivity Function (CSF) of the HVS, an image based multi-layer representation of the 3D scene constructed by depth peeling. We demonstrate high quality and performance of the proposed approach with a variety of examples, and provide comparisons with recent methods.

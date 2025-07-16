@@ -1,0 +1,11 @@
+Running coupling constant and correlation length from Wilson loops
+We consider a definition of the QCD running coupling constant $\alpha(\mu)$ 
+related to Wilson loops of size $r{\times}t$ with arbitrary fixed $t/r$. The 
+schemes defined by these couplings are very close to the $\overline{\rm MS}$ 
+scheme (i.e.\ the one-loop perturbative correction to the coupling is small) 
+for all values of $t/r$; in the $t/r\to\infty$ limit, the ``$q\bar q$ force'' 
+scheme is recovered, where the coupling constant is related to the 
+quark-antiquark force. We discuss the possibility of applying finite-size 
+scaling techniques to the Monte Carlo evaluation of $\alpha(\mu)$ up to very 
+large momentum scales. We propose a definition of correlation length, also 
+related to Wilson loops, which should make such a computation feasible.

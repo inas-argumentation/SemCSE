@@ -1,0 +1,2 @@
+Neural Network Based Processing for Smart Sensors Arrays
+Source separation (SS) algorithm is an attractive approach for designing smart sensor array, able to increase spatial selectivity and to cancel spurious sources. The source number being unknown and able to vary, a pre-processing algorithm is developped in this paper for providing estimation of the source number before source separation. On-line source separation is then achieved in the above time variant context.

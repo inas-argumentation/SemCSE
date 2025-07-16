@@ -1,0 +1,15 @@
+Proton therapy dose distribution comparison between Monte Carlo and a treatment planning system for pediatric patients with ependymoma.
+PURPOSE
+Compare dose distributions for pediatric patients with ependymoma calculated using a Monte Carlo (MC) system and a clinical treatment planning system (TPS).
+
+
+METHODS
+Plans from ten pediatric patients with ependymoma treated using double scatter proton therapy were exported from the TPS and calculated in our MC system. A field by field comparison of the distal edge (80% and 20%), distal fall off (80% to 20%), field width (50% to 50%), and penumbra (80% to 20%) were examined. In addition, the target dose for the full plan was compared.
+
+
+RESULTS
+For the 32 fields from the 10 patients, the average differences of distal edge at 80% and 20% on central axis between MC and TPS are -1.9 ± 1.7 mm (p < 0.001) and -0.6 ± 2.3 mm (p = 0.13), respectively. Excluding the fields that ranged out in bone or an air cavity, the 80% difference was -0.9 ± 1.7 mm (p = 0.09). The negative value indicates that MC was on average shallower than TPS. The average difference of the 63 field widths of the 10 patients is -0.7 ± 1.0 mm (p < 0.001), negative indicating on average the MC had a smaller field width. On average, the difference in the penumbra was 2.3 ± 2.1 mm (p < 0.001). The average of the mean clinical target volume dose differences is -1.8% (p = 0.001), negative indicating a lower dose for MC.
+
+
+CONCLUSIONS
+Overall, the MC system and TPS gave similar results for field width, the 20% distal edge, and the target coverage. For the 80% distal edge and lateral penumbra, there was slight disagreement; however, the difference was less than 2 mm and occurred primarily in highly heterogeneous areas. These differences highlight that the TPS dose calculation cannot be automatically regarded as correct.

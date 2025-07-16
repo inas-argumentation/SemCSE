@@ -1,0 +1,2 @@
+Pattern Periodic Coloring of Distance Graphs
+SupposeDis a subset ofZ. The distance graphG(Z,D) with distance setDis the graph with vertex setZand two verticesxyare adjacent if |x?y|?D. We introduce a coloring method for distance graphs, the pattern periodic coloring, and we shall compare this method with other general coloring methods of distance graphs.

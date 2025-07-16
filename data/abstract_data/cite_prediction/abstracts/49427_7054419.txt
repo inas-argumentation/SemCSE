@@ -1,0 +1,2 @@
+Fast Byzantine Paxos
+The consensus problem can be described in terms of the actions taken by three classes of agents: proposers, who propose values, acceptors, who together are responsible for choosing a single proposed value, and learners, who must learn the chosen value [10]. A single processor can act as more than one kind of agent. Consensus can be specified using the following three safety properties and two liveness properties:

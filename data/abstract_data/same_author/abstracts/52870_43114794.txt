@@ -1,0 +1,2 @@
+Java as a Language for Scientific Parallel Programming
+Java may be a natural language for portable parallel programming. We discuss the basis of this claim in general terms, then illustrate the use of Java for message-passing and data-parallel programming through series of case studies. In the process we introduce some proposals for a Java binding of MPI, and describe the use of a Java class-library to implement HPF-style distributed data. Prospects for future Java-based parallel programming environments are discussed.

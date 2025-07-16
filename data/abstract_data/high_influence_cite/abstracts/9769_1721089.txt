@@ -1,0 +1,2 @@
+On-chip interconnect modeling by wire duplication
+In this paper, we present a novel wire duplication-based interconnect modeling technique. The proposed modeling technique exploits the sparsity of the L−1 matrix, where L is the inductance matrix, and constructs a sparse and stable equivalent RLC circuit by windowing the original inductance matrix. The model avoids matrix inversions. Most important, it is more accurate and more efficient than many existing techniques.

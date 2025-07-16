@@ -1,0 +1,2 @@
+The Structure of the Infinite Models in Integer Programming
+The infinite models in integer programming can be described as the convex hull of some points or as the intersection of halfspaces derived from valid functions. In this paper we study the relationships between these two descriptions. Our results have implications for finite dimensional corner polyhedra. One consequence is that nonnegative continuous functions suffice to describe finite dimensional corner polyhedra with rational data. We also discover new facts about corner polyhedra with non-rational data.

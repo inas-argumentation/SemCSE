@@ -1,0 +1,2 @@
+“Oops, I Did It Again” – Security of One-Time Signatures Under Two-Message Attacks
+One-time signatures (OTS) are called one-time, because the accompanying security reductions only guarantee security under single-message attacks. However, this does not imply that efficient attacks are possible under two-message attacks. Especially in the context of hash-based OTS (which are basic building blocks of recent standardization proposals) this leads to the question if accidental reuse of a one-time key pair leads to immediate loss of security or to graceful degradation.

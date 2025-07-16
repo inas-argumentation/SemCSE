@@ -1,0 +1,2 @@
+Unpredictability and undecidability in dynamical systems.
+We show that motion with as few as three degrees of freedom (for instance, a particle moving in a three-dimensional potential) can be equivalent to a Turing machine, and so be capable of universal computation. Such systems possess a type of unpredictability qualitatively stronger than that which has been previously discussed in the study of low-dimensional chaos: Even if the initial conditions are known exactly, virtually any question about their long-term dynamics is undecidable.

@@ -1,0 +1,6 @@
+A Gradient-based Kernel Approach for Efficient Network Architecture Search
+It is widely accepted  that vanishing and exploding gradient values are the main reason behind the difficulty of deep network training.
+In this work, we take a further step to understand the optimization of deep networks and find that both gradient correlations and gradient values have strong impacts on model training. 
+Inspired by our new finding, we explore a simple yet effective network architecture search (NAS) approach that leverages gradient correlation and gradient values to find well-performing architectures. To be specific, we first  formulate these two terms into a unified gradient-based kernel and then select architectures with the largest kernels at initialization as the final networks. 
+The new approach replaces the expensive  ``train-then-test'' evaluation paradigm  with a new lightweight function according to the gradient-based kernel at initialization.
+Experiments show that our approach achieves competitive results with orders of magnitude faster than ``train-then-test'' paradigms on image classification tasks. Furthermore, the extremely low search cost enables its wide applications. It also obtains performance improvements on two text classification tasks.

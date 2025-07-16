@@ -1,0 +1,13 @@
+Taming the waves: sine as activation function in deep neural networks
+Most deep neural networks use non-periodic and monotonic—or at least
+quasiconvex— activation functions. While sinusoidal activation functions have
+been successfully used for specific applications, they remain largely ignored and
+regarded as difficult to train. In this paper we formally characterize why these
+networks can indeed often be difficult to train even in very simple scenarios, and
+describe how the presence of infinitely many and shallow local minima emerges
+from the architecture. We also provide an explanation to the good performance
+achieved on a typical classification task, by showing that for several network architectures
+the presence of the periodic cycles is largely ignored when the learning
+is successful. Finally, we show that there are non-trivial tasks—such as learning
+algorithms—where networks using sinusoidal activations can learn faster than
+more established monotonic functions.

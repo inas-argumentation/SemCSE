@@ -1,0 +1,2 @@
+The Principles and Application of VISUAL C# Delegate Feature
+Delegate is one of the most important features of C#language it is similar to pointer of C or C++and is type-safe.It is mainly used in callback function and event handler besides of asynchronous handler.This paper discusses and explains it's major principles and application.

@@ -1,0 +1,2 @@
+Using a Programming Language for Digital System Design
+HDLs must satisfy important semantic requirements, especially when CAD tools are involved. Designers can meet these requirements by using the standard language constructs of a software-programming language to model hardware for simulation and synthesis.

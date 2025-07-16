@@ -1,0 +1,2 @@
+Generalizing Smoothness Constraints from Discrete Samples
+We study how certain smoothness constraints, for example, piecewise continuity, can be generalized from a discrete set of analog-valued data, by modifying the error backpropagation, learning algorithm. Numerical simulations demonstrate that by imposing two heuristic objectives (1) reducing the number of hidden units, and (2) minimizing the magnitudes of the weights in the network during the learning process, one obtains a network with a response function that smoothly interpolates between the training data.

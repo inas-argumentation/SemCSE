@@ -1,0 +1,4 @@
+High voltage characteristic of large area cathode pad chambers for muon spectrometer of ALICE
+AbstractLarge area Cathode Pad Chambers (CPC) with inner and outer radii of 23.7 cm and 117 cm respectively have been fabricated and tested for 2nd Tracking station of Muon Spectrometer of ALICE.The active area of this detector has a radiation length of less than 2 % and the frames are fabricated with Peek GF-30. The anode wire plane consists of 474 anode wires of which 53 % have lengths greater than 1 meter. The separation between the wire plane and the grounded cathode plane is 2.5 mm. The high voltage behaviour of the chamber have been tested under two situations.
+With no support below the wires to reduce sagging of long wires.With a G10 strip-support whose dimension is 950 mm × 2 mm × 2.4 mm.
+ The High Voltage (HV) tests show that a better stability is achieved when the strip support is implemented. Therefore this solution has been adopted for operation in ALICE.

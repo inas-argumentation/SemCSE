@@ -1,0 +1,2 @@
+RPA equations and the instantaneous Bethe-Salpeter equation
+We give a derivation of the particle-hole RPA equations for an interacting multi-fermion system by applying the instantaneous approximation to the amputated two-fermion propagator of the system. In relativistic field theory the same approximation leads from the fermion-antifermion Bethe-Salpeter equation to the Salpeter equation. We show that RPA equations and Salpeter equation are indeed equivalent.

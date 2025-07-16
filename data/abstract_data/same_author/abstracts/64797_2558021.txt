@@ -1,0 +1,2 @@
+Static compaction of delay tests considering power supply noise
+Excessive power supply noise can lead to overkill during delay test. A static compaction algorithm is described in this paper that prevents such overkill. A power supply noise estimation tool has been built and integrated into the compaction process. Compaction results for KLPG delay tests for ISCAS89 circuits under different power grid environments are presented.

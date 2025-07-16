@@ -1,0 +1,2 @@
+An Efficient Algorithm for Edge-Coloring Series-Parallel Multigraphs
+Many combinatorial problems can be efficiently solved for series-parallel graphs or partial k-trees. The edge-coloring problem is one of a few combinatorial problems for which no efficient algorithms have been obtained for series-parallel multigraphs. This paper gives an algorithm which optimally edge-colors a given series-parallel multigraph in time O(¦V¦Δ), where V is the set of vertices and Δ the maximum degree.

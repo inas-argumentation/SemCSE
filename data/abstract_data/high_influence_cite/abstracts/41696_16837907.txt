@@ -1,0 +1,14 @@
+Four Results on Randomized Incremental Constructions
+We prove four results on randomized incremental constructions (RICs): 
+ 
+ 
+an analysis of the expected behavior under insertion and deletions, 
+ 
+ 
+a fully dynamic data structure for convex hull maintenance in arbitrary dimensions, 
+ 
+ 
+a tail estimate for the space complexity of RICs, 
+ 
+ 
+a lower bound on the complexity of a game related to RICs.

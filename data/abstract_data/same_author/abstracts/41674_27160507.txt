@@ -1,0 +1,2 @@
+A Random Walk Based Anonymous Peer-to-Peer Protocol Design
+Anonymity has been one of the most challenging issues in Ad Hoc environment such as P2P systems. In this paper, we propose an anonymous protocol called Random Walk based Anonymous Protocol (RWAP), in decentralized P2P systems. We evaluate RWAP by comprehensive trace driven simulations. Results show that RWAP significantly reduces traffic cost and encryption overhead compared with existing approaches.

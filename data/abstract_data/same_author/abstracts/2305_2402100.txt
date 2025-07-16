@@ -1,0 +1,2 @@
+Input-Dependence in Function-Learning
+In the standard literature on inductive inference, a learner sees as input the course of values of the function to be learned. In the present work, it is investigated how reasonable this choice is and how sensitive the model is with respect to variations like the overgraph or undergraph of the function. Several implications and separations are shown and for the basic notions, a complete picture is obtained. Furthermore, relations to oracles, additional information and teams are explored.

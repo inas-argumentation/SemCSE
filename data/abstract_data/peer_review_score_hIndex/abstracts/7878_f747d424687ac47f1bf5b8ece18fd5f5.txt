@@ -1,0 +1,2 @@
+DL2: Training and Querying Neural Networks with Logic
+We present DL2, a system for training and querying neural networks with logical constraints. The key idea is to translate these constraints into a differentiable loss with desirable mathematical properties and to then either train with this loss in an iterative manner or to use the loss for querying the network for inputs subject to the constraints. We empirically demonstrate that DL2 is effective in both training and querying scenarios, across a range of constraints and data sets.

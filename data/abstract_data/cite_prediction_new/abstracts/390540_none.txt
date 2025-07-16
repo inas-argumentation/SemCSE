@@ -1,0 +1,15 @@
+Inter- and intrafractional positional uncertainties in pediatric radiotherapy patients with brain and head and neck tumors.
+PURPOSE
+To estimate radiation therapy planning margins based on inter- and intrafractional uncertainty for pediatric brain and head and neck tumor patients at different imaging frequencies.
+
+
+METHODS
+Pediatric patients with brain (n = 83) and head and neck (n = 17) tumors (median age = 7.2 years) were enrolled on an internal review board-approved localization protocol and stratified according to treatment position and use of anesthesia. Megavoltage cone-beam CT (CBCT) was performed before each treatment and after every other treatment. The pretreatment offsets were used to calculate the interfractional setup uncertainty (SU), and posttreatment offsets were used to calculate the intrafractional residual uncertainty (RU). The SU and RU are the patient-related components of the setup margin (SM), which is part of the planning target volume (PTV). SU data was used to simulate four intervention strategies using different imaging frequencies and thresholds.
+
+
+RESULTS
+The SM based on all patients treated on this study was 2.1 mm (SU = 0.9 mm, RU = 1.9 mm) and varied according to treatment position (supine = 1.8 mm, prone = 2.6 mm) and use of anesthesia (with = 1.7 mm, without = 2.5 mm) because of differences in the RU. The average SU for a 2-mm threshold based on no imaging, once per week imaging, initial five images, and daily imaging was 3.6, 2.1, 2.2, and 0.9 mm, respectively.
+
+
+CONCLUSION
+On the basis of this study, the SM component of the PTV may be reduced to 2 mm for daily CBCT compared with 3.5 mm for weekly CBCT. Considering patients who undergo daily pretreatment CBCT, the SM is larger for those treated in the prone position or smaller for those treated under anesthesia because of differences in the RU.

@@ -1,0 +1,8 @@
+SiT: Simulation Transformer for Particle-based Physics Simulation
+Most existing particle-based simulators adopt graph convolutional networks (GCNs) to model the underlying physics of particles. 
+However, they force particles to interact with all neighbors without selection, and they fall short in capturing material semantics for different particles, leading to unsatisfactory performance, especially in generalization.
+This paper proposes Simulation Transformer (SiT) to simulate particle dynamics with more careful modeling of particle states, interactions, and their intrinsic properties.
+Specifically, besides the particle tokens, SiT generates interaction tokens and selectively focuses on essential interactions by allowing both tokens to attend to each other.
+In addition, SiT learns material-aware representations by learnable abstract tokens, which will participate in the attention mechanism and boost the generalization capability further.
+We evaluate our model on diverse environments, including fluid, rigid, and deformable objects, which cover systems of different complexity and materials.
+Without bells and whistles, SiT shows strong abilities to simulate particles of different materials and achieves superior performance and generalization across these environments with fewer parameters than existing methods. Codes and models will be released.

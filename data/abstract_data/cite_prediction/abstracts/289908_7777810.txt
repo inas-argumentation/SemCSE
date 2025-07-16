@@ -1,0 +1,2 @@
+WebVRGIS Based City Bigdata 3D Visualization and Analysis
+This paper shows the WEBVRGIS platform overlying multiple types of data about Shenzhen over a 3d globe. The amount of information that can be visualized with this platform is overwhelming, and the GIS-based navigational scheme allows to have great flexibility to access the different available data sources. For example, visualising historical and forecasted passenger volume at stations could be very helpful when overlaid with other social data.

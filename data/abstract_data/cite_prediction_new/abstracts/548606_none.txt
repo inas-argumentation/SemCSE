@@ -1,0 +1,2 @@
+Mixed parametric/non-parametric identification of systems with discontinuous nonlinearities
+The subject of this paper is identification of discrete time nonlinear dynamical systems when the system dynamics are defined by a nonlinear function with one or more discontinuities at unknown locations. By representing the nonlinear function with a parametric term defining the smooth part and a non-parametric term defining the discontinuous part, we present an identification algorithm along with conditions for recovery of the true nonlinearity.

@@ -1,0 +1,2 @@
+Using Genetic Algorithms To Solve The Yard Allocation Problem
+The Yard Allocation Problem (YAP) is a real-life resource allocation problem faced by the Port of Singapore Authority (PSA). We first show that YAP is NP-Hard. As the problem is NP-Hard, we propose a Genetic Algorithm approach. For benchmarking purposes, Tabu Search and Simulated Annealing are applied to this problem as well. Extensive experiments show very favorable results for the Genetic Algorithm approach.

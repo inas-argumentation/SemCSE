@@ -1,0 +1,2 @@
+Dendriform structures for restriction-deletion and restriction-contraction matroid Hopf algebras
+We endow the set of isomorphic classes of matroids with a new Hopf algebra structure, in which the coproduct is implemented via the combinatorial operations of restriction and deletion. We also initiate the investigation of dendriform coalgebra structures on matroids and introduce a monomial invariant which satisfy a convolution identity with respect to restriction and deletion.

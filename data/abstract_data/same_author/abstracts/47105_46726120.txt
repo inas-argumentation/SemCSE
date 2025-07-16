@@ -1,0 +1,2 @@
+The union of balls and its dual shape
+Efficient algorithms are described for computing topological, combinatorial, and metric properties of the union of finitely many spherical balls in ℝd. These algorithms are based on a simplicial complex dual to a decomposition of the union of balls using Voronoi cells, and on short inclusion-exclusion formulas derived from this complex. The algorithms are most relevant in ℝ3 where unions of finitely many balls are commonly used as models of molecules.

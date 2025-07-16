@@ -1,0 +1,2 @@
+Some inequalities about connected domination number
+Abstract Let G = ( V , E ) be a graph. In this note, γ c , ir, γ, i, β 0 , Γ, IR denote the connected domination number, the irredundance number, the domination number, the independent domination number, the independence number, the upper domination number and the upper irredundance number, respectively. We prove that γ c ⩽ 3 ir − 2 for a connected graph G . Thus, an open problem in Hedetniemi and Laskar (1984) discuss further some relations between γ c and γ, β 0 , Γ, IR, respectively.

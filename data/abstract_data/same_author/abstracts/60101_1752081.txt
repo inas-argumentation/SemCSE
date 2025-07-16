@@ -1,0 +1,2 @@
+Towards an Artificial Pinna for a Narrow-Band Biomimetic Sonarhead
+A genetic algorithm was used to evolve bat-like pinna shapes for a biomimetic sonarhead. Pinnae model consisted of small reflectors placed around the transducer. Experiments with ten reflectors showed the problem of phase cancellation in the received echoes. Analysis of phase cancellation suggests more realistic pinna models for future developments.

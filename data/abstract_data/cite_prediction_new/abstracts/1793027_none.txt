@@ -1,0 +1,2 @@
+Image Coding by Morphological Skeleton Transformation
+Mathematical morphology operations are becoming increasingly important for analysing images. Binary morphological operations of dilation and erosion have been successfully extended to gray-scale image processing. This paper presents the results of a study on the use of morphological set operations to represent and encode a discrete binary and gray-scale image by parts of its skeleton and reports the results of image coding.

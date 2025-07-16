@@ -1,0 +1,2 @@
+A Resolution-Based Decision Procedure for Extensions of K4
+This paper presents a resolution decision procedure for transitive propositional modal logics. The procedure combines the relational translation method with an ordered chaining calculus designed to avoid unnecessary inferences with transitive relations. We show the logics K4, KD4 and S4 can be transformed into a bounded class of well-structured clauses closed under ordered resolution and negative chaining. Area: Computational aspects of modal logic

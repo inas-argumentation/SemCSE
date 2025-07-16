@@ -1,0 +1,2 @@
+Efficiency Considerations for LFG-Parsers - Incremental and Table-Lookup Techniques
+The paper presents a concise description of the LFG-Parser-Generator developed at the EWH in Koblenz. Special attention is paid to efficiency considerations to speed up the system in the execution phase. Lexicon is separated, 11(k)-parsing tables are used and some preliminary unifications are carried out before the actual execution. The run time system follows the single path strategy and produces the f-structures simultaneously with the processing of the c-structures.

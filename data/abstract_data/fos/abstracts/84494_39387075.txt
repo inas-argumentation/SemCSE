@@ -1,0 +1,2 @@
+Properties of certain transforms defined by convolution of analytic functions
+Let A be the class of all analytic functions f in the open unit disk U of the form f(z)[email protected]?"k"="2^~a"kz^k. For @l>0,Rec>0 and @a 0 for all [email protected]?U, the functionG(z)=z(z/f(z))*F(1,c;c+1;z)([email protected]?U)belongs to P(@l^'),S"@a^* or S^*(@a). Here S^*(@a) denotes the usual class of starlike of order @a(0=<@a<1) in U. We also determine necessary conditions so that [email protected]?P(@l) implies thatzG^'(z)G(z)[email protected]<[email protected],|z|

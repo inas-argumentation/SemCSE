@@ -1,0 +1,2 @@
+Monte Carlo Simulation of Learning in the Hawk-Dove Game
+The goal of this paper is to construct a Monte Carlo simulation in order to systematically analyze how equilibria arise in evolutionary games. I examine the “Hawk-Dove” game, where the equilibria are already understood, in order to judge whether the model matches the analytic expectations. In all situations, the model approaches the expected results.

@@ -1,0 +1,2 @@
+Comments on "Identification for systems with bounded noise"
+In the above-mentioned paper by Tan et al. (1997), the authors claimed that the estimation error of their identification algorithm is non-increasing. We show in this note that this statement is misleading, and point out the mistake made in their derivation of the statement. We further show that the worst-case estimation error of their algorithm is, however, non-increasing.

@@ -1,0 +1,9 @@
+Non-equilibrium models for two phase flow in porous media: the occurrence of saturation overshoots
+Several experiments have evidenced the occurrence of saturation overshoots for flows in 
+homogeneous porous media. Such phenomena are ruled out by standard mathematical 
+models, which are based on equilibrium assumptions. In this presentation we discuss nonequilibrium 
+models, in particular including dynamic effects in the capillary pressure. This 
+leads to extensions of the classical Buckley-Leverett (BL) equation, a commonly accepted 
+model for two-phase flow in porous media. For this extended equation we investigate the 
+existence of traveling wave solutions. Based on this we explain the occurrence of saturation 
+overshoots, and discuss the profiles obtained for one phase or two phase flow models.

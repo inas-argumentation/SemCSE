@@ -1,0 +1,7 @@
+Zerg: A Very Fast BLAST Parser Library
+SUMMARY
+Zerg is a library of sub-routines that parses the output from all NCBI BLAST programs (Blastn, Blastp, Blastx, Tblastn and Tblastx) and returns the attributes of a BLAST report to the user. It is optimized for speed, being especially useful for large-scale genomic analysis. Benchmark tests show that Zerg is over two orders of magnitude faster than some widely used BLAST parsers.
+
+
+AVAILABILITY
+http://bioinfo.iq.usp.br/zerg

@@ -1,0 +1,2 @@
+Subcharacter Information in Japanese Embeddings : When Is It Worth It ?
+Languages with logographic writing systems present a difficulty for traditional character-level models. Leveraging the subcharacter information was recently shown to be beneficial for a number of intrinsic and extrinsic tasks in Chinese. We examine whether the same strategies could be applied for Japanese, and contribute a new analogy dataset for this language.

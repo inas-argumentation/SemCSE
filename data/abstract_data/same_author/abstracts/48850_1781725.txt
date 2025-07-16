@@ -1,0 +1,2 @@
+Developments in Steganography
+This paper presents two main results. The first is a new approach to steganography in which data is encoded in correlations among the pixels in an image. Almost all previous steganographic methods encode data in correlations between the pixels and a known external reference signal. This method hints at the existence of public key watermarking techniques, which will be defined.

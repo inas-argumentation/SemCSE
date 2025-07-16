@@ -1,0 +1,15 @@
+SU-E-J-42: Customized Deformable Image Registration Using Open-Source Software SlicerRT.
+PURPOSE
+SlicerRT is a flexible platform that allows the user to incorporate the necessary images registration and processing tools to improve clinical workflow. This work validates the accuracy and the versatility of the deformable image registration algorithm of the free open-source software SlicerRT using a deformable physical pelvic phantom versus available commercial image fusion algorithms.
+
+
+METHODS
+Optical camera images of nonradiopaque markers implanted in an anatomical pelvic phantom were used to measure the ground-truth deformation and evaluate the theoretical deformations for several DIR algorithms. To perform the registration, full and empty bladder computed tomography (CT) images of the phantom were obtained and used as fixed and moving images, respectively. The DIR module, found in SlicerRT, used a B-spline deformable image registration with multiple optimization parameters that allowed customization of the registration including a regularization term that controlled the amount of local voxel displacement. The virtual deformation field at the center of the phantom was obtained and compared to the experimental ground-truth values. The parameters of SlicerRT were then varied to improve spatial accuracy. To quantify image similarity, the mean absolute difference (MAD) parameter using Hounsfield units was calculated. In addition, the Dice coefficient of the contoured rectum was evaluated to validate the strength of the algorithm to transfer anatomical contours.
+
+
+RESULTS
+Overall, SlicerRT achieved one of the lowest MAD values across the algorithm spectrum, but slightly smaller mean spatial errors in comparison to MIM software (MIM). On the other hand, SlicerRT created higher mean spatial errors than Velocity Medical Solutions (VEL), although obtaining an improvement on the DICE to 0.91. The large spatial errors were attributed to the poor contrast in the prostate bladder interface of the phantom.
+
+
+CONCLUSION
+Based phantom validation, SlicerRT is capable of achieving comparable DIR accuracy to commercial programs such as MIM and VEL.

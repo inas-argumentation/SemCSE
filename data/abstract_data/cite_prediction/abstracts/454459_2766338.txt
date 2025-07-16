@@ -1,0 +1,2 @@
+Fault-tolerant techniques for the Internet of Military Things
+Some obtained results related to an ongoing project which aims at providing a comprehensive approach for implementation of Internet of Things concept into the military domain are presented. A comprehensive approach to fault diagnosis within the Internet of Military Things was outlined. Particularly a method of fault detection which is based on a network partitioning into clusters was proposed. Also, some solutions proposed for the experimentally constructed network called EFTSN was conducted.

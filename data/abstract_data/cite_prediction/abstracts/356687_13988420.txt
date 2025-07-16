@@ -1,0 +1,2 @@
+Measures of Threaded Discussion Properties
+In this paper, we present a set of measures to quantify certain properties of threaded discussions, which are ubiquitous in online learning platforms. In particular, we address how to measure the redundancy of posts, the compactness of topics, and the degree of hierarchy in subthreads. This preliminary work would very much benefit from discussion and serves as a starting point for ultimately creating optimal structures of threaded discussions depending on the context.

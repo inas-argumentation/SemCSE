@@ -1,0 +1,2 @@
+Catching up with the Data: Research Issues in Mining Data Streams
+In many domains, data now arrives faster than we are able to mine it. To avoid wasting this data, we must switch from the traditional \one-shot" data mining approach to systems that are able to mine continuous, high-volume, open-ended data streams as they arrive. In this paper we identify some desiderata for such systems, report on our recent work realizing them, and outline a number of directions for future research.

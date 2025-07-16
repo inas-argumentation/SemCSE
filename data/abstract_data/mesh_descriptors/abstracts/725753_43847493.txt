@@ -1,0 +1,2 @@
+Continuous and discontinuous domains: An algorithm for the automatic generation of reliable protein domain definitions
+An algorithm is presented for the fast and accurate definition of protein structural domains from coordinate data without prior knowledge of the number or type of domains. The algorithm explicitly locates domains that comprise one or two continuous segments of protein chain. Domains that include more than two segments are also located.

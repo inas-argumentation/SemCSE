@@ -1,0 +1,2 @@
+On estimating local geometric properties of intersection curves
+The paper presents a simple and robust algorithm for estimating the local geometric properties of intersection curves, namely the tangent, normal, binormal, curvature and torsion vectors at any point. In addition, two new marching directions that make use of these properties are given.

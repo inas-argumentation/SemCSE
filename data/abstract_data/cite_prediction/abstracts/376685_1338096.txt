@@ -1,0 +1,2 @@
+Neural Temporal Relation Extraction
+We experiment with neural architectures for temporal relation extraction and establish a new state-of-the-art for several scenarios. We find that neural models with only tokens as input outperform state-ofthe-art hand-engineered feature-based models, that convolutional neural networks outperform LSTM models, and that encoding relation arguments with XML tags outperforms a traditional position-based encoding.

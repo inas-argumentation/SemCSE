@@ -1,0 +1,2 @@
+A fast KPCA-based nonlinear feature extraction method
+Kernel principal component analysis (KPCA) could extract nonlinear features from samples, however, its feature extraction efficiency is inversely proportional to the size of the training sample set. This paper proposes an efficient KPCA method that is much faster than the KPCA in extracting features from samples. The proposed method first selects nodes from the training samples, then formulates the novel feature extraction scheme. Experimental results illustrate that the proposed method is effective.

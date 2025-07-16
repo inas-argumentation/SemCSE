@@ -1,0 +1,2 @@
+A Bang-Bang Attitude Stabilizer for Rotating Rigid Bodies
+In this paper we present a controller that solves the attitude control problem for an inertially symmetric rigid spacecraft with on-off thrusters. The proposed controller achieves the goal of attitude stabilization without inducing high-frequency switching of the thrusters. Each axis of the spacecraft is controlled independently by using a hybrid bang-bang controller originally designed for double-integrators. Simulations suggest that the proposed controller is robust with respect to external bounded perturbations.

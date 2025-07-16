@@ -1,0 +1,3 @@
+S-SPatt: simple statistics for patterns on Markov chains
+SUMMARY
+S-SPatt allows the counting of patterns occurrences in text files and, assuming these texts are generated from a random Markovian source, the computation of the P-value of a given observation using a simple binomial approximation.

@@ -1,0 +1,2 @@
+Proper Hamiltonian Paths in Edge-Coloured Multigraphs
+Given a c-edge-coloured multigraph, where c is a positive integer, a proper Hamiltonian path is a path that contains all the vertices of the multigraph such that no two adjacent edges have the same colour. In this work we establish sufficient conditions for an edge-coloured multigraph to guarantee the existence of a proper Hamiltonian path, involving various parameters such as the number of edges, the number of colours, the rainbow degree and the connectivity.

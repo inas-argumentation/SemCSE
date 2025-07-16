@@ -1,0 +1,2 @@
+The capacity region of Gaussian cognitive radio channels to within 1.81 bits
+We make use of the deterministic high-SNR approximation of the Gaussian cognitive radio channel to gain insights in deriving inner and outer bounds for any SNR. We show that the derived bounds are at most 1.81 bits apart for any SNR.

@@ -1,0 +1,2 @@
+Behind Phishing: An Examination of Phisher Modi Operandi
+Phishing costs Internet users billions of dollars a year. Using various data sets collected in real-time, this paper analyzes various aspects of phisher modi operandi. We examine the anatomy of phishing URLs and domains, registration of phishing domains and time to activation, and the machines used to host the phishing sites. Our findings can be used as heuristics in filtering phishing-related emails and in identifying suspicious domain registrations.

@@ -1,0 +1,2 @@
+A Tutte polynomial for maps II: The non-orientable case
+We construct a new polynomial invariant of maps (graphs embedded in a compact surface, orientable or non-orientable), which contains as specializations the Krushkal polynomial, the Bollob\'as--Riordan polynomial, the Las Vergnas polynomial, and their extensions to non-orientable surfaces, and hence in particular the Tutte polynomial. Other evaluations include the number of local flows and local tensions taking non-identity values in a given finite group.

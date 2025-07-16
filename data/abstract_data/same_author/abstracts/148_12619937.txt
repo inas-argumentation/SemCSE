@@ -1,0 +1,2 @@
+Content-Based 3D Model Retrieval for Digital Museum
+In this paper, we propose a new shape feature for shape-similarity search of 3D polygonal-mesh models in digital museum. The shape feature is an extension of the D2 shape functions proposed by Osada. Our proposed shape feature is a combination of geometry and texture which is also invariant to similarity transformation. Experiments showed that, our method achieved better performance improvement especially for appearance retrieval of 3d model.

@@ -1,0 +1,2 @@
+Simpler Reasoning About System Properties: a Proof-by-Refinement Technique
+Proofs about system specifications are difficult to conduct, particularly for large specifications. Using abstraction and refinement, we propose a proof technique that simplifies these proofs. We apply the technique to Circus (a combination of Z and CSP) specifications of different complexities. Interestingly, all the proofs are conducted in Z, even those concerning reactive behaviour.

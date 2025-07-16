@@ -1,0 +1,2 @@
+Accuracy of Finite Difference Frequency Domain Methods in the Presence of Effective Metamaterials
+It has been recently shown that frequency domain finite element methods can provide unsatisfactory results in the presence of effective models of metamaterials. This contribution shows that finite difference frequency domain method is not affected by the same inconvenient. A qualitative explanation of such a different behaviour is provided.

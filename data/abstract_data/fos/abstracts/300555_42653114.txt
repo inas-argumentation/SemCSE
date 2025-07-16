@@ -1,0 +1,2 @@
+A numerical algorithm for finding positive solutions for classes of p-Laplacian equations
+In this paper we investigate numerically positive solution of the equation -@D"pu=g(@l,u) with Dirichlet boundary condition in a boundary domain @W in R^N; N>=2 with @?@W of class C^2 and connected for @l>0 and p>1. In particular, we establish existence results for classes of nondecreasing, p-sublinear functions g(@l,u) belonging to C^1([0,~)). We will show that in which range of @l, this problem achieves a numerical solution.

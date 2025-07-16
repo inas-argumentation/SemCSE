@@ -1,0 +1,2 @@
+Research on Trust and Right Leakage of ARBAC Model
+By referring to the delegation relation of administrative role based access control model,analyses the trust relation.Based on the trusted relation,constructs a state transfer system,then updates the definition of right leakage and two security analysis problems.

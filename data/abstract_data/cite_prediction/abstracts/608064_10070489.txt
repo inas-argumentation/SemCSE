@@ -1,0 +1,2 @@
+Effect of Gen2 protocol parameters on RFID tag performance
+In this paper, we analyze the effect of Gen2 protocol parameters on RFID tag performance (tag sensitivity and backscatter efficiency). We describe our measurement methodology and perform characterization of several tags with different latest Gen2 ICs available on the market (Monza, UCODE, and Higgs families). To confirm our findings, we repeat measurements using conducted tag setup. We analyze data and draw conclusions on how the protocol parameters affect the tag performance in forward and reverse links.

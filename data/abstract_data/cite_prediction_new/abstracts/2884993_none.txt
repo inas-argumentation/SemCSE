@@ -1,0 +1,2 @@
+SPARQLGX in Action: Efficient Distributed Evaluation of SPARQL with Apache Spark
+We demonstrate SPARQLGX: our implementation of a distributed sparql evaluator. We show that sparqlgx makes it possible to evaluate SPARQL queries on billions of triples distributed across multiple nodes, while providing attractive performance figures.

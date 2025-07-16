@@ -1,0 +1,15 @@
+Influence of helical CT parameters on spatial resolution in CT angiography performed with a subsecond scanner.
+RATIONALE AND OBJECTIVES
+In helical CT, the beam collimation, table feed (TF) per tube rotation, voltage, current, reconstruction increment, kernel, linear interpolation algorithm (LIA), and contrast are variable parameters. The purpose of this study was to determine which of these parameters are most important to minimize partial volume effects for improving spatial resolution in CT angiography.
+
+
+METHODS
+Phantom vessel stenoses of different lengths (2, 8 mm) and diameters (0.5, 1, 2, 3, 4 mm) were scanned with helical CT using a constant tube rotation time of 0.75 sec and 42 selected combinations of the above-mentioned parameters. Orthogonal targeted maximum intensity projections of the stenoses were ordered according to the increase in blurring and noise in a consensus reading by two radiologists blinded to the parameters used.
+
+
+RESULTS
+Three millimeters of collimation and TF in conjunction with a 180 degrees LIA and > 250 Hounsfield unit contrast density was considered the optimal parameter combination and enabled a continuous visualization of the stenoses down to 0.5 mm in diameter. A collimation of 1 or 2 mm and 5 mm was considered inferior to a collimation of 3 mm because of, respectively, noise and blurring. With 3 mm collimation, significant blurring occurred when a pitch larger than 1.5 was used. A 3 mm collimation with a pitch of 2 (6 mm TF) was found to be superior to a collimation of 5 mm in conjunction with a pitch of 1 (5 mm TF). With 5 mm collimation, the short stenoses could be visualized only when using a 180 degrees LIA and a TF per tube rotation smaller than 7 mm. Eight and 10 mm collimations failed to depict the short stenoses.
+
+
+CONCLUSIONS
+Collimation had the most influence on image quality in CT angiography, followed by LIA, pitch, and contrast density. Decreasing the reconstruction increment to less than one third of the TF or increasing the voltage or current beyond standard values did not improve the delineation of the stenoses. For screening examinations, the authors recommend the use of 3 mm collimation, 180 degrees LIA, and a pitch of 2.

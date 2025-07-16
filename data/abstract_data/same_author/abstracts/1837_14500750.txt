@@ -1,0 +1,2 @@
+Robust Video Mosaicing through Topology Inference and Local to Global Alignment
+The problem of piecing together individual frames in a video sequence to create seamless panoramas (video mosaics) has attracted increasing attention in recent times. One challenge in this domain has been to rapidly and automatically create high quality seamless mosaics using inexpensive cameras and relatively free hand motions.

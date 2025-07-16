@@ -1,0 +1,2 @@
+DEVELOPING DYNAMIC SOFT SENSORS USING MULTIPLE NEURAL NETWORKS
+Since in practical industrial applications, soft sensors based on static models often lead to low accuracy and poor robustness, a multiple neural network (MNN) model is presented to develop dynamic soft sensors. The approach is applied to building a dynamic soft sensor estimating the production component in a simulated binary distillation unit and good results are obtained.

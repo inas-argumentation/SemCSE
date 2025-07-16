@@ -1,0 +1,2 @@
+On the efficiency of a testimator for the weibull shape parameter
+In estimating the shape parameter of a two-parameter Weibull distribution from a failure-censored sample, a recently popular procedure is to employ a testimator which is a shrinkage estimator based on a preliminary hypothesis test for a guessed value of the parameter. Such an adaptive testimator is a linear compound of the guessed value and a statistic. A new compounding coefficient is numerically shown to yield higher efficiency in many situations compared to some of the existing ones.

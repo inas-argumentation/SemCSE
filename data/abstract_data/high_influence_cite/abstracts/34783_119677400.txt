@@ -1,0 +1,2 @@
+An intrinsic definition of the Rees algebra of a module
+This paper concerns a generalization of the Rees algebra of ideals due to Eisenbud, Huneke and Ulrich that works for any finitely generated module over a noetherian ring. We show that several properties of this theory become more transparent using the category of coherent functors rather than working directly with modules. Using divided powers we are also able to give an intrinsic definition of the Rees algebra of a module.

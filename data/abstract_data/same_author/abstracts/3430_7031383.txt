@@ -1,0 +1,2 @@
+Image retrieval based on Sugeno fuzzy integral
+In this paper, we propose a fuzzy similarity measure based on the Sugeno fuzzy integral and apply it to the content-based image retrieval. Fuzzy measure is used to formulate the subjective feedback information. Experimental results show that the proposed method can improve the efficiency and reliability of image retrieval system. Our method of formulating the subjective feedback information performs better than the weighted average operator (WAO) and a Choquet-integral-based similarity measure.

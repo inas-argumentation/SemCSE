@@ -1,0 +1,2 @@
+On the Analysis of Fuzzy String Patterns with the Help of Extended and Stochastic GDPLL(k) Grammars
+Two methods of the analysis of distorted (fuzzy) string patterns are presented. The methods are based on the use of GDPLL(k) grammars generating a large subclass of context sensitive languages. The first one utilizes error-correcting approach: a minimum distance measure is used for error-correcting parsing. The second one utilizes stochastic approach: the decision about the production to be applied in a derivation step is given according to the probability measure.

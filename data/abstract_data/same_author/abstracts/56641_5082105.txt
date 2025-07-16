@@ -1,0 +1,2 @@
+Bounds for membership functions: A correlation-based approach
+The paper describes a mathematical formulation for defining bounds for S-type membership functions using correlation [1]. These bounds impose restrictions on variation in the values of membership functions. The significance of these bounds in the image processing/ analysis problems has been extensively studied on various images. It has been observed that membership functions satisfying the bounds can provide desirable results. It is also found that Zadeh's standard S-function [2] satisfies these bounds.

@@ -1,0 +1,2 @@
+Compact dictionaries for diagnosis of unmodeled faults in scan-BIST
+We address the problem of generating compact dictionaries for the diagnosis of unmodeled faults in scan-BIST. We present dictionary organization schemes that provide two orders of magnitude reduction in dictionary size with no significant loss in resolution, and facilitate the diagnosis of unmodeled faults. Experimental results for the ISCAS-89 benchmark circuits show that various types of unmodeled faults can be efficiently located using compact dictionaries generated for single stuck-at-faults.

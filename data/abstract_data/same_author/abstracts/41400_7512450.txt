@@ -1,0 +1,2 @@
+Simultaneous background and foreground modeling for tracking in surveillance video
+We present a stochastic tracking algorithm for surveillance video where targets are dim and at low resolution. The algorithm builds motion models for both background and foreground by integrating motion and intensity information. Some other merits of the algorithm include adaptive selection of feature points for scene description and defining proper cost functions for displacement estimation. The experimental results show tracking robustness and precision in a challenging video sequences.

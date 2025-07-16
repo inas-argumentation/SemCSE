@@ -1,0 +1,2 @@
+A Detailed Monte Carlo simulation for the BELLE TOF system
+We have developed a detailed Monte Carlo simulation program for the Belle time-of-flight (TOF) system. Based on GEANT simulation, it takes account of all physics processes in the TOF scintillation counters and readout electronics. The simulation reproduces very well the performance of the Belle TOF system, including the dE/dx response, the time walk effect, the time resolution, and the hit efficiency due to beam background. In this report, we will describe the Belle TOF simulation program in detail.

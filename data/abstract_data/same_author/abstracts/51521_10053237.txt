@@ -1,0 +1,2 @@
+Automated least-significant bit datapath optimization for FPGAs
+In this paper, we present a method for FPGA datapath precision optimization subject to user-defined area and error constraints. This work builds upon our previous research which presented a methodology for optimizing the dynamic range- the most significant bit position. In this work, we present an automated optimization technique for the least-significant bit position of circuit datapaths. We present results describing the effectiveness of our methods on typical signal and image processing kernels.

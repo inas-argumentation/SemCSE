@@ -1,0 +1,2 @@
+Distributed Sensing and Estimation Under Communication Constraints
+In this paper we consider the impact of imperfect communication links on distributed sensing and estimation in mobile networks. First we find optimum sensing regions and sensor positions under communication constraints. We show that the optimum sensor configuration consists of overlapping sensing regions. We then show how the nodes can achieve the optimum configuration in a distributed manner

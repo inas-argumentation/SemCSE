@@ -1,0 +1,2 @@
+SAGE-based estimation of doubly selective channel with an orthogonal polynomial model
+A space alternating generalized expectation-maximization (SAGE)-based estimation algorithm for doubly selective channel is proposed, which has very similar performance to the rectangular-windowed least squares methods introduced by Borah and Hart while providing large savings in computational complexity. Theoretical analysis shows that the proposed algorithm is always globally convergent. The convergence rate is also investigated through simulations.

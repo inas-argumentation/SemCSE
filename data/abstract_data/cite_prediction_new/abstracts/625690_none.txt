@@ -1,0 +1,2 @@
+Fast-Settling Feedforward Automatic Gain Control Based on a New Gain Control Approach
+This brief presents a feedforward automatic gain control (AGC) circuit with a short settling time. The proposed AGC combines a digital coarse gain setting and an analog fine gain setting, in which the fine gain setting is carried out by a one-step algorithm, which shortens the settling time drastically. The chip is fabricated in 0.13-μm CMOS technology and the measurement results show that the 48-dB AGC converges to the desired level within 1.2 μs.

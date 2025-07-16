@@ -1,0 +1,2 @@
+An optimal variant of Kelley’s cutting-plane method
+We propose a new variant of Kelley’s cutting-plane method for minimizing a nonsmooth convex Lipschitz-continuous function over the Euclidean space. We derive the method through a constructive approach and prove that it attains the optimal rate of convergence for this class of problems.

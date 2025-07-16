@@ -1,0 +1,2 @@
+Colour multiplexing of quick response (QR) codes
+The storage capacity of a quick response (QR) code is limited, which can inhibit several applications. A novel approach to multiplex data to improve the QR code capacity based on colour multiplexing is presented. A model was proposed to determine the recognition rate as a function of the multiplexing density and noise. Experimentally, the increase of the storage capacity by a factor of six times per unit area when compared to the normal QR code is demonstrated.

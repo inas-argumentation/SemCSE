@@ -1,0 +1,2 @@
+Polyiamonds and Polyhexes with Minimum Site-Perimeter and Achievement Games
+An animal is an edge connected set of finitely many cells of a regular tiling of the plane. The site-perimeter of an animal is the number of empty cells connected to the animal by an edge. The minimum site-perimeter with a given cell size is found for animals on the triangular and hexagonal grid. The formulas are used to show the effectiveness of a simple random strategy in full set animal achievement games.

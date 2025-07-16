@@ -1,0 +1,2 @@
+Planar nonautonomous polynomial equations IV. Nonholomorphic case
+We give a few sufficient conditions for the existence of periodic solutions of the equation \(\dot{z}=\sum_{j=0}^n a_j(t)z^j-\sum_{k=1}^r c_k(t)\overline{z}^k\) where \(n \gt r\) and \(a_j\)'s, \(c_k\)'s are complex valued. We prove the existence of one up to two periodic solutions.

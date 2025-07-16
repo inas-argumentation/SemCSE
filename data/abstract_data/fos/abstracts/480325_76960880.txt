@@ -1,0 +1,2 @@
+Methodologic provisions for developing models of individual prognoses of pregnancy outcome
+The method of individual prognosis of spontaneous abortion in clinically indefinite conditions is considered. The diagnostic algorithm is based on the use of the optimal dendrite method to identify classes at the first stage and to classify a female as a healthy subject or a patient further (at the second stage). The algorithm is realized as a programme module operating in the FORTRAN language on a dialogue for a personal computer.

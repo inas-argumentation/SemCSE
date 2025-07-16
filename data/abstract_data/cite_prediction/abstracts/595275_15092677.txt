@@ -1,0 +1,2 @@
+Towards Dataset Dynamics: Change Frequency of Linked Open Data Sources
+Datasets in the LOD cloud are far from being static in their nature and how they are exposed. As resources are added and new links are set, applications consuming the data should be able to deal with these changes. In this paper we investigate how LOD datasets change and what sensible measures there are to accommodate dataset dynamics. We compare our findings with traditional, document-centric studies concerning the “freshness” of the document collections and propose metrics for LOD datasets.

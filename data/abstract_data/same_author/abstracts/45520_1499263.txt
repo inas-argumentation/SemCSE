@@ -1,0 +1,2 @@
+Extreme elevation on a 2-manifold
+Given a smoothly embedded 2-manifold in ℝ3, we define the elevation of a point as the height difference to a canonically defined second point on the same manifold. Our definition is invariant under rigid motions and can be used to define features such as lines of discontinuous or continuous but non-smooth elevation. We give an algorithm for finding points of locally maximum elevation, which we suggest mark cavities and protrusions and are useful in matching shapes as for example in protein docking.

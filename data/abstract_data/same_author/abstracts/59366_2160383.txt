@@ -1,0 +1,2 @@
+Using a Lagrangian heuristic for a combinatorial auction problem
+In this paper, a combinatorial auction problem is modeled as a NP-complete set packing problem and a Lagrangian relaxation based heuristic algorithm is proposed. Extensive experiments are conducted using benchmark CATS test sets and more complex test sets. The algorithm provides optimal solutions for most test sets and is always 1%from the optimal solutions for all CATS test sets. Comparisons with CPLEX 8.0 are also provided, which show that the algorithm provides good solutions

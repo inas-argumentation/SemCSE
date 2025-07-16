@@ -1,0 +1,15 @@
+Selection of a cardiac surgery provider in the managed care era.
+OBJECTIVE
+Many health planners promote the use of competition to contain cost and improve quality of care. Using a standard econometric model, we examined the evidence for "value-based" cardiac surgery provider selection in eastern Massachusetts, where there is significant competition and managed care penetration.
+
+
+METHODS
+McFadden's conditional logit model was used to study cardiac surgery provider selection among 6952 patients and eight metropolitan Boston hospitals in 1997. Hospital predictor variables included beds, cardiac surgery case volume, objective clinical and financial performance, reputation (percent out-of-state referrals, cardiac residency program), distance from patient's home to hospital, and historical referral patterns. Subgroup analyses were performed for each major payer category.
+
+
+RESULTS
+Distance from patient's home to hospital (odds ratio 0.90; P =.000) and the historical referral pattern from each patient's hometown (z = 45.305; P =.000) were important predictors in all models. A cardiac surgery residency enhanced the probability of selection (odds ratio 5.25; P =.000), as did percent out-of-state referrals (odds ratio 1.10; P =.001). Higher mortality rates were associated with decreased probability of selection (odds ratio 0.51; P =.027), but higher length of stay was paradoxically associated with greater probability (odds ratio 1.72; P =.000). Total hospital costs were irrelevant (odds ratio 1.00; P =.179). When analyzed by payer subgroup, Medicare patients appeared to select hospitals with both low mortality (odds ratio 0.43; P =.176) and short length of stay (odds ratio 0.76; P =.213), although the results did not achieve statistical significance. The commercial managed care subgroup exhibited the least "value-based" behavior. The odds ratio for length of stay was the highest of any group (odds ratio = 2.589; P =.000) and there was a subset of hospitals for which higher mortality was actually associated with greater likelihood of selection.
+
+
+CONCLUSIONS
+The observable determinants of cardiac surgery provider selection are related to hospital reputation, historical referral patterns, and patient proximity, not objective clinical or cost performance. The paradoxic behavior of commercial managed care probably results from unobserved choice factors that are not primarily based on objective provider performance.

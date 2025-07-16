@@ -1,0 +1,2 @@
+Beyond Traditional DTN Routing: Social Networks for Opportunistic Communication
+This article examines the evolution of routing protocols for intermittently connected ad hoc networks and discusses the trend toward socialbased routing protocols. A survey of current routing solutions is presented, where routing protocols for opportunistic networks are classified based on the network graph employed. The need to capture performance trade-offs from a multi-objective perspective is highlighted.

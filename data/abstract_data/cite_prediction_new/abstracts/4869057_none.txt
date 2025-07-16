@@ -1,0 +1,2 @@
+Radiation-hardened phase-locked loop fabricated in 200 nm SOI-CMOS
+We designed a phase-locked loop (PLL) operating at 200 MHz using 0.2 µm fully depleted silicon-on-insulator (SOI) technology. By SPICE simulation with an appropriate single-event transient (SET) model, we achieved a radiation-hardened PLL that does not cause a SET upset upon ion irradiation with a linear energy transfer (LET) of 50 MeV-cm2/mg at an areal penalty of 75%.

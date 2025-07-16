@@ -1,0 +1,2 @@
+Low-profile dual-band circularly polarized microstrip antenna for GNSS applications
+This paper presents a design of a micro-strip circularly polarized antenna intended for the Global Navigation Satellite Systems (GNSS). The presented device is composed of a micro-strip slotted patch antenna printed on a Rogers RO3006 substrate, a foam layer of 2 mm thick and a wideband commercial 3-dB SMT coupler. The combined fullwave antenna results with the measured S-Parameters of the coupler shows very good performances in terms of antenna matching and axial ratio on larger bandwidths.

@@ -1,0 +1,2 @@
+A Randomized Parallel Backtracking Algorithm
+A technique for parallel backtracking using randomization is proposed. Its main advantage is that good speedups are possible with little or no interprocessor communication. The speedup obtainable is problem-dependent. In those cases where the problem size becomes very large, randomization is extremely successful achieving good speedups. The technique also ensures high reliability, flexibility, and fault tolerance. >

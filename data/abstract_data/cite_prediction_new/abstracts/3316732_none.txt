@@ -1,0 +1,2 @@
+Generative Programming Approach for Building Pervasive Computing Applications
+In this paper we present a generative programming approach for building context-aware applications. In this approach, a context-aware application is programmed using high-level specification constructs provided in our programming framework. The runtime environment of the application is generated from this specification by a middleware. We demonstrate the utility of this approach by presenting an example case-study.

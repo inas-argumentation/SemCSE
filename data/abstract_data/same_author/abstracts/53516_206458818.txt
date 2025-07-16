@@ -1,0 +1,2 @@
+Delay defect characteristics and testing strategies
+Several factors influence production delay testing and corresponding DFT techniques: defect sources, design styles. ability to monitor process characteristics, test generation time. available test time, and tester memory. We present an overview of delay defect characteristics and the impact of delay defects on IC quality. We also discuss practical delay-testing strategy in terms of test pattern generation, test application speed, DFT, and test cost.

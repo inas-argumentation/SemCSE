@@ -1,0 +1,2 @@
+Non parametric Sampling for Constrained Texture Synthesis
+A simple new method for synthesizing texture from a sample image is introduced. Assuming a Markov Random Field model of texture, a probability distribution for a pixel based on its spatial neighborhood is computed using non parametric sampling. The texture synthesis process is greedy but seems to produce good results. An application to texturing non developable objects is also discussed.

@@ -1,0 +1,2 @@
+A high-level functional query language for a small relational system
+In this paper we describe the design and implementation of a high-level query language FQUERY which applies the concepts of the functional data model to the retrieval of information from relational databases created on a small PDP-11 system by the RISS relational system described in [Me]. We describe the query language and the functional data model and discuss the benefits they provide for the casual user in expressing queries in a conceptually natural manner.

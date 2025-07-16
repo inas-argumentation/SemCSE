@@ -1,0 +1,2 @@
+Abstraction and BDDs Complement SAT-Based BMC in DiVer
+Bounded Model Checking (BMC) based on Boolean Satisfiability (SAT) procedures has recently gained popularity for finding bugs in large designs. However, due to its incompleteness, there is a need to perform deeper searches for counterexamples, or a proof by induction where possible. The DiVer verification platform uses abstraction and BDDs to complement BMC in the quest for completeness. We demonstrate the effectiveness of our approach in practice on industrial designs.

@@ -1,0 +1,2 @@
+Automatic detection of arguments in legal texts
+This paper provides the results of experiments on the detection of arguments in texts among which are legal texts. The detection is seen as a classification problem. A classifier is trained on a set of annotated arguments. Different feature sets are evaluated involving lexical, syntactic, semantic and discourse properties of the texts. The experiments are a first step in the context of automatically classifying arguments in legal texts according to their rhetorical type and their visualization for convenient access and search.

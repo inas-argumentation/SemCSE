@@ -1,0 +1,2 @@
+Confluence and Termination of Simply Typed Term Rewriting Systems
+We propose simply typed term rewriting systems (STTRSs), which extend first-order rewriting by allowing higher-order functions. We study a simple proof method for confluence which employs a characterization of the diamond property of a parallel reduction. By an application of the proof method, we obtain a new confluence result for orthogonal conditional STTRSs. We also discuss a semantic method for proving termination of STTRSs based on monotone interpretation.

@@ -1,0 +1,2 @@
+Multipurpose image watermarking in DCT domain using subsampling
+In this paper, a DCT-based multipurpose image watermarking algorithm is proposed. Through adopting dither modulation in subimages gained by subsampling, two independent robust watermarks can be embedded in the original image. Experimental results demonstrate the effectiveness of the proposed algorithm.

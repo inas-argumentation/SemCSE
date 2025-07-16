@@ -1,0 +1,2 @@
+Modeling and Testing Legacy Data Consistency Requirements
+An increasing number of data sources are available on the Internet, many of which offer semantically overlapping data, but based on different schemas, or models. While it is often of interest to integrate such data sources, the lack of consistency among them makes this integration difficult.

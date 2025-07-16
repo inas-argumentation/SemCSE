@@ -1,0 +1,2 @@
+Design of two-dimensional nonrecursive filters based on frequency transformations
+Presents a simple and efficient method to design 2-D zero-phase nonrecursive filters based on frequency transformations. The method involves the formulation of an error along the desired contour in a quadratic form. It is shown that the method results in scaling-free transformation coefficients.

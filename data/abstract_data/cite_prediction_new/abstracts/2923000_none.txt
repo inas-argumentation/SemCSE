@@ -1,0 +1,2 @@
+Random Multiple Access Algorithms Using a Control Mini-Slot
+The multiple access problem as characterized by infinite user population and a slotted-time channel is examined, and an algorithm that utilizes a control mini-slot is proposed. The stability region of the proposed algorithm is determined and compared to the random access algorithm with the highest known throughput. A break-even point is also given.

@@ -1,0 +1,23 @@
+Normative models and healthcare planning: network-based simulations within a geographic information system environment.
+OBJECTIVES
+Network analysis to integrate patient, transportation and hospital characteristics for healthcare planning in order to assess the role of geographic information systems (GIS). A normative model of base-level responses of patient flows to hospitals, based on estimated travel times, was developed for this purpose.
+
+
+DATA SOURCES/STUDY SETTING
+A GIS database developed to include patient discharge data, locations of hospitals, US TIGER/Line files of the transportation network, enhanced address-range data, and U.S. Census variables. The study area included a 16-county region centered on the city of Charlotte and Mecklenburg County, North Carolina, and contained 25 hospitals serving nearly 2 million people over a geographic area of nearly 9,000 square miles.
+
+
+STUDY DESIGN
+Normative models as a tool for healthcare planning were derived through a spatial Network analysis and a distance optimization model that was implemented within a GIS. Scenarios were developed and tested that involved patient discharge data geocoded to the five-digit zip code, hospital locations geocoded to their individual addresses, and a transportation network of varying road types and corresponding estimated travel speeds to examine both patient discharge levels and a doubling of discharge levels associated with total discharges and DRG 391 (Normal Newborns). The Network analysis used location/allocation modeling to optimize for travel time and integrated measures of supply, demand, and impedance.
+
+
+DATA COLLECTION/EXTRACTION METHODS
+Patient discharge data from the North Carolina Medical Database Commission, address-ranges from the North Carolina Institute for Transportation Research and Education, and U.S. Census TIGER/Line files were entered-into the ARC/INFO GIS software system for analysis. A relational database structure was used to organize the information and to link spatial features to their attributes.
+
+
+PRINCIPAL FINDINGS
+Advances in healthcare planning can be achieved by examining baseline responses of patient flows to distance optimization simulations and healthcare scenarios conducted within a spatial context that uses a normative model to integrate characteristics of population, patients, hospitals, and transportation networks. Model runs for the defined scenarios indicated that a doubling of the 1991 patient discharge levels resulted in an areal constriction of the service areas to those zip codes immediately adjacent to the hospitals, thereby leaving substantial areas unassigned to hospitals during the allocation process, but that doubling the demand for obstetrics care (DRG 391) resulted in little change in the pattern of accessibility to care as indicated by the size, orientation, and pattern of the service areas.
+
+
+CONCLUSIONS
+The GIS-Network system supported "what if" simulations, portrayed service areas within a spatial context, integrated disparate data in the execution of the location/allocation model, and used estimated travel time along a transportation network instead of Euclidean distance for calculating accessibility. The results of the simulations suggest that the GIS-Network system is an effective approach for exploring a variety of healthcare scenarios where changes in the supply, demand, and impedance variables can be examined within a spatial context and where variations in system trajectories can be simulated and observed.

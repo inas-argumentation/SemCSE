@@ -1,0 +1,2 @@
+A Pattern Matching Approach to Streaming Slot Filling
+In this paper, we described our system for Knowledge Base Acceleration (KBA) Track at TREC 2013. The KBA Track has two tasks, CCR and SSF. Our approach consists of two major steps: selecting documents and extracting slot values. Selecting documents is to look for and save the documents that mention the entities of interest. The second step involves with generating seed patterns to extract the slot values and computing confidence score.

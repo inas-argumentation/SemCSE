@@ -1,0 +1,2 @@
+Developing an innovation smart meter based on CS5490
+This paper proposes developing an innovation smart meter based on CS5490. It uses to measure the energy data and send to PIC 32-bit microcontrollers via RS232 standard. Then it records energy data into SD card that consumer can monitor their energy usage and cost forecasting. The experiment result shows that energy measurement circuit can record the energy usage into SD card. It can be used for NILM system.

@@ -1,0 +1,2 @@
+Creation of the International Library of Neutron Cross-Section Evaluations for the Bulk of Fission Products
+The International Fission Product Library (IFPL, NLIB=21) contains neutron cross-section data for 219 fission products. The library went successfully through basic testing with checking codes, followed by processing with NJOY-99.161 and neutronics test runs with MCNP5. Validation was limited to a few selected materials.

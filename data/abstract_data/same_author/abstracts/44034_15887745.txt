@@ -1,0 +1,2 @@
+The Rotation Graphs of Perfect Matchings of Plane Bipartite Graphs
+In the present paper, the minimal proper alternating cycle (MPAC) rotation graph R(G) of perfect matchings of a plane bipartite graph G is defined. We show that an MPAC rotation graph R(G) of G is a directed rooted tree, and thus extend such a result for generalized polyhex graphs to arbitrary plane bipartite graphs. As an immediate result, we describe a one-to-one correspondence between MPAC systems and perfect matchings in G.

@@ -1,0 +1,2 @@
+Anchor text mining for translation of Web queries
+The paper presents an approach to automatically extracting translations of Web query terms through mining of Web anchor texts and link structures. One of the existing difficulties in cross-language information retrieval (CLIR) and Web search is the lack of the appropriate translations of new terminology and proper names. Such a difficult problem can be effectively alleviated by our proposed approach, and the resource of anchor texts in the Web is proven a valuable corpus for this kind of term translation.

@@ -1,0 +1,2 @@
+Statistical tests of fit in estimation problems for structured population modeling
+We present a statistical model of the type of data used in many applications of least squares estimation techniques to structured population problems. By viewing the data as a random sample from the size density, we may apply various statistical goodness of fit tests assess dynamic models for the data. We examine in particular classical x tests and a Cramer-von Mises test, based on empirical probability distributions.

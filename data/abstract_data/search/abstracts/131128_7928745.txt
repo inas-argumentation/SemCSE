@@ -1,0 +1,2 @@
+Design of a feed network for cosecant squared beam based on suspended stripline
+For the cosecant square beam pattern application of an 8 element antenna array, we designed a 8 way non equal power divider based on Wilkinson scheme. An improved suspended stripline(SSL) structure is proposed and analyzed here, by using which as planar transmission line, the designed power divider has good performance in the insertion loss, and the excitations for output ports agree well with the simulated results.

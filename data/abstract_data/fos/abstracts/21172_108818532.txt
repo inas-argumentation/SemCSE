@@ -1,0 +1,2 @@
+Semiconductor device reliability vs process quality
+This paper describes a method for defining a quantitative model relating “quality” expressed in terms of parameter distributions and “reliability” expressed in terms of failure rates. This model makes it possible to generate a more realistic failure rate estimate for semiconductor devices. With this model, failure rate predictions based on conventional life test data and on process parameter distributions, can be defined.

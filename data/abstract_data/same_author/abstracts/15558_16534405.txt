@@ -1,0 +1,2 @@
+Solution of the Skyrme—Hartree—Fock equations in the Cartesian deformed harmonic oscillator basis II. The program HFODD
+We describe a method of solving the nuclear Skyrme-Hartree-Fock problem by using a deformed Cartesian harmonic oscillator basis. The complete list of expressions required to calculate local densities, total energy, and self-consistent fields is presented, and an implementation of the self-consistent symmetries is discussed. Formulas to calculate matrix elements in the Cartesian harmonic oscillator basis are derived for the nuclear and Coulomb interactions.

@@ -1,0 +1,8 @@
+Finding Patient Zero: Learning Contagion Source with Graph Neural Networks
+Locating the source of an epidemic, or patient zero (P0), can provide critical insights into  the infection's transmission course and allow efficient resource allocation. 
+Existing methods use graph-theoretic centrality measures and expensive message-passing algorithms, requiring knowledge of the underlying dynamics and its parameters.
+In this paper, we revisit this problem using graph neural networks (GNNs) to learn P0. 
+We observe that GNNs can identify P0 close to the theoretical bound on accuracy, without explicit input of dynamics or its parameters.
+In addition, GNN is over 100 times faster than classic methods for inference on arbitrary graph topologies.
+Our theoretical bound also shows that the epidemic is like a ticking clock, emphasizing the importance of early contact-tracing. 
+We find a maximum time after which accurate recovery of the source becomes impossible, regardless of the algorithm used.

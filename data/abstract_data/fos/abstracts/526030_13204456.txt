@@ -1,0 +1,11 @@
+SU-F-T-47: MRI T2 Exclusive Based Planning Using the Endocavitary/interstitial Gynecological Benidorm Applicator: A Proposed TPS Library and Preplan Efficient Methodology.
+PURPOSE
+ABS and GEC-ESTRO have recommended MRI T2 for image guided brachytherapy. Recently, a new applicator (Benidorm Template, TB) has been developed in our Department (Rodriguez et al 2015). TB is fully MRI compatible because the Titanium needles and it allows the use of intrauterine tandem. Currently, TPS applicators library are not currently available for non-rigid applicators in case of interstitial component as the TB.The purpose of this work is to present the development of a library for the TB, together with its use on a pre-planning technique. Both new goals allow a very efficient and exclusive T2 MRI based planning clinical TB implementation.
+
+
+METHODS
+The developed library has been implemented in Oncentra Brachytherapy TPS, version 4.3.0 (Elekta) and now is being implemented on Sagiplan v 2.0 TPS (Eckert&Ziegler BEBIG). To model the TB, free and open software named FreeCAD and MeshLab have been used. The reconstruction process is based on three inserted A-vitamin pellets together with the data provided by the free length. The implemented preplanning procedure is as follow: 1) A MRI T2 acquisition is performed with the template in place just with the vaginal cylinder (no uterine tube nor needles). 2) The CTV is drawn and the required needles are selected using a developed Java based application and 3) A post-implant MRI T2 is performed.
+
+
+RESULTS
+This library procedure has been successfully applied by now in 25 patients. In this work the use of the developed library will be illustrated with clinical examples. The preplanning procedure has been applied by now in 6 patients, having significant advantages: needle depth estimation, needle positions and number are optimized a priori, time saving, etc CONCLUSION: TB library and pre-plan techniques are feasible and very efficient and their use will be illustrated in this work.

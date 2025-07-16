@@ -1,0 +1,4 @@
+Cognitive Technical Systems - What Is the Role of Artificial Intelligence?
+The newly established cluster of excellence CoTeSys investigates the realization of cognitive capabilities such as perception, learning, reasoning, planning, and execution for technical systems including humanoid robots, flexible manufacturing systems, and autonomous vehicles. In this paper we describe cognitive technical systems using a sensor-equipped kitchen with a robotic assistant as an example. We will particularly consider the role of Artificial Intelligence in the research enterprise. 
+ 
+Key research foci of Artificial Intelligence research in CoTeSys include (i¾?) symbolic representations grounded in perception and action, (i¾?) first-order probabilistic representations of actions, objects, and situations, (i¾?) reasoning about objects and situations in the context of everyday manipulation tasks, and (i¾?) the representation and revision of robot plans for everyday activity.

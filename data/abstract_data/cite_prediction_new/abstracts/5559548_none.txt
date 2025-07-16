@@ -1,0 +1,2 @@
+Modular Analysis of Sequential Solution Methods for Almost Block Diagonal Systems of Equations
+Almost block diagonal linear systems of equations can be exemplified by two modules. This makes it possible to construct all sequential forms of band and/or block elimination methods. It also allows easy assessment of the methods on the basis of their operation counts, storage needs, and admissibility of partial pivoting. The outcome of the analysis and implementation is to discover new methods that outperform a well-known method, a modification of which is, therefore, advocated.

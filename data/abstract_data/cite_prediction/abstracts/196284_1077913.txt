@@ -1,0 +1,2 @@
+Privee: An Architecture for Automatically Analyzing Web Privacy Policies
+To ensure the reliability of annotations we calculated the inter-annotator agreement by Krippendorff’s alpha, which indicated for all categories fair or good agreement (except for Ad Disclosure). It is striking that performance (F-1 score) correlates to agreement (Krippendorff’s alpha). Privee: An Architecture for Automatically Analyzing Web Privacy Policies Sebastian Zimmeck and Steven M. Bellovin

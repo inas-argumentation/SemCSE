@@ -1,0 +1,2 @@
+A whole correlation structure of asymptotically self-similar traffic in communication networks
+Recent experimental research has revealed that the nature of WWW traffic is self-similarity (M.E. Crovella and A. Bestavros, 1997). That is, the behavior of WWW traffic is well modeled by second-order self-similar processes with long-range dependence. A closed form of autocorrelation functions about asymptotically self-similar processes is presented. The verification shows that this form is best for real traffic data on an Ethernet.

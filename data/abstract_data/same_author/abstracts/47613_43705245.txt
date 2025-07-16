@@ -1,0 +1,2 @@
+Welsh-Powell Opposition Graphs
+Abstract We characterize a class of graphs for which the Welsh-Powell colouring heuristics results in an optimum colouring. We outline a polynomial-time recognition algorithm together with linear-time optimization algorithms for this class of graphs.

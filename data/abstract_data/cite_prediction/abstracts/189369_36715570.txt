@@ -1,0 +1,2 @@
+A very low-profile UWB phased array antenna design for supporting wide angle beam steering
+This paper presents a design example of a low-profile UWB dual-polarization array antenna design based on tightly-coupled dipole elements. This supports array can support beam steering for more than 60° beam steering in both E- and H-plane with more than 2.5:1 impedance bandwidth, from 0.55 fc to 1.45fc where fc is the center frequency. An 18×18 array prototype was fabricated and measured to validate the performance of the proposed design.

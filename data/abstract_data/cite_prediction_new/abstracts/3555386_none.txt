@@ -1,0 +1,15 @@
+A study on beams passing through hip prosthesis for pelvic radiation treatment.
+PURPOSE
+To study the dose distributions at the interface due to the presence of a metal implant; to show the dose distributions in combined fields in the presence of hip prostheses; and to demonstrate the capabilities and limitations of a conventional system.
+
+
+METHODS AND MATERIALS
+Perturbations in the dose distribution caused by a hip prosthesis can result in unacceptable dose inhomogeneities within the target volume and in regions where tissues interface with implant. The Monte Carlo technique and a conventional treatment planning system are used to calculate the dose distributions.
+
+
+RESULTS
+Dose increases of 15% in tissue are seen at the interface between metal implant and tissue. Dose reductions of 5-25% or 10-45% are observed in the shadow of the hip prosthesis made of 0.5-3-cm-thick titanium or steel alloy respectively. We compared predicted dose distribution between the Monte Carlo simulation and a commercial treatment planning system (CADPLAN). We found that CADPLAN underestimated the attenuation of hip prostheses. This has led to overestimation of the target dose by 14% for a typical four-field box technique.
+
+
+CONCLUSIONS
+An acceptable dose distribution can be achieved with a proper lateral beam weighting and compensation using an eight-field technique. The beam compensation may be applied to achieve an adequate target dose.

@@ -1,0 +1,2 @@
+End-to-End Trust Starts with Recognition
+Pervasive computing requires some level of trust to be established between entities. In this paper we argue for an entity recognition based approach to building this trust which differs from starting from more traditional authentication methods. We also argue for the concept of a ”pluggable” recognition module which allows different recognition schemes to be used in different circumstances. Finally, we propose that the trust in the underlying infrastructure has to be taken into account when considering end-to-end trust.

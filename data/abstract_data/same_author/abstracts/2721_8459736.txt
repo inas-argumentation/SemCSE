@@ -1,0 +1,11 @@
+Exploiting the kernel trick to correlate fragment ions for peptide identification via tandem mass spectrometry
+MOTIVATION
+The correlation among fragment ions in a tandem mass spectrum is crucial in reducing stochastic mismatches for peptide identification by database searching. Until now, an efficient scoring algorithm that considers the correlative information in a tunable and comprehensive manner has been lacking.
+
+
+RESULTS
+This paper provides a promising approach to utilizing the correlative information for improving the peptide identification accuracy. The kernel trick, rooted in the statistical learning theory, is exploited to address this issue with low computational effort. The common scoring method, the tandem mass spectral dot product (SDP), is extended to the kernel SDP (KSDP). Experiments on a dataset reported previously demonstrate the effectiveness of the KSDP. The implementation on consecutive fragments shows a decrease of 10% in the error rate compared with the SDP. Our software tool, pFind, using a simple scoring function based on the KSDP, outperforms two SDP-based software tools, SEQUEST and Sonar MS/MS, in terms of identification accuracy.
+
+
+SUPPLEMENTARY INFORMATION
+http://www.jdl.ac.cn/user/yfu/pfind/index.html

@@ -1,0 +1,2 @@
+An Improved Algorithm for the Planar 3-Cut Problem
+A 3-cut of a connected graph G is a subset of edges which, when deleted, separates G into three connected components. In this paper we present an O ( n log n ) algorithm for finding a minimum 3-cut in planar graphs. Our algorithm improves the best previously known algorithm for the problem by an O( n log n) factor.

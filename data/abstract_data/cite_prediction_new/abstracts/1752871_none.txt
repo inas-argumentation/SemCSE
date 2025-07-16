@@ -1,0 +1,2 @@
+Motion of three-dimensional elastic films by anisotropic surface diffusion with curvature regularization
+Short time existence for a surface diffusion evolution equation with curvature regularization is proved in the context of epitaxially strained three-dimensional films. This is achieved by implementing a minimizing movement scheme, which is hinged on the $H^{-1}$-gradient flow structure underpinning the evolution law. Long-time behavior and Liapunov stability in the case of initial data close to a flat configuration are also addressed.

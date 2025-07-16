@@ -1,0 +1,2 @@
+The Influence of Key Length on the Area-Time Complexity of Sorting
+Recently discovered lower bounds for the area-time complexity of VLSI sorting of n k -bit keys exhibit a dependence upon the key length. On this basis, keys can be classified into short (k ≤logn), long (k ≥logn) and intermediate-length. Intermediate-length keys have been heretofore the object of investigation; this paper investigates the other two cases and confirms the inherent validity of the bounds for short and long keys by exhibiting optimal or near-optimal VLSI networks.

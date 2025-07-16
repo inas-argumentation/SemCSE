@@ -1,0 +1,2 @@
+Decision Problems for Patterns
+We settle an open problem, the inclusion problem for pattern languages. This is the first known case where inclusion is undecidable for generative devices having a trivially decidable equivalence problem. The study of patterns goes back to the seminal work of Thue and is important also, for instance, in recent work concerning inductive inference and learning. Our results concern both erasing and nonerasing patterns.

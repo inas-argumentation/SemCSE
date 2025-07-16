@@ -1,0 +1,2 @@
+A resolution reduction method for multi-resolution terrain maps
+Raster images such as raster terrain maps are commonly used in computer graphics. For rapid processing such as rendering and rapid feature extraction, rapid resolution reduction methods are required that keep the quality of huge images. This study deals with the resolution reduction methods.

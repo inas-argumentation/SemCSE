@@ -1,0 +1,2 @@
+Study of Sorting and Generating All-Permutations
+Investigates the relation between sorting and generating all-permutations by introducing two concepts, sorting computing tree and permutation enumerating tree, derives an algorithm for generating all-permutations from insertion sorting and derives a sorting algorithm from an all-permutation generation method.

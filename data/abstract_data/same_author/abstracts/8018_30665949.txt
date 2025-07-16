@@ -1,0 +1,2 @@
+A solid state modulator for driving SLAC 5045 klystrons
+A test is ongoing at the Stanford Linear Accelerator Center (SLAC) where a solid state induction modulator is driving a SLAC 5045 klystron. The modulator generates 22 kV, 6 kA pulses that are stepped up by a 15:1 transformer that is a part of the klystron's pulse tank. The modulator's pulse duration is adjustable up to the volt-second limit of its cores, and it is capable of a pulse repetition frequency up to 120 Hz. The modulator's design, construction, and experimental results are the focus of this paper.

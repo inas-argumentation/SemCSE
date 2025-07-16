@@ -1,0 +1,2 @@
+Another look at non-standard discrete log and Diffie-Hellman problems
+We examine several versions of the one-more-discrete-log and one-more-Diffie-Hellman problems. In attempting to evaluate their intractability, we find conflicting evidence of the relative hardness of the different problems. Much of this evidence comes from natural families of groups associated with curves of genus 2, 3, 4, 5, and 6. This leads to questions about how to interpret reductionist security arguments that rely on these non-standard problems.

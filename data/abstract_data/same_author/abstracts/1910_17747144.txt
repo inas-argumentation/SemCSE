@@ -1,0 +1,2 @@
+Distributed access control in CROWN groups
+Security in collaborative groups is an active research topic and has been recognized by many organizations in the past few years. In this paper, we propose a fine-grained and attribute-based access control framework for our key project, CROWN grid. To avoid single point of failure and enhance scalability of the system, we employ a distributed delegation authorization mechanism. We successfully implement our proposed access control in CROWN grid, and evaluate this approach by comprehensive experiments.

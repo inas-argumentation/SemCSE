@@ -1,0 +1,3 @@
+The fundamental theorem of homological projective duality via variation of GIT stability
+We reprove Kuznetsov's "fundamental theorem of homological projective duality" using LG models and variation of GIT stability. This extends the validity of the theorem from smooth varieties to nice subcategories of smooth quotient stacks, and moreover shows that the line bundles polarising the varieties in HP duality do not have to be globally generated. 
+The proof combines ideas from Kuznetsov's original proof with ideas from work of Ballard-Deliu-Favero-Isik-Katzarkov.

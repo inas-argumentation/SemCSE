@@ -1,0 +1,2 @@
+Python for Scientific Computing
+Python is an excellent "steering" language for scientific codes written in other languages. However, with additional basic tools, Python transforms into a high level language suited for scientific and engineering code that's often fast enough to be immediately useful but also flexible enough to be sped up with additional extensions.

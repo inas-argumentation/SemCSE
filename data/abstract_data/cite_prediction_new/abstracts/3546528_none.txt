@@ -1,0 +1,2 @@
+A Practical Method for Estimation of Point Light-Sources
+We introduce a general model for point light-sources and show how the parameters of a source at finite distance can be estimated by shading on an object with known geometry and Lambertian reflectance. The parameters we estimate include not only the direction but also the location of the source. Furthermore, we argue that the system introduced here can be used in arbitrarily complex background illumination, provided one can switch on and off the light-source that is to be estimated.

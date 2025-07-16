@@ -1,0 +1,2 @@
+Independent Sets in Circular-Arc Graphs
+This paper presents a linear time algorithm for the independent set problem on circular-arc graphs. previous algorithms for this problem have assumed that the input is a set of circular-arcs and solve the problem in O(n) time. However, the fastest known algorithm for constructing the circular-are representation from a set of adjacency lists takes O(n2) time. We show that we can solve the problem in O(n + m) time, when we are given the circular-arc graph as a set of adjacency lists.

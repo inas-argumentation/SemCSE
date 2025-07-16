@@ -1,0 +1,2 @@
+ARTICLES: Main optics equations for waveguides with a curved surface
+An analysis is made of planar waveguides with a continuously curved surface, of the type used to form geodesic lenses in integrated optics. Two types of normal electromagnetic waves supported by these waveguides are considered. The Maxwell equations are used to derive a two-dimensional scalar wave equation describing the propagation, interference, and diffraction of these waves by a curved waveguide surface. The corresponding eikonal equation is formulated in the geometric-optics limit.

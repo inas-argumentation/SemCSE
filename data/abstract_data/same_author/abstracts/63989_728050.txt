@@ -1,0 +1,2 @@
+Cryptanalysis of Bluetooth Keystream Generator Two-Level E0
+In this paper, we carefully study both distinguishing and key-recovery attacks against Bluetooth two-level E0 given many short frames. Based on a flaw in the resynchronization of Bluetooth E0, we are able to fully exploit the largest bias of the finite state machine inside E0 for our attacks. Our key-recovery attack works with 240 simple operations given the first 24 bits of 235 frames. Compared with all existing attacks against two-level E0, this is the best one so far.

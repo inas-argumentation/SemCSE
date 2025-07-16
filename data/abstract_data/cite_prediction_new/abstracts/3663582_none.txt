@@ -1,0 +1,2 @@
+A 0.5mW high dynamic range fast CMOS charge preamplifier
+An ultra low-power fast charge preamplifier implemented in 0.35µm CMOS technology for ion detector readout for space operation is presented. For a 10pF sensor capacitance, the preamplifier achieves a peaking time of 4.5ns and pulse-pair resolution (PPR) of 15ns for an input charge between 50fC and 5pC. It operates in a temperature range between −40°C and 85°C.

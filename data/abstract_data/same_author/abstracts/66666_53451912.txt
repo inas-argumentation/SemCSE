@@ -1,0 +1,2 @@
+Asymptotic behaviour of minimal graphs over exterior domains
+Abstract It is proved that if u is a C2(ℝn ~ Ω) solution of the minimal surface equation, if Ω is bounded, and if n ≦ 7, then Du(x) has a limit (in ℝn) as | x | → ∞ . This extends a result of L. Bers for the case n = 2. The result here is actually obtained as a special application of a more general result valid for all n.

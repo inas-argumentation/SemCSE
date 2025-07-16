@@ -1,0 +1,2 @@
+Efficient piecewise-linear function approximation using the uniform metric
+We given anO(n logn)-time method for finding a bestk-link piecewise-linear function approximating ann-point planar point set using the well-known uniform metric to measure the error, ε≥0, of the approximation. Our methods is based upon new characterizations of such functions, which we exploit to design an efficient algorithm using a plane sweep in “ε space” followed by several applications of the parametric-searching technique. The previous best running time for this problems wasO(n2).

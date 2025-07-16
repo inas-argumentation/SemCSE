@@ -1,0 +1,2 @@
+On the Decision Table with Maximal Number of Reducts
+Abstract Searching for reducts is a basic problem for many rough set methods like rule induction, classification, etc., Many of them can not be realized in exact way because of existing possibly exponential number of (relative) reducts in decision tables. In this paper we investigate properties of the most malicious decision tables, i.e., tables with maximal number of reducts. We show that in such systems, the number of objects must be also exponential. The presented method is based on Boolean reasoning approach.

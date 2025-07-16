@@ -1,0 +1,2 @@
+Deterministic parallel list ranking
+In this paper we describe a simple parallel algorithm for list ranking. The algorithm is deterministic and runs inO(logn) time on an EREW PRAM withn/logn processors. The algorithm matches the performance of the Cole-Vishkin [CV3] algorithm but is simple and has reasonable constant factors.

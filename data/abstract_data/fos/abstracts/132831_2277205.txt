@@ -1,0 +1,6 @@
+On the (Im)Possibility of Key Dependent Encryption
+We study the possibility of constructing encryption schemes secure under messages that are chosen depending on the key k of the encryption scheme itself. We give the following separation results that hold both in the private and in the public key settings: 
+ 
+ 
+Let $\mathcal{H}$ be the family of poly(n )-wise independent hash-functions. There exists no fully-black-box reduction from an encryption scheme secure against key-dependent messages to one-way permutations (and also to families of trapdoor permutations) if the adversary can obtain encryptions of h (k ) for $h \in \mathcal{H}$. 
+There exists no reduction from an encryption scheme secure against key-dependent messages to, essentially, any cryptographic assumption, if the adversary can obtain an encryption of g (k ) for an arbitrary g , as long as the reduction's proof of security treats both the adversary and the function g as black boxes.

@@ -1,0 +1,2 @@
+The Generation of Minimal Trees with a Steiner Topology
+An iterative method is described which generates a minimal tree with a Steiner topology in at most n 2 steps, where n is the number of fixed vertices. The SI algorithm is formulated. When n < 4, the SI algorithm converges to a proper tree. Experimental studies indicate that this algorithm generates trees close to optimal Steiner minimal trees.

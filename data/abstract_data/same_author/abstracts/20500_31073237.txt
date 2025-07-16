@@ -1,0 +1,2 @@
+Bayesian methods for cosmological parameter estimation from cosmic microwave background measurements
+We present a strategy for a statistically rigorous Bayesian approach to the problem of determining cosmological parameters from the results of observations of anisotropies in the cosmic microwave background. Our strategy relies on Markov chain Monte Carlo methods, specifically the Metropolis-Hastings algorithm, to perform the necessary high-dimensional integrals. We describe the Metropolis-Hastings algorithm in detail and discuss the results of our test on simulated data.

@@ -1,0 +1,2 @@
+An image registration method for surgical robots based on human-robot cooperation
+This paper introduces an image registration method for surgical robots. Force/torque transducer is fixed onto the robot and the surficial feature of the intraoperative operating space could be obtained with human-robot cooperation way. The ICP registration algorithm is used to calculate the transform matrix between the intraoperative operating space and the preoperative planned space. Experiments were carried out on a 3D printed bone and the performance was evaluated.

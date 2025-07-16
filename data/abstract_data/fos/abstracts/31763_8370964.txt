@@ -1,0 +1,15 @@
+SU-E-J-01: Real-Time Paraspinal Tumor Monitoring From CBCT Projections.
+PURPOSE
+To assess the feasibility of an automatic near real-time monitoring and tracking system for paraspinal SBRT. In particular, to measure the robustness of the 2D-3D rigid registration between segmented volumes and kV fluoroscopic images as a function of the gantry angle in a VMAT system.
+
+
+METHODS
+Segmentation of an orthopedic fixation device fastened to the vertebral column was obtained by thresholding a CBCT volume. A 3D-2D rigid registration with each of the kV fluoroscopic images was performed for all the 655 projection images taken at various gantry angles distributed through 360 degrees of rotation at a rate of 5.5 frames per second. In order to tackle the low contrast and high noise, a localized correlation measure was proposed as the objective function. An exhaustive search was carried on for all translations between - 5 and 5 mm with 0.2 mm steps and each rotation between - 5 and 5 degrees with 0.2 degrees steps.
+
+
+RESULTS
+For the majority of gantry angles, the minimizer is the identity transform as expected. Not surprisingly, translation and rotation for certain gantry angles proved harder to register than others depending if the registration is in-plane or out-of-plane. The mean localization error (+/- 1 SD) for translation in mm was (L/R,S/I,A/P) = (0.04+/-0.4, 0+/- 0mm,0.05+/-0.4) and for rotation in degrees was (pitch, roll, yaw) = (0.16+/- 0.78, - 0.46+/-2.95, 0.17+/-0.78).
+
+
+CONCLUSION
+A feasibility study of a 3D-2D rigid registration for monitoring paraspinal tumor in the presence of hardware was successfully undertaken. The generalization to the more challenging case without hardware will be studied in the future. A model of the patient movement during treatment will then be combined with the developed model for registration uncertainty in function of gantry angle for a full monitoring and tracking system. OCAIRO grant (Ministry of Research and Innovation, Government of Ontario).

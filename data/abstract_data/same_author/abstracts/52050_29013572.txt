@@ -1,0 +1,2 @@
+Semi-supervised Learning in Medical Image Database
+This paper presents a novel graph-based algorithm for solving the semi-supervised learning problem. The graph-based algorithm makes use of the recent advances in stochastic graph sampling technqiue and a modeling of the labeling consistency in semi-supervised learning. The quality of the algorithm is empirically evaluated on a synthetic clustering problem. The semi-supervised clustering is also applied to the problem of symptoms classification in medical image database and shows promising results.

@@ -1,0 +1,2 @@
+Network function placement for NFV chaining in packet/optical data centers
+Intelligent network function (NF) placement can minimize optical/electrical/optical (O/E/O) conversions for NF chaining in packet/optical data centers hosting NF virtualization (NFV). We design an efficient algorithm for NF placement, and show it can achieve near-minimum O/E/O conversions.

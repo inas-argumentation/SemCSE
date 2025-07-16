@@ -1,0 +1,23 @@
+Utility of the distal ureteral diameter on VCUG for grading VUR.
+INTRODUCTION
+For children with VUR the grade of vesicoureteral reflux (VUR) remains one of the most predictive factors relative to outcome. However, the subjective nature of the currently accepted international reflux grading system (IRGS) leads to inter-observer variation. The potential of a direct measurement of the distal ureter on the voiding cystourethrogram (VCUG) normalized to the L1-L3 vertebral body distance (ureteral diameter ratio - UDR) to augment the ability of IRGS to predict the ultimate clinical outcome has previously been reported in a group of 79 children.
+
+
+OBJECTIVE
+The goal of this current review was to expand the previous review and analysis in order to assess the predictive ability of the UDR with respect to earlier clinical outcome and to compare this ability to the grade of VUR while controlling for other variables.
+
+
+STUDY DESIGN
+This retrospective review of the VCUG of 157 children with primary VUR included 124 girls and 33 boys with a mean age of 2.7 years (7 days-13.5 years). In addition to the UDR, other variables that were analyzed included: age, gender, VUR grade, laterality, history of febrile urinary tract infection (UTI) or multiple UTIs prior to diagnosis, and bladder-bowel dysfunction (BBD). Cox regression analysis was utilized and a generalized logit model for 2-year outcome was also fitted to compare the effect of UDR and VUR grade using Wald Chi-squared analysis.
+
+
+RESULTS
+The 2-year outcome after the VCUG was defined as: persistent VUR (47%), spontaneous VUR resolution (15%), or operative intervention (38%). Reasons for operative intervention included: breakthrough UTI (1/3), decreased relative renal function associated with renal scarring (1/3), and failure to resolve, along with parental preference (1/3). Increasing UDR was significantly associated with increased grade and a decreased chance of spontaneous resolution. It was unlikely for a child with Grade 4, 3, or 2 VUR to have spontaneous resolution if their UDR was above 0.25, 0.3, or 0.35, respectively. In addition, higher grades of VUR, older age, and bilateral VUR were significantly associated with failure to spontaneously resolve VUR. As seen in Figure, children with grades 2 and 3 VUR less than 2 years of age had a better chance of spontaneous resolution with a larger UDR than children 2 years of age or older. When adjusting for age, grade, laterality and multiple UTIs as covariates, each unit increase of UDR of 0.1 was significantly associated with either persistent VUR (OR = 1.73, 95% CI = 1.02-2.95, P = 0.043) or the need for surgical intervention (OR = 2.40, 95% CI = 1.39-4.17, P = 0.002) compared to spontaneous resolution. When testing the effect of UDR and grade of reflux in the same model, UDR was noted to have a larger effect on predicting failure to spontaneously resolve VUR than grade (Wald Chi-Squared 13.6; P = 0.001 vs 3.62; P = 0.46, respectively).
+
+
+DISCUSSION
+The UDR is a readily available objective measurement on the VCUG that has demonstrated ability to enhance the International Reflux Grading System. Limitations of the current review include operative intervention in 12% of the children for failure to improve or resolve VUR. This surgical intervention inhibits determination of spontaneous resolution rates. The findings in this study reflect those in a series of children from a single institution and, therefore, may be impacted by clinical practice bias and geographic variations. Subsequent multi-institutional studies could further define the potential of UDR as either an independent or additive predictive factor for grading VUR that will further permit individualized patient management.
+
+
+CONCLUSION
+In this single institution series, UDR was highly correlated with VUR grade; however, UDR proved more predictive of spontaneous resolution, persistence, or operative intervention than grade.

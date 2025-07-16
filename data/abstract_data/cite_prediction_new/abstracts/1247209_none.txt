@@ -1,0 +1,2 @@
+Extended Ziv-Zakai lower bound for vector parameter estimation
+The Bayesian Ziv-Zakai bound on the mean square error (MSE) in estimating a uniformly distributed continuous random variable is extended for arbitrarily distributed continuous random vectors and for distortion functions other than MSE. The extended bound is evaluated for some representative problems in time-delay and bearing estimation. The resulting bounds have simple closed-form expressions, and closely predict the simulated performance of the maximum-likelihood estimator in all regions of operation.

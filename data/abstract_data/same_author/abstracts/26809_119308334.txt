@@ -1,0 +1,2 @@
+Dual Christoffel transformations
+Crum's theorem and its modification a la Krein-Adler are formulated for the discrete quantum mechanics with real shifts, whose eigenfunctions consist of orthogonal polynomials of a discrete variable. The modification produces the associated polynomials with a finite number of degrees deleted. This in turn provides the well known Christoffel transformation for the dual orthogonal polynomials with the corresponding positions deleted.

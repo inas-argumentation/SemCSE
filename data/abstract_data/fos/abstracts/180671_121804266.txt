@@ -1,0 +1,2 @@
+On the Laplacian in the halfspace with a periodic boundary condition
+We study spectral and scattering properties of the Laplacian H(σ)=-Δ in $L_2(\mathbf{R}^{d+1}_+)$ corresponding to the boundary condition $\frac{\partial u}{\partial\nu} + \sigma u = 0$ with a periodic function σ. For non-negative σ we prove that H(σ) is unitarily equivalent to the Neumann Laplacian H(0). In general, there appear additional channels of scattering due to surface states. We prove absolute continuity of the spectrum of H(σ) under mild assumptions on σ.

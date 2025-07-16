@@ -1,0 +1,2 @@
+A nonparametric measure of interclass correlation
+A nonparametric measure of interclass correlation is considered and its unbiased estimator and a test based on the estimator are studied. Hie measure is an analogue of the Kendall's measure of dependence. It is shown that the variance of the estimator is small and the information loss of the test based on the estimator is not serious relative to a standard parametric test in the sense of the Pitman asymptotic relative efficiency. Furthermore, the approximate variance of the estimator is given in the normal model.

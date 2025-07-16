@@ -1,0 +1,2 @@
+Graph invariants in the spin model
+Given a symmetric nxn matrix A, we define, for any graph G,f"A(G)@f:VG {1,,n}?uv@?EGa"@f""u"""@f""v" We characterize for which graph parameters f there is a complex matrix A with f=f"A, and similarly for real A. We show that f"A uniquely determines A, up to permuting rows and (simultaneously) columns. The proofs are based on the Nullstellensatz and some elementary invariant theoretic techniques.

@@ -1,0 +1,4 @@
+Log representation as an interface for log processing applications
+Log files are files that record events, messages, or transactions. Logs are rich containers of data because they can store a sequence of structured textual and numerical data. Many sequential forms of data including natural languages and temporal signals can be represented as logs.
+
+We propose to represent logs at a few levels of abstraction including field level, log level, and log sequence level. The representation for each level can be computed from the previous level. These representations are in vector format and serve as interfaces to downstream applications. We use a version of transformer networks to encode numerical information as well as textual information that is suitable for log embedding. We show how a number of log processing applications can be readily solved with our representation.

@@ -1,0 +1,2 @@
+Pseudopotential method for higher partial wave scattering.
+We present a zero-range pseudopotential applicable for all partial wave interactions between neutral atoms. For p and d waves, we derive effective pseudopotentials, which are useful for problems involving anisotropic external potentials. Finally, we consider two nontrivial applications of the p-wave pseudopotential: we solve analytically the problem of two interacting spin-polarized fermions confined in a harmonic trap, and we analyze the scattering of p-wave interacting particles in a quasi-two-dimensional system.

@@ -1,0 +1,2 @@
+1-Generic splittings of computably enumerable degrees
+Say a set G⊆ω is 1-generic if for any e∈ω, there is a string σ⊂G such that {e}σ(e)↓ or ∀τ⊇σ({e}τ(e)↑). It is known that 0′ can be split into two 1-generic degrees. In this paper, we generalize this and prove that any nonzero computably enumerable degree can be split into two 1-generic degrees. As a corollary, no two computably enumerable degrees bound the same class of 1-generic degrees.

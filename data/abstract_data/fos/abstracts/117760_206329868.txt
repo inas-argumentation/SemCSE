@@ -1,0 +1,2 @@
+Detecting topological order in a ground state wave function.
+A large class of topological orders can be understood and classified using the string-net condensation picture. These topological orders can be characterized by a set of data (N, di, F(lmn)(ijk), delta(ijk). We describe a way to detect this kind of topological order using only the ground state wave function. The method involves computing a quantity called the "topological entropy" which directly measures the total quantum dimension D= Sum(id2i).

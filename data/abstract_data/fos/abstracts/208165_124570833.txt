@@ -1,0 +1,2 @@
+A new algorithm for phase retrieval by lateral shear interferometer
+On the assumption of wavefront prolongation, a new optical phase retrieval algorithm by conventional lateral shear interferometer with wavelet transform is introduced. With this method, the device remained the same, but the fast reconstruction of smooth wavefront as well as rough wavefront is realized. By computer simulation, its reconstruction precision is better than the polynomial fitting. In the measurement of inhomogeneous media, its result is reasonable.

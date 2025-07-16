@@ -1,0 +1,4 @@
+Bounds on Certain Multiplications of Affine Combinations
+Let A and B be n × n matrices the entries of which are affine combinations of the variables a1,…,am, b1,…,bm over GF(2). Suppose that, for each i, 1 ⩽ i ⩽ m, the term aibi is an element of the product matrix C = A · B. What is the maximum value that m can have as a function of n? This question arises from a recent technique for improving the communication complexity of zero-knowledge proofs. 
+ 
+The obvious upper bound of n2 is improved to n233+ O(n). Tighter bounds are obtained for smaller values of n. The bounds for n = 2, n = 3, and n = 4 are tight.

@@ -1,0 +1,2 @@
+Connectionist learning using an optical thin-film model
+An alternative connectionist architecture to the one based on the neuroanatomy of biological organisms is described. The proposed architecture is based on an optical thin film multilayer model, with the thicknesses of thin film layers serving as adjustable 'weights' for the computation. The nature of the model and some example calculations that exhibit behaviour typical of conventional connectionist architectures are discussed.

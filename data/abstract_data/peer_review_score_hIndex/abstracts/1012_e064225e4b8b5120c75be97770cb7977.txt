@@ -1,0 +1,5 @@
+Neural Subgraph Matching
+Subgraph matching is the problem of determining the presence and location(s) of a given query graph in a large target graph. 
+Despite being an NP-complete problem, the subgraph matching problem is crucial in domains ranging from network science and database systems to biochemistry and cognitive science. 
+However, existing techniques based on combinatorial matching and integer programming cannot handle matching problems with both large target and query graphs.
+Here we propose NeuroMatch, an accurate, efficient, and robust neural approach to subgraph matching. NeuroMatch decomposes query and target graphs into small subgraphs and embeds them using graph neural networks. Trained to capture geometric constraints corresponding to subgraph relations, NeuroMatch then efficiently performs subgraph matching directly in the embedding space. Experiments demonstrate NeuroMatch is 100x faster than existing combinatorial approaches and 18% more accurate than existing approximate subgraph matching methods.

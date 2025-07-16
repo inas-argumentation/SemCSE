@@ -1,0 +1,2 @@
+Demographic Prediction of Mobile User from Phone Usage
+In this paper, we describe how we use the mobile phone usage of users to predict their demographic attributes. Using call log, visited GSM cells information, visited Bluetooth devices, visited Wireless LAN devices, accelerometer data, and so on, we predict the gender, age, marital status, job and number of people in household of users. The accuracy of developed classifiers for these classification problems ranges from 45-87% depending upon the particular classification problem.

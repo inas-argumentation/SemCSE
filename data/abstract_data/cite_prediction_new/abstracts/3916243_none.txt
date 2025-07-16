@@ -1,0 +1,2 @@
+Analysis of Optimum Frame Synchronization Based on Periodically Embedded Sync Words
+We present new tight bounds for evaluating the performance of sync word-based frame synchronization algorithms in the periodically embedded case. We consider antipodal signaling with coherent detection over additive white Gaussian noise and both optimal and suboptimal search techniques. Our bounds are very close to results obtained through simulation and tend asymptotically (for increasing signal-to-noise ratios) to the exact performance.

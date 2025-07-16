@@ -1,0 +1,13 @@
+Phase models and oscillators with time delayed coupling
+We consider two identical oscillators with time delayed coupling, modelled 
+by a system of delay differential equations. We reduce the system of delay 
+differential equations to a phase model where the time delay enters as a 
+phase shift. By analyzing the phase model, we show how the time delay 
+affects the stability of phase-locked periodic solutions and causes 
+stability switching of in-phase and anti-phase solutions as the delay 
+is increased. In particular, we show how the phase model can predict when 
+the phase-flip bifurcation will occur in the original delay differential 
+equation model. The results of the phase model analysis are applied to 
+pairs of Morris-Lecar oscillators with diffusive or synaptic coupling and 
+compared with numerical studies of the full system of delay differential 
+equations.

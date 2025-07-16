@@ -1,0 +1,2 @@
+Optimal Vertex Ordering of Graphs
+In this paper we consider an optimal vertex ordering problem of graphs. The vertex ordering and an optimality measure are defined. It is proved that the optimal ordering problem under consideration can be transformed into the well-known minimum-weight spanning tree problem and is therefore solvable in low-polynomial time. We also investigate some properties of optimal vertex orderings.

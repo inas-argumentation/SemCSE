@@ -1,0 +1,2 @@
+Secure Applications of Low-Entropy Keys
+We introduce the notion of key stretching, a mechanism to convert short s-bit keys into longer keys, such that the complexity required to brute-force search a s + t-bit keyspace is the same as the time required to brute-force search a s-bit key stretched by t bits.

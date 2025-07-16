@@ -1,0 +1,20 @@
+Ein neues Verfahren zur Auswertung von Entscheidungsnetzplänen
+Es werden Entscheidungsnetzplane betrachtet, die sechs verschiedene Knotentypen (Eingangsseite: und, exclusives oder, inclusives oder; Ausgangsseite: deterministisch, stochastisch) enthalten. Jedem Pfeil sind die Wahrscheinlichkeit, das der zugehorige Vorgang des Projektes ausgefuhrt wird, und die Dauer des entsprechenden Vorganges in Form einer Zufallsgrose mit vorgegebener Verteilung zugeordnet. Fur Entsaheidungsnetzplane, deren mogliche Knoten-Pfeil-Anordnungen gewissen Einschrankungen unterliegen, wird ein rechentechnisch sehr gunstiges Verfahren angegeben, das folgende Aufgaben lost: 
+ 
+1. 
+ 
+Bestimmung der Wahrscheinlichkeit fur das Eintreten der verschiedenen Zielereignisse des Projektes 
+ 
+ 
+ 
+ 
+2. 
+ 
+Ermittlung der Verteilung der Projektdauer unter der Bedingung, das ein gewisses Zielereignis eintritt 
+ 
+ 
+ 
+ 
+3. 
+ 
+Bestimmung der Verteilung der Projektdauer schlechthin.

@@ -1,0 +1,2 @@
+Better Algorithms for Minimizing Average Flow-Time on Related Machines
+We consider the problem of minimising flow time on related machines and give an O(logP)-approximation algorithm for the offline case and an O(log2P)-competitive algorithm for the online version. This improves upon the previous best bound of O(log2P logS) on the competitive ratio. Here P is the ratio of the maximum to the minimum processing time of a job and S is the ratio of the maximum to the minimum speed of a machine.

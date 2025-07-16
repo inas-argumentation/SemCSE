@@ -1,0 +1,15 @@
+Abnormal functional brain network in epilepsy patients with focal cortical dysplasia
+PURPOSE
+Focal cortical dysplasia (FCD) is the second most common pathological entity in surgically treated neocortical focal epilepsy. Despite the recent increase of interest in network approaches derived from graph theory on epilepsy, resting state network analysis of the FCD brain has not been adequately investigated. In this study, we investigated the difference in the resting state functional network between epilepsy patients with FCD and healthy controls using whole-brain magnetoencephalography (MEG) recordings.
+
+
+METHODS
+Global mutual information (MIglob) and global efficiency (Eglob) were calculated for theta (4-7 Hz), alpha (8-12 Hz), beta (13-30 Hz), and gamma (31-45 Hz) bands in 35 epilepsy patients with FCD and 23 healthy controls.
+
+
+RESULTS
+Resting state FCD brains had stronger functional connectivity (MIglob) in the beta and gamma bands and higher functional efficiency (Eglob) in the beta and gamma bands than those of the controls (p<0.05). The MIglob and Eglob values of FCD type I and II brains in the beta band were higher than those of healthy control brains (p<0.05). In the gamma band, the values of FCD type II brains were higher than those of control and FCD type I brains (p<0.05).
+
+
+CONCLUSIONS
+FCD brains had increased functional connectivity in the beta and gamma frequency bands at the resting state compared with those in healthy controls. In addition, patients exhibited different network characteristics depending on the type of FCD. The resting state network analysis could be useful in a clinical setting because we observed network differences even when there was no prominent interictal spike activity.

@@ -1,0 +1,2 @@
+C-eigenvalues intervals for piezoelectric-type tensors
+C-eigenvalues of piezoelectric-type tensors which are real and always exist, are introduced by Chen et al. [1]. And the largest C-eigenvalue for the piezoelectric tensor determines the highest piezoelectric coupling constant. In this paper, we give two intervals to locate all C-eigenvalues for a given Piezoelectric-type tensor. These intervals provide upper bounds for the largest C-eigenvalue. Numerical examples are also given to show the corresponding results.

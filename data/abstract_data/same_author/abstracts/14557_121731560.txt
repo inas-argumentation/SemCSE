@@ -1,0 +1,2 @@
+A lattice calculation of the R-Torsion for U(1) Chern-Simons theory
+We describe a new geometrical discretisation method which exactly preserved topological properties of U(1) Chern-Simons theories. A numerical calculation using these new methods correctly evaluates the Reidemeister Torsion for low order Lens spaces.

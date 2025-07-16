@@ -1,0 +1,2 @@
+Error Detection Process - Model, Design, and Its Impact on Computer Performance
+Conventionally, reliability analyses either assume that a fault/error is detected immediately as it occurs, or ignore damage caused by imperfect detection mechanisms and error latency, namely, the time interval between the occurrence of an error and the detection of that error.

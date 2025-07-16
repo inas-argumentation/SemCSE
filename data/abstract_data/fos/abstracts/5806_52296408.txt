@@ -1,0 +1,15 @@
+Comparative evaluation of autocontouring in clinical practice: A practical method using the Turing test
+PURPOSE
+Automated techniques for estimating the contours of organs and structures in medical images have become more widespread and a variety of measures are available for assessing their quality. Quantitative measures of geometric agreement, for example, overlap with a gold-standard delineation, are popular but may not predict the level of clinical acceptance for the contouring method. Therefore, surrogate measures that relate more directly to the clinical judgment of contours, and to the way they are used in routine workflows, need to be developed. The purpose of this study is to propose a method (inspired by the Turing Test) for providing contour quality measures that directly draw upon practitioners' assessments of manual and automatic contours. This approach assumes that an inability to distinguish automatically produced contours from those of clinical experts would indicate that the contours are of sufficient quality for clinical use. In turn, it is anticipated that such contours would receive less manual editing prior to being accepted for clinical use. In this study, an initial assessment of this approach is performed with radiation oncologists and therapists.
+
+
+METHODS
+Eight clinical observers were presented with thoracic organ-at-risk contours through a web interface and were asked to determine if they were automatically generated or manually delineated. The accuracy of the visual determination was assessed, and the proportion of contours for which the source was misclassified recorded. Contours of six different organs in a clinical workflow were for 20 patient cases. The time required to edit autocontours to a clinically acceptable standard was also measured, as a gold standard of clinical utility. Established quantitative measures of autocontouring performance, such as Dice similarity coefficient with respect to the original clinical contour and the misclassification rate accessed with the proposed framework, were evaluated as surrogates of the editing time measured.
+
+
+RESULTS
+The misclassification rates for each organ were: esophagus 30.0%, heart 22.9%, left lung 51.2%, right lung 58.5%, mediastinum envelope 43.9%, and spinal cord 46.8%. The time savings resulting from editing the autocontours compared to the standard clinical workflow were 12%, 25%, 43%, 77%, 46%, and 50%, respectively, for these organs. The median Dice similarity coefficients between the clinical contours and the autocontours were 0.46, 0.90, 0.98, 0.98, 0.94, and 0.86, respectively, for these organs.
+
+
+CONCLUSIONS
+A better correspondence with time saving was observed for the misclassification rate than the quantitative contour measures explored. From this, we conclude that the inability to accurately judge the source of a contour indicates a reduced need for editing and therefore a greater time saving overall. Hence, task-based assessments of contouring performance may be considered as an additional way of evaluating the clinical utility of autosegmentation methods.

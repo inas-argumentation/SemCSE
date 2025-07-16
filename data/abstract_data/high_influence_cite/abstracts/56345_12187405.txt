@@ -1,0 +1,2 @@
+On the Rayleigh-Taylor Instability for the two-Phase Navier-Stokes Equations
+The two-phase free boundary problem with surface tension and downforce gravity for the Navier-Stokes system is considered in a situation where the initial interface is close to equilibrium. The boundary symbol of this problem admits zeros in the unstable halfplane in case the heavy fluid is on top of the light one, which leads to the well-known Rayleigh-Taylor instability. Instability is proved rigorously in an $L_p$-setting by means of an abstract instability result due to Henry.

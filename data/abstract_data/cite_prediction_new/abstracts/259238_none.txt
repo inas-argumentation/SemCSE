@@ -1,0 +1,2 @@
+Control of cascading in multiple-order Raman lasers.
+In this work we explore a method for controlling Raman cascade within an intracavity Raman laser, with a view to maximizing output power at desired visible wavelengths. Sum-frequency generation is used to suppress unwanted Stokes orders, and prevent their build up. Using this method to control the Raman cascade, we demonstrate increases in output power of 40% at 532 nm, 42% at 559 nm, and 67% at 586 nm.

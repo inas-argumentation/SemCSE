@@ -1,0 +1,2 @@
+A Tight Lower Bound on the Size of Visibility Graphs
+The visibility graph of a finite set of line segments in the plane connects two endpoints u and v if and only if the straight line connection between u and v does not cross any line segment of the set. This article proves that 5n - 4 is a lower bound on the number of edges in the visibility graph of n nonintersecting line segments in the plane. This bound is tight.

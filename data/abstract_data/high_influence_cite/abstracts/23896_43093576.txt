@@ -1,0 +1,2 @@
+Towards an Auto-Associative Topology State Estimator
+This paper presents a model for breaker status identification and power system topology estimation based on a mosaic of local auto-associative neural networks. The approach extracts information from values of the analog electric variables and allows the recovery of missing sensor signals or the correction of erroneous data about breaker status. The results are confirmed by extensive tests conducted on an IEEE benchmark network.

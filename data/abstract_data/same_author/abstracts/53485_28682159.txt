@@ -1,0 +1,2 @@
+Delay defect screening using process monitor structures
+This paper presents delay test data collected from test chips fabricated in a 0.18 /spl mu/ technology. The experimental data shows that process monitor structures such as on-chip ring oscillators are effective in identifying slow parts while performing transition fault testing at frequencies slower than the rated frequency.

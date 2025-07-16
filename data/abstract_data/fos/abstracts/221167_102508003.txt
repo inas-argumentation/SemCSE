@@ -1,0 +1,2 @@
+Exponential stability of the Kirchhoff plate with thermal or viscoelastic damping
+The exponential stability of the semigroup associated with the Kirchhoff plate with thermal or viscoelastic damping and various boundary conditions is proved. This improves the corresponding results by Lagnese by showing that the semigroup is still exponentially stable even without feedback control on the boundary. The proof is essentially based on PDE techniques and the method is remarkable in the sense that it also throws light on applications to other higher-dimensional problems.

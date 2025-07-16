@@ -1,0 +1,2 @@
+A dual-core 64 b UltraSPARC microprocessor for dense server applications
+A processor core, previously implemented in a 0.25 /spl mu/m Al process, is redesigned for a 0.13 /spl mu/m Cu process to create a dual-core processor with 1 MB integrated L2 cache, offering an efficient performance/power ratio for compute-dense server applications. Circuit design challenges, including negative bias temperature instability (NBTI), leakage and coupling noise are discussed.

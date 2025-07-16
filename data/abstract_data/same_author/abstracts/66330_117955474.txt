@@ -1,0 +1,2 @@
+On the approximate controllability of variational inequalities and others nonlinear parabolic problems
+We show how the approximate controllability of nonlinear parabolic problems may fail although it is a well-known property for linear equations. For the case of the obstacle problem the answer depends on the negativeness of the righ hand side term and for semilinear equations it depends on the sub or superlinear character at the infinity of the nonlinear term.

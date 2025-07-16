@@ -1,0 +1,2 @@
+Quantum tunneling using discrete-time operator difference equations.
+Canonical discrete-time operator difference equations are introduced as an alternative approach to the numerical solution of a quantum field theory. We apply these techniques to the solution of the operator Heisenberg equations of motion describing the problem of quantum-mechanical tunneling. Our numerical solutions accurately depict the time evolution of and of a local probability measure.

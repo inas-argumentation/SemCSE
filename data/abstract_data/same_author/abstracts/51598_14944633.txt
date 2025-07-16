@@ -1,0 +1,2 @@
+On Exact and Approximation Algorithms for Distinguishing Substring Selection
+The NP-complete Distinguishing Substring Selection problem (DSSS for short) asks, given a set of “good” strings and a set of “bad” strings, for a solution string which is, with respect to Hamming metric, “away” from the good strings and “close” to the bad strings.

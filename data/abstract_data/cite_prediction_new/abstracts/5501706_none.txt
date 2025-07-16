@@ -1,0 +1,2 @@
+Asymptotic stabilization via output feedback for lower triangular systems with output dependent incremental rate
+We study the global asymptotic stabilization by output feedback for systems whose dynamics are in a feedback form where the nonlinear terms admit an incremental rate depending only on the measured output. The output feedback we consider is of the observer-controller type where the design of the controller follows from standard robust backstepping. As far as we know, the novelty is in the observer which is high-gain like with a gain coming from a Riccatti equation.

@@ -1,0 +1,2 @@
+Simple analysis of graph tests for linearity and PCP
+We give a simple analysis of the PCP with low amortized query complexity of Samorodnitsky and Trevisan [16]. The analysis also applies to the linearity testing over finite fields, giving a better estimate of the acceptance probability in terms of the distance of the tested function to the closest linear function.

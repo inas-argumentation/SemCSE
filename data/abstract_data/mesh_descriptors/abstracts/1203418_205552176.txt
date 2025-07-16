@@ -1,0 +1,15 @@
+Disease mapping of zero-excessive mesothelioma data in Flanders.
+PURPOSE
+To investigate the distribution of mesothelioma in Flanders using Bayesian disease mapping models that account for both an excess of zeros and overdispersion.
+
+
+METHODS
+The numbers of newly diagnosed mesothelioma cases within all Flemish municipalities between 1999 and 2008 were obtained from the Belgian Cancer Registry. To deal with overdispersion, zero inflation, and geographical association, the hurdle combined model was proposed, which has three components: a Bernoulli zero-inflation mixture component to account for excess zeros, a gamma random effect to adjust for overdispersion, and a normal conditional autoregressive random effect to attribute spatial association. This model was compared with other existing methods in literature.
+
+
+RESULTS
+The results indicate that hurdle models with a random effects term accounting for extra variance in the Bernoulli zero-inflation component fit the data better than hurdle models that do not take overdispersion in the occurrence of zeros into account. Furthermore, traditional models that do not take into account excessive zeros but contain at least one random effects term that models extra variance in the counts have better fits compared to their hurdle counterparts. In other words, the extra variability, due to an excess of zeros, can be accommodated by spatially structured and/or unstructured random effects in a Poisson model such that the hurdle mixture model is not necessary.
+
+
+CONCLUSIONS
+Models taking into account zero inflation do not always provide better fits to data with excessive zeros than less complex models. In this study, a simple conditional autoregressive model identified a cluster in mesothelioma cases near a former asbestos processing plant (Kapelle-op-den-Bos). This observation is likely linked with historical local asbestos exposures. Future research will clarify this.

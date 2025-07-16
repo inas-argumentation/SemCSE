@@ -1,0 +1,2 @@
+The direct product of a hopfian group with a group with cyclic ccnter
+In this paper we continue our study of hopficity begun in [1], [2], [3], [4] and [5]. LetA be hopfian and letB have a cyclic center of prime power order. We improve Theorem 4 of [2] by showing that ifB has finitely many normal subgroups which form a chain (we sayB isn-normal), thenAxB is hopfian. We then consider the case whenB is ap-group of nilpotency class 2 and show that in certain casesAxB is hopfian.

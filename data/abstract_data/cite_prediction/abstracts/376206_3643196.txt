@@ -1,0 +1,19 @@
+Deep learning for pharmacovigilance: recurrent neural network architectures for labeling adverse drug reactions in Twitter posts
+Objective
+Social media is an important pharmacovigilance data source for adverse drug reaction (ADR) identification. Human review of social media data is infeasible due to data quantity, thus natural language processing techniques are necessary. Social media includes informal vocabulary and irregular grammar, which challenge natural language processing methods. Our objective is to develop a scalable, deep-learning approach that exceeds state-of-the-art ADR detection performance in social media.
+
+
+Materials and Methods
+We developed a recurrent neural network (RNN) model that labels words in an input sequence with ADR membership tags. The only input features are word-embedding vectors, which can be formed through task-independent pretraining or during ADR detection training.
+
+
+Results
+Our best-performing RNN model used pretrained word embeddings created from a large, non-domain-specific Twitter dataset. It achieved an approximate match F-measure of 0.755 for ADR identification on the dataset, compared to 0.631 for a baseline lexicon system and 0.65 for the state-of-the-art conditional random field model. Feature analysis indicated that semantic information in pretrained word embeddings boosted sensitivity and, combined with contextual awareness captured in the RNN, precision.
+
+
+Discussion
+Our model required no task-specific feature engineering, suggesting generalizability to additional sequence-labeling tasks. Learning curve analysis showed that our model reached optimal performance with fewer training examples than the other models.
+
+
+Conclusion
+ADR detection performance in social media is significantly improved by using a contextually aware model and word embeddings formed from large, unlabeled datasets. The approach reduces manual data-labeling requirements and is scalable to large social media datasets.

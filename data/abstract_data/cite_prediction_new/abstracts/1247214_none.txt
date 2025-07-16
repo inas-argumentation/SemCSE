@@ -1,0 +1,2 @@
+Petriplan: A New Algorithm for Plan Generation (Preliminary Report)
+Recent research shows that Integer Programming techniques are a very promising tool in the AI Planning area. In this paper we define the planning problem as a submarking reachability problem in a Petri net, which is solved by the use of standard IP methods. Using a similar idea to that of the Blackbox algorithm, we show how to translate the plan graph obtained in the first phase of Graphplan into an acyclic Petri net.

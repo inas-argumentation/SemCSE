@@ -1,0 +1,2 @@
+Uniqueness for measure-valued equations of nonlinear filtering for stochastic dynamical systems with Lévy noise
+In the paper we study the Zakai and Kushner–Stratonovich equations of the nonlinear filtering problem for a non-Gaussian signal-observation system. Moreover, we prove that under some general assumption, the Zakai equation has pathwise uniqueness and uniqueness in joint law, and the Kushner–Stratonovich equation is unique in joint law.

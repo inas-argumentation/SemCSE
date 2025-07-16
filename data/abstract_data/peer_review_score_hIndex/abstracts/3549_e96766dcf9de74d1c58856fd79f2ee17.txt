@@ -1,0 +1,11 @@
+AA-PINN: ATTENTION AUGMENTED PHYSICS INFORMED NEURAL NETWORKS
+Physics Informed Neural Networks has been quite successful in modelling the complex nature of fluid flow. Computational Fluid Dynamics using parallel processing
+algorithms on GPUs have considerably reduced the time to solve the Navier Stokes
+Equations. CFD based approaches uses approximates to make the modelling easy
+but it comes at the cost of decrease in accuracy. In this paper, we propose an
+attention based network architecture named AA-PINN to model PDEs behind fluid
+flow. We use a combination of channel and spatial attention module. We propose a
+novel loss function which is more robust in handling the initial as well as boundary
+conditions imposed. Using evaluation metrics like RMSE, divergence and thermal
+kinetic energy, our network outperforms previous PINNs for modelling Navier
+Stokes and Burgers Equation.

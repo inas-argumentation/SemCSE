@@ -1,0 +1,2 @@
+Characterization and Recognition of Point-Halfspace and Related Orders
+We characterize four classes of geometric membership and containment orders-structurally and in terms of forbidden subposets-and present linear- or near linear-time recognition algorithms for each class. We also show that recognizing point-halfspace orders in ℝ2 is NP-hard for d≥2.

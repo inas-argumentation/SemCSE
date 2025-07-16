@@ -1,0 +1,2 @@
+A Fast HOG Descriptor Using Lookup Table and Integral Image
+The histogram of oriented gradients (HOG)[3] is a widely used feature descriptor in computer vision for the purpose of object detection. In the paper, a modified HOG descriptor is described, it uses a lookup table and the method of integral image[2][4] to speed up the detection performance by a factor of 5∼10. By exploiting the special hardware features of a given platform(e.g. a digital signal processor), further improvement can be made to the HOG descriptor in order to have real-time object detection and tracking.

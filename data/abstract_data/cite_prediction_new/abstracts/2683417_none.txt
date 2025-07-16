@@ -1,0 +1,2 @@
+VaR and ES for linear portfolios with mixture of elliptic distributions risk factors
+In this paper, we generalize the Linear VaR method from portfolios with normally distributed risk factors to portfolios with mixture of elliptically distributed ones. We treat both the Expected Shortfall and the Value-at-Risk of such portfolios. Special attention is given to the particular case of a mixture of multivariate t-distributions.

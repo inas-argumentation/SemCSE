@@ -1,0 +1,7 @@
+DEVELOPMENT OF A LASER SCANNER FOR MEASURING TREE CANOPY CHARACTERISTICS: PHASE 2. FOLIAGE DENSITY MEASUREMENT
+This study used a laser scanning system to quantify foliage density of citrus trees. The density calculations were 
+based on the laser sensor-canopy distance measurements and a canopy boundary-smoothing algorithm. Ten citrus trees with 
+different foliage densities were scanned by the laser system, and the calculated results were compared with the corresponding 
+visual assessments of tree densities. Overall, laser measurements and visual assessments had a good correlation (R2 = 0.96; 
+RMSE = 6.1%). Laser density measurements also had a good repeatability, with an average coefficient of variation of less 
+than 3%.

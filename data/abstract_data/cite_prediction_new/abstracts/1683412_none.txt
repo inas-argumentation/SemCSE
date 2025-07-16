@@ -1,0 +1,2 @@
+ISI-free pulses produced by a linear combination of two polynomial pulses
+This paper deals with the design of inter-symbol interference free pulses having reduced sensitivity to time synchronization errors. A new improved Nyquist filter is proposed and investigated. Its impulse response is obtained from a linear combination of new Nyquist pulses with different asymptotical decay rates. Error probability results show that the proposed filter outperforms other existing filters. The proposed scenarios aimed at demonstrating the feasibility of the concept.

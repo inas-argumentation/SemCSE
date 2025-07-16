@@ -1,0 +1,2 @@
+The case for anomalous link detection
+In this paper, we describe the challenges inherent to the Link Prediction (LP) problem in multirelational data mining, and explore the reasons why many LP models have performed poorly. We present the alternate (and complimentary) task of Anomalous Link Discovery (ALD) and qualitatively demonstrate the effectiveness of simple LP models for the ALD task.

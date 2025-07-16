@@ -1,0 +1,2 @@
+A numerical conformal transformation for investigating slot effects of high speed brushless PM motors
+An improved method is proposed for modeling the effect of stator slotting on the magnetic field distribution in the airgap/sleeve/magnet region of a high speed brushless permanent magnet dc motor. The method is based on the conformal transformation. Numerical results are reported to demonstrate the feasibility and robustness of the proposed method.

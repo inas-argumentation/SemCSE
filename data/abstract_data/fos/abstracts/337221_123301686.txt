@@ -1,0 +1,2 @@
+Unbiased Estimators of Long-Run Expected Rates of Return
+This article documents the biases in using sample arithmetic or geometric means of one-period returns to assess long-run expected rates of return. The formulas developed are applicable to other compound growth processes. For types of distributions of one-period returns likely to be encountered for bonds and stocks, numerical values for these biases are given. Four unbiased estimators of long-run expected rates of return are developed and their relative efficiency examined.

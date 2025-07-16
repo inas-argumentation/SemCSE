@@ -1,0 +1,2 @@
+Research and Design of Embedded Virtual Storage System Based on ARM9
+According to the function provided by the memory management unit of ARM9,designs a virtual storage system based on the analysis of the implementation of Linux memory mapping,which can translate the virtual address to the physical address by using the 1st level page table and the 2nd level page table,and provides an effective protection for different tasks in the system.It can be used in the operating system based on ARM9 processor.

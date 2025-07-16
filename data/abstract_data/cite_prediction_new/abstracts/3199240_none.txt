@@ -1,0 +1,10 @@
+Deon + : Abduction and Constraints for Normative Reasoning
+Deontic concepts and operators have been widely used in several fields where representation of norms is needed, including legal reasoning and normative multi-agent systems. 
+ 
+In the meantime, abductive logic programming (ALP for short) has been exploited to formalize societies of agents, commitments and institutions, taking advantage from ALP operational support as (static or dynamic) verification tool. 
+ 
+Nonetheless, the modal nature of deontic operators smoothly fits into abductive semantics and abductive reasoning, where hypotheses can be raised at run-time on the basis of the specified formulas. 
+ 
+In recent works, a mapping of the most common deontic operators (obligation, prohibition, permission) to the abductive expectations of an ALP framework for agent societies has been proposed. This mapping was supported by showing a correspondence between declarative semantics of abductive expectations and Kripke semantics for deontic operators. 
+ 
+Building upon such correspondence, in this work we introduce Deon +, a language where the two basic deontic operators (namely, obligation and prohibition) are enriched with quantification over time, by means of ALP and Constraint Logic Programming (CLP for short). In this way, we can take into account different flavors for obligations and prohibitions over time, i.e., existential or universal. We also discuss how to address consistency verification of such deontic specifications by a suitable ALP proof procedure, enriched with CLP constraints.

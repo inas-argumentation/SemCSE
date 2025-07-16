@@ -1,0 +1,2 @@
+Feature selection for on-line handwriting recognition of whiteboard notes
+In this paper we describe feature selection experiments for on-line handwriting recognition. We performed a sequential forward search through a 25 elements set of on-line and pseudo-off-line features. In our experiments we obtained interesting results. Using a set of only five features, we achieved a performance that is similar that of the reference system that uses all features. The best subset, which consists of 16 features, could outperform the reference system.

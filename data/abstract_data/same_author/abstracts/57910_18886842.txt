@@ -1,0 +1,2 @@
+Fast Reflectional Symmetry Detection Using Orientation Histograms
+A simple and fast reflectional symmetry detection algorithm has been developed in this paper. The algorithm employs only the original gray scale image and the gradient information of the image, and it is able to detect multiple reflectional symmetry axes of an object in the image. The directions of the symmetry axes are obtained from the gradient orientation histogram of the input gray scale image by using the Fourier method. Both synthetic and real images have been tested using the proposed algorithm.

@@ -1,0 +1,2 @@
+Weak type $(1, 1)$ estimates for maximal functions along $1$-regular sequences of integers
+We show the pointwise convergence of the averages \[ \mathcal{A}_N f(x) = \frac{1}{\# \mathbf{B}_N} \sum_{n \in \mathbf{B}_N} f(x + n) \] for $f \in \ell^1(\mathbb{Z})$ where $\mathbf{B}_N = \mathbf{B} \cap [1, N]$, and $\mathbf{B}$ is a $1$-regular sequence of integers, for example $\mathbf{B} = \{\lfloor n \log n \rfloor : n \in \mathbb{N}\}$.

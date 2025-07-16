@@ -1,0 +1,11 @@
+Conservation analysis of small RNA genes in Escherichia coli
+MOTIVATION
+Small RNA (sRNA) genes in Escherichia coli have been in focus recently, as 44 out of 55 experimentally confirmed sRNA genes have been precisely located in the genome. The object of this study is to analyze quantitatively the conservation of these sRNA genes and compare it with the conservation of protein-encoding genes, function-unknown regions and tRNA genes.
+
+
+RESULTS
+The results show that within an evolutionary distance of 0.26, both sRNA genes and protein-encoding genes display a similar tendency in their degrees of conservation at the nucleotide level. In addition, the conservation of sRNA genes is much stronger than function-unknown regions, but much weaker than tRNA genes. Based on the conservation of studied sRNA genes, we also give clues to estimate the total number of sRNA genes in E.coli.
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary information is available at http://www.bioinfo.org.cn/SM/sRNAconservation.htm

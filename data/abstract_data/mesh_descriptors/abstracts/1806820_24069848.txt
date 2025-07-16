@@ -1,0 +1,15 @@
+Pulmonary nodule detection in oncological patients - Value of respiratory-triggered, periodically rotated overlapping parallel T2-weighted imaging evaluated with PET/CT-MR.
+PURPOSE
+To prospectively evaluate the detection and conspicuity of pulmonary nodules in an oncological population, using a tri-modality PET/CT-MR protocol including a respiration-gated T2-PROPELLER sequence for possible integration into a simultaneous PET/MR protocol.
+
+
+METHODS
+149 patients referred for staging of malignancy were prospectively enrolled in this single-center study. Imaging was performed on a tri-modality PET/CT-MR setup and was comprised of PET/CT and 3T-MR imaging with 3D dual-echo GRE pulse sequence (Dixon) and an axial respiration-gated T2-weighted PROPELLER (T2-P) sequence. Images were assessed for presence, conspicuity, size and interpretation of the pulmonary parenchymal nodules. McNemar's test was used to evaluate paired differences in nodule detection rates between MR and CT from PET/CT. The correlation of pulmonary nodule size in CT and MR imaging was assessed using Pearson correlation coefficient.
+
+
+RESULTS
+299 pulmonary nodules were detected on PET/CT. The detectability was significantly higher on T2-P (60%, p<0.01) compared to T1-weighted Dixon-type sequences (16.1-37.8%). T2-P had a significantly higher detection rate among FDG-positive (92.4%) and among confirmed malignant nodules (75.9%) compared to T1-Dixon. Nodules <10mm were detected less often by MR sequences than by CT (p < 0.01). However, nodules >10mm were detected equally well with T2-P (92.2%) and CT (p >0.05). In a per-patient analysis, there was no significant change in the clinical interpretation of the nodules detected with T2-P and CT.
+
+
+CONCLUSION
+Despite the overall lower detection rate compared with CT, the free-breathing respiratory gating T2-w sequence showed higher detectability in all evaluated categories compared to breath-hold T1-weighted MR sequences. Specifically, the T2-P was found to be not statistically different from CT in FDG-positive nodules, in detection of nodules >10mm and concerning conspicuity of pulmonary nodules. Overall, the additional time investment into T2-P seems to be justified since clinical relevant assessment of pulmonary lung nodules can mostly be done by T2-P in a whole body PET/MR staging of oncologic patients.

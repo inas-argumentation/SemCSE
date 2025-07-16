@@ -1,0 +1,2 @@
+Every positive integer is the Frobenius number of an irreducible numerical semigroup with at most four generators
+Letg be a positive integer. We prove that there are positive integersn1,n2,n3 andn4 such that the semigroupS=(n1,n2,n3,n4) is an irreducible (symmetric or pseudosymmetric) numerical semigroup with g(S)=g.

@@ -1,0 +1,2 @@
+Balancing Queues by Mean Field Interaction
+Consider a queueing network with N nodes in which queue lengths are balanced through mean-field interaction. When N is large, we study the performance of such a network in terms of limiting results as N goes to infinity.

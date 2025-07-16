@@ -1,0 +1,2 @@
+An Optimized Two Factor Authenticated Key Exchange Protocol in PWLANs
+Recently, Park and Park proposed a new two factor authenticated key exchange (PP-TAKE) protocol that can be applied to low-power PDAs in Public Wireless LANs (PWLANs). The current paper proposes an efficient TAKE protocol based upon the PP-TAKE protocol. The computational cost of the proposed TAKE protocol is less than that of the PP-TAKE protocol, as is the number of steps needed to communicate is one fewer in which needs only three steps.

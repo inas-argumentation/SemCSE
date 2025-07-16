@@ -1,0 +1,2 @@
+A topological obstruction to the geodesibility of a foliation of odd dimension
+Let M be a compact Riemannian manifold of dimension n, and let ℱ be a smooth foliation on M. A topological obstruction is obtained, similar to results of R. Bott and J. Pasternack, to the existence of a metric on M for which ℱ is totally geodesic. In this case, necessarily that portion of the Pontryagin algebra of the subbundle ℱ must vanish in degree n if ℱ is odd-dimensional. Using the same methods simple proofs of the theorems of Bott and Pasternack are given.

@@ -1,0 +1,7 @@
+Partial inversion for linear systems and partial closure of independence graphs
+ 
+ 
+ 
+ 
+
+We introduce and study a calculus for real-valued square matrices, called partial inversion, and an associated calculus for binary square matrices. The first, applied to systems of recursive linear equations, generates new sets of parameters for different types of statistical joint response models. The corresponding generating graphs are directed and acyclic. The second calculus, applied to matrix representations of independence graphs, gives chain graphs induced by such a generating graph. Chain graphs are more complex independence graphs associated with recursive joint response models. Missing edges in independence graphs coincide with structurally zero parameters in linear systems. A wide range of consequences of an assumed independence structure can be derived by partial closure, but computationally efficient algorithms still need to be developed for applications to very large graphs.

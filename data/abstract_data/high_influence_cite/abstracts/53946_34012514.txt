@@ -1,0 +1,15 @@
+Autofluorescence spectroscopy for in vivo diagnosis of DMBA-induced hamster buccal pouch pre-cancers and cancers.
+BACKGROUND
+Our previous ex vivo study has shown that autofluorescence spectroscopy at 330-nm excitation can discriminate specimens of normal buccal pouch mucosa (normal), epithelial hyperkeratosis (hyperkeratosis), epithelial dysplasia (dysplasia), and squamous cell carcinoma (SCC) taken from DMBA-treated hamsters by using the method of partial least-squares discriminant analysis (PLSDA).
+
+
+METHODS
+This study used a fiber optics-based fluorescence spectroscopy system to measure the autofluorescence spectra of 23 normal, 14 hyperkeratosis, 28 dysplasia, and 10 SCC samples in vivo. PLSDA with cross-validation was used to analyze the autofluorescence spectral data of all samples.
+
+
+RESULTS
+We found that at 330-nm excitation, the autofluorescence spectra of all samples had two main peaks: one at 380 nm and the other at 460 nm. The hyperkeratosis samples had a higher 380-nm emission peak (EP) and a lower 460-nm EP than normal samples. On the contrary, the dysplasia samples had a lower 380-nm EP and a higher 460-nm EP than normal samples. Furthermore, the SCC samples had a much lower 380-nm EP and a much higher 460-nm EP than all other samples. To quantify the spectral changes during the progression of oral carcinogenesis, ratios of the area under the spectrum of 380 +/- 15 nm to that under the spectrum of 460 +/- 15 nm (denoted as A(380 +/- 15 nm)/A(460 +/- 15 nm)) for all samples were calculated. The mean ratio values of A(380 +/- 15 nm)/A(460 +/- 15 nm) decreased gradually from hyperkeratosis to normal, to dysplasia, and to SCC samples. Significant differences in this mean ratio were found between any two groups of normal, hyperkeratosis, dysplasia, and SCC samples. By choosing proper thresholds, PLSDA with cross-validation could provide an accurate identification rate of 86% for hyperkeratosis, of 87% for normal, and of 89% for dysplasia samples. In addition, by choosing a proper threshold, we could separate benign (normal and hyperkeratosis) from dysplasia or SCC tissues with a sensitivity of 92% and a specificity of 95%.
+
+
+CONCLUSION
+Our results indicate that the autofluorescence spectroscopy technique is a useful diagnostic tool for in vivo diagnosis of oral pre-cancers and cancers in DMBA-induced hamster buccal pouch carcinogenesis model.

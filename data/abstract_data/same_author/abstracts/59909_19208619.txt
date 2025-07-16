@@ -1,0 +1,2 @@
+What is in a Step: On the Semantics of Statecharts
+This paper presents a proposal for the definition of a step in the execution of a statechart. The proposed semantics maintains the synchrony hypothesis, by which the system is infinitely faster than its environment, and can always finish computing its response before the next stimulus arrives. However, it corrects some inconsistencies present in previous definitions, by requiring global consistency of the step.

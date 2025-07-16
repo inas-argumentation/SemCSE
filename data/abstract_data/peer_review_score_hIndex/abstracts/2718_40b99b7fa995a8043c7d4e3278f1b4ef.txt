@@ -1,0 +1,14 @@
+L2BGAN: An image enhancement model for image quality improvement and image analysis tasks without paired supervision
+The paper presents an image enhancement model,
+L2BGAN, to translate low light images to bright images
+without a paired supervision. We introduce the use of geo-
+metric and lighting consistency along with a contextual loss
+criterion. These when combined with multiscale color, tex-
+ture and edge discriminators prove to provide competitive
+results. We perform extensive experiments on benchmark
+datasets to compare our results visually as well as objec-
+tively. We observe the performance of L2BGAN on real time
+driving datasets which are subject to motion blur, noise and
+other artifacts. We further demonstrate the application of
+image understanding tasks on our enhanced images using
+DarkFace and ExDark datasets.

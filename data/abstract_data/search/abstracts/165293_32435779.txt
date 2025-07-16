@@ -1,0 +1,2 @@
+Pattern recognition by affine moment invariants
+Abstract The paper deals with moment invariants, which are invariant under general affine transformation and may be used for recognition of affine deformed objects. Our approach is based on the theory of algebraic invariants. The invariants from second and third order moments are derived and shown to be complete. The paper is a significant extension and generalization of recent works. Several numerical experiments dealing with pattern recognition by means of the affine moment invariants as the features are described.

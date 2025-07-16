@@ -1,0 +1,2 @@
+An Interactive Visualization Tool for Nipype Medical Image Computing Pipelines
+We present an interactive tool for visualization of medical imaging pipelines that are built with Nipype, a freely available tool for building pipelines programatically. Our tool enables researchers to interact with their pipelines, visualize the pipeline structure, and view their intermediate and final results. We also provide a video and live demonstration of our tool for a simple brain image registration pipeline.

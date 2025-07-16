@@ -1,0 +1,2 @@
+XID+ a new prior-based extraction tool for Herschel-SPIRE maps
+We present XID+ a new generation of software for prior-based photometry extraction in the Herschel SPIRE maps. Based on a Bayesian framework, XID+ allows the inclusion of prior information and gives access to the full posterior probability distribution of fluxes. XID+ is developed within the Herschel Extragalactic Legacy Project (HELP) and is available at this https URL

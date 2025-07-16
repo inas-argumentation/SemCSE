@@ -1,0 +1,2 @@
+Bayesian Inference Using Artificial Augmenting Regressions
+In this article, it is shown that many intractable problems of Bayesian inference can be cast in a form called “artificial augmenting regression” in which application of Markov Chain Monte Carlo techniques, especially Gibbs sampling with data augmentation, is rather convenient. The new techniques are illustrated using several challenging statistical problems and numerical results are presented.

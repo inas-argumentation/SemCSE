@@ -1,0 +1,15 @@
+Technical Note: Radiation properties of tissue- and water-equivalent materials formulated using the stoichiometric analysis method in charged particle therapy.
+PURPOSE
+Five tissue- and water-equivalent materials (TEMs) mimicking ICRU real tissues have been formulated using a previously established stoichiometric analysis method (SAM) to be applied in charged particle therapy. The purpose of this study was an experimental verification of the TEMs-SAM against charged particle beam measurements and for different computed tomography (CT) scanners. The potential of the TEMs-SAM to be employed in the dosimetry was also investigated.
+
+
+METHODS
+Experimental verification with three CT scanners was carried out to validate the calculated Hounsfield units (HUs) of the TEMs. Water-equivalent path lengths (WEPLs) of the TEMs for proton (106.8 MeV/u), helium (107.93 MeV/u), and carbon (200.3 MeV/u) ions were measured to be compared with the computed relative stopping powers. HU calibration curves were also generated.
+
+
+RESULTS
+Differences between the measured HUs of the TEMs and the calculated HUs of the ICRU real tissues for all CT scanners were smaller than 4 HU except for the skeletal tissues which deviated up to 21 HU. The measured WEPLs verified the calculated WEPLs of the TEMs (maximum deviation was 0.17 mm) and were in good agreement with the calculated WEPLs of the ICRU real tissues (maximum deviation was 0.23 mm). Moreover, the relative stopping powers converted from the measured WEPLs differed less than 0.8% and 1.3% from the calculated values of the SAM and the ICRU, respectively. Regarding the relative nonelastic cross section per unit of volume for 200 MeV protons, the ICRU real tissues were generally well represented by the TEMs except for adipose which differed 3.8%. Further, the HU calibration curves yielded the mean and the standard deviation of the errors not larger than 0.5% and 1.9%, respectively.
+
+
+CONCLUSIONS
+The results of this investigation implied the potential of the TEMs formulated using the SAM to be employed for both, beam dosimetry and HU calibration in charged particle therapy.

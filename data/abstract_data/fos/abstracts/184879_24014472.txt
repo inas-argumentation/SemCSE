@@ -1,0 +1,15 @@
+SU-F-T-294: The Analysis of Gamma Criteria for Delta4 Dosimetry Using Statistical Process Control.
+PURPOSE
+To evaluate the sensitivity of gamma criteria for patient-specific volumetric modulated arc therapy(VMAT) quality assurance of the Delta4 dosimetry program using the statistical process control(SPC) methodology.
+
+
+METHODS
+The authors selected 20 patient-specific VMAT QA cases which were undertaken MapCHECK and ArcCHECK with gamma pass rate better than 97%. The QAs data were collected Delta4 Phantom+ and Elekta Agility six megavolts without using an angle incrementer. The gamma index(GI) were calculated in 2D planes with normalizing deviation to local dose(local gamma). The sensitivity of the GI methodology using criterion of 3%/3mm, 3%/2mm and 2%/3mm was analyzed with using process acceptability indices. We used local confidence(LC) level, the upper control limit(UCL) and lower control limit(LCL) of I-MR chart for process capability index(Cp) and a process acceptability index (Cpk).
+
+
+RESULTS
+The lower local confidence levels of 3%/3mm, 3%/2mm and 2%/3mm were 92.0%, 83.6% and 78.8% respectively. All of the calculated Cp and Cpk values that used LC level were under 1.0 in this study. The calculated LCLs of I-MR charts were 89.5%, 79.0% and 70.5% respectively. These values were higher than 1.0 which means good quality of QA. For the generally used lower limit of 90%, we acquired over 1.3 of Cp value for the gamma index of 3%/3mm and lower than 1.0 in the rest of GI.
+
+
+CONCLUSION
+We applied SPC methodology to evaluate the sensitivity of gamma criteria and could see the lower control limits of VMAT QA for the Delta 4 dosimetry and could see that Delta 4 phantom+ dosimetry more affected by the position error and the I-MR chart derived values are more suitable for establishing lower limits. Acknowledgement: This research was supported by Basic Science Research Program through the National Research Foundation of Korea(NRF) funded by the Ministry of Education (No. 2015R1D1A1A01060463).

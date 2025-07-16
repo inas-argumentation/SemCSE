@@ -1,0 +1,2 @@
+Formal analysis of e-commerce protocols
+The paper presents a formalism for the analysis of e-commerce protocols. The approach integrates logics and process calculi, providing an expressive message passing semantics and sophisticated constructs for modeling principals. A common set of inference rules for communication, reduction and information analysis supports proofs about message passing, the knowledge and behavior of principals, and protocol properties. The power of the formalism is illustrated with an analysis of the NetBill Protocol.

@@ -1,0 +1,2 @@
+Radiation evaluation of a 0.18 μm commercial CMOS process and modified radiation hardened versions of this process
+We present radiation data, Total Ionizing Dose and Single Event Effects, on the LSI Logic's commercial 0.18 μm process and its radiation hardened version. Test results, are discussed in this paper. No Single Event Latch-up (SEL) was observed up to a LET of 75 MeVcm2/mg for radiation hardened version, while the commercial process was very sensitive to SEL.

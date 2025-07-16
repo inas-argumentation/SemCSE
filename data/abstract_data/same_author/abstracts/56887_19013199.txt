@@ -1,0 +1,2 @@
+PD control of robot with RBF networks compensation
+In this paper the popular PD controller of robot manipulator is modified. RBF neural networks are used to compensate the gravity and friction. No exact knowledge of the robot dynamics is required. The suggested learning law of neuro compensator is similar to the well-known backpropagation algorithm but with additional robust terms. Lyapunov-like analysis is used to derive the stability of learning algorithm.

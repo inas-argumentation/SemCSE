@@ -1,0 +1,2 @@
+Discrete Integral Sliding Mode Control in Visual Object Tracking Using Differential Kinematics
+A Discrete Integral Sliding Mode algorithm is proposed to control a Stereo Vision System (SVS) and perform Visual Object Tracking. The kinematical model of the structure is obtained using Geometric Algebra (GA). The localizing part was done in a real SVS in order to obtain the reference for orientation vector and the application for a Pan Tilt Unit is presented. The algorithm presents a good and robust performance.

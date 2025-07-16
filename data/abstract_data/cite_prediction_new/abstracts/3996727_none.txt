@@ -1,0 +1,2 @@
+An approximate version of the Loebl-Komlós-Sós conjecture
+Loebl, Komlos, and Sos conjectured that if at least half of the vertices of a graph G have degree at least some k@?N, then every tree with at most k edges is a subgraph of G. Our main result is an approximate version of this conjecture for large enough n=|V(G)|, assumed that n=O(k). Our result implies an asymptotic bound for the Ramsey number of trees. We prove that r(T"k,T"m)=~.

@@ -1,0 +1,7 @@
+Coherent and Consistent Relational Transfer Learning with Autoencoders
+Human defined concepts are inherently transferable, but it is not clear under what conditions they can be modelled effectively by non-symbolic artificial learners.
+This paper argues that for a transferable concept to be learned, the system of relations that define it must be coherent across domains.
+This is to say that the learned concept-specific relations ought to be consistent with respect to a theory that constrains their semantics and that such consistency must extend beyond the representations encountered in the source domain.
+To demonstrate this, we first present formal definitions for consistency and coherence, and a proposed Dynamic Comparator relation-decoder model designed around these principles. 
+We then perform a proposed Partial Relation Transfer learning task on a novel data set, using a neural-symbolic autoencoder architecture that combines sub-symbolic representations with modular relation-decoders.
+By comparing against several existing relation-decoder models, our experiments show that relation-decoders which maintain consistency over unobserved regions of representational space retain coherence across domains, whilst achieving better transfer learning performance.

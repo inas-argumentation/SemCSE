@@ -1,0 +1,7 @@
+Digital Images Enhancement using Tiny Character Adjustment and Referenced Image Approach
+Digital image enhancement has been a hot topic during the past decades. In this paper, we have established 
+a new approach for local gray contrast adjustment of tiny characters and global referenced base contrast enhancement 
+approach to improve the contrast of degraded images. The proposed approach initially adjusts the contrast of tiny characters 
+and then enhances the contrast of whole image by finding out some vital information from the histogram of the referenced 
+image. The experimental results show that the proposed algorithm can adjust the tiny characters and increase the image 
+contrast efficiently.

@@ -1,0 +1,15 @@
+Synchronizing a multicellular system by external input: an artificial control strategy
+MOTIVATION
+Although there are significant advances on elucidating the collective behaviors on biological organisms in recent years, the essential mechanisms by which the collective rhythms arise remain to be fully understood, and further how to synchronize multicellular networks by artificial control strategy has not yet been well explored.
+
+
+RESULTS
+A control strategy is developed to synchronize gene regulatory networks in a multicellular system when spontaneous synchronization cannot be achieved. We first construct an impulsive control system to model the process of periodically injecting coupling substances with constant or random impulsive control amounts into the common extracellular medium, and further study its effects on the dynamics of individual cells. We derive the threshold of synchronization induced by the periodic substance input. Therefore, we can synchronize the multicellular network to a specific collective behavior by changing the frequency and amplitude of the periodic stimuli. Moreover, a two-stage scheme is proposed to facilitate the synchronization in this paper. We show that the presence of the external input may also initiate different dynamics. The multicellular network of coupled repressilators is used to show the effectiveness of the proposed method. The results not only provide a perspective to understand the interactions between external stimuli and intrinsic physiological rhythms, but also may lead to development of realistic artificial control strategy and medical therapy.
+
+
+AVAILABILITY
+
+
+
+CONTACT
+aihara@sat.t.u-tokyo.ac.jp.

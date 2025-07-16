@@ -1,0 +1,23 @@
+Comparisons of citations in Web of Science, Scopus, and Google Scholar for articles published in general medical journals.
+CONTEXT
+Until recently, Web of Science was the only database available to track citation counts for published articles. Other databases are now available, but their relative performance has not been established.
+
+
+OBJECTIVE
+To compare the citation count profiles of articles published in general medical journals among the citation databases of Web of Science, Scopus, and Google Scholar.
+
+
+DESIGN
+Cohort study of 328 articles published in JAMA, Lancet, or the New England Journal of Medicine between October 1, 1999, and March 31, 2000. Total citation counts for each article up to June 2008 were retrieved from Web of Science, Scopus, and Google Scholar. Article characteristics were analyzed in linear regression models to determine interaction with the databases.
+
+
+MAIN OUTCOME MEASURES
+Number of citations received by an article since publication and article characteristics associated with citation in databases.
+
+
+RESULTS
+Google Scholar and Scopus retrieved more citations per article with a median of 160 (interquartile range [IQR], 83 to 324) and 149 (IQR, 78 to 289), respectively, than Web of Science (median, 122; IQR, 66 to 241) (P < .001 for both comparisons). Compared with Web of Science, Scopus retrieved more citations from non-English-language sources (median, 10.2% vs 4.1%) and reviews (30.8% vs 18.2%), and fewer citations from articles (57.2% vs 70.5%), editorials (2.1% vs 5.9%), and letters (0.8% vs 2.6%) (all P < .001). On a log(10)-transformed scale, fewer citations were found in Google Scholar to articles with declared industry funding (nonstandardized regression coefficient, -0.09; 95% confidence interval [CI], -0.15 to -0.03), reporting a study of a drug or medical device (-0.05; 95% CI, -0.11 to 0.01), or with group authorship (-0.29; 95% CI, -0.35 to -0.23). In multivariable analysis, group authorship was the only characteristic that differed among the databases; Google Scholar had significantly fewer citations to group-authored articles (-0.30; 95% CI, -0.36 to -0.23) compared with Web of Science.
+
+
+CONCLUSION
+Web of Science, Scopus, and Google Scholar produced quantitatively and qualitatively different citation counts for articles published in 3 general medical journals.

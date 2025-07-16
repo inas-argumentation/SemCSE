@@ -1,0 +1,2 @@
+High-gain GaN doherty power amplifier for Ka-band satellite communications
+A Doherty power amplifier (DPA) implemented in 100 nm GaN process is presented. It features a peak Power Added Efficiency (PAE) of 37%, an output power of 35 dBm and 25 dB gain. For a noise-to-power ratio (NPR) of 15 dB, an output power of 33 dBm is achieved.

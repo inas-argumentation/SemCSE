@@ -1,0 +1,11 @@
+Precision astrometry of a sample of speckle binaries and multiples with the adaptive optics facilities at the Hale and Keck II telescopes
+Using the adaptive optics facilities at the 200-in Hale and 10-m Keck II, we observed in 
+the near-infrared a sample of 12 binary and multiple stars and one open cluster. We used 
+the near diffraction limited images of these systems to measure the relative separations and 
+position angles between their components. In this paper, we investigate and correct for the 
+influence of the differential chromatic refraction and chip distortions on our relative astrometric 
+measurements. Over one night, we achieve an astrometric precision typically well below 1mas 
+and occasionally as small as 40 μas. Such a precision is in principle sufficient to astrometrically 
+detect planetary mass objects around the components of nearby binary and multiple stars. Since 
+we have not had sufficiently large data sets for the observed sample of stars to detect planets, 
+we provide the limits to planetary mass objects based on the obtained astrometric precision.

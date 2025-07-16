@@ -1,0 +1,2 @@
+Bootstrapped switch in low-voltage digital 90nm CMOS technology
+The design of a bootstrapped switch in digital 90 nm CMOS technology, with 1.0 V supply voltage and 1 GHz sampling frequency for a 300 fF capacitive load is presented. Simulation results indicate that the switch has 10 bit linearity up to an input signal of 1.0 V peak-to-peak and frequency of 100MHz. The switch is intended for use in state-of-the-art data converters.

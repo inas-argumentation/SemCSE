@@ -1,0 +1,2 @@
+Analytical modeling of the SOI four-gate transistor using conformal mapping
+Conformal mapping technique is used to model potential distribution of SOI four gate transistor in sub threshold region. The modeling is based on the solution of Laplace's equation. Potential variation between the lateral junction-gates is assumed to be parabolic. The potential variation between the MOS gates and junction gates are also studied for different structural parameters.

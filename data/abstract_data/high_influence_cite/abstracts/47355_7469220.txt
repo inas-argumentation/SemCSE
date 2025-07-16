@@ -1,0 +1,2 @@
+Are fuzzy description logics with general concept inclusion axioms decidable?
+This paper concentrates on a fuzzy Description Logic with product t-norm and involutive negation. It does not answer the question posed in its title for this logic, but it gives strong indications that the answer might in fact be “no.” On the one hand, it shows that an algorithm that was claimed to answer the question affirmatively for this logic is actually incorrect. On the other hand, it proves undecidability of a variant of this logic.

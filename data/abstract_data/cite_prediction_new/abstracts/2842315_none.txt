@@ -1,0 +1,2 @@
+Experimental demonstration of optical data links using a hybrid CAP/QAM modulation scheme.
+The first known experimental demonstrations of a 10  Gb/s hybrid CAP-2/QAM-2 and a 20  Gb/s hybrid CAP-4/QAM-4 transmitter/receiver-based optical data link are performed. Successful transmission over 4.3 km of standard single-mode fiber (SMF) is achieved, with a link power penalty ∼0.4  dBo for CAP-2/QAM-2 and ∼1.5  dBo for CAP-4/QAM-4 at BER=10(-9).

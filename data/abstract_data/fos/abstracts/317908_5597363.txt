@@ -1,0 +1,15 @@
+A GPU-accelerated Monte Carlo dose calculation platform and its application toward validating an MRI-guided radiation therapy beam model.
+PURPOSE
+The clinical commissioning of IMRT subject to a magnetic field is challenging. The purpose of this work is to develop a GPU-accelerated Monte Carlo dose calculation platform based on penelope and then use the platform to validate a vendor-provided MRIdian head model toward quality assurance of clinical IMRT treatment plans subject to a 0.35 T magnetic field.
+
+
+METHODS
+penelope was first translated from fortran to c++ and the result was confirmed to produce equivalent results to the original code. The c++ code was then adapted to cuda in a workflow optimized for GPU architecture. The original code was expanded to include voxelized transport with Woodcock tracking, faster electron/positron propagation in a magnetic field, and several features that make gpenelope highly user-friendly. Moreover, the vendor-provided MRIdian head model was incorporated into the code in an effort to apply gpenelope as both an accurate and rapid dose validation system. A set of experimental measurements were performed on the MRIdian system to examine the accuracy of both the head model and gpenelope. Ultimately, gpenelope was applied toward independent validation of patient doses calculated by MRIdian's kmc.
+
+
+RESULTS
+An acceleration factor of 152 was achieved in comparison to the original single-thread fortran implementation with the original accuracy being preserved. For 16 treatment plans including stomach (4), lung (2), liver (3), adrenal gland (2), pancreas (2), spleen(1), mediastinum (1), and breast (1), the MRIdian dose calculation engine agrees with gpenelope with a mean gamma passing rate of 99.1% ± 0.6% (2%/2 mm).
+
+
+CONCLUSIONS
+A Monte Carlo simulation platform was developed based on a GPU- accelerated version of penelope. This platform was used to validate that both the vendor-provided head model and fast Monte Carlo engine used by the MRIdian system are accurate in modeling radiation transport in a patient using 2%/2 mm gamma criteria. Future applications of this platform will include dose validation and accumulation, IMRT optimization, and dosimetry system modeling for next generation MR-IGRT systems.

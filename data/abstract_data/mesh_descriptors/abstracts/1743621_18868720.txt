@@ -1,0 +1,15 @@
+A novel family of genomic resistance islands, AbGRI2, contributing to aminoglycoside resistance in Acinetobacter baumannii isolates belonging to global clone 2.
+OBJECTIVES
+To determine the context and location of antibiotic resistance genes in carbapenem- and aminoglycoside-resistant Acinetobacter baumannii global clone 2 (GC2) isolates carrying a class 1 integron.
+
+
+METHODS
+Isolates were from Sydney hospitals. Resistance to antibiotics was determined by disc diffusion. BLAST searches identified relevant DNA fragments in a draft genome sequence. PCR was used to assemble fragments and map equivalent regions.
+
+
+RESULTS
+In two isolates belonging to GC2, WM99c and A91, the bla(TEM) gene, the class 1 integron carrying the aacC1-orfP-orfP-orfQ-aadA1 cassette array and sul1 gene, and the aphA1b gene in Tn6020 were each in segments flanked by IS26. These, together with a fourth IS26-flanked segment, formed a 19.5 kb genomic resistance island (GRI), designated AbGRI2-1, containing five copies of IS26. Part of this island was identical to part of the multiple antibiotic resistance region of AbaR-type islands found in global clone 1 (GC1). AbGRI2-1 has replaced a 40.9 kb segment found in the AB0057 genome. Related GRIs were identified in the same location in published GC2 genomes and appear to have arisen from AbGRI2-1 via IS26-mediated deletions. Like A91, WM99c carries ISAba1 upstream of ampC and Tn6167, an AbGRI1-type island in the chromosomal comM gene containing sul2, tet(B), strA and strB genes and bla(OXA-23) in Tn2006. In WM99c, the chromosomal gene encoding OXA-Ab is interrupted by ISAba17.
+
+
+CONCLUSIONS
+AbGRI2-1 is the largest so far of a new type of GRI designated AbGRI2 to distinguish them from the islands in comM in GC1 isolates (AbaR type) and in GC2 isolates (AbGRI1 type).

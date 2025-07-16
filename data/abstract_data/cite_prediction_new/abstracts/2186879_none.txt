@@ -1,0 +1,2 @@
+High resolution array processing for non circular signals
+We present in this article a direction of arrival estimation algorithm for non circular sources. We show how to take into account non circularity of signals in array processing and develop extensions of classical algorithms. The main improvement linked to the non circularity concerns the resolution, the variance of estimation and the number of resolvable sources. These characteristics are illustrated by simulations and theoretical analysis.

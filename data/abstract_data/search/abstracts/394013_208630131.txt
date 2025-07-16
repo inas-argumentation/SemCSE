@@ -1,0 +1,2 @@
+Design Methodology of a ZVS Class E Inverter with Fixed Gain
+A ZVS Class E inverter design is presented, aiming at Zero Voltage Turn On (ZVTO) and fixed voltage gain over a wide load range without adding components, changing duty cycle, or tuning switching frequency. Passive components could be designed and tuned one by one. The expectations were validated by a Class E inverter switched at 6.78 MHz with 11 V input voltage, 16 V output voltage, and 25 W maximum output power. ZVTO is maintained with 9% output voltage increase over a 10:1 output power range.

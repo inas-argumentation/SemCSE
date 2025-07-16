@@ -1,0 +1,2 @@
+Parsing News Video Using Integrated Audio-Video Features
+In this paper we have proposed a scheme for parsing News video sequences into their semantic components using integrated aural and visual features. We have explored use of the Token Passing Algorithm with HMM for simultaneous segmentation and characterization of the components. Experimentation with about 100 sequences have shown impressive results.

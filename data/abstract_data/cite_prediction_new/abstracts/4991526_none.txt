@@ -1,0 +1,2 @@
+Doherty power amplifier in 28 nm CMOS for 5G applications
+This paper presents the design of a fully integrated Doherty power amplifier in 28 nm CMOS technology. The circuit is optimised for the frequency band 5–6 GHz to provide maximum output power of 20 dBm with 10 dB output power back-off (OBO) and power gain of 10 dB at 0 dBm input power level. Drain efficiency (DE) of 35 % is obtained at OBO with almost flat response over the entire bandwidth.

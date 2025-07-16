@@ -1,0 +1,2 @@
+A Mesh-Connected Area-Time Optimal VLSI Multiplier of Large Integers
+This paper describes a VLSI network for the multiplication of two N-bit integers, for very large N. The network, with its area 0(N) and operation time 0(√N), matches, within a constant factor, the known theoretical Ω(N2) lower bound to the area × (time)2measure of complexity in the VLSI model of computation. The network, which is based on the discrete Fourier transform, has an extremely regular mesh structure, and thus all wires have approximately the same length.

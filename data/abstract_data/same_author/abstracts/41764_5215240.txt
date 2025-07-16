@@ -1,0 +1,2 @@
+Sliver exudation
+A sliver is a tetrahedron whose four vertices lie close to a plane and whose projection to that plane is a convex quadrilateral with no short edge. Slivers are notoriously common in 3-dimensional Delaunay triangulations even for well-spaced point sets. We show that if the Delaunay triangulation has the ratio property introduced in [15] then there is an assignment of weights so the weighted Delaunay triangulation contains no slivers. We also give an algorithm to compute such a weight assignment.

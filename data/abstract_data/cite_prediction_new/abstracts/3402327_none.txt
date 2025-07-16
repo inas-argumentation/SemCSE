@@ -1,0 +1,2 @@
+Mismatch-tolerant time amplifier with embedded self-calibration
+This paper presents a reliable self-calibration scheme to reduce the mismatches of SR-Latch based 6X time amplifier (TA) to enhance the resolution of time-to-digital converter (TDC). The proposed calibration is embedded to compensate for process, voltage and temperature (PVT) variations that it can eliminate the gain error caused by input mismatches. With the proposed TA, a standard cyclic TDC implemented in UMC 65-nm CMOS process shows that the resolution is 1.25ps.

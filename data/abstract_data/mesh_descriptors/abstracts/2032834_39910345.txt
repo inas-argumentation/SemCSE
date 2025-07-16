@@ -1,0 +1,11 @@
+Ester of Quinoxaline-7-carboxylate 1,4-di-N-oxide as Apoptosis Inductors in K-562 Cell Line: An in vitro, QSAR and DFT Study.
+BACKGROUND
+Quinoxalines have shown a wide variety of biological activities including as antitumor agents. The aims of this study were to evaluate the activity of quinoxaline 1,4-di-N-oxide derivatives on K562 cells, the establishment of the mechanism of induced cell death, and the construction of predictive QSAR models.
+
+
+MATERIAL AND METHODS
+Sixteen esters of quinoxaline-7-carboxylate 1,4-di-N-oxide were evaluated for antitumor activity on K562 chronic myelogenous leukemia cells and their IC50 values were determined. The mechanism of induced cell death by the most active molecule was assessed by flow cytometry and an in silico study was conducted to optimize and calculate theoretical descriptors of all quinoxaline 1,4-di-N-oxide derivatives. QSAR and QPAR models were created using genetic algorithms.
+
+
+RESULTS & CONCLUSIONS
+Our results show that compounds C5, C7, C10, C12 and C15 had the lowest IC50 of the series. C15 was the most active compound (IC50= 3.02 μg/mL), inducing caspase-dependent apoptotic cell death via the intrinsic pathway. QSAR and QPAR studies are discussed.

@@ -1,0 +1,2 @@
+A linear-time algorithm for paired-domination problem in strongly chordal graphs
+Let G=(V,E) be a simple graph without isolated vertices. A vertex set [email protected]?V is a paired-dominating set if every vertex in V-S has at least one neighbor in S and the induced subgraph G[S] has a perfect matching. In this paper, we present a linear-time algorithm to find a minimum paired-dominating set in strongly chordal graphs if the strong (elimination) ordering of the graph is given in advance.

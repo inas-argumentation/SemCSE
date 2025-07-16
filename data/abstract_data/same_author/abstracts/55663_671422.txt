@@ -1,0 +1,2 @@
+Specifying Mode Requirements of Embedded Systems
+This paper presents a formal notation for specifying requirements of embedded systems which exhibit continuous, real-time behaviour and move through various modes under digital control. It does this by extending an existing formal notation supporting continuous, real-time behaviour with an explicit concept of modes. The resulting notation avoids the subtleties which would otherwise arise when specifying mode-related requirements. It is therefore ideal as a means of specifying and communicating requirements of embedded systems.

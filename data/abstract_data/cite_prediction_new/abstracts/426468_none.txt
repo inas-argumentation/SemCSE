@@ -1,0 +1,2 @@
+The Caccetta-Haggkvist conjecture and additive number theory
+The Caccetta-Haggkvist conjecture states that if G is a finite directed graph with at least n/k edges going out of each vertex, then G contains a directed cycle of length at most k. Hamidoune used methods and results from additive number theory to prove the conjecture for Cayley graphs and for vertex-transitive graphs. This expository paper contains a survey of results on the Caccetta-Haggkvist conjecture, and complete proofs of the conjecture in the case of Cayley and vertex-transitive graphs.

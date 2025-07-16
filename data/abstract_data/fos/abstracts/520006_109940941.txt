@@ -1,0 +1,15 @@
+Episodic Hypoxia Promotes Defence Against Cellular Stress.
+BACKGROUND/AIMS
+Recently, we have demonstrated that episodic hypoxia occurs in kidneys of mice challenged repetitively with the immunosuppressant cyclosporine A (CsA), in analogy to humans on CsA treatment. However, the molecular consequences of episodic hypoxia remain poorly defined, as is its impact on cell survival. Here, we systematically study cell response to episodic, as compared to single course hypoxia.
+
+
+METHODS
+In vivo, kidneys of mice challenged daily with CsA for one week were analyzed by microarray analysis, gene ontology analysis, and qPCR. In vitro, renal cells were subjected to hypoxia (1 % O₂) which was either episodic (4 h for 6 consecutive days), short-term (4 h), or sustained (24 h). Western blot analysis quantified hypoxia-inducible factor-1α (HIF-1α). 2',7'-dichlorofluorescein diacetate detected intracellular ROS. After re-oxygenation, staurosporine served to induce apoptosis, quantified by active caspase-3.
+
+
+RESULTS
+In vivo, HIF target gene expression was suppressed by daily CsA treatment. Yet, we found up-regulation of genes involved in defence against cellular stress, notably against ROS. Renal cells in vitro behaved largely different under episodic and sustained hypoxia, while their response to short-term hypoxia oscillated between the previous two. Episodic hypoxia exhibited the highest total HIF-1α protein level, lowest nucleus-to-cytoplasm ratio, and lowest HIF target gene expression. When compared with normoxia, re-oxygenation after sustained hypoxia increased ROS by 3.04 ± 1.04 fold (p<0.001), and re-oxygenation after episodic hypoxia by 1.26 ± 0.16 fold (p<0.01). Staurosporine-induced active caspase-3 was highest after sustained, and lowest after episodic hypoxia.
+
+
+CONCLUSION
+In vitro episodic hypoxia mimics the largely HIF-independent transcriptome observed after repetitive CsA treatment in vivo. In vitro preconditioning with episodic hypoxia protects against stress-induced apoptosis. Despite of its long-term adverse effects, CsA derived episodic hypoxia induces a unique renal hypoxia response that provides adaptation to re-oxygenation mediated ROS damage.

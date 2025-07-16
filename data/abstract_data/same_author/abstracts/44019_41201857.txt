@@ -1,0 +1,2 @@
+A Note on the Number of Perfect Matchings of Bipartite Graphs
+Let G be a bipartite graph with 2n vertices, A its adjacency matrix and K the number of perfect matchings. For plane bipartite graphs each interior face of which is surrounded by a circuit of length 4s + 2, s ϵ {1, 2, …}, an elegant formula, i.e. det A = (−1)nK2, had been rigorously proved by Cvetkovic et al. (1982). For general bipartite graphs, this note contains a necessary and sufficient condition for the above relation to hold. A fast algorithm to check if a plane bipartite graph has such a relation is given.

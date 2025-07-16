@@ -1,0 +1,2 @@
+Cycle Partitions in Graphs
+In this paper, we prove that every graph contains a cycle intersecting all maximum independent sets. Using this, we further prove that every graph with stability number α is spanned by α disjoint cycles. Here, the empty set, the graph of order 1 and the path of order 2 are all considered as degenerate cycles.

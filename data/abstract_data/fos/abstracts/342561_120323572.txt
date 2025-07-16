@@ -1,0 +1,2 @@
+The Representation of Hypergeometric Random Variables using Independent Bernoulli Random Variables
+In this paper, we show that a hypergeometric random variable can be represented as a sum of independent Bernoulli random variables that are, except in degenerate cases, not identically distributed. In the proof, we use the factorial moment generating function. An asymptotic result on the probabilities of the Bernoulli random variables in the sum is also presented. Numerical examples are used to illustrate the results.

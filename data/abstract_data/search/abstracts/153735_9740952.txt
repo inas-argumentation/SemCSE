@@ -1,0 +1,2 @@
+Morphological and Syntactic Processing for Text Retrieval
+This article describes the application of lemmatization and shallow parsing as a linguistically based alternative to stemming in Text Retrieval, with the aim of managing linguistic variation at both word level and phrase level. Several alternatives for selecting the index terms among the syntactic dependencies detected by the parser are evaluated. Though this article focuses on Spanish, this approach is extensible to other languages by simply adapting the grammar used by the parser.

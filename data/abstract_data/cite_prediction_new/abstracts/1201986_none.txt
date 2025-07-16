@@ -1,0 +1,2 @@
+Uniaxial Perfectly Matched Layer for 2-D FETD Method
+In this paper, Gedney's uniaxial perfectly matched layer (UPML) is used for finite-element time-domain (FETD) method. And two-dimension resonance cavity is simulated by using FETD with the UPML absorbing boundary condition. The results consistent with analytical solution verify the validity of UPML in 2-D FETD.

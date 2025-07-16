@@ -1,0 +1,2 @@
+Parities of v-decomposition numbers and an application to symmetric group algebras
+We prove that the v-decomposition number $d_{\lambda\mu}(v)$ is an even or odd polynomial according to whether the partitions $\lambda$ and $\mu$ have the same relative sign (or parity) or not. We then use this result to verify Martin's conjecture for weight 3 blocks of symmetric group algebras -- that these blocks have the property that their projective (indecomposable) modules have a common radical length 7.

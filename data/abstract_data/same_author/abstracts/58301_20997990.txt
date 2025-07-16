@@ -1,0 +1,2 @@
+Real-time extensions to a C-like hardware description language
+Handel-C is a language for compilation into hardware. It is based on C with support for parallel execution and user-defined data size. We present extensions to a Handel-C like language for real-time applications. Our extensions are based on those of Occam 2, a language related to Handel-C. We show that our extensions, though simple, can implement the basic real-time idioms of timed wait and timeout.

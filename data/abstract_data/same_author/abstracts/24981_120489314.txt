@@ -1,0 +1,4 @@
+Inequalities on the number of bound states in oscillating potentials
+AbstractFor short-range oscillating potentialsV(r), such that
+$$W(r) = - \mathop \smallint \limits_r^\infty V(r')dr'$$
+ possesses some regularity properties we establish inequalities on the number of bound states. In particular we show that by replacingV(r) by −4(W(r))2 in the classical inequalities we get bounds for this new class of potentials. Optimal bounds are also obtained. The behaviour for large coupling constants is studied.

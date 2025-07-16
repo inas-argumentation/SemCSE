@@ -1,0 +1,2 @@
+Rate of Convergence to Normality of Estimators in a Random Coefficient ARMA(p, q) Model
+In this article, we consider a random coefficient ARMA(p, q) model with stable roots and show that the distribution of the estimators of the model parameters is asymptotically normal. The rate of convergence to normality is then derived.

@@ -1,0 +1,2 @@
+Optimal mesh computer algorithms for simple polygons
+The author presents optimal parallel algorithms that run in O( square root n) time on a square root n* square root n mesh-connected computer for a number of fundamental problems concerning visibility and distance properties inside a simple polygon. These include computing shortest paths, shortest path trees, shortest path partitions, all-farthest neighbors (both internal and external), the visibility polygon of a point, the weak visibility polygon of an edge, and the shooting problem.<<ETX>>

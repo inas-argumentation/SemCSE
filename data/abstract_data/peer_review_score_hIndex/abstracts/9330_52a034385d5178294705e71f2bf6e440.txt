@@ -1,0 +1,7 @@
+GraphCGAN: Convolutional Graph Neural Network with Generative Adversarial Networks
+Graph convolutional networks (GCN) achieved superior performances in graph-based semi-supervised learning (SSL) tasks. 
+Generative adversarial networks (GAN) also show the ability to increase the performance in SSL.
+However, there is still no good way to combine the GAN and GCN in graph-based SSL tasks.
+In this work, we present GraphCGAN, a novel framework to incorporate adversarial learning with convolution-based graph neural networks, to operate on graph-structured data. 
+In GraphCGAN, we show that generator can generate topology structure and features of fake nodes jointly and boost the performance of convolution-based graph neural networks classifier.
+In a number of experiments on benchmark datasets, we show that the proposed GraphCGAN outperforms the baseline methods by a significant margin. 

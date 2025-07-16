@@ -1,0 +1,2 @@
+A heuristic for parallel machine scheduling with agreeable due dates to minimize the number of late jobs
+Given a set of identical parallel machines and a set of jobs with different due dates and release times, we consider the problem of finding a schedule such that the number of late jobs is minimized, where the given due dates and release times are assumed to be agreeable. A heuristic algorithm is presented and a dynamic programming lower bounding procedure is developed. Computational experiments are performed to show the effectiveness of the heuristic.

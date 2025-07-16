@@ -1,0 +1,2 @@
+Fourth-order iterative methods free from second derivative
+In this paper, we present a family of new iterative methods with order of convergence four for solving non-linear equations. Per iteration these methods require one evaluation of the function and two of its first derivative. Analysis of efficiency, in term of function evaluations, shows that this family of methods has great superiority, which is also demonstrated by numerical examples.

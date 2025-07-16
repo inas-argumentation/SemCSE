@@ -1,0 +1,2 @@
+Checking the convexity of polytopes and the planarity of subdivisions
+This paper considers the problem of verifying the correctness of geometric structures. In particular, we design simple optimal checkers for convex polytopes in two and higher dimensions, and for various types of planar subdivisions, such as triangulations, Delaunay triangulations, and convex subdivisions. Their performance is analyzed also in terms of the algorithmic degree, which characterizes the arithmetic precision required.

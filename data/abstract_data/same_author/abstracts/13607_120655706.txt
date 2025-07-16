@@ -1,0 +1,2 @@
+Perturbative path-integral evaluation of the Feynman propagator in Schwarzschild spacetime
+We explicitly calculate the Feynman propagator for a scalar particle in Schwarzschild spacetime, using path integrals and perturbation theory, up to first order in the gravitational field. A characteristic of this formulation is that the propagator can be written in closed form, in terms of simple mathematical functions, and is valid non-locally.

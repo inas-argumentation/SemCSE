@@ -1,0 +1,2 @@
+Partition the vertices of a graph into one independent set and one acyclic set
+For a given graph G, if the vertices of G can be partitioned into an independent set and an acyclic set, then we call G a near-bipartite graph. This paper studies the recognition of near-bipartite graphs. We give simple characterizations for those near-bipartite graphs having maximum degree at most 3 and those having diameter 2. We also show that the recognition of near-bipartite graphs is NP-complete even for graphs where the maximum degree is 4 or where the diameter is 4.

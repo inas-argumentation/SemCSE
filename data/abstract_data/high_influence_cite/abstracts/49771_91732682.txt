@@ -1,0 +1,10 @@
+Examining residual spatial correlation in variation partitioning of beta diversity in a subtropical forest
+The relative roles of ecological processes in structuring beta diversity are usually quantified by variation partitioning of beta diversity with respect to environmental and spatial variables or gamma diversity. However, if important environmental or spatial factors are omitted, or a scale mismatch occurs in the analysis, unaccounted spatial correlation will appear in the residual errors and lead to residual spatial correlation and problematic inferences.
+ 
+ 
+ 
+ Multi-scale ordination (MSO) partitions the canonical ordination results by distance into a set of empirical variograms which characterize the spatial structures of explanatory, conditional and residual variance against distance. Then these variance components can be used to diagnose residual spatial correlation by checking assumptions related to geostatistics or regression analysis. In this paper, we first illustrate the performance of MSO using a simulated data set with known properties, thus making statistical issues explicit. We then test for significant residual spatial correlation in beta diversity analyses of the Gutianshan (GTS) 24-ha subtropical forest plot in eastern China.
+ 
+ 
+ 
+ Even though we used up to 24 topographic and edaphic variables mapped at high resolution and spatial variables representing spatial structures at all scales, we still found significant residual spatial correlation at the 10 m × 10 m quadrat scale. This invalidated the analysis and inferences at this scale. We also show that MSO provides a complementary tool to test for significant residual spatial correlation in beta diversity analyses. Our results provided a strong argument supporting the need to test for significant residual spatial correlation before interpreting the results of beta diversity analyses.

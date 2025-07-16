@@ -1,0 +1,2 @@
+Debug Automation for Logic Circuits Under Timing Variations
+This paper presents a novel approach to automate speedpath debugging taking into account variations. The proposed technique is based on Boolean Satisfiability. The approach is based on converting the timing behavior of a circuit into the functional domain, inserting a variation logic into the model, and using a Boolean Satisfiability solver to extract failing speedpaths.

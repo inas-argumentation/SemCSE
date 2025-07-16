@@ -1,0 +1,25 @@
+Universal low-temperature behavior 
+ of frustrated quantum antiferromagnets
+ in the vicinity of the saturation field
+.
+We study the low-temperature thermodynamic properties 
+of a number of frustrated quantum antiferromagnets 
+which support localized magnon states
+in the vicinity of the saturation field.
+For this purpose we use 
+(1) a mapping of the low-energy degrees of freedom of spin systems 
+onto the hard-core object lattice gases
+and 
+(2) an exact diagonalization of finite spin systems 
+of up to N=30 sites.
+The considered spin systems exhibit universal behavior
+which is determined by a specific hard-core object lattice gas
+representing the independent localized magnon states.
+We test the lattice gas description 
+by comparing its predictions 
+with the numerical results 
+for low-lying energy states of finite spin systems. 
+For all frustrated spin systems considered we find a strong variation 
+of the low-temperature specific heat passing the saturation field and a
+maximum in the isothermal entropy at saturation field resulting in an
+enhanced magnetocaloric effect.

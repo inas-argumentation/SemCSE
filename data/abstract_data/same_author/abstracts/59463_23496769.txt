@@ -1,0 +1,2 @@
+Image Enhancement for Segmentation by Self-Induced Autoregressive Filtering
+A filter induced by the autoregressive pattern from an image is used to enhance the image itself. The enhanced image usually reveals the wave pattern and nonstationary structures more clearly than the original. Unlike the Fourier analysis, local structures in the image are still retained. The merits have been demonstrated on simulated data and synthetic-aperture radar (SAR) ocean imagery. >

@@ -1,0 +1,2 @@
+Robust Hurwitz and Schur stability via interval positivity
+In this paper, we develop a new approach to computing the entire set of stabilizing controllers for a given continuous‐time linear time‐invariant system by using recent results from interval positivity. The discrete counterpart is also presented. The approaches are based on the sign‐definite decomposition that enables us to deal with functions that are polynomially dependent on the parameters of interests. Copyright © 2012 John Wiley & Sons, Ltd.

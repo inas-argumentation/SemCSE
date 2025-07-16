@@ -1,0 +1,2 @@
+Joint rate control and scheduling in multihop wireless networks
+We study the joint problem of allocating data rates and finding a stabilizing scheduling policy in a multihop wireless network. We propose a dual optimization based approach through which the rate control problem and the scheduling problem can be decomposed. We demonstrate via both analytical and numerical results that the proposed mechanism can fully utilize the capacity of the network, maintain fairness, and improve the quality of service to the users.

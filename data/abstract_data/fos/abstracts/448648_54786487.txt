@@ -1,0 +1,27 @@
+Towards variational retrieval of warm rain from passive microwave observations
+Abstract. An experimental retrieval of oceanic warm rain is presented,
+extending a previous variational algorithm to provide a suite of retrieved
+variables spanning non-raining through predominantly warm raining conditions.
+The warm rain retrieval is underpinned by hydrometeor covariances and drizzle
+onset data derived from CloudSat. Radiative transfer modelling and analysis
+of drop size variability from disdrometer observations permit state-dependent
+observation error covariances that scale with columnar rainwater during
+iteration. The state-dependent errors and nuanced treatment of drop
+distributions in precipitating regions are novel and may be applicable for
+future retrievals and all-sky data assimilation methods. This retrieval
+method can effectively increase passive microwave sensors' sensitivity to
+light rainfall that might otherwise be missed. Comparisons with space-borne and ground radar estimates are provided as a
+proof of concept, demonstrating that a passive-only variational retrieval can
+be sufficiently constrained from non-raining through warm rain conditions.
+Significant deviations from forward model assumptions cause non-convergence,
+usually a result of scattering hydrometeors above the freezing level.
+However, for cases with liquid-only precipitation, this retrieval displays
+greater sensitivity than a benchmark operational retrieval. Analysis against
+passive and active products from the Global Precipitation Measurement (GPM)
+satellite shows substantial discrepancies in precipitation frequency, with
+the experimental retrieval observing more frequent light rain. This approach
+may be complementary to other precipitation retrievals, and its potential
+synergy with the operational passive GPM retrieval is briefly explored. There
+are also implications for data assimilation, as all 13 channels on the GPM
+Microwave Imager (GMI) are simulated over ocean with fidelity in warm raining
+conditions.

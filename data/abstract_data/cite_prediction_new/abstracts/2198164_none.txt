@@ -1,0 +1,2 @@
+REVISITING THE ZIEGLER‐NICHOLS TUNING RULES FOR PI CONTROL — PART II THE FREQUENCY RESPONSE METHOD
+This paper presents an analysis of the Ziegler‐Nichols frequency response method for tuning PI controllers, showing that this method has severe limitations. The limitations can be overcome by a simple modification for processes where the time delay is not too short. By a major modification it is possible to obtain new tuning rules that also cover processes that are lag dominated.

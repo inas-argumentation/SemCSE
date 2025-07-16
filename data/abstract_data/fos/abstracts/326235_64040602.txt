@@ -1,0 +1,2 @@
+Routing Agent Based on Wireless Sensor Networks
+In this paper,we present a software Agent that is able to determine energy efficient routing techniques.What is unique about our proposed Agent approach is that the Agent has a learning capability using genetic arithmetic operators.Then we propose a new algorithm called RAGA(Routing Agent using Genetic Algorithms) while the fitness criterion is based on number of cluster heads,direct distance to sink,and cluster distance.To demonstrate the feasibility and efficiency of the proposed algorithm,it is designed and implemented.

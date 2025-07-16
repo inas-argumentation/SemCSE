@@ -1,0 +1,2 @@
+Lattice QCD at finite density via a new canonical approach
+We carry out a finite density calculation based on a canonical approach which is designed to address the overlap problem. Two degenerate flavor simulations are performed using Wilson gauge action and Wilson fermions on ${4}^{4}$ lattices, at temperatures close to the critical temperature ${T}_{c}\ensuremath{\approx}170\text{ }\text{ }\mathrm{MeV}$ and large densities (5 to 20 times nuclear matter density). In this region, we find that the algorithm works well. We compare our results with those from other approaches.

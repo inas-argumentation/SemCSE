@@ -1,0 +1,2 @@
+A New Characterization of Unbreakable Graphs
+A nonempty set C of vertices of a graph G is a star-cutset if G\C is disconnected and some vertex in C is adjacent to all the remaining vertices in C. A graph G is unbreakable if neither G nor its complement Ḡ contains a star-cutset. In this note we present a new characterization of unbreakable graphs.

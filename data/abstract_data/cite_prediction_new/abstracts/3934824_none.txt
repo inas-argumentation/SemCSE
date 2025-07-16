@@ -1,0 +1,44 @@
+Investigating pore scale configurations of two immiscible fluids via Level Set Method
+The study of pore level displacement of immiscible fluids has scientific appeal as
+well as a plethora of engineering applications, notably in oil reservoir engineering
+and in environmental problems in the shallow subsurface. Pore network models have
+been used for numerical simulation of fluid displacement over relevant physical
+volume sizes. An accurate description of the mechanics of 3D displacement could
+significantly improve the predictions from network models of capillary pressure -
+saturation curves, interfacial areas and relative permeability in real porous media.
+
+If we assume quasi-static displacement, the criteria for interface movement can be
+deduced from capillary pressure and local pore geometry. The capillary pressure
+(pressure difference between the non-wetting and wetting fluid phase) at the fluid
+interface is determined by the Young-Laplace equation Pc = 2*S*C, where S is the
+interfacial tension and C is mean curvature of the interface. At constant pressure
+and surface tension, pore scale interfaces are modeled as constant mean curvature
+surfaces. Extremely irregular geometry of natural porous media makes it difficult to
+evaluate surface curvature values and corresponding geometric configurations of two
+fluids. A purely mechanistic set of pore level criteria for fluid advancement through
+pore space implemented by [1] relied on idealizing the interfacial surface as locally
+spherical. Even with spherical idealizations, simulating the topological changes of
+the interface, such as splitting and merging fronts, is nontrivial.
+
+We apply the Level Set Method (using Level Set Toolbox [2]) and the Surface Evolver
+software [3] for tracking and propagating interfaces in order to robustly handle
+topological changes and to obtain geometrically correct interfaces. For the level set
+method, we describe a simple model for mechanical equilibrium between capillary
+pressure and surface tension. The results from the models are illustrated at the pore
+scale in two and three dimensions. The pore scale grain boundary conditions are
+extracted from model porous media and from measured geometries in real rocks [4].
+
+1. M. Gladkikh and S. L. Bryant. Prediction of imbibition in unconsolidated granular
+materials. Journal of Colloid and Interface Science 288 (2005) 526-539
+
+2. K. Brakke. Surface Evolver, an interactive program for the modeling of liquid
+surfaces shaped by various constraints.
+http://www.susqu.edu/facstaff/b/brakke/evolver/html/intro.htm#overview
+
+3. I. M. Mitchell and J. A. Templeton. A Toolbox of Hamilton-Jacobi Solvers for
+Analysis of Nondeterministic Continuous and Hybrid Systems. Springer-Verlag. Lecture
+Notes in Computer Science (LNCS) 3413, 480-494.
+
+4. W. B. Lindquist. 3DMA-Rock, A Software Package for Automated Analysis of Rock Pore
+Structure in 3-D Computed Microtomography Images
+http://www.ams.sunysb.edu/~lindquis/3dma/3dma_rock/3dma_rock.html

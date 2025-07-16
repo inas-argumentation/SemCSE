@@ -1,0 +1,4 @@
+Modeling real-time Tolapai based embedded system using MARTE
+With the advances in integration of different units such as I/O controllers and network interfaces in a single chip, Intel introduced the low power Tolapai embedded processor. This processor is the first IA based system-on-chip (SoC) with an IA-32 processor core, North and South Bridges, and integrated Accelerator and network interface. 
+ 
+In this paper we will show a way to design and model a real-time embedded system that will perform several tasks regarding road surface conditions based on multiple sensor readings. The sensor data will be processed in real-time to reconstruct the road profile and provide an estimate for the texture contents of the road surface. The Tolapai embedded processor will be used in the design of such a system. Modeling will be done with the aid of UML profile for modeling and analysis of real-time and embedded (MARTE) systems.

@@ -1,0 +1,2 @@
+A Convex-Hull Based Algorithm to Connect the Maximal Independent Set in Unit-Disk Graphs
+In this paper we propose and analyze a localized convex-hull based algorithm to connect a maximal independent set. The cardinality of the resultant connected dominating set is at most 76 · opt +19, where opt is the size of a minimum connected dominating set. To our knowledge, this is a dramatic improvement compared to the best published results in the same context [1,6] . Our algorithm plays an important rule in efficiently constructing a virtual backbone for ad hoc and sensor networks.

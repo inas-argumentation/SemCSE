@@ -1,0 +1,2 @@
+Cache-aware Roofline model: Upgrading the loft
+The Roofline model graphically represents the attainable upper bound performance of a computer architecture. This paper analyzes the original Roofline model and proposes a novel approach to provide a more insightful performance modeling of modern architectures by introducing cache-awareness, thus significantly improving the guidelines for application optimization. The proposed model was experimentally verified for different architectures by taking advantage of built-in hardware counters with a curve fitness above 90%.

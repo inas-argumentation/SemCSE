@@ -1,0 +1,2 @@
+Joint least squares optimization for robust acoustic crosstalk cancellation
+The objective of acoustic crosstalk cancellation is to use loudspeakers to deliver prescribed binaural signals (that reproduce a particular auditory scene) to a listener's ears. Such systems are very sensitive to the position of the listener's head. In this paper we perform a joint least squares optimization of both the filter coefficients and the modeling delay in order to obtain a robust solution. Simulation results demonstrate the effectiveness of the proposed technique.

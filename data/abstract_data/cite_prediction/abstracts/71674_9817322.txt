@@ -1,0 +1,2 @@
+Attentive Language Models
+In this paper, we extend Recurrent Neural Network Language Models (RNN-LMs) with an attention mechanism. We show that an Attentive RNN-LM (with 14.5M parameters) achieves a better perplexity than larger RNN-LMs (with 66M parameters) and achieves performance comparable to an ensemble of 10 similar sized RNN-LMs. We also show that an Attentive RNN-LM needs less contextual information to achieve similar results to the stateof-the-art on the wikitext2 dataset.

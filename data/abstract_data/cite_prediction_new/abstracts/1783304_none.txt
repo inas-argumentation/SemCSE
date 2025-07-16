@@ -1,0 +1,2 @@
+Weighted sum rate maximization of MISO interference broadcast channels via difference of convex functions programming: A large system analysis
+The weighted sum rate (WSR) maximizing linear precoding algorithm is studied in large correlated multiple-input single-output (MISO) interference broadcast channels (IBC). We consider an iterative WSR design via difference of convex functions (DC) programming as in [1], [2] and [3], focusing on the version in [3]. We propose an asymptotic approximation of the signal-to-interference plus noise ratio (SINR) at every iteration.

@@ -1,0 +1,2 @@
+Prime Decompositions of Regular Languages
+We investigate factorizations of regular languages in terms of prime languages. A language is said to be strongly prime decomposable if any way of factorizing the language yields a prime decomposition in a finite number of steps. We give a characterization of the strongly prime decomposable regular languages and using the characterization we show that every regular language over a unary alphabet has a prime decomposition. We show that there exist co-context-free languages that do not have prime decompositions.

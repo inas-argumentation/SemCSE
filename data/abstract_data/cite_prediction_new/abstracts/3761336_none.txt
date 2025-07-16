@@ -1,0 +1,2 @@
+Analysis of Wireless Mesh Network Security Based on Node Function
+Wireless Mesh Network is a type of self-organization, self-healing and multi-hop network. The dynamic changes of the network topology and easy accessing of Wireless Mesh Network bring a great challenge to the security of Wireless Mesh Network. In this paper, we divide Wireless Mesh Network into five layers based on the different functions of nodes, and analyze the security threats in different functional layers, then summarize the existing security technologies and give the possible research directions.

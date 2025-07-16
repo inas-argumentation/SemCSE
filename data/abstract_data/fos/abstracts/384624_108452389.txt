@@ -1,0 +1,15 @@
+COMPARISON OF STATISTICAL AND NEURAL NETWORK METHODS FOR CLASSIFYING CEREAL GRAINS USING MACHINE VISION
+Two statistical and one neural network classifiers were applied and empirically compared for the classification 
+cereal grain kernels (e.g., Canadian Western Red Spring (CWRS) wheat, Canadian Western Amber Durum (CWAD) wheat, 
+barley, rye, and oats) and for the classification of healthy and six types of damaged (e.g. broken, grass-green/green-frosted, 
+black-point/smudge, mildewed, heated, and bin/fire-burnt) CWRS wheat kernels, using selected morphological and color 
+features extracted from the grain sample images. For the classification of cereal grain kernels and the classification of 
+healthy and damaged CWRS wheat kernels, the k-nearest neighbor statistical classifier and the multilayer neural network 
+(MNN) classifier gave similar and the best classification results. Using a k-nearest neighbor classifier with a selected set of 
+15 morphological and 13 color features, the average classification accuracies were 98.2, 96.9, 99.0, 98.2, and 99.0% for 
+CWRS wheat, CWAD wheat, barley, rye, and oats, respectively, when trained and tested with three different training and 
+testing data sets. Using a k-nearest neighbor classifier with a selected set of 24 color and four morphological features, the 
+average classification accuracies were 92.5 (healthy), 90.3 (broken), 98.6 (mildewed), 99.0 (grass-green/green-frosted), 99.1 
+(black-point/smudged), 97.5 (heated), and 100.0% (bin/fire-burnt), respectively, when trained and tested with three different 
+training and testing data sets. The classification accuracies achieved using a parametric classifier were lower than the 
+classification accuracies achieved using both the k-nearest neighbor and the MNN classifiers.

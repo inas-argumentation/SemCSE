@@ -1,0 +1,2 @@
+Higher period maps, a question of Johnson, and a homological stability conjecture for the Torelli group
+Let Ig,� denote the (pointed) Torelli group. This is the group of homotopy classes of homeomorphisms of the genus g ≥ 2 surface Sg with a marked point, acting trivially on H := H1(Sg, Q). In 1983 Johnson constructed a beautiful family of invariants, the “higher period mappings” τi: Hi(Ig,�, Q) → V i+2 H

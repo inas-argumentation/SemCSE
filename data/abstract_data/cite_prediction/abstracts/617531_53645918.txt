@@ -1,0 +1,2 @@
+An Adaption of BIOASQ Question Answering dataset for Machine Reading systems by Manual Annotations of Answer Spans
+BIOASQ Task B Phase B challenge focuses on extracting answers from snippets for a given question. The dataset provided by the organizers contains answers, but not all their variants. Henceforth a manual annotation was performed to extract all forms of correct answers. This article shows the impact of using all occurrences of correct answers for training on the evaluation scores which are improved significantly.

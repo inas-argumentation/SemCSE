@@ -1,0 +1,2 @@
+Hybrid DS/SFH Spread-Spectrum Multiple Access with Predetection Diversity and Coding for Indoor Radio
+The authors derive close upper and lower bounds on the average bit error probability for hybrid direct-sequence/slow-frequency-hopped spread-spectrum multiple-access (DS/SFH-SSMA) systems with noncoherent DPSK demodulation, using predetection diversity (selection combining and equal gain combining) in conjunction with interleaved channel coding (Hamming

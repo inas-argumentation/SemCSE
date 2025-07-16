@@ -1,0 +1,2 @@
+Spread Divergences
+For distributions p and q with different supports, the divergence D(p|q) may not exist. We define a spread divergence on modified p and q and describe sufficient conditions for the existence of such a divergence. We demonstrate how to maximize the discriminatory power of a given divergence by parameterizing and learning the spread. We also give examples of using a spread divergence to train and improve implicit generative models, including linear models (Independent Components Analysis) and non-linear models (Deep Generative Networks).

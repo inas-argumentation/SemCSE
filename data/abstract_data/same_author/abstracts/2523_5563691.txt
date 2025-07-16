@@ -1,0 +1,2 @@
+Synchronization processor synthesis for latency insensitive systems
+In this paper we present our contribution in terms of synchronization processor for a SoC design methodology based on the theory of the latency insensitive systems (LIS) of Carloni et al. (2001). Our contribution consists in IP encapsulation into a new wrapper model whose speed and area are optimized and synthetizability guaranteed. The main benefit of our approach is to preserve the local IP performance when encapsulating them and reduce SoC silicon area.

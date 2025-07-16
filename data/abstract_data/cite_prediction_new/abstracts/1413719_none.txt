@@ -1,0 +1,2 @@
+Auto-Calibration of Pan-Tilt Cameras Including Radial Distortion and Zoom
+Although there are intrinsic advantages of using pan-tilt-zoom cameras their application in automatic surveillance systems is still scarce. The difficulty of creating background models for moving cameras and the difficulty of keeping fitted pose and optical geometrical projection models are key reasons for the limited use of pan-tilt-zoom cameras. Geometric calibration is a useful tool to overcome these difficulties.

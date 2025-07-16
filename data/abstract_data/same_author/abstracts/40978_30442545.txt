@@ -1,0 +1,2 @@
+On Kotzig's conjecture concerning graphs with a unique regular path-connectivity
+Kotzig (see Bondy and Murty, Graph Theory with Applications, North-Holland, Amsterdam, 1976) conjectured that there exists no graph with the property that every pair of vertices is connected by a unique path of length k, k>2 . Kotzig (Graph Theory and Related Topics, Academic Press, New York, 1979, pp. 358–367) has proved this conjecture for 2 . Xing and Hu (Discrete Math. 135 (1994) 387–393) have proved it for k>11 . Here we prove this conjecture for the remaining cases k=9,10,11 .

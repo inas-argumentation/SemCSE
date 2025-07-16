@@ -1,0 +1,2 @@
+Engineering commitment-based multiagent systems: a temporal logic approach
+Commitments model important aspects of agent interactions, especially those arising in e-business. A small number of patterns of commitments accommodate a variety of realistic interactions among agents. We represent these patterns and agent behavior models formally and show how certain behavior models can be formally proved to be sound for certain patterns. Thus a designer may use a library of patterns and behaviors to engineer systems that are guaranteed to work correctly.

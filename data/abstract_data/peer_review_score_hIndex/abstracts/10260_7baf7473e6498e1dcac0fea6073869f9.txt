@@ -1,0 +1,9 @@
+Distributional Generalization: Characterizing Classifiers Beyond Test Error
+We present a new set of empirical properties of interpolating classifiers, including neural networks, kernel machines and decision trees.
+Informally, the output distribution of an interpolating classifier matches
+the distribution of true labels, when conditioned on certain subgroups of the input space. For example, if we mislabel 30% of images of dogs as cats in the train set of CIFAR-10, then a ResNet trained to interpolation will
+in fact mislabel roughly 30% of dogs as cats on the *test set* as well, while leaving other classes unaffected.
+These behaviors are not captured by classical generalization, which would only consider the average error over the inputs,
+and not *where* these errors occur.
+We introduce and experimentally validate a formal conjecture that specifies the subgroups for which we expect this distributional closeness.
+Further, we show that these properties can be seen as a new form of generalization, which advances our understanding of the implicit bias of interpolating methods.

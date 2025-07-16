@@ -1,0 +1,2 @@
+Efficient Learning of k-Reversible Context-Free Grammars from Positive Structural Examples
+This paper discusses on the learnability of context free grammars(CFGs) within the framework of identification in the limit from positive structural examples. We will introduce a new subclass of CFGs, called a class of k-reversiblecontext-free grammars and propose an O(kdn 3) algorithm for learning this new subclass of CFGs, where d is the maximum of the ranks of given skeletal trees, and n is the total size of the given examples.

@@ -1,0 +1,2 @@
+Data-Structures for the Verification of Timed Automata
+In this paper we suggest numerical decision diagrams, a bdd-based data-structure for representing certain subsets of the Euclidean space, namely those encountered in verification of timed automata. Unlike other representation schemes, ndd's are canonical and provide for all the necessary operations needed in the verification and synthesis of timed automata. We report some preliminary experimental results.

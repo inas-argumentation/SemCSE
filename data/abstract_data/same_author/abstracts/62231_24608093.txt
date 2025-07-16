@@ -1,0 +1,15 @@
+Application of a new calibration method for a three-dimensional finite element model of a human lumbar annulus fibrosus.
+BACKGROUND
+Major deficits of many finite element models of the lumbar spine are the oversimplification, assumed constellation of the material properties or the insufficiently performed calibration using experimental in vitro data. The aim of this study was, to develop a method for calibrating the two-composite structure of the annulus fibrosus, the ground substance and collagen fibers.
+
+
+METHODS
+For that purpose, a three-dimensional, non-linear finite element model of a denucleated intervertebral disc with the adjacent vertebral bodies (L4-L5) was created. Previously performed in vitro experiments provided experimental data for the range of motion in each load direction, needed for calibration. A method was developed to determine the individual contribution of the fibers and the ground substance for bending moments with four different magnitudes (2.5, 5.0, 7.5 and 10 Nm). For each bending moment, the stiffness of fibers was varied to approximate the Young's modulus of the ground substance in order to fulfil the required range of motion obtained from in vitro results within an accuracy of 99%.
+
+
+RESULTS
+Infinite material parameter combinations of collagen fibers and ground substance led to the same range of motion, which were different for each bending moment. However, there was only one combination, which was valid for all applied bending moments; and in all load direction.
+
+
+INTERPRETATION
+This calibration method was performed on range of motion data; however, the procedure could also be applied to other loading scenarios and measurement parameters like disc bulge, translation and intradiscal pressure.

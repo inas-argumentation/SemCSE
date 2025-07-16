@@ -1,0 +1,2 @@
+Inequalities and monotonicity results for zeros of modified Bessel functions of purely imaginary order
+Soient x k (ν) et x' k (ν) les k-iemes zeros positifs, dans l'ordre decroissant, de la fonction de Bessel modifiee K i ν(x) d'ordre purement imaginaire et de sa derivee K' i ν(x)=dK i ν(x)/dx. On montre que pour k=1,2,... et 0<ν<∞, x k (ν)<x' k (ν)<ν et x k (ν)/x k+1 (ν) et x k (ν)−x k+1 (ν) decroissent quand k croit

@@ -1,0 +1,2 @@
+A note on preconditioning weighted linear least squares, with consequences for weakly constrained variational data assimilation
+The effect of preconditioning linear weighted least squares using an approximation of the model matrix is analyzed, showing the interplay of the eigenstructures of both the model and weighting matrices. A small example is given illustrating the resulting potential inefficiency of such preconditioners. Consequences of these results in the context of the weakly constrained 4D Var data assimilation problem are finally discussed.

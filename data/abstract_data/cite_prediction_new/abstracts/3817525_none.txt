@@ -1,0 +1,15 @@
+Immature oxidative stress management as a unifying principle in the pathogenesis of necrotizing enterocolitis: insights from an agent-based model.
+BACKGROUND
+Necrotizing enterocolitis (NEC) is a complex disease involving prematurity, enteral feeding, and bacterial effects. We propose that the underlying initial condition in its pathogenesis is reduced ability of the neonatal gut epithelial cells (NGECs) to clear oxidative stress (OS), and that when such a NGEC population is exposed to enteral feeding, the increased metabolic OS tips the population toward apoptosis, inflammation, bacterial activation, and eventual necrosis. The multi-factorial complexity of NEC requires characterization with computational modeling, and herein, we used an agent-based model (ABM) to instantiate and examine our unifying hypothesis of the pathogenesis of NEC.
+
+
+METHODS
+An ABM of the neonatal gut was created with NGEC computational agents incorporating rules for pathways for OS, p53, tight junctions, Toll-like receptor (TLR)-4, nitric oxide, and nuclear factor-kappa beta (NF-κB). The modeled bacteria activated TLR-4 on contact with NGECs. Simulations included parameter sweeps of OS response, response to feeding, addition of bacteria, and alterations in gut mucus production.
+
+
+RESULTS
+The ABM reproduced baseline cellular respiration and clearance of OS. Reduction in OS clearance consistent with clinical NEC led to senescence, apoptosis, or inflammation, with disruption of tight junctions, but rarely to NGEC necrosis. An additional "hit" of bacteria activating TLR-4 potentiated a shift to NGEC necrosis across the entire population. The mucus layer was modeled to limit bacterial-NGEC interactions and reduce this effect, but concomitant apoptosis in the goblet cell population reduced the efficacy of the mucus layer and limited its protective effect in simulated experiments. This finding suggests a means by which increased apoptosis at the cellular population level can lead to a transition to the necrosis outcome.
+
+
+CONCLUSIONS
+Our ABM incorporates known components of NEC and demonstrates that impaired OS management can lead to apoptosis and inflammation of NGECs, rendering the system susceptible to an additional insult involving regionalized mucus barrier failure and TLR-4 activation, which potentiates the necrosis outcome. This type of integrative dynamic knowledge representation can be a useful adjunct to help guide and contextualize research.

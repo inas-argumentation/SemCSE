@@ -1,0 +1,15 @@
+SU-C-207A-02: Proton Radiography Using Pencil Beam Scanning and a Novel, Low-Cost Range Telescope.
+PURPOSE
+While the energy of therapeutic proton beams can be adjusted to penetrate to any given depth in water, range uncertainties arise in patients due in part to imprecise knowledge of the stopping power of protons in human tissues [1]. Proton radiography is one approach to reduce the beam range uncertainty [2], thereby allowing for a reduction in treatment margins and dose escalation.
+
+
+METHODS
+The authors have adapted a novel detector technology based on Micromesh Gaseous Structure ("Micromegas") for proton therapy beams and have demonstrated fine spatial and time resolution of magnetically scanned proton pencil beams, as well as wide dynamic range for dosimetry [3]. The authors have constructed a prototype imaging system comprised of 5 Micromegas layers. Proton radiographs were obtained downstream of solid water assemblies. The position-sensitive monitor chambers in the IBA proton delivery nozzle provide the beam entrance position.
+
+
+RESULTS
+Our technique achieves spatial resolution as low as 300 µm and water-equivalent thickness (WET) resolution as good as 0.02% (60 µm out of 31 cm total thickness). The dose delivered to the patient is kept below 2 cGy. The spatial resolution as a function of sample rate and number of delivered protons is found to be near the theoretical Cramer-Rao lower bound. By extrapolating the CR bound, we argue that the imaging dose could be further lowered to 1 mGy, while still achieving submillimeter spatial resolution, by achievable instrumentation and beam delivery modifications.
+
+
+CONCLUSION
+For proton radiography, high spatial and WET resolution can be achieved, with minimal additional dose to patient, by using magnetically scanned proton pencil beams and Micromegas detectors.

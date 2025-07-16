@@ -1,0 +1,15 @@
+The classification of cancer based on DNA microarray data that uses diverse ensemble genetic programming
+OBJECT
+The classification of cancer based on gene expression data is one of the most important procedures in bioinformatics. In order to obtain highly accurate results, ensemble approaches have been applied when classifying DNA microarray data. Diversity is very important in these ensemble approaches, but it is difficult to apply conventional diversity measures when there are only a few training samples available. Key issues that need to be addressed under such circumstances are the development of a new ensemble approach that can enhance the successful classification of these datasets.
+
+
+MATERIALS AND METHODS
+An effective ensemble approach that does use diversity in genetic programming is proposed. This diversity is measured by comparing the structure of the classification rules instead of output-based diversity estimating.
+
+
+RESULTS
+Experiments performed on common gene expression datasets (such as lymphoma cancer dataset, lung cancer dataset and ovarian cancer dataset) demonstrate the performance of the proposed method in relation to the conventional approaches.
+
+
+CONCLUSION
+Diversity measured by comparing the structure of the classification rules obtained by genetic programming is useful to improve the performance of the ensemble classifier.

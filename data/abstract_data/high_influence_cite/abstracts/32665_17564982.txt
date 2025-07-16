@@ -1,0 +1,2 @@
+Principal minors, Part I: A method for computing all the principal minors of a matrix
+An order O(2 n ) algorithm for computing all the principal minors of an arbitrary n × n complex matrix is motivated and presented, offering an improvement by a factor of n 3 over direct computation. The algorithm uses recursive Schur complementation and submatrix extraction, storing the answer in a binary order. An implementation of the algorithm in MATLAB is also given and practical considerations are discussed and treated accordingly.

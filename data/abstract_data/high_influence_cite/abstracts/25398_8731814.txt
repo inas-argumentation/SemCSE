@@ -1,0 +1,2 @@
+Characterization of the Burst Aggregation Process in Optical Burst Switching
+We describe an analytic approach for the calculation of the departure process from a burst ggregation algorithm that uses both a timer and maximum/minimum burst size. The arrival process of packets is assumed to be Poisson or bursty modelled by an Interrupted Poisson Process (IPP). The analytic results are approximate and validation against simulation data showed that they have good accuracy.

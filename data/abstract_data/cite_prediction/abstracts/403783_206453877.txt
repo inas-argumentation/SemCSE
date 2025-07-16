@@ -1,0 +1,2 @@
+IEEE 802.15.7 visible light communication: modulation schemes and dimming support
+Visible light communication refers to shortrange optical wireless communication using visible light spectrum from 380 to 780 nm. Enabled by recent advances in LED technology, IEEE 802.15.7 supports high-data-rate visible light communication up to 96 Mb/s by fast modulation of optical light sources which may be dimmed during their operation. IEEE 802.15.7 provides dimming adaptable mechanisms for flicker-free high-data-rate visible light communication.

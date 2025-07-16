@@ -1,0 +1,2 @@
+Modified Progressive Switched Median Filter for Image Enhancement
+Modified progressive switching median filter is proposed. It is constructed using introduction of the impulse noise detector from adaptive switching median filter into the progressive switching median filter. The results of comparative analysis of new algorithm with other filters are presented. The results show that the proposed algorithm is more efficient in the case of randomvalued impulse noise removing from digital images.

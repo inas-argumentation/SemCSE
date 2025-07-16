@@ -1,0 +1,11 @@
+Detecting high-order interactions of single nucleotide polymorphisms using genetic programming
+MOTIVATION
+Not individual single nucleotide polymorphisms (SNPs), but high-order interactions of SNPs are assumed to be responsible for complex diseases such as cancer. Therefore, one of the major goals of genetic association studies concerned with such genotype data is the identification of these high-order interactions. This search is additionally impeded by the fact that these interactions often are only explanatory for a relatively small subgroup of patients. Most of the feature selection methods proposed in the literature, unfortunately, fail at this task, since they can either only identify individual variables or interactions of a low order, or try to find rules that are explanatory for a high percentage of the observations. In this article, we present a procedure based on genetic programming and multi-valued logic that enables the identification of high-order interactions of categorical variables such as SNPs. This method called GPAS cannot only be used for feature selection, but can also be employed for discrimination.
+
+
+RESULTS
+In an application to the genotype data from the GENICA study, an association study concerned with sporadic breast cancer, GPAS is able to identify high-order interactions of SNPs leading to a considerably increased breast cancer risk for different subsets of patients that are not found by other feature selection methods. As an application to a subset of the HapMap data shows, GPAS is not restricted to association studies comprising several 10 SNPs, but can also be employed to analyze whole-genome data.
+
+
+AVAILABILITY
+Software can be downloaded from http://ls2-www.cs.uni-dortmund.de/~nunkesser/#Software

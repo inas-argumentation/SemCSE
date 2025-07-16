@@ -1,0 +1,2 @@
+Fuel cell powered hybrid system controlled by the maximum peak power tracking technique
+In the present study a borohydride/peroxide fuel cell/Li-ion battery hybrid system was developed. Output power of DBPFC was controlled and kept constant by MPPT algorithm. The voltage ripples of the fuel cell were prevented. Moreover, Li-ion battery was charged with a stable power of direct borohydride/peroxide fuel cell.

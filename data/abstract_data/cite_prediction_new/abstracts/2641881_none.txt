@@ -1,0 +1,2 @@
+Adaptive control and the definition of exponential stability
+Several definitions of exponential stability are revisited so as to address some possible confusion in the adaptive control literature when terms like exponentially convergent, exponentially asymptotically stable, or exponentially stable are used. It is also shown that in general the direct adaptive control problem can never be exponentially stable in the large and can at best be uniformly asymptotically stable in the large.

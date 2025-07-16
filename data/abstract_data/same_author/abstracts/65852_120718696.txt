@@ -1,0 +1,2 @@
+Low energy asymptotics for Schrödinger operators with slowly decreasing potentials
+Low energy behavior of Schrödinger operators with potentials which decay slowly at infinity is studied. It is shown that if the potential is positive then the zero energy is very regular and the resolvent is smooth near 0. This implies rapid local decay for the solutions of the Schrödinger equation. On the other hand, if the potential is negative then the resolvent has discontinuity at zero energy. Thus one cannot expect local decay faster than ordert−1 ast→∞.

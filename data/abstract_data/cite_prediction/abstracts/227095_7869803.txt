@@ -1,0 +1,2 @@
+Flyback converter using an observer-based digital controller
+A scheme is presented to integrate a primary-side-sensing technique into a model-predictive-controller for a Flyback converter. The control circuit consists of a signal processor, an observer, and a model-predictive controller. Besides inheriting the advantages of model-predictive-control, e.g. optimal tradeoff between overshoot, fast stabilization and constraints handling, the proposed controller saves on hardware by applying primary-side-sensing.

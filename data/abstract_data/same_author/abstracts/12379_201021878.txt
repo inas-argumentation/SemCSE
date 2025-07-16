@@ -1,0 +1,2 @@
+DSV-A General Visualization Tool for HEP Event Data
+DSV is an event visualizer and data filter package which offers a powerful means to deal with difficult imaging and diagnostics problems encountered with high-energy heavy-ion collisions. This Xlib-based general-purpose graphics tool is currently used by experiments at CERN and RHIC and has been applied to MC simulations from several popular event generators. DSV images have appeared in various news media in connection with the CERN and RHIC heavy-ion programs.

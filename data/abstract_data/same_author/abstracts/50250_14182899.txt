@@ -1,0 +1,2 @@
+DNA computing, sticker systems, and universality
+Abstract. We introduce the sticker systems, a computability model, which is an abstraction of the computations using the Watson-Crick complementarity as in Adleman's DNA computing experiment, [1]. Several types of sticker systems are shown to characterize (modulo a weak coding) the regular languages, hence the power of finite automata. One variant is proven to be equivalent to Turing machines. Another one is found to have a strictly intermediate power.

@@ -1,0 +1,2 @@
+Optimized trigger for ultra-high-energy cosmic-ray and neutrino observations with the low frequency radio array
+When an ultra-high energy neutrino or cosmic-ray strikes the Lunar surface a radio-frequency pulse is emitted. We plan to use the LOFAR radio telescope to detect these pulses. In this work we propose an efficient trigger implementation for LOFAR optimized for the observation of short radio pulses.

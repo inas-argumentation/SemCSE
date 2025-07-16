@@ -1,0 +1,2 @@
+A formal fuzzy reasoning system and reasoning mechanism based on propositional modal logic
+We establish in this paper a fuzzy propositional modal logic, FPML, and the associated semantics, fuzzy Kripke semantics. We prove that FPML is sound and complete. Furthermore, we set up a formalized reasoning mechanism based on FPML.

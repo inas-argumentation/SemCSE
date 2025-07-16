@@ -1,0 +1,21 @@
+The exciton many-body theory extended to any kind of
+composite bosons
+.
+We have recently constructed a many-body theory for composite excitons, in
+which the possible carrier exchanges between N excitons can be treated
+exactly through a set of dimensionless “Pauli scatterings” between two
+excitons. Many-body effects with free excitons turn out to be rather
+simple because these excitons are the exact one-pair
+eigenstates of the semiconductor Hamiltonian, in the absence of localized
+traps. They consequently form a complete orthogonal basis for one-pair
+states. As essentially all quantum particles known as bosons are
+composite bosons, it is highly desirable to
+extend this free exciton many-body theory to other kinds of
+“cobosons” — a contraction for composite bosons — the physically
+relevant ones being possibly not the exact one-pair eigenstates of
+the system Hamiltonian. The purpose of this paper is
+to derive the “Pauli scatterings” and the “interaction scatterings” of
+these cobosons in terms of their wave functions and the interactions
+which exist between the fermions from which they are
+constructed. It is also explained how to calculate many-body effects in
+such a very general composite boson system.

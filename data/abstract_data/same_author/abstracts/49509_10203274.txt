@@ -1,0 +1,2 @@
+Adaptation of Length in a Nonstationary Environment
+In this paper, we examine the behavior of a variable length GA in a nonstationary problem environment. Results indicate that a variable length GA is better able to adapt to changes than a fixed length GA. Closer examination of the evolutionary dynamics reveals that a variable length GA can in fact take advantage of its variable length representation to exploit good quality building blocks after a change in the problem environment.

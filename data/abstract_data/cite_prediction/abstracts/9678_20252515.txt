@@ -1,0 +1,2 @@
+Brief Announcement: Byzantine-Tolerant Machine Learning
+We report on Krum, the first provably Byzantine-tolerant aggregation rule for distributed Stochastic Gradient Descent (SGD). Krum guarantees the convergence of SGD even in a distributed setting where (asymptotically) up to half of the workers can be malicious adversaries trying to attack the learning system.

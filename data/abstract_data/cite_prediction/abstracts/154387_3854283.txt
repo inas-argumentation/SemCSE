@@ -1,0 +1,2 @@
+Mechamagnets: Tactile Mechanisms with Embedded Magnets
+This paper presents Mechamagnets, a technique to rapidly prototype tactile mechanisms for tangible interfaces. We demonstrate how to embed different passive tactile mechanisms in physical systems through a combination of magnets and digitally fabricated parts. We also discuss how DIY materials and 3-axis magnetometers can instrument Mechamagnet interfaces into functional prototypes.

@@ -1,0 +1,15 @@
+Single-view 2D CNNs with fully automatic non-nodule categorization for false positive reduction in pulmonary nodule detection
+BACKGROUND AND OBJECTIVE
+In pulmonary nodule detection, the first stage, candidate detection, aims to detect suspicious pulmonary nodules. However, detected candidates include many false positives and thus in the following stage, false positive reduction, such false positives are reliably reduced. Note that this task is challenging due to 1) the imbalance between the numbers of nodules and non-nodules and 2) the intra-class diversity of non-nodules. Although techniques using 3D convolutional neural networks (CNNs) have shown promising performance, they suffer from high computational complexity which hinders constructing deep networks. To efficiently address these problems, we propose a novel framework using the ensemble of 2D CNNs using single views, which outperforms existing 3D CNN-based methods.
+
+
+METHODS
+Our ensemble of 2D CNNs utilizes single-view 2D patches to improve both computational and memory efficiency compared to previous techniques exploiting 3D CNNs. We first categorize non-nodules on the basis of features encoded by an autoencoder. Then, all 2D CNNs are trained by using the same nodule samples, but with different types of non-nodules. By extending the learning capability, this training scheme resolves difficulties of extracting representative features from non-nodules with large appearance variations. Note that, instead of manual categorization requiring the heavy workload of radiologists, we propose to automatically categorize non-nodules based on the autoencoder and k-means clustering.
+
+
+RESULTS
+We performed extensive experiments to validate the effectiveness of our framework based on the database of the lung nodule analysis 2016 challenge. The superiority of our framework is demonstrated through comparing the performance of five frameworks trained with differently constructed training sets. Our proposed framework achieved state-of-the-art performance (0.922 of the competition performance metric score) with low computational demands (789K of parameters and 1024M of floating point operations per second).
+
+
+CONCLUSION
+We presented a novel false positive reduction framework, the ensemble of single-view 2D CNNs with fully automatic non-nodule categorization, for pulmonary nodule detection. Unlike previous 3D CNN-based frameworks, we utilized 2D CNNs using 2D single views to improve computational efficiency. Also, our training scheme using categorized non-nodules, extends the learning capability of representative features of different non-nodules. Our framework achieved state-of-the-art performance with low computational complexity.

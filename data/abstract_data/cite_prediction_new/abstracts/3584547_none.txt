@@ -1,0 +1,2 @@
+Fault detection for hybrid dynamical system application to winding machine
+This paper investigates the problem of fault detection for hybrid dynamical system. In the present work, the obtained LMI in [3] is used to design an observer with its corresponding residual, making possible fault detection of the winding machine. Also, it is possible to find by the same LMI a controller-based observer to stabilize the closed-loop system.

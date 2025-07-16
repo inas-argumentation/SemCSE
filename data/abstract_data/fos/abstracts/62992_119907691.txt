@@ -1,0 +1,2 @@
+Exact fisher information for censored samples and the extended hazard rate functions
+The question of how much information is contained in an ordered observation was studied by Tukey (1964) in terms of a linear sensitivity measure. This paper deals with exact Fisher information for censored data. The concept of hazard rate function is extended and some fundamental moment relations are established between them and the score functions. Some new moment equalities are obtained for the normal and gamma distributions.

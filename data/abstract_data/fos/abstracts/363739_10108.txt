@@ -1,0 +1,2 @@
+Faster Batch Forgery Identification
+Batch signature verification detects whether a batch of signatures contains any forgeries. Batch forgery identification pinpoints the location of each forgery. Existing forgery-identification schemes vary in their strategies for selecting subbatches to verify (individual checks, binary search, combinatorial designs, etc.) and in their strategies for verifying subbatches. This paper exploits synergies between these two levels of strategies, reducing the cost of batch forgery identification for elliptic-curve signatures.

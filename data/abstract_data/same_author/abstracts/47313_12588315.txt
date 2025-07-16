@@ -1,0 +1,2 @@
+The Many Faces of Process Interaction Graphs: A Data Management Perspective
+WE USE THE EXPRESSION “process interaction graph” (PIG) as a general purpose term to cover instances of network-like structures with specific semantics, including signal transduction networks, gene regulatory networks, metabolic pathways and so forth, because we believe that despite the differences in biological significance, they can be treated in a uniform data management framework. Aside from the fact that they are all graph-like entities, PIGs share a few common characteristics, such as follows:

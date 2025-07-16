@@ -1,0 +1,2 @@
+Joint Spatial Coding and Spatial Multiplexing: Optimal and Suboptimal Criteria
+In this contribution, spatial coding diversity is combined with spatial multiplexing to get higher joint gains on ensuring both low error rate and high spectrum efficiency. A general mathematical model of joint spatial coding and multiplexing (JSCM) is proposed and analyzed. Optimal criteria and a suboptimal iterative algorithm on the design of JSCM are studied. Performance of JSCM is proved by simulations from various aspects.

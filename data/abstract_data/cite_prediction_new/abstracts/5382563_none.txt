@@ -1,0 +1,2 @@
+Single-strip triangulation of manifolds with arbitrary topology
+This video illustrates a new method for subdividing the surface of a triangulated 3d polyhedron, without changing the geometry of the model, so that the triangles of the subdivided mesh can be ordered into a single triangle strip. Our method guarantees that the subdivided mesh has at most 3/2 the original number of triangles, and in practice performs much better. Our strips can be used not only for efficient rendering, but also for other applications including the generation of space filling curves.

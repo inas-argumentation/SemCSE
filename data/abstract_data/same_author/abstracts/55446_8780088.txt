@@ -1,0 +1,2 @@
+Dimension-Exchange Algorithms for Load Balancing on Trees
+This paper considers dimension-exchange algorithms for load balancing on trees with finitely-divisible loads (token distribution). We present improved analysis of an existing protocol, and in particular, establish a logarithmic upper bound on the discrepancy of the final distribution. Our second contribution is a new algorithm, which assuming each node has knowledge of the total number of nodes, determines a perfectly balanced distribution.

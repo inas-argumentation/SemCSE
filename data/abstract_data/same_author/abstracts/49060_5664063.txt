@@ -1,0 +1,2 @@
+Parallel Progressive Radiosity with Adaptive Meshing
+Radiosity plays an important role in computer graphics. This paper presents an efficient parallel algorithm for progressive radiosity with adaptive meshing, which adopts a novel static processor assignment strategy and takes advantages of hierarchical computation structure in this problem to minimize communication and balance dynamic load. Our experiments on a Meiko CS-2 distributed memory machine show that this algorithm has achieved good performance for the tested cases.

@@ -1,0 +1,15 @@
+Artificial metaplasticity prediction model for cognitive rehabilitation outcome in acquired brain injury patients
+OBJECTIVE
+The main purpose of this research is the novel use of artificial metaplasticity on multilayer perceptron (AMMLP) as a data mining tool for prediction the outcome of patients with acquired brain injury (ABI) after cognitive rehabilitation. The final goal aims at increasing knowledge in the field of rehabilitation theory based on cognitive affectation.
+
+
+METHODS AND MATERIALS
+The data set used in this study contains records belonging to 123 ABI patients with moderate to severe cognitive affectation (according to Glasgow Coma Scale) that underwent rehabilitation at Institut Guttmann Neurorehabilitation Hospital (IG) using the tele-rehabilitation platform PREVIRNEC(©). The variables included in the analysis comprise the neuropsychological initial evaluation of the patient (cognitive affectation profile), the results of the rehabilitation tasks performed by the patient in PREVIRNEC(©) and the outcome of the patient after a 3-5 months treatment. To achieve the treatment outcome prediction, we apply and compare three different data mining techniques: the AMMLP model, a backpropagation neural network (BPNN) and a C4.5 decision tree.
+
+
+RESULTS
+The prediction performance of the models was measured by ten-fold cross validation and several architectures were tested. The results obtained by the AMMLP model are clearly superior, with an average predictive performance of 91.56%. BPNN and C4.5 models have a prediction average accuracy of 80.18% and 89.91% respectively. The best single AMMLP model provided a specificity of 92.38%, a sensitivity of 91.76% and a prediction accuracy of 92.07%.
+
+
+CONCLUSIONS
+The proposed prediction model presented in this study allows to increase the knowledge about the contributing factors of an ABI patient recovery and to estimate treatment efficacy in individual patients. The ability to predict treatment outcomes may provide new insights toward improving effectiveness and creating personalized therapeutic interventions based on clinical evidence.

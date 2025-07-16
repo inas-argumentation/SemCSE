@@ -1,0 +1,15 @@
+SU-F-T-468: Efficient Scanning Data Analysis for TomoTherapy.
+PURPOSE
+The standard TomoTherapy 2D scanning system requires manual analysis using spreadsheets or similar software. Manual analysis is time consuming and does not allow efficient use of the medical physicist or timely results that may indicate issues during the acquisition of data. The purpose of this study is to determine if an in-house solution can provide timely analysis of TomoTherapy scan data.
+
+
+METHODS
+A custom MATLAB program utilizing a streamlined graphical interface was developed to interpret the native scanning data acquired by the TomoTherapy Electrometer Measurement System (TEMS). The gold beam data provided by the manufacturer was used as a baseline for the acquired data. Two separate sets of scan data were used including longitudinal, transverse, and percent depth dose (PDD). The scan data were compared visually in an overlay and analytically for each beam width using the full width half max (FWHM) for longitudinal profiles and difference inside the field core for the transverse profiles as recommended by TG-148. A plot of the PDD percent error at each point along the curve was generated to show agreement. The time to analysis was measured on a laptop running an Intel i5 processor with 8GB of RAM.
+
+
+RESULTS
+The software program required on average less than 5 seconds to load and analyze the results. No conversion or reformatting of the data was required. This allowed real-time visualization of the comparison to the gold beam data as well as the parameters recommended by TG-148. The average percent difference was 0.3% for the longitudinal profiles and 0.1% for the transverse profiles. All PDD data was less than 1% different beyond dmax.
+
+
+CONCLUSION
+We have developed a tool to analyze TomoTherapy scan data in real-time. This allows an efficient method to perform beam commissioning, annual QA, and adjust the beam parameters if necessary.

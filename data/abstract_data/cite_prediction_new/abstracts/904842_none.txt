@@ -1,0 +1,2 @@
+Bridge Sensor Mart: A flexible and scalable data storage and analysis framework for structural health monitoring
+This paper reports on the new sensor data collection, analysis and storage framework, Bridge Sensor Mart (BSM), for bridge health monitoring data. BSM defines a distributed data storage and data analytics infrastructure in order to collect, store, analyze and manage sensor data for Structural Health Monitor-

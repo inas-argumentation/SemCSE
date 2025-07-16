@@ -1,0 +1,2 @@
+A physical design tool for built-in self-repairable static RAMs
+A novel physical design tool, BISRAMGEN, that generates layout geometries of parametrized built-in self-repairable SRAM modules, producing significant improvement in testability, reliability, production yield and manufacturing cost of ASICs and microprocessors with embedded RAMs, is presented.

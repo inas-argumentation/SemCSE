@@ -1,0 +1,2 @@
+Empirical Likelihood for Single-Index Regression Models under Negatively Associated Errors
+In this article, we use bockwise empirical likelihood technique to construct confidence regions for the parameter of the single-index models under negatively associated errors. It is shown that the blockwise empirical likelihood ratio statistic for the parameter of interest is asymptotically χ2-type distributed. The result can be used to obtain confidence regions for the parameter of interest.

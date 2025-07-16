@@ -1,0 +1,2 @@
+Software reliability in the fog computing
+Fog computing is a new paradigm using both Cloud computing developments and Internet of Things devices. This paper reviews the existing models, architectures and practices in Fog computing targeting the fog systems reliability and dependability. An integratory approach of three components of the system reliability is considered: the nodes reliability, the network reliability, and the software reliability. OpenFog Reference Architecture, and AJIA and BDSC schemes were considered as principal vectors in fog reliability increasing.

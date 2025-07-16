@@ -1,0 +1,15 @@
+Estimating Absolute-Phase Maps Using ESPIRiT and Virtual Conjugate Coils
+PURPOSE
+To develop an ESPIRiT-based method to estimate coil sensitivities with image phase as a building block for efficient and robust image reconstruction with phase constraints.
+
+
+THEORY AND METHODS
+ESPIRiT is a new framework for calibration of the coil sensitivities and reconstruction in parallel magnetic resonance imaging. Applying ESPIRiT to a combined set of physical and virtual conjugate coils (VCC-ESPIRiT) implicitly exploits conjugate symmetry in k-space similar to VCC-GRAPPA. Based on this method, a new post-processing step is proposed for the explicit computation of coil sensitivities that include the absolute phase of the image. The accuracy of the computed maps is directly validated using a test based on projection onto fully sampled coil images and also indirectly in phase-constrained parallel-imaging reconstructions.
+
+
+RESULTS
+The proposed method can estimate accurate sensitivities which include low-resolution image phase. In case of high-frequency phase variations VCC-ESPIRiT yields an additional set of maps that indicates the existence of a high-frequency phase component. Taking this additional set of maps into account can improve the robustness of phase-constrained parallel imaging.
+
+
+CONCLUSION
+The extended VCC-ESPIRiT is a useful tool for phase-constrained imaging. Magn Reson Med 77:1201-1207, 2017. © 2016 International Society for Magnetic Resonance in Medicine.

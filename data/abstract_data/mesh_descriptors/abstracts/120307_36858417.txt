@@ -1,0 +1,15 @@
+Disease-specific survival after radical lymphadenectomy for penile cancer: prediction by lymph node count and density.
+OBJECTIVE
+To investigate the value of removed lymph node (LN) count and LN density (LND) for predicting disease-specific survival (DSS) rate following radical lymphadenectomy in patients with penile cancer.
+
+
+METHODS
+We retrieved data from 146 patients who were surgically treated between 2002 and 2012. receiver-operating characteristic curve analysis was used to calculate the optimal cutoff value of LN count and LND for predicting DSS rate. LND was analyzed as a categorical variable by grouping patients with pN+tumors into 2 categories. Multivariate Cox regression analysis was used to test the effect of various variables on DSS rate based on collinearity in various models.
+
+
+RESULTS
+Median follow-up was 42 months. Overall, 75 patients (51.4%) had pN0 disease, and 71 patients (48.6%) had pN+disease. The optimal cutoff value of LN count and LND were 16% and 16%, respectively. Among patients with pN0 tumors, the number of LNs removed (≥16 LNs) was an independent significant predictor of DSS rate in univariate and multivariate analyses (all P<0.05). Stratifying pN+ patients as above versus below the LND threshold demonstrated significant differences in 5-year DSS: 81.2% versus 24.4% (P < 0.001). In multivariate models including known prognostic factors, LND was a statistically significant independent predictor of DSS rate (hazard ratio = 4.31 and 3.96 for above vs. below the LND threshold, respectively).
+
+
+CONCLUSIONS
+The removal of at least 16 LNs was associated with a significantly longer DSS rate in patients with pN0 penile cancer. Additionally, an LND above 16% is an independent predictor of DSS rate in patients with pN+tumors. Further independent validation is required to determine the clinical usefulness of LN count and LND in this patient population.

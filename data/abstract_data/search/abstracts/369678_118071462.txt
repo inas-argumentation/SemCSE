@@ -1,0 +1,2 @@
+Feature Detection and Tentative Correspondence Estimation in Wide Baseline Stereo
+The aim of this work is to estimate tentative correspondence in a wide baseline image pairs with a well known method and possibly propose a new method. We made a research on known correspondence methods. This work experimentally shows a verification of our implementation of Maximally Stable Extremal Regions (MSER) detection method and describe our implementation in details.

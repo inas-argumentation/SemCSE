@@ -1,0 +1,2 @@
+Support $\tau$-tilting modules over one-point extensions
+Let $B$ be the one-point extension algebra of $A$ by an $A$-module $X$. We proved that every support $\tau$-tilting $A$-module can be extended to be a support $\tau$-tilting $B$-module by two different ways. As a consequence, it is shown that there is an inequality $$|\stilt B|\geqslant 2|\stilt A|.$$

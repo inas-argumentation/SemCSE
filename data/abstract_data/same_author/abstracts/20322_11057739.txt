@@ -1,0 +1,2 @@
+Initial experience with the CDF layer 00 silicon detector
+We report on initial experience with the CDF Layer 00 Detector. Layer 00 is an innovative, low-mass, silicon detector installed in CDF during the upgrade for Run 2A of the Tevatron. Noise pickup present during operation at CDF is discussed. An event-by-event pedestal correction implemented by CDF is presented. This off-line solution prevents L00 from being used in the current incarnation of the on-line displaced track trigger. Preliminary performance of Layer 00 is described.

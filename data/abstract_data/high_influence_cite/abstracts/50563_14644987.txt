@@ -1,0 +1,2 @@
+Tight minimax rates for manifold estimation under Hausdorff loss
+This paper deals with minimax rates of convergence for mani- fold estimation. A new lower bound is obtained by a novel construction of two sets of manifolds and an application of convex hull testing method of Le Cam (1973). The minimax lower bound matches the upper bound up to a constant factor. MSC 2010 subject classications: Primary 62C25, 62G86; secondary 65C50.

@@ -1,0 +1,2 @@
+Improving Virtual Endoscopy for the Intestinal Tract
+We present a system that opens the way to apply virtual endoscopy on the small intestines. A high-quality image acquisition technique based on MR as well as a haptically assisted interactive segmentation tool was developed. The system was used to generate a topologically correct model of the small intestines. The influence of haptic interaction on the efficiency of centerline definition has been demonstrated by a user study.

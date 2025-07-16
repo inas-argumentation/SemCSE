@@ -1,0 +1,15 @@
+MicroRNA signature helps distinguish early from late biochemical failure in prostate cancer.
+PURPOSE
+Prostate-specific antigen testing has led to overtreatment of prostate cancer (PCa). Only a small subset of PCa patients will have an aggressive disease that requires intensive therapy, and there is currently no biomarker to predict disease aggressiveness at the time of surgery. MicroRNAs (miRNAs) are reported to be involved in PCa pathogenesis.
+
+
+METHODS
+This study involved 105 participants. For the discovery phase, prostatectomy samples were dichotomized to high-risk (n = 27, biochemical failure <36 months after prostatectomy) and low-risk groups (n = 14, ≥ 36 months without biochemical failure). Expression of 754 mature miRNAs was compared between the 2 groups. Linear regression models were built to accurately predict biochemical failure risk. miRNA mimics were transfected into PCa model cell lines to test effects on proliferation and to deduce responding signaling pathways.
+
+
+RESULTS
+We identified 25 differentially expressed miRNAs between the biochemical failure risk groups. Based on the expression of 2-3 miRNAs, 3 logistic regression models were developed, each with a high positive predictive value. Candidate miRNAs and the best-performing model were also verified on an independent PCa set. miRNA-152, featured in the models, was further investigated by using cell line models and was shown to affect cell proliferation. Predicted interaction between miR-152 and (mRNA)ERBB3 (erythroblastic leukemia viral oncogene homolog 3) was experimentally validated in vitro.
+
+
+CONCLUSIONS
+miRNAs can help to predict biochemical failure risk at the time of prostatectomy.

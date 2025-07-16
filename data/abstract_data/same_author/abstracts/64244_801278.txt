@@ -1,0 +1,2 @@
+Improved Algorithms for the Feedback Vertex Set Problems
+We present improved parameterized algorithms for the Feedback Vertex Set problem on both unweighted and weighted graphs. Both algorithms run in time O(5kkn2). The algorithms construct a feedback vertex set of size bounded by k (in the weighted case this set is of minimum weight among the feedback vertex set of size at most k) in a given graph G, or reports that no such a feedback vertex set exists in G.

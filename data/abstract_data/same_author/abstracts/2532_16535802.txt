@@ -1,0 +1,2 @@
+Power Consumption Modeling and Characterization of the TI C6201
+This new approach characterizes power dissipation on complex dsps. its processor model relies on an initial functional-level power analysis of the target processor together with a characterization that qualifies the more significant architectural and algorithmic parameters for power dissipation. these parameters come from a simple profiling of the assembly code. This functional model accounts for deeply pipelined, superscalar, and hierarchical memory architectures.

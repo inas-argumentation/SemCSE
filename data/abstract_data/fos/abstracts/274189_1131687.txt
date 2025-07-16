@@ -1,0 +1,2 @@
+Secure Information Transmission Based on Physical Principles
+We employ physical properties of the real world to design a protocol for secure information transmission where one of the parties is able to transmit secret information to another party over an insecure channel, without any prior secret arrangements between the parties. The distinctive feature of this protocol, compared to all known public-key cryptographic protocols, is that neither party uses a one-way function. In particular, our protocol is secure against (passive) computationally unbounded adversary.

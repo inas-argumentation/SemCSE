@@ -1,0 +1,2 @@
+Review mining for music digital libraries: phase II
+We continue our work on the automatic mining of user-created music reviews towards the goal of connecting user opinions to music objects in music digital libraries (MDL). We demonstrate an experimental system which automatically discovered the key descriptive patterns that differentiated positive from negative reviews which helps us to better understand our successful phase I results. Comparison to an earlier study indicates an important consistency across projects that warrants further investigation

@@ -1,0 +1,2 @@
+Objektorientierte Modellierung in einem BMFT-Umweltprojekt: Wissensbasierte Fehlerdiagnosse von Kläranlagen
+In unserem Beitrag beschreiben wir die Entwicklung eines Expertensystems, das den Betrieb und die Steuerung von Klaranlagen unterstutzen soll. Aufbauend auf einer Analyse der Domane wurde das System MOTES DM 1 entwickelt, das verschiedene Wissensreprasentationsformalismen zur Modellierung technischer Systeme zur Verfugung stellt. Anschliesend benutzten wir das WerkzeugMOTES DM , um fur die Klaranlage Salzgitter-Bad ein Prototyp des Expertensystems zu entwickeln.

@@ -1,0 +1,2 @@
+Image processing as state reconstruction in optics
+The image reconstruction of partially coherent light is interpreted as the quantum state reconstruction. The eﬃcient method based on maximum-likelihood estimation is proposed to acquire information from registered intensity measurements aﬀected by noise. The connection with totally incoherent image restoration is pointed out. The feasibility of the method is demonstrated nu-merically. Spatial and correlation details signiﬁcantly smaller than the diﬀraction limit are revealed in the reconstructed pattern.

@@ -1,0 +1,2 @@
+Simultaneous amplitude and phase measurement for periodic optical signals using time-resolved optical filtering.
+Time-resolved optical filtering (TROF) measures the spectrogram or sonogram by a fast photodiode followed a tunable narrowband optical filter. For periodic signal and to match the spectrogram, numerical TROF algorithm is used to find the original complex electric field or equivalently both the amplitude and phase. For phase-modulated optical signals, the TROF algorithm is initiated using the craters and ridges of the spectrogram.

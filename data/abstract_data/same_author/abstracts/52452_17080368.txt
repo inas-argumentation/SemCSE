@@ -1,0 +1,2 @@
+The emergence of a giant component in random subgraphs of pseudo-random graphs
+Let G be a d-regular graph G on n vertices. Suppose that the adjacency matrix of G is such that the eigenvalue λ which is second largest in absolute value satisfies λ = o(d). Let Gp with p = α/d be obtained from G by including each edge of G independently with probability p. We show that if α 1, then Gp contains a unique giant component of size Ω(n), with all other components of size O(log n).

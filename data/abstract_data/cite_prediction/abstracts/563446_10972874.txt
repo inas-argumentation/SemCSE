@@ -1,0 +1,2 @@
+Elliptic Curve Public-Key Cryptosystems - An Introduction
+We give a brief introduction to elliptic curve public-key cryptosystems. We explain how the discrete logarithm in an elliptic curve group can be used to construct cryptosystems. We also focus on practical aspects such as implementation, standardization and intellectual property.

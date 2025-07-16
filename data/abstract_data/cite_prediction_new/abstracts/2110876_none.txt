@@ -1,0 +1,2 @@
+Efficient filter flow for space-variant multiframe blind deconvolution
+Ultimately being motivated by facilitating space-variant blind deconvolution, we present a class of linear transformations, that are expressive enough for space-variant filters, but at the same time especially designed for efficient matrix-vector-multiplications. Successful results on astronomical imaging through atmospheric turbulences and on noisy magnetic resonance images of constantly moving objects demonstrate the practical significance of our approach.

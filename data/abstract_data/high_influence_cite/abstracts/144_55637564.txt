@@ -1,0 +1,20 @@
+Hybrid Fuzzy Controller Based Frequency Regulation in Restructured Power System
+This paper discusses the 
+implementation of Load Frequency Control (LFC) in restructured power system 
+using Hybrid Fuzzy controller. The formulation of LFC in open energy market is 
+much more challenging; hence it needs an intelligent controller to adapt the 
+changes imposed by the dynamics of restructured bilateral contracts. Fuzzy 
+Logic Control deals well with uncertainty and indistinctness while Particle 
+Swarm Optimization (PSO) is a well-known optimization tool. Abovementioned 
+techniques are combined and called as Hybrid Fuzzy to improve the dynamic 
+performance of the system. Frequency control of restructured system has been 
+achieved by automatic Membership Function (MF) tuned fuzzy logic controller. 
+The parameters defining membership function has been tuned and updated from 
+time to time using Particle Swarm Optimization (PSO). The robustness of the 
+proposed hybrid fuzzy controller has been compared with conventional fuzzy 
+logic controller using performance measures like overshoot and settling time 
+following a step load perturbation. The motivation for using membership 
+function tuning using PSO is to show the behavior of the controller for a wide 
+range of system parameters and load changes. Error based analysis with 
+parametric uncertainties and load changes is tested on a two-area restructured 
+power system.

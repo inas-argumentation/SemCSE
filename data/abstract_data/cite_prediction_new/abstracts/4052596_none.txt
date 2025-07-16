@@ -1,0 +1,2 @@
+A New Reconstruction Algorithm in Spline Signal Spaces
+In this research letter, we introduce a reconstruction formula in spline signal spaces which is a generalization of former results in [11]. A general improved A-P iterative algorithm is presented. We use the algorithm to show reconstruction of signals from weighted samples and also show that the new algorithm shows better convergence than the old one. The explicit convergence rate of the algorithm is obtained.

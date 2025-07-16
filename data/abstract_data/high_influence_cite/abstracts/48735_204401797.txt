@@ -1,0 +1,2 @@
+Arithmetic properties of cubic and biquadratic theta series
+A cubic (resp. biquadratic) theta series is a power series whose n-th coefficient is equal to 1 if n is a perfect cube (resp. fourth power) and zero otherwise. We improve on a result of Bradshaw by showing that such series is not a cubic (resp. biquadratic) algebraic number when evaluated at reciprocals of integers. The proof relies on a "nested gaps technique" for linear independence and on recent results by the author on Waring's problem for cubes and biquadrates.

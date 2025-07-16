@@ -1,0 +1,14 @@
+MLP-based architecture with variable length input for automatic speech recognition
+We propose multi-layer perceptron (MLP)-based architectures suitable for variable length input.
+Recently, several such architectures that do not rely on self-attention have been proposed for image classification. 
+They achieve performance competitive with that of transformer-based architectures, albeit with a simpler structure and low computational cost. 
+They split an image into patches and mix information by applying MLPs within and across patches alternately. 
+Due to the use of MLPs, one such model can only be used for inputs of a fixed, pre-defined size.
+However, many types of data are naturally variable in length, for example acoustic signals. 
+We propose three approaches to extend MLP-based architectures for use with sequences of arbitrary length. 
+In all of them, we start by splitting the signal into contiguous tokens of fixed size (equivalent to patches in images). 
+Naturally, the number of tokens is variable. 
+The two first approaches use a gating mechanism that mixes local information across tokens in a shift-invariant and length-agnostic way.
+One uses a depthwise convolution to derive the gate values, while the other rely on shifting tokens.
+The final approach explores non-gated mixing using a circular convolution applied in the Fourier domain.
+We evaluate the proposed architectures on an automatic speech recognition task with the Librispeech and Tedlium2 corpora. Compared to Transformer, our proposed architecture reduces the WER by \SI{1.9 / 3.4}{\percent} on Librispeech test-clean/test-other set, and 1.8 / 1.6 % on Tedlium2 dev/test set, using only 75.3 % of the parameters.

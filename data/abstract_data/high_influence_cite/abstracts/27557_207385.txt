@@ -1,0 +1,7 @@
+Computational prediction of RNA editing sites
+MOTIVATION
+Some organisms edit their messenger RNA resulting in differences between the genomic sequence for a gene and the corresponding messenger RNA sequence. This difference complicates experimental and computational attempts to find and study genes in organisms with RNA editing even if the full genomic sequence is known. Nevertheless, knowledge of these editing sites is crucial for understanding the editing machinery of these organisms.
+
+
+RESULTS
+We present a computational technique that predicts the position of editing sites in the genomic sequence. It uses a statistical approach drawing on the protein sequences of related genes and general features of editing sites of the organism. We apply the method to the mitochondrion of the slime mold Physarum polycephalum. It correctly predicts over 90% of the amino acids and over 70% of the editing sites.

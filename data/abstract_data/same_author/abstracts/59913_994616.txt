@@ -1,0 +1,2 @@
+Bridging the Gap between Fair Simulation and Trace Inclusion
+The paper considers the problem of checking abstraction between two finite-state fair discrete systems. In automata-theoretic terms this is trace inclusion between two Streett automata. We propose to reduce this problem to an algorithm for checking fair simulation between two generalized Buchi automata. For solving this question we present a new triply nested μ-calculus formula which can be implemented by symbolic methods.

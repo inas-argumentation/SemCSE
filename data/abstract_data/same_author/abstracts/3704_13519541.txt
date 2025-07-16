@@ -1,0 +1,2 @@
+WS-SLA: A Framework for Web Services Oriented Service Level Agreements
+Service level agreements (SLA) becomes the prevailing business model for delivery of a large number of products and services in telecommunication and IT arenas. We presents an integrated service level agreement model applied to operating supporting system (OSS), on the basis of WfMC workflow reference model and service oriented architecture (SOA). And an application scenario instance of SLA system architecture is described by a set of operations models by Business Process Execution Language (BPEL)

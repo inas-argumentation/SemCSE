@@ -1,0 +1,2 @@
+An error model of circular curve features in GIS
+In this paper, a new error model to describe circular curve features in GIS is presented. In the model, the error of a circular curve feature can be described by two methods. In the first method, the error is described by the root mean square error in the normal direction of the circular curve. In the second method, the error is indicated by the maximum distance between the curve feature and the error ellipse. The two methods are tested through case studies, and the results are analyzed.

@@ -1,0 +1,2 @@
+Finitary Sketches and Finitely Accessible Categories
+Every accessible category is proved to be sketchable by a sketch with finite colimits. In contrast, a finitely accessible category is presented that cannot be sketched by a finitary sketch, i.e ., a sketch with finite limits and finite colimits. Also, a category sketchable by a finitary sketch is found that is not finitely accessible.

@@ -1,0 +1,2 @@
+An Online Multi-stroke Sketch Recognition Method Integrated with Stroke Segmentation
+In this paper a novel multi-stroke sketch recognition method is presented. This method integrates the stroke segmentation and sketch recognition into a single approach, in which both stroke segmentation and sketch recognition are uniformed as a problem of “fitting to a template” with a minimal fitting error, and a nesting Dynamic Programming algorithm is designed to accelerate the optimizing approach.

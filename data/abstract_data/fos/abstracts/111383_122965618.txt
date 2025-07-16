@@ -1,0 +1,2 @@
+Equivariance of ridge estimators through standardization, a note
+We show that standardization of data recommended for Ridge Regression (RR) by Hoerl and Kennard (1970 a8b), Marquardt and Snee (1975), and others is worthwhile despite the criticisms by Swamy, Mehta and Rappoport (SMR) (1978).

@@ -1,0 +1,2 @@
+Power spectrum blind sampling using optimal multicoset sampling patterns in the MSE sense
+We consider the design of a multicoset sampling pattern to be used in power spectrum blind sampling (PSBS). The criterion for the PSBS pattern design that we propose is based on the minimization of the mean square error of the power spectrum estimate. The design framework appears as a constrained optimization problem, whose complexity increases with the pattern length. We solve such a constrained optimization problem in terms of nonlinear integer programming by using exhaustive search.

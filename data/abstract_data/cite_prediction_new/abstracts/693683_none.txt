@@ -1,0 +1,2 @@
+Design flows and collateral for the ASAP7 7nm FinFET predictive process design kit
+Educators and researchers exploring integrated circuit design methods need models and design flows for advanced integrated circuit processes. As commercial processes have become highly proprietary, predictive technology models fill the gap. This work describes a design flow for ASAP7, the first 7 nm FinFET PDK, including schematic and layout entry, library characterization, synthesis, placement and routing, parasitic extraction, and HSPICE simulation.

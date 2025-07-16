@@ -1,0 +1,2 @@
+Making Self-Adaptation an Engineering Reality
+In this paper, we envision a world where a software engineer could take an existing software system, specify, for a set of properties of interest, an objective, conditions for change, and strategies for their adaptation and, within a few man weeks, make that system self-adaptive where it was not before. We describe how our approach generalizes to different classes of systems and holds promise for cost-effective, dynamic system self-adaptation to become an engineering reality.

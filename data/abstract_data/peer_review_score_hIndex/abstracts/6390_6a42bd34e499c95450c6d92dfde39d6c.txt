@@ -1,0 +1,12 @@
+Rule Mining in Feature Space
+Relational embeddings have emerged as an excellent tool for inferring novel facts
+from partially observed knowledge bases. Recently, it was shown that some
+classes of embeddings can also be exploited to perform a simplified form of rule
+mining. By interpreting logical conjunction as a form of composition between re-
+lation embeddings, simplified logical theories can be mined directly in the space
+of latent representations. In this paper, we present a method to mine full-fledged
+logical theories, which are significantly more expressive, by casting the semantics
+of the logical operators to the space of the embeddings. In order to extract relevant
+rules in the space of relation compositions we borrow sparse reconstruction pro-
+cedures from the field of compressed sensing. Our empirical analysis showcases
+the advantages of our approach.

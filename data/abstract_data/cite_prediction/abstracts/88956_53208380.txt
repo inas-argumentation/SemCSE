@@ -1,0 +1,2 @@
+Blockwise Parallel Decoding for Deep Autoregressive Models
+Some recent sequence-to-sequence models like the Transformer (Vaswani et al., 2017) can score all output posiQons in parallel. We propose a simple algorithmic technique that exploits this property to generate mulQple tokens in parallel at decoding Qme with liTle to no loss in quality. Our fastest models exhibit wall-clock speedups of up to 4x over standard greedy decoding on the tasks of machine translaQon and image super-resoluQon.

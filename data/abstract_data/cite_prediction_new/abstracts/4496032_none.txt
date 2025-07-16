@@ -1,0 +1,2 @@
+Planar Graph Coloring with an Uncooperative Partner
+We show that the game chromatic number of a planar graph is at most 33. More generally, there exists a function f: f\l --+ f\l so that for each n E f\l. if a graph does not contain a homeomorph of Kn• then its game chromatic number is at most f(n). In particular, the game chromatic number of a graph is bounded in terms of its genus. Our proof is motivated by the concept of p-arrangeability, which was first introduced by Guantao and Schelp in a Ramsey theoretic setting. © 1994 John Wiley & Sons, Inc.

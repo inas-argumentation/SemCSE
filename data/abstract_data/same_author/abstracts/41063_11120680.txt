@@ -1,0 +1,2 @@
+Semantic mapping with multi-agent systems
+This paper introduces a multi-agent system (MAS) architecture and a relevant algorithm for multiple agents to manage and deploy ontologies in a dynamic environment. Firstly, an ontology description is given followed by a three level conceptual model which shows the background of our work. Then a MAS architecture is presented. Finally, we demonstrate how this approach enables ontology evolution and integration by using the JADE platform.

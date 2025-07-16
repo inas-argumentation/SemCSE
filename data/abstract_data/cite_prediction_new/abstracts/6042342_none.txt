@@ -1,0 +1,2 @@
+A Parallel Optimization Approach to ATM Network Survivability
+This paper describes a new model for routing in survivable ATM networks and a new parallel projection algorithm for solving the corresponding optimization problem. The proposed algorithm has application in general linear programming (LP). Numerical results for medium size networks are presented and discussed.

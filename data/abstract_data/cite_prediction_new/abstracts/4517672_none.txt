@@ -1,0 +1,2 @@
+Special Issue on Self-Managing Databases: Lessons Learned and Challenges Ahead
+We describe our experience in the development of self-managing technologies in Sybase SQL Anywhere, a full-featured relational database system that is commonly embedded with applications developed by Independent Software Vendors (ISVs). We illustrate how SQL Anywhere’s embeddability features work in concert to provide a robust data management solution in zero-administration environments.

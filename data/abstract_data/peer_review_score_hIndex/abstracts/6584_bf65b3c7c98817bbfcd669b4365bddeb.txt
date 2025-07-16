@@ -1,0 +1,3 @@
+Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning
+In this paper, we propose a novel framework for training vision-based agent for First-Person Shooter (FPS) Game, in particular Doom.
+Our framework combines the state-of-the-art reinforcement learning approach (Asynchronous Advantage Actor-Critic (A3C) model) with curriculum learning. Our model is simple in design and only uses game states from the AI side, rather than using opponents' information. On a known map, our agent won 10 out of the 11 attended games and the champion of Track1 in ViZDoom AI Competition 2016 by a large margin, 35\% higher score than the second place.

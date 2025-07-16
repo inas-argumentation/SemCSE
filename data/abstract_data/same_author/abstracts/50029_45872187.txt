@@ -1,0 +1,2 @@
+Parallel Programming with Polaris
+Parallel programming tools are limited, making effective parallel programming difficult and cumbersome. Compilers that translate conventional sequential programs into parallel form would liberate programmers from the complexities of explicit, machine oriented parallel programming. The paper discusses parallel programming with Polaris, an experimental translator of conventional Fortran programs that target machines such as the Cray T3D.

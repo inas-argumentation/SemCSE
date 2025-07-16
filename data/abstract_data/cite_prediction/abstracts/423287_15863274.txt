@@ -1,0 +1,2 @@
+Towards Practical Taint Tracking
+This paper proposes several technical measures that significantly improve performance and largely limit kernel taint explosion in a XENand QEMU-based taint tracking system.

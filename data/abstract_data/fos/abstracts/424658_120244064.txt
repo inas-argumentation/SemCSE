@@ -1,0 +1,2 @@
+Estimations of Magnetic Field Distributions in Three Dimensions Using a Two Dimensional Computer Program TRIMM
+The TRIMM program for analysis of electromagnet designs is readily applied to cylindrical and infinitely long dipole problems. When the magnet does not conform specifically to the ideal shape, it is necessary to substitute an analytically similar problem to obtain a satisfactory prediction of field. Two cases are presented: one completed H magnet, and a rectangular solenoid, which is now being designed. The Harvard Computing Center 360/65 was used in this work.

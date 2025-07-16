@@ -1,0 +1,2 @@
+A Simplified Technique for Hidden-Line Elimination in Terrains
+In this paper we give a simple and efficient output-sensitive algorithm for constructing the display of a polyhedral terrain. It runs in $O((d + n)\log^2 n)$ time, where $d$ is the size of the final display. The main data structure maintains an implicit representation of the convex hull of a set of points that can be dynamically updated in $O(\log^2 n)$ time. It is especially simple and fast in our application since there are no rebalancing operations required in the tree.

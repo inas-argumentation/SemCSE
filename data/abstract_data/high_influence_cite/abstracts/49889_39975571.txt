@@ -1,0 +1,11 @@
+Speech Emotion Recognition Based on Sparse Representation
+Speech emotion recognition is deemed to be a meaningful and intractable issue among a number of do- 
+mains comprising sentiment analysis, computer science, pedagogy, and so on. In this study, we investigate 
+speech emotion recognition based on sparse partial least squares regression (SPLSR) approach in depth. 
+We make use of the sparse partial least squares regression method to implement the feature selection 
+and dimensionality reduction on the whole acquired speech emotion features. By the means of exploiting 
+the SPLSR method, the component parts of those redundant and meaningless speech emotion features 
+are lessened to zero while those serviceable and informative speech emotion features are maintained and 
+selected to the following classification step. A number of tests on Berlin database reveal that the recogni- 
+tion rate of the SPLSR method can reach up to 79.23% and is superior to other compared dimensionality 
+reduction methods.

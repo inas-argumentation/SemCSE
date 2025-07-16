@@ -1,0 +1,2 @@
+Bipartite subgraphs of integer weighted graphs
+Abstract For every integer p > 0, let f ( p ) be the minimum possible value of the maximum weight of a cut in an integer weighted graph with total weight p . It is shown that for every large n and every m 2 n ) + m) = ⌊ 1 4 n 2 ⌋ + min (⌈ 1 2 n⌉, f(m)) . This supplies the precise value of f ( p ) for many values of p including, e.g., all p = ( 2 n ) + ( 2 m ) when n is large enough and 1 4 m 2 ⩽ 1 2 n .

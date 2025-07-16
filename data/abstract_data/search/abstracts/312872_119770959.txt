@@ -1,0 +1,2 @@
+CLoE, a new rate type constitutive model for geomaterials theoretical basis and implementation
+The paper describes the basic ideas and the main features of a new class of constitutive laws, in the framework of incrementally non linear constitutive equations. CLoE is a generic name for that new class of laws, with reference to consistency at the limit surface, and explicit localization analysis. A top down analysis of the model is presented, and illustrated by examples.

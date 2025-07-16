@@ -1,0 +1,2 @@
+Dimensionality reduction in computational demarcation of protein tertiary structures
+Predictive classification of major structural families and fold types of proteins is investigated deploying logistic regression. Only five to seven dimensional quantitative feature vector representations of tertiary structures are found adequate. Results for benchmark sample of non-homologous proteins from SCOP database are presented. Importance of this work as compared to homology modeling and best-known quantitative approaches is highlighted.

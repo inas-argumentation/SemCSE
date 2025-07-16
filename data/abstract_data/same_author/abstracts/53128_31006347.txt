@@ -1,0 +1,2 @@
+Abstract Proof Checking: An Example Motivated by an Incompleteness Theorem
+We demonstrate the use of abstraction in aiding the construction of aninteresting and difficult example in a proof-checking system. Thisexperiment demonstrates that abstraction can make proofs easier tocomprehend and to verify mechanically. To support such proof checking, wehave developed a formal theory of abstraction and added facilities for usingabstraction to the GETFOL proof-checking system.

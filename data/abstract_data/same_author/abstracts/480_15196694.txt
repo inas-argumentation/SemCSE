@@ -1,0 +1,2 @@
+End-to-end diagnosis of QoS violations with neural network
+In this paper, we introduce a novel end-to-end approach to QoS management with respect to the diagnosis of QoS violations. We first use a set of end-to-end flow traffic statistics to describe a QoS violation. Subsequently, neural network techniques are engaged to identify and differentiate QoS violations through classification of the collected statistics. Through experiments, we find that our scheme outperforms traditional rule-based methods which require clear margins of QoS parameters in asserting a QoS violation.

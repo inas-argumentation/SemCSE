@@ -1,0 +1,2 @@
+Combining First Order Algebraic Rewriting Systems, Recursion and Extensional Lambda Calculi
+It is well known that confluence and strong normalization are preserved when combining left-linear algebraic rewriting systems with the simply typed lambda calculus. It is equally well known that confluence fails when adding either the usual extensional rule for η, or recursion together with the usual contraction rule for surjective pairing.

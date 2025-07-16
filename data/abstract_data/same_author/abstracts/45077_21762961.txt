@@ -1,0 +1,2 @@
+Voltage-Clock-Scaling Adaptive Scheduling Techniques for Low Power in Hard Real-Time Systems
+Many embedded systems operate under severe power and energy constraints. Voltage clock scaling is one mechanism by which energy consumption may be reduced: it is based on the fact that power consumption is a quadratic function of the voltage, while the speed is a linear function. We show how voltage scaling can be scheduled to reduce energy usage while still meeting real-time deadlines.

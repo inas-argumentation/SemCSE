@@ -1,0 +1,2 @@
+An extended dynamic source routing scheme in ad hoc wireless networks
+We consider a multipath extension to the dynamic source routing (DSR) protocol proposed by D.B. Johnson and D.A. Maltz (1996), an on-demand routing protocol, for ad hoc wireless networks. This extension keeps two node disjoint paths between the source and the destination of a routing process without introducing extra overhead. Several optimization options are also considered. Simulation is conducted on the success rate of finding node disjoint paths.

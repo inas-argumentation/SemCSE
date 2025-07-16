@@ -1,0 +1,2 @@
+A (μ, λ) evolutionary and particle swarm hybrid algorithm, with an application to dinosaur gait optimization
+A hybrid evolutionary algorithm based on (μ, λ) evolutionary algorithms and particle swarm optimization is proposed for the numerical optimization problems. In order to find out the performance of the hybrid, the computer experiment is tested on dinosaur's gait generation problem. Experimental results show that hybrid optimization finds maximum fitness and is faster in the first phase.

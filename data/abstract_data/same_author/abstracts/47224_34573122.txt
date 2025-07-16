@@ -1,0 +1,2 @@
+Corrigendum: A Fast Stable Sorting Algorithm with Absolutely Minimum Storage
+An algorithm is described which sorts n numbers in place with the property of stability, i.e., preserving the original order of equal elements. The algorithm requires absolutely minimum storage 0 (log 2 n ) bits for program variables and a computation time at most 0 ( n (log 2 n ) 2 ).

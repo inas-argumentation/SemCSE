@@ -1,0 +1,8 @@
+Zwei Integralgesetze des Hörens. Lautstärke und Hördauer eines Schallimpulses
+ZusammenfassungDie Lautstärke des Klangimpulses wird durch das „Lautstärkeintegral“ log
+$$\int\limits_{t_1 }^{t_2 } {Idt}$$
+ bestimmt. Die Hördauer eines bestimmten Klangimpulses wird durch das Hördauerintegral
+$$\int\limits_{t_1 }^{t_2 } {\log Idt}$$
+ bestimmt. Die Abhängigkeit der optimalen musikalischen Nachhalldauer vom Hörraumvolumen kann mittels Angleichung des Hördauerintegrals an einen konstanten Wert
+$$\int\limits_{t_1 }^{t_2 } {\log Idt} = Const$$
+ berechnet werden.

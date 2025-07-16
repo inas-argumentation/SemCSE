@@ -1,0 +1,17 @@
+Machine Solver for Physics Word Problems
+We build a machine solver for word problems on the physics of a free
+falling object under constant acceleration of gravity.  Each problem
+consists of a formulation part, describing the setting, and a question
+part asking for the value of an unknown.  Our solver consists of
+two long short-term memory recurrent neural networks and a numerical
+integrator. The first neural network (the labeler) labels each
+word of the problem, identifying the physical parameters and the
+question part of the problem. The second neural network (the 
+classifier) identifies what is being asked in the question. Using
+the information extracted by both networks, the numerical integrator
+computes the solution.  We observe that the classifier is resilient
+to errors made by the labeler, which does a better job of identifying
+the physics parameters than the question. Training, validation and test
+sets of problems are generated from a grammar, with validation and test
+problems structurally different from the training problems. The overall
+accuracy of the solver on the test cases is 99.8%.

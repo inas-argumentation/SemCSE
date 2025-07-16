@@ -1,0 +1,2 @@
+The weight filtration for real algebraic varieties
+Using the work of Guillen and Navarro Aznar we associate to each real algebraic variety a filtered chain complex, the weight complex, which is well-defined up to filtered quasi-isomorphism, and which induces on Borel-Moore homology with Z/2 coefficients an analog of the weight filtration for complex algebraic varieties.

@@ -1,0 +1,2 @@
+Traveling wave solutions for a one-dimensional crawling nematode sperm cell model
+.In this paper, we proved that the one-dimensional crawling nematode sperm cell model proposed by Mogilner and Verzi (2003) supports traveling wave solutions if there is no disassembly of unbundled filaments in the cell. Uniqueness of traveling wave is established under additional assumptions and numerical examples are also given in the paper. Mathematical methods used include dynamical system techniques, implicit function theorem and global bifurcation theory.

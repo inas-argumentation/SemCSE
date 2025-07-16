@@ -1,0 +1,2 @@
+Communication issues in parallel computing across ATM networks
+To support distributed parallel computing across asynchronous transfer mode networks, the interplay between communications software and the network architecture is critical. In particular, we can improve communication performance significantly by efficiently designing collective communication operations, such as multicast and reduction.<<ETX>>

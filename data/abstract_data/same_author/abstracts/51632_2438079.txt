@@ -1,0 +1,7 @@
+Visualizations for taxonomic and phylogenetic trees
+MOTIVATION
+Despite substantial efforts to develop and populate the back-ends of biological databases, front-ends to these systems often rely on taxonomic expertise. This research applies techniques from human-computer interaction research to the biodiversity domain.
+
+
+RESULTS
+We developed an interactive node-link tool, TaxonTree, illustrating the value of a carefully designed interaction model, animation, and integrated searching and browsing towards retrieval of biological names and other information. Users tested the tool using a new, large integrated dataset of animal names with phylogenetic-based and classification-based tree structures. These techniques also translated well for a tool, DoubleTree, to allow comparison of trees using coupled interaction. Our approaches will be useful not only for biological data but as general portal interfaces.

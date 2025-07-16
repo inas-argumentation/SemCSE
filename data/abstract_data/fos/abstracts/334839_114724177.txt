@@ -1,0 +1,2 @@
+Design and Implementation of Flight Data Displaying System Based on MVC
+With the rapid development of Chinese aviation industry,flight data displaying system becomes an important supporting system of the air traffic control system.Due to the characteristics of the flight data displaying system,uses MVC to design the flight data displaying system.Gives the overall design of the whole system and the implementation of the subsystem-repetitive flight plan.

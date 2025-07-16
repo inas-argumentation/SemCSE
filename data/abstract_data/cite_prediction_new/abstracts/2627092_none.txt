@@ -1,0 +1,2 @@
+ICA-Based EEG Spatio-temporal Dipole Source Localization: A Model Study
+In this paper, we examine the performance of an Independent Component Analysis (ICA) based dipole localization approach to localize multiple source dipoles under noisy environment. Uncorrelated noise of up to 40% was added to scalp EEG signals. The performance of the ICA-based algorithm is compared with the conventional localization procedure using Simplex method. The present simulation results indicate the robustness of the ICA-based approach in localizing multiple dipoles of independent sources.

@@ -1,0 +1,2 @@
+A Review on Networking and Multiplayer Computer Games
+Networking forms an essential part of multiplayer computer games. In this paper, we review the techniques developed for improving networking in distributed interactive real-time applications. We present a survey of the relevant literature concentrating on the research done on military simulations, networked virtual environments, and multiplayer computer games. We also discuss on resource management, consistency and responsiveness, and networking on the application level.

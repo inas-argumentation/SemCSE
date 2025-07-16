@@ -1,0 +1,2 @@
+Research on Sampling Algorithm for Network Measurements Based on Pathneck
+According to the problems that the periodic sampling algorithm for Pathneck measring net-work bottlenecks,which is unable to do the effective adaptation for the network dynamically changing,with the characteristic of pathneck measuring the length of delay,proposes a new kind of auto-control sampling algorithm based on the length of delay distributed function.

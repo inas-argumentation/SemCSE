@@ -1,0 +1,2 @@
+Hamiltonicity of 3-connected quasi-claw-free graphs
+A graph G is called quasi-claw-free if it satisfies the property: d(x,y)[email protected]? there exists [email protected]?N(x)@?N(y) such that N[u]@?N[x]@?N[y]. Let G be a 3-connected quasi-claw-free graph of order n. If @d(G)>=(n+5)/5, then G is hamiltonian.

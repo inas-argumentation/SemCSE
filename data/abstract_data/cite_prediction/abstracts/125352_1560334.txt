@@ -1,0 +1,2 @@
+Chapter 0 Fractal Dimension Estimation Methods for Biomedical Images
+The use of medical images has its main aim in the detection of potential abnormalities. This goal is accurately achieved with the synergy between the ability in recognizing unique image patterns and finding the relationship between them and possible diagnoses. One of the methods used to aid this process is the extrapolation of important features from the images called texture; texture is an important source of visual information and is a key component in image analysis.

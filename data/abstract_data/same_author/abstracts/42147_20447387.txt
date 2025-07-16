@@ -1,0 +1,2 @@
+Cluster ZTP in the recovery of an image
+Abstract Cluster ZTP (zero-temperature process) is proposed as a method of image recovery and examined for 8-valued images. The cluster ZTP is an iterative algorithm for the search of an approximately optimal solution of an energy minimization problem.

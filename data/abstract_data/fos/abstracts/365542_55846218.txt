@@ -1,0 +1,24 @@
+Impact of pitch angle fluctuations on airborne lidar forward sensing along the flight direction
+Airborne lidar forward sensing along the flight direction can serve for
+notification of clear air turbulence (CAT) and help to prevent injuries or
+fatal air accidents. The validation of this concept was presented in the
+framework of the DELICAT (DEmonstration of LIdar-based CAT detection)
+project. However, the strong variations in signal level, which were observed
+during the DELICAT measurements but not explained, sometimes indicated the
+need of a better understanding the observational errors due to geometrical
+factors. In this paper, we discuss possible error sources pertinent to this
+technique, related to fluctuations of the flight parameters, which may lead
+to strong signal variations caused by the random deviations of the sensing
+beam from the forward flight trajectory. We analyze the variations in
+backscattered lidar signal caused by fluctuations of the most important
+forward-sensing flight parameter, the pitch angle. The fluctuation values
+considered in the paper correspond to the error limits of the compensational
+gyro platform used in civil aviation. The part of the pitch angle
+fluctuations not compensated for by the beam-steering device in the presence
+of aerosol concentration variations can lead to noticeable signal variations
+that can be mistakenly attributed to wind shear, turbulence, or fast
+evolution of the aerosol layer. We formulate the criteria that allow the
+recognition of signal variations caused by pitch angle fluctuations.
+Influence of these fluctuations is shown to be stronger for aerosol
+variations on smaller vertical scales. An example of DELICAT observations
+indicating a noticeable pitch angle fluctuation impact is presented.

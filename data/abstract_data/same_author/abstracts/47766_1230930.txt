@@ -1,0 +1,2 @@
+Improved sparse approximation over quasiincoherent dictionaries
+This paper discusses a new greedy algorithm for solving the sparse approximation problem over quasiincoherent dictionaries. These dictionaries consist of waveforms that are uncorrelated "on average," and they provide a natural generalization of incoherent dictionaries. The algorithm provides strong guarantees on the quality of the approximations it produces, unlike most other methods for sparse approximation. Moreover, very efficient implementations are possible via approximate nearest-neighbor data structures.

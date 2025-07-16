@@ -1,0 +1,6 @@
+Characterizing Applications from Power Consumption: A Case Study for HPC Benchmarks
+With the rise of Clouds and PaaS (Platform as a Service) usage, providers of large computing facilities are completely disconnected from users running jobs on their infrastructure. Thus, the old adage knowledge is power has never been so true. By having good insight on application running on their infrastructure, providers can save up to 30% of their energy consumption while not impacting too much applications. 
+ 
+Without access to application source code, it can be quite difficult to have a precise vision of the type of application. For instance, in NAS Parallel Benchmark (NPB), seven different benchmarks are available and have different behaviors (memory consumption patterns, performance decreasing with processor frequency,...) but discriminating between them can be costly due to the monitoring infrastructure. 
+ 
+In this article we show that using power consumption of hosts we can discriminate between applications with nearly no impact on the application execution and without a-priori knowledge.

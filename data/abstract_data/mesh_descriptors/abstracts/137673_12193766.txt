@@ -1,0 +1,15 @@
+Partial-breast irradiation versus whole-breast irradiation for early-stage breast cancer: a cost-effectiveness analysis.
+PURPOSE
+Accelerated partial-breast irradiation (PBI) is a new treatment paradigm for patients with early-stage breast cancer. Although PBI may lead to greater local recurrence rates, it may be cost-effective because of better tolerability and lower cost. We aim to determine the incremental cost-effectiveness of PBI compared with whole-breast radiation therapy (WBRT) for estrogen receptor-positive postmenopausal women treated for early-stage breast cancer.
+
+
+METHODS AND MATERIALS
+We developed a Markov model to describe health states in the 15 years after radiotherapy for early-stage breast cancer. External beam (EB) and MammoSite (MS) PBI were considered and assumed to be equally effective, but carried different costs. Patients received tamoxifen, but not chemotherapy. Utilities, recurrence risks, and costs were adapted from the literature; the baseline utility for no disease after radiotherapy was set at 0.92. Probabilistic sensitivity analyses were performed to model uncertainty in the PBI hazard ratio, recurrence pattern, and patient utilities. Costs (in 2004 US dollars) and quality-adjusted life-years were discounted at 3%/y.
+
+
+RESULTS
+The incremental cost-effectiveness ratio for WBRT compared with EB-PBI was $630,000/quality-adjusted life-year; WBRT strongly dominated MS-PBI. One-way sensitivity analysis found that results were sensitive to PBI hazard ratio, recurrence pattern, baseline recurrence risk, and no evidence of disease PBI utility values. Probabilistic sensitivity showed that EB-PBI was the most cost-effective technique over a wide range of assumptions and societal willingness-to-pay values.
+
+
+CONCLUSIONS
+EB-PBI was the most cost-effective strategy for postmenopausal women with early-stage breast cancer. Unless the quality of life after MS-PBI proves to be superior, it is unlikely to be cost-effective.

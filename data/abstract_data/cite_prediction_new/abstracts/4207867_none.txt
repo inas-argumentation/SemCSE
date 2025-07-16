@@ -1,0 +1,2 @@
+New classes of algebraic interleavers for turbo-codes
+In this paper we present classes of algebraic interleavers that permute a sequence of bits with nearly the same statistical distribution as a randomly chosen interleaver. When these interleavers are used in turbo-coding, they perform equal to or better than the average of a set of randomly chosen interleavers. They are based on a property of quadratic congruences over the ring of integers modulo powers of 2.

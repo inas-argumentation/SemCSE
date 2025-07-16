@@ -1,0 +1,2 @@
+Presentations of K-Trivial Reals and Kolmogorov Complexity
+For given real α ∈ {0,1}∞, a presentation V of α is a prefix-free and recursively enumerable subset of {0,1}* such that $\alpha = \Sigma_{\sigma\epsilon\nu}2^{-|\sigma|}$. So, α has a presentation iff α is a left-r.e. real.

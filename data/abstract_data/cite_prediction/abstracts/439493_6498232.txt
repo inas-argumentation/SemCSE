@@ -1,0 +1,19 @@
+Brain-computer interfacing in disorders of consciousness.
+BACKGROUND
+Recent neuroimaging research has strikingly demonstrated the existence of covert awareness in some patients with disorders of consciousness (DoC). These findings have highlighted the potential for the development of simple brain-computer interfaces (BCI) as a diagnosis in behaviourally unresponsive patients.
+
+
+OBJECTIVES
+This study here reviews current EEG-based BCIs that hold potential for assessing and eventually assisting patients with DoC. It highlights key areas for further development that might eventually make their application feasible in this challenging patient group.
+
+
+METHODS
+The major types of BCIs proposed in the literature are considered, namely those based on the P3 potential, sensorimotor rhythms, steady state oscillations and slow cortical potentials. In each case, a brief overview of the relevant literature is provided and then their relative merits for BCI applications in DoC are considered.
+
+
+RESULTS
+A range of BCI designs have been proposed and tested for enabling communication in fully conscious, paralysed patients. Although many of these have potential applicability for patients with DoC, they share some key challenges that need to be overcome, including limitations of stimulation modality, feedback, user training and consistency.
+
+
+CONCLUSION
+Future work will need to address the technical and practical challenges facing reliable implementation at the patient's bedside.

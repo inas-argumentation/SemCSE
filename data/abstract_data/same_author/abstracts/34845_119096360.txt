@@ -1,0 +1,2 @@
+Downloading the nuclear structure shell model code OXBASH from INTERNET
+This document explains how to download the OXBASH code for nuclear structure calculations from the NSCL anonymous server and get it running on VAX (VMS), ALPHA (OpenVMS) and IBM RS/6000 (aix) computers. The physics behind the code is explained in the OXBASH manual, which is part of the downloading package. Everybody is welcome to download the code and use it under the conditions described below.

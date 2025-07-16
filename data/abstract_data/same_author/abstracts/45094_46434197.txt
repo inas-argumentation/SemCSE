@@ -1,0 +1,2 @@
+Flow Control Strategy for Flexible Machining and Assembly System
+In this paper an effective flow control strategy for a Flexible Machining and Assembly System is proposed using the concepts of operation-oriented and, combined push and pull control method. The proposed flow control mechanism could meet production demands with a minimum makespan while satisfying assigned due-dates and keeping a low volume of work-in-process at the same time. It also considers machine failures and rush jobs.

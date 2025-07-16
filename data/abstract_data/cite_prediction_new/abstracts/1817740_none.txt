@@ -1,0 +1,2 @@
+Fast beam propagation method for the analysis of second-order nonlinear phenomena
+We adopt an implicit scheme to solve both the dispersive/diffractive and the nonlinear step in the beam propagation method (BPM) code. Unlike the Runge-Kutta implementation used in the nonlinear part of the propagation, the totally implicit scheme is considerably fast. Transparent boundary conditions can be also applied to effectively treat radiation problems. To validate the method, numerical examples are given and results compared with analytical solutions.

@@ -1,0 +1,2 @@
+PERFORMANCE OF THE RBF NEURAL CONTROLLER FOR TRANSIENT STABILITY ENHANCEMENT OF THE POWER SYSTEM
+To enhance the first swing stability a RBF neural network fastvalving controller is proposed. The solution approach is based on a recent fuzzy fastvalving control scheme. Disturbances in the PS are used for training the NN controller. The performance of the RBF neural controller is simulated in a single machine to an infinite bus power system.

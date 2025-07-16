@@ -1,0 +1,2 @@
+General synthesis techniques for coupled resonator networks
+This article presented general techniques for the synthesis and design of coupled resonator filters. The synthesis of the prototype circuit focuses on the compatibility between the coupling topology and the filtering function to be realized, providing some guidelines to select a proper coupling topology and to solve the coupling matrix synthesis problem. The dimensioning of the distributed filter is centered on parameter extraction techniques.

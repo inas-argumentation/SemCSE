@@ -1,0 +1,41 @@
+Use of polarimetric radar measurements to constrain simulated convective cell evolution: A pilot study with Lagrangian tracking
+. To probe the potential value of a radar-driven field campaign
+to constrain simulation of isolated convection subject to a strong aerosol
+perturbation, convective cells observed by the operational KHGX weather radar
+in the vicinity of Houston, Texas, are examined individually and
+statistically. Cells observed in a single case study of onshore flow
+conditions during July 2013 are first examined and compared with cells in a
+regional model simulation. Observed and simulated cells are objectively
+identified and tracked from observed or calculated positive specific
+differential phase ( KDP ) above the melting level, which is
+related to the presence of supercooled liquid water. Several observed and
+simulated cells are subjectively selected for further examination. Below the
+melting level, we compare sequential cross sections of retrieved and
+simulated raindrop size distribution parameters. Above the melting level, we
+examine time series of KDP and radar differential reflectivity
+( ZDR ) statistics from observations and calculated from simulated
+supercooled rain properties, alongside simulated vertical wind and
+supercooled rain mixing ratio statistics. Results indicate that the
+operational weather radar measurements offer multiple constraints on the
+properties of simulated convective cells, with substantial value added from
+derived KDP and retrieved rain properties. The value of
+collocated three-dimensional lightning mapping array measurements, which are
+relatively rare in the continental US, supports the choice of Houston as a
+suitable location for future field studies to improve the simulation and
+understanding of convective updraft physics. However, rapid evolution of
+cells between routine volume scans motivates consideration of adaptive scan
+strategies or radar imaging technologies to amend operational weather radar
+capabilities. A 3-year climatology of isolated cell tracks, prepared
+using a more efficient algorithm, yields additional relevant information.
+Isolated cells are found within the KHGX domain on roughly 40 % of days
+year-round, with greatest concentration in the northwest quadrant, but
+roughly 5-fold more cells occur during June through September. During this
+enhanced occurrence period, the cells initiate following a strong diurnal
+cycle that peaks in the early afternoon, typically follow a south-to-north
+flow, and dissipate within 1 h, consistent with the case study examples.
+Statistics indicate that ∼  150 isolated cells initiate and dissipate
+within 70 km of the KHGX radar during the enhanced occurrence period
+annually, and roughly 10 times as many within 200 km, suitable for
+multi-instrument Lagrangian observation strategies. In addition to ancillary
+meteorological and aerosol measurements, robust vertical wind speed
+retrievals would add substantial value to a radar-driven field campaign.

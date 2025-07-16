@@ -1,0 +1,2 @@
+A New Query Processing Scheme in a Web Data Engine
+The explosion of information on the web turns the search for interested information from the web into a great challenge. In this paper, we present a system called Web Data Engine-SESQ (Search Extract Store Query) that is designed to solve this problem by integrating database techniques with search engine techniques. In contrast with traditional database systems and searching engines, SESQ is different in data model, query expression, data storage schema and the use of index.

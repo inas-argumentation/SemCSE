@@ -1,0 +1,2 @@
+Nondegeneracy Conditions for Active Memristive Circuits
+This brief presents a characterization of nondegenerate circuits with active memristors, i.e., memristors with a negative memductance at certain operating ranges. The analysis proceeds by characterizing index-one configurations in several differential-algebraic models of active memristive circuits. We apply tree-based techniques to the analysis of nodal analysis models and then extend this approach to branch-oriented systems. Some examples illustrate the scope of our results.

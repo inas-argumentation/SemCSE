@@ -1,0 +1,15 @@
+The relation between the instantaneous center of rotation and facet joint forces - A finite element analysis.
+BACKGROUND
+The instantaneous center of rotation in a functional spinal unit is an indicator for mechanical disorders and is relevant for the development of motion preserving techniques. In addition to the intervertebral disc, the facet joints also play a major role for load transmission through the spine, providing stability to it. The relationship between the rotation center and facet joint forces is not fully understood, since previous studies have separated both; spinal motion and facet forces.
+
+
+METHODS
+A finite element model of a L4-5 lumbar spinal segment was exposed to an axial compression preload of 500 N. Pure unconstrained moments of 7.5 Nm were additionally applied in the three anatomical main planes. The instantaneous center of rotation and the facet joint forces were investigated.
+
+
+FINDINGS
+For small moments, the center of rotation was found to be almost in the center of the disc, no matter what motion direction. With an increasing flexion moment, the center of rotation moved anteriorly. The facet joints remained unloaded in flexion. With proceeding extension movement, the center of rotation moved posteriorly. The facet forces increased up to 50 N. In lateral bending, with increasing moment the center of rotation migrated posteriorly in the ipsilateral side of the disc. The forces in the facet joints rose to 36 N. In axial rotation, the center of rotation migrated towards the compressed facet joint with increasing moment. Axial rotation yielded the maximum facet forces with 105 N.
+
+
+INTERPRETATION
+The determination of the rotation center is highly sensible against measurement resolution obtained during in vivo and in vitro studies. This finite element method can be used to complement the knowledge of the rotation center location from former experimental findings.

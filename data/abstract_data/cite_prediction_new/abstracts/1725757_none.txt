@@ -1,0 +1,2 @@
+New Hamiltonian Eigensolvers with Applications in Control
+A new MATLAB toolbox for computing eigenvalues and invariant subspaces of Hamiltonian and skew-Hamiltonian matrices is described. Based on orthogonal symplectic decompositions, the implemented algorithms are both numerically backward stable and structure-preserving. It will be demonstrated how this toolbox can be used to address a number of tasks in systems and control theory, including some model reduction methods and the computation of the H∞norm.

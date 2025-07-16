@@ -1,0 +1,2 @@
+Automatic curve fitting with quadratic B-spline functions and its applications to computer-assisted animation
+Automatic fitting to digitized curves by quadratic B-spline functions is discussed. Due to its simplicity, it is possible to find a quick fit within a given error tolerance bound which is defined as the maximum distance between the fitted curve and the original curve. Again due to the simple form of a quadratic polynomial, some complicated computations in computer-assisted animation such as hidden line removal can also be easily handled.

@@ -1,0 +1,2 @@
+Semi-Autonomous Controller for Data Acquisition the Brilliant ADC
+A set of high speed 16-bit computers and ADC's has been designed and built for the data collection, compression, and correction system of the SLAC/LBL Mark II Magnetic Detector. The "Brilliant ADC" controls the analog multiplexing of a CAMAC crate of data acquisition modules, digitizes the analog data, and executes microprogrammed algorithms for data handling and correction.

@@ -1,0 +1,13 @@
+State-dependent lattices for quantum computing with alkaline-earth-metal atoms
+Recent experimental progress with Alkaline-Earth atoms has opened the door to quantum
+computing schemes in which qubits are encoded in long-lived nuclear spin states, and the
+metastable electronic states of these species are used for manipulation and readout of the
+qubits. Here we discuss a variant of these schemes, in which gate operations are performed
+in nuclear-spin-dependent optical lattices, formed by near-resonant
+coupling to the metastable excited state. This provides an alternative to a previous
+scheme [Phys. Rev. Lett. 101, 170504 (2008)], which involved independent
+lattices for different electronic states. As in the previous case, we
+show how existing ideas for quantum computing with Alkali atoms such as entanglement via
+controlled collisions can be freed from important technical restrictions. We also provide
+additional details on the use of collisional losses from metastable states to perform gate
+operations via a lossy blockade mechanism.

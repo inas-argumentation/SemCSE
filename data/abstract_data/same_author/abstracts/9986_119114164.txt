@@ -1,0 +1,2 @@
+A note on path integral formulism of Z2 slave-spin representation of Hubbard model
+(4)where a ferromagnetic coupling J > 0 is assumed and Krepresents the the transverse external ﬁeld.At ﬁrst sight, one may directly use the coherent stateof spin operator in constructing the path integral rep-resentation, (One can ﬁnd a brief but useful introduc-tion to this issue in Ref. 9.) however, this will lead toan extra topological Berry phase term and is not easyto utilize practically. An alterative approach is to usethe eigenstates of spin operator τ

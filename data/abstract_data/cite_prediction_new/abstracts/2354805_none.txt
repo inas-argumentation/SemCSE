@@ -1,0 +1,2 @@
+Addendum to "A Krylov-Schur Algorithm for Large Eigenproblems"
+In this addendum to an earlier paper by the author, it is shown how to compute a Krylov decomposition corresponding to an arbitrary Rayleigh quotient. This decomposition can be used to restart an Arnoldi process, with a selection of the Ritz vectors corresponding to that Rayleigh quotient.

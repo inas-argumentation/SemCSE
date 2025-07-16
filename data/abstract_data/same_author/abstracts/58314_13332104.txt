@@ -1,0 +1,2 @@
+Implementing Graphics Shaders Using FPGAs
+There are many similarities between modern 3D graphics chips and FPGAs: a shader based graphic chip can be viewed as a highly domain specific and very coarse-grained reconfigurable logic device. Our goal is to see how a finegrained FPGA can be used to implement the pixel and vertex shader stages of a graphics pipeline, and how well the two methods compare in terms of speed, power, flexibility, and usability, initially by implementing Direct-X 9 pixel shader programs using Xilinx Virtex-II FPGAs.

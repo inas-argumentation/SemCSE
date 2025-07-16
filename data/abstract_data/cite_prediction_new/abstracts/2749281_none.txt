@@ -1,0 +1,2 @@
+FAtiMA Modular: Towards an Agent Architecture with a Generic Appraisal Framework
+This paper presents a generic and flexible architecture for emotional agents, with what we consider to be the minimum set of functionalities that allows us to implement and compare different appraisal theories in a given scenario. FAtiMA Modular, the architecture proposed is composed of a core algorithm and by a set of components that add particular functionality (either in terms of appraisal or behaviour) to the architecture, which makes the architecture more flexible and easier to extend.

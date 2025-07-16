@@ -1,0 +1,2 @@
+The Cascade Algorithm for the Numerical Computation of Refinable Functions
+The cascade algorithm is a method which can be used for the computation of refinable functions. We prove here that in general the cascade algorithm will not inherit the accuracy and refinability of the limit refinable function. We provide conditions for which the cascade iteration does indeed preserve accuracy.

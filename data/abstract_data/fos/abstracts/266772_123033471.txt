@@ -1,0 +1,2 @@
+Comparing time trends in a two-arm longitudinal study with an ordinal categorical response
+A within-subject monotonicity index is proposed to summarize the fol-lowup for each subject in a longitudinal study where the response is required to be only ordinal. The individual measures can be weighted to detect different trend behaviors of interest. Asymptotically normal tests for single group alternatives or for comparing the means of two groups are derived and illustrated with clinical data.

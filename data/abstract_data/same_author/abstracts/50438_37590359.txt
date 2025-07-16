@@ -1,0 +1,2 @@
+A Fan-type condition for claw-free graphs to be Hamiltonian
+Abstract Let G be a 2 -connected claw-free graph of order n . If for each pair of vertices u and v dist (u,v)=3⇒ max (d(u),d(v))⩾(n−4)/2, then G is Hamiltonian.

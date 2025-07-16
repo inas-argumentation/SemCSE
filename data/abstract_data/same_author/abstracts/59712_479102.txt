@@ -1,0 +1,2 @@
+On the maximum number of Hamiltonian paths in tournaments
+By using the probabilistic method, we show that the maximum number of directed Hamiltonian paths in a complete directed graph with n vertices is at least (e− o(1)) n! 2n−1 .

@@ -1,0 +1,15 @@
+Adult abdomen-pelvis CT: Does equilibrium dose-pitch product better account for the kVp dependence of organ dose than conventional CTDI?
+PURPOSE
+In CT imaging, a desirable quality assurance dose quantity should account for the dose variability across scan parameters and scanner models. Recently, AAPM Task Group 111 proposed to use equilibrium dose-pitch product (Dˆeq), in place of CT dose index (CTDI100), for scan modes involving table translation. The purpose of this work is to investigate whether this new concept better accounts for the tube voltage (kVp) dependence of organ dose than the conventional CTDI100.
+
+
+METHODS
+Three extended cardiac-torso patient models were included in this study. They represented normal-weight, overweight, and obese patients with abdomen-pelvis diameters ranging between 23 and 36 cm and body mass indices ranging between 20 and 42. A Monte Carlo program developed and validated for a 128-slice CT system was used to simulate organ dose for abdomen-pelvis scans at five tube voltages (70, 80, 100, 120, 140 kVp) with a pitch of 0.8 and a collimation of 38.4 mm. The same Monte Carlo program was also used to obtain CTDI100 and Dˆeq as well as their volume-averaged values, CTDIvol and Dˆeq,vol.
+
+
+RESULTS
+With other scan parameters kept constant, organ dose itself depended strongly on kVp. For the normal-weight patient model, the coefficient of variation (COV) across the five kVp values ranged between 72% and 75% for nine organs (liver, spleen, stomach, pancreas, kidneys, colon, small intestine, bladder, and ovaries) fully encompassed by the primary radiation beam. The COV generally increased with increasing patient size, ranging between 72%-77% and 76%-81% for the overweight and obese patient models, respectively. One-way analysis of variance for the effect of kVp was highly significant for all patient models (p<2×10(-26)). When organ dose was normalized by CTDIvol, the COV across kVps reduced to 5%-11%, 6%-15%, 12%-22% for the normal-weight, overweight, and obese patients, respectively. The effect of kVp was still highly significant (p=0.0001-0.004). When organ dose was normalized by Dˆeq,vol, the COV further reduced to 1%-8%, 3%-11%, 9%-19%, respectively. The effect of kVp was still significant for the obese patient model (p=0.004), but no longer significant for the normal-weight and overweight patient models (p=0.4 and 0.09, respectively). Finally, if organ dose conversion factors obtained at 120 kVp were used to approximate the values at 70 and 80 kVp, the resulting errors in the estimated organ dose were significantly reduced when the conversion factors were based on Dˆeq,vol instead of CTDIvol.
+
+
+CONCLUSIONS
+In adult abdomen-pelvis CT, equilibrium dose-pitch product better accounts for the kVp dependence of organ dose than CTDI100.

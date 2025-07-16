@@ -1,0 +1,14 @@
+Follow-up observations at 16 and 33 GHz of extragalactic sources from WMAP 3-yr data: II – Flux density variability
+Using the Arcminute Microkelvin Imager (AMI) at 16 GHz and the Very Small Array (VSA) at 33 GHz to make follow-up observations of sources in the New Extragalactic WMAP Point Source catalogue, we have investigated the flux density variability in a complete sample of 97 sources over time-scales of a few months to ≈1.5 yr. 
+ 
+ 
+ 
+We find that 53 per cent of the 93 sources, for which we have multiple observations, are variable, at the 99 per cent confidence level, above the flux density calibration uncertainties of ≈4 per cent at 16 GHz; the fraction of sources having varied by more than 20 per cent is 15 per cent at 16 GHz and 20 per cent at 33 GHz. Not only is this common occurrence of variability at high frequency of interest for source physics, but also strategies for coping with source contamination in cosmic microwave background work must take this variability into account. 
+ 
+ 
+ 
+There is no strong evidence of a correlation between variability and flux density for the sample as a whole. For those sources classified as variable, the mean fractional rms variation in flux density increases significantly with the length of time separating observation pairs. Using a maximum likelihood method, we calculate the correlation in the variability at the two frequencies in a subset of sources classified as variable from both the AMI and VSA data and find the Pearson product–moment correlation coefficient to be very high (0.955 ± 0.034). We also find the degree of variability at 16 GHz (0.202 ± 0.028) to be very similar to that at 33 GHz (0.224 ± 0.039). 
+ 
+ 
+ 
+Finally, we have investigated the relationship between variability and spectral index, α33.7513.9 (where S∝ν−α), and find a significant difference in the spectral indices of the variable sources (−0.06 ± 0.05) and non-variable sources (0.13 ± 0.04).

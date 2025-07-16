@@ -1,0 +1,2 @@
+Design of Redundancy Backup for Layer 3 Switch in Network
+Layer 3 switch not only implements high-speed data transit,but also accomplishes routing among VLANs. While designing Core of network, we atilize the combination between the Layer 3 router module connectivity and the layer 2 switch module connectivity to implement redundancy backup, and improve network reliability. In this paper, we detailedly describe two ways used by Layer 3 switch when it accomplishes VRRP redundancy backup in the network.

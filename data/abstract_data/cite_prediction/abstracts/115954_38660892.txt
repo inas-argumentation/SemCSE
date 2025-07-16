@@ -1,0 +1,2 @@
+Deep neural networks for ultra-short-term wind forecasting
+The aim of this paper is to present input variable selection algorithm and deep neural networks application to ultra-short-term wind prediction. Shallow and deep neural networks coupled with input variable selection algorithm are compared on the ultra-short-term wind prediction task for a set of different locations. Results show that carefully selected deep neural networks outperform shallow ones. Input variable selection use reduces the neural network complexity and simplifies deep neural network training.

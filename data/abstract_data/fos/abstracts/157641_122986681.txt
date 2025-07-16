@@ -1,0 +1,2 @@
+Recursive estimation of bilinear time series models
+In this paper we are concerned with the recursive estimation of bilinear models. Some methods from linear time invariant systems are adapted to suit bilinear time series models. The time-varying Kalman filter and associated parameter estimation algorithm is carried on the bilinear time series models. The methods are illustrated with examples.

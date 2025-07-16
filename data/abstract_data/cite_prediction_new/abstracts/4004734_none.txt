@@ -1,0 +1,15 @@
+Evaluation of an analytic linear Boltzmann transport equation solver for high-density inhomogeneities.
+PURPOSE
+Acuros external beam (Acuros XB) is a novel dose calculation algorithm implemented through the ECLIPSE treatment planning system. The algorithm finds a deterministic solution to the linear Boltzmann transport equation, the same equation commonly solved stochastically by Monte Carlo methods. This work is an evaluation of Acuros XB, by comparison with Monte Carlo, for dose calculation applications involving high-density materials. Existing non-Monte Carlo clinical dose calculation algorithms, such as the analytic anisotropic algorithm (AAA), do not accurately model dose perturbations due to increased electron scatter within high-density volumes.
+
+
+METHODS
+Acuros XB, AAA, and EGSnrc based Monte Carlo are used to calculate dose distributions from 18 MV and 6 MV photon beams delivered to a cubic water phantom containing a rectangular high density (4.0-8.0 g/cm(3)) volume at its center. The algorithms are also used to recalculate a clinical prostate treatment plan involving a unilateral hip prosthesis, originally evaluated using AAA. These results are compared graphically and numerically using gamma-index analysis. Radio-chromic film measurements are presented to augment Monte Carlo and Acuros XB dose perturbation data.
+
+
+RESULTS
+Using a 2% and 1 mm gamma-analysis, between 91.3% and 96.8% of Acuros XB dose voxels containing greater than 50% the normalized dose were in agreement with Monte Carlo data for virtual phantoms involving 18 MV and 6 MV photons, stainless steel and titanium alloy implants and for on-axis and oblique field delivery. A similar gamma-analysis of AAA against Monte Carlo data showed between 80.8% and 87.3% agreement. Comparing Acuros XB and AAA evaluations of a clinical prostate patient plan involving a unilateral hip prosthesis, Acuros XB showed good overall agreement with Monte Carlo while AAA underestimated dose on the upstream medial surface of the prosthesis due to electron scatter from the high-density material. Film measurements support the dose perturbations demonstrated by Monte Carlo and Acuros XB data.
+
+
+CONCLUSIONS
+Acuros XB is shown to perform as well as Monte Carlo methods and better than existing clinical algorithms for dose calculations involving high-density volumes.

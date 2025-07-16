@@ -1,0 +1,2 @@
+PDE approximation of large systems of differential equations
+A large system of ordinary differential equations is approximated by a parabolic partial differential equation with dynamic boundary condition and a different one with Robin boundary condition. Using the theory of differential operators with Wentzell boundary conditions and similar theories, we give estimates on the order of approximation. The theory is demonstrated on a voter model where the Fourier method applied to the PDE is of great advantage.

@@ -1,0 +1,2 @@
+Experimental research of a torque-unit manipulator
+A new design concept of a manipulator is proposed, which is called torque-unit manipulator (TUM). The TUM was just born out of an idea of utilizing counter-torque, and its position-controllability has been shown theoretically. Hence, mechanical implementation and experimental examination are very important for the TUM to be in practical use. In this paper, experimental results are shown using a prototype TUM which is 2 degree-of-freedom and a discussion is given.

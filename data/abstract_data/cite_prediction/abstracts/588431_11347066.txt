@@ -1,0 +1,2 @@
+Variations of the Similarity Function of TextRank for Automated Summarization
+This article presents new alternatives to the similarity function for the TextRank algorithm for automated summarization of texts. We describe the generalities of the algorithm and the different functions we propose. Some of these variants achieve a significative improvement using the same metrics and dataset as the original publication.

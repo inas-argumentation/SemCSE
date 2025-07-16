@@ -1,0 +1,2 @@
+Acyclic Directed Hypercubes may have Exponential Diameter
+Abstract The diameter of a directed graph is the maximum of the lengths of the shortest paths between all pairs of vertices (if such paths exist). We prove that for every n , the edges of the n -dimensional hypercube can be acyclically oriented such that the diameter of the cube is F n + 1 , the ( n + 1)st Fibonacci number.

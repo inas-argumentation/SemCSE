@@ -1,0 +1,4 @@
+Dynamic Scheduling Mechanism for Result Certification in Peer to Peer Grid Computing
+In a peer to peer grid computing environment, volunteers have heterogeneous properties and dynamically join and leave during execution. Therefore, it is essential to adapt to an unstable and widely distributed environment. However, existing scheduling and result certification mechanisms do not adapt to such a dynamic environment. As a result, they undergo high overhead, performance degradation, and scalability problems. 
+ 
+To solve the problems, we propose a new scheduling mechanism for result certification. The proposed mechanism applies different scheduling and result certification algorithms to different volunteer groups that are classified on the basis of their properties such as volunteering service time, availability, and credibility. It also exploits mobile agents in a distributed way in order to adapt to a dynamic peer to peer grid computing environment.

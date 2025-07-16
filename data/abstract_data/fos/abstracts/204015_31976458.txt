@@ -1,0 +1,2 @@
+On the on-line computation of DCT-IV and DST-IV transforms
+Various options available for the on-line computation of discrete cosine transform-IV (DCT-IV) and discrete sine transform-IV (DST-IV) in hardware are considered and compared. A novel architecture for the simultaneous, real-time computation of both the transforms, based on the decomposition of the odd-time, odd-frequency discrete Fourier transform (O/sup 2/ DFT), is also proposed. >

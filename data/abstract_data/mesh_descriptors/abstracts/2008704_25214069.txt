@@ -1,0 +1,15 @@
+Analytic investigation into effect of population heterogeneity on parameter ratio estimates.
+PURPOSE
+A homogeneous tumor control probability (TCP) model has previously been used to estimate the alpha/beta ratio for prostate cancer from clinical dose-response data. For the ratio to be meaningful, it must be assumed that parameter ratios are not sensitive to the type of tumor control model used. We investigated the validity of this assumption by deriving analytic relationships between the alpha/beta estimates from a homogeneous TCP model, ignoring interpatient heterogeneity, and those of the corresponding heterogeneous (population-averaged) model that incorporated heterogeneity.
+
+
+METHODS AND MATERIALS
+The homogeneous and heterogeneous TCP models can both be written in terms of the geometric parameters D(50) and gamma(50). We show that the functional forms of these models are similar. This similarity was used to develop an expression relating the homogeneous and heterogeneous estimates for the alpha/beta ratio. The expression was verified numerically by generating pseudo-data from a TCP curve with known parameters and then using the homogeneous and heterogeneous TCP models to estimate the alpha/beta ratio for the pseudo-data.
+
+
+RESULTS
+When the dominant form of interpatient heterogeneity is that of radiosensitivity, the homogeneous and heterogeneous alpha/beta estimates differ. This indicates that the presence of this heterogeneity affects the value of the alpha/beta ratio derived from analysis of TCP curves.
+
+
+CONCLUSIONS
+The alpha/beta ratio estimated from clinical dose-response data is model dependent--a heterogeneous TCP model that accounts for heterogeneity in radiosensitivity will produce a greater alpha/beta estimate than that resulting from a homogeneous TCP model.

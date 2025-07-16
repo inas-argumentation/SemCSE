@@ -1,0 +1,2 @@
+An Evaluation of Parallel Computing in PC Clusters with Fast Ethernet
+Currently, clusters of Personal Computers (PCs) with sharing Fast Ethernet may offer a significant price/performance ratio in parallel processing. This paper presents a study of the promising possibilities of parallelism in this environment, using both a classical numerical method to solve a differential equation and an innovative algorithm to solve the statistical problem of density estimation. In addition, and to compare, some comparisons with an IBM SP2 are carried out.

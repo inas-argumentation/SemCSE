@@ -1,0 +1,2 @@
+A dispatching mechanism providing REMPLI applications with QoS
+For supporting applications with different timing constraints, a PLC (power line communication) system must provide differentiated QoS (quality of service). In this paper a traffic dispatching policy is specified and implemented which guarantees both required periodic data update and short end-to-end delay of aperiodic data request services. This policy is compared with the classic dual-priority one showing its good performance

@@ -1,0 +1,4 @@
+An optimal algorithm for constructing the weighted voronoi diagram in the plane
+Let S denote a set of n points in the plane such that each point p has assigned a positive weight w(p) which expresses its capability to influence its neighbourhood. In this sense, the weighted distance of an arbitrary point x from p is given by de(x,p)/w(p) where de denotes the Euclidean distance function. The weighted Voronoi diagram for S is a subdivision of the plane such that each point p in S is associated with a region consisting of all points x in the plane for which p is a weighted nearest point of S. 
+ 
+An algorithm which constructs the weighted Voronoi diagram for S in O(n2) time is outlined in this paper. The method is optimal as the diagram can consist of Θ(n2) faces, edges and vertices.

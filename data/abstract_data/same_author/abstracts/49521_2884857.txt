@@ -1,0 +1,2 @@
+A genetic approach to planning in heterogeneous computing environments
+Planning is an artificial intelligence problem with a wide range of real-world applications. Genetic algorithms, neural networks, and simulated annealing are heuristic search methods often used to solve complex optimization problems. In this paper, we propose a genetic approach to planning in the context of workflow management and process coordination on a heterogenous grid. We report results for two planning problems, the Towers of Hanoi and the Sliding-tile puzzle.

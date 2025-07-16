@@ -1,0 +1,2 @@
+Real-time applications of neural nets
+The formidable real-time control problem posed by producing, accelerating, and colliding very-high-power, low-emittance beams for long periods of time is addressed. It is shown how neural nets suggest ways to circumvent the limitations encountered by such large, complex systems. It is argued that they are logically equivalent to multiloop feedback/forward control of faulty systems and mesh nicely with characteristics desired for real-time systems. Examples are given, and the potential of the approach is discussed. >

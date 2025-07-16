@@ -1,0 +1,2 @@
+Nonlinear Identification of Friction Model Using Concave/Convex Parameterization
+This paper presents the min-max non linear identification method applied to a friction model. This static friction model includes the Coulomb and viscous friction with stiction and Stribeck effect. The estimator used for identification is based on concave/convex parameterization and a min-max optimization problem. Based on the persistence of excitation assumption, the convergence of the estimator is proved. Simulation results demonstrate the good performance of the identification approach

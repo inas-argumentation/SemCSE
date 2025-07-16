@@ -1,0 +1,2 @@
+On the Capacity of Digraphs
+For a digraphG=(V,E) letw(Gn) denote the maximum possible cardinality of a subsetSofVnin which for every ordered pair (u1,u2,?,un) and (v1,v2,?,vn) of members ofSthere is some 1?i?nsuch that (ui,vi) ?EThecapacityC(G) ofGisC(G)=limn?∞(w(Gn))1/n. It is shown that for any digraphGwith maximum outdegreed,C(G) ?d+1. It is also shown that for everynthere is a tournamentTon 2nvertices whose capacity is at leastn, whereas the maximum number of vertices in a transitive subtournament in it is onlyO(logn). This settles a question of Korner and Simonyi.

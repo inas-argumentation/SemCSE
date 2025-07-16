@@ -1,0 +1,15 @@
+On the Expressive Power of Deep Neural Networks
+We study the expressive power of deep neural networks before and after
+training. Considering neural nets after random initialization, we show that
+three natural measures of expressivity all display an exponential dependence
+on the depth of the network. We prove, theoretically and experimentally,
+that all of these measures are in fact related to a fourth quantity, trajectory
+length. This quantity grows exponentially in the depth of the network, and
+is responsible for the depth sensitivity observed. These results translate
+to consequences for networks during and after training. They suggest that
+parameters earlier in a network have greater influence on its expressive power
+– in particular, given a layer, its influence on expressivity is determined by
+the remaining depth of the network after that layer. This is verified with
+experiments on MNIST and CIFAR-10. We also explore the effect of training
+on the input-output map, and find that it trades off between the stability
+and expressivity of the input-output map.

@@ -1,0 +1,2 @@
+Introduction to the special issue on the 2005 workshop on design, analysis, and simulation of chip multiprocessors (dasCMP'05)
+Chip multiprocessor architectures are becoming increasingly attractive as an option to provide high instruction throughput while keeping power and complexity under control. Such architectures have also been shown to have scalability and productivity advantages. Multi-core processors are fast becoming mainstream.

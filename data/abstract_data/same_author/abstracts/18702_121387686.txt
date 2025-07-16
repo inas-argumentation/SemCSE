@@ -1,0 +1,2 @@
+Hybrid Monte Carlo simulations of a two-dimensional gauge theory
+Through a study of the dynamics of the two-dimensional U(1) pure gauge theory we find exponential slowing down in barrier penetration problems. We verify that the dynamical critical exponent in HMC can be tuned exactly to 1, and that normal and gauge fixed updates have equal cost.

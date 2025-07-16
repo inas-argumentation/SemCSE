@@ -1,0 +1,2 @@
+ON LATOUCHE–RAMASWAMI'S LOGARITHMIC REDUCTION ALGORITHM FOR QUASI-BIRTH-AND-DEATH PROCESSES
+We consider Latouche–Ramaswami's logarithmic reduction algorithm for solving quasi-birth-and-death models. We shall present some theoretical properties concerning convergence of the algorithm and discuss numerical issues arising in finite precision implementations. In particular, we shall present a numerically more stable implementation. A rounding error analysis together with numerical examples are given to demonstrate the higher accuracy achieved by the refined implementation.

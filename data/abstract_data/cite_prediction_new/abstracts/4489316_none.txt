@@ -1,0 +1,2 @@
+A Distribution Law for CCS and a New Congruence Result for the p-calculus
+We give an axiomatisation of strong bisimilarity on a small fragment of CCS that does not feature the sum operator. This axiomatisation is then used to derive congruence of strong bisimilarity in the finite π-calculus in absence of sum. To our knowledge, this is the only nontrivial subcalculus of the π-calculus that includes the full output prefix and for which strong bisimilarity is a congruence.

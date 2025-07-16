@@ -1,0 +1,2 @@
+A degree condition of 2-factors in bipartite graphs
+Abstract Let G =( V 1 , V 2 ; E ) be a bipartite graph with | V 1 |=| V 2 |= n , and σ 2 (G)= min {d(u)+d(v) : u,v∈V(G),uv∉E(G)} . In this paper, we show that G has a 2-factor which exactly contains k independent cycles if σ 2 ( G )⩾ n +2 for any 1⩽ k ⩽⌊( n −1)/2⌋, and we also show that the result is sharp.

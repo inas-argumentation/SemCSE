@@ -1,0 +1,2 @@
+Asymptotic velocity of one dimensional diffusions with periodic drift
+We consider the asymptotic behavior of the solution of one dimensional stochastic differential equations and Langevin equations in periodic backgrounds with zero average. We prove that in several such models, there is generically a non-vanishing asymptotic velocity, despite of the fact that the average of the background is zero.

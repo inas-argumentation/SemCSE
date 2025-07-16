@@ -1,0 +1,11 @@
+Partial Cox regression analysis for high-dimensional microarray gene expression data
+MOTIVATION
+An important application of microarray technology is to predict various clinical phenotypes based on the gene expression profile. Success has been demonstrated in molecular classification of cancer in which different types of cancer serve as categorical outcome variable. However, there has been less research in linking gene expression profile to censored survival outcome such as patients' overall survival time or time to cancer relapse. In this paper, we develop a partial Cox regression method for constructing mutually uncorrelated components based on microarray gene expression data for predicting the survival of future patients.
+
+
+RESULTS
+The proposed partial Cox regression method involves constructing predictive components by repeated least square fitting of residuals and Cox regression fitting. The key difference from the standard principal components of Cox regression analysis is that in constructing the predictive components, our method utilizes the observed survival/censoring information. We also propose to apply the time-dependent receiver operating characteristic curve analysis to evaluate the results. We applied our methods to a publicly available dataset of diffuse large B-cell lymphoma. The outcomes indicated that combining the partial Cox regression method with principal components analysis results in parsimonious model with fewer components and better predictive performance. We conclude that the proposed partial Cox regression method can be very useful in building a parsimonious predictive model that can accurately predict the survival of future patients based on the gene expression profile and survival times of previous patients.
+
+
+AVAILABILITY
+R codes are available upon request.

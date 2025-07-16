@@ -1,0 +1,2 @@
+Application aspects of the Diophantine Frequency Synthesis methodology
+This work considers two aspects of the design of Diophantine frequency synthesizers which are important for wireless applications: I) the choice of DFS parameters leading to decimal frequency resolution (10m Hz) and acceptable input reference frequency, and, II) the choice of the mixer(s) used in DFS architectures and the frequency planning in the constituent PLLs that lead to high spurious free dynamic range at the output.

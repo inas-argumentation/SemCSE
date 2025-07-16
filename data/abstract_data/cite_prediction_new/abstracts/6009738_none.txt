@@ -1,0 +1,2 @@
+Minimising Native Interference in Still Image Data Hiding
+The technique of using orthogonal sequences to embed digital watermarks is described. It is shown that embedding with sequences which are orthogonal to the cover image can enhance the detection reliability and improve the system performance and robustness compared to using random sequences. Algorithms to generate such orthogonal sequences are introduced and the performance results are compared. Results indicate that the more than 1000 bit payload is realised for printed photographs (512 × 512 pixels).

@@ -1,0 +1,2 @@
+Feature Matrix Models for Information Extraction
+To extract useful information which really contribute to the target issue from huge amounts of data or text description is an important task towards a number of research fields (e.g., genomics study and text mining). In this paper, a general feature matrix model (FMM) is proposed aiming to provide partial answer to this task. Specifically, one instantiation of FMM is used for identifying feature genes based on microarray data, and the other for extracting information according to case description.

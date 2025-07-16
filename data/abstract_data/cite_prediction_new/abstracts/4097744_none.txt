@@ -1,0 +1,2 @@
+Phase noise measurements of surface acoustic wave resonators at 2.4 GHz
+In this paper, a passive measurement system is used to explore the phase noise of surface acoustic wave resonators. This method is based on the carrier suppression technique. The resonant frequency is around 2.4 GHz and the power dissipated through the resonators around 500 μW. The 1/f noise is measured and the Allan standard deviation sy_floor of an oscillator containing the test resonator is estimated.

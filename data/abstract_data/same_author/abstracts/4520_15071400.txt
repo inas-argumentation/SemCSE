@@ -1,0 +1,2 @@
+LCD ROOT simulation and analysis tools
+The North American Linear Collider Detector group has developed a simulation program package based on the ROOT system. The package consists of Fast simulation, the reconstruction of the Full simulated data, and physics analysis utilities.

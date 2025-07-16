@@ -1,0 +1,2 @@
+Towards an intelligent textbook: eye gaze based attention extraction on materials for learning and instruction in physics
+In this paper, we propose the attention extraction method on a textbook of physics by using eye tracking glasses. We prepare a document including text and tasks in physics, and record reading behavior on the document from 6-grade students. The result confirms that students pay attention to a different region depending on situations (using the text as a material to learn the content, or using it as hints to solve tasks) and their comprehension.

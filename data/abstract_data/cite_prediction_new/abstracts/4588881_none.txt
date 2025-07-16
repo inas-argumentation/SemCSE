@@ -1,0 +1,2 @@
+The likelihood ratio filter for the detection of Gaussian signals in white noise
+This paper derives a solution to the equation \rho (u, s) = N_{0}h(s, u) + \int_{0}^{T} \rho (t, s)h(t, u) dt , for the case in which the kernel is the covariance function of a stationary random process whose spectral density is a rational function of frequency.

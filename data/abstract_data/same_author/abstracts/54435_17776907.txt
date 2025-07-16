@@ -1,0 +1,2 @@
+Circular perfect graphs
+For 1 ≤ d ≤ k, let Kk/d be the graph with vertices 0, 1, · · · , k − 1, in which i ∼ j if d ≤ |i − j| ≤ k − d. The circular chromatic number χc(G) of a graph G is the minimum of those k/d for which G admits a homomorphism to Kk/d. The circular clique number ωc(G) of G is the maximum of those k/d for which Kk/d admits a homomorphism to G. A graph G is circular perfect if for every induced subgraph H of G we have χc(H) = ωc(H). This paper surveys results on circular perfect graphs.

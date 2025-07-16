@@ -1,0 +1,2 @@
+A hybrid approach based on neural networks and genetic algorithms to the study of profitability in the Spanish Stock Market
+This paper studies predictability and profitability of using neural networks (NN) in the Spanish security market. This is carried out through a hybrid approximation which entails evolving a genetic algorithm in order to obtain an optimal NN's architecture. To that end, (NNs) forecasts are transformed into a simple trading strategy, whose profitability is evaluated against a simple buy-and-hold strategy.

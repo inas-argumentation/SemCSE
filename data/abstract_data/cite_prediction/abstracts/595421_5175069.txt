@@ -1,0 +1,2 @@
+Inferring the meaning of chord sequences via lyrics
+This paper discusses how meanings associated with chord sequences can be inferred from word associations based on lyrics. The approach works by analyzing in-line chord annotations of lyrics to maintain co-occurrence statistics for chords and lyrics. This is analogous to the way parallel corpora are analyzed in order to infer translation lexicons. The result can benefit musical discovery systems by modeling how the chord structure complements the lyrics.

@@ -1,0 +1,2 @@
+Design and Implementation of Embedded TCP/IP-Based Long-Range GPRS Controls Terminal Station
+This paper introduces the design and implementation of the long-range wireless controlls terminal station based on 8-bit singlechip which embeds TCP/IP. It describs transmission course of data based on GPRS network, embedded real-time operating system RTX51 and embedded simple thinking of TCP/IP agreement. And illuminates the technology implementation of controls terminal station in detail.

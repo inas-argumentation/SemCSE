@@ -1,0 +1,2 @@
+Comments and Improvements on Chameleon Hashing Without Key Exposure Based on Factoring
+In this paper, we present some security flaws of the keyexposure free chameleon hash scheme based on factoring [9]. Besides, we propose an improved chameleon hash scheme without key exposure based on factoring which enjoys all the desired security notions of chameleon hashing.

@@ -1,0 +1,2 @@
+AI Painting: An Aesthetic Painting Generation System
+There are many great works done in image generation. However, it is still an open problem how to generate a painting, which is meeting the aesthetic rules in specific style. Therefore, in this paper, we propose a demonstration to generate a specific painting based on users' input. In the system called AI Painting, we generate an original image from content text, transfer the image into a specific aesthetic effect, simulate the image into specific artistic genre, and illustrate the painting process.

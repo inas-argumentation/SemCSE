@@ -1,0 +1,2 @@
+High throughput transmission optical projection tomography using low cost graphics processing unit.
+We implement the use of a graphics processing unit (GPU) in order to achieve real time data processing for high-throughput transmission optical projection tomography imaging. By implementing the GPU we have obtained a 300 fold performance enhancement in comparison to a CPU workstation implementation. This enables to obtain on-the-fly reconstructions enabling for high throughput imaging.

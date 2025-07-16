@@ -1,0 +1,2 @@
+Maximum common subgraph isomorphism algorithms for the matching of chemical structures
+The maximum common subgraph (MCS) problem has become increasingly important in those aspects of chemoinformatics that involve the matching of 2D or 3D chemical structures. This paper provides a classification and a review of the many MCS algorithms, both exact and approximate, that have been described in the literature, and makes recommendations regarding their applicability to typical chemoinformatics tasks.

@@ -1,0 +1,15 @@
+Effects of i.v. push administration on β-lactam pharmacodynamics.
+PURPOSE
+The effects of i.v. push administration on the pharmacodynamic exposures of meropenem, cefepime, and aztreonam were evaluated.
+
+
+METHODS
+Pharmacokinetic and pharmacodynamic analyses were conducted using previously published pharmacokinetic data for meropenem, cefepime, and aztreonam. The probability of target attainment (PTA) was assessed using Monte Carlo simulations for 30-minute and 5-minute infusions of approved dosing regimens and alternative dosing schemes often used in clinical practice, including 500 mg every 6 hours and 1 g every 8 hours for meropenem, 1 g every 6 hours and 2 g every 8 hours for cefepime, and 2 g every 8 hours for aztreonam. For each regimen examined, means and standard deviations for the percentage of the dosing interval that the free drug concentration remained above the minimum inhibitory concentration (MIC) were calculated and reported.
+
+
+RESULTS
+No or only minor differences were noted between 30-minute and 5-minute infusions. The largest differences were observed at an MIC of 4 mg/L for meropenem and an MIC of 16 mg/L for aztreonam. At an MIC of 4 mg/L, meropenem 500 mg every 6 hours as a 30-minute infusion had an 8% greater PTA compared with the 5-minute infusion. At an MIC of 16 mg/L, a 30-minute infusion of aztreonam 2 g every 8 hours had a 12% greater PTA compared with the 5-minute infusion.
+
+
+CONCLUSION
+Simulations of meropenem, cefepime, and aztreonam by i.v. push over 5 minutes indicated that there would be minimal or no effect on pharmacodynamic exposures compared with the effect when administered by 30-minute infusions.

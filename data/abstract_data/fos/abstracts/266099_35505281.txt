@@ -1,0 +1,15 @@
+SU-E-I-08: KV XVI Cone Beam-CT Dose Measurement Using Gafchromic XRQA2 Film.
+PURPOSE
+To study the effect of different filters on the dose response curves of the Gafchromic XRQA2 film. To measure the kV XVI cone-beam CT (CBCT) surface dose received during 3D and 4D imaging protocols in three body regions (head and neck, chest and pelvis).
+
+
+METHODS
+GafChromic XR- QA2 film (International Specialty Products, Wayne, NJ) dose response curves were generated for three irradiation settings: 100 kVp S20/F0; 120 kVp S20/F0 and 120 kVp S20/F1(F1 is a Bowtie filter). Film pieces were irradiated in air by the X-ray Volume Imager (XVI) mounted on the Elekta Synergy linear accelerator (Elekta, Crawley, UK) and their responses were correlated to air kerma measurements. To measure the CBCT surface dose, film pieces were taped on the surface of a male Alderson Rando Phantom (Alderson Research Laboratories, Inc., Long Island City, New York) at four different places (Anterior, Posterior, Right Lateral, Left Lateral).
+
+
+RESULTS
+The dose response curves of XRQA2 film generated with F1 and F0 filters were found to differ by 5 to 7% when the air kerma changed between 2 and 5 cGy. This was less than the observed difference (more than 15%, especially at low air kerma) in the dose response curves when different energies (100 and 120 kVp) and same filter were used. Surface dose ranged between 0.02 cGy and 4.99 cGy. The lowest average surface dose (0.05 cGy) was observed when the fast head and neck protocol was used, whilst the highest average surface dose (3.06 cGy) was noticed when the chest m2 0 protocol was used.
+
+
+CONCLUSIONS
+Filters seem to have less effect on the dose response of the film compared with energy. Gafchromic XRQA2 film was used successfully to measure the XVI CBCT surface dose. The dose was found to vary from one imaging protocol to another, with 4D protocols not necessarily delivering more doses.

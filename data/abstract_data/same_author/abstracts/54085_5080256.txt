@@ -1,0 +1,2 @@
+Power-efficient trace caches
+Summary form only given. This paper exploits the drawbacks of wasting power when accessing the instruction cache that stores only static sequence of instructions. Although trace cache is first introduced to catch the dynamic characteristics of instructions in execution, conventional trace cache (CTC) does increase the power consumption in fetch unit. A Sequential Trace Cache (STC) has been investigated for its power efficiency in this paper.

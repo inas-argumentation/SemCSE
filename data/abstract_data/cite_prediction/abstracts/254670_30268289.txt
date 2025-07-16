@@ -1,0 +1,2 @@
+Development of Embedded STT-MRAM for Mobile System-on-Chips
+Spin-transfer-torque magnetoresistive random access memory (STT-MRAM) has been considered a promising technology for future mobile system-on-chip memories due to negligible static leakage power, high-speed read/write operations, and unlimited read/write endurance. In this paper, we address key challenges and recent advances for enabling embedded STT-MRAM on a deeply scaled CMOS logic platform.

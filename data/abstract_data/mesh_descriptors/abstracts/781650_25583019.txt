@@ -1,0 +1,19 @@
+Multi-trial evoked EEG and independent component analysis
+BACKGROUND
+Independent component analysis (ICA) is increasingly used to decompose EEG data into components. The analysis is based on the assumption that the hidden components are statistically independent. Here, we investigate the use of ICA on evoked multi-trial non-stationary EEG data. We show that the multi-trial data do not fulfill the assumption of the independence of the hidden components. This discrepancy questions the use of ICA in analyzing evoked EEG.
+
+
+NEW METHOD
+To overcome the problem with the independence assumption, we introduce a novel way to preprocess multi-trial data. In this preprocessing, the hidden components gain a property which we call the null conditional mean (NCM). We show that this property is sufficient to make the ICA separation to work. The suggested methodology has the additional advantage that it suppresses the stimulus-evoked artifacts, such as the strong muscular artifacts in the transcranial magnetic stimulation (TMS)-evoked EEG, which may otherwise prevent the use of ICA.
+
+
+RESULTS
+The theoretical results, which support the mean subtraction method, were proved. We also confirmed the efficiency of the method with several numerical simulations, which resembled TMS-EEG measurement data.
+
+
+COMPARISON WITH EXISTING METHOD
+As compared with conventional ICA of multi-trial data, the results substantially improved when using NCM data.
+
+
+CONCLUSIONS
+The proposed methodology facilitates in uncovering hidden components that, with other existing methods, easily remain uncovered in evoked EEG or MEG data.

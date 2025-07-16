@@ -1,0 +1,2 @@
+Aiding Pronoun Translation with Co-Reference Resolution
+We propose a method to improve the translation of pronouns by resolving their coreference to prior mentions. We report results using two different co-reference resolution methods and point to remaining challenges.

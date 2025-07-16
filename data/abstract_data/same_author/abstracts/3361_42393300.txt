@@ -1,0 +1,2 @@
+Synchronization between Two Different Hyperchaotic Dynamical Systems Using Nonlinear Control
+This paper presents synchronization between two different hyperchaotic systems by nonlinear control laws. First, we introduced hyperchaotic Rossler system and hyperchaotic Chen system, and then synchronization problem between hyperchaotic Rossler system and hyperchaotic Chen system has been investigated. We consider the hyperchaotic Rossler system as the drive system and hyperchaotic Chen system as the response system. Last, Numerical simulations are shown to verify the results.

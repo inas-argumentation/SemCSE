@@ -1,0 +1,4 @@
+Unsupervised Bilingual Word Sense Disambiguation Using Web Statistics
+Word sense disambiguation has sense division and sense selection as its two sub-problems. An appropriate solution to the sense division problem is usually dependent on the application being pursued. In the context of machine translation, picking the correct translation for a word among multiple candidates, is known as target word selection. 
+ 
+The work in this paper uses the Web as the main knowledge source to address the difficulty of making a target word selection based on statistics, which are normally drawn from rather limited corpora. The proposed approach uses simple and easily accessible web statistics–search engine hits (number of document returned for a particular query) to demonstrate the great potential of the Web as a knowledge source for word sense disambiguation. Our experimental results so far are very encouraging.

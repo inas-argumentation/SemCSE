@@ -1,0 +1,2 @@
+A Stabilizing Controller for Regulation of UAV With Manipulator
+Stability is not trivial in aerial manipulation tasks because of the dynamical coupling between the aerial vehicle and the manipulator. This is especially true when the manipulator becomes heavy, so that its dynamics can be significant. In this letter, a stabilizing controller for the regulation of overall system will be designed without using any assumptions on the dynamic model. In addition, thorough discussion with simulation validation is presented.

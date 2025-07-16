@@ -1,0 +1,2 @@
+A Multilayer Ontology-based Hybrid Recommendation Model
+We propose a novel hybrid recommendation model in which user preferences and item features are described in terms of semantic concepts defined in domain ontologies. The concept, item and user spaces are clustered in a coordinated way, and the resulting clusters are used to find similarities among individuals at multiple semantic layers. Such layers correspond to implicit Communities of Interest and enable enhanced recommendations.

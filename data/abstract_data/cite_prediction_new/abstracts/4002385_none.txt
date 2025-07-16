@@ -1,0 +1,2 @@
+Properly colored Hamilton cycles in edge-colored complete graphs
+It is shown that for every 2 > 0 and n > n0(2), any complete graph K on n vertices whose edges are colored so that no vertex is incident with more than (1 − 1 √ 2 − 2)n edges of the same color, contains a Hamilton cycle in which adjacent edges have distinct colors. Moreover, for every k between 3 and n any such K contains a cycle of length k in which adjacent edges have distinct colors.

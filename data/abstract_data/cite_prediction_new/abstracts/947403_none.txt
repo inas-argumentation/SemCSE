@@ -1,0 +1,2 @@
+The Evacuation Process Study with the Cellular Automaton Floor Field on Fine Grid
+The modification of Cellular Automaton Floor Field based simulation of evacuation is presented. The typical approach, where the pedestrian occupies single cell, usually of size \(0.4 \times 0.4\,\mathrm{m}^2\). is modified by assumption that the single person can occupy 2 cells. The rules of motion are presented and the basic characteristics as well as comparison with the one-cell model are shown.

@@ -1,0 +1,9 @@
+Disentangled activations in deep networks
+Deep neural networks have been tremendously successful in a number of tasks.
+One of the main reasons for this is their capability to automatically
+learn representations of data in levels of abstraction,
+increasingly disentangling the data as the internal transformations are applied.
+In this paper we propose a novel regularization method that penalize covariance between dimensions of the hidden layers in a network, something that benefits the disentanglement.
+This makes the network learn nonlinear representations that are linearly uncorrelated, yet allows the model to obtain good results on a number of tasks, as demonstrated by our experimental evaluation.
+The proposed technique can be used to find the dimensionality of the underlying data, because it effectively disables dimensions that aren't needed.
+Our approach is simple and computationally cheap, as it can be applied as a regularizer to any gradient-based learning model.

@@ -1,0 +1,23 @@
+Minimising the Number of Bends and Volume in 3-Dimensional
+Orthogonal Graph Drawings with a Diagonal Vertex Layout
+Abstract 
+A 3-dimensional orthogonal drawing of a graph with maximum
+degree at most 6, positions the vertices at grid-points in the 3-dimensional
+orthogonal grid, and routes edges along grid-lines such that edge routes only
+intersect at common end-vertices. Minimising the number of bends and the volume
+of 3-dimensional orthogonal drawings are established criteria for measuring the
+aesthetic quality of a given drawing. In this paper we present two algorithms
+for producing 3-dimensional orthogonal graph drawings with the vertices
+positioned along the main diagonal of a cube, so-called diagonal
+drawings. This vertex-layout strategy was introduced in the 3-BENDS
+algorithm of Eades et al. [Discrete Applied Math.
+103:55–87, 2000]. We show that minimising the number of bends in a
+diagonal drawing of a given graph is NP-hard. Our first algorithm minimises the
+total number of bends for a fixed ordering of the vertices along the diagonal
+in linear time. Using two heuristics for determining this vertex-ordering we
+obtain upper bounds on the number of bends. Our second algorithm, which is a
+variation of the above-mentioned 3-BENDS algorithm, produces 3-bend
+drawings with n3+o(n3) volume, which is the best known upper bound for
+the volume of 3-dimensional orthogonal graph drawings with at most three bends per
+edge. 
+

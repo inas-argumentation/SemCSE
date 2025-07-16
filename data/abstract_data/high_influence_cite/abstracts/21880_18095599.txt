@@ -1,0 +1,8 @@
+Computation of canonical matrices for chains and cycles of linear mappings
+Van Dooren [Linear Algebra Appl. 27 (1979) 103] constructed an algorithm for the computation of all irregular summands in Kronecker’s canonical form of a matrix pencil. The algorithm is numerically stable since it uses only unitary transformations. 
+ 
+We construct a unitary algorithm for computation of the canonical form of the matrices of a chain of linear mappings 
+V1—V2—⋯—Vt 
+andextend Van Dooren’s algorithm to the matrices of a cycle of linear mappings 
+ 
+whereall Vi are complex vector spaces and each line denotes → or ←.

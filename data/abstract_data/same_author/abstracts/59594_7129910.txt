@@ -1,0 +1,2 @@
+SCAN Is Complete for All Sahlqvist Formulae
+scan is an algorithm for reducing existential second-order logic formulae to equivalent simpler formulae, often first-order logic formulae. It is provably impossible for such a reduction to first-order logic to be successful for every second-order logic formula which has an equivalent first-order formula. In this paper we show that scan successfully computes the first-order equivalents of all Sahlqvist formulae in the classical (multi-)modal language.

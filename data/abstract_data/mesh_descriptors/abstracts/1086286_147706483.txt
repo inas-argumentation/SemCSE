@@ -1,0 +1,15 @@
+Computed Tomography-Based Score Indicative of Lung Cancer Aggression (SILA) Predicts the Degree of Histologic Tissue Invasion and Patient Survival in Lung Adenocarcinoma Spectrum.
+OBJECTIVE
+Most computed tomography (CT)-detected lung cancers are adenocarcinomas (ACs), representing lesions with variable tissue invasion, aggressiveness, and clinical outcome. Visual radiologic characterization of AC pulmonary nodules is both inconsistent and inadequate to confidently predict histopathologic classification or prognosis. Comprehensive pathologic interpretation requires full nodule resection. We have described a computerized scoring system for AC detected on CT scans that can noninvasively estimate the degree of histologic invasion and simultaneously predict patient survival.
+
+
+METHODS
+The Computer-Aided Nodule Assessment and Risk Yield has been validated to characterize CT-detected nodules across the spectrum of AC. With the use of unsupervised clustering, nine natural exemplars were identified as basic radiographic features of AC nodules. We now introduce the Score Indicative of Lung Cancer Aggression (SILA), which is a cumulative aggregate of normalized distributions of ordered Computer-Aided Nodule Assessment and Risk Yield exemplars. The SILA values for each of 237 unique nodules in AC were compared with the histopathologically defined maximum linear extent of tumor invasion. With use of the SILA, Kaplan-Meier survival and Cox proportionality analysis were performed on patients with stage I AC, who comprised a subset of our cohort.
+
+
+RESULTS
+The SILA discriminated between indolent and invasive AC (p < 0.0001). In addition, prediction of linear extent of histopathologic tumor invasion was possible. In stage I AC, three separate SILA prognosis groups were identified: indolent, intermediate, and poor, with 5-year survival rates of 100%, 79%, 58%, respectively. Cox proportionality hazard modeling predicted a 50% increase in mortality, for a 0.1 unit increase in the SILA over a median follow-up time of 3.6 years (p < 0.0002).
+
+
+CONCLUSIONS
+The SILA is a computer-based analytic measure allowing noninvasive approximation of histologic invasion and prediction of patient survival in CT-detected AC nodules.

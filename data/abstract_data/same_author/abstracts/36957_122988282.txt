@@ -1,0 +1,2 @@
+A method of closed orbit correction under constraint conditions
+We have developed the correction algorithm of the closed orbit distortion (COD) under the constraint condition where beam positions at particular points are not changed. The new algorithm is based on the modified PSINOM algorithm including the regularization process in order to avoid the inversion problem of the ill-posed response matrices. We have confirmed that the COD is well corrected with no orbit leak in the simulation and is in good agreement with the experiment.

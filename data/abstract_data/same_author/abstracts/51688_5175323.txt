@@ -1,0 +1,2 @@
+SOM Ensemble-Based Image Segmentation
+Image segmentation plays an important role in image analysis and image understanding. In this paper, an image segmentation method based on ensemble of SOM neural networks is proposed, which clusters the pixels in an image according to color and spatial features with many SOM neural networks, and then combines the clustering results to give the final segmentation. Experimental results show that the proposed method performs better than some existing clustering-based image segmentation methods.

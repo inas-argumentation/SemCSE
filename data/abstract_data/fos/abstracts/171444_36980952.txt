@@ -1,0 +1,15 @@
+SU-F-R-07: Radiomics of CT Features and Associations and Correlation with Outcomes Following Lung SBRT.
+OBJECTIVE
+To investigate the prognostic significance of image gradients and in predicting clinical outcomes in a patients with non-small cell lung cancer treated with stereotactic body radiotherapy (SBRT) on 71 patients with 83 treated lesions.
+
+
+METHODS
+The records of patients treated with lung SBRT were retrospectively reviewed. When applicable, SBRT target volumes were modified to exclude any overlap with pleura, chestwall, or mediastinum. The ITK software package was utilized to generate quantitative measures of image intensity, inhomogeneity, shape morphology and first and second-order CT textures. Multivariate and univariate models containing CT features were generated to assess associations with clinicopathologic factors.
+
+
+RESULTS
+On univariate analysis, tumor size (HR 0.54, p=0.045) sumHU (HR 0.31, p=0.044) and short run grey level emphasis STD (HR 0.22, p=0.019) were associated with regional failure-free survival; meanHU (HR 0.30, p=0.035), long run emphasis (HR 0.21, p=0.011) and long run low grey level emphasis (HR 0.14, p=0.005) was associated with distant failure-free survival (DFFS). No features were significant on multivariate modeling however long run low grey level emphasis had a hazard ratio of 0.12 (p=0.061) for DFFS. Adenocarcinoma and squamous cell carcinoma differed with respect to long run emphasis STD (p=0.024), short run low grey level emphasis STD (p<0.001), and long run low grey level emphasis STD (p=0.024). Multivariate modeling of texture features associated with tumor histology was used to estimate histologies of 18 lesions treated without histologic confirmation. Of these, MVA suggested the same histology as a prior metachronous lung malignancy in 3/7 patients.
+
+
+CONCLUSION
+Extracting radiomics features on clinical datasets was feasible with the ITK package with minimal effort to identify pre-treatment quantitative CT features with prognostic factors for distant control after lung SBRT.

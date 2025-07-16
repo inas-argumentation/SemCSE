@@ -1,0 +1,2 @@
+Highly scalable radar target simulator for autonomous driving test beds
+Automotive radar sensors are key elements for Advanced Driver Assistance Systems and autonomous driving. To test the behaviour of these systems in complex and potentially dangerous traffic scenarios a test system with the ability to simulate realistic scenarios is required. In this paper we present the implementation of a modular and highly scalable Radar Target Simulator, which is capable to simulate multiple independent moving targets with realistic parameters.

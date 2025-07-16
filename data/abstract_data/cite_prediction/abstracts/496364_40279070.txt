@@ -1,0 +1,2 @@
+A Survey of Exploration Strategies in Reinforcement Learning
+A fundamental issue in reinforcement learning algorithms is the balance between exploration of the environment and exploitation of information already obtained by the agent. This paper surveys exploration strategies used in reinforcement learning and summarizes the existing research with respect to their applicability and effectiveness.

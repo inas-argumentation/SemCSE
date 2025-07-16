@@ -1,0 +1,2 @@
+Orthogonal Forward Selection for Constructing the Radial Basis Function Network with Tunable Nodes
+An orthogonal forward selection (OFS) algorithm based on the leave-one-out (LOO) criterion is proposed for the construction of radial basis function (RBF) networks with tunable nodes. This OFS-LOO algorithm is computationally efficient and is capable of identifying parsimonious RBF networks that generalise well. Moreover, the proposed algorithm is fully automatic and the user does not need to specify a termination criterion for the construction process.

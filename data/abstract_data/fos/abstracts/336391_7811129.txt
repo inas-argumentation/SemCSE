@@ -1,0 +1,2 @@
+H-stability of Runge-Kutta methods with general variable stepsize for pantograph equation
+This paper deals with H-stability of Runge-Kutta methods with variable stepsize for pantograph equations. It is shown that the Runge-Kutta methods with a regular matrix A are H-stable if and only if the modulus of stability function at infinity is less than 1. Furthermore, the same conclusion can be obtained if the Runge-Kutta methods are stiffly accurate.

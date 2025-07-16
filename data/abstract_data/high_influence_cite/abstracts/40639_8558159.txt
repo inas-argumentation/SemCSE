@@ -1,0 +1,20 @@
+Automatic Tooth Identification in Dental Panoramic Images with Atlas-based Models
+After catastrophes and mass disasters, accurate and efficient identification of decedents requires an automatic 
+ 
+system which depends upon strong biometrics. In this paper, we present an automatic tooth detection and 
+ 
+labeling system based on panoramic dental radiographs. Although our ultimate objective is to identify decedents 
+ 
+by comparing the postmortem and antemortem dental radiographs, this paper only involves the tooth 
+ 
+detection and the tooth labeling stages. In the system, the tooth regions are first determined and the detection 
+ 
+module runs for each region individually. By employing the sliding window technique, the Haar features are 
+ 
+extracted from each window and the SVM classifies the windows as tooth or not. The labeling module labels 
+ 
+the candidate tooth positions determined by the SVM with an atlas-based model and the final tooth positions 
+ 
+are inferred. The novelty of our system is combining the atlas-based model with the SVM under the same 
+ 
+framework. We tested our system on 35 panoramic images and the results are promising.

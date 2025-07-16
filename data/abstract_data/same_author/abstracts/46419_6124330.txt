@@ -1,0 +1,2 @@
+ACE: An Emergent Algorithm for Highly Uniform Cluster Formation
+The efficient subdivision of a sensor network into uniform, mostly non-overlapping clusters of physically close nodes is an important building block in the design of efficient upper layer network functions such as routing, broadcast, data aggregation, and query processing.

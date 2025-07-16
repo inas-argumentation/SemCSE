@@ -1,0 +1,2 @@
+Characterization of the optimal trajectories for the averaged dynamics associated to singularly perturbed control systems
+The aim of this paper is to study singularly perturbed control systems. Firstly, we provide linearized formulation version for the calculus of the value function associated with the averaged dynamics. Secondly, we obtain necessary and sufficient conditions in order to identify the optimal trajectory of the averaged system.

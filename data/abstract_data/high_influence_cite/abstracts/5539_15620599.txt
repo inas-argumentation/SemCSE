@@ -1,0 +1,2 @@
+All Ramsey Numbers $r(K_3, G)$ For Connected Graphs of Order 9
+We determine the Ramsey numbers $r(K_3,G)$ for all $261080$ connected graphs of order $9$ and further Ramsey numbers of this type for some graphs of order up to $12$. Almost all of them were determined by computer programs which are based on a program for generating maximal triangle-free graphs.

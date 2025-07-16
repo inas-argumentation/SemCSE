@@ -1,0 +1,5 @@
+Non-Linear Sigma Model for Inhomogeneous Spin Chains
+We derive a non-linear sigma model (NLSM) generally representing antiferromagnetic Heisenberg spin chains with inhomogeneous spin magnitudes and inhomogeneous nearest-neighbor exchange constants arrayed in finite periods. 
+Only a restriction is that the average of spin magnitudes on one sublattice is the same as that on the other sublattice. 
+The NLSM gives the gapless condition explicitly written by the spin magnitudes and the exchange constants. 
+We apply this gapless condition to several cases including systems with impurities.

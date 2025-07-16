@@ -1,0 +1,2 @@
+Similarity Renormalization Group for Nucleon-Nucleon Interactions
+The similarity renormalization group (SRG) is based on unitary transformations that suppress off-diagonal matrix elements, forcing the Hamiltonian toward a band-diagonal form. A simple SRG transformation applied to nucleon-nucleon interactions leads to greatly improved convergence properties while preserving observables and provides a method to consistently evolve many-body potentials and other operators.

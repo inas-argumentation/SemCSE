@@ -1,0 +1,2 @@
+Context-aware office assistant
+This paper describes the design and implementation of the Office Assistant — an agent that interacts with visitors at the office door and manages the office owner's schedule. We claim that rich context information about users is key to making a flexible and believable interaction. We also argue that natural face-to-face conversation is an appropriate metaphor for human-computer interaction.

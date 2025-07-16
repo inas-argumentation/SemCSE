@@ -1,0 +1,2 @@
+Lecture 16 Lecturer: Jonathan Katz Scribe(s): 1 Digital Signature Schemes
+• Vrfy takes as input a public key, a message, and a (purported) signature; it outputs a single bit b with b = 1 indicating acceptance and b = 0 indicating rejection. (We assume for simplicity that Vrfy is deterministic.) We write this as b = Vrfypk(m,σ). For correctness, we require that for all (pk, sk) output by Gen(1k), for all messages m, and for all σ output by Signsk(m) we have Vrfypk(m,σ) = 1. ♦

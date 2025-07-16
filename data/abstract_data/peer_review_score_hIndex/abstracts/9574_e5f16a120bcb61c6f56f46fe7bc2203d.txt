@@ -1,0 +1,17 @@
+Design and Evaluation for Robust Continual Learning
+Continual learning is the ability to learn from new experiences without forgetting
+previous experiences. Different continual learning methods are each motivated
+by their own interpretation of the continual learning scenario, resulting in a wide
+variety of experiment protocols, which hinders understanding and comparison of
+results. Existing works emphasize differences in accuracy without considering
+the effects of experimental settings. However, understanding the effects of experimental
+assumptions is the most crucial part of any evaluation, as the experimental
+protocol may supply implicit information. We propose six rules as a guideline for
+experimental design and execution to conduct robust continual learning evaluation
+for better understanding of the methods. Using these rules, we demonstrate the
+importance of experimental choices regarding the sequence of incoming data and
+the sequence of the task oracle. Even when task oracle-based methods are desired,
+the rules can guide experimental design to support better evaluation and understanding
+of the continual learning methods. Consistent application of these rules
+in evaluating continual learning methods makes explicit the effect and validity of
+many assumptions, thereby avoiding misleading conclusions.

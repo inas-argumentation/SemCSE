@@ -1,0 +1,2 @@
+Fusion of range and visual data for the extraction of scene structure information
+In this paper a method for inferring 3D structure information based on both range and visual data is proposed. Data fusion is achieved by validating assumptions formed according to 2D range scans of the environment, through the exploitation of visual information. The proposed method is readily applicable to robot navigation tasks providing significant advantages over existing methods.

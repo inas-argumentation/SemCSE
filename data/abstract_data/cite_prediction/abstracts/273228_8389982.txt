@@ -1,0 +1,2 @@
+MATLAB model for spiking neural networks
+Spiking Neural Networks are the most realistic model compared to its biological counterpart. This paper introduces a MATLAB toolbox that is specifically designed for simulating spiking neural networks. The toolbox includes a set of functions that are useful for: creating and organizing the desired architecture; updating stimuli signals, adapting synapses and simulating the network; extracting and visualizing the simulation results. Key-Words: spiking neural networks, neural modeling, MATLAB modeling, neural synchronism

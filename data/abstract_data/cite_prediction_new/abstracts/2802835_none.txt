@@ -1,0 +1,23 @@
+Relationship between spontaneous and iatrogenic hypoglycemia and mortality in patients hospitalized with acute myocardial infarction.
+CONTEXT
+While glucose control is recommended by professional societies for patients with hyperglycemia hospitalized with acute myocardial infarction (AMI), enthusiasm for glucose lowering is tempered, in part, by concerns of inducing hypoglycemia. Yet, whether episodic hypoglycemia that occurs as a result of glucose-lowering therapy is harmful in patients with AMI is unknown.
+
+
+OBJECTIVE
+To determine whether the mortality risk associated with hypoglycemic events is similar in patients who develop hypoglycemia spontaneously and those who develop it as a result of insulin therapy.
+
+
+DESIGN, SETTING, AND PATIENTS
+Retrospective cohort study using data from Health Facts, a contemporary database of patients hospitalized across the United States in 40 hospitals between January 1, 2000, and December 31, 2005. Of all the patients in the database, 7820 patients were hospitalized with AMI and were hyperglycemic on admission (glucose level > or = 140 mg/dL). Patients were stratified based on whether they developed a hypoglycemic event (random glucose level < 60 mg/dL) during subsequent hospitalization. Logistic regression models were used to evaluate the association between hypoglycemia and in-hospital mortality within subgroups of patients who were and were not treated with insulin therapy.
+
+
+MAIN OUTCOME MEASURE
+All-cause in-hospital mortality.
+
+
+RESULTS
+Among patients treated or not treated with insulin, those with hypoglycemia were older and had more comorbidity. Hypoglycemia was associated with increased mortality in patients not treated with insulin (18.4% [25/136] mortality in patients with hypoglycemia vs 9.2% [425/4639] in those without hypoglycemia; P<.001), but not in those treated with insulin (10.4% [36/346] mortality in patients with hypoglycemia vs 10.2% [276/2699] in those without hypoglycemia; P = .92). After multivariable adjustment, there was a significant interaction between hypoglycemia and insulin therapy (P value for interaction = .01). Hypoglycemia was a predictor of higher mortality in patients who were not treated with insulin (odds ratio, 2.32 [95% confidence interval, 1.31-4.12] vs patients without hypoglycemia), but not in patients treated with insulin (odds ratio, 0.92 [95% confidence interval, 0.58-1.45] vs patients without hypoglycemia).
+
+
+CONCLUSIONS
+While hypoglycemia was associated with increased mortality in patients with AMI, this risk was confined to patients who developed hypoglycemia spontaneously. In contrast, iatrogenic hypoglycemia after insulin therapy was not associated with higher mortality risk.

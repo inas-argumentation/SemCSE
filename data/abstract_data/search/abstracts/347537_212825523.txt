@@ -1,0 +1,2 @@
+Mirror scheduling problems with early work and late work criteria
+We give a definition of a class of mirror scheduling problems, review existing representatives of this class and demonstrate that an identical parallel machine scheduling problem with precedence constraints and an upper bound on the makespan to minimize (maximize) the total weighted early work and the same problem with modified due dates, reversed precedence constraints and the objective function of minimizing (maximizing) the total weighted late work are mirror problems.

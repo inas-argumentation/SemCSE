@@ -1,0 +1,2 @@
+GMDH METHOD WITH GENETIC SELECTION ALGORITHM AND CLONING
+y Abstract: The GMDH MIA algorithm uses linear regression for adaptation. We show that Gauss-Markov conditions are not met here and thus estimations of net- work parameters are biased. To eliminate this we propose to use cloning of neu- ron parameters in the GMDH network with genetic selection and cloning (GMC GMDH) that can outperform other powerful methods. It is demonstrated on tasks from the Machine Learning Repository.

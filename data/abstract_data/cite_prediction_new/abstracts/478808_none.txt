@@ -1,0 +1,2 @@
+The cauchy problem for a one dimensional nonlinear elastic peridynamic model
+This paper studies the Cauchy problem for a one-dimensional nonlinear peridynamic model describing the dynamic response of an infinitely long elastic bar. The issues of local well-posedness and smoothness of the solutions are discussed. The existence of a global solution is proved first in the sublinear case and then for nonlinearities of degree at most three. The conditions for finite-time blow-up of solutions are established.

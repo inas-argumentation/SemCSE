@@ -1,0 +1,2 @@
+Ontology Learning for the Semantic Web
+The Semantic Web relies heavily on formal ontologies to structure data for comprehensive and transportable machine understanding. Thus, the proliferation of ontologies factors largely in the Semantic Web's success. The authors present an ontology learning framework that extends typical ontology engineering environments by using semiautomatic ontology construction tools. The framework encompasses ontology import, extraction, pruning, refinement and evaluation.

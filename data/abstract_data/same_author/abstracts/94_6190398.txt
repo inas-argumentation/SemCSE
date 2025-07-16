@@ -1,0 +1,2 @@
+Time Representation in Prolog Circuit Modelling
+This paper is an examination of some issues in domain ontology and of various knowledge representation techniques for the temporal modelling of digital electronic circuits in Prolog. It should serve as an example of the advantages of such analysis, an area of relative neglect within the logic programming community.

@@ -1,0 +1,2 @@
+Haptic manipulation of virtual mechanisms from mechanical CAD designs
+A haptic display system is presented for manipulating virtual mechanisms derived from a mechanical CAD design. Links are designed and assembled into mechanisms using Utah's Alpha-1 CAD system, and are then manipulated with a Sarcos Dextrous Arm Master. Based on the mechanism's kinematics and the virtual grasp, the motion of the master is divided into motion of the mechanism and constraint violation. The operator experiences the dynamic forces from the mechanism plus constraint forces.

@@ -1,0 +1,2 @@
+Estimation via compressed information
+Some results from classical estimation theory are extended to the case in which data must be communicated from several places where observations are made to the place where the estimate is generated. Particular emphasis is placed on determining how the variance of an unbiased estimator depends on the communication rates. Explicit result are given for Gaussian sources. >

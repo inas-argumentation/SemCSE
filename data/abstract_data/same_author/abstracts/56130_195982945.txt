@@ -1,0 +1,3 @@
+Variables as resources in separation logic.
+This paper applied the separation logic notions of ownership and permission to ‘stack' variables that made it possible to banish the variable-use side conditions (e.g. on concurrency and frame rules) which bedevil proof in Hoare logic. The paper contained a formal proof system and some example proofs, together with a suggested model. 
+This work has so far been useful to the small community that is building automated reasoning tools based on separation logic. Its ideas are essential to Parkinson and Vafeiadis' recent treatment of rely/guarantee and separation logic, and to Parkinson's proof of the concurrent stack.

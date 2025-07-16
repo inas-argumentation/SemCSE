@@ -1,0 +1,2 @@
+Using NFFT 3---A Software Library for Various Nonequispaced Fast Fourier Transforms
+NFFT 3 is a software library that implements the nonequispaced fast Fourier transform (NFFT) and a number of related algorithms, for example, nonequispaced fast Fourier transforms on the sphere and iterative schemes for inversion. This article provides a survey on the mathematical concepts behind the NFFT and its variants, as well as a general guideline for using the library. Numerical examples for a number of applications are given.

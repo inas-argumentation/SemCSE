@@ -1,0 +1,15 @@
+Adaptor protein Lnk binds to PDGF receptor and inhibits PDGF-dependent signaling.
+OBJECTIVE
+Platelet-derived growth factor receptors α and β (PDGFRA, PDGFRB) are frequently expressed on hematopoietic cells and regulate cellular responses such as proliferation, differentiation, survival, and transformation. Stimulation by autocrine loops or activation by chromosomal translocation makes them important factors in development of hematopoietic disorders. Interaction with the ligand PDGF results in activation of the tyrosine kinase domain and phosphorylation of tyrosine residues, thereby creating binding sites for molecules containing Src homology 2 domains. We hypothesized that one such protein may be Lnk, a negative regulator of cytokine receptors, including Mpl, EpoR, c-Kit, and c-Fms.
+
+
+MATERIALS AND METHODS
+Interaction of Lnk with PDGFRA, PDGFRB, or leukemogenic FIP1L1-PDGFRA or TEL-PDGFRB was studied in cotransfected 293T cells. Effects of Lnk on PDGFR signaling were shown in 293T and NIH3T3 cells, whereas its influence on either PDGF-dependent or factor-independent growth was investigated using Ba/F3 or 32D cells expressing wild-type PDGFR, FIP1L1-PDGFRA, or TEL-PDGFRB.
+
+
+RESULTS
+We show that Lnk binds to PDGFR after exposure of cells to PDGF. Furthermore, Lnk can bind the FIP1L1-PDGFRA fusion protein. Mutation or deletion of the Lnk Src homology 2 domain completely abolished binding of Lnk to FIP1L1-PDGFRA, but just partly prevented binding to PDGFRA or PDGFRB. Expression of Lnk inhibited proliferation of PDGF-dependent Ba/F3 cells and diminished phosphorylation of Erk in PDGF-treated NIH3T3. 32D cells transformed by either FIP1L1-PDGFRA or TEL-PDGFRB stopped growing when Lnk was expressed.
+
+
+CONCLUSIONS
+Lnk is a negative regulator of PDGFR signaling. Development of Lnk mimetic drugs might provide a novel therapeutic strategy for myeloproliferative disorders.

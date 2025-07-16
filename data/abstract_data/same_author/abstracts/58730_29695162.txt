@@ -1,0 +1,2 @@
+A Semantics for Persistency in Propositional Dynamic Logic
+This paper defines a minimal change semantics for PDL, that is based on minimization over a change ordering of labeled Kripke models. The definition of the change ordering has some striking resemblances with the notion of bisimulation. The minimal change semantics for PDL is shown to behave correctly in case of the notorious Yale shooting and stolen car example scenarios.

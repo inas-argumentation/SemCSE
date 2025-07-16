@@ -1,0 +1,2 @@
+SFS: random write considered harmful in solid state drives
+So, write performance can be mainly determined by sequential write performance of a SSD. • Random writes cause internal fragmentation of SSDs and thus lead to performance degradation of more than 10x. • In contrast to HDDs, the degradation caused by the fragmentation lasts for a while after write pattern is changed. • Even worse, the fragmentation increases garbage collection cost in SSDs and thus reduces the life span of SSDs.

@@ -1,0 +1,15 @@
+SU-E-T-332: TomoTherapy Patient Treatment Delivery QA Utilizing Phantom-Less Exit-Detector Patient Delivery Coupled with Monte Carlo Dose Calculations: Validation.
+PURPOSE
+To describe and validate a pre-treatment end-to-end patient dose verification system for TomoTherapy capable of detecting plan transfer, dose calculation, and plan delivery errors and evaluating the dosimetric impact of those errors.
+
+
+METHODS
+The MCLogQA method for TomoTherapy utilizes a pre-treatment Monte Carlo (MC) dose calculation, post-delivery log file examination and exit-detector based MLC sinogram comparison to confirm intended machine performance. The delivered leaf sinogram is then used with MC for dose reconstruction to evaluate the dosimetric impact of any delivery discrepancies by examining target and OAR DVH metrics. A traditional phantom/ion chamber-based QA plan was created and delivered for ten randomly selected patients to evaluate the accuracy of the MCLogQA algorithms. The ion chamber dose measurements were compared with MC dose calculated using the log file and exit detector data collected during the delivery. Delivered linac output and MLC opening deviations found using the MCLogQA method are reported for 10 patients.
+
+
+RESULTS
+The MCLogQA reconstructed dose agreed with ion chamber measurements within 1%, while the planned dose deviated from measurement by 2-5%. Analysis of the 10 patients treatment delivery demonstrated that the output during TomoTherapy delivery can vary by approximately 2%. Although patient plans vary from -0.6% to 1.6%, the MLC leaf errors were consistent across fractions for the same patient (excluding one patient). The MCLogQA methods capability of evaluating the impact of deliver errors on patient geometry is demonstrated.
+
+
+CONCLUSION
+The agreement of MC dose calculations utilizing measured delivered sinograms with ion chamber measurements validates the delivered sinogram based QA method. Our system QAs the on-patient TPS dose computation via MC dose recalculation. Plan transfer and delivery errors are validated by using measured delivered sonograms. Patient dose affects are validated by dose volume metric comparison. Our procedure is an effective and efficient alternative to traditional phantom-based TomoTherapy plan specific QA. Research supported by Funding Opportunity Number CMS-1C1-12-0001 from Centers for Medicare and Medicaid Services, Center for Medicare and Medicaid Innovation. The contents are solely the responsibility of the authors and have not been approved by the Department of Health and Human Services, Centers for Medicare & Medicaid Services.

@@ -1,0 +1,2 @@
+Optimal filtering of deterministic information in multivariate stationary measuring system with ivariety in dynamic models of its units and signals
+The paper presents a new algorithm of optimal structural synthesis for a filter-observer of deterministic information in multivariate stationary measuring system. The algorithm considers possibility of any unit or signal in such system to be dynamically various (to be unstable, non-minimal-phase etc.).

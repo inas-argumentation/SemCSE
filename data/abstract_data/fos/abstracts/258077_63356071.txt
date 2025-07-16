@@ -1,0 +1,2 @@
+Constructing Email Sending System by using ASP.NET
+The paper analyzes the main class and its properties and methods in the System.Web.Mail namespace of .NET Framework. And it gives the steps and partial source code to construct an Email sending system by using these classes and methods.

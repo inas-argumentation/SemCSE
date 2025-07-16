@@ -1,0 +1,3 @@
+Tree2Tree Learning with Memory Unit
+Traditional recurrent neural network (RNN) or convolutional neural net- work (CNN) based sequence-to-sequence model can not handle tree structural data well. To alleviate this problem, in this paper, we propose a tree-to-tree model with specially designed encoder unit and decoder unit, which recursively encodes tree inputs into highly folded tree embeddings and decodes the embeddings into tree outputs. Our model could represent the complex information of a tree while also restore a tree from embeddings.
+We evaluate our model in random tree recovery task and neural machine translation task. Experiments show that our model outperforms the baseline model.

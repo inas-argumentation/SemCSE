@@ -1,0 +1,2 @@
+Decomposition Numbers for Generic Iwahori–Hecke Algebras of Noncrystallographic Type☆
+We compute the Φe-modular decomposition matrices for the generic Iwahori–Hecke algebras of typeI2(m) form ∈ N,m > 2,H3, andH4, for alle ∈ N leading to nontrivial decomposition maps. The results are obtained by a combined use of different ideas from computational representation theory and by application of the computer algebra systemsGAP,CHEVIE,VectorEnumeratorandMeatAxe.

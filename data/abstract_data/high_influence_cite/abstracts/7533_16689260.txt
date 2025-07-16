@@ -1,0 +1,2 @@
+Majorants of meromophic functions with fixed poles
+Let B be a meromorphic Blaschke product in the upper half-plane with zeros Z n and let K B = H2 ⊖ BH2 be the associated model subspace of the Hardy space H 2 . A nonnegative function w on the real line is said to be an admissible majorant for K B if there is a non-zero function f ∈ K B such that |f| < w a.e. on R. We study the relations between the distribution of the zeros of a Blaschke product B and the class of admissible majorants for the space K B .

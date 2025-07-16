@@ -1,0 +1,2 @@
+Low Discrepancy Sets Yield Approximate Min-Wise Independent Permutation Families
+Motivated by a problem of filtering near-duplicate Web documents, Broder, Charikar, Frieze & Mitzenmacher defined the following notion of e-approximate min-wise independent permutation families [2]. A multiset \(\mathcal{F}\) of permutations of {0,1, ... , n–1} is such a family if for all K ⊆ {0,1, ..., n–1} and any x ∈ K, a permutation π chosen uniformly at random form \(\mathcal{F}\) statisfies

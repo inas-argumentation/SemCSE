@@ -1,0 +1,2 @@
+Neural networks for safety-critical applications — Challenges, experiments and perspectives
+We propose a methodology for designing dependable Artificial Neural Networks (ANN) by extending the concepts of understandability, correctness, and validity that are crucial ingredients in existing certification standards. We apply the concept in a concrete case study in designing a high-way ANN-based motion predictor to guarantee safety properties such as impossibility for the ego vehicle to suggest moving to the right lane if there exists another vehicle on its right.

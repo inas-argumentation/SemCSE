@@ -1,0 +1,2 @@
+Assessing Repository Technology: Where do We Go from Here?
+Three sample information retrieval systems, archie, autoLib, and WAIS, are compared as to their expressiveness and usefulness — first, in the general context of information retrieval, and then as prospective software reuse repositories. While the representational capabilities of these systems are limited, they provide a useful foundation for future repository efforts, particularly from the perspective of repository distribution and coherent user interface design.

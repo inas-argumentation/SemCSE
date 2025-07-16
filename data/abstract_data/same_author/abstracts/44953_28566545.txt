@@ -1,0 +1,2 @@
+A new heuristic for test suite reduction
+Abstract A testing objective has to be defined in testing a program. A test suite is then constructed to satisfy the testing objective. The constructed test suite contains redundancy when some of its proper subsets can still satisfy the same testing objective. Since the costs of executing test cases and maintaining a test suite for regression testing may be expensive, the problem of test suite reduction arises. This paper proposes a heuristic towards the optimization of a test suite.

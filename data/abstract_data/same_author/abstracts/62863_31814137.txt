@@ -1,0 +1,2 @@
+Cryptanalysis of a Divisor Class Group Based Public-Key Cryptosystem
+We prove that the public-key cryptosystem proposed by H. Kim and S. Moon, in “New Public-Key Cryptosystem Using Divisor Class Groups”, ACISP 2001 [1] is not secure by solving discrete logarithm problem for the divisor class groups used in the proposal.

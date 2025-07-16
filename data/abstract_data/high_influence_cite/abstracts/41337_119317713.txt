@@ -1,0 +1,2 @@
+Visual boundaries of Diestel-Leader graphs
+Diestel-Leader graphs are neither hyperbolic nor CAT(0), so their visual boundaries may be pathological. Indeed, we show that for $d>2$, $\partial\text{DL}_d(q)$ carries the indiscrete topology. On the other hand, $\partial\text{DL}_2(q)$, while not Hausdorff, is $T_1$, totally disconnected, and compact. Since $\text{DL}_2(q)$ is a Cayley graph of the lamplighter group $L_q$, we also obtain a nice description of $\partial\text{DL}_2(q)$ in terms of the lamp stand model of $L_q$ and discuss the dynamics of the action.

@@ -1,0 +1,7 @@
+BLAD: A comprehensive database of widely circulated beta-lactamases
+MOTIVATION
+Beta-lactamases confer resistance to a broad range of antibiotics and inhibitors by accumulating mutations. The number of beta-lactamases and their variants is steadily increasing. The horizontal gene transfer likely plays a major role in dissemination of these markers to new environments and hosts. Moreover, information about the beta-lactamase classes and their variants was scattered. Categorizing all these classes and their associated variants along with their epidemiology and resistance pattern information on one platform could be helpful to the researcher working on multidrug-resistant bacteria. Thus, the beta-lactamase database (BLAD) has been developed to provide comprehensive information (epidemiology and resistance pattern) on beta-lactamases. Beta-lactamase gene sequences in BLAD are linked with structural data, phenotypic data (i.e. antibiotic resistance) and literature references to experimental studies. In summary, BLAD integrates information that may provide insight into the epidemiology of multidrug resistance and enable the designing of novel drug candidates.
+
+
+AVAILABILITY
+The database can be accessed from the website www.blad.co.in.

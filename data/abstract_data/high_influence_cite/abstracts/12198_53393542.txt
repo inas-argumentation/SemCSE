@@ -1,0 +1,2 @@
+On the Implementation of a Multiscale Hybrid High-Order Method
+A multiscale Hybrid High-Order method has been introduced recently to approximate elliptic problems with oscillatory coefficients. In this work, with a view toward implementation, we describe the general workflow of the method and we present one possible way for accurately approximating the oscillatory basis functions by means of a monoscale Hybrid High-Order method deployed on a fine-scale mesh in each cell of the coarse-scale mesh.

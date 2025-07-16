@@ -1,0 +1,11 @@
+LFM-Pro: a tool for detecting significant local structural sites in proteins
+MOTIVATION
+The rapidly growing protein structure repositories have opened up new opportunities for discovery and analysis of functional and evolutionary relationships among proteins. Detecting conserved structural sites that are unique to a protein family is of great value in identification of functionally important atoms and residues. Currently available methods are computationally expensive and fail to detect biologically significant local features.
+
+
+RESULTS
+We propose Local Feature Mining in Proteins (LFM-Pro) as a framework for automatically discovering family-specific local sites and the features associated with these sites. Our method uses the distance field to backbone atoms to detect geometrically significant structural centers of the protein. A feature vector is generated from the geometrical and biochemical environment around these centers. These features are then scored using a statistical measure, for their ability to distinguish a family of proteins from a background set of unrelated proteins, and successful features are combined into a representative set for the protein family. The utility and success of LFM-Pro are demonstrated on trypsin-like serine proteases family of proteins and on a challenging classification dataset via comparison with DALI. The results verify that our method is successful both in identifying the distinctive sites of a given family of proteins, and in classifying proteins using the extracted features.
+
+
+AVAILABILITY
+The software and the datasets are freely available for academic research use at http://bioinfo.ceng.metu.edu.tr/Pub/LFMPro.

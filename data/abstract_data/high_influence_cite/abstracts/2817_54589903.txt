@@ -1,0 +1,4 @@
+On the distance to singularity via low rank perturbations
+For regular matrix pencils the distance in norm to the nearest singular pencil 
+under low rank perturbation is studied. Characterizations of this distance are derived via the Weyl function of the perturbation. Special attention is paid to the Hermitian pencil case. 
+Estimates for the distance of a given pencil to the set of singular pencils are obtained.

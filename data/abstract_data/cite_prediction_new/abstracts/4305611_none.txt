@@ -1,0 +1,2 @@
+Parameterless Bat Algorithm and Its Performance Study
+A parameter-free or parameterless bat algorithm is a new variant of the bat algorithm which was recently introduced. Characteristic of this algorithm is that user does not need to specify the control parameters when running this algorithm. Thus, this bat algorithm variant can have wide usability in solving real-world optimization problems. In this chapter, a preliminary study of the proposed parameterless bat algorithm is presented.

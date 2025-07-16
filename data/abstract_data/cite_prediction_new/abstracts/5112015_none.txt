@@ -1,0 +1,2 @@
+Combination of Feature Selection Methods for Text Categorisation
+Feature selection plays a vital role in text categorisation. A range of different methods have been developed, each having unique properties and selecting different features. We show some results of an extensive study of feature selection approaches using a wide range of combination methods. We performed experiments on 18 test collections and report a subset of the results.

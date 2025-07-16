@@ -1,0 +1,2 @@
+Extraction and Use of Opinion Words for Three-Way Review Classification Task
+In this paper, we consider a three-way classification approach for Russian movie reviews. All reviews are divided into groups: “thumbs up”, “soso” and “thumbs down”. To solve this problem we use various sets of words together with such features as opinion words, word weights, punctuation marks and polarity influencers that can affect the polarity of the following words. Besides, we estimate the maximum upper limit of automatic classification quality in this task.

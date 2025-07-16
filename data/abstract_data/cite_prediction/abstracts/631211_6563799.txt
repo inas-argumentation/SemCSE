@@ -1,0 +1,2 @@
+Attack Surfaces: A Taxonomy for Attacks on Cloud Services
+The new paradigm of cloud computing poses severe security risks to its adopters. In order to cope with these risks, appropriate taxonomies and classification criteria for attacks on cloud computing are required. In this work-in-progress paper we present one such taxonomy based on the notion of attack surfaces of the cloud computing scenario participants.

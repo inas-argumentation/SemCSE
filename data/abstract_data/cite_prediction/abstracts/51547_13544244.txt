@@ -1,0 +1,2 @@
+A brief introduction to distributed systems
+Distributed systems are by now commonplace, yet remain an often difficult area of research. This is partly explained by the many facets of such systems and the inherent difficulty to isolate these facets from each other. In this paper we provide a brief overview of distributed systems: what they are, their general design goals, and some of the most common types.

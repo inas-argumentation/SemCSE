@@ -1,0 +1,2 @@
+Simple EOL forms under uniform interpretation generating CF languages
+In this paper we consider simple EOL forms (forms with a single terminal and single nonterminal) under uniform interpretations. We present a contribution to the analysis of generative power of simple EOL forms by establishing easily decidable necessary and sufficient conditions for simple EOL forms to generate (under uniform interpretations) CF languages only.

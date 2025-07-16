@@ -1,0 +1,2 @@
+2-factors in Dense Graphs
+Abstract A conjecture of Sauer and Spencer states that any graph G on n vertices with minimum degree at least 2/3n contains any graph H on n vertices with maximum degree 2 or less. This conjecture is proven here for all sufficiently large n.

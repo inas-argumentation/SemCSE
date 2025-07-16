@@ -1,0 +1,2 @@
+Modeling and Co-Simulation of Integrated Microand Nanosystems
+In this paper we present a system-level, top-down design/modeling methods for microsystem (MEMS) devices. We describe advanced process co-simulation/emulation of MEMS and integrated circuits. The methodology of hardware-in-the-loop basing on co-simulation of MEMS and IC using signal flow simulators is also discussed.

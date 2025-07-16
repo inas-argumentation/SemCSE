@@ -1,0 +1,2 @@
+Zone determinant expansions for nuclear lattice simulations
+We introduce a new approximation to nucleon matrix determinants that is physically motivated by chiral effective theory. The method involves breaking the lattice into spatial zones and expanding the determinant in powers of the boundary hopping parameter.

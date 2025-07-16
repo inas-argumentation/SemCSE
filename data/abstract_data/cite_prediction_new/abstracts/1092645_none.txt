@@ -1,0 +1,2 @@
+Implementation of novel sampling and reconstruction circuits in digital radios
+Several problems related to implementation of novel sampling and reconstruction circuits performing internal antialiasing filtering in digital radios are considered. Since the circuits are multichannel, the methods of their channel mismatch reduction are suggested and analyzed. Measures that lower the complexity and the number of multiplications in these circuits are proposed. An example of implementation of such circuits in a digital half-duplex transceiver is described.

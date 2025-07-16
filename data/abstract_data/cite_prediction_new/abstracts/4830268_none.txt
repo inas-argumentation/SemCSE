@@ -1,0 +1,2 @@
+Cognitive radio network architecture: part I -- general structure
+Cognitive radio has been considered as a key technology for future wireless communications and mobile computing. We note the cognitive radios can form cognitive radio networks (CRN) by extending the radio link features to network layer functions and above. We categorize CRN architecture into several structures and classify the unidirectional links in such structures, to pave the way for future systematic CRN research.

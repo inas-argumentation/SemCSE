@@ -1,0 +1,2 @@
+Optimal strategies for sinusoidal signal detection
+We derive and study optimal and nearly optimal strategies for the detection of sinusoidal signals hidden in additive (Gaussian and non-Gaussian) noise. Such strategies are an essential part of algorithms for the detection of the gravitational continuous wave (cw) signals produced by pulsars. Optimal strategies are derived for the case where the signal phase is not known and the product of the signal frequency and the observation time is nonintegral.

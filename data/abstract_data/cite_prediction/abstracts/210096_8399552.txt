@@ -1,0 +1,15 @@
+Development of a clinical score (A2DS2) to predict pneumonia in acute ischemic stroke.
+BACKGROUND AND PURPOSE
+Poststroke pneumonia is a potentially preventable complication after stroke associated with poor outcome. We developed and externally validated a prognostic score for predicting risk of pneumonia after ischemic stroke.
+
+
+METHODS
+The prognostic score was developed based on clinical data routinely collected after admission from the Berlin Stroke Register, Germany. The association of demographics, comorbidities, and clinical characteristics with poststroke pneumonia was investigated using multivariable logistic regression analyses. Independent predictors of poststroke pneumonia were translated into a point scoring system based on the corresponding regression coefficients. The predictive properties of the developed prognostic score were externally validated using an independent data set from the Stroke Register Northwest-Germany.
+
+
+RESULTS
+Between 2007 and 2009, 15 335 patients with ischemic stroke were registered within the Berlin Stroke Register. The observed rate of pneumonia in hospital was 7.2%. A 10-point score was derived for prediction of poststroke pneumonia (Age ≥ 75 years=1, Atrial fibrillation=1, Dysphagia=2, male Sex=1, stroke Severity, National Institutes of Health Stroke Scale 0-4=0, 5-15=3, ≥ 16=5; A(2)DS(2)). The proportion of pneumonia varied between 0.3% in patients with a score of 0 point to 39.4% in patients with a score of 10 points. The score demonstrated excellent discrimination (C-statistic 0.84; 95% CI, 0.83-0.85) and calibration (McFadden R(2)=0.21). Prediction, discrimination, and calibration properties were reproduced in the validation cohort consisting of 45 085 patients with ischemic stroke.
+
+
+CONCLUSIONS
+The A(2)DS(2) score is a valid tool for predicting poststroke pneumonia based on routinely available data. A(2)DS(2) might be useful for guiding monitoring of high-risk patients or prophylactic pneumonia management in clinical routine.

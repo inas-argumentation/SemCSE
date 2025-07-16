@@ -1,0 +1,2 @@
+Evaluating semantic data infrastructure components for small devices
+Existing benchmarks for semantic data management tools primarily focus on evaluating the capability of tools to process large- scale data. In use case scenarios involving small-scale and mobile devices, the data volumes are typically smaller, however, the ability to operate with limited computational resources becomes important. In this paper, we describe the experiments we performed to evaluate components of se- mantic data infrastructure for devices with limited computational power.

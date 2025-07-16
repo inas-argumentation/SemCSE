@@ -1,0 +1,2 @@
+Approximate distributions of noise power measurements
+The frequency functions of certain spectral estimates are studied analytically and numerically. An approximation is obtained for the case of a Poisson weight function and compared to the true distribution. The eigenvalues of products of Toeplitz matrices play a crucial role in the sampling theory of quadratic forms; an approximation to their distribution is discussed and its accuracy studied numerically. This leads to approximate probability densities which are thought to be valid for moderate or even small sample sizes.

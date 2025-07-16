@@ -1,0 +1,2 @@
+Signaling schemes over a dedicated wireless signaling system in the heterogeneous network
+The Multimedia Integrated network by Radio Access Innovation (MIRAI) architecture was proposed by the Communications Research Laboratory in Japan in Spring 2001. At the same time a basic access network (BAN) was proposed as a common access network dedicated to signaling in the MIRAI. This paper focuses on the signaling such as paging, packet filtering, and wireless system discovery as essential functions of the BAN and presents a signaling example and advantages of the BAN.

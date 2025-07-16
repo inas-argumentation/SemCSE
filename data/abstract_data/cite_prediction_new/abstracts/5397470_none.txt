@@ -1,0 +1,4 @@
+Forward-Secure Signatures with Optimal Signing and Verifying
+We propose the first forward-secure signature scheme for which both signing and verifying are as efficient as for one of the most efficient ordinary signature schemes (Guillou-Quisquater [GQ88]), each requiring just two modular exponentiations with a short exponent. All previously proposed forward-secure signature schemes took significantly longer to sign and verify than ordinary signature schemes. 
+ 
+Our scheme requires only fractional increases to the sizes of keys and signatures, and no additional public storage. Like the underlying [GQ88] scheme, our scheme is provably secure in the random oracle model.

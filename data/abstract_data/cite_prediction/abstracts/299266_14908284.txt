@@ -1,0 +1,2 @@
+PORTFOLIO CREDIT RISK : TOP DOWN VS . BOTTOM UP APPROACHES
+Dynamic reduced form models of portfolio credit risk can be distinguished by the way in which the intensity of the default process is specified. In a bottom up model, the portfolio intensity is an aggregate of the constituent intensities. In a top down model, the portfolio intensity is specified without reference to the constituents. This expository article contrasts these modeling approaches. It emphasizes the role of the information filtration as a modeling tool.

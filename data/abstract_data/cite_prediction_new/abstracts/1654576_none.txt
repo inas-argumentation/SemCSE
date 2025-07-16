@@ -1,0 +1,2 @@
+Feedback residual generator with decoupled faults and disturbances
+We develop a new residual generator design which decouples the faults and disturbances in a linear time-invariant system. The decoupling is achieved using feedback to endow the residual generator with additional robustness to modeling errors and disturbances. We provide feasibility conditions for feedback decoupling. We illustrate the new approach using a design example.

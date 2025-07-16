@@ -1,0 +1,11 @@
+Mining coherent dense subgraphs across massive biological networks for functional discovery
+MOTIVATION
+The rapid accumulation of biological network data translates into an urgent need for computational methods for graph pattern mining. One important problem is to identify recurrent patterns across multiple networks to discover biological modules. However, existing algorithms for frequent pattern mining become very costly in time and space as the pattern sizes and network numbers increase. Currently, no efficient algorithm is available for mining recurrent patterns across large collections of genome-wide networks.
+
+
+RESULTS
+We developed a novel algorithm, CODENSE, to efficiently mine frequent coherent dense subgraphs across large numbers of massive graphs. Compared with previous methods, our approach is scalable in the number and size of the input graphs and adjustable in terms of exact or approximate pattern mining. Applying CODENSE to 39 co-expression networks derived from microarray datasets, we discovered a large number of functionally homogeneous clusters and made functional predictions for 169 uncharacterized yeast genes.
+
+
+AVAILABILITY
+http://zhoulab.usc.edu/CODENSE/

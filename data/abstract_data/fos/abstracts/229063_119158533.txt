@@ -1,0 +1,2 @@
+Steenrod Operators, the Coulomb Branch and the Frobenius Twist, I
+In Part I, we use Steenrod's construction to prove that the quantum Coulomb branch is a Frobenius-constant quantization. In Part II, we use the same method to construct a functor of categorical $p$-center between the derived Satake categories with and without loop-rotation, which extends the Frobenius twist functor for representations of the dual group.

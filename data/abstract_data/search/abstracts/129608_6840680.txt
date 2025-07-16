@@ -1,0 +1,2 @@
+A Survey of Subdivision Based Tools for Surface Modeling
+Subdivision surfaces have emerged as a powerful representation for surface modeling and design. They address important limitations of traditional spline based methods, such as the ability to handle arbitrary topologies and to support multiscale editing operations. In this paper we survey existing subdivision based modeling methods with emphasis on interactive tools for styling and decoration of 3D models.

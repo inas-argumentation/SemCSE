@@ -1,0 +1,2 @@
+Repository replication using SMTP and NNTP
+We describe our progress on NSF ISS 0455997, "Shared Infrastructure Preservation Models". The focus of our efforts is to evaluate different preservation models based on Internet infrastructure that sites already have. Specifically, we investigate replicating the contents of a repository using the Simple Mail Transport Protocol ("email") and the Network News Transfer Protocol ("news").

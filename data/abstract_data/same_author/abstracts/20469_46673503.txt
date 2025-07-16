@@ -1,0 +1,2 @@
+Modelling coloured residual noise in gravitational-wave signal processing
+We introduce a signal processing model for signals in non-white noise, where the exact noise spectrum is ap rioriunknown. The model is based on a Student’s t distribution and constitutes a natural generalization of the widely used normal (Gaussian) model. This way, it allows for uncertainty in the noise spectrum, or more generally is also able to accommodate outliers (heavy-tailed noise) in the data. Examples are given pertaining to data from gravitational-wave detectors.

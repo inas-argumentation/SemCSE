@@ -1,0 +1,7 @@
+Differences in gene expression between B-cell chronic lymphocytic leukemia and normal B cells: a meta-analysis of three microarray studies
+MOTIVATION
+A major focus of current cancer research is to identify genes that can be used as markers for prognosis and diagnosis, and as targets for therapy. Microarray technology has been applied extensively for this purpose, even though it has been reported that the agreement between microarray platforms is poor. A critical question is: how can we best combine the measurements of matched genes across microarray platforms to develop diagnostic and prognostic tools related to the underlying biology?
+
+
+RESULTS
+We introduce a statistical approach within a Bayesian framework to combine the microarray data on matched genes from three investigations of gene expression profiling of B-cell chronic lymphocytic leukemia (CLL) and normal B cells (NBC) using three different microarray platforms, oligonucleotide arrays, cDNA arrays printed on glass slides and cDNA arrays printed on nylon membranes. Using this approach, we identified a number of genes that were consistently differentially expressed between CLL and NBC samples.

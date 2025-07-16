@@ -1,0 +1,6 @@
+Über Orthogonalpolynome mit besonderen Eigenschaften
+Let a sequence of generalized orthogonal polynomials (g.o.p.) be defined by the recursion formula 
+ 
+$${y_n}(x) = (x - {a_n}){y_{n - 1}}(x) - {b_n}{y_{n - 2}}(x)$$ 
+ 
+.

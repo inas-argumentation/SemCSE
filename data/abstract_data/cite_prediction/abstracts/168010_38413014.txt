@@ -1,0 +1,15 @@
+Next-generation psychiatric assessment: Using smartphone sensors to monitor behavior and mental health.
+OBJECTIVE
+Optimal mental health care is dependent upon sensitive and early detection of mental health problems. We have introduced a state-of-the-art method for the current study for remote behavioral monitoring that transports assessment out of the clinic and into the environments in which individuals negotiate their daily lives. The objective of this study was to examine whether the information captured with multimodal smartphone sensors can serve as behavioral markers for one's mental health. We hypothesized that (a) unobtrusively collected smartphone sensor data would be associated with individuals' daily levels of stress, and (b) sensor data would be associated with changes in depression, stress, and subjective loneliness over time.
+
+
+METHOD
+A total of 47 young adults (age range: 19-30 years) were recruited for the study. Individuals were enrolled as a single cohort and participated in the study over a 10-week period. Participants were provided with smartphones embedded with a range of sensors and software that enabled continuous tracking of their geospatial activity (using the Global Positioning System and wireless fidelity), kinesthetic activity (using multiaxial accelerometers), sleep duration (modeled using device-usage data, accelerometer inferences, ambient sound features, and ambient light levels), and time spent proximal to human speech (i.e., speech duration using microphone and speech detection algorithms). Participants completed daily ratings of stress, as well as pre- and postmeasures of depression (Patient Health Questionnaire-9; Spitzer, Kroenke, & Williams, 1999), stress (Perceived Stress Scale; Cohen et al., 1983), and loneliness (Revised UCLA Loneliness Scale; Russell, Peplau, & Cutrona, 1980).
+
+
+RESULTS
+Mixed-effects linear modeling showed that sensor-derived geospatial activity (p < .05), sleep duration (p < .05), and variability in geospatial activity (p < .05), were associated with daily stress levels. Penalized functional regression showed associations between changes in depression and sensor-derived speech duration (p < .05), geospatial activity (p < .05), and sleep duration (p < .05). Changes in loneliness were associated with sensor-derived kinesthetic activity (p < .01).
+
+
+CONCLUSIONS AND IMPLICATIONS FOR PRACTICE
+Smartphones can be harnessed as instruments for unobtrusive monitoring of several behavioral indicators of mental health. Creative leveraging of smartphone sensing could provide novel opportunities for close-to-invisible psychiatric assessment at a scale and efficiency that far exceeds what is currently feasible with existing assessment technologies.

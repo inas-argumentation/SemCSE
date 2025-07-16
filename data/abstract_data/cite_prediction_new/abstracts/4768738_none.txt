@@ -1,0 +1,2 @@
+Efficient Testing Of Clock Regenerator Circuits In Scan Designs
+This paper describes the use of a high-level view (functionalview) of a clock regenerator circuit for generating effective andinexpensive manufacturing tests. It is shown that the tests generatedfrom the traditional, structural view add hardwareoverhead, increase design time and potentially lower effectiveyield when compared to the tests generated from the functionalview. A test generation procedure is described and successfullyused on a microprocessor design.

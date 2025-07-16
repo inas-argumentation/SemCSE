@@ -1,0 +1,2 @@
+Weighted sup-norm inequalities and their applications
+Given distributions F1, F2 on [0,∞), bounds are obtained, under suitable conditions, for , where α is an increasing non- negative function and , i=1,2. In applications, F1 is a difficult to compute distribution of interest and F2 a simply computable approximation, often exponentially distributed. The choice α(t) = eat, with a > 0, leads to an error of approximation which goes to zero at an exponential rate. Applications to both continuous and discrete time Markov chains are presented.

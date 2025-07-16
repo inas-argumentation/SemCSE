@@ -1,0 +1,12 @@
+ON REALIZATION OF GENERALIZED EFFECT ALGEBRAS
+A well-known fact is that there is a finite orthomodular
+lattice with an order determining set of states which is not
+representable in the standard quantum logic, the lattice L(H)
+of all closed subspaces of a separable complex Hilbert space.
+We show that a generalized effect algebra is representable in
+the operator generalized effect algebra G(D)(H) of effects of a
+complex Hilbert space H iff it has an order determining set of
+generalized states. This extends the corresponding results for
+effect algebras of Riecanova and Zajac. Further, any operator
+generalized effect algebra G(D) (H) possesses an order
+determining set of generalized states.

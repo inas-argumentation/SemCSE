@@ -1,0 +1,2 @@
+Improving the Strict Avalanche Characteristics of Cryptographic Functions
+Abstract This letter presents a simple yet effective method for transforming Boolean functions that do not satisfy the strict avalanche criterion (SAC) into ones that satisfy the criterion. Such a method has a wide range of applications in designing cryptographically strong functions, including substitution boxes (S-boxes) employed by common key block encryption algorithms.

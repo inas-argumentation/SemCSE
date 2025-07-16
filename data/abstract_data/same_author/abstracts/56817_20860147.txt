@@ -1,0 +1,2 @@
+Dependence-Based Complexity Metwircs for Distributed Programs
+This paper proposes some new metrics, which are defined based on various primary program dependences, for measuring complexity of distributed programs. Since different program dependences reflect different attributes of programs, the metrics can be used to measure uarious complexities of a distributed program from various viewpoints.

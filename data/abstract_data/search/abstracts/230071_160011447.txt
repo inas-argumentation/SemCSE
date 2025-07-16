@@ -1,0 +1,2 @@
+Unsupervised Sentiment Analysis of Objective Texts
+Unsupervised learning is an emerging approach in sentiment analysis. In this paper, we apply unsupervised word and document embedding algorithms, Word2Vec and Doc2Vec, to medical and scientific text. We use SentiWordNet as the benchmark measures. Our empirical study is done on the Obesity NLP Challenge data set and four Science subgroups from Reuters 20 Newsgroups. Our results show that Word2Vec demonstrates a reliable performance in sentiment analysis of the text, whereas Doc2Vec requires more detailed studies.

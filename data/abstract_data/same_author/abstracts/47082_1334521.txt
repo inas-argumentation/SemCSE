@@ -1,0 +1,2 @@
+Rectilinear Graphs and their Embeddings
+The embedding problem for a class of graphs called rectilinear graphs is discussed. These graphs have applications in many VLSI Layout Problems. An interesting topological characterization of these graphs lead to efficient algorithms for recognizing and embedding rectilinear graphs which are embeddable on the plane.

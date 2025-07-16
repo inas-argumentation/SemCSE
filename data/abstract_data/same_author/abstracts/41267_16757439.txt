@@ -1,0 +1,2 @@
+Odd Hole Recognition in Graphs of Bounded Clique Size
+In a graph $G$, an odd hole is an induced odd cycle of length at least 5. A clique of $G$ is a set of pairwise adjacent vertices. In this paper we consider the class ${\cal C}_k$ of graphs whose cliques have a size bounded by a constant $k$. Given a graph $G$ in ${\cal C}_k$, we show how to recognize in polynomial time whether $G$ contains an odd hole.

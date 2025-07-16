@@ -1,0 +1,2 @@
+A result about the density of iterated line intersections in the plane
+Let S be a finite set of points in the plane and let T(S) be the set of intersection points between pairs of lines passing through any two points in S. We characterize all configurations of points S such that iteration of the above operation produces a dense set. We also discuss partial results on the characterization of those finite point-sets with rational coordinates that generate all of Q2 through iteration of T.

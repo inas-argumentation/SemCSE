@@ -1,0 +1,2 @@
+A class of additive multiplicative graph functions
+For a fixed graph G, the capacity function for G, Po, is defined by Pc(H)= lim,__,®[yo(H')] TM, where y6(H) is the maximum number of disjoint G's in H. In [2], Hsu proved that Pr2 can be viewed as a lower bound for multiplicative increasing graph functions. But it was not known whether Pr2 is multiplicative or not. In this paper, we prove that Pc is multiplicative and additive for some graphs G which include K2. Some properties of Pc are also discussed in this paper.

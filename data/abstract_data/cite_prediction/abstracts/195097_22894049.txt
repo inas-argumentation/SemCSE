@@ -1,0 +1,2 @@
+A New Approach to Design Domain Specific Ontology Based Web Crawler
+A domain specific Web search engine is a search engine which replies to domain specific user queries. The crawler in a domain specific search engine must crawl through the domain specific Web pages in the World Wide Web (WWW). For a crawler it is not an easy task to download the domain specific Web pages. Ontology can play a vital role in this context. Our focus will be to identify Web pages for a particular domain in WWW.

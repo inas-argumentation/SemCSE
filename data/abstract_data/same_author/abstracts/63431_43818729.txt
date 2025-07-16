@@ -1,0 +1,2 @@
+Reverse Center Location Problem
+In this paper we consider a reverse center location problem in which we wish to spend as less cost as possible to ensure that the distances from a given vertex to all other vertices in a network are within given upper bounds. We first show that this problem is NP-hard. We then formulate the problem as a mixed integer programming problem and propose a heuristic method to solve this problem approximately on a spanning tree. A strongly polynomial method is proposed to solve the reverse center location problem on this spanning tree.

@@ -1,0 +1,2 @@
+Software metrics from a user's perspective
+Abstract A quantitative approach for evaluating the quality of a software package is proposed. The method is based on the principle that poor quality is closely associated with certain losses and users, consciously or sub-consciously, view these losses as the true software quality metrics. A model is developed that combines all these metrics into a single metric which measures the total loss to a user due to the poor quality of a package. Applications of the model to software development and testing are discussed.

@@ -1,0 +1,2 @@
+Improved approximations for edge-disjoint paths, unsplittable flow, and related routing problems
+We present improved approximation algorithms for a family of problems involving edge-disjoint paths and unsplittable flow, and for some related routing problems. The central theme of all our algorithms is the underlying multi-commodity flow relaxation.

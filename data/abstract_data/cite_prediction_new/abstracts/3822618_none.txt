@@ -1,0 +1,15 @@
+Two-dimensional acoustic pattern derived strain parameters closely correlate with one-dimensional tissue Doppler derived strain measurements.
+BACKGROUND
+Two-dimensional strain echocardiography (2D-SE) calculates tissue velocities via frame-to-frame tracking of unique acoustic markers within the image and provides strain parameters in two dimensions. Novel 2D-SE software allows semi-automated strain measurements and increased averaging capabilities optimizing signal-noise ratio.
+
+
+AIM
+We tested whether 2D-SE and the currently used and well-validated tissue Doppler derived strain echocardiography (TD-SE) yield similar information in the clinical setting.
+
+
+METHODS AND RESULTS
+We performed 2D-SE and TD-SE on 17 patients with amyloid cardiomyopathy and 10 age-matched healthy volunteers. Single walls from standard apical views (2- and 4-chamber) were acquired at high frame rates ( approximately 200fps). Offline analysis was performed by observers blinded to clinical data using the EchoPAC program with custom 2D-SE software. Longitudinal strain rate and strain from the basal, mid and apical segments of the septal and lateral walls were determined by each method (TD-SE and 2D-SE). Ejection fraction was >0.55 in healthy volunteers and ranged from 0.30 to 0.80 in cardiomyopathy group. A total of 54 walls (162 segments) were examined. Acceptable quality strain data was available in 92% and 85% segments by 2D-SE and TD-SE, respectively. Two-dimensional strain echocardiography values correlated closely with TD-SE values (r=0.94 and 0.96 for strain rate and strain, respectively).
+
+
+CONCLUSIONS
+Deformation analysis by 2D-SE is feasible in a clinical setting and 2D-SE values correlate closely with TD-SE measurements over a wide range of global systolic function. Two-dimensional strain echocardiography may help to facilitate the routine clinical implementation of deformation analysis.

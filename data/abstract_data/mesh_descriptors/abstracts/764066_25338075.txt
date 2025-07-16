@@ -1,0 +1,15 @@
+Beam angle optimization and reduction for intensity-modulated radiation therapy of non-small-cell lung cancers.
+PURPOSE
+To optimize beam angles and reduce the number of beams used for intensity-modulated radiation therapy (IMRT) of non-small-cell lung cancer (NSCLC).
+
+
+METHODS AND MATERIALS
+An exhaustive search scheme was used to perform beam angle optimization (BAO) for IMRT of NSCLC. This approach involved intercomparison of all possible beam angle combinations and selection of the best angles based on the scores or costs of the objective functions used in the treatment plan optimization. Ten Stage III NSCLC cases were selected to evaluate the BAO algorithm and dosimetry benefits of IMRT-BAO. IMRT plans using five or seven coplanar beams were optimized and compared with those using nine equal-spaced beams. Results of BAO were also compared between plans using different numbers of beams with or without fluence modulation.
+
+
+RESULTS
+Each anatomic structure, e.g., tumor or lung, had its own preferred beam angles. Thus, BAO required appropriate balance of competing objective functions. Plans using fewer angles (five or seven beams) could achieve plan quality similar to those using nine equal-spaced beams, however with reduced monitor units and field segments. The number of beams used for the treatment (five vs. seven) and the fluence modulation (open or IMRT beams) did not have a significant impact on the results of the BAO.
+
+
+CONCLUSIONS
+Use of fewer beams (e.g., five) for lung IMRT could result in acceptable plan quality but improved treatment efficiency. A multiresolution search scheme could be developed for BAO using fewer and nonmodulated beams to reduce the computation cost of BAO.

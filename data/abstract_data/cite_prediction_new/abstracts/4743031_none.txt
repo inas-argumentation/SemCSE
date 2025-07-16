@@ -1,0 +1,12 @@
+An Analysis of Double Base Number Systems and a Sublinear Scalar Multiplication Algorithm
+In this paper we produce a practical and efficient algorithm to find a decomposition of type 
+ 
+$$ n= \sum\limits^{k}_{i=1} 2{^s_i}3{^t_{i}}, s_{i},t_{i} \in {\mathbb N}\cup{\{0\}} with k \leq (c+o(1))\frac{log n}{log log n}.$$ 
+ 
+It is conjectured that one can take c = 2 above. Then this decomposition is refined into an effective scalar multiplication algorithm to compute nP on some supersingular elliptic curves of characteristic 3 with running time bounded by 
+ 
+$$O\left(\frac{log n}{log log n}\right)$$ 
+ 
+and essentially no storage. To our knowledge, this is the first instance of a scalar multiplication algorithm that requires o(log n) curve operations on an elliptic curve over ${\mathbb F}_{q}$with log q≈ log n and uses comparable storage as in the standard double-and-add algorithm. 
+ 
+This leads to an efficient algorithm very useful for cryptographic protocols based on supersingular curves. This is for example the case of the well-studied (in the past four years) identity based schemes. The method carries over to any supersingular curve of fixed characteristic.

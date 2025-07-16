@@ -1,0 +1,15 @@
+Orthogonal Rings, Fiducial Markers, and Overlay Accuracy When Image Fusion is Used for EVAR Guidance.
+OBJECTIVE
+Evaluation of orthogonal rings, fiducial markers, and overlay accuracy when image fusion is used for endovascular aortic repair (EVAR).
+
+
+METHODS
+This was a prospective single centre study. In 19 patients undergoing standard EVAR, 3D image fusion was used for intra-operative guidance. Renal arteries and targeted stent graft positions were marked with rings orthogonal to the respective centre lines from pre-operative computed tomography (CT). Radiopaque reference objects attached to the back of the patient were used as fiducial markers to detect patient movement intra-operatively. Automatic 3D-3D registration of the pre-operative CT with an intra-operative cone beam computed tomography (CBCT) as well as 3D-3D registration after manual alignment of nearby vertebrae were evaluated. Registration was defined as being sufficient for EVAR guidance if the deviation of the origin of the lower renal artery was less than 3 mm. For final overlay registration, the renal arteries were manually aligned using aortic calcification and vessel outlines. The accuracy of the overlay before stent graft deployment was evaluated using digital subtraction angiography (DSA) as direct comparison.
+
+
+RESULTS
+Fiducial markers helped in detecting misalignment caused by patient movement during the procedure. Use of automatic intensity based registration alone was insufficient for EVAR guidance. Manual registration based on vertebrae L1-L2 was sufficient in 7/19 patients (37%). Using the final adjusted registration as overlay, the median alignment error of the lower renal artery marking at pre-deployment DSA was 2 mm (0-5) sideways and 2 mm (0-9) longitudinally, mostly in a caudal direction.
+
+
+CONCLUSION
+3D image fusion can facilitate intra-operative guidance during EVAR. Orthogonal rings and fiducial markers are useful for visualization and overlay correction. However, the accuracy of the overlaid 3D image is not always ideal and further technical development is needed.

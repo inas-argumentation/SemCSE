@@ -1,0 +1,2 @@
+ERRoR ANAlysIs AND RETENTIoN-AwARE ERRoR MANAgEMENT FoR NAND FlAsh MEMoRy
+With continued scaling of NAND flash memory process technology and multiple bits programmed per cell, NAND flash reliability and endurance are degrading. In our research, we experimentally measure, characterize, analyze, and model error patterns in nanoscale flash memories. Based on the understanding developed using real flash memory chips, we design techniques for more efficient and effective error management than traditionally used costly error correction codes.

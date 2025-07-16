@@ -1,0 +1,2 @@
+A family of parallel-prefix modulo 2/sup n/-1 adders
+We reveal the cyclic nature of idempotency in the case of modulo 2/sup n/-1 addition. Then based on this property, we derive for each n, a family of minimum logic depth modulo 2/sup n/-1 adders, which allows several trade-offs between the number of operators, the internal wire length, and the fanout of internal nodes. Performance data, gathered using static CMOS implementations, reveal that the proposed architectures outperform all previously reported ones in terms of area and/or operation speed.

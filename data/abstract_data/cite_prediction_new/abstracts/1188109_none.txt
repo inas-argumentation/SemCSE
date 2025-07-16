@@ -1,0 +1,2 @@
+A 5.8 GHz 1.7 dB NF fully integrated differential low noise amplifier in CMOS
+This work presents a fully integrated differential 5.8 GHz low-noise amplifier (LNA). The LNA is fabricated in a 90 nm RF-CMOS process and has a power gain of 12.5 dB, an IIP3 of 4dBm, and a noise figure of 1.7 dB consuming 14 mA from a 1.2 V supply. Compared to previously reported differential CMOS designs this LNA show lower noise figure and better linearity.

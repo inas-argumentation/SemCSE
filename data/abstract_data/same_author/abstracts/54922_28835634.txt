@@ -1,0 +1,2 @@
+A Distance-Based Algorithm for Clustering Database User Sessions
+In this paper, we present a distance-based clustering algorithm for grouping database user sessions. The algorithm considers both local and global similarities between sessions and incorporates three distance metrics in the computation of the distance between two sessions. We describe the three metrics and discuss the rational for combining them. The algorithm is evaluated on two datasets. One is a clinic OLTP workload file and the other is the TPC-W benchmark. The evaluation results are reported.

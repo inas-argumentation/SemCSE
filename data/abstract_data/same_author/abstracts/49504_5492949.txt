@@ -1,0 +1,2 @@
+Resource Matching and a Matchmaking Service for an Intelligent Grid
+We discuss the application of matching in the area of resource discovery and resource allocation in grid computing. We present a formal definition of matchmaking, overview algorithms to evaluate different matchmaking expressions, and develop a matchmaking service for an intelligent grid environment. Keywords—Grid, Matchmaking, Ontology

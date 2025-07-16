@@ -1,0 +1,2 @@
+Circular Fourier-HOG features for rotation invariant object detection in biomedical images
+In this paper we present a new system for generic rotation invariant 2D object detection based on circular Fourier HOG features. Our system combines the advantages of a dense voting scheme as it is used in the Holomorphic Filter framework with features based on local orientation statistics. Experiments on two different biological datasets show superior detection performance over four state-of-the-art reference approaches.

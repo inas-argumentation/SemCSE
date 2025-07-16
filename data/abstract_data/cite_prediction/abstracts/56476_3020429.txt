@@ -1,0 +1,2 @@
+A 63,000 Q-factor relaxation oscillator with switched-capacitor integrated error feedback
+There is a growing interest in implementing on-chip reference clock generators for low-cost low-power area-efficient SoCs, such as implantable biomedical devices and microcomputers. Relaxation oscillators are suitable candidates to generate such reference clocks due to their compact size, low power consumption and wide frequency tuning range. However, the poor phase noise performance and large long-term variation are two major problems that limit their application.

@@ -1,0 +1,23 @@
+Toward an open access to high-frequency lake modeling and statistics data for scientists and practitioners – the case of Swiss lakes using Simstrat v2.1
+. One-dimensional hydrodynamic models are nowadays widely recognized as key
+tools for lake studies. They offer the possibility to analyze processes at
+high frequency, here referring to hourly timescales, to investigate
+scenarios and test hypotheses. Yet, simulation outputs are mainly used by
+the modellers themselves and often not easily reachable for the outside
+community. We have developed an open-access web-based platform for
+visualization and promotion of easy access to lake model output data updated
+in near-real time (http://simstrat.eawag.ch, last access: 29 August 2019). This platform was developed for 54
+lakes in Switzerland with potential for adaptation to other regions or at
+global scale using appropriate forcing input data. The benefit of this data
+platform is practically illustrated with two examples. First, we show that
+the output data allows for assessing the long-term effects of past climate
+change on the thermal structure of a lake. The study confirms the need to
+not only evaluate changes in all atmospheric forcing but also changes in the
+watershed or throughflow heat energy and changes in light penetration to
+assess the lake thermal structure. Then, we show how the data platform can
+be used to study and compare the role of episodic strong wind events for
+different lakes on a regional scale and especially how their thermal
+structure is temporarily destabilized. With this open-access data platform,
+we demonstrate a new path forward for scientists and practitioners promoting
+a cross exchange of expertise through openly sharing in situ and model
+data.

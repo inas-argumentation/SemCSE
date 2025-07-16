@@ -1,0 +1,2 @@
+Rational points on certain homogeneous varieties.
+Let $L$ be a simply-connected simple connected algebraic group over a number field $F$, and $H$ be a semisimple absolutely maximal connected $F$-subgroup of $L$. Under a cohomological condition, we prove an asymptotic formula for the number of rational points of bounded height on projective equivariant compactifications of $\Delta(H)\backslash L^n$ with respect to a balanced line bundle, where $\Delta(H)$ is the image of $H$ diagonally embedded in $L^n$.

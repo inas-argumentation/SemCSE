@@ -1,0 +1,2 @@
+Toward a Statistical Knowledge Network
+This paper describes an architecture for a statistical knowledge network that depends on user interfaces as the glue among the components. These interfaces aim to serve non-expert users with diverse needs and statistical and computing experiences. Such interfaces are crucially dependent on different indexing schemes and good metadata.

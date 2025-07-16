@@ -1,0 +1,2 @@
+Bayesian Model Averaging with BMS
+This manual is a brief introduction to applied Bayesian Model Averaging with the R package BMS. The manual is structured as a hands-on tutorial for readers with few experience with BMA. Readers from a more technical background are advised to consult the table of contents for formal representations of the concepts used in BMS. For other tutorials and more information, please refer to http://bms.zeugner.eu.

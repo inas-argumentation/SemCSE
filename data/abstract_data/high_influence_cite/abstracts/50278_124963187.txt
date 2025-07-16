@@ -1,0 +1,8 @@
+The Penrose-Fife phase-field model with coupled dynamic boundary conditions
+In this paper we derive, starting from the basic principles of ther- 
+modynamics, an extended version of the nonconserved Penrose-Fife phase tran- 
+sition model, in which dynamic boundary conditions are considered in order 
+to take into account interactions with walls. Moreover, we study the well- 
+posedness and the asymptotic behavior of the initial-boundary value problem 
+for the PDE system associated to the model, allowing the phase con guration 
+of the material to be described by a singular function.

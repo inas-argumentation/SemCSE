@@ -1,0 +1,2 @@
+Design and Implementation of Autonomous Car using Raspberry Pi
+The project aims to build a monocular vision autonomous car prototype using Raspberry Pi as a processing chip. An HD camera along with an ultrasonic sensor is used to provide necessary data from the real world to the car. The car is capable of reaching the given destination safely and intelligently thus avoiding the risk of human errors. Many existing algorithms like lane detection, obstacle detection are combined together to provide the necessary control to the car.

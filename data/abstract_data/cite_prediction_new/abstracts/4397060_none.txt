@@ -1,0 +1,2 @@
+Robust convergence of a compact fourth-order finite difference scheme for reaction–diffusion problems
+We consider a singularly perturbed one-dimensional reaction–diffusion problem with strong layers. The problem is discretized using a compact fourth order finite difference scheme. Altough the discretization is not inverse monotone we are able to establish its maximum-norm stability and to prove its pointwise convergence on a Shishkin mesh. The convergence is uniform with respect to the perturbation parameter. Numerical experiments complement our theoretical results.

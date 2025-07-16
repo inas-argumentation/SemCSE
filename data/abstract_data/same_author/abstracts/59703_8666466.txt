@@ -1,0 +1,4 @@
+Eigenvalues, geometric expanders, sorting in rounds, and ramsey theory
+AbstractExpanding graphs are relevant to theoretical computer science in several ways. Here we show that the points versus hyperplanes incidence graphs of finite geometries form highly (nonlinear) expanding graphs with essentially the smallest possible number of edges. The expansion properties of the graphs are proved using the eigenvalues of their adjacency matrices.These graphs enable us to improve previous results on a parallel sorting problem that arises in structural modeling, by describing an explicit algorithm to sortn elements ink time units using
+$$O(n^{\alpha _k } )$$
+ parallel processors, where, e.g., α2=7/4, α3=8/5, α4=26/17 and α5=22/15.Our approach also yields several applications to Ramsey Theory and other extremal problems in combinatorics.

@@ -1,0 +1,19 @@
+Predicting conversion from MCI to AD using resting-state fMRI, graph theoretical approach and SVM
+BACKGROUND
+We investigated identifying patients with mild cognitive impairment (MCI) who progress to Alzheimer's disease (AD), MCI converter (MCI-C), from those with MCI who do not progress to AD, MCI non-converter (MCI-NC), based on resting-state fMRI (rs-fMRI).
+
+
+NEW METHOD
+Graph theory and machine learning approach were utilized to predict progress of patients with MCI to AD using rs-fMRI. Eighteen MCI converts (average age 73.6 years; 11 male) and 62 age-matched MCI non-converters (average age 73.0 years, 28 male) were included in this study. We trained and tested a support vector machine (SVM) to classify MCI-C from MCI-NC using features constructed based on the local and global graph measures. A novel feature selection algorithm was developed and utilized to select an optimal subset of features.
+
+
+RESULTS
+Using subset of optimal features in SVM, we classified MCI-C from MCI-NC with an accuracy, sensitivity, specificity, and the area under the receiver operating characteristic (ROC) curve of 91.4%, 83.24%, 90.1%, and 0.95, respectively. Furthermore, results of our statistical analyses were used to identify the affected brain regions in AD.
+
+
+COMPARISON WITH EXISTING METHOD(S)
+To the best of our knowledge, this is the first study that combines the graph measures (constructed based on rs-fMRI) with machine learning approach and accurately classify MCI-C from MCI-NC.
+
+
+CONCLUSION
+Results of this study demonstrate potential of the proposed approach for early AD diagnosis and demonstrate capability of rs-fMRI to predict conversion from MCI to AD by identifying affected brain regions underlying this conversion.

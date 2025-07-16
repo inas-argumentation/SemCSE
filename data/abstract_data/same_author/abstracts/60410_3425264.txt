@@ -1,0 +1,2 @@
+On the Vertex-Distinguishing Proper Edge-Colorings of Graphs
+We prove the conjecture of Burris and Schelp: a coloring of the edges of a graph of ordernsuch that a vertex is not incident with two edges of the same color and any two vertices are incident with different sets of colors is possible using at mostn+1 colors.

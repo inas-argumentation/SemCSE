@@ -1,0 +1,2 @@
+E-Unification for Subsystems of S4
+This paper is concerned with the unification problem in the path logics associated by the optimised functional translation method with the propositional modal logics K, KD, KT, KD4, S4 and S5. It presents improved unification algorithms for certain forms of the right identity and associativity laws. The algorithms employ mutation rules, which have the advantage that terms are worked off from the outside inward, making paramodulating into terms superfluous.

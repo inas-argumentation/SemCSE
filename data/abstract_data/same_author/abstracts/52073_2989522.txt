@@ -1,0 +1,2 @@
+Zero duality gap in integer programming: P-norm surrogate constraint method
+A p-norm surrogate constraint method is proposed for integer programming. A single surrogate constraint can be always constructed using a p-norm such that the feasible sets in a surrogate relaxation and the primal problem match exactly. The p-norm surrogate constraint method is thus guaranteed to succeed in identifying an optimal solution of the primal problem with zero duality gap. The existence of a saddle point is proven for integer programming problems.

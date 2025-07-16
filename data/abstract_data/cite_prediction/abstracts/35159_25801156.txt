@@ -1,0 +1,2 @@
+CS 224 N HW 4 : SQuAD Reading Comprehension Learning
+The Stanford Question Answering Dataset (SQuAD) consists on more than 100000 triplets paragraph, question, answer from Wikipedia, with various answer types and length. By training a coattention-based encoder followed by a mostly linear spanning decoder and a inversion handling post processing, we are able to achieve a F1 of 56% and an exact match of 43% with a particularly good accuracy on Named entities and numerical answers.

@@ -1,0 +1,7 @@
+Recognition of partially occluded plant leaves using a modified watershed algorithm
+Occlusion is an obstacle to two-dimensional machine vision recognition of plants in natural outdoor scenes. Five 
+modifications to the Watershed algorithm were investigated for separating occluded plant leaves, in an attempt to reduce the 
+excessive object fragmentation associated with the original Watershed algorithm. The best modified algorithm improved the 
+recognition of occluded tomato cotyledons and tomato true leaves improved by a factor of 3 and 2, respectively, after it was 
+applied to occluded plant leaves in natural outdoor scenes. Two of the modified Watershed algorithms required about 11% 
+less computation time than the original.

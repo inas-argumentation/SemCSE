@@ -1,0 +1,2 @@
+Optimal Multi-Objective Planning of Distribution System with Distributed Generation
+This paper presents a multi-objective formulation for optimal siting and sizing of distributed generation (DG) resources in distribution systems in order to minimize the cost of power losses and energy not supplied. The implemented technique is based on a genetic algorithm (GA) and weight method that employed to obtain the best compromise between these costs. Simulation results on 33-bus distribution test system are presented to demonstrate the effectiveness of the proposed procedure.

@@ -1,0 +1,15 @@
+Genomic characterization of vulvar squamous cell carcinoma.
+BACKGROUND
+Despite increasing incidence, vulvar squamous cell carcinoma (VSCC) is still a rare disease. Until now, two etiological pathways have been described: a high-risk human papillomavirus (HPV)-dependent route and an HPV-independent pathway often associated with lichen sclerosus. To date, therapeutic strategies in VSCC are not influenced by molecular pathological information and therapeutic options for advanced or recurrent disease are limited.
+
+
+METHODS
+Whole exome sequencing of DNA, isolated from 34 VSCC samples and matched normal tissue for each individual was performed on an Illumina HiSeq4000. Short variant discovery was carried out using BWA mem and FreeBayes. Variants were annotated using ANNOVAR.
+
+
+RESULTS
+FIGO stages were: IB (n = 7), II (n = 11), III (n = 8), and IVA (n = 3), (n = 5 unknown). TP53 missense mutations were most commonly detected with 56% (19/34). 12/34 (35.3%) samples were HPV positive (all HPV16), HPV positivity and TP53 mutations were mutually exclusive (p < .0001). Additionally, we observed mutations in known cancer relevant genes, like NBPF1 (n = 7), MACF1 (n = 5), SYNE2 (n = 5), DOCK2 (n = 4), KMT2D (n = 4), MAP2 (n = 4), NACA (n = 4), PIK3CA (n = 4), SYNE1 (n = 4), FBWX7 (n = 3), MSH6 (n = 3), NSD1 (n = 3), POLE (n = 3), TSC2, (n = 3) and CDKN2A (n = 2), but at considerably lower frequencies. For the total cohort 1848 cancer related mutations were detected (median of 54.4 per sample).
+
+
+CONCLUSIONS
+The key mutation in HPV negative vulvar carcinoma affects TP53. While a multitude of cancer related mutations was detected in various samples, only few mutations recur and/or affect concurrent signaling pathways.

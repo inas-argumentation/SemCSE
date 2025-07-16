@@ -1,0 +1,2 @@
+Conception d'un outil d'aide a la comprehension ecrite pour les apprenants de francais langue etrangere
+En vue d'aider les apprenants de francais langue etrangere en compre hension ecrite, nous concevons un outil qui propose des reecritures en contexte pour un mot ou une suite de mots. Nous nous appuierons sur les equivalences de traduction pour proposer ces reecritures, et un systeme de classification automa tique des procedes de traduction au niveau sous phrastique permettra de controler et d'interpreter le processus.

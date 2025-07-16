@@ -1,0 +1,2 @@
+How to Meet Big Data When Private Set Intersection Realizes Constant Communication Complexity
+This paper presents the first PSI protocol that achieves constant (O(1)) communication complexity with linear computation overhead and is fast even for the case of large input sets. The scheme is proven to be provably secure in the standard model against semi-honest parties. We combine somewhere statistically binding (SSB) hash function with indistinguishability obfuscation (iO) and Bloom filter to construct our PSI protocol.

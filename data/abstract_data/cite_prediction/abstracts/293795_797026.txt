@@ -1,0 +1,2 @@
+SimFlex: Statistical Sampling of Computer System Simulation
+Timing-accurate full-system multiprocessor simulations can take years because of architecture and application complexity. Statistical sampling makes simulation-based studies feasible by providing ten-thousand-fold reductions in simulation runtime and enabling thousand-way simulation parallelism

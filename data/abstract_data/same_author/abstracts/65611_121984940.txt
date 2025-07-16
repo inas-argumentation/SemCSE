@@ -1,0 +1,6 @@
+On Spline Collocation for Singular Integral Equations
+This paper is devoted to the approximate solution of one-dimensional singular integral equations on a closed curve by spline collocation methods. As the main result we give conditions which are sufficient and in special cases also necessary for the convergence in SOBOLEV norms. 
+ 
+ 
+ 
+The paper is organized as follows. In chapter 1 we indicate some definitions and some facts about projection methods. In chapter 2, we generalize a technique developed in [1] and study the convergence of collocations using splines of odd degree in periodic SOBOLEV spaces. In chapter 3, we apply our method to collocations by splines of even degree and consider the case of systems of equations. And in the last chapter, 4, the results are applied to singular integral equations and compared with known facts about piecewise linear spline collocation for such equations.

@@ -1,0 +1,30 @@
+Applying FP_ILM to the retrieval of geometry-dependent effective Lambertian equivalent reflectivity (GE_LER) daily maps from UVN satellite measurements
+Abstract. The retrieval of trace gas, cloud, and aerosol
+measurements from ultraviolet, visible, and near-infrared (UVN) sensors
+requires precise information on surface properties that are traditionally
+obtained from Lambertian equivalent reflectivity (LER) climatologies. The
+main drawbacks of using LER climatologies for new satellite missions are that (a) climatologies are typically based on previous missions with significantly
+lower spatial resolutions, (b) they usually do not account fully for
+satellite-viewing geometry dependencies characterized by bidirectional
+reflectance distribution function (BRDF) effects, and (c) climatologies may
+differ considerably from the actual surface conditions especially with
+snow/ice scenarios. In this paper we present a novel algorithm for the retrieval of
+geometry-dependent effective Lambertian equivalent reflectivity
+(GE_LER) from UVN sensors; the algorithm is based on the
+full-physics inverse learning machine (FP_ILM) retrieval.
+Radiances are simulated using a radiative transfer model that takes into
+account the satellite-viewing geometry, and the inverse problem is solved
+using machine learning techniques to obtain the GE_LER from
+satellite measurements. The GE_LER retrieval is optimized not only for trace gas
+retrievals employing the DOAS algorithm, but also for the large amount of
+data from existing and future atmospheric Sentinel satellite missions. The
+GE_LER can either be deployed directly for the computation of
+air mass factors (AMFs) using the effective scene approximation or it can be used to create a
+global gapless geometry-dependent LER (G3_LER) daily map from
+the GE_LER under clear-sky conditions for the computation of
+AMFs using the independent pixel approximation. The GE_LER algorithm is applied to measurements of TROPOMI
+launched in October 2017 on board the EU/ESA Sentinel-5 Precursor (S5P)
+mission. The TROPOMI GE_LER/G3_LER results are
+compared with climatological OMI and GOME-2 LER datasets and the advantages
+of using GE_LER/G3_LER are demonstrated for
+the retrieval of total ozone from TROPOMI.

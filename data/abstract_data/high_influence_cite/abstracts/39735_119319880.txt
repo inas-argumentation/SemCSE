@@ -1,0 +1,2 @@
+Horn conditions for Schubert positions of general quiver subrepresentations
+We give inductive conditions that characterize the Schubert positions of subrepresentations of a general quiver representation. Our results generalize Horn's criterion for the intersection of Schubert varieties in Grassmannians and refine Schofield's characterization of the dimension vectors of general subrepresentations. Our proofs are inspired by Schofield's argument as well as Belkale's geometric proof of the saturation conjecture.

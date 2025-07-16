@@ -1,0 +1,2 @@
+XMAX: X-tolerant architecture for MAXimal test compression
+XMAX is a novel test data compression architecture capable of achieving almost exponential reduction in scan test data volume and test time while allowing use of commercial automatic test pattern generation (ATPG) tools. It tolerates presence of sources of unknown logic values (also referred to as X's) without compromising test quality and diagnosis capability for most practical purposes. The XMAX architecture has been implemented in several industrial designs.

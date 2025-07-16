@@ -1,0 +1,15 @@
+Clinical accuracy of the respiratory tumor tracking system of the cyberknife: assessment by analysis of log files.
+PURPOSE
+To quantify the clinical accuracy of the respiratory motion tracking system of the CyberKnife treatment device.
+
+
+METHODS AND MATERIALS
+Data in log files of 44 lung cancer patients treated with tumor tracking were analyzed. Errors in the correlation model, which relates the internal target motion with the external breathing motion, were quantified. The correlation model error was compared with the geometric error obtained when no respiratory tracking was used. Errors in the prediction method were calculated by subtracting the predicted position from the actual measured position after 192.5 ms (the time lag to prediction in our current system). The prediction error was also measured for a time lag of 115 ms and a new prediction method.
+
+
+RESULTS
+The mean correlation model errors were less than 0.3 mm. Standard deviations describing intrafraction variations around the whole-fraction mean error were 0.2 to 1.9 mm for cranio-caudal, 0.1 to 1.9 mm for left-right, and 0.2 to 2.5 mm for anterior-posterior directions. Without the use of respiratory tracking, these variations would have been 0.2 to 8.1 mm, 0.2 to 5.5 mm, and 0.2 to 4.4 mm. The overall mean prediction error was small (0.0 +/- 0.0 mm) for all directions. The intrafraction standard deviation ranged from 0.0 to 2.9 mm for a time delay of 192.5 ms but was halved by using the new prediction method.
+
+
+CONCLUSIONS
+Analyses of the log files of real clinical cases have shown that the geometric error caused by respiratory motion is substantially reduced by the application of respiratory motion tracking.

@@ -1,0 +1,2 @@
+Tsinghua University at the Summarization Track of TAC 2008
+This paper presents our extractive summarization systems at the update summarization track of TAC 2008. We proposed two novel methods, one is based on the information distance theory, and the other is based on the sentence centrality which derives from the centrality concept in the graph theory. The evaluation results show that the two submitted runs are very competitive to generate extractive summaries.

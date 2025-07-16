@@ -1,0 +1,2 @@
+A Method for Deciding the Finiteness of Deterministic Tabled Picture Languages
+Chain code picture systems based on Lindenmayer systems can be used to generate pictures. In this paper, synchronous, deterministic tabled chain code picture systems (sDT0L) and their picture languages are considered. A method is given for deciding whether an sDT0L generates a finite picture language or not. This proves that the finiteness of picture languages of sDT0L system is decidable.

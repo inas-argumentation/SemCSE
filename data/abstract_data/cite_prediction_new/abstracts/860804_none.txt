@@ -1,0 +1,4 @@
+A Parametric Propagator for Discretely Convex Pairs of Sum Constraints
+We introduce a propagator for abstract pairs of Sum constraints, where the expressions in the sums respect a form of convexity. This propagator is parametric and can be instantiated for various concrete pairs, including DEVIATION, SPREAD, and the conjunction of Sum and COUNT. We show that despite its generality, our propagator is competitive in theory and practice with state-of-the-art propagators. 
+ 
+This work is supported by grants 2011-6133 and 2012-4908 of the Swedish Research Council (VR). We thank the reviewers for their constructive comments.

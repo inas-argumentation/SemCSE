@@ -1,0 +1,2 @@
+Model-checking of correctness conditions for concurrent objects
+The notions of serializability, linearizability and sequential consistency are used in the specification of concurrent systems. We show that the model checking problem for each of these properties can be cast in terms of the containment of one regular language in another regular language shuffled using a semi-commutative alphabet. The three model checking problems are shown to be, respectively, in PSPACE, in EXPSPACE, and undecidable.

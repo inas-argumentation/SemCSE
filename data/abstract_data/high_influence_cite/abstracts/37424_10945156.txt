@@ -1,0 +1,17 @@
+Effects of topology on robustness in ecological bipartite networks
+High robustness of complex ecological systems in the face of species extinction has been hypothesized 
+based on the redundancy in species. We explored how differences in network topology may affect robustness. 
+Ecological bipartite networks used to be small, asymmetric and sparse matrices. We created synthetic 
+networks to study the influence of the properties of network dimensions asymmetry, connectance and 
+type of degree distribution on network robustness. We used two 
+extinction strategies: node extinction and link extinction, 
+and three extinction sequences differing in the order of species removal (least-to-most 
+connected, random, most-to-least connected). 
+We assessed robustness to extinction of simulated networks, which differed in one 
+of the three topological features. Simulated networks indicated that robustness decreases 
+when (a) extinction involved those nodes belonging to the most species-rich guild and (b) 
+networks had lower connectance. We also compared simulated networks with different degree- 
+distribution networks, and they showed important differences in robustness depending on the extinction 
+scenario. In the link extinction strategy, the robustness of synthetic networks was clearly determined by 
+the asymmetry in the network dimensions, while the variation in connectance produced negligible 
+differences.

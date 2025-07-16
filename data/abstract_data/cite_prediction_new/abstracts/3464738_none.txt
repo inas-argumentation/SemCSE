@@ -1,0 +1,2 @@
+Design of Laboratory Management System Based on JSF Framework
+JavaServer Faces(JSF) is an exciting new technology that will change the way we build user interface for enterprise Java applications. This article introduces the features and working mechanisms of JSF, and illustrates event-driven model of JSF development process based on a project example. The project shows that JSF has a better extendibility and maintainability to develop Web user interface, and it helps to separate the role of Web application developers so as to improve the developing efficiency.

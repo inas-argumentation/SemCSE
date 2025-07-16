@@ -1,0 +1,2 @@
+H\"older continuity of velocity gradients for shear-thinning fluids under perfect slip boundary conditions
+This paper is concerned with non-stationary flows of sheart-hinning fluids in a bounded two-dimensional C^{2;1} domain. Assuming perfect slip boundary conditions, we provide a proof of the existence of a solution with the H\"older continuous velocity gradients and pressure under condition that a stress tensor satisfies power-law with growth p\in[5/3; 2].

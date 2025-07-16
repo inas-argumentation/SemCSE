@@ -1,0 +1,2 @@
+High quality rendering of two-dimensional continuous curves
+The paper presents a prefiltering technique for antialiasing two dimensional continuous curves which enables the correct handling of the geometry (self-intersections, small loops, cusps, curves with high and small radius of curvature, etc.) using a generic class of filters. Moreover, the technique allows for rendering curves of arbitrary thickness and can be optimally tuned to the bits used for image quantisation.

@@ -1,0 +1,2 @@
+A least-squares computer method for the determination of the molecular ratio of conjugates between two different proteins from the results of the amino acid analysis.
+A method for the determination of the composition of a conjugate between two different proteins by amino acid analysis followed by least-squares evaluation of the concentration ratio of the two components is presented. The method is based solely on calculations and avoids the use of labeled residues. A computer program, written in BASIC, is also presented to perform the calculations.

@@ -1,0 +1,2 @@
+LVDS receiver with 7mW consumption at 1.5 Gbps
+This paper presents an LVDS receiver compatible with ANSI and IEEE standards at 1.5 Gbps. The proposed receiver aims to be compatible with the standard over PVT corners and to have optimized power consumption using 150nm technology with two voltage supplies 3.3 and 1.8V. The receiver design methodology is explained and where is the critical specifications of the standard to be met for other different designs. The presented design consumes 7mW at 1.5Gbps.

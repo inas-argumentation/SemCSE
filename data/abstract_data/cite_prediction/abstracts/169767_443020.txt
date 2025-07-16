@@ -1,0 +1,2 @@
+Using a HHD with a HMD for mobile AR interaction
+Mobile Augmented Reality (AR) applications are typically deployed either on head mounted displays (HMD) or handheld displays (HHD). This paper explores novel interaction techniques for a combined HHD-HMD hybrid system that builds on the strengths of each type of device. We use the HMD for viewing AR content and a touch screen HHD for interacting with the content. A prototype system was developed and a user study was conducted comparing four interaction techniques for selection tasks.

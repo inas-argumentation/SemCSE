@@ -1,0 +1,2 @@
+Accelerated direct solution of the MoM linear system using block compression and nested factorization
+A comparison is presented between different algorithms for direct (non-iterative) accelerated solution of the Method of Moments. The alternatives are common block LU factorization and Compressed Block Decomposition (CBD), and their respective nested, or Multi Scale (MS) implementations. The comparison includes theoretical considerations and numerical examples.

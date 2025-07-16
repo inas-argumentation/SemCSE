@@ -1,0 +1,2 @@
+Elementary exact evaluation of infinite integrals of the product of several spherical Bessel functions, power and exponential
+An elementary analytical method is presented for computation of integrals from zero to infinity involving the product of 3 or more spherical Bessel functions multiplied by an exponential and an arbitrary power. The method is based on the fact that spherical Bessel functions are essentially combinations of elementary functions and that any can be obtained from the function of zero order by an appropriate differentiation.

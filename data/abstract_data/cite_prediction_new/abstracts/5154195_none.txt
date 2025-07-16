@@ -1,0 +1,2 @@
+Multiple harmonics control of single-phase PWM rectifiers
+This paper proposes a multi-resonant control (MRSC) scheme for PWM rectifiers to eliminate selective current harmonics distortion. Phase compensation enables MRSC to include more resonant components to yield better power quality current. Experiment results of a single-phase PWM rectifier are provided to demonstrate the effectiveness of proposed MRSC method.

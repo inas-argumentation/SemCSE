@@ -1,0 +1,2 @@
+Making Timed Automata Communicate
+A computation model is introduced in which real-time constraints as well as data communications can be explicitely expressed. The model is presented in a graphical form. Its semantics is studied and algorithms to compute bisimulation equivalences for such graphs are proposed.

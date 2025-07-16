@@ -1,0 +1,2 @@
+Optimization of maintenance facility for a repairable system subject to availability constraint
+In this paper we discuss an M component series system with M repair facilities in which the lifetime of each component and the repair time of the failed component obey exponential distributions with different parameters. By applying Markovian assumptions the system availability has been analyzed. Specifications for an optimal maintenance facility are obtained in order to attain the required availability.

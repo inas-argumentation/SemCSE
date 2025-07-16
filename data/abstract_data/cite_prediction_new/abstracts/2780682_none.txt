@@ -1,0 +1,2 @@
+Discontinuous Transmission detection of signals carrying unknown data
+This paper proposes a Discontinuous Transmission (DTX) hybrid detection algorithm for signals with sequences transmitted from a given subset. The method is applied to the E-DPCCH channel of UMTS HSUPA. Performance simulations are made using realistic scenarios and show that the proposed method achieves high accuracy, while maintaining a low average computational complexity.

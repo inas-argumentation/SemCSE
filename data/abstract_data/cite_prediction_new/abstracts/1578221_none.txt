@@ -1,0 +1,2 @@
+Around Sziklai's conjecture on the number of points of a plane curve over a finite field
+This paper has double purposes. One of them is to give a new bound on the number of points of a plane curve of degree d over a finite field that meets Sziklai's conjectural bound at d=q+1. An example shows that this bound is sharp for d=q+1. The second one is to study an example against that conjecture for q=d=4. This curve also shows the sharpness of our bound.

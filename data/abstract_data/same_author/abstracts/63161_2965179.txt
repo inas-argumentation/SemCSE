@@ -1,0 +1,2 @@
+Undecidability of Multi-modal Hybrid Logics
+This paper establishes undecidability of satisfiability for multi-modal logic equipped with the hybrid binder @7, with respect to frame classes over which the same language with only one modality is decidable. This is in contrast to the usual behaviour of many modal and hybrid logics, whose uni-modal and multi-modal versions do not differ in terms of decidability and, quite often, complexity. The results from this paper apply to a wide range of frame classes including temporally and epistemically relevant ones.

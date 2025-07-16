@@ -1,0 +1,2 @@
+Planar premixed-flame/end-wall interaction: the jump conditions across the thin flame
+Within the context of time-dependent interaction of a planar premixed laminar flame with a cold parallel end wall, the jump conditions for the first (spatial) derivatives of the dependent variables across the thin flame are obtained through the solution of the nonlinear diffusive-reactive boundary-value problem that describes the structure of the flame zone. Recently developed numerical techniques are employed to yield solutions of this boundary-value problem.

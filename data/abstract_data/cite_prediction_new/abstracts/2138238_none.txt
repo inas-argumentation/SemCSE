@@ -1,0 +1,2 @@
+Logical Formalizations of Commonsense Reasoning: A Survey
+Commonsense reasoning is in principle a central problem in artificial intelligence, but it is a very difficult one. One approach that has been pursued since the earliest days of the field has been to encode commonsense knowledge as statements in a logic-based representation language and to implement commonsense reasoning as some form of logical inference. This paper surveys the use of logic-based representations of commonsense knowledge in artificial intelligence research.

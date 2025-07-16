@@ -1,0 +1,2 @@
+Patterns for finding objects within designs
+To design a program, first find your objects. Unfortunately, the right objects are not easy to find, and as a result most programs are not as well designed as they could be. This paper presents four patterns which describe how objects can be found within the designs of existing programs. By using these patterns, programs and designs can be made more simple, more general, and more easy to change.

@@ -1,0 +1,2 @@
+Floquet analysis of the intermittence route to chaos through a pitchfork bifurcation
+In this paper, the Floquet theory is combined with harmonic balance for the in-depth analysis of a Chua's family circuit, exhibiting intermittence. Floquet multipliers are calculated along the periodic solution paths obtained through harmonic balance by means of a continuation algorithm. The analysis of both the stable and unstable solution sections enhances the information about the system and permits a better understanding of the different phenomena that take place.

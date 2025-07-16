@@ -1,0 +1,15 @@
+Reducing 4D CT artifacts using optimized sorting based on anatomic similarity.
+PURPOSE
+Four-dimensional (4D) computed tomography (CT) has been widely used as a tool to characterize respiratory motion in radiotherapy. The two most commonly used 4D CT algorithms sort images by the associated respiratory phase or displacement into a predefined number of bins, and are prone to image artifacts at transitions between bed positions. The purpose of this work is to demonstrate a method of reducing motion artifacts in 4D CT by incorporating anatomic similarity into phase or displacement based sorting protocols.
+
+
+METHODS
+Ten patient datasets were retrospectively sorted using both the displacement and phase based sorting algorithms. Conventional sorting methods allow selection of only the nearest-neighbor image in time or displacement within each bin. In our method, for each bed position either the displacement or the phase defines the center of a bin range about which several candidate images are selected. The two dimensional correlation coefficients between slices bordering the interface between adjacent couch positions are then calculated for all candidate pairings. Two slices have a high correlation if they are anatomically similar. Candidates from each bin are then selected to maximize the slice correlation over the entire data set using the Dijkstra's shortest path algorithm. To assess the reduction of artifacts, two thoracic radiation oncologists independently compared the resorted 4D datasets pairwise with conventionally sorted datasets, blinded to the sorting method, to choose which had the least motion artifacts. Agreement between reviewers was evaluated using the weighted kappa score.
+
+
+RESULTS
+Anatomically based image selection resulted in 4D CT datasets with significantly reduced motion artifacts with both displacement (P = 0.0063) and phase sorting (P = 0.00022). There was good agreement between the two reviewers, with complete agreement 34 times and complete disagreement 6 times.
+
+
+CONCLUSIONS
+Optimized sorting using anatomic similarity significantly reduces 4D CT motion artifacts compared to conventional phase or displacement based sorting. This improved sorting algorithm is a straightforward extension of the two most common 4D CT sorting algorithms.

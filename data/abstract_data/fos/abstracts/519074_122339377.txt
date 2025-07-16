@@ -1,0 +1,6 @@
+Multivalued fractional differential equations
+In this paper we study the Cauchy problem of the multivalued fractional differential equation 
+dδx(t)dtδ ∈ F(t,x(t)) a.e. onI = [O,T], δ ∈ R+ 
+as a consequent result of the study of the Cauchy problem of the fractional differential equation 
+dδx(t)dtδ = ƒ(t)), t ∈ I, δ ∈ R+ 
+in the Banach space E, where F(t, x(t)) is a set-valued function defined on I × E. The existence and some other properties of the solution will be proved. Continuation of the problem to the Cauchy problem of the multivalued differential equation dnx(t)/dtn ϵ F(t, x(t)) a.e. on I, and n = 1,2,…, will be established.

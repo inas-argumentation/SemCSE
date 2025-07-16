@@ -1,0 +1,2 @@
+A CPLD-based Design of Circuit System of Gas Analyzer
+C52 chip and CPLD technology is used to design the NOX Analyzer by chemiluminescence method which is used to monitor the concentration of NOX in atmosphere. It utilizes platinum resistor as temperature detector and carries out accurate monitoring. Temperature control and photon counter of chemiluminescence is realized by CPLD technology. This instrument has implemented monitoring the concentration of NOX in atmosphere and doing it through network.

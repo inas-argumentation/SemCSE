@@ -1,0 +1,11 @@
+MeSH Up: effective MeSH text classification for improved document retrieval
+MOTIVATION
+Controlled vocabularies such as the Medical Subject Headings (MeSH) thesaurus and the Gene Ontology (GO) provide an efficient way of accessing and organizing biomedical information by reducing the ambiguity inherent to free-text data. Different methods of automating the assignment of MeSH concepts have been proposed to replace manual annotation, but they are either limited to a small subset of MeSH or have only been compared with a limited number of other systems.
+
+
+RESULTS
+We compare the performance of six MeSH classification systems [MetaMap, EAGL, a language and a vector space model-based approach, a K-Nearest Neighbor (KNN) approach and MTI] in terms of reproducing and complementing manual MeSH annotations. A KNN system clearly outperforms the other published approaches and scales well with large amounts of text using the full MeSH thesaurus. Our measurements demonstrate to what extent manual MeSH annotations can be reproduced and how they can be complemented by automatic annotations. We also show that a statistically significant improvement can be obtained in information retrieval (IR) when the text of a user's query is automatically annotated with MeSH concepts, compared to using the original textual query alone.
+
+
+CONCLUSIONS
+The annotation of biomedical texts using controlled vocabularies such as MeSH can be automated to improve text-only IR. Furthermore, the automatic MeSH annotation system we propose is highly scalable and it generates improvements in IR comparable with those observed for manual annotations.

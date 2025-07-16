@@ -1,0 +1,2 @@
+Tracking and segmenting people with occlusions by a sample consensus based method
+One of the most difficult issues in visual tracking is to track people in groups, especially under occlusions. In this paper, we present a novel sample consensus based method, which utilizes both color and spatial information of human bodies, to model the appearance of people. We use this appearance model to segment and track people through occlusions. We show experimental results in several video sequences to validate the effectiveness of the proposed method.

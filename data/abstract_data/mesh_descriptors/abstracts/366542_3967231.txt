@@ -1,0 +1,19 @@
+Public insurance program impact on catastrophic health expenditure on acute myocardial infarction.
+OBJECTIVE
+ST-segment elevation myocardial infarction (STEMI) has an important economic burden that poised the urgent need to evaluate its catastrophic medical expense. This study evaluates the first 5 years of the national health initiative called Popular Insurance (PI) at the National Institute of Cardiology in Mexico.
+
+
+STUDY DESIGN
+Retrospective data analysis.
+
+
+METHODS
+STEMI patients with (n=317) and without (n=260) PI were selected. Analysed variables included socio-economical context, management care, cost evaluation and three outcomes (mortality, hospital readmission and therapeutic adherence). Descriptive statistical analyses, Kaplan-Meier survival and Support Vector Machine models were used accordingly.
+
+
+RESULTS
+Treatment costs were higher for PI-covered individuals (P=0.022) and only 1.89% of them remained in debt, in contrast to 16.15% of those without PI. Statistically significant differences were found in relation to days in hospital wards (P<0.001), imaging studies (P<0.001) and surgical materials (P=0.04). Survival analysis (P=0.44) and therapeutic adherence (P=0.38) showed no differences. Hospital readmission was predicted with an 81.97% accuracy. The most important predictive variables included were stent type, number of days at the coronary care unit and hospital wards.
+
+
+CONCLUSIONS
+The PI has proven to be a successful program where no differences were found in terms of health care and survival, whereas it provides timely financial support for families facing catastrophic health challenging events.

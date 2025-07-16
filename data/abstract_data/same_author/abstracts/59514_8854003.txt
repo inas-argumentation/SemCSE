@@ -1,0 +1,2 @@
+Characterization of edge-colored complete graphs with properly colored Hamilton paths
+An edge-colored graph H is properly colored if no two adjacent edges of H have the same color. In 1997, J. Bang-Jensen and G. Gutin conjectured that an edgecolored complete graph G has a properly colored Hamilton path if and only if G has a spanning subgraph consisting of a properly colored path C0 and a (possibly empty) collection of properly colored cycles C1, C2, . . . , Cd such that V (Ci) ∩ V (Cj) = ∅ provided 0 ≤ i < j ≤ d. We prove this conjecture.

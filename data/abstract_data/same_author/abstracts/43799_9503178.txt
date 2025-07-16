@@ -1,0 +1,2 @@
+Model Checking vs. Theorem Proving: A Manifesto
+We argue that rather than representing an agent's knowledge as a collection of formulas, and then doing theorem proving to see if a given formula follows from an agent's knowledge base, it may be more useful to represent this knowledge by a semantic model, and then do model checking to see if the given formula is true in that model. We discuss how to construct a model that represents an agent's knowledge in a number of diierent contexts, and then consider how to approach the model-checking problem.

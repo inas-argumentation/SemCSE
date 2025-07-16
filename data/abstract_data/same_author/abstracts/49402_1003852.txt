@@ -1,0 +1,2 @@
+Upper Bounds of Entire Chromatic Number of Plane Graphs
+The entire chromatic number χvef (G) of a plane graph G is the least number of colors assigned to the vertices, edges and faces so that every two adjacent or incident pair of them receive different colors. Kronk and Mitchem (1973) conjectured that χvef (G) ≤ 1 + 4 for every plane graph G. In this paper we prove the conjecture for a plane graph G having χ ′(G) = 1 and give a upper bound χvef (G) ≤ 1+ 5 for all plane graphs, where χ ′(G) and 1 are the chromatic index and the maximum degree of G, respectively.

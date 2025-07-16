@@ -1,0 +1,17 @@
+Monotonicity properties of interpolation spaces II
+For any interpolation pair (A
+ 0
+ A
+ 1), Peetre’sK-functional is defined by:
+ 
+$$K\left( {t,a;A_0 ,A_1 } \right) = \mathop {\inf }\limits_{a = a_0 + a_1 } \left( {\left\| {a_0 } \right\|_{A_0 } + t\left\| {a_1 } \right\|_{A_1 } } \right).$$
+
+ It is known that for several important interpolation pairs (A
+ 0,A
+ 1), all the interpolation spacesA of the pair can be characterised by the property ofK-monotonicity, that is, ifa∈A andK(t, b; A0, A1)≦K(t, a; A0, A1) for all positivet thenb∈A also. We give a necessary condition for an interpolation pair to have its interpolation spaces characterized byK-monotonicity. We describe a weaker form ofK-monotonicity which holds for all the interpolation spaces of any interpolation pair and show that in a certain sense it is the strongest form of monotonicity which holds in such generality. On the other hand there exist pairs whose interpolation spaces exhibit properties lying somewhere betweenK-monotonicity and weakK-monotonicity. Finally we give an alternative proof of a result of Gunnar Sparr, that all the interpolation spaces for (L
+ v
+ p
+ , L
+ w
+ q
+ ) areK-monotone.

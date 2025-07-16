@@ -1,0 +1,2 @@
+SAM : A 7-DOF portable arm exoskeleton with local joint control
+This paper presents the development of SAM, the Sensoric Arm Master, a 7-DOF portable exoskeleton with integrated actuation and sensors. Local joint control is implemented to improve performances of the device. Some experiments have been conducted with the system to show the functionality of the exoskeleton device linked to a virtual reality.

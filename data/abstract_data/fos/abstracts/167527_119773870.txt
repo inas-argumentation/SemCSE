@@ -1,0 +1,2 @@
+Numerical solution of positive sum exponential equations
+A homotopy continuation method is applied to solve an inverse interpolation problem for representing data by a positive sum of decaying exponentials. The homotopy method transforms the interpolation problem to a problem of determining the roots of a given polynomial. The relative effectiveness of the continuation method is contrasted with several other root-finding schemes.

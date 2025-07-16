@@ -1,0 +1,2 @@
+Extraction of thermal time constant in HBTs using small signal measurements
+A novel method for finding the thermal time constant of HBTs is proposed. It utilises small signal measurements in the frequency domain of the typical negative differential resistance found in the active region, i.e. normal bias conditions for the device. In this way, nonlinearities in the thermal resistivity do not disturb the extraction and the device needs only to be characterised at one bias point.

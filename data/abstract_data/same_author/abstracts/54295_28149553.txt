@@ -1,0 +1,2 @@
+Fingerprint Indexing Based On Symmetrical Measurement
+Due to the small number of classes and uneven distribution, the Henry's fingerprint classification approach is not able to provide an efficient way to narrow down the search when identifying a person in a large database. In this paper, three symmetrical filters are used to measure different orientation structures. We proposed a new fingerprint indexing approach based on these three symmetrical measurements. Experiments conducted on the NIST database 4 show the effectiveness of the proposed approach

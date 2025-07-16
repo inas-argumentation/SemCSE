@@ -1,0 +1,2 @@
+A new method for perspective correction of document images
+In this paper we propose a method for perspective distortion correction of rectangular documents. This scheme exploits the orthogonality of the document edges, allowing to recover the aspect ratio of the original document. The results obtained after correcting the perspective of several document images captured with a mobile phone are compared with those achieved by digitizing the same documents with several scanner models.

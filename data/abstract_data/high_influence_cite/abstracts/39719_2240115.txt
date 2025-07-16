@@ -1,0 +1,2 @@
+Impact of Surface Waves on SWOT's Projected Ocean Accuracy
+The Surface Water and Ocean Topography (SWOT) mission being considered by NASA has, as one of its main objectives, to measure ocean topography with centimeter scale accuracy over kilometer scale spatial resolution. This paper investigates the impact of ocean waves on SWOT’s projected performance. Several effects will be examined: volumetric decorrelation, aliasing of ocean waves, backscattering modulation, and the so-called surfboard sampling.

@@ -1,0 +1,2 @@
+A Real Time Audio Fingerprinting System for Advertisement Tracking and Reporting in FM Radio
+In this paper we present a system designed to detect, identify and track commercial segments transmitted by a radio station. The program is entirely written in Visual C++ and uses state of the art audio fingerprinting technologies to achieve a great performance, being able to operate several times faster than real time while keeping a moderate computational load.

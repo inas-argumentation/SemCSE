@@ -1,0 +1,19 @@
+Body mass index is a good predictor of an elevated alanine transaminase level in the general population: hints from the Dionysos study.
+AIM
+To establish the contribution of body mass index (BMI), sex, age, ethanol intake, hepatitis B (HBV) and hepatitis C (HCV) virus infection, coffee and drug consumption, and cigarette smoking to account for an elevated alanine transaminase (ALT) level in the general population.
+
+
+SUBJECTS
+A total of 6315 adult subjects from the Dionysos study.
+
+
+METHODS
+Logistic regression was used to quantify the contribution of the variables of interest to elevated ALT, defined as a value of ALT>60 U/l. Areas under ROC curves (AUCs) were calculated to assess accuracy.
+
+
+RESULTS
+All the variables considered, with the exception of coffee and drug consumption, were significant predictors of elevated ALT at univariable analyses. When significant predictors were employed in a multivariable model, age and cigarette smoking were no longer significant. The AUC was 0.77 (95% CI=0.74-0.80) for the multivariable model and 0.64 (95% CI=0.60-0.68) for the univariable BMI model (p<0.0001 for the comparison).
+
+
+CONCLUSION
+BMI is a good predictor of elevated ALT serum activity in the general population. The ability to predict an elevated ALT is however increased substantially by considering sex, ethanol intake, HBV and HCV infection together with BMI.

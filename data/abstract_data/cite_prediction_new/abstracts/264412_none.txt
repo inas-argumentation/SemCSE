@@ -1,0 +1,2 @@
+Injecting Dynamic Real-Time Data into a DDDAS for Forest Fire Behavior Prediction
+This work presents a novel idea for forest fire prediction, based on Dynamic Data Driven Application Systems. We developed a system capable of assimilating data at execution time, and conduct simulation according to those measurements. We used a conventional simulator, and created a methodology capable of removing parameter uncertainty. To test this methodology, several experiments were performed based on southern California fires.

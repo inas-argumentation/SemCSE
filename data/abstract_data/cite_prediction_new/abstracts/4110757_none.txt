@@ -1,0 +1,2 @@
+A 1-V 450-nW fully integrated biomedical sensor interface system
+This paper presents a 1 V 450 nW fully integrated bio-signal acquisition IC in 0.35 mum CMOS technology which includes a tunable band-pass filter, a variable gain amplifier, and a 12-bit ADC. The ultra-low power is achieved by using an energy-efficient system architecture and a novel tunable band-pass filter. The measurement shows that the overall system draws only 445 nA current from a 1 V supply in the detection mode and 895 nA in the diagnosis mode for electrocardiogram (ECG) applications.

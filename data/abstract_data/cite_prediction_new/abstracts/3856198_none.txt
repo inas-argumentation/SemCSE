@@ -1,0 +1,2 @@
+Convergence of discrete duality finite volume schemes for the cardiac bidomain model
+We prove convergence of discrete duality finite volume (DDFV) schemes on distorted meshes for a class of simplified macroscopic bidomain models of the electrical activity in the heart. Both time-implicit and linearised time-implicit schemes are treated. A short description is given of the 3D DDFV meshes and of some of the associated discrete calculus tools. Several numerical tests are presented.

@@ -1,0 +1,28 @@
+Quantifying and interpreting nestedness in habitat islands: a synthetic analysis of multiple datasets
+Aim
+
+The concept of nestedness is important in determining the relative contribution to overall system diversity of different habitat patches within a fragmented system. Much of the previous work on nestedness has focused on islands within oceans (islands sensu stricto). The largest analysis of habitat island systems to date found significant nestedness to be a near universal feature, but the methods used have since been criticized as inappropriate. Thus, there is a need for an updated, critical examination of the prevalence, underlying drivers and implications of nestedness in multiple habitat island systems.
+
+
+
+Location
+
+Global.
+
+
+
+Methods
+
+Here, we collate 97 datasets from published habitat island studies, comprising multiple taxa. We use the NODF metric (nestedness metric based on overlap and decreasing fill) to estimate nestedness and determine significance using the four-step proportional–proportional algorithm to simulate presences/absence matrices. We investigate the role of habitat island area in driving observed nestedness. We use linear modelling to examine the impact of dataset characteristics on the degree of nestedness and assess the conservation biogeographic implications of nestedness in relation to strategic conservation planning.
+
+
+
+Results
+
+Significant nestedness occurred in only 9% of systems, whilst anti-nestedness (i.e. datasets less nested than expected by chance) occurred in 16% of systems. For the majority of datasets found to be significantly nested, we observed a relationship with fragment area, suggesting that structured extinctions may be important in determining the composition of certain habitat island communities. We found that the degree of nestedness in an archipelago is an important consideration for systematic conservation planning.
+
+
+
+Main conclusions
+
+Significant nestedness is considerably less common in habitat islands than previously reported. Strategic guidance for conservation planning should proceed on a case by case basis, and previous conservation recommendations based on the assumption of significant nestedness in most fragmented landscapes may need to be re-evaluated.

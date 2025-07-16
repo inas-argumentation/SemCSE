@@ -1,0 +1,2 @@
+Iterative method for computing the Moore-Penrose inverse based on Penrose equations
+An iterative algorithm for estimating the Moore-Penrose generalized inverse is developed. The main motive for the construction of the algorithm is simultaneous usage of Penrose equations (2) and (4). Convergence properties of the introduced method as well as their first-order and second-order error terms are considered. Numerical experiment is also presented.

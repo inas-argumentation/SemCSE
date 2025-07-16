@@ -1,0 +1,2 @@
+Research on a Pre Stressed Bridge under Static Loads with Numerical Method
+Finite element model of a pre stressed bridge is established using finite element software ABAQUS according to the characteristics of the bridge. Three static loads are respectively applied to the model to investigate the stress distribution. Numerical calculation results of stress and displacement show that the design of the bridge meets the requirements of static loading.

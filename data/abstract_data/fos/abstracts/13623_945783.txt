@@ -1,0 +1,15 @@
+SU-F-P-55: Testicular Scatter Dose Determination During Prostate SBRT with and Without Pelvic Lymph Nodes.
+PURPOSE
+The elective irradiation of pelvis lymph node for prostate cancer is still controversial. Including pelvic lymph node as part of the planning target volume could increase the testicular scatter dose, which could have a clinical impact. The objective of this work was to measure testicular scatter dose for prostate SBRT treatment with and without pelvic lymph nodes using TLD dosimetry.
+
+
+METHODS
+A 6MV beam (1000UM/min) produce by a Novalis TX (BrainLAB-VARIAN) equipped HDMLC was used. Treatment plan were done using iPlan v4.5.3 (BrainLAB) treatment planning system with sliding windows IMRT technique. Prostate SBRT plan (PLAN_1) uses 9 beams with a dose prescription (D95%) of 4000cGy in 5 fractions. Prostate with lymph nodes SBRT plan (PLAN_2) uses 11 beams with a dose prescription (D95%) of 4000cGy to the prostate and 2500cGy to the lymph node in 5 fractions. An anthropomorphic pelvic phantom with a testicular volume was used. Phantom was positioned using ExacTrac IGRT system. Phosphor TLDs LiF:Mg, Ti (TLD700 Harshaw) were positioned in the anterior, posterior and inferior portion of the testicle. Two set of TLD measurements was done for each treatment plan. TLD in vivo dosimetry was done in one patient for each treatment plan.
+
+
+RESULTS
+The average phantom scatter doses per fraction for the PLAN_1 were 10.9±1cGy (anterior), 7.8±1cGy (inferior) and 10.7±1cGy (posterior) which represent an average total dose of 48±1cGy (1.2% of prostate dose prescription). The doses for PLAN_2 plan were 17.7±1cGy (anterior), 11±1cGy (inferior) and 13.3±1cGy (posterior) which represent an average total dose of 70.1±1cGy (1.8% of prostate dose prescription). The average dose for in vivo patient dosimetry was 60±1cGy for PLAN_1 and 85±1cGy for PLAN_2.
+
+
+CONCLUSION
+Phantom and in vivo dosimetry shows that the pelvic lymph node irradiation with SBRT slightly increases the testicular scatter dose, which could have a clinical impact.

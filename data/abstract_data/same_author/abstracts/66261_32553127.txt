@@ -1,0 +1,2 @@
+A contribution to the numerical approximation of minimal surfaces
+A finite element method is presented which permits the construction of approximations to minimal surfaces when it is not possible to project orthogonally onto a plane without encountering double points.ZusammenfassungEine Finite-Element-Methode wird beschrieben, die die Konstruktion von Näherungen auch an solche Minimalflächen erlaubt, die nicht doppelpunktfrei auf eine Ebene projizierbar sind.

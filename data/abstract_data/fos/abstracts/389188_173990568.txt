@@ -1,0 +1,3 @@
+The truncated Lindley distribution with applications in astrophysics
+This paper reviews the Lindley distribution and then introduces the scale and the double truncation. The unknown parameters of the truncated Lindley distribution are evaluated with the maximum likelihood estimators. An application of the Lindley distribution with scale is done to the initial mass function for stars. The magnitude version of the Lindley distribution with scale is applied to the luminosity function for the Sloan Digital Sky Survey (SDSS) 
+galaxies and to the photometric maximum of the 2MASS Redshift Survey (2MRS) galaxies. The truncated Lindley luminosity function allows us to model the Malquist bias of the 2MRS galaxies.

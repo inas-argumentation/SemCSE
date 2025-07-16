@@ -1,0 +1,2 @@
+Development of a PCI express based readout electronics for the XPAD3 X-ray photon counting imager
+XPAD3 is a large surface X-ray photon counting imager with high count rates, large counter dynamics and very fast data readout. Data are readout in parallel by a PCI Express interface using DMA transfer. The readout frame rate of the complete detector comprising 0.5 MPixels amounts to 500 images per second without dead-time.

@@ -1,0 +1,2 @@
+Research and Implementation of TMS320VC5510 HPI Boot Based on STM32
+Introduces the operation of TMS320VC5510 HP I interface,and analyses the hardware circuit connection and timing control between HPI interface and the FSMC controller of STM32,solves the control of the HPI interface,and achieves the TMS320VC5510's boot through HPI interface.Experimental results show that the scheme is suitable for multi-processor system with DSP.

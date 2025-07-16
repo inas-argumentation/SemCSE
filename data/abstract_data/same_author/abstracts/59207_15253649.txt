@@ -1,0 +1,10 @@
+Computations in Space and Space in Computations
+The emergence of terms like natural computing, mimetic computing, parallel problem solving from nature, bio-inspired computing, neurocomputing, evolutionary computing, etc., shows the never ending interest of the computer scientists for the use of “natural phenomena” as “problem solving devices” or more generally, as a fruitful source of inspiration to develop new programming paradigms. It is the latter topic which interests us here. The idea of numerical experiment can be reversed and, instead of using computers to simulate a fragment of the real world, the idea is to use (a digital simulation of) the real world to compute. In this perspective, the processes that take place in the real world are the objects of a new calculus: 
+ 
+description of the world's laws = program 
+ 
+state of the world = data of the program 
+ 
+parameters of the description = inputs of the program 
+ 
+simulation = the computation

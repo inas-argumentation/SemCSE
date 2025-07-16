@@ -1,0 +1,2 @@
+Improving document clustering by utilizing meta-data
+In this paper, we examine how to improve the precision and recall of document clustering by utilizing meta-data. We use meta-data through NewsML tags to assist clustering and show that this approach is effective through experiments on sample news data. Experimental result shows that clustering using NewsML could improve average recall and precision over the same without using NewsML by about 10%. Our algorithm facilitates effective e-business for the news media and publishing industry to empower e-business.

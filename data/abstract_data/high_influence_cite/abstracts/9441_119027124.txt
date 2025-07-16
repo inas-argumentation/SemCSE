@@ -1,0 +1,2 @@
+SEMI-INFINITE COMBINATORICS IN REPRESENTATION THEORY
+In this work we discuss some appearances of semi-infinite combi- natorics in representation theory. We propose a semi-infinite moment graph theory and we motivate it by considering the (not yet rigorously defined) geo- metric side of the story. We show that it is possible to compute stalks of the local intersection cohomology of the semi-infinite flag variety, and hence of spaces of quasi maps, by performing an algorithm due to Braden and MacPher- son.

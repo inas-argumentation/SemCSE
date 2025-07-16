@@ -1,0 +1,2 @@
+4 Dimensional Data Security Architecture in Cloud Storage
+Focuses on the problem of data security in cloud storage,presents 4 dimensional security architecture. The data is to be categorized on the basis of confidentiality,integrity,controllability and availability.The sensitive data will send for storage to cloud provider.User who wants to access the data need to be authenticated according to the concept of 4D.Gives the structure of data storage and access which can be extended according to different environment.

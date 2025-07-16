@@ -1,0 +1,25 @@
+Water vapour retrieval using the Precision Solar Spectroradiometer
+. The Precision Solar Spectroradiometer (PSR) is a new spectroradiometer
+developed at Physikalisch-Meteorologisches Observatorium Davos – World
+Radiation Center (PMOD–WRC), Davos, measuring direct solar irradiance at the
+surface, in the 300–1020 nm spectral range and at high temporal resolution. The
+purpose of this work is to investigate the instrument's potential to
+retrieve integrated water vapour (IWV) using its spectral measurements. Two
+different approaches were developed in order to retrieve IWV: the first one
+uses single-channel and wavelength measurements, following a theoretical water
+vapour high absorption wavelength, and the second one uses direct sun
+irradiance integrated at a certain spectral region. IWV results have been
+validated using a 2-year data set, consisting of an AERONET sun-photometer
+Cimel CE318, a Global Positioning System (GPS), a microwave radiometer profiler (MWP) and radiosonde retrievals recorded at Meteorological
+Observatorium Lindenberg, Germany. For the monochromatic approach, better
+agreement with retrievals from other methods and instruments was achieved using
+the 946 nm channel, while for the spectral approach the 934–948 nm
+window was used. Compared to other instruments' retrievals, the monochromatic approach
+leads to mean relative differences up to 3.3 % with the coefficient of
+determination ( R2) being in the region of 0.87–0.95, while for the
+spectral approach mean relative differences up to 0.7 % were recorded
+with R2 in the region of 0.96–0.98. Uncertainties related to IWV
+retrieval methods were investigated and found to be less than 0.28 cm for
+both methods. Absolute IWV deviations of differences between PSR and other
+instruments were determined the range of 0.08–0.30 cm and only in extreme
+cases would reach up to 15 %.

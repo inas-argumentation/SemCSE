@@ -1,0 +1,2 @@
+Graph Searching and a Min-Max Theorem for Tree-Width
+The tree-width of a graph G is the minimum k such that G may be decomposed into a "tree-structure" of pieces each with at most k + l vertices. We prove that this equals the maximum k such that there is a collection of connected subgraphs, pairwise intersecting or adjacent, such that no set of ≤ k vertices meets all of them. A corollary is an analogue of LaPaugh′s "monotone search" theorem for cops trapping a robber they can see (LaPaugh′s robber was invisible).

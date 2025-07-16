@@ -1,0 +1,2 @@
+The “Full Clarkson–Erdős–Schwartz Theorem” on the closure of non-dense Müntz spaces
+Denote by span{f1, f2, . . .} the collection of all finite linear combinations of the functions f1, f2, . . . over R. The principal result of the paper is the following. Theorem (Full Clarkson–Erdős–Schwartz Theorem). Suppose (λj) ∞ j=1 is a sequence of distinct positive numbers. Then span{1, x1 , x2 , . . .} is dense in C[0, 1] if and only if ∞ ∑

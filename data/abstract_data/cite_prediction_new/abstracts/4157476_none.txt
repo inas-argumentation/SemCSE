@@ -1,0 +1,2 @@
+Parallel Algorithms for the Process of the Biorthogonal Wavelet Transform
+We present parallel algorithms for the process of the biorthogonal wavelet transform(BWT). We have constructed processing elements (PEs) for the decomposition and reconstruction of the BWT to minimize computational operations. They can be performed using only integer shift and superposition operations; therefore, they may be applied to the implementation of image compression standards based on BWT, such as JPEG2000.

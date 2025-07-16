@@ -1,0 +1,15 @@
+Change in Neighborhood Socioeconomic Status and Weight Gain: Dallas Heart Study.
+INTRODUCTION
+Despite a proposed connection between neighborhood environment and obesity, few longitudinal studies have examined the relationship between change in neighborhood socioeconomic deprivation, as defined by moving between neighborhoods, and change in body weight. The purpose of this study is to examine the longitudinal relationship between moving to more socioeconomically deprived neighborhoods and weight gain as a cardiovascular risk factor.
+
+
+METHODS
+Weight (kilograms) was measured in the Dallas Heart Study (DHS), a multiethnic cohort aged 18-65 years, at baseline (2000-2002) and 7-year follow-up (2007-2009, N=1,835). Data were analyzed in 2013-2014. Geocoded addresses were linked to Dallas County, TX, census block groups. A block group-level neighborhood deprivation index (NDI) was created. Multilevel difference-in-difference models with random effects and a Heckman correction factor (HCF) determined weight change relative to NDI change.
+
+
+RESULTS
+Forty-nine percent of the DHS population moved (263 to higher NDI, 586 to lower NDI, 47 within same NDI), with blacks more likely to move than whites or Hispanics (p<0.01), but similar baseline BMI and waist circumference were observed in movers versus non-movers (p>0.05). Adjusting for HCF, sex, race, and time-varying covariates, those who moved to areas of higher NDI gained more weight compared to those remaining in the same or moving to a lower NDI (0.64 kg per 1-unit NDI increase, 95% CI=0.09, 1.19). Impact of NDI change on weight gain increased with time (p=0.03).
+
+
+CONCLUSIONS
+Moving to more-socioeconomically deprived neighborhoods was associated with weight gain among DHS participants.

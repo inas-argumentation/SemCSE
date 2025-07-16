@@ -1,0 +1,2 @@
+Independent sets in triangle-free cubic planar graphs
+We prove that every triangle-free planar graph on n vertices with maximum degree three has an independent set with size at least 3/8n. This was suggested and later conjectured by Albertson, Bollobas, and Tucker.

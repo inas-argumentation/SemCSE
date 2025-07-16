@@ -1,0 +1,2 @@
+Analysis of SEB and SEGR in super-junction MOSFETs
+The electric field distribution in the super-junction power MOSFET is analyzed using analytical modeling and numerical simulations in this paper. The single-event burnout (SEB) and single-event gate rupture (SEGR) phenomena in this device are studied in detail. It is demonstrated that the super-junction device is much less sensitive to SEB and SEGR compared to the standard power MOSFET. The physical mechanism is explained.

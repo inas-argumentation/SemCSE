@@ -1,0 +1,2 @@
+Domain Decomposition for Computing Ferromagnetic Effects
+We present here a model for simulating the ferromagnetic screening effect in thin steel plates. We exhibit a domain decomposition method to solve this problem by using only Laplace equations. We then apply this on an academic situation of a steel plate placed in front of a linear conductor and on an industrial application in aluminum production. More details and proofs can be found in Fluck et al. (Numerical methods for ferromagnetic plates. Scientific report, SB/MATHICSE, EPFL).

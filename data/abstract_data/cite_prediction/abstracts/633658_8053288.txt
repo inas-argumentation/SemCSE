@@ -1,0 +1,2 @@
+A Parametric Human Body Modeling Tool
+This paper presents a locally controlled, easy to use, morph-based body modeling tool for virtual applications. Morphing is a shape interpolation technique widely used for 3D modeling. It is simple and stable. For local control we hav e carried out an anthropometric segmentation of the body. Smoth continuity at the boundaries of individual segments is achi eved by weighted interpolation. The paper also presents a virtual dressing application where the modeler is employed.

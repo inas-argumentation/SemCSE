@@ -1,0 +1,15 @@
+Low-Z target optimization for spatial resolution improvement in megavoltage imaging.
+PURPOSE
+Recently, several authors have shown contrast improvements in megavoltage portal imaging and cone-beam computed tomography using low atomic number (Z) targets. This work compliments previous studies by investigating the effects of varying different beam production parameters including target atomic number, target thickness, and incident electron energy on spatial resolution.
+
+
+METHODS
+Target materials of beryllium, aluminum, and tungsten were investigated over a range of thicknesses between 10% and 100% of the continuous slowing down approximation range of electrons. Incident electron kinetic energies of 4.5 and 7.0 MeV were used, in conjunction with custom targets installed above the carousel of a modern radiotherapy linear accelerator. Monte Carlo simulations of the accelerator were constructed and compared to the experimental results.
+
+
+RESULTS
+The results showed that thinner targets, as well higher incident electron energies, generally produce more favorable modulation transfer function (MTF) curves. Due to an MTF dependence of the detector system on the photon energy, the experimental results showed that low-Z targets produced superior MTF curves. Simulations showed 14.5% and 21.5% increases in f50 for the 7.0 and 4.5 MeV targets (A1; 60% R% CSDA), respectively, when moved from the carousel to the location of the clinical target. f50 values for the custom targets were compared to the clinical 6 MV beam and were found to be between 10.4% lower (4.5 MeV/W) and 15.5% higher (7.0 MeV/Be).
+
+
+CONCLUSIONS
+Integration of low-Z external targets into the treatment head of a medical linear was achieved with only minor modifications. It was shown that reasonably high resolution images on par or better than those acquired with the clinical 6 MV beam can be achieved using external low-Z targets.

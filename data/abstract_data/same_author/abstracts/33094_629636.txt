@@ -1,0 +1,2 @@
+The ESRF TANGO control system status
+TANGO is an object oriented control system toolkit based on CORBA presently under development at the ESRF. IN this paper, the TANGO philosophy is briefly presented. All the existing tools developed around TANGO will also be presented. This include a code genrator, a WEB interface to TANGO objects, an administration tool and an interface to LabView. Finally, an xample of a TANGO device server for OPC device is given.

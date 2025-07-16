@@ -1,0 +1,8 @@
+On the H\'enon-Lane-Emden conjecture
+We consider Liouville-type theorems for the following Henon-Lane-Emden system 
+\hfill -\Delta u&=& |x|^{a}v^p \text{in} \mathbb{R}^N, 
+\hfill -\Delta v&=& |x|^{b}u^q \text{in} \mathbb{R}^N, when $pq>1$, $p,q,a,b\ge0$. The main conjecture states that there is no non-trivial non-negative solution whenever $(p,q)$ is under the critical Sobolev hyperbola, i.e. $ \frac{N+a}{p+1}+\frac{N+b}{q+1}>{N-2}$. 
+We show that this is indeed the case in dimension N=3 provided the solution is also assumed to be bounded, extending a result established recently by Phan-Souplet in the scalar case. 
+Assuming stability of the solutions, we could then prove Liouville-type theorems in higher dimensions. 
+For the scalar cases, albeit of second order ($a=b$ and $p=q$) or of fourth order ($a\ge 0=b$ and $p>1=q$), we show that for all dimensions $N\ge 3$ in the first case (resp., $N\ge 5$ in the second case), there is no positive solution with a finite Morse index, whenever $p$ is below the corresponding critical exponent, i.e $ 1<p<\frac{N+2+2a}{N-2}$ (resp., $ 1<p<\frac{N+4+2a}{N-4}$). Finally, we show that non-negative stable solutions of the full Henon-Lane-Emden system are trivial provided \label{sysdim00} 
+N<2+2(\frac{p(b+2)+a+2}{pq-1}) (\sqrt{\frac{pq(q+1)}{p+1}}+ \sqrt{\frac{pq(q+1)}{p+1}-\sqrt\frac{pq(q+1)}{p+1}}).

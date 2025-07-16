@@ -1,0 +1,2 @@
+Convergence analysis of online linear discriminant analysis
+Convergence of a matrix dynamics for online LDA is analyzed. Especially, stable spurious solutions are pointed out and two schemes to prevent the spurious solutions are proposed. The performance of the algorithm is confirmed by simulations of face identification.

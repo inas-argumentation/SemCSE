@@ -1,0 +1,2 @@
+Generative Mixology: An Engine for Creating Cocktails
+This paper details an expert cocktail generation system. After using expert knowledge to break down cocktails into eight categories, the system generates cocktails from a particular category using a context-free stochastic grammar. These cocktails were then evaluated by human participants in a research setting. Participants evaluated the cocktails on the basis of quality, novelty and typicality to check the creative potential of the generator’s output.

@@ -1,0 +1,2 @@
+Optimal Broadcast in All-Port Wormhole-Routed Hypercubes
+We give an optimal algorithm that broadcasts on an n-dimensional hypercube in O(n/ log/sub 2/ (n+1)) routing steps with wormhole, e-cube routing and all-port communication. Previously, the best algorithm of P.K. McKinley and C. Trefftz (1993) requires [n/2] routing steps. We also give routing algorithms that achieve tight time bounds for n /spl les/7. >

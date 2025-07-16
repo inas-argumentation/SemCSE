@@ -1,0 +1,2 @@
+Blind equalization Using ν- support vector regressor for constant modulus signals
+The support vector machine has been recently developed for blind equalization of constant modulus signals. In this paper we propose to use a v-support vector regressor (nu-SVR) for blindly equalizing multipath channels because of the high generalization ability of the SVR for short burst sequences. A weighted least square procedure is presented for solving the blind nu-SVR equalizer. The performance of the proposed algorithm is analyzed by means of computer simulations.

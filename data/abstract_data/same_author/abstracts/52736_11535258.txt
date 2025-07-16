@@ -1,0 +1,4 @@
+A Fully Dynamic Algorithm for Planar Width 
+
+
+Abstract. We show how to maintain the width of a set of n planar points subject to insertions and deletions of points in $O(\sqrt{n}\log^3n)$ amortized time per update. Previously, no fully dynamic algorithm with a guaranteed sublinear time bound was known.

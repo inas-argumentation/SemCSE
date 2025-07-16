@@ -1,0 +1,2 @@
+Partition of a graph into cycles and degenerated cycles
+Abstract Let G be a graph of order n and k any positive integer with k ⩽ n . It has been shown by Brandt et al. that if | G |= n ⩾4 k and if the degree sum of any pair of nonadjacent vertices is at least n , then G can be partitioned into k cycles. We prove that if the degree sum of any pair of nonadjacent vertices is at least n − k +1, then G can be partitioned into k subgraphs H i , 1⩽ i ⩽ k , where H i is a cycle or K 1 or K 2 , except G = C 5 and k =2.

@@ -1,0 +1,2 @@
+Generic Recommendation Engine in Distributed Environment
+Aim of this paper is to make recommendation engine very generic and allow user to run the recommendation engine on their data set in very small amount of time. For that Spark's scalable machine learning algorithm is used as core engine which will give the power to run machine learning algorithm in distributed environment and so run on large volume of data(Big Data). Keywords—generic; distributed; spark; machine learning;

@@ -1,0 +1,2 @@
+New three- and four-parametric iterative with memory methods with efficiency index near 2
+In this work, we develop two new with memory methods. They have three and four parameters. We approximate these parameters and increase the convergence order to 15 and 15.5156, respectively, convergence analysis along with numerical illustrations are provided to justify and accomplish theoretical and practical aspects of the proposed methods.

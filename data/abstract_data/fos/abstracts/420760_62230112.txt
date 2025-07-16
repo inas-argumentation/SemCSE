@@ -1,0 +1,2 @@
+Autoregressive Model Using Fuzzy C-Regression Model Clustering for Traffic Modeling
+A robust traffic modeling is required to perform an effective congestion control for the broad band digital network. An autoregressive model using a fuzzy c-regression model (FCRM) clustering is proposed for a traffic modeling. This is a simpler modeling method than previous methods. The experiments show that the proposed method is more robust for traffic modeling than the previous method.

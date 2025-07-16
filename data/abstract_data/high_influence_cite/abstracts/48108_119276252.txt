@@ -1,0 +1,2 @@
+An Introduction to Quantum Bayesian Networks for Mixed States
+This paper is intended to be a pedagogical introduction to quantum Bayesian networks (QB nets), as I personally use them to represent mixed states (i.e., density matrices, and open quantum systems). A special effort is made to make contact with notions used in textbooks on quantum Shannon Information Theory (quantum SIT), such as the one by Mark Wilde (arXiv:1106.1445)

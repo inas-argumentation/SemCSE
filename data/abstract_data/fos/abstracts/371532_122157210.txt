@@ -1,0 +1,4 @@
+Small angle scattering andX-ray transform in classical mechanics
+We consider the Newton equation(*)
+$$\ddot x = F\left( x \right), F\left( x \right) = - \nabla \upsilon \left( x \right), x \in R^d ,$$
+ for |j|≤2 and some α>1.We give estimates and asymptotics for scattering solutions and scattering data for the equation (*) for the case of small angle scattering. We show that scattering data at high energies uniquely determine theX-ray transformsPF andPv. Applying results on inversion of theX-ray transformP we obtain that ford≥2 scattering data at high energies uniquely determineF andv. For the case of potentials with compact support we give a connection between boundary value data and scattering data and ford≥2 we obtain, using known results, a uniqueness theorem in the inverse scattering problem at fixed energy.

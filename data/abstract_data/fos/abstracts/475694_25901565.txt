@@ -1,0 +1,15 @@
+SU-E-T-113: Dose Distribution Using Respiratory Signals and Machine Parameters During Treatment.
+PURPOSE
+Volumetric modulated arc therapy (VMAT) is a rotational intensity-modulated radiotherapy (IMRT) technique capable of acquiring projection images during treatment. Treatment plans for lung tumors using stereotactic body radiotherapy (SBRT) are calculated with planning computed tomography (CT) images only exhale phase. Purpose of this study is to evaluate dose distribution by reconstructing from only the data such as respiratory signals and machine parameters acquired during treatment.
+
+
+METHODS
+Phantom and three patients with lung tumor underwent CT scans for treatment planning. They were treated by VMAT while acquiring projection images to derive their respiratory signals and machine parameters including positions of multi leaf collimators, dose rates and integrated monitor units. The respiratory signals were divided into 4 and 10 phases and machine parameters were correlated with the divided respiratory signals based on the gantry angle. Dose distributions of each respiratory phase were calculated from plans which were reconstructed from the respiratory signals and the machine parameters during treatment. The doses at isocenter, maximum point and the centroid of target were evaluated.
+
+
+RESULTS AND DISCUSSION
+Dose distributions during treatment were calculated using the machine parameters and the respiratory signals detected from projection images. Maximum dose difference between plan and in treatment distribution was -1.8±0.4% at centroid of target and dose differences of evaluated points between 4 and 10 phases were no significant.
+
+
+CONCLUSION
+The present method successfully evaluated dose distribution using respiratory signals and machine parameters during treatment. This method is feasible to verify the actual dose for moving target.

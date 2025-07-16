@@ -1,0 +1,2 @@
+Graphs with Hamiltonian cycles having adjacent lines different colors
+Let G be a complete graph Kp (or a complete bipartite graph Km,m) with its lines colored so that no point is on more than k lines of the same color. If p ≥ 17k (or m ≥ 25k) then G has a cycle of every possible size with adjacent lines different colors.

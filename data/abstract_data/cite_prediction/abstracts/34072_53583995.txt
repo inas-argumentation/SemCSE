@@ -1,0 +1,2 @@
+Sounds Wilde. Phonetically Extended Embeddings for Author-Stylized Poetry Generation
+This paper addresses author-stylized text generation. Using a version of a language model with extended phonetic and semantic embeddings for poetry generation we show that phonetics has comparable contribution to the overall model performance as the information on the target author. Phonetic information is shown to be important for English and Russian language. Humans tend to attribute machine generated texts to the target author.

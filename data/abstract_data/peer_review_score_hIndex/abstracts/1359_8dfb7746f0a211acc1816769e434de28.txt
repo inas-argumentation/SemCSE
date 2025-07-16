@@ -1,0 +1,17 @@
+RETHINKING SELF-DRIVING : MULTI -TASK KNOWLEDGE FOR BETTER GENERALIZATION AND ACCIDENT EXPLANATION ABILITY
+Current end-to-end deep learning driving models have two problems: (1) Poor
+generalization ability of unobserved driving environment when diversity of train-
+ing driving dataset is limited (2) Lack of accident explanation ability when driving
+models don’t work as expected. To tackle these two problems, rooted on the be-
+lieve that knowledge of associated easy task is benificial for addressing difficult
+task, we proposed a new driving model which is composed of perception module
+for see and think and driving module for behave, and trained it with multi-task
+perception-related basic knowledge and driving knowledge stepwisely.  Specifi-
+cally segmentation map and depth map (pixel level understanding of images) were
+considered as what & where and how far knowledge for tackling easier driving-
+related perception problems before generating final control commands for difficult
+driving task. The results of experiments demonstrated the effectiveness of multi-
+task perception knowledge for better generalization and accident explanation abil-
+ity. With our method the average sucess rate of finishing most difficult navigation
+tasks in untrained city of CoRL test surpassed current benchmark method for 15
+percent in trained weather and 20 percent in untrained weathers.

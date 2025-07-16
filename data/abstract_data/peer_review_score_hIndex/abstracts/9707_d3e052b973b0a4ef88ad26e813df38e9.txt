@@ -1,0 +1,4 @@
+DecayNet: A Study on the Cell States of Long Short Term Memories
+It is unclear whether the extensively applied long-short term memory (LSTM) is an optimised architecture for recurrent neural networks. Its complicated design makes the network hard to analyse and non-immediately clear for its utilities in real-world data. This paper studies LSTMs as systems of difference equations, and takes a theoretical mathematical approach to study consecutive transitions in network variables. Our study shows that the cell state propagation is predominantly controlled by the forget gate. Hence, we introduce DecayNets, LSTMs with monotonically decreasing forget gates, to calibrate cell state dynamics. With recurrent batch normalisation, DecayNet outperforms the previous state of the art for permuted sequential MNIST. The Decay mechanism is also beneficial for LSTM-based optimisers, and decrease optimisee neural network losses more rapidly.
+
+Edit status: Revised paper.

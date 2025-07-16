@@ -1,0 +1,2 @@
+Adopting Code Reviews for Agile Software Development
+Code reviews have many benefits, most importantly to find bugs early in the development phase and to enforce coding standards. Still, it is widely accepted that formal code reviews are time-consuming and the practical applicability in agile development is controversial. This work presents a continuous differential-based method and tool for code reviews. By using a continuous approach to code reviews, the review overhead can be reduced and the effectiveness and applicability in agile environments shall be improved.

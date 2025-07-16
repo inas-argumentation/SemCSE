@@ -1,0 +1,2 @@
+A low-cost microcontrolled dosimeter based on CD4007 devices for in vivo radiotherapy applications
+This work presents a low-cost microcontrolled dosimeter based on CD4007 device, a popular off-the-shelf CMOS circuit. This dosimeter is aimed at in vivo radiotherapy applications and combines a simple and accurate readout with a small size, low-cost, and cable-free sensor. The response of this dosimeter to low-dose (10 cGy-1 Gy) and 40 Gy irradiations were tested using X-ray (6 MV).

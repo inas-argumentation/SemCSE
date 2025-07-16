@@ -1,0 +1,2 @@
+A robust motion planner for assembly robots
+An emergency-tolerant topological motion planning method for manipulators in an assembly workspace is presented. The topological motion planning method is discussed. The method first partitions the configuration space into several connected blocks and constructs a characteristic network (CN). It then searches for a path in CN. The partition of C-space in a topological method is accurate and complete, which is especially suitable for guiding an emergency-tolerant robot.<<ETX>>

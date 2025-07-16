@@ -1,0 +1,2 @@
+Obtaining fast error rates in nonconvex situations
+We show that under mild assumptions on the learning problem, one can obtain a fast error rate for every reasonable fixed target function even if the base class is not convex. To that end, we show that in such cases the excess loss class satisfies a Bernstein type condition.

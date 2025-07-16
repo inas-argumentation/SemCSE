@@ -1,0 +1,15 @@
+Dosimetric validation of Acuros XB with Monte Carlo methods for photon dose calculations.
+PURPOSE
+The dosimetric accuracy of the recently released Acuros XB advanced dose calculation algorithm (Varian Medical Systems, Palo Alto, CA) is investigated for single radiation fields incident on homogeneous and heterogeneous geometries, and a comparison is made to the analytical anisotropic algorithm (AAA).
+
+
+METHODS
+Ion chamber measurements for the 6 and 18 MV beams within a range of field sizes (from 4.0 x 4.0 to 30.0 x 30.0 cm2) are used to validate Acuros XB dose calculations within a unit density phantom. The dosimetric accuracy of Acuros XB in the presence of lung, low-density lung, air, and bone is determined using BEAMnrc/DOSXYZnrc calculations as a benchmark. Calculations using the AAA are included for reference to a current superposition/convolution standard.
+
+
+RESULTS
+Basic open field tests in a homogeneous phantom reveal an Acuros XB agreement with measurement to within +/- 1.9% in the inner field region for all field sizes and energies. Calculations on a heterogeneous interface phantom were found to agree with Monte Carlo calculations to within +/- 2.0% (sigmaMC = 0.8%) in lung (p = 0.24 g cm(-3)) and within +/- 2.9% (sigmaMC = 0.8%) in low-density lung (p = 0.1 g cm(-3)). In comparison, differences of up to 10.2% and 17.5% in lung and low-density lung were observed in the equivalent AAA calculations. Acuros XB dose calculations performed on a phantom containing an air cavity (p = 0.001 g cm(-3)) were found to be within the range of +/- 1.5% to +/- 4.5% of the BEAMnrc/DOSXYZnrc calculated benchmark (sigmaMC = 0.8%) in the tissue above and below the air cavity. A comparison of Acuros XB dose calculations performed on a lung CT dataset with a BEAMnrc/DOSXYZnrc benchmark shows agreement within +/- 2%/2mm and indicates that the remaining differences are primarily a result of differences in physical material assignments within a CT dataset.
+
+
+CONCLUSIONS
+By considering the fundamental particle interactions in matter based on theoretical interaction cross sections, the Acuros XB algorithm is capable of modeling radiotherapy dose deposition with accuracy only previously achievable with Monte Carlo techniques.

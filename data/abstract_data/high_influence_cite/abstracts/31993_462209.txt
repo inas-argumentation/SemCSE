@@ -1,0 +1,4 @@
+Fast Selective Detection of Rotational Symmetries Using Normalized Inhibition
+Perceptual experiments indicate that corners and curvature are very important features in the process of recognition. This paper presents a new method to efficiently detect rotational symmetries, which describe complex curvature such as corners, circles, star- and spiral patterns. The method is designed to give selective and sparse responses. It works in three steps; first extract local orientation from a gray-scale or color image, second correlate the orientation image with rotational symmetry filters and third let the filter responses inhibit each other in order to get more selective responses. The correlations can be made efficient by separating the 2D-filters into a small number of 1D-filters. 
+ 
+These symmetries can serve as feature points at a high abstraction level for use in hierarchical matching structures for 3D-estimation, object recognition, etc.

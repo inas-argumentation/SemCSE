@@ -1,0 +1,2 @@
+KERNEL ESTIMATORS OF PROBABILITY DENSITY FUNCTIONS BY RANKED-SET SAMPLING
+Kernel estimation of probability density functions is considered when ranked-set samples are available. The properties of the resulting estimators are derived for small and large samples, while performance with respect to the usual simple random sample estimators is investigated for a range of probability density models.

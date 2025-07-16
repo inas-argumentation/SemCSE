@@ -1,0 +1,2 @@
+AIMS CDT Project Report : Towards One-Shot Learning From Demonstration via Reinforcement Learning
+We explore meta-learning algorithms and architectures for use in one-shot learning from demonstration via reinforcement learning. We provide evidence that REPTILE does not work effectively at meta-learning in reinforcement learning environments and present preliminary findings on the effectiveness of GRUs at ‘fast adaptation’ to tasks in reinforcement learning environments.

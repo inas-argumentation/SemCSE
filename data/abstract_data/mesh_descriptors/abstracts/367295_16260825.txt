@@ -1,0 +1,15 @@
+Intravoxel incoherent motion diffusion-weighted imaging in head and neck squamous cell carcinoma: assessment of perfusion-related parameters compared to dynamic contrast-enhanced MRI.
+PURPOSE
+To investigate the correlation between perfusion-related parameters obtained with intravoxel incoherent motion (IVIM) and classical perfusion parameters obtained with dynamic contrast-enhanced (DCE) magnetic resonance imaging in patients with head and neck squamous cell carcinoma (HNSCC), and to compare direct and asymptotic fitting, the pixel-by-pixel approach, and a region of interest (ROI)-based approach respectively for IVIM parameter calculation.
+
+
+MATERIALS AND METHODS
+Seventeen patients with HNSCC were included in this retrospective study. All magnetic resonance (MR) scanning was performed using a 3T MR unit. Acquisition of IVIM was performed using single-shot spin-echo echo-planar imaging with three orthogonal gradients with 12 b-values (0, 10, 20, 30, 50, 80, 100, 200, 400, 800, 1000, and 2000). Perfusion-related parameters of perfusion fraction 'f' and the pseudo-diffusion coefficient 'D*' were calculated from IVIM data by using least square fitting with the two fitting methods of direct and asymptotic fitting, respectively. DCE perfusion was performed in a total of 64 dynamic phases with a 3.2-s phase interval. The two-compartment exchange model was used for the quantification of tumor blood volume (TBV) and tumor blood flow (TBF). Each tumor was delineated with a polygonal ROI for the calculation of f, f∙D* performed using both the pixel-by-pixel approach and the ROI-based approach. In the pixel-by-pixel approach, after fitting each pixel to obtain f, f∙D* maps, the mean value in the delineated ROI on these maps was calculated. In the ROI-based approach, the mean value of signal intensity was calculated within the ROI for each b-value in IVIM images, and then fitting was performed using these values. Correlations between f in a total of four combinations (direct or asymptotic fitting and pixel-by-pixel or ROI-based approach) and TBV were respectively analyzed using Pearson's correlation coefficients. Correlations between f∙D* and TBF were also similarly analyzed.
+
+
+RESULTS
+In all combinations of f and TBV, f∙D* and TBF, there was a significant correlation. In the comparison of f and TBV, a moderate correlation was observed only between f obtained by direct fitting with the pixel-by-pixel approach, whereas a good correlation was observed in the comparisons using the other three combinations. In the comparison of f∙D* and TBF, a good correlation was observed only with f∙D* obtained by asymptotic fitting with the ROI-based approach. In contrast, moderate correlations were observed in the comparisons using the other three combinations.
+
+
+CONCLUSION
+IVIM was found to be feasible for the analysis of perfusion-related parameters in patients with HNSCC. Especially, the combination of asymptotic fitting with the ROI-based approach was better correlated with DCE perfusion.

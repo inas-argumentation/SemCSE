@@ -1,0 +1,2 @@
+Combining Lexical Resources for Contextual Synonym Expansion
+In this paper, we experiment with the task of contextual synonym expansion, and compare the benefits of combining multiple lexical resources using both unsupervised and supervised approaches. Overall, the results obtained through the combination of several resources exceed the current state-of-the-art when selecting the best synonym for a given target word, and place second when selecting the top ten synonyms, thus demonstrating the usefulness of the approach.

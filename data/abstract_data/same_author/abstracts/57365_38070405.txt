@@ -1,0 +1,2 @@
+Static Scheduling of Parallel Programs for Message Passing Architectures
+We discuss the static scheduling and code generation problem for message passing architectures. Using ideas from successful manually written programs for message passing architectures we have developed several new automatic algorithms for scheduling and code generation. These algorithms have been implemented in a preliminary software system named PYRROS. The purpose of this paper is to provide a justification of our approach and choice of algorithms.

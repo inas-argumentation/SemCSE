@@ -1,0 +1,2 @@
+An 8.3 nW −72 dBm event driven IoE wake up receiver RF front end
+This work presents an ultra-low power event driven wake-up receiver (WuRx) fabricated in a RF CMOS 130 nm process. The receiver consists of an off-chip lumped element matching network, an envelope detector, a decision circuit capable of detecting sub-mV baseband signal voltages and a clock source consuming 1.3 nW. This receiver has demonstrated a sensitivity of −72 dBm while consuming a total of 8.3 nW from 1 V and 0.65 V sources.

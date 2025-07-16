@@ -1,0 +1,11 @@
+Probe-level measurement error improves accuracy in detecting differential gene expression
+MOTIVATION
+Finding differentially expressed genes is a fundamental objective of a microarray experiment. Numerous methods have been proposed to perform this task. Existing methods are based on point estimates of gene expression level obtained from each microarray experiment. This approach discards potentially useful information about measurement error that can be obtained from an appropriate probe-level analysis. Probabilistic probe-level models can be used to measure gene expression and also provide a level of uncertainty in this measurement. This probe-level measurement error provides useful information which can help in the identification of differentially expressed genes.
+
+
+RESULTS
+We propose a Bayesian method to include probe-level measurement error into the detection of differentially expressed genes from replicated experiments. A variational approximation is used for efficient parameter estimation. We compare this approximation with MAP and MCMC parameter estimation in terms of computational efficiency and accuracy. The method is used to calculate the probability of positive log-ratio (PPLR) of expression levels between conditions. Using the measurements from a recently developed Affymetrix probe-level model, multi-mgMOS, we test PPLR on a spike-in dataset and a mouse time-course dataset. Results show that the inclusion of probe-level measurement error improves accuracy in detecting differential gene expression.
+
+
+AVAILABILITY
+The MAP approximation and variational inference described in this paper have been implemented in an R package pplr. The MCMC method is implemented in Matlab. Both software are available from http://umber.sbs.man.ac.uk/resources/puma.

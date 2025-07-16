@@ -1,0 +1,2 @@
+Comparisons of SCR and Active-set Methods for PAPR Reduction in OFDM Systems
+signal to clipping noise ratio (SCR) and active-set methods are two existing methods for peak-to-average power ratio (PAPR) reduction based on tone reservation. In this paper, the computational complexit ies of these two methods are analyzed and simulation is done for comparing their PAPR-reducing performance . The simulation results show that active-set method requires less computational complexity than that of SCR method while they achieve similar PAPR reduction performance.

@@ -1,0 +1,2 @@
+Describing Prolog by its interpretation and compilation
+Since its conception, Prolog has followed a developmental course similar to the early evolution of LISP. Although the version of Prolog described here typifies that currently in use, it should be considered within the framework of language evolution.

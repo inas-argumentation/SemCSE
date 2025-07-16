@@ -1,0 +1,2 @@
+Research on Frequency Synthesizer of High Speed and Wide Band Based on DDS Hybrid PLL
+The thesis introduces the development of frequency synthesis.To meet the new requirements of the systems like frequency-hopping communication,a logical scheme of DDS+PLL is advanced,fully considering the indexes such as bandwidth、switch time、spectrum scattering and so on.Then a simulation model is built in Matlab+Simulink.The systematic analysis of the simulation results will give a reference to the later research and design of high-powered synthesizer.

@@ -1,0 +1,2 @@
+Error Analysis for Mapped Jacobi Spectral Methods
+Approximation properties of mapped Jacobi polynomials and of interpolations based on mapped Jacobi–Gauss–Lobatto points are established. These results play an important role in numerical analysis of mapped Jacobi spectral methods. As examples of applications, optimal error estimates for several popular regular and singular mappings are derived.

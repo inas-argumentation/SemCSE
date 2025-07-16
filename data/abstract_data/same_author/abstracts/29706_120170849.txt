@@ -1,0 +1,2 @@
+QCD and Monte Carlo generators
+In this talk I gave a brief summary of leading order, next-to-leading order and shower calculations. I discussed the main ideas and approximations of the shower algorithms and the related matching schemes. I tried to focus on QCD issues and open questions instead of making a inventory of the existing programs.

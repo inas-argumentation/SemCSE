@@ -1,0 +1,14 @@
+Aberration coefficients and unusual coordinates for specifying rays.
+The aberration coefficients of Buchdahl have been used almost exclusively in situations where
+rays are specified by their points of intersection with a pair of planes in the object space of the
+system. A simple method is presented in this paper whereby rays may be specified by their points of
+intersection with a pair of not necessarily plane surfaces situated in quite distinct parts of the
+system. The manner in which existing schemes for computing the aberration coefficients must be
+modified in order to accommodate the new coordinates is considered in detail. They stem basically
+from the need to reinterpret the intermediate coefficients appearing in the iteration equations and
+include modifications to the identities between the coefficients. Three examples of the new
+coordinates are discussed, namely: the case where the object surface is a surface of revolution
+about the optic axis, and the cases where rays are specified by their points of intersection with
+the (physical) aperture stop of the system (aperture coordinates) or with an ideal spherical wave
+surface in the image space of the system (Wo
+coordinates).

@@ -1,0 +1,2 @@
+Classification of The Decays of the Z0 into b and c Quark Pairs Using a Neural Network
+A classifier based on a Feed-Forward Neural Network has been used for separating a sample of about 123,500 selected hadronic decays of the Z0, collected by DELPHI during 1991, into three classes according to the flavour of the original quark pair: (unresolved), and The classification has been used to compute the partial widths of the Z0 into b and C quark pairs.

@@ -1,0 +1,15 @@
+Gender and socioeconomic status as determinants of waiting time for inpatient surgery in a system with implicit queue management.
+OBJECTIVE
+In a system with implicit queue management, to examine gender and socioeconomic status as determinants of waiting time for inpatient surgery, after adjusting for other potential predictors.
+
+
+METHODS
+A cohort of 452 subjects was examined in outpatient clinics of a general hospital and referred to inpatient surgery. They were followed until scheduled hospital admission (n=396) or until the requested procedure no longer was relevant (n=56). We compared waiting time between groups from referral date until hospital admission, using Kaplan-Meier estimates of waiting times and log rank test. A Cox proportional hazards model was used for assessing the risk ratio (RR) of hospital admission for scheduled surgery.
+
+
+RESULTS
+Gender and socioeconomic status could not explain variations in waiting time. However, patients with suspected/verified neoplastic disease or a risk of serious deterioration without treatment had markedly shorter waiting times than the reference groups, with adjusted RR (95% confidence intervals (95%CI)) of time to receiving in-patient surgery of 2.3 (1.7-3.0) and 2.0 (1.3-3.0), respectively. Being on sick leave was associated with shorter waiting time, adjusted RR of 1.7 (1.2-2.5). Referrals from within the hospital or other hospitals had also shorter waiting times than referrals from primary health care physicians, adjusted RR=1.4 (1.1-1.8).
+
+
+CONCLUSIONS
+There was no evidence of bias against women or people in lower socioeconomic classes in this implicit queue management system. However, patients' access to inpatient surgery was associated with malignancy, prognosis, sick leave status, physician experience, referral pattern and the major diagnosis category.

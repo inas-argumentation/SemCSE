@@ -1,0 +1,2 @@
+SesaME: A Framework for Personalised and Adaptive Speech Interfaces
+This paper presents some motivations for using highly personalised speech interfaces. In particular, the focus is on the requirements for adaptation in mobile environments. Furthermore, SesaME, a framework for personalised and adaptive speech interfaces is described. SesaME supports a multi-domain approach and eventbased, asynchronous dialogue management. Finally, a description of how SesaME is employed within the framework of the PER demonstrator is given.

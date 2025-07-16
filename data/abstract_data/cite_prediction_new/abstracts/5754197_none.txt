@@ -1,0 +1,2 @@
+The research of model reference adaptive control of Static Var Compensator (SVC)
+This paper analyzed the composing and compensation principle of Static Var Compensator control system, and designed the model reference adaptive controller based on Liapunov stability theory. In the end, the dynamic and static voltage and current waveform under unbalance load condition was shown, and the feasibility of this controller was verified by experiment.

@@ -1,0 +1,3 @@
+An effective bound for the local-global divisibility in elliptic curves and pseudodivisible points
+We give an effective version of the hypotheses of the local-global divisibility problem in elliptic curves over number fields. Let $m$ be a positive integer. In particular we show that the assumption of the validity of the local divisibility by $m$ for all but finitely many primes in the statement of the local-global question can be replaced by the assumption of the validity of the local divisibility by $m$ for a finite number of primes. This number depends only on $m$ and the product $bc$, where ${\mathcal{E}}: y^2=x^3+bx+c$. 
+Moreover we produce an example showing that those hypotheses are necessary.

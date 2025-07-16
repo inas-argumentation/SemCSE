@@ -1,0 +1,15 @@
+SU-F-T-538: CyberKnife with MLC for Treatment of Large Volume Tumors: A Feasibility Study.
+PURPOSE
+CyberKnife is a well-documented modality for SRS and SBRT treatments. Typical tumors are small and 1-5 fractions are usually used. We determined the feasibility of using CyberKnife, with an InCise multileaf collimator option, for larger tumors undergoing standard dose and fractionation. The intent was to understand the limitation of using this modality for other external beam radiation treatments.
+
+
+METHODS
+Five tumors from different anatomical sites with volumes from 127.8 cc to 1,320.5 cc were contoured and planned on a Multiplan V5.1 workstation. The target average diameter ranged from 7 cm to 13 cm. The dose fractionation was 1.8-2.0 Gy/fraction and 25-45 fractions for total doses of 45-81 Gy. The sites planned were: pancreas, head and neck, prostate, anal, and esophagus. The plans were optimized to meet conventional dose constraints based on various RTOG protocols for conventional fractionation.
+
+
+RESULTS
+The Multiplan treatment planning system successfully generated clinically acceptable plans for all sites studied. The resulting dose distributions achieved reasonable target coverage, all greater than 95%, and satisfactory normal tissue sparing. Treatment times ranged from 9 minutes to 38 minutes, the longest being a head and neck plan with dual targets receiving different doses and with multiple adjacent critical structures.
+
+
+CONCLUSION
+CyberKnife, with the InCise multileaf collimation option, can achieve acceptable dose distributions in large volume tumors treated with conventional dose and fractionation. Although treatment times are greater than conventional accelerator time; target coverage and dose to critical structures can be kept within a clinically acceptable range. While time limitations exist, when necessary CyberKnife can provide an alternative to traditional treatment modalities for large volume tumors.

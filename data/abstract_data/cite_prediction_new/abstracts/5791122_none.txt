@@ -1,0 +1,2 @@
+Non-Commutative Logic I: The Multiplicative Fragment
+We introduce proof nets and sequent calculus for the multiplicative fragment of non-commutative logic, which is an extension of both linear logic and cyclic linear logic. The two main technical novelties are a third switching position for the non-commutative disjunction, and the structure of order variety.

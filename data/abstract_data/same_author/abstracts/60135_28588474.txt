@@ -1,0 +1,2 @@
+Edge-disjoint spanners of complete graphs and complete digraphs
+A spanning subgraph S =( V , E ′) of a connected simple graph (or digraph) G =( V , E ) is an f ( x )- spanner if for any pair of vertices u and v , d S ( u , v )⩽ f ( d G ( u , v )) where d G and d S are the usual distance functions in graphs (digraphs) G and S , respectively. The delay of the f ( x )-spanner is f ( x )− x . We investigate the number of edge-disjoint spanners of a given delay that can exist in complete graphs and in complete digraphs.

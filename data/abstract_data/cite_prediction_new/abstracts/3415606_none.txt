@@ -1,0 +1,2 @@
+The Symmetric Group Action on Rank-selected Posets of Injective Words
+The symmetric group Sn$\mathfrak {S}_{n}$ acts naturally on the poset of injective words over the alphabet {1, 2,…,n}. The induced representation on the homology of this poset has been computed by Reiner and Webb. We generalize their result by computing the representation of Sn$\mathfrak {S}_{n}$ on the homology of all rank-selected subposets, in the sense of Stanley. A further generalization to the poset of r-colored injective words is given.

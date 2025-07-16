@@ -1,0 +1,2 @@
+Report of the working group on detector simulation
+An ad hoc group at Snowmass reviewed the need for detector simulation to support detectors at the SSC. This report first reviews currently available programs for detector simulation, both those written for single specific detectors and those aimed at general utility. It then considers the requirements for detector simulation for the SSC, with particular attention to enhancements that are needed relative to present programs. Finally, a list of recommendations is given.

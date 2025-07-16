@@ -1,0 +1,2 @@
+Evaluation of a Neyman-Pearson heart-rate turbulence detector
+In this paper we propose and evaluate a Neyman-Pearson approach to detect and characterize heart-rate turbulence after ventricular premature beats (VPB). For quantification of the detection performance an evaluation dataset was built based on real RR interval series. The ROC curves obtained from the test set show the proposed method to outperform the detection capability of the two parameters currently used to quantify turbulence: turbulence onset and turbulence slope.

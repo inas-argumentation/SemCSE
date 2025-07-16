@@ -1,0 +1,2 @@
+Predictability measures for ridge regression models
+Methods for flagging new points that are not similar to the original data used for developing a ridge regression equation are discussed. Using the regression equation for predictions should be avoided for these dissimilar points. An example quantifies the sample space limitations for using biased prediction when multicollinearity is present.

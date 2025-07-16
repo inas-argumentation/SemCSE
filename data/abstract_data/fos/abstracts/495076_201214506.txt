@@ -1,0 +1,41 @@
+A robust automated technique for operational calibration of ceilometers using the integrated backscatter from totally attenuating liquid clouds
+Abstract. A simple and robust method for calibrating ceilometers has been
+tested in an operational environment, demonstrating that the calibrations are
+stable to better than ±5  % over a period of a year. The method
+relies on using the integrated backscatter ( B ) from liquid clouds that
+totally extinguish the ceilometer signal; B is inversely proportional to the
+lidar ratio ( S ) of the backscatter to the extinction for cloud droplets. The
+calibration technique involves scaling the observed backscatter so that B 
+matches the predicted value for S of 18.8±0.8 sr for cloud droplets,
+at ceilometer wavelengths. For accurate calibration, care must be taken to
+only use profiles where the range correction is implemented and to exclude
+any profiles having targets with different values of S , such as drizzle
+drops and aerosol particles, profiles that do not totally extinguish the
+ceilometer signal, profiles with low cloud bases that saturate the receiver,
+and any profiles for which the window transmission or the lidar pulse energy
+falls below 90 %. A range-dependent multiple-scattering correction that
+depends on the ceilometer optics should also be applied to the profile. For
+ceilometers operating at around 910  nm wavelength, a simple correction for
+water vapour attenuation is applied to the signal using the vapour profiles
+from a forecast analysis. For a generic ceilometer in the UK the 90  d 
+running mean of the calibration coefficient over a period of 20 months is
+constant to within 3 % with no detectable annual cycle, thus confirming
+the validity of the humidity and multiple-scattering correction. For
+Gibraltar, where cloud cover is less prevalent than in the UK, the
+90  d 
+running mean calibration coefficient was constant to within 4 %. The more
+sensitive ceilometer model operating at 1064  nm is unaffected by water
+vapour attenuation but is more prone to saturation in liquid clouds; such
+profiles can be recognised and rejected and, despite the more restricted
+sample of cloud profiles, a robust calibration is readily achieved. In the
+UK, the running mean 90  d calibration coefficients varied by about 4 %
+over a period of 1 year. The consistency of profiles observed by nine
+pairs of co-located ceilometers in the UK Met Office network operating at
+around 910 and 1064  nm provided independent validation of the calibration
+technique. In all cases, if quantitative and reliable backscatter
+observations are to be obtained it is essential to keep the window clean.
+This may be a challenge in dusty locations. EUMETNET is currently networking
+700 European ceilometers so they can provide ceilometer profiles in near
+real time to European weather forecast centres and has adopted the cloud
+calibration technique described in this paper for ceilometers with a
+wavelength of around 910  nm .

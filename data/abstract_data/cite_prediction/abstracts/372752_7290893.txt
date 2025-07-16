@@ -1,0 +1,2 @@
+Model Checking Continuous Time Markov Chains
+We present a logical formalism for expressing properties of continuous time Markov chains. The semantics for such properties arise as a natural extension of previous work on discrete time Markov chains to continuous time. The major result is that the verification problem is decidable; this is shown using results in algebraic and transcendental number theory.

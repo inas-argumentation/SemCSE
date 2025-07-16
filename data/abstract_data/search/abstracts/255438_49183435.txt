@@ -1,0 +1,2 @@
+C band digitally controlled variable gain amplifier design
+This paper presents the simulation results of the C band digitally controlled variable gain amplifier (VGA) which is implemented in 0.18 mm SiGe BiCMOS technology. VGA provides digital 5 bit discrete gain control in the range from 0 to 31 dB with 1 dB step. Noise figure is less than 18 dB. Power consumption is 17.25 mW. The simulation of the VGA shows absolute gain error <0.6 dB in bandwidth 4 6 GHz with absolute phase error <5.4deg.

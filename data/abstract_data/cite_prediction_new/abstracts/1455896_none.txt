@@ -1,0 +1,2 @@
+Multi-layer dual-resolution screen-space ambient occlusion
+Ambient occlusion (AO) is a lighting model that approximates the diffuse illumination of a surface based on its directly visible occluders. It can be rendered by tracing rays through the normal-oriented unit hemisphere, and returning the percentage of rays that do no hit any geometry at a distance d

@@ -1,0 +1,2 @@
+Gyrostabilized two wheeled inverted pendulum robot
+The increase in air pollution has motivated the design of many electrical transportation systems. In this paper, a "two wheeled inverted pendulum" personal transporter is considered. This system is inherently unstable and requires precise torque control of the two motor wheels to maintain its balance. To assist the control system, a mechanical controller or a "gyrostabilizer" is added to this robot. It is shown that the overall system stability is improved.

@@ -1,0 +1,11 @@
+Promoter Extraction from GenBank (PEG): automatic extraction of eukaryotic promoter sequences in large sets of genes
+UNLABELLED
+Promoter Extraction from GenBank (PEG) extracts promoter sequences for large sets of genes using information present in GenBank. For a gene whose promoter sequence is not found, PEG will attempt to extract promoter sequences of the orthologous genes instead.
+
+
+AVAILABILITY
+It is freely available to academic users at ftp://cshl.org/pub/science/mzhanglab/theresa/.
+
+
+CONTACT
+zhangt@cshl.org; mzhang@cshl.org

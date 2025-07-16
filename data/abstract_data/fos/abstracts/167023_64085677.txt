@@ -1,0 +1,2 @@
+The Research of Developing Word-Input Testing Software
+Word-input testing software is mainly used to test the input quickness and accuracy of computer learners. This article trys to analyse the system structure and realization of a word- input testing software. And gives a brief exposition for the technical points and programming skills using Delphi to design this software.

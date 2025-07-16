@@ -1,0 +1,15 @@
+Classification of pathology reports for cancer registry notifications
+OBJECTIVE
+To develop a system for the automatic classification of pathology reports for Cancer Registry notifications.
+
+
+METHOD
+A two pass approach is proposed to classify whether pathology reports are cancer notifiable or not. The first pass queries pathology HL7 messages for known report types that are received by the Queensland Cancer Registry (QCR), while the second pass aims to analyse the free text reports and identify those that are cancer notifiable. Cancer Registry business rules, natural language processing and symbolic reasoning using the SNOMED CT ontology were adopted in the system.
+
+
+RESULTS
+The system was developed on a corpus of 500 histology and cytology reports (with 47% notifiable reports) and evaluated on an independent set of 479 reports (with 52% notifiable reports). RESULTS show that the system can reliably classify cancer notifiable reports with a sensitivity, specificity, and positive predicted value (PPV) of 0.99, 0.95, and 0.95, respectively for the development set, and 0.98, 0.96, and 0.96 for the evaluation set. High sensitivity can be achieved at a slight expense in specificity and PPV.
+
+
+CONCLUSION
+The system demonstrates how medical free-text processing enables the classification of cancer notifiable pathology reports with high reliability for potential use by Cancer Registries and pathology laboratories.

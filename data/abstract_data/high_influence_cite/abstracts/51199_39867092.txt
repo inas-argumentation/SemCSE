@@ -1,0 +1,2 @@
+Probability-One Homotopy for Robust Initialization of Differential-Algebraic Equations
+An evolution of the recently introduced operator homotopy() is proposed, which further improves the solution of difficult initialization problems. The background and motivation for this approach are discussed and it is demonstrated how to apply it for electrical and fluid systems. The key difference to the earlier approach is the supporting theory, which guarantees that the method converges globally with probability one.

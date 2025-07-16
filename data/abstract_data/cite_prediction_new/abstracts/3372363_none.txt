@@ -1,0 +1,2 @@
+PALLOC: DRAM bank-aware memory allocator for performance isolation on multicore platforms
+DRAM consists of multiple resources called banks that can be accessed in parallel and independently maintain state information. In Commercial Off-The-Shelf (COTS) multicore platforms, banks are typically shared among all cores, even though programs running on the cores do not share memory space. In this situation, memory performance is highly unpredictable due to contention in the shared banks.

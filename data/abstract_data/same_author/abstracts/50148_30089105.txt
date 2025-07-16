@@ -1,0 +1,2 @@
+A fixed point theorem for o-minimal structures
+We prove a definable analogue to Brouwer's Fixed Point Theorem for o-minimal structures of real closed field expansions: A continuous definable function mapping from the unit simplex into itself admits a fixed point, even though the underlying space is not necessarily topologically complete. Our proof is direct and elementary; it uses a triangulation technique for o-minimal functions, with an application of Sperner's Lemma. (© 2003 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim)

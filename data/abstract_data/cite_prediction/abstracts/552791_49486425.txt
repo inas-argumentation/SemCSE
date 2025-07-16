@@ -1,0 +1,11 @@
+Convolutional neural networks for classification of alignments of non-coding RNA sequences
+Motivation
+The convolutional neural network (CNN) has been applied to the classification problem of DNA sequences, with the additional purpose of motif discovery. The training of CNNs with distributed representations of four nucleotides has successfully derived position weight matrices on the learned kernels that corresponded to sequence motifs such as protein-binding sites.
+
+
+Results
+We propose a novel application of CNNs to classification of pairwise alignments of sequences for accurate clustering of sequences and show the benefits of the CNN method of inputting pairwise alignments for clustering of non-coding RNA (ncRNA) sequences and for motif discovery. Classification of a pairwise alignment of two sequences into positive and negative classes corresponds to the clustering of the input sequences. After we combined the distributed representation of RNA nucleotides with the secondary-structure information specific to ncRNAs and furthermore with mapping profiles of next-generation sequence reads, the training of CNNs for classification of alignments of RNA sequences yielded accurate clustering in terms of ncRNA families and outperformed the existing clustering methods for ncRNA sequences. Several interesting sequence motifs and secondary-structure motifs known for the snoRNA family and specific to microRNA and tRNA families were identified.
+
+
+Availability and implementation
+The source code of our CNN software in the deep-learning framework Chainer is available at http://www.dna.bio.keio.ac.jp/cnn/, and the dataset used for performance evaluation in this work is available at the same URL.

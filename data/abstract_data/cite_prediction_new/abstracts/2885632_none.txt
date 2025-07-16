@@ -1,0 +1,5 @@
+Development of Expert System for Four Bar Mechanism
+In this study, an expert system was developed for a quadricycle four bar 
+mechanism with control of transmission angle. Different types of available 
+synthesis methods are studied and the suitable synthesis procedure is selected for 
+developing the expert system.

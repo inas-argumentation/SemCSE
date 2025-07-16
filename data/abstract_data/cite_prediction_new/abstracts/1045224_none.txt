@@ -1,0 +1,2 @@
+Exact reconstruction of a class of nonnegative measures using model sets
+In this paper we are concerned with the reconstruction of a class of measures on the square from the sampling of its Fourier coefficients on some sparse set of points. We show that the exact reconstruction of a weighted Dirac sum measure is still possible when one knows a finite number of non-adaptive linear measurements of the spectrum. Surprisingly, these measurements are defined on a model set, i.e quasicrystal.

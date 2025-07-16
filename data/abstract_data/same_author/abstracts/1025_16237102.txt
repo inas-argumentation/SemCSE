@@ -1,0 +1,2 @@
+Fcast Multicast File Distribution: "Tune in, Download, and Drop Out"
+Reliable data multicast is difficult to scale. Fcast, “file multicasting”, combines multicast with Forward Error Correction (FEC) to solve this problem. Like classic multicast, Fcast scales to large audiences, and like other FEC schemes, it uses bandwidth very efficiently. Some of the benefits of this combinati on were known previously, but Fcast contributes new caching methods that improve disk throughput and new optimizations for small file transfers.

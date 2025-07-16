@@ -1,0 +1,2 @@
+The Bandgap Reference [A Circuit for All Seasons]
+Since its inception in the late 1960s, the bandgap circuit has served as an essential component in most integrated circuits. This simple, robust idea provides a temperature-independent (TI) voltage and a proportional-toabsolute-temperature (PTAT) current. In this article, we study the principles of bandgap circuit design.

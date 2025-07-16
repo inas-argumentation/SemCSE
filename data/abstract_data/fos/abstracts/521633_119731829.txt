@@ -1,0 +1,2 @@
+A Bayesian analysis of the mixed linear model
+The mixed model is defined. The exact posterior distribution for the fixed effect vector is obtained. The exact posterior distribution for the error variance is obtained. The exact posterior mean and variance of a Bayesian estimator for the variances of random effects is also derived. All computations are non-iterative and avoid numerical integrations.

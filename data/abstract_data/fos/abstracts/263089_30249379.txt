@@ -1,0 +1,15 @@
+WE-G-WAB-02: BEST IN PHYSICS (JOINT IMAGING-THERAPY)-MR and Linac Magnetic Field Mutual Decoupling for An MRI-Guided Radiation Therapy System.
+PURPOSE
+An MR-guided RT system, including a 6X TrueBeam Varian linac and a 1.5T IMRIS MRI scanner-on-rails, is under installation at our institution. Numerical simulations and experiments were performed to quantify and test the magnetic field mutual decoupling between the MR and linac/couch ensemble.
+
+
+METHODS
+Linear programming and finite element methods were used to perform numerical simulations for the MR-linac/couch system. First, the 1.5 T MR field was reconstructed and matched to data from manufacturer. The next step was to perform magnetic force simulations and measurements for a simplified assembly, replicating all key ferromagnetic sub-structures of the couch (wrists, breaks, etc.). To guide the experiment, CAD data of the couch/linac (Varian) was used for various simulation scenarios, i.e. MR distance-to-couch/linac and gantry rotation. Measurements were performed for a) magnetic forces acting on various couch components, b)magnetic fringe field mapping (gauss probe) in the vicinity of linac and couch (e.g. wrists, breaks), c)MR imaging field homogeneity. The final set of simulations was for the entire MR-linac vault, including ferromagnetic structural components obtained from architectural drawings of the facility (e.g. doors, beams, r-bar).
+
+
+RESULTS
+The simulated MR fringe field was in good agreement with the measurements (within 1 gauss). The magnetic pull forces on the couch components were computed for arbitrary directions to match the experimental setups. For all scenarios the simulated and measured data was in good agreement. The couch operated optimally in the MR field. The fringe field at the linac head was less than 20 gauss. For all intended imaging locations, the MR full shimming was achieved, compensating for the presence of the linac/couch.
+
+
+CONCLUSION
+The MR, linac, and couch ensemble was modeled via numerical simulations. The independent and optimal operation of all components was experimentally validated. The MR-linac system can be integrated and operate with no special modifications. J. Winter and L. Petropoulos are employees of IMRIS. J. Marle and M. Sweitzer are employees of Varian Medical Systems. IMRIS and Varian are companies co-developing the MRgRT system. Funding for the MRgRT project at Princess Margaret Hospital was provided by the Canadian Foundation for Innovation.

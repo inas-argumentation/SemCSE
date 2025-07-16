@@ -1,0 +1,2 @@
+Complex source point beam excitation of a lossless dielectric slab
+The excitation of the guided modes of a lossless slab by a complex source point (CSP) beam is semi-analytically investigated. The goal is to compute the guided-mode powers and efficiencies as a function of problem's parameters, namely the electrical thickness, the angle of incidence, the beam aperture, and the aperture location.

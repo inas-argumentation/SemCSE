@@ -1,0 +1,12 @@
+Maintaining Database Consistency in the Presence of Schema Evolution
+With rapid advances in computer network technology and the increasing interest in global information sharing, grows the need for facilities that can effectively maintain the database consistency and program compatibility as the schema evolves. In this paper, we present a general framework based on versions of schema for supporting seamless schema evolution in large-scale object-oriented software systems. We argue that the effectiveness of using the schema version model to materialize schema evolution relies not only on the management of version derivation of schema, but also on the ability to maintain consistency of the database instances with the new schema versions, and the flexibility of sharing instances among versions of schema. Semantics of schema versioning is studied with the objective to facilitate instance adaptation and program compatibility in the presence of schema updates. A number of options for sharing of instances among versions of a schema is developed. Applications may derive versions of schema upon requests for schema updates, and define the instance access scope (the set of objects that are accessible under a given schema version) for each new version of schema by either creating their own instance access scope or inheriting the instance access scope of its ancestor schema versions in terms of a selection of options. The significance of our approach is 
+ 
+ 
+the abilities for maintaining database consistency, in the presence of schema modification, without irreversibly changing the objects that exist before the schema modification, and 
+ 
+ 
+the facilities that allow multi-users and applications to create and manipulate different collections of objects under different versions of schema. 
+ 
+ 
+ 
+As a consequence, many organizational investments of the existing customer set, such as application design and development, can remain operational in the presence of schema changes.

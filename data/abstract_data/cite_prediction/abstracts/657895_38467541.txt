@@ -1,0 +1,2 @@
+Automatic part localization using 3D cuboid box for vehicle subcategory recognition
+In this paper, we propose an efficient vehicle model recognition method which utilize 3D cuboid box for detection and Convolutional Neural Networks (CNN)-based classifier. Our method automatically localizes the unique part of the vehicle as features which enhance the classification performance. The proposed method is tested on the dataset called BoxCars which contain 63,750 images with 148 categories and the test results show 93.49%.

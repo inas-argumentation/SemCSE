@@ -1,0 +1,2 @@
+Probabilities, distribution monads, and convex categories
+Probabilities are understood abstractly as forming a monoid in the category of eect algebras. They can be added, via a partial operation, and multiplied. This generalises key properties of the unit interval [0; 1]. Such eect

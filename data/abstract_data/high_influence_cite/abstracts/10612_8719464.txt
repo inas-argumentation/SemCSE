@@ -1,0 +1,12 @@
+SHAPE AND SIZE ANALYSIS OF CORN PLANT CANOPIES FOR PLANT POPULATION AND SPACING SENSING
+An effective corn plant population and spacing sensing system may provide a key layer of field variability 
+information useful for crop management. An algorithm was developed to count corn plants and to estimate plant location and 
+intra-row spacing in segmented images of 6.1-m (20-ft) long row sections. Images were scanned to detect and determine the 
+boundaries of top projected corn plant canopy objects using a chain code methodology. Plant objects were fused together 
+based on a multi-step process that took into account the spatial structure of the crop row. Position, roundness, and area of 
+plant canopies were used to distinguish between corn plants and weeds. Estimates of plant counts in row sections were 
+compared with manual counts across three growth stages, three populations, and three tillage treatments. Overall, the system 
+estimated the number of plants with an RMSE of 1.49 plants per row section, which corresponds to 6.2% RMSE or 3210 
+plants/ha (1300 plants/acre). No evidence of significant differences in mean plant spacing estimates was detected although 
+significant, albeit small, increases in spacing variance were detected. These results demonstrate the importance of canopy 
+shape and size analysis in the implementation of a machine vision plant population and intra-row spacing sensing system.

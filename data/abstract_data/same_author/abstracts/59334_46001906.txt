@@ -1,0 +1,2 @@
+A Genetic Algorithm with Local Search for Solving Job Shop Problems
+This paper presents a genetic algorithm specially designed for job shop problems. The algorithm has a simple coding scheme and new crossover and mutation operators. A simple local search scheme is incorporated in the algorithm leading to a combined genetic algorithm (CGA). It is evaluated in three famous Muth and Thompson problems (i.e. MT6×6, MT10×10, MT20×5). The simulation study shows that this algorithm possesses high efficiency and is able to find out the optimal solutions for the job shop problems.

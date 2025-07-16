@@ -1,0 +1,2 @@
+Multicast Group Communication as a Base for a Load-Balancing Replicated Data Service
+We give a rigorous account of an algorithm that provides sequentially consistent replicated data on top of the view synchronous group communication service previously specified by Fekete, Lynch and Shvartsman. The algorithm performs updates at all members of a majority view, but rotates the work of queries among the members to equalize the load. The algorithm is presented and verified using I/O automata.

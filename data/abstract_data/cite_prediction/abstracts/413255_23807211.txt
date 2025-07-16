@@ -1,0 +1,19 @@
+Activities on Facebook Reveal the Depressive State of Users
+BACKGROUND
+As online social media have become prominent, much effort has been spent on identifying users with depressive symptoms in order to aim at early diagnosis, treatment, and even prevention by using various online social media. In this paper, we focused on Facebook to discern any correlations between the platform's features and users' depressive symptoms. This work may be helpful in trying to reach and detect large numbers of depressed individuals more easily.
+
+
+OBJECTIVE
+Our goal was to develop a Web application and identify depressive symptom-related features from users of Facebook, a popular social networking platform.
+
+
+METHODS
+55 Facebook users (male=40, female=15, mean age 24.43, SD 3.90) were recruited through advertisement fliers distributed to students in a large university in Korea. Using EmotionDiary, the Facebook application we developed, we evaluated depressive symptoms using the Center for Epidemiological Studies-Depression (CES-D) scale. We also provided tips and facts about depression to participants and measured their responses using EmotionDiary. To identify the Facebook features related to depression, correlation analyses were performed between CES-D and participants' responses to tips and facts or Facebook social features. Last, we interviewed depressed participants (CES-D≥25) to assess their depressive symptoms by a psychiatrist.
+
+
+RESULTS
+Facebook activities had predictive power in distinguishing depressed and nondepressed individuals. Participants' response to tips and facts, which can be explained by the number of app tips viewed and app points, had a positive correlation (P=.04 for both cases), whereas the number of friends and location tags had a negative correlation with the CES-D scale (P=.08 and P=.045 respectively). Furthermore, in finding group differences in Facebook social activities, app tips viewed and app points resulted in significant differences (P=.01 and P=.03 respectively) between probably depressed and nondepressed individuals.
+
+
+CONCLUSIONS
+Our results using EmotionDiary demonstrated that the more depressed one is, the more one will read tips and facts about depression. We also confirmed depressed individuals had significantly fewer interactions with others (eg, decreased number of friends and location tagging). Our app, EmotionDiary, can successfully evaluate depressive symptoms as well as provide useful tips and facts to users. These results open the door for examining Facebook activities to identify depressed individuals. We aim to conduct the experiment in multiple cultures as well.

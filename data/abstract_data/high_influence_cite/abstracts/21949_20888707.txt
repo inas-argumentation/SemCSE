@@ -1,0 +1,2 @@
+Stochastic Volatility Models and the Pricing of VIX Options
+In this paper, we examine and compare the performance of a variety of continuous‐time volatility models in their ability to capture the behavior of the VIX. The “3/2‐ model” with a diffusion structure which allows the volatility of volatility changes to be highly sensitive to the actual level of volatility is found to outperform all other popular models tested. Analytic solutions for option prices on the VIX under the 3/2‐model are developed and then used to calibrate at‐the‐money market option prices.

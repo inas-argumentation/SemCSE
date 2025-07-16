@@ -1,0 +1,2 @@
+Determining the Global Progress of Parallel Simulation with FIFO Communication Property
+In an optimistic parallel simulation, the global progress (i.e., the global virtual time or GVT) must be computed from time to time. We present a simple and efficient algorithm for computing the GVT in a distributed environment with FIFO communication delays. The accuracy and the complexity of the algorithm are discussed.

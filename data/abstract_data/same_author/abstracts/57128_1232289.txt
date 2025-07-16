@@ -1,0 +1,2 @@
+Attack Strategies on Complex Networks
+In this work, we estimate the resilience of scale-free networks on a number of different attack methods. We study a number of different cases, where we assume that a small amount of knowledge on the network structure is available, or can be approximately estimated. We also present a class of real-life networks that prove to be very resilient on intentional attacks, or equivalently much more difficult to immunize completely than most model scale-free networks.

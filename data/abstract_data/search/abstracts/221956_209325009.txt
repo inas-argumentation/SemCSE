@@ -1,0 +1,2 @@
+Traceable and Fully Anonymous Attribute Based Group Signature Scheme with Verifier Local Revocation from Lattices
+Efficient user and attribute tracing is desirable in Attribute Based Group Signatures (ABGS) Tracing cost is high in ABGS schemes with verifier local revocation (VLR) as it requires to scan almost all the users and all the attributes of the identified user. Thus we propose a new lattice based VLR ABGS scheme that supports efficient user and attribute tracing.

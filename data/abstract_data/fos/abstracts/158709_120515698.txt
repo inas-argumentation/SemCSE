@@ -1,0 +1,2 @@
+The Estimation and Inference of a Panel Cointegration Model with a Time Trend
+This article investigates the asymptotic properties of coefficient estimators in the panel cointegration model with a time trend. We find that the bias of OLS estimator for the slope coefficient in the panel cointegration model with a time trend is distinct from that in the panel cointegration model without a time trend. Meanwhile, the variance of the limiting distribution for the slope coefficient is larger in the panel cointegration model with a time trend than without a time trend.

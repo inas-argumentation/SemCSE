@@ -1,0 +1,15 @@
+The effects of the long non-coding RNA MALAT-1 regulated autophagy-related signaling pathway on chemotherapy resistance in diffuse large B-cell lymphoma.
+OBJECTIVE
+Our study aimed to investigate the effects of the long non-coding RNA MALAT-1 (lncRNA MALAT-1) regulated autophagy-related signaling pathway on chemotherapy resistance in diffuse large B-cell lymphoma (DLBCL).
+
+
+METHODS
+Human normal B lymphocytes (IM-9I) and DLBCL cell lines (Farage, Pfeiffer, Raji, Daud, Ly1, Ly3, Ly8 and Ly10) were chosen for our experiment. qRT-PCR was applied to detect the expression of lncRNA MALAT-1 in each DLBCL cell line. Farage and Daud cells were induced to be drug-resistant using 0.05μg/ml Adriamycin. LncRNA MALAT-1 interfering stable transfected cell lines were constructed and cells were transfected with lentivirus. The cells were divided into the blank, siNC, and siRNA-MALAT-1 groups. CCK-8 assay, flow cytometry, and Transwell assay were performed to detect cell survival rate, cycle, apoptosis, and invasion, respectively. The autophagosome formation in each group was observed under a transmission electron microscope. Western blotting was used to detect the expressions of the autophagy-related proteins and genes. The in vivo drug sensitivity of the tumor was observed using a subcutaneous tumor xenograft model in nude mice.
+
+
+RESULTS
+The expression of lncRNA MALAT-1 in each DLBCL cell line was higher than in the IM-9 cells, with the Farage cells ranking highest (all P<0.05). When compared with the blank and the siNC groups, the siRNA-MALAT-1 group showed a decreased cell survival rate, an increased percentage of cells in G0/G1 phase, a decreased proportion of cells in S and G2/M phases, and a reduced number of migratory cell at each time point (all P<0.05). When compared with the blank and the siNC groups, the formation of autophagosomes, increased LC3-II/LC3-I expression, decreased p62 expression, and increased expression of the autophagy gene ATG5 were observed in the siRNA-MALAT-1 group at each time point (all P<0.05). Also, the siRNA-MALAT-1 group had a decreased tumor volume and weight in the subcutaneous tumor xenograft model in nude mice, and increased LC3-II/LC3-I expression but decreased p62 expression in tumor tissues when compared with the blank group and the siNC group (all P<0.05).
+
+
+CONCLUSION
+Our study provides evidence that inhibiting lncRNA MALAT-1 can improve the chemotherapy sensitivity of DLBCL by enhancing autophagy-related proteins.

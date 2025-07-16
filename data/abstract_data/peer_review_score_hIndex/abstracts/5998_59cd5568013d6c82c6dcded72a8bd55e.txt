@@ -1,0 +1,9 @@
+Improved robustness to adversarial examples using Lipschitz regularization of the loss
+We augment adversarial training (AT) with worst case adversarial training
+(WCAT) which improves adversarial robustness by 11% over the current state-
+of-the-art result in the `2-norm on CIFAR-10. We interpret adversarial training as
+Total Variation Regularization, which is a fundamental tool in mathematical im-
+age processing, and WCAT as Lipschitz regularization, which appears in Image
+Inpainting. We obtain verifiable worst and average case robustness guarantees,
+based on the expected and maximum values of the norm of the gradient of the
+loss.

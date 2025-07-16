@@ -1,0 +1,6 @@
+Offsetting surface boundaries and 3-axis gouge-free surface machining
+A key issue in the creation of error-free tool path for numerically controlled (NC) surface machining is gouging (over-cut) prevention. In the case of solid-based machining, where the creation of tool paths across several surfaces in a single pass is imperative, the major sources for gouging are the tangent discontinuity (C1 discontinuity) and the surface gap (C0 discontinuity) occurred in the constituent surfaces of the part model. C1 discontinuity is naturally identified in solid modeling as ‘edges’ and ‘vertices’. C0 discontinuity occurs, however, in the free edges of surfaces or from errors in surface definition. 
+ 
+In this paper, a system based on the offset/upper envelope concept is proposed for solving the C0 and C1 discontinuity in 3-axis multi-surface NC machining. Essentially, in addition to offsets of surfaces themselves, offsets are also defined for the boundary curves of these surfaces. By incorporating the upper enveloping operation on the intersection curves between the drive planes and the offsets, it is shown that the resulting tool paths have pleasant features of gouge free, smoothness, and minimal uncut area. 
+ 
+In addition, a detailed algorithmic description of the intersection between a drive plane and the offset of surface boundaries is also presented.

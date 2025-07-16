@@ -1,0 +1,15 @@
+Association Between Magnetic Resonance Imaging-Proton Density Fat Fraction and Liver Histology Features in Patients With Nonalcoholic Fatty Liver Disease or Nonalcoholic Steatohepatitis.
+BACKGROUND & AIMS
+Patients with nonalcoholic fatty liver disease (NAFLD) or nonalcoholic steatohepatitis (NASH) often require histologic assessment via liver biopsy. Magnetic resonance imaging (MRI)-based methods for measuring liver triglycerides based on proton density fat fraction (PDFF) are increasingly used as a noninvasive tool to identify patients with hepatic steatosis and to assess for change in liver fat over time. We aimed to determine whether MRI-PDFF accurately reflects a variety of liver histology features in patients with NAFLD or NASH.
+
+
+METHODS
+We performed a retrospective analysis of pooled data from 3 phase 2a trials of pharmacotherapies for NAFLD or NASH. We collected baseline clinical, laboratory, and histopathology data on all subjects who had undergone MRI analysis in 1 of the trials. We assessed the relationship between liver PDFF values and liver histologic findings using correlation and area under the receiver operating characteristic (AUROC) analyses. As an ancillary analysis, we also simulated a clinical trial selection process and calculated subject exclusion rates and differences in population characteristics caused by PDFF inclusion thresholds of 6% to 15%.
+
+
+RESULTS
+In 370 subjects, the mean baseline PDFF was 17.4% ± 8.6%. Baseline PDFF values correlated with several histopathology parameters, including steatosis grade (r = 0.78; P < .001), NAFLD activity score (NAS, r = 0.54; P < .001), and fibrosis stage (r = -0.59; P < .001). However, PDFF did not accurately identify patients with NAS ≥ 4 (AUROC = 0.72) or fibrosis stage ≥3 (AUROC = 0.66). In a theoretical trial of these subjects, exclusion rates increased as PDFF minimum threshold level increased. There were no significant differences in cohort demographics when PDFF thresholds ranging from 6% to 15% were used, and differences in laboratory and histopathology data were small.
+
+
+CONCLUSIONS
+In an analysis of patients with NAFLD or NASH, we determined that although The MRI-PDFF correlated with steatosis grade and NAS, and inversely with fibrosis stage, it was suboptimal in identification of patients with NAS >4 or advanced fibrosis. Although MRI-PDFF is an important imaging biomarker for continued evaluation of this patient population, liver biopsy analysis is still necessary.

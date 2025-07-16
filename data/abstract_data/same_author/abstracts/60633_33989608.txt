@@ -1,0 +1,4 @@
+Composing Contracts: An Adventure in Financial Engineering
+Financial and insurance contracts--options, derivatives, futures, and so on--do not sound like promising territory for functional programming and formal semantics. To our delight, however, we have discovered that insights from programming languages bear directly on the complex subject of describing and valuing a large class of contracts. In my talk I will introduce a combinator library that allows us to describe such contracts precisely, and a compositional denotational semantics that says what such contracts are worth. In fact, a wide range programming-language tools and concepts--denotatinoal semantics, equational reasoning, operational semantics, optimisation by transformation, and so on--turn out to be useful in this new setting. 
+ 
+Sleep easy, though; you do not need any prior knowledge of financial engineering to understand this talk!

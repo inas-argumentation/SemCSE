@@ -1,0 +1,15 @@
+A simulated model for fluid and tissue heating during pediatric laser lithotripsy.
+BACKGROUND
+Laser lithotripsy (LL) is a common modality for treatment of children and adolescents with nephrolithiasis. Recent introduction of higher-powered lasers may result in more efficacious "dusting" of urinary calculi. However, in vivo animal studies and computational simulations have demonstrated rapid and sustained rise of fluid temperatures with LL, possibly resulting in irreversible tissue damage. How fluid and tissue heating during LL vary with pediatric urinary tract development, however, is unknown. We hypothesize that kidneys of younger children will be more susceptible to changes in fluid temperature and therefore tissue damage than those of older children.
+
+
+METHODS
+Computational simulations were developed for LL in children utilizing COMSOL Multiphysics finite-element modeling software. Simulation parameters were varied, including the child's age (3, 8, and 12 years), flow of irrigation fluid (gravity - 5 mL/min or continuous pressure flow - 40 mL/min), treatment location (renal pelvis, ureter, calyx), and power settings (5 W - 40 W). Using a simplified axisymmetric geometry to represent the collecting space, the model accounted for heat transfer via diffusion, convection, perfusion, and heat sourcing as well as tissue properties and blood flow of the urothelium and renal parenchyma. Laminar and heat-induced convection flow were simulated, assuming room-temperature ureteroscopic irrigation. Renal size was varied by age, based on normative values. The maximum fluid temperature after 60 s of simulated LL was captured. Thermal dose was calculated using the t43 equivalence of 240 min as a threshold for tissue damage, as was tissue volume at risk for irreversible cellular damage.
+
+
+RESULTS
+Simulation with gravity flow irrigation revealed generation of thermal doses sufficient to cause tissue injury for all ages at 20 W and 40 W power settings. Higher temperatures were seen in younger ages across all power settings. Temperature increases were dampened with intermittent laser activity and continuous pressure flow irrigation.
+
+
+CONCLUSIONS
+Smaller renal size is more susceptible to thermal changes induced by LL. However, power settings equal to or greater than 20 W can result in temperatures high enough for tissue damage at any age. Continuous pressure flow and intermittent laser activity may mitigate the potential thermal damage from high power LL.

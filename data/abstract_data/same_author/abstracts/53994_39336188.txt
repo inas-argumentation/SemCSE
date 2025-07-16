@@ -1,0 +1,2 @@
+Local Strongly Arc-Connectivity in Regular Bipartite Digraphs
+We show that for any vertex x of a d-regular bipartite digraph there are a vertex y, in the other class of the bipartition, and d (x, y)-paths and d (y, x)-paths such that all 2d of them are pairwise arc-disjoint. This result generalizes a theorem of Hamidoune and Las Vergnas for graphs.

@@ -1,0 +1,2 @@
+DDA\Repository: An Associative, Dynamic and Incremental Repository of Design Diagrams
+This paper describes implementation of an online prototype that, on the one hand, offers interactive diagramming support to externalize thinking about design compositions and, on the other hand, acts also as an incremental repository of diagrams that can be dynamically interrogated to find other proximate compositional thinking and ideas related to a particular position. The prototype helps both notate design thinking and draw out associations between separately notated design compositions.

@@ -1,0 +1,2 @@
+Multi-port filtering system for lossless image compression
+In this paper, we propose general size ORT (overlapping rounding transform) which is defined as a multi-port filtering system with a pair of rounding operations. A cascaded version of the proposed ORT enables a number of multi-port filtering systems to be applied to lossless image compression. As a specific case, HINT (hierarchical interpolation) is considered. The computations of the previous HINT algorithms are unified and a new HINT is proposed.

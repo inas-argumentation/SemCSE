@@ -1,0 +1,2 @@
+A review of adaptive population sizing schemes in genetic algorithms
+This paper reviews the topic of population sizing in genetic algorithms. It starts by revisiting theoretical models which rely on a facetwise decomposition of genetic algorithms, and then moves on to various self-adjusting population sizing schemes that have been proposed in the literature. The paper ends with recommendations for those who design and compare adaptive population sizing schemes for genetic algorithms.

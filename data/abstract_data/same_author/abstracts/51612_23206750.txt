@@ -1,0 +1,2 @@
+A least deviation method to obtain a priority vector of a fuzzy preference relation
+Based on the transfer relationship between fuzzy preference relation and multiplicative preference relation, this paper proposes a least deviation method to obtain a priority vector of a fuzzy preference relation and studies its desirable properties. A simple convergent iterative algorithm is given and its practicality is shown by two numerical examples.

@@ -1,0 +1,12 @@
+Approximation Algorithms for Multi-Criteria Traveling Salesman Problems
+We analyze approximation algorithms for several variants of the traveling salesman problem with multiple objective functions. First, we consider the symmetric TSP (STSP) with γ-triangle inequality. For this problem, we present a deterministic polynomial-time algorithm that achieves an approximation ratio of 
+$\min\{1+\gamma,\frac{2\gamma^{2}}{2\gamma^{2}-2\gamma +1}\}+\varepsilon$ 
+and a randomized approximation algorithm that achieves a ratio of 
+$\frac{2\gamma^{3}+2\gamma^{2}}{3\gamma^{2}-2\gamma +1}+\varepsilon$
+. In particular, we obtain a 2+ε approximation for multi-criteria metric STSP.
+
+Then we show that multi-criteria cycle cover problems admit fully polynomial-time randomized approximation schemes. Based on these schemes, we present randomized approximation algorithms for STSP with γ-triangle inequality (ratio 
+$\frac{1+\gamma}{1+3\gamma -4\gamma^{2}}+\varepsilon$
+), asymmetric TSP (ATSP) with γ-triangle inequality (ratio 
+$\frac{1}{2}+ \frac{\gamma^{3}}{1-3\gamma^{2}}+\varepsilon$
+), STSP with weights one and two (ratio 4/3) and ATSP with weights one and two (ratio 3/2).

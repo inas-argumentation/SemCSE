@@ -1,0 +1,2 @@
+Design of Database Interface to ILP for Building Knowledge Base
+A modular apparatus for processing printed sheets that are output from a high speed printer of a card processing system. The modular apparatus is capable of buffering or storing the sheets that are in progress in the printer when the system is stopped or paused, flips them so that they face upward, folds the sheets if necessary, and reorientates the sheets so that all sheets exit the module in the same orientation for further processing by the next module.

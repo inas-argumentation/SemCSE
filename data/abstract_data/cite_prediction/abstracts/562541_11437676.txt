@@ -1,0 +1,2 @@
+Analysis of Classification Algorithms Applied to Hepatitis Patients
+This paper mainly deals with various classification algorithms namely, Bayes. NaiveBayes, Bayes. BayesNet, Bayes. NaiveBayesUpdatable, J48, Randomforest, and Multi Layer Perceptron. It analyzes the hepatitis patients from the UC Irvine machine learning repository. The results of the classification model are accuracy and time. Finally, it concludes that the Naive Bayes performance is better than other classification techniques for hepatitis patients.

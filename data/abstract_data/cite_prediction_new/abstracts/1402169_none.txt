@@ -1,0 +1,7 @@
+On the Tightening of the Standard SDP for Vertex Cover with $ell_1$ Inequalities
+We show that the integrality gap of the standard SDP for \vc~on instances of $n$ vertices remains $2-o(1)$ even after 
+the addition of \emph{all} hypermetric inequalities. Our lower bound requires new insights into the structure of SDP 
+solutions behaving like $\ell_1$ metric spaces when one point is removed. We also show that the addition of all 
+$\ell_1$ inequalities eliminates any solutions that are not convex combination of integral solutions. Consequently, we 
+provide the strongest possible separation between hypermetrics and $\ell_1$ inequalities with respect to the 
+tightening of the standard SDP for \vc.

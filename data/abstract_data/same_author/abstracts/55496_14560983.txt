@@ -1,0 +1,2 @@
+Lower bounds for hot-potato permutation routing on trees
+In this paper we consider hot-potato packet routing on trees. As a lower bound, for all sufficiently largen we construct a permutation routing problem on an n-node tree for which an oblivious greedy hot-potato algorithm requires at least 2n o n time steps. This lower bound is also valid for the minimumdistance heuristic. Applying the charging argument of Borodin et al. [8] we establish that any greedy hot-potato algorithm routes a permutation on a tree within 2 n 1 steps.

@@ -1,0 +1,2 @@
+The ABDADA Distributed Minimax Search Algorithm
+This paper presents a new method to parsllelize the minimax tree search algorithm. This method is then compared to the “Young Brother Wait Concept” algorithm in an Othello program implementation and in a Chess program. Results of tests done on a 32-node CM5 and a 12%node CRAY T3D computers are given.

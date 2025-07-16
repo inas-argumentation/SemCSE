@@ -1,0 +1,7 @@
+Improving molecular cancer class discovery through sparse non-negative matrix factorization
+MOTIVATION
+Identifying different cancer classes or subclasses with similar morphological appearances presents a challenging problem and has important implication in cancer diagnosis and treatment. Clustering based on gene-expression data has been shown to be a powerful method in cancer class discovery. Non-negative matrix factorization is one such method and was shown to be advantageous over other clustering techniques, such as hierarchical clustering or self-organizing maps. In this paper, we investigate the benefit of explicitly enforcing sparseness in the factorization process.
+
+
+RESULTS
+We report an improved unsupervised method for cancer classification by the use of gene-expression profile via sparse non-negative matrix factorization. We demonstrate the improvement by direct comparison with classic non-negative matrix factorization on the three well-studied datasets. In addition, we illustrate how to identify a small subset of co-expressed genes that may be directly involved in cancer.

@@ -1,0 +1,2 @@
+Experimental comparison of observers for tool position estimation of industrial robots
+This paper investigates methods for tool position estimation of industrial robots. It is assumed that the motor angular position and the tool acceleration are measured. The considered observers are different versions of the extended Kalman filter as well as a deterministic observer. A method for tuning the observers is suggested and the robustness of the methods is investigated. The observers are evaluated experimentally on a commercial industrial robot.

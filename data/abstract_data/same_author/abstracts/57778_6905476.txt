@@ -1,0 +1,2 @@
+A new graph triconnectivity algorithm and its parallelization
+We present a new algorithm for finding the triconnected components of an undirected graph. The algorithm is based on a method of searching graphs called ‘open ear decomposition’. A parallel implementation of the algorithm on a CRCW PRAM runs inO(log2n) parallel time usingO(n+m) processors, wheren is the number of vertices andm is the number of edges in the graph.

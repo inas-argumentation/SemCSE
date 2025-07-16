@@ -1,0 +1,7 @@
+Multi-Scale Modeling of Solid Oxide Fuel Cells: From Patterned Anodes to a Power Plant System
+Methods of mathematical modeling and numerical simulation of 
+solid oxide fuel cells (SOFCs) are increasingly being used as tool 
+to understand and optimize both, fundamental electrochemical 
+properties and technological applications. The goal of modeling 
+activities is to identify critical components and processes 
+responsible for cell and system performance, lifetime and cost. We present a multi-scale and multi-physics modeling and simulation methodology that covers (i) elementary kinetics on the surfaces, (ii) properties of porous electrodes, (iii) mass, charge and heat transport of cells and stack repeat elements, and (iv) system integration with balance-of-plant components. The coupling over the various scales is realized via tailored simulation programs and software interfaces. Various examples are given. The activities demonstrate the viability of a multi-scale and multi-physics modeling approach for both, understanding fundamental processes and supporting application design of SOFCs.

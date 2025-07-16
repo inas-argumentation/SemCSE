@@ -1,0 +1,2 @@
+Make search become the internal function of Internet
+Domain Resource Integrated System (DRIS) is introduced in this paper. DRIS is a distributed information retrieval system, which will solve problems like poor coverage, long update interval in current web search system. The most distinct character of DRIS is that it's a public opening system, and acts as an internal component of Internet, but not the production of a company. The implementation of DRIS is also represented.

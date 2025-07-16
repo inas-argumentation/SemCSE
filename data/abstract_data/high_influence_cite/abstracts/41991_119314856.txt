@@ -1,0 +1,2 @@
+A Martingale approach to metastability
+We presented in Beltrán and Landim ( J Stat Phys 140:1065–1114, 2010) Beltrán and Landim (J Stat Phys 149:598–618, 2012) an approach to derive the metastable behavior of continuous-time Markov chains. We assumed in these articles that the Markov chains visit points in the time scale in which it jumps among the metastable sets. We replace this condition here by assumptions on the mixing times and on the relaxation times of the chains reflected at the boundary of the metastable sets.

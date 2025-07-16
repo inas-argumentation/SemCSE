@@ -1,0 +1,5 @@
+Beating the random assignment on constraint satisfaction problems of bounded degree
+We show that for any odd k and any instance I of the max-kXOR constraint satisfaction problem, there is an efficient algorithm that finds an assignment satisfying at least a 1/2 + Omega(1/sqrt(D)) fraction of I's constraints, where D is a bound on the number of constraints that each variable occurs in. 
+This improves both qualitatively and quantitatively on the recent work of Farhi, Goldstone, and Gutmann (2014), which gave a quantum algorithm to find an assignment satisfying a 1/2 Omega(D^{-3/4}) fraction of the equations. 
+ 
+For arbitrary constraint satisfaction problems, we give a similar result for "triangle-free" instances; i.e., an efficient algorithm that finds an assignment satisfying at least a mu + Omega(1/sqrt(degree)) fraction of constraints, where mu is the fraction that would be satisfied by a uniformly random assignment.

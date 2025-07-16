@@ -1,0 +1,2 @@
+A Language Modeling Approach to Passage Question Answering
+This paper reports our efforts on developing a language modeling approach to passage question answering. In particular, we address the following two problems: (i) generalized language modeling for question classification; (ii) constrained language modeling for passage retrieval.

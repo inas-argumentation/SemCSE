@@ -1,0 +1,2 @@
+Converting PDF to HTML approach based on text detection
+Converting PDF document to HTML document with the same layout format is a very important and interesting research problem. After the conversion, it is easy for PDF document to be browsed online and information extracted. Based on the extraction result of the PDF document of the open source tool PDFBox, the paper described a method that can detect the layout information of the PDF document and convert the PDF document to HTML page effectively.

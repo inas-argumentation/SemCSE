@@ -1,0 +1,7 @@
+ESPD: a pattern detection model underlying gene expression profiles
+MOTIVATION
+DNA arrays permit rapid, large-scale screening for patterns of gene expression and simultaneously yield the expression levels of thousands of genes for samples. The number of samples is usually limited, and such datasets are very sparse in high-dimensional gene space. Furthermore, most of the genes collected may not necessarily be of interest and uncertainty about which genes are relevant makes it difficult to construct an informative gene space. Unsupervised empirical sample pattern discovery and informative genes identification of such sparse high-dimensional datasets present interesting but challenging problems.
+
+
+RESULTS
+A new model called empirical sample pattern detection (ESPD) is proposed to delineate pattern quality with informative genes. By integrating statistical metrics, data mining and machine learning techniques, this model dynamically measures and manipulates the relationship between samples and genes while conducting an iterative detection of informative space and the empirical pattern. The performance of the proposed method with various array datasets is illustrated.

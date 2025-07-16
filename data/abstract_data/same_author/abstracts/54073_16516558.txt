@@ -1,0 +1,15 @@
+Design and implementation of a CORBA-based genome mapping system prototype
+MOTIVATION
+CORBA (Common Object Request Broker Architecture), as an open standard, is considered to be a good solution for the development and deployment of applications in distributed heterogeneous environments. This technology can be applied in the bioinformatics area to enhance utilization, management and interoperation between biological resources.
+
+
+RESULTS
+This paper investigates issues in developing CORBA applications for genome mapping information systems in the Internet environment with emphasis on database connectivity and graphical user interfaces. The design and implementation of a CORBA prototype for an animal genome mapping database are described.
+
+
+AVAILABILITY
+The prototype demonstration is available via: http://www.ri.bbsrc.ac.uk/ark_corba/.
+
+
+CONTACT
+jian.hu@bbsrc.ac.uk

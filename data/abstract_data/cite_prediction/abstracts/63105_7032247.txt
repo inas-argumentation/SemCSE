@@ -1,0 +1,2 @@
+Correctly Rounded Arbitrary-Precision Floating-Point Summation
+We present a fast algorithm together with its low-level implementation of correctly rounded arbitrary-precision floating-point summation. The arithmetic is the one used by the GNU MPFR library: radix 2; no subnormals; each variable (each input and the output) has its own precision. We also give a worst-case complexity of this algorithm and describe how the implementation is tested.

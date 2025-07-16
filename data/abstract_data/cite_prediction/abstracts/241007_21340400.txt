@@ -1,0 +1,2 @@
+Optimal Power Flow by Black Hole Optimization Algorithm
+In this paper, a black hole optimization algorithm (BH) is utilized to solve the optimal power flow problem considering the generation fuel cost, reduction of voltage deviation and improvement of voltage stability as an objective functions. The black hole algorithm simulate the black hole phenomenon which relay on tow operations, the star absorption and star sucking. The IEEE 30-Bus and IEEE 57-Bus systems are used to illustrate performance of the proposed algorithm and results are compared with those in literatures.

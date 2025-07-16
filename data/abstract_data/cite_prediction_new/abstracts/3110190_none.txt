@@ -1,0 +1,6 @@
+New CMOS current mirrors with improved high-frequency response
+A new CMOS current mirror is presented which has the static characteristic of the cascode current mirror and a high-frequency performance equivalent to or better than that of the simple current mirror. Moreover, the circuit proposed does not present the instability problem of the improved cascode utilized to increase the high-frequency response. 
+ 
+ 
+ 
+The circuit is designed using CMOS 2 μm technology with various aspect ratios and simulated with the SPICE programme.

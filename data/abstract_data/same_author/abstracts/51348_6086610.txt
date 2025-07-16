@@ -1,0 +1,2 @@
+Security for fixed sensor networks
+Sensor networks consist of resource-constrained sensors operating in a variety of environments. Given the severe constraints on these sensors, it is a particularly challenging problem to choose and design valid security protocols for such networks. This problem has recently given rise to new research addressing the security issues. This paper presents an overview of the important works, specifically the new mechanisms and protocols, which have been introduced or are still under development in this area.

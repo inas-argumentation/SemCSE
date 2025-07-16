@@ -1,0 +1,2 @@
+iWatcher: simple, general architectural support for software debugging
+We propose Intelligent Watcher (iWatcher), a combination of hardware and software support that can detect large variations of software bugs with only modest hardware changes to current processor implementations. iWatcher lets programmers associate specified functions to "watched" memory locations or objects. Access to any such location automatically triggers the monitoring function in the hardware. Relative to other approaches, iWatcher detects many real bugs at a fraction of the execution-time overhead

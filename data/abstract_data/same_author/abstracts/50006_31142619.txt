@@ -1,0 +1,2 @@
+Compilation approach for coarse-grained reconfigurable architectures
+Coarse-grained reconfigurable architectures can enhance the performance of critical loops and computation-intensive functions. Such architectures need efficient compilation techniques to map algorithms onto customized architectural configurations. A new compilation approach uses a generic reconfigurable architecture to tackle the memory bottleneck that typically limits the performance of many applications.

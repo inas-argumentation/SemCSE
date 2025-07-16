@@ -1,0 +1,2 @@
+Design of a novel simply structured mixed-sensitivity loop-shaping robust controller for a gas-turbine
+A previously developed technique for the design of simply structured robust controllers. This is robust in the sense of meeting some given singular value constraint. This is extended to deal with the mixed-sensitivity case. The method presented uses the Gershgorin disks of the system and can result in relatively simple controllers. The method is illustrated by application to the control of an aircraft gas-turbine engine.

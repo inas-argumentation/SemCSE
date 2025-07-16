@@ -1,0 +1,2 @@
+A regularization of the hamiltonian constraint compatible with the spinfoam dynamics
+We introduce a new regularization for Thiemann's Hamiltonian constraint. The resulting constraint can generate the 1-4 Pachner moves and is therefore more compatible with the dynamics defined by the spinfoam formalism. We calculate its matrix elements and observe the appearance of the 15j Wigner symbol in these.

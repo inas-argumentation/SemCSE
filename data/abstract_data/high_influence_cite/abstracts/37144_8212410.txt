@@ -1,0 +1,2 @@
+Indexed Predicate Discovery for Unbounded System Verification
+Predicate abstraction has been proved effective for verifying several infinite-state systems. In predicate abstraction, an abstract system is automatically constructed given a set of predicates. Predicate abstraction coupled with automatic predicate discovery provides for a completely automatic verification scheme. For systems with unbounded integer state variables (e.g. software), counterexample guided predicate discovery has been successful in identifying the necessary predicates.

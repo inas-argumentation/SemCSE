@@ -1,0 +1,2 @@
+Discovering Commonsense Entailment Rules Implicit in Sentences
+Reasoning about ordinary human situations and activities requires the availability of diverse types of knowledge, including expectations about the probable results of actions and the lexical entailments for many predicates. We describe initial work to acquire such a collection of conditional (if--then) knowledge by exploiting presuppositional discourse patterns (such as ones involving 'but', 'yet', and 'hoping to') and abstracting the matched material into general rules.

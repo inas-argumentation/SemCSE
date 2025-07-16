@@ -1,0 +1,2 @@
+Beam profile monitor based on image processing technology
+An introduction was given to beam profile monitoring system based on image acquisition facilities using fluorescent target. The method of data processing and image intensification was emphasized in the paper. On the bases of this research, a software system was designed to realize image data acquisition, data processing and real-time measuring of ion beam parameters. The software system has good reliability, visual display and friendly interface.

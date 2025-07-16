@@ -1,0 +1,2 @@
+A better FFT bit-reversal algorithm without tables
+The bit-reversal counteralgorithm of B. Gold and C.M. Radar (1969) bit reverses a continuous sequence of N numbers by running a loop N -1 times. The heuristic approach presented repeats a similar loop only N/4 times. >

@@ -1,0 +1,2 @@
+A comparison of transient velocity overshoot in Si and GaAs structures
+The authors have used a self-consistent Monte Carlo simulation to investigate the effect of high currents on the base-collector region of a heterostructure bipolar transistor. By considering identical device structures in Si and GaAs they are able to show that an accurate description of carrier response to field is necessary in order to obtain the correct interdependence of velocity overshoot, field configuration and self-consistent effects.

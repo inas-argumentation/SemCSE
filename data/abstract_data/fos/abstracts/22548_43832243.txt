@@ -1,0 +1,15 @@
+SU-D-217BCD-01: Corrupted DICOM Image Recovering: A Clinical Experience.
+PURPOSE
+Colored DICOM secondary capture images generated from CT perfusion studies were corrupted if they were sent directly from a Siemens acquisition workstation to a GE viewing workstation. However, those images were properly displayed in the GE viewing workstation if they were transferred through a GE PACS first. The purpose of this work is to investigate the cause of image corruption and determine why passing through PACS corrected it.
+
+
+METHODS
+DICOM headers of corrupted and non-corrupted (sent through the PACS) images were compared with a free DICOM software tool (http://DVTK.org); the differences were highlighted. Certain header tags were found in non-corrupted images, but not in corrupted images. These tags were sequentially removed until the non- corrupted image became corrupted. Once a candidate tag was found, fresh corrupt images were modified by adding a 'repair' tag and tested.
+
+
+RESULTS
+It was found that the absence of Planar Configuration (0028, 0006) is the cause of image corruption. This attribute is used in the DICOM color image to specify whether the color pixel data are sent color-by-plane or color-by- pixel and should be present if the Sample per Pixel (0028, 0002) tag has a value greater than 1. In our DICOM color images, the values of (0028, 0002) and Photometric Interpretation (0028, 0004) are 3 and RGB, respectively. Thus (0028, 0006) should equal 0 (color-by-pixel), which is used for uncompressed or lossless compressed transfer syntaxes. Adding this tag and setting the value to zero manually repaired corrupt images.
+
+
+CONCLUSIONS
+Using open source DICOM tools and following the described process can be a valuable ally in the search for causes of image corruption. Comparing the headers and finding the handful of different tags rapidly led to an explanation that could be used by the vendor for a permanent fix.

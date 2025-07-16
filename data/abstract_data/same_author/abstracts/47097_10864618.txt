@@ -1,0 +1,2 @@
+Stability of persistence diagrams
+The persistence diagram of a real-valued function on a topological space is a multiset of points in the extended plane. We prove that under mild assumptions on the function, the persistence diagram is stable: small changes in the function imply only small changes in the diagram. We apply this result to estimating the homology of sets in a metric space and to comparing and classifying geometric shapes.
