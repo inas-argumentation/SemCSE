@@ -33,17 +33,17 @@ The benchmark contains four tasks:
 | SciNCL                  | 109M   | 5.68             | 7.35                 | 2.29    | 0.702         | 0.357    |
 | SPECTER2 (base)         | 109M   | 4.52             | 5.10                 | 1.17    | 0.666         | 0.553    |
 | SPECTER2 (proximity)    | 110M   | 5.34             | 5.80                 | 1.46    | 0.666         | 0.395    |
-| all-MiniLM-L6-v2        | 22M    | *3.09*           | 8.19                 | 1.11    | *0.730*       | 0.771    |
+| all-MiniLM-L6-v2        | 22M    | <ins>3.09</ins>           | 8.19                 | 1.11    | <ins>0.730</ins>       | 0.771    |
 | Jina-v2                 | 137M   | 3.29             | 8.77                 | 1.29    | 0.703         | 0.600    |
 | Jina-v3                 | 572M   | 3.45             | 6.96                 | **1.01**| 0.719         | 0.783    |
 | RoBERTa SimCSE          | 355M   | 23.71            | 44.24                | 8.92    | 0.696         | 0.116    |
-| NvEmbed-V2              | 7.9B   | 3.38             | *3.84*               | *1.02*  | 0.721         | *0.866*  |
+| NvEmbed-V2              | 7.9B   | 3.38             | <ins>3.84</ins>               | <ins>1.02</ins>  | 0.721         | <ins>0.866</ins>  |
 | **SemCSE (Ours)**       | 183M   | **2.47**         | **2.68**             | 1.23    | **0.739**     | **0.925**|
 
 **Notes:**
 
 - **Bold** = Best result  
-- *Italic* = Second-best result  
+- <ins>Underlined</ins> = Second-best result  
 - ↓ = Lower is better (ranking-based tasks)  
 - ↑ = Higher is better (clustering and overall performance)
 
@@ -64,20 +64,20 @@ SemCSE achieves state-of-the-art results on our Semantic Embedding Benchmark, as
 | SciBERT | 109M | 63.86 | 27.34 | 66.25 | 68.19 | 57.42 |
 | SciDeBERTa | 183M | 60.99 | 27.00 | 62.74 | 67.83 | 55.18 |
 | SPECTER | 109M | 67.73 | 25.37 | 80.05 | 74.89 | 64.28 |
-| SciNCL | 109M | *68.04* | 25.22 | *81.18* | 77.32 | 65.08 |
-| SPECTER2 base | 109M | 66.95 | *27.75* | 81.10 | 78.42 | 65.46 |
+| SciNCL | 109M | <ins>68.04</ins> | 25.22 | <ins>81.18</ins> | 77.32 | 65.08 |
+| SPECTER2 base | 109M | 66.95 | <ins>27.75</ins> | 81.10 | 78.42 | 65.46 |
 | SPECTER2 proximity | 110M | 66.37 | 26.85 | **81.41** | 77.75 | 65.15 |
 | all-MiniLM-L6-v2 | 22M | 64.04 | 20.06 | 80.74 | 79.63 | 63.05 |
 | jina-v2 | 137M | 63.99 | 23.76 | 80.11 | 80.40 | 63.69 |
-| jina-v3 | 572M | 65.66 | 24.84 | 79.98 | *80.60* | 64.34 |
+| jina-v3 | 572M | 65.66 | 24.84 | 79.98 | <ins>80.60</ins> | 64.34 |
 | RoBERTa SimCSE | 355M | 67.16 | 22.95 | 75.51 | 76.97 | 62.10 |
 | NvEmbed-V2 | 7.9B | 65.62 | **29.94** | 81.16 | **82.84** | **66.19** |
-| **SemCSE (Ours)** | 183M | **69.52** | 27.58 | 80.21 | 78.56 | *65.76* |
+| **SemCSE (Ours)** | 183M | **69.52** | 27.58 | 80.21 | 78.56 | <ins>65.76</ins> |
 
 **Notes:**
 
 - **Bold** = Best result
-- *Italic* = Second-best result
+- <ins>Underlined</ins> = Second-best result
 - ↑ = Higher is better
 
 ### Citation
