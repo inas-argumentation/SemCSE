@@ -1,6 +1,21 @@
 ### This is the official code repository for the paper:
 ## SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts
 
+To use our SemCSE embedding model:
+
+```
+from transformers import AutoTokenizer, AutoModel
+
+# Our model that uses Euclidean distance
+tokenizer = AutoTokenizer.from_pretrained("CLAUSE-Bielefeld/SemCSE")
+model = AutoModel.from_pretrained("CLAUSE-Bielefeld/SemCSE")
+
+# Our model that uses cosine similarity
+tokenizer = AutoTokenizer.from_pretrained("CLAUSE-Bielefeld/SemCSE_cosine")
+model = AutoModel.from_pretrained("CLAUSE-Bielefeld/SemCSE_cosine")
+```
+
+
 To train your own SemCSE model and directly evaluate it on our newly created semantic benchmark, simply run `main.py`. The few lines of code contained in it should be largely self-explanatory.
 
 ### Repository Structure
