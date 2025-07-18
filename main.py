@@ -34,6 +34,6 @@ def test_SemCSE_cosine():
 
 
 if __name__ == '__main__':
-    #train_SemCSE()
-    test_SemCSE_Euclidean()
-    test_SemCSE_cosine()
+    train_SemCSE()
+    #test_SemCSE_Euclidean()
+    #test_SemCSE_cosine()
