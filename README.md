@@ -1,5 +1,8 @@
 ### This is the official code repository for the paper:
-## SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts
+## SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts ([Link](https://arxiv.org/abs/2507.13105))
+
+We propose SemCSE, a novel embedding model for scientific abstracts and sentences in general, usable for clustering, retrieval, and many other embedding-related applications.
+The novelty of our approach is the focus on embeddings that accurately reflect the semantics of the paper, which was lacking for many existing approaches that were trained using citation information.
 
 To use our SemCSE embedding model:
 
@@ -14,7 +17,6 @@ model = AutoModel.from_pretrained("CLAUSE-Bielefeld/SemCSE")
 tokenizer = AutoTokenizer.from_pretrained("CLAUSE-Bielefeld/SemCSE_cosine")
 model = AutoModel.from_pretrained("CLAUSE-Bielefeld/SemCSE_cosine")
 ```
-
 
 To train your own SemCSE model and directly evaluate it on our newly created semantic benchmark, simply run `main.py`. The few lines of code contained in it should be largely self-explanatory.
 
@@ -37,6 +39,8 @@ The benchmark contains four tasks:
 - *Abstract Segmentation Consistency*: Match two halves of the same abstract. Both parts represent the same core content, and strong semantic embeddings should reflect that.
 - *Query Matching*: Match a paper to a search query generated from it using a large language model (Mistral 3.1 small).
 - *Semantic Clustering*: Given papers with thematic labels (from SciDocs MAG), retrieve nearest neighbors and measure how well the embedding space groups semantically similar papers.
+
+For details, please check out [our paper](https://arxiv.org/abs/2507.13105).
 
 ### 📊 Semantic Benchmark Results
 
@@ -96,5 +100,14 @@ SemCSE achieves state-of-the-art results on our Semantic Embedding Benchmark, as
 - ↑ = Higher is better
 
 ### Citation
-
-Will be added shortly.
+```bibtex
+@misc{brinner2025semcsesemanticcontrastivesentence,
+      title={SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts}, 
+      author={Marc Brinner and Sina Zarriess},
+      year={2025},
+      eprint={2507.13105},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.13105}, 
+}
+```
